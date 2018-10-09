@@ -6,10 +6,12 @@ This [uBO](https://github.com/gorhill/uBlock/)-compatible filter list is based o
 
 Filter is updated once a day.
 
-Click the link to subscribe to this filter:
-[abp:subscribe?location=https://gitlab.com/curben/urlhaus/raw/master/urlhaus-filter.txt&amp;title=abuse.ch URLhaus Malicious URL Blocklist](abp%3Asubscribe%3Flocation%3Dhttps%3A%2F%2Fgitlab.com%2Fcurben%2Furlhaus%2Fraw%2Fmaster%2Furlhaus-filter.txt%26amp%3Btitle%3Dabuse.ch%20URLhaus%20Malicious%20URL%20Blocklist)
+Click the following link to subscribe to this filter:
 
-Or import the following URL into uBO:
+<a href="abp%3Asubscribe%3Flocation%3Dhttps%3A%2F%2Fgitlab.com%2Fcurben%2Furlhaus%2Fraw%2Fmaster%2Furlhaus-filter.txt%26amp%3Btitle%3Dabuse.ch%20URLhaus%20Malicious%20URL%20Blocklist">abuse.ch URLhaus Malicious URL Blocklist</a>
+
+Or import the following URL:
+
 https://gitlab.com/curben/urlhaus/raw/master/urlhaus-filter.txt
 
 ## Description
