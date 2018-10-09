@@ -1,0 +1,46 @@
+image: alpine:latest # Use latest version of Alpine Linux docker image
+
+before_script:
+  # Install dependencies
+  - 'which ssh-agent || ( apk update && apk add openssh-client git wget)'
+
+  # Run ssh-agent
+  - eval $(ssh-agent -s)
+
+  # Import private key with ed25519 workaround
+  - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+
+  # Create the SSH directory and give it the right permissions
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+
+  # Add gitlab.com as ssh known host
+  - ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
+  - chmod 644 ~/.ssh/known_hosts
+
+  # Set commit author
+  - git config --global user.name "curben via GitLab Runner"
+  - git config --global user.email "curben@users.noreply.gitlab.com"
+
+deploy:
+  script:
+    # SSH to gitlab.com
+    - ssh git@gitlab.com
+
+    # Shallow cloning for faster cloning
+    - git clone --depth 3 git@gitlab.com:curben/urlhaus.git build
+
+    # Change to the downloaded repo directory
+    - cd build
+
+    # Download database dump and process it
+    - bash script.sh
+
+    # Commit the changes
+    - bash commit.sh
+
+    # Push the commit
+    - git push
+
+  only:
+    - schedules
