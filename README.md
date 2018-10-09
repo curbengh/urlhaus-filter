@@ -6,19 +6,16 @@ This [uBO](https://github.com/gorhill/uBlock/)-compatible filter list is based o
 
 Filter is updated once a day.
 
-Click the following link to subscribe to this filter:
-
-<a href="abp%3Asubscribe%3Flocation%3Dhttps%3A%2F%2Fgitlab.com%2Fcurben%2Furlhaus%2Fraw%2Fmaster%2Furlhaus-filter.txt%26amp%3Btitle%3Dabuse.ch%20URLhaus%20Malicious%20URL%20Blocklist">abuse.ch URLhaus Malicious URL Blocklist</a>
-
-Or import the following URL:
+Import the following URL into uBO to subcribe:
 
 https://gitlab.com/curben/urlhaus/raw/master/urlhaus-filter.txt
 
 ## Description
 
 Following URL categories are removed from the database dump:
-* Offline URL
-* Well-known host or false positives (see [exclude.txt](exclude.txt))
+
+- Offline URL
+- Well-known host or false positives (see [exclude.txt](exclude.txt))
 
 Database dump is saved as URLhaus.csv, processed by script.sh and output as urlhaus-filter.txt.
 
