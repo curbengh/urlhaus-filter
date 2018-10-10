@@ -34,7 +34,10 @@ deploy:
     - cd build
 
     # Give execute permission to scripts
-    - chmod 700 script.sh commit.sh
+    - chmod 700 umbrella-top-1m.sh script.sh commit.sh
+
+    # Download Umbrella Popularity List
+    - ./umbrella-top-1m.sh
 
     # Download database dump and process it
     - ./script.sh

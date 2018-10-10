@@ -13,7 +13,7 @@ COMMENT="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE"
 # Download the database dump
 wget https://urlhaus.abuse.ch/downloads/csv/ -O URLhaus.csv
 
-# Parse domain name and IP address only
+# Parse domains and IP address only
 cat URLhaus.csv | \
 grep '"online"' | \
 cut -f 6 -d '"' | \
@@ -21,6 +21,8 @@ cut -f 3 -d '/' | \
 cut -f 1 -d ':' | \
 # Sort and remove duplicates
 sort -u | \
+# Exclude Umbrella Top 1M
+grep -vf top-1m.txt | \
 # Exclude false positive
 grep -vf exclude.txt | \
 # Append header comment to the filter list
