@@ -17,7 +17,7 @@ Following URL categories are removed from the database dump:
 - Offline URL
 - Well-known host or false positives (see [exclude.txt](exclude.txt))
 
-Database dump is saved as URLhaus.csv, processed by script.sh and output as urlhaus-filter.txt.
+Database dump is saved as [URLhaus.csv](URLhaus.csv), processed by [script.sh](script.sh) and output as [urlhaus-filter.txt](urlhaus-filter.txt).
 
 ## Note
 
