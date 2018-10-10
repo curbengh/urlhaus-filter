@@ -2,7 +2,7 @@ image: alpine:latest # Use latest version of Alpine Linux docker image
 
 before_script:
   # Install dependencies
-  - 'which ssh-agent || ( apk update && apk add openssh-client git wget unzip)'
+  - 'which ssh-agent || ( apk update && apk add openssh-client git wget)'
 
   # Run ssh-agent
   - eval $(ssh-agent -s)
