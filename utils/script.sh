@@ -11,7 +11,7 @@ FIFTH_LINE="! Source: https://urlhaus.abuse.ch/api/"
 COMMENT="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE"
 
 # Download the database dump
-wget https://urlhaus.abuse.ch/downloads/csv/ -O URLhaus.csv
+wget https://urlhaus.abuse.ch/downloads/csv/ -O ../src/URLhaus.csv
 
 # Parse domains and IP address only
 cat URLhaus.csv | \
@@ -22,8 +22,8 @@ cut -f 1 -d ':' | \
 # Sort and remove duplicates
 sort -u | \
 # Exclude Umbrella Top 1M
-grep -vf top-1m.txt | \
+grep -vf ../src/top-1m.txt | \
 # Exclude false positive
-grep -vf exclude.txt | \
+grep -vf ../src/exclude.txt | \
 # Append header comment to the filter list
-sed '1 i\'"$COMMENT"'' > urlhaus-filter.txt
+sed '1 i\'"$COMMENT"'' > ../urlhaus-filter.txt

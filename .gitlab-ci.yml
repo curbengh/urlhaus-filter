@@ -34,6 +34,7 @@ deploy:
     - cd build
 
     # Give execute permission to scripts
+    - cd src/
     - chmod 700 umbrella-top-1m.sh script.sh commit.sh
 
     # Download Umbrella Popularity List
@@ -46,6 +47,7 @@ deploy:
     - ./commit.sh
 
     # Push the commit
+    - cd ../
     - git push
 
   only:

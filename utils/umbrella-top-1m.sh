@@ -9,4 +9,4 @@ wget -O- http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip | \
 # Unzip 
 funzip | \
 # Parse domains only
-cut -f 2 -d ',' > top-1m.txt
+cut -f 2 -d ',' > ../src/top-1m.txt
