@@ -28,7 +28,7 @@ deploy:
     - ssh git@gitlab.com
 
     # Shallow cloning for faster cloning
-    - git clone --depth 3 git@gitlab.com:curben/urlhaus.git build
+    - git clone --depth 3 git@gitlab.com:curben/urlhaus-filter.git build
 
     # Change to the downloaded repo directory
     - cd build
