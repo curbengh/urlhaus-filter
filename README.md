@@ -14,10 +14,11 @@ https://gitlab.com/curben/urlhaus/raw/master/urlhaus-filter.txt
 
 Following URL categories are removed from the database dump:
 
-- Offline URL
-- Well-known host ([top-1m.txt](src/top-1m.txt)) or false positives ([exclude.txt](src/exclude.txt))
+- Offline URLs
+- Well-known domains ([top-1m.txt](src/top-1m.txt)) (using [Umbrella Popularity List](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html))
+- False positives ([exclude.txt](src/exclude.txt))
 
-Database dump is saved as [src/URLhaus.csv](URLhaus.csv), processed by [script.sh](utils/script.sh) and output as [urlhaus-filter.txt](urlhaus-filter.txt).
+Database dump is saved as [URLhaus.csv](src/URLhaus.csv), get processed by [script.sh](utils/script.sh) and output as [urlhaus-filter.txt](urlhaus-filter.txt).
 
 ## Note
 
