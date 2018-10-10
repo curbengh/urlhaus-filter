@@ -31,10 +31,10 @@ deploy:
     - git clone --depth 3 git@gitlab.com:curben/urlhaus-filter.git build
 
     # Change to the downloaded repo directory
-    - cd build
+    - cd build/
 
     # Give execute permission to scripts
-    - cd src/
+    - cd utils/
     - chmod 700 umbrella-top-1m.sh script.sh commit.sh
 
     # Download Umbrella Popularity List
