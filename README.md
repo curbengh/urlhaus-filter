@@ -4,7 +4,7 @@ This [uBO](https://github.com/gorhill/uBlock/)-compatible filter list is based o
 
 ## Subscribe
 
-Filter is updated once a day.
+Filter is updated twice a day.
 
 Import the following URL into uBO to subcribe:
 

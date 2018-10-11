@@ -5,9 +5,10 @@
 CURRENT_TIME="$(date -R -u)"
 FIRST_LINE="! Title: abuse.ch URLhaus Malicious URL Blocklist"
 SECOND_LINE="! Updated: $CURRENT_TIME"
-THIRD_LINE="! Repo: https://gitlab.com/curben/urlhaus"
-FOURTH_LINE="! License: https://creativecommons.org/publicdomain/zero/1.0/"
-FIFTH_LINE="! Source: https://urlhaus.abuse.ch/api/"
+THIRD_LINE="! Expires: 1 day (update frequency)"
+FOURTH_LINE="! Repo: https://gitlab.com/curben/urlhaus"
+FIFTH_LINE="! License: https://creativecommons.org/publicdomain/zero/1.0/"
+SIXTH_LINE="! Source: https://urlhaus.abuse.ch/api/"
 COMMENT="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE"
 
 # Download the database dump
