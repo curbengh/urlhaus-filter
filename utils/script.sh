@@ -15,15 +15,17 @@ wget https://urlhaus.abuse.ch/downloads/csv/ -O ../src/URLhaus.csv
 
 cat ../src/URLhaus.csv | \
 # Convert DOS to Unix line ending
-sed -z -e 's/\r\n/\n/g' | \
+dos2unix | \
 # Parse online URLs only
 grep '"online"' | \
 # Parse domains and IP address only
 cut -f 6 -d '"' | \
 cut -f 3 -d '/' | \
 cut -f 1 -d ':' | \
-# Remove www.
-sed -z -e 's/\nwww\./\n/g' | \
+# Remove www
+# Only matches domains that start with www
+# Not examplewww.com
+sed ':a;N;$!ba;s/\nwww\./\n/g' | \
 # Sort and remove duplicates
 sort -u | \
 # Exclude Umbrella Top 1M. grep inverse match whole line
