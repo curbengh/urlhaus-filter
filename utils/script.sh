@@ -25,7 +25,7 @@ cut -f 1 -d ':' | \
 # Remove www
 # Only matches domains that start with www
 # Not examplewww.com
-sed ':a;N;$!ba;s/\nwww\./\n/g' | \
+sed -e ':a' -e 'N' -e '$!ba' -e 's/\nwww\./\n/g' | \
 # Sort and remove duplicates
 sort -u | \
 # Exclude Umbrella Top 1M. grep inverse match whole line

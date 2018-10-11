@@ -16,7 +16,7 @@ cut -f 2 -d ',' | \
 # Remove www
 # Only matches domains that start with www
 # Not examplewww.com
-sed ':a;N;$!ba;s/\nwww\./\n/g' | \
+sed -e ':a' -e 'N' -e '$!ba' -e 's/\nwww\./\n/g' | \
 # Remove duplicates
 sort -u > ../src/top-1m.txt
 
