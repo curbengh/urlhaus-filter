@@ -51,4 +51,8 @@ deploy:
     - git push
 
   only:
+    # Allow CI to be triggered by schedule
     - schedules
+
+    # Allow CI to be triggered manually
+    - web

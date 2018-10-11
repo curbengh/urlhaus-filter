@@ -14,7 +14,7 @@ COMMENT="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE"
 wget https://urlhaus.abuse.ch/downloads/csv/ -O ../src/URLhaus.csv
 
 # Parse domains and IP address only
-cat URLhaus.csv | \
+cat ../src/URLhaus.csv | \
 grep '"online"' | \
 cut -f 6 -d '"' | \
 cut -f 3 -d '/' | \

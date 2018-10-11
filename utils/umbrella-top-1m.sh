@@ -5,7 +5,7 @@
 # https://s3-us-west-1.amazonaws.com/umbrella-static/index.html
 
 # Download the list
-wget -O- http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip | \
+wget -O- https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip | \
 # Decompress the zip and write output to stdout
 zcat -dc | \
 # Parse domains only
