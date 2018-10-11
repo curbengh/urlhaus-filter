@@ -13,17 +13,22 @@ COMMENT="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE"
 # Download the database dump
 wget https://urlhaus.abuse.ch/downloads/csv/ -O ../src/URLhaus.csv
 
-# Parse domains and IP address only
 cat ../src/URLhaus.csv | \
+# Convert DOS to Unix line ending
+sed -z -e 's/\r\n/\n/g' | \
+# Parse online URLs only
 grep '"online"' | \
+# Parse domains and IP address only
 cut -f 6 -d '"' | \
 cut -f 3 -d '/' | \
 cut -f 1 -d ':' | \
+# Remove www.
+sed -z -e 's/\nwww\./\n/g' | \
 # Sort and remove duplicates
 sort -u | \
-# Exclude Umbrella Top 1M
-grep -vf ../src/top-1m.txt | \
+# Exclude Umbrella Top 1M. grep inverse match whole line
+grep -Fx -vf ../src/top-1m.txt | \
 # Exclude false positive
-grep -vf ../src/exclude.txt | \
+grep -Fx -vf ../src/exclude.txt | \
 # Append header comment to the filter list
 sed '1 i\'"$COMMENT"'' > ../urlhaus-filter.txt
