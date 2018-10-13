@@ -38,6 +38,9 @@ This repo is not endorsed by Abuse.sh.
 - Why don't you use the URLhaus "Plain-Text URL List"?
 	+ It doesn't show the status (online/offline) of a URL.
 
+- Why don't you `wget top-1m.csv.zip` and output to stdout?
+	+ If wget fails, [top-1m.txt](src/top-1m.txt) will be empty. Output as file avoids that.
+
 - Why do you need to clone the repo again in your CI? I thought CI already fetch the repo by default?
 	+ GitLab Runner clone/fetch the repo using HTTPS method by default ([log](https://gitlab.com/curben/urlhaus/-/jobs/105979394)). This method requires deploy *token* which is *read-only* (cannot push).
 	+ Deploy *key* has write access but cannot be used with the HTTPS method, hence, the workaround to clone using SSH.
