@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 20 Oct 2018 00:24:02 UTC
+! Updated: Sat, 20 Oct 2018 12:23:52 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -14,6 +14,7 @@
 104.162.129.153
 104.236.108.231
 104.244.76.210
+104.248.132.154
 104.248.142.120
 104.248.150.204
 104.248.165.108
@@ -30,7 +31,9 @@
 115.28.162.250
 117.91.172.49
 118.184.50.24
+118.99.239.217
 120.92.168.177
+122.114.246.145
 122.49.66.39
 123.249.71.226
 123tadi.com
@@ -41,15 +44,17 @@
 136.49.14.123
 138.128.150.133
 138.197.106.206
-138.197.155.241
+138.68.21.206
 139.59.147.231
 14.200.65.79
 14.46.104.156
 14.46.33.116
+142.93.108.170
 142.93.134.253
 142.93.156.161
 142.93.188.49
 142.93.202.209
+142.93.44.126
 144.217.149.61
 146.0.72.139
 151.80.186.121
@@ -57,14 +62,16 @@
 159.203.88.124
 159.65.172.17
 159.65.42.17
+159.65.46.207
 159.89.204.166
 159.89.222.5
-159.89.34.227
+159.89.239.212
 164.132.159.56
 167.88.161.40
 167.99.14.199
 167.99.147.43
 167.99.171.127
+167.99.202.160
 167.99.45.134
 167.99.81.74
 173.82.243.124
@@ -82,6 +89,7 @@
 178.62.84.108
 180.153.105.169
 185.11.146.84
+185.13.38.92
 185.134.21.75
 185.148.241.52
 185.158.139.177
@@ -89,6 +97,7 @@
 185.22.154.112
 185.231.155.180
 185.234.217.21
+185.244.25.131
 185.244.25.133
 185.244.25.137
 185.244.25.150
@@ -96,6 +105,7 @@
 185.244.25.176
 185.244.25.202
 185.244.25.222
+185.58.225.28
 186.249.40.146
 187.156.6.162
 188.166.125.19
@@ -110,11 +120,9 @@
 198.199.84.119
 198.211.109.4
 198.23.255.10
-198.98.56.116
 198.98.62.237
 199.19.226.178
 199.192.23.231
-199.66.93.23
 1roof.ltd.uk
 2-dragon.com
 2.137.25.19
@@ -130,9 +138,9 @@
 206.189.196.216
 206.189.28.131
 206.81.12.46
+206.81.4.47
 2069brackets.com
 207.154.249.73
-209.141.40.213
 209.141.45.67
 20elektronik.com
 20overs.com
@@ -149,6 +157,7 @@
 23.249.173.202
 31.168.219.218
 31.179.251.36
+35.231.205.45
 36.67.206.31
 37.139.29.246
 37.142.144.79
@@ -157,6 +166,7 @@
 3arabsports.net
 3dcrystalart.com.ua
 45.227.252.250
+46.101.135.146
 46.101.203.135
 46.101.38.131
 46.105.103.57
@@ -164,7 +174,6 @@
 46.17.47.250
 46.173.219.17
 46.29.163.168
-46.36.37.121
 46.36.37.66
 46.36.40.66
 49.71.61.106
@@ -181,7 +190,6 @@
 54.38.220.94
 54.39.175.169
 5711020660006.sci.dusit.ac.th
-58.218.66.91
 62671d28-a-62cb3a1a-s-sites.googlegroups.com
 66.117.2.182
 66.42.110.29
@@ -198,6 +206,7 @@
 80.211.5.210
 80.211.57.80
 80.211.91.145
+80.82.70.136
 81.177.141.59
 8145431672250565765-a-1802744773732722657-s-sites.googlegroups.com
 82.118.234.75
@@ -205,12 +214,14 @@
 84.38.130.139
 87.27.96.3
 89.105.202.39
+89.34.237.210
 89.38.98.97
 89.42.211.49
 92.63.105.90
 92.63.197.48
 92.63.197.60
 94.102.60.146
+94.177.238.164
 94.23.188.113
 94i30.com
 98.200.233.150
@@ -557,7 +568,6 @@ d4uk.7h4uk.com
 da.alibuf.com
 dadieubavithuyphuong.vn
 dangtangdnvn.com
-danisasellers.com
 daocoxachilangnam.org.vn
 daoudi-services.com
 darkparticle.com
@@ -576,6 +586,7 @@ dek-kam.ru
 delve24.5gbfree.com
 demeter.icu
 demicolon.com
+demo.chengcoach.com
 demo.esoluz.com
 demo15.versamall.com
 demo15.webindia.com
@@ -629,7 +640,6 @@ down.263209.com
 down.ancamera.co.kr
 down.didiwl.com
 down.startools.co.kr
-down.wifigx.com
 down.wlds.net
 down1.arpun.com
 down1.greenxf.com
@@ -720,7 +730,6 @@ f.akk.li
 f.kuai-go.com
 f2host.com
 familiasexitosascondayan.com
-familiekoning.net
 fanction.jp
 faratfilm.pl
 farmasi.uin-malang.ac.id
@@ -773,7 +782,6 @@ gardenservicepta.co.za
 garduherbal.com
 garrystutz.top
 geckochairs.com
-gelecekdiyarbakirsigorta.com
 geonatural.ge
 georgew.com.br
 gerstenhaber.org
@@ -822,7 +830,6 @@ habarimoto24.com
 hades.pw
 hamanakoen.com
 hanzadetekstil.com
-haornews24.com
 haras-dhaspel.com
 hausbesetzung-mallorca.com
 hcchanpin.com
@@ -834,7 +841,6 @@ heartandshawl.com
 heartseasealpacas.com
 heartware.dk
 heatingkentucky.com
-heavenknows.biz
 hectorcordova.com
 hengkangusa.com
 hgfitness.info
@@ -856,7 +862,6 @@ homeloantoronto.ca
 hondaparadise.co.th
 hookerdeepseafishing.com
 hoookmoney.com
-hosting.tlink.vn
 hotelikswidwin.pl
 hotelplayaelagua.com
 hotelsbreak.com
@@ -872,8 +877,8 @@ iapjalisco.org.mx
 iberias.ge
 icases.pro
 icmcce.net
+icn.tectrade.bg
 idontknow.moe
-idtmultimedias.com
 ieltsonlinetest.com
 ighighschool.edu.bd
 ihaveanidea.org
@@ -910,7 +915,6 @@ iphonelock.ir
 iptechnologysolutions.com
 iptestlabs.com
 iranykhodro.ir
-irenecairo.com
 irisoil.com
 ironcloverflies.com
 isaac.samjoemmy.com
@@ -926,7 +930,6 @@ israil-lechenie.ru
 istekemlak.com.tr
 it-accent.ru
 it-eg.com
-italamp.tk
 itray.co.kr
 iulius.eu
 iuwrwcvz.applekid.cn
@@ -934,17 +937,18 @@ ivsnet.org
 izeeker.com
 j-skill.ru
 jameslumgair.com
+jannah.web.id
 japax.co.jp
 javatank.ru
 jaychallenge.com
 jazancci.org.sa
 jdih.purworejokab.go.id
 jeicif.or.jp
+jesseturri.com
 jessicalinden.net
 jghorse.com
 jhandiecohut.com
 jifowls-ffupdateloader.com
-jigneshjhaveri.com
 jitkla.com
 jlglass.com
 jllesur.fr
@@ -1053,7 +1057,6 @@ lormsvt.fr
 lot.moe
 louis-wellness.it
 louiskazan.com
-loungebatel.com.br
 louterfoto.nl
 lqhnvuoi.lylguys.me
 luattruongthanh.com
@@ -1136,6 +1139,7 @@ mistycottage.lk
 mjtodaydaily.com
 mlagroup.co.in
 mmgsk.com
+mntrangan.online
 moda.makyajperisi.com
 monetize.bid
 monset.it
@@ -1251,6 +1255,7 @@ posta.co.tz
 powerwield.com
 pqbs.sekolahquran.sch.id
 pracowniaroznosci.pl
+prajanutrition.com
 pratimspizza.com
 premiumos.icu
 pride.ge
@@ -1353,8 +1358,6 @@ seinusa.com
 senaryolarim.com
 sense-eng.ml
 seofinal.com
-sercer.tk
-sernet.com.ar
 server28.onlineappupdater.com
 servet.000webhostapp.com
 service-quotidien.com
@@ -1473,6 +1476,7 @@ thefireservice.co.uk
 thehotcopy.com
 thejutefibersbd.com
 themes-xzone.me
+thenovelgroup.com
 thepandasparadise.com
 thepinkonionusa.com
 theposh-rack.com
@@ -1516,9 +1520,9 @@ tutuler.com
 tvaradze.com
 u.coka.la
 u.lewd.se
+uavlab.am
 ucan.ouo.tw
 ucitsaanglicky.sk
-uebhyhxw.afgktv.cn
 uguzamedics.com
 uk-novator.ru
 uksamples.com
@@ -1556,7 +1560,6 @@ vigilar.com.br
 vinastone.com
 vincity-vn.com
 vinmeconline.com
-vip163.cf
 visoftechmea.com
 visualminds.ae
 viswavsp.com
@@ -1613,16 +1616,12 @@ yagurkitchens.com
 yaokuaile.info
 ychynt.com
 yesejimo.free.wtbidccdn50.cn
-ygzx.hbu.cn
-yiluzhuanqian.com
 yogahuongthaogovap.com
 yokydesign.com
-yootbe.org
 youngprosperity.uk
 ysabelgonzalez.com
 yuanjie.me
 yuechengsteak.com
-yuliamakeev.com
 yulv.net
 yy.xn--gjvz58f.com
 zingland.vn
