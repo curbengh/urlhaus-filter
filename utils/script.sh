@@ -35,3 +35,6 @@ grep -Fx -vf ../src/top-1m.txt | \
 grep -Fx -vf ../src/exclude.txt | \
 # Append header comment to the filter list
 sed '1 i\'"$COMMENT"'' > ../urlhaus-filter.txt
+
+# Remove downloaded dataset
+rm ../src/top-1m.txt
