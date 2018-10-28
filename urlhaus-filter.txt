@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 28 Oct 2018 00:25:25 UTC
+! Updated: Sun, 28 Oct 2018 12:23:43 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -35,6 +35,7 @@
 111.1.89.192
 112.164.81.234
 114.32.36.141
+114.33.70.48
 115.28.162.250
 117.91.172.11
 117.91.172.49
@@ -56,6 +57,7 @@
 138.197.106.206
 138.197.99.186
 139.59.147.231
+139.59.3.197
 14.162.173.28
 14.200.65.79
 14.46.104.156
@@ -78,6 +80,7 @@
 167.88.124.204
 167.88.161.40
 167.99.147.43
+167.99.202.148
 167.99.202.160
 167.99.224.127
 167.99.81.74
@@ -97,14 +100,17 @@
 178.128.205.237
 178.128.7.76
 178.61.247.111
+178.62.238.124
 178.62.250.233
 179.179.233.10
 179.179.60.208
 1794431577.rsc.cdn77.org
 180.153.105.169
+180.177.76.161
 183.106.51.228
 185.101.107.148
 185.11.146.84
+185.126.179.154
 185.193.125.147
 185.225.17.82
 185.234.217.21
@@ -125,6 +131,7 @@
 188.215.245.237
 188.36.121.184
 189.133.108.81
+189.198.67.249
 191.254.146.92
 192.241.194.166
 192.3.160.67
@@ -154,6 +161,7 @@
 205.185.125.213
 205.185.125.244
 206.189.196.216
+206.189.211.105
 206.189.28.131
 206.189.70.65
 206.255.52.18
@@ -179,6 +187,8 @@
 27.155.87.166
 31.168.219.218
 31.179.251.36
+35.229.244.105
+35.231.176.41
 36.67.206.31
 37.139.29.246
 37.142.144.79
@@ -186,6 +196,7 @@
 3arabsports.net
 3dcrystalart.com.ua
 41.38.214.165
+42.117.62.88
 43.224.29.49
 45.227.252.250
 46.101.15.84
@@ -200,15 +211,18 @@
 46.36.40.66
 46.59.101.173
 46.97.21.166
+46.97.21.194
 49.71.61.106
 4pointinspection.net
 4wake.com
+5.43.95.157
 5.55.60.145
 5.63.159.203
 5.8.88.242
 50.115.166.132
 51.15.217.84
 51.68.173.246
+51.75.18.88
 518td.cn
 54.36.137.117
 54.38.220.94
@@ -225,6 +239,7 @@
 68.183.17.132
 68.183.28.70
 68.183.29.187
+68.183.98.153
 69.202.198.255
 69.55.55.16
 72.11.140.2
@@ -253,6 +268,7 @@
 87.121.98.42
 87.27.96.3
 89.105.202.39
+89.34.237.211
 89.34.26.107
 89.38.98.97
 92.232.176.235
@@ -544,6 +560,7 @@ cnzjmsa.gov.cn
 codelala.net
 cokhivantiendung.com
 colorshotevents.com
+comfort-software.info
 compitec.be
 comprendrepouragir.org
 comquestsoftware.com
@@ -632,6 +649,7 @@ diggerkrot.ru
 digitalgit.in
 discalotrade.com
 discoverstudentxchange.com
+divine.pk
 djayamedia.com
 djwesz.nl
 dkck.com.tw
@@ -667,6 +685,7 @@ download.ware.ru
 dr-daroo.com
 draqusor.hi2.ro
 dreamhomesproject.com
+druzim.freewww.biz
 dshshare.ca
 dsltech.co.uk
 dua-anggrek.net
@@ -692,6 +711,7 @@ dx7.52zsoft.com
 dx9.charrem.com
 dxdown.2cto.com
 dymoetiketler.com
+e.coka.la
 eastbriscoe.co.uk
 easylink1998.com
 ec2-13-126-174-234.ap-south-1.compute.amazonaws.com
@@ -850,6 +870,7 @@ hcchanpin.com
 hciot.net
 hdc.co.nz
 headstride.com
+health-gov-za.org
 healthydiet1.com
 heartandshawl.com
 heartseasealpacas.com
@@ -893,6 +914,7 @@ iapjalisco.org.mx
 iberias.ge
 icases.pro
 icmcce.net
+icn.tectrade.bg
 idontknow.moe
 ieltsonlinetest.com
 ighighschool.edu.bd
@@ -962,6 +984,7 @@ jbflooring.com
 jbliwa.ae
 jdih.purworejokab.go.id
 jeicif.or.jp
+jesseturri.com
 jessicalinden.net
 jghorse.com
 jhandiecohut.com
@@ -1065,6 +1088,7 @@ lnfm.eu
 localbusinesspromotion.co.uk
 lockoutindia.com
 loei.drr.go.th
+log.yundabao.cn
 logiccode.net
 lokahifishing.com
 lollipopx.ru
@@ -1189,6 +1213,7 @@ nisanbilgisayar.net
 nitadd.com
 nizhalgalsociety.com
 nobleartproject.pl
+norsterra.cn
 northtopsailoceanfrontrentals.com
 notes.town.tillsonburg.on.ca
 nothingreally.com
@@ -1266,7 +1291,6 @@ poros-formation.fr
 posta.co.tz
 powerwield.com
 pqbs.sekolahquran.sch.id
-pracowniaroznosci.pl
 premiumos.icu
 pride.ge
 primelineinda.com
@@ -1339,6 +1363,7 @@ rus-fishing.com
 russellmcdougal.com
 rykos.cz
 ryleco.com
+s-pl.ru
 sacasa.org
 sael.kz
 sahathaikasetpan.com
@@ -1534,11 +1559,9 @@ uwgeboortekaart.nl
 uxz.didiwl.com
 uycqawua.applekid.cn
 vaatzit.autoever.com
-valencecontrols.com
 van-wonders.co.uk
 vananh.me
 vannadesign.ru
-varunjhanji.com
 vatlieumoihanoi.com
 vaun.com
 vav.edu.vn
