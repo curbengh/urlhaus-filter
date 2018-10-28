@@ -1,9 +1,10 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 27 Oct 2018 12:23:12 UTC
+! Updated: Sun, 28 Oct 2018 00:25:25 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Source: https://urlhaus.abuse.ch/api/
+01.azrj-phone.zuliyego.cn
 1.186.222.50
 1.34.107.67
 1.34.12.97
@@ -15,6 +16,7 @@
 1.34.72.46
 1.almaz13.z8.ru
 10.prakt123.z8.ru
+102.185.40.234
 103.12.201.239
 104.162.129.153
 104.236.108.231
@@ -42,6 +44,7 @@
 122.114.246.145
 122.114.6.167
 122.116.44.62
+122.160.196.105
 122.49.66.39
 123tadi.com
 124.117.238.230
@@ -84,6 +87,7 @@
 174.138.49.178
 175.195.204.24
 175.206.117.74
+1758681625.rsc.cdn77.org
 176.107.176.24
 176.111.124.107
 176.32.33.123
@@ -101,12 +105,12 @@
 183.106.51.228
 185.101.107.148
 185.11.146.84
-185.134.21.75
 185.193.125.147
 185.225.17.82
 185.234.217.21
 185.244.25.131
 185.244.25.137
+185.244.25.150
 185.244.25.153
 185.244.25.188
 185.244.25.222
@@ -119,12 +123,14 @@
 188.166.125.19
 188.166.77.201
 188.215.245.237
+188.36.121.184
 189.133.108.81
 191.254.146.92
 192.241.194.166
 192.3.160.67
 192.3.162.102
 192.99.142.235
+193.200.50.136
 194.36.173.4
 194.36.173.82
 194.5.98.70
@@ -192,13 +198,14 @@
 46.36.37.121
 46.36.37.66
 46.36.40.66
+46.59.101.173
 46.97.21.166
 49.71.61.106
 4pointinspection.net
 4wake.com
 5.55.60.145
 5.63.159.203
-5.fjwt1.crsky.com
+5.8.88.242
 50.115.166.132
 51.15.217.84
 51.68.173.246
@@ -213,10 +220,12 @@
 64.32.3.186
 66.117.2.182
 66.42.110.29
+67.191.253.79
 67.205.129.169
 68.183.17.132
 68.183.28.70
 68.183.29.187
+69.202.198.255
 69.55.55.16
 72.11.140.2
 73.138.179.173
@@ -237,6 +246,7 @@
 80.211.91.145
 81.177.141.59
 81.4.101.221
+81.43.101.247
 8145431672250565765-a-1802744773732722657-s-sites.googlegroups.com
 82.118.234.75
 83.170.193.178
@@ -293,7 +303,6 @@ agulino.com
 ahkha.com
 ahmadalhanandeh.com
 airporttaxigdansk.pl
-aitelong.top
 aiwhevye.applekid.cn
 ajansred.com
 ajaxbuilders.net
@@ -343,6 +352,7 @@ api.wipmania.net
 apk05.appcms.3xiazai.com
 apnapunjabindianrestaurant.com
 appliano.com
+application.cravingsgroup.com
 aprovadopeloshomens.info
 aptigence.com.au
 aptmortgages-my.sharepoint.com
@@ -355,6 +365,7 @@ archiware.ir
 arendatelesti.ro
 arifcagan.com
 armator.info
+arntechltd.com
 arobase-rdc.com
 arrifa.com
 art-culture.uru.ac.th
@@ -371,7 +382,6 @@ attach.66rpg.com
 austincondoliving.com
 autokosmetykicartec.pl
 automotive.bg
-avabrand.com
 avionworld.com
 avstrust.org
 aygunlersigorta.000webhostapp.com
@@ -385,13 +395,13 @@ b7center.com
 badiesanat.com
 bakirkablosoymamakinasi.com
 balkonresidence.com
+balwelstores.com
 banarasiaa.com
 banco-itau-cl-wps-portal.gq
 bankeobaychim.net
 banthotot.com
 bapelitbang.bengkulukota.go.id
 batikentemlak.org
-batsyla2.lisx.ru
 battilamiera.com
 bazaltbezpeka.com.ua
 bazarganigarjasi.ir
@@ -501,6 +511,7 @@ cevahirogludoner.com
 cfs4.tistory.com
 cgunited.com
 ch.rmu.ac.th
+chalesmontanha.com
 chang.be
 chanvribloc.com
 charavoilebzh.org
@@ -612,7 +623,6 @@ depomedikal.com
 depraetere.net
 desensespa.com
 dextraderspost.com
-dfsd.actfans.com
 dgecolesdepolice.bf
 dh.3ayl.cn
 dianxin8.52zsoft.com
@@ -646,7 +656,6 @@ down.ancamera.co.kr
 down.didiwl.com
 down.startools.co.kr
 down.wifigx.com
-down.wlds.net
 down1.arpun.com
 down1.greenxf.com
 down10b.zol.com.cn
@@ -655,7 +664,6 @@ downinthecountry.com
 download.glzip.cn
 download.u7pk.com
 download.ware.ru
-download5.77169.com
 dr-daroo.com
 draqusor.hi2.ro
 dreamhomesproject.com
@@ -718,7 +726,6 @@ erestauranttrader.com
 eroscenter.co.il
 espacioparaelalma.com
 esraashaikh.com
-estudio3.cl
 eternalengineers.com
 ethiccert.com
 etravelaway.com
@@ -770,6 +777,7 @@ foto-4k.org
 frankraffaeleandsons.com
 frcs.com.br
 freestanding.com
+ftp.doshome.com
 ftpcnc-p2sp.pconline.com.cn
 fujilift-kr.com
 fullhead.co.jp
@@ -894,8 +902,8 @@ illuminate.gr
 iluzhions.com
 imdavidlee.com
 imf.ru
+img19.vikecn.com
 imish.ru
-imperialpetco.com
 imr.cl
 inaczasie.pl
 indiangirlsnude.com
@@ -1004,6 +1012,7 @@ kmcprotez.com
 knaufdanoline.cf
 knofoto.ru
 komedhold.com
+konstar.hk
 kopfkorea.com
 koppemotta.com.br
 kotsp.info
@@ -1056,7 +1065,6 @@ lnfm.eu
 localbusinesspromotion.co.uk
 lockoutindia.com
 loei.drr.go.th
-log.yundabao.cn
 logiccode.net
 lokahifishing.com
 lollipopx.ru
@@ -1111,6 +1119,7 @@ mbr.kill0604.ru
 mcsuministros.com.ve
 meandoli.com
 media0.webgarden.name
+medregisalmaty.kz
 melonacreations.co.za
 melondisc.co.th
 mettek.com.tr
@@ -1180,7 +1189,6 @@ nisanbilgisayar.net
 nitadd.com
 nizhalgalsociety.com
 nobleartproject.pl
-norsterra.cn
 northtopsailoceanfrontrentals.com
 notes.town.tillsonburg.on.ca
 nothingreally.com
@@ -1207,7 +1215,6 @@ onurcanemlak.com
 operationcloud.org
 optisaving.com
 orderauto.es
-osdsoft.com
 ossi4.51cto.com
 ostyle-shop.net
 outlast13.com
@@ -1259,6 +1266,7 @@ poros-formation.fr
 posta.co.tz
 powerwield.com
 pqbs.sekolahquran.sch.id
+pracowniaroznosci.pl
 premiumos.icu
 pride.ge
 primelineinda.com
@@ -1281,6 +1289,7 @@ qa4sw.com
 qativerrh.com
 qiankunculture.com
 qinyongjin.net
+qmco.ir
 quangngoc.vn
 qwest-co.com
 r2consulting.net
@@ -1294,7 +1303,6 @@ ramshero.com
 randburk.beget.tech
 rapidhrs.com
 rassvet-sbm.ru
-raveoncorp.com
 rayatech.ir
 realtyhifi.com
 redboxfinanceiracontabil.com
@@ -1331,7 +1339,6 @@ rus-fishing.com
 russellmcdougal.com
 rykos.cz
 ryleco.com
-s-pl.ru
 sacasa.org
 sael.kz
 sahathaikasetpan.com
@@ -1378,6 +1385,7 @@ sight-admissions.com
 sightspansecurity.com
 signsdesigns.com.au
 silverlineboatsales.com
+site.2zzz.ru
 site.listachadebebe.com.br
 sixx.com
 sjbnet.net
@@ -1387,7 +1395,6 @@ skupkakorobok.ru
 slajf.com
 slypsms.com
 small.962.net
-smartex.mobi
 smartidealgm.com
 smpadvance.com
 smplmods-ru.1gb.ru
@@ -1528,7 +1535,6 @@ uxz.didiwl.com
 uycqawua.applekid.cn
 vaatzit.autoever.com
 valencecontrols.com
-valentinesday.bid
 van-wonders.co.uk
 vananh.me
 vannadesign.ru
@@ -1586,7 +1592,6 @@ xianjiaopi.com
 xiazai.xiazaiba.com
 xiegangdian.com
 xinanfls.com
-xmr-services.net
 xmusick.com
 xn----7sbbj2ablb3anl0a.xn--p1ai
 xn----8sbkdqjzimxd.xn--p1ai
@@ -1597,7 +1602,7 @@ xn--80abghrgkskqdlmb.xn--p1ai
 xn--80apjicfhnjo4g.xn--p1ai
 xn--b1afnmjcis3f.xn--p1ai
 xn--dieglcksspirale-3vb.net
-xzc.198424.com
+xzc.197746.com
 y31uv4ra1.vo.llnwd.net
 yagurkitchens.com
 yaokuaile.info
