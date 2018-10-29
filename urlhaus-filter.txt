@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 28 Oct 2018 12:23:43 UTC
+! Updated: Mon, 29 Oct 2018 00:24:23 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -108,6 +108,7 @@
 180.153.105.169
 180.177.76.161
 183.106.51.228
+184.11.126.250
 185.101.107.148
 185.11.146.84
 185.126.179.154
@@ -204,6 +205,7 @@
 46.101.35.220
 46.17.47.244
 46.17.47.250
+46.24.91.108
 46.29.163.168
 46.29.165.163
 46.36.37.121
@@ -212,6 +214,7 @@
 46.59.101.173
 46.97.21.166
 46.97.21.194
+47.32.251.30
 49.71.61.106
 4pointinspection.net
 4wake.com
@@ -230,6 +233,7 @@
 5711020660006.sci.dusit.ac.th
 58.187.241.167
 59.127.1.67
+60.248.141.87
 62671d28-a-62cb3a1a-s-sites.googlegroups.com
 64.32.3.186
 66.117.2.182
@@ -284,7 +288,6 @@
 94i30.com
 95.213.140.210
 98.200.233.150
-a.doko.moe
 a46.bulehero.in
 aa-academy.net
 abcresteconsulting.com
@@ -493,6 +496,7 @@ btcx4.com
 bubsware.com
 bursabesevlernakliyat.com
 byitaliandesigners.com
+bylw.zknu.edu.cn
 c-dole.com
 c-elysee.joonik.com
 ca.hashnice.org
@@ -548,6 +552,7 @@ ciptowijayatehnik.com
 circuloproviamiga.com
 citytrading.usa.cc
 civciv.com.tr
+cjoint.com
 ckobcameroun.com
 clickara.com
 clickclick2trip.com
@@ -930,6 +935,7 @@ imr.cl
 inaczasie.pl
 indiangirlsnude.com
 indicasativas.com
+indokku.com
 indonesiaumroh.com
 infocs.rio.br
 infratecweb.com.br
@@ -1195,7 +1201,6 @@ n.didiwl.com
 nadym.business
 nasa.ekpaideusi.gr
 nashobmen.org
-nashobmenfiles.com
 nathaninteractive.com
 nellyvonalven.com
 nemetboxer.com
@@ -1299,6 +1304,7 @@ procasa.imb.br
 projectlyttelton-my.sharepoint.com
 promoagency.sk
 promodont.com
+promultis.it
 prosmotr-bot.eu
 prosoft-industry.eu
 protonmail.secure-docs.us
@@ -1525,6 +1531,7 @@ trollingmotordoctor.com
 trotarhub.com
 troysumpter.com
 trs.or.th
+trueshare.com
 trumbullcsb.org
 tsg339.com
 tuanduongmobile.vn
@@ -1648,4 +1655,5 @@ zerenprofessional.com
 zingland.vn
 zionsifac.com
 zj.9553.com
+zrkls.pw
 zyz-industry.cf
