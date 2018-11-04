@@ -1,10 +1,9 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 03 Nov 2018 12:23:43 UTC
+! Updated: Sun, 04 Nov 2018 00:25:09 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Source: https://urlhaus.abuse.ch/api/
-01.azrj-phone.zuliyego.cn
 1.186.222.50
 1.247.157.184
 1.34.107.67
@@ -21,7 +20,6 @@
 104.206.242.208
 104.236.108.231
 104.248.165.108
-104.248.250.146
 104.32.195.57
 104.32.48.59
 107.174.26.55
@@ -42,7 +40,7 @@
 117.91.172.49
 118.184.50.24
 118.99.239.217
-122.114.246.145
+121.121.42.75
 122.116.44.62
 122.116.50.23
 122.117.62.15
@@ -52,14 +50,15 @@
 128.199.40.116
 13.113.217.14
 136.49.14.123
+138.128.150.133
 138.197.106.206
-14.162.173.28
 14.186.172.102
 14.200.65.79
 14.35.10.207
 14.46.104.156
 14.46.33.116
 14.54.121.194
+142.129.111.185
 142.93.126.147
 142.93.156.161
 142.93.202.209
@@ -89,13 +88,11 @@
 175.206.117.74
 176.111.124.107
 176.32.33.123
-176.32.33.155
 176.32.33.25
 177.103.221.82
 177.189.220.179
 178.128.7.76
 178.131.61.0
-179.98.208.221
 179.98.240.107
 180.119.170.61
 180.153.105.169
@@ -108,13 +105,11 @@
 185.193.125.147
 185.231.155.180
 185.234.217.21
-185.244.25.131
 185.244.25.134
 185.244.25.153
 185.244.25.155
 185.244.25.188
 185.244.25.206
-185.244.25.211
 185.244.25.222
 185.94.33.22
 186.249.40.146
@@ -138,7 +133,6 @@
 193.70.81.236
 194.36.173.4
 194.36.173.82
-194.48.152.114
 196.27.64.243
 198.1.188.107
 198.211.109.4
@@ -170,7 +164,6 @@
 213.7.246.198
 216.170.114.195
 217.160.51.208
-217.218.219.146
 218.161.75.17
 21807.xc.iziyo.com
 220.71.165.58
@@ -187,11 +180,10 @@
 31.168.219.218
 31.179.251.36
 31.211.138.227
-31.25.129.85
 34.196.72.89
 35.196.173.236
 35.229.244.105
-36.67.206.31
+35.239.94.32
 37.142.144.79
 37.48.125.107
 3arabsports.net
@@ -225,7 +217,6 @@
 51.68.173.246
 518td.cn
 5711020660006.sci.dusit.ac.th
-58.187.241.167
 59.126.220.144
 59.127.1.67
 60.248.141.87
@@ -269,8 +260,10 @@
 85.222.91.82
 85.70.68.107
 87.121.98.42
+87.27.96.3
 89.105.202.39
 89.34.26.107
+89.34.26.134
 89.40.122.96
 89.46.223.213
 92.63.197.48
@@ -375,7 +368,6 @@ arcanadevgroup.com
 archiware.ir
 arendatelesti.ro
 arifcagan.com
-arkei.foxovsky.ru
 armator.info
 arobase-rdc.com
 arrifa.com
@@ -388,12 +380,12 @@ aspiringfilms.com
 assist-tunisie.com
 atelierdupain.it
 athena-finance.com
+atragon.co.uk
 attach.66rpg.com
 ausantennas.com.au
 austincondoliving.com
 autokosmetykicartec.pl
 avaagriculture.com
-avabrand.com
 avionworld.com
 avstrust.org
 ayakkokulari.com
@@ -506,8 +498,8 @@ casanbenito.com
 casellamoving.com
 cash888.net
 cathome.org.tw
+cavanasipontum.ru
 cbup1.cache.wps.cn
-ccc.5208.cc
 cclawsuit.com
 ccowan.com
 ccshh.org
@@ -542,6 +534,7 @@ cindysonam.org
 cine80.co.kr
 cipherme.pl
 ciptowijayatehnik.com
+circuloproviamiga.com
 civciv.com.tr
 ckobcameroun.com
 clean.crypt24.in
@@ -571,6 +564,7 @@ confrariapalestrina.com.br
 connievoigt.cl
 conscientia-africa.com
 conseptproje.com
+consultorialyceum.com.br
 coronadodirectory.com
 corporaciondelsur.com.pe
 cortijodebornos.es
@@ -693,6 +687,7 @@ dx.mqego.com
 dx.qqtn.com
 dx.qqw235.com
 dx1.qqtn.com
+dx114.downyouxi.com
 dx2.52zsoft.com
 dx2.qqtn.com
 dx3.52zsoft.com
@@ -891,7 +886,6 @@ iapjalisco.org.mx
 iberias.ge
 icases.pro
 icmcce.net
-icn.tectrade.bg
 idealse.com.br
 idontknow.moe
 ieltsonlinetest.com
@@ -932,7 +926,6 @@ irenecairo.com
 irisoil.com
 ironcloverflies.com
 isaac.samjoemmy.com
-isbellindustries.com
 iscanhome.com
 isennik.pl
 isginsaat.com.tr
@@ -963,6 +956,7 @@ jessicalinden.net
 jghorse.com
 jhandiecohut.com
 jifowls-ffupdateloader.com
+jigneshjhaveri.com
 jitkla.com
 jitsupa.com
 jlyrique.com
@@ -1053,13 +1047,13 @@ llupa.com
 lm4w.org
 lnfm.eu
 localbusinesspromotion.co.uk
-lockoutindia.com
 loei.drr.go.th
 log.yundabao.cn
 lokahifishing.com
 lollipopx.ru
 looktravel.ge
 lormsvt.fr
+lot.moe
 louis-wellness.it
 louiskazan.com
 louterfoto.nl
@@ -1094,7 +1088,6 @@ marcwood.pl
 marioallwyn.info
 marketers24.com
 marketintelligencebotswana.co.bw
-martenod.com
 martinoag.com
 mascorloja.com
 masjedkong.ir
@@ -1109,7 +1102,6 @@ meandoli.com
 media0.webgarden.name
 medregisalmaty.kz
 melonacreations.co.za
-melondisc.co.th
 mettek.com.tr
 mfcdebiezen.eu
 mhdaaikash-dot-yamm-track.appspot.com
@@ -1169,7 +1161,6 @@ netin.vn
 netuhaf.com
 neudimensions.com
 neuroinnovacion.com.ar
-newarkpdmonitor.com
 ngyusa.com
 nightfirescientific.com
 nisanbilgisayar.net
@@ -1216,12 +1207,14 @@ palisc.ps
 parsintelligent.com
 partsmaxus.com
 passwordrecoverysoft.com
+patch2.99ddd.com
 patch3.99ddd.com
 pauldent.info
 pay.aqiu6.com
 pdproducts.biz
 peakperformance.fit
 pembegozluk.com
+pendikdireksiyon.com
 pengacaraperceraian.pengacaratopsurabaya.com
 pensjonat-domino.pl
 perfexim.nazwa.pl
@@ -1246,7 +1239,6 @@ pomf.pyonpyon.moe
 ponti-int.com
 porn-games.tv
 pornbeam.com
-poros-formation.fr
 portraitworkshop.com
 posta.co.tz
 powerwield.com
@@ -1339,6 +1331,7 @@ savegglserps.com
 schmalzl.it
 schuurs.net
 scouthibbs.com
+sczlsgs.com
 seccomsolutions.com.au
 secumor.com
 sedis.gob.hn
@@ -1392,7 +1385,6 @@ souferramentasipiranga.com.br
 soumaille.fr
 souzavelludo.com.br
 spandanclinics.com
-sparkman.futurenarratives.com
 speakwrite.edu.pe
 speed.myz.info
 spiritsplatform-my.sharepoint.com
@@ -1432,6 +1424,7 @@ tassilliairlines.com
 tatnefts.su
 tawgih.aswu.edu.eg
 tbilisitimes.ge
+td111.com
 techidra.com.br
 technoscienceacademy.com
 tecserv.us
@@ -1479,7 +1472,6 @@ trixtek.com
 trollingmotordoctor.com
 troysumpter.com
 trs.or.th
-trueshare.com
 trumbullcsb.org
 tsg339.com
 tuanduongmobile.vn
@@ -1511,7 +1503,6 @@ us.cdn.persiangig.com
 usanin.info
 uwgeboortekaart.nl
 uxz.didiwl.com
-uycqawua.applekid.cn
 uzri.net
 vaatzit.autoever.com
 valencecontrols.com
@@ -1563,7 +1554,7 @@ worshipped-washer.000webhostapp.com
 wt1.9ht.com
 wt8.52zsoft.com
 wt9.52zsoft.com
-xastsblopia.us
+www2.itcm.edu.mx
 xblbnlws.appdoit.cn
 xianjiaopi.com
 xiazai.xiazaiba.com
