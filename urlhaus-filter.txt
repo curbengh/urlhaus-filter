@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 04 Nov 2018 00:25:09 UTC
+! Updated: Sun, 04 Nov 2018 12:25:07 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -7,16 +7,18 @@
 1.186.222.50
 1.247.157.184
 1.34.107.67
-1.34.12.97
 1.34.159.137
 1.34.187.191
+1.34.242.32
 1.34.52.145
 1.34.62.169
 1.34.65.34
+1.34.98.181
 1.almaz13.z8.ru
 10.prakt123.z8.ru
 103.12.201.239
 104.162.129.153
+104.168.163.95
 104.206.242.208
 104.236.108.231
 104.248.165.108
@@ -40,7 +42,6 @@
 117.91.172.49
 118.184.50.24
 118.99.239.217
-121.121.42.75
 122.116.44.62
 122.116.50.23
 122.117.62.15
@@ -50,7 +51,6 @@
 128.199.40.116
 13.113.217.14
 136.49.14.123
-138.128.150.133
 138.197.106.206
 14.186.172.102
 14.200.65.79
@@ -74,7 +74,6 @@
 163.21.209.5
 163.22.51.1
 164.132.159.56
-166.70.72.209
 167.88.124.204
 167.88.161.40
 167.99.147.43
@@ -105,10 +104,12 @@
 185.193.125.147
 185.231.155.180
 185.234.217.21
+185.244.25.131
 185.244.25.134
 185.244.25.153
 185.244.25.155
 185.244.25.188
+185.244.25.200
 185.244.25.206
 185.244.25.222
 185.94.33.22
@@ -131,11 +132,13 @@
 192.99.142.235
 193.200.50.136
 193.70.81.236
+194.147.32.75
 194.36.173.4
 194.36.173.82
 196.27.64.243
 198.1.188.107
 198.211.109.4
+198.98.61.186
 198.98.62.237
 199.19.226.178
 199.192.23.231
@@ -150,6 +153,7 @@
 203.146.208.208
 205.185.118.172
 205.185.125.213
+206.189.183.53
 206.189.200.87
 206.189.28.131
 206.255.52.18
@@ -158,7 +162,7 @@
 209.141.33.119
 209.141.37.211
 209.141.41.188
-209.141.42.145
+209.97.155.76
 20overs.com
 213.141.146.119
 213.7.246.198
@@ -176,6 +180,7 @@
 23.30.95.53
 24.0.199.195
 24.103.74.180
+24.138.216.171
 27.105.130.124
 31.168.219.218
 31.179.251.36
@@ -191,19 +196,19 @@
 41.38.214.165
 43.224.29.49
 45.227.252.250
+45.32.157.1
 45.32.70.241
 46.101.104.141
-46.101.35.220
+46.101.145.78
 46.101.63.5
 46.17.47.244
-46.173.214.190
 46.24.91.108
 46.29.164.242
 46.29.165.33
 46.36.37.121
 46.97.21.166
 46.97.21.194
-47.32.251.30
+47.106.199.150
 49.255.48.5
 49.71.61.106
 4pointinspection.net
@@ -215,6 +220,7 @@
 5.fjwt1.crsky.com
 51.68.170.59
 51.68.173.246
+51.75.30.207
 518td.cn
 5711020660006.sci.dusit.ac.th
 59.126.220.144
@@ -230,6 +236,7 @@
 66.42.110.29
 67.205.129.169
 68.183.104.27
+68.183.123.80
 68.183.98.153
 68.66.233.69
 69.202.198.255
@@ -237,7 +244,6 @@
 73.138.179.173
 74.222.1.38
 75.3.196.154
-76.126.236.91
 76.168.111.32
 76.172.51.239
 777ton.ru
@@ -251,7 +257,7 @@
 80.211.134.83
 80.211.184.72
 80.211.185.192
-80.211.59.125
+80.211.243.189
 80.211.91.145
 80.82.70.136
 81.43.101.247
@@ -260,7 +266,6 @@
 85.222.91.82
 85.70.68.107
 87.121.98.42
-87.27.96.3
 89.105.202.39
 89.34.26.107
 89.34.26.134
@@ -275,7 +280,6 @@
 94.23.188.113
 94.52.37.14
 94i30.com
-95.179.132.92
 98.200.233.150
 a.doko.moe
 a.xiazai163.com
@@ -288,7 +292,6 @@ academica.samarindaweb.com
 accademiadellebellestorie.it
 accessclub.jp
 acetgroup.co.uk
-acghope.com
 ackersberg.at
 acquainaria.com
 actionplanet.cn
@@ -382,7 +385,6 @@ atelierdupain.it
 athena-finance.com
 atragon.co.uk
 attach.66rpg.com
-ausantennas.com.au
 austincondoliving.com
 autokosmetykicartec.pl
 avaagriculture.com
@@ -393,7 +395,6 @@ aygunlersigorta.000webhostapp.com
 aygwzxqa.applekid.cn
 ayralift.com
 ayuhas.com
-azedizayn.com
 b.coka.la
 b7center.com
 badiesanat.com
@@ -413,8 +414,8 @@ bd1.52lishi.com
 bd11.52lishi.com
 bd12.52lishi.com
 bd18.52lishi.com
+bd2.paopaoche.net
 bdlisteners.com
-becker-tm.org
 behomespa.com
 belongings.com
 bemnyc.com
@@ -710,7 +711,6 @@ edancarp.com
 efbirbilgisayar.com
 eg-concept.com
 egomall.net
-ehsancreative.com
 ejadarabia.com
 ekomaiko.cl
 elegance-bio.com
@@ -732,12 +732,10 @@ eroscenter.co.il
 espacioparaelalma.com
 esraashaikh.com
 estelleappiah.com
-estudio3.cl
 ethiccert.com
 etravelaway.com
 eucmedia.vn
 eurekalogistics.co.id
-eurocloud.info
 euroelectricasaltea.com
 eurofutura.com
 eurotranstrasporti.com
@@ -751,7 +749,6 @@ f.kuai-go.com
 f2host.com
 familiasexitosascondayan.com
 fanction.jp
-faratfilm.pl
 farisfarisoglu.com
 farmasi.uin-malang.ac.id
 farminginthefloodplain.com
@@ -773,6 +770,7 @@ firstchoicetrucks.net
 fishfanatics.co.za
 flasharts.de
 flewer.pl
+florenceloewy.com
 flz.keygen.ru
 fm963.top
 foodnaija.com.ng
@@ -881,11 +879,11 @@ hvatator.ru
 hydro-united.pl
 hygienic.co.th
 hymanlawgroup.com
-hypponetours.com
 iapjalisco.org.mx
 iberias.ge
 icases.pro
 icmcce.net
+icn.tectrade.bg
 idealse.com.br
 idontknow.moe
 ieltsonlinetest.com
@@ -926,6 +924,7 @@ irenecairo.com
 irisoil.com
 ironcloverflies.com
 isaac.samjoemmy.com
+isbellindustries.com
 iscanhome.com
 isennik.pl
 isginsaat.com.tr
@@ -956,7 +955,6 @@ jessicalinden.net
 jghorse.com
 jhandiecohut.com
 jifowls-ffupdateloader.com
-jigneshjhaveri.com
 jitkla.com
 jitsupa.com
 jlyrique.com
@@ -1047,6 +1045,7 @@ llupa.com
 lm4w.org
 lnfm.eu
 localbusinesspromotion.co.uk
+lockoutindia.com
 loei.drr.go.th
 log.yundabao.cn
 lokahifishing.com
@@ -1102,6 +1101,7 @@ meandoli.com
 media0.webgarden.name
 medregisalmaty.kz
 melonacreations.co.za
+melondisc.co.th
 mettek.com.tr
 mfcdebiezen.eu
 mhdaaikash-dot-yamm-track.appspot.com
@@ -1161,6 +1161,7 @@ netin.vn
 netuhaf.com
 neudimensions.com
 neuroinnovacion.com.ar
+newarkpdmonitor.com
 ngyusa.com
 nightfirescientific.com
 nisanbilgisayar.net
@@ -1199,7 +1200,6 @@ ostyle-shop.net
 outsourcingpros.com
 owczarnialefevre.com
 ozgeners.com
-p0ste.us
 packetstorm.foofus.com
 page3.jmendezleiva.cl
 pakistantourism.com.pk
@@ -1243,7 +1243,6 @@ portraitworkshop.com
 posta.co.tz
 powerwield.com
 pqbs.sekolahquran.sch.id
-pracowniaroznosci.pl
 pride.ge
 pro.netplanet.it
 procasa.imb.br
@@ -1483,6 +1482,7 @@ u.coka.la
 u.lewd.se
 ucan.ouo.tw
 ucitsaanglicky.sk
+uebhyhxw.afgktv.cn
 uk-novator.ru
 uksamples.com
 ultigamer.com
@@ -1497,12 +1497,10 @@ unitedtranslations.com.au
 updateadovesettings.io
 uplloadfile.ru
 upload.ynpxrz.com
-url.246546.com
 urrutimeoli.com
-us.cdn.persiangig.com
 usanin.info
 uwgeboortekaart.nl
-uxz.didiwl.com
+uycqawua.applekid.cn
 uzri.net
 vaatzit.autoever.com
 valencecontrols.com
@@ -1543,6 +1541,7 @@ webdemo.honeynet.vn
 webfeatworks.com
 webmail.mercurevte.com
 webmazterz.com
+wg50.11721.wang
 whybowl.thebotogs.com
 williamenterprisetrading.com
 winchouf.com
@@ -1570,7 +1569,6 @@ xn--80apjicfhnjo4g.xn--p1ai
 xn--b1afnmjcis3f.xn--p1ai
 xn--dieglcksspirale-3vb.net
 xzc.197746.com
-xzc.198424.com
 y31uv4ra1.vo.llnwd.net
 yagurkitchens.com
 yaokuaile.info
