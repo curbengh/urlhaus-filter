@@ -19,8 +19,8 @@ before_script:
   - chmod 644 ~/.ssh/known_hosts
 
   # Set commit author
-  - git config --global user.name "curben via GitLab Runner"
-  - git config --global user.email "curben@users.noreply.gitlab.com"
+  - git config --global user.name "curben-bot"
+  - git config --global user.email "curben-bot@users.noreply.gitlab.com"
 
 deploy:
   script:
