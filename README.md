@@ -8,7 +8,7 @@ Filter is updated twice a day.
 
 Import the following URL into uBO to subcribe:
 
-https://gitlab.com/curben/urlhaus/raw/master/urlhaus-filter.txt
+https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
 
 ## Description
 
@@ -20,7 +20,7 @@ Following URL categories are removed from the database dump:
 
 Database dump is saved as [URLhaus.csv](src/URLhaus.csv), get processed by [script.sh](utils/script.sh) and output as [urlhaus-filter.txt](urlhaus-filter.txt).
 
-## Note
+## Issues
 
 Please report any false positive.
 
@@ -30,6 +30,10 @@ Please report malware URL to the upstream maintainer through https://urlhaus.abu
 
 This repo is not endorsed by Abuse.sh.
 
+## License
+
+[Creative Commons Zero v1.0 Universal](LICENSE.md)
+
 ## FAQ
 
-See [wiki](https://gitlab.com/curben/urlhaus-filter/wikis/FAQ)
+See [wiki](https://gitlab.com/curben/urlhaus-filter/wikis/FAQ).
