@@ -1,11 +1,12 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 25 Nov 2018 00:22:22 UTC
+! Updated: Sun, 25 Nov 2018 12:22:01 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Source: https://urlhaus.abuse.ch/api/
 02feb02.com
 1.247.157.184
+1.254.80.184
 1.34.159.137
 1.34.187.191
 1.34.242.32
@@ -25,7 +26,6 @@
 104.248.231.103
 104.32.195.57
 104.32.48.59
-106.215.95.241
 106.241.223.144
 107.161.80.24
 107.172.196.165
@@ -39,8 +39,8 @@
 109.248.148.36
 109.74.64.155
 11.gxdx2.crsky.com
+111.1.89.192
 111.184.255.79
-111.231.233.51
 111.90.151.207
 111.90.158.225
 112.163.142.40
@@ -57,6 +57,7 @@
 115.165.206.174
 115.28.162.250
 115.47.117.14
+116.73.61.11
 117.91.172.11
 117.91.172.49
 118.99.239.217
@@ -75,8 +76,8 @@
 132.147.40.112
 132.148.19.16
 136.49.14.123
-137.74.148.234
 138.128.150.133
+138.197.161.220
 14.1.29.67
 14.181.118.183
 14.35.10.207
@@ -86,7 +87,6 @@
 140.224.61.122
 141.226.28.195
 142.129.111.185
-142.93.18.16
 147.135.76.202
 149.202.159.182
 150.co.il
@@ -104,14 +104,12 @@
 167.99.78.58
 167.99.81.74
 173.216.255.71
-173.254.192.169
 173.77.215.239
 174.66.84.149
 175.195.204.24
 176.32.33.123
 176.32.33.25
 177.103.221.82
-177.139.177.37
 177.189.220.179
 177.191.248.119
 178.128.122.4
@@ -144,18 +142,16 @@
 186.249.40.146
 187.2.17.29
 187.235.218.147
+187.37.218.6
 188.166.125.19
 188.215.245.237
 188.36.121.184
 189.100.19.38
 189.135.100.31
 189.148.182.221
-189.18.64.172
 189.198.67.249
 189.223.121.48
 190.234.14.91
-190.52.166.145
-190.69.81.172
 190.7.27.69
 190.90.239.42
 191.190.216.82
@@ -166,6 +162,7 @@
 192.99.142.235
 193.200.50.136
 194.147.32.75
+194.36.173.82
 194.48.152.17
 196.27.64.243
 197.44.37.15
@@ -175,6 +172,7 @@
 198.98.62.237
 199.19.225.161
 1roof.ltd.uk
+2.137.25.19
 200.194.39.96
 200.225.120.12
 201.168.151.182
@@ -184,6 +182,7 @@
 202.29.95.12
 203.146.208.208
 203.189.235.221
+204.13.67.244
 205.185.118.172
 205.185.122.240
 205.185.125.213
@@ -203,11 +202,9 @@
 216.170.114.195
 217.160.51.208
 217.218.219.146
-217.69.15.43
 218.161.75.17
 218.214.86.77
 218.232.224.35
-21807.xc.iziyo.com
 220.134.44.253
 220.135.87.33
 221.159.211.136
@@ -236,7 +233,6 @@
 31.179.251.36
 31.211.138.227
 31.3.230.11
-36.67.206.31
 36.76.115.251
 37.142.144.79
 37.157.176.104
@@ -260,6 +256,7 @@
 46.173.219.83
 46.24.91.108
 46.29.160.137
+46.36.41.247
 46.60.117.41
 46.97.21.166
 46.97.21.194
@@ -327,7 +324,6 @@
 80.211.94.154
 80001.me
 81.213.166.175
-81.4.101.221
 81.43.101.247
 8145431672250565765-a-1802744773732722657-s-sites.googlegroups.com
 82.80.143.205
@@ -338,24 +334,27 @@
 85.222.91.82
 85.70.68.107
 85.9.61.102
+86.34.66.189
 86.5.70.142
 87.116.151.239
 87.2.218.213
+87.244.5.18
 88.249.120.216
 89.105.202.39
 89.34.237.146
 89.34.237.150
 89.34.237.189
+89.34.26.124
 89.34.26.134
 89.34.26.152
 89.40.127.182
+89.46.223.213
 9.mmedium.z8.ru
 91.180.98.190
 91.236.140.236
 91.238.117.163
 91.98.155.80
 92.63.197.48
-92.63.197.60
 93.174.93.149
 94.23.188.113
 94.52.37.14
@@ -370,10 +369,8 @@ abdullahsheikh.info
 abeautifulyouskincare.com
 abeliks.ru
 absamoylov.ru
-academica.samarindaweb.com
 accessclub.jp
 acetgroup.co.uk
-acghope.com
 ackersberg.at
 acquainaria.com
 actionplanet.cn
@@ -385,6 +382,7 @@ advisings.cl
 aelinks.com
 aeriale.com
 afan.xin
+africimmo.com
 ahkha.com
 ahmadalhanandeh.com
 ahwebdevelopment.com
@@ -425,6 +423,7 @@ andishwaran.ir
 andonia.com
 angeleproductions.com
 antalyahabercisi.com
+anvietpro.com
 anwalt-mediator.com
 aphlabs.com
 api.wipmania.net
@@ -454,7 +453,9 @@ ashifrifat.com
 asiapointpl.com
 asliozeker.com
 aspiringfilms.com
+astramedvil.ru
 atelierdupain.it
+atragon.co.uk
 attach.66rpg.com
 auladebajavision.com
 autokosmetykicartec.pl
@@ -502,13 +503,13 @@ besserblok-ufa.ru
 best-offshore.ru
 beta.adriatictours.com
 bettencourtdesign.net
+betterbricksandmortar.com
 beurse.nl
 bfm.red
 biagioturbos.com
 bigablog.com
 bihanhtailor.com
 binar48.ru
-binaryrep.loan
 bio-vision.in
 birbillingbarot.com
 birbillingfly.com
@@ -569,6 +570,7 @@ canoninstant.com
 cargoglobe-ltd.com
 carminewarren.com
 carnificina.com
+carolinaquail.org
 caromijoias.com.br
 casanbenito.com
 cash888.net
@@ -594,18 +596,21 @@ cheatex.clan.su
 check-my.net
 chefshots.com
 chianesegroup.com
+chippingscottage.customer.netspace.net.au
 chstarkeco.com
 cicprint.com.mx
 cindysonam.org
 circuloproviamiga.com
 ckobcameroun.com
 cl.ssouy.com
+clc-net.fr
 clean.crypt24.in
 clickara.com
 clickclick2trip.com
 clinicasense.com
 clock.noixun.com
 cmnmember.coachmohdnoor.com
+cnc.methaddict.xyz
 cnudst.progresstn.com
 cnwconsultancy.com
 cnzjmsa.gov.cn
@@ -677,7 +682,6 @@ demo.esoluz.com
 demo15.versamall.com
 demo15.webindia.com
 depomedikal.com
-depraetere.net
 desensespa.com
 deskilate.com
 dfsd.actfans.com
@@ -713,6 +717,7 @@ down.ancamera.co.kr
 down.cacheoffer.tk
 down.ctosus.ru
 down.didiwl.com
+down.haote.com
 down.startools.co.kr
 down.topsadon.com
 down.webbora.com
@@ -728,6 +733,7 @@ download.fixdown.com
 download.glzip.cn
 download.u7pk.com
 download.ware.ru
+download5.77169.com
 draqusor.hi2.ro
 drcarrico.com.br
 dreammaster-uae.com
@@ -780,6 +786,7 @@ epsl.fr
 equilibriummedical.com.br
 eravon.co.in
 erestauranttrader.com
+erollar.com.tr
 eroscenter.co.il
 eskrimadecampo.ru
 eso-kp.ru
@@ -797,6 +804,7 @@ event.suzukimoto.my
 excel.sos.pl
 expertessaywriting.co.uk
 exploraverde.co
+expressuse.com
 ezbk.co.uk
 ezinet.co.za
 ezpullonline.com
@@ -805,7 +813,6 @@ f.kuai-go.com
 f2host.com
 f96098rt.beget.tech
 faithbibleabq.org
-fakita.com
 familiasexitosascondayan.com
 fanction.jp
 fantastika.in.ua
@@ -859,7 +866,6 @@ gerstenhaber.org
 gesundheit.alles-im-inter.net
 ghancommercialbank.com
 ghislain.dartois.pagesperso-orange.fr
-ghthf.cf
 giardiniereluigi.it
 ginfora.com
 glamourgarden-lb.com
@@ -945,6 +951,7 @@ hypponetours.com
 iberias.ge
 icases.pro
 icmcce.net
+icn.tectrade.bg
 iconoeditorial.com
 iconwebs.com
 idealse.com.br
@@ -955,6 +962,7 @@ ifcjohannesburg.org
 ighighschool.edu.bd
 illuminate.gr
 iluzhions.com
+imemmw.org
 imf.ru
 img19.vikecn.com
 imish.ru
@@ -1111,6 +1119,7 @@ llhd.jp
 llupa.com
 lm4w.org
 lnfm.eu
+loadhost.2zzz.ru
 localbusinesspromotion.co.uk
 loei.drr.go.th
 log.yundabao.cn
@@ -1147,7 +1156,6 @@ manatwork.ru
 mandala.mn
 marioallwyn.info
 marketingempresario.com
-mascorloja.com
 masjedkong.ir
 matel.p.lodz.pl
 max-clean.com
@@ -1176,6 +1184,7 @@ microsoftupdate.dynamicdns.org.uk
 mihostal.net
 mils-group.com
 mindspeak.co
+mine.zarabotaibitok.ru
 minhajwelfare.org
 minifiles.net
 miracletours.jp
@@ -1209,6 +1218,7 @@ mtt.nichost.ru
 muluz.es
 munimafil.cl
 mustafaavcitarim.com
+mustangsports.info
 muybn.com
 my-health-guide.org
 myabisib.ru
@@ -1270,7 +1280,6 @@ otumfuocharityfoundation.org
 owczarnialefevre.com
 owwwc.com
 ozgeners.com
-ozlemtunc.com
 page3.jmendezleiva.cl
 palisc.ps
 parsintelligent.com
@@ -1304,7 +1313,6 @@ podpea.co.uk
 pokorassociates.com
 pomf.pyonpyon.moe
 ponti-int.com
-poolheatingnsw.com.au
 popixar.zaan.eu
 porn-games.tv
 portraitworkshop.com
@@ -1333,7 +1341,6 @@ przedszkolezrodelko.edu.pl
 psatafoods.com
 psyche.xiaotaoqi.me
 ptmskonuco.me.gob.ve
-puchovsky.sk
 quatangbiz.com
 quebrangulo.al.gov.br
 queensfordcollegebrisbane-my.sharepoint.com
@@ -1408,6 +1415,7 @@ server33.onlineappupdater.com
 servet.000webhostapp.com
 service-quotidien.com
 setembroamarelo.org.br
+setiamanggalaabadi.com
 setincon.com
 setticonference.it
 setup.co.il
@@ -1464,6 +1472,7 @@ sportive-technology.com
 sptrans.net
 sputnikmailru.cdnmail.ru
 squareinstapicapp.com
+squateasy.es
 ssauve.com
 ssgarments.pk
 st212.com
@@ -1515,7 +1524,6 @@ test1.nitrashop.com
 testbricostone.placarepiatra.ro
 teste111.hi2.ro
 tests2018.giantstrawdragon.com
-thaidocdaitrang.com
 thanhsarah.com
 thankyoucraig.com
 thebestkcsmiles.com
@@ -1577,6 +1585,7 @@ u8137488.ct.sendgrid.net
 ucan.ouo.tw
 ucitsaanglicky.sk
 ue.nbs.edu.cn
+uebhyhxw.afgktv.cn
 uk-novator.ru
 ulukantasarim.com
 umobile.ru
@@ -1599,7 +1608,6 @@ uzri.net
 vaatzit.autoever.com
 vaheracouncil.com
 valencecontrols.com
-van-wonders.co.uk
 vaun.com
 vav.edu.vn
 vaz-synths.com
@@ -1616,6 +1624,7 @@ viswavsp.com
 vitrexfabrications.com
 vocabulons.fr
 volathailand.com
+vuaphonglan.com
 wadeguan.myweb.hinet.net
 wahajah-ksa.com
 wansaiful.com
