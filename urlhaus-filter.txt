@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 26 Jan 2019 00:23:08 UTC
+! Updated: Sat, 26 Jan 2019 12:22:14 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -7,6 +7,7 @@
 02.bd-pcgame.xiazai24.com
 03.bd-pcgame.xiazai24.com
 04.bd-pcgame.720582.com
+05.bd-pcgame.xiazai24.com
 06.bd-pcgame.xiazai24.com
 0qixri.thule.su
 1.247.157.184
@@ -15,6 +16,7 @@
 1.34.159.137
 1.34.220.200
 1.almaz13.z8.ru
+10.bd-pcgame.xiazai24.com
 101.200.214.249
 101.96.10.47
 103.100.209.198
@@ -40,6 +42,7 @@
 108.46.227.234
 108.58.16.83
 108.74.200.87
+109.121.195.237
 109.205.143.207
 109.74.64.155
 11.gxdx2.crsky.com
@@ -90,11 +93,13 @@
 150.co.il
 151.236.38.234
 151.80.8.17
+16.bd-pcgame.xiazai24.com
 162.222.188.61
 163.172.151.205
 163.172.233.237
 166.70.72.209
 168.194.229.101
+17.bd-pcgame.xiazai24.com
 170.83.209.223
 172.85.185.216
 173.167.154.35
@@ -113,6 +118,7 @@
 18.188.218.228
 180.153.105.169
 180.66.68.39
+180.76.114.169
 181.174.166.164
 181.174.57.207
 182.235.29.89
@@ -128,16 +134,18 @@
 185.22.154.248
 185.234.217.21
 185.244.25.123
+185.244.25.133
 185.244.25.134
 185.244.25.138
 185.244.25.145
-185.244.25.147
 185.244.25.153
 185.244.25.166
 185.244.25.168
-185.244.25.174
 185.244.25.176
+185.244.25.194
 185.244.25.207
+185.244.25.224
+185.244.25.229
 185.244.25.233
 185.244.25.234
 185.244.25.241
@@ -158,9 +166,9 @@
 189.100.19.38
 189.18.7.28
 189.198.67.249
+189.32.232.54
 19.bd-pcgame.xiazai24.com
 190.69.81.172
-190.7.27.69
 190.88.184.137
 190.90.239.42
 191.191.19.177
@@ -169,11 +177,14 @@
 192.99.242.13
 193.148.69.33
 193.200.50.136
+193.238.47.118
 193.248.246.94
+194.147.35.56
 197.51.100.50
 198.12.71.3
 198.23.252.10
 198.46.190.41
+198.98.53.130
 198.98.61.186
 198.98.62.237
 199.38.243.9
@@ -211,6 +222,7 @@
 211.187.75.220
 211.193.86.151
 211.48.208.144
+212.36.31.215
 212.77.144.84
 216.170.120.102
 217.139.86.228
@@ -260,13 +272,13 @@
 31.168.24.115
 31.168.70.230
 31.179.251.36
-31.184.198.154
 31.207.35.116
 31.211.138.227
 35.227.184.106
 35.227.55.119
 35.242.233.97
 36.39.80.218
+36.67.206.31
 37.116.102.190
 37.130.81.162
 37.252.74.43
@@ -329,8 +341,6 @@
 64.69.83.43
 66.117.2.182
 66.55.64.137
-67.205.129.169
-68.183.97.132
 69.202.198.255
 72.186.139.38
 72.224.106.247
@@ -361,10 +371,10 @@
 80.211.113.14
 80.211.44.61
 81.133.236.83
-81.213.166.175
 81.214.220.87
 81.43.101.247
 82.137.216.202
+82.166.24.224
 82.166.27.140
 82.223.67.251
 82.80.143.205
@@ -388,10 +398,10 @@
 87.244.5.18
 88.247.170.137
 88.249.115.118
+88.250.196.101
 89.115.23.13
 89.133.14.96
 89.144.174.153
-89.165.4.105
 89.223.27.213
 89.34.26.118
 89.46.223.195
@@ -404,7 +414,6 @@
 92.44.62.174
 92.63.197.143
 92.63.197.147
-92.63.197.153
 92.63.197.48
 92.63.197.60
 926cs.com
@@ -427,10 +436,12 @@ a.xiazai163.com
 a46.bulehero.in
 aa-publisher.com
 abbottech-my.sharepoint.com
+acceptdatatime.com
 accessclub.jp
 accountamatic.net
 accountlimited.altervista.org
 aceponline.org.ng
+acghope.com
 achat-or-rennes.fr
 acm.ee
 acquainaria.com
@@ -474,8 +485,8 @@ ali-apk.wdjcdn.com
 alkopivo.ru
 all4mums.ru
 allaroundwm.com
-allinmadagascar.com
 allloveseries.com
+allopizzanuit.fr
 allseasons-investments.com
 almahsiri.ps
 almaregion.com
@@ -495,7 +506,6 @@ amlgroup.in
 amocrmkrg.kz
 amsi.co.za
 anaviv.ro
-andam3in1.com
 andonia.com
 andrewsalmon.co.uk
 anello.it
@@ -536,7 +546,6 @@ arquivos.cenize.com
 arsenal-rk.ru
 arstecne.net
 art.nfile.net
-artburo.moscow
 artebru.com
 arteelectronics.cl
 ashifrifat.com
@@ -555,7 +564,6 @@ aulist.com
 aurainside.bid
 aussietruffles.com
 ausvest-my.sharepoint.com
-autopart.tomsk.ru
 autosarir.ir
 ava-group.us
 avazturizm.com
@@ -643,10 +651,9 @@ bjkumdo.com
 blackfridaytvoitreider.store
 blamdigital.com
 blinfra.com.br
-blockchainhowtouse.com
-blog.healthyactivewellness.com
 blogg.postvaxel.se
 blogs.cricskill.com
+blogs.thule.su
 blogtintuc.tk
 bloomspor.com
 bmc-medicals.com
@@ -659,7 +666,6 @@ bottraxanhtini.com
 bouresmau-gsf.com
 boylondon.jaanhsoft.kr
 bparj.xyz
-braecarautos.com
 brainchildmultimediagroup.com
 braner.com.ua
 broscam.cl
@@ -694,13 +700,12 @@ cathome.org.tw
 cathwaylinksexpress.com
 catk.hbca.org.cn
 catsandfacts.info
-cattea.cl
 cb2.fun
+cbet.ca
 cbsr.com.pk
 cbup1.cache.wps.cn
 cccb-dz.org
 ccowan.com
-ccyqgdy.gq
 cdn-10049480.file.myqcloud.com
 cdn.fullpccare.com
 cdn.openinstall.com.s3.amazonaws.com
@@ -719,6 +724,7 @@ cfs11.planet.daum.net
 cfs4.tistory.com
 cfs8.tistory.com
 cfs9.tistory.com
+cgameres.game.yy.com
 ch.rmu.ac.th
 chalesmontanha.com
 changemindbusiness.com
@@ -729,7 +735,6 @@ charihome.com
 charlirni.net
 charm.bizfxr.com
 chepa.nl
-childrenrightsfoundation.org
 chilenoscroatas.cl
 chippingscottage.customer.netspace.net.au
 chita02.xsrv.jp
@@ -791,7 +796,6 @@ contaresidencial.com
 copsnailsanddrinks.fr
 coronadodirectory.com
 corporaciondelsur.com.pe
-corretordejoanete.site
 cortijodebornos.es
 cosmictv.xyz
 cqbooths.com
@@ -863,6 +867,7 @@ detectin.com
 dev-point.co
 dev.microcravate.com
 dev.umasterov.org
+devgroupofhotels.com
 devitforward.com
 dgecolesdepolice.bf
 dgpratomo.com
@@ -889,7 +894,6 @@ district.vi-bus.com
 ditec.com.my
 divergentsight.net
 dkck.com.tw
-dl.008.net
 dl.bypass.network
 dl.teeqee.com
 dl01.s3.amazonaws.com
@@ -903,6 +907,7 @@ dom-sochi.info
 dominusrex.fr
 domproekt56.ru
 dongygiatruyentienhanh.net
+dosame.com
 dotshopify.com
 down.263209.com
 down.54nb.com
@@ -924,17 +929,16 @@ down.topsadon.com
 down.webbora.com
 down.wifigx.com
 down.xrpdf.com
+down.zynet.pw
 down1.arpun.com
 down1.greenxf.com
 down1.topsadon1.com
-down10b.zol.com.cn
 down5.mqego.com
 download.adamas.ai
 download.cardesales.com
 download.doumaibiji.cn
 download.fahpvdxw.cn
 download.fixdown.com
-download.fsyuran.com
 download.glzip.cn
 download.instalki.org
 download.mtu.com
@@ -958,9 +962,9 @@ drupal.meioz.com
 dryzi.net
 dua-anggrek.net
 duandojiland-sapphire.com
+duanmizukipark.com
 duannamvanphong.com
 dulichvietlao.vn
-duongcaoky.com
 duratransgroup.com
 dvip.drvsky.com
 dw.58wangdun.com
@@ -988,7 +992,6 @@ editocom.info
 efreedommaker.com
 eg-concept.com
 egitimambari.com
-egomam.su
 egyptiti.com
 eitchendie.com
 ejadarabia.com
@@ -1050,7 +1053,6 @@ eximme.com
 explosederire.com
 ezinet.co.za
 f2host.com
-f915003w.beget.tech
 facingnorthdigital.com
 fam-koenig.de
 familiasexitosascondayan.com
@@ -1060,7 +1062,6 @@ fastimmo.fr
 fastsolutions-france.com
 faucetbaby.com
 fayzi-khurshed.tj
-fcbpl110.com
 fd.laomaotao.org
 fd.uqidong.com
 fenlabenergy.com
@@ -1078,6 +1079,8 @@ files.hrloo.com
 files.zzattack.org
 files6.uludagbilisim.com
 firephonesex.com
+firstchem.vn
+fishingguard.co.kr
 fitografia.net
 fixi.mobi
 fjorditservices.com
@@ -1102,7 +1105,6 @@ francoisebon.fr
 frankraffaeleandsons.com
 frankshedy.5gbfree.com
 freelancecommunication.fr
-fribola.com
 fristpolychem.download
 froidfond-stejeannedarc.fr
 frontierdevlimited.com
@@ -1139,13 +1141,14 @@ gd2.greenxf.com
 geckochairs.com
 gemriverside-datxanh.xyz
 general.it
-geniit.com
 gephesf.pontocritico.org
 gerstenhaber.org
 geshtalt.mk
+getaddressclick.com
 ghancommercialbank.com
 ghayoorabbasofficial.com
 ghislain.dartois.pagesperso-orange.fr
+giamcansieunhanh.com
 giardiniereluigi.it
 giay136.com
 gilhb.com
@@ -1157,7 +1160,6 @@ globaltel.ma
 glorialoring.com
 gnb.uz
 gnhehhands.bt
-gododu.com
 gogolwanaagpoultry.com
 gold.mistersanji.com
 goldenmiller.ro
@@ -1169,8 +1171,6 @@ gonenyapi.com.tr
 gops2.home.pl
 gosiltechono.co
 gowriensw-my.sharepoint.com
-gpsalagoas.com.br
-granbonsai.com
 graphee.cafe24.com
 gratisgiftcards.com
 greatis.com
@@ -1178,7 +1178,6 @@ greatissoftware.com
 greatmobiles.co.uk
 greattechnical.com
 greencampus.uho.ac.id
-greenglobal.co.id
 greenwhitegranit.com
 ground-africa.com
 grouper.ieee.org
@@ -1193,13 +1192,13 @@ h-bva.ru
 h-guan.com
 h-h-h.jp
 ha5kdq.hu
+habibsonline.com
 hackdownload.free.fr
 hairandshoes.com
 hairbyalexis.co.uk
 hairrecoverysolution.com
 hakim.ws
 hakronteknoloji.com
-hamamelsalam.org
 hamanakoen.com
 haornews24.com
 happysunfellbach.com
@@ -1212,7 +1211,6 @@ hcchanpin.com
 headstride.com
 healingisnotanaccident.com
 health-hq.info
-healthylife25.com
 heartburnsafe.com
 heartseasealpacas.com
 heartware.dk
@@ -1227,13 +1225,9 @@ hgebatiment.com
 hhicchurch.org
 hhjfffjsahsdbqwe.com
 hikeforsudan.org
-hillcricketballs.co.za
 hilohdesign.com
 hinfo.biz
 hireanaccountant.ca
-hitechartificiallimbs.com
-hitechkitchenzone.com
-hjsanders.nl
 hnsyxf.com
 hoaminhchau.bmt.city
 hoanglecompany.vn
@@ -1256,11 +1250,11 @@ hotelikswidwin.pl
 hotelkian.com
 hotelplayaelagua.com
 hotelsbreak.com
+hotrosieunhanh.com
 hotshot.com.tr
 hourofcode.cn
 houseefashioon.my
 htxl.cn
-humanointegral.cl
 hungryman.vi-bus.com
 hwasungchem.co.kr
 hyboriansolutions.net
@@ -1276,6 +1270,7 @@ iar.webprojemiz.com
 ibnkhaldun.edu.my
 ibpminstitute.org
 icases.pro
+iccl.club
 icmcce.net
 icta.futminna.edu.ng
 idealse.com.br
@@ -1288,7 +1283,6 @@ illuminedroma.com
 images.tax861.gov.cn
 imf.ru
 img.martatovaglieri.com
-img19.vikecn.com
 img54.hbzhan.com
 imish.ru
 inceptionradio.planetparanormal.com
@@ -1303,10 +1297,10 @@ ini.58qz.com
 ini.egkj.com
 innoohvation.com
 insomnia.kz
+install-flashplayer.zapto.org
 installatiebedrijfroosendaal.nl
 instantcashflowtoday.com.ng
 insurance.mistersanji.com
-insuranceandinvestment.co.in
 int-tcc.com
 integraga.com
 intelligintion.com
@@ -1320,11 +1314,11 @@ iparkingtest.com
 iphonelock.ir
 iquestcon-my.sharepoint.com
 iranbody.xyz
-iranianjahesh.com
 irenecairo.com
 isaac.samjoemmy.com
 isc-cu.org
 isis.com.ar
+islandboyrecords.co
 ismailbeezhimagar.com
 isoblogs.ir
 isolve-id.com
@@ -1365,7 +1359,6 @@ jetguvenlik.com
 jghorse.com
 jhandiecohut.com
 jifendownload.2345.cn
-jigneshjhaveri.com
 jimbagnola.ro
 jineplast.com.tr
 jitkla.com
@@ -1388,6 +1381,7 @@ justbathrooms.net
 justexam.xyz
 justfordemos.tk
 juupajoenmll.fi
+jzny.com.cn
 k-investigations.com
 k.iepedacitodecielo.edu.co
 kadinlr.com
@@ -1397,7 +1391,6 @@ kamasu11.cafe24.com
 kamelot.marketing-pr.biz
 kamprotect.ru
 kapelazradomia.pl
-karaibe.us
 karassov.ru
 karavantekstil.com
 kardelenozelegitim.com
@@ -1415,9 +1408,7 @@ khicongnghiepvn.com
 khomyphamhanoi.com
 kientrucdep.club
 kientrucviet24h.com
-kienvangvungtau.com
 kikakeus.nl
-kimono-kor.com
 kimyen.net
 kingpinmedia.co.uk
 kingshipbuilding.com
@@ -1464,10 +1455,9 @@ komsima.org
 konan-jidosya.jp
 konjacteaturkiye.com
 koppemotta.com.br
-kormbat.com
 kortinakomarno.sk
+kosarhaber.xyz
 koumbaservice.com
-koup.co.in
 kr1s.ru
 krasnobrodsky.ru
 krazyfin.com
@@ -1477,6 +1467,7 @@ ksviet.com
 kuaizip.com
 kudteplo.ru
 kurumsal.webprojemiz.com
+kwalityzns.com
 kymviet.vn
 l4r.de
 labersa.com
@@ -1499,7 +1490,6 @@ lartisto-cocina.com
 laurapetrioli.com
 lawindenver.com
 lawlabs.ru
-lbuliwawdy.cf
 ld.mediaget.com
 le-castellino.fr
 le-sancerrois.com
@@ -1507,13 +1497,12 @@ lead.bilisim2023.com
 lead.vision
 learnbuddy.com
 lebanonturismo.com.br
-ledet.gov.za
+leclix.com
 lefurle.by
 lelcrb.by
 lemonremodeling.com
 lemurapparel.cl
 leonardokubrick.com
-leotravels.in
 lepdecor.kz
 lespetitsloupsmaraichers.fr
 letoilerestaurant.com
@@ -1527,7 +1516,6 @@ lifestylebycaroline.com
 ligheh.ir
 lightpower.dk
 limancnc.com
-lioiousdy.cf
 lists.ibiblio.org
 lists.reading.ac.uk
 littleumbrellas.net
@@ -1538,10 +1526,10 @@ livetrack.in
 livingbranchanimalsciences.com
 llhd.jp
 locarx.dev4you.net
+loei.drr.go.th
 log.yundabao.cn
 logopediaromaeur.it
 lokahifishing.com
-lokanou.webinview.com
 lonesomerobot.com
 looktravel.ge
 lostri-o.com
@@ -1560,13 +1548,13 @@ maf-orleans.fr
 magicienalacarte.com
 mail.buligbugto.org
 mail.credisol.hn
-mail.firstrain.in.cp-ht-3.bigrockservers.com
 maionline.co.uk
 maison-enfance.fr
+maisonvoltaire.org
 malfreemaps.com
+malin-kdo.fr
 malinallismkclub.com
 malware-spyhunter.s3.amazonaws.com
-mamquatrongoi.com
 manatwork.ru
 mandala.mn
 manhattan.dangcaphoanggia.com
@@ -1578,7 +1566,6 @@ marioallwyn.info
 marisel.com.ua
 maritime.co.id
 marketspioneer.com
-markfathers.com
 mary-shops.ru
 masjedkong.ir
 matel.p.lodz.pl
@@ -1618,7 +1605,6 @@ mike.trmbldigital.xyz
 miketec.com.hk
 milagro.com.co
 mileageindia.com
-millennialsuccesscentre.com
 milltechrecruitment.co.za
 mimiabner.com
 mindvim.com
@@ -1648,7 +1634,6 @@ mmmvideo.s3.amazonaws.com
 mobile.tourism.poltava.ua
 mobilhondakalbar.com
 mogilevcity.by
-mohammadishmam.com
 mohasaneh.com
 molministries.org
 montbreuil.com
@@ -1660,18 +1645,17 @@ mountainrp.com
 mozarthof.com
 mr-digitalmarketing.com
 mrhinkydink.com
-mrlearning.in
 mskala2.rise-up.nsk.ru
 mso.services
 mtt.nichost.ru
-mukeshgoyal.in
+mudanzas-zaragoza.org
 mukhtaraindonesiawisata.com
 mutevazisaheserler.com
 muzhskoedelo.by
 mv360.net
+mxd-1253507133.file.myqcloud.com
 my-health-guide.org
 mybible.cn
-mycv.fsm.undip.ac.id
 myelectrive.com
 mymachinery.ca
 mymercedesdirect.com
@@ -1686,12 +1670,12 @@ mywebnerd.com
 mywoods.by
 myyoungfashion.com
 n.bxacg.com
+n.didiwl.com
 naavina.com
 nadym.business
 namecard.hu
 nami.com.uy
 nanhoo.com
-nanodigestmag.com
 nanokesif.com
 nanomineraller.com
 natboutique.com
@@ -1699,17 +1683,18 @@ natenstedt.nl
 nathaninteractive.com
 naturaltaiwan.asia
 nauticalpromo.com
-nearbuyrooms.info
+neccotweethearts.com
 nemetboxer.com
 nepra.by
 nesbbc.top
-nestadvance.com
 netmansoft.com
 nevadacomputer.com
 new.surfcampghana.com
+newarkpdmonitor.com
 newbiecontest.org
 newsnaija.ng
 newwater-my.sharepoint.com
+newyeardealz.com
 next-vision.ro
 nextsearch.co.kr
 nexusdental.com.mx
@@ -1738,6 +1723,7 @@ norsterra.cn
 noscan.us
 notes.town.tillsonburg.on.ca
 novichek-britam-v-anus.000webhostapp.com
+nrnreklam.com
 ntcetc.cn
 ntdjj.cn
 nuevasoportunidades.net
@@ -1754,6 +1740,7 @@ obseques-conseils.com
 oceangate.parkhomes.vn
 ocmama.net
 ocmama.vn
+ocrn597v5.bkt.clouddn.com
 oculista.com.br
 odesagroup.com
 ofertas.comparadentistas.com
@@ -1765,15 +1752,16 @@ old.decani.ru
 old.klinika-kostka.com
 old.norsec.kz
 oldmemoriescc.com
-olmaa.org
 omegamanagement.pl
 omolara.net
 omsk-osma.ru
 onedrive.one
+onepiling.com
 onetechblog.tek1.top
 oneview.llt-local.com
 ongac.org
 onggiodieuhoa.com
+onlinedown.down.123ch.cn
 ontamada.ru
 optimasaludmental.com
 orclei.com.br
@@ -1787,10 +1775,10 @@ ostyle-shop.net
 otdelka-balkona.tomsk.ru
 otkachka.novosibirsk.ru
 otohondavungtau.com
+oussamatravel.com
 owczarnialefevre.com
 owwwc.com
 oxatools.de
-ozkaracan.com.tr
 p.owwwa.com
 p1.lingpao8.com
 p2.lingpao8.com
@@ -1806,7 +1794,6 @@ patch.cdn.topgame.kr
 patch2.99ddd.com
 patch3.51mag.com
 patch3.99ddd.com
-pattani.mcu.ac.th
 paul.falcogames.com
 pay.aqiu6.com
 pc.xzstatic.com
@@ -1821,6 +1808,7 @@ pesei.it
 phantasy-ent.com
 phantran.vn
 phattrienviet.com.vn
+phelieuasia.com
 phongvegiaphien.com
 photomoura.ir
 pinarilata.com
@@ -1835,6 +1823,7 @@ plum.joburg
 pmcphidim.edu.np
 pnneuroeducacao.pt
 pocketmate.com
+podologotarragona.es
 pokorassociates.com
 porn-games.tv
 pornbeam.com
@@ -1847,7 +1836,6 @@ powerwield.com
 pracowniaroznosci.pl
 preladoprisa.com
 prenak.com
-preview.enroutedigitallab.com
 prfancy-th.com
 pricesite.webprojemiz.com
 prisma.fp.ub.ac.id
@@ -1869,6 +1857,7 @@ pzhsz.ltd
 qobiljon.uz
 qsongchihotel.com
 quahandmade.org
+quangninh.biz
 quatanggiaminh.com
 quebrangulo.al.gov.br
 queekebook.com
@@ -1906,7 +1895,6 @@ resolutionhomesales.com
 resortmasters.com
 restaurantelataperiadel10.com
 restlesz.su
-retro11legendblue.com
 reviewzaap.azurewebsites.net
 riaztex.com
 rijschool-marketing.nl
@@ -1917,7 +1905,7 @@ robbedinbarcelona.com
 robertmcardle.com
 robhogg.com
 robwalls.com
-rockmayak.ru
+rocksolidstickers.com
 rodaleitura.canoas.ifrs.edu.br
 roffers.com
 romanyaciftevatandaslik.com
@@ -1963,7 +1951,7 @@ samix-num.com
 samjoemmy.com
 samjonesrepairs.co.uk
 sandau.biz
-sanjibanisevasangathan.com
+sangodaiphu.com
 sanliurfakarsiyakataksi.com
 sareestore.vworks.in
 sartek.com.vn
@@ -1993,7 +1981,6 @@ sentrypc.download
 seo.vodai.bid
 seproimporta.com
 serumocsen.com.vn
-server28.onlineappupdater.com
 servet.000webhostapp.com
 servicemhkd80.myvnc.com
 serviciosasg.cl
@@ -2004,6 +1991,7 @@ setincon.com
 setrals.net
 setticonference.it
 sevensites.es
+seyh9.com
 sfpixs123.dothome.co.kr
 sgm.pc6.com
 sgtsrl.it
@@ -2019,18 +2007,17 @@ shine.bmt.city
 shlifovka.by
 shly.fsygroup.com
 shop.theirishlinenstore.com
-shop.thekenarchitecture.com
 shopfit.com.sg
 shopocmama.com
 shopseaman.com
 shrikailashlogicity.in
+sidelineking.xyz
 sight-admissions.com
 significadoswords.com
 signsdesigns.com.au
 sim.stikesbanyuwangi.ac.id
 simblissity.co.uk
 simplisal.co.uk
-simrahsoftware.com
 sinacloud.net
 sinbilgisayar.com
 sinerjias.com.tr
@@ -2056,12 +2043,12 @@ smemy.com
 smile-kobac.com
 smpadvance.com
 smplmods-ru.1gb.ru
+snappybooster.com
 snsdriver.com
 soccer4peaceacademy.com
 socco.nl
 sofathugian.vn
 sofrehgard.com
-soft.114lk.com
 soft.duote.com.cn
 soft.mgyun.com
 soft2.mgyun.com
@@ -2102,7 +2089,6 @@ startolete-vn.ug
 startupinternetmarketing.com
 static.3001.net
 static.error-soft.net
-static.ilclock.com
 statsrichwork.com
 statybosteise.lt
 staygreen.danang.today
@@ -2130,7 +2116,6 @@ swanescranes.com.au
 sylvaclouds.eu
 symbisystems.com
 syntek.net
-syrian-market.com
 systemnet.work
 systemtechnology.ru
 syubbanulakhyar.com
@@ -2145,7 +2130,6 @@ tascahrd-my.sharepoint.com
 tasha9503.com
 tattoohane.com
 tayloredsites.com
-tbilisitimes.ge
 tc-jaureguiberry.fr
 tck136.com
 tcy.198424.com
@@ -2154,7 +2138,6 @@ teal.download.pdfforge.org
 teambored.co.uk
 teamfluegel.com
 teamincubation.org
-techfactory.pk
 techidra.com.br
 tecnologiaz.com
 teensbar.com
@@ -2175,11 +2158,11 @@ thaibbqculver.com
 thales-las.cfdt-fgmm.fr
 thanhlapdoanhnghiephnh.com
 thanhtungtanluoc.com
-thanksfitness.com
 thankyoucraig.com
 thecostatranphu.com
 thedopplershift.co.uk
 thegioicongdungcu.com
+thegoldsure.com
 thehotcopy.com
 theinspireddrive.com
 thejutefibersbd.com
@@ -2254,9 +2237,11 @@ tugas2.syauqi.web.id
 tukitaki.info
 tulip-remodeling.com
 tulipremodeling.com
+tulsimedia.com
 tumnipbanor.xyz
 tunerg.com
 tunisiagulf.com
+tuoitrethainguyen.vn
 turbineblog.ir
 turbolader.by
 turbominebtcminer.com
@@ -2275,7 +2260,6 @@ ultrasatshop.com
 una-studios.com
 underluckystar.ru
 uniformesjab.com
-universalsmile.org
 unixfit.moscow
 uogauoga.lt
 up.ksbao.com
@@ -2296,18 +2280,18 @@ usa1services.com
 usmantea.com
 ussrback.com
 uuuuu.com.tw
+uxz.didiwl.com
 uycqawua.applekid.cn
 uzri.net
 vaatzit.autoever.com
+vadhuvarparichay.com
 vaeaincorp-my.sharepoint.com
 vakschoenmakerijbolle.nl
 valencecontrols.com
+valentinesblues.com
 vanphongtuyensinhanninhnhandan.info
 variantmag.com
-vaun.com
 vaz-synths.com
-vazhkovyk.com.ua
-vcube-vvp.com
 vektorex.com
 vemaybaymonisa.com
 veryboys.com
@@ -2359,6 +2343,7 @@ wisdom-services.com
 wmd9e.a3i1vvv.feteboc.com
 wonderful-davinci-e6a9e8.netlify.com
 workonmemory.com
+worldlinkaddress.com
 worshipped-washer.000webhostapp.com
 wowepic.net
 wsparcie-it.pro
@@ -2374,12 +2359,12 @@ wxbsc.hzgjp.com
 wyptk.com
 xblbnlws.appdoit.cn
 xbluetrding.com
+xiaou-game.xugameplay.com
 xiazai.vosonic.com.cn
 xiazai.xiazaiba.com
 xmr-services.net
 xn-----6kcabnyujk3amba3araccbdbrg.xn--p1ai
 xn-----6kcbb0ab7adihwc4ajhz5a4b9gta.xn--p1ai
-xn----8sbef8axpew9i.xn--p1ai
 xn----ctbjthakkrgv2hg.xn--p1ai
 xn----dtbhwpgtp5b1b.xn--p1ai
 xn----htbybfcxh3h.xn--p1ai
@@ -2398,7 +2383,6 @@ xperttees.com
 xri4pork.s3.amazonaws.com
 xuongmaybinhduong.com
 xz.bxacg.com
-xzb.198424.com
 xzc.197746.com
 xzc.198424.com
 y31uv4ra1.vo.llnwd.net
@@ -2406,6 +2390,7 @@ yaokuaile.info
 yasarkemalplatformu.org
 yatsdhqbwe.com
 ychynt.com
+yclasdy.cf
 yearbooktech.com
 yemekolsa.com
 yerdendolumtesis.com
