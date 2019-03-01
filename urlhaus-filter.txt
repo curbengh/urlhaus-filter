@@ -1,10 +1,11 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 01 Mar 2019 00:22:28 UTC
+! Updated: Fri, 01 Mar 2019 12:23:06 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
 ! Source: https://urlhaus.abuse.ch/api/
 04.bd-pcgame.720582.com
+0ne.me
 1.247.157.184
 1.254.80.184
 1.34.159.106
@@ -17,7 +18,6 @@
 101.100.175.130
 101.200.214.249
 101.254.225.145
-101.96.10.47
 103.11.22.51
 103.51.249.64
 103.92.25.95
@@ -41,7 +41,6 @@
 106.105.197.111
 106.105.233.166
 108.170.112.46
-108.174.198.173
 108.190.193.1
 108.220.3.201
 108.46.227.234
@@ -72,7 +71,6 @@
 114.215.186.1
 114.32.63.56
 114.33.134.75
-114.33.174.116
 114.34.109.34
 115.165.206.174
 115.69.171.222
@@ -86,7 +84,6 @@
 12.25.14.44
 120.142.181.110
 120.192.64.10
-120.52.51.13
 121.147.51.57
 121.149.49.178
 121.152.197.150
@@ -120,11 +117,13 @@
 133.242.156.30
 134.209.48.14
 134.209.75.160
+134.209.75.204
 134.209.81.254
 138.68.255.241
 138.68.45.190
 139.59.182.250
 139.59.25.145
+14.169.183.134
 14.200.128.35
 14.200.65.79
 14.237.203.18
@@ -144,6 +143,8 @@
 141.226.28.195
 142.11.213.139
 142.129.111.185
+142.93.195.249
+142.93.211.141
 142.93.219.170
 142.93.227.149
 142.93.246.34
@@ -153,8 +154,10 @@
 156.238.111.145
 157.230.1.71
 157.230.175.134
+157.230.191.202
 157.230.211.181
 157.230.213.59
+157.230.214.179
 157.230.225.185
 157.230.60.228
 157.230.94.197
@@ -169,6 +172,7 @@
 15k.xyz
 163.22.51.1
 166.70.72.209
+167.114.128.205
 167.99.10.129
 167.99.182.238
 167.99.73.213
@@ -213,7 +217,6 @@
 180.153.105.169
 180.245.36.233
 181.120.252.52
-181.174.166.164
 181.49.241.50
 182.235.29.89
 183.106.51.228
@@ -221,6 +224,7 @@
 183.234.11.91
 184.11.126.250
 185.154.15.36
+185.17.27.112
 185.170.40.23
 185.179.169.118
 185.189.149.137
@@ -231,14 +235,18 @@
 185.244.25.134
 185.244.25.139
 185.244.25.148
+185.244.25.149
 185.244.25.153
 185.244.25.182
 185.244.25.198
 185.244.25.199
+185.244.25.220
 185.244.25.234
 185.244.25.242
 185.244.30.147
+185.244.30.148
 185.244.30.151
+185.244.30.165
 185.26.31.94
 185.62.188.219
 185.62.190.192
@@ -247,7 +255,6 @@
 186.179.253.137
 186.32.176.32
 187.134.165.63
-187.2.17.29
 187.35.146.199
 187.35.225.187
 187.39.130.150
@@ -257,12 +264,13 @@
 188.240.62.204
 188.251.199.205
 188.36.121.184
+189.100.19.38
 189.136.143.254
 189.178.134.38
 189.19.185.216
 189.198.67.249
 189.222.145.143
-189.32.232.54
+189.46.65.225
 189.55.147.121
 190.249.180.115
 190.250.124.10
@@ -279,6 +287,7 @@
 193.248.246.94
 194.147.32.206
 194.147.35.186
+195.123.246.23
 196.218.153.74
 197.51.100.50
 198.101.246.240
@@ -287,12 +296,12 @@
 198.23.191.102
 198.23.201.215
 198.98.62.207
+199.192.17.201
 199.38.245.220
 199.38.245.221
 199.38.245.234
 1roof.ltd.uk
 2.180.105.54
-2.180.2.240
 2.180.37.68
 2.187.249.232
 2.226.200.189
@@ -304,11 +313,10 @@
 200.63.45.123
 201.168.151.182
 201.203.27.37
-201.43.130.169
-202.28.110.204
+20192019666.com
 202.55.178.35
 202.75.223.155
-203.131.221.48
+203.146.208.208
 203.163.211.46
 203.226.76.144.clientjcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 203.228.89.116
@@ -318,6 +326,7 @@
 206.189.68.184
 206.189.94.136
 206.255.52.18
+206.81.5.136
 207.154.215.50
 2077707.ru
 208.110.71.194
@@ -392,12 +401,12 @@
 27.120.86.87
 27.126.188.212
 27.74.242.136
+27.77.190.51
 2cbio.com
 2d73.ru
 2fsuppowww.watchdogdns.duckdns.orgwatchdogdns.duckdns.org
 2tokes.com.br
 3.0.82.215
-3.121.182.157
 3.89.91.237
 3.dohodtut.ru
 30-by-30.com
@@ -418,6 +427,7 @@
 34.80.131.135
 35.183.245.54
 35.193.235.224
+35.198.197.47
 35.200.238.170
 35.201.228.154
 35.202.216.83
@@ -439,8 +449,8 @@
 37.139.27.218
 37.191.82.202
 37.252.74.43
+37.34.190.188
 37.44.212.223
-3dx.pc6.com
 4.kuai-go.com
 41.32.210.2
 41.32.23.132
@@ -466,7 +476,6 @@
 46.97.21.194
 46.97.76.190
 47.221.97.155
-47.74.7.148
 47.88.21.111
 49.159.104.121
 49.159.8.123
@@ -474,7 +483,6 @@
 49.255.48.5
 4pointinspection.net
 4wake.com
-5.2.200.9
 5.201.129.248
 5.201.130.81
 5.206.225.104
@@ -493,6 +501,7 @@
 59.29.178.187
 59.31.110.106
 59.31.164.189
+59.98.44.226
 5cde8460-idc.optehazeldean.co.zajcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 60.248.141.87
 60.250.242.72
@@ -508,12 +517,14 @@
 62.219.131.205
 62.34.210.232
 63.245.122.93
+64.44.51.89
 64.62.250.41
 66.117.2.182
 66.117.6.174
 68.183.114.201
 68.183.157.144
 68.183.193.214
+68.183.215.79
 68.183.66.143
 69.136.66.52
 69.202.198.255
@@ -531,6 +542,7 @@
 73.57.94.1
 73.71.61.176
 73.73.137.64
+73.84.12.50
 73.91.254.184
 75.149.247.114
 75.3.196.154
@@ -551,6 +563,7 @@
 79.137.86.189
 79.159.206.15
 79.2.211.133
+79.39.88.20
 79.45.160.232
 79.56.208.137
 79.73.242.42
@@ -566,9 +579,11 @@
 81.43.101.247
 82.137.216.202
 82.166.24.224
+82.166.27.140
 82.80.143.205
+82.80.190.27
 82.80.63.165
-82.81.27.115
+82.81.25.188
 83.132.244.60
 83.170.193.178
 83.33.34.24
@@ -581,7 +596,6 @@
 85.70.68.107
 85.9.61.102
 86.105.49.215
-86.124.138.80
 86.34.66.189
 86.35.153.146
 86.5.70.142
@@ -590,6 +604,7 @@
 88.147.109.129
 88.191.45.2
 88.247.170.137
+88.249.120.216
 88.250.158.235
 88.250.248.234
 89.115.23.13
@@ -597,13 +612,14 @@
 89.133.14.96
 89.144.174.153
 89.165.4.105
+89.34.26.23
+89.34.26.73
 89.35.39.78
 89.46.223.114
 8dx.pc6.com
 91.152.139.27
 91.211.88.100
 91.234.27.27
-91.236.140.236
 91.238.117.163
 91.98.95.77
 92.27.118.11
@@ -635,9 +651,7 @@ Heavensconcept.ng
 a-kiss.ru
 a.uchi.moe
 a.xiazai163.com
-a46.bulehero.in
 aaktrade.com
-abccomics.com.br
 abcstudio.sk
 abiaram.com
 abkascomarine.com
@@ -645,7 +659,6 @@ acceptanceinfo.com
 acceptdatatime.com
 accont.ru
 accountlimited.altervista.org
-accounts-cynthia.org.pl
 acdhon.com
 aceleradostanleyfoundatioutbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 aceroymagiwww.siriusxmco.zajcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
@@ -664,7 +677,6 @@ adaptronic.ru
 adarma.xyz
 adbord.com
 adcash.cf
-adgroup.com.vn
 adorjanracing.hu
 adornacream.com
 adroitlyadvertising.com
@@ -683,7 +695,6 @@ ahmadalhanandeh.com
 ahut.ahbys.com
 aierswatch.com
 aiit.ahbys.com
-aioshipping.com
 aipctruckinieescolbounces.duoliprudential.com.watchdogdns.duckdns.org
 airbnb.shr.re
 airmasterbh.com
@@ -700,12 +711,12 @@ alainghazal.com
 alaskanmarineministries.com
 alba1004.co.kr
 alexhhh.chat.ru
-alexzstroy.ru
 alfaqihuddin.com
 algoritm2.ru
-alhabib7.com
 ali-apk.wdjcdn.com
+allabouteyecare.org
 allaboutpoolsnbuilder.com
+alliancerights.org
 allloveseries.com
 allusmarket.cl
 allwaysfresh.co.za
@@ -716,7 +727,6 @@ alongthelines.com
 alonhadat24h.vn
 alpha.intouchreminder.com
 alpha.to
-alphaline.jp
 alsafeeradvt.com
 altroquotidiano.it
 aluigi.altervista.org
@@ -734,12 +744,12 @@ ams.mdx-trd.kz
 andam3in1.com
 andonia.com
 andreidaian.ro
+andrewqua.ch
 andreysharanov.info
 angelageorgesphotography.com
 ankarabeads.com
 ankaraiftaryemekleri.com
 anket.kalthefest.org
-annual.fph.tu.ac.th
 anvietpro.com
 apdsjndqweqwe.com
 api.iwangsen.com
@@ -760,7 +770,6 @@ argentarium.pl
 arifcagan.com
 aristodiyeti.com.tr
 arrozdoce.net
-arsenal-rk.ru
 arsenel-bg.com
 arstecne.net
 art.nfile.net
@@ -770,13 +779,14 @@ artuom.com
 arturn.co.uk
 asdqwero6.com
 asfaltov.kz
-ashida-kougei.com
 ashifrifat.com
 asialinklogistics.com
 asndjqwnewq.com
 assetuganda.org
 asztar.pl
+atlasmarketpartner.com
 atphitech.com
+atskiysatana.tk
 attach.66rpg.com
 attack.s2lol.com
 atteuqpotentialunlimited.com
@@ -793,9 +803,7 @@ avirtualassistant.net
 avstrust.org
 awayfromhomeinc.org
 awbghana.com
-awcq60100.com
 ax-yogado.com
-axx.bulehero.in
 aya-craft.jp
 aycauyanik.com
 aygwzxqa.applekid.cn
@@ -824,6 +832,7 @@ barrycaputo.com
 basch.eu
 batdongsan3b.com
 batdongsanvngod.com
+bawc.com
 baycityfence.com
 baza-dekora.ru
 bbbrown.com
@@ -838,7 +847,6 @@ bd18.52lishi.com
 bd19.52lishi.com
 bd2.paopaoche.net
 bdcarezone.com
-bdmcash.tk
 bdtube.pl
 beautyandfashionworld.com
 beforeuwander.com
@@ -864,7 +872,7 @@ biennhoquan.com
 bietthunghiduong24h.info
 big.5072610.ru
 bignets.ddns.net
-bildeboks.no
+biitk.com
 binaryrep.loan
 binderkvasa.ru
 bioverzum.hu
@@ -882,11 +890,9 @@ blog.aliatakay.com
 blog.embratonlife.com.br
 blog.piotrszarmach.com
 blog.todaygig.com
-blogline.net
 blogs.cricskill.com
 bluehammerproperties.com
 bmstu-iu9.github.io
-bob.suzetrust.com
 boente.eti.br
 bohobitches.co.uk
 bondibackpackersnhatrang.com
@@ -910,6 +916,7 @@ brucelin.co
 brunotalledo.com
 bryansk-agro.com
 bsmarin.com
+buildentconstructions.com
 builtbycw.com
 bullerwelsh.com
 bundle.kpzip.com
@@ -977,8 +984,10 @@ cfs4.tistory.com
 cfs8.tistory.com
 cfs9.tistory.com
 cgameres.game.yy.com
+cgdpartners-my.sharepoint.com
 cgiandi.com
 cgov.rsmart-testsolutions.watchdogdns.duckdns.org
+cgraspublishers.com
 ch.rmu.ac.th
 chadikaysora.com
 chalesmontanha.com
@@ -1016,12 +1025,12 @@ cirqueampere.fr
 citiad.ru
 cityexportcorp.com
 citylawab.com
-citylink.com.pk
 cjcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 ckd.org.uk
 ckobcameroun.com
 claireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 clarte-thailand.com
+classishinejewelry.com
 claudio.locatelli.free.fr
 clean.crypt24.in
 clermontmasons.org
@@ -1061,6 +1070,7 @@ colslaw.com
 com.bporsgrunn.folkbjnrwwww.watchdogdns.duckdns.org
 com.watchdogdns.duckdns.org
 comcastbiz.netbenfey.ciprudential.com.watchdogdns.duckdns.org
+comcom-finances.com
 comduoliprudential.com.watchdogdns.duckdns.org
 compitec.be
 computewww.watchdogdns.duckdns.org
@@ -1077,7 +1087,6 @@ config.wwmhdq.com
 config.ymw200.com
 config.younoteba.top
 config01.homepc.it
-confirm-anymention.net.pl
 consciousbutterfly.com
 conseil-btp.fr
 construccionesrm.com.ar
@@ -1098,7 +1107,6 @@ csnsoft.com
 ctl24.pt
 ctwabenefits.com
 cuahangstore.com
-curiosity.sg
 currencyavenue.com
 cvbintangjaya.com
 cvlancer.com
@@ -1124,10 +1132,10 @@ da.alibuf.com
 dabaghi.5gbfree.com
 dadieubavithuyphuong.vn
 danceman.club
-daniellanzablog.com
 dansavanh.in.th
 daoudi-services.com
 dar-sana.com
+darbartech.com
 darmoviesnepal.com
 darpe.se
 dash.simplybackers.com
@@ -1182,6 +1190,7 @@ demo.esoluz.com
 demo.liuzhixiong.top
 demosthene.org
 dentalradiografias.com
+dentaware.com
 dential.com.watchdogdns.duckdns.org
 deoudepost.nl
 deportetotal.mx
@@ -1193,7 +1202,6 @@ descubrecartagena.com
 dev.cscslacouronne.org
 dev.vivaomundodigital.com.br
 deverlop.familyhospital.vn
-dfaestzre.pl
 dfcf.91756.cn
 dfzm.91756.cn
 dgecolesdepolice.bf
@@ -1202,10 +1210,11 @@ dgpratomo.com
 dh.3ayl.cn
 dhoffmanfan.chat.ru
 dhpos.com
+diamondking.co
 diaochungthinhland.net
+diaocthiennam.vn
 diaryofamrs.com
 dichiara.com.ar
-dichvucong.vn
 dichvuvesinhcongnghiep.top
 die-tauchbar.de
 diehardvapers.com
@@ -1217,6 +1226,7 @@ digiserveis.es
 digitalpontual.top
 dijitalthink.com
 dirc-madagascar.ru
+divineconne.com
 diving-blog.com
 dixo.se
 dkck.com.tw
@@ -1230,19 +1240,21 @@ dld.jxwan.com
 dlqz4.oss-cn-hangzhou.aliyuncs.com
 dnaliferegression.com
 dnn.alibuf.com
+dns.alibuf.com
 doclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 docteurga.com
 document.transactions.website
+dod.suze10n1.com
 doeschapartment.com
 dog.502ok.com
 domekan.ru
-domika.vn
-dominicanos.xyz
 domproekt56.ru
+dongygiatruyentienhanh.net
 donsworld.org
 dorukhankumbet.com
 dosame.com
 doverenewables.watchdogdns.duckdns.org
+down.263209.com
 down.54nb.com
 down.ancamera.co.kr
 down.cltz.cn
@@ -1265,6 +1277,7 @@ down.tgjkbx.cn
 down.topsadon.com
 down.webbora.com
 down.xrpdf.com
+down.zynet.pw
 down1.arpun.com
 down1.greenxf.com
 down1.topsadon1.com
@@ -1288,6 +1301,7 @@ download.security.baidu.co.th
 download.u7pk.com
 download.ware.ru
 downza.91speed.com.cn
+doyoucq.com
 dpa.atos-nao.net
 dph.logistic.pserver.ru
 draanallelimanguilarleon.com
@@ -1340,7 +1354,6 @@ dx74.downyouxi.com
 dx84.downyouxi.com
 dx93.downyouxi.com
 dxdown.2cto.com
-dztech.ind.br
 e-basvur.com
 e-recht24firststepsacademym6web-tracking.cocomputewww.watchdogdns.duckdns.org
 earnbdt.com
@@ -1407,6 +1420,7 @@ evergreenint.com.fj
 everyonesmile.net
 everythingfranklin.com
 evzek.net
+ewan-eg.com
 excel.sos.pl
 exclusiv-residence.ro
 eximme.com
@@ -1448,7 +1462,7 @@ files.hrloo.com
 files.zzattack.org
 files6.uludagbilisim.com
 filowserve.com
-firstdobrasil.com.br
+firetronicsinc.net
 firststepsacademym6web-tracking.cocomputewww.watchdogdns.duckdns.org
 fisika.mipa.uns.ac.id
 fit-school.ru
@@ -1460,6 +1474,7 @@ fleurscannabisfrance.com
 fleurscbdfrance.fr
 flightcentre.cgov.rsmart-testsolutions.watchdogdns.duckdns.org
 flowerbed.cz
+flycourierservice.com
 flz.keygen.ru
 folkbjnrwwww.watchdogdns.duckdns.org
 foreseeconsulting.biz
@@ -1541,16 +1556,17 @@ globemarketing.ca
 globotech.blithium.hosmarshallconsulting.ieescolbounces.duoliprudential.com.watchdogdns.duckdns.org
 glorialoring.com
 gnb.uz
+gnexwp.travelbangla.org
 gogolwanaagpoultry.com
 golaba.segera.live
 goldenuv.com
 golfadventuretours.com
 golihi.com
-gomovies.cl
 googleplusmarketpro.com
 gops2.home.pl
 gov.rsmart-testsolutions.watchdogdns.duckdns.org
 goworldmarketing.net
+granportale.com.br
 grapeness.mx
 graphee.cafe24.com
 graskraft-reitbach.at
@@ -1560,6 +1576,7 @@ greatis.com
 greattechnical.com
 greekonions.gr
 greencampus.uho.ac.id
+greenebikes.com
 greenwhitegranit.com
 greldez-vous.fr
 gres.czmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
@@ -1570,6 +1587,7 @@ grueslayers.eu
 grupporidolfo.com
 gtomeconquista.com
 gulzarhomestay.com
+guruz.com
 gustafssons.info
 h-bva.ru
 h-guan.com
@@ -1587,6 +1605,7 @@ hakronteknoloji.com
 halal-expo.my
 halli.dk
 hamanakoen.com
+hamsarane.org
 hanaphoto.co.kr
 handshelpingpawsrescueinc.org
 handstandbuffer.com
@@ -1595,6 +1614,7 @@ hanuram.net
 hao1977.com
 haornews24.com
 hapoo.pet
+happinessbusiness.org
 happysunfellbach.com
 happysungroup.de
 harmonyinternationalschools.com
@@ -1632,13 +1652,10 @@ hldschool.com
 hnhwkq.com
 hnmseminar.aamraresources.com
 hnsyxf.com
-hoanganhvunguyen.com
 hoangsong.com
 hocsralumni.org
 hoest.com.pk
 holladayphotography.tantumservices.com
-holoul7.com
-holzheuer.de
 home.mindspring.com
 homecaregurgaon.com
 homedeco.com.ua
@@ -1656,6 +1673,7 @@ hotshot.com.tr
 hourofcode.cn
 htl.ru
 htxl.cn
+hublist.pashahub.ru
 huc-hkh.orciprudential.com.watchdogdns.duckdns.org
 huhuhu.cf
 huongnghiep.ictu.edu.vn
@@ -1732,7 +1750,6 @@ iran-gold.com
 irapak.com
 iremart.es
 irenecairo.com
-irmao.pt
 ironworks.net
 irvingbestlocksmith.com
 isis.com.ar
@@ -1741,10 +1758,11 @@ isolation.nucleus.odns.fr
 isoldrain.com
 istlain.com
 it-accent.ru
-iterras.ml
-itssprout.com
+iteeman.com
 iuwrwcvz.applekid.cn
+iwantoutsource.com
 iwsgct18.in
+izmsystem.net
 j610033.myjino.ru
 jackservice.com.pl
 jacobycompany.com
@@ -1759,14 +1777,17 @@ jazarah.net
 jbcc.asia
 jcasoft.com
 jcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
+jeffcoxdeclareswar.com
 jetguvenlik.com
 jeydan.com
 jghorse.com
 jifendownload.2345.cn
 jimbagnola.ro
 jimbira-sakho.net
+jitanglimogzam.com
 jitkla.com
 jj.kuai-go.com
+jmbtrading.com.br
 jmdigitaltech.com
 jmtc.91756.cn
 jobgreben5.store
@@ -1781,7 +1802,6 @@ juliannepowers.com
 julienheon.com
 junicodecorators.com
 jupajubbeauty.com
-juraganprediksi.club
 justanothermobilemonday.com
 justbathrooms.net
 juupajoenmll.fi
@@ -1832,7 +1852,6 @@ konjacteaturkiye.com
 koppacoffeebites.com
 koppemotta.com.br
 korayche2002.free.fr
-kormbat.com
 kosheranguilla.com
 kousen.fire-navi.jp
 kozaimarinsaat.com
@@ -1852,6 +1871,7 @@ lacledudestin.fr
 laflamme-heli.com
 lakematheson.com
 lakshmicollege.org
+lambchop.net
 lameguard.ru
 lamesadelossenores.com
 lanco-flower.ir
@@ -1865,7 +1885,6 @@ lawindenver.com
 ld.mediaget.com
 lead.vision
 leadlinemedia.com
-leaf.eco.to
 leaflet-map-generator.com
 lebanonturismo.com.br
 lebazarfleuri.com
@@ -1873,12 +1892,12 @@ leclix.com
 leeericsmith.com
 lefurle.by
 lelcrb.by
-lemurapparel.cl
 lemycofreight.com
 lesarchivistes.net
 letgov.rsmart-testsolutions.watchdogdns.duckdns.org
 letmehack.com
 lfenjoy.com
+lg.icf-fx.kz
 lg4square.com
 lhzs.923yx.com
 lianzhimen.net
@@ -2005,6 +2024,7 @@ media1.webgarden.cz
 media1.webgarden.es
 medicalfarmitalia.it
 medicinaonline.rjsrwaco.watchdogdns.duckdns.org
+medicosespana.com
 medientechnik-schmidt.de
 mediterraneavacanze.com
 meecamera.com
@@ -2033,6 +2053,7 @@ mimiabner.com
 minds.dk
 mine.zarabotaibitok.ru
 minenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
+mingtian2016.gnway.cc
 minifiles.net
 minifyurl.net
 mirai-shobou.com
@@ -2053,7 +2074,6 @@ mm2017mmm.com
 mmedicinaonline.rjsrwaco.watchdogdns.duckdns.org
 mmmnasdjhqweqwe.com
 mmmooma.zz.am
-mnarat8.com
 mnkprombusinessmanagemewww.watchdogdns.duckdns.org
 mobile.tourism.poltava.ua
 mod.sibcat.info
@@ -2077,10 +2097,12 @@ mrm.lt
 msao.net
 msc-goehren.de
 mskhangroup.com
+msntrixpro.free.fr
 mtrans-rf.net
 muapromotion.com
 mukhtaraindonesiawisata.com
 multishop.ga
+munosi.bharatbioscience.in
 music.massimomerighi.it
 musojoe.com
 mv360.net
@@ -2089,11 +2111,11 @@ mxd-1253507133.file.myqcloud.com
 my-christmastree.com
 my-health-guide.org
 myboysand.me
+myelectrive.com
 myhopeandlife.com
 myinternetjobs.com
 mymachinery.ca
 myphamhanbok.com
-myprepaidfiles.ddns.net
 myqbd.com
 myspaceplanner.fr
 mysuperspy.com
@@ -2113,8 +2135,8 @@ nanhoo.com
 nanokesif.com
 nanomineraller.com
 naoifotografia.com
-nashikproperty.tk
 natboutique.com
+nathalieetalain.free.fr
 nathaninteractive.com
 nathannewman.org
 naturalma.es
@@ -2127,16 +2149,13 @@ netquarry.com
 neuedev.com
 newarkpdmonitor.com
 newbiecontest.org
-newconnect.duckdns.org
 newdecorationideas.xyz
 newmarketing.no
 newsmediainvestigasi.com
 newwayit.vn
-newxing.com
 nexclick.ir
 nextsearch.co.kr
 nexusonedegoogle.com
-nfc.vn
 nge18oei.email
 ngkidshop.com
 ngtcclub.org
@@ -2166,14 +2185,13 @@ notlrealty.com
 novichek-britam-v-anus.000webhostapp.com
 nuibunsonglong.com
 numb-inside.info
-nusorti.albertmuzaurieta.net
+nyanya-v-ceti.ru
 obseques-conseils.com
 ocab.simongustafsson.com
 oceangate.parkhomes.vn
 oceanzacoustics.com
 odesagroup.com
 oesfomento.com.br
-off-road-light.ru
 oganiru.in
 oinfernosaoosoutros.net
 okhan.net
@@ -2209,6 +2227,7 @@ orderauto.es
 orglux.site
 orhangencebay.gen.tr
 orion.kim
+orishinecarwash.com
 osdsoft.com
 ossi4.51cto.com
 ostappnp.myjino.ru
@@ -2232,6 +2251,7 @@ papanegro.cl
 park-acre.mail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 parm6web-tracking.cocomputewww.watchdogdns.duckdns.org
 parsintelligent.com
+parwinpro.com
 pasakoyluagirnakliyat.com
 patch.cdn.topgame.kr
 patch2.99ddd.com
@@ -2261,6 +2281,8 @@ phantasy-ent.com
 phattrienviet.com.vn
 phazethree.com
 phongthuyanlac.com
+phooto.de
+pickmycamp.com
 piksel.as
 pink99.com
 pixel.as
@@ -2297,7 +2319,9 @@ proartmusica.com
 probost.cz
 prodesignerslabo.com
 prodvizheniesaitovufa.ru
+progettopsichepiola.it
 projekt-bulli.de
+pronews.vn
 propolisterbaik.com
 protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
@@ -2325,8 +2349,6 @@ quarenta.eu
 quatanggiaminh.com
 quebrangulo.al.gov.br
 quintoesquerdo.net
-quizvn.com
-quranyar.ir
 qwertynet.hupeterbeckundpartner.cporsgrunn.folkbjnrwwww.watchdogdns.duckdns.org
 racketlonmc.fr
 radio312.com
@@ -2352,12 +2374,14 @@ reddeadtwo.com
 reddeertowingservice.com
 redpoloska.com
 redrhinofilms.com
+refkids.ir
 rehmantrader.com
+remenelectricals.com
 remoiksms.com.ng
 rensgeubbels.nl
 reogtiket.com
+repigroup.com
 repository.attackiq.net
-research.fph.tu.ac.th
 resonance-pub.watchdogdns.duckdns.org
 reviewzaap.azurewebsites.net
 rexus.com.tr
@@ -2381,7 +2405,6 @@ rohrreinigung-wiener-neustadt.at
 romanyaciftevatandaslik.com
 ronaldgabbypatterson.com
 rongenfishingpro.com
-rootthemes.com
 ros.vnsharp.com
 rosarioalcadaaraujo.com
 rosero.co
@@ -2394,11 +2417,11 @@ rrbyupdata.renrenbuyu.com
 rrrradkqwdojnqwd.com
 rsiktechnicalservicesllc.com
 rsmart-testsolutions.watchdogdns.duckdns.org
-rsquareandco.com
 rt001v5r.eresmas.net
 rtcfruit.com
 rudential.com.watchdogdns.duckdns.org
 ruforum.uonbi.ac.ke
+ruga.africa
 ruoubiaplaza.com
 ruresonance-pub.watchdogdns.duckdns.org
 rus-fishing.com
@@ -2423,11 +2446,13 @@ saigonthinhvuong.net
 sainashabake.com
 sainfoinc.co.in
 saint-mike.com
-saladopress.com
+sakixx.ml
+samadoors.com
 samar.media
 sandpit.milkshake-factory.com
 sanghyun.nfile.net
 sanliurfakarsiyakataksi.com
+santapriscasp.com
 saranshock.com
 satilik.webprojemiz.com
 sauliusandriejus.lt
@@ -2466,11 +2491,9 @@ server28.onlineappupdater.com
 server33.onlineappupdater.com
 servicedesign-tsinghua.com
 servicemhkd80.myvnc.com
-serviciosasg.cl
 setembroamarelo.org.br
 setincon.com
 setticonference.it
-setupadsfile.yxdown.com
 sevesheldon.com
 sexualharassment.in
 sexyfeast.co.uk
@@ -2481,7 +2504,6 @@ sgokta.com
 sgov.rsmart-testsolutions.watchdogdns.duckdns.org
 sgry.jp
 sgventures.co.in
-sh.sg
 shailendramathur.com
 shaktineuroscience.com
 share.dmca.gripe
@@ -2495,6 +2517,7 @@ shetakari.in
 shinso-shinshu.com
 shiodashika.com
 shirikuh.com
+shirkeswitch.net
 shirtproductionengineering.com
 shirtsforpatriots.com
 shivadrit.com
@@ -2521,23 +2544,20 @@ sinacloud.net
 sinerjias.com.tr
 siriusxmco.zajcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 sistemagema.com.ar
-sistemastcs.com.br
 sister2sister.today
 sisweb.info
 sitwww.watchdogdns.duckdns.org
 siuagustina.band
+sixbrumes.com
 sixsigma-accreditation.org
 sizablelion.com
 skenderi.at
 sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
-skexportsdelhi.com
-skliarevsky.org
 skyclub.club
 skycnxz2.wy119.com
 skycnxz3.wy119.com
 skytechretail.co.uk
 slboutique.com.br
-sleepfreaks.co.jp
 slk.solarinstalacoes.eng.br
 slpsrgpsrhojifdij.ru
 sm.fq520000.com
@@ -2545,6 +2565,7 @@ sm.myapp.com
 small.962.net
 smart-testsolutions.watchdogdns.duckdns.org
 smartdogsshop.com
+smarthost.kiev.ua
 smate.sk
 smileclub.co.mail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 smpadvance.com
@@ -2552,7 +2573,6 @@ smpleisure.co.uk
 snki.ekon.go.id
 snyderprime.com
 soberandbright.co.uk
-socialworkacademy.in
 soencmedicinaonline.rjsrwaco.watchdogdns.duckdns.org
 sofrehgard.com
 soft.114lk.com
@@ -2565,7 +2585,7 @@ software.rasekhoon.net
 sohaans.com
 sohointeriors.org
 solahartmentari.com
-solarium.energy
+solini.bharatbioscience.in
 soloenganche.com
 solvefolkbjnrwwww.watchdogdns.duckdns.org
 somelie.jp
@@ -2574,6 +2594,7 @@ sonshinecelebrations.com
 soo.sg
 sophiacollegemumbai.com
 sophrologie-untempspourmoi.fr
+sortini.bharatbioscience.in
 sota-france.fr
 sotratel.pt
 soulassociates.in
@@ -2631,6 +2652,7 @@ stgroups.co
 stihiproigrushki.ru
 stmaryskarakolly.com
 stolarstvosimo.sk
+stomnsco.com
 storageadda.com
 storetoscore.com
 story-aqua.com
@@ -2641,15 +2663,15 @@ stroyexpertiza.org
 sttheresealumni.com
 studentloans.credezen.com
 studio.fisheye.eu
+studio16.info
 studiooffside.com
 studycirclekathua.com
 suamaygiatduchung.com
 sub5.mambaddd4.ru
 successtitle.com
-sudaninsured.com
 suduguan.com
 sukhachova.com
-sukra-gmbh.de
+sukien.aloduhoc.com
 summertreesnews.com
 sun-proxy.oss-cn-hangzhou.aliyuncs.com
 sunday-planning.com
@@ -2660,8 +2682,9 @@ super-industries.co
 supersnacks.rocks
 supplementcashback.com
 surearmllc.com
+sutori.icesurat.org
+sutori.pichvaitraditionandbeyond.com
 suvaforklift.com
-sv.pvroe.com
 svadebka.by
 svai-nkt.ru
 svettenkirch.de
@@ -2678,10 +2701,12 @@ ta-ca.fr
 ta107s3.watchdogdns.duckdns.org
 tabaslotbpress.com
 tabauro.com
+taddactivity.net
 tadilatmadilat.com
 tahmincik.webprojemiz.com
 taifturk.org
 takarekinfococomputewww.watchdogdns.duckdns.org
+tantrung.com
 taoday.net
 taplamnguoi.com
 tapnprint.co.uk
@@ -2724,7 +2749,6 @@ thanhlapdoanhnghiephnh.com
 thanhtungtanluoc.com
 thankyoucraig.com
 thatoilchick.com
-thebagforum.com
 thecostatranphu.com
 thedopplershift.co.uk
 thefashionelan.com
@@ -2732,7 +2756,10 @@ thegiddystitcher.com
 theinspireddrive.com
 thejutefibersbd.com
 thelvws.com
+themissfitlife.com
+thenatureszest.com
 thenutnofastflix2.com
+thepresentationstage.com
 therollingshop.com
 theronnieshow.com
 theshoremalacca.com
@@ -2744,6 +2771,7 @@ thietkewebwp.com
 thinhlv.vn
 thosewebbs.com
 threemenandamovie.com
+threxng.com
 thu-san-world-challenges.org
 thuducland.net
 thuytienacademy.com
@@ -2757,7 +2785,6 @@ tigress.de
 timlinger.com
 timothymills.org.uk
 tischer.ro
-tisoft.vn
 titusrealestate.com.fj
 tktool.net
 tobiasdosdal.dk
@@ -2776,7 +2803,6 @@ toprecipe.co.uk
 topwinnerglobal.com
 topwintips.com
 tours-fantastictravel.com
-toxzsa.cf
 toytips.com
 trabasta-std.com
 trabasta.com
@@ -2803,6 +2829,7 @@ turkexportline.com
 tutuler.com
 twinkletoesfootcare.com
 twistfroyo.com
+tzideas.com
 u1.innerpeer.com
 u5.innerpeer.com
 uc-56.ru
@@ -2849,7 +2876,7 @@ uzopeanspecialisthospital.com
 uzri.net
 vaatzit.autoever.com
 valencecontrols.com
-van-wonders.co.uk
+valsorg-my.sharepoint.com
 vangout.com
 variantmag.com
 vaser.ca
@@ -2864,6 +2891,7 @@ verykool.net
 vetesnik.webpark.cz
 vetsaga.com
 vfocus.net
+viagradeluxe.pro
 victoryoutreachvallejo.com
 viento.pro
 view52.com
@@ -2873,6 +2901,7 @@ villagevideo.com
 villastanley.no
 vinhomeshalongxanh.xyz
 visionoflifefoundation.com
+vivacomandante.cf
 vivatruck.eu
 viztarinfotech.com
 vjoystick.sourceforge.net
@@ -2894,6 +2923,7 @@ watchdogdns.duckdns.org
 watchdogdns.duckdns.orgwatchdogdns.duckdns.org
 watduoliprudential.com.watchdogdns.duckdns.org
 wavemusicstore.com
+wazifonline.com
 wbd.5636.com
 wcf-old.sibcat.info
 wcsrh.org
@@ -2924,7 +2954,6 @@ wk7.org
 wmd9e.a3i1vvv.feteboc.com
 wonderbooth.com.my
 wonderful-davinci-e6a9e8.netlify.com
-woodtennis.net
 woodysunglass.com
 wordwave.academy
 workingbee.se
@@ -2949,9 +2978,9 @@ wt72.downyouxi.com
 wt90.downyouxi.com
 wt91.downyouxi.com
 wt92.downyouxi.com
+ww3.ch
 www-grupotv1-com-br.azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 www2.itcm.edu.mx
-wwwhostinfilestag.ddns.net
 wxbsc.hzgjp.com
 wxw.jackservice.com.pl
 wyptk.com
@@ -2990,17 +3019,19 @@ yduoclongan.info
 yduocsonla.info
 yduocvinhphuc.info
 yearbooktech.com
-yemekolsa.com
 yerdendolumtesis.com
 yesky.xzstatic.com
 yfani.com
+ygzx.hbu.cn
 yildiriminsaat.com.tr
 yiluzhuanqian.com
 ylgcelik.site
+ymad.ug
 ymail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 yourcurrencyrates.com
 yourservicezone.net
 yrsmartshoppy.com
+yuliarachma.id
 yulv.net
 yuxue-1251598079.cossh.myqcloud.com
 zajcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
