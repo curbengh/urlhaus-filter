@@ -30,6 +30,14 @@ Please report malware URL to the upstream maintainer through https://urlhaus.abu
 
 This repo is not endorsed by Abuse.sh.
 
+## Cloning
+
+Since the filter is updated frequently, cloning the repo would become slower over time as the revision grows.
+
+Use shallow clone to get the recent revisions only. Getting the last five revisions is sufficient for a valid MR.
+
+`git clone --depth 5 https://gitlab.com/curben/urlhaus-filter.git`
+
 ## License
 
 [Creative Commons Zero v1.0 Universal](LICENSE.md)
