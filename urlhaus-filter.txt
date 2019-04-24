@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 24 Apr 2019 12:42:06 UTC
+! Updated: Wed, 24 Apr 2019 12:48:00 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -46,7 +46,6 @@
 111.90.159.106
 112.117.221.26
 112.117.221.39
-112.121.223.237
 112.163.142.40
 112.164.81.234
 112.166.251.121
@@ -108,6 +107,7 @@
 134.209.55.5
 134.209.87.180
 134.56.180.195
+138.128.150.133
 138.197.105.67
 14.200.128.35
 14.39.241.60
@@ -259,7 +259,6 @@
 190.218.74.174
 190.249.180.115
 190.7.27.69
-191.209.53.113
 192.144.136.174
 192.241.151.14
 193.200.50.136
@@ -330,7 +329,6 @@
 216.176.179.106
 217.139.86.228
 217.147.169.179
-217.217.18.71
 217.218.219.146
 218.214.86.77
 219.251.34.3
@@ -432,6 +430,7 @@
 46.29.165.120
 46.29.166.40
 46.40.127.51
+46.42.114.224
 46.6.1.226
 46.97.21.166
 46.97.21.194
@@ -496,7 +495,6 @@
 68.183.44.49
 68.183.65.178
 68.42.122.148
-69.119.9.169
 69.75.115.194
 70.164.206.71
 71.14.255.251
@@ -556,6 +554,7 @@
 84.1.27.113
 84.108.209.36
 84.31.23.33
+84.95.198.14
 85.104.106.44
 85.105.226.128
 85.171.136.37
@@ -746,7 +745,6 @@ apsblogs.com
 apware.co.kr
 aqm.mx
 aqua.dewinterlaura.be
-arasys.ir
 archiware.ir
 ardali.eu
 arenaaydin.com
@@ -876,7 +874,6 @@ blog.atxin.cc
 blog.piotrszarmach.com
 blogdaliga.com.br
 blognhakhoa.vn
-bluboxphotography.in
 blueprints.dk
 bmstu-iu9.github.io
 bnc24.in
@@ -936,7 +933,6 @@ canhooceangate.com
 canicosa.net
 canyoning-austria.at
 capaxinfiniti.ml
-capquangfpt247.net
 car2cars.pk
 carcounsel.com
 cardosoebaroni.adv.br
@@ -1026,7 +1022,6 @@ cmit22.ru
 cn.download.ichengyun.net
 cnhdsoft.com
 coccorese.com
-cocnguyetsanlincupsg.com
 coelotekvingfeldh.pro
 coinspottechrem.com
 colnbrookbaptistchapel.co.uk
@@ -1047,6 +1042,7 @@ config.wulishow.top
 config.wwmhdq.com
 config.ymw200.com
 config.younoteba.top
+config01.homepc.it
 conormcbride.com
 consciousbutterfly.com
 conseil-btp.fr
@@ -1065,7 +1061,6 @@ corner.lt
 cosmeliti.com
 cperformancegroup.com
 cqlog.com
-craftsvina.com
 creaception.com
 creativeplanningconnect.com
 creditupper.com
@@ -1203,6 +1198,7 @@ dmgh.ir
 dmstest.mbslbank.com
 dnabeauty.kz
 dnaliferegression.com
+dochoichobe.vn
 docteurga.com
 doctorjuliandiaz.com
 doctorvet.co.il
@@ -1218,7 +1214,6 @@ doorspro.ie
 dosame.com
 dotap.dotdo.net
 down.54nb.com
-down.78fdfs.club
 down.ancamera.co.kr
 down.cltz.cn
 down.ctosus.ru
@@ -1245,7 +1240,6 @@ down8.downyouxi.com
 downinthecountry.com
 download.1ys.com
 download.cardesales.com
-download.dongao.com
 download.doumaibiji.cn
 download.fahpvdxw.cn
 download.instalki.org
@@ -1271,8 +1265,6 @@ drumetulguard.com.ro
 druzim.freewww.biz
 duandojiland-sapphire.com
 duannamvanphong.com
-dudulm.com
-dudumb.com
 dumpspace.org
 duserifram.toshibanetcam.com
 duwon.net
@@ -1297,7 +1289,6 @@ dx122.downyouxi.com
 dx123.downyouxi.com
 dx2.qqtn.com
 dx30.91tzy.com
-dx40.91tzy.com
 dx51.downyouxi.com
 dx52.downyouxi.com
 dx53.downyouxi.com
@@ -1316,7 +1307,6 @@ easport.info
 eastbriscoe.co.uk
 eastendselfstorage.com.au
 easydown.stnts.com
-easydown.workday360.cn
 eatersme.com
 eatonje.com
 ebayimages.co.uk
@@ -1327,7 +1317,6 @@ ecube.com.mx
 edandtrish.com
 edenhillireland.com
 edwardhanrahan.com
-efcvietnam.com
 egyptiti.com
 eiamheng.com
 eibragimov.ru
@@ -1366,11 +1355,11 @@ erxst.info
 escoladeprosperidade.com
 escuro.com.br
 esfahanargon.com
-esmeraldadelmar.info
 espaciomarketing.com
 estab.org.tr
 estasporviajar.com
 esteticabiobel.es
+estetikelit.se
 estudioparallax.com
 etehqeeq.com
 etliche.pw
@@ -1466,7 +1455,6 @@ fundileo.com
 funletters.net
 fwpanels.com
 g-and-f.co.jp
-g.7230.com
 g2ds.co
 gabeclogston.com
 gabwoo.ct0.net
@@ -1618,7 +1606,6 @@ hotelpalermosuite.net
 hotelsbreak.com
 hotissue.xyz
 hotshot.com.tr
-houseofhorrorsmovie.com
 hqsistemas.com.ar
 htlvn.com
 huishuren.nu
@@ -1705,7 +1692,6 @@ j610033.myjino.ru
 jahbob3.free.fr
 janetjuullarsen.dk
 jasaservicelift.com
-jaspinformatica.com
 javatank.ru
 javiersandin.com
 jazlan.ideaemas.com.my
@@ -1830,7 +1816,6 @@ kttech.hu
 kuailuo.com
 kuaizip.com
 kubanneftemash.ru
-kursy-bhp-sieradz.pl
 kvsc.com.my
 kw-hsc.co.kr
 la-reparation-galaxy.fr
@@ -1952,7 +1937,6 @@ maramahan.ir
 marathonbuilding.com
 maravilhapremoldados.com.br
 marbellastreaming.com
-marcinmarciniec.pl
 marcofama.it
 markelliotson.com
 market.optiua.com
@@ -1998,7 +1982,6 @@ menardvidal.com
 menromenglobaltravels.com.ng
 merchantproducts.com
 mersia.com
-mesheddesigns.com
 meskamber.com
 metajive.com
 mettek.com.tr
@@ -2152,7 +2135,6 @@ novotravel.ir
 nownowsales.com
 nowokay.shop
 nralegal.com
-ntad.vn
 nuibunsonglong.com
 nyxpromo.com
 oblix.vn
@@ -2195,6 +2177,7 @@ opportunitiesontheweb.tk
 organicprom.ru
 orglux.site
 originalsbrands.com
+orthosystem.de
 osdsoft.com
 oshorainternational.com
 ossi4.51cto.com
@@ -2236,6 +2219,7 @@ patmanunggal.com
 patriclonghi.com
 patrogabon.com
 paul.falcogames.com
+pavwine.com
 paymate.co.za
 pbcenter.home.pl
 pc.8686dy.com
@@ -2254,7 +2238,6 @@ phattrienviet.com.vn
 phazethree.com
 phileasfoggtours.com
 phudieusongma.com
-phylab.ujs.edu.cn
 piccologarzia.it
 picdeep.ml
 pickmycamp.com
@@ -2283,7 +2266,6 @@ popmktg.com.py
 porchestergs.com
 porn.justin.ooo
 pornbeam.com
-positiv-rh.com
 posta.co.tz
 potterspots.com
 powells.me
@@ -2319,7 +2301,6 @@ psychod.chat.ru
 ptmaxnitronmotorsport.com
 puertascuesta.com
 pufferfiz.net
-pureprotea.com
 pursuittech.com
 pursuitvision.com
 pyykola.net
@@ -2452,7 +2433,6 @@ saranshock.com
 sarli.com.br
 sasecuritygroup.com.br
 sayagroup.net
-sblegalpartners.com
 sbmlink.com
 scanelectric.ro
 schaferandschaferlaw.com
@@ -2502,7 +2482,6 @@ shaktineuroscience.com
 shannai.us
 shapeshifters.net.nz
 share.dmca.gripe
-sharifulislam.co
 shatelnews.ir
 shawktech.com
 shawnballantine.com
@@ -2576,6 +2555,7 @@ soloenganche.com
 solrichphc.co.za
 solucanciftlikleri.com
 somalisuk.com
+somersetcellars.com
 sonare.jp
 sonargaonhs.edu.bd
 sonthuyit.com
@@ -2601,7 +2581,6 @@ spreadsheetpage.com
 sputnikmailru.cdnmail.ru
 sql.4i7i.com
 sql.merkadetodoa92.com
-sriretail.com
 srithairack-shelf.com
 sslv3.at
 stalkluch.by
@@ -2700,11 +2679,9 @@ teste111.hi2.ro
 testfixit.tk
 tete-leblog.tv
 tfile.7to.cn
-tfvn.com.vn
 thaddeusarmstrong.com
 thaibbqculver.com
 thaisell.com
-thanhthanhtungstone.com
 thankyoucraig.com
 thatavilellaoficial.com.br
 the1.uz
@@ -2713,6 +2690,7 @@ thebaseballs.ru
 thebermanlaw.group
 theconnectionsindia.com
 thecostatranphu.com
+thedopplershift.co.uk
 thefintech.com.au
 thefuturecapital.com
 theinspireddrive.com
@@ -2722,14 +2700,12 @@ thepat-my.sharepoint.com
 thesagehillsschool.com
 thesteammopguy.com
 thetechbycaseyard.com
-thietkexaydungnhamoi.com
 thimaralkhair.com
 thinking.co.th
 thoroughbredcalendar.com
 thosewebbs.com
 threxng.com
 thu-san-world-challenges.org
-thuyluckhinen.com.vn
 thuytienacademy.com
 tiaoma.org.cn
 tibinst.mefound.com
@@ -2739,7 +2715,6 @@ tienlambds.com
 tiergen.ru
 tigress.de
 timdudley.net
-timehalik.tk
 timlinger.com
 tinhyeuhanghieu.com
 tischer.ro
@@ -2868,6 +2843,7 @@ vivacomandante.ml
 vivatruck.eu
 viwma.org
 vjoystick.sourceforge.net
+vjsingh.info
 voasi.com
 voicetoplusms.com
 void.voak.net
@@ -2960,7 +2936,6 @@ xn--80aao0acd1ak7id.xn--p1ai
 xn--80abhfbusccenm1pyb.xn--p1ai
 xn--c1aacpcxier6a.xn--p1ai
 xn--l3cb3a7br5b7a4el.com
-xoangyduong.com.vn
 xpgeeks.com
 xri4pork.s3.amazonaws.com
 xtproduction.free.fr
