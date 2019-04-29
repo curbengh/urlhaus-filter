@@ -21,7 +21,7 @@ Mirrors:
 Following URL categories are removed from the database dump:
 
 - Offline URLs
-- Well-known domains ([top-1m.txt](src/top-1m.txt)) (using [Umbrella Popularity List](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html))
+- Well-known domains from the [Umbrella Popularity List](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html).
 - False positives ([exclude.txt](src/exclude.txt))
 
 Database dump is saved as [URLhaus.csv](src/URLhaus.csv), get processed by [script.sh](utils/script.sh) and output as [urlhaus-filter.txt](urlhaus-filter.txt).
@@ -44,7 +44,7 @@ This filter is only tested with uBO. [FilterLists](https://filterlists.com/) sho
 
 Report any false positive by creating an [issue](https://gitlab.com/curben/urlhaus-filter/issues).
 
-This filter **only** accepts malware URLs from [URLhaus](https://urlhaus.abuse.ch/).
+This filter **only** accepts malware URLs from the [URLhaus](https://urlhaus.abuse.ch/).
 
 Please report new malware URL to the upstream maintainer through https://urlhaus.abuse.ch/api/#submit.
 
