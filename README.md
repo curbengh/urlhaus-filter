@@ -6,9 +6,15 @@ A block list of malicious URLs that are being used for malware distribution. Thi
 
 Filter is updated twice a day.
 
-Import the following URL into uBO to subcribe:
+Import the following URL into uBO to subscribe:
 
-https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
+
+<br />
+Mirrors:
+
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
+- https://cdn.staticaly.com/gl/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
 
 ## Description
 
@@ -19,6 +25,20 @@ Following URL categories are removed from the database dump:
 - False positives ([exclude.txt](src/exclude.txt))
 
 Database dump is saved as [URLhaus.csv](src/URLhaus.csv), get processed by [script.sh](utils/script.sh) and output as [urlhaus-filter.txt](urlhaus-filter.txt).
+
+## Compatibility
+
+This filter is only tested with uBO. [FilterLists](https://filterlists.com/) shows it is compatible with the following software:
+
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
+- [Google Hit Hider](https://www.jeffersonscher.com/gm/google-hit-hider/)
+- [hostsmgr](https://www.henrypp.org/product/hostsmgr)
+- [NanoAdblocker](https://github.com/NanoAdblocker/NanoCore)
+- [Personal Blocklist](https://addons.mozilla.org/firefox/addon/personal-blocklist/)
+- [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
+- [Pi-hole](https://pi-hole.net/)
+- [Samsung Knox](https://www.samsungknox.com/)
+- [uMatrix](https://github.com/gorhill/uMatrix)
 
 ## Issues
 
