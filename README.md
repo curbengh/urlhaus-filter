@@ -42,11 +42,11 @@ This filter is only tested with uBO. [FilterLists](https://filterlists.com/) sho
 
 ## Issues
 
-Please report any false positive.
+Report any false positive by creating an [issue](https://gitlab.com/curben/urlhaus-filter/issues).
 
 This filter **only** accepts malware URLs from [URLhaus](https://urlhaus.abuse.ch/).
 
-Please report malware URL to the upstream maintainer through https://urlhaus.abuse.ch/api/#submit.
+Please report new malware URL to the upstream maintainer through https://urlhaus.abuse.ch/api/#submit.
 
 This repo is not endorsed by Abuse.sh.
 
