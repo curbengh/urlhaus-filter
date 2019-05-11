@@ -1,4 +1,4 @@
-image: alpine:latest # Use latest version of Alpine Linux docker image
+image: alpine:latest # Use the latest version of Alpine Linux docker image
 
 before_script:
   # Install dependencies
@@ -33,21 +33,10 @@ deploy:
     # Change to the downloaded repo directory
     - cd build/
 
-    # Give execute permission to scripts
-    - cd utils/
-    - chmod 700 umbrella-top-1m.sh script.sh commit.sh
-
-    # Download Umbrella Popularity List
-    - ./umbrella-top-1m.sh
-
-    # Download database dump and process it
-    - ./script.sh
-
-    # Commit the changes
-    - ./commit.sh
+    # Execute script.sh
+    - sh utils/script.sh
 
     # Push the commit
-    - cd ../
     - git push
 
   only:
