@@ -33,8 +33,32 @@ deploy:
     # Change to the downloaded repo directory
     - cd build/
 
-    # Execute script.sh
-    - sh utils/script.sh
+    # Create a temporary working folder
+    - mkdir tmp/ && cd tmp/
+
+    # Download URLhaus database and Umbrella Top 1M
+    - sh ../utils/prerequisites.sh
+
+    # Process the Umbrella Top 1M
+    - sh ../utils/umbrella-top-1m.sh
+
+    # Parse domains from URLhaus excluding popular domains
+    - sh ../utils/malware-domains.sh
+
+    # Parse popular domains that also appear in URLhaus
+    - sh ../utils/urlhaus-top-domains.sh
+
+    # Parse malware URLs from popular domains
+    - sh ../utils/malware-url-top-domains.sh
+
+    # Merge malware domains and URLs
+    - sh ../utils/urlhaus-filter.sh
+
+    # Commit the changes
+    - sh ../utils/commit.sh
+
+    # Clean up the working folder
+    - cd ../ && rm -r tmp/
 
     # Push the commit
     - git push
