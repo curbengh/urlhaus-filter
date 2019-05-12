@@ -18,5 +18,5 @@ sed -e 's/^www\.//g' | \
 # Sort and remove duplicates
 sort -u | \
 # Exclude Umbrella Top 1M and well-known domains
-# grep inverse match whole line
+# grep match whole line
 grep -Fx -f top-1m-well-known.txt > urlhaus-top-domains.txt
