@@ -42,11 +42,11 @@ deploy:
     # Process the Umbrella Top 1M
     - sh ../utils/umbrella-top-1m.sh
 
-    # Parse domains from URLhaus excluding popular domains
-    - sh ../utils/malware-domains.sh
-
     # Parse popular domains that also appear in URLhaus
     - sh ../utils/urlhaus-top-domains.sh
+
+    # Parse domains from URLhaus excluding popular domains
+    - sh ../utils/malware-domains.sh
 
     # Parse malware URLs from popular domains
     - sh ../utils/malware-url-top-domains.sh

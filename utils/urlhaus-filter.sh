@@ -3,7 +3,6 @@
 ## Merge malware-domains.txt malware-url-top-domains.txt,
 ## and append a header to instruct uBO to grab the filter daily.
 
-
 CURRENT_TIME="$(date -R -u)"
 FIRST_LINE="! Title: abuse.ch URLhaus Malicious URL Blocklist"
 SECOND_LINE="! Updated: $CURRENT_TIME"
