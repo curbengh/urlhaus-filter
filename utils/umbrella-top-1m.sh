@@ -15,7 +15,7 @@ grep -F '.' | \
 # Remove www
 # Only matches domains that start with www
 # Not examplewww.com
-sed -e 's/^www\.//g' | \
+sed 's/^www\.//g' | \
 # Remove duplicates
 sort -u > top-1m.txt
 

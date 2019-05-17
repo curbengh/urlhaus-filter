@@ -14,7 +14,7 @@ cut -f 1 -d ':' | \
 # Remove www
 # Only matches domains that start with www
 # Not examplewww.com
-sed -e 's/^www\.//g' | \
+sed 's/^www\.//g' | \
 # Sort and remove duplicates
 sort -u | \
 # Exclude Umbrella Top 1M and well-known domains
