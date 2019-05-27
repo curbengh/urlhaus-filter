@@ -5,7 +5,8 @@
 set -e -x
 
 # Create a temporary working folder
-mkdir tmp/ && cd tmp/
+# -p: No error if existing
+mkdir -p tmp/ && cd tmp/
 
 # Download URLhaus database and Umbrella Top 1M
 sh ../utils/prerequisites.sh
