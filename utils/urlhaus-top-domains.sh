@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e -x
+
 ## Parse popular domains from URLhaus
 
 cat URLhaus.csv | \

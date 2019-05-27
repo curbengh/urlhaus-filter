@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e -x
+
 ## Parse the Cisco Umbrella 1 Million
 ## More info:
 ## https://s3-us-west-1.amazonaws.com/umbrella-static/index.html

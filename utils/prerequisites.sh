@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e -x
+
 # Download URLhaus database
 wget https://urlhaus.abuse.ch/downloads/csv/ -O ../src/URLhaus.csv
 

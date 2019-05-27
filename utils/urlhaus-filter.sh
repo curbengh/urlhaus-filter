@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e -x
+
 ## Merge malware-domains.txt malware-url-top-domains.txt,
 ## and append a header to instruct uBO to grab the filter daily.
 
