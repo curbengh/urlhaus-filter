@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -e -x
+
 ## Commit the filter update
 
 ## GitLab CI does not permit shell variable in .gitlab-ci.yml.
