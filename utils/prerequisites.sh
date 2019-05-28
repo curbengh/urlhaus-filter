@@ -17,12 +17,14 @@ dos2unix | \
 # Remove comment
 sed 's/^#.*//g' | \
 # Remove http(s)://
-cut -f 3 -d '/' | \
-# Remove port number
-cut -f 1 -d ':' | \
-# Remove www
-# Only matches domains that start with www
-# Not examplewww.com
+cut -f 3- -d '/' | \
+# Remove www.
 sed 's/^www\.//g' | \
-# Sort and remove duplicates
 sort -u > urlhaus.txt
+
+## Parse domain and IP address only
+cat urlhaus.txt | \
+cut -f 1 -d '/' | \
+cut -f 1 -d ':' | \
+# Sort and remove duplicates
+sort -u > urlhaus-domains.txt

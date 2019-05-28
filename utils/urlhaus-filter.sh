@@ -15,7 +15,6 @@ SIXTH_LINE="! Source: https://urlhaus.abuse.ch/api/"
 COMMENT="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
 
 cat malware-domains.txt malware-url-top-domains.txt | \
-# Sort alphabetically
 sort | \
 # Append header comment to the filter list
 sed '1 i\'"$COMMENT"'' > ../urlhaus-filter.txt

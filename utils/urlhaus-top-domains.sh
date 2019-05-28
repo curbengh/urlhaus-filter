@@ -4,7 +4,6 @@ set -e -x
 
 ## Parse popular domains from URLhaus
 
-cat urlhaus.txt | \
-# Exclude Umbrella Top 1M and well-known domains
+cat urlhaus-domains.txt | \
 # grep match whole line
 grep -Fx -f top-1m-well-known.txt > urlhaus-top-domains.txt
