@@ -34,6 +34,9 @@ deploy:
     # Run scripts
     - sh index.sh
 
+    # Commit the changes
+    sh ../utils/commit.sh
+
     # Push the commit
     - git push
 

@@ -26,8 +26,5 @@ sh ../utils/malware-url-top-domains.sh
 # Merge malware domains and URLs
 sh ../utils/urlhaus-filter.sh
 
-# Commit the changes
-sh ../utils/commit.sh
-
 # Clean up the working folder
 cd ../ && rm -r tmp/
