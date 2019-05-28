@@ -12,10 +12,10 @@ cp ../src/exclude.txt .
 
 ## Clean up URLhaus.txt
 cat ../src/URLhaus.txt | \
-# Remove comment
-sed '/^#/ d' | \
 # Convert DOS to Unix line ending
 dos2unix | \
+# Remove comment
+sed '/^#/ d' | \
 # Remove http(s)://
 cut -f 3 -d '/' | \
 # Remove www
@@ -23,4 +23,4 @@ cut -f 3 -d '/' | \
 # Not examplewww.com
 sed 's/^www\.//g' | \
 # Sort and remove duplicates
-sort -u > URLhaus.txt
+sort -u > urlhaus.txt
