@@ -26,5 +26,4 @@ sort -u > urlhaus.txt
 cat urlhaus.txt | \
 cut -f 1 -d '/' | \
 cut -f 1 -d ':' | \
-# Sort and remove duplicates
 sort -u > urlhaus-domains.txt
