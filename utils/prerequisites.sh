@@ -15,7 +15,7 @@ cat ../src/URLhaus.txt | \
 # Convert DOS to Unix line ending
 dos2unix | \
 # Remove comment
-sed '/^#/ d' | \
+sed 's/^#.*//g' | \
 # Remove http(s)://
 cut -f 3 -d '/' | \
 # Remove port number
