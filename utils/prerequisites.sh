@@ -18,6 +18,8 @@ dos2unix | \
 sed '/^#/ d' | \
 # Remove http(s)://
 cut -f 3 -d '/' | \
+# Remove port number
+cut -f 1 -d ':' | \
 # Remove www
 # Only matches domains that start with www
 # Not examplewww.com
