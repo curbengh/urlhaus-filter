@@ -3,7 +3,6 @@
 set -e -x
 
 ## Create a temporary working folder
-# -p: No error if existing
 mkdir -p tmp/ && cd tmp/
 
 
@@ -58,7 +57,7 @@ grep -Fx -f top-1m-well-known.txt > urlhaus-top-domains.txt
 cat urlhaus-domains.txt | \
 grep -F -vf urlhaus-top-domains.txt > malware-domains.txt
 
-# Parse malware URLs from popular domains
+## Parse malware URLs from popular domains
 cat urlhaus.txt | \
 grep -F -f urlhaus-top-domains.txt > malware-url-top-domains.txt
 
@@ -78,5 +77,4 @@ sort | \
 sed '1 i\'"$COMMENT"'' > ../urlhaus-filter.txt
 
 
-## Clean up the working folder
 cd ../ && rm -r tmp/
