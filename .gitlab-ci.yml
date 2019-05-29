@@ -32,7 +32,7 @@ deploy:
     - cd build/
 
     # Run scripts
-    - sh index.sh
+    - sh script.sh
 
     # Commit the changes
     - sh utils/commit.sh
