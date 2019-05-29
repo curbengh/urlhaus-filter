@@ -18,7 +18,7 @@ cat ../src/URLhaus.txt | \
 # Convert DOS to Unix line ending
 dos2unix | \
 # Remove comment
-sed 's/^#.*//g' | \
+grep -F '//' | \
 # Remove http(s)://
 cut -f 3- -d '/' | \
 # Remove www.
