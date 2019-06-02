@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 01 Jun 2019 12:22:39 UTC
+! Updated: Sun, 02 Jun 2019 00:25:38 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -309,6 +309,7 @@
 104.219.235.148
 104.219.235.157
 104.223.20.197
+104.223.213.130
 104.223.213.141
 104.223.40.40
 104.227.146.227
@@ -7488,6 +7489,7 @@
 68.183.72.69
 68.183.75.210
 68.183.79.196
+68.183.79.227
 68.183.79.5
 68.183.79.93
 68.183.84.3
@@ -9218,6 +9220,7 @@ acesiansystems.com
 acessocompartilhadoweb.com
 acessocriativo.com.br
 acessogospel.com.br
+acessoithcweb.com
 acetechpng.com
 acetgroup.co.uk
 acethrass.com
@@ -9402,12 +9405,7 @@ adasnature.rodevdesign.com
 adastrawll.gq
 adax.us
 aday.haberkorfez.com
-adazing.com/DHL-number/En/
-adazing.com/DOC/EHM76459484042P/525428/HQLA-OUAEH
-adazing.com/DOC/EHM76459484042P/525428/HQLA-OUAEH/
-adazing.com/Vos-factures-impayees/
-adazing.com/files/En_us/Jul2018/Invoice-469685754-072318/
-adazing.com/xebgo7d/
+adazing.com
 adbee.tk
 adbord.com
 adcanudosnh.com.br
@@ -10425,7 +10423,7 @@ alexfranco.co
 alexgarkavenko.com
 alexhhh.chat.ru
 alexis.monville.com
-alexlema.com
+alexlema.com/css/a1/Mail_Access_Logs.doc
 alexm.co.za
 alexovicsattila.com
 alexpopow.com
@@ -12912,6 +12910,7 @@ autoescuelacontreras.es
 autoescuelasancarlos.com
 autoescuelasbaratasenvalencia.com.es
 autofashionfactory.com
+autofaucet.website
 autofive58.ru
 autogenmash.com
 autogirl.net
@@ -14417,7 +14416,7 @@ bestadvprint.ru
 bestapp4u.com
 bestarter.kz
 bestasinsaat.com.tr
-bestautofinder.com
+bestautofinder.com/.well-known/acme-challenge/sserv.jpg
 bestautolenders.com
 bestbestbags.com
 bestbloodpressure-monitor.com
@@ -18115,28 +18114,7 @@ chdagent.com
 chdwallpapers.com
 cheapanaheimhotels.com
 cheapavia.ga
-cheaper.men/bins/arm
-cheaper.men/bins/arm5
-cheaper.men/bins/arm6
-cheaper.men/bins/arm7
-cheaper.men/bins/m68k
-cheaper.men/bins/mips
-cheaper.men/bins/mpsl
-cheaper.men/bins/ppc
-cheaper.men/bins/sh4
-cheaper.men/bins/spc
-cheaper.men/bins/x86
-cheaper.men:443/bins/arm
-cheaper.men:443/bins/arm5
-cheaper.men:443/bins/arm6
-cheaper.men:443/bins/arm7
-cheaper.men:443/bins/m68k
-cheaper.men:443/bins/mips
-cheaper.men:443/bins/mpsl
-cheaper.men:443/bins/ppc
-cheaper.men:443/bins/sh4
-cheaper.men:443/bins/spc
-cheaper.men:443/bins/x86
+cheaper.men
 cheaperlounge.com
 cheapesthost.com.ng
 cheapmusic.info
@@ -19194,7 +19172,11 @@ comeontrk.com
 comer.bid
 comercialtech.cl
 cometa.by
-comeuroconcept.fr
+comeuroconcept.fr/77VS/BIZ/Commercial
+comeuroconcept.fr/77VS/BIZ/Commercial/
+comeuroconcept.fr/FILE/En_us/Invoice
+comeuroconcept.fr/FILE/En_us/Invoice/
+comeuroconcept.fr/k2XqNXlObx
 comevincerealcasinoonline.com
 comfome.co.mz
 comfort-software.info
@@ -19281,7 +19263,7 @@ completerubbishremoval.net.au
 completervnc.com
 complience.com
 compln.net
-components.technologymindz.com
+components.technologymindz.com/INV/AMM-7394405/
 composecv.com
 composite.be
 compphotolab.northwestern.edu
@@ -23499,7 +23481,8 @@ down.eebbk.net
 down.haote.com
 down.icafe8.com
 down.klldddiso.xyz
-down.kuwo.cn
+down.kuwo.cn/KwLyric.exe
+down.kuwo.cn/mbox/wwwab/MBOX8.0.1.5/kuwo2015.exe
 down.leyoucoc.cn
 down.my0115.ru
 down.pcclear.com
@@ -26427,7 +26410,7 @@ estimatorfind.com?8BI=VzQHIAFS3IQHZLmPAEKDIR
 estomedic.com
 estrategias-corporativas.com
 estrategiasdeaprovacao.com.br
-estreamnetworks.net
+estreamnetworks.net/7GWTSLC/WIRE/Commercial
 estrindesign.com
 estrom.es
 estrutura.eng.br
@@ -31243,7 +31226,16 @@ hasandanalioglu.com
 hasanzeybek.com
 hasebiz.net
 haseebprinters.com
-hasekimuhendislik.com
+hasekimuhendislik.com/Jd1V
+hasekimuhendislik.com/Jd1V/
+hasekimuhendislik.com/default/En_us/Order/Order-43337660956/
+hasekimuhendislik.com/doc/En/OVERDUE-ACCOUNT/Invoice-08305721-072518/
+hasekimuhendislik.com/doc/En_us/Jul2018/tracking-number-and-invoice-of-your-order
+hasekimuhendislik.com/doc/En_us/Jul2018/tracking-number-and-invoice-of-your-order/
+hasekimuhendislik.com/files/En_us/Purchase/Invoice-257496/
+hasekimuhendislik.com/mBpoQi7O
+hasekimuhendislik.com/mBpoQi7O/
+hasekimuhendislik.com/xL
 haselburg.cz
 hashaszade.com
 hashem.co.id
@@ -32445,8 +32437,7 @@ hostname.com.ug
 hostname.vip
 hostnamepxssy.club
 hostnana.com
-hostpp.ml/20190118/4C384435-9E82-4011-ACF3-78489BB98229.exe
-hostpp.ml/20190118/multishare.exe
+hostpp.ml
 hostprodirect.com
 hostrooz.com
 hostsoldat.cba.pl
@@ -37289,7 +37280,8 @@ kss.edu.rs
 kstcl.org
 kstore.globalhotelsmotels.com
 ksuelibary.com
-ksumnole.org
+ksumnole.org/sitepro/css/flag-icon-css/css/sserv.jpg
+ksumnole.org/wp-admin/css/colors/blue/sserv.jpg
 ksun.ca
 ksviet.com
 ktaghana.com
@@ -40267,7 +40259,7 @@ makemypolicy.org
 makepubli.es
 makerlabs.mx
 makescreatures.com
-maket.pro/phpMyAdmin/parts_service/IFjeEQIENmDQpN/
+maket.pro
 maketheswitch.ca
 makeupartistinmiami.com
 makeupbyolivia.co.uk
@@ -43299,8 +43291,7 @@ my10apps.com
 my2b.online
 myabisib.ru
 myacademjourneys.com
-myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids=14267487
-myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids[]=14267487
+myaccount.dropsend.com
 myadmin.59north.com
 myafyanow.com
 myanmodamini.es
@@ -48029,7 +48020,7 @@ potterspots.com
 potuansdqwbe.com
 poultry.com.ng
 poultry.com.ng/6008320X/WIRE/Businesshttp://floridabassconnection.xpartsols.com/INFO/US/0-Past-Due-Invoices/
-pouring.ac.ug/certificate.pem
+pouring.ac.ug
 pourvoiriekakuskanus.com
 pousadabrasilcp.com.br
 pousadadodouro.com.br
@@ -50564,7 +50555,7 @@ rockmayak.ru
 rockmill.abcsolution.ru
 rockmusiclives.com
 rocknrolletco.top
-rockpointgroup.com
+rockpointgroup.com/BvyOYSzH1uz/
 rockradioni.co.uk
 rocksolidproducts.com
 rocksolidstickers.com
@@ -50784,7 +50775,7 @@ royalsecurityinc.com
 royalsegoro.com
 royalskyworld.com
 royalstocktrading.com
-royaltransports.com.mx/2018/5eet7tpg567keath84ks8_fm5w0-72743657319298/
+royaltransports.com.mx
 royaltyplus.com
 royaltystore.shop
 royaproduct.ru
@@ -51920,7 +51911,7 @@ sch.co.th
 schaferandschaferlaw.com
 schapenbedrijf.nl
 schaye.net
-schd.ws/hosted_files/ishc2015/c8/ISHC2015_0199.doc
+schd.ws
 scheda.org
 scheibner-event.de
 scheiderer.de
@@ -52022,7 +52013,8 @@ scopice.com
 scopo.in
 scopoeidid.com
 scopriteistanbul.com
-score-group.com
+score-group.com/aims/files/arIx-wbq_wTt-K7/INVOICE/En/Paid-Invoice-Credit-Card-Receipt/
+score-group.com/aims/files/fuPb-Ylvcn63WK_rjzCcpvNq-MX/INV/445016FORPO/45528296823/doc/EN_en/Sales-Invoice/
 scorpiocomunicaciones.com
 scorpioncontrollers.com
 scorzacostruzioni.it
@@ -54287,7 +54279,7 @@ sosctb.com
 sosenfantsburkinafaso.fr
 sosh47.citycheb.ru
 sosofoto.cz
-sosseguranca.com.br
+sosseguranca.com.br/8599192/invoicing/LLC/US_us/Document-needed/
 sosyalfenomen.xyz
 sosyalfor.xyz
 sosyalmedyasatisi.com
@@ -54622,7 +54614,7 @@ spravkabas.com
 sprays-omkarenterprises.com
 sprayzee.com
 spread.ooo
-spreadsheetpage.com/downloads/xl/time%20sheet.xls
+spreadsheetpage.com
 spreadsheetsolutions.nl
 sprechtheater.de
 spreewales.net
@@ -58367,7 +58359,7 @@ thinknik.ca
 thinkogy.com
 thinkrace.ru
 thinkresearchinc.com
-thinktank.csoforum.in
+thinktank.csoforum.in/wp-content/uploads/2019/DOC/SdycWQvhYEVfLIkwGYEuJ/
 thinterests.com
 thirdeye.org.tw
 thirdeyetv.com
@@ -60699,7 +60691,7 @@ url-update.com
 url-validation-clients.com
 url.246546.com
 url.57569.fr.snd52.ch
-url.edu/premisrecerca/sites/1501.zip
+url.edu
 url.emailprotection.link/?a38JunaghClvpnP9g_nk5BCP0dpXgp2YMDbWMdcsqwINyloReJV8PI-AA8LsHJPuo_TIgpSm_AA7bxILcF8c9Og~~/
 url.emailprotection.link/?a6VDSPTGs_vNRYygmJ_By6Bs0LtJpQSKtoPuniiFFxnN9_C6z29MhPxuyuonGhfW7HDPbxyx5QVymuEWH5mWbkg~~/
 url.emailprotection.link/?a8mF8MfR7KtWOtoxmjxVg5qS1M0GhotqVguxPSuuNKWruv3gqTwc7SI2AH90B2yp2Y8UqEWT1C_CMyHQbdyqF2A~~/
@@ -63467,7 +63459,7 @@ www2.recepty5.com
 www2.runmyweb.com
 www2.wlwv.k12.or.us
 www6.hpq0.cn
-www68.zippyshare.com/d/5Eixpiut/74091/Csgo%20cheat%20updated.exe
+www68.zippyshare.com
 wwwdev.whitehat.pt
 wwwhelper.com
 wwwhostinfilestag.ddns.net
