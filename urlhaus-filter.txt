@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 06 Jun 2019 00:22:35 UTC
+! Updated: Fri, 07 Jun 2019 00:22:24 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -183,6 +183,7 @@
 102.165.35.138
 102.165.37.59
 102.165.48.81
+102.165.49.69
 102.165.50.10
 102.185.40.234
 1024.com.uy
@@ -336,6 +337,7 @@
 104.244.72.143
 104.244.72.82
 104.244.74.55
+104.244.75.25
 104.244.76.210
 104.248.10.33
 104.248.112.206
@@ -474,6 +476,7 @@
 104.248.6.196
 104.248.63.168
 104.248.65.54
+104.248.66.228
 104.248.66.24
 104.248.74.160
 104.248.77.12
@@ -1021,6 +1024,7 @@
 128.199.253.195
 128.199.254.22
 128.199.32.134
+128.199.36.193
 128.199.40.116
 128.199.42.210
 128.199.43.40
@@ -2177,6 +2181,7 @@
 159.89.140.41
 159.89.143.217
 159.89.145.235
+159.89.15.104
 159.89.152.138
 159.89.153.180
 159.89.154.132
@@ -2869,6 +2874,7 @@
 178.128.169.238
 178.128.169.6
 178.128.170.237
+178.128.171.65
 178.128.172.107
 178.128.175.40
 178.128.177.162
@@ -3153,6 +3159,7 @@
 180.211.99.165
 180.243.64.214
 180.245.36.233
+180.246.101.135
 180.246.18.95
 180.246.246.79
 180.247.147.100
@@ -4134,6 +4141,7 @@
 192.81.213.241
 192.81.216.68
 192.95.18.197
+192.95.2.166
 192.95.56.39
 192.99.142.235
 192.99.154.226
@@ -4380,6 +4388,7 @@
 198.23.255.10
 198.27.78.198
 198.44.250.45
+198.44.96.132
 198.46.160.136
 198.46.160.158
 198.46.190.41
@@ -4778,6 +4787,7 @@
 205.185.121.114
 205.185.121.19
 205.185.121.209
+205.185.121.51
 205.185.122.135
 205.185.122.240
 205.185.124.211
@@ -5073,6 +5083,7 @@
 209.97.169.39
 209.97.177.35
 209.97.178.173
+209.97.179.124
 209.97.181.170
 209.97.181.97
 209.97.182.137
@@ -5081,6 +5092,7 @@
 209.97.183.74
 209.97.185.168
 209.97.185.189
+209.97.186.201
 209.97.186.248
 209.97.187.164
 209.97.188.128
@@ -5104,6 +5116,7 @@
 210.76.64.46
 210.99.148.163
 210sadivorce.com
+211.104.242.47
 211.104.242.69
 211.107.230.86
 211.143.198.177
@@ -5468,6 +5481,7 @@
 23.249.166.168
 23.249.167.158
 23.249.173.202
+23.25.14.234
 23.251.128.89
 23.254.132.124
 23.254.132.182
@@ -5923,6 +5937,7 @@
 35.204.88.6
 35.205.247.152
 35.221.147.208
+35.221.169.248
 35.221.232.175
 35.221.42.220
 35.224.155.10
@@ -6110,6 +6125,7 @@
 37.49.225.230
 37.49.225.78
 37.49.227.176
+37.49.230.137
 37.49.230.233
 37.59.109.89
 37.59.117.243
@@ -6291,6 +6307,7 @@
 45.124.113.44
 45.126.254.31
 45.127.97.4
+45.195.84.92
 45.227.252.250
 45.227.252.252
 45.227.82.150
@@ -6990,6 +7007,7 @@
 51.77.210.97
 51.77.245.82
 51.77.95.121
+51.81.7.54
 51.83.74.132
 51.83.86.240
 51.89.0.134
@@ -8199,6 +8217,7 @@
 85.112.43.2
 85.115.23.247
 85.117.234.116
+85.117.234.37
 85.14.255.229
 85.143.171.2
 85.143.188.42
@@ -10510,7 +10529,7 @@ alexfranco.co
 alexgarkavenko.com
 alexhhh.chat.ru
 alexis.monville.com
-alexlema.com/css/a1/Mail_Access_Logs.doc
+alexlema.com
 alexm.co.za
 alexovicsattila.com
 alexpopow.com
@@ -11159,7 +11178,7 @@ amnholidays.com
 amnisopes.com
 amniyatgostariranian.ir
 amnrelease.com
-amnsreiuojy.ru/t.exe
+amnsreiuojy.ru
 amnsw.com.au
 amnsw.prospareparts.com.au
 amnsw.prosparepartscom.au
@@ -12815,7 +12834,7 @@ atozblogging.com
 atp-tek.com
 atparsco.com
 atphitech.com
-atpscan.global.hornetsecurity.com/index.php?atp_str=afW-6ROPadYx-4dieFO4DbV3E_xmH3-Ype0mHRlsyEuhwsqoEEbZLBAFyf6_bDLJTeSgdUgEyMXaPYm1fSyHXkyYLPVIFpr0HnjO3w92Mx4BQEA-rhcuJBljF7xs-IE79eIg5O9B_HcFg9yGyzdkrNZCo-SWcS_BoDLiAxLFFlgCcV-hkcqKgjzMXADBPvzglcgSAECd8rV4If7NGCqKrXPrWLYKMZxYJHyncp2kIgW8_RjSDCHhxD9niYyJJb1joVi-Wm8urvrdOP7bVNkrinv2G2ef433YzWETxfWlzGfnEHNQbTdBrST1zV1HNcyRnd3TVjwjjWn-3c5iRkyWIDuG4saguSDuVUDmDSM6OiM1NjA1ODY3MWVlZDYjOjoj2oG-0aPVYmvMJgGU-mi8Gg/
+atpscan.global.hornetsecurity.com
 atragon.co.uk
 atrakniaz.ir
 atrayade.webhibe.com
@@ -13173,6 +13192,7 @@ avkbravo.com
 avlchemicals.com
 avm.baynuri.net
 avmaroc.com
+avmiletisim.com
 avocap.eu
 avocat-valeriewatrin.com
 avocats-etrangers.com
@@ -16120,6 +16140,7 @@ bprmitramuktijaya.com
 bprognoz.ru
 bptech.com.au
 bqesg37h.myraidbox.de
+bqexww.ch.files.1drv.com
 bqgurq.ch.files.1drv.com
 bqre.xyz
 br.quantumdev.co
@@ -17412,6 +17433,7 @@ casanossapizzaria.com.br
 casasantateresita.com
 casasdepasyterrenos.mx
 casashavana.com
+casasmocambique.com
 casasoleada.es
 casastoneworks.com.au
 casavells.com
@@ -18623,7 +18645,8 @@ cirestudios.com
 cirqueampere.fr
 cisir.utp.edu.my
 cisme.in
-cismichigan.com
+cismichigan.com/1518MBCNZI/oamo/Commercial
+cismichigan.com/1518MBCNZI/oamo/Commercial/
 cisnecosmetics.com.br
 ciss.mk
 cissa.ewebdy.com
@@ -18698,13 +18721,7 @@ cjj.lanibio.net
 cjllcmonthlysub.ga
 cjmont41.fr
 cjnzbdy.gq
-cjoint.com/doc/15_07/EGkcftWS3qa_Console-ID-Fud.rar
-cjoint.com/doc/18_08/HHAvFUx2KML_DOCUMENTS-2.zip
-cjoint.com/doc/18_08/HHxoxvqdLui_DOCUMENTS.zip
-cjoint.com/doc/18_09/HIeuUN8skg6_DOCUMENTS-4.zip
-cjoint.com/doc/18_12/HLBnmzUX3Ll_SCAN-RESERVATIONS.rar
-cjoint.com/doc/18_12/HLEpvMYQjnE_AUTHORIZATION-FORMS.zip
-cjoint.com/doc/19_02/IBdvoJ3sDpk_Reservation.zip
+cjoint.com
 cjtows.com
 ck-finanzberatung.de
 ck37724.tmweb.ru
@@ -20395,6 +20412,7 @@ cuupedu.com
 cuviko.com
 cv91340.tmweb.ru
 cvbintangjaya.com
+cvbt.ml
 cvetisbazi.ru
 cvetochniy-buket.ru
 cvetolenta.ru
@@ -27653,6 +27671,7 @@ fidelityadvocatesgroup.com
 fidesconstantia.com
 fidfinance.com
 fidgetspinnerbestellen.nl
+fidiag.kymco.com
 fidosplaynstay.com
 fiduciaryspecialist.com
 fiebiger.us
@@ -28057,6 +28076,7 @@ flash-ore-update.win
 flash-oxe-update.win
 flash-oye-update.win
 flash.ba
+flash2019.xyz
 flashactphotography.co.za
 flasharts.de
 flashback.cl
@@ -28765,6 +28785,7 @@ fs08n4.sendspace.com/dlpro/6a5b2667465943085bb6fd3a2f5ba2cf/5cd0383f/ojvct9/rgen
 fs08n4.sendspace.com/dlpro/ce5611e5cd980266cea1eb61365a25ce/5cf7aa93/ojvct9/rgen4.2.exe
 fs08n4.sendspace.com/dlpro/d6372ea7ac993a7e8815310e3d3d8a23/5cd03814/ojvct9/rgen4.2.exe
 fs08n4.sendspace.com/dlpro/d7cc9087dd991a3cd9423559f6dff4e8/5cd9d385/ojvct9/rgen4.2.exe
+fs08n5.sendspace.com/dlpro/8f423a90896fc0d4a0ceb0eab198dc43/5cf8872a/ojvct9/rgen4.2.exe
 fs08n5.sendspace.com/dlpro/ecc713605c94866ce603efb53bde4826/5cd9c3eb/ojvct9/rgen4.2.exe
 fs08n5.sendspace.com/dlpro/fd75213e1d83526fcebd33b9644a22d9/5ceca5dc/ojvct9/rgen4.2.exe
 fs09n2.sendspace.com/dl/c2417f381e11a5bf339012d247eb1aa9/5c9e12787e4e899c/i25zxk/Revised%20Order-Quotation.rar
@@ -29753,6 +29774,7 @@ ghostbirdmovie.com
 ghostdesigners.com.br
 ghostman.top
 ghostnew.ru
+ghostproductions2012.com
 ghostru.biz
 ghoulash.com
 ghthf.cf
@@ -29935,6 +29957,7 @@ gitlab.com/santos2018e/n2019198263981623891/raw/master/Nfs-2019891723897128973-p
 gitlab.com/santos2018e/n2019198263981623891/raw/master/Nfs_201965465465465546587987465-pdf.zip?inline=false
 gitlab.com/spac4/ssl/raw/master/928347BR.msi
 gitlab.com/space1/git/raw/master/Ped250.msi
+gitlab.com/webmasterx01/srb/raw/master/9283471BR.msi
 gitlabtechnologies.com
 gitrgc17.gribbio.com
 giuliananuzzo.com
@@ -30127,7 +30150,7 @@ go.bankroll.io
 go.jinglz.online
 go.sharewilly.de
 go2035.ru
-go2l.ink/1ubC
+go2l.ink
 goa.rocks
 goaliesinc.com
 goanbazzar.com
@@ -30559,7 +30582,7 @@ greatharvestbreadco.net
 greatharvestfranchising.com
 greathealthworld.com
 greathostnames.com
-greatis.com/dbs.zip
+greatis.com
 greatissoftware.com
 greatkenyatours.com
 greatmobiles.co.uk
@@ -32369,29 +32392,7 @@ home.earthlink.net/~zrippeto/invoice.jar
 home.earthlink.net/~zrippeto/order-comfirmation.jar
 home.earthlink.net/~zrippeto/pal/payment~details.jar
 home.lotr.flaik.com
-home.mindspring.com/~dicklin/USPS20190104.jar
-home.mindspring.com/~dicklin/ups20190114.jar
-home.mindspring.com/~dwduffy/UPS/tracking-copy.jar
-home.mindspring.com/~georgedibble/secure_message.jar
-home.mindspring.com/~jolchawa/01/FedEx20190104.jar
-home.mindspring.com/~jolchawa/UPS_Tracking/1ZW701450096823341.jar
-home.mindspring.com/~jolchawa/ups1/ups20190114.jar
-home.mindspring.com/~marvinlzinn1/20181510.exe
-home.mindspring.com/~marvinlzinn1/UPS_Trk_1Z6A7Y850392419911.exe
-home.mindspring.com/~marvinlzinn1/USPS_20181228.jar
-home.mindspring.com/~marvinlzinn1/_output281B0.exe
-home.mindspring.com/~marvinlzinn1/secure_message.jar
-home.mindspring.com/~mlaurie/1521740581.jar
-home.mindspring.com/~mlaurie/1521794522.jar
-home.mindspring.com/~mlaurie/1522003981.jar
-home.mindspring.com/~mlaurie/1522102502.jar
-home.mindspring.com/~paulfwhite/UPS_tracking.jar
-home.mindspring.com/~pmco/UPS_20180208.jar
-home.mindspring.com/~pmco/USPS20190109.jar
-home.mindspring.com/~sbirmingham/Costings_Follow_Up.jar
-home.mindspring.com/~sbirmingham/Tracking_Number_1Z6A7Y855293103311.jar
-home.mindspring.com/~wilfert/USPS_94078556993022393116.jar
-home.mindspring.com/~wilfert/USPS_Tracking.jar
+home.mindspring.com
 home.phnix-e.com
 home.webadmin.syscoinc.org
 home88.wp-goodies.com
@@ -32784,7 +32785,7 @@ ht-vn.com
 htcladakh.com
 htcpi.org
 htepl.com
-htl.li/gm6y30lvnkN
+htl.li
 htl.ru
 htlinternational.org
 htlvn.com
@@ -34589,6 +34590,7 @@ irukina.com
 irvingbestlocksmith.com
 irwaffle.ir
 iryna.biz
+is.gd/8B3Pgg?/890427140188
 is45wdsed4455sdfsf.duckdns.org
 isaac.samjoemmy.com
 isaac00.com
@@ -36443,6 +36445,7 @@ kefalosrestaurant-lassi.com
 kefas-bv.nl
 keffesrdf.org.ng
 kegnat.de
+kehuduan.in
 keichomaru.jp
 keieffe.com
 keihani.com
@@ -37242,6 +37245,7 @@ koppacoffeebites.com
 koppemotta.com.br
 kopshtimagjik.com
 kor-trak.pl
+koralli.if.ua
 korastation.com
 koratmobilya.xyz
 korayche2002.free.fr
@@ -38320,6 +38324,7 @@ leidon.nl
 leikvold.net
 leisurecoinmachine.com
 leizerstamp.ir
+lejcampers.dk
 lejintian.cn
 lejoliedoces.com.br
 lekarenprinemocnici.sk
@@ -41661,6 +41666,7 @@ melhordesentupidora.com.br
 melhorservoce.com
 meliora.ge
 meliposhesh.com
+melirossa-shop.xyz
 meliscar.com
 melissadreamsofsushi.com
 melissafontana.com
@@ -41680,7 +41686,7 @@ meltonairservices.com.au
 melwanilaw.com
 melyanna.nl
 memap.co.uk
-members.chello.nl/g.dales2/b.exe
+members.chello.nl
 members.iinet.net.au/~sambo75/FedEx--shipping(ecopy)22-3235-44-Labels.jar
 members.iinet.net.au/~sambo75/FedEx-shipping(ecopy)22-3235-44-Labels.jar
 members.iinet.net.au/~sambo75/svvchost.exe
@@ -42518,6 +42524,7 @@ mmm.arcticdeveloper.com
 mmmnasdjhqweqwe.com
 mmmooma.zz.am
 mmms.at
+mmmtbsusanna.info
 mmmvideo.s3.amazonaws.com/silvervideo/ExitFeedbackTrapper/product/EFT_inst.exe
 mmonteironavegacao.com.br
 mmosellers.com
@@ -42922,7 +42929,9 @@ moscow44.online/KeyMoscow44.35.exe
 moscow44.online/KeyMoscow44.40.exe
 moscow55.online/KeyMoscow55.35.exe
 moscow66.online/KeyMoscow55.35.exe
-moscow77.online
+moscow77.online/GetDataAVK.exe
+moscow77.online/KeyMoscow77.35.exe
+moscow77.online/KeyMoscow77.40.exe
 moscowvorota.ru
 moseler.org
 mosgasclub.ru
@@ -42941,6 +42950,7 @@ mosti-tonneli.ru
 mostkuafor.com
 mostlybikes.com
 mosttour.trdesign.agency
+motabaqahtrading.com
 motaengenharia.eng.br
 mote.vn
 moteandassociates.com
@@ -43475,7 +43485,7 @@ my-organic-shop.co.uk
 my-spa.rs
 my.camptaiwan.com.tw
 my.jiwa-nala.org
-my.mail.de
+my.mail.de/dl/16396560ccdf7536b3dde030d4b7e0e0/
 my.mixtape.moe/ayqydr.vbs
 my.mixtape.moe/chhsmy.htaa
 my.mixtape.moe/coxgka.jpg
@@ -43499,7 +43509,8 @@ my10apps.com
 my2b.online
 myabisib.ru
 myacademjourneys.com
-myaccount.dropsend.com
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids=14267487
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids[]=14267487
 myadmin.59north.com
 myafyanow.com
 myanmodamini.es
@@ -43671,6 +43682,7 @@ myschool-eg.000webhostapp.com
 myschoolbaze.com
 myschoolmarket.com.ng
 myscs.ca
+mysecrethope.com
 myselfasanother.net
 myseopro.ru
 myservice.ru
@@ -45459,6 +45471,7 @@ office365homepod.com
 office365idstore.com
 office365ms.com
 office365msbox.com
+office43.s3.amazonaws.com/crpXmp-Sunday.exe
 office910.com
 officeblocks.com.au
 officeboss.xyz
@@ -46334,6 +46347,7 @@ otojack.co.id
 otokepenk.com
 otonoc.pl
 otorsgroup.co.uk
+otosauna.com
 otosude.com
 ototoki.com
 otpkabinet.ru
@@ -48566,7 +48580,7 @@ pro-obed.u1296248.cp.regruhosting.ru
 pro-prokat.ru
 pro-sealsolutions.com
 pro-structure.ru
-pro-teammt.ru
+pro-teammt.ru/projects/hwmt/release/Multi-Tool.exe
 pro-tone.ru
 pro-tvoydom.ru
 pro-verb.be
@@ -48862,6 +48876,7 @@ provinsi.com.my
 provio.nl
 provisa-centr.ru
 provisol.se
+provit.fr
 provoke.bg
 provolt.ro
 provost.sterlingstrustbank.tk
@@ -50879,6 +50894,7 @@ romantis.penghasilan.website
 romanu.hi2.ro
 romanvolk.ru
 romanyaciftevatandaslik.com
+romatribal.com
 rombell.ro
 rome-apartments-it.com
 romediamondlotusq2.net
@@ -51082,6 +51098,7 @@ rt001v5r.eresmas.net
 rta.hu
 rtarplee.stackpathsupport.com
 rtcfruit.com
+rtd-co.ir
 rtdetailing.com
 rtfcontracts.co.uk
 rtgjudsbnij.top
@@ -51538,7 +51555,7 @@ safehomebuilders.biz
 safekar.online
 safekro.com
 safemoneyamerica.com
-safentrix.com/adlink?cid=0
+safentrix.com
 saferoomreviews.com
 safesalesnembutal.com
 safeservicesfze.com
@@ -54136,6 +54153,7 @@ smppelitanusantara.sch.id
 smqblg.db.files.1drv.com
 smrgh-studio.audio
 smridu.com
+sms.nfile.net
 sms.prganvani.com
 sms2sms.online
 sms4all.com.ng
@@ -54305,6 +54323,14 @@ softsale.ie
 softshine.kiev.ua
 softspotitservices.com
 softtest.lsp.goozmo.com
+software.goop.co.il
+software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=%D7%9E%D7%A7%D7%9C%D7%93%D7%AA%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA%20%D7%9E%D7%A9%D7%95%D7%A4%D7%A8%D7%AA&ctid=ct282718&url=http%3A%2F%2Fwww.tau.ac.il%2F~stoledo%2FTools%2FKeyboards%2FSivanToledoHebrewKeyboardLayout10.exe
+software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=Act%20of%20War:%20Direct%20Action&ctid=ct282718&url=http%3A%2F%2Fsoftwarex-files.download.com%2Fgames%2Fd3%2Fgsc%2Fstrategy%2Factofwardirectaction%2FAOW_DEMO_EURO.EXE
+software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=Ages%20-%20Family%20Tree%20Database&ctid=ct282718&url=http%3A%2F%2Fwww.daubnet.com%2Fftp%2Fages.exe
+software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=ICQ&ctid=ct282718&url=http%3a%2f%2fftp.icq.com%2fpub%2fICQ7%2finstall_icq7.exe
+software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=ICQ&ctid=ct282718&url=http://ftp.icq.com/pub/ICQ7/install_icq7.exe
+software.goop.co.il/aspsrc/v2.aspx?locale=he&swname=actofwar:directaction&ctid=ct282718&url=http:/softwarex-files.download.com/games/d3/gsc/strategy/actofwardirectaction/aow_demo_euro.exe
+software.goop.co.il/aspsrc/v2.aspx?locale=he&swname=ages%20-%20family%20tree%20database&ctid=ct282718&url=http:/www.daubnet.com/ftp/ages.exe
 software.rasekhoon.net
 software.sathome.org
 softwareandproductsfordownload.s3.amazonaws.com/WCP%202014%20FBC%20%20(version%205%C2%B71)%20%2016-Jul-2015.exe
@@ -57638,6 +57664,7 @@ tegraconsultinginc.com
 teh-komfort.ru
 tehilacrew.com
 tehmezevezoglu.com
+tehms.com
 tehno13.ru
 tehran-p-c.com
 tehranautomat.ir
@@ -61498,6 +61525,7 @@ vdmacademy.in
 vds-vloeren.nl
 vdstruik.nl
 vdtogt.nl
+vduncanoo.club
 vdvlugt.org
 ve-ingenieria.tk
 veatchcommercial.com
@@ -62439,6 +62467,7 @@ wa-producoes.com.br
 wa.grapesdigital.com
 waa.emarket.asia
 waaagh.nl
+waafwviei8k.certificados.com.de
 waaronlineroulettespelen.nl
 wabby.net
 wabse.org
@@ -63754,6 +63783,7 @@ www2.runmyweb.com
 www2.wlwv.k12.or.us
 www6.hpq0.cn
 www68.zippyshare.com/d/5Eixpiut/74091/Csgo%20cheat%20updated.exe
+wwwclplonline.000webhostapp.com
 wwwdev.whitehat.pt
 wwwhelper.com
 wwwhostinfilestag.ddns.net
@@ -63840,6 +63870,7 @@ xchangeoffer.com
 xchx2001.com.img.800cdn.com
 xclusive.fi
 xclusive.store
+xcnn.bariqarabions.cf
 xcodelife.co
 xcsales.info
 xdeep.co.za
@@ -65212,7 +65243,7 @@ zsr7pln56d2ovr85.com
 zstar.top
 zsz-spb.ru
 ztarx.com
-ztds.online
+ztds.online/20190118/multishare.exe
 ztds2.online
 ztelligence.mobi
 ztowerseal.com
