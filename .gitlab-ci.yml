@@ -47,11 +47,11 @@ deploy_job:
     - git push
 
     # Generate successful status badge
-    - mkdir -p public/ && wget https://img.shields.io/badge/pipeline-passed-success.svg -O public/passed.svg
+    - mkdir -p public/ && wget https://img.shields.io/badge/pipeline-passed-success.svg -O public/status.svg
 
   artifacts:
     paths:
-      - public/passed.svg
+      - public/status.svg
 
   only:
     # Allow CI to be triggered by schedule
@@ -65,11 +65,11 @@ failed_job:
 
   script:
     # Generate failed status badge
-    - mkdir -p public/ && wget https://img.shields.io/badge/pipeline-failed-critical.svg -O public/failed.svg
+    - mkdir -p public/ && wget https://img.shields.io/badge/pipeline-failed-critical.svg -O public/status.svg
 
   artifacts:
     paths:
-      - public/failed.svg
+      - public/status.svg
 
   # Run this job only when deploy_job failed
   when: on_failure
