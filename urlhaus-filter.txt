@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 10 Jun 2019 00:26:24 UTC
+! Updated: Mon, 10 Jun 2019 12:21:33 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -347,6 +347,7 @@
 104.248.113.246
 104.248.114.204
 104.248.115.137
+104.248.118.84
 104.248.119.60
 104.248.122.66
 104.248.123.152
@@ -1472,6 +1473,7 @@
 139.59.65.89
 139.59.69.41
 139.59.69.64
+139.59.7.201
 139.59.74.176
 139.59.75.31
 139.59.78.79
@@ -1653,6 +1655,7 @@
 142.93.186.144
 142.93.188.49
 142.93.192.191
+142.93.192.96
 142.93.193.198
 142.93.195.228
 142.93.195.249
@@ -4899,6 +4902,7 @@
 206.189.181.0
 206.189.183.53
 206.189.183.80
+206.189.186.50
 206.189.187.116
 206.189.187.186
 206.189.188.124
@@ -4938,6 +4942,7 @@
 206.189.235.64
 206.189.237.121
 206.189.237.130
+206.189.237.162
 206.189.237.214
 206.189.26.175
 206.189.26.31
@@ -7012,6 +7017,7 @@
 51.254.145.99
 51.254.164.30
 51.254.176.77
+51.254.176.79
 51.254.209.163
 51.254.23.185
 51.254.27.116
@@ -7517,6 +7523,8 @@
 68.183.133.105
 68.183.134.151
 68.183.136.181
+68.183.136.202
+68.183.137.0
 68.183.139.219
 68.183.140.225
 68.183.140.5
@@ -7577,6 +7585,7 @@
 68.183.225.69
 68.183.226.1
 68.183.228.141
+68.183.23.187
 68.183.23.22
 68.183.234.126
 68.183.236.147
@@ -9155,6 +9164,7 @@ abcstudio.sk
 abcsunbeam.com
 abderfiene.com
 abdillahsystem.com
+abdovfinancelimited.com
 abdulhamit.org
 abdullahsheikh.info
 abdullahshfeek.info
@@ -22194,6 +22204,7 @@ digitalesnetwork.com
 digitalforweb.com
 digitalgit.in
 digitalimpactv2.dabdemo.com
+digitalinfosys.net
 digitalisasiperusahaan.com
 digitalkonten.com
 digitalkwikad.com
@@ -22944,6 +22955,7 @@ doc-04-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-04-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/uh2qjsvba7m0j34l25c32dmudss1vae2/1544436000000/05984462313861663074/*/10uDRUJcZKI7xiMr98Ak535xBqUIsOGA1
 doc-04-8s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/f0od3hpa21ee59uhuum338hrr4sp1kcv/1547208000000/07335649321361492730/*/1KdOpkOMx3n40ae4ipn54yZY-FzXDgYaj?e=download
 doc-04-94-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/l1ci852u8brift7hr755g5357b27g74a/1552579200000/06178937988598536975/*/13hGczvSV-KPh3m_miJWl_Ag6xXGPx4zk
+doc-04-ak-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/l2adbk3ho5hev924krecqu0p0kqdc8eq/1560153600000/14784546798702040541/*/1LXz5PbKQ0fPjHz2XLKzQ0u5q5_LLJUGE?e=download
 doc-04-bo-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/uttvbtorfth7mo06i8i0ltg9846dp1e6/1547798400000/11292720886455874376/*/11_dFDGDfb87740EqpD3pOHyVdLb8ihWa?e=download
 doc-08-1k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/763ihfavo56en6dvltu9ibalil8igrd0/1537416000000/01121010560865514304/*/1VuP56Vo_yTbawgVzwNDnbDzPw6qOaj_n?e=download
 doc-08-1s-docs.googleusercontent.com/docs/securesc/vgpa3fhp6g5js6fifardlfgbe81uofd2/dv8c20q648mi7s7t56805p3q5o81a55k/1548972000000/11875064617415578241/06180123605574313842/1aPpWRN1nGgdV1iYehWGK7xFqZGOedqar?e=download
@@ -27095,6 +27107,7 @@ eyupp.com
 eyzaguirretennis.com
 ez-photo.ru
 ez.lanibio.net
+ez.pusatiklan.net
 ez64.ru
 ezassist.nl
 ezbk.co.uk
@@ -28417,6 +28430,7 @@ forestscompanies.com
 foreverblueskies.com
 forevergoodliving.com
 foreverir.com
+foreverprecious.org
 foreverprotect.com
 foreverprotect.uk
 foreverprotected.co.uk
@@ -31892,6 +31906,7 @@ herman-steyn.com
 hermes.travel.pl
 hermesfortune.com
 hermeslogisticsint.com
+hermeticoclub.com
 herms.com
 hernanescalante.com
 herojo.nl
@@ -32791,6 +32806,7 @@ howtowanderlust.com
 hoxen.net
 hozd-magad-formaba.net10.hu
 hozpack.com
+hp-clicker.000webhostapp.com
 hpardb.in
 hpaudiobooksfree.com
 hpbio.com.br
@@ -32914,6 +32930,7 @@ hukuki.site
 hukukportal.com
 hukum.ub.ac.id
 hukum.unwiku.ac.id
+huliot.in
 hulitshirt.com
 humandevelopmentmag.org
 humanfortis.mn
@@ -44772,6 +44789,7 @@ nilema.nl
 nilemixitupd.biz.pl
 nilgreenberg.com
 nilisanat.com
+niloiuyrt.info
 nilsguzellik.com
 nilsnilsgarden.se
 niman.ru
@@ -59920,6 +59938,7 @@ tsk-winery.com
 tsn-shato.ru
 tsogomediakit.co.za
 tsport88.com
+tsredco.telangana.gov.in
 tsuburaya-prod.co.jp
 tsugite.youbi.me
 tsukasa.com.br
