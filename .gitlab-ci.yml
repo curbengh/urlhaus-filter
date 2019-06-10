@@ -1,28 +1,34 @@
+stages:
+  - deploy_stage
+  - failed_stage
+
 image: alpine:latest # Use the latest version of Alpine Linux docker image
 
-before_script:
-  # Install dependencies
-  - 'which ssh-agent || ( apk update && apk add openssh-client git grep)'
+deploy_job:
+  stage: deploy_stage
 
-  # Run ssh-agent
-  - eval $(ssh-agent -s)
+  before_script:
+    # Install dependencies
+    - 'which ssh-agent || ( apk update && apk add openssh-client git grep)'
 
-  # Import private key with ed25519 workaround
-  - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    # Run ssh-agent
+    - eval $(ssh-agent -s)
 
-  # Create the SSH directory and give it the right permissions
-  - mkdir -p ~/.ssh
-  - chmod 700 ~/.ssh
+    # Import private key with ed25519 workaround
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
 
-  # Add gitlab.com as ssh known host
-  - ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
-  - chmod 644 ~/.ssh/known_hosts
+    # Create the SSH directory and give it the right permissions
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
 
-  # Set commit author
-  - git config --global user.name "curben-bot"
-  - git config --global user.email "curben-bot@users.noreply.gitlab.com"
+    # Add gitlab.com as ssh known host
+    - ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
+    - chmod 644 ~/.ssh/known_hosts
 
-deploy:
+    # Set commit author
+    - git config --global user.name "curben-bot"
+    - git config --global user.email "curben-bot@users.noreply.gitlab.com"
+
   script:
     # SSH to gitlab.com
     - ssh git@gitlab.com
@@ -40,9 +46,35 @@ deploy:
     # Push the commit
     - git push
 
+    # Generate successful status badge
+    - mkdir -p public/ && wget https://img.shields.io/badge/pipeline-passed-success.svg -O public/passed.svg
+
+  artifacts:
+    paths:
+      - public/passed.svg
+
   only:
     # Allow CI to be triggered by schedule
     - schedules
 
     # Allow CI to be triggered manually
     - web
+
+failed_job:
+  stage: failed_stage
+
+  script:
+    # Generate failed status badge
+    - mkdir -p public/ && wget https://img.shields.io/badge/pipeline-failed-critical.svg -O public/failed.svg
+
+  artifacts:
+    paths:
+      - public/failed.svg
+
+  # Run this job only when deploy_job failed
+  when: on_failure
+
+  only:
+    - schedules
+    - web
+
