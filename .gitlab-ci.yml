@@ -47,7 +47,8 @@ deploy_job:
     - git push
 
     # Generate successful status badge
-    - mkdir -p public/ && wget https://img.shields.io/badge/pipeline-passed-success.svg -O public/status.svg
+    - mkdir -p /builds/curben/urlhaus-filter/public/
+    - wget https://img.shields.io/badge/pipeline-passed-success.svg -O /builds/curben/urlhaus-filter/public/status.svg
 
   artifacts:
     paths:
@@ -65,7 +66,8 @@ failed_job:
 
   script:
     # Generate failed status badge
-    - mkdir -p public/ && wget https://img.shields.io/badge/pipeline-failed-critical.svg -O public/status.svg
+    - mkdir -p /builds/curben/urlhaus-filter/public/
+    - wget https://img.shields.io/badge/pipeline-passed-success.svg -O /builds/curben/urlhaus-filter/public/status.svg
 
   artifacts:
     paths:
