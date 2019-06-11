@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 11 Jun 2019 00:20:49 UTC
+! Updated: Tue, 11 Jun 2019 12:21:55 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -907,6 +907,7 @@
 121.122.126.9
 121.122.92.226
 121.122.99.91
+121.128.189.19
 121.129.149.231
 121.132.123.89
 121.147.51.57
@@ -1013,6 +1014,7 @@
 125.212.218.78
 125.227.252.91
 125.254.53.45
+125.65.112.193
 125.65.44.5
 125.77.30.21
 125253363-659105193269603733.preview.editmysite.com
@@ -1752,6 +1754,7 @@
 142.93.90.61
 142.93.90.9
 142.93.93.8
+142.93.96.128
 142.93.98.71
 142.ip-164-132-197.eu
 144.172.73.237
@@ -1931,6 +1934,7 @@
 157.230.175.112
 157.230.175.134
 157.230.176.227
+157.230.177.31
 157.230.179.249
 157.230.179.36
 157.230.18.161
@@ -1945,6 +1949,7 @@
 157.230.21.45
 157.230.211.181
 157.230.211.239
+157.230.212.99
 157.230.213.59
 157.230.214.179
 157.230.214.229
@@ -2209,6 +2214,7 @@
 159.89.125.206
 159.89.127.178
 159.89.127.8
+159.89.128.232
 159.89.140.41
 159.89.143.217
 159.89.145.235
@@ -2772,6 +2778,7 @@
 176.223.132.161
 176.223.135.216
 176.223.138.165
+176.223.139.162
 176.223.142.43
 176.228.166.156
 176.230.127.229
@@ -3198,6 +3205,7 @@
 180.246.18.95
 180.246.246.79
 180.247.147.100
+180.252.69.2
 180.66.68.39
 180.76.114.169
 180.87.215.3
@@ -4030,6 +4038,7 @@
 189.230.174.16
 189.238.11.212
 189.238.192.19
+189.238.193.85
 189.252.0.119
 189.32.232.54
 189.41.106.205
@@ -4305,6 +4314,7 @@
 195.123.218.152
 195.123.221.103
 195.123.227.20
+195.123.234.12
 195.123.237.120
 195.123.237.152
 195.123.238.242
@@ -5542,6 +5552,7 @@
 23.254.167.231
 23.254.201.234
 23.254.204.62
+23.254.211.227
 23.254.211.250
 23.254.215.137
 23.254.215.52
@@ -5550,6 +5561,7 @@
 23.254.224.150
 23.254.224.39
 23.254.224.47
+23.254.224.52
 23.254.225.180
 23.254.225.245
 23.254.226.130
@@ -6457,6 +6469,7 @@
 45.79.108.74
 45.79.67.151
 45.8.159.7
+45.80.148.117
 4570595.ru
 46.101.102.135
 46.101.104.141
@@ -7067,6 +7080,7 @@
 51.75.30.207
 51.75.35.174
 51.75.75.88
+51.75.77.226
 51.75.91.6
 51.77.192.138
 51.77.210.97
@@ -8626,6 +8640,7 @@
 91.83.166.116
 91.83.230.239
 91.89.196.92
+91.92.128.13
 91.92.128.16
 91.92.128.23
 91.92.136.91
@@ -23019,6 +23034,7 @@ doc-0c-9s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-0c-b0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/02g38ib9ptvfn7kui8qla3hgmo569b85/1549375200000/17400219818305972862/*/1OMEJJ_yy0PIOgsjp-L-M2eByngH3m6pX?e=download
 doc-0c-b0-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/mofdglg46pqj2ihiv66ukfa01176fp32/1549432800000/17400219818305972862/*/1OMEJJ_yy0PIOgsjp-L-M2eByngH3m6pX?e=download
 doc-0c-c4-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/i9e6ss97fnd9q2hsd14833aku28n5fli/1551376800000/04179060019307230078/*/1jAfKM07JrpHiAnmblDgyni6pHPe5B2JZ
+doc-0g-0k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/la5mqop80oglvlk9j081rvbb2gs2qfpd/1560218400000/11918930388185993289/*/11SwC5Tr0BArhVXE3iYmbv9aQs03Xkm8K?e=download
 doc-0g-1k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/4sslkb6j2err45123o9boh66ufdk427c/1540396800000/01121010560865514304/*/1Sm62jFMKHV9vWiPGDbIMSFOEQmx9adqI?e=download
 doc-0g-40-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/5tshk38v5e3a4l55se6qgbetluca2kjs/1545076800000/12570212088129378205/*/1OLI3j8f_Z3LJRjb0BZG34M1Fin8siJkz
 doc-0g-40-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/64k5dd9mmdcj2h5cu29p0a0ivi186trt/1545040800000/12570212088129378205/*/1vxl2AJ7rLn3wils0jsSI8NrRqlx9erAC
@@ -41284,6 +41300,7 @@ massdev.co
 masseur.es
 massivesales.co.uk
 massomsadarpuri.com
+massoud.free.fr
 masspanish.com
 massushotel.com
 masswheyshop.com
@@ -43056,6 +43073,7 @@ mooziq.com
 morac.net
 moradikermani.oilyplus.ir
 moradoor.com
+moralesfeedlot.com
 moratomengineering.com
 morcanports.com
 morderingportal.com
@@ -45556,6 +45574,7 @@ obogrev.com.ru
 oboigroup.ru
 obomita1.5gbfree.com
 obomita3.5gbfree.com
+obomita4.5gbfree.com
 obosonews.info
 obraauxiliadora.com.br
 obrazkovo.art
@@ -51170,6 +51189,7 @@ rosalindacademy.it
 rosalos.ug
 rosario-datageeks.com.ar
 rosarioalcadaaraujo.com
+rosatiautoaffari.it
 rosegreenstein.com
 rosehill.hu
 roseisspecial.com
@@ -51217,6 +51237,7 @@ rotterdammeetings.nl
 roubaix-coworking.fr
 roue.com.mx
 roundtableusa.com
+roundworld.club
 roupeirodemoda.com
 rourkela.com
 routetomarketsolutions.co.uk
@@ -53385,6 +53406,7 @@ she-wolf.eu
 shebens.com
 shecoworx.com
 sheddendraughting.com
+sheddy.5gbfree.com
 shedy.5gbfree.com
 sheedle.live
 sheeni-egypt.com
@@ -58096,6 +58118,7 @@ terecargas.com
 terelepar.org
 teresahileko.com
 teresaintl.com
+terfet.s3.ap-south-1.amazonaws.com
 terichubholgya.com
 teridiwanihui.com
 terifischer.com
@@ -59204,6 +59227,7 @@ tksb.net
 tktool.net
 tku-shorinjikempo.com
 tl-designs.dk
+tlarbi1.free.fr
 tlb.atkpmedan.ac.id
 tlckids-or.ga
 tlextreme.com
@@ -62567,6 +62591,7 @@ vrum.lt
 vsb.reveance.nl
 vsbreveance.nl
 vscdhkghkhyz.tw
+vsecurelevel.com
 vsedilo.org
 vseskidkitut.ru
 vsevotvete.ru
