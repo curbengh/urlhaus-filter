@@ -1,6 +1,7 @@
 stages:
   - deploy_stage
   - failed_stage
+  - pages_stage
 
 image: alpine:latest # Use the latest version of Alpine Linux docker image
 
@@ -46,6 +47,7 @@ deploy_job:
     # Push the commit
     - git push
 
+  after_script:
     # Generate successful status badge
     - mkdir -p /builds/curben/urlhaus-filter/public/
     - wget https://img.shields.io/badge/pipeline-passed-success.svg -O /builds/curben/urlhaus-filter/public/status.svg
@@ -80,3 +82,18 @@ failed_job:
     - schedules
     - web
 
+pages:
+  stage: pages_stage
+
+  script:
+    - echo "Uploading status.svg to Pages..."
+
+  artifacts:
+    paths:
+      - public
+
+  when: always
+
+  only:
+    - schedules
+    - web
