@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 12 Jun 2019 00:20:46 UTC
+! Updated: Wed, 12 Jun 2019 12:27:11 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -428,6 +428,7 @@
 104.248.231.103
 104.248.231.177
 104.248.231.250
+104.248.233.18
 104.248.234.122
 104.248.234.134
 104.248.234.176
@@ -587,6 +588,7 @@
 108.162.132.106
 108.170.112.46
 108.170.31.53
+108.170.40.42
 108.174.194.200
 108.174.197.100
 108.174.197.102
@@ -658,6 +660,7 @@
 109.73.73.229
 109.74.64.155
 109.88.227.69
+109.94.209.178
 109.97.216.141
 10ar.com.ar
 10bestvpnsites.com
@@ -704,6 +707,7 @@
 111.90.141.104
 111.90.147.83
 111.90.150.149
+111.90.150.205
 111.90.151.207
 111.90.158.182
 111.90.158.225
@@ -2114,6 +2118,7 @@
 159.65.119.32
 159.65.12.8
 159.65.121.73
+159.65.129.188
 159.65.134.66
 159.65.136.187
 159.65.138.44
@@ -2985,6 +2990,7 @@
 178.128.25.248
 178.128.250.75
 178.128.252.94
+178.128.253.67
 178.128.255.119
 178.128.26.53
 178.128.3.161
@@ -3366,6 +3372,7 @@
 185.141.61.105
 185.141.61.17
 185.141.61.39
+185.141.62.83
 185.142.236.162
 185.142.236.239
 185.144.100.123
@@ -3728,6 +3735,7 @@
 185.49.70.81
 185.49.71.101
 185.5.248.205
+185.52.2.140
 185.52.2.199
 185.52.2.20
 185.52.2.31
@@ -3744,6 +3752,7 @@
 185.61.138.170
 185.61.138.20
 185.61.138.201
+185.61.138.29
 185.61.138.74
 185.61.148.235
 185.61.148.36
@@ -4047,6 +4056,7 @@
 189.238.11.212
 189.238.192.19
 189.238.193.85
+189.251.58.38
 189.252.0.119
 189.32.232.54
 189.41.106.205
@@ -4964,6 +4974,7 @@
 206.189.225.113
 206.189.225.169
 206.189.226.220
+206.189.227.120
 206.189.229.119
 206.189.232.13
 206.189.234.178
@@ -5148,6 +5159,7 @@
 209.97.159.134
 209.97.159.137
 209.97.164.197
+209.97.166.31
 209.97.169.225
 209.97.169.39
 209.97.177.35
@@ -8480,6 +8492,7 @@
 89.230.29.78
 89.248.171.101
 89.248.172.169
+89.32.41.15
 89.32.56.148
 89.32.56.33
 89.32.62.100
@@ -9569,6 +9582,7 @@ acupunctureofdublin.com
 acuraonline.co.nz
 acuscura.nl
 acusticod3.com.br
+acvila.ml
 ad-simple.com
 ad-tectum.hu
 ad.clienturls.com
@@ -10767,6 +10781,7 @@ aliveforest.com
 aliyev.org
 aliyvm.com
 alize-flor.fr
+aljaber-group.com
 aljahufoundation.org
 aljriwi.com
 alkadi.net
@@ -13569,6 +13584,7 @@ b4512652-a-62cb3a1a-s-sites.googlegroups.com
 b4ckdoorarchive.com
 b4events.it
 b5.doshimotai.ru
+b64zwvi.top
 b7center.com
 b7j.info
 baacsetu.org
@@ -18844,6 +18860,7 @@ cjllcmonthlysub.ga
 cjmont41.fr
 cjnzbdy.gq
 cjoint.com
+cjsebbelov.dk
 cjtows.com
 ck-finanzberatung.de
 ck37724.tmweb.ru
@@ -20303,6 +20320,7 @@ crypto-db.com
 crypto-exchange.pro
 crypto-exchange.tradetoolsfx.com
 crypto-strategy.ru
+crypto-wins.club
 crypto.flemart.ru
 crypto300.com
 cryptoads.cfc.io
@@ -21737,6 +21755,7 @@ dermatologica.com.co
 dermatologysechenov.ru
 dermazet.ro
 dermosaglik.com.tr
+dermtruepartnership.biz
 derooy.aanhangwagens.nl
 derrickrhems.com
 derryplayhouse.co.uk
@@ -22092,6 +22111,7 @@ dialysistransportationservice.net
 diamand-it.ru
 diamant-paris.fr
 diamond-printshop.com
+diamond-sys.com
 diamondbuilding.ir
 diamondcity.ru
 diamondcomtwo.com
@@ -25115,6 +25135,7 @@ e-basvur.com
 e-cart-solutions.com
 e-centricity.com
 e-comerce.de
+e-commerce-shop.com
 e-controlempresarial.com
 e-cryptoserver.com
 e-declare.fr
@@ -25869,6 +25890,7 @@ elibrary.stkippersada.ac.id
 elidefire.my
 elielcruz.com.br
 elieng.com
+elievarsen.ru
 elijahngaruiya.co.ke
 elimperiodelospanuelos.com
 elinika.ru
@@ -31111,6 +31133,7 @@ gunpoint.com.au
 guoble.ru
 guojibu.hnfms.com.cn
 guolinv.com
+guolyfrederick.club
 guomanhotels.todaycouponcode.com
 gupikp.ru
 gupoty.aninik.me
@@ -53902,6 +53925,7 @@ sistemaconstanz.com
 sistemagema.com.ar
 sistemahoteleiro.com
 sistemastcs.com.br
+sistemkalip.net
 sister2sister.today
 sisweb.info
 sitcomsonline.com/Facture/
@@ -57204,6 +57228,7 @@ t-kinami.com
 t-lareva.com
 t-ohishi.info
 t-slide.fr
+t-trade.net
 t.honker.info
 t.w2wz.cn
 t0nney.com
