@@ -69,7 +69,7 @@ failed_job:
   script:
     # Generate failed status badge
     - mkdir -p /builds/curben/urlhaus-filter/public/
-    - wget https://img.shields.io/badge/pipeline-passed-success.svg -O /builds/curben/urlhaus-filter/public/status.svg
+    - wget https://img.shields.io/badge/pipeline-failed-critical.svg -O /builds/curben/urlhaus-filter/public/status.svg
 
   artifacts:
     paths:
