@@ -1,6 +1,6 @@
 # URLhaus Malicious URL Blocklist
 
-A block list of malicious URLs that are being used for malware distribution. This [uBO](https://github.com/gorhill/uBlock/)-compatible filter list is based on the **Plain-Text URL List** of Abuse.sh [URLhaus](https://urlhaus.abuse.ch/).
+A block list of malicious URLs that are being used for malware distribution. This [uBO](https://github.com/gorhill/uBlock/)-compatible filter list is based on the **Plain-Text URL List** and **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/).
 
 ## Subscribe
 
@@ -10,11 +10,25 @@ Import the following URL into uBO to subscribe:
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
 
-<br />
 Mirrors:
 
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
 - https://cdn.staticaly.com/gl/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
+
+<br />
+Lite version (online urls only):
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
+
+Mirrors:
+
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
+- https://cdn.staticaly.com/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
+
+
+**Note:** Lite version is ~95% smaller by excluding offline urls only. The status of urls is determined by the upstream Abuse.ch. However, the test is not 100% accurate and some malicious urls that are otherwise accessible may be missed. If bandwidth (1.5MB/day) is not a constraint, I recommend the regular version.
+
+*PS: While regular version contains roughly 65K filters, uBO can [easily handle](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-452843669) half a million filters.*
 
 ## Compatibility
 
@@ -40,7 +54,7 @@ This filter **only** accepts malware URLs from [URLhaus](https://urlhaus.abuse.c
 
 Please report new malware URL to the upstream maintainer through https://urlhaus.abuse.ch/api/#submit.
 
-This repo is not endorsed by Abuse.sh.
+This repo is not endorsed by Abuse.ch.
 
 ## Cloning
 
