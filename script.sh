@@ -8,6 +8,7 @@ mkdir -p tmp/ && cd tmp/
 
 ## Prepare datasets
 wget https://urlhaus.abuse.ch/downloads/text/ -O ../src/URLhaus.txt
+wget https://urlhaus.abuse.ch/downloads/csv/ -O ../src/URLhaus.csv
 wget https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip -O top-1m.csv.zip
 
 cp ../src/exclude.txt .
@@ -29,6 +30,22 @@ cat urlhaus.txt | \
 cut -f 1 -d '/' | \
 cut -f 1 -d ':' | \
 sort -u > urlhaus-domains.txt
+
+cat ../src/URLhaus.csv | \
+dos2unix | \
+# Parse online URLs only
+grep '"online"' | \
+# Parse URLs
+cut -f 6 -d '"' | \
+cut -f 3- -d '/' | \
+cut -f 1- -d ':' | \
+sed 's/^www\.//g' | \
+sort -u > urlhaus-online.txt
+
+cat urlhaus-online.txt | \
+cut -f 1 -d '/' | \
+cut -f 1 -d ':' | \
+sort -u > urlhaus-domains-online.txt
 
 
 ## Parse the Cisco Umbrella 1 Million
@@ -57,9 +74,15 @@ grep -Fx -f top-1m-well-known.txt > urlhaus-top-domains.txt
 cat urlhaus-domains.txt | \
 grep -F -vf urlhaus-top-domains.txt > malware-domains.txt
 
+cat urlhaus-domains-online.txt | \
+grep -F -vf urlhaus-top-domains.txt > malware-domains-online.txt
+
 ## Parse malware URLs from popular domains
 cat urlhaus.txt | \
 grep -F -f urlhaus-top-domains.txt > malware-url-top-domains.txt
+
+cat urlhaus-online.txt | \
+grep -F -f urlhaus-top-domains.txt > malware-url-top-domains-online.txt
 
 
 ## Merge malware domains and URLs
@@ -76,5 +99,11 @@ cat malware-domains.txt malware-url-top-domains.txt | \
 sort | \
 sed '1 i\'"$COMMENT"'' > ../urlhaus-filter.txt
 
+cat malware-domains-online.txt malware-url-top-domains-online.txt | \
+sort | \
+sed '1 i\'"$COMMENT"'' | \
+sed '1s/Malicious/Online Malicious/' > ../urlhaus-filter-online.txt
+
 
 cd ../ && rm -r tmp/
+
