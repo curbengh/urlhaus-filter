@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 14 Jun 2019 00:21:06 UTC
+! Updated: Fri, 14 Jun 2019 12:24:17 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -207,6 +207,7 @@
 103.136.40.183
 103.136.40.201
 103.136.40.253
+103.136.43.108
 103.195.7.162
 103.200.6.3
 103.204.179.26
@@ -342,6 +343,7 @@
 104.244.74.55
 104.244.75.25
 104.244.76.15
+104.244.76.190
 104.244.76.210
 104.248.10.33
 104.248.112.206
@@ -931,6 +933,7 @@
 121.167.76.62
 121.168.103.102
 121.174.70.131
+121.174.70.181
 121.177.239.68
 121.180.253.95
 121.181.244.217
@@ -1206,6 +1209,7 @@
 134.209.103.134
 134.209.104.176
 134.209.104.245
+134.209.105.137
 134.209.107.202
 134.209.113.7
 134.209.116.247
@@ -1312,6 +1316,7 @@
 134.209.64.168
 134.209.65.4
 134.209.65.57
+134.209.66.22
 134.209.67.171
 134.209.68.79
 134.209.70.5
@@ -1403,6 +1408,7 @@
 138.68.105.124
 138.68.11.101
 138.68.133.121
+138.68.145.201
 138.68.156.95
 138.68.16.227
 138.68.161.156
@@ -1427,6 +1433,7 @@
 138.68.74.70
 138.68.81.69
 138.68.82.240
+138.68.9.115
 138.68.91.155
 138.68.94.145
 138.68.98.201
@@ -1765,6 +1772,7 @@
 142.93.80.38
 142.93.81.60
 142.93.82.179
+142.93.84.132
 142.93.85.232
 142.93.90.61
 142.93.90.9
@@ -1799,6 +1807,7 @@
 146.0.72.181
 146.0.77.12
 146.185.253.127
+146.71.76.19
 146.71.76.191
 146.71.77.205
 146.71.78.71
@@ -2022,6 +2031,7 @@
 157.230.53.0
 157.230.53.240
 157.230.54.252
+157.230.55.47
 157.230.59.158
 157.230.60.227
 157.230.60.228
@@ -2033,6 +2043,7 @@
 157.230.8.212
 157.230.80.216
 157.230.82.144
+157.230.84.230
 157.230.84.68
 157.230.85.212
 157.230.87.251
@@ -2131,6 +2142,7 @@
 159.65.12.8
 159.65.121.73
 159.65.129.188
+159.65.13.17
 159.65.134.66
 159.65.136.187
 159.65.138.44
@@ -2377,6 +2389,7 @@
 165.22.159.142
 165.22.193.164
 165.22.193.170
+165.22.193.173
 165.22.2.120
 165.22.2.40
 165.22.201.215
@@ -2419,6 +2432,7 @@
 165.22.88.110
 165.22.9.108
 165.22.9.22
+165.22.93.174
 165.22.95.149
 165.22.96.8
 165.22.99.126
@@ -2625,6 +2639,7 @@
 168.235.66.17
 168.235.66.171
 168.235.67.246
+168.235.70.98
 168.235.78.135
 168.235.78.90
 168.235.81.176
@@ -3090,6 +3105,7 @@
 178.62.109.153
 178.62.109.206
 178.62.111.237
+178.62.112.14
 178.62.118.244
 178.62.194.120
 178.62.196.170
@@ -3129,6 +3145,7 @@
 178.62.62.30
 178.62.63.119
 178.62.63.52
+178.62.64.129
 178.62.67.250
 178.62.68.27
 178.62.70.245
@@ -3464,6 +3481,7 @@
 185.172.110.245
 185.172.164.39
 185.173.92.132
+185.176.221.103
 185.176.221.29
 185.176.25.58
 185.176.27.149
@@ -3749,6 +3767,7 @@
 185.29.8.212
 185.33.146.33
 185.35.137.144
+185.35.138.173
 185.35.64.156
 185.36.81.43
 185.4.67.190
@@ -4141,6 +4160,7 @@
 190.72.62.232
 190.88.184.137
 190.90.239.42
+190.95.76.212
 191.101.226.67
 191.101.42.179
 191.13.145.132
@@ -4937,6 +4957,7 @@
 206.189.122.1
 206.189.124.169
 206.189.127.182
+206.189.128.225
 206.189.128.81
 206.189.129.166
 206.189.129.242
@@ -5112,6 +5133,7 @@
 209.141.38.89
 209.141.39.101
 209.141.40.146
+209.141.40.185
 209.141.40.213
 209.141.40.80
 209.141.41.188
@@ -5272,6 +5294,7 @@
 212.150.222.45
 212.159.128.72
 212.20.53.167
+212.237.1.117
 212.237.10.177
 212.237.16.166
 212.237.20.181
@@ -6078,6 +6101,7 @@
 35.226.12.246
 35.226.135.179
 35.226.136.239
+35.226.164.220
 35.227.184.106
 35.227.52.26
 35.227.55.119
@@ -6780,6 +6804,7 @@
 46.29.96.96
 46.32.231.239
 46.36.35.110
+46.36.36.189
 46.36.37.121
 46.36.37.150
 46.36.37.166
@@ -6951,6 +6976,7 @@
 5.152.203.104
 5.152.203.115
 5.152.236.122
+5.160.126.25
 5.164.57.74
 5.165.46.83
 5.167.53.163
@@ -7644,6 +7670,7 @@
 68.183.172.218
 68.183.172.32
 68.183.174.0
+68.183.174.167
 68.183.18.175
 68.183.19.235
 68.183.190.212
@@ -8938,6 +8965,7 @@
 95.214.113.14
 95.214.113.210
 95.214.113.221
+95.216.189.14
 95.224.96.154
 95.235.152.140
 95.235.235.155
@@ -9739,6 +9767,7 @@ adjassessoria.com.br
 adjoy.com
 adkhw.net
 adkoc.com
+adl-groups.com
 adleiranian.ir
 adlg.creaciondigital.es
 adlnovin.ir
@@ -15337,6 +15366,7 @@ bitbucket.org/new_project2019/software/downloads/CLIPPER.exe
 bitbucket.org/new_project2019/software/downloads/MINER.exe
 bitbucket.org/new_project2019/software/downloads/pay.exe
 bitbucket.org/oisev1/bot/downloads/setup.zip
+bitbucket.org/poleglot/sfse/downloads/Setup.exe
 bitbucket.org/secondlifegg/second/downloads/Crypted.exe
 bitbucket.org/secondlifegg/second/downloads/MrVagner2.exe
 bitbucket.org/secondlifegg/second/downloads/Steam%20Gift%20Generator.exe
@@ -15840,6 +15870,7 @@ blogbuild.online
 blogdaliga.com.br
 blogdasjujubetes.com.br
 blogdovarejo.campanhamartins.com.br
+blogentry.cf
 blogforgamer.com
 blogformacionpchj.inces.gob.ve/inicio/sendincsec/legal/sec/En_en/2019-03/
 blogforprofits.com
@@ -21277,6 +21308,7 @@ dcc.com.vn
 dccreations.com.au
 dcd.cl
 dcdb.fr
+dcee.net
 dcfit.co.zw
 dcfloraldecor.lt
 dcgco.com
@@ -21571,6 +21603,7 @@ delucamarketing.ch
 deluns.pw
 deluvis.net
 deluxemattress.ca
+deluxerubber.com
 delve24.5gbfree.com
 delwuinfoservices.com
 delzepich.de
@@ -23818,6 +23851,7 @@ down-home-farm.com
 down.1919wan.com
 down.263209.com
 down.33nets.com
+down.3xiazai.com
 down.54nb.com
 down.78fdfs.club
 down.ancamera.co.kr
@@ -25771,6 +25805,7 @@ eiuh9r8fhr98fh.top
 eiuwowqwpeoeirwpei.com
 ejadarabia.com
 ejadvertising.com
+ejanlele.design
 ejdelapena.com
 ejder.com.tr
 ejemplo.com.mx
@@ -28998,7 +29033,10 @@ fs04n5.sendspace.com/dlpro/a7dca054529b3c03d95202a561c2d38c/5caa6ee9/17367c/m7.e
 fs07n4.sendspace.com/dl/b340f5d34d8af24da7b2cd0b8575b17c/5c9dff2e6cfaa2f5/a5drzh/RFX_20000421_53.jar
 fs07n5.sendspace.com/dlpro/4cd0ef290cd646d13c58ad787b887821/5cbf7e87/xcqwkn/IMG-0004_Pdf.zip
 fs08n1.sendspace.com/dlpro/44c9dd4be59af6594a1c793af7628740/5cd0f00e/ojvct9/rgen4.2.exe
+fs08n1.sendspace.com/dlpro/95304811bd5ea8e7313f9f3cb7b08986/5d027f52/aiuxqk/Flight%20Ticket%201Z110BA.zip
+fs08n2.sendspace.com/dlpro/57d2f7659e9c488d733111fc86340de5/5d027f0a/ct9qiw/FLIGHT%20TICKET%20MDC-1306.zip
 fs08n3.sendspace.com/dlpro/12af3acffa58ae19c17705e27128d907/5c979d71/1431rb/Order.jpg.zip
+fs08n3.sendspace.com/dlpro/98fe905f472c1904404648742ca4c914/5d027f3c/s3w922/Ticket%20Confirmation%20%2310003AZJ.jar
 fs08n4.sendspace.com/dlpro/6a5b2667465943085bb6fd3a2f5ba2cf/5cd0383f/ojvct9/rgen4.2.exe
 fs08n4.sendspace.com/dlpro/ce5611e5cd980266cea1eb61365a25ce/5cf7aa93/ojvct9/rgen4.2.exe
 fs08n4.sendspace.com/dlpro/d6372ea7ac993a7e8815310e3d3d8a23/5cd03814/ojvct9/rgen4.2.exe
@@ -30163,6 +30201,7 @@ gitlab.com/c-18/ss/raw/master/ss/h32
 gitlab.com/finndev/EloBuddy.Dependencies/raw/master/Setup/EloBuddy-Setup.exe
 gitlab.com/jhonytrav777/travel/raw/master/winmng.exe
 gitlab.com/oliveiravtm182/comprovante_deposito2012928301298/raw/pdf/ANX_COMP_DOCXL.msi?inline=false
+gitlab.com/ram0s/ssl/raw/master/TI10045BR.msi
 gitlab.com/santos2018e/n2019198263981623891/raw/1880c3d42e949f836fbc2494fa3b80416da8786d/Nf-s20191982738912731651263187236817236-pdf.zip
 gitlab.com/santos2018e/n2019198263981623891/raw/1880c3d42e949f836fbc2494fa3b80416da8786d/Nfs-2019891723897128973-pdf.zip
 gitlab.com/santos2018e/n2019198263981623891/raw/2c60bc7d4bd44463a9e1a0d0bcec682af528dcda/Nfs_201965465465465546587987465-pdf.zip
@@ -31296,6 +31335,7 @@ h3ktecnologia.com.br
 h3m.margol.in
 h44adrew.company
 h5s.vn
+h5zxsg.dm.files.1drv.com
 h722.tk
 h7a1a.com
 h809171554.nichost.ru
@@ -40655,6 +40695,7 @@ mainbild.ru
 maindb.ir
 maindreamline.com
 maineglass.com
+mainfixv.com
 mainissue.in
 mainlis.pt
 mainpartners.eu
@@ -41307,6 +41348,7 @@ masdegaly.info
 masdeprovence.fr
 masens.be
 maseratilevante.nl
+masertalaamar.com
 maservisni.eu
 mashhadani.com
 mashmul.ir
@@ -45598,6 +45640,7 @@ obd.cvts.ng
 obelsvej.dk
 obernessermedia.com
 obigeorge.com
+objetosrh.com
 obkfah.com
 obklad.sk
 oblix.vn
@@ -46689,6 +46732,7 @@ outsourcingpros.com
 outstandingessay.com
 ovakast.com
 ovationcomm.com
+ove.resourceny.net
 ovelcom.com
 ovellonist.com
 over-engineered.com
@@ -50851,6 +50895,7 @@ richdad.today
 richelleludwig.com
 richesfast.com
 richidea.vn
+richie.5gbfree.com
 richlandbrewingco.com
 richlo.tw
 richmondmovingservice.com
@@ -52323,6 +52368,7 @@ sarthakkalucha.com
 sarutec.de
 sarvkaran.com
 sarwa.co.za
+sas-agri.ml
 sasaexclusive.com.my
 sasamototen.jp
 sasashun.com
@@ -57624,6 +57670,7 @@ taraward.com
 tarawedding.com
 taraz-turizm.kz
 tareeqaltawasul.com
+tares.nl
 tarexfinal.trade
 targat-china.com
 target-events.com
@@ -62792,6 +62839,7 @@ w-s-d-b.de
 w-wolf.de
 w.amendserver.com
 w.kuai-go.com
+w.lazer-n.com
 w.outletonline-michaelkors.com
 w.zhzy999.net
 w077775.blob2.ge.tt
@@ -65570,6 +65618,7 @@ zoovetdv.ru
 zoox.com.br
 zoparo.nl
 zopbxtjiuykhyyp.usa.cc
+zopro.duckdns.org
 zoracle.com
 zorem.com
 zosoonblc.com
