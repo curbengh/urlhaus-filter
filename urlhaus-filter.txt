@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 14 Jun 2019 12:24:17 UTC
+! Updated: Sat, 15 Jun 2019 00:22:08 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -515,6 +515,7 @@
 106.1.93.253
 106.104.115.213
 106.105.197.111
+106.105.218.18
 106.105.233.166
 106.12.201.224
 106.12.99.117
@@ -920,6 +921,7 @@
 121.122.99.91
 121.128.189.19
 121.129.149.231
+121.131.4.59
 121.132.123.89
 121.147.51.57
 121.149.49.178
@@ -1343,6 +1345,7 @@
 134.209.93.190
 134.209.95.171
 134.209.96.62
+134.209.99.13
 134.255.219.209
 134.255.233.157
 134.255.63.182
@@ -1693,6 +1696,7 @@
 142.93.201.106
 142.93.202.209
 142.93.205.254
+142.93.208.190
 142.93.211.141
 142.93.211.204
 142.93.212.36
@@ -2401,6 +2405,7 @@
 165.22.246.176
 165.22.246.5
 165.22.248.147
+165.22.248.255
 165.22.252.157
 165.22.252.239
 165.22.253.164
@@ -2533,6 +2538,7 @@
 167.99.147.43
 167.99.153.91
 167.99.154.195
+167.99.158.224
 167.99.160.50
 167.99.161.218
 167.99.162.58
@@ -3044,6 +3050,7 @@
 178.128.46.8
 178.128.50.36
 178.128.50.96
+178.128.51.105
 178.128.54.239
 178.128.55.107
 178.128.60.85
@@ -3735,6 +3742,7 @@
 185.244.30.165
 185.244.30.175
 185.244.30.208
+185.244.39.107
 185.244.39.45
 185.244.39.51
 185.244.43.183
@@ -4153,6 +4161,7 @@
 190.47.135.142
 190.52.166.145
 190.56.229.181
+190.56.24.26
 190.6.105.16
 190.68.44.60
 190.69.81.172
@@ -4210,6 +4219,7 @@
 192.210.135.113
 192.210.146.102
 192.210.146.45
+192.227.176.100
 192.227.176.97
 192.227.186.151
 192.227.204.214
@@ -5145,6 +5155,7 @@
 209.141.45.120
 209.141.45.15
 209.141.45.67
+209.141.46.124
 209.141.46.133
 209.141.46.175
 209.141.47.163
@@ -5705,6 +5716,7 @@
 24.50.221.229
 24.50.239.48
 24.63.34.175
+24.90.187.93
 24.96.119.52
 242annonces.com
 243shopping.com
@@ -5925,6 +5937,7 @@
 31.184.198.162
 31.184.233.109
 31.187.80.46
+31.192.106.240
 31.207.35.116
 31.208.195.121
 31.210.127.100
@@ -6274,6 +6287,7 @@
 37.49.224.132
 37.49.225.230
 37.49.225.78
+37.49.227.120
 37.49.227.176
 37.49.230.137
 37.49.230.233
@@ -8351,6 +8365,7 @@
 83.250.28.208
 83.250.8.10
 83.33.34.24
+83.4.112.59
 83.40.11.203
 83.41.0.41
 83.43.207.86
@@ -11987,8 +12002,7 @@ app.htetznaing.com
 app.jaimeadomicilio.com
 app.koobeba.com
 app.myresource.center
-app.nihaocloud.com/d/b0a6ab6d9d144567b16b/
-app.nihaocloud.com/d/b0a6ab6d9d144567b16b/files/?p=/IMG_0001%20%281%29.scr&dl=1
+app.nihaocloud.com
 app.websoham.com
 app100700930.static.xyimg.net
 app24.nhely.hu
@@ -13180,7 +13194,7 @@ autelite.com
 auter.hu
 autexchemical.com
 autfaciam.com
-auth.to0ls.com
+auth.to0ls.com/l/sodd/udp
 authenticestate.online
 authenticfilmworks.com
 authenticinfluencer.com
@@ -13211,7 +13225,8 @@ autobritt.apptitude.ch
 autobuschel.ru
 autocenter2000.com.br
 autoclasscuneo.it
-autocom.mx
+autocom.mx/aviso-de-privacidad-agencias-es-mx.htm
+autocom.mx/aviso-de-privacidad-agencias-es-mx.htm/
 autodetali-161.ru
 autodevices.topterra.ru
 autodrim.pl
@@ -13492,14 +13507,7 @@ axwell.kayakodev.com
 axx.bulehero.in
 aya-craft.jp
 ayacuchoweb.net
-ayakkokulari.com/PO.exe
-ayakkokulari.com/PURCHASEORDERR.bat
-ayakkokulari.com/PurchaseOrder.exe
-ayakkokulari.com/_output792DDE0.exe
-ayakkokulari.com/document.exe
-ayakkokulari.com/file.exe
-ayakkokulari.com/order.bat
-ayakkokulari.com/order.exe
+ayakkokulari.com
 ayaks-gruz.ru
 ayamgeprekidola.com
 ayanafriedman.co.il
@@ -16369,7 +16377,7 @@ bradmccrady.com
 brado.alfacode.com.br
 bradshawtits.xyz
 braecarautos.com
-braemar.com/wp-content/themes/braemar-plc/img/braemar-logo.svg?1415197627/
+braemar.com
 bragaredes.pt
 bragarover.com.br
 bragheto.com
@@ -16983,8 +16991,7 @@ bwcarpentryservices.co.uk
 bwci.dk
 bwconsultants.co.uk
 bwgsoft.com
-bwgulld.com/
-bwgulld.com/wis/panel/w.exe
+bwgulld.com
 bwh-reservations.com
 bwhdpco.com
 bwphoto.asia
@@ -18007,6 +18014,8 @@ cdn.discordapp.com/attachments/552723946735403008/553782079192825856/ValGen.rar
 cdn.discordapp.com/attachments/553235098049314846/554027529724493834/DTSv42.exe
 cdn.discordapp.com/attachments/574321395094519809/574614788202561537/onetap.su_crack1.exe
 cdn.discordapp.com/attachments/574585696191512619/574585792794460181/Robux_Generator.exe
+cdn.discordapp.com/attachments/588179819972395029/588871215666692096/GEE.exe
+cdn.discordapp.com/attachments/588179819972395029/588874572926025729/out-1445440753.hta
 cdn.fanyamedia.net
 cdn.fbsbx.com/v/t59.2708-21/30831868_2001421493263570_988122346738941952_n.zip/71I49N1JH7GG.zip?oh=81f42de9d61696c78f429719277283cc&oe=5AE24EE8&dl=1
 cdn.fbsbx.com/v/t59.2708-21/30831923_2004391716299881_1152363085843922944_n.zip/DOC_26-04.zip?oh=3e9b2b1fee016b3085dce0d2d5d106ae&oe=5AE4BDFE&dl=1
@@ -18491,6 +18500,7 @@ chechynaproducts.pw
 check-my.net
 check-your-files.ga
 check-your-files.tk
+check511.duckdns.org
 checkandswitch.com
 checkcelltech.com
 checkerrors.ug
@@ -18945,7 +18955,13 @@ cjj.lanibio.net
 cjllcmonthlysub.ga
 cjmont41.fr
 cjnzbdy.gq
-cjoint.com
+cjoint.com/doc/15_07/EGkcftWS3qa_Console-ID-Fud.rar
+cjoint.com/doc/18_08/HHAvFUx2KML_DOCUMENTS-2.zip
+cjoint.com/doc/18_08/HHxoxvqdLui_DOCUMENTS.zip
+cjoint.com/doc/18_09/HIeuUN8skg6_DOCUMENTS-4.zip
+cjoint.com/doc/18_12/HLBnmzUX3Ll_SCAN-RESERVATIONS.rar
+cjoint.com/doc/18_12/HLEpvMYQjnE_AUTHORIZATION-FORMS.zip
+cjoint.com/doc/19_02/IBdvoJ3sDpk_Reservation.zip
 cjsebbelov.dk
 cjtows.com
 ck-finanzberatung.de
@@ -19623,7 +19639,7 @@ completerubbishremoval.net.au
 completervnc.com
 complience.com
 compln.net
-components.technologymindz.com
+components.technologymindz.com/INV/AMM-7394405/
 composecv.com
 composite.be
 compphotolab.northwestern.edu
@@ -24619,6 +24635,7 @@ dropbox.com/s/digb6torsjo2b4f/eFax_message_8506.zip?dl=1
 dropbox.com/s/dl/01d5ncf52h7z4d4/Invoice.ace?dl=1
 dropbox.com/s/dl/0mw82ii0wv42h4o/HLqJxDnQvDbkOxD.exe
 dropbox.com/s/dl/14wheyvo6qmt3am/Sonic%20Lost%20World%20-%20InstallShield%20Wizard.exe
+dropbox.com/s/dl/15gr4emabxc2pmk/br2732ti__1_.msi
 dropbox.com/s/dl/3anvvlpcrt4f7af/joddd.jpg
 dropbox.com/s/dl/3anvvlpcrt4f7af/joddd.jpg?dl=1
 dropbox.com/s/dl/49ng39szam8hwqb/TT41000046542894211.jar?dl=1
@@ -24805,6 +24822,7 @@ dropbox.com/s/wijfepnx6e93c99/payment.iso?dl=1
 dropbox.com/s/wjrkf7bv2wrtpxu/swift%20copy_output3BCB600.exe?dl=1
 dropbox.com/s/wny4m7azg3c012u/2018-1411_Documents00117663814426.pdf.z?dl=1
 dropbox.com/s/wp96nte8ljcraqc/bulgt.zip?dl=1
+dropbox.com/s/wwdscomdfwk4cuo/WE5BMQP-Relatorios-1206001536.zip?dl=1
 dropbox.com/s/x2frwu3q7i91qof/Scan_Memo_20180806_pdf.zip?dl=1
 dropbox.com/s/x5hh3n6tsr415d2/Purchase%20Order%20%23no.009754698.ace?dl=1
 dropbox.com/s/x5uqk84o02q1vcb/qrypted.check.jar?dl=1
@@ -27628,7 +27646,7 @@ fastpacepersonaltraining.com
 fastpool.ir
 fastrackapp.es
 fastrxtransfer.com
-fastsoft.onlinedown.net
+fastsoft.onlinedown.net/down/onekeyyijianhuanyuan.exe
 fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
@@ -30199,6 +30217,7 @@ gitlab.com/alexphilipsssons/alabamasmith/raw/master/axalabama
 gitlab.com/alexphilipsssons/awsomerun/raw/master/codds
 gitlab.com/c-18/ss/raw/master/ss/h32
 gitlab.com/finndev/EloBuddy.Dependencies/raw/master/Setup/EloBuddy-Setup.exe
+gitlab.com/goldwe/git/raw/master/TI10045BR.msi?inline=false
 gitlab.com/jhonytrav777/travel/raw/master/winmng.exe
 gitlab.com/oliveiravtm182/comprovante_deposito2012928301298/raw/pdf/ANX_COMP_DOCXL.msi?inline=false
 gitlab.com/ram0s/ssl/raw/master/TI10045BR.msi
@@ -33442,6 +33461,7 @@ icc.org.af
 icce-2018.org
 iccl.club
 icdt.unitbv.ro
+icebentt.com
 icebergillusion.com
 icebetesda.com.br
 icebox.hospedagemdesites.ws
@@ -40801,6 +40821,7 @@ malaysiaonline.tk
 malbacptyltd-my.sharepoint.com
 malbork.joannici.org.pl
 malchiki-po-vyzovu-moskva.company
+malcolmgreen.com
 maldonaaloverainc.com
 maleclech.pl
 malehequities.com
@@ -41718,6 +41739,7 @@ mechauto.co.za
 mechdesign.com
 mechthild-hettich.neagoeandrei.com
 mecocktail.com
+meconglobal.cf
 mecsoftware-tz.com
 mectronics.it
 med-clinic.com.ua
@@ -42898,7 +42920,8 @@ mobitr.ru
 mobj.qp265.cn
 mobogeniedownload.net
 moborom.com
-mobradio.com.br
+mobradio.com.br/wp-admin/INC/OdTgzACDP/
+mobradio.com.br/wp-admin/t8zhk_2oafdbgcjj-8355359422/
 mobshop.schmutzki.de
 mobsterljud.se
 mobuzzasia.com
@@ -43803,7 +43826,8 @@ my10apps.com
 my2b.online
 myabisib.ru
 myacademjourneys.com
-myaccount.dropsend.com
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids=14267487
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids[]=14267487
 myadmin.59north.com
 myafyanow.com
 myanmodamini.es
@@ -44662,7 +44686,8 @@ new.zagogulina.com
 new4.pipl.ua
 newagent.meeracle.com.my
 newalfastar.com
-newappsland.ru
+newappsland.ru/001DIQTVAS/BIZ/Commercial
+newappsland.ru/Document/En_us/Invoice
 newarchidea.com
 newarkpdmonitor.com
 newartistsproductions.org
@@ -47841,7 +47866,7 @@ phoenixcryptoex.com
 phoenixevents.ch
 phoenixinsights.com
 phonelocaltoday.com
-phoneringtones.info/wp-content/uploads/qx93_k68trw3j-15334/
+phoneringtones.info
 phonewoodcase.co.uk
 phong.d5host.com
 phongchayviet.com
@@ -51642,14 +51667,7 @@ s-sibsb.ru
 s-vrach.com.ua
 s.51shijuan.com
 s.dbr.ee
-s.put.re/58o4na3e.exe
-s.put.re/6ge1tsxb.exe
-s.put.re/BhfuDm8g.exe
-s.put.re/V6Dw8o4w.doc
-s.put.re/Zqczsf5s.exe
-s.put.re/eDygzXGN.exe
-s.put.re/t9FDi5cf.exe
-s.put.re/wEujgoau.exe
+s.put.re
 s.trade27.ru
 s01.solidfilesusercontent.com/YTMwZjFlYTU1ZDRjOWFmNjYxMTI2Nzk5YmExYmNlZDhmZGRjYTJhMToxaE9VYUk6R000eW1iU0Q3eVRLUGNSU0NvN1oybERJdVBj/gWvpLG4DrPQgB/263.exe
 s01.solidfilesusercontent.com/ZDYzMDE3MTMzNmEwZWQzODJkZWQ0YTIyODRkYWMyOTMwNzkyZTRhMzoxaE9qWlQ6eEZ4eXlNY1FCWlVvbGRKaERKTGFXaUdqcHV3/gWvpLG4DrPQgB/263.exe
@@ -52407,7 +52425,8 @@ saturday-school.org
 satutitik.com
 satyam.cl
 satyammetals.com
-satysservs.com
+satysservs.com/setup6-156.exe
+satysservs.com/setup6-158.exe
 sauceismoney.com
 saudaveldemais.com
 saudenatural.ml
@@ -55260,7 +55279,7 @@ spravkabas.com
 sprays-omkarenterprises.com
 sprayzee.com
 spread.ooo
-spreadsheetpage.com
+spreadsheetpage.com/downloads/xl/time%20sheet.xls
 spreadsheetsolutions.nl
 sprechtheater.de
 spreewales.net
@@ -57041,10 +57060,7 @@ support.homemakerideas.com
 support.imaitaly.biz
 support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/
 support.jbrueggemann.com
-support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/
-support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc
-support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
-support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
+support.mdsol.com
 support.redbook.aero
 support.volkerstevin.ca
 support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/
@@ -57589,6 +57605,7 @@ tamxgroup.co.uk
 tan-gho.com
 tan-shuai.com
 tanabe.mediaf.jp
+tanabionline.depix.com.br
 tanabygg.no
 tananaislanoidd.ga
 tancini.pizza
@@ -58668,7 +58685,7 @@ thefinestmoment.com
 thefintech.com.au
 thefiredog.com
 thefireservice.co.uk
-thefirstserver.com/backup/verg9is7t_k6holk-693999004328980/
+thefirstserver.com
 thefly.su
 thefocusongroupllc.com
 thefoodmix.com
@@ -61282,7 +61299,7 @@ update.yalian1000.com
 update.yoprogramolatino.com
 update.zbs.su
 update365office.com
-update6.satysservs.com
+update6.satysservs.com/updateto165-1.dat
 updateadovesettings.io
 updateguru.xyz
 updater.inomiu.com
@@ -62583,7 +62600,13 @@ vivinod1.xyz
 vivirdelabolsa.com
 vivo.ubfc.fr
 vivredeprinceintlschools.com
-viwma.org
+viwma.org/cli/FILE/W1gS3rMeZfXT/
+viwma.org/cli/INC/28SL3gaOVoW6/
+viwma.org/cli/OXBi-BJXNrQxB3okl7I_qGuumUUH-bP/
+viwma.org/cli/Scan/aosWntODCVSVOGVd/
+viwma.org/cli/TelRE-pbHMTM2oDMBt4R_tfdkppPIh-Say/
+viwma.org/cli/bikck8-zbjt57-ashpbfy/
+viwma.org/cli/tp45v-030n36g-prsrp/
 vizar.hr
 vizertv.xyz
 vizicsiga.hu
@@ -62616,7 +62639,10 @@ vloke.mx
 vlporsche.be
 vlxdhoangmai.com.vn
 vm486446.had.su
-vman23.com
+vman23.com/ba1/b1.exe
+vman23.com/ba12/ba12.exe
+vman23.com/ba22/ba22.exe
+vman23.com/ba4/ba4.exe
 vmcardenas.com
 vmeste-ryadom.ru
 vmghsjznsnhjqbmrjnrsglkr.yehaamarket.com.my
@@ -63135,7 +63161,7 @@ web.opendrive.com/api/v1/download/file.json/MjBfNTg5OTkzNl8?inline=1
 web.opendrive.com/api/v1/download/file.json/OTBfMTcwNDM3ODRf?inline=0
 web.pa-cirebon.go.id
 web.smakristen1sltg.sch.id
-web.tiscali.it/hispeedcar/lamborgbg.jpg
+web.tiscali.it
 web.tiscalinet.it
 web.udl.cat
 web.vorona.ru
@@ -63321,7 +63347,7 @@ wegetthelintout.ca
 wegirls.be
 weglamour.xyz
 wegner-lehner.de
-wegobox.com
+wegobox.com/wp-content/Information/
 wegotakedistime.ru
 wegrowth.shop
 wehifashion.club
@@ -65670,6 +65696,7 @@ zutom.sk
 zvarga.com
 zvip.okblcm.co
 zw7auq.dm.files.1drv.com
+zweigassociates.com
 zwmxjm.ltd
 zwo4.com
 zworks.net
