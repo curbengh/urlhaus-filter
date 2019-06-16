@@ -7,19 +7,19 @@ mkdir -p tmp/ && cd tmp/
 
 
 ## Prepare datasets
-wget https://urlhaus.abuse.ch/downloads/text/ -O ../src/URLhaus.txt
 wget https://urlhaus.abuse.ch/downloads/csv/ -O ../src/URLhaus.csv
 wget https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip -O top-1m.csv.zip
 
 cp ../src/exclude.txt .
 
-## Clean up URLhaus.txt
-cat ../src/URLhaus.txt | \
+## Clean up URLhaus.csv
+cat ../src/URLhaus.csv | \
 # Convert DOS to Unix line ending
 dos2unix | \
 # Remove comment
-grep -F '//' | \
-# Remove http(s)://
+sed '/^#/d' | \
+# Parse URLs
+cut -f 6 -d '"' | \
 cut -f 3- -d '/' | \
 # Remove www.
 sed 's/^www\.//g' | \
@@ -33,12 +33,11 @@ sort -u > urlhaus-domains.txt
 
 cat ../src/URLhaus.csv | \
 dos2unix | \
+sed '/^#/d' | \
 # Parse online URLs only
 grep '"online"' | \
-# Parse URLs
 cut -f 6 -d '"' | \
 cut -f 3- -d '/' | \
-cut -f 1- -d ':' | \
 sed 's/^www\.//g' | \
 sort -u > urlhaus-online.txt
 
@@ -106,4 +105,3 @@ sed '1s/Malicious/Online Malicious/' > ../urlhaus-filter-online.txt
 
 
 cd ../ && rm -r tmp/
-
