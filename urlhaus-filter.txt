@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 15 Jun 2019 12:21:57 UTC
+! Updated: Sun, 16 Jun 2019 00:23:29 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1591,6 +1591,7 @@
 141.226.28.137
 141.226.28.195
 1412studiodm.com
+1415794278.f3322.net
 142.11.206.115
 142.11.206.184
 142.11.210.100
@@ -1687,6 +1688,7 @@
 142.93.184.26
 142.93.185.187
 142.93.186.144
+142.93.188.183
 142.93.188.49
 142.93.192.191
 142.93.192.96
@@ -2408,6 +2410,8 @@
 165.22.201.215
 165.22.203.178
 165.22.206.121
+165.22.23.186
+165.22.24.166
 165.22.240.251
 165.22.240.43
 165.22.242.145
@@ -2630,6 +2634,7 @@
 167.99.81.74
 167.99.82.172
 167.99.83.224
+167.99.84.235
 167.99.84.237
 167.99.85.165
 167.99.85.214
@@ -3469,6 +3474,7 @@
 185.162.131.26
 185.162.146.218
 185.162.235.109
+185.162.235.157
 185.162.88.237
 185.163.111.103
 185.163.127.12
@@ -3530,6 +3536,7 @@
 185.186.245.28
 185.186.246.69
 185.186.77.105
+185.186.77.46
 185.189.149.137
 185.189.149.164
 185.189.58.180
@@ -5319,6 +5326,7 @@
 212.109.193.142
 212.109.199.112
 212.114.57.36
+212.114.57.61
 212.114.58.54
 212.114.58.76
 212.120.119.35
@@ -5727,6 +5735,7 @@
 24.161.45.223
 24.184.137.40
 24.184.61.131
+24.193.57.14
 24.206.28.30
 24.213.116.40
 24.214.151.25
@@ -7769,6 +7778,7 @@
 68.183.36.180
 68.183.37.7
 68.183.38.104
+68.183.38.6
 68.183.38.69
 68.183.41.147
 68.183.41.164
@@ -8570,7 +8580,13 @@
 8800rus.ru
 887.basinbultenigonderimi.com
 887sconline.com
-88b.me
+88b.me/R/SURIA.arm
+88b.me/R/SURIA.arm5
+88b.me/R/SURIA.mips
+88b.me/dlk/upg/bf.mips
+88b.me/nbt/bf.arm
+88b.me/nbt/bf.mips
+88b.me/nbt/bf.mipsel
 88four8.com
 88fpw.com
 88hardwood.com
@@ -12029,7 +12045,8 @@ app.htetznaing.com
 app.jaimeadomicilio.com
 app.koobeba.com
 app.myresource.center
-app.nihaocloud.com
+app.nihaocloud.com/d/b0a6ab6d9d144567b16b/
+app.nihaocloud.com/d/b0a6ab6d9d144567b16b/files/?p=/IMG_0001%20%281%29.scr&dl=1
 app.websoham.com
 app100700930.static.xyimg.net
 app24.nhely.hu
@@ -12758,7 +12775,7 @@ asia-siam.ru
 asia-star.info
 asia-taxsolutions.com
 asiaherbalpharmacy.com
-asialinklogistics.com
+asialinklogistics.com/mkmike.jpg
 asiana.cf
 asianacrylates.com
 asianbetclub168.com
@@ -17539,8 +17556,7 @@ cargoinsurance.tk
 cargokz.kz
 cargomate-kr.cf
 cargomax.ru
-caribbean360.com/bu40BVNZ/
-caribbean360.com/test/XChCw-sav_KomKB-Pe0/COMET/SIGNS/PAYMENT/NOTIFICATION/01/28/2019/En_us/Sales-Invoice/
+caribbean360.com
 carikliantiquitat.com
 carimbosrapidos.com.br
 carimint.com
@@ -18069,11 +18085,7 @@ cdn.fund
 cdn.gameupdate.co
 cdn.isoskycn.com
 cdn.mistyblade.com
-cdn.mycfg.site/files/032f.exe
-cdn.mycfg.site/files/AVNinja.exe
-cdn.mycfg.site/files/j033a.exe
-cdn.mycfg.site/files/jce032a.exe
-cdn.mycfg.site/files/jclm.exe
+cdn.mycfg.site
 cdn.ofifinancial.com
 cdn.openinstall.com.s3.amazonaws.com/offers/2/chrome_search.exe
 cdn.prominertools.com
@@ -18512,7 +18524,7 @@ cheapavia.ga
 cheaper.men
 cheaperlounge.com
 cheapesthost.com.ng
-cheapmusic.info
+cheapmusic.info/cloudnet.exe
 cheapnikeairmaxshoes-online.com
 cheapoakleysunglasses.net
 cheapseoprovider.com
@@ -30891,7 +30903,7 @@ greatharvestbreadco.net
 greatharvestfranchising.com
 greathealthworld.com
 greathostnames.com
-greatis.com/dbs.zip
+greatis.com
 greatissoftware.com
 greatkenyatours.com
 greatmischiefdesign.com
@@ -32082,7 +32094,7 @@ helping4.com
 helpingblogger.com
 helpinghere.fr
 helpingpawsrescueinc.org
-helpjet.net/dl/70967328-75843699-19193941/30885056/20070223101355468_driver.exe
+helpjet.net
 helplog3021.cf
 helplog359.gq
 helpmebuyavehicle.com
@@ -33105,7 +33117,7 @@ ht-vn.com
 htcladakh.com
 htcpi.org
 htepl.com
-htl.li/gm6y30lvnkN
+htl.li
 htl.ru
 htlinternational.org
 htlvn.com
@@ -34145,7 +34157,7 @@ india24x7.zeecdn.com
 india9am.com
 indiaautentica.es
 indiagolive.com
-indianagoods.club
+indianagoods.club/cl.exe
 indianblog.info
 indianceramicsourcing.com
 indiangirlsnude.com
@@ -37675,7 +37687,8 @@ kpogroup.bo
 kpopstarz.kienthucsong.info
 kppspgrojec.internetdsl.pl
 kqs.me
-kr1s.ru
+kr1s.ru/docv8.dat
+kr1s.ru/java.dat
 krabben.no
 krafiatmada.my
 kraftaverk.is
@@ -37967,7 +37980,7 @@ ky663.com
 kyadondotechnicalinstitute.com
 kyaikhtohotel.com
 kyanos.000webhostapp.com
-kyans.com/wp-admin/1De3/
+kyans.com
 kyatama.com
 kyedoll.com
 kykeon-eleusis.com
@@ -47497,7 +47510,7 @@ pd.creditreform-muster.de
 pd0rt.nl
 pdedas.com
 pdesaa.cimaa.pt
-pdf-archive.com/2017/06/29/fmb/fmb.pdf
+pdf-archive.com
 pdf-archive.press
 pdf-archive.store
 pdf-compare.site
@@ -47513,9 +47526,7 @@ pdnas.myqnapcloud.com
 pdproducts.biz
 pdri.or.id
 pds36.cafe.daum.net
-pdsconsulting.com/App_Data/sendincsecure/8ultt-fyoqo-uvccm.view/
-pdsconsulting.com/blogs/3k2CZY/
-pdsconsulting.com/blogs/55pQu/
+pdsconsulting.com
 pdt-pinsk.by
 pdxinjuryattorney.com
 pe-co.nl
@@ -52766,6 +52777,7 @@ sdvf.kuai-go.com
 sdvg-impuls.ru
 sdvgpro.ru
 sdwlepus.co.kr
+sdx106.s3.eu-north-1.amazonaws.com
 se-beach-karting.at
 se02.de
 sea-tacselfstorage.com
@@ -55092,7 +55104,6 @@ spacodelivery.zeemrenton.net
 spadesdesign.ca
 spainequity.com
 spalatoriehotel.ro
-spamitback.com
 spanaturalgutty.com
 spandanclinics.com
 spannarpssateri.se
@@ -59255,7 +59266,7 @@ time.jannattech.com
 time4nails.com.ua
 time4robots.pt
 timebank.ai
-timebound.ug/pps.ps1
+timebound.ug
 timeforcoffe.eu
 timegitim.com
 timehalik.tk
@@ -61051,7 +61062,7 @@ ulrikhtm.ru
 uls.com.ua
 ulsv.ru
 ultigamer.com
-ultimapsobb.com/psobb/update/client/Launcher.exe
+ultimapsobb.com
 ultimatehoteldeals.com
 ultimatelegacyproductions.com
 ultimatetvl.com
@@ -63376,7 +63387,7 @@ wegetthelintout.ca
 wegirls.be
 weglamour.xyz
 wegner-lehner.de
-wegobox.com/wp-content/Information/
+wegobox.com
 wegotakedistime.ru
 wegrowth.shop
 wehifashion.club
@@ -65702,7 +65713,7 @@ zsr7pln56d2ovr85.com
 zstar.top
 zsz-spb.ru
 ztarx.com
-ztds.online/20190118/multishare.exe
+ztds.online
 ztds2.online
 ztelligence.mobi
 ztowerseal.com
