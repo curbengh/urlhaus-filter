@@ -1,6 +1,6 @@
 # URLhaus Malicious URL Blocklist
 
-A block list of malicious URLs that are being used for malware distribution. This [uBO](https://github.com/gorhill/uBlock/)-compatible filter list is based on the **Plain-Text URL List** and **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/).
+A block list of malicious URLs that are being used for malware distribution. This [uBO](https://github.com/gorhill/uBlock/)-compatible filter list is based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/).
 
 ## Subscribe
 
