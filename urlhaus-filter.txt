@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 17 Jun 2019 00:21:12 UTC
+! Updated: Mon, 17 Jun 2019 12:22:41 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -137,6 +137,7 @@
 1.55.71.212
 1.9.124.103
 1.9.124.131
+1.9.124.146
 1.9.178.128
 1.9.181.157
 1.9.181.3
@@ -237,6 +238,7 @@
 103.87.104.203
 103.90.203.153
 103.91.208.215
+103.91.208.225
 103.92.25.95
 103.97.177.29
 10394jdh.space
@@ -382,6 +384,7 @@
 104.248.152.227
 104.248.155.127
 104.248.157.134
+104.248.157.141
 104.248.158.49
 104.248.159.247
 104.248.16.157
@@ -877,6 +880,8 @@
 118.89.61.167
 118.99.239.217
 11820.com.tr
+119.188.246.240
+119.188.247.59
 119.188.248.16
 119.193.179.1
 119.202.25.191
@@ -991,6 +996,7 @@
 123.207.82.20
 123.24.206.165
 123.241.176.78
+123.249.0.223
 123.249.12.200
 123.249.13.21
 123.249.71.226
@@ -1444,6 +1450,7 @@
 138.68.74.70
 138.68.81.69
 138.68.82.240
+138.68.88.191
 138.68.9.115
 138.68.91.155
 138.68.94.145
@@ -1947,6 +1954,7 @@
 157.230.128.75
 157.230.130.173
 157.230.135.224
+157.230.136.2
 157.230.140.145
 157.230.141.145
 157.230.144.180
@@ -2382,6 +2390,7 @@
 165.22.10.119
 165.22.10.225
 165.22.108.47
+165.22.109.101
 165.22.120.43
 165.22.121.173
 165.22.124.63
@@ -2650,6 +2659,7 @@
 167.99.85.165
 167.99.85.214
 167.99.87.204
+167.99.89.173
 167.99.89.180
 167.99.89.22
 167.99.90.32
@@ -3029,6 +3039,7 @@
 178.128.227.2
 178.128.227.239
 178.128.227.28
+178.128.229.154
 178.128.229.3
 178.128.229.72
 178.128.231.49
@@ -3189,6 +3200,7 @@
 178.62.84.108
 178.62.86.87
 178.62.9.232
+178.62.90.134
 178.62.96.207
 178.62.96.215
 178.63.122.20
@@ -3547,6 +3559,7 @@
 185.186.245.28
 185.186.246.69
 185.186.77.105
+185.186.77.106
 185.186.77.46
 185.189.149.137
 185.189.149.164
@@ -5811,6 +5824,7 @@
 27.120.86.87
 27.126.188.212
 27.145.66.227
+27.148.157.80
 27.155.87.166
 27.155.88.191
 27.159.82.219
@@ -6579,6 +6593,7 @@
 45.63.96.51
 45.64.128.172
 45.67.14.154
+45.67.14.157
 45.67.14.162
 45.67.14.163
 45.67.14.165
@@ -6790,6 +6805,7 @@
 46.183.221.166
 46.183.222.79
 46.183.223.114
+46.183.223.14
 46.188.68.69
 46.19.143.153
 46.2.63.74
@@ -7238,6 +7254,7 @@
 51.77.210.97
 51.77.245.82
 51.77.95.121
+51.79.53.247
 51.79.55.3
 51.81.7.102
 51.81.7.54
@@ -7721,6 +7738,7 @@
 68.183.156.139
 68.183.157.144
 68.183.159.151
+68.183.16.105
 68.183.160.222
 68.183.161.98
 68.183.166.199
@@ -7790,10 +7808,12 @@
 68.183.34.55
 68.183.35.95
 68.183.36.180
+68.183.36.8
 68.183.37.7
 68.183.38.104
 68.183.38.6
 68.183.38.69
+68.183.39.48
 68.183.41.147
 68.183.41.164
 68.183.41.254
@@ -8130,6 +8150,7 @@
 80.191.232.26
 80.191.250.164
 80.209.224.106
+80.209.252.31
 80.211.10.203
 80.211.100.135
 80.211.103.184
@@ -8924,6 +8945,7 @@
 93iot6.ho3fty.ru
 94.100.18.114
 94.100.18.47
+94.100.28.177
 94.100.93.124
 94.102.60.146
 94.103.80.231
@@ -13033,6 +13055,7 @@ aticoveritas.com
 atigagroup.com
 atikmakina.net
 atikuyouthmandate2019.com
+atilimiletisim.com.tr
 atilioherrajes.com.ar
 atina-reisen.de
 atinalla.com
@@ -14129,6 +14152,7 @@ basarimatbaa.com
 basarirerkekyurdu.com
 basarteks.com
 basch.eu
+bascif.com
 base.n24rostov.ru
 base2.n24rostov.ru
 baseballdweeb.com
@@ -16842,6 +16866,7 @@ bullettruth.com
 bullfileupload.xyz
 bulsardgroup.com
 bumaga-a4.ru
+bumashana.com
 bumashana.rodevdesign.com
 bumbo.com.br
 bumpup.com.br
@@ -17867,6 +17892,7 @@ cbastaffing.com
 cbb.corkyssandbags.com
 cbb.skofirm.com
 cbc-platform.org
+cbcac078.ngrok.io
 cbcpremierproperties.com
 cbctg.gov.bd
 cbd-planet.ch
@@ -19389,6 +19415,7 @@ coach.getfit21latino.com
 coachbagsoutletfactory.net
 coaching.idees-decora.tn
 coaching2reach.com
+coachingbywendy.com
 coachirene.jp
 coachraymi.com
 coachthahir.com
@@ -19454,6 +19481,7 @@ codingbrush.com
 codivar.org.br
 codmvm.com
 codnit.com
+codo.dn.ua
 codystaffing.com
 coebioetica.salud-oaxaca.gob.mx
 coelabetoregranteke.info
@@ -20858,6 +20886,7 @@ daarummulmukminin.org
 daashing.com
 dabaghi.5gbfree.com
 dabcap.com
+dabelmarket.com
 dabwalicity.tk
 dac-website.000webhostapp.com
 dachdeckermeister-kreuz.de
@@ -24010,7 +24039,7 @@ download.sosej.cz
 download.ttrar.com
 download.u7pk.com
 download.viamedia.ba
-download.void.cat
+download.void.cat/fa8ca69f8798d76fd2d9e16c0b0bcf049a9a67e2
 download.ware.ru
 download.weihuyun.cn
 download.wetransfer.com/eu2/8a561ae56a04d2124a9dc582ad4d29e020180709231255/PO.doc?token=eyJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWUiOiI4YTU2MWFlNTZhMDRkMjEyNGE5ZGM1ODJhZDRkMjllMDIwMTgwNzA5MjMxMjU1IiwicHJvZmlsZSI6ImV1MiIsImZpbGVuYW1lIjoiUE8uZG9jIiwiZXNjYXBlZCI6ImZhbHNlIiwiZXhwaXJlcyI6MTUzMTE5MTQyOSwid2F5YmlsbF91cmwiOiJodHRwOi8vcHJvZHVjdGlvbi5iYWNrZW5kLnNlcnZpY2UuZXUtd2VzdC0xLnd0OjkyOTIvd2F5YmlsbC92MS9mZjdlZmY5Y2FhMDc0ZDc3MmYzMGYwMzQ3ZTllZDdkMGYyNjZiYmFlZmE3OTliNzdkZjRiODU4OTYxMDIifQ.HqRLIfBAjhXRqXnBSIJt9s7pWKkJkE-ihP6Rgip--Wk
@@ -24569,6 +24598,7 @@ dronint.com
 dronthemes.net
 droobedu.com
 droobox.online
+dropbox-cloud.cloudio.co.id
 dropbox.com.login.energycenterri.com/Tax%20Exemptions%202017.exe
 dropbox.com/s/0259z5lsjmkiavk/Scan_Doc_%23785784904.ace?dl=1
 dropbox.com/s/07pfr1dn1sapgq8/eFax_message_8509.zip?dl=1
@@ -32252,6 +32282,7 @@ higginstonnacomau-my.sharepoint.com
 high5-hotel-alkmaar.nl
 highamnet.co.uk
 highavailable.ir
+highbrlght.com
 highbrow-associates.com
 highclass-store.co
 highcountryblenders.com
@@ -32989,6 +33020,7 @@ hoteldedemin.com.tr
 hoteldonjuan.com.br
 hotelesanticrisis.com
 hoteleseconomicosacapulco.com
+hotelesmeflo.com
 hotelgeogrande.in
 hotelikswidwin.pl
 hotelinone.net
@@ -33815,6 +33847,7 @@ ijdqwoujnhdqwd.com
 ijqd9uqwdaudnquwdwjasdaduqjn.com
 ijshuis.nl
 ijweaver.com
+ik-7.ru
 ik-instaling.com
 ik.termopanemaramures.ro
 ikamel.com
@@ -36305,6 +36338,7 @@ juzsmile.com
 jv29.ru
 jvalert.com
 jvenglishconversation.net
+jvgokal.ml
 jvive.com
 jvmahlow.de
 jvmusic.ca
@@ -36861,6 +36895,7 @@ kentona.su
 kentonross.com
 kentuckyinjuryaccident.com
 kenweb.co.nz
+kenyanflies.com
 kenyantoothpaste.000webhostapp.com
 keokukstpaulucc.org
 keosiuchauthanhlan.com.vn
@@ -38880,6 +38915,7 @@ lhelp.pl
 lhi.or.id
 lhjwshb.5gbfree.com
 lhs.jondreyer.com
+lhtcom-sg.tk
 lhtextiles.com
 lhub304.com
 lhypnoseetvous.fr
@@ -43096,6 +43132,7 @@ monatetour.co.za
 monbo.dk
 mondainamsterdam.com
 mondatoil.com
+mondaydrem.ru
 mondays.dabdemo.com
 mondcoin.com
 monde.at
@@ -43562,6 +43599,7 @@ mstone-ufa.ru
 mstreet.com.au
 mstroi-ramenskoye.ru
 mstudija.lt
+mstyro.nl
 msuniversal.com.au
 msuyenenglish.com
 msvnpschool.co.in
@@ -46158,6 +46196,7 @@ onecrmpro.com
 onecubeideas.com
 onedaamilcare.com
 onedollerstore.com
+onedrive.autotalk.com.ng
 onedrive.live.com/?authkey=%21AKcIV9lpjoGa1aM&cid=09FBB54537A3B228&id=9FBB54537A3B228%21383&parId=root&o=OneUp
 onedrive.live.com/download.aspx?cid=5R0Q2G1KNJ65NFR&authKey=%21AAZN4UgCy2MOveg&resid=1BE8E598864C0368%213780&ancgud=5R0Q2G1KNJ65NFR
 onedrive.live.com/download.aspx?cid=61c28c11f4b60c24&resid=61C28C11F4B60C24%2112708&authkey=!APlv5_Cx2HNZ1Ug
@@ -49146,6 +49185,7 @@ promote-wie.com
 promotimisoreana.md
 promotion.likedoors.ru
 promotionsworldwide.bid
+promotionzynovawillzerodacontinuegood.duckdns.org
 promotive.com.ar
 promotoyotaindo.com
 promstal37.ru
@@ -49496,6 +49536,7 @@ pustakbistak.com
 puthencavucathedral.in
 putserdca.ru
 putsplace.net
+putuas.com
 puu.sh/7GvL5.exe
 puu.sh/jMSLc.txt
 puu.sh/y0rxZ.dll
@@ -50987,6 +51028,7 @@ rightbrainsolution.com
 rightsense.in
 righttrackasia.com
 righttrackeducation.com
+rigiad.org
 rigidconstructioncompany.com
 rigtools.net
 rigtr.nl
@@ -51715,6 +51757,7 @@ s14b.groundyun.cn
 s1517.ir
 s1591e46.xyz
 s18501.p519.sites.pressdns.com
+s1ack.cc
 s2.download.net.pl
 s2.series60.kiev.ua
 s214620.gridserver.com
@@ -55463,6 +55506,7 @@ stacibockman.com
 stacjazgierz.pl
 stack.academy
 stacknheap.com
+stadtmisr.com
 stafette.ro
 staff.mezoninn.ru
 staff.pelfberry.com
@@ -55913,6 +55957,7 @@ stoplossinvestment.com
 stopmo.com.au
 stoppel.nl
 stopsnoringplace.com
+storage.alfaeducation.mk
 storage.googleapis.com/12214rfdcgbnmkp/IMG-20161224-WA0015.zip?Oiin8kdqPDhpAocEc8mfPa5IFBqsF4sLv5xVMJGZMxyn5J5isS2p5OboTqEEPEhGN5Tci4Xvmr8m0Ozo6yr1lqY868UlmL3QaCp3
 storage.googleapis.com/bc3_production_blobs/81629cd4-b27c-11e8-9839-3cfdfe02c2a0?GoogleAccessId=bc3-production-storage%40bc3-production.iam.gserviceaccount.com&Expires=1536399347&Signature=Bi1TxXswIdbYOIRWJHV7ZTPVrnNWWxXvB4vP%2BYVUNFqexObC60RfTvrDhK75qPpoTU%2FV5ERL7ob1iYiYHqVMlO8DL1XxgUs8QPQxcmQ9FCnBgSimHlCy0bL1XZmZOpwB6mEaj%2BFaNYojHBMMsCWC4Xd7ayGYMKctQtAYybfxz63o3sDbYbC%2BiF9BznW7bfsTCjOAhIMq7%2FFgUdk%2FtKlrevsGcCMh9NxGMl6Al87wLGEuiVSfFMeGTh4QTi0a1qea%2BemUQnZh0QwzzXrJm6dE3H%2BHfZUWnrwHqx1guQgrIe05f6UA3YYwhTUDpUwzvVn7CD00xp3K6dfyY3JmIP%2Fd6g%3D%3D&response-content-type=application%2Fmsword&response-content-disposition=inline%3B+filename%3D%22doc-610.doc%22%3B+filename%2A%3DUTF-8%27%27doc-610.doc
 storage.googleapis.com/bradok/09/v.txt
@@ -56563,6 +56608,7 @@ store.ku4sd.com
 store.pelikanweb.ir
 store.sensyu.org
 store.thecenterforyoga.com
+store2.rigiad.org
 store503.com
 storematica.com
 storesmate.co.uk
@@ -57454,6 +57500,7 @@ tachibana-kikka.xyz
 tachyonicecho.com
 tacloban.gov.ph
 tacoar.com.br
+tacollective.org
 tacoshermanos.fr
 tact-yl.fr
 tacticalintelligence.org
@@ -59236,6 +59283,7 @@ timegitim.com
 timehalik.tk
 timekeeper.ug
 timelyent.com
+timenard.top
 timenow.pw
 timenowis1.top
 timeq.uz
@@ -59594,6 +59642,7 @@ topolskistone.co.il
 topperreview.com
 toppersailing.in
 toppes.de
+topphanmem.net
 toppprogramming.com
 toppret.com
 topr.se
@@ -62696,7 +62745,14 @@ voicelsp.com
 voiceofveterans.in
 voicetoplusms.com
 voiceyouropinions.net
-void.cat
+void.cat/0402e5b69ac5ec3ad41eaddcf41ee15b3a7fba16
+void.cat/4ff55f9cdc555369e78c47a9a96e74c78792d2e9
+void.cat/9c2b71608d66d5ad2f7e33d9357cc76b86ac101e
+void.cat/ad2f0cd72c170f201c4e0c868cdc383df58c99a2
+void.cat/c9094eec43a97e2728e997c9230a00718a31864b
+void.cat/e6d36d4c83b4de23c012b9351f019b8b4b30b020
+void.cat/ed7e7fc7d14048bf1cf40565068f487e71169a84
+void.cat/fa8ca69f8798d76fd2d9e16c0b0bcf049a9a67e2
 void.voak.net
 voimaintainanceconstruct.co.za
 voingani.it
@@ -63960,6 +64016,7 @@ workgrace.com
 workgroup-production.com
 workharder.club
 workhills.com
+workie-workie.nl
 workingbee.se
 workingin-my.sharepoint.com
 workingonit.site
@@ -65704,6 +65761,7 @@ zwo4.com
 zworks.net
 zxminer.com
 zxytcjj.com
+zyd1.com
 zykj.shop
 zymogen.net
 zypeujun.ru
