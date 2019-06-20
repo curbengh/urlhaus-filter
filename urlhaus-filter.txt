@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 19 Jun 2019 12:25:43 UTC
+! Updated: Thu, 20 Jun 2019 00:25:15 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -98,6 +98,7 @@
 1.34.238.15
 1.34.242.32
 1.34.244.236
+1.34.26.126
 1.34.26.135
 1.34.28.39
 1.34.29.22
@@ -409,6 +410,7 @@
 104.248.175.156
 104.248.18.123
 104.248.181.42
+104.248.184.60
 104.248.185.111
 104.248.186.157
 104.248.187.115
@@ -574,6 +576,7 @@
 107.173.57.153
 107.174.13.128
 107.174.14.74
+107.174.14.79
 107.174.203.117
 107.174.228.46
 107.174.251.123
@@ -952,6 +955,7 @@
 121.168.103.102
 121.174.70.131
 121.174.70.181
+121.174.70.189
 121.177.239.68
 121.180.253.95
 121.181.244.217
@@ -3825,6 +3829,7 @@
 185.244.30.175
 185.244.30.208
 185.244.39.107
+185.244.39.19
 185.244.39.45
 185.244.39.47
 185.244.39.51
@@ -5497,6 +5502,7 @@
 216.170.120.102
 216.170.120.137
 216.170.122.22
+216.170.122.31
 216.170.123.10
 216.170.123.115
 216.170.125.104
@@ -6311,6 +6317,7 @@
 36.78.126.219
 36.80.251.129
 36.80.93.228
+36.81.31.124
 36.82.179.161
 36.84.141.77
 36.85.126.189
@@ -6715,6 +6722,7 @@
 46.101.210.172
 46.101.213.240
 46.101.216.234
+46.101.218.87
 46.101.219.54
 46.101.220.150
 46.101.220.88
@@ -8833,6 +8841,7 @@
 91.121.30.169
 91.121.50.19
 91.121.50.61
+91.134.120.5
 91.134.210.118
 91.134.24.228
 91.134.246.186
@@ -9020,6 +9029,7 @@
 94.103.85.189
 94.103.94.22
 94.103.95.185
+94.130.200.99
 94.130.215.131
 94.140.244.229
 94.142.141.51
@@ -9137,6 +9147,7 @@
 95.70.196.153
 95.81.0.83
 95.81.1.43
+95.81.1.7
 95.82.61.85
 95.9.220.134
 95.9.84.154
@@ -13337,7 +13348,7 @@ autelite.com
 auter.hu
 autexchemical.com
 autfaciam.com
-auth.to0ls.com/l/sodd/udp
+auth.to0ls.com
 authenticestate.online
 authenticfilmworks.com
 authenticinfluencer.com
@@ -13430,7 +13441,7 @@ autoprof.es
 autoreduc.com
 autoregressed.com
 autorepairinriorancho.com
-autorepairmanuals.ws/homepage/bSDjvZYCUYyxvldpcWiSpz/
+autorepairmanuals.ws
 autoride.gr
 autorizatiifirme.ro
 autorouteduchocolat.biz
@@ -15987,7 +15998,7 @@ blog.taxmann.com
 blog.thaicarecloud.org
 blog.thatwesguy.com
 blog.thefurnituremarket.co.uk
-blog.theodo.com
+blog.theodo.com/wp-includes/i399/
 blog.thoai.vn
 blog.timejobs.cl
 blog.tkaraca.com
@@ -17488,7 +17499,7 @@ cancunalacarta.com
 candacejean.com
 candasyapi.com
 candbs.co.uk
-candc35.com
+candc35.com/Need-to-send-the-attachment/
 candidugas.com
 candoo.school
 candopro.com.au
@@ -17658,8 +17669,7 @@ cargoinsurance.tk
 cargokz.kz
 cargomate-kr.cf
 cargomax.ru
-caribbean360.com/bu40BVNZ/
-caribbean360.com/test/XChCw-sav_KomKB-Pe0/COMET/SIGNS/PAYMENT/NOTIFICATION/01/28/2019/En_us/Sales-Invoice/
+caribbean360.com
 carikliantiquitat.com
 carimbosrapidos.com.br
 carimint.com
@@ -18731,6 +18741,7 @@ chicbakes.com
 chichilimxhost.com
 chickenclubcreations.com
 chickenstitches.com
+chickwithscissors.nl
 chiconovaesimoveis.com.br
 chidge.net
 chienbinhlama.com
@@ -19027,8 +19038,7 @@ cirestudios.com
 cirqueampere.fr
 cisir.utp.edu.my
 cisme.in
-cismichigan.com/1518MBCNZI/oamo/Commercial
-cismichigan.com/1518MBCNZI/oamo/Commercial/
+cismichigan.com
 cisnecosmetics.com.br
 ciss.mk
 cissa.ewebdy.com
@@ -19104,13 +19114,7 @@ cjj.lanibio.net
 cjllcmonthlysub.ga
 cjmont41.fr
 cjnzbdy.gq
-cjoint.com/doc/15_07/EGkcftWS3qa_Console-ID-Fud.rar
-cjoint.com/doc/18_08/HHAvFUx2KML_DOCUMENTS-2.zip
-cjoint.com/doc/18_08/HHxoxvqdLui_DOCUMENTS.zip
-cjoint.com/doc/18_09/HIeuUN8skg6_DOCUMENTS-4.zip
-cjoint.com/doc/18_12/HLBnmzUX3Ll_SCAN-RESERVATIONS.rar
-cjoint.com/doc/18_12/HLEpvMYQjnE_AUTHORIZATION-FORMS.zip
-cjoint.com/doc/19_02/IBdvoJ3sDpk_Reservation.zip
+cjoint.com
 cjsebbelov.dk
 cjtows.com
 ck-finanzberatung.de
@@ -20171,6 +20175,7 @@ coronadotx.com
 coronatec.com.br
 coroneisdavicente.com.br
 coronelsandro.com.br
+corp.austinroofalgaeremoval.com
 corpmkg.com.au
 corpoesaude.club
 corporacionalanya.com
@@ -21192,6 +21197,7 @@ dapperlilgents.com
 dappublicidad.com
 daprepair.com
 dapster.y0.pl
+dar-blue.com
 dar-fortuna.ru
 dar-ltd.uk
 dar-sana.com
@@ -21542,7 +21548,7 @@ dealertrafficgenerator.com
 dealmykart.com
 dealsammler.de
 dealsfantasy.com
-dealtimer.com/AsIn9
+dealtimer.com
 deam.cl
 deanhopkins.co.uk
 deathbat-jp.com
@@ -28137,7 +28143,7 @@ fikria.com
 file-server.online
 file.buttsdki.ca
 file.co.uk.cjllcmonthlysub.ga
-file.fm/down.php?cf&i=7pnvf2d6&n=8950003198.xls
+file.fm
 file.foxitreader.cn/file/Channel/PDFShrink/PDFShrinkSetup.exe
 file.foxitreader.cn/www_file/PDFShrinkSetup.exe
 file.importantcover.uk
@@ -29444,10 +29450,7 @@ fv2-1.failiem.lv
 fv3.failiem.lv
 fv6.failiem.lv
 fv8.failiem.lv
-fv9-1.failiem.lv/down.php?i=ejhg9hrm&n=Order+_PO4563.doc&download_checksum=2aa70a2ce5c0c4afca059c76d93bb9219dad176c&download_timestamp=1549461834
-fv9-1.failiem.lv/down.php?i=ejhg9hrm&n=Order+_PO4563.doc&download_checksum=7608eab36cdd5a4d695d270042ceb464d9230732&download_timestamp=1549432099
-fv9-1.failiem.lv/down.php?i=ejhg9hrm&n=Order+_PO4563.doc&download_checksum=b387675dfc07e6f292c03a9de5dc292b6e48b58e&download_timestamp=1549366689
-fv9-1.failiem.lv/down.php?i=mfrav382&n=Songwon+PO-0298.doc&download_checksum=69f07aa15045abdfb4907f7e72f880f71b766175&download_timestamp=1549399702
+fv9-1.failiem.lv
 fvbrc.com
 fw-int.net
 fwcw.ru
@@ -31868,16 +31871,7 @@ hasandanalioglu.com
 hasanzeybek.com
 hasebiz.net
 haseebprinters.com
-hasekimuhendislik.com/Jd1V
-hasekimuhendislik.com/Jd1V/
-hasekimuhendislik.com/default/En_us/Order/Order-43337660956/
-hasekimuhendislik.com/doc/En/OVERDUE-ACCOUNT/Invoice-08305721-072518/
-hasekimuhendislik.com/doc/En_us/Jul2018/tracking-number-and-invoice-of-your-order
-hasekimuhendislik.com/doc/En_us/Jul2018/tracking-number-and-invoice-of-your-order/
-hasekimuhendislik.com/files/En_us/Purchase/Invoice-257496/
-hasekimuhendislik.com/mBpoQi7O
-hasekimuhendislik.com/mBpoQi7O/
-hasekimuhendislik.com/xL
+hasekimuhendislik.com
 haselburg.cz
 hashaszade.com
 hashem.co.id
@@ -33112,6 +33106,7 @@ hotelplayaelagua.com
 hotelplazalasamericascali.com.co
 hotelpleasantstay.com
 hotelpousadaparaisoverde.com.br
+hotelpremier.com.br
 hotelriverpalacegb.com
 hotelroamer.com
 hotels-vercors.com
@@ -36029,6 +36024,7 @@ joe-cool.jp
 joecamera.biz
 joecreek.com
 joedee.co.za
+joeing.duckdns.org
 joeing2.duckdns.org
 joeksdj.nl
 joelanguell.com
@@ -36214,6 +36210,14 @@ jpmorganchasse.com
 jpmtech.com
 jpnc.co.kr
 jpol.com
+jppost-aha.com
+jppost-ama.com
+jppost-ame.com
+jppost-ami.com
+jppost-amo.com
+jppost-amu.com
+jppost-ki.com
+jppost-so.com
 jppygfot.sha58.me
 jpqr.my
 jpro.jiwa-nala.org
@@ -36309,6 +36313,7 @@ juice33rdst.com
 juiceworld.in
 juir.com.mx
 jukeboxbiz.com
+jukesbrxd.xyz
 juldizdar.net
 julescropperfit.com
 julesheerkens.nl
@@ -36521,7 +36526,7 @@ kaitenz.com
 kaiwaa.com.br
 kaiz.ru
 kajastech.com
-kakaocorp.link/data/imgs/deim.gif
+kakaocorp.link
 kakatiyaangels.com
 kakhun.ru
 kakoon.co.il
@@ -37796,8 +37801,7 @@ kpogroup.bo
 kpopstarz.kienthucsong.info
 kppspgrojec.internetdsl.pl
 kqs.me
-kr1s.ru/docv8.dat
-kr1s.ru/java.dat
+kr1s.ru
 krabben.no
 krafiatmada.my
 kraftaverk.is
@@ -38089,7 +38093,7 @@ ky663.com
 kyadondotechnicalinstitute.com
 kyaikhtohotel.com
 kyanos.000webhostapp.com
-kyans.com
+kyans.com/wp-admin/1De3/
 kyatama.com
 kyedoll.com
 kykeon-eleusis.com
@@ -39338,26 +39342,7 @@ listmywish.net
 listroot.com
 lists.coqianlong.watchdogdns.duckdns.org
 lists.genivi.org
-lists.ibiblio.org/pipermail/freetds/attachments/20040126/36f99efb/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040126/86210179/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/1865764e/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/2f685198/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/3f51440e/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/5ad87ada/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/65b8c742/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/67f88562/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/81aa3f28/attachment.exe
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/85d5fbc6/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/c6c8fcd6/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/d82eab18/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/dd4e9f63/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/e988f301/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/fda9311d/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040127/fdf6de2b/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040128/56446911/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040128/a378d55a/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040128/b75a3efb/attachment.obj
-lists.ibiblio.org/pipermail/freetds/attachments/20040128/e1bf88b5/attachment.obj
+lists.ibiblio.org
 lists.linaro.org
 lists.mplayerhq.hu
 lists.opnfv.org
@@ -43978,7 +43963,7 @@ my-organic-shop.co.uk
 my-spa.rs
 my.camptaiwan.com.tw
 my.jiwa-nala.org
-my.mail.de/dl/16396560ccdf7536b3dde030d4b7e0e0/
+my.mail.de
 my.mixtape.moe/ayqydr.vbs
 my.mixtape.moe/chhsmy.htaa
 my.mixtape.moe/coxgka.jpg
@@ -44906,7 +44891,7 @@ newparadise.com.vn
 newpavanchatcorner.com
 newpioneerschool.com
 newportedu.org
-newradio.it/personalplayer/rvl/rvl.exe
+newradio.it
 newreport.info
 newrockchurchconyers.org
 news-week.ru
@@ -45718,17 +45703,7 @@ nutricioncorporativa.com
 nutricomp.kz
 nutriexperience.org
 nutriglobe.com
-nutrilatina.com.br/11473AM/WIRE/Business
-nutrilatina.com.br/11473AM/WIRE/Business/
-nutrilatina.com.br/349A/biz/Business
-nutrilatina.com.br/349A/biz/Business/
-nutrilatina.com.br/6V/com/Business
-nutrilatina.com.br/6V/com/Business/
-nutrilatina.com.br/DOC/EN_en/Past-Due-Invoice
-nutrilatina.com.br/En_us/Transactions/11_18
-nutrilatina.com.br/En_us/Transactions/11_18/
-nutrilatina.com.br/files/En_us/Sales-Invoice
-nutrilatina.com.br/files/En_us/Sales-Invoice/
+nutrilatina.com.br
 nutrinor.com.br
 nutrisci.org
 nutrisea.net
@@ -47406,6 +47381,7 @@ pastebin.com/raw/A8e40C8J
 pastebin.com/raw/D1Bjgv8a
 pastebin.com/raw/D9V1HJmM
 pastebin.com/raw/Euzk3Ht4
+pastebin.com/raw/F8W8Pz9Z
 pastebin.com/raw/FkyichTu
 pastebin.com/raw/JaerZWSQ
 pastebin.com/raw/LwmR5Ax3
@@ -47424,8 +47400,10 @@ pastebin.com/raw/jkBxauyv
 pastebin.com/raw/kjKci9J8
 pastebin.com/raw/tc4VpDFQ
 pastebin.com/raw/vCka2r6A
+pastebin.com/raw/vb8yZXjq
 pastebin.com/raw/wDvPz4jU
 pastebin.com/raw/y6R5nYzL
+pastebin.com/raw/yvyE642L
 pastebin.com/raw/yy30ZSfm
 pasteboard.co/images/HHKrjPX.jpg/download
 pasteboard.co/images/HIzhg49.jpg/download
@@ -50553,7 +50531,13 @@ recallpayment4578789.s3.amazonaws.com/list_amlresolution_0804paymments_onhold.xl
 recambiospastor.com
 receitasmamae.com
 receive.winss.es
-recep.me
+recep.me/welovemilk/02_0/
+recep.me/welovemilk/3o71ai7-y9o91ye-lkrqct/
+recep.me/welovemilk/GIMEp-CL7m4P2bDnJT1Mx_hmXhlpREH-Uve/
+recep.me/welovemilk/INC/6YK0gh8VGbt/
+recep.me/welovemilk/Scan/AFSGwaU2AFL/
+recep.me/welovemilk/WzqyF-tDtZ_p-a9/
+recep.me/welovemilk/scan/support/trust/en_EN/2019-04/
 recepsahin.net
 receptikuhinja.xyz
 receptoresdetv.com
@@ -54299,7 +54283,9 @@ sitwww.watchdogdns.duckdns.org
 sitymag.ru
 siuagustina.band
 sivadatasdevri.com
-sivarajan.com
+sivarajan.com/FILE/Please-pull-invoice-16523/
+sivarajan.com/Invoice/
+sivarajan.com/Past-Due-Invoices-June/
 sivayo.com
 sivenit.net
 sivricerihtim.com
@@ -54503,16 +54489,7 @@ slowianskawieza.pl
 slowmoneysocal.org
 slowtime.net
 slppoffice.lk
-slpsrgpsrhojifdij.ru/1.exe
-slpsrgpsrhojifdij.ru/2.exe
-slpsrgpsrhojifdij.ru/3.exe
-slpsrgpsrhojifdij.ru/c.exe
-slpsrgpsrhojifdij.ru/krablin.exe
-slpsrgpsrhojifdij.ru/krablin.exe?SZLIp
-slpsrgpsrhojifdij.ru/krablin.exe?VuNpZqS
-slpsrgpsrhojifdij.ru/o.exe
-slpsrgpsrhojifdij.ru/p.exe
-slpsrgpsrhojifdij.ru/t.exe
+slpsrgpsrhojifdij.ru
 slrent.com
 slrpros.com
 sls-eg.com
@@ -57218,7 +57195,10 @@ support.homemakerideas.com
 support.imaitaly.biz
 support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/
 support.jbrueggemann.com
-support.mdsol.com
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
 support.redbook.aero
 support.volkerstevin.ca
 support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/
@@ -58392,6 +58372,7 @@ terichubholgya.com
 teridiwanihui.com
 terifischer.com
 terigilbe.cf
+termbin.com
 termica.cn
 terminal-heaven.com
 terminalsystems.eu
@@ -58839,7 +58820,7 @@ thefinestmoment.com
 thefintech.com.au
 thefiredog.com
 thefireservice.co.uk
-thefirstserver.com/backup/verg9is7t_k6holk-693999004328980/
+thefirstserver.com
 thefly.su
 thefocusongroupllc.com
 thefoodmix.com
@@ -59392,6 +59373,7 @@ timeforcoffe.eu
 timegitim.com
 timehalik.tk
 timekeeper.ug
+timelinetravel.co.za
 timelyent.com
 timenard.top
 timenow.pw
@@ -59647,6 +59629,7 @@ tomjapan.vn
 tomjennings.net
 tommarmores.com.br
 tommie.tlpdesignstudios.com
+tommyhalfigero.top
 tommyleetattoo.com
 tommysgrillpizzerianyc.com
 tomopreis.nl
@@ -61570,7 +61553,7 @@ url-update.com
 url-validation-clients.com
 url.246546.com
 url.57569.fr.snd52.ch
-url.edu/premisrecerca/sites/1501.zip
+url.edu
 url.emailprotection.link/?a38JunaghClvpnP9g_nk5BCP0dpXgp2YMDbWMdcsqwINyloReJV8PI-AA8LsHJPuo_TIgpSm_AA7bxILcF8c9Og~~/
 url.emailprotection.link/?a6VDSPTGs_vNRYygmJ_By6Bs0LtJpQSKtoPuniiFFxnN9_C6z29MhPxuyuonGhfW7HDPbxyx5QVymuEWH5mWbkg~~/
 url.emailprotection.link/?a8mF8MfR7KtWOtoxmjxVg5qS1M0GhotqVguxPSuuNKWruv3gqTwc7SI2AH90B2yp2Y8UqEWT1C_CMyHQbdyqF2A~~/
@@ -61754,11 +61737,7 @@ users.tpg.com.au/palipane/293902399023-39922.zip
 users.tpg.com.au/soniamatas/9302030002.993.zip
 users.tpg.com.au/soniamatas/9302030002_993.zip
 userslinks.xyz
-usgmsp.com/OaEVH-EsUIPktyP_jvzUmCvdz-anv/PaymentStatus/Download/EN_en/Invoice-4472901-December/
-usgmsp.com/sVy
-usgmsp.com/temp/FILE/XlSxIa6kVo8/
-usgmsp.com/temp/secure.myacc.resourses.net/
-usgmsp.com/temp/xlbb/
+usgmsp.com
 usgoldusa.com
 ushazmatrentals.com
 ushnass.com
@@ -62769,13 +62748,7 @@ vivinod1.xyz
 vivirdelabolsa.com
 vivo.ubfc.fr
 vivredeprinceintlschools.com
-viwma.org/cli/FILE/W1gS3rMeZfXT/
-viwma.org/cli/INC/28SL3gaOVoW6/
-viwma.org/cli/OXBi-BJXNrQxB3okl7I_qGuumUUH-bP/
-viwma.org/cli/Scan/aosWntODCVSVOGVd/
-viwma.org/cli/TelRE-pbHMTM2oDMBt4R_tfdkppPIh-Say/
-viwma.org/cli/bikck8-zbjt57-ashpbfy/
-viwma.org/cli/tp45v-030n36g-prsrp/
+viwma.org
 vizar.hr
 vizertv.xyz
 vizicsiga.hu
@@ -64406,7 +64379,7 @@ wyensolo.com
 wylernissanlouisville.com
 wyndhamatduran.com
 wyomingauthors.org
-wyptk.com/openlink/openlink1.exe
+wyptk.com
 wyszx.jihaose.cn
 wywoznieczystosci.pomorze.pl
 wz-architekten.de
