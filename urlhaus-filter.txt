@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 21 Jun 2019 00:25:13 UTC
+! Updated: Fri, 21 Jun 2019 12:34:46 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -228,6 +228,7 @@
 103.254.86.219
 103.255.101.64
 103.30.43.120
+103.45.174.46
 103.46.136.130
 103.51.146.218
 103.51.249.64
@@ -1513,6 +1514,7 @@
 139.59.182.250
 139.59.2.118
 139.59.209.188
+139.59.209.96
 139.59.211.155
 139.59.215.189
 139.59.25.145
@@ -1992,6 +1994,7 @@
 157.230.157.105
 157.230.160.165
 157.230.162.244
+157.230.163.1
 157.230.163.242
 157.230.164.74
 157.230.165.111
@@ -2458,6 +2461,7 @@
 165.22.2.40
 165.22.201.215
 165.22.203.178
+165.22.205.77
 165.22.206.121
 165.22.21.215
 165.22.23.186
@@ -3218,6 +3222,7 @@
 178.62.27.133
 178.62.27.198
 178.62.27.235
+178.62.27.7
 178.62.28.7
 178.62.32.28
 178.62.36.95
@@ -3570,6 +3575,7 @@
 185.172.110.230
 185.172.110.231
 185.172.110.238
+185.172.110.239
 185.172.110.245
 185.172.164.39
 185.173.92.132
@@ -3730,6 +3736,7 @@
 185.244.25.108
 185.244.25.109
 185.244.25.110
+185.244.25.111
 185.244.25.113
 185.244.25.114
 185.244.25.116
@@ -4358,6 +4365,7 @@
 192.254.177.175
 192.3.12.133
 192.3.131.23
+192.3.146.201
 192.3.160.67
 192.3.162.102
 192.3.182.220
@@ -9567,6 +9575,7 @@ absimpex.com
 absolutaservicos.com
 absoluteart.biz
 absolutecarpetcleaningaustin.com
+absoluteoutdoorliving.com
 absolutepleasureyacht.com
 absolys.com
 absorvalor.pt
@@ -13424,6 +13433,7 @@ autohoanglam.com
 autoholicgarage.com
 autoinfomag.com
 autojing.com
+autokaskoosiguranje.rs.ba
 autokings.com.ua
 autokosmetykicartec.pl
 autolikely.com
@@ -17845,6 +17855,7 @@ casawebhost.com.br
 cascaproducoes.com.br
 cascinadellemele.it
 case-modding-community.de
+case-sw.sourceforge.net
 casebkk.com.10771880-82-20181018162907.webstarterz.com
 casebycasecomic.com
 casefinity.com
@@ -21994,6 +22005,7 @@ denysberezhnoy.com
 denzilerasmus.com
 deolhonaprova.com.br
 deolia.ru
+deolonions.nl
 deoudepost.nl
 dep-da.com
 dep123.com
@@ -22225,6 +22237,7 @@ dev.peachybelts.co.uk
 dev.playcanales.com
 dev.psuade.co.uk
 dev.realtordesigns.ca
+dev.reparatiewinkel.nl
 dev.reptil-web.ru
 dev.samuist.com
 dev.savillesdrycleaners.co.uk
@@ -25644,6 +25657,7 @@ ec2-13-126-174-234.ap-south-1.compute.amazonaws.com
 ec2-18-130-79-113.eu-west-2.compute.amazonaws.com
 ec2-18-218-56-72.us-east-2.compute.amazonaws.com
 ec2-18-220-150-1.us-east-2.compute.amazonaws.com
+ec2-18-221-249-26.us-east-2.compute.amazonaws.com
 ec2-18-222-212-154.us-east-2.compute.amazonaws.com
 ec2-18-231-188-208.sa-east-1.compute.amazonaws.com
 ec2-34-228-187-133.compute-1.amazonaws.com
@@ -28177,6 +28191,7 @@ fikresufia.com
 fikretkoc.com
 fikria.com
 file-server.online
+file.botvonline.com
 file.buttsdki.ca
 file.co.uk.cjllcmonthlysub.ga
 file.fm/down.php?cf&i=7pnvf2d6&n=8950003198.xls
@@ -31128,6 +31143,7 @@ greenpoint.com.ua
 greenpotashmining.com
 greenpowerintl.ga
 greenrivergoods.com
+greenroomstudio.live
 greenruby1.com
 greenscreenguy.com
 greensideupgardening.com
@@ -33702,6 +33718,7 @@ ici.social
 ici.uta.cl
 icingsongs.com
 icitdkgp.yjdata.me
+ick-software.nl
 icl-moscow.ru
 iclebyte.com
 iclikoftesiparisalinir.com
@@ -35935,6 +35952,7 @@ jilo-magazine.esy.es
 jilupian.net
 jimatankot.com
 jimbagnola.ro
+jimbarrell.com
 jimbira-sakho.net
 jimbowe.com
 jimenezdesigngroup.com
@@ -37045,6 +37063,7 @@ kentengsari-grobogan.desa.id
 kentona.su
 kentonross.com
 kentuckyinjuryaccident.com
+kenviro.com
 kenweb.co.nz
 kenyanflies.com
 kenyantoothpaste.000webhostapp.com
@@ -37968,6 +37987,7 @@ kromtour.com
 kronstic.bid
 kronwerk-brass.ru
 kronzy.altervista.org
+krooart.com
 krood.pt
 kroon.promo
 krosnovunderground.se
@@ -39004,6 +39024,7 @@ letterpressbusinesscards.com
 lettertracingworksheets.com
 letthepageturn.com
 lettingagents.ie
+lettstillas.no
 letyoufree.com
 leucom.nl
 leulocati.com
@@ -43262,6 +43283,7 @@ mokelys.com
 mokerton.com
 mokotoff.net
 molamola.net
+molbert.finallyproducts.net
 molbirzha.ru
 mold-water.com
 moldavitedesign.com
@@ -45243,6 +45265,7 @@ nikogda.ru
 nikolajwulff.dk
 nikolas.com
 nikole.jp
+nikolei.eu
 nilceiadias.com.br
 nilema.nl
 nilemixitupd.biz.pl
@@ -45927,6 +45950,7 @@ ochrio.info
 ocluxurytowncar.com
 ocmama.net
 ocmama.vn
+ocomartan.com
 ocpgroup.me
 ocrastudio.com
 ocrn597v5.bkt.clouddn.com
@@ -47039,6 +47063,8 @@ ozadanapompa.net
 ozanarts.com
 ozawabag.shop
 ozdemirpolisaj.com
+ozdevelopment.com/MyAccount/Marketplace/Published/200000/DD3B4C2B-3C88-4120-A2E2-B6BD323A59F5
+ozdevelopment.com/myaccount/marketplace/published/200000/dd3b4c2b-3c88-4120-a2e2-b6bd323a59f5
 ozemag.com
 ozendustriyelservis.com
 ozenpirlanta.com
@@ -47124,6 +47150,7 @@ package7.com
 packages.clevergrit.com
 packconcern.com
 packetstorm.foofus.com
+packgeddhl.myddns.me
 packshotclippingpath.com
 pacolano.com.vn
 paconsults.com
@@ -47467,6 +47494,7 @@ pastebin.com/raw/M5ybFueL
 pastebin.com/raw/Q0E8fdwn
 pastebin.com/raw/Q8Tr0y9G
 pastebin.com/raw/T4kLHbMZ/
+pastebin.com/raw/TqNik0Yd
 pastebin.com/raw/TqTpj30L
 pastebin.com/raw/UDJxdggR
 pastebin.com/raw/VzFYiLW9
@@ -48346,6 +48374,7 @@ piyancell.com
 pizazzdesign.com
 pizza786edmonton.ca
 pizzabro.de
+pizzariajennifer.com.br
 pizzawelatvarennes.com
 pizzazz.ru
 pizzeriarondo.si
@@ -48679,6 +48708,7 @@ pontoacessoweb.com.br
 pontoduplo.com.br
 pontotocdistrictba.com
 pony.s-p-y.ml
+ponytales.nostalgicbookshelf.com
 poojasingh.me
 pool.ug
 poolheatingnsw.com.au
@@ -50510,6 +50540,7 @@ rcxmail.com
 rdabih.org
 rdbusiness.co.za
 rddadv.com.br
+rdgoc.in
 rdk.kz
 rdk.victoria-makeup.kz
 rdkavitha.com
@@ -53365,6 +53396,7 @@ serveitup.io
 server-cheatchard.ddns.net
 server-city.ga
 server.bludomain21.com
+server.bossthraed.com
 server.fundocasanueva.com
 server.hawzentr.com
 server.livehostingbd.com
@@ -55984,6 +56016,7 @@ steveb.co.za
 stevebrown.nl
 stevecommunication.ga
 stevehastings.de
+stevekucera.com
 steveleverson.com
 stevemacandsonsltd.co.uk
 stevemacias.com
@@ -59226,6 +59259,7 @@ thexda.com
 theyoga4life.com
 thezebra.biz
 thezinker.com
+thfed-quran-aljouf.com
 thiagoconcer.com.br
 thiagonacional.com.br
 thiametfrere.com
@@ -60725,6 +60759,7 @@ tzideas.com
 tzollo.de
 tzovzwit.yuhong.me
 tzsk.su
+u-ff.info
 u-kagawa.info
 u-mrk.ru
 u-plas.com
@@ -60781,6 +60816,7 @@ u3833268.ct.sendgrid.net
 u3968303.ct.sendgrid.net
 u4.udesignvn.com
 u4014942.ct.sendgrid.net
+u410471uf4.ha002.t.justns.ru
 u5.innerpeer.com
 u5643427.ct.sendgrid.net
 u5782050.ct.sendgrid.net
@@ -61895,6 +61931,7 @@ uydu.antalyaelektrikariza.net
 uyencometics.bmt.city
 uyf.com.ua
 uyijbmxxm8874337.gameofthrones05.site
+uytr5e.imtbreds.com
 uzbek.travel
 uzbekshop.uz
 uzeyirpeygamber.com
@@ -63403,6 +63440,7 @@ web55.s162.goserver.host
 web63.s150.goserver.host
 web6463.koxue.win
 web65.snake.kundenserver42.de
+web91.s139.goserver.host
 webahang.com
 webalanadi.com
 webap.synology.me
@@ -64354,6 +64392,7 @@ wrogot.online
 wrtech.com.pl
 wrzucacz.pl
 wschliemann.de
+wsdg.net
 wsdshipping.com
 wsec.polinema.ac.id
 wsethoe.top
