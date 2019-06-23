@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 23 Jun 2019 00:24:32 UTC
+! Updated: Sun, 23 Jun 2019 12:23:27 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -509,6 +509,7 @@
 104.248.78.126
 104.248.78.127
 104.248.82.194
+104.248.85.92
 104.248.86.182
 104.248.86.28
 104.248.88.250
@@ -1231,6 +1232,7 @@
 134.175.208.207
 134.175.229.110
 134.175.26.138
+134.19.188.24
 134.209.103.108
 134.209.103.134
 134.209.104.176
@@ -2581,6 +2583,7 @@
 167.160.177.16
 167.160.36.37
 167.179.119.235
+167.71.13.86
 167.71.4.20
 167.71.40.211
 167.86.117.95
@@ -3189,6 +3192,7 @@
 178.236.210.22
 178.32.67.9
 178.33.14.208
+178.33.14.211
 178.33.181.23
 178.33.208.161
 178.33.218.65
@@ -3834,6 +3838,7 @@
 185.244.25.241
 185.244.25.242
 185.244.25.246
+185.244.25.247
 185.244.25.248
 185.244.25.249
 185.244.25.253
@@ -4473,6 +4478,7 @@
 194.32.77.238
 194.32.78.151
 194.36.173.107
+194.36.173.109
 194.36.173.228
 194.36.173.3
 194.36.173.4
@@ -4583,6 +4589,7 @@
 198.12.97.68
 198.12.97.71
 198.12.97.73
+198.12.97.75
 198.12.97.78
 198.12.97.84
 198.12.97.85
@@ -4622,6 +4629,7 @@
 198.199.88.186
 198.199.89.220
 198.2.253.19
+198.211.100.211
 198.211.103.110
 198.211.105.44
 198.211.105.99
@@ -5124,6 +5132,7 @@
 206.189.17.155
 206.189.17.220
 206.189.170.237
+206.189.170.75
 206.189.172.75
 206.189.172.98
 206.189.174.196
@@ -5754,6 +5763,7 @@
 23.235.202.43
 23.236.76.61
 23.236.77.184
+23.238.187.198
 23.239.9.56
 23.243.91.180
 23.245.49.235
@@ -6727,6 +6737,7 @@
 45.79.67.151
 45.8.159.7
 45.80.148.117
+45.80.37.125
 45.88.78.34
 4570595.ru
 46.101.102.135
@@ -15397,6 +15408,7 @@ bioners.com
 bioneshan.ir
 bionic-club.com
 bionicbiomed.com
+bionixwallpaper.com
 bionova.ru
 bioresonancni-terapevti.si
 biorganic.cl
@@ -33444,6 +33456,7 @@ husaciehodyujanura.sk
 husadakarya.com
 husainrahim.com
 huseyintoz.com
+huseyinyucel.com.tr
 huskennemerland.nl
 huskfactory.co.kr
 huslerz.com
@@ -50073,6 +50086,7 @@ r414525xw.band
 r4sim.com
 r53x.com
 r5e4za.ch.files.1drv.com
+r9.valerana44.ru
 r9qweq19w1dq.com
 ra-design-bad.de
 ra-masters.ru
@@ -64980,6 +64994,8 @@ xn--e1agmcgagdko5byd.xn--p1ai
 xn--e1akcc3dxc.xn--p1ai
 xn--e1asabbgiee9g.xn--p1ai
 xn--elbiltilbrn-ogb.dk
+xn--elektrikergvle-gib.nu
+xn--elektrikerigvle-clb.nu
 xn--elevtj-fya.dk
 xn--fiqs8s1vdh24ati0a.com
 xn--forevertrkiye-3ob.com
