@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 26 Jun 2019 00:21:17 UTC
+! Updated: Wed, 26 Jun 2019 12:24:56 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -298,6 +298,7 @@
 104.168.204.23
 104.168.211.238
 104.168.248.22
+104.168.57.119
 104.168.66.156
 104.168.66.165
 104.168.7.43
@@ -355,6 +356,7 @@
 104.244.76.15
 104.244.76.190
 104.244.76.210
+104.244.76.73
 104.248.1.184
 104.248.10.33
 104.248.112.206
@@ -1430,6 +1432,7 @@
 138.197.166.197
 138.197.167.101
 138.197.169.57
+138.197.173.212
 138.197.173.233
 138.197.188.103
 138.197.192.94
@@ -1566,6 +1569,7 @@
 14.142.118.25
 14.157.15.44
 14.161.195.63
+14.161.4.53
 14.162.173.28
 14.164.211.26
 14.169.183.134
@@ -2140,6 +2144,7 @@
 158.140.161.152
 158.174.249.153
 158.255.5.83
+158.255.7.44
 158.69.103.149
 158.69.135.116
 158.69.151.187
@@ -2446,6 +2451,7 @@
 165.22.10.225
 165.22.108.47
 165.22.109.101
+165.22.12.64
 165.22.120.43
 165.22.121.173
 165.22.124.63
@@ -2569,6 +2575,7 @@
 165.227.36.38
 165.227.42.233
 165.227.44.216
+165.227.44.23
 165.227.47.196
 165.227.47.213
 165.227.49.241
@@ -3571,6 +3578,7 @@
 185.159.131.120
 185.159.131.4
 185.159.131.55
+185.159.80.85
 185.159.82.191
 185.162.10.225
 185.162.130.150
@@ -3865,6 +3873,7 @@
 185.244.25.249
 185.244.25.253
 185.244.25.75
+185.244.25.78
 185.244.25.81
 185.244.25.83
 185.244.25.85
@@ -4079,6 +4088,7 @@
 187.ip-54-36-162.eu
 188.119.120.135
 188.119.65.131
+188.120.224.219
 188.120.254.127
 188.125.58.64
 188.131.164.117
@@ -5101,6 +5111,7 @@
 205.185.125.109
 205.185.125.213
 205.185.125.244
+205.185.125.6
 205.185.126.154
 205.185.126.185
 205.185.126.201
@@ -7654,6 +7665,7 @@
 5elements-development.com
 5hbx.com
 5ibet365.com
+5imy.wang
 5minuteaccountingmakeover.com
 5sdhj.cf
 5startaxi.com.br
@@ -10203,6 +10215,7 @@ aedictiect.com
 aeffchens.de
 aefhpiaepgfiaeirod.ru
 aeg-engineering.co.th
+aeg.tmc.mybluehost.me
 aegee-izmir.com
 aeginc.co
 aegroup.co.uk
@@ -10298,6 +10311,7 @@ afjv-my.sharepoint.com
 afkar.today
 afmaldives.org
 afnoasjfn.net
+afokoadventure.com
 afonertox.com
 afordioretails.com
 aforttablecleaning.com
@@ -11048,6 +11062,7 @@ alfredsrobygg.se
 alftechhub.com
 alfurqanacademy.com
 alga.lt
+algadeed-com.ga
 algaealliance.com
 algaecompetition.com
 algaesalud.com
@@ -13727,6 +13742,7 @@ avuk.eu
 avukatnalanbener.com
 avvalves-com.ml
 avvnshoppingsmart.com
+awaisa.com
 awaken-hda.com
 awarenessnewsproject.com
 awas.ws
@@ -16511,6 +16527,7 @@ boompack.com
 boonsboromd.com
 boost-it.pt
 bootaly.com
+bootiky.com
 bootleggers66.com
 bootleghill.com
 bootsschule-ostsachsen.de
@@ -20767,6 +20784,7 @@ csci-oz.uk
 csckoilpulwama.tk
 cscm.zendesk.com
 csctw.com
+cscuniversal.com
 cscv.gob.ve
 csd-tat.org.ua
 csd190.com
@@ -21113,6 +21131,7 @@ daashing.com
 dabaghi.5gbfree.com
 dabcap.com
 dabelmarket.com
+dabigshop.com
 dabwalicity.tk
 dac-website.000webhostapp.com
 dachdeckermeister-kreuz.de
@@ -21993,6 +22012,7 @@ demo.shenook.nl
 demo.sshc.ir
 demo.supegift.com
 demo.technowin.in
+demo.techved.com
 demo.testlabz.com
 demo.topline.com.sa
 demo.trydaps.com
@@ -25085,6 +25105,7 @@ dropbox.com/s/q64ulp70zo7c8j6/New%20PO_output4065E50.doc.z?dl=1
 dropbox.com/s/qhd0ghzab053y6l/P.O%230009835.zip?dl=1
 dropbox.com/s/qk4ed4eyl1zwcz3/03062019.pdf.z
 dropbox.com/s/qk4ed4eyl1zwcz3/03062019.pdf.z?dl=1
+dropbox.com/s/qp6ihjcuebr9ci1/Scan%20_02020.xls.z?dl=1
 dropbox.com/s/r2h3rs6ckeko31h/hjx.dll?dl=1
 dropbox.com/s/r3re6p7mcs32f5y/PI.pdf.z?dl=1
 dropbox.com/s/r9idyqf6r2250xi/Payment_Notification.uue?dl=1
@@ -29149,6 +29170,7 @@ franchise-atom.ru
 franchise-city.ru
 franchisgate.ispdemos.com
 franchising.cnm.com.pt
+francini.dk
 francis-china.com
 franciscossc.pbworks.com
 francois-rommens.fr
@@ -34923,6 +34945,7 @@ internationalcon.com
 internationalcurrencypayments.com
 internationaldryerventcouncil.ca
 internationaldryerventcouncil.org
+internetcasinoweblog.com
 internetjogasz.hu
 internetlink.com.mx/wp/FILE/rpvni8o8ixy9gf19yk1j0sy6tixd_y4teg7cp-03364579593295/
 internetmarketing4pros.com
@@ -35405,6 +35428,7 @@ itechzone.ml
 itecs.mx
 itecwh.com.ng
 iteeman.com
+itefaq-ps.com
 itekscompany.com
 itelework.com
 itelligent.nl
@@ -35526,6 +35550,7 @@ iwantallthesmoke.club
 iwantmyflashtv.com
 iwantonlinewealth.com
 iwantoutsource.com
+iwantthisandthat2.com
 iwanttodrawapicforyou.com
 iwild.com
 iwilldrinkanybeer.com
@@ -42807,6 +42832,7 @@ mikrotik.rbs.sch.id
 mikrotips.com
 mikvpw.dm.files.1drv.com
 mikyaskitap.com
+milaco.tech
 milagro.com.co
 milakeinternationnal.com
 milan-light.savel.ru
@@ -44430,6 +44456,7 @@ myvien.info
 myviraltrends.com
 mywebexpert.in
 mywebnerd.com
+mywebsabcd.do.am
 mywebtrackrank.com
 mywedphoto.ru
 mywhiteboards.blogsale.net
@@ -47879,6 +47906,7 @@ pearlandcellphonerepair.com
 pearlivy.com
 pearllakshmi.com
 pearlosophyrosie.com
+pearlprofessionalmassage.co.nz
 pearlsmodels.com
 pearlyshells.pl
 pearlywhites.co.in
@@ -53225,6 +53253,7 @@ securedownload2.duckdns.org
 securedownloadspace.com
 securedpaymentsonline.com
 securefamily.in
+securefilesdatas35763.tk
 securesharedservices.com
 securestoragevault.com
 securevbs.com
@@ -55575,6 +55604,7 @@ spigpro.ru
 spikesys.com
 spin.mrimaging.com
 spina.pl
+spinagruop.com
 spindlecenter.com
 spinnersar.ru
 spinningreels.site
@@ -55716,6 +55746,7 @@ srathardforlife.com
 srbailey.com
 srbobbins.com
 srcdos.com
+srceramics.co.in
 srcitisvpi.com
 srconsultingsrv.com
 srda.co
@@ -61048,6 +61079,7 @@ uc2210b80e6433c26474acfe4f84.dl.dropboxusercontent.com/cd/0/get/Ab-NA4dFgVjE2I-9
 uc2570e1b13ec78ef802a7db44bf.dl.dropboxusercontent.com/cd/0/get/ATtEmMIl656ymskUmyUJf0Ca351VGvJ53trt5Wlfs4Dtpxvj8pJ31yI8A7kN8T63WsIXgLuiL93YFcwwvyRrE70oqCNLry51_4o3M9XZMKRq_i65GM8bFjgk29Mx6Sll9lkzG2BYAwi5PdDZmP2hCsY3PFAYOxcUpx2W8loJqBEy9nPi1R6N51EYWmzk8L-lDMw/file?dl=1
 uc263ce43fb3ee26c2bf0ebf52c4.dl.dropboxusercontent.com/cd/0/get/AVtFOz1KdprTSuMaF2wEFj5XEygciWW2qInxooo8nXHOv8hPUw879UCUZ3tmSTCzgmqhAoKN6rQbix2QxXArCX7drD9ZpecdMGB8FiddfPnogXs2x4SudiKyU3VoGWgx5FFSdVkPNhZecq4NoGhmptKyfIKouUojQdiNBIS3TkskZTBuUO_qxGYWzmypQH3EXAA/file?dl=1
 uc27544ad7a98965b50bc1b10fd6.dl.dropboxusercontent.com/cd/0/get/AbH5898bBvmeQiorLEWsczn3vGyHP7BzWkzDgtyPILg4mBWIAFY1OPpgVGL69eYAJZGGvOCE2P5HG18ll5FELcsjjJY2kMelTet7iLplHzyo8A/file?dl=1
+uc276c6cb6d7bc3cfdfaf2f7294c.dl.dropboxusercontent.com/cd/0/get/Ajhm0HS_TCfXJIOvNmVoxbP_Ed3CjBCAwHxxNkoWW5yL-L1kklgmPsLoRSYqmPEfPhDGsKoq3bzH2H58rWOr5Ga2YluyjqoslcAQK9G0nRGU8Q/file?dl=1#
 uc27c32d04323f5a3a22fcad2786.dl.dropboxusercontent.com/zip_by_token_key?dl=1&key=AUd96b_VT8bhpCgYpVg6aVlcsA07aLGzheNN18SNUV-9sq-mSNhGlxa1J9exLuscDnyvxB6hJZQZjfx7sA3OWOZq95VrwB4_fwQf9p5r1n_pWdvClndtbcrqQN6QTvYCwforCHHM3CzjRg-6RS4AReday0nZ_7AAfe0tfAFZ8h6HCDZZD6k2dAWOP25cpi-hysIkYrBgACHoSLj5OvsT91BQ0skcXHqGjYJbHnMSPEV8dh1HDATx1fzoS1sgqMBN25MrKieIbEjSdbJtTrpJCL2vsN3yRlbbWvMpeNlDRsVfzQ
 uc27fb001aaa9f0d81dbb89605bc.dl.dropboxusercontent.com/cd/0/get/AWmJ4sgUQODyqmZN1LPizVlrTXKte5Gmc84KoE7OKl-6AeUaHju7c8Fup7W4Hv7ioZT1irHB7su2_1mhdtCnQA2G2Vlj_y2UsUJX_vN6SU8fNTJr2mDnBzPTkLy8__spDs4qMs_rkjN3IGJSZrN44Y2DfPNrbxSw3Y8fxcgh4oHXHkR4Ou7tfRdqcgWcqFnNZXw/file?dl=1
 uc2898c6c4b59f02711e3084f3cd.dl.dropboxusercontent.com/cd/0/get/ASNj-jnJoxPEG2o1Oy6_xE86c1Mj5SrNKuGzP94XK8tFic0hx8PqpLDwnflnm53Sf_jouZFWb3Ofb4oSQgKQCxAS736NrYAHI8kB8Qi6EPjohUgpZZZ_fiPFnLF4_cMBJvN1S0KT8OEwFKlYi2gOmMAc9p8ZGc5eLxv9rNMccaxTP1re13hEb-B5aLEkGW2Lons/file?dl=1
@@ -62146,6 +62178,7 @@ vaguevague.com
 vaheracouncil.com
 vahokad.sk
 vaigacafe.com
+vaileather.com
 vaillantteknikservisibursa.com
 vailvalleycouponcodes.com
 vaisofasangphuc.vn
