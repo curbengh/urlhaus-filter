@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 27 Jun 2019 00:21:46 UTC
+! Updated: Thu, 27 Jun 2019 12:22:09 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -357,6 +357,7 @@
 104.244.76.190
 104.244.76.210
 104.244.76.73
+104.244.77.36
 104.248.1.184
 104.248.10.33
 104.248.112.206
@@ -1402,6 +1403,7 @@
 137.74.148.236
 137.74.151.42
 137.74.218.154
+137.74.218.155
 137.74.55.0
 137.74.55.6
 137choker.id
@@ -1554,6 +1556,7 @@
 139.59.69.41
 139.59.69.64
 139.59.7.201
+139.59.71.217
 139.59.74.176
 139.59.75.31
 139.59.78.79
@@ -1887,6 +1890,7 @@
 147.135.94.159
 147.135.98.79
 147.135.99.100
+147.135.99.107
 147.135.99.111
 147.135.99.155
 148.163.166.221
@@ -3872,6 +3876,7 @@
 185.244.25.248
 185.244.25.249
 185.244.25.253
+185.244.25.254
 185.244.25.75
 185.244.25.78
 185.244.25.81
@@ -3896,6 +3901,7 @@
 185.244.39.45
 185.244.39.47
 185.244.39.51
+185.244.39.61
 185.244.43.183
 185.245.96.247
 185.246.116.167
@@ -4368,6 +4374,7 @@
 191.96.249.27
 192.0.27.69
 192.144.136.174
+192.154.105.234
 192.155.85.122
 192.161.54.60
 192.162.244.196
@@ -4398,6 +4405,7 @@
 192.241.133.148
 192.241.135.229
 192.241.136.218
+192.241.142.242
 192.241.143.151
 192.241.145.236
 192.241.146.243
@@ -4535,6 +4543,7 @@
 194.5.99.87
 194.55.187.4
 194.58.106.244
+194.61.1.86
 194.63.143.226
 194.67.201.49
 194.67.202.196
@@ -4743,6 +4752,7 @@
 199.192.22.138
 199.192.22.207
 199.192.23.231
+199.192.29.182
 199.195.252.101
 199.195.252.210
 199.230.109.154
@@ -5161,6 +5171,7 @@
 206.189.132.42
 206.189.135.253
 206.189.138.82
+206.189.140.181
 206.189.143.206
 206.189.15.77
 206.189.154.46
@@ -5283,6 +5294,7 @@
 207.154.200.125
 207.154.207.113
 207.154.215.50
+207.154.216.46
 207.154.220.45
 207.154.223.104
 207.154.236.53
@@ -7406,6 +7418,7 @@
 51.68.214.116
 51.68.57.147
 51.68.70.88
+51.75.142.21
 51.75.156.134
 51.75.160.175
 51.75.161.114
@@ -17367,6 +17380,7 @@ c-terranova.com
 c-vietnam.es
 c-wallet.space
 c.doko.moe
+c.eeeeee.cz
 c.etheos.site
 c.pieshua.com
 c.top4top.net/p_1042v9c0c1.jpg
@@ -20727,6 +20741,7 @@ crypto-capitalization.com
 crypto-db.com
 crypto-exchange.pro
 crypto-exchange.tradetoolsfx.com
+crypto-money.vip
 crypto-strategy.ru
 crypto-wins.club
 crypto.flemart.ru
@@ -27801,6 +27816,7 @@ faktoryapi.com.tr
 falconna.com
 falconscooters.net
 faldesicure.org
+fallasa.it
 falmarondayz.com
 falmer.de
 falsekajouic.com
@@ -29435,6 +29451,8 @@ fst.gov.pk
 fstars.by
 fstd.com.tw
 fstvlguide.com
+fstyline.xyz/app/watchdog.exe
+fstyline.xyz/app/winboxls-0225-2.exe
 fsuiujosq.cf
 ftanom.cf
 fteola.cf
@@ -29535,6 +29553,7 @@ fundeppr.com.br
 fundileo.com
 fundiyideas.com
 fundmanagertalk.com
+fundoluyr.fund
 funerariaamadeus.com
 funerariadaprelada.pt
 funerariaduartegomes.pt
@@ -35405,6 +35424,7 @@ itconsortium.net
 itcoolingsolutions.com.au
 itcs-pohle.de
 itcshop.com.ng
+itechscaner.com
 itechsystem.es
 itechzone.ml
 itecs.mx
@@ -36525,6 +36545,7 @@ juliegodin.com
 juliemadison.com
 julien-lacroix.fr
 julienheon.com
+juliga.com.ve
 juliorivera.com.pe
 julnarcafe.com
 jumangiback.com
@@ -40250,6 +40271,7 @@ luzbarbosa.com.br
 luzconsulting.com.br
 lvajnczdy.cf
 lvksdy.cf
+lvr.samacomplus.com
 lw.mirkre.com
 lwkb.info
 lyashko.site
@@ -42226,6 +42248,7 @@ medicinaesteticaorlandini.it
 medicinageriatrica.com.br
 medicinaonline.rjsrwaco.watchdogdns.duckdns.org
 mediconline.md
+medicosempresa.com
 medicosespana.com
 medicspoint.pk
 medientechnik-schmidt.de
@@ -42762,6 +42785,7 @@ migoascoran.com
 migoshen.org
 migpoint.ru
 migrac.com
+migraconex.net
 migrationwest.com
 miguelangelmarin.net
 mihalych.com.ua
@@ -42786,6 +42810,7 @@ mikasushi-agadir.ma
 mike.trmbldigital.xyz
 mikebenjaminmusic.com
 mikeensign.cf
+mikejesse.top
 mikekirin.com
 mikeloayza.com
 mikemcgowandrivingschool.co.uk
@@ -44467,6 +44492,7 @@ n44.net
 n4leads.com
 n57u.com
 n6s5f.cn
+n82burdette62.top
 n9.valerana44.ru
 n98827cr.beget.tech
 na-alii.com
@@ -45471,6 +45497,7 @@ nivasi.in
 niveltopografia.com.br
 niveront.com
 nivs.westpointng.com
+nixtin.us
 nixw00xtr00x.duckdns.org
 nixware.cc
 nizansigorta.com
@@ -52228,6 +52255,7 @@ s317499260.onlinehome.fr
 s4science.com
 s547f5811ec52e58f.jimcontent.com
 s550mods.com
+s62mxcn.club
 s67651af0632b22be.jimcontent.com
 s723129608.onlinehome.fr
 s74641.smrtp.ru
@@ -61723,6 +61751,7 @@ update365office.com
 update6.satysservs.com
 updateadovesettings.io
 updateguru.xyz
+updateoffileshares.cf
 updater.inomiu.com
 updates.traksoftwaresolutions.com
 updates23.titanmc.eu
