@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 28 Jun 2019 00:21:49 UTC
+! Updated: Fri, 28 Jun 2019 12:21:18 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -473,6 +473,7 @@
 104.248.251.92
 104.248.252.114
 104.248.252.172
+104.248.254.214
 104.248.254.231
 104.248.28.11
 104.248.28.112
@@ -783,6 +784,7 @@
 114.116.107.252
 114.116.115.57
 114.116.171.195
+114.118.80.241
 114.198.172.18
 114.198.172.253
 114.199.158.30
@@ -1014,6 +1016,7 @@
 123.194.235.37
 123.195.112.125
 123.204.182.234
+123.207.143.211
 123.207.243.91
 123.207.52.98
 123.207.82.20
@@ -1434,6 +1437,7 @@
 138.197.163.56
 138.197.166.197
 138.197.167.101
+138.197.169.191
 138.197.169.57
 138.197.173.212
 138.197.173.233
@@ -2031,6 +2035,7 @@
 157.230.169.173
 157.230.169.189
 157.230.17.79
+157.230.170.42
 157.230.171.222
 157.230.173.105
 157.230.173.29
@@ -2614,6 +2619,7 @@
 167.71.0.66
 167.71.13.86
 167.71.4.20
+167.71.4.33
 167.71.40.211
 167.86.117.95
 167.86.70.149
@@ -3193,6 +3199,7 @@
 178.128.81.136
 178.128.87.154
 178.128.88.227
+178.128.91.234
 178.131.32.65
 178.131.61.0
 178.132.0.66
@@ -3269,6 +3276,7 @@
 178.62.27.235
 178.62.27.7
 178.62.28.7
+178.62.31.171
 178.62.32.28
 178.62.36.95
 178.62.40.216
@@ -4191,6 +4199,7 @@
 188.209.52.30
 188.209.52.63
 188.211.51.46
+188.212.102.131
 188.212.41.194
 188.213.170.114
 188.213.173.192
@@ -4505,6 +4514,7 @@
 194.147.34.126
 194.147.34.63
 194.147.34.79
+194.147.35.117
 194.147.35.118
 194.147.35.172
 194.147.35.186
@@ -4602,6 +4612,7 @@
 195.231.5.108
 195.231.5.18
 195.231.5.58
+195.231.5.87
 195.231.8.124
 195.231.9.122
 195.231.9.137
@@ -5931,6 +5942,7 @@
 24.220.240.17
 24.228.16.207
 24.240.17.112
+24.255.61.42
 24.30.17.198
 24.4.224.118
 24.43.143.218
@@ -6662,6 +6674,7 @@
 42.117.62.88
 42.119.44.109
 42.202.32.93
+42.51.194.10
 42.51.40.149
 42.60.165.105
 42.61.183.165
@@ -6686,6 +6699,7 @@
 43.242.75.151
 43.242.75.228
 43.242.75.67
+43.251.101.147
 43.255.105.234
 43.255.241.82
 430development.com
@@ -6699,6 +6713,7 @@
 45.119.210.135
 45.119.53.79
 45.119.83.57
+45.12.214.37
 45.124.113.44
 45.126.254.31
 45.127.97.4
@@ -6801,6 +6816,7 @@
 45.8.159.7
 45.80.148.117
 45.80.37.125
+45.80.39.242
 45.88.78.34
 4570595.ru
 46.101.102.135
@@ -9013,6 +9029,7 @@
 91.236.140.236
 91.238.117.163
 91.239.233.236
+91.240.84.190
 91.243.80.187
 91.243.80.197
 91.243.80.74
@@ -13523,6 +13540,7 @@ auto-pluss.ru
 auto-ruli.ru
 auto-service.pro
 auto-telecom.com
+auto.sprinter.by
 autoaddress4.com
 autobike.tw
 autobrest.by
@@ -13711,6 +13729,7 @@ avjcomp.ru
 avk1.ga
 avkbravo.com
 avlchemicals.com
+avlsigns.com
 avm.baynuri.net
 avmaroc.com
 avmiletisim.com
@@ -15141,6 +15160,7 @@ beta.brewproductions.com
 beta.chillitorun.pl
 beta.christineborgyoga.com
 beta.compspb.ru
+beta.fire-navi.jp
 beta.itelasoft.com.au
 beta.jawambeling.com
 beta.koalusala.lt
@@ -19014,6 +19034,7 @@ choviet.online
 chovietnhatjp.com
 chowdharydesign.com
 chowdownmarketing.com
+chrandinc.com
 chrconcept.com
 chrilee.com
 chris-craft-mahogany-fifties.se
@@ -27315,6 +27336,7 @@ eurofragance.com.ph
 eurofreight-eg.com
 eurofutura.com
 eurogestionleon.com
+eurogov.online
 eurogov.pw
 eurokarton.pl
 eurolinecars.ru
@@ -30112,6 +30134,7 @@ gdzie-kupie-leki-wczesnoporonne-sklep.com
 ge-11qaF9sd894gesfuger451k5sfuger1q574mdiz0s.ch
 ge.kreo.co.ke
 gearclothings.com
+gearmatics-my.sharepoint.com
 gearonic.com
 gearplace.com
 gearwent.win
@@ -31014,6 +31037,7 @@ gordyssensors.com
 gorenotoservisi.net
 gorglione.com
 gorguluyapi.com
+gorgunmakina.com
 gorillaconcretecoatings.com
 gorillatrekking.info
 gorinkan.org
@@ -35405,6 +35429,7 @@ isupport.gr
 isupportnaturalhealth.com
 isuzu-nkp.com
 iswebteam.net
+isys.fire-navi.jp
 iszuddinismail.com
 it-club.kg
 it-coman.de
@@ -42636,6 +42661,7 @@ mfevr.com
 mfgeorgia.ge
 mfgov.ml
 mfj222.co.za
+mfletch.top
 mfomjr.com
 mfotovideo.ro
 mfpvision.com
@@ -44568,6 +44594,7 @@ nafiyerdogan.com
 naft-dz.com
 nagajitu.net
 nagarnews24.com
+nagata-mitsuhiro.jp
 nagel-web.com
 nagiah.website
 nagilarocha.com.br
@@ -47197,6 +47224,7 @@ oving.banachwebdesign.nl
 ovs.igp.gob.pe
 ovstor.space
 ovtune.zendesk.com
+ovz1.j952574.pk7kn.vps.myjino.ru
 owa.wpmunetwork.com
 owczarnialefevre.com
 owedtogreed.com
@@ -47764,6 +47792,7 @@ patriciafurtado.pt
 patriciaknauer.de
 patriciatavares.pt
 patricioungaro.be
+patrickdhampton.com
 patrickedwardfallon.com
 patrickfranco.com
 patrickgokey.com
@@ -48111,6 +48140,7 @@ perruqueriacapdevila.cat
 perrymaintenance.com
 perrysignslondon.co.uk
 pers-int.ru
+persiangulfyachtclub.com
 persianlarousse.ir
 persianruggallery.com
 persiapanieltstoefl.com
@@ -49632,6 +49662,7 @@ proteger.at
 protemin.com
 proteos.villastanley.no
 protest-01242505.tk
+protest-01252505.ml
 protest-0126.ga
 protest-0624.tk
 protherm-ing.ru
@@ -51459,6 +51490,7 @@ rite-equipment.aboxercompany.com
 riteindia.org
 ritelteamindonesia.com
 riteshkafle2058.000webhostapp.com
+rithnow.pw
 ritikastonegallery.net
 ritikavasudev.com
 ritimasansor.com
@@ -55751,6 +55783,7 @@ springhillmontessori.com
 springhousecarehome.co.uk
 springsalphas.org
 sprinklage.be
+sprinter.by
 sprinty.com.au
 spritebug.com
 sprock.info
@@ -59707,6 +59740,7 @@ timekeeper.ug
 timelinetravel.co.za
 timelyent.com
 timenard.top
+timenotbesea.xyz
 timenow.pw
 timenowis1.top
 timeq.uz
@@ -61144,6 +61178,7 @@ uc2fae8f6bf12e7139c81a318b97.dl.dropboxusercontent.com/cd/0/get/ASMlcHkhJMjt8tEj
 uc2fb04f787e39564569dc2e7f65.dl.dropboxusercontent.com/cd/0/get/ARCu2GfKx5ozI-NWsU0EmhF3gBttEU6HX0Exf1ot7iIifYKej1x4TMBE0EGCfzqtkq8z_-LTynOAXbIQkorgzLycnG58pI-cMijsfR0OwUbJpr08XQqlkqitmavNiY8VDEpZOujt1UMaRQWqiaPOG1nOqXaI2jahuZPnSL1-8DXyefr3bA4IbNTqZmK5kh3EoQc/file?dl=1
 uc2fcae4176383841969e2a3093d.dl.dropboxusercontent.com/cd/0/get/AbcZ4k1uy0sKkDvjasGPvO0YyeZ-mMLLnbj0EsNcg7_ybXY4p_S4PoGxlk4zxWz6gCXI-s6DJipH1O6lSxpZBTW9jpC0JTZ81gvSgNPrp1GRuQ/file?dl=1
 uc30e04a0698cf382973108beccb.dl.dropboxusercontent.com/cd/0/get/AWGROPK3ujfk1i9zkIoo8DUVrAu0ethp9E8NTrd2iH3z0sST22iR7KImiLdrgR31f_ZSzoFqjEs4FiaP0YF81ob28vsGmTRQEn8mu-Nd9oUUZnqHo5708ZgtWVANBkc3E96OX4En6BT7Qt3ye4LfMlyTtIaom4vYcOc933RBmM0UyTZVryCcVhL6lIop2kcI3AQ/file?dl=1
+uc30f58650eb2ea1a2c95143188d.dl.dropboxusercontent.com/cd/0/get/Ajr0lfGktShwRfeEYgEI8Crc87NAkHyg5yH53Blx94AYzcrebvH1BPBsdO7ZS5ft25nh_4cPIfyTa68mlwvtLH1b_kCi3WdXl-KWqdD7bJoa7g/file?dl=1
 uc31cf4a42bfc2f584477d4f0663.dl.dropboxusercontent.com/cd/0/get/AdCGWfkXtk6UMOGnFbXsZZlcx-vTR-GzpZh5FWuWGRryYc6wP5zMurXPhL9bZ7_iHxBMhW1PqwfUUvNCdEkAmj1pwvZBUyUpyP4D1kVivAj4hQ/file?dl=1
 uc31df0fd2703089c6c9e7d98c7f.dl.dropboxusercontent.com/cd/0/get/ARA0Id6L34DBwY23aS3PIge_XHtQloARZfWndZCeTsLPwEfZaB3xbFzdbhW5CIP1f4J4Hrn_vc-K1_YXPV8q8Ruux1WZCwLgkMLSr_TLeubsGYVjTJ0Ltz_VaHswUP5YZiMBHIBi7VZN3GN5zJW_QBJseio3w_oM99Ii22rEliH-LVIR1bNPDmFXB319XceKNmE/file?dl=1
 uc327c1444af42829e9dcd2e2376.dl.dropboxusercontent.com/cd/0/get/AgfndhAZMwbHfBMPFDPTydPuF0COzbyXwQ6io3QkOTSrfXCEegJI6xv8eS2zF_nJ2Raa8K4pIyIMSTf6hhdKPX3OBk71a6J5zn8sFS_lBwefpA/file?dl=1
