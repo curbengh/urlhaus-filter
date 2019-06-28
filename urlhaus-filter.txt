@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 27 Jun 2019 12:22:09 UTC
+! Updated: Fri, 28 Jun 2019 00:21:49 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -911,6 +911,7 @@
 119.28.135.130
 119.28.21.47
 119.28.26.225
+119.28.69.49
 119.29.117.178
 119.3.2.156
 119.48.46.210
@@ -3598,6 +3599,7 @@
 185.163.47.134
 185.164.72.136
 185.164.72.213
+185.164.72.241
 185.169.52.72
 185.17.120.178
 185.17.120.235
@@ -6832,6 +6834,7 @@
 46.101.210.166
 46.101.210.172
 46.101.213.240
+46.101.213.49
 46.101.216.234
 46.101.218.87
 46.101.219.54
@@ -7418,6 +7421,7 @@
 51.68.214.116
 51.68.57.147
 51.68.70.88
+51.68.73.117
 51.75.142.21
 51.75.156.134
 51.75.160.175
@@ -7868,6 +7872,7 @@
 67.205.146.234
 67.205.146.54
 67.205.149.63
+67.205.150.125
 67.205.150.97
 67.205.152.117
 67.205.153.22
@@ -9000,9 +9005,11 @@
 91.218.115.54
 91.218.47.45
 91.219.28.33
+91.219.29.17
 91.227.17.32
 91.233.137.84
 91.234.27.27
+91.235.129.55
 91.236.140.236
 91.238.117.163
 91.239.233.236
@@ -13416,6 +13423,7 @@ audouinconseil.com
 audrey-benjamin.fr
 aufaazkia.com
 aufagroup.com
+aufkleberdruck24.com
 augsburg-auto.com
 auhealthcare.in
 aujardindevalentine.com
@@ -13490,7 +13498,7 @@ autelite.com
 auter.hu
 autexchemical.com
 autfaciam.com
-auth.to0ls.com
+auth.to0ls.com/l/sodd/udp
 authenticestate.online
 authenticfilmworks.com
 authenticinfluencer.com
@@ -13979,8 +13987,7 @@ babababy.ga
 babaiko.site
 babaldi.com
 babaloke.woundedwarriorscience.science
-babalublog.com/anatasio/PzmDp-HdzCluVtVxSdcM_TkwgWiLJc-qQ/
-babalublog.com/image/h5jo1ao23800/
+babalublog.com
 babaroadways.in
 babaunangdong.com
 babeltradcenter.ro
@@ -14901,12 +14908,7 @@ belvedereplantas.com.br
 belvilleorto.com
 belwearcollections.com
 belyaevo-room-nail.club
-belyi.ug/a.exe
-belyi.ug/eu.exe
-belyi.ug/t.exe
-belyi.ug/t2.exe
-belyi.ug/us.exe
-belyi.ug/us1.exe
+belyi.ug
 belznerdesign.de
 bem.fkep.unpad.ac.id
 bem.hukum.ub.ac.id
@@ -15539,7 +15541,7 @@ birlikholding.live
 birmetalciningezinotlari.com
 birminghamcentrehotels.com
 birminghampcc.com
-biroekon.sumutprov.go.id/Rechnung/012019/
+biroekon.sumutprov.go.id
 birongsaigon.com
 birounotarialdorohoi.ro
 birsenturizm.com
@@ -20202,7 +20204,7 @@ contagotasnew.tk
 contaresidencial.com
 conteetcomptine.com
 contemplativepsych.com
-content.freelancehunt.com/projectsnippet/d1ec2/7ebeb/111120/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80+%D0%BF%D1%80%D0%B0%D0%B9%D1%81%D0%B0.xls
+content.freelancehunt.com
 content24.pl
 contentprotectionsummit.com
 contents-marketing.ru
@@ -29161,6 +29163,7 @@ fractal.vn
 fractalcaravan.com
 fractaldreams.com
 fractaltecnologia.com.br
+frademetalurgica.pt
 fragancias.cl
 fraisedolfi.com
 frame25-dev.co.uk
@@ -29451,8 +29454,15 @@ fst.gov.pk
 fstars.by
 fstd.com.tw
 fstvlguide.com
+fstyline.xyz/app/app.exe
+fstyline.xyz/app/e7.exe
+fstyline.xyz/app/updateprofile-0321.exe
+fstyline.xyz/app/updateprofile-srv1-0520.exe
+fstyline.xyz/app/vc.exe
 fstyline.xyz/app/watchdog.exe
 fstyline.xyz/app/winboxls-0225-2.exe
+fstyline.xyz/app/winboxscan-2406.exe
+fstyline.xyz/tvgyasmev5gmk49l/lsa64install_in.exe
 fsuiujosq.cf
 ftanom.cf
 fteola.cf
@@ -30936,6 +30946,7 @@ goncalvesguindastes.com.br
 gondan.thinkaweb.com
 gonenyapi.com.tr
 gonnadiepodcast.com
+gonoesushi.com
 gonorthhalifax.com
 gonulyayincilik.com
 goo-s.mn
@@ -32039,6 +32050,7 @@ harishnautiyal.com
 harite-argan.onlyoneif.com
 hariux.lt
 harjuinvest.ee
+harjuvaara.eu
 harkav.com
 harlemrenaissancecentennial.org
 harleystreetcosmetic.com
@@ -32080,7 +32092,16 @@ hasandanalioglu.com
 hasanzeybek.com
 hasebiz.net
 haseebprinters.com
-hasekimuhendislik.com
+hasekimuhendislik.com/Jd1V
+hasekimuhendislik.com/Jd1V/
+hasekimuhendislik.com/default/En_us/Order/Order-43337660956/
+hasekimuhendislik.com/doc/En/OVERDUE-ACCOUNT/Invoice-08305721-072518/
+hasekimuhendislik.com/doc/En_us/Jul2018/tracking-number-and-invoice-of-your-order
+hasekimuhendislik.com/doc/En_us/Jul2018/tracking-number-and-invoice-of-your-order/
+hasekimuhendislik.com/files/En_us/Purchase/Invoice-257496/
+hasekimuhendislik.com/mBpoQi7O
+hasekimuhendislik.com/mBpoQi7O/
+hasekimuhendislik.com/xL
 haselburg.cz
 hashaszade.com
 hashem.co.id
@@ -33182,6 +33203,7 @@ hospizkreis-senden.de
 host.checkerbiz.com
 host.gomencom.website
 host.justin.ooo
+host.minekraft.club
 host.workskillsweb.net
 host1.easterncarryoutdc.com
 host1.eastsidecafegramercy.com
@@ -34144,6 +34166,7 @@ ikols.net
 ikomagaza.com
 ikonikov.lt
 ikonosdigital.com
+ikosoe.top
 ikotoman.com
 ikoym.top
 ikpaie.pl
@@ -34466,7 +34489,7 @@ india24x7.zeecdn.com
 india9am.com
 indiaautentica.es
 indiagolive.com
-indianagoods.club
+indianagoods.club/cl.exe
 indianblog.info
 indianceramicsourcing.com
 indiangirlsnude.com
@@ -35463,7 +35486,8 @@ itnotice.ir
 itnova.kr
 itoh-pat.com
 itopu.com
-itosm.com
+itosm.com/LimeSurvey/IRS-Tax-Transcipts-066/7
+itosm.com/LimeSurvey/IRS-Tax-Transcipts-066/7/
 itotemic.com
 itown.pl
 itp25.com
@@ -36279,6 +36303,7 @@ johnnobab.com
 johnnycrap.com
 johnnyjankovich.com
 johnnyshot.com
+johnpaff.com
 johnscevolaseo.com
 johnsonearth.com
 johnsonlam.com
@@ -43641,8 +43666,7 @@ mosbirdclub.ru
 mosbussum.nl
 moschee-wil.ch
 moscow.bulgakovmuseum.ru
-moscow00.online/GetDataAVK.exe
-moscow00.online/KeyMoscow00.35.exe
+moscow00.online
 moscow1.online/GetDataAVK.exe
 moscow1.online/KeyMoscow.exe
 moscow1.online/proxy/skapoland.chickenkiller.com.exe
@@ -44236,7 +44260,8 @@ my10apps.com
 my2b.online
 myabisib.ru
 myacademjourneys.com
-myaccount.dropsend.com
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids=14267487
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids[]=14267487
 myadmin.59north.com
 myafyanow.com
 myanmodamini.es
@@ -44276,7 +44301,7 @@ myd.su
 mydatawise.com
 mydesigncell.com
 mydevtech.com
-mydmc.co.id
+mydmc.co.id/ACH-FORM/DY-0649699068157/
 mydocumentpdf.com
 mydocuments.cc
 mydocuments1.is
@@ -44710,6 +44735,7 @@ natalieannsilva.com
 nataliezhiltsova.ru
 natalyasanarova.ru
 natboutique.com
+natchotuy.com
 natco-pharma.com
 nateane.fr
 natenstedt.nl
@@ -47050,7 +47076,7 @@ osttirol.news
 osttirolurlaub.at
 ostyle-shop.net
 osuhughgufijfi.ru
-osvehprint.com
+osvehprint.com/DOC/Invoice-number-541529/
 osvisa.com
 osvisacom
 osweb.shop
@@ -47820,6 +47846,7 @@ pbc.boyuberq.ru
 pbcenter.home.pl
 pbi.stkippersada.ac.id
 pbj.undiksha.ac.id
+pblnz-my.sharepoint.com
 pbrooms.co.uk
 pbsa-benin.org
 pbsi.stkippersada.ac.id
@@ -48588,8 +48615,7 @@ planetcourierservice.us
 planetefaune.com
 planetferguson.net
 planetkram.com
-planetnautique.com/2011210/qaUez-kD2_YE-ytd/
-planetnautique.com/2011210/vgaQZ-jWR_mfsc-VW/
+planetnautique.com
 planetpainter.ca
 planets.co.il
 planetsmit.com
@@ -48957,6 +48983,7 @@ portfolio.cbesquadrias.com.br
 portfoyyonet.club
 portfronts.com
 portla.mlcsoft.com
+portlandcreativestudio.com
 portlandelectric.co
 portlandmaintenance.com
 portnettrans.com
@@ -50165,6 +50192,7 @@ qwelaproducts.co.za
 qweoiqwndqw.net
 qwerkkc.ru
 qwerty-client.co.za
+qwerty123456.space
 qwertynet.hupeterbeckundpartner.cporsgrunn.folkbjnrwwww.watchdogdns.duckdns.org
 qwest-co.com
 qwiejasewqeeqw.com
@@ -50659,6 +50687,7 @@ rayongcom.com
 rayssajoias.com.br
 razemdlabiznesu.pl
 razmolana.ir
+razorcrypter.com
 razorse.in
 rb-graphic.com
 rbailoni.com.br
@@ -52844,7 +52873,8 @@ saturday-school.org
 satutitik.com
 satyam.cl
 satyammetals.com
-satysservs.com
+satysservs.com/setup6-156.exe
+satysservs.com/setup6-158.exe
 sauceismoney.com
 saudaveldemais.com
 saudenatural.ml
@@ -54413,7 +54443,10 @@ simrahsoftware.com
 simrans.sg
 simstal.kiwi
 simurgkusyuvasi.org
-sinacloud.net
+sinacloud.net/yun2016/Bwin732d.rar
+sinacloud.net/yun2016/GomLibrary.rar
+sinacloud.net/yun2016/PrsProt32.rar
+sinacloud.net/yun2016/pl25120.rar
 sinagogart.org
 sinakhoessentials.co.za
 sinaldigital.com
@@ -54692,6 +54725,7 @@ skygroup.company
 skygui.com
 skyhighscaffolding-my.sharepoint.com
 skyhouse.ir
+skyitpark.com
 skyleaders.com
 skylife.vn
 skylightacademy.co.in
@@ -54822,6 +54856,7 @@ smart-college.com
 smart-deco.ro
 smart-dentist.pp.ua
 smart-eg.com
+smart-fax.com
 smart-tech.pt
 smart-testsolutions.watchdogdns.duckdns.org
 smart-way.su
@@ -55257,6 +55292,7 @@ somalisuk.com
 somamradiator.com
 somanchainani.net
 somasteel.com
+somecars.xyz/wupvd.exe
 somelie.jp
 somerset.com.ar
 somersetcellars.com
@@ -56214,6 +56250,7 @@ stevensoncustombikes.com
 steventefft.com
 steventoddart.com
 stevenwilton.com
+steveoyer.com
 steveparker.co.uk
 stevesmarineservice.com
 steveterry.net
@@ -57237,6 +57274,7 @@ sub8.mambaddd4.ru
 sub9.lofradio5.ru
 sub9.mambaddd4.ru
 subbugroup.com
+subdata.cc
 subdomain.petstores.com
 subhantextile.com
 subhiksha.net
@@ -59965,6 +60003,7 @@ tonydong.com
 tonyhealy.co.za
 tonyleme.com.br
 tonypacheco.com
+tonyschopshop.com
 tonyslandscaping.net
 tonysmarineservice.co.uk
 tonyz.co.za
@@ -60512,6 +60551,7 @@ trinidad-scorpion.cz
 trinidadnorth.com
 trinitas.or.id
 trinitycollege.cl
+trinitycustom.com
 trinitydancematrix.com
 trinityempire.org
 trinityprosound.com
@@ -60970,6 +61010,7 @@ u0707115.cp.regruhosting.ru
 u0746219.cp.regruhosting.ru
 u1.huatu.com
 u1.innerpeer.com
+u1.xainjo.com
 u11123p7833.web0104.zxcs.nl
 u1141p8807.web0103.zxcs.nl
 u124988882.hostingerapp.com
@@ -61416,7 +61457,7 @@ uhost.club
 uhrc.co.uk
 uhttravel.com
 uhuii.com
-ui.threatstream.com
+ui.threatstream.com/detail/http://sixsigma-accreditation.org/wp-includes/id3/pik.zip
 uia2020rio.archi
 uicphipsi.com
 uidp.org
@@ -61748,7 +61789,7 @@ update.yalian1000.com
 update.yoprogramolatino.com
 update.zbs.su
 update365office.com
-update6.satysservs.com
+update6.satysservs.com/updateto165-1.dat
 updateadovesettings.io
 updateguru.xyz
 updateoffileshares.cf
@@ -63062,7 +63103,13 @@ vivinod1.xyz
 vivirdelabolsa.com
 vivo.ubfc.fr
 vivredeprinceintlschools.com
-viwma.org
+viwma.org/cli/FILE/W1gS3rMeZfXT/
+viwma.org/cli/INC/28SL3gaOVoW6/
+viwma.org/cli/OXBi-BJXNrQxB3okl7I_qGuumUUH-bP/
+viwma.org/cli/Scan/aosWntODCVSVOGVd/
+viwma.org/cli/TelRE-pbHMTM2oDMBt4R_tfdkppPIh-Say/
+viwma.org/cli/bikck8-zbjt57-ashpbfy/
+viwma.org/cli/tp45v-030n36g-prsrp/
 vizar.hr
 vizertv.xyz
 vizicsiga.hu
