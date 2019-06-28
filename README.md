@@ -44,6 +44,11 @@ This filter is only tested with uBO. [FilterLists](https://filterlists.com/) sho
 - [Samsung Knox](https://www.samsungknox.com/)
 - [uMatrix](https://github.com/gorhill/uMatrix)
 
+Possibly compatible mobile apps (not tested):
+
+- [AdGuard](https://adguard.com/)
+- [Blokada](https://github.com/blokadaorg/blokada/)
+
 Note that some of the software above are host-based only, meaning it cannot block malware URLs hosted by well-known domains (e.g. amazonaws.com, docs.google.com, dropbox.com). For best compatibility, use uBO or its fork NanoAdblocker.
 
 ## Issues
