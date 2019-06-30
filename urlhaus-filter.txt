@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 30 Jun 2019 00:21:53 UTC
+! Updated: Sun, 30 Jun 2019 12:21:35 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -505,6 +505,7 @@
 104.248.59.236
 104.248.6.196
 104.248.63.168
+104.248.64.77
 104.248.65.54
 104.248.66.228
 104.248.66.24
@@ -1295,6 +1296,7 @@
 134.209.182.141
 134.209.183.245
 134.209.185.46
+134.209.186.78
 134.209.187.231
 134.209.188.127
 134.209.19.159
@@ -1740,6 +1742,7 @@
 142.93.164.211
 142.93.164.242
 142.93.164.48
+142.93.166.205
 142.93.168.220
 142.93.168.40
 142.93.169.38
@@ -1894,6 +1897,7 @@
 147.135.121.113
 147.135.121.116
 147.135.121.119
+147.135.126.109
 147.135.23.229
 147.135.23.230
 147.135.76.202
@@ -1906,6 +1910,7 @@
 148.163.166.221
 148.243.84.12
 148.3.35.72
+148.70.119.17
 148.70.29.77
 148.70.57.37
 148.72.176.78
@@ -1916,6 +1921,7 @@
 149.28.165.182
 149.28.167.122
 149.28.200.17
+149.28.224.193
 149.28.23.170
 149.28.236.151
 149.28.237.74
@@ -2186,6 +2192,7 @@
 159.203.117.121
 159.203.12.154
 159.203.127.122
+159.203.15.13
 159.203.160.13
 159.203.162.105
 159.203.169.147
@@ -2429,6 +2436,7 @@
 162.243.164.86
 162.243.165.60
 162.243.167.76
+162.243.168.178
 162.243.171.159
 162.243.174.157
 162.243.23.45
@@ -2629,6 +2637,7 @@
 167.71.4.20
 167.71.4.33
 167.71.40.211
+167.71.68.6
 167.86.117.95
 167.86.70.149
 167.86.81.173
@@ -2738,6 +2747,7 @@
 167.99.73.213
 167.99.74.12
 167.99.74.67
+167.99.75.100
 167.99.76.234
 167.99.78.58
 167.99.8.181
@@ -3103,6 +3113,7 @@
 178.128.175.40
 178.128.177.162
 178.128.178.70
+178.128.18.65
 178.128.183.81
 178.128.185.89
 178.128.190.107
@@ -4752,6 +4763,7 @@
 198.98.56.196
 198.98.58.235
 198.98.59.109
+198.98.59.176
 198.98.59.57
 198.98.60.232
 198.98.61.169
@@ -23414,6 +23426,7 @@ dlawgist.com
 dld.jxwan.com
 dlink.info
 dlipovskiy.tmweb.ru
+dlist.iqilie.com
 dlkcreativemedia.com
 dlkpro.ru
 dll.xx-exch.top
@@ -27585,6 +27598,7 @@ exeter.ac.uk/country/US/IP-874-NIN5377/Exeter.ac/88974880_May_06_2019/
 exeter.ac.uk/country/US/TJ-527-X1967/Exeter.ac/4753947667_May_06_2019/
 exeterpremedia.com
 exhibitionislam.com
+exhilarinfo.com
 exictos.ligaempresarial.pt
 eximme.com
 exinusa.com
@@ -28156,6 +28170,7 @@ fdghfghdfghjhgjkgfgjh.ru
 fdrs-ltd.com
 fdsaaa.igg.biz
 fdsdfgdfgdf.ru
+fdsfddfgdfgdf.ru
 fdsfsga.ru
 feachyeah.me
 feamus.de
@@ -31029,6 +31044,7 @@ goodrestafh.com
 goodsherpherd.com
 goodsong.ru
 goodtogreat.co.th
+goodveiwhk.com
 goodwife.com
 goodwillhospital.org
 goodword.pro
@@ -36519,7 +36535,15 @@ jppost-ami.com
 jppost-amo.com
 jppost-amu.com
 jppost-ki.com
+jppost-me.top
+jppost-mi.top
+jppost-mo.top
+jppost-mu.top
+jppost-sa.top
+jppost-se.top
+jppost-si.top
 jppost-so.com
+jppost-su.top
 jppygfot.sha58.me
 jpqr.my
 jpro.jiwa-nala.org
@@ -65944,6 +65968,7 @@ zaoyinzhili.com
 zapchasti-hend-saratov.ru
 zapchasti-toyota-samara.ru
 zapmodulservice.ru
+zapqbg.ch.files.1drv.com
 zaputina.ru.com
 zarabianiegeorge.cba.pl
 zaragozamarketing.com
