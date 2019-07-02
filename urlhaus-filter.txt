@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 02 Jul 2019 00:21:22 UTC
+! Updated: Tue, 02 Jul 2019 12:21:31 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1241,6 +1241,7 @@
 132.255.253.64
 13207303642.aircq.com
 133.242.156.30
+133.32.201.14
 134.119.177.136
 134.175.189.57
 134.175.208.207
@@ -1289,6 +1290,7 @@
 134.209.17.180
 134.209.170.182
 134.209.170.31
+134.209.171.41
 134.209.172.118
 134.209.172.210
 134.209.176.63
@@ -2478,6 +2480,7 @@
 164.132.213.119
 164.41.28.71
 164.68.96.40
+164.68.96.43
 165.22.1.6
 165.22.10.119
 165.22.10.225
@@ -2501,9 +2504,11 @@
 165.22.141.213
 165.22.141.78
 165.22.142.89
+165.22.143.44
 165.22.144.100
 165.22.144.189
 165.22.145.177
+165.22.145.214
 165.22.146.190
 165.22.146.73
 165.22.147.14
@@ -2540,7 +2545,9 @@
 165.22.253.62
 165.22.253.89
 165.22.255.18
+165.22.31.170
 165.22.33.211
+165.22.46.131
 165.22.63.242
 165.22.65.215
 165.22.67.165
@@ -2562,12 +2569,14 @@
 165.22.8.164
 165.22.80.158
 165.22.80.225
+165.22.82.200
 165.22.82.94
 165.22.85.252
 165.22.86.188
 165.22.88.110
 165.22.9.108
 165.22.9.22
+165.22.91.3
 165.22.93.174
 165.22.95.149
 165.22.96.8
@@ -2641,6 +2650,7 @@
 167.71.0.66
 167.71.13.86
 167.71.160.213
+167.71.167.91
 167.71.4.20
 167.71.4.33
 167.71.40.211
@@ -4523,6 +4533,7 @@
 193.56.28.126
 193.56.28.14
 193.56.28.144
+193.56.28.44
 193.64.224.94
 193.70.110.230
 193.70.17.7
@@ -5221,6 +5232,7 @@
 206.189.138.82
 206.189.140.181
 206.189.143.206
+206.189.146.114
 206.189.15.77
 206.189.154.46
 206.189.157.235
@@ -5900,6 +5912,7 @@
 23.249.164.141
 23.249.166.156
 23.249.166.168
+23.249.167.147
 23.249.167.158
 23.249.173.202
 23.25.14.234
@@ -6567,6 +6580,7 @@
 37.48.92.134
 37.49.224.132
 37.49.225.230
+37.49.225.241
 37.49.225.78
 37.49.227.120
 37.49.227.176
@@ -6803,6 +6817,7 @@
 45.55.48.118
 45.55.51.21
 45.55.56.65
+45.56.123.247
 45.56.70.30
 45.58.121.138
 45.61.136.193
@@ -6927,6 +6942,7 @@
 46.101.80.191
 46.101.85.43
 46.101.95.252
+46.101.96.137
 46.101.97.80
 46.101.98.158
 46.105.100.36
@@ -6944,6 +6960,7 @@
 46.166.133.162
 46.166.133.165
 46.166.160.41
+46.166.185.161
 46.166.185.18
 46.166.185.42
 46.17.102.130
@@ -7671,6 +7688,7 @@
 58.218.66.246
 58.218.66.90
 58.218.66.91
+58.218.66.92
 58.218.66.93
 58.218.66.96
 58.218.66.97
@@ -7938,6 +7956,7 @@
 67.205.154.43
 67.205.155.185
 67.205.161.78
+67.205.173.10
 67.205.174.1
 67.205.174.72
 67.209.114.215
@@ -8241,6 +8260,7 @@
 77.111.134.188
 77.138.103.43
 77.139.74.206
+77.192.123.83
 77.211.231.132
 77.225.5.50
 77.227.211.169
@@ -8444,6 +8464,7 @@
 80.211.139.209
 80.211.142.26
 80.211.143.52
+80.211.143.98
 80.211.146.193
 80.211.148.109
 80.211.149.201
@@ -9335,6 +9356,7 @@
 95.214.113.14
 95.214.113.210
 95.214.113.221
+95.215.207.24
 95.216.189.14
 95.224.96.154
 95.235.152.140
@@ -13119,6 +13141,7 @@ asifabih.com
 asifapparels.com
 asiffidatanoli.com
 asiltorna.com
+asiluxury.com
 asinfotech.net
 asint.info
 asis.co.th
@@ -15846,6 +15869,7 @@ bizertanet.tn
 bizi-ss.com
 bizilocator.com
 bizimbag.com
+bizimedebiyatimiz.com
 bizindia.co
 bizinmontana.com
 bizjournalsnet.com
@@ -18569,6 +18593,7 @@ celulitanet.ru
 celulitisnuncamascuranatural.com
 celumania.cl
 cem-ozen.com
+cembritbold.pl
 cemstriad.com
 cemul.com.br
 cenedra.com
@@ -29955,6 +29980,7 @@ gallery.mailchimp.com/636424da6373c85037927aefb/files/4128039f-22a4-42e5-8517-e5
 gallery.mailchimp.com/8fda4e1d3758c37f74f3de96d/files/inv0ice_0019936.rar
 gallery.mailchimp.com/aaa64bc58b11b6d3f2ddcf83d/files/3f7a95f4-57aa-499a-a33e-56429a0fecdc/4990039999.zip
 gallery.mailchimp.com/e5e323f8390ddd27a48e175ca/files/Factura_Crezcamos.zip
+gallery.mailchimp.com/eef54b2e459b78517f978e5ca/files/0273220e-19bb-4c57-a547-0f580ff69398/83928029_29_22.zip
 gallery99.in
 gallerygraphics.com
 gallifreyone.org
@@ -31744,6 +31770,7 @@ gularte.com.br
 gulfclouds.site
 gulfcoastcurbappeal.net
 gulfexpresshome.co
+gulfselite.idmedia-me.com
 gulfsys.com
 gulfup.me/i/00692/7zfq13mt2omf.jpg
 gulfup.me/i/00708/q863bsopn7mz.jpeg
@@ -38181,6 +38208,7 @@ kosarhaber.xyz
 kosarhospital.com
 kosary.net
 kosats.com
+koschudu.homepage.t-online.de
 kose.online
 kosel.com.tr
 kosh.ir
@@ -40543,6 +40571,7 @@ m-tensou.net
 m-yoshikazu.com
 m.4english.cn
 m.az.edu.vn
+m.berel.com.mx
 m.bhardwajfilms.com
 m.fisier.ro
 m.guobincn.com
@@ -40649,6 +40678,7 @@ madangfood.com
 madarings.com
 madarpoligrafia.pl
 madartracking.com
+madasi.homepage.t-online.de
 madbiker.com.au
 madcrewbrewery.com
 maddiemayphoto.com
@@ -43432,6 +43462,7 @@ mlkaunas.lt
 mlmg.sensyu.org
 mlmsk.ru
 mlmsoftware.asia
+mlpcollection.com
 mlplast.tn
 mlsboard.org.nz
 mlsnakoza.com
@@ -50621,6 +50652,7 @@ rain.djnwelding.com
 rainbow-logistic.com
 rainbowrealty.com
 rainbowruiruresort.com
+rainbowtrade.net
 rainbushop.com
 raincitypets.com
 rainerfootcarenursing.com
@@ -51557,6 +51589,7 @@ rgbsrl.com.ar
 rgclimatizacion.com
 rgdecor.org
 rgfloors.com.au
+rgho.st/download/6nNmWRj65/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/Fornite%20Hack%202018.exe
 rgmobilegossip.com
 rgrosser.com
 rgrservicos.com.br
@@ -58068,6 +58101,7 @@ sys04.icu
 syscomopen.it
 sysconmyanmar.com
 syscore.duckdns.org
+syselg.com
 sysinfra.in
 sysmans.com
 system-standex.co.uk
@@ -64956,6 +64990,8 @@ x-soft.tomsk.ru
 x-soft.tomskru
 x-tel.com
 x-trade.com.pl
+x-x-team.weebly.com/uploads/7/8/4/0/78404562/tedata.exe
+x-x-team.weebly.com/uploads/7/8/4/0/78404562/windowsapplication1.exe
 x.jmxded153.net
 x.jmxded184.net
 x.kuai-go.com
@@ -65445,6 +65481,7 @@ xpertosevents.com
 xperttees.com
 xpgeeks.com
 xpllogistics.com
+xploidderwahre1337.herokuapp.com
 xploramerica.com
 xplorar.com.br
 xploresydney.com
@@ -66125,6 +66162,7 @@ zedrevo.com
 zeelearn.co
 zeeppro.com
 zeeshanmahmood.com
+zeetechbusiness.com
 zefat.nl
 zefproduction.com
 zeilbeck-metallbau.de
