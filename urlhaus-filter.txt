@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 03 Jul 2019 00:21:13 UTC
+! Updated: Wed, 03 Jul 2019 12:30:34 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1085,6 +1085,7 @@
 128.199.175.181
 128.199.180.55
 128.199.187.124
+128.199.193.38
 128.199.196.89
 128.199.197.79
 128.199.199.47
@@ -1344,6 +1345,7 @@
 134.209.246.63
 134.209.25.91
 134.209.250.249
+134.209.250.72
 134.209.252.188
 134.209.254.222
 134.209.255.213
@@ -1568,6 +1570,7 @@
 139.59.64.173
 139.59.64.198
 139.59.65.89
+139.59.69.192
 139.59.69.41
 139.59.69.64
 139.59.7.201
@@ -1663,6 +1666,7 @@
 142.11.206.115
 142.11.206.184
 142.11.210.100
+142.11.211.114
 142.11.212.167
 142.11.212.47
 142.11.213.139
@@ -2596,6 +2600,7 @@
 165.227.125.239
 165.227.13.33
 165.227.140.241
+165.227.151.179
 165.227.156.174
 165.227.16.140
 165.227.161.153
@@ -2652,6 +2657,7 @@
 167.71.13.86
 167.71.160.213
 167.71.167.91
+167.71.2.125
 167.71.4.20
 167.71.4.33
 167.71.40.211
@@ -4187,6 +4193,7 @@
 188.166.151.206
 188.166.158.242
 188.166.161.57
+188.166.162.7
 188.166.164.225
 188.166.165.173
 188.166.166.0
@@ -4888,6 +4895,7 @@
 1stgroupco.mn
 1stniag.com
 1stopservice.com.my
+1stpubs.com
 1tradezone.com
 1vex.cn
 1webdesign.com.au
@@ -5362,6 +5370,7 @@
 207.154.216.46
 207.154.220.45
 207.154.223.104
+207.154.232.205
 207.154.234.220
 207.154.236.53
 207.154.241.24
@@ -5417,6 +5426,7 @@
 209.141.40.86
 209.141.41.188
 209.141.41.227
+209.141.41.58
 209.141.42.145
 209.141.42.3
 209.141.43.15
@@ -6674,6 +6684,7 @@
 3ne.danang.today
 3ntech.com
 3pabook.com
+3ppuubb.com
 3rdperson.ml
 3rdsectorsupportafrica.org
 3rytghjhkss.cf
@@ -7492,6 +7503,7 @@
 51.38.186.179
 51.38.250.186
 51.38.48.26
+51.38.71.70
 51.38.83.33
 51.38.99.208
 51.68.120.61
@@ -13003,6 +13015,7 @@ artvaleri.ru
 artvest.org
 artvilla.pt
 artvisionkorbee.nl
+artweekportland.com
 artwellness.net
 artwhore.com
 artwithheart.com.au
@@ -16849,6 +16862,7 @@ brandimpressions.co.zw
 brandin.nu
 brandingcomercioweb.com
 brandl-transporte.at
+brandmarkfranchising.co.uk
 brandonhornteam.com
 brandonnewman.com
 brandpartners.cometracingleathers.com
@@ -18195,6 +18209,7 @@ cathome.org.tw
 cathomeorg.tw
 cathrinekarlsson.dk
 cathwaylinksexpress.com
+catinwebxhostpremier.com
 catiuzmani.com
 catk.hbca.org.cn
 catmood.com
@@ -20347,6 +20362,7 @@ contraclick.com
 contratarskyaqui.com.br
 contrerasabogados.mx
 controldeplagasformentera.com
+controlexaspirer.com
 controlpro.hu
 controlworksau-my.sharepoint.com
 contsync.com
@@ -21935,6 +21951,7 @@ decristo.org
 decruter.com
 dectec.flu.cc
 dedesulaeman.com
+dedetizadoraprimos.com.br
 dedinfissi.pe.it
 dedonn.com
 deeconsortiumofindia.com
@@ -22576,6 +22593,7 @@ devlin.sharingbareng.com
 devlinux.gs2e.ci
 devondale.com.cn
 devonrails.com
+devorigeweek.nl
 devoyage.co
 devpro.ro
 devsitemile.xyz
@@ -22589,6 +22607,7 @@ dewirasute.com
 dewirejeki.com
 dexa.it
 dexado.com
+dexiagroups.com
 dextermack.com
 dextraderspost.com
 deytona.de
@@ -31604,6 +31623,7 @@ grr.wood.ba
 grscert.com
 grt.website
 gruen-mobil.de
+gruenbaum.com.br
 grueslayers.eu
 grulacdc.org
 grumpycassowary.com
@@ -31873,6 +31893,7 @@ gy.nuecesbend.com
 gyanenglishacademy.com
 gyanmahal.com
 gyapomcare.com
+gym-leips.dod.sch.gr
 gym.marvin.tech
 gymbolaget.se
 gymfa.ir
@@ -38057,6 +38078,7 @@ kohlmaier.de
 kohnrath.com
 koibhidoma.com
 koinasd.icu
+koirado.com
 koiujhnsd.co.kr
 kokenmetfilip.be
 koketki.org
@@ -43273,6 +43295,7 @@ mirakgroup.co.uk
 mirannexbrand.ru
 miranom.ru
 mirarredo.it
+mirastor.icu
 miratalk.com
 mirattrakcionov.kz
 mireiatorrent.com
@@ -43727,6 +43750,7 @@ monetarypyramid.org
 monetize.bid
 money-makers-uk.com
 money360.brightoak.com
+moneybanda.info
 moneybuy423.ru
 moneybuy428.ru
 moneybuy612.ru
@@ -50085,6 +50109,7 @@ pulsedeals.com
 pulsefret.com
 pulsejobs.net
 pulseman.ru
+pulsemarkets-my.sharepoint.com
 pulxar-holdings.com
 pumadevelopments.com
 punambeauty.com
@@ -59688,6 +59713,7 @@ thetreemovie.com
 thetrendgift.com
 thetruepro.com
 thetshirtblog.com
+thetutulacoolnop.com
 thetwistedoakny.net
 theubergroups.com
 theunstoppablesummit.com
@@ -64040,6 +64066,7 @@ wefun.com.br
 weg-aus-dem-hamsterrad.de
 wegaarts.org
 wegatamata.com
+wegaus-my.sharepoint.com
 wegdamnieuws-archief.nl
 wegeler.net
 wegetthelintout.ca
