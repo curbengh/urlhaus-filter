@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 04 Jul 2019 00:21:14 UTC
+! Updated: Thu, 04 Jul 2019 12:21:42 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -284,6 +284,7 @@
 104.168.147.88
 104.168.149.180
 104.168.149.5
+104.168.151.135
 104.168.151.198
 104.168.157.45
 104.168.158.148
@@ -425,6 +426,7 @@
 104.248.187.115
 104.248.188.154
 104.248.19.124
+104.248.190.13
 104.248.190.240
 104.248.191.192
 104.248.191.31
@@ -1081,6 +1083,7 @@
 128.199.145.47
 128.199.150.47
 128.199.159.152
+128.199.168.174
 128.199.172.4
 128.199.175.181
 128.199.180.55
@@ -1436,6 +1439,7 @@
 138.197.145.45
 138.197.149.130
 138.197.150.229
+138.197.151.84
 138.197.153.211
 138.197.155.105
 138.197.155.11
@@ -1730,6 +1734,7 @@
 142.93.139.131
 142.93.139.163
 142.93.142.133
+142.93.142.30
 142.93.144.159
 142.93.145.217
 142.93.147.206
@@ -1738,6 +1743,7 @@
 142.93.15.109
 142.93.152.247
 142.93.152.64
+142.93.153.138
 142.93.153.19
 142.93.155.29
 142.93.155.71
@@ -1849,6 +1855,7 @@
 142.93.6.41
 142.93.61.50
 142.93.63.144
+142.93.64.50
 142.93.65.143
 142.93.67.223
 142.93.67.27
@@ -1927,6 +1934,7 @@
 149.154.68.154
 149.202.159.182
 149.255.36.197
+149.255.36.249
 149.28.123.77
 149.28.165.182
 149.28.167.122
@@ -2459,6 +2467,7 @@
 162.244.32.180
 162.244.32.192
 162.244.32.37
+162.250.126.36
 163.172.133.10
 163.172.144.82
 163.172.147.222
@@ -2868,6 +2877,7 @@
 172.104.242.131
 172.104.40.92
 172.105.0.242
+172.105.15.189
 172.106.170.85
 172.106.170.89
 172.106.32.205
@@ -6325,6 +6335,7 @@
 34.65.253.224
 34.65.7.198
 34.66.77.25
+34.68.116.148
 34.73.163.194
 34.73.197.36
 34.73.239.134
@@ -6387,6 +6398,7 @@
 35.201.205.51
 35.201.217.150
 35.201.228.154
+35.201.239.208
 35.202.17.56
 35.202.19.221
 35.202.216.83
@@ -6945,6 +6957,7 @@
 46.101.247.57
 46.101.249.8
 46.101.250.158
+46.101.252.221
 46.101.35.220
 46.101.36.79
 46.101.38.131
@@ -7904,6 +7917,7 @@
 64.44.51.86
 64.44.51.87
 64.44.51.89
+64.52.23.27
 64.62.250.41
 64.69.83.43
 64.74.98.177
@@ -7917,6 +7931,7 @@
 66-gifts.com
 66.117.2.182
 66.117.6.174
+66.154.103.133
 66.154.71.9
 66.172.10.124
 66.172.11.120
@@ -7981,6 +7996,8 @@
 67.205.173.10
 67.205.174.1
 67.205.174.72
+67.205.177.84
+67.205.183.251
 67.209.114.215
 67.21.68.148
 67.21.81.79
@@ -8031,6 +8048,7 @@
 68.183.143.85
 68.183.145.246
 68.183.149.244
+68.183.149.26
 68.183.149.34
 68.183.150.89
 68.183.153.77
@@ -9637,6 +9655,7 @@ aapnnihotel.in
 aapr.org.au
 aardvark-world.org.uk
 aarifhospitals.com
+aarsen.us
 aartinc.net
 aartista.com.br
 aaryanlab.com
@@ -14762,6 +14781,7 @@ bckm.sk
 bcn-pool.us
 bcool.ir
 bcp-industry.be
+bcrav.com
 bcreative.expert
 bcrua.com
 bcsautomocio.com
@@ -16857,6 +16877,7 @@ bramptonpharmacy.ca
 brams.dothome.co.kr
 brancerner.info
 brandable.com.au
+brandagencyportland.com
 brandbuilderglobal.com
 brandcity.by
 brandconscience.in
@@ -19233,6 +19254,7 @@ chungelliott.com
 chungfa.com.tw
 chungfamily.us
 chungkhoannews.com
+chunkybeats.com
 church.icu
 church228.com
 churchfirstfoundation.org
@@ -24308,6 +24330,7 @@ doordroppers.co.uk
 doordu.com
 doorlife.co.in
 doorspro.ie
+doosian.com
 doostankhodro.com
 dophuot.net
 dopita.com
@@ -24403,6 +24426,7 @@ down.ecepmotor.com
 down.ecubefile.com
 down.eebbk.net
 down.haote.com
+down.hognoob.se
 down.icafe8.com
 down.klldddiso.xyz
 down.kuwo.cn
@@ -25346,6 +25370,7 @@ dropbox.com/s/wijfepnx6e93c99/payment.iso?dl=1
 dropbox.com/s/wjrkf7bv2wrtpxu/swift%20copy_output3BCB600.exe?dl=1
 dropbox.com/s/wny4m7azg3c012u/2018-1411_Documents00117663814426.pdf.z?dl=1
 dropbox.com/s/wp96nte8ljcraqc/bulgt.zip?dl=1
+dropbox.com/s/ww9s4q5ks6mps3c/?dl=1
 dropbox.com/s/wwdscomdfwk4cuo/WE5BMQP-Relatorios-1206001536.zip?dl=1
 dropbox.com/s/x2frwu3q7i91qof/Scan_Memo_20180806_pdf.zip?dl=1
 dropbox.com/s/x5hh3n6tsr415d2/Purchase%20Order%20%23no.009754698.ace?dl=1
@@ -28239,6 +28264,8 @@ favoritbt.t-online.hu
 favorite-sport.by
 favoritesss.fun
 favouritefashionhub.com
+fax31.s3.amazonaws.com/FAX-RELAYEMAIL.exe
+fax31.s3.amazonaws.com/FAX-UPDATEDEMAIL.exe
 fax31.s3.amazonaws.com/UpdateFax-Email.exe
 fax31.s3.amazonaws.com/crpxmmmmlnk.exe
 fax31.s3.amazonaws.com/out-26564817.hta
@@ -32383,6 +32410,7 @@ haz-art.net
 hazama.nu
 hazeldean.co.zajcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 hazmeeldia.mx
+hbartonkwiey.xyz
 hbhcqa.com
 hbirkins.com
 hbk-phonet.eu
@@ -33497,6 +33525,7 @@ hostnamepxssy.club
 hostnana.com
 hostpp.gq
 hostpp.ml
+hostpp2.ga
 hostpp2.tk
 hostprodirect.com
 hostrooz.com
@@ -39621,6 +39650,7 @@ light-estate.co.jp
 light-tree.com
 light.brwrqweo.uk
 light.cocomet-china.com
+light.forumbtt.pt
 light.horizonwebhost.com
 light.light1234565.5gbfree.com
 light.nevisconsultants.com
@@ -46711,6 +46741,7 @@ oluyaski.club
 olxmobiles.pk
 olyfkloof.co.za
 olympiancruises.com
+olympicvillas.ca
 olymposarmy.com
 olympusenterprise.com
 olympusmotel.com.br
@@ -47391,6 +47422,7 @@ ottawaminorhockey.com
 otterloo.nl
 ottimade.com
 ottokunefe.com
+ottowayengineeringptyltd-my.sharepoint.com
 otumfuocharityfoundation.org
 otvindia.com
 ouagwfuoegfugfgedr.ru
@@ -54352,6 +54384,7 @@ shivamfilms.com
 shivangdesigning.com
 shiversfund.com
 shivibe.com
+shivkripaauto.com
 shivmotor.com
 shivodhayaayurvedaclinic.in
 shizuoka.ssvf.mbsrv.jp
@@ -55808,6 +55841,7 @@ spacermedia.com
 spacesolutions.com.cy
 spacodelivery.zeemrenton.net
 spadesdesign.ca
+spadnb.com
 spainequity.com
 spalatoriehotel.ro
 spanaturalgutty.com
@@ -56306,6 +56340,7 @@ starindustrialholding.com
 stariran.com
 stark.co.th
 starke-bello.de
+starkeyhearingtechnologies-my.sharepoint.com
 starkov115.cz
 starlight.cocobay.vn
 starline.com.co
@@ -62043,6 +62078,7 @@ uolli.it
 uommamnhancach.edu.vn
 uopilot.uokit.com
 up-loads.ml
+up-z.com.ua
 up.dev-point.com
 up.ksbao.com
 up.qatarw.com
@@ -65201,6 +65237,7 @@ xlds.de
 xls.dickrida.com
 xlulu.com
 xlv.f3322.net
+xmagnoliarhoda.top
 xmedia1124.ddns.net
 xmfreede.com
 xml.vn
