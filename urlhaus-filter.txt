@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 06 Jul 2019 00:22:37 UTC
+! Updated: Sat, 06 Jul 2019 12:21:55 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -610,6 +610,7 @@
 107.178.221.225
 107.179.34.49
 107.179.85.30
+107.181.160.197
 107.182.225.125
 107.189.187.12
 107.190.143.122
@@ -1406,6 +1407,7 @@
 134.209.87.64
 134.209.88.23
 134.209.9.118
+134.209.9.183
 134.209.93.190
 134.209.95.171
 134.209.96.62
@@ -1447,12 +1449,14 @@
 138.197.155.105
 138.197.155.11
 138.197.155.241
+138.197.157.165
 138.197.159.87
 138.197.161.220
 138.197.162.98
 138.197.163.165
 138.197.163.56
 138.197.166.197
+138.197.166.80
 138.197.167.101
 138.197.169.191
 138.197.169.57
@@ -2360,6 +2364,7 @@
 159.65.86.177
 159.65.87.52
 159.65.88.104
+159.65.88.140
 159.65.91.172
 159.65.92.43
 159.65.95.55
@@ -2587,6 +2592,7 @@
 165.22.75.186
 165.22.79.153
 165.22.79.16
+165.22.79.179
 165.22.8.164
 165.22.80.158
 165.22.80.225
@@ -2958,6 +2964,7 @@
 174.138.1.149
 174.138.1.225
 174.138.1.85
+174.138.11.162
 174.138.11.57
 174.138.112.192
 174.138.12.80
@@ -3261,8 +3268,10 @@
 178.128.7.115
 178.128.7.177
 178.128.7.76
+178.128.73.5
 178.128.75.37
 178.128.76.186
+178.128.77.133
 178.128.78.235
 178.128.79.94
 178.128.81.123
@@ -3339,6 +3348,7 @@
 178.62.238.209
 178.62.24.104
 178.62.243.26
+178.62.249.114
 178.62.250.233
 178.62.253.64
 178.62.27.133
@@ -3426,6 +3436,7 @@
 18.179.213.128
 18.184.158.108
 18.184.16.5
+18.185.101.30
 18.188.113.212
 18.188.117.134
 18.188.218.228
@@ -6273,6 +6284,7 @@
 31.184.233.109
 31.187.80.46
 31.192.106.240
+31.192.106.250
 31.192.111.253
 31.207.35.116
 31.208.195.121
@@ -7707,6 +7719,7 @@
 54.38.59.5
 54.38.79.86
 54.39.151.1
+54.39.167.102
 54.39.175.169
 54.39.190.154
 54.39.239.17
@@ -9321,6 +9334,7 @@
 94.103.95.185
 94.130.200.99
 94.130.215.131
+94.140.125.34
 94.140.244.229
 94.142.141.51
 94.154.17.170
@@ -13286,6 +13300,7 @@ aspireqa.com
 aspirevisions.com
 aspiringfilms.com
 aspmailcenter2.com
+asq.r77vh0.pw
 asr.com.ua
 asreklam.az
 asresaat.com
@@ -15200,6 +15215,7 @@ berlitzbanjaluka.com
 bermad.com.cn
 bermudaspirit.com
 bernard-wonka.kevin-jolbert.fr
+bernardciffreo.com
 bernardesdias.com.br
 bernardlawgroup.com
 bernardoalamos.com
@@ -17586,6 +17602,7 @@ c.top4top.net/p_1055q1ssb1.jpg
 c.top4top.net/p_6534e8r81.jpg
 c.top4top.net/p_897ao4tp1.jpg
 c.vivi.casa
+c.vollar.ga
 c0.zhehen.com
 c1k-fin.world
 c2.c2management.se
@@ -27920,6 +27937,7 @@ eyeoftheking.com
 eyeseepotential.com
 eyeslide.de
 eyestopper.ru
+eyestoryside.com
 eyetoeyepr.com
 eyh.org.tr
 eylemansch.nl
@@ -33917,6 +33935,7 @@ hutedredea.com
 hutogepszerviz.info
 huurwoningdirect.nl
 huuthomobile.com
+huvudstadsguiden.eu
 huyhoanggia.vn
 huyhoof.com
 huyushop.com
@@ -38994,6 +39013,7 @@ landroveroflouisville.com
 landscapeton.com
 landscapingstoneandmulchwi.com
 landschaftsservice-seibold.de
+landskronaloppis.se
 landskronamatguide.se
 landskronaportalen.se
 landspa.ir
@@ -51518,6 +51538,7 @@ remstroivspb.ru
 remstroydetal.ru
 remyshair.com
 rename.kz
+renanviegas.com.br
 renappro.com
 renataaraujocerimonial.com.br
 renatabove.com.br
@@ -59698,6 +59719,7 @@ taxis-guignicourt.com
 taxismart.ro
 taxispalamos.es
 taxispals.com
+taxiswaterloo.com
 taxivinhphuc.vn
 taxlegal.mx
 taxlohiya.com
@@ -64328,6 +64350,7 @@ virotex.uz
 virreydelperu.cl
 virt-it.pl
 virt21.net
+virton.ru
 virtual-power.de
 virtual.mv
 virtualdrywallexpo.com
