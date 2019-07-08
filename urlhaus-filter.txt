@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 08 Jul 2019 00:21:26 UTC
+! Updated: Mon, 08 Jul 2019 12:23:09 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -437,6 +437,7 @@
 104.248.20.52
 104.248.207.14
 104.248.211.25
+104.248.211.41
 104.248.212.127
 104.248.213.68
 104.248.214.131
@@ -925,6 +926,7 @@
 119.28.69.49
 119.29.117.178
 119.3.2.156
+119.32.87.124
 119.48.46.210
 119.74.72.241
 119.9.136.146
@@ -1109,6 +1111,7 @@
 128.199.40.116
 128.199.42.210
 128.199.43.40
+128.199.45.107
 128.199.45.93
 128.199.48.68
 128.199.51.116
@@ -2366,6 +2369,7 @@
 159.65.83.240
 159.65.83.246
 159.65.83.94
+159.65.84.229
 159.65.84.42
 159.65.85.153
 159.65.86.177
@@ -2691,6 +2695,7 @@
 167.71.160.213
 167.71.167.91
 167.71.168.28
+167.71.184.8
 167.71.2.125
 167.71.4.20
 167.71.4.33
@@ -3337,6 +3342,7 @@
 178.62.109.206
 178.62.111.237
 178.62.112.14
+178.62.117.21
 178.62.118.244
 178.62.194.120
 178.62.196.170
@@ -3370,6 +3376,7 @@
 178.62.28.7
 178.62.31.171
 178.62.32.28
+178.62.36.58
 178.62.36.95
 178.62.40.216
 178.62.40.83
@@ -3727,6 +3734,7 @@
 185.172.110.208
 185.172.110.213
 185.172.110.214
+185.172.110.224
 185.172.110.226
 185.172.110.230
 185.172.110.231
@@ -4009,6 +4017,7 @@
 185.244.30.165
 185.244.30.175
 185.244.30.208
+185.244.39.10
 185.244.39.107
 185.244.39.19
 185.244.39.45
@@ -4238,6 +4247,7 @@
 188.166.115.171
 188.166.119.131
 188.166.119.196
+188.166.119.244
 188.166.121.142
 188.166.123.100
 188.166.123.247
@@ -4794,6 +4804,7 @@
 198.175.126.80
 198.199.123.110
 198.199.66.46
+198.199.73.140
 198.199.73.64
 198.199.73.89
 198.199.74.43
@@ -8065,6 +8076,7 @@
 67.205.174.72
 67.205.177.84
 67.205.183.251
+67.207.81.212
 67.209.114.215
 67.21.68.148
 67.21.81.79
@@ -8307,6 +8319,7 @@
 72.224.106.247
 72.229.208.238
 72.52.243.16
+72.69.204.59
 72115847-675705947641930512.preview.editmysite.com
 72clothing.com
 73.101.223.120
@@ -29158,6 +29171,7 @@ fls.eng.br
 flsmidhtmaaggear.com
 fltstatus.com
 fluffex.com
+fluggegecheimen.icu
 flugwetter.site
 fluidfreelancedesign.co.uk
 fluo.ocebo.fr
@@ -32741,6 +32755,7 @@ helleny.com
 helli10.ir
 hellmuth-worbs.de
 hello-areches.fr
+hello.skid.fun
 hellobubba.com
 hellocode.id
 hellodev.efront-dev.com.au
@@ -35077,6 +35092,7 @@ inktaceu.com
 inlayz.net
 inlend.ru
 inlightauthorisedrep.com
+inlog-optimizer.com
 inmarsat.com.kz
 inmayjose.es
 inmigrante.club
@@ -35557,6 +35573,7 @@ ir-consulting.eu
 ir-music.ir
 ir-watduoliprudential.com.watchdogdns.duckdns.org
 iracan.ir
+iradacancel.com
 iraflatow.com
 iran-gold.com
 iran-tax.com
@@ -36341,6 +36358,7 @@ jeanmarcvidal.com
 jeannegh.com
 jeantetfamily.com
 jeantully.com
+jearchitectural-barnsley.co.uk
 jecht-event.de
 jed257hgi2384976.hostwebfree.xyz
 jedecouvrelemaroc.com
@@ -38022,6 +38040,7 @@ kitokieprojektai.net
 kitroomstore.com
 kitsuneconsulting.com.au
 kittipakdee.com
+kiulingh.top
 kiutuafricansafari.com
 kivacopper.com
 kivalehytr.com
@@ -38697,6 +38716,7 @@ kupitorta.net
 kupuimorazom.org.ua
 kuramodev.com
 kurdigroup.jo
+kuriptoldrve.com
 kurlandia.ru
 kuronekoyamrto.com
 kurosakiichigoo.com
@@ -42780,6 +42800,7 @@ megatelelectronica.com.ar
 megatramtg.com
 megaupload.free.fr
 megawindbrasil.com.br
+megawrzuta.pl
 megfigyel.hu
 meggalistaconvenios.com.br
 meghalsheth.com
@@ -48172,6 +48193,7 @@ pastebin.com/raw/cRTTP4c5
 pastebin.com/raw/fRShK2UX
 pastebin.com/raw/jkBxauyv
 pastebin.com/raw/kjKci9J8
+pastebin.com/raw/ng1agnTh
 pastebin.com/raw/phbZu0vK
 pastebin.com/raw/rQtfery0
 pastebin.com/raw/tc4VpDFQ
@@ -48878,6 +48900,7 @@ piccolo-tibet.com
 piccologarzia.it
 picdeep.ml
 picfactory.ro
+picfer.ru
 picinsurancebrokers-my.sharepoint.com
 pickbestgunsafe.com
 picker2.crooze.com
@@ -52341,6 +52364,7 @@ royalsecurityinc.com
 royalsegoro.com
 royalskyworld.com
 royalstocktrading.com
+royalstrivefinance.co.uk
 royaltransports.com.mx
 royaltyplus.com
 royaltystore.shop
@@ -55210,6 +55234,7 @@ skpd.jpwpl.edu.my
 skpindia.net
 skr0.net
 skrentertainmentgroup.com
+skroc.net
 skubspereira.com.br
 skulptur-graphik.ch
 skulpturos.com
@@ -66901,6 +66926,7 @@ yduocvinhphuc.info
 ye8283yeiw283929wu2.com
 yearbooktech.com
 yearofair.club
+yebarishpani.com
 yeccusa.com
 yeda-plus.com
 yeddy.ksphome.com
