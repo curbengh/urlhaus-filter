@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 09 Jul 2019 00:21:28 UTC
+! Updated: Tue, 09 Jul 2019 12:24:02 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -360,6 +360,7 @@
 104.244.76.15
 104.244.76.190
 104.244.76.210
+104.244.76.236
 104.244.76.73
 104.244.77.36
 104.248.1.184
@@ -530,6 +531,7 @@
 104.248.88.87
 104.248.9.87
 104.248.90.255
+104.248.95.152
 104.250.164.30
 104.252.169.92
 104.255.173.172
@@ -738,10 +740,12 @@
 111.230.131.204
 111.230.232.102
 111.230.244.24
+111.231.142.229
 111.231.208.47
 111.231.233.51
 111.231.64.163
 111.255.193.35
+111.30.107.131
 111.67.194.29
 111.67.196.202
 111.73.45.187
@@ -952,6 +956,7 @@
 120.192.64.10
 120.52.120.11
 120.52.51.13
+120.55.76.1
 120.72.95.94
 120.76.189.2
 120.92.168.177
@@ -1187,6 +1192,7 @@
 13.229.172.62
 13.229.189.170
 13.229.71.182
+13.230.239.76
 13.231.169.127
 13.231.226.136
 13.232.106.114
@@ -2009,6 +2015,7 @@
 154.16.201.215
 154.16.3.14
 154.218.1.63
+154.221.23.39
 154.223.159.5
 154.85.12.111
 154.85.15.17
@@ -2738,6 +2745,7 @@
 167.99.145.134
 167.99.147.162
 167.99.147.43
+167.99.15.77
 167.99.153.91
 167.99.154.195
 167.99.158.224
@@ -2829,6 +2837,7 @@
 167.99.85.165
 167.99.85.214
 167.99.87.204
+167.99.88.98
 167.99.89.173
 167.99.89.180
 167.99.89.22
@@ -3653,6 +3662,7 @@
 185.136.170.16
 185.136.170.181
 185.137.233.126
+185.139.69.177
 185.140.248.17
 185.141.24.42
 185.141.25.242
@@ -4548,6 +4558,7 @@
 192.241.149.194
 192.241.151.14
 192.241.152.41
+192.241.158.242
 192.241.194.166
 192.241.218.154
 192.241.243.98
@@ -6689,6 +6700,7 @@
 37.59.117.243
 37.59.162.30
 37.59.162.31
+37.59.242.121
 37.6.154.98
 37.6.47.37
 37.6.66.172
@@ -6971,6 +6983,7 @@
 45.8.159.7
 45.80.148.117
 45.80.37.125
+45.80.37.152
 45.80.39.242
 45.88.78.34
 45.89.230.119
@@ -7001,6 +7014,7 @@
 46.101.159.88
 46.101.173.113
 46.101.176.121
+46.101.193.175
 46.101.195.35
 46.101.197.198
 46.101.202.232
@@ -8876,6 +8890,7 @@
 84.240.9.184
 84.28.185.76
 84.31.23.33
+84.38.129.101
 84.38.129.105
 84.38.129.111
 84.38.129.45
@@ -9054,6 +9069,7 @@
 89.165.4.105
 89.189.128.44
 89.190.159.181
+89.190.159.189
 89.206.46.140
 89.210.253.117
 89.219.64.242
@@ -11056,6 +11072,7 @@ akowalska.ecrm.pl
 akpeugono.com
 akppservis30.ru
 akprokonaija.com
+akqmedicine.com
 akrasuaritma.com
 akrillart.ru
 akrn12.com
@@ -11912,6 +11929,7 @@ ammedieval.org
 ammey.in
 ammitz.dk
 ammt-trade.xyz
+ammucreations.com
 amnholidays.com
 amnisopes.com
 amniyatgostariranian.ir
@@ -17912,6 +17930,7 @@ camsexlivechat.nl
 camsexsnol.nl
 can-doelectric.com
 canacofactura.com.mx
+canadabestonline.com
 canadapter.ru
 canadary.com
 canadastuff.top
@@ -20891,6 +20910,7 @@ creativeagency.biz
 creativeapparel.co.uk
 creativebrickpaving.net.au
 creativecollege.org.in
+creativecompetitionawards.gq
 creativedistribuciones.com.co
 creativedost.com
 creativeengravingplus.com
@@ -23760,6 +23780,7 @@ dns.spoolers.org
 dnspcs.com
 dntfeed.com
 dnyanshree.edu.in
+do.fakesemoca16.com
 doan-xemwebsite.000webhostapp.com
 doan.zingmedia.vn
 doanhnghiepcanbiet.info
@@ -28011,6 +28032,7 @@ eystathiosluxuryapartments.gr
 eyupp.com
 eyzaguirretennis.com
 ez-photo.ru
+ez.fakesemoca16.com
 ez.lanibio.net
 ez.pusatiklan.net
 ez64.ru
@@ -35664,6 +35686,7 @@ irmaospereira.com.br
 irmaspark.icu
 irmuni.com
 irnanoshop.com
+irnberger.co.at
 iroffer.dinoex.de
 ironcloverflies.com
 ironontransfers.top
@@ -36025,6 +36048,7 @@ iyilikleralemi.com
 iyioglu.com
 iykelinksyuiop.5gbfree.com
 iyle.co.uk
+iz.owak-kmyt.ru
 izabelatrojanowska.pl
 izavu.com
 izeeker.com
@@ -37292,6 +37316,7 @@ kamlab.fr
 kammello.com.br
 kammihous.de
 kammiskrada.gov.ua
+kamnaexim.com
 kamni-sili.ru
 kamp-seget.hr
 kamplastics.co.uk
@@ -39850,6 +39875,7 @@ light-estate.co.jp
 light-tree.com
 light.brwrqweo.uk
 light.cocomet-china.com
+light.fakesemoca16.com
 light.forumbtt.pt
 light.horizonwebhost.com
 light.light1234565.5gbfree.com
@@ -40245,6 +40271,7 @@ lms.oxfordseniors.in
 lmsazinfody.cf
 lmse.lt
 lmssupportcenter.com
+lmvadvogados.com.br
 lmvus.com
 lnemacs.com
 lnfm.eu
@@ -40738,6 +40765,7 @@ lusteri.com
 lustgirls.nl
 lutaif.com
 luteranosblumenau.com.br
+lutfulgroup.com
 lutgerink.com
 lutnikwitwicki.pl
 lutuyeindonesia.com
@@ -43047,6 +43075,7 @@ metajive.com
 metal-girls.com
 metal-on-metal.com
 metalcombolacha.com.br
+metalcoven.com
 metaledging.net
 metalhubadf.xyz
 metalinzenjering.me
@@ -47310,6 +47339,7 @@ ooiasdjqnwhebe.com
 oolag.com
 ooliab.org
 ooloolabc.com
+oon.owak-kmyt.ru
 oonks.nl
 ooo-geokom.ru
 ooo-severnoe.ru
@@ -47679,6 +47709,7 @@ outletsa.top
 outlierventures-jamieburke-new.pskdev.com
 outlook-live.zzux.com
 outlookupdate.dynamicdns.org.uk
+outlowupdt.info
 outnumberedmum.com
 outofhandcreations.ca
 outofmemory.com
@@ -48233,6 +48264,7 @@ pastebin.com/raw/vCka2r6A
 pastebin.com/raw/vb8yZXjq
 pastebin.com/raw/wDvPz4jU
 pastebin.com/raw/y6R5nYzL
+pastebin.com/raw/yJnNFtb9
 pastebin.com/raw/yvyE642L
 pastebin.com/raw/yy30ZSfm
 pasteboard.co/images/HHKrjPX.jpg/download
@@ -50555,6 +50587,7 @@ qeducacional.com.br
 qeoficial.es
 qf.com.ve
 qfjys.com.img.800cdn.com
+qfo.owak-kmyt.ru
 qfsswg.ch.files.1drv.com
 qgks2q.by.files.1drv.com
 qgproducoes.com.br
@@ -51290,6 +51323,7 @@ rctglobal-my.sharepoint.com
 rcti.web.id
 rcube.co.in
 rcxmail.com
+rcy.owak-kmyt.ru
 rdabih.org
 rdbusiness.co.za
 rddadv.com.br
@@ -51664,6 +51698,7 @@ rentersforecast.com
 rentitout.co
 rentmygolfvilla.com
 rentwithconfidence.com
+renu-bansal.com
 renzofurniture.ir
 reobotealimentos.com.br
 reogtiket.com
@@ -51707,6 +51742,7 @@ researchdania.in
 reseau38.org
 reseaucompost.com
 resellrightscreator.com
+resepbelajar.com
 reser-si.com
 reserch.ir
 reservoirhill.org
@@ -54714,6 +54750,7 @@ shopbikevault.com
 shopcaart.com
 shopchungcu-bietthu.com
 shopclicksave.net
+shopcrowdfund.com
 shopfit.com.sg
 shopfreemart.com.tw
 shopguru365.com
@@ -56954,6 +56991,7 @@ stop.circlefieldservices.com
 stop.discusfieldoperations.com
 stop.discusfo.com
 stop4marketing.com
+stopcityloop.org
 stopfuckinaround.com
 stoplossinvestment.com
 stopmo.com.au
@@ -63970,6 +64008,7 @@ vejovis.site
 vektorex.com
 vektrans.ru
 velameweb.com.br
+velasmeralda.it
 velassantos.com.br
 velatoursrls.com
 veldhuizenwonen.nl
@@ -65174,6 +65213,7 @@ web.muasam360.com
 web.opendrive.com/api/v1/download/file.json/MjBfNTg5OTkzNl8?inline=1
 web.opendrive.com/api/v1/download/file.json/OTBfMTcwNDM3ODRf?inline=0
 web.pa-cirebon.go.id
+web.riderit.com
 web.smakristen1sltg.sch.id
 web.tiscali.it
 web.tiscalinet.it
@@ -66770,6 +66810,7 @@ xperjeans.com
 xpertosevents.com
 xperttees.com
 xpgeeks.com
+xpiperae94xw.com
 xpllogistics.com
 xploidderwahre1337.herokuapp.com
 xploramerica.com
