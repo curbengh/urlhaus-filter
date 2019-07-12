@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 12 Jul 2019 00:21:26 UTC
+! Updated: Fri, 12 Jul 2019 12:21:56 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2725,6 +2725,7 @@
 167.71.160.213
 167.71.167.91
 167.71.168.28
+167.71.181.88
 167.71.184.8
 167.71.190.55
 167.71.2.125
@@ -4309,6 +4310,7 @@
 188.166.165.173
 188.166.166.0
 188.166.168.170
+188.166.17.23
 188.166.17.7
 188.166.21.10
 188.166.21.86
@@ -5891,6 +5893,7 @@
 218.232.224.35
 218.52.230.160
 218.92.218.38
+218.92.218.40
 218.93.207.149
 218.93.208.210
 218.94.100.173
@@ -6067,6 +6070,7 @@
 23.254.132.182
 23.254.132.59
 23.254.134.119
+23.254.138.248
 23.254.167.143
 23.254.167.231
 23.254.201.234
@@ -6911,6 +6915,7 @@
 43.242.75.228
 43.242.75.67
 43.251.101.147
+43.254.217.67
 43.255.105.234
 43.255.241.82
 430development.com
@@ -7809,6 +7814,7 @@
 54.37.155.75
 54.37.17.252
 54.37.196.166
+54.37.44.67
 54.37.62.4
 54.37.77.56
 54.38.127.23
@@ -9045,6 +9051,7 @@
 87.120.254.160
 87.120.254.184
 87.120.36.240
+87.120.37.148
 87.121.52.230
 87.121.98.42
 87.125.246.228
@@ -9095,6 +9102,7 @@
 8800rus.ru
 887.basinbultenigonderimi.com
 887sconline.com
+888fx.pro
 88b.me
 88four8.com
 88fpw.com
@@ -10963,6 +10971,7 @@ airbnb.shr.re
 airbrush-by-kasi.de
 airclinic.eu
 airconfidencebd.org
+airconlogistic.com
 airconpro.co.za
 aircraftpns.com
 airdynamics.com.sg
@@ -22894,6 +22903,7 @@ dgdesigner.info
 dgecolesdepolice.bf
 dgfd.ru
 dgkawaichi.com
+dgkhj.ru
 dglass.cl
 dgnet.com.br
 dgnj.cn
@@ -28552,6 +28562,7 @@ fd.uqidong.com
 fda.gov.pk
 fdack.ir
 fdfgoncalves.eu
+fdfsdfsffsgagdfdgdfgdfgdf.ru
 fdgh4gh345.ru
 fdghdf344.ru
 fdghfghdfghj.ru
@@ -33217,6 +33228,7 @@ hiztercume.com
 hjcleans.com
 hjemmesidevagten.dk
 hjfgdhg.5gbfree.com
+hjkg456hfg.ru
 hjocreations.com
 hjsanders.nl
 hjylw66.com
@@ -46681,6 +46693,7 @@ obelsvej.dk
 obernessermedia.com
 obichereu.website
 obigeorge.com
+objetosrastreamento.com
 objetosrh.com
 obkfah.com
 obklad.sk
@@ -48018,6 +48031,7 @@ palhacatururuca.pt
 palin.com.br
 palisc.ps
 pallabhazarika.com
+pallomahotelkuta.com
 palmbeach-hurghada.com
 palmbeachcountyprivateinvestigator.com
 palmbeachresortcebu.com
@@ -50003,6 +50017,15 @@ pro.tmb.8interactive.co.th
 pro7.com.ua
 pro7seas.com
 proa.org
+proactor.xyz/app/app.exe
+proactor.xyz/app/e7.exe
+proactor.xyz/app/updateprofile-0321.exe
+proactor.xyz/app/updateprofile-srv1-0520.exe
+proactor.xyz/app/vc.exe
+proactor.xyz/app/watchdog.exe
+proactor.xyz/app/winboxls-0225-2.exe
+proactor.xyz/app/winboxls-0711.exe
+proactor.xyz/app/winboxscan-0702.exe
 proalergico.sk
 proapp.icu
 proarchiland.ru
@@ -54007,6 +54030,7 @@ seftonplaycouncil.org.uk
 segera.live
 segmaster.pagina-oficial.ws
 segmentsolutions.com
+segoundonfoume.com
 seguridadmilestrellas.com
 seguridadsafe.com
 seguriexpoforo.org
@@ -62920,6 +62944,7 @@ uc97032012c46b2ce124119904f4.dl.dropboxusercontent.com/cd/0/get/Af3yLdV_V4rmZkfp
 uc9a8d0d78098c1f9eb76581209b.dl.dropboxusercontent.com/cd/0/get/AWGTDN5DKiru9cwOpW2dpxnqo44vw6GQlLuxZunm0BAqa4cYEOX9Zit1ZN-q3U3a5oOXNDResEGPKd1UXVdqjo7eg35kCvcCXmwbtIENEvO42znv-QuYYisheN0APUxF36T4IjYR0CbHuvj2tsmDHBYTCMuZT0Gu0TnIb6VE7ImHfFOn12ifFTFhEIitWOPvXHE/file?dl=1
 uc9a997dfef6103e2793fa7b7e0a.dl.dropboxusercontent.com/cd/0/get/AW_wD-CxveER6HYPPj1gUOk3b0t7BSuOG27d77hvOOtsi6MToodzH2mry3zt5UHWmF4ezS9RVOUjm_KRXnLfdCUT97ZXYpeRctnYkT0KIjUDuGABxYsciXqHEGJc0BJVWb8OQ6Ba70Hy_1Xmw2M-OW4fBcXOLRvgEBPmirqDtA4JetnWYx1dVREFX8kaR9gsBjQ/file?dl=1
 uc9ad50e254f71df22dee04673d7.dl.dropboxusercontent.com/cd/0/get/AW_mSU2I90OXMNYuLw_k307CNfzZVw7X79lUGBwkdA4IHluQxrVdlLnxQv1aoajr724VLVoBLwfua7U3BJmi2QQIAjC4BNNpb_hCMejwT_0srIN40wIfKO7uxX5Or_UuaePjo4WrlBPkrnV_Cl2IvSLnI80Jo9VUGM9-9bkpDaGlN4vvHEvnL3A2j4xrzo1FpBU/file?dl=1
+uc9c0dca643420019efccd942010.dl.dropboxusercontent.com/cd/0/get/AkhJHGAGNzqfw0tZIUX5DD_gqZ5hG-S9VnNcSbckQUL5Uc61LW4hsPIzdHaG8y0CqqJUV55JUnDxVxEeCYwWy_43PXgp6eVG1tSiMbizvb_nmQ/file?dl=1
 uc9c203bee470ec747b0962d921a.dl.dropboxusercontent.com/cd/0/get/AX7YyJpzqeaE8jgO8RR1VcfG1cE10RTrLwx4d2zzTPOUIn5i0Rn_Y8qi5fAKSwrb3rmdchvW8ib1pADWkvfXAMLx2w1K70wIXGFOMTB_SrmpGN3PnZz_3fmDKt_orgr34NFLjjkW4vhZNDm4KOXtutDuvxlX-VWStzuETKU7R2PWdxyGXNJQgVPO66BwOXx74Zw/file?dl=1
 uc9c2f70157b4611c69112fcadbe.dl.dropboxusercontent.com/cd/0/get/AXoRh_P1nN56gQCsBXti1YT7yQMFLWFh6DmHAsHIyoTJTizEOM5CejaofzSwuGJFcuo69IKkJU8IlB0AXa0M5yX9nG3gblS5dqQKZHC69Caaa7-XFcgNEFA2bXHvqggTywgvQTSaD23SlKAC22vOJM0k2kktDx2lvSO6NJ68dfzJQkbR20w9OawrgpGOciCxeWA/file?dl=1
 uc9cca3c7aef17f12e7756f81e12.dl.dropboxusercontent.com/cd/0/get/ATuCEM7sHfnnjJ5N5s1NrAKhP2T2dPHAIjvsat54mAAocuqyp2lln_Qu-Ebz8w5Jl8XJwd_7b5x-8HrXNs0nrSh_MbMXglrk1qkLw34vB2DATuqMJ-UO6cPLjDQTaTguX9djBbm6MYkEdNSLem33ppc_AijTLzdsMKBoJtoxNbA8_XqjZ6r325B5gCLH2X4P7c4/file?dl=1
@@ -66440,6 +66465,7 @@ x-tel.com
 x-trade.com.pl
 x-x-team.weebly.com/uploads/7/8/4/0/78404562/tedata.exe
 x-x-team.weebly.com/uploads/7/8/4/0/78404562/windowsapplication1.exe
+x.autistichorse.club
 x.jmxded153.net/y.z?l=http%3a%2f%2fshivmotor.com%2fNMVA-SVa_XGhzimAE-gtc%2f49390%2fSurveyQuestionsUS_us%2fSales-Invoice&r=11943112279&d=271873&p=1&t=h/
 x.jmxded153.net/y.z?l=http%3a%2f%2fshivmotor.com%2fNMVA-SVa_XGhzimAE-gtc%2f49390%2fSurveyQuestionsUS_us%2fSales-Invoice&r=11943113879&d=271873&p=1&t=h/
 x.jmxded153.net/y.z?l=http://thuraya.kz/iVIg-wWj_tCpHue-kR/EXT/PaymentStatus/En/Past-Due-Invoice&r=11940086345&d=271873&p=1&t=h/
@@ -67009,6 +67035,7 @@ xyz-ideas.com
 xyz123web.com
 xyzeee.ml
 xyzeeee.ga
+xyzeeeee.com
 xyzfilamenten.nl
 xz.bxacg.com
 xz97.top
