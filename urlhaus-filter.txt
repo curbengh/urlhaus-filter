@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 13 Jul 2019 12:21:57 UTC
+! Updated: Sun, 14 Jul 2019 00:21:52 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -3901,6 +3901,7 @@
 185.223.95.70
 185.224.249.181
 185.224.251.105
+185.225.17.175
 185.225.17.82
 185.227.108.18
 185.227.111.202
@@ -7708,6 +7709,7 @@
 51.79.53.247
 51.79.54.106
 51.79.55.3
+51.79.71.155
 51.81.7.102
 51.81.7.54
 51.83.47.39
@@ -9919,6 +9921,7 @@ abeliks.ru
 abenefits.com.hk
 abenteuerphotographyco.com
 abfluchen.de
+abgmnq.ch.files.1drv.com
 abhicoupon.com
 abhipsa-homoeopathic-clinic.org
 abhiramnirman.com
@@ -11349,7 +11352,7 @@ alexfranco.co
 alexgarkavenko.com
 alexhhh.chat.ru
 alexis.monville.com
-alexlema.com
+alexlema.com/css/a1/Mail_Access_Logs.doc
 alexm.co.za
 alexovicsattila.com
 alexpopow.com
@@ -15524,7 +15527,10 @@ betonbrother.com
 betonkeritesgyar.hu
 betprediksi.com
 betrachtungssicht.de
-betrogroup.com
+betrogroup.com/693858WQ/PAYROLL/Personal
+betrogroup.com/693858WQ/PAYROLL/Personal/
+betrogroup.com/9039V/PAYMENT/Smallbusiness
+betrogroup.com/Zahlungserinnerung/Zahlung-bequem-per-Rechnung/
 betsilljackson.com
 bettencourtdesign.net
 better-1win.com
@@ -15536,8 +15542,7 @@ bettery.hu
 bettingmlb.com
 bettyazari.com
 bettybottconsultation.com
-betwext.com/PTa1a1aF
-betwext.com/PTa1a1aF/
+betwext.com
 beunico.tk
 beurer-shop.ir
 beurer.by
@@ -18755,7 +18760,7 @@ cdn.shopify.com/s/files/1/0062/6422/5910/files/RSB_Bill_01052019_00038847155344.
 cdn.siv.cc
 cdn.slty.de
 cdn.top4top.net
-cdn.truelife.vn/webtube/201310/2139273/pianito.exe
+cdn.truelife.vn
 cdn.xiaoduoai.com
 cdn.zecast.com
 cdn4.css361.com
@@ -19972,9 +19977,7 @@ cmdaitexpo.com
 cmdez.ir
 cmdou.com
 cmeaststar.de
-cmg.asia/wp-content/uploads/DOK/bkmrGzXzIEZODqVCVwBTcQiNn/
-cmg.asia/wp-content/uploads/INC/RVVM3rAgsF/
-cmg.asia/wp-content/uploads/asIFB-0wxsmXdAVKvdu2_okCqpxAWS-NK/
+cmg.asia
 cmgroup.com.ua
 cmhighschool.edu.bd
 cmhmfgoutbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
@@ -29623,13 +29626,7 @@ fox-club.pro
 fox.spacepel.com
 foxford.margol.in
 foxhallcondos.com
-foxmusic.xyz/app/e7.exe
-foxmusic.xyz/app/updateprofile-0321.exe
-foxmusic.xyz/app/updateprofile-srv1-0520.exe
-foxmusic.xyz/app/vc.exe
-foxmusic.xyz/app/watchdog.exe
-foxmusic.xyz/app/winboxls-0225-2.exe
-foxmusic.xyz/app/winboxscan-0701.exe
+foxmusic.xyz
 foxrat123456.000webhostapp.com
 foxyco.pinkjacketclients.com
 foxycopinkjacketclients.com
@@ -31915,7 +31912,7 @@ grouopsra.com
 group404.com
 groupegps.com
 groupejpr.com
-grouper.ieee.org/groups/802/15/archive/802-15-sg5list/zipsKPvvzhlA9.zip
+grouper.ieee.org
 groupesival.com
 groupevl.ca
 groupmediacpv.com
@@ -33573,7 +33570,29 @@ home.earthlink.net/~zrippeto/invoice.jar
 home.earthlink.net/~zrippeto/order-comfirmation.jar
 home.earthlink.net/~zrippeto/pal/payment~details.jar
 home.lotr.flaik.com
-home.mindspring.com
+home.mindspring.com/~dicklin/USPS20190104.jar
+home.mindspring.com/~dicklin/ups20190114.jar
+home.mindspring.com/~dwduffy/UPS/tracking-copy.jar
+home.mindspring.com/~georgedibble/secure_message.jar
+home.mindspring.com/~jolchawa/01/FedEx20190104.jar
+home.mindspring.com/~jolchawa/UPS_Tracking/1ZW701450096823341.jar
+home.mindspring.com/~jolchawa/ups1/ups20190114.jar
+home.mindspring.com/~marvinlzinn1/20181510.exe
+home.mindspring.com/~marvinlzinn1/UPS_Trk_1Z6A7Y850392419911.exe
+home.mindspring.com/~marvinlzinn1/USPS_20181228.jar
+home.mindspring.com/~marvinlzinn1/_output281B0.exe
+home.mindspring.com/~marvinlzinn1/secure_message.jar
+home.mindspring.com/~mlaurie/1521740581.jar
+home.mindspring.com/~mlaurie/1521794522.jar
+home.mindspring.com/~mlaurie/1522003981.jar
+home.mindspring.com/~mlaurie/1522102502.jar
+home.mindspring.com/~paulfwhite/UPS_tracking.jar
+home.mindspring.com/~pmco/UPS_20180208.jar
+home.mindspring.com/~pmco/USPS20190109.jar
+home.mindspring.com/~sbirmingham/Costings_Follow_Up.jar
+home.mindspring.com/~sbirmingham/Tracking_Number_1Z6A7Y855293103311.jar
+home.mindspring.com/~wilfert/USPS_94078556993022393116.jar
+home.mindspring.com/~wilfert/USPS_Tracking.jar
 home.phnix-e.com
 home.webadmin.syscoinc.org
 home88.wp-goodies.com
@@ -33802,8 +33821,7 @@ hostnamepxssy.club
 hostnana.com
 hostpp.gq
 hostpp.ml
-hostpp2.ga/20190118/4C384435-9E82-4011-ACF3-78489BB98229.exe
-hostpp2.ga/20190118/multishare.exe
+hostpp2.ga
 hostpp2.tk
 hostprodirect.com
 hostrooz.com
@@ -35278,6 +35296,7 @@ innovatorsforchildren.org
 innovdiscount.com
 innovedcr.com
 innoveds.com
+innovice.eu
 innovomkt.info
 innowat.com
 innozenith.com
@@ -38931,7 +38950,7 @@ ky663.com
 kyadondotechnicalinstitute.com
 kyaikhtohotel.com
 kyanos.000webhostapp.com
-kyans.com/wp-admin/1De3/
+kyans.com
 kyatama.com
 kyedoll.com
 kykeon-eleusis.com
@@ -43310,7 +43329,7 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
-miamicondoinvestments.com/wp-admin/sec.myaccount.docs.com/
+miamicondoinvestments.com
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -44298,7 +44317,8 @@ mosbirdclub.ru
 mosbussum.nl
 moschee-wil.ch
 moscow.bulgakovmuseum.ru
-moscow00.online
+moscow00.online/GetDataAVK.exe
+moscow00.online/KeyMoscow00.35.exe
 moscow1.online/GetDataAVK.exe
 moscow1.online/KeyMoscow.exe
 moscow1.online/proxy/skapoland.chickenkiller.com.exe
@@ -44870,13 +44890,31 @@ my-spa.rs
 my.camptaiwan.com.tw
 my.jiwa-nala.org
 my.mail.de
-my.mixtape.moe
+my.mixtape.moe/ayqydr.vbs
+my.mixtape.moe/chhsmy.htaa
+my.mixtape.moe/coxgka.jpg
+my.mixtape.moe/ejkhnj.htaa
+my.mixtape.moe/eyugjv.htaa
+my.mixtape.moe/huofcq.htaa
+my.mixtape.moe/krmiez.docx
+my.mixtape.moe/ntvual.jar
+my.mixtape.moe/rgbtph.jpg
+my.mixtape.moe/swxfsf.hta
+my.mixtape.moe/tcelou.htaa
+my.mixtape.moe/ufmaxl.htaa
+my.mixtape.moe/vartac.jpg
+my.mixtape.moe/vfgrox.jpg
+my.mixtape.moe/vjgwsh.zip
+my.mixtape.moe/xyvdrv.htaa
+my.mixtape.moe/ywphpl.zip
+my.mixtape.moe/zmkjcs.jpg
 my.zhaopin.com
 my10apps.com
 my2b.online
 myabisib.ru
 myacademjourneys.com
-myaccount.dropsend.com
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids=14267487
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids[]=14267487
 myadmin.59north.com
 myafyanow.com
 myanmodamini.es
@@ -45939,16 +45977,7 @@ nguyenquynhnga.net
 nguyenthanhriori.com
 nguyenthituyet.org
 nguyenthuyhanh.com.vn
-ngyusa.com/catalog/htarg2.hta
-ngyusa.com/catalog/rginvoice.exe
-ngyusa.com/customer/anyi.exe
-ngyusa.com/payment/htaallofus.hta
-ngyusa.com/payment/htanelson.hta
-ngyusa.com/payment/htazeco.hta
-ngyusa.com/systems/bukas.exe
-ngyusa.com/systems/htabukas.hta
-ngyusa.com/systems/htanelson.hta
-ngyusa.com/systems/htazeco.hta
+ngyusa.com
 nhadaiphat.com
 nhadatminhlong.vn
 nhadatnambac.com
@@ -47960,8 +47989,7 @@ pablohevia.com
 pablolauria.site
 pabloteixeira.com
 pablotrabucchelli.com
-paboard.com/6AR/ACH/Smallbusiness
-paboard.com/6AR/ACH/Smallbusiness/
+paboard.com
 pabx-uae.com
 pacbest.org
 pacedg-my.sharepoint.com
@@ -48557,7 +48585,7 @@ pd.creditreform-muster.de
 pd0rt.nl
 pdedas.com
 pdesaa.cimaa.pt
-pdf-archive.com/2017/06/29/fmb/fmb.pdf
+pdf-archive.com
 pdf-archive.press
 pdf-archive.store
 pdf-compare.site
@@ -48776,12 +48804,7 @@ persianruggallery.com
 persiapanieltstoefl.com
 persiapet.net
 persimmonforge.com
-perso.wanadoo.es/cartaouol/uolcartoes.exe
-perso.wanadoo.es/gracig02/atualizado098476verifica.exe
-perso.wanadoo.es/grande000001/csrs.jpg
-perso.wanadoo.es/provedoresbrasil/relatorioemails2006.exe
-perso.wanadoo.es/stjsites/stj.exe
-perso.wanadoo.es/tdfgr/350RONPXJ65Y47.exe
+perso.wanadoo.es
 personal.nwolb.user.log.security.cod.issue.fondue-at-the-fountain.com
 personalized-weddings.com
 personalshopper-salzburg.com
@@ -54138,6 +54161,7 @@ senaryolarim.com
 senboutiquespa.com
 send.webprojemiz.com
 senda.bmt.city
+senddocs.icu
 sendergrid.club
 sendestar.com
 sendgrid.fortierauto.com
@@ -59198,7 +59222,10 @@ support.homemakerideas.com
 support.imaitaly.biz
 support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/
 support.jbrueggemann.com
-support.mdsol.com
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
 support.redbook.aero
 support.volkerstevin.ca
 support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/
@@ -62810,6 +62837,7 @@ uc1116887107b1003912a5daf8c1.dl.dropboxusercontent.com/zip_by_token_key?dl=1&key
 uc140d14840872918569840d5e4d.dl.dropboxusercontent.com/cd/0/get/ARnZy4qTUXOO-x_BjK2Jm7ZJrUmZdV_ZBYaiRKrqcVyRzJ4jQNZpJIBrwM3TeZVRWN2eUagz0TU7l1vErfZsrb02nZlEwiqJYZFhUanxi-LE8XlZ9FIzA9ljaGecchJ_IDB7gqZBEloy1xlHn6LKu8DIiEJkPQguAT7ttm1aETLw_Rph9q8BXOpxexvbG6i7ctc/file?dl=1
 uc152c7eb99357003e8affb3c051.dl.dropboxusercontent.com/cd/0/get/ATGAiLwuTLJqxdSFhPgPJYsjbB_FsFeUFNWlz4bUkRIIS28UsLpwlRp3N1neI_h5OGmgTwNyw1MYZnbLurXqlQH678zeU_Z9XSpwpi-vuqiGsifY63vPDNySnOLkJXPNySDtu9pu_iaC2YLVt824Gn7N-h-GOFArizVggKbSGt317z4baxHdepnUgiVyHyGXwTM/file?dl=1
 uc1649b811f93de69f8cc8f421f6.dl.dropboxusercontent.com/cd/0/get/AbI2aAU9XnGh-NnsWMm8NJ4SS5fad2LlaLTfGuKgCi58jlenUUvvmH0iWv00n5pGrKCa4ASJ92DQaoyHV5r9CdNCP1Kmm-dQis7nFBdL1FidvA/file?dl=1
+uc1661f9b02565caee1bfefd045e.dl.dropboxusercontent.com/cd/0/get/Akq0kPL7jnH9HpaQ2EtOEyrsJ-glgpcAgPRc6e9kJP_aWvm9zxa7vv3STtomUYahYrLnVw2uw37gBoTVWUp67OgsOZZXvbgvdyxGdLxnKxg9Pg/file?dl=1
 uc16fd623a39a54527868fac084e.dl.dropboxusercontent.com/cd/0/get/AcYWQiiGTwJTD-wR0Omt1ex469jyIKbnPquBrbOoLdZ5Hgh2kO5LQSurjb-iZ79gS8aD0TFqoBFV4wQq4MSeimElHDXwIw1kxdEZd7vUqq1Rqw/file?dl=1
 uc195648194d423fda67cecf90ea.dl.dropboxusercontent.com/cd/0/get/AZEhSq3G7inI7i4UJjaFw8lGo7SXI-qFEbyOuEAPqNq1jibLwiYFIYNCppTihOLkktjtzEDwdXHN9TE4axLT9zp-Oyj5GmrBYKgn4jFKzpx-gyA80toVnTPBzDkfM-WGWc9AVpRcH3SFsTf3yI0DR1qK35RQIB1yhBIxB2FveB74PIDxnrL5eGtplYW12rdY8K4/file?dl=1
 uc1a789d680d5935cb0a0b3e88ef.dl.dropboxusercontent.com/cd/0/get/AccZFClX6R_Cjr6Yh_2rhXK95aT2OgyLTxLQPaW9EnvnGvXOlLekjLxNNQcFV0c07HU7LfxJkP5eFZOZcc4h_BhGVQ82FqxvUsLwZJDkMzBS3w/file?dl=1
@@ -63342,7 +63370,8 @@ uninstall-tools.ru
 uninstalltoolz.ru
 union3d.com.br
 unionartgallery.ru
-unioncomm.co.kr
+unioncomm.co.kr/wp-includes/IXR/INC/SzbKyZNfCGqyCBxTlmKxv/
+unioncomm.co.kr/wp-includes/IXR/gr3199tz838z_s7d3uhl8q2-3499376866/
 unioneconsultoria.com.br
 unionmaronite.ca
 unionspinepain.com
@@ -67848,7 +67877,7 @@ ziziused.com
 zizu.com.mx
 zizzy.eu
 zj.9553.com
-zjjcmspublic.oss-cn-hangzhou.aliyuncs.com
+zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web1898/site/attach/0/ad9ae31e86a9473c8836fbfd38462a8d.doc
 zjttkj.cn
 zk-orekhovoborisovo.ru
 zkdjezica.si
