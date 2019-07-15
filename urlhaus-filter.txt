@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 15 Jul 2019 00:21:27 UTC
+! Updated: Mon, 15 Jul 2019 12:22:27 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -297,6 +297,7 @@
 104.168.163.95
 104.168.166.89
 104.168.167.92
+104.168.169.153
 104.168.169.89
 104.168.171.186
 104.168.174.246
@@ -1383,6 +1384,7 @@
 134.209.27.236
 134.209.29.216
 134.209.30.12
+134.209.31.29
 134.209.32.69
 134.209.32.95
 134.209.33.102
@@ -1713,6 +1715,7 @@
 142.11.212.167
 142.11.212.47
 142.11.213.139
+142.11.213.50
 142.11.214.9
 142.11.215.254
 142.11.216.61
@@ -2104,6 +2107,7 @@
 157.230.156.23
 157.230.157.105
 157.230.160.165
+157.230.161.187
 157.230.162.244
 157.230.163.1
 157.230.163.242
@@ -2653,6 +2657,7 @@
 165.22.91.3
 165.22.93.174
 165.22.95.149
+165.22.96.111
 165.22.96.8
 165.22.99.126
 165.227.0.144
@@ -3094,6 +3099,7 @@
 176.32.32.140
 176.32.32.156
 176.32.33.123
+176.32.33.134
 176.32.33.150
 176.32.33.151
 176.32.33.155
@@ -4751,6 +4757,7 @@
 194.67.202.196
 194.67.202.89
 194.67.205.188
+194.67.206.249
 194.67.216.218
 194.67.218.50
 194.67.221.129
@@ -5825,6 +5832,7 @@
 216.170.112.131
 216.170.114.120
 216.170.114.195
+216.170.114.196
 216.170.118.132
 216.170.119.131
 216.170.119.154
@@ -6750,6 +6758,7 @@
 37.44.212.213
 37.44.212.223
 37.44.215.121
+37.44.215.132
 37.44.215.16
 37.44.215.181
 37.48.125.107
@@ -6907,6 +6916,7 @@
 42.116.233.57
 42.117.62.88
 42.119.44.109
+42.159.113.74
 42.202.32.93
 42.51.194.10
 42.51.40.149
@@ -7054,6 +7064,8 @@
 45.80.148.117
 45.80.37.125
 45.80.37.152
+45.80.37.166
+45.80.37.176
 45.80.39.242
 45.88.78.34
 45.89.230.119
@@ -7579,6 +7591,7 @@
 5.56.124.7
 5.56.124.92
 5.56.125.216
+5.56.133.130
 5.56.133.137
 5.56.65.150
 5.56.94.125
@@ -8171,9 +8184,11 @@
 67.205.173.10
 67.205.174.1
 67.205.174.72
+67.205.175.11
 67.205.177.84
 67.205.183.251
 67.207.81.212
+67.207.86.120
 67.209.114.215
 67.21.68.148
 67.21.81.79
@@ -8345,6 +8360,7 @@
 68.183.86.251
 68.183.86.87
 68.183.88.126
+68.183.88.136
 68.183.92.65
 68.183.96.48
 68.183.97.132
@@ -9166,6 +9182,7 @@
 89.230.29.78
 89.248.171.101
 89.248.172.169
+89.248.174.198
 89.32.41.15
 89.32.56.148
 89.32.56.33
@@ -9454,6 +9471,7 @@
 93.170.112.206
 93.174.93.143
 93.174.93.149
+93.174.93.191
 93.176.162.255
 93.176.173.9
 93.184.203.65
@@ -15416,6 +15434,7 @@ besef.nu
 besenschek.de
 beshig.de
 bespoke.masiavuvu.fr
+bespokeplate.com
 bespokeutilitysolutions.co.uk
 besprocamera.com
 besserblok-ufa.ru
@@ -15797,6 +15816,7 @@ billcorp.ec
 billerimpex.com
 billeter.net
 billfritzjr.com
+billingsupport.ru
 billink.in
 billionaires-indo.com
 billsbarandburger51ststreet.com
@@ -16937,6 +16957,7 @@ booyamedia.com
 bor-demir.com
 bora.8dragonphoenixastoria.com
 borayplastik.com
+bordargroup-com.ga
 borderlands3.com
 borealisproductions.com
 borepile-indonesia.com
@@ -19705,6 +19726,7 @@ ckd.org.uk
 ckducare.000webhostapp.com
 ckh-kleve.de
 ckingdom.church
+cklinosleeve.icu
 cko-info.ru
 ckobcameroun.com
 ckrew.net
@@ -20372,6 +20394,7 @@ compat.zzz.com.ua
 compex-online.ru
 compitec.be
 complain.viratbharat.com
+complet.avessas.com
 completeconstruction-my.sharepoint.com
 completedementiacare.com.au
 completeitcenter.com
@@ -25026,6 +25049,7 @@ drive.google.com/file/d/14QswLFSOXu4qUcGz4ybuVxc8zNLUcIdh/view?usp=sharing
 drive.google.com/file/d/14YM0rkZonZuHarv1fdjGfS7ty_m6WKja/view
 drive.google.com/file/d/14dgPqtJUnO0BvvixioREYGT0yWU7Z9gZ
 drive.google.com/file/d/14nnxw253uB3PY0wDhZER_mL2kmgYdLK8
+drive.google.com/file/d/15-bgomO9ng-0vQWiYn_eSVJy8zl8E1UQ/view
 drive.google.com/file/d/156TEEk7gVnUSLgEGtTqJbBapgPe3YB7G/view?usp=sharing
 drive.google.com/file/d/15_jy1IovWFmuLlDTAT-NNb3TnHujfcdy
 drive.google.com/file/d/15g4z9iXOSe6IKlWuXWt106xfiBADRPvA/view?usp=sharing
@@ -25128,6 +25152,7 @@ drive.google.com/file/d/1RnlWrIs7lvP-Aqzg6RgyPAUXCWTilcNl/view?usp=sharing
 drive.google.com/file/d/1SE3U1Ny1luR5EFNAQVKtxvgzrS4XcM7g/view?usp=sharing
 drive.google.com/file/d/1SQFpkAIHXXzcNUnNAimMw3ww0_0eae5t
 drive.google.com/file/d/1T8ZstaLj1vxkxVu64gIykvKZ0ceGeZLo/view?usp=sharing
+drive.google.com/file/d/1TBHU303oxQLwOrrSHNB0WfaESCmnsyiB/view
 drive.google.com/file/d/1TsQ6zGhvytp28qD4VKwnaGGZ8Z6ILveU/view?usp=sharing
 drive.google.com/file/d/1TuuMKezv1JFP2TaG5dl8VOrfI4m7ltsj
 drive.google.com/file/d/1UU58iGJ4RG_K4qBP37AEC53YuGIJa50w
@@ -25191,6 +25216,7 @@ drive.google.com/file/d/1jZOyEL71EYYGhLyCky7v6BDvfhnTXbjU/view?usp=sharing
 drive.google.com/file/d/1k7bcY1Rwg7VA6hHzr02E_Ssk4Jzt3HPe/view?usp=sharing
 drive.google.com/file/d/1kFAvYL_adMZ2OdKrjtDMSCBF9BC4NdMC
 drive.google.com/file/d/1kmEWNbSdtNxq6MsXEipdWpCgy7iMivbz/view?usp=sharing
+drive.google.com/file/d/1ks3Ly9lTMHD_TspeP3kieNRPB75XLLII/view
 drive.google.com/file/d/1kwnXaX-tTQXrm5gkmyfp3H-e0i7mbn9H/view?usp=sharing
 drive.google.com/file/d/1l1q3jmMo3RBz6R6_XSDOWD-1vdXea7ut/view?usp=sharing
 drive.google.com/file/d/1lGpJQ_HzyJlCVlsfLrjpv4WAhMWKrnQ_/view?usp=sharing
@@ -25214,6 +25240,7 @@ drive.google.com/file/d/1oMMnvcSI9eMs5uHs4mI-h92m8Wz7fbTx/view?usp=sharing
 drive.google.com/file/d/1oWQXEAh0pXZ53Qe33-6952_dcO-y193L
 drive.google.com/file/d/1oWgSWyj_cKt-ZJ48odTadjcmV6erNG5M
 drive.google.com/file/d/1okazXMJTqrUHd-CaWG9mUBLFvjm7lFp1
+drive.google.com/file/d/1ottIVGilWsmkCySAA9RsrUKUvQGoROUd/view?usp=sharing/
 drive.google.com/file/d/1ovBUQ3ogpJUUfazqrMnzsCEpBC8i85PB
 drive.google.com/file/d/1p9wyXJRmEc2UMcYwWhH-Dig59FO7z1nE/view?usp=sharing
 drive.google.com/file/d/1po-8q8G_70070ZdV1TuS3q5ByiRActrG/view?usp=sharing
@@ -27031,6 +27058,7 @@ emirates-tradingcc.com
 emiratesbengalclub.com
 emiratesprefab.ae
 emirays.com
+emirbilardo.com
 emisafrica.com
 emitrial.xyz
 emlak.baynuri.net
@@ -27143,6 +27171,7 @@ enbesandesignstudio.com
 encame.com
 enchantography.com
 enckell.se
+encogo.com
 encompassrei.com
 encomtrading-net.ml
 encontrodesolteiros.com.br
@@ -31498,6 +31527,7 @@ goodday.life
 gooddot.com
 goodfood.co.jp
 goodfoot.net
+goodfreightthailand.com
 goodheadlines.org
 goodhealth.tunnlynn.me
 goodingedu.com
@@ -31826,6 +31856,7 @@ greenertrack.info
 greenfenix.com.uy
 greenfieldsromania.ro
 greenflagtrails.co.za
+greenfood.sa.com
 greenglobal.co.id
 greenhackersonline.com
 greenhausen.com
@@ -32715,6 +32746,7 @@ hb.buycom108.com
 hbartonkwiey.xyz
 hbhcqa.com
 hbirkins.com
+hbjcmsa.com
 hbk-phonet.eu
 hbmcorp.co.id
 hbmonte.com
@@ -34756,6 +34788,7 @@ ikumoumax.com
 ikusi.org
 ikuzim.com
 ikuznetsoff.ru
+ikwariabhija.com
 ikya.ir
 ilan.baynuri.net
 ilaw-group.com.eg
@@ -39673,6 +39706,7 @@ legrand.ba
 legrand.us/-/media/brands/wattstopper/resources/software/ws-software-download-lmcs100v462xxsetup.ashx
 legsgoshop.com
 lehavregenealogie2017.fr
+lehmanlaw.mn
 lehrspiele.de
 lehtoniemi.com
 lehuuhieu.com
@@ -42671,6 +42705,7 @@ mayamerrit.com
 mayfairintl.com
 mayfairissexy.com
 mayflowerex.com
+mayhutthoilieu.com
 mayjensuharno.info
 maykop-news.ru
 maymarproperties.com.au
@@ -52213,6 +52248,7 @@ riskrock.com
 riskrock.net
 risovat-prosto.ru
 rissan.ru
+rissin.jp
 ristopietila.xyz
 ritabrandao.pt
 rite-equipment.aboxercompany.com
@@ -56509,6 +56545,7 @@ sports.lightweightworks.com
 sportschuetzen-havixbeck.de
 sportsgamesandapps.com
 sportsinsiderpicks.com
+sportsite2001.com
 sportsofficialsolutions.com
 sportstavki.net
 sportverein-hefersweiler.de
@@ -67415,6 +67452,7 @@ yogaposes.online
 yogaspaceme.com
 yogavalefigueria.com
 yogawithmafer.com
+yogeshcycles.com
 yogeshenterprises.org
 yogh.eu
 yogiwithmafer.com
