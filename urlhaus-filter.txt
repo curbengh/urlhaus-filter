@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 16 Jul 2019 00:21:32 UTC
+! Updated: Tue, 16 Jul 2019 12:22:22 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -229,6 +229,7 @@
 103.254.113.170
 103.254.86.219
 103.255.101.64
+103.255.177.206
 103.30.43.120
 103.45.174.46
 103.46.136.130
@@ -3259,6 +3260,7 @@
 178.128.203.225
 178.128.204.247
 178.128.204.249
+178.128.204.33
 178.128.205.237
 178.128.206.210
 178.128.206.25
@@ -4594,6 +4596,7 @@
 192.236.161.176
 192.236.161.53
 192.236.161.54
+192.236.162.197
 192.236.162.21
 192.236.176.80
 192.236.178.40
@@ -4898,6 +4901,7 @@
 198.211.106.91
 198.211.109.4
 198.211.110.63
+198.211.113.21
 198.211.113.55
 198.211.116.132
 198.211.117.161
@@ -5779,6 +5783,7 @@
 212.73.150.57
 212.77.144.84
 212.80.216.61
+212.83.183.79
 212.93.154.120
 213.122.157.8
 213.135.104.125
@@ -6017,6 +6022,7 @@
 222.106.217.37
 222.119.181.142
 222.119.40.240
+222.119.56.98
 222.125.62.184
 222.133.177.93
 222.167.55.16
@@ -7295,6 +7301,7 @@
 46.29.163.212
 46.29.163.229
 46.29.163.239
+46.29.163.240
 46.29.163.28
 46.29.163.68
 46.29.163.77
@@ -7495,6 +7502,7 @@
 5.12.208.100
 5.134.192.83
 5.135.209.161
+5.135.230.131
 5.14.140.24
 5.14.211.52
 5.145.160.157
@@ -7674,6 +7682,7 @@
 51.223.76.53
 51.254.121.123
 51.254.145.96
+51.254.145.97
 51.254.145.99
 51.254.164.30
 51.254.176.77
@@ -7817,6 +7826,7 @@
 54.145.153.237
 54.145.99.108
 54.146.46.168
+54.149.127.181
 54.153.155.14
 54.153.245.124
 54.154.144.172
@@ -34161,6 +34171,7 @@ humanoshaciaelfuturo.org
 humanplus.com.tr
 humanventures.in
 humanwigshair.net
+humapower.org
 humas.lomboktengahkab.go.id
 humas.unila.ac.id
 humesolutions-my.sharepoint.com
@@ -34227,6 +34238,7 @@ hvcrmls.net
 hvcrmls.org
 hvh-mpl.dk
 hvkbvmichelfd.info
+hvlfitnesschallenge.com
 hvnc.info
 hvnc.pw
 hvstreit.de
@@ -36213,6 +36225,7 @@ iventix.de
 iventurecard.co.uk
 ivenzengenharia.com.br
 iverson55.ml
+ivglavsnab.ru
 ivicatechnology.co.zw
 ivigilante.live
 ivkin.ru
@@ -36685,6 +36698,7 @@ jesp.ieconom.kz
 jespositobuilders.com
 jessebc.com
 jessecloudserver.xyz
+jessecom.top
 jessesilva.000webhostapp.com
 jesseturri.com
 jesseworld.eu
@@ -41940,6 +41954,7 @@ makijaz-permanentny.sax.pl
 making-money-today.club
 makki-h.com
 maklog.com.br
+maklryanb.com
 makmedia.ch
 makmera.com.mk
 makosoft.hu
@@ -45702,6 +45717,7 @@ nengchima.com
 neoangelacplus.incdoor.com
 neoasansor.com
 neodream-design.com
+neoeyruss.com
 neoflash.com
 neogroup.io
 neohbeginnings.com
@@ -47674,6 +47690,7 @@ oraclewednesday.org
 oraio.com.py
 oralcamp.com.br
 oralflora.jp
+oramos.com.ar
 orange-county-loans.com
 orange5.eu
 orangeblushsalon.com
@@ -50314,6 +50331,7 @@ proinstalco.ro
 proinvision.sk
 proizteknik.com
 project-831.co.uk
+project-details.website
 project.hoangnq.com
 project1.belyaevo-room-nail.ru
 projectaisha.com
@@ -51404,6 +51422,8 @@ raviranjanphotography.com
 raw.githubusercontent.com/Andriansyah203/test/master/result_encrypted.exe
 raw.githubusercontent.com/Andriansyah203/test/master/ts.exe
 raw.githubusercontent.com/DrKiller03/project/master/2.exe
+raw.githubusercontent.com/GCMaia/Sharing/master/.idea/libraries/x/06/v.xsl
+raw.githubusercontent.com/GCMaia/Sharing/master/.idea/libraries/x/06/vv.xsl
 raw.githubusercontent.com/SecWiki/windows-kernel-exploits/master/MS15-076/Binary/Trebuchet.exe
 raw.githubusercontent.com/SecWiki/windows-kernel-exploits/master/MS16-098/bfill.exe
 raw.githubusercontent.com/TradeMachine/TradeCAT/master/YobitUPnet.exe
@@ -52897,6 +52917,7 @@ ruzsamuvhaz.hu
 rvaginfra.com
 rvce.com.sa
 rvcluj.com
+rvfitness.in
 rvhire.me.uk
 rvloans.in
 rvmhhospitals.com
@@ -54274,6 +54295,7 @@ sellhomesinvenice.com
 sellingproducts.club
 sellitti.com
 sellyourlcds.com
+sellyp.duckdns.org
 selvelone.com
 sem-ingegneria.com
 sem-komplekt.ru
@@ -58326,6 +58348,11 @@ storage.googleapis.com/jameswtmht/x/07/falxconxrenwgx.gif.zip.log
 storage.googleapis.com/jameswtmht/x/07/falxconxrenwhh9.dll.zip.log
 storage.googleapis.com/jameswtmht/x/07/falxconxrenwxa.gif.zip.log
 storage.googleapis.com/jameswtmht/x/07/falxconxrenwxb.gif.zip.log
+storage.googleapis.com/linuxczv/06/halawxtza.jpg.zip.log
+storage.googleapis.com/linuxczv/06/halawxtzb.jpg.zip.log
+storage.googleapis.com/linuxczv/06/halawxtzc.jpg.zip.log
+storage.googleapis.com/linuxczv/06/halawxtzdwwn.gif.zip.log
+storage.googleapis.com/linuxczv/06/halawxtzdx.gif.zip.log
 storage.googleapis.com/midgoldem/07/v.txt
 storage.googleapis.com/midgoldem/07/vv.txt
 storage.googleapis.com/midgoldem/x/07/falxconxrenw985.dll.zip.log
@@ -62145,6 +62172,7 @@ tradequel.net
 tradereport.cl
 tradersexpresscatering.com
 tradersstudio.com
+tradeservices.icu
 tradesky.website
 tradesolutions.la
 tradesovet.ru
@@ -65703,6 +65731,7 @@ weineundgenuss.de
 weinews.ru
 weingut-thoennes.de
 weinraub.net
+weirdoosmosis.co.za
 weisbergweb.com
 weiss-wedding.ru
 weissbierkarussell.com
