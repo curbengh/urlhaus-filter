@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 18 Jul 2019 00:21:31 UTC
+! Updated: Thu, 18 Jul 2019 12:23:01 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -495,6 +495,7 @@
 104.248.28.112
 104.248.32.139
 104.248.32.222
+104.248.33.29
 104.248.34.77
 104.248.35.116
 104.248.35.26
@@ -1277,6 +1278,7 @@
 134.175.208.207
 134.175.229.110
 134.175.26.138
+134.175.91.178
 134.19.188.107
 134.19.188.24
 134.19.188.42
@@ -1608,6 +1610,7 @@
 139.59.41.236
 139.59.41.81
 139.59.44.35
+139.59.44.60
 139.59.45.85
 139.59.56.53
 139.59.56.62
@@ -1865,6 +1868,7 @@
 142.93.235.214
 142.93.235.47
 142.93.236.160
+142.93.237.171
 142.93.237.185
 142.93.24.154
 142.93.241.53
@@ -2563,6 +2567,7 @@
 165.22.1.6
 165.22.10.119
 165.22.10.225
+165.22.101.97
 165.22.108.47
 165.22.109.101
 165.22.110.170
@@ -2718,6 +2723,7 @@
 165.227.72.10
 165.227.75.138
 165.227.81.93
+165.227.84.68
 165.227.95.53
 165.227.98.122
 165.227.98.94
@@ -2751,6 +2757,7 @@
 167.71.4.20
 167.71.4.33
 167.71.40.211
+167.71.5.88
 167.71.68.6
 167.86.117.95
 167.86.70.149
@@ -3333,6 +3340,7 @@
 178.128.45.139
 178.128.45.207
 178.128.46.8
+178.128.47.12
 178.128.50.36
 178.128.50.96
 178.128.51.105
@@ -3825,6 +3833,7 @@
 185.180.198.65
 185.180.198.91
 185.181.10.208
+185.181.10.234
 185.181.9.161
 185.183.96.168
 185.183.96.224
@@ -5328,6 +5337,7 @@
 205.185.114.87
 205.185.115.244
 205.185.116.173
+205.185.116.245
 205.185.117.168
 205.185.117.187
 205.185.117.44
@@ -6064,6 +6074,7 @@
 23.106.122.2
 23.106.123.224
 23.108.49.246
+23.108.57.157
 23.130.192.130
 23.130.192.132
 23.19.58.91
@@ -6528,6 +6539,7 @@
 35.175.200.75
 35.176.197.139
 35.182.171.137
+35.182.31.215
 35.183.245.54
 35.184.187.178
 35.184.197.183
@@ -6891,6 +6903,7 @@
 3v5.net
 3vdataguard.com
 3vventures.com
+3wereareyou.icu
 3x3click.at
 4-lindemanns.de
 4.adborod.z8.ru
@@ -7306,6 +7319,7 @@
 46.29.160.137
 46.29.160.224
 46.29.160.82
+46.29.161.238
 46.29.161.247
 46.29.161.39
 46.29.163.102
@@ -7820,6 +7834,7 @@
 52.38.160.206
 52.52.3.72
 52.54.227.252
+52.57.240.181
 52.57.28.29
 52.59.169.135
 52.6.128.217
@@ -8219,6 +8234,7 @@
 67.205.183.251
 67.207.81.212
 67.207.86.120
+67.207.93.49
 67.209.114.215
 67.21.68.148
 67.21.81.79
@@ -9677,6 +9693,7 @@
 97.70.26.229
 97.92.102.106
 97.96.178.75
+97762.prohoster.biz
 9796360.com
 97world.com
 98.116.131.34
@@ -12842,6 +12859,7 @@ arabdubaisafari.com
 arabiantongue.net
 arabiantravelhouse.com
 arabic.cleverlearncebu.com
+arabkrobo.duckdns.org
 arabre-com.tk
 aracfilo.ozgurdagci.com
 aracnemedical.com
@@ -14077,6 +14095,7 @@ averfoodrs.eu
 averin.pro
 averson.by
 avfphoto.com
+avheaven.icu
 aviabuysales.com
 avialance.eu
 aviationforecastsummit.com
@@ -23884,6 +23903,7 @@ dll.xx-exch.top
 dll1008.com
 dllanka.net
 dlqz4.oss-cn-hangzhou.aliyuncs.com
+dlres.iyims.com
 dltamap.com
 dlucca.com
 dlysxx.cn
@@ -26083,6 +26103,7 @@ dx.mqego.com
 dx.qqtn.com
 dx.qqw235.com
 dx.qqyewu.com
+dx019xsl1pace.xyz
 dx1.qqtn.com
 dx104.jiuzhoutao.com
 dx105.downyouxi.com
@@ -30504,6 +30525,10 @@ gamehack.chat.ru
 gamemechanics.com
 gameonline.web.id
 gameonlinedoithuong.com
+gameonly.xyz/ru53332/ag4wil2tuwaatbecaejsfwasaek1f2ya/download.exe
+gameonly.xyz/ru53332/age-kv2tuwaatbecaerffwaoapkf-osa/download.exe
+gameonly.xyz/ru53332/ajtnkl2tuwaatbecaerffwamaisurnia
+gameonly.xyz/ru53332/akvbkl2tuwaatbecaerfgqamaizemwua
 gamepr10.com
 gamequiz.vn
 gamerpoint.com.br
@@ -34130,6 +34155,7 @@ hrenergysolutions.co.uk
 hrhorizons.co.uk
 hrigeneva.com
 hrirsatellite.net
+hrklub-nop.hr
 hrportal.co.il
 hrsgkworker.com
 hrsoft.asia
@@ -45094,6 +45120,7 @@ mybionano.com.my
 mybitches.pw
 myblogforyou.is
 mybodytec.com
+mybohuff.com
 myboysand.me
 mybtccash.com
 myby-shop.com
@@ -49564,6 +49591,7 @@ plentreeinstitute.com
 plet.dk
 pletroberto.com
 plgmea.com
+plik.root.gg
 plintakids.com
 plitka-kovka1.ru
 plitstroy.su
@@ -53846,6 +53874,7 @@ sazias.nl
 sazovaparki.com
 sb-ob.de
 sbackservice.com
+sbb21570.mycpanel.rs
 sbdpaddlinks.000webhostapp.com
 sbe.sa
 sbeducations.com
@@ -59229,6 +59258,7 @@ suicidepreventionportagecounty.org
 suidi.com
 suigeneris.net.br
 suishoudo.com
+sukaponic.com
 sukhachova.com
 sukhiprasadsatyanarayan.com
 sukhumvithomes.com
@@ -67316,6 +67346,7 @@ xzc.197746.com
 xzc.198424.com
 xzd.197946.com
 xzgxls.com
+xzlinfo.com
 xzylacorp.com
 y-bet365.com
 y-std.ru
