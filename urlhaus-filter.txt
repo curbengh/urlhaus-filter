@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 18 Jul 2019 12:23:01 UTC
+! Updated: Fri, 19 Jul 2019 00:21:29 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1349,6 +1349,7 @@
 134.209.199.216
 134.209.199.39
 134.209.2.99
+134.209.200.179
 134.209.203.101
 134.209.203.223
 134.209.204.77
@@ -1407,6 +1408,7 @@
 134.209.43.71
 134.209.47.38
 134.209.48.14
+134.209.48.62
 134.209.49.202
 134.209.52.209
 134.209.54.118
@@ -1441,6 +1443,7 @@
 134.209.87.64
 134.209.88.23
 134.209.9.118
+134.209.9.166
 134.209.9.183
 134.209.93.155
 134.209.93.190
@@ -2614,6 +2617,7 @@
 165.22.205.77
 165.22.206.121
 165.22.21.215
+165.22.21.220
 165.22.23.186
 165.22.24.166
 165.22.24.223
@@ -4109,6 +4113,7 @@
 185.244.43.183
 185.245.96.247
 185.246.116.167
+185.246.116.185
 185.246.152.113
 185.246.152.209
 185.246.152.40
@@ -4145,6 +4150,8 @@
 185.43.4.190
 185.43.5.201
 185.43.7.37
+185.49.68.102
+185.49.68.139
 185.49.70.81
 185.49.71.101
 185.5.248.205
@@ -4617,6 +4624,7 @@
 192.236.162.21
 192.236.176.80
 192.236.178.40
+192.236.194.164
 192.236.194.34
 192.236.195.212
 192.241.128.165
@@ -4869,6 +4877,7 @@
 198.12.97.67
 198.12.97.68
 198.12.97.71
+198.12.97.72
 198.12.97.73
 198.12.97.75
 198.12.97.78
@@ -5788,6 +5797,7 @@
 212.237.58.51
 212.29.193.228
 212.36.31.215
+212.38.166.79
 212.41.63.86
 212.47.231.207
 212.47.233.120
@@ -8011,7 +8021,6 @@
 59.47.72.34
 59.47.72.69
 59.80.44.99
-59.80.44.99/indonesias.me:9998/iexplore.exe
 59.90.247.38
 59.95.148.105
 59.98.44.226
@@ -12091,7 +12100,7 @@ amnholidays.com
 amnisopes.com
 amniyatgostariranian.ir
 amnrelease.com
-amnsreiuojy.ru
+amnsreiuojy.ru/t.exe
 amnsw.com.au
 amnsw.prospareparts.com.au
 amnsw.prosparepartscom.au
@@ -15624,7 +15633,8 @@ bettery.hu
 bettingmlb.com
 bettyazari.com
 bettybottconsultation.com
-betwext.com
+betwext.com/PTa1a1aF
+betwext.com/PTa1a1aF/
 beunico.tk
 beurer-shop.ir
 beurer.by
@@ -16600,7 +16610,7 @@ blog.taxmann.com
 blog.thaicarecloud.org
 blog.thatwesguy.com
 blog.thefurnituremarket.co.uk
-blog.theodo.com
+blog.theodo.com/wp-includes/i399/
 blog.thoai.vn
 blog.timejobs.cl
 blog.tkaraca.com
@@ -18303,7 +18313,8 @@ cargoinsurance.tk
 cargokz.kz
 cargomate-kr.cf
 cargomax.ru
-caribbean360.com
+caribbean360.com/bu40BVNZ/
+caribbean360.com/test/XChCw-sav_KomKB-Pe0/COMET/SIGNS/PAYMENT/NOTIFICATION/01/28/2019/En_us/Sales-Invoice/
 carikliantiquitat.com
 carimbosrapidos.com.br
 carimint.com
@@ -20015,7 +20026,8 @@ cloudflarrr.ml
 cloudhaste.com
 cloudhooks.com
 clouding-world.online
-cloudme.com
+cloudme.com/v1/ws2/:dr404/:22cted/22cted.exe
+cloudme.com/v1/ws2/:dr404/:MicrosoftOffice/MicrosoftOffice.exe
 cloudninedesign.com.au
 cloudphotos.party
 cloudresemblao.top
@@ -20453,7 +20465,7 @@ completerubbishremoval.net.au
 completervnc.com
 complience.com
 compln.net
-components.technologymindz.com
+components.technologymindz.com/INV/AMM-7394405/
 composecv.com
 composite.be
 compphotolab.northwestern.edu
@@ -22229,7 +22241,7 @@ dealertrafficgenerator.com
 dealmykart.com
 dealsammler.de
 dealsfantasy.com
-dealtimer.com
+dealtimer.com/AsIn9
 deam.cl
 deanhopkins.co.uk
 deathbat-jp.com
@@ -23020,7 +23032,17 @@ dgfd.ru
 dgkawaichi.com
 dgkhj.ru
 dglass.cl
-dgnet.com.br
+dgnet.com.br/DOC/Rech-00084/
+dgnet.com.br/FILE/Past-Due-invoice/
+dgnet.com.br/IRS-Accounts-Transcipts-June-2018-033/0
+dgnet.com.br/IRS-Accounts-Transcipts-June-2018-033/0/
+dgnet.com.br/Need-to-send-the-attachment-June/
+dgnet.com.br/iWuVO
+dgnet.com.br/iWuVO/
+dgnet.com.br/t5wb/
+dgnet.com.br/ups.com/WebTracking/AI-1829048912363/
+dgnet.com.br/wwvvv/En_us/Transactions/12_18
+dgnet.com.br/wwvvv/En_us/Transactions/12_18/
 dgnj.cn
 dgpratomo.com
 dgs.pni-me.com
@@ -24650,6 +24672,7 @@ donnamagazine.net
 donnasharpephotography.com
 donnebella.com
 donnerreuschel.com
+donpomodoro.com.co
 donsinout.info
 donsly.usa.cc
 donsworld.org
@@ -24995,6 +25018,7 @@ drbothaina.com
 drcarrico.com.br
 drcchile.com
 drcheena.in
+drchip.org
 drclaudiadiez.com
 drcresearch.org
 drdavidcabrera.com
@@ -26242,6 +26266,7 @@ e-transferonline.com
 e-tvet.kz
 e-vel.by
 e-video.billioncart.in
+e-webtobiz.org
 e-wiw.pl
 e-xposure.com
 e-ylhua.com
@@ -26324,6 +26349,7 @@ eastheimer.com
 eastpennlandscape.com
 eastpk.org
 eastracing.de
+eastsidedailynews.com
 easy-gruppe.de
 easy-photo2data-uri.com
 easy2cart.pascalcomputer.net
@@ -26351,6 +26377,7 @@ easyprints.info
 easyrefinancecarloan.com
 easyresa.ddns.net
 easyride.ru
+easysellrealty.com
 easysh.xyz
 easyshirts.in
 easytax.vn
@@ -26520,6 +26547,7 @@ econoteen.fea.usp.br
 econotel.us
 econoticias.online
 econurturers.com
+ecopathinternational.org
 ecopin.fr
 ecoplast.com.br
 ecopropaganda.com.br
@@ -27010,6 +27038,7 @@ eliztas.com.tr
 elizvanroos.info
 elk-joy.com
 elka.botavi.com.ua
+elkagroupe.com
 elkanis-agribusinessblog.com.ng
 elkasen.eu
 elkasen.pl
@@ -27051,6 +27080,7 @@ elmont38.ru
 elmundosurdo.com
 elofight.com
 elogs.co.il
+eloka.com
 elokshinproperty.co.za
 elom.su
 elongsoft.com
@@ -27067,6 +27097,7 @@ elrayi.kz
 elres.sk
 elrincondejorgegomez.com
 elsafaschool.com
+elsalvadoropina.com
 elsewedylight.com
 elsgroup.mk
 elshipping.com.br
@@ -27139,6 +27170,7 @@ emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fapp.getresponse.com%2F
 emediworldhealthbank.com
 emelieafgeijerstam.se
 emens.at
+emeraldlodge49.org
 emeralfgroup.com
 emergencyacrepair.org
 emermia.org
@@ -27748,6 +27780,7 @@ espak.co
 espasat.com
 espaytakht.com
 especializacaosexologia.com.br
+espera-de.com
 esperanzadata.com
 espialventures.com
 espigasalicante.com
@@ -31375,6 +31408,7 @@ globalera.com.br
 globalestatesolutions.com
 globalexporthouse.com
 globalgalaxygems.com
+globalgraphicart.com
 globalgroupsearch.com
 globalgym.gr
 globalholidaystours.com
@@ -31487,7 +31521,7 @@ go-africans.com
 go-offer.info
 go-run.pl
 go-technical.com
-go.agcocorp.com/l/71092/2019-01-30/81xm4s/71092/234169/Bill_Hurleyjpg/
+go.agcocorp.com
 go.bankroll.io
 go.jinglz.online
 go.sharewilly.de
@@ -32096,7 +32130,7 @@ grouopsra.com
 group404.com
 groupegps.com
 groupejpr.com
-grouper.ieee.org
+grouper.ieee.org/groups/802/15/archive/802-15-sg5list/zipsKPvvzhlA9.zip
 groupesival.com
 groupevl.ca
 groupmediacpv.com
@@ -34011,7 +34045,8 @@ hostnamepxssy.club
 hostnana.com
 hostpp.gq
 hostpp.ml
-hostpp2.ga
+hostpp2.ga/20190118/4C384435-9E82-4011-ACF3-78489BB98229.exe
+hostpp2.ga/20190118/multishare.exe
 hostpp2.tk
 hostprodirect.com
 hostrooz.com
@@ -35059,6 +35094,7 @@ imetrade.com
 imf.ru
 imfaded.xyz
 img-swrpics-ara12.ga
+img.mailinblue.com/2068480/attachments/0204902900.zip
 img.mailinblue.com/2098380/attachments/048940030.zip
 img.mailinblue.com/2098380/attachments/Quo00289.zip
 img.martatovaglieri.com
@@ -35267,9 +35303,7 @@ indodentist.com
 indokku.com
 indonesiafte.com
 indonesiakompeten.com
-indonesias.me:9998/333.exe
-indonesias.me:9998/64.exe
-indonesias.me:9998/c64.exe
+indonesias.me
 indonesiaumroh.com
 indoorpublicidade.com.br
 indoqualitycleaning.com
@@ -43200,7 +43234,9 @@ mehakindiancuisine.com
 mehandi.tidbitsolutionsglobal.com
 mehedibappi.com
 mehmetatmaca.net
-mehmetozkahya.com
+mehmetozkahya.com/199ONJS/biz/Commercial
+mehmetozkahya.com/199ONJS/biz/Commercial/
+mehmetozkahya.com/38581B/com/Business
 mehmettolgaakdogan.com
 mehmoodtrust.com
 mehpriclagos.org
@@ -44521,8 +44557,7 @@ mosbirdclub.ru
 mosbussum.nl
 moschee-wil.ch
 moscow.bulgakovmuseum.ru
-moscow00.online/GetDataAVK.exe
-moscow00.online/KeyMoscow00.35.exe
+moscow00.online
 moscow1.online/GetDataAVK.exe
 moscow1.online/KeyMoscow.exe
 moscow1.online/proxy/skapoland.chickenkiller.com.exe
@@ -45094,8 +45129,25 @@ my-organic-shop.co.uk
 my-spa.rs
 my.camptaiwan.com.tw
 my.jiwa-nala.org
-my.mail.de/dl/16396560ccdf7536b3dde030d4b7e0e0/
-my.mixtape.moe
+my.mail.de
+my.mixtape.moe/ayqydr.vbs
+my.mixtape.moe/chhsmy.htaa
+my.mixtape.moe/coxgka.jpg
+my.mixtape.moe/ejkhnj.htaa
+my.mixtape.moe/eyugjv.htaa
+my.mixtape.moe/huofcq.htaa
+my.mixtape.moe/krmiez.docx
+my.mixtape.moe/ntvual.jar
+my.mixtape.moe/rgbtph.jpg
+my.mixtape.moe/swxfsf.hta
+my.mixtape.moe/tcelou.htaa
+my.mixtape.moe/ufmaxl.htaa
+my.mixtape.moe/vartac.jpg
+my.mixtape.moe/vfgrox.jpg
+my.mixtape.moe/vjgwsh.zip
+my.mixtape.moe/xyvdrv.htaa
+my.mixtape.moe/ywphpl.zip
+my.mixtape.moe/zmkjcs.jpg
 my.zhaopin.com
 my10apps.com
 my2b.online
@@ -46168,16 +46220,7 @@ nguyenquynhnga.net
 nguyenthanhriori.com
 nguyenthituyet.org
 nguyenthuyhanh.com.vn
-ngyusa.com/catalog/htarg2.hta
-ngyusa.com/catalog/rginvoice.exe
-ngyusa.com/customer/anyi.exe
-ngyusa.com/payment/htaallofus.hta
-ngyusa.com/payment/htanelson.hta
-ngyusa.com/payment/htazeco.hta
-ngyusa.com/systems/bukas.exe
-ngyusa.com/systems/htabukas.hta
-ngyusa.com/systems/htanelson.hta
-ngyusa.com/systems/htazeco.hta
+ngyusa.com
 nhadaiphat.com
 nhadatminhlong.vn
 nhadatnambac.com
@@ -49015,12 +49058,7 @@ persianruggallery.com
 persiapanieltstoefl.com
 persiapet.net
 persimmonforge.com
-perso.wanadoo.es/cartaouol/uolcartoes.exe
-perso.wanadoo.es/gracig02/atualizado098476verifica.exe
-perso.wanadoo.es/grande000001/csrs.jpg
-perso.wanadoo.es/provedoresbrasil/relatorioemails2006.exe
-perso.wanadoo.es/stjsites/stj.exe
-perso.wanadoo.es/tdfgr/350RONPXJ65Y47.exe
+perso.wanadoo.es
 personal.nwolb.user.log.security.cod.issue.fondue-at-the-fountain.com
 personalized-weddings.com
 personalshopper-salzburg.com
@@ -51844,6 +51882,7 @@ redvelvetpatisserie.co.uk
 redwing.com.eg
 redwire.us
 redyman.com
+redzoneairsoft.com
 reelcreations.ie
 reeltorealomaha.com
 reeltv.org
@@ -53727,6 +53766,7 @@ sapthagirinyc.com
 sapucainet.com.br
 saqibsalon.com
 saqibtech.com
+sar-taxi.ru
 sara-gadalka.com.kg
 sarabuschlen.com
 sarackredi.com
@@ -54951,6 +54991,7 @@ shermancohen.com
 shernicejohnson.com
 sherrikane.com
 sherwoodlp.com.ua
+sherzerinsurance.com
 shetakari.in
 shevruh.com.ua
 shevtsovonline.com
@@ -61599,6 +61640,7 @@ tidevalet.com
 tidewaterenterprises.com
 tidewatermech.com
 tidyhome.in
+tie281chad2.xyz
 tiefquehltruhe.de
 tiegy.vip
 tiemokodoumbia.com
@@ -62419,6 +62461,7 @@ tree.sibcat.info
 treehugginpussy.de
 treesguru.com
 treesurveys.infrontdesigns.com
+trefzer-it.de
 trehoada2.ballybeauty.vn
 trehoadatoanthan.info
 trehoadatoanthan.net
@@ -65085,13 +65128,7 @@ vivinod1.xyz
 vivirdelabolsa.com
 vivo.ubfc.fr
 vivredeprinceintlschools.com
-viwma.org/cli/FILE/W1gS3rMeZfXT/
-viwma.org/cli/INC/28SL3gaOVoW6/
-viwma.org/cli/OXBi-BJXNrQxB3okl7I_qGuumUUH-bP/
-viwma.org/cli/Scan/aosWntODCVSVOGVd/
-viwma.org/cli/TelRE-pbHMTM2oDMBt4R_tfdkppPIh-Say/
-viwma.org/cli/bikck8-zbjt57-ashpbfy/
-viwma.org/cli/tp45v-030n36g-prsrp/
+viwma.org
 vizar.hr
 vizertv.xyz
 vizicsiga.hu
@@ -66746,7 +66783,7 @@ wyensolo.com
 wylernissanlouisville.com
 wyndhamatduran.com
 wyomingauthors.org
-wyptk.com
+wyptk.com/openlink/openlink1.exe
 wyszx.jihaose.cn
 wywoznieczystosci.pomorze.pl
 wz-architekten.de
@@ -67340,6 +67377,7 @@ xyzeeee.ga
 xyzeeeee.com
 xyzfilamenten.nl
 xz.bxacg.com
+xz.gexgz.com
 xz97.top
 xzb.198424.com
 xzc.197746.com
