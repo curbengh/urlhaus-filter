@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 20 Jul 2019 12:22:10 UTC
+! Updated: Sun, 21 Jul 2019 00:22:53 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -364,6 +364,7 @@
 104.238.186.167
 104.244.72.143
 104.244.72.82
+104.244.74.186
 104.244.74.55
 104.244.75.25
 104.244.76.15
@@ -1001,6 +1002,7 @@
 121.167.76.62
 121.168.103.102
 121.174.70.131
+121.174.70.135
 121.174.70.181
 121.174.70.189
 121.177.239.68
@@ -1323,6 +1325,7 @@
 134.209.159.2
 134.209.163.80
 134.209.164.141
+134.209.164.195
 134.209.164.55
 134.209.165.212
 134.209.167.48
@@ -1730,6 +1733,7 @@
 142.11.206.115
 142.11.206.184
 142.11.210.100
+142.11.210.200
 142.11.211.114
 142.11.212.167
 142.11.212.47
@@ -2783,6 +2787,7 @@
 167.71.184.8
 167.71.190.55
 167.71.2.125
+167.71.200.228
 167.71.4.20
 167.71.4.33
 167.71.40.211
@@ -3460,6 +3465,7 @@
 178.62.21.111
 178.62.21.247
 178.62.213.188
+178.62.221.94
 178.62.226.34
 178.62.227.13
 178.62.229.228
@@ -4174,6 +4180,7 @@
 185.29.11.126
 185.29.8.212
 185.33.146.33
+185.34.219.113
 185.35.137.144
 185.35.138.173
 185.35.64.156
@@ -4187,6 +4194,7 @@
 185.49.70.81
 185.49.71.101
 185.5.248.205
+185.5.250.44
 185.52.2.140
 185.52.2.199
 185.52.2.20
@@ -7042,6 +7050,7 @@
 45.124.113.44
 45.126.254.31
 45.127.97.4
+45.129.2.132
 45.195.84.92
 45.227.252.250
 45.227.252.252
@@ -7151,7 +7160,10 @@
 45.88.78.34
 45.89.230.119
 45.89.230.8
+45.95.147.12
+45.95.147.17
 45.95.147.33
+45.95.147.42
 4570595.ru
 46.101.102.135
 46.101.104.141
@@ -8044,6 +8056,7 @@
 59.2.145.43
 59.2.151.157
 59.2.250.26
+59.20.189.145
 59.20.189.173
 59.24.115.81
 59.25.9.121
@@ -8284,6 +8297,7 @@
 67.207.81.212
 67.207.86.120
 67.207.93.49
+67.207.94.25
 67.209.114.215
 67.21.68.148
 67.21.81.79
@@ -11491,7 +11505,7 @@ alexfranco.co
 alexgarkavenko.com
 alexhhh.chat.ru
 alexis.monville.com
-alexlema.com
+alexlema.com/css/a1/Mail_Access_Logs.doc
 alexm.co.za
 alexovicsattila.com
 alexpopow.com
@@ -12160,7 +12174,7 @@ amnholidays.com
 amnisopes.com
 amniyatgostariranian.ir
 amnrelease.com
-amnsreiuojy.ru/t.exe
+amnsreiuojy.ru
 amnsw.com.au
 amnsw.prospareparts.com.au
 amnsw.prosparepartscom.au
@@ -14077,7 +14091,7 @@ autoprof.es
 autoreduc.com
 autoregressed.com
 autorepairinriorancho.com
-autorepairmanuals.ws/homepage/bSDjvZYCUYyxvldpcWiSpz/
+autorepairmanuals.ws
 autoride.gr
 autorizatiifirme.ro
 autorouteduchocolat.biz
@@ -15697,8 +15711,7 @@ bettery.hu
 bettingmlb.com
 bettyazari.com
 bettybottconsultation.com
-betwext.com/PTa1a1aF
-betwext.com/PTa1a1aF/
+betwext.com
 beunico.tk
 beurer-shop.ir
 beurer.by
@@ -18377,7 +18390,8 @@ cargoinsurance.tk
 cargokz.kz
 cargomate-kr.cf
 cargomax.ru
-caribbean360.com
+caribbean360.com/bu40BVNZ/
+caribbean360.com/test/XChCw-sav_KomKB-Pe0/COMET/SIGNS/PAYMENT/NOTIFICATION/01/28/2019/En_us/Sales-Invoice/
 carikliantiquitat.com
 carimbosrapidos.com.br
 carimint.com
@@ -22311,7 +22325,7 @@ dealertrafficgenerator.com
 dealmykart.com
 dealsammler.de
 dealsfantasy.com
-dealtimer.com/AsIn9
+dealtimer.com
 deam.cl
 deanhopkins.co.uk
 deathbat-jp.com
@@ -23104,17 +23118,7 @@ dgfd.ru
 dgkawaichi.com
 dgkhj.ru
 dglass.cl
-dgnet.com.br/DOC/Rech-00084/
-dgnet.com.br/FILE/Past-Due-invoice/
-dgnet.com.br/IRS-Accounts-Transcipts-June-2018-033/0
-dgnet.com.br/IRS-Accounts-Transcipts-June-2018-033/0/
-dgnet.com.br/Need-to-send-the-attachment-June/
-dgnet.com.br/iWuVO
-dgnet.com.br/iWuVO/
-dgnet.com.br/t5wb/
-dgnet.com.br/ups.com/WebTracking/AI-1829048912363/
-dgnet.com.br/wwvvv/En_us/Transactions/12_18
-dgnet.com.br/wwvvv/En_us/Transactions/12_18/
+dgnet.com.br
 dgnj.cn
 dgpratomo.com
 dgs.pni-me.com
@@ -24945,7 +24949,7 @@ download.pdf00.cn
 download.postnltrackentrace.com
 download.qiangxm.com
 download.rising.com.cn
-download.security.baidu.co.th
+download.security.baidu.co.th/softmgr/C9_Thailand_Downloader_1.062.exe
 download.skycn.com
 download.sosej.cz
 download.ttrar.com
@@ -25734,6 +25738,7 @@ dropbox.com/s/f1q0gwfx4jh529a/flashplayer_37.3.12_plugin.js?dl=1
 dropbox.com/s/f3mz6fw6k9ydwwi/Payment_advice_BSH.uue?dl=1
 dropbox.com/s/fkjuke47q6gp75n/ORDER009,pdf.z?dl=1
 dropbox.com/s/fpk0z8z23bo87nk/rbs.dll?dl=1
+dropbox.com/s/fq2a0u716hy0snv/Purchase%20Order.pdf.z?dl=1
 dropbox.com/s/fu9ie4u7okbovlm/3xx.exe?dl=1
 dropbox.com/s/fwftwsisapf0969/BL%20COPY%20INVOICE%20%26%20PACKINGLIST_SCAN_pdf.ace?dl=1
 dropbox.com/s/fwylclyli6etz78/ProfomaInvoice53241.pdf.z?dl=1
@@ -30467,12 +30472,7 @@ fyzika.unipo.sk
 fzf.jp
 fzs.ma
 g-and-f.co.jp
-g-cleaner.info/koskos.exe
-g-cleaner.info/main.exe
-g-cleaner.info/mixsuccess
-g-cleaner.info/mixsuccess2
-g-cleaner.info/mixsuccess3
-g-cleaner.info/success
+g-cleaner.info
 g-dent.ru
 g-ec2.images-amazon.com/images/G/01/abis-ui/merchants/amazon.de/
 g-l-a-m.ru
@@ -32559,6 +32559,7 @@ habanahotel.com.vn
 habanerostosa.com
 habarimoto24.com
 habbies.in
+habbotips.free.fr
 habenprop-my.sharepoint.com
 haberci77.com
 haberekw.cba.pl
@@ -37554,10 +37555,7 @@ jxis.com.br
 jxprint.ru
 jxproject.ru
 jxstudio.ru
-jxwmw.cn/att/0/10/05/85/10058513_919975.exe
-jxwmw.cn/wenhuajingdian/upfiles/chm_exe/1226sanguo1gb.exe
-jxwmw.cn/wenhuajingdian/upfiles/chm_exe/fsyy.exe
-jxwmw.cn/wenhuajingdian/upfiles/chm_exe/szbf.exe
+jxwmw.cn
 jy-property.com
 jycingenieria.cl
 jycslist.free.fr
@@ -39242,7 +39240,7 @@ ky663.com
 kyadondotechnicalinstitute.com
 kyaikhtohotel.com
 kyanos.000webhostapp.com
-kyans.com
+kyans.com/wp-admin/1De3/
 kyatama.com
 kyedoll.com
 kykeon-eleusis.com
@@ -40516,7 +40514,7 @@ lists.ibiblio.org
 lists.linaro.org
 lists.mplayerhq.hu
 lists.opnfv.org
-lists.reading.ac.uk
+lists.reading.ac.uk/archives/met-abs/2018-09/doc6aEJrpdUn2.doc
 listsr.ch
 listyourhomes.ca
 liszkaokna.pl
@@ -44621,7 +44619,8 @@ mosbirdclub.ru
 mosbussum.nl
 moschee-wil.ch
 moscow.bulgakovmuseum.ru
-moscow00.online
+moscow00.online/GetDataAVK.exe
+moscow00.online/KeyMoscow00.35.exe
 moscow1.online/GetDataAVK.exe
 moscow1.online/KeyMoscow.exe
 moscow1.online/proxy/skapoland.chickenkiller.com.exe
@@ -44629,9 +44628,7 @@ moscow11.at/GetDataAVK.exe
 moscow11.at/proxy/skapoland.chickenkiller.com.exe
 moscow11.host
 moscow11.icu
-moscow33.online/KeyMoscow33.35.exe
-moscow33.online/KeyMoscow33.40.exe
-moscow33.online/proxy/assno.chickenkiller.com.exe
+moscow33.online
 moscow44.online
 moscow55.online
 moscow66.online/KeyMoscow55.35.exe
@@ -46284,7 +46281,16 @@ nguyenquynhnga.net
 nguyenthanhriori.com
 nguyenthituyet.org
 nguyenthuyhanh.com.vn
-ngyusa.com
+ngyusa.com/catalog/htarg2.hta
+ngyusa.com/catalog/rginvoice.exe
+ngyusa.com/customer/anyi.exe
+ngyusa.com/payment/htaallofus.hta
+ngyusa.com/payment/htanelson.hta
+ngyusa.com/payment/htazeco.hta
+ngyusa.com/systems/bukas.exe
+ngyusa.com/systems/htabukas.hta
+ngyusa.com/systems/htanelson.hta
+ngyusa.com/systems/htazeco.hta
 nhadaiphat.com
 nhadatminhlong.vn
 nhadatnambac.com
@@ -48057,7 +48063,7 @@ osttirol.news
 osttirolurlaub.at
 ostyle-shop.net
 osuhughgufijfi.ru
-osvehprint.com/DOC/Invoice-number-541529/
+osvehprint.com
 osvisa.com
 osvisacom
 osweb.shop
@@ -48302,8 +48308,7 @@ pablohevia.com
 pablolauria.site
 pabloteixeira.com
 pablotrabucchelli.com
-paboard.com/6AR/ACH/Smallbusiness
-paboard.com/6AR/ACH/Smallbusiness/
+paboard.com
 pabx-uae.com
 pacbest.org
 pacedg-my.sharepoint.com
@@ -48901,7 +48906,7 @@ pd.creditreform-muster.de
 pd0rt.nl
 pdedas.com
 pdesaa.cimaa.pt
-pdf-archive.com/2017/06/29/fmb/fmb.pdf
+pdf-archive.com
 pdf-archive.press
 pdf-archive.store
 pdf-compare.site
@@ -49620,8 +49625,7 @@ planetcourierservice.us
 planetefaune.com
 planetferguson.net
 planetkram.com
-planetnautique.com/2011210/qaUez-kD2_YE-ytd/
-planetnautique.com/2011210/vgaQZ-jWR_mfsc-VW/
+planetnautique.com
 planetpainter.ca
 planets.co.il
 planetsmit.com
@@ -55876,16 +55880,7 @@ slowianskawieza.pl
 slowmoneysocal.org
 slowtime.net
 slppoffice.lk
-slpsrgpsrhojifdij.ru/1.exe
-slpsrgpsrhojifdij.ru/2.exe
-slpsrgpsrhojifdij.ru/3.exe
-slpsrgpsrhojifdij.ru/c.exe
-slpsrgpsrhojifdij.ru/krablin.exe
-slpsrgpsrhojifdij.ru/krablin.exe?SZLIp
-slpsrgpsrhojifdij.ru/krablin.exe?VuNpZqS
-slpsrgpsrhojifdij.ru/o.exe
-slpsrgpsrhojifdij.ru/p.exe
-slpsrgpsrhojifdij.ru/t.exe
+slpsrgpsrhojifdij.ru
 slrent.com
 slrpros.com
 sls-eg.com
@@ -63229,6 +63224,7 @@ uc31cf4a42bfc2f584477d4f0663.dl.dropboxusercontent.com/cd/0/get/AdCGWfkXtk6UMOGn
 uc31df0fd2703089c6c9e7d98c7f.dl.dropboxusercontent.com/cd/0/get/ARA0Id6L34DBwY23aS3PIge_XHtQloARZfWndZCeTsLPwEfZaB3xbFzdbhW5CIP1f4J4Hrn_vc-K1_YXPV8q8Ruux1WZCwLgkMLSr_TLeubsGYVjTJ0Ltz_VaHswUP5YZiMBHIBi7VZN3GN5zJW_QBJseio3w_oM99Ii22rEliH-LVIR1bNPDmFXB319XceKNmE/file?dl=1
 uc327c1444af42829e9dcd2e2376.dl.dropboxusercontent.com/cd/0/get/AgfndhAZMwbHfBMPFDPTydPuF0COzbyXwQ6io3QkOTSrfXCEegJI6xv8eS2zF_nJ2Raa8K4pIyIMSTf6hhdKPX3OBk71a6J5zn8sFS_lBwefpA/file?dl=1
 uc32b0c4ffaff80452201833a51c.dl.dropboxusercontent.com/cd/0/get/AV_ibjKDOoVL03n16OC9rjReolMRjOfDu9ftf0jhsSfHXzJ40M2ARIyBF_UP4C_74PT6JoKtHG7c12nnswTv9BP3dSPM9qdbfjJJ86B1goaKp2wkbDxVzikKJxGQ6loZ0MnRJs0hZHDWgmua2RiPCj_emjvt9v0KkiFmInWfyHOUq_KbJSTMzCYvQ6N7kF8veHM/file?dl=1
+uc33af15a1af5b3c4e5be318fd70.dl.dropboxusercontent.com/cd/0/get/AlHAOQl8JbbQoSSOgvbN1-dJYgX9XtS2yg7a7YmW9pMt6ASH9uuoa8zN6orYh-RGVjEv75VBdkRBti0l4fC13KE3Z319uvclc2ae0_gRALl9dw/file?dl=1
 uc34063bd1f6505fe54d2bce7186.dl.dropboxusercontent.com/cd/0/get/ARByNj2jBN_OoJ31Au2Q3pm-VhpQKKBLMoqmG_IiyEHMOT98qfdsP0RthCWY7OwYIxbp-Eh5uRqpr50Yto-4AovPJmRw_wFhGFM-uOSvGsdU0OD_LqGfW83YVxNgK-iOxapMJfPnRwSD3O8y66mo2A5VVtm0UJIbMcAQyMNvsnFwhp1qzhPwrKc3z3__C4A8oKI/file?dl=1
 uc35f76bbe02f3baa890d81f7088.dl.dropboxusercontent.com/cd/0/get/Aa5AA7DMMy4hUO771b-mSkZjZ3eL-U02W4N1I98mh7O8Knjzw1qYjPNWpoRXs8oMm1pLi-8BwhIRN8rMt_M3jV0LTPp9hvtM2fxBIL3J-R6O7Q/file?dl=1#
 uc376027443722f80d496c3a0b16.dl.dropboxusercontent.com/cd/0/get/AUOU3Rf858P6nSSudsb72cj_im7_GZp1BFVQLen0tFGY_Or-5HqAFrvFe2kGPaxdIYDSxfUaj7_OWfUikifobG6NYtKx7NSE7PT4U6Y3Ixy1StgMvK4NwVYuYeUssDdxizhmmQo-gzUWGownq4Nw1NgSGH6ZPbQQpqS2bsMtiZsz8D0ZVODSQIE55ep0nYDAkr8/file?dl=1
@@ -63361,6 +63357,7 @@ uc9c2f70157b4611c69112fcadbe.dl.dropboxusercontent.com/cd/0/get/AXoRh_P1nN56gQCs
 uc9cca3c7aef17f12e7756f81e12.dl.dropboxusercontent.com/cd/0/get/ATuCEM7sHfnnjJ5N5s1NrAKhP2T2dPHAIjvsat54mAAocuqyp2lln_Qu-Ebz8w5Jl8XJwd_7b5x-8HrXNs0nrSh_MbMXglrk1qkLw34vB2DATuqMJ-UO6cPLjDQTaTguX9djBbm6MYkEdNSLem33ppc_AijTLzdsMKBoJtoxNbA8_XqjZ6r325B5gCLH2X4P7c4/file?dl=1
 uc9d282b0aa21ceaaa90d9eb604d.dl.dropboxusercontent.com/cd/0/get/AXSQHA0lhIPUUloy0OlT33SQzhsnLSZRHqnKw6GnErTWSYGzf00ZuWFg2wfQI6z9uULTR6pIpH6e1M3gBJCTATP5orktnYmqVTYDFZ0qWczpMpBsxUcdaalzTPxwORJSFCFMIlz6gi-LQjolVzO3FZWa4fLxdsT1m9dc_sRJyGwGs_nce9u3VdkOD0-WzHtB2VU/file?dl=1
 uc9dc107f06a0228baa4ae9952fd.dl.dropboxusercontent.com/cd/0/get/AUT8HHhzoiiET7zHDcZ7OOuIWYNazuMVnmet6xphmbVGUAFs8AAwv_LA1fS7n0i-fv1ZXJgZeTutfMhL7Mas7vtHE0KZLj_Nr8_XrnM4Wp2NILPmptphMYznm_MHF8SV9w1HFSw7HCeZHInxVFVVNcimR_l07UIMfJK7rFbg2oJMVBlZ2blYUJrIEPxm4ypLQM4/file?dl=1
+uc9e8cb4f3f0e43230836e5ec6c6.dl.dropboxusercontent.com/cd/0/get/AlGO1D_AevlEjF3JzoeVSsWMe66EiKB6g2BAiHdkboNfJdJ4GhM7cKIGdWfggkT9F1IfaiJMoSKCIIuithaUTtF1aKPolysb_oU_GwTjCAvhcQ/file?dl=1
 uca059b5e8338c7412b25f10e1e5.dl.dropboxusercontent.com/cd/0/get/Afu8oI4OjKyLUwMo9JgaFLuzCRthO54lGIaRwbbpxaYzwT6YtI6h8iST0Nzjk7TFLY7qJDk2CVkDnTI0zLtVxbxnnm8UAqkzasg9i5d-Elvmng/file?dl=1
 uca065fffb223a76ecc3640ac226.dl.dropboxusercontent.com/cd/0/get/AWn1zxJYU86rQOtRCGuToADPjHsycppqrcZWY7tjB0rARAhrqw-4GP55UObjFiHZXbLuwoS2LxUJquo19jqwlEwRLQ0_2D5vLQiMI-4zDWsaBJJWqh34n1SSqi3qMomUXkFDOso0EEKlDZGdSktTof5YSTIH3newqJUNEUur-qfGoNE45J4ac2_a9RoKnhHZlnQ/file?dl=1
 uca10ca2d4df8fc9dcc4add8e93b.dl.dropboxusercontent.com/cd/0/get/AQwfF7GVBG-y12ztFiWSW3lITbf-pVMaLwVLUtq5RUx2brsAzPC0Y8ZoAOrOpQdbA42bfQuF9pNTz_ug8z1SVXdRvsfsd8ApP5XyHqWiMyu56WtumuToFPv8y7OVWEk3MnyU2-d4ZyLXpHjFWUUyXc60f-M3KwkanR6wQhZVlVtbhrB-4dY_QYKOD4-VPD5dxJA/file?dl=1
@@ -63809,6 +63806,7 @@ unmondedephotos.com
 unmundomejor.life
 uno.smartcommerce21.com
 unoautomation.com.br
+unokaoeojoejfghr.ru
 unomagurasadar.gov.bd
 unoppressive-operat.000webhostapp.com
 unpesopertutti.it
@@ -66416,6 +66414,7 @@ wirelessearphonereviews.info
 wirelesskinect.com
 wirelessprato.com
 wirelessservicenews.com
+wirivertrail.org
 wisam.xyz
 wisatahalimun.co.id
 wisatatapteng.web.id
@@ -66864,7 +66863,7 @@ wyensolo.com
 wylernissanlouisville.com
 wyndhamatduran.com
 wyomingauthors.org
-wyptk.com/openlink/openlink1.exe
+wyptk.com
 wyszx.jihaose.cn
 wywoznieczystosci.pomorze.pl
 wz-architekten.de
