@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Online Malicious URL Blocklist
-! Updated: Mon, 22 Jul 2019 12:23:42 UTC
+! Updated: Mon, 22 Jul 2019 12:26:07 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -103,6 +103,7 @@
 14.46.104.156
 14.46.209.82
 14.46.70.58
+14.47.60.102
 14.54.121.194
 141.226.28.137
 141.226.28.195
@@ -141,6 +142,7 @@
 175.202.162.120
 175.212.180.131
 176.119.1.74
+176.228.166.156
 176.32.33.134
 176.97.220.24
 177.118.168.52
@@ -156,6 +158,7 @@
 178.75.11.66
 179.220.125.55
 179.99.203.85
+179.99.210.161
 180.153.105.169
 181.44.84.43
 181.49.241.50
@@ -247,6 +250,7 @@
 201.192.164.228
 201.203.27.37
 2019.jpbk.net
+202.107.233.41
 202.29.95.12
 202.55.178.35
 202.75.223.155
@@ -354,7 +358,6 @@
 37.34.186.209
 37.59.242.122
 38.143.223.216
-3d.co.th
 4.kuai-go.com
 41.32.210.2
 41.32.23.132
@@ -524,7 +527,6 @@
 85.222.91.82
 85.245.104.162
 85.99.247.39
-86.105.56.176
 86.105.59.197
 86.105.59.228
 86.105.59.65
@@ -723,7 +725,6 @@ anwaltsservice.net
 anysbergbiltong.co.za
 apartdelpinar.com.ar
 apoolcondo.com
-app100700930.static.xyimg.net
 apware.co.kr
 arasys.ir
 archiware.ir
@@ -827,7 +828,6 @@ c.top4top.net/p_1055q1ssb1.jpg
 c.top4top.net/p_6534e8r81.jpg
 c.top4top.net/p_897ao4tp1.jpg
 ca.monerov10.com
-ca.monerov9.com
 cafepanifica.com
 cali.de
 calidadiberica.es
@@ -882,6 +882,7 @@ cid.ag
 cielecka.pl
 cilico.com
 cinarspa.com
+cj63.cn
 cklinosleeve.icu
 climapro-africa.com
 cn.download.ichengyun.net
@@ -897,6 +898,7 @@ comcom-finances.com
 complan.hu
 complanbt.hu
 comtechadsl.com
+config.wulishow.top
 config.younoteba.top
 config01.homepc.it
 congnghexanhtn.vn
@@ -934,12 +936,13 @@ d1.gamersky.net
 d1.paopaoche.net
 d1.w26.cn
 d1g83yf6tseohy.cloudfront.net
-d6.51mag.com
+d2.udashi.com
+d8.driver.160.com
 d9.99ddd.com
+d9.driver.160.com
 da.alibuf.com
 dagda.es
 daoudi-services.com
-dap.1919wan.com
 darbud.website.pl
 data.over-blog-kiwi.com
 data.yx1999.com
@@ -956,6 +959,7 @@ deka-asiaresearch.com
 dekorant.com.tr
 delione.com
 deluxerubber.com
+demirendustriyel.com.tr
 demo.esoluz.com
 dennishester.com
 dennisjohn.uk
@@ -993,17 +997,16 @@ dkw-engineering.net
 dl-gameplayer.dmm.com
 dl-t1.wmzhe.com
 dl.008.net
+dl.198424.com
+dl.downyi.com
 dl.dzqyh.com
 dl.dzqzd.com
-dl.hzkfgs.com
-dl.kuaile-u.com
 dl.popupgrade.com
 dl2.soft-lenta.ru
 dlist.iqilie.com
 dlres.iyims.com
 dnabeauty.kz
 dnn.alibuf.com
-dns.alibuf.com
 docs.wixstatic.com/ugd/450bac_ab01ea2e52794400bc758fe8a450bf25.doc
 docs.wixstatic.com/ugd/73cceb_c17a8f0c9de44cf8893c44fad51c5c48.doc?dn=3m.doc
 docs.wixstatic.com/ugd/73cceb_dfa7257140bd472fbbff5576442f7b23.doc?dn=3.doc
@@ -1015,7 +1018,7 @@ don.viameventos.com.br
 donmago.com
 doolaekhun.com
 doransky.info
-down.1919wan.com
+dosame.com
 down.3xiazai.com
 down.ancamera.co.kr
 down.ctosus.ru
@@ -1028,21 +1031,21 @@ down.kuwo.cn/mbox/wwwab/MBOX8.0.1.5/kuwo2015.exe
 down.pcclear.com
 down.soft.6789.net
 down.soft.hyzmbz.com
-down.soft.yypdf.cn
 down.startools.co.kr
 down.upzxt.com
 down.webbora.com
 down.wlds.net
+down.xrpdf.com
 down1.arpun.com
 down1.greenxf.com
 down11.downyouxi.com
 down12.downyouxi.com
 down7.downyouxi.com
+down8.downyouxi.com
 download.cardesales.com
 download.doumaibiji.cn
 download.fahpvdxw.cn
 download.fsyuran.com
-download.ktkt.com
 download.mtu.com
 download.pdf00.cn
 download.qiangxm.com
@@ -1094,13 +1097,18 @@ dx21.downyouxi.com
 dx25.downyouxi.com
 dx30.91tzy.com
 dx40.91tzy.com
-dx6.91tzy.com
+dx51.downyouxi.com
+dx52.downyouxi.com
+dx53.downyouxi.com
+dx55.downyouxi.com
 dx62.downyouxi.com
 dx63.downyouxi.com
+dx65.downyouxi.com
 dx71.downyouxi.com
 dx73.downyouxi.com
 dx74.downyouxi.com
 dx75.downyouxi.com
+dx84.downyouxi.com
 dx91.downyouxi.com
 dxc8gomuhcz9w.cloudfront.net
 dxdown.2cto.com
@@ -1213,6 +1221,7 @@ fundileo.com
 funletters.net
 futuregraphics.com.ar
 fxtraderlog.com
+g.7230.com
 g0ogle.free.fr
 gabeclogston.com
 galdonia.com
@@ -1269,6 +1278,7 @@ guimaraesconstrutorasjc.com.br
 gulfup.me
 gundemakcaabat.com
 guth3.com
+gx-10012947.file.myqcloud.com
 habbies.in
 habbotips.free.fr
 hagebakken.no
@@ -1344,7 +1354,9 @@ impro.in
 in100tive.com
 inclusao.enap.gov.br
 incredicole.com
+indonesias.me:9998/333.exe
 indonesias.me:9998/64.exe
+indonesias.me:9998/c64.exe
 industriasrofo.com
 infopatcom.com
 informatioshopname.ru
@@ -1580,6 +1592,7 @@ mtkwood.com
 mukunth.com
 multi-bygg.com
 mulugetatcon.com
+mutec.jp
 mvid.com
 my-christmastree.com
 mydatawise.com
@@ -1754,9 +1767,9 @@ prism-photo.com
 proball.co
 probost.cz
 prog40.ru
+protectiadatelor.biz
 prowin.co.th
 przedszkoleps.pl
-psksalma.ru
 ptmaxnitronmotorsport.com
 pujashoppe.in
 qchms.qcpro.vn
@@ -1854,7 +1867,7 @@ renim.https443.net/restr.exe
 renim.https443.net/shaht64.exe
 renimin.mymom.info
 rennhack.de
-res.yeshen.com/player/launch/2017/09/12/da5f9a1c23034353852750488feeaf36.exe
+res.qaqgame.cn
 restejeune.com
 revolum.hu
 rezonateworldwide.com
@@ -1883,6 +1896,7 @@ rvfitness.in
 s-pl.ru
 s.51shijuan.com
 s.trade27.ru
+s14b.91danji.com
 s2lol.com
 s3.wasabisys.com/friskycow/Cow_Connect_v180918.exe
 saad.qurvex.com
@@ -1975,7 +1989,6 @@ sms.nfile.net
 sndtgo.ru
 sntech.hu
 sobakaevro.ru
-soebygaard.com
 soft.114lk.com
 soft.duote.com.cn
 soft2.mgyun.com
@@ -2134,7 +2147,6 @@ upa1.hognoob.se
 upa2.hognoob.se
 update-res.100public.com
 update.cognitos.com.br
-update.drp.su/nps/offline/bin/tools/run.hta
 update.drp.su/nps/online/bin/tools/run.hta
 update.hoiucvl.com
 update.joinbr.com
@@ -2234,6 +2246,8 @@ wt112.downyouxi.com
 wt120.downyouxi.com
 wt121.downyouxi.com
 wt122.downyouxi.com
+wt50.downyouxi.com
+wt61.downyouxi.com
 wt71.downyouxi.com
 wt72.downyouxi.com
 wt90.downyouxi.com
@@ -2281,6 +2295,7 @@ yourfiles0.tk
 youth.gov.cn
 yszywk.net
 yunyuangun.com
+yuyu02004-10043918.file.myqcloud.com
 zagruz.dnset.com
 zagruz.toh.info
 zagruz.zyns.com
