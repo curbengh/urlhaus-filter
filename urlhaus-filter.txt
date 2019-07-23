@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 23 Jul 2019 00:23:36 UTC
+! Updated: Tue, 23 Jul 2019 12:21:27 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -880,6 +880,7 @@
 115.69.171.222
 115.73.137.92
 115.73.138.158
+115.76.157.64
 115.76.246.173
 115.77.234.225
 116.100.132.158
@@ -1318,6 +1319,7 @@
 134.209.148.112
 134.209.15.189
 134.209.153.69
+134.209.155.50
 134.209.156.105
 134.209.156.37
 134.209.156.65
@@ -1421,6 +1423,7 @@
 134.209.48.14
 134.209.48.62
 134.209.49.202
+134.209.50.137
 134.209.52.209
 134.209.54.118
 134.209.55.5
@@ -1963,6 +1966,7 @@
 144.217.18.44
 144.217.201.30
 144.217.241.195
+144.217.43.222
 144.217.84.36
 144.48.82.67
 144.48.82.76
@@ -2503,6 +2507,7 @@
 159.89.227.143
 159.89.228.151
 159.89.229.38
+159.89.229.49
 159.89.230.159
 159.89.230.82
 159.89.231.237
@@ -2736,6 +2741,7 @@
 165.227.177.96
 165.227.178.174
 165.227.183.147
+165.227.195.213
 165.227.21.213
 165.227.21.63
 165.227.210.27
@@ -3631,6 +3637,9 @@
 180.66.68.39
 180.76.114.169
 180.87.215.3
+180.97.210.130
+180.97.210.141
+180.97.210.164
 180daystohappy.com
 180films.es
 181.111.209.169
@@ -3652,6 +3661,7 @@
 181.49.241.50
 181.57.146.6
 182.16.29.107
+182.171.202.23
 182.235.29.89
 182.34.223.84
 182.56.88.86
@@ -4011,6 +4021,7 @@
 185.232.65.169
 185.234.216.113
 185.234.216.167
+185.234.216.233
 185.234.216.239
 185.234.216.52
 185.234.217.139
@@ -4770,6 +4781,7 @@
 193.64.224.94
 193.70.110.230
 193.70.17.7
+193.70.26.51
 193.70.81.236
 193.77.216.20
 193.9.28.23
@@ -4855,6 +4867,7 @@
 195.123.209.212
 195.123.212.134
 195.123.212.29
+195.123.213.126
 195.123.218.152
 195.123.221.103
 195.123.227.20
@@ -7180,8 +7193,11 @@
 45.95.147.12
 45.95.147.17
 45.95.147.23
+45.95.147.28
 45.95.147.33
 45.95.147.42
+45.95.147.48
+45.95.147.52
 4570595.ru
 46.101.102.135
 46.101.104.141
@@ -8313,6 +8329,7 @@
 67.205.173.10
 67.205.174.1
 67.205.174.72
+67.205.174.78
 67.205.175.11
 67.205.177.84
 67.205.183.251
@@ -8469,6 +8486,7 @@
 68.183.47.77
 68.183.51.114
 68.183.53.95
+68.183.54.133
 68.183.56.187
 68.183.59.146
 68.183.62.59
@@ -8740,6 +8758,7 @@
 79.137.37.132
 79.137.39.145
 79.137.86.189
+79.141.168.105
 79.141.168.115
 79.141.171.160
 79.159.206.15
@@ -8912,6 +8931,7 @@
 80.211.61.21
 80.211.61.32
 80.211.63.189
+80.211.63.79
 80.211.66.213
 80.211.66.236
 80.211.66.35
@@ -9447,6 +9467,7 @@
 91.134.210.118
 91.134.24.228
 91.134.246.186
+91.134.254.41
 91.138.236.163
 91.148.168.141
 91.151.190.122
@@ -9798,6 +9819,7 @@
 98.127.192.252
 98.143.144.233
 98.159.110.79
+98.159.99.93
 98.196.79.17
 98.200.233.150
 98.253.113.227
@@ -10561,6 +10583,7 @@ adinra.com
 aditifacilitators.com
 aditya-dev.com
 adityaproduction.com
+adityebirla.com
 adizventuresgh.com
 adjacentcruise.com
 adjassessoria.com.br
@@ -12059,6 +12082,7 @@ amayayurveda.com
 amazing-hive.com
 amazingbangla.com
 amazingfivucom.us
+amazinggracefaithministries.org
 amazingmike.net
 amazingseven.online
 amazingsoftware.ru
@@ -13195,6 +13219,7 @@ arjanlame.com
 arjcapltal.com
 arjgrafik.pl
 arjundhingra.com
+arkadasboya.com
 arkajosh.com
 arkan.cv.ua
 arkanddove.com
@@ -13326,6 +13351,7 @@ art.victorialaneart.com
 art3d.org
 art964.com
 artaghril.com
+artalegno.it
 artalumin.gr
 artandcraftsmarketing.com
 artblessing.ru
@@ -14530,6 +14556,7 @@ babaroadways.in
 babaunangdong.com
 babeltradcenter.ro
 babetrekkingtour.com
+babloxxx.fun
 babusrtop.com
 baby-girl-clothes.com
 babyandchild.care
@@ -17527,6 +17554,7 @@ brunotalledo.com
 brusstroy.ru
 brut.uz
 brutalfish.sk
+bruze2.ug
 bryanleon.com
 bryanlowe.co.nz
 bryansk-agro.com
@@ -18110,6 +18138,7 @@ calaokepbungalow.com
 calaquaria.com
 calavi.net
 calaweb.ir
+calc.lowellunderwood.com
 calenco.ir
 calendar.bubnov.ru
 caleo.co.in
@@ -18745,6 +18774,7 @@ cbfund.io
 cbhrmf.com.br
 cbl-mmg.com
 cbmagency.com
+cbmiconstrutora.com.br
 cbmilton.com
 cbr.gov.pl
 cbrbrokerage.com
@@ -19432,6 +19462,7 @@ checkmycreditscore.net
 checkonliner.com
 checkout.spyversity.com
 checkoutspace.com
+checkpoint.michael-videlgauz.net
 checkreview.ooo
 checksharingfiles.gq
 checktrueworld.xyz
@@ -20057,6 +20088,7 @@ clickon.vn
 clickprintnow.com.au
 client.ewc.com.ng
 client.ideatech.pk
+client.penguware.xyz
 clienta.live
 clientes.grupoendor.com
 clientes.jamesdecastro.com.br
@@ -20699,6 +20731,8 @@ conference.meira.me
 conferencecenters.org
 conferences.ad-apsmapeta.or.id
 conferencesdiary.com
+confettigroup.vn
+confezionamento-viti.it
 confiamax.com.br
 confiamaxcom.br
 confidenceit.com
@@ -23142,6 +23176,7 @@ dfgdfcfxsddfa.ru
 dfgdfcxsddf.ru
 dfgfgw.kuai-go.com
 dfghdfghffd.ru
+dfghdfghhffd.ru
 dfghfghdghd.ru
 dfghjkjbi.s3-us-west-1.amazonaws.com
 dfib.net
@@ -26212,6 +26247,7 @@ duulang.com
 duvaldigital.com
 duwon.net
 duwyernsdjfnssla.com
+duxnz-my.sharepoint.com
 duylinhland.com
 duzcetekbiranahtar.com
 duzlem-tr.com
@@ -26699,6 +26735,7 @@ ecpn23.ru
 ecsconsultancy.com.au
 ecsn.biz
 ectagono.com
+ectcnepal.org
 ecuadoresort.com
 ecuadorminingnews.com
 ecuadortrust.org.uk
@@ -27441,6 +27478,7 @@ enataihomes.com
 enava.com
 enbau.net
 enbesandesignstudio.com
+enc-tech.com
 encame.com
 enchantography.com
 enckell.se
@@ -31216,6 +31254,7 @@ gforma.com
 gfpar.es
 gfpspace.ch
 gfrance.tv
+gfservices.co.za
 gfss.com.my
 gfygur.com
 gg.gg/d6wrn
@@ -34252,6 +34291,7 @@ houseefashioon.my
 householdhaircuts.com
 housek.info
 houselight.com.br
+housemart-my.sharepoint.com
 houseofbluez.biz
 houseofhorrorsmovie.com
 houseofthefuture.co.za
@@ -39676,6 +39716,7 @@ lasiesta.mx
 lasikeskuskainuu.fi
 lasmith.cc
 lasnaro.com
+lasnetwork.net
 lasocialfashionista.com
 laspalmasquinta.com
 lasrocas.co.uk
@@ -42119,6 +42160,7 @@ mailernotices.pw
 mailleapart.fr
 mailman.anu.edu.au
 mailorderworks.co.uk
+mailsoi5.gq
 mailstat55.club
 mailveri.us
 mailysinger.info
@@ -44244,6 +44286,7 @@ mlewisdesign.com
 mlhglobal.club
 mlhxyz.ml
 mline-sa.com
+mlk27g.by.files.1drv.com
 mlkaunas.lt
 mlmg.sensyu.org
 mlmsk.ru
@@ -46076,6 +46119,7 @@ networkdriving.co.uk
 networkforcharity.net
 networkproductions.de
 netwwwnwet.ucoz.pl
+neu.x-sait.de
 neucence.in
 neuco.co.id
 neudimensions.com
@@ -46423,6 +46467,7 @@ nicolosicura.it
 nicosiabujinkan.com
 nicosong.com
 nicroturk.com
+nicsena-programs.glitch.me
 nidea-photography.com
 nidersona.com
 niechzial.de
@@ -56108,6 +56153,7 @@ smefood.com
 smeg-center.ru
 smehelpdesk.net
 smehlik.net
+smejk.cz
 smejky.com
 smelecpro.com
 smelodent.ru
@@ -61929,6 +61975,7 @@ tipster.jp
 tiquiciaexpeditions.com
 tiras.org
 tire4cheap.site
+tirelli.it
 tirnotrade.com
 tirtasentosa.com
 tischer.ro
@@ -62776,6 +62823,7 @@ trompot.discusllc.net
 troncomed.ae
 troncustoms.cf
 troopchalkkids.com
+tropicalhawaii.com
 tropicalislandrealtyofflorida.com
 tropicarlimited.com
 tropicasher.com.br
