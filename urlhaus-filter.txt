@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 26 Jul 2019 00:21:37 UTC
+! Updated: Fri, 26 Jul 2019 12:22:13 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -311,6 +311,7 @@
 104.168.204.214
 104.168.204.23
 104.168.211.238
+104.168.215.139
 104.168.248.22
 104.168.57.119
 104.168.66.156
@@ -2534,6 +2535,7 @@
 159.89.47.108
 159.89.47.82
 159.89.54.114
+159.89.54.120
 159150.cn
 15ih.com
 15k.xyz
@@ -2661,6 +2663,7 @@
 165.22.23.186
 165.22.231.111
 165.22.231.232
+165.22.234.223
 165.22.24.166
 165.22.24.223
 165.22.240.251
@@ -3169,6 +3172,7 @@
 176.31.243.198
 176.31.36.47
 176.31.78.52
+176.31.78.53
 176.31.78.54
 176.31.86.162
 176.32.32.140
@@ -4917,6 +4921,7 @@
 195.22.127.170
 195.228.207.251
 195.231.2.207
+195.231.2.51
 195.231.4.166
 195.231.4.177
 195.231.4.214
@@ -5771,6 +5776,7 @@
 209.97.142.241
 209.97.143.36
 209.97.152.247
+209.97.152.74
 209.97.155.105
 209.97.155.3
 209.97.155.76
@@ -6632,6 +6638,7 @@
 34.80.131.135
 34.80.139.3
 34.80.84.76
+34.90.52.127
 35.154.50.228
 35.164.28.174
 35.165.83.118
@@ -7228,6 +7235,7 @@
 45.95.147.52
 45.95.147.60
 45.95.147.61
+45.95.147.63
 4570595.ru
 46.101.102.135
 46.101.104.141
@@ -7689,7 +7697,9 @@
 5.188.231.235
 5.188.231.79
 5.188.60.157
+5.188.60.165
 5.188.87.11
+5.189.128.129
 5.189.151.58
 5.189.227.247
 5.189.229.154
@@ -8312,6 +8322,7 @@
 66.42.58.126
 66.42.78.2
 66.42.83.118
+66.45.248.246
 66.55.64.137
 66.55.64.199
 66.55.80.140
@@ -11817,6 +11828,7 @@ alliancerights.org
 allianti.nl
 allibera.cl
 allied-hr.co.za
+alliedcomponent.com
 alliedcontainer-line.com
 alliedglobetech.com
 alliedlibertyfinancial.com
@@ -14210,6 +14222,7 @@ autoteile-cologne.de
 autotransportunlimited.com
 autotxtmsg.com
 autounion.com.ua
+autoupgradesupports.com
 autourdedjango.fr
 autovesty.ru
 autozpolisy.pl
@@ -19050,6 +19063,7 @@ cdnpic.mgyun.com/files/products/vRoot/2013/17039360/VRoot_1.4.0.2955_Setup_183.e
 cdnpic.mgyun.com/files/products/vRoot/2013/17235968/VRoot_1.7.0.3825_Setup.exe
 cdnrep.reimage.com/prot/ProtectorPackageRR2023.exe
 cdnrep.reimage.com/ver/ReimagePackage1874x64b.exe
+cdnrep.reimageplus.com/rqt/ReimageRepair.exe
 cdnus.laboratoryconecpttoday.com
 cdnxh.net
 cdoconsult.com.br
@@ -24223,6 +24237,7 @@ doc-00-8s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-00-9g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/a1q8a92tfer8p59rqjo5afef7siegc8o/1551304800000/00875647704258956549/*/1pbbA5QOz3ESyTl3plKZ7NM9rdywOx9u_
 doc-00-9g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/r8ir1ecs49ekpdmstbamnsmed1fn1k1d/1551376800000/00875647704258956549/*/1mWHVEpUGluecaLF7qfg9ZSgJlH8Fh389
 doc-00-9o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/0p72cr7rffke4bottccuatc0jv9qkjhb/1550253600000/09100922564250845248/*/1HgSWyA3-erKtySCSJj0mJLoAWV6LpUo3
+doc-00-9s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/8j0gvb6o63irae8hok24uejjktfmstas/1564120800000/01776086037526790667/*/1nVJ9CeVoxZimn548YQlGOGePwXMeFkdn?e=download
 doc-04-0o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/fde1ehbah98fofhm4ef0fenql1e3gb0c/1552564800000/02186969379317141664/*/1KsDA5PFPAv6VOs0pDLPEZlBil5FKJ0G4
 doc-04-1k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rll2dpscmenjk8o3a86s4ijtj88ampmh/1535601600000/01121010560865514304/*/1toVtmf3b4IHR13DKbl5pnIdBi9UW_A2d?e=download
 doc-04-20-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/f2mqlsnkvlf1fai1h77phe6tba0kf6cl/1551376800000/12675010240457470854/*/1QC6N4CpJS8PKwjrMtY8HRG_CmByBj1Bj
@@ -24286,6 +24301,7 @@ doc-0g-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-0g-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/il6miff13ushoqt7nsl47q88oc6gkkc4/1544608800000/05984462313861663074/*/1jqrQVKyWl2vnKksEEtE9TuF22W1JeAM4
 doc-0g-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/p6lhm45caimjiqmre29grmvnegamdsj3/1543932000000/05984462313861663074/*/131ljYAzj77SJQi8K_Stvz-951tHDmnH9
 doc-0g-94-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/05mm847fnruoa9kgjeeqa9qkhn2nsb77/1545062400000/03716827920962015384/*/1P-6lNUo1CFCkatFkvfW_TL5YXFsLSqgK?e=download
+doc-0g-9s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/69e9bapb3tc1i6l1i85rk7kl7vtgnsqu/1564120800000/01776086037526790667/*/1qCt-px0G0tBmLH1aN8Zj5mVUeRlpgbMC?e=download
 doc-0g-c8-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/p28531eg742m567e4cl5fogn4eka3oc9/1535112000000/03026271291422084203/*/1CfyPzMhxe_k1oiwMAiXeGvacCmGUJrp6?e=download
 doc-0g-cc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/3i5utjj3olgt63hiuf6neriq4dq36b1q/1545062400000/17141853213745639104/*/1zAJnLpg7VEOUdbB03bJgq9K7cE8VUFFm?e=download
 doc-0k-1k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/2jkhk2k6vaa6qg30jdds41qi8eelq3mu/1538020800000/01121010560865514304/*/1kepf5Mw73KbRGHazpXIxL-S-ZA4vKlUo?e=download
@@ -24477,7 +24493,31 @@ docs.google.com/uc?export=&id=1wqapdW8YblJoYnJiKgMZg2uiPX38QwEZ
 docs.google.com/uc?export=&id=1x9HDQHTYRb4o1ylaUqpweSHgGsOwUAqN
 docs.google.com/uc?export=&id=1y6MvqL_3fUuq6oiapBj_2CYqYSbkzvzJ
 docs.google.com/uc?export=&id=1yoPsolpYfdKzwCqY6QsKOPjjoCEzO58s
+docs.google.com/uc?export=download&id=1-V5aaH7GsUMiRNzUE9KkInXi1-xoHBkv
 docs.google.com/uc?export=download&id=1B4ZFtjlKNRgdoH3DK607GEY7q1r-N68W
+docs.google.com/uc?export=download&id=1Ca-K4kzZzpYE0FmwDIAj_VFXlt_tfG06
+docs.google.com/uc?export=download&id=1DVskSguuyHcsTZjePLxGa4yXjlr6zwlM
+docs.google.com/uc?export=download&id=1Ecny3LEXHk90sAnKJf133fp6YEoklvpH
+docs.google.com/uc?export=download&id=1GvCFVVGNuEN_jh0I6FuWlRQJJomWlSvk
+docs.google.com/uc?export=download&id=1IzCqrVXKDB3JPF38pC--hTaO2SLZOmNW
+docs.google.com/uc?export=download&id=1Kp7sWl0QZ1C-idfyxpUM3n_Pzn1LpVfp
+docs.google.com/uc?export=download&id=1L2aik1o3iPxxsrtvG69STtQfKEA56nYk
+docs.google.com/uc?export=download&id=1SkyxW1azoUjpViuqWeKdcSwPETys0r0X
+docs.google.com/uc?export=download&id=1TYiSuSs3JtuMIZurvp9uDpOUXD2maT8Q
+docs.google.com/uc?export=download&id=1VWkgZi-a2LjLzHhc-hzEsS4wCS9Oys_k
+docs.google.com/uc?export=download&id=1W9-FHiy4Ig_Zc1DNZYNLY3v1Xm0lxCHJ
+docs.google.com/uc?export=download&id=1Y9H9QRE8V2f3Bl7ZtafLPfYoK0YnBd-F
+docs.google.com/uc?export=download&id=1gC6g9ohciDi1m73wkSY4Lo4nrJGXOcCY
+docs.google.com/uc?export=download&id=1n4ObD9irEtF6TA-re6omRQFK8bM7KywK
+docs.google.com/uc?export=download&id=1nVJ9CeVoxZimn548YQlGOGePwXMeFkdn
+docs.google.com/uc?export=download&id=1pznR49E9zygAtrByAapcSTYyNzUfNEmB
+docs.google.com/uc?export=download&id=1qCt-px0G0tBmLH1aN8Zj5mVUeRlpgbMC
+docs.google.com/uc?export=download&id=1qjMp0RORtmdCx6IW6bWg2LgMarP7TM6P
+docs.google.com/uc?export=download&id=1svw14Oszom6u2IDNg91NpzveLPdEdg9f
+docs.google.com/uc?export=download&id=1tm4rkvJUlxVp7vD74IRL9FFxc9Crf9-T
+docs.google.com/uc?export=download&id=1vlQZMTnBeN6HIvXuCglJmImXXY8toGI7
+docs.google.com/uc?export=download&id=1w86fyxQ9FIsxXYKxGYzbZNgYtfWMlnf4
+docs.google.com/uc?export=download&id=1xua-_HtO3GH1n5MBfVhFLet_HKGT7_vv
 docs.google.com/uc?id=0B91E01VFE8VVSFl1RHNmaUhJeUk&export=download
 docs.google.com/uc?id=1-FyzqWRkjcqRUfd5tE0XomMM-QazamrA
 docs.google.com/uc?id=1-RUnaYQXHz3Oqc1Zc3AV62YyH4i4bvC4
@@ -24918,6 +24958,7 @@ dorjenmar.com
 dorm46.com
 dormerwindow.net
 dornagold.com
+dorogobogato.site
 dorothygilstrap.com
 dorox.com
 dorreensaffron.vn
@@ -27242,6 +27283,7 @@ eliteseamless.com
 elitesignsonline.com
 elitetoys.dk
 elitetransmission.fr
+elitevailcollection.net
 eliteviewsllc.com
 elitgaz.su
 elitist-trading.com
@@ -28437,6 +28479,7 @@ existors.com
 existra.bg
 exitex.ir
 exitoaloe.com
+exlog.am
 exodor.com.tr
 exordiumsolutions.com
 exotechfm.com.au
@@ -30789,6 +30832,7 @@ gamedemo.xyz/app/vc.exe
 gamedemo.xyz/app/watchdog.exe
 gamedemo.xyz/app/winboxls-0712.exe
 gamedemo.xyz/app/winboxscan-0702.exe
+gamedemo.xyz/tvgyasmev5gmk49l/lsa64install_in.exe
 gamedoithe.net
 gamedoithuong.info
 gameforte.com
@@ -31573,6 +31617,7 @@ gitlab.com/santos2018e/n2019198263981623891/raw/master/Nfs-2019891723897128973-p
 gitlab.com/santos2018e/n2019198263981623891/raw/master/Nfs_201965465465465546587987465-pdf.zip?inline=false
 gitlab.com/spac4/ssl/raw/master/928347BR.msi
 gitlab.com/space1/git/raw/master/Ped250.msi
+gitlab.com/spre/a1/raw/master/TI231BR.msi
 gitlab.com/webmasterx01/srb/raw/master/9283471BR.msi
 gitlabtechnologies.com
 gitrgc17.gribbio.com
@@ -34411,6 +34456,7 @@ howardbenz.com
 howardbragman.com
 howardgfranklin.com
 howart.oroit.com
+howcansomeone.com
 howelladventures.com
 howickaccountant.co.nz
 howieapp.com
@@ -34541,6 +34587,7 @@ hukum.ub.ac.id
 hukum.unwiku.ac.id
 huliot.in
 hulitshirt.com
+hulo.flexsecurity.xyz
 hulo.r00ts.online
 humandevelopmentmag.org
 humanfortis.mn
@@ -35511,6 +35558,7 @@ inctelanganatelugu.in
 incuba.uh.cu
 incubeglobal.com
 indahtour.com
+indaiacollection.com
 inday.webs.upv.es
 inddecore.com
 indenverarea.com
@@ -36600,6 +36648,7 @@ ivaneteferreiraimoveis.com.br
 ivanmocko.sk
 ivanovo.nurseassist.ru
 ivanrivera.com
+ivansupermining.info
 ivariedades.com
 ivcn.ru
 ivcontent.info
@@ -41082,6 +41131,7 @@ longviewlegacy.com
 longviewtrading.com
 lonnielepp.com
 lonnieruiz.com
+lonzectech.com
 loocar.xyz
 look1988.cn
 lookatlouk.nl
@@ -50588,6 +50638,7 @@ privcams.com
 privdata.us
 priveeprimeltd.co.uk
 priveflix.com
+priverdoscx.com
 priyainfosys.com
 prizma.ch
 prkanchang.com
@@ -54880,6 +54931,7 @@ serom38.fr
 serotest.com
 serpscrape.com
 serpslicer.com
+serpstrike.com
 serrasimone.com
 sertecii.com
 sertic.de
@@ -63131,6 +63183,7 @@ tumbleweedlabs.com
 tumestetikfiyatlari.com
 tummetott.se
 tumnipbanor.xyz
+tumpengsemarang.com
 tunaucom.us
 tundefowe.org
 tundemmalimusavirlik.com
