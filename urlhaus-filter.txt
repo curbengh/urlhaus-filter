@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 25 Jul 2019 12:22:28 UTC
+! Updated: Fri, 26 Jul 2019 00:21:37 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -238,6 +238,7 @@
 103.46.136.130
 103.51.146.218
 103.51.249.64
+103.53.41.154
 103.54.222.172
 103.60.13.195
 103.60.14.150
@@ -2532,6 +2533,7 @@
 159.89.45.120
 159.89.47.108
 159.89.47.82
+159.89.54.114
 159150.cn
 15ih.com
 15k.xyz
@@ -2641,6 +2643,7 @@
 165.22.153.80
 165.22.159.142
 165.22.18.102
+165.22.183.23
 165.22.193.164
 165.22.193.170
 165.22.193.173
@@ -2775,6 +2778,7 @@
 165.227.81.93
 165.227.84.68
 165.227.85.56
+165.227.92.245
 165.227.95.53
 165.227.98.122
 165.227.98.94
@@ -4071,6 +4075,7 @@
 185.244.25.133
 185.244.25.134
 185.244.25.135
+185.244.25.136
 185.244.25.137
 185.244.25.138
 185.244.25.139
@@ -4186,6 +4191,7 @@
 185.246.152.113
 185.246.152.209
 185.246.152.40
+185.246.152.89
 185.246.153.120
 185.246.153.136
 185.246.153.211
@@ -4250,6 +4256,7 @@
 185.62.188.19
 185.62.188.219
 185.62.188.233
+185.62.188.6
 185.62.188.61
 185.62.189.153
 185.62.189.210
@@ -5038,6 +5045,7 @@
 198.58.116.19
 198.61.187.137
 198.98.48.240
+198.98.49.145
 198.98.50.117
 198.98.51.104
 198.98.52.167
@@ -6204,6 +6212,7 @@
 23.249.163.14
 23.249.163.163
 23.249.163.49
+23.249.164.109
 23.249.164.116
 23.249.164.131
 23.249.164.141
@@ -6310,6 +6319,7 @@
 243shopping.com
 244now.com
 245a2dqwqwewe.com
+24648040.ngrok.io
 247.businesstaxe.jvmhost.net
 247computersale.com
 247csc.com
@@ -8351,6 +8361,7 @@
 67.205.161.187
 67.205.161.78
 67.205.165.167
+67.205.169.73
 67.205.173.10
 67.205.174.1
 67.205.174.72
@@ -8581,6 +8592,7 @@
 6connectdev.com
 6dynfq.ch.files.1drv.com
 6gue98ddw4220152.freebackup.site
+6hu.xyz
 6ip.us
 6itokam.com
 6qa5da.bn1303.livefilestore.com
@@ -8875,6 +8887,7 @@
 80.211.12.47
 80.211.134.45
 80.211.134.83
+80.211.138.245
 80.211.139.17
 80.211.139.209
 80.211.142.26
@@ -9519,6 +9532,7 @@
 91.234.27.27
 91.235.129.55
 91.236.140.236
+91.237.249.226
 91.238.117.163
 91.239.233.236
 91.240.84.190
@@ -16809,7 +16823,7 @@ blogdasjujubetes.com.br
 blogdovarejo.campanhamartins.com.br
 blogentry.cf
 blogforgamer.com
-blogformacionpchj.inces.gob.ve/inicio/sendincsec/legal/sec/En_en/2019-03/
+blogformacionpchj.inces.gob.ve
 blogforprofits.com
 blogg.postvaxel.se
 blogg.website
@@ -16821,7 +16835,7 @@ blogigroka.com
 blogkienthuc.org
 blogline.net
 blogmason.mixh.jp
-blogmiranda.inces.gob.ve/zzsm-qqz8fm-fhtu.view/
+blogmiranda.inces.gob.ve
 blogmydaily.com
 blognhakhoa.vn
 blogprinter.net
@@ -19017,11 +19031,7 @@ cdn.fund
 cdn.gameupdate.co
 cdn.isoskycn.com
 cdn.mistyblade.com
-cdn.mycfg.site/files/032f.exe
-cdn.mycfg.site/files/AVNinja.exe
-cdn.mycfg.site/files/j033a.exe
-cdn.mycfg.site/files/jce032a.exe
-cdn.mycfg.site/files/jclm.exe
+cdn.mycfg.site
 cdn.ofifinancial.com
 cdn.openinstall.com.s3.amazonaws.com/offers/2/chrome_search.exe
 cdn.prominertools.com
@@ -20907,7 +20917,7 @@ contagotasnew.tk
 contaresidencial.com
 conteetcomptine.com
 contemplativepsych.com
-content.freelancehunt.com/projectsnippet/d1ec2/7ebeb/111120/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80+%D0%BF%D1%80%D0%B0%D0%B9%D1%81%D0%B0.xls
+content.freelancehunt.com
 content24.pl
 contentprotectionsummit.com
 contents-marketing.ru
@@ -21917,6 +21927,7 @@ dailynewscebu.com
 dailynewslog.com
 dailynow.vn
 dailynuochoacharme.com
+dailypakistan.com
 dailyprobio.com.my
 dailyreview.store
 dailysadaepakistan.com
@@ -22393,7 +22404,7 @@ dd-fsa.dk
 dd-installationen.com
 dd.cloudappconfig.com
 dd.loop.coop
-dd.smaxdn.com
+dd.smaxdn.com/2018-11-23_com.xxzj.calculator_22.apk
 dda.co.ir
 ddaynew.5demo.xyz
 ddbuilding.com
@@ -23235,17 +23246,7 @@ dgfd.ru
 dgkawaichi.com
 dgkhj.ru
 dglass.cl
-dgnet.com.br/DOC/Rech-00084/
-dgnet.com.br/FILE/Past-Due-invoice/
-dgnet.com.br/IRS-Accounts-Transcipts-June-2018-033/0
-dgnet.com.br/IRS-Accounts-Transcipts-June-2018-033/0/
-dgnet.com.br/Need-to-send-the-attachment-June/
-dgnet.com.br/iWuVO
-dgnet.com.br/iWuVO/
-dgnet.com.br/t5wb/
-dgnet.com.br/ups.com/WebTracking/AI-1829048912363/
-dgnet.com.br/wwvvv/En_us/Transactions/12_18
-dgnet.com.br/wwvvv/En_us/Transactions/12_18/
+dgnet.com.br
 dgnj.cn
 dgpratomo.com
 dgs.pni-me.com
@@ -24204,6 +24205,7 @@ doblealturacasas.com
 dobloanahtari.com
 dobre-instalacje.pl
 dobrean.ro
+dobresmaki.eu
 dobro.co.ua
 dobrojutrodjevojke.com
 dobroviz.com.ua
@@ -28670,6 +28672,7 @@ facoplast.com
 factornet.pl
 factory.gifts
 factorydirectcigarbundles.com
+factorydirectmattress.com.au
 factoryoutlets.pk
 factsnap.com
 facwebdesigner.com.br
@@ -28693,6 +28696,7 @@ fahrschule-kerski.de
 faid.sadv.sa
 fair-watduoliprudential.com.watchdogdns.duckdns.org
 fairfundskenya.com
+fairlinktrading.com
 fairtexs.ru
 fairviewcemetery.org
 fairyandbeauty.com
@@ -30332,6 +30336,7 @@ frutosdelcampotriplea.com
 fruttikaa.com
 fryktis.ru
 fryzjer.zsp6tom.pl
+fs-advocates.co.za
 fs-ium.com
 fs.nfdngx.club
 fs02n4.sendspace.com/dlpro/d1618063f95351f88e08ddadb4fdcd11/5c756fe2/icn4c5/swift09010078003.exe
@@ -30474,6 +30479,7 @@ fundacionafanic.com
 fundacioncreatalento.org
 fundacionesperanza.org.es
 fundacionmontehoreb.org.ve
+fundacionpacma.com
 fundacionravera.com
 fundacionresidenciaelamparo.com
 fundacionsuperamigos.com
@@ -30723,6 +30729,7 @@ galeriakolash.galeriacollage.com.ve
 galerie-garrafeira.de
 galeriecc.com
 galerija-meandar.com.hr
+galerisafir.com
 galexbit.com
 galgame.lol
 galiamuebles.es
@@ -30921,6 +30928,7 @@ garystahioptiongi.info
 garywhitakerfamily.net?4p5E3=CJHOmQZ.3IQHZLmPAEKDIR
 gasdetector.dlvcorp.com
 gashsteel.co.za
+gasoim.com
 gasperpuntar.com
 gastar-menos.com
 gastrenterologos-kozani.gr
@@ -34290,7 +34298,8 @@ hostnamepxssy.club
 hostnana.com
 hostpp.gq
 hostpp.ml
-hostpp2.ga
+hostpp2.ga/20190118/4C384435-9E82-4011-ACF3-78489BB98229.exe
+hostpp2.ga/20190118/multishare.exe
 hostpp2.tk
 hostprodirect.com
 hostrooz.com
@@ -35484,7 +35493,7 @@ incasesafety.com
 incelticitayt.site
 inceptioneng.com
 inceptionradio.planetparanormal.com
-inces.gob.ve/entel_online/Visualizar-fact.zip
+inces.gob.ve
 incgoin.com
 inci-huidtherapie.nl
 inclusao.enap.gov.br
@@ -36276,7 +36285,7 @@ irmaospereira.com.br
 irmaspark.icu
 irmuni.com
 irnanoshop.com
-irnberger.co.at/wp-content/themes/trendystuff/addons/flickr/1c.jpg
+irnberger.co.at
 iroffer.dinoex.de
 ironcloverflies.com
 ironontransfers.top
@@ -38222,6 +38231,7 @@ keihani.com
 keiken.denso.co.jp
 keinzgroup.com
 keissy.ml
+keissy.tk
 keita173.net
 keithdaley.co.uk
 keithtigheplumbing.com
@@ -38251,7 +38261,8 @@ kelvinarinze.ml
 kelvingee.hys.cz
 kelvinnikkel.com
 kelzonestopclothing.website
-kemahasiswaan.um.ac.id
+kemahasiswaan.um.ac.id/wp-content/uploads/544XIWAQEOZ/PAYMENT/Smallbusiness
+kemahasiswaan.um.ac.id/wp-content/uploads/544XIWAQEOZ/PAYMENT/Smallbusiness/
 kemahasiswaan.unair.ac.id
 kemalerkol.net
 kemaster.kz
@@ -38691,6 +38702,7 @@ kitchenclassic.ir
 kitchencraftregina.com
 kitchenofdee.com
 kitcross.ca
+kitedepa.myhostpoint.ch
 kiteletter.com
 kitesurfintl.com
 kitezona.ru
@@ -43021,6 +43033,7 @@ matematik365.com
 matematika-video.ru
 matematikcozumlerim.com
 materiacomfor.com
+material-nerud.ru
 materialoo.com
 maternalnadir.org.br
 materne.fr
@@ -43412,7 +43425,7 @@ medicalweb.ir
 medicarehospital.org
 medicationsafetyconference.com
 medicci.ru
-medicina.uanl.mx
+medicina.uanl.mx/salamuseo/wp-content/uploads/jplc6-tzv7k-fpewx.view/
 medicinaesteticaorlandini.it
 medicinageriatrica.com.br
 medicinaonline.rjsrwaco.watchdogdns.duckdns.org
@@ -43834,7 +43847,7 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
-miamicondoinvestments.com/wp-admin/sec.myaccount.docs.com/
+miamicondoinvestments.com
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -44828,8 +44841,7 @@ moscow.bulgakovmuseum.ru
 moscow00.online/GetDataAVK.exe
 moscow00.online/KeyMoscow00.35.exe
 moscow1.online
-moscow11.at/GetDataAVK.exe
-moscow11.at/proxy/skapoland.chickenkiller.com.exe
+moscow11.at
 moscow11.host
 moscow11.icu
 moscow33.online
@@ -45395,7 +45407,7 @@ my-organic-shop.co.uk
 my-spa.rs
 my.camptaiwan.com.tw
 my.jiwa-nala.org
-my.mail.de
+my.mail.de/dl/16396560ccdf7536b3dde030d4b7e0e0/
 my.mixtape.moe/ayqydr.vbs
 my.mixtape.moe/chhsmy.htaa
 my.mixtape.moe/coxgka.jpg
@@ -46186,6 +46198,7 @@ nethouse.sk
 netich.co.ke
 netimoveis.me
 netin.vn
+netix.dl.sourceforge.net/project/ubl/ubl/Binaries/BootLoader_GUI.exe
 netizennepal.com
 netking.duckdns.org
 netlink.com/wp-content/plugins/all-in-one-wp-migration/storage/doc/Copy_Invoice/469302181479406/FHoLy-13a_ZIEFBA-gXE/
@@ -46342,7 +46355,7 @@ newparadise.com.vn
 newpavanchatcorner.com
 newpioneerschool.com
 newportedu.org
-newradio.it
+newradio.it/personalplayer/rvl/rvl.exe
 newreport.info
 newrockchurchconyers.org
 news-week.ru
@@ -47031,6 +47044,7 @@ npbina.com
 npc.org.ro
 npd.credit
 npi95.fr
+npkf32ymonica.com
 npkhurai.com
 nppaquasell.ru
 npqqt.com
@@ -47206,7 +47220,7 @@ nygryn.net
 nygts.com
 nyifdmacyzechariah.top
 nyky.ir
-nylag.org/wp-content/upgrade/4ret-1lcji8-bzqj/
+nylag.org
 nylightningbasketball.com
 nysswea.org
 nyulogistikcargo.com
@@ -48510,7 +48524,8 @@ pablohevia.com
 pablolauria.site
 pabloteixeira.com
 pablotrabucchelli.com
-paboard.com
+paboard.com/6AR/ACH/Smallbusiness
+paboard.com/6AR/ACH/Smallbusiness/
 pabx-uae.com
 pacbest.org
 pacedg-my.sharepoint.com
@@ -49837,8 +49852,7 @@ planetcourierservice.us
 planetefaune.com
 planetferguson.net
 planetkram.com
-planetnautique.com/2011210/qaUez-kD2_YE-ytd/
-planetnautique.com/2011210/vgaQZ-jWR_mfsc-VW/
+planetnautique.com
 planetpainter.ca
 planets.co.il
 planetsmit.com
@@ -52768,6 +52782,7 @@ rkmonteiro.com.br
 rkschmidt.net
 rktest.net
 rkverify.securestudies.com
+rleone45janiya.com
 rlinternetcorporation.com
 rlmoscow.ru
 rlpromotion.com
@@ -55027,6 +55042,7 @@ sewinggroup.com.mx
 sewlab.net
 sexchathoeren.nl
 sexchatsnol.nl
+sexhotelvideos.com
 sexivideo.sk
 sexizer.com
 sexlivetrue.xyz
@@ -56105,16 +56121,7 @@ slowianskawieza.pl
 slowmoneysocal.org
 slowtime.net
 slppoffice.lk
-slpsrgpsrhojifdij.ru/1.exe
-slpsrgpsrhojifdij.ru/2.exe
-slpsrgpsrhojifdij.ru/3.exe
-slpsrgpsrhojifdij.ru/c.exe
-slpsrgpsrhojifdij.ru/krablin.exe
-slpsrgpsrhojifdij.ru/krablin.exe?SZLIp
-slpsrgpsrhojifdij.ru/krablin.exe?VuNpZqS
-slpsrgpsrhojifdij.ru/o.exe
-slpsrgpsrhojifdij.ru/p.exe
-slpsrgpsrhojifdij.ru/t.exe
+slpsrgpsrhojifdij.ru
 slrent.com
 slrpros.com
 sls-eg.com
@@ -60643,7 +60650,7 @@ teachthefuture.co
 teadyhedz.com
 teafresco.com
 teaheaven.co.uk
-teal.download.pdfforge.org
+teal.download.pdfforge.org/op/op.exe
 team-booking.apstrix.com
 team.neunoi.it
 team.superset.se
@@ -60842,6 +60849,7 @@ tejtechbangla.xyz
 tekacars.com
 tekalu.pt
 tekanova.com
+tekasye.com
 tekere.es
 tekfark.com
 tekinkgroup.com
@@ -61452,7 +61460,7 @@ thefinestmoment.com
 thefintech.com.au
 thefiredog.com
 thefireservice.co.uk
-thefirstserver.com/backup/verg9is7t_k6holk-693999004328980/
+thefirstserver.com
 thefly.su
 thefocusongroupllc.com
 thefoodmix.com
@@ -61682,14 +61690,7 @@ therogers.foundation
 therollingshop.com
 theronnieshow.com
 therundoctor.co.uk
-therxreview.com/Amazon/DE/Kunden_informationen/01_19/
-therxreview.com/BYT1D3keQi/
-therxreview.com/CTYMSWGWC0665949/Rechnungskorrektur/Fakturierung/
-therxreview.com/DE_de/YVAMIGFXT1441342/Rechnungs-Details/DETAILS/
-therxreview.com/GlXxSlMg/
-therxreview.com/MHDT-ctWB8useQaLBgY_Jujiputr-5D5/
-therxreview.com/MUK31q_7UQ3sIR/
-therxreview.com/Rechnungs/2018/
+therxreview.com
 theryangroup.solutions
 thesagehillsschool.com
 thesamplesale.co.uk
@@ -63405,7 +63406,7 @@ uat-essence.oablab.com
 uat-tech.com
 uat.convencionmoctezuma.com.mx
 uatwebsite.aithent.com
-uavlab.am
+uavlab.am/block/block.exe
 ubeinc.com
 uberalawyer.com
 ubercentral.com.br
@@ -68504,7 +68505,7 @@ ziziused.com
 zizu.com.mx
 zizzy.eu
 zj.9553.com
-zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web1898/site/attach/0/ad9ae31e86a9473c8836fbfd38462a8d.doc
+zjjcmspublic.oss-cn-hangzhou.aliyuncs.com
 zjttkj.cn
 zk-orekhovoborisovo.ru
 zkdjezica.si
