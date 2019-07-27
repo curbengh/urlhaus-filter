@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 26 Jul 2019 12:22:13 UTC
+! Updated: Sat, 27 Jul 2019 00:22:11 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1583,6 +1583,7 @@
 13878.com
 13878.net
 139.162.107.97
+139.162.113.69
 139.162.176.29
 139.162.176.5
 139.162.229.9
@@ -2821,7 +2822,9 @@
 167.71.40.211
 167.71.5.88
 167.71.52.167
+167.71.59.136
 167.71.68.6
+167.71.75.37
 167.86.117.95
 167.86.70.149
 167.86.81.173
@@ -4739,6 +4742,7 @@
 192.254.177.175
 192.3.12.133
 192.3.131.23
+192.3.131.25
 192.3.146.201
 192.3.160.67
 192.3.162.102
@@ -7348,6 +7352,7 @@
 46.17.43.229
 46.17.43.67
 46.17.44.125
+46.17.44.171
 46.17.44.44
 46.17.45.135
 46.17.45.226
@@ -7502,6 +7507,7 @@
 46.29.167.95
 46.29.96.96
 46.30.42.193
+46.30.42.225
 46.32.231.239
 46.36.35.110
 46.36.36.189
@@ -7916,6 +7922,7 @@
 51.79.71.155
 51.81.7.102
 51.81.7.54
+51.83.47.151
 51.83.47.39
 51.83.74.132
 51.83.86.240
@@ -10566,7 +10573,12 @@ adasnature.rodevdesign.com
 adastrawll.gq
 adax.us
 aday.haberkorfez.com
-adazing.com
+adazing.com/DHL-number/En/
+adazing.com/DOC/EHM76459484042P/525428/HQLA-OUAEH
+adazing.com/DOC/EHM76459484042P/525428/HQLA-OUAEH/
+adazing.com/Vos-factures-impayees/
+adazing.com/files/En_us/Jul2018/Invoice-469685754-072318/
+adazing.com/xebgo7d/
 adbee.tk
 adbord.com
 adcanudosnh.com.br
@@ -15102,6 +15114,7 @@ bauburo.ru
 bauchfaktur.de
 bauchredner-masterme.de
 baucons.com
+bauf.org.in
 baum.be
 baumann-praxis.de
 baumont.fr
@@ -16836,7 +16849,7 @@ blogdasjujubetes.com.br
 blogdovarejo.campanhamartins.com.br
 blogentry.cf
 blogforgamer.com
-blogformacionpchj.inces.gob.ve
+blogformacionpchj.inces.gob.ve/inicio/sendincsec/legal/sec/En_en/2019-03/
 blogforprofits.com
 blogg.postvaxel.se
 blogg.website
@@ -16848,7 +16861,7 @@ blogigroka.com
 blogkienthuc.org
 blogline.net
 blogmason.mixh.jp
-blogmiranda.inces.gob.ve
+blogmiranda.inces.gob.ve/zzsm-qqz8fm-fhtu.view/
 blogmydaily.com
 blognhakhoa.vn
 blogprinter.net
@@ -18047,10 +18060,7 @@ c.doko.moe
 c.eeeeee.cz
 c.etheos.site
 c.pieshua.com
-c.top4top.net/p_1042v9c0c1.jpg
-c.top4top.net/p_1055q1ssb1.jpg
-c.top4top.net/p_6534e8r81.jpg
-c.top4top.net/p_897ao4tp1.jpg
+c.top4top.net
 c.vivi.casa
 c.vollar.ga
 c0.zhehen.com
@@ -19044,7 +19054,11 @@ cdn.fund
 cdn.gameupdate.co
 cdn.isoskycn.com
 cdn.mistyblade.com
-cdn.mycfg.site
+cdn.mycfg.site/files/032f.exe
+cdn.mycfg.site/files/AVNinja.exe
+cdn.mycfg.site/files/j033a.exe
+cdn.mycfg.site/files/jce032a.exe
+cdn.mycfg.site/files/jclm.exe
 cdn.ofifinancial.com
 cdn.openinstall.com.s3.amazonaws.com/offers/2/chrome_search.exe
 cdn.prominertools.com
@@ -19490,6 +19504,7 @@ cheapavia.ga
 cheaper.men
 cheaperlounge.com
 cheapesthost.com.ng
+cheapgadgets-gq.000webhostapp.com
 cheapmusic.info/cloudnet.exe
 cheapnikeairmaxshoes-online.com
 cheapoakleysunglasses.net
@@ -24727,6 +24742,7 @@ documente2015.hi2.ro
 documento.inf.br
 documentpro.icu
 documents.name
+documents.online-transaction.website
 documents.total-cloud.biz
 documentshareil.com
 documentsignatures.live
@@ -25161,6 +25177,7 @@ downloads.intercomcdn.com/i/o/64632990/56f34207f611ee982f881a47/Company+Info.doc
 downloads.intercomcdn.com/i/o/66442009/a8df52e4e8a3c64b74858c9b/INV-85237323.doc
 downloads.intercomcdn.com/i/o/67089177/f3b57a1b092e9f1b173a2bee/INV-526968.doc/
 downloads.intercomcdn.com/i/o/69362562/37c988860b345dbb4264b3c3/case_27627831.doc
+downloads.sandisk.com/sansa/Application/7za.txt
 downloads.webstartpro.com
 downloads44you.shop
 downloads4you.shop
@@ -28163,7 +28180,8 @@ etihadkit.com
 etihadstartups.com
 etizotera.com
 etka.com.tr
-etkea.com
+etkea.com/Evans.exe
+etkea.com/S12b9bc2b5bd4b59cc3498816039dbf31.exe
 etkenkalip.com
 etkinbilgi.com
 etknn.ru
@@ -29900,6 +29918,7 @@ fonestora.com
 fonocamilapassos.com.br
 fonopar.com.br
 fonpaz.org
+fooae.com
 food-coordinate.com
 food-hokkaido.jp
 food-stories.ru
@@ -30261,6 +30280,7 @@ freestreetgist.com
 freestuffsgiveaway.com
 freestyle-spots.de
 freetalksa.xyz
+freetoair.xyz
 freewallpaperdesktop.com
 freewaydeathsquad.com
 freewaystoragetacoma.com
@@ -30695,6 +30715,7 @@ g6connecti.com.br
 g6q4we6q54e.com
 g7epic.com
 g7wenden.de
+g85314718lauryn.com
 g8i.com.br
 g8q4wdas7d.com
 g8seq.com
@@ -32078,7 +32099,7 @@ goudappel.org
 goudu.club
 gourmetlab.pe
 gourmetreats.in
-gov.kr
+gov.kr/main?d=AA100DataDownApp&SAVE_FILE_NM=38500.exe
 gov.rsmart-testsolutions.watchdogdns.duckdns.org
 govche.in
 goveboatclub.com.au
@@ -32648,6 +32669,7 @@ gunedoo.com
 guneyaski.com
 gungazcomputer.co.ke
 gunk.insol.be
+gunmak-com.tk
 gunnarasgeir.com
 gunnersexcavating.com
 gunnpointphotography.com
@@ -34091,29 +34113,7 @@ home.earthlink.net/~zrippeto/invoice.jar
 home.earthlink.net/~zrippeto/order-comfirmation.jar
 home.earthlink.net/~zrippeto/pal/payment~details.jar
 home.lotr.flaik.com
-home.mindspring.com/~dicklin/USPS20190104.jar
-home.mindspring.com/~dicklin/ups20190114.jar
-home.mindspring.com/~dwduffy/UPS/tracking-copy.jar
-home.mindspring.com/~georgedibble/secure_message.jar
-home.mindspring.com/~jolchawa/01/FedEx20190104.jar
-home.mindspring.com/~jolchawa/UPS_Tracking/1ZW701450096823341.jar
-home.mindspring.com/~jolchawa/ups1/ups20190114.jar
-home.mindspring.com/~marvinlzinn1/20181510.exe
-home.mindspring.com/~marvinlzinn1/UPS_Trk_1Z6A7Y850392419911.exe
-home.mindspring.com/~marvinlzinn1/USPS_20181228.jar
-home.mindspring.com/~marvinlzinn1/_output281B0.exe
-home.mindspring.com/~marvinlzinn1/secure_message.jar
-home.mindspring.com/~mlaurie/1521740581.jar
-home.mindspring.com/~mlaurie/1521794522.jar
-home.mindspring.com/~mlaurie/1522003981.jar
-home.mindspring.com/~mlaurie/1522102502.jar
-home.mindspring.com/~paulfwhite/UPS_tracking.jar
-home.mindspring.com/~pmco/UPS_20180208.jar
-home.mindspring.com/~pmco/USPS20190109.jar
-home.mindspring.com/~sbirmingham/Costings_Follow_Up.jar
-home.mindspring.com/~sbirmingham/Tracking_Number_1Z6A7Y855293103311.jar
-home.mindspring.com/~wilfert/USPS_94078556993022393116.jar
-home.mindspring.com/~wilfert/USPS_Tracking.jar
+home.mindspring.com
 home.phnix-e.com
 home.webadmin.syscoinc.org
 home88.wp-goodies.com
@@ -34187,7 +34187,7 @@ honeyman.ca
 honeymanhomes.co.uk
 honeymoon-egypt.com
 honeymoonlady.com
-honeynet.org
+honeynet.org/sites/default/files/files/1309361194_eschweiler_forensic_challenge_8.zip
 honeywax.ir
 hongcheng.org.hk
 hongkongrestaurant.com.au
@@ -34343,8 +34343,7 @@ hostnamepxssy.club
 hostnana.com
 hostpp.gq
 hostpp.ml
-hostpp2.ga/20190118/4C384435-9E82-4011-ACF3-78489BB98229.exe
-hostpp2.ga/20190118/multishare.exe
+hostpp2.ga
 hostpp2.tk
 hostprodirect.com
 hostrooz.com
@@ -35540,7 +35539,7 @@ incasesafety.com
 incelticitayt.site
 inceptioneng.com
 inceptionradio.planetparanormal.com
-inces.gob.ve
+inces.gob.ve/entel_online/Visualizar-fact.zip
 incgoin.com
 inci-huidtherapie.nl
 inclusao.enap.gov.br
@@ -39839,6 +39838,7 @@ laresperanca.com
 largemsword.pw
 larissapharma.com
 laritadalathotel.com
+larixparcels.com
 lariyana.com
 larkdavis.com
 larplacasymaderas.com.ar
@@ -43475,7 +43475,7 @@ medicalweb.ir
 medicarehospital.org
 medicationsafetyconference.com
 medicci.ru
-medicina.uanl.mx/salamuseo/wp-content/uploads/jplc6-tzv7k-fpewx.view/
+medicina.uanl.mx
 medicinaesteticaorlandini.it
 medicinageriatrica.com.br
 medicinaonline.rjsrwaco.watchdogdns.duckdns.org
@@ -43809,6 +43809,7 @@ metz-automotive.de
 meu-corpo-humano.com
 meuanus.000webhostapp.com
 meubackup.terra.com.br
+meublespatinesetobjets.com
 meucontrolefinanceiro.fivesdevelopment.com
 meuestagio.com
 meulocal.com.br
@@ -44667,6 +44668,7 @@ moigioi.info
 moikihit.ru
 moinetfils.com
 moiselektronik.com
+moissanitevietnam.vn
 moitruongdothisonla.com
 mojang.com.br
 mojewnetrza.pl
@@ -45457,7 +45459,7 @@ my-organic-shop.co.uk
 my-spa.rs
 my.camptaiwan.com.tw
 my.jiwa-nala.org
-my.mail.de/dl/16396560ccdf7536b3dde030d4b7e0e0/
+my.mail.de
 my.mixtape.moe/ayqydr.vbs
 my.mixtape.moe/chhsmy.htaa
 my.mixtape.moe/coxgka.jpg
@@ -47622,7 +47624,7 @@ old.firecom.pro
 old.gkinfotechs.com
 old.hello5.kr
 old.hinz.se.prison01.dalnix.se
-old.honeynet.org
+old.honeynet.org/scans/scan33/0x90.exe
 old.klinika-kostka.com
 old.norsec.kz
 old.oleglukanov.com
@@ -48180,6 +48182,7 @@ ordercakeonlineinlucknow.com
 orderlynet.net
 orderout.nl
 orders.e-transaction.website
+orders.online-transaction.website
 orderthis.info
 ordine.creepycollective.com
 ordine.donnaschechter.com
@@ -61529,7 +61532,7 @@ thegeers.com
 thegesualdosix.com
 thegiddystitcher.com
 thegilbertlawoffice.com
-thegims.com
+thegims.com/kk/panelnew/gate.php
 thegioicongdungcu.com
 thegioitraicay24h.com
 theglobetrotters.org
@@ -61927,6 +61930,7 @@ thoughtchampion.com
 thoughtomatic.co.uk
 thovalaikrishnankovil.com
 thptngochoi.edu.vn
+threechords.co.uk
 threedprinterland.com
 threegrayguys.com
 threeheartssociety.com
@@ -62634,6 +62638,7 @@ tracking.cirrusinsight.com/fbacef43-c8b7-48d2-96d5-2bd368d2a98d/itexpress-kz-tru
 tracking.cmicgto.com.mx
 tracking.geainternacional.com
 tracking.mataharisj.net
+tracking.officesupplybusiness.club
 trackingvehicles.com.au
 trackledsystems.com
 trackprint.ru
@@ -64139,6 +64144,7 @@ up-loads.ml
 up-z.com.ua
 up.dev-point.com
 up.ksbao.com
+up.oxvkeq.co
 up.qatarw.com
 up.vltk1ctc.com
 up2m.politanisamarinda.ac.id
@@ -64330,7 +64336,7 @@ url.emailprotection.link/?bcp_LQdELwbKhxKToIznR8rOuhtt9W4qlFovFOxc0z5zmN6k8ji5zi
 url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmBKpoVHxYkckgjOQoYTV_U0G2UMKhd4MBI9Ms8vO3Vliq2ClOuUAa6nO2a7Ij5lJFsouoEEMeMVmI/
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
 url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
-url3.mailanyone.net
+url3.mailanyone.net/v1/?m=1gqjAZ-000BfC-4n&i=57e1b682&c=OZtRQmXF7oN5pbgtjwITGqIFHzseGIPJ778kLq969LDnepRJUFA3m4dqjipi-y6OdeP66fl3GFcG9Mo0uCH8uh_3unyNDLNiJEst871L2nZ8Bt27Et8YRWVkmsFhx001Buq9q_60jxe1ofVPHOxLFN1ol0vyuzUw6cC67geyyV1T0aGD81PMHe6Cu8Qd2qq8-ymIP4qFuRBsKb7Lv1Y00D0SYWjvvMyla6LG_jYhjkcVuQ-nh42o0dILyk44Tc-C/
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urldefense.proofpoint.com/v2/url?u=http-3A__borinfor.com_newfolde-5Fr_doc_En-5Fus_OVERDUE-2DACCOUNT_Invoice-2D07-2D19-2D18&d=DwIFaQ&c=VQ9hgUuwpNx5qjiyTmR6qQ&r=VWCMrOAZ42xEY7aBeHkCfVC7-GccDQiNerNlJRH5muI&m=JavSUg0f9C2qoCCa7AWt8RM7BRNk5mP_S7hBxPVa8ZU&s=XFGDpuuNz7L0uj6b4PoAfz3lck7VPATlniNQMVv_P6w&e/
