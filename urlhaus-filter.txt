@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 27 Jul 2019 00:22:11 UTC
+! Updated: Sat, 27 Jul 2019 12:22:09 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2647,6 +2647,7 @@
 165.22.159.142
 165.22.18.102
 165.22.183.23
+165.22.183.79
 165.22.193.164
 165.22.193.170
 165.22.193.173
@@ -2660,6 +2661,7 @@
 165.22.206.121
 165.22.21.215
 165.22.21.220
+165.22.221.183
 165.22.229.208
 165.22.23.186
 165.22.231.111
@@ -2806,6 +2808,7 @@
 167.179.119.235
 167.71.0.66
 167.71.13.86
+167.71.137.160
 167.71.160.213
 167.71.167.91
 167.71.168.28
@@ -3469,6 +3472,7 @@
 178.32.67.9
 178.33.14.208
 178.33.14.211
+178.33.181.17
 178.33.181.23
 178.33.208.161
 178.33.218.65
@@ -3787,6 +3791,7 @@
 185.126.179.107
 185.126.179.154
 185.127.25.165
+185.127.26.252
 185.128.213.110
 185.128.213.12
 185.13.37.106
@@ -4714,6 +4719,7 @@
 192.236.194.164
 192.236.194.34
 192.236.195.212
+192.236.208.238
 192.241.128.165
 192.241.128.205
 192.241.133.148
@@ -4764,6 +4770,7 @@
 192.99.142.235
 192.99.154.226
 192.99.167.14
+192.99.167.75
 192.99.168.178
 192.99.169.15
 192.99.242.13
@@ -5467,6 +5474,7 @@
 205.185.122.240
 205.185.124.211
 205.185.124.247
+205.185.124.57
 205.185.124.89
 205.185.125.109
 205.185.125.213
@@ -5928,6 +5936,7 @@
 213.183.41.75
 213.183.45.71
 213.183.45.98
+213.183.48.146
 213.183.48.205
 213.183.48.226
 213.183.48.252
@@ -6027,6 +6036,7 @@
 217.61.110.178
 217.61.112.140
 217.61.120.199
+217.61.125.227
 217.61.16.74
 217.61.19.212
 217.61.57.136
@@ -7116,6 +7126,8 @@
 45.126.254.31
 45.127.97.4
 45.129.2.132
+45.129.3.105
+45.129.3.114
 45.195.84.92
 45.227.252.250
 45.227.252.252
@@ -26122,6 +26134,7 @@ dropboxsec.net
 dropbuilders.com
 dropbydrop.pl
 drope.com.br
+dropincor.com
 dropmyb.in
 dropnshop.co.id
 dropshipthai.com
@@ -26623,6 +26636,7 @@ eastpennlandscape.com
 eastpk.org
 eastracing.de
 eastsidedailynews.com
+eastwelsum.com
 easy-gruppe.de
 easy-photo2data-uri.com
 easy2cart.pascalcomputer.net
@@ -47259,6 +47273,8 @@ nworldorg.com
 nws-hostel.pl
 nwtek.de
 nwtgroup.co.uk
+nxtfdata.xyz/cl.exe
+nxtfdata.xyz/cl2.exe
 nxtgreen.co.in
 nyamphande.com
 nyanya-v-ceti.ru
@@ -48267,6 +48283,7 @@ ortotomsk.ru
 ortusbeauty.com
 orusignup.tsmprojects.com
 orvalaiz.es
+oryano.us
 orygin.co.za
 orzessek.de
 orzhenikingbudoc.website
@@ -66187,6 +66204,7 @@ webnetsolrastreamento.com/Rastreamento!AG435425273BR?https://www.itau.com.br
 webnetsolrastreamento.com/Rastreamento!AG435425273BR?https://www.santander.com.br
 webnotitication.tk
 webnuskin.com
+weboffice365.net
 webofmiscellaneous.com
 webon.vn
 webonlineshop.ml
