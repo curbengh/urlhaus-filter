@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 31 Jul 2019 00:21:54 UTC
+! Updated: Wed, 31 Jul 2019 12:22:45 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2550,6 +2550,7 @@
 159.89.48.63
 159.89.54.114
 159.89.54.120
+159.89.87.113
 159.89.88.195
 159150.cn
 15ih.com
@@ -2679,8 +2680,11 @@
 165.22.206.121
 165.22.21.215
 165.22.21.220
+165.22.212.27
 165.22.213.0
 165.22.217.64
+165.22.218.255
+165.22.220.40
 165.22.221.150
 165.22.221.183
 165.22.222.229
@@ -2782,6 +2786,7 @@
 165.227.178.174
 165.227.183.147
 165.227.195.213
+165.227.202.134
 165.227.207.188
 165.227.21.213
 165.227.21.63
@@ -2836,6 +2841,7 @@
 167.71.0.66
 167.71.13.86
 167.71.137.160
+167.71.137.214
 167.71.141.222
 167.71.160.213
 167.71.167.91
@@ -3840,6 +3846,7 @@
 185.136.170.154
 185.136.170.16
 185.136.170.181
+185.136.171.122
 185.137.233.126
 185.139.69.177
 185.140.248.17
@@ -4055,6 +4062,7 @@
 185.224.251.105
 185.225.17.175
 185.225.17.245
+185.225.17.5
 185.225.17.82
 185.227.108.18
 185.227.110.46
@@ -4859,6 +4867,7 @@
 193.64.224.94
 193.70.110.230
 193.70.17.7
+193.70.26.49
 193.70.26.51
 193.70.81.236
 193.77.216.20
@@ -7182,6 +7191,7 @@
 45.129.2.132
 45.129.3.105
 45.129.3.114
+45.129.3.59
 45.195.84.92
 45.227.252.250
 45.227.252.252
@@ -7282,6 +7292,7 @@
 45.79.108.74
 45.79.203.201
 45.79.67.151
+45.8.126.5
 45.8.159.7
 45.80.148.117
 45.80.37.125
@@ -7939,6 +7950,7 @@
 51.254.27.116
 51.254.27.62
 51.254.37.159
+51.254.60.208
 51.254.84.55
 51.255.16.202
 51.255.16.207
@@ -11589,6 +11601,7 @@ alaturkafoodfactory.de
 alauddintakeaway.com
 alauridsen.dk
 alavibank.com
+alawangroups.com
 alaweercapital.com
 alax.nexxtech.fr
 alaxvong.com
@@ -12761,6 +12774,7 @@ anteplicardetailing.com
 antessa.es
 antfablogistic.com
 anthara.mx
+anthasoft.mx
 anthinhland.onlinenhadat.net
 anthonyjames.com
 anthonykdesign.com
@@ -13851,6 +13865,7 @@ associacao.outsys.net
 association-bts-clim-souillac.shop
 associationfredericfellay.ch
 associazionecaputmundi.it
+assogasmetano.it
 asssolutions.co.uk
 assumptionofmorris.org
 assurance-charente.fr
@@ -15366,6 +15381,7 @@ bcrav.com
 bcreative.expert
 bcrua.com
 bcsautomocio.com
+bcskntc.com
 bcspreli.com
 bcutiepie.com
 bcv334d.ru
@@ -23348,6 +23364,7 @@ devlinux.gs2e.ci
 devondale.com.cn
 devonrails.com
 devorigeweek.nl
+devote-child.gq
 devoyage.co
 devpro.ro
 devsitemile.xyz
@@ -29188,6 +29205,7 @@ fcbramois.ch
 fcdrealcanavese.com
 fce-transport.nl
 fce.edu.br
+fcelestinerey.com
 fcg.gxepb.gov.cn
 fclskincare.com
 fcmcambiosautomaticos.com
@@ -31156,6 +31174,7 @@ gatco-gulf.com
 gate.mindblowserverdocnetwork.xyz
 gateauction.com
 gatejam.icu
+gateraspampa.com.ar
 gatewaycentrechurch.org
 gatewayhealth.com.ng
 gatewaylogsitics.com
@@ -31295,6 +31314,7 @@ geeyun.me
 gehause.ru
 gehwol.tk
 geirdal.is
+geironimo.com
 geisendoerfer-druck.de
 geladinhogourmetoficial.com.br
 gelatidoro.sk
@@ -31583,6 +31603,7 @@ ghillsus.com
 ghisep.org
 ghislain.dartois.pagesperso-orange.fr
 ghisleni.net
+ghjklhjf.ru
 ghlow.me
 ghmhotels.com
 ghodaghodi.com
@@ -36528,6 +36549,7 @@ isc-cu.org
 iscanhome.com
 iscelim.com
 ischka.com
+isciyizbiz.com
 isclimatechangeahoax.com
 iscondisth.com
 iscrr.com.au
@@ -50557,6 +50579,7 @@ powerlinefun.ru
 powernetups.com
 powerpedal.cc
 powerplaygenerators.com
+powerprivat.ru
 powerpublicadjusters.com
 powertec-sy.com
 powertraders.website
@@ -52478,6 +52501,7 @@ registermedicalgroup.com
 registrationsansar.com
 registry-cloud.ru
 regpharmconsult.com
+regret-auction.gq
 regru111ya.temp.swtest.ru
 regue.com.br
 rehal.jp
@@ -62204,6 +62228,7 @@ ticket.madesewwell.com
 ticket2go.by
 ticketdeals2018.com
 ticketdoctor.net
+ticketflips.live
 ticketguruu.com
 ticrealty.ga
 tict-c.nl
@@ -68152,6 +68177,7 @@ yepokjpdy.cf
 yequjun.com
 yerdendolumtesis.com
 yeruti.com.py
+yervantind.com
 yesbisnissyariah.com
 yesejimo.free.wtbidccdn50.cn
 yesempleo.com
