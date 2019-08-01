@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 31 Jul 2019 12:22:45 UTC
+! Updated: Thu, 01 Aug 2019 00:21:34 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -198,6 +198,7 @@
 102.185.40.234
 1024.com.uy
 1029photography.com
+103.1.186.118
 103.1.250.153
 103.1.250.236
 103.100.209.198
@@ -2548,6 +2549,7 @@
 159.89.47.108
 159.89.47.82
 159.89.48.63
+159.89.49.127
 159.89.54.114
 159.89.54.120
 159.89.87.113
@@ -2597,6 +2599,7 @@
 162.244.32.37
 162.250.124.210
 162.250.126.36
+163-cn.ml
 163.172.133.10
 163.172.144.82
 163.172.147.222
@@ -2851,6 +2854,7 @@
 167.71.181.88
 167.71.184.203
 167.71.184.8
+167.71.186.117
 167.71.190.55
 167.71.191.26
 167.71.2.125
@@ -2867,6 +2871,7 @@
 167.71.75.37
 167.71.78.62
 167.71.79.144
+167.71.97.221
 167.86.117.95
 167.86.70.149
 167.86.81.173
@@ -3242,6 +3247,7 @@
 176.32.35.240
 176.40.104.1
 176.56.236.122
+176.56.237.44
 176.57.220.28
 176.57.69.62
 176.9.118.186
@@ -4051,6 +4057,7 @@
 185.222.202.111
 185.222.202.114
 185.222.202.118
+185.222.202.183
 185.222.202.36
 185.222.202.50
 185.222.202.68
@@ -4121,6 +4128,7 @@
 185.244.25.111
 185.244.25.113
 185.244.25.114
+185.244.25.115
 185.244.25.116
 185.244.25.118
 185.244.25.119
@@ -4146,6 +4154,7 @@
 185.244.25.153
 185.244.25.154
 185.244.25.155
+185.244.25.156
 185.244.25.157
 185.244.25.158
 185.244.25.159
@@ -4980,6 +4989,7 @@
 195.181.212.106
 195.181.212.33
 195.181.218.107
+195.189.226.54
 195.190.101.58
 195.201.43.180
 195.206.106.244
@@ -5235,6 +5245,7 @@
 1webdesign.com.au
 1world.wang
 1xbetgiris.website
+1xv4.com
 2-dragon.com
 2.137.25.19
 2.138.251.57
@@ -5895,6 +5906,7 @@
 210.99.148.163
 210sadivorce.com
 211.104.242.105
+211.104.242.12
 211.104.242.139
 211.104.242.47
 211.104.242.69
@@ -5961,6 +5973,7 @@
 212.237.55.195
 212.237.55.5
 212.237.58.51
+212.237.61.10
 212.29.193.228
 212.36.31.215
 212.38.166.79
@@ -8389,6 +8402,7 @@
 64.44.51.89
 64.52.22.139
 64.52.23.27
+64.52.87.76
 64.62.250.41
 64.69.83.43
 64.74.98.177
@@ -10410,6 +10424,7 @@ acceptanceinfo.com
 acceptdatatime.com
 accepted.cba.pl
 acces-info-communication.com
+acceso.live
 access-24.jp
 access-cash.ae.org
 accessclub.jp
@@ -10677,6 +10692,7 @@ adcash.cf
 adcash.ga
 adccenterbd.com
 adcommunication.pt
+adcoops.ga
 add3565office.com
 addai.or.id
 addictionleadgen.com
@@ -13251,6 +13267,7 @@ arcpine.com
 arcsim.ro
 arcsoluciones.cl
 arctarch.com
+arctec-mali.fr
 arctic-mgimo.ru
 arcticblog.nl
 arcticbreathcompany.com
@@ -14309,7 +14326,7 @@ autoprof.es
 autoreduc.com
 autoregressed.com
 autorepairinriorancho.com
-autorepairmanuals.ws/homepage/bSDjvZYCUYyxvldpcWiSpz/
+autorepairmanuals.ws
 autoride.gr
 autorizatiifirme.ro
 autorouteduchocolat.biz
@@ -16959,6 +16976,7 @@ bloggers.swarajyaawards.com
 bloggers24.info
 bloggs.xyz
 blogigroka.com
+blogkarir.com
 blogkienthuc.org
 blogline.net
 blogmason.mixh.jp
@@ -19167,7 +19185,7 @@ cdn.shopify.com/s/files/1/0062/6422/5910/files/RSB_Bill_01052019_00038847155344.
 cdn.siv.cc
 cdn.slty.de
 cdn.top4top.net
-cdn.truelife.vn
+cdn.truelife.vn/webtube/201310/2139273/pianito.exe
 cdn.xiaoduoai.com
 cdn.zecast.com
 cdn4.css361.com
@@ -20348,8 +20366,7 @@ cloudflarrr.ml
 cloudhaste.com
 cloudhooks.com
 clouding-world.online
-cloudme.com/v1/ws2/:dr404/:22cted/22cted.exe
-cloudme.com/v1/ws2/:dr404/:MicrosoftOffice/MicrosoftOffice.exe
+cloudme.com
 cloudninedesign.com.au
 cloudphotos.party
 cloudresemblao.top
@@ -20796,7 +20813,7 @@ completerubbishremoval.net.au
 completervnc.com
 complience.com
 compln.net
-components.technologymindz.com
+components.technologymindz.com/INV/AMM-7394405/
 composecv.com
 composite.be
 compphotolab.northwestern.edu
@@ -22348,6 +22365,7 @@ datsunute.com
 datswingt.nl
 datthocuphuquoc.xyz
 dattiec.net
+datudeli.com
 datvangthainguyen.com
 daubertlawyer.com
 dauger.fr
@@ -27138,6 +27156,7 @@ efhum.com
 eficazcomunicacao.net
 eficiens.cl
 efigen.com.co
+efikagub.myhostpoint.ch
 efklidis.edu.gr
 efljhynz.sha58.me
 efmj-eg.org
@@ -30804,14 +30823,7 @@ fuzionnet.com
 fuzoneeducations.com
 fuzzyconcepts.com
 fuzzymiles.com
-fv1-2.failiem.lv/down.php?i=866a5tnm&n=eFax_message_8501.zip&download_checksum=2436c70ebdc46e4deae67a684d501e980a399948&download_timestamp=1544877407
-fv1-2.failiem.lv/down.php?i=866a5tnm&n=eFax_message_8501.zip&download_checksum=2f58f3958bdd74b7b7c7d359b27ece0d001b14d3&download_timestamp=1544877326
-fv1-2.failiem.lv/down.php?i=866a5tnm&n=eFax_message_8501.zip&download_checksum=b6d9947be0cd57e96513e56a8ffb585948b18de8&download_timestamp=1544877755
-fv1-2.failiem.lv/down.php?i=866a5tnm&n=eFax_message_8501.zip&download_checksum=dd38f08dd73f729bb354c9fd8c7559dfed05ada1&download_timestamp=1544877600
-fv1-2.failiem.lv/down.php?i=x998qvjp&n=eFax_message_8503.zip&download_checksum=57aa50fbe7e0e98a8c06fbc666fda1b1de55acad&download_timestamp=1544877284
-fv1-2.failiem.lv/down.php?i=x998qvjp&n=eFax_message_8503.zip&download_checksum=c45a527822169df1dbcec71ad7a82c851b4453b2&download_timestamp=1544878007
-fv1-2.failiem.lv/down.php?truemimetype=1&i=6cdww6dj&download_checksum=c18a85b1523f4b20ed115ca2f8348aebfcc4359c&download_timestamp=1536791270
-fv1-2.failiem.lv/down.php?truemimetype=1&i=8sw4havs&download_checksum=4e49f09636c4528292511db886067d14d4016eee&download_timestamp=1537834998
+fv1-2.failiem.lv
 fv13.failiem.lv
 fv15.failiem.lv
 fv2-1.failiem.lv
@@ -44077,7 +44089,7 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
-miamicondoinvestments.com
+miamicondoinvestments.com/wp-admin/sec.myaccount.docs.com/
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -45079,8 +45091,9 @@ moscow11.icu
 moscow33.online/KeyMoscow33.35.exe
 moscow33.online/KeyMoscow33.40.exe
 moscow33.online/proxy/assno.chickenkiller.com.exe
-moscow44.online
-moscow55.online
+moscow44.online/KeyMoscow44.35.exe
+moscow44.online/KeyMoscow44.40.exe
+moscow55.online/KeyMoscow55.35.exe
 moscow66.online/KeyMoscow55.35.exe
 moscow77.online
 moscowvorota.ru
@@ -45641,31 +45654,15 @@ my-organic-shop.co.uk
 my-spa.rs
 my.camptaiwan.com.tw
 my.jiwa-nala.org
-my.mail.de
-my.mixtape.moe/ayqydr.vbs
-my.mixtape.moe/chhsmy.htaa
-my.mixtape.moe/coxgka.jpg
-my.mixtape.moe/ejkhnj.htaa
-my.mixtape.moe/eyugjv.htaa
-my.mixtape.moe/huofcq.htaa
-my.mixtape.moe/krmiez.docx
-my.mixtape.moe/ntvual.jar
-my.mixtape.moe/rgbtph.jpg
-my.mixtape.moe/swxfsf.hta
-my.mixtape.moe/tcelou.htaa
-my.mixtape.moe/ufmaxl.htaa
-my.mixtape.moe/vartac.jpg
-my.mixtape.moe/vfgrox.jpg
-my.mixtape.moe/vjgwsh.zip
-my.mixtape.moe/xyvdrv.htaa
-my.mixtape.moe/ywphpl.zip
-my.mixtape.moe/zmkjcs.jpg
+my.mail.de/dl/16396560ccdf7536b3dde030d4b7e0e0/
+my.mixtape.moe
 my.zhaopin.com
 my10apps.com
 my2b.online
 myabisib.ru
 myacademjourneys.com
-myaccount.dropsend.com
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids=14267487
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids[]=14267487
 myadmin.59north.com
 myafyanow.com
 myanmodamini.es
@@ -46434,7 +46431,7 @@ nethouse.sk
 netich.co.ke
 netimoveis.me
 netin.vn
-netix.dl.sourceforge.net/project/ubl/ubl/Binaries/BootLoader_GUI.exe
+netix.dl.sourceforge.net
 netizennepal.com
 netking.duckdns.org
 netlink.com/wp-content/plugins/all-in-one-wp-migration/storage/doc/Copy_Invoice/469302181479406/FHoLy-13a_ZIEFBA-gXE/
@@ -46591,7 +46588,7 @@ newparadise.com.vn
 newpavanchatcorner.com
 newpioneerschool.com
 newportedu.org
-newradio.it
+newradio.it/personalplayer/rvl/rvl.exe
 newreport.info
 newrockchurchconyers.org
 news-week.ru
@@ -49117,23 +49114,7 @@ passpartout.org
 passportstatusonline.com
 passwordrecoverysoft.com
 past.com.tr
-paste.ee/r/DNfid
-paste.ee/r/IBxWH
-paste.ee/r/KC3M6
-paste.ee/r/VADxX
-paste.ee/r/XUnRN
-paste.ee/r/YoY3z/0
-paste.ee/r/ZjjLK
-paste.ee/r/aDgZw
-paste.ee/r/dykKR
-paste.ee/r/fsU10
-paste.ee/r/g6daj
-paste.ee/r/hW6I2
-paste.ee/r/kCMwY
-paste.ee/r/oSNoT
-paste.ee/r/tbOr2
-paste.ee/r/x0Coe
-paste.ee/r/yCZLo/0
+paste.ee
 pastebin.com/raw/1w6BLxha
 pastebin.com/raw/4REjmP3V
 pastebin.com/raw/78rAkiHr
@@ -51487,6 +51468,7 @@ q5q1wdq41dqwd.com
 q6we541sdqwe.com
 q8expos.com
 q8offers.com
+q9676cassie.com
 qa.frplive.tv
 qa.tubeloo.com
 qa4sw.com
@@ -54780,7 +54762,7 @@ seaots.com.au
 seapodbank.tk
 seaportmovingandstorage.com
 seapp.ir
-seara.com.br
+seara.com.br/resources/En/llc/DmRIj-QB8rB_wQmAwnBh-lw/
 search-engine-optimization-canada.ca
 search4.ie
 search8756.files.wordpress.com
@@ -56032,7 +56014,10 @@ simrahsoftware.com
 simrans.sg
 simstal.kiwi
 simurgkusyuvasi.org
-sinacloud.net
+sinacloud.net/yun2016/Bwin732d.rar
+sinacloud.net/yun2016/GomLibrary.rar
+sinacloud.net/yun2016/PrsProt32.rar
+sinacloud.net/yun2016/pl25120.rar
 sinagogart.org
 sinakhoessentials.co.za
 sinaldigital.com
@@ -56183,7 +56168,9 @@ sitwww.watchdogdns.duckdns.org
 sitymag.ru
 siuagustina.band
 sivadatasdevri.com
-sivarajan.com
+sivarajan.com/FILE/Please-pull-invoice-16523/
+sivarajan.com/Invoice/
+sivarajan.com/Past-Due-Invoices-June/
 sivayo.com
 sivenit.net
 sivricerihtim.com
@@ -57211,7 +57198,7 @@ speedracer.online
 speedrunmedia.com
 speedsazeh.com
 speedscenewiring.com
-speedvid.net/876mnelbpr97
+speedvid.net
 speedy-kids.com
 speedycompare.site
 speedyimagesigns.com
@@ -57681,7 +57668,8 @@ static.43.47.69.159.clients.your-server.de
 static.76.102.69.159.clients.your-server.de
 static.error-soft.net
 static.ilclock.com
-static.ow.ly
+static.ow.ly/docs/Carbo%20Contract%202010_3K7C.doc
+static.ow.ly/docs/Womens%20Spring%202012%20Email%20blast2_n4s.doc
 static.solidbasewebschool.nl
 static.topxgun.com
 staticholidaysuk.co.uk
@@ -60023,7 +60011,8 @@ superchargeyourmind.com
 supercopa.cl
 superdad.id
 superdigitalguy.xyz
-superdomain1709.info
+superdomain1709.info/c4FXP3OiUoyf.67W
+superdomain1709.info/kuYcDSjTE.jdZ
 superdot.rs
 superfitnes.net.ru
 superformi.ga
@@ -60085,7 +60074,10 @@ support.homemakerideas.com
 support.imaitaly.biz
 support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/
 support.jbrueggemann.com
-support.mdsol.com
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
 support.redbook.aero
 support.volkerstevin.ca
 support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/
@@ -60921,7 +60913,7 @@ teachthefuture.co
 teadyhedz.com
 teafresco.com
 teaheaven.co.uk
-teal.download.pdfforge.org
+teal.download.pdfforge.org/op/op.exe
 team-booking.apstrix.com
 team.neunoi.it
 team.superset.se
@@ -61749,7 +61741,7 @@ thegeers.com
 thegesualdosix.com
 thegiddystitcher.com
 thegilbertlawoffice.com
-thegims.com
+thegims.com/kk/panelnew/gate.php
 thegioicongdungcu.com
 thegioitraicay24h.com
 theglobetrotters.org
@@ -61962,14 +61954,7 @@ therogers.foundation
 therollingshop.com
 theronnieshow.com
 therundoctor.co.uk
-therxreview.com/Amazon/DE/Kunden_informationen/01_19/
-therxreview.com/BYT1D3keQi/
-therxreview.com/CTYMSWGWC0665949/Rechnungskorrektur/Fakturierung/
-therxreview.com/DE_de/YVAMIGFXT1441342/Rechnungs-Details/DETAILS/
-therxreview.com/GlXxSlMg/
-therxreview.com/MHDT-ctWB8useQaLBgY_Jujiputr-5D5/
-therxreview.com/MUK31q_7UQ3sIR/
-therxreview.com/Rechnungs/2018/
+therxreview.com
 theryangroup.solutions
 thesagehillsschool.com
 thesamplesale.co.uk
@@ -62342,6 +62327,7 @@ tintafinarestaurante.com
 tintenpool-shop.de
 tintuc.chuyendoisong.info
 tinxehoi.vn
+tiny.cc/oiagaz
 tinydownload.net
 tinyfab.in
 tinyfarmblog.com
@@ -64599,7 +64585,8 @@ ury8297ridowoury833oe.com
 urzedniczatv.pl
 us-defense-department.ml
 us-trans.ru
-us-west-2.protection.sophos.com
+us-west-2.protection.sophos.com/?d=fergus.vn&u=aHR0cDovL2Zlcmd1cy52bi9UcmFuc2FjdGlvbl9kZXRhaWxzLzAxMjAxOQ==&e=bGhpY2tleUBtaXNzb3VsYWNvdW50eS51cw==&t=SW9UZyszNFBzSGZwOTZraUtENzJORnc2MWdEMm1ucVVwbUwxTmRVZStyUT0=/
+us-west-2.protection.sophos.com/?d=toools.es&u=aHR0cDovL3Rvb29scy5lcy9iYW5raW50ZXJfL3hEc2EtQzUxU0w4SXpCVGdMN2kxX3RyQllLS1ZqWS1WNS8=&e=c2tvZXBrZUBtaXNzb3VsYWNvdW50eS51cw==&t=QlZHM2FiNzVhbjFld3d5dVJWdnlDMXp6dHpxMU8vVW1FQlhLSTdremUxVT0=/
 us.cdn.persiangig.com
 us15.campaign-archive.com/pages?u=cd5e2bf0aa684eff0aeb54377&id=030032cee1f0
 us2.campaign-archive.com/pages?u=035496fc182d3cf5353219b28&id=03009ec6e1f0
@@ -67415,7 +67402,7 @@ wyensolo.com
 wylernissanlouisville.com
 wyndhamatduran.com
 wyomingauthors.org
-wyptk.com/openlink/openlink1.exe
+wyptk.com
 wyszx.jihaose.cn
 wywoznieczystosci.pomorze.pl
 wz-architekten.de
