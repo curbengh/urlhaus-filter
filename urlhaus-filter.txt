@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 01 Aug 2019 00:21:34 UTC
+! Updated: Thu, 01 Aug 2019 12:21:35 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -812,6 +812,7 @@
 112.196.42.180
 112.197.238.164
 112.213.32.182
+112.213.32.208
 112.216.100.210
 112.3.28.155
 112.30.129.171
@@ -903,6 +904,7 @@
 116.110.250.244
 116.196.123.15
 116.203.1.133
+116.203.153.251
 116.203.180.29
 116.203.40.206
 116.203.48.81
@@ -1266,6 +1268,7 @@
 13.59.135.197
 13.59.140.144
 13.59.241.74
+13.67.107.73
 13.71.118.234
 13.73.162.155
 13.76.158.123
@@ -1432,6 +1435,7 @@
 134.209.42.195
 134.209.42.249
 134.209.43.71
+134.209.45.194
 134.209.47.38
 134.209.48.14
 134.209.48.62
@@ -1774,6 +1778,7 @@
 142.11.238.56
 142.11.240.29
 142.11.241.222
+142.11.248.129
 142.11.248.212
 142.129.111.185
 142.129.231.95
@@ -2019,6 +2024,7 @@
 147.135.21.158
 147.135.23.229
 147.135.23.230
+147.135.27.167
 147.135.76.202
 147.135.94.159
 147.135.98.79
@@ -2052,6 +2058,7 @@
 149.34.20.188
 149.5.209.70
 149.56.100.86
+149.56.110.181
 149.56.122.12
 149.56.128.6
 149.56.228.32
@@ -2665,6 +2672,7 @@
 165.22.152.173
 165.22.153.80
 165.22.159.142
+165.22.166.119
 165.22.170.26
 165.22.18.102
 165.22.183.23
@@ -2849,6 +2857,7 @@
 167.71.160.213
 167.71.167.91
 167.71.168.28
+167.71.172.63
 167.71.176.174
 167.71.177.64
 167.71.181.88
@@ -2866,11 +2875,13 @@
 167.71.51.1
 167.71.52.167
 167.71.59.136
+167.71.60.180
 167.71.68.6
 167.71.69.19
 167.71.75.37
 167.71.78.62
 167.71.79.144
+167.71.80.252
 167.71.97.221
 167.86.117.95
 167.86.70.149
@@ -5706,6 +5717,7 @@
 206.81.12.46
 206.81.13.56
 206.81.14.245
+206.81.23.65
 206.81.26.161
 206.81.4.241
 206.81.4.47
@@ -5812,6 +5824,7 @@
 209.141.54.9
 209.141.55.226
 209.141.55.254
+209.141.56.13
 209.141.56.183
 209.141.56.224
 209.141.57.143
@@ -5829,6 +5842,7 @@
 209.141.62.19
 209.141.62.36
 209.159.150.121
+209.182.216.156
 209.182.217.156
 209.182.217.78
 209.182.218.127
@@ -6045,6 +6059,7 @@
 216.155.135.37
 216.155.137.199
 216.158.233.3
+216.158.238.158
 216.170.112.131
 216.170.114.120
 216.170.114.195
@@ -8426,6 +8441,7 @@
 66.195.138.88
 66.23.201.227
 66.23.231.102
+66.23.231.125
 66.23.233.179
 66.248.204.61
 66.42.110.29
@@ -9166,6 +9182,7 @@
 80.87.198.208
 80001.me
 8004print.com
+8006af08.ngrok.io
 800canneryrow.com
 80224.prohoster.biz
 80521812-285151226570692406.preview.editmysite.com
@@ -10692,6 +10709,7 @@ adcash.cf
 adcash.ga
 adccenterbd.com
 adcommunication.pt
+adcoophttp
 adcoops.ga
 add3565office.com
 addai.or.id
@@ -22500,6 +22518,7 @@ dc-tech.ru
 dc.amegt.com
 dc.kuai-go.com
 dc2bookings.com
+dc437.4sync.com/download/q2Mpp4rh/Fotos-30-07_WhatsApp_.rar?dsid=zoC3FeZc.0fb656e2033aa7dc7fd3c21022fe8a33&sbsr=9964f71c25cde34624e79b7f6155706aa1b&bip=NDYuMTI2LjE5MC4xNQ&lgfp=40
 dc439.4sync.com/download/4fH8340r/RETDFOP1746255SETUP00875.zip?dsid=MBbTfzsm.5835da7d4e97edce498e402486aeded4&sbsr=178b9128dc2dd191d278ffc31174b4c29db&bip=MTA3LjE3OC4xOTQuODM&lgfp=40
 dc439.4sync.com/download/KeYOUdG_/H5EF2KML0C9BGEG6FN9G60C0G.zip?dsid=MBbTfzsm.cc4baef691af8b14340721e85c3c988c&sbsr=f274e6a89510877cc7d10b5ff90f08e09db&bip=MTA3LjE3OC4xOTQuNzk&lgfp=40
 dc439.4sync.com/download/q2b2drZu/OXSMUK0FN00B31856BNDDB35G1IF9A.zip?dsid=MBbTfzsm.ae691c406bbe5a91c5030e0ec3aea30a&sbsr=7bc0f64aac69e3250826d5c162a2cf119db&bip=MTA3LjE3OC4xOTQuNzk&lgfp=40
@@ -33448,6 +33467,7 @@ hdfilmseyretmeli.com
 hdgergitavan.com
 hdhtv.cf
 hdias.com.br
+hdjgshfgsdf.ru
 hdkamery.pl
 hdl-knx.by
 hdmb.altervista.org
@@ -36508,6 +36528,7 @@ irisprojects.nl
 irisrealestate.gr
 irissnuances.com
 irjan.com
+irkmail.xyz
 irlutah.com
 irm.skofirm.net
 irmak.web.tr
@@ -37929,6 +37950,7 @@ jurist29.ru
 juristelektrostal.ru
 jusa.com.mx
 jusbureau.com
+jusqit.com
 jussiprojects.com
 jussulin.com.my
 just-bee.nl
@@ -45446,6 +45468,7 @@ mughal-corporation.com
 mugswinnipeg.org
 muhammadiyahamin.com
 muhammadshahid.techsandooq.com
+muhendismeraki.com
 muidokan.com
 muikarellep.band
 mujerproductivaradio.jacquelinezorrilla.com
@@ -48555,6 +48578,7 @@ otosude.com
 ototoki.com
 otpkabinet.ru
 otroperfil.com.ar
+otryt.bieszczady.pl
 ots.sd
 ottawa.interculturaldialog.com
 ottawaflowers.com
@@ -65925,6 +65949,7 @@ vrinfortel.com
 vrouwenthrillers.nl
 vrrumover0.vrrum0.farted.net/.../auto/safe_scr_files/MF
 vrte462.com
+vrtxx64uo.com
 vrum.lt
 vsb.reveance.nl
 vsbreveance.nl
@@ -68912,6 +68937,7 @@ zurnalas.bernardinai.lt
 zutom.sk
 zuvwax.com
 zvarga.com
+zvfeinaya.com
 zvip.okblcm.co
 zw7auq.dm.files.1drv.com
 zweigassociates.com
