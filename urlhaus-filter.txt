@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 02 Aug 2019 00:21:24 UTC
+! Updated: Fri, 02 Aug 2019 12:21:50 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1034,6 +1034,8 @@
 122.114.119.77
 122.114.120.3
 122.114.155.190
+122.114.173.174
+122.114.197.188
 122.114.246.145
 122.114.6.167
 122.116.124.94
@@ -1702,6 +1704,7 @@
 14.234.158.13
 14.237.197.166
 14.237.203.18
+14.237.232.181
 14.242.196.40
 14.248.178.177
 14.249.139.35
@@ -2120,6 +2123,7 @@
 155.94.160.116
 156.236.116.94
 156.238.111.145
+156.238.165.38
 156.67.220.41
 15666.online
 157.230.0.237
@@ -2457,6 +2461,7 @@
 159.65.42.17
 159.65.46.207
 159.65.47.211
+159.65.49.210
 159.65.53.157
 159.65.64.71
 159.65.65.213
@@ -2675,6 +2680,7 @@
 165.22.166.119
 165.22.170.26
 165.22.18.102
+165.22.181.248
 165.22.183.23
 165.22.183.79
 165.22.187.128
@@ -2693,9 +2699,11 @@
 165.22.21.220
 165.22.212.27
 165.22.213.0
+165.22.216.12
 165.22.217.64
 165.22.218.255
 165.22.220.40
+165.22.220.42
 165.22.221.150
 165.22.221.183
 165.22.222.229
@@ -2851,6 +2859,8 @@
 167.179.119.235
 167.71.0.66
 167.71.13.86
+167.71.131.238
+167.71.132.123
 167.71.137.160
 167.71.137.214
 167.71.141.222
@@ -2868,6 +2878,7 @@
 167.71.191.26
 167.71.2.125
 167.71.200.228
+167.71.210.82
 167.71.4.20
 167.71.4.33
 167.71.40.211
@@ -4860,6 +4871,7 @@
 193.151.91.163
 193.151.91.211
 193.151.91.86
+193.164.133.75
 193.187.172.11
 193.187.172.166
 193.187.172.181
@@ -5448,6 +5460,7 @@
 203.226.76.144.clientjcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 203.228.89.116
 203.28.238.170
+203.29.240.102
 203.57.230.249
 203.69.243.225
 203.77.80.159
@@ -5718,6 +5731,7 @@
 206.81.12.46
 206.81.13.56
 206.81.14.245
+206.81.16.124
 206.81.23.65
 206.81.26.161
 206.81.4.241
@@ -6150,6 +6164,7 @@
 218.214.86.77
 218.232.224.35
 218.52.230.160
+218.60.67.17
 218.61.16.142
 218.92.218.38
 218.92.218.40
@@ -7820,6 +7835,7 @@
 5.189.227.247
 5.189.229.154
 5.19.243.195
+5.19.4.15
 5.196.159.52
 5.196.186.33
 5.196.211.248
@@ -8000,6 +8016,7 @@
 51.38.83.33
 51.38.99.208
 51.68.120.61
+51.68.125.88
 51.68.170.59
 51.68.172.161
 51.68.173.246
@@ -19168,8 +19185,10 @@ cdn.discordapp.com/attachments/553235098049314846/554027529724493834/DTSv42.exe
 cdn.discordapp.com/attachments/574321395094519809/574614788202561537/onetap.su_crack1.exe
 cdn.discordapp.com/attachments/574585696191512619/574585792794460181/Robux_Generator.exe
 cdn.discordapp.com/attachments/574684982941843457/596457242916552725/47dd50bf6a8d5405_1.mp4
+cdn.discordapp.com/attachments/577990361855557642/606343601328226304/IMG_01082019.rar
 cdn.discordapp.com/attachments/588179819972395029/588871215666692096/GEE.exe
 cdn.discordapp.com/attachments/588179819972395029/588874572926025729/out-1445440753.hta
+cdn.discordapp.com/attachments/606606785704624131/606628524820004874/We_have_a_new_delivery_for_you.exe
 cdn.fanyamedia.net
 cdn.fbsbx.com/v/t59.2708-21/30831868_2001421493263570_988122346738941952_n.zip/71I49N1JH7GG.zip?oh=81f42de9d61696c78f429719277283cc&oe=5AE24EE8&dl=1
 cdn.fbsbx.com/v/t59.2708-21/30831923_2004391716299881_1152363085843922944_n.zip/DOC_26-04.zip?oh=3e9b2b1fee016b3085dce0d2d5d106ae&oe=5AE4BDFE&dl=1
@@ -39115,6 +39134,7 @@ kmr.www.watchdogdns.duckdns.orgwatchdogdns.duckdns.org
 kmskonseling.com
 kmstudyville.com
 kmu-kaluga.ru
+kmxxw8.com
 kn-paradise.net.vn
 knacksavvy.com
 knamanpower.com
@@ -49532,6 +49552,7 @@ penfairgolf.com
 penfocus.com
 pengacaraperceraian.pengacaratopsurabaya.com
 pengacarasunita.com
+pengaduan.lan.go.id
 pengona.com
 peninsulals.com
 penis.tips
@@ -53617,6 +53638,7 @@ russellgracie.co.uk
 russellhoover.com
 russelliv.com
 russellmcdougal.com
+russia-games.eu
 russiancelebrant.com.au
 russianfooddirectory.com
 russiantraders.ru
@@ -66323,7 +66345,6 @@ wczmls.ltd
 wdesajbc.com
 wdfoaeuoaefhoahifd.ru
 wdl.usc.edu
-wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/upgrade/10.2.0.6020/selfpatch/wpsupdate.exe
 wdmin.org
 wdojqnwdwd.net
 wdokwuroouaklzwudo.ru
