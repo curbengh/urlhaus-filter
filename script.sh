@@ -21,6 +21,8 @@ sed '/^#/d' | \
 # Parse URLs
 cut -f 6 -d '"' | \
 cut -f 3- -d '/' | \
+# Domain must have at least a 'dot'
+grep -F '.' | \
 # Remove www.
 sed 's/^www\.//g' | \
 sort -u > urlhaus.txt
@@ -52,7 +54,6 @@ unzip -p top-1m.csv.zip | \
 dos2unix | \
 # Parse domains only
 cut -f 2 -d ',' | \
-# Domain must have at least a 'dot'
 grep -F '.' | \
 # Remove www.
 sed 's/^www\.//g' | \
