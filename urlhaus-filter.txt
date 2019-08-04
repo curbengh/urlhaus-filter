@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 03 Aug 2019 12:22:21 UTC
+! Updated: Sun, 04 Aug 2019 00:22:32 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1598,6 +1598,7 @@
 138.68.92.3
 138.68.94.145
 138.68.98.201
+138.91.123.160
 138.99.204.224
 13878.com
 13878.net
@@ -2007,6 +2008,7 @@
 145.239.41.199
 145.239.41.219
 145.239.61.19
+145.239.79.201
 145.239.94.73
 146.0.72.139
 146.0.72.181
@@ -2017,6 +2019,7 @@
 146.71.76.188
 146.71.76.19
 146.71.76.191
+146.71.76.58
 146.71.77.205
 146.71.78.71
 146.71.79.220
@@ -2308,6 +2311,7 @@
 158.140.161.152
 158.174.249.153
 158.255.5.83
+158.255.7.241
 158.255.7.44
 158.69.103.149
 158.69.135.116
@@ -2862,6 +2866,7 @@
 167.160.36.37
 167.179.119.235
 167.71.0.66
+167.71.107.86
 167.71.13.86
 167.71.131.238
 167.71.132.123
@@ -2883,6 +2888,7 @@
 167.71.2.125
 167.71.200.228
 167.71.210.82
+167.71.32.48
 167.71.33.137
 167.71.4.20
 167.71.4.33
@@ -4147,6 +4153,7 @@
 185.24.233.27
 185.241.54.166
 185.243.114.109
+185.244.150.111
 185.244.150.112
 185.244.150.121
 185.244.213.11
@@ -7227,6 +7234,7 @@
 43.251.101.147
 43.254.217.67
 43.255.105.234
+43.255.241.160
 43.255.241.82
 430development.com
 434enterprises.co.uk
@@ -8089,6 +8097,7 @@
 52.143.166.165
 52.15.227.66
 52.15.233.13
+52.163.201.250
 52.172.0.191
 52.172.1.101
 52.172.12.125
@@ -21162,7 +21171,7 @@ convisa.co.cr
 convivialevent.fr
 conwinonline.com
 coocihem.ru
-coofixtool.com/kil.exe
+coofixtool.com
 cookconcreteproducts.com
 cooke.im
 cookecitysinclair.com
@@ -25287,7 +25296,8 @@ down.haote.com
 down.hognoob.se
 down.icafe8.com
 down.klldddiso.xyz
-down.kuwo.cn
+down.kuwo.cn/KwLyric.exe
+down.kuwo.cn/mbox/wwwab/MBOX8.0.1.5/kuwo2015.exe
 down.leyoucoc.cn
 down.my0115.ru
 down.pcclear.com
@@ -25350,13 +25360,13 @@ download.doumaibiji.cn
 download.drp.su/DriverPack-17-Online-autoinstall.exe
 download.drp.su/driverpacks/repack/Misc/DisplayLink/FORCED/NTx64/USBDriver/8.5.3490.0/DisplayLink-FORCED-NTx64-USBDriver-8.5.3490.0-drp.exe
 download.enativ.com
-download.fahpvdxw.cn/xbpic/fmt/v1.0.1.17/fmt_01.exe
-download.fahpvdxw.cn/xbpic/mini/v1.0.1.17/mini_01.exe
+download.fahpvdxw.cn
 download.fixdown.com
 download.fsyuran.com
 download.glzip.cn
 download.instalki.org
 download.ipro.de
+download.kaobeitu.com
 download.ktkt.com
 download.library1.org
 download.mtu.com
@@ -29199,7 +29209,7 @@ fastpacepersonaltraining.com
 fastpool.ir
 fastrackapp.es
 fastrxtransfer.com
-fastsoft.onlinedown.net
+fastsoft.onlinedown.net/down/onekeyyijianhuanyuan.exe
 fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
@@ -32084,7 +32094,7 @@ go.jinglz.online
 go.sharewilly.de
 go.xsuad.com/2019-06-12_com.jjgege.camera3_2.apk
 go2035.ru
-go2l.ink/1ubC
+go2l.ink
 goa.rocks
 goaliesinc.com
 goanbazzar.com
@@ -45161,15 +45171,18 @@ moschee-wil.ch
 moscow.bulgakovmuseum.ru
 moscow00.online/GetDataAVK.exe
 moscow00.online/KeyMoscow00.35.exe
-moscow1.online
+moscow1.online/GetDataAVK.exe
+moscow1.online/KeyMoscow.exe
+moscow1.online/proxy/skapoland.chickenkiller.com.exe
 moscow11.at
 moscow11.host
 moscow11.icu
 moscow33.online/KeyMoscow33.35.exe
 moscow33.online/KeyMoscow33.40.exe
 moscow33.online/proxy/assno.chickenkiller.com.exe
-moscow44.online
-moscow55.online
+moscow44.online/KeyMoscow44.35.exe
+moscow44.online/KeyMoscow44.40.exe
+moscow55.online/KeyMoscow55.35.exe
 moscow66.online/KeyMoscow55.35.exe
 moscow77.online
 moscowvorota.ru
@@ -46302,7 +46315,7 @@ naturashop.ro
 naturathome.be
 nature-creativ.fr
 nature-moi.com
-natureduca.com/images_reporteros/FZd/
+natureduca.com
 naturehut.net
 naturemont.ru
 natures-way.co.za
@@ -49212,7 +49225,23 @@ passpartout.org
 passportstatusonline.com
 passwordrecoverysoft.com
 past.com.tr
-paste.ee
+paste.ee/r/DNfid
+paste.ee/r/IBxWH
+paste.ee/r/KC3M6
+paste.ee/r/VADxX
+paste.ee/r/XUnRN
+paste.ee/r/YoY3z/0
+paste.ee/r/ZjjLK
+paste.ee/r/aDgZw
+paste.ee/r/dykKR
+paste.ee/r/fsU10
+paste.ee/r/g6daj
+paste.ee/r/hW6I2
+paste.ee/r/kCMwY
+paste.ee/r/oSNoT
+paste.ee/r/tbOr2
+paste.ee/r/x0Coe
+paste.ee/r/yCZLo/0
 pastebin.com/raw/1w6BLxha
 pastebin.com/raw/4REjmP3V
 pastebin.com/raw/78rAkiHr
@@ -49464,7 +49493,7 @@ pd.creditreform-muster.de
 pd0rt.nl
 pdedas.com
 pdesaa.cimaa.pt
-pdf-archive.com/2017/06/29/fmb/fmb.pdf
+pdf-archive.com
 pdf-archive.press
 pdf-archive.store
 pdf-compare.site
@@ -51383,7 +51412,9 @@ ptks.gr
 ptmaxnitronmotorsport.com
 ptmd.sy.gs
 ptmmf.co.id
-ptmo.com.au
+ptmo.com.au/okwiProtected.exe
+ptmo.com.au/oursinvoice.exe
+ptmo.com.au/slimRAWProtected.exe
 ptmskonuco.me.gob.ve
 ptnews.pt
 ptof.club
@@ -57777,8 +57808,7 @@ static.43.47.69.159.clients.your-server.de
 static.76.102.69.159.clients.your-server.de
 static.error-soft.net
 static.ilclock.com
-static.ow.ly/docs/Carbo%20Contract%202010_3K7C.doc
-static.ow.ly/docs/Womens%20Spring%202012%20Email%20blast2_n4s.doc
+static.ow.ly
 static.solidbasewebschool.nl
 static.topxgun.com
 staticholidaysuk.co.uk
@@ -60183,7 +60213,10 @@ support.homemakerideas.com
 support.imaitaly.biz
 support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/
 support.jbrueggemann.com
-support.mdsol.com
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
 support.redbook.aero
 support.volkerstevin.ca
 support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/
@@ -68895,7 +68928,7 @@ ziziused.com
 zizu.com.mx
 zizzy.eu
 zj.9553.com
-zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web1898/site/attach/0/ad9ae31e86a9473c8836fbfd38462a8d.doc
+zjjcmspublic.oss-cn-hangzhou.aliyuncs.com
 zjttkj.cn
 zk-orekhovoborisovo.ru
 zkdjezica.si
