@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 04 Aug 2019 00:22:32 UTC
+! Updated: Sun, 04 Aug 2019 12:22:29 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1346,6 +1346,7 @@
 134.209.156.65
 134.209.158.119
 134.209.158.135
+134.209.159.193
 134.209.159.2
 134.209.163.80
 134.209.164.141
@@ -2574,6 +2575,7 @@
 159.89.54.120
 159.89.87.113
 159.89.88.195
+159.89.94.185
 159150.cn
 15ih.com
 15k.xyz
@@ -2905,6 +2907,8 @@
 167.71.79.144
 167.71.80.252
 167.71.97.221
+167.71.99.171
+167.71.99.49
 167.86.117.95
 167.86.70.149
 167.86.81.173
@@ -2930,6 +2934,8 @@
 167.99.104.11
 167.99.106.175
 167.99.107.136
+167.99.115.182
+167.99.125.164
 167.99.13.159
 167.99.133.52
 167.99.133.8
@@ -3674,7 +3680,6 @@
 179.99.210.161
 179.99.54.187
 1794431577.rsc.cdn77.org
-18
 18.130.106.226
 18.130.111.206
 18.130.138.223
@@ -6499,6 +6504,7 @@
 2647117-0.web-hosting.es
 2647403-1.web-hosting.es
 268903.selcdn.ru
+27.0.235.153
 27.105.130.124
 27.106.102.250
 27.113.54.97
@@ -6558,6 +6564,7 @@
 2by2gaming.com
 2by7.com
 2cbio.com
+2cheat.net
 2cw.maconrnd.com
 2d2f292edab1628d5ca24f4df9f2279c.cloudflareworkers.com
 2d6.f8d.myftpupload.com
@@ -6812,6 +6819,7 @@
 35.193.167.184
 35.193.235.224
 35.193.25.17
+35.193.34.171
 35.193.39.77
 35.194.237.133
 35.195.84.183
@@ -7176,6 +7184,7 @@
 40.84.129.6
 40.84.134.182
 40.87.92.185
+40.89.161.108
 4001999.com
 400df.com
 403.today
@@ -7255,6 +7264,7 @@
 45.129.2.132
 45.129.3.105
 45.129.3.114
+45.129.3.130
 45.129.3.59
 45.195.84.92
 45.227.252.250
@@ -7376,8 +7386,10 @@
 45.95.147.28
 45.95.147.29
 45.95.147.33
+45.95.147.40
 45.95.147.41
 45.95.147.42
+45.95.147.44
 45.95.147.48
 45.95.147.52
 45.95.147.60
@@ -8565,6 +8577,7 @@
 67lget9865181258.freebackup.fun
 67ms.top
 68.129.32.96
+68.183.1.88
 68.183.101.24
 68.183.103.111
 68.183.104.27
@@ -9092,6 +9105,7 @@
 80.211.169.226
 80.211.172.64
 80.211.172.75
+80.211.172.80
 80.211.173.159
 80.211.173.216
 80.211.174.54
@@ -14303,7 +14317,6 @@ authenticestate.online
 authenticfilmworks.com
 authenticinfluencer.com
 authenticity.id
-authenticityid
 authenticrooftiles.com
 authenzatrading.org
 authorakshayprakash.in
@@ -14563,7 +14576,6 @@ avtotest-taxi.ru
 avtoton-odessa.top
 avtousluga.by
 avtovokzaly.kz
-avtovokzalykz
 avtozap29.ru
 avts.vn
 avuctekintekstil.com
@@ -15631,6 +15643,17 @@ beginnenmetbitcoin.nl
 beginningspublishing.true.industries
 beginrighthere.com
 begood.pw
+beguest.xyz/app/app.exe
+beguest.xyz/app/e7.exe
+beguest.xyz/app/proxy-mips
+beguest.xyz/app/updateprofile-0321.exe
+beguest.xyz/app/updateprofile-srv1-0520.exe
+beguest.xyz/app/vc.exe
+beguest.xyz/app/watchdog.exe
+beguest.xyz/app/winboxls-0712.exe
+beguest.xyz/app/winboxscan-0702.exe
+beguest.xyz/tvgyasmev5gmk49l/lsa64install.exe
+beguest.xyz/tvgyasmev5gmk49l/lsa64install_in.exe
 behan.org.nz
 behcosanat.com
 behdanehgolestan.com
@@ -18255,6 +18278,7 @@ c.top4top.net/p_6534e8r81.jpg
 c.top4top.net/p_897ao4tp1.jpg
 c.vivi.casa
 c.vollar.ga
+c.xzzzx.ga
 c0.zhehen.com
 c1k-fin.world
 c2.c2management.se
@@ -20077,7 +20101,6 @@ cinegraphicstudios.com
 cinehomedigital.com
 cinemagrafs.viamedia.ba
 cinemaschool.pro
-cinemaschoolpro
 cinemastudio.club
 cinemaxxi.me
 cinephilia.site
@@ -28882,6 +28905,7 @@ f-34.jp
 f-sakura-it.com
 f-sholding.com
 f.akk.li
+f.chernovik55.ru
 f.cl.ly/items/0E011d38442R0Z311b0Q/AIR%20CARGO%20-%20ProEx%20Air%20Cargo%20Freight%20Calculator%20Tool.exe
 f.cl.ly/items/1H1t1f1q0T2D3h2s0D1W/XML.rar
 f.cl.ly/items/3B2d2A1O3G3c1P1G1N0P/hot.doc
@@ -33031,6 +33055,7 @@ h112321.s08.test-hf.su
 h13.doshimotai.ru
 h135460.s08.test-hf.su
 h138736.s05.test-hf.su
+h141654.s08.test-hf.su
 h1vypr6y8ovbhf.com
 h21svc.se
 h2812932937292sjshskz.com
@@ -33856,6 +33881,7 @@ hezi.91danji.com
 hf0seamusvilma.club
 hfconsul.com
 hfeejendomme.dk
+hfgdsdasd.ru
 hfhs.ch
 hfkxgwd.qok.me
 hfmid.bjcma.top
@@ -37960,7 +37986,6 @@ juldizdar.net
 julescropperfit.com
 julesheerkens.nl
 julesmariano.com
-julesmarianocom
 julesofwellness.com
 julesx.hu
 juliannepowers.com
@@ -39476,6 +39501,7 @@ kplaw.kz
 kpogroup.bo
 kpopstarz.kienthucsong.info
 kppspgrojec.internetdsl.pl
+kqfkqkf7ma.temp.swtest.ru
 kqs.me
 kr1s.ru
 krabben.no
@@ -42634,7 +42660,6 @@ majasnews.com
 majedtrading.com
 majelisalanwar.org
 majerasocial.com
-majerasocialcom
 majestic.melanin.media
 majesticartsgallery.com
 majesticbeachrental.com
@@ -44444,7 +44469,6 @@ mindomata.com
 minds.dk
 mindscom-learning.com
 mindsitter.com
-mindspeak
 mindspeak.co
 mindsunitedinc.com
 mindtime.dk
@@ -48628,7 +48652,6 @@ ostyle-shop.net
 osuhughgufijfi.ru
 osvehprint.com
 osvisa.com
-osvisacom
 osweb.shop
 osylondon.com
 ot-nn.ru
@@ -56450,7 +56473,6 @@ skyrim-gow.fr
 skyscan.com
 skyspace.newskyspaces.com
 skytango.io
-skytangoio
 skyteam.opensoft.by
 skytechretail.co.uk
 skytracker.be
@@ -60157,7 +60179,6 @@ superfitnes.net.ru
 superformi.ga
 superfun.com.co
 supergct.com
-supergctcom
 superglowreno.com
 supergreenbio.com
 superguiaweb.com.br
@@ -61789,7 +61810,6 @@ thebohuff.com
 theboltchick.com
 thebookshelfoperation.com
 theboomworks.com
-thebosstheor
 thebosstheory.com
 thebrickguys.co.uk
 thebridge-franklincovey.com
@@ -65132,7 +65152,6 @@ varshatalaee.ir
 vartafitness.com
 varunjhanji.com
 varzeshpress.com
-varzeshpresscom
 vas-advies.nl
 vas1992.com
 vasabaha.com
@@ -66250,6 +66269,7 @@ walworthbar.org
 walycorp.com
 wamambotrading.com
 wamjelly.com
+wamthost.com
 wandarustministries.org
 wandererplanners.com
 wanderers.com
@@ -67787,7 +67807,6 @@ xn---74-5cdy7cbipke.xn--p1ai
 xn---74-jddjttpgaadb5c6bxl.xn--p1ai
 xn--1-7sbc0bfr0ah0c.xn--p1ai
 xn--116-eddot8cge.xn--p1ai
-xn--116-eddot8cgexn--p1ai
 xn--124-5cdkq9dero5b.xn--p1ai
 xn--12c3bbfl6bxf7a4e8cydd.com
 xn--12c3bfbjn4brbb4e7a5cvab3gsn.com
