@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 06 Aug 2019 00:21:27 UTC
+! Updated: Tue, 06 Aug 2019 12:23:05 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -443,6 +443,7 @@
 104.248.175.156
 104.248.18.123
 104.248.181.42
+104.248.184.24
 104.248.184.60
 104.248.185.111
 104.248.186.157
@@ -1064,6 +1065,7 @@
 122.164.205.76
 122.164.219.221
 122.164.75.246
+122.165.186.126
 122.174.253.72
 122.180.29.167
 122.212.124.14
@@ -2040,6 +2042,7 @@
 147.135.23.229
 147.135.23.230
 147.135.27.167
+147.135.3.250
 147.135.76.202
 147.135.94.159
 147.135.98.79
@@ -2096,6 +2099,7 @@
 151.80.162.223
 151.80.186.121
 151.80.209.229
+151.80.241.104
 151.80.241.109
 151.80.241.120
 151.80.32.168
@@ -2130,6 +2134,7 @@
 155.138.193.119
 155.138.195.197
 155.138.203.151
+155.138.206.153
 155.138.221.227
 155.138.227.47
 155.94.152.139
@@ -2661,6 +2666,7 @@
 165.22.101.97
 165.22.108.47
 165.22.109.101
+165.22.11.207
 165.22.110.170
 165.22.12.64
 165.22.120.43
@@ -2708,12 +2714,14 @@
 165.22.2.120
 165.22.2.40
 165.22.201.215
+165.22.201.28
 165.22.203.156
 165.22.203.178
 165.22.205.77
 165.22.206.121
 165.22.21.215
 165.22.21.220
+165.22.211.81
 165.22.212.27
 165.22.213.0
 165.22.215.38
@@ -2727,6 +2735,7 @@
 165.22.222.229
 165.22.227.164
 165.22.227.252
+165.22.227.7
 165.22.229.152
 165.22.229.208
 165.22.23.186
@@ -2876,10 +2885,12 @@
 167.160.36.37
 167.179.119.235
 167.71.0.66
+167.71.107.219
 167.71.107.86
 167.71.13.86
 167.71.131.238
 167.71.132.123
+167.71.135.42
 167.71.137.160
 167.71.137.214
 167.71.14.245
@@ -2944,6 +2955,7 @@
 167.99.106.175
 167.99.107.136
 167.99.115.182
+167.99.125.11
 167.99.125.164
 167.99.13.159
 167.99.133.52
@@ -4050,6 +4062,7 @@
 185.198.56.146
 185.198.57.131
 185.198.57.172
+185.198.57.180
 185.198.57.19
 185.2.101.199
 185.20.185.71
@@ -5064,6 +5077,7 @@
 195.231.5.58
 195.231.5.87
 195.231.6.216
+195.231.8.115
 195.231.8.124
 195.231.9.122
 195.231.9.137
@@ -5170,6 +5184,7 @@
 198.23.255.10
 198.27.126.93
 198.27.78.198
+198.44.228.10
 198.44.250.45
 198.44.96.132
 198.46.160.136
@@ -5610,6 +5625,7 @@
 205.185.126.154
 205.185.126.185
 205.185.126.201
+205.185.126.99
 205.185.127.155
 205.185.127.95
 205.209.160.74
@@ -6330,6 +6346,7 @@
 223.75.104.212
 223.99.0.110
 22y456.com
+23.101.170.52
 23.101.6.109
 23.106.122.2
 23.106.123.224
@@ -7262,6 +7279,7 @@
 43.255.241.82
 430development.com
 434enterprises.co.uk
+435n.chernovik55.ru
 43888.tel
 43dfhdftyr5.000webhostapp.com
 44-maktab.uz
@@ -7421,6 +7439,7 @@
 46.101.123.17
 46.101.125.237
 46.101.128.74
+46.101.134.199
 46.101.135.146
 46.101.137.203
 46.101.138.108
@@ -7685,6 +7704,7 @@
 46.32.231.239
 46.36.35.110
 46.36.36.189
+46.36.36.198
 46.36.36.3
 46.36.37.121
 46.36.37.150
@@ -7756,6 +7776,7 @@
 47.97.112.98
 474.apumao.com
 47inf.org
+48jy84235198b21f7873078899cf5b.cloudflareworkers.com
 49.143.126.72
 49.158.185.5
 49.158.191.232
@@ -9756,6 +9777,7 @@
 91.227.17.32
 91.233.137.84
 91.234.27.27
+91.234.99.177
 91.235.129.55
 91.236.140.236
 91.237.249.226
@@ -10220,6 +10242,7 @@ a1leisure.eu
 a1parts.com.ua
 a2-trading.com
 a2aluminio.com.br
+a2i-interim.com
 a2neventos2.sigelcorp.com.br
 a2sd1q3we2qweq.com
 a2trans.fr
@@ -12341,6 +12364,7 @@ amaraas.me.md-in-23.webhostbox.net
 amaranewsnetwork.com
 amarasrilankatours.com
 amaravathiherald.com
+amarcircle.net
 amarcoldstorage.com
 amare-spa.ru
 amariaapartsminaclavero.000webhostapp.com
@@ -17495,6 +17519,7 @@ bostcf.com
 bostik.com.ro
 bostonblockchainassociation.com
 bostoncarbuyers.com
+bostonfrogpond.org
 bostonseafarms.com
 bostonshawarma.com
 bostonteleprompter.com
@@ -17774,6 +17799,7 @@ brilliancemode.com
 brimgrun.ru
 brimstiks.com
 bringgridgirlsback.com
+bringingupbaby-my.sharepoint.com
 bringmeacat.com
 bringmeier.de
 brinks.store
@@ -19451,6 +19477,7 @@ centralcarqocn.com
 centraldrugs.net
 centralenergy.com
 centralguardfactory.com
+centrallescrowgroup.com
 centralparkconveniencia.com.br
 centralvacwizard.com
 centralvacwizard.net
@@ -21423,6 +21450,7 @@ cotton-world.net
 cottonspace.cn
 couchplan.com
 coudaridutyfree.com
+couleursdeveil.fr
 counciloflight.bravepages.com
 councils.bid
 counsellaw.ca
@@ -27234,6 +27262,7 @@ educacioncontinua.udgvirtual.udg.mx
 educamedico.com.br
 education.quakenergy.com
 educationalworkshop.info
+educationamritsar.com
 edufinit.com
 edugnome.net
 eduhac.com
@@ -30550,6 +30579,7 @@ free-steam-gift.com
 free.diegoalex.com
 free.discusfieldservices.org
 free.djnwelding.com
+free.forwardlifeservices.com
 free.fundiyideas.com
 freebiano.com
 freebies.myfastfreebies.com
@@ -36167,6 +36197,7 @@ innomade.ch
 innomaxmedia.com.pk
 innoohvation.com
 innosolutions.com.sg
+innovacanvalencia.com
 innovacionenimpuestos.com
 innovad.nl
 innovate-wp.club
@@ -36459,6 +36490,7 @@ intranet.exclaim-inc.info
 intranet.neointelligence.com.br
 intranet2.providencia.cl
 intransplant.com
+intras24.nichost.ru
 intrigueweb.com
 intrinitymp.com
 intrinsicsp.com
@@ -41922,6 +41954,7 @@ m51lh60234shawn.com
 m6147keeganpw.info
 m6web-tracking.cocomputewww.watchdogdns.duckdns.org
 m8life.by
+m93701t2.beget.tech
 m968965p.beget.tech
 m9c.net
 m9f.oss-cn-beijing.aliyuncs.com
@@ -46890,6 +46923,7 @@ nfegratuito.myrp.com.br
 nfog2018.dk
 nforsdt.org.np
 nfs.lv
+nfscadastro.com
 nfsconsulting.pt
 nfusedigital.co.za
 ng-tech.ru
@@ -48836,6 +48870,7 @@ ovs.igp.gob.pe
 ovstor.space
 ovtune.zendesk.com
 ovz1.j952574.pk7kn.vps.myjino.ru
+ow.chernovik55.ru
 owa.wpmunetwork.com
 owczarnialefevre.com
 owedtogreed.com
@@ -49325,6 +49360,9 @@ paste.ee/r/oSNoT
 paste.ee/r/tbOr2
 paste.ee/r/x0Coe
 paste.ee/r/yCZLo/0
+pastebin.com/2q8dT2n3
+pastebin.com/gUJMLv20
+pastebin.com/rVFFxSs6
 pastebin.com/raw/1w6BLxha
 pastebin.com/raw/4REjmP3V
 pastebin.com/raw/78rAkiHr
@@ -49334,6 +49372,7 @@ pastebin.com/raw/CM22vTup
 pastebin.com/raw/CY2EEMJN
 pastebin.com/raw/D1Bjgv8a
 pastebin.com/raw/D9V1HJmM
+pastebin.com/raw/DawJ5x7m
 pastebin.com/raw/Euzk3Ht4
 pastebin.com/raw/F8W8Pz9Z
 pastebin.com/raw/FkyichTu
@@ -49345,6 +49384,7 @@ pastebin.com/raw/PGEcvceN
 pastebin.com/raw/Q0E8fdwn
 pastebin.com/raw/Q8Tr0y9G
 pastebin.com/raw/Qx0K2baN
+pastebin.com/raw/SpihegJk
 pastebin.com/raw/T4kLHbMZ/
 pastebin.com/raw/TqNik0Yd
 pastebin.com/raw/TqTpj30L
@@ -49356,6 +49396,7 @@ pastebin.com/raw/cRTTP4c5
 pastebin.com/raw/efZDG7aL
 pastebin.com/raw/fRShK2UX
 pastebin.com/raw/jkBxauyv
+pastebin.com/raw/kHq5wY6r
 pastebin.com/raw/kjKci9J8
 pastebin.com/raw/ng1agnTh
 pastebin.com/raw/phbZu0vK
@@ -52132,6 +52173,7 @@ rajans.lk
 rajascreations.in
 rajasthanrajput.com
 rajazeeshan.com
+rajcharan.files.wordpress.com
 rajcsc.com
 rajgraphics.in
 rajikase.com
@@ -53673,6 +53715,7 @@ ruahcs-my.sharepoint.com
 ruanova.com
 ruanova.mx
 ruberu.com.tr
+rubind.files.wordpress.com
 rubisanmarino.org
 rubiz.smartsho.ir
 rublinetech.com
@@ -55949,6 +55992,7 @@ shoppingcat.net
 shoppingcreditcard.site
 shoppingjust4me.com
 shoppinglife.it
+shoppingvilla.xyz
 shoppnonclin.com
 shoppworld.com
 shopquaonline.vn
@@ -56468,6 +56512,7 @@ skintimes.nl
 skiploop.com
 skippydeals.com.au
 skipthecarts.com
+skitrek.co.in
 skjefstad.net
 skladvysotka.ru
 skleniky-v-akci.cz
@@ -56690,6 +56735,7 @@ smartitventures.com
 smartjusticeaz.org
 smartklampindonesia.com
 smartline.com.ua
+smartlinktelecom.top
 smartlync.pk
 smartmoneylife.com
 smartneworld.com
@@ -60538,6 +60584,7 @@ sxyige.com
 sxypcs.info
 sxzunjh.com
 sxzxgsi.com
+sy.aggewebhost.com
 syafukuseijyukai.com
 syamnco.com
 syca.weekydeal.fr
@@ -63880,6 +63927,7 @@ u34972p30152.web0114.zxcs.nl
 u3688615.ct.sendgrid.net
 u3833268.ct.sendgrid.net
 u3968303.ct.sendgrid.net
+u3w.chernovik55.ru
 u4.udesignvn.com
 u4014942.ct.sendgrid.net
 u410471uf4.ha002.t.justns.ru
@@ -68124,6 +68172,7 @@ xsinet.pw
 xsoft.tomsk.ru
 xss777.free.fr
 xstitches.com.au
+xsw2525f447788e131469.cloudflareworkers.com
 xtendedbikecoverage.com
 xtex.com.br
 xtime.hk
