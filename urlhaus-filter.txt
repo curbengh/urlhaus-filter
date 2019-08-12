@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 11 Aug 2019 12:22:09 UTC
+! Updated: Mon, 12 Aug 2019 00:21:37 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -229,6 +229,7 @@
 103.214.108.43
 103.214.111.121
 103.217.213.163
+103.230.158.111
 103.242.2.60
 103.246.218.189
 103.246.218.247
@@ -758,6 +759,7 @@
 110.235.197.246
 110.35.234.48
 110.42.0.151
+110.47.230.127
 1102sgp.top
 110dna.com.cn
 111.1.89.192
@@ -1531,6 +1533,7 @@
 138.197.137.95
 138.197.141.19
 138.197.141.5
+138.197.145.16
 138.197.145.229
 138.197.145.45
 138.197.149.130
@@ -2129,6 +2132,7 @@
 154.16.3.14
 154.218.1.63
 154.221.23.39
+154.222.140.49
 154.223.159.5
 154.85.12.111
 154.85.15.17
@@ -2740,6 +2744,7 @@
 165.22.216.12
 165.22.217.64
 165.22.218.255
+165.22.22.173
 165.22.220.40
 165.22.220.42
 165.22.221.150
@@ -2842,6 +2847,7 @@
 165.227.168.84
 165.227.169.67
 165.227.177.96
+165.227.178.147
 165.227.178.174
 165.227.183.147
 165.227.195.213
@@ -2948,6 +2954,7 @@
 167.71.79.144
 167.71.80.252
 167.71.82.110
+167.71.96.235
 167.71.97.221
 167.71.99.171
 167.71.99.49
@@ -4005,6 +4012,7 @@
 185.163.127.12
 185.163.45.12
 185.163.47.134
+185.164.72.110
 185.164.72.136
 185.164.72.155
 185.164.72.213
@@ -4141,6 +4149,7 @@
 185.22.154.125
 185.22.154.153
 185.22.154.181
+185.22.154.189
 185.22.154.206
 185.22.154.248
 185.22.154.78
@@ -4891,6 +4900,7 @@
 192.236.195.212
 192.236.208.231
 192.236.208.238
+192.236.209.28
 192.241.128.165
 192.241.128.205
 192.241.133.148
@@ -5186,6 +5196,7 @@
 198.167.142.11
 198.167.142.5
 198.167.143.107
+198.167.143.202
 198.175.126.80
 198.199.123.110
 198.199.66.46
@@ -6375,6 +6386,7 @@
 222.186.134.122
 222.186.137.132
 222.186.15.66
+222.186.160.227
 222.186.172.54
 222.186.3.210
 222.186.34.247
@@ -6730,6 +6742,7 @@
 31.128.173.853.zhzy999.net
 31.129.70.65
 31.13.195.251
+31.13.195.49
 31.131.24.153
 31.132.1.61
 31.132.142.166
@@ -9665,7 +9678,13 @@
 887.basinbultenigonderimi.com
 887sconline.com
 888fx.pro
-88b.me
+88b.me/R/SURIA.arm
+88b.me/R/SURIA.arm5
+88b.me/R/SURIA.mips
+88b.me/dlk/upg/bf.mips
+88b.me/nbt/bf.arm
+88b.me/nbt/bf.mips
+88b.me/nbt/bf.mipsel
 88four8.com
 88fpw.com
 88hardwood.com
@@ -9925,6 +9944,7 @@
 92.115.66.96
 92.115.9.236
 92.115.94.82
+92.118.37.99
 92.119.113.32
 92.12.93.27
 92.126.201.17
@@ -10965,8 +10985,7 @@ adityebirla.com
 adizventuresgh.com
 adjacentcruise.com
 adjassessoria.com.br
-adjoy.com/DHL/US_us
-adjoy.com/DHL/US_us/
+adjoy.com
 adkhw.net
 adkoc.com
 adl-groups.com
@@ -12617,7 +12636,7 @@ amnholidays.com
 amnisopes.com
 amniyatgostariranian.ir
 amnrelease.com
-amnsreiuojy.ru
+amnsreiuojy.ru/t.exe
 amnsw.com.au
 amnsw.prospareparts.com.au
 amnsw.prosparepartscom.au
@@ -14944,8 +14963,7 @@ babababy.ga
 babaiko.site
 babaldi.com
 babaloke.woundedwarriorscience.science
-babalublog.com/anatasio/PzmDp-HdzCluVtVxSdcM_TkwgWiLJc-qQ/
-babalublog.com/image/h5jo1ao23800/
+babalublog.com
 babaroadways.in
 babaunangdong.com
 babeltradcenter.ro
@@ -16699,6 +16717,7 @@ bitbucket.org/secondlifegg/second/downloads/output5ezminer.exe
 bitbucket.org/secondlifegg/second/downloads/stealer.exe
 bitbucket.org/secondlifegg/second/downloads/windir2.exe
 bitbucket.org/security2019/new2019/downloads/CLIPPER.exe
+bitbucket.org/sergstopio/adnim231/downloads/download.hta
 bitbucket.org/syfrex1/syfrex/downloads/BitcoinBotv1.0.rar
 bitbucket.org/syfrex1/syfrex/downloads/LinkenSphere-test.exe
 bitbucket.org/syfrex1/syfrex/downloads/Rainbow%20Six%20Independent.exe
@@ -20279,7 +20298,8 @@ cirestudios.com
 cirqueampere.fr
 cisir.utp.edu.my
 cisme.in
-cismichigan.com
+cismichigan.com/1518MBCNZI/oamo/Commercial
+cismichigan.com/1518MBCNZI/oamo/Commercial/
 cisnecosmetics.com.br
 ciss.mk
 cissa.ewebdy.com
@@ -22808,7 +22828,7 @@ dd-fsa.dk
 dd-installationen.com
 dd.cloudappconfig.com
 dd.loop.coop
-dd.smaxdn.com
+dd.smaxdn.com/2018-11-23_com.xxzj.calculator_22.apk
 dda.co.ir
 ddaynew.5demo.xyz
 ddbuilding.com
@@ -22853,7 +22873,7 @@ dealertrafficgenerator.com
 dealmykart.com
 dealsammler.de
 dealsfantasy.com
-dealtimer.com
+dealtimer.com/AsIn9
 deam.cl
 deanhopkins.co.uk
 deathbat-jp.com
@@ -25481,7 +25501,8 @@ down.haote.com
 down.hognoob.se
 down.icafe8.com
 down.klldddiso.xyz
-down.kuwo.cn
+down.kuwo.cn/KwLyric.exe
+down.kuwo.cn/mbox/wwwab/MBOX8.0.1.5/kuwo2015.exe
 down.leyoucoc.cn
 down.my0115.ru
 down.pcclear.com
@@ -25512,6 +25533,7 @@ down1.arpun.com
 down1.baopu.cc
 down1.greenxf.com
 down1.hgkjb.top
+down1.softups.info
 down1.topsadon1.com
 down1.xt70.com
 down10.zol.com.cn
@@ -25560,7 +25582,7 @@ download.pdf00.cn
 download.postnltrackentrace.com
 download.qiangxm.com
 download.rising.com.cn
-download.security.baidu.co.th
+download.security.baidu.co.th/softmgr/C9_Thailand_Downloader_1.062.exe
 download.skycn.com
 download.sosej.cz
 download.ttrar.com
@@ -26953,7 +26975,7 @@ e-n-g.ru
 e-ne.org
 e-nissei.com
 e-noble.com
-e-online.fr
+e-online.fr/templates/protostar/images/system/messg.jpg
 e-penyatagaji.com
 e-planet.cc
 e-pr.ir
@@ -27817,7 +27839,7 @@ elsoler.cat
 elsoto.org
 elssots.com
 elstepo.com.ua
-eltec.at/Jykqj-NwEGJ2LAv_QzWZVnc-rVd/PaymentStatus/LLC/En/Invoice-for-you/
+eltec.at
 eltekelektrik.net
 elterlemesi.com
 elterma.com
@@ -28555,7 +28577,7 @@ estomedic.com
 estore.qurvex.com
 estrategias-corporativas.com
 estrategiasdeaprovacao.com.br
-estreamnetworks.net
+estreamnetworks.net/7GWTSLC/WIRE/Commercial
 estrindesign.com
 estrom.es
 estrutura.eng.br
@@ -29399,7 +29421,7 @@ fastpacepersonaltraining.com
 fastpool.ir
 fastrackapp.es
 fastrxtransfer.com
-fastsoft.onlinedown.net
+fastsoft.onlinedown.net/down/onekeyyijianhuanyuan.exe
 fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
@@ -32296,7 +32318,7 @@ go.pardot.com/l/94872/2019-08-05/3lm51n/94872/208025/print_label.zip
 go.sharewilly.de
 go.xsuad.com
 go2035.ru
-go2l.ink/1ubC
+go2l.ink
 goa.rocks
 goaliesinc.com
 goanbazzar.com
@@ -34658,7 +34680,7 @@ honeyman.ca
 honeymanhomes.co.uk
 honeymoon-egypt.com
 honeymoonlady.com
-honeynet.org
+honeynet.org/sites/default/files/files/1309361194_eschweiler_forensic_challenge_8.zip
 honeywax.ir
 hongcheng.org.hk
 hongkongrestaurant.com.au
@@ -41266,7 +41288,26 @@ listmywish.net
 listroot.com
 lists.coqianlong.watchdogdns.duckdns.org
 lists.genivi.org
-lists.ibiblio.org
+lists.ibiblio.org/pipermail/freetds/attachments/20040126/36f99efb/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040126/86210179/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/1865764e/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/2f685198/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/3f51440e/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/5ad87ada/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/65b8c742/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/67f88562/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/81aa3f28/attachment.exe
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/85d5fbc6/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/c6c8fcd6/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/d82eab18/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/dd4e9f63/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/e988f301/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/fda9311d/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040127/fdf6de2b/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040128/56446911/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040128/a378d55a/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040128/b75a3efb/attachment.obj
+lists.ibiblio.org/pipermail/freetds/attachments/20040128/e1bf88b5/attachment.obj
 lists.linaro.org
 lists.mplayerhq.hu
 lists.opnfv.org
@@ -44396,7 +44437,7 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
-miamicondoinvestments.com/wp-admin/sec.myaccount.docs.com/
+miamicondoinvestments.com
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -45389,11 +45430,13 @@ mosbirdclub.ru
 mosbussum.nl
 moschee-wil.ch
 moscow.bulgakovmuseum.ru
-moscow00.online
+moscow00.online/GetDataAVK.exe
+moscow00.online/KeyMoscow00.35.exe
 moscow1.online/GetDataAVK.exe
 moscow1.online/KeyMoscow.exe
 moscow1.online/proxy/skapoland.chickenkiller.com.exe
-moscow11.at
+moscow11.at/GetDataAVK.exe
+moscow11.at/proxy/skapoland.chickenkiller.com.exe
 moscow11.host
 moscow11.icu
 moscow33.online/KeyMoscow33.35.exe
@@ -45965,14 +46008,30 @@ my-spa.rs
 my.camptaiwan.com.tw
 my.jiwa-nala.org
 my.mail.de
-my.mixtape.moe
+my.mixtape.moe/ayqydr.vbs
+my.mixtape.moe/chhsmy.htaa
+my.mixtape.moe/coxgka.jpg
+my.mixtape.moe/ejkhnj.htaa
+my.mixtape.moe/eyugjv.htaa
+my.mixtape.moe/huofcq.htaa
+my.mixtape.moe/krmiez.docx
+my.mixtape.moe/ntvual.jar
+my.mixtape.moe/rgbtph.jpg
+my.mixtape.moe/swxfsf.hta
+my.mixtape.moe/tcelou.htaa
+my.mixtape.moe/ufmaxl.htaa
+my.mixtape.moe/vartac.jpg
+my.mixtape.moe/vfgrox.jpg
+my.mixtape.moe/vjgwsh.zip
+my.mixtape.moe/xyvdrv.htaa
+my.mixtape.moe/ywphpl.zip
+my.mixtape.moe/zmkjcs.jpg
 my.zhaopin.com
 my10apps.com
 my2b.online
 myabisib.ru
 myacademjourneys.com
-myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids=14267487
-myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids[]=14267487
+myaccount.dropsend.com
 myadmin.59north.com
 myafyanow.com
 myanmodamini.es
@@ -47332,7 +47391,7 @@ nodearts.com
 noel-cafe.com
 noelportelles.com
 noerrebrogade45.hostedbyaju.com
-nofile.io
+nofile.io/f/ED4pTB5VkUd/purchase+order.zip
 nofy-nosybe.com
 noi.nu
 noico.vcard.pl
@@ -48119,7 +48178,7 @@ old.firecom.pro
 old.gkinfotechs.com
 old.hello5.kr
 old.hinz.se.prison01.dalnix.se
-old.honeynet.org
+old.honeynet.org/scans/scan33/0x90.exe
 old.klinika-kostka.com
 old.norsec.kz
 old.oleglukanov.com
@@ -49076,8 +49135,7 @@ pablohevia.com
 pablolauria.site
 pabloteixeira.com
 pablotrabucchelli.com
-paboard.com/6AR/ACH/Smallbusiness
-paboard.com/6AR/ACH/Smallbusiness/
+paboard.com
 pabx-uae.com
 pacbest.org
 pacedg-my.sharepoint.com
@@ -51290,6 +51348,7 @@ progettopsichepiola.it
 progirl.com.vn
 progitaltech.com.ng
 progpconsultoria.com.br
+program.zadc.ru
 programa-smeta.ru
 programandojuntos.us.tempcloudsite.com
 programbul.pro
@@ -57555,7 +57614,7 @@ speedracer.online
 speedrunmedia.com
 speedsazeh.com
 speedscenewiring.com
-speedvid.net
+speedvid.net/876mnelbpr97
 speedy-kids.com
 speedycompare.site
 speedyimagesigns.com
@@ -58027,7 +58086,8 @@ static.43.47.69.159.clients.your-server.de
 static.76.102.69.159.clients.your-server.de
 static.error-soft.net
 static.ilclock.com
-static.ow.ly
+static.ow.ly/docs/Carbo%20Contract%202010_3K7C.doc
+static.ow.ly/docs/Womens%20Spring%202012%20Email%20blast2_n4s.doc
 static.solidbasewebschool.nl
 static.topxgun.com
 staticholidaysuk.co.uk
@@ -60447,10 +60507,7 @@ support.homemakerideas.com
 support.imaitaly.biz
 support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/
 support.jbrueggemann.com
-support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/
-support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc
-support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
-support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
+support.mdsol.com
 support.redbook.aero
 support.volkerstevin.ca
 support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/
@@ -61960,7 +62017,8 @@ tharsisfilms.com
 thatavilellaoficial.com.br
 thatoilchick.com
 thats-amazing.com
-thaus.to
+thaus.to/1.exe
+thaus.to/2.exe
 thctiedye.com
 thdidm.zendesk.com/attachments/token/90twtLKKvofUaiNKT8vhMBab4/
 thdidm.zendesk.com/attachments/token/i87knteqNN582AqG1Au1GQzvc/?name=new-contract-November.doc
@@ -64515,7 +64573,7 @@ uhost.club
 uhrc.co.uk
 uhttravel.com
 uhuii.com
-ui.threatstream.com/detail/http://sixsigma-accreditation.org/wp-includes/id3/pik.zip
+ui.threatstream.com
 uia2020rio.archi
 uicphipsi.com
 uidp.org
@@ -64890,6 +64948,7 @@ upload-exe.me
 upload.cat
 upload.moe
 upload.ynpxrz.com
+upload1.icu
 uploadbr.com
 uploadedfiles.coastmotorsupply.com
 uploader.sx
@@ -65035,8 +65094,7 @@ ury8297ridowoury833oe.com
 urzedniczatv.pl
 us-defense-department.ml
 us-trans.ru
-us-west-2.protection.sophos.com/?d=fergus.vn&u=aHR0cDovL2Zlcmd1cy52bi9UcmFuc2FjdGlvbl9kZXRhaWxzLzAxMjAxOQ==&e=bGhpY2tleUBtaXNzb3VsYWNvdW50eS51cw==&t=SW9UZyszNFBzSGZwOTZraUtENzJORnc2MWdEMm1ucVVwbUwxTmRVZStyUT0=/
-us-west-2.protection.sophos.com/?d=toools.es&u=aHR0cDovL3Rvb29scy5lcy9iYW5raW50ZXJfL3hEc2EtQzUxU0w4SXpCVGdMN2kxX3RyQllLS1ZqWS1WNS8=&e=c2tvZXBrZUBtaXNzb3VsYWNvdW50eS51cw==&t=QlZHM2FiNzVhbjFld3d5dVJWdnlDMXp6dHpxMU8vVW1FQlhLSTdremUxVT0=/
+us-west-2.protection.sophos.com
 us.cdn.persiangig.com
 us15.campaign-archive.com/pages?u=cd5e2bf0aa684eff0aeb54377&id=030032cee1f0
 us2.campaign-archive.com/pages?u=035496fc182d3cf5353219b28&id=03009ec6e1f0
@@ -66798,7 +66856,7 @@ webchamp.com
 webclicks.co.za
 webcluetech.com
 webcompanypro.com
-webcompra.com.br/js/calendar/skins/Nfe-Americanas_Compras-00025669884102.zip?cr8u5q5e5i=
+webcompra.com.br
 webconetfinanc.com
 webcycconsultores.com
 webdav.tfa-secure.tech
@@ -67466,7 +67524,8 @@ wmd9e.a3i1vvv.feteboc.com
 wmdcustoms.com
 wmebbiz.co.za
 wmg128.com
-wmi.1217bye.host
+wmi.1217bye.host/1.txt
+wmi.1217bye.host/2.txt
 wmkatz.com
 wmo-raad.inov.me
 wmpatagonia.cl
@@ -68437,6 +68496,7 @@ xxxpornmarket.com
 xxxporno.vlog.br
 xxxtetonas.top
 xxxxlk.com
+xxxxxxxxxxxxxxxxxox.xyz
 xycindustrial.com
 xyfos.com
 xyhfountainlights.com
