@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 12 Aug 2019 00:21:37 UTC
+! Updated: Mon, 12 Aug 2019 12:21:38 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2481,6 +2481,7 @@
 159.65.238.162
 159.65.239.183
 159.65.240.150
+159.65.243.81
 159.65.247.164
 159.65.247.21
 159.65.248.217
@@ -2929,6 +2930,7 @@
 167.71.184.203
 167.71.184.8
 167.71.186.117
+167.71.189.35
 167.71.190.55
 167.71.191.26
 167.71.2.125
@@ -2936,6 +2938,7 @@
 167.71.208.165
 167.71.210.82
 167.71.214.117
+167.71.216.150
 167.71.32.48
 167.71.33.137
 167.71.4.20
@@ -3066,8 +3069,11 @@
 167.99.45.134
 167.99.54.201
 167.99.54.55
+167.99.57.19
+167.99.59.156
 167.99.60.176
 167.99.61.140
+167.99.61.243
 167.99.62.191
 167.99.64.148
 167.99.70.105
@@ -3376,6 +3382,7 @@
 177.206.240.69
 177.206.249.135
 177.207.99.247
+177.21.214.252
 177.222.163.32
 177.33.215.63
 177.37.176.166
@@ -4477,6 +4484,7 @@
 185.82.200.189
 185.82.200.216
 185.82.202.214
+185.82.202.24
 185.82.202.241
 185.82.202.4
 185.82.216.62
@@ -6465,6 +6473,7 @@
 23.254.132.59
 23.254.134.119
 23.254.138.248
+23.254.165.208
 23.254.167.143
 23.254.167.231
 23.254.201.234
@@ -8202,6 +8211,7 @@
 51.79.54.106
 51.79.55.3
 51.79.71.155
+51.81.20.167
 51.81.20.98
 51.81.7.102
 51.81.7.54
@@ -9085,6 +9095,7 @@
 78.142.19.30
 78.142.19.78
 78.142.19.81
+78.142.194.36
 78.142.29.110
 78.142.29.118
 78.161.151.153
@@ -14939,6 +14950,7 @@ b.top4top.net/p_4150lzvz1.jpg
 b010.info
 b1.ee
 b118group.com
+b14afb59aa.pw
 b1scoito-is-my-nig.ga
 b21664.fps.by
 b2b.supernova.com.tr
@@ -15754,6 +15766,7 @@ bechner.com
 becicka.com
 beck-architekt.de
 becker-tm.org
+beckerpiano.ru
 beckmann.com.tr
 becommerce.mx
 becsystem.com.tr
@@ -29128,6 +29141,7 @@ f1shopper.com
 f2concept.com
 f2favotto.ml
 f2host.com
+f321y.com
 f328.com
 f3distribuicao.com.br
 f468lrul93362411.wshowlw.club
@@ -40659,6 +40673,7 @@ ledsignage.my
 ledtvrepairingpune.rasoirasta.com
 ledwards.net
 ledyroz.ru
+leedshrgroup.com
 leedye.com
 leeericsmith.com
 leeger.net
@@ -61206,6 +61221,7 @@ tastaturblog.de
 tastebudadventures.com
 tastebvi.com
 tastemuskoka.com
+tastorm.in
 tastyfood-diy.com
 tataaquila.com
 tatabula.com
@@ -67393,6 +67409,7 @@ windowsmxapplayrun.com
 windowtreatmentshollywood.com
 windowtreatmentsshermanoaks.com
 windowtreatmentswesthollywood.com
+windrvs.ru
 windwardwake.com
 windycitypizzakitchens.com
 wine-love.ru
