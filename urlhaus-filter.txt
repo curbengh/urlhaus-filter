@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 13 Aug 2019 00:21:31 UTC
+! Updated: Tue, 13 Aug 2019 12:22:12 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -219,6 +219,7 @@
 103.136.40.183
 103.136.40.201
 103.136.40.253
+103.136.40.78
 103.136.43.108
 103.195.7.162
 103.195.7.71
@@ -286,6 +287,7 @@
 104.161.92.244
 104.162.129.153
 104.168.132.46
+104.168.135.186
 104.168.136.219
 104.168.139.3
 104.168.140.207
@@ -1418,6 +1420,7 @@
 134.209.228.125
 134.209.228.83
 134.209.23.148
+134.209.23.253
 134.209.230.124
 134.209.231.69
 134.209.232.24
@@ -1814,6 +1817,7 @@
 142.44.181.235
 142.44.207.48
 142.44.242.241
+142.44.251.105
 142.54.173.194
 142.93.0.136
 142.93.1.172
@@ -2601,6 +2605,7 @@
 159.89.54.120
 159.89.87.113
 159.89.88.195
+159.89.89.202
 159.89.94.185
 159150.cn
 15ih.com
@@ -2960,6 +2965,7 @@
 167.71.79.144
 167.71.80.252
 167.71.82.110
+167.71.82.119
 167.71.96.235
 167.71.97.221
 167.71.99.171
@@ -3978,6 +3984,7 @@
 185.144.156.59
 185.144.157.96
 185.144.159.15
+185.144.159.51
 185.144.28.224
 185.145.129.41
 185.145.45.156
@@ -4081,6 +4088,7 @@
 185.183.96.9
 185.183.97.14
 185.183.97.55
+185.183.98.158
 185.183.98.79
 185.183.99.217
 185.183.99.230
@@ -4125,6 +4133,7 @@
 185.203.118.229
 185.203.119.10
 185.203.119.13
+185.203.119.211
 185.205.210.160
 185.205.210.210
 185.206.145.171
@@ -7788,6 +7797,7 @@
 46.29.167.56
 46.29.167.6
 46.29.167.95
+46.29.167.96
 46.29.96.96
 46.30.42.193
 46.30.42.225
@@ -8035,6 +8045,7 @@
 5.224.1.219
 5.225.67.5
 5.230.141.14
+5.230.22.132
 5.232.97.108
 5.236.180.25
 5.236.19.179
@@ -8647,6 +8658,7 @@
 66.42.58.126
 66.42.78.2
 66.42.83.118
+66.45.232.92
 66.45.248.246
 66.55.64.137
 66.55.64.199
@@ -9212,6 +9224,7 @@
 80.191.232.26
 80.191.250.164
 80.209.224.106
+80.209.240.36
 80.209.252.31
 80.211.10.203
 80.211.100.135
@@ -12964,6 +12977,7 @@ anmolanwar.com
 ann141.net
 anna.websaiting.ru
 annabelle-hamande.be
+annachapman3.icu
 annadataagro.com
 annaforiowa.com
 annalikes.de
@@ -24716,6 +24730,7 @@ doc-00-9g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-00-9g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/r8ir1ecs49ekpdmstbamnsmed1fn1k1d/1551376800000/00875647704258956549/*/1mWHVEpUGluecaLF7qfg9ZSgJlH8Fh389
 doc-00-9o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/0p72cr7rffke4bottccuatc0jv9qkjhb/1550253600000/09100922564250845248/*/1HgSWyA3-erKtySCSJj0mJLoAWV6LpUo3
 doc-00-9s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/8j0gvb6o63irae8hok24uejjktfmstas/1564120800000/01776086037526790667/*/1nVJ9CeVoxZimn548YQlGOGePwXMeFkdn?e=download
+doc-00-9s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/s6bh1gnf8b07hlt2gpvsfo3aprjvj6l8/1565661600000/01776086037526790667/*/1jLbivm7JiC8EV7oY3IAFFEbfwdk9nYrF?e=download
 doc-04-0o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/fde1ehbah98fofhm4ef0fenql1e3gb0c/1552564800000/02186969379317141664/*/1KsDA5PFPAv6VOs0pDLPEZlBil5FKJ0G4
 doc-04-1k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rll2dpscmenjk8o3a86s4ijtj88ampmh/1535601600000/01121010560865514304/*/1toVtmf3b4IHR13DKbl5pnIdBi9UW_A2d?e=download
 doc-04-20-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/f2mqlsnkvlf1fai1h77phe6tba0kf6cl/1551376800000/12675010240457470854/*/1QC6N4CpJS8PKwjrMtY8HRG_CmByBj1Bj
@@ -24780,6 +24795,7 @@ doc-0g-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-0g-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/il6miff13ushoqt7nsl47q88oc6gkkc4/1544608800000/05984462313861663074/*/1jqrQVKyWl2vnKksEEtE9TuF22W1JeAM4
 doc-0g-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/p6lhm45caimjiqmre29grmvnegamdsj3/1543932000000/05984462313861663074/*/131ljYAzj77SJQi8K_Stvz-951tHDmnH9
 doc-0g-94-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/05mm847fnruoa9kgjeeqa9qkhn2nsb77/1545062400000/03716827920962015384/*/1P-6lNUo1CFCkatFkvfW_TL5YXFsLSqgK?e=download
+doc-0g-9s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/36ss6cenmaq97uhlfgiu75k0ss5ts9n0/1565661600000/01776086037526790667/*/1ix226QqxsjZeoSgQyAMLk5IzwUAsBUd1?e=download
 doc-0g-9s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/69e9bapb3tc1i6l1i85rk7kl7vtgnsqu/1564120800000/01776086037526790667/*/1qCt-px0G0tBmLH1aN8Zj5mVUeRlpgbMC?e=download
 doc-0g-c8-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/p28531eg742m567e4cl5fogn4eka3oc9/1535112000000/03026271291422084203/*/1CfyPzMhxe_k1oiwMAiXeGvacCmGUJrp6?e=download
 doc-0g-cc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/3i5utjj3olgt63hiuf6neriq4dq36b1q/1545062400000/17141853213745639104/*/1zAJnLpg7VEOUdbB03bJgq9K7cE8VUFFm?e=download
@@ -38777,6 +38793,7 @@ kdjf.guzaosf.com
 kdkonline.com
 kdooenzoo.nl
 kdoorviet.com
+kdownloader.net
 kdrecord.com
 kdsk.ru
 kdsp.co.kr
@@ -56738,6 +56755,7 @@ skpindia.net
 skr0.net
 skrentertainmentgroup.com
 skroc.net
+sktinds.com
 skubspereira.com.br
 skulptur-graphik.ch
 skulpturos.com
@@ -57215,6 +57233,7 @@ softrare-download2.ru
 softre.com
 softsale.ie
 softshine.kiev.ua
+softsinn-trading.info
 softspotitservices.com
 softtest.lsp.goozmo.com
 software.goop.co.il
@@ -60658,6 +60677,7 @@ sv-bieberbach.de
 sv-konstanz.info
 sv-piterstroy.ru
 sv-services.net
+sv.hackrules.com
 sv.muobjetiva.com
 sv.pvroe.com
 sv3-api.wf.pan.local
@@ -63717,6 +63737,7 @@ truckprt.com
 trucksoxmoor.com
 truckturbina.ru
 trudrive.com
+trudsaratov.ru
 trudsovet.org
 true-today.com
 trueadv.ru
@@ -63900,6 +63921,7 @@ tumestetikfiyatlari.com
 tummetott.se
 tumnipbanor.xyz
 tumpengsemarang.com
+tumso.org
 tunaucom.us
 tundefowe.org
 tundemmalimusavirlik.com
@@ -64121,6 +64143,7 @@ u20.udesignvn.com
 u20110p26543.web0101.zxcs.nl
 u2164176.ct.sendgrid.net
 u2285184.ct.sendgrid.net
+u2307421.ct.sendgrid.net
 u2434969.ct.sendgrid.net
 u2493681.ct.sendgrid.net
 u255864177.hostingerapp.com
@@ -64165,6 +64188,7 @@ u791739572.hostingerapp.com
 u8.udesignvn.com
 u8137488.ct.sendgrid.net
 u8225288.ct.sendgrid.net
+u8257759.ct.sendgrid.net
 u8349745.ct.sendgrid.net
 u8421137.ct.sendgrid.net
 u9.udesignvn.com
@@ -67325,6 +67349,7 @@ windowsmxapplayrun.com
 windowtreatmentshollywood.com
 windowtreatmentsshermanoaks.com
 windowtreatmentswesthollywood.com
+windrvs.com
 windrvs.ru
 windwardwake.com
 windycitypizzakitchens.com
@@ -69044,6 +69069,7 @@ zbspanker.com
 zcmpompa.com
 zcnet.com
 zcop.ru/java12.dat
+zcop.ru/java13r.dat
 zcsmba.org
 zcxe37adonis.top
 zdatasolutions.com.au
@@ -69123,6 +69149,7 @@ zerodaywwsxwissdfdsfssecccseersscsdfsdfs.duckdns.org
 zeronde.in
 zerone.jp
 zeroratchet.000webhostapp.com
+zerosugaraddonexploit.duckdns.org
 zerotosix.com
 zeroz.org
 zeroziro.site
