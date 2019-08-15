@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 15 Aug 2019 00:22:03 UTC
+! Updated: Thu, 15 Aug 2019 12:21:32 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -322,6 +322,7 @@
 104.168.211.238
 104.168.215.139
 104.168.248.22
+104.168.28.249
 104.168.57.119
 104.168.66.156
 104.168.66.165
@@ -4093,6 +4094,7 @@
 185.180.198.64
 185.180.198.65
 185.180.198.91
+185.180.199.102
 185.181.10.208
 185.181.10.234
 185.181.9.161
@@ -4419,6 +4421,7 @@
 185.246.154.18
 185.246.154.75
 185.246.155.205
+185.247.117.132
 185.247.119.203
 185.248.103.4
 185.25.204.196
@@ -6276,6 +6279,7 @@
 217.182.9.196
 217.182.9.198
 217.195.153.129
+217.20.114.251
 217.217.18.71
 217.218.219.146
 217.23.14.81
@@ -9569,6 +9573,7 @@
 83.78.233.78
 83.97.20.147
 83.97.20.154
+83.97.20.165
 831223.com
 832.tyd28.com
 84.1.27.113
@@ -26405,6 +26410,7 @@ dropbox.com/s/dl/95oftkjaypsjtjq/PAYMENT%20TRANSFER%20COPY.xls.z?dl=1
 dropbox.com/s/dl/9gcukosasr3h9n9/reserva.rtf
 dropbox.com/s/dl/9gcukosasr3h9n9/reserva.rtf?dl=1
 dropbox.com/s/dl/bgivrzi6d3eav77/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F.zip
+dropbox.com/s/dl/c42vbcweomdv82x/XCDXSED_COMPROBANTE_NSHSG_82829N_2019.zip
 dropbox.com/s/dl/cjzolqk136kkpja/Payment%20copy.pdf.z
 dropbox.com/s/dl/dqrsgzlf8jeefw0/Firefox_67.3.45.js
 dropbox.com/s/dl/g4is5u674v6l2yy/Firefox_67.3.16.js
@@ -32539,6 +32545,8 @@ goodbigsale.com
 goodchoicefoodservice.com
 goodchristianmusicapps.com
 goodday.life
+goodday2.icu
+goodday3.icu
 gooddot.com
 goodfood.co.jp
 goodfoot.net
@@ -32634,6 +32642,7 @@ gothamcrowd.com.au
 gothclocks.com
 gotnick.com
 goto.stnts.com
+gotoall.com
 gotoestonia.ru
 gotogether.com.br
 gotovka.top
@@ -35178,6 +35187,7 @@ hungthinhphatcompany.com
 hunkeler.ru
 hunklinger-allortech.com
 hunter-kings.com
+hunter-mode-annimal.net
 hunter13.beget.tech
 hunterbarbershop.kz
 hunterbase.xyz
@@ -47384,6 +47394,7 @@ nixware.cc
 nizansigorta.com
 nizhalgalsociety.com
 nizhny-novgorod.telemagazin24.ru
+nj-prom-limo-rentals.com
 njeas.futminna.edu.ng
 njelec.com
 njoya.nl
@@ -57251,6 +57262,7 @@ softrare-download2.ru
 softre.com
 softsale.ie
 softshine.kiev.ua
+softsinn-trading.icu
 softsinn-trading.info
 softspotitservices.com
 softtest.lsp.goozmo.com
