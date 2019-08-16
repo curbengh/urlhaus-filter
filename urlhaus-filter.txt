@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 16 Aug 2019 00:21:30 UTC
+! Updated: Fri, 16 Aug 2019 12:21:35 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -315,6 +315,7 @@
 104.168.169.153
 104.168.169.89
 104.168.171.186
+104.168.174.124
 104.168.174.246
 104.168.195.250
 104.168.204.214
@@ -634,6 +635,7 @@
 107.173.77.223
 107.173.90.141
 107.174.13.128
+107.174.14.110
 107.174.14.74
 107.174.14.79
 107.174.203.117
@@ -1782,6 +1784,7 @@
 140.82.37.11
 140.82.43.95
 141.105.66.253
+141.105.69.49
 141.136.44.78
 141.136.47.32
 141.226.28.137
@@ -2266,6 +2269,7 @@
 157.230.219.23
 157.230.219.77
 157.230.22.245
+157.230.22.39
 157.230.220.41
 157.230.221.142
 157.230.221.85
@@ -2688,10 +2692,13 @@
 16365.net
 164.132.145.16
 164.132.159.56
+164.132.213.117
 164.132.213.118
 164.132.213.119
 164.41.28.71
 164.68.115.67
+164.68.116.122
+164.68.116.138
 164.68.96.40
 164.68.96.43
 165.22.1.6
@@ -2702,6 +2709,7 @@
 165.22.109.101
 165.22.11.207
 165.22.110.170
+165.22.113.103
 165.22.117.29
 165.22.119.161
 165.22.12.64
@@ -2747,6 +2755,7 @@
 165.22.193.164
 165.22.193.170
 165.22.193.173
+165.22.195.18
 165.22.199.96
 165.22.2.120
 165.22.2.40
@@ -2808,6 +2817,7 @@
 165.22.31.170
 165.22.33.211
 165.22.46.131
+165.22.46.26
 165.22.57.233
 165.22.57.246
 165.22.63.242
@@ -2914,6 +2924,7 @@
 166.88.102.90
 166e61.com
 167.114.111.251
+167.114.115.119
 167.114.128.205
 167.114.155.196
 167.114.186.21
@@ -4048,6 +4059,7 @@
 185.163.127.12
 185.163.45.12
 185.163.47.134
+185.163.47.188
 185.164.72.110
 185.164.72.136
 185.164.72.155
@@ -4302,6 +4314,7 @@
 185.244.25.148
 185.244.25.149
 185.244.25.150
+185.244.25.152
 185.244.25.153
 185.244.25.154
 185.244.25.155
@@ -5347,6 +5360,7 @@
 199.195.252.101
 199.195.252.210
 199.230.109.154
+199.231.185.6
 199.244.48.84
 199.247.22.88
 199.255.156.138
@@ -6463,6 +6477,7 @@
 23.101.6.109
 23.106.122.2
 23.106.123.224
+23.106.215.95
 23.108.49.246
 23.108.57.157
 23.130.192.130
@@ -7547,6 +7562,10 @@
 45.95.147.17
 45.95.147.23
 45.95.147.24
+45.95.147.244
+45.95.147.251
+45.95.147.253
+45.95.147.26
 45.95.147.28
 45.95.147.29
 45.95.147.33
@@ -8294,6 +8313,7 @@
 51wh.top
 51wmys.com
 52.143.166.165
+52.144.45.65
 52.144.46.228
 52.15.227.66
 52.15.233.13
@@ -8649,6 +8669,7 @@
 64.187.226.251
 64.189.114.161
 64.20.35.181
+64.20.36.228
 64.32.3.186
 64.34.218.28
 64.34.219.41
@@ -29995,6 +30016,7 @@ fim.website
 fimimports.com
 fimucite.com
 fin18.org
+finabisope.host
 finacore.com
 finalblogger.com
 finallykellys.com
@@ -36792,6 +36814,7 @@ ip.skyzone.mn
 ip01reg.myjino.ru
 ip1.bcorp.fun
 ip1.qqww.eu
+ip105.ip-142-44-251.net
 ipa.viamedia.ba
 ipack.pugmarker.com
 ipadplaybooks.com
@@ -42682,6 +42705,7 @@ mail.ingyen.org
 mail.innercityjazz.org
 mail.invitespace.com
 mail.ipanemaswimwear.com
+mail.ipeary.com
 mail.iriskmatch.net
 mail.iteronsystems.com
 mail.itouched.com
@@ -46770,6 +46794,7 @@ nedia.jp
 nedmextrade.com
 nednedziwe.com
 nedvigovka.ru
+neecopower.com
 need-h.com
 needlandscapers.com
 needlelogy.com
@@ -48250,6 +48275,7 @@ okweb.sk
 okz.wloclawek.pl
 olacabattachment.com
 olahnyomda.hu
+olairdryport.com
 olambolartzam.com
 olapixels.com
 olasen.com
@@ -54986,6 +55012,7 @@ sbpupvcwindows.blazewebtech.com
 sbrt-computing.com
 sbrtt.cz
 sbs-careers.viewsite.io
+sbs.ipeary.com
 sbsbe.co.uk
 sbtasimacilik.com
 sbwellness.org
@@ -58167,6 +58194,7 @@ startnalchik.ru
 startnow.ca
 startolete-vn.ug
 startstudio.it
+starttomorrow.org
 startupbentre.com
 startupideas.biz
 startupinternetmarketing.com
@@ -63503,6 +63531,7 @@ transbayrealestate.com
 transbridgeacademy.pt
 transcendencepictures.com
 transcendsin.org
+transeagleperu.com
 transfer-1.ru
 transfer-factori.ru
 transfer-sirius.ru
@@ -69189,6 +69218,7 @@ zdatasolutions.com.au
 zdcimelice.cz
 zdecals.net
 zdone.site
+zdproject.best
 zdqghwte.01ne.com
 zdravbadi.com
 zdrowestopykoszalin.pl
