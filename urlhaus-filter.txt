@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 17 Aug 2019 00:22:56 UTC
+! Updated: Sat, 17 Aug 2019 12:22:10 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -627,6 +627,7 @@
 107.173.145.175
 107.173.145.178
 107.173.145.191
+107.173.175.135
 107.173.219.101
 107.173.219.125
 107.173.24.198
@@ -925,6 +926,7 @@
 116.203.1.133
 116.203.153.251
 116.203.180.29
+116.203.203.210
 116.203.40.206
 116.203.48.81
 116.203.66.92
@@ -1373,6 +1375,7 @@
 134.209.164.195
 134.209.164.55
 134.209.165.212
+134.209.167.163
 134.209.167.48
 134.209.17.180
 134.209.170.182
@@ -1380,6 +1383,7 @@
 134.209.171.41
 134.209.172.118
 134.209.172.210
+134.209.172.95
 134.209.176.63
 134.209.177.235
 134.209.177.252
@@ -1933,6 +1937,7 @@
 142.93.217.212
 142.93.217.247
 142.93.218.157
+142.93.218.159
 142.93.218.89
 142.93.219.170
 142.93.221.1
@@ -2171,6 +2176,7 @@
 156.236.116.94
 156.238.111.145
 156.238.165.38
+156.238.3.105
 156.67.220.41
 15666.online
 157.230.0.237
@@ -2585,6 +2591,7 @@
 159.89.189.233
 159.89.191.238
 159.89.191.37
+159.89.196.73
 159.89.202.9
 159.89.204.166
 159.89.206.173
@@ -2964,6 +2971,7 @@
 167.71.176.174
 167.71.177.64
 167.71.181.88
+167.71.182.94
 167.71.184.203
 167.71.184.8
 167.71.186.117
@@ -2976,12 +2984,14 @@
 167.71.210.82
 167.71.214.117
 167.71.216.150
+167.71.217.232
 167.71.237.85
 167.71.32.48
 167.71.33.137
 167.71.4.20
 167.71.4.33
 167.71.40.211
+167.71.47.5
 167.71.49.225
 167.71.5.88
 167.71.51.1
@@ -2991,6 +3001,7 @@
 167.71.66.53
 167.71.68.6
 167.71.69.19
+167.71.73.67
 167.71.75.37
 167.71.78.62
 167.71.79.144
@@ -3744,6 +3755,7 @@
 178zb.com
 179.100.70.53
 179.106.12.122
+179.106.57.242
 179.110.14.13
 179.110.22.175
 179.110.241.62
@@ -6076,6 +6088,7 @@
 209.97.169.39
 209.97.177.35
 209.97.178.173
+209.97.178.35
 209.97.179.124
 209.97.181.170
 209.97.181.97
@@ -7567,6 +7580,7 @@
 45.95.147.17
 45.95.147.23
 45.95.147.24
+45.95.147.242
 45.95.147.244
 45.95.147.251
 45.95.147.253
@@ -7588,6 +7602,7 @@
 45.95.147.69
 45.95.147.71
 45.95.147.74
+45.95.147.75
 4570595.ru
 46.101.102.135
 46.101.104.141
@@ -8293,6 +8308,7 @@
 51.79.54.106
 51.79.55.3
 51.79.71.155
+51.79.74.163
 51.81.20.167
 51.81.20.98
 51.81.7.102
@@ -8305,6 +8321,7 @@
 51.89.0.134
 51.89.139.104
 51.91.174.30
+51.91.202.137
 51.91.202.140
 51.91.248.86
 51.91.58.185
@@ -9813,6 +9830,7 @@
 89.248.171.101
 89.248.172.169
 89.248.174.198
+89.248.174.219
 89.32.41.15
 89.32.56.148
 89.32.56.33
@@ -17496,6 +17514,7 @@ bob.suzetrust.com
 bobathsi.pl
 bobby.hkisl.net
 bobby3.com
+bobbychiz.top
 bobbyterry.top
 bobbyworld.top
 bobcar.com.my
@@ -32600,6 +32619,7 @@ goodchristianmusicapps.com
 goodday.life
 goodday2.icu
 goodday3.icu
+goodday4.icu
 goodday6.icu
 gooddot.com
 goodfood.co.jp
@@ -36815,6 +36835,7 @@ ionexbd.com
 ionline-productie-b.nl
 ionutantochi.com
 iop.vision
+iosappdevelopmentindia.com
 iosynth.com
 ioszm.com
 iota51.com
@@ -49302,6 +49323,7 @@ pai.fai.umj.ac.id
 paides.com
 paidtv.siaraya.com
 paifi.net
+paigeturco.net
 paiian.com
 paiju800.com
 paiklawgroup.com
@@ -58295,6 +58317,7 @@ steelbarsshop.com
 steelbeams-london.co.uk
 steelbendersrfq.cf
 steelbuildingsplus.com
+steelcanada.com
 steelconservices.com
 steeldoorscuirass.com
 steelimage.ca
@@ -63266,6 +63289,7 @@ toptierhighticket.club
 toptrendybd.com
 topupmyanmar.com
 topwarenhub.top
+topwebappdevelopmentcompanies.com
 topwinnerglobal.com
 topwintips.com
 tor2net.com
@@ -66391,6 +66415,7 @@ vman23.com
 vmcardenas.com
 vmeste-ryadom.ru
 vmghsjznsnhjqbmrjnrsglkr.yehaamarket.com.my
+vmi290577.contaboserver.net
 vmillennium.com
 vmlweb.co.uk
 vmnbcvmbnc.com
