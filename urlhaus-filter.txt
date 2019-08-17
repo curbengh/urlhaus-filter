@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 16 Aug 2019 12:21:35 UTC
+! Updated: Sat, 17 Aug 2019 00:22:56 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1762,6 +1762,7 @@
 14.48.81.108
 14.51.127.79
 14.54.121.194
+14.54.233.120
 14.54.5.244
 14.55.116.41
 14.55.146.74
@@ -2812,6 +2813,7 @@
 165.22.253.164
 165.22.253.62
 165.22.253.89
+165.22.254.109
 165.22.255.18
 165.22.31.143
 165.22.31.170
@@ -2974,6 +2976,7 @@
 167.71.210.82
 167.71.214.117
 167.71.216.150
+167.71.237.85
 167.71.32.48
 167.71.33.137
 167.71.4.20
@@ -3597,6 +3600,7 @@
 178.128.50.36
 178.128.50.96
 178.128.51.105
+178.128.51.71
 178.128.54.239
 178.128.55.107
 178.128.60.85
@@ -7383,6 +7387,7 @@
 41medya.com
 42.112.220.2
 42.113.138.122
+42.115.174.149
 42.116.233.57
 42.117.62.88
 42.119.44.109
@@ -7582,6 +7587,7 @@
 45.95.147.68
 45.95.147.69
 45.95.147.71
+45.95.147.74
 4570595.ru
 46.101.102.135
 46.101.104.141
@@ -16287,8 +16293,7 @@ bettery.hu
 bettingmlb.com
 bettyazari.com
 bettybottconsultation.com
-betwext.com/PTa1a1aF
-betwext.com/PTa1a1aF/
+betwext.com
 beunico.tk
 beurer-shop.ir
 beurer.by
@@ -19374,7 +19379,7 @@ cddvd.kz
 cdentairebeauharnois.infosignuat.com
 cdex.com.es
 cdht.gov.cn
-cdimage.debian.org/mirror/archive/ftp.sunet.se/pub/x500/mirror-brunel/desire-forms-1.doc
+cdimage.debian.org
 cdl-staffing.com
 cdlingju.com
 cdlnatural.com
@@ -19525,7 +19530,11 @@ cdn.fund
 cdn.gameupdate.co
 cdn.isoskycn.com
 cdn.mistyblade.com
-cdn.mycfg.site
+cdn.mycfg.site/files/032f.exe
+cdn.mycfg.site/files/AVNinja.exe
+cdn.mycfg.site/files/j033a.exe
+cdn.mycfg.site/files/jce032a.exe
+cdn.mycfg.site/files/jclm.exe
 cdn.ofifinancial.com
 cdn.openinstall.com.s3.amazonaws.com/offers/2/chrome_search.exe
 cdn.prominertools.com
@@ -19975,7 +19984,7 @@ cheaper.men
 cheaperlounge.com
 cheapesthost.com.ng
 cheapgadgets-gq.000webhostapp.com
-cheapmusic.info/cloudnet.exe
+cheapmusic.info
 cheapnikeairmaxshoes-online.com
 cheapoakleysunglasses.net
 cheapseoprovider.com
@@ -22962,7 +22971,7 @@ dealertrafficgenerator.com
 dealmykart.com
 dealsammler.de
 dealsfantasy.com
-dealtimer.com/AsIn9
+dealtimer.com
 deam.cl
 deanhopkins.co.uk
 deathbat-jp.com
@@ -23801,7 +23810,17 @@ dgfd.ru
 dgkawaichi.com
 dgkhj.ru
 dglass.cl
-dgnet.com.br
+dgnet.com.br/DOC/Rech-00084/
+dgnet.com.br/FILE/Past-Due-invoice/
+dgnet.com.br/IRS-Accounts-Transcipts-June-2018-033/0
+dgnet.com.br/IRS-Accounts-Transcipts-June-2018-033/0/
+dgnet.com.br/Need-to-send-the-attachment-June/
+dgnet.com.br/iWuVO
+dgnet.com.br/iWuVO/
+dgnet.com.br/t5wb/
+dgnet.com.br/ups.com/WebTracking/AI-1829048912363/
+dgnet.com.br/wwvvv/En_us/Transactions/12_18
+dgnet.com.br/wwvvv/En_us/Transactions/12_18/
 dgnj.cn
 dgpratomo.com
 dgs.pni-me.com
@@ -28998,9 +29017,7 @@ ewomg.com
 ewrfaswef.pw
 ewris.se
 ewscraj.com
-ex-bestgroup.com/download/Copy_Invoice/npqH-z6qG_GtpVSp-LqR/
-ex-bestgroup.com/scan/mefN-KJ_mKBshDXz-RV/
-ex-bestgroup.com/sendincencrypt/service/sec/En_en/02-2019/
+ex-bestgroup.com
 exa.com.ua
 exablack.com
 exam.aitm.edu.np
@@ -30118,6 +30135,7 @@ firma-malarska-poznan.pl
 firmadergisi.com
 firmajowisz.pl
 first-base-online.co.uk
+first1231eqw.000webhostapp.com
 firstaidresearch.com
 firstallpowers.com
 firstbank-uk.com
@@ -32582,6 +32600,7 @@ goodchristianmusicapps.com
 goodday.life
 goodday2.icu
 goodday3.icu
+goodday6.icu
 gooddot.com
 goodfood.co.jp
 goodfoot.net
@@ -35125,7 +35144,7 @@ ht-vn.com
 htcladakh.com
 htcpi.org
 htepl.com
-htl.li/gm6y30lvnkN
+htl.li
 htl.ru
 htlinternational.org
 htlvn.com
@@ -36924,6 +36943,7 @@ iremart.es
 irena.spacepel.com
 irenea.com.ar
 irenecairo.com
+irenejatibojonegoro.com
 iresearchledger.com
 ireviewproduct.com
 irgc.org
@@ -45541,7 +45561,8 @@ mosbirdclub.ru
 mosbussum.nl
 moschee-wil.ch
 moscow.bulgakovmuseum.ru
-moscow00.online
+moscow00.online/GetDataAVK.exe
+moscow00.online/KeyMoscow00.35.exe
 moscow1.online/GetDataAVK.exe
 moscow1.online/KeyMoscow.exe
 moscow1.online/proxy/skapoland.chickenkiller.com.exe
@@ -46119,24 +46140,7 @@ my-spa.rs
 my.camptaiwan.com.tw
 my.jiwa-nala.org
 my.mail.de
-my.mixtape.moe/ayqydr.vbs
-my.mixtape.moe/chhsmy.htaa
-my.mixtape.moe/coxgka.jpg
-my.mixtape.moe/ejkhnj.htaa
-my.mixtape.moe/eyugjv.htaa
-my.mixtape.moe/huofcq.htaa
-my.mixtape.moe/krmiez.docx
-my.mixtape.moe/ntvual.jar
-my.mixtape.moe/rgbtph.jpg
-my.mixtape.moe/swxfsf.hta
-my.mixtape.moe/tcelou.htaa
-my.mixtape.moe/ufmaxl.htaa
-my.mixtape.moe/vartac.jpg
-my.mixtape.moe/vfgrox.jpg
-my.mixtape.moe/vjgwsh.zip
-my.mixtape.moe/xyvdrv.htaa
-my.mixtape.moe/ywphpl.zip
-my.mixtape.moe/zmkjcs.jpg
+my.mixtape.moe
 my.zhaopin.com
 my10apps.com
 my2b.online
@@ -47048,6 +47052,7 @@ newforestfestival.com
 newgadgets.in
 newgmp.000webhostapp.com
 newgreek.ru
+newhobbiesregular.com
 newhome.in.th
 newhomesdecatur.com
 newhomeslascruces.com
@@ -49006,7 +49011,7 @@ osttirol.news
 osttirolurlaub.at
 ostyle-shop.net
 osuhughgufijfi.ru
-osvehprint.com
+osvehprint.com/DOC/Invoice-number-541529/
 osvisa.com
 osweb.shop
 osylondon.com
@@ -50841,7 +50846,7 @@ politicaprivacidade.top
 politicasdocus.com
 politicot.com
 poljimenez.com
-polk.k12.ga.us/userfiles/13/Classes/2473/8thPSsyllabus.doc
+polk.k12.ga.us
 polka32.ru
 polkolonieb4k.pl
 pollovideo.cf
@@ -53464,6 +53469,7 @@ rileyaanestad.com
 rima-mariine.com
 riman.lv
 rimdetas.lt
+rimfaoyahv4115.com
 rimo.hu
 rinchen.com
 rinconadarolandovera.com
@@ -56105,6 +56111,7 @@ shibuiclo.com
 shiddume.com
 shifandini.com
 shihtzumapuppies.com
+shiina.mashiro.cf
 shiina.mashiro.ml
 shiipco.com
 shikama.heteml.jp
@@ -56742,6 +56749,7 @@ ska2000.com
 skaarupjensen.dk
 skabadip.com
 skalmar.ayz.pl
+skalsted.dk
 skanecostad.se
 skaneguiden.eu
 skantina.nl
@@ -63846,6 +63854,7 @@ trutrack.com
 trutthedu.com
 truyenhinhlegia.vn
 truyenkyvolam.mobi
+truyenngontinh.info
 trvipifsalar.com
 trwebwizard.com
 try-kumagaya.net
@@ -68168,6 +68177,7 @@ xls.dickrida.com
 xlulu.com
 xlv.f3322.net
 xmagnoliarhoda.top
+xmarketplace.store
 xmedia1124.ddns.net
 xmfreede.com
 xml.vn
@@ -69406,7 +69416,7 @@ ziziused.com
 zizu.com.mx
 zizzy.eu
 zj.9553.com
-zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web1898/site/attach/0/ad9ae31e86a9473c8836fbfd38462a8d.doc
+zjjcmspublic.oss-cn-hangzhou.aliyuncs.com
 zjttkj.cn
 zk-orekhovoborisovo.ru
 zkdjezica.si
