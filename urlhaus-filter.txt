@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 19 Aug 2019 00:21:44 UTC
+! Updated: Mon, 19 Aug 2019 12:21:27 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -380,6 +380,7 @@
 104.238.149.109
 104.238.165.39
 104.238.186.167
+104.238.212.196
 104.244.72.143
 104.244.72.82
 104.244.74.186
@@ -441,6 +442,7 @@
 104.248.163.243
 104.248.165.108
 104.248.166.241
+104.248.167.145
 104.248.168.171
 104.248.169.121
 104.248.172.72
@@ -1412,6 +1414,7 @@
 134.209.20.2
 134.209.200.179
 134.209.203.101
+134.209.203.205
 134.209.203.223
 134.209.204.77
 134.209.205.114
@@ -1497,6 +1500,7 @@
 134.209.77.110
 134.209.77.255
 134.209.78.107
+134.209.78.228
 134.209.79.240
 134.209.79.98
 134.209.80.111
@@ -2023,6 +2027,7 @@
 142.93.98.71
 142.ip-164-132-197.eu
 144.172.73.237
+144.202.117.214
 144.202.126.247
 144.202.23.237
 144.202.8.114
@@ -2628,6 +2633,7 @@
 159.89.49.127
 159.89.54.114
 159.89.54.120
+159.89.86.227
 159.89.87.113
 159.89.88.195
 159.89.89.202
@@ -2754,6 +2760,7 @@
 165.22.153.80
 165.22.159.142
 165.22.166.119
+165.22.169.113
 165.22.170.26
 165.22.176.182
 165.22.18.102
@@ -3010,6 +3017,7 @@
 167.71.82.110
 167.71.82.119
 167.71.90.52
+167.71.91.80
 167.71.96.235
 167.71.97.221
 167.71.99.171
@@ -3512,6 +3520,7 @@
 178.128.168.41
 178.128.168.79
 178.128.169.145
+178.128.169.194
 178.128.169.238
 178.128.169.6
 178.128.170.237
@@ -4112,6 +4121,8 @@
 185.172.110.226
 185.172.110.230
 185.172.110.231
+185.172.110.234
+185.172.110.237
 185.172.110.238
 185.172.110.239
 185.172.110.245
@@ -4407,6 +4418,7 @@
 185.244.25.249
 185.244.25.253
 185.244.25.254
+185.244.25.70
 185.244.25.73
 185.244.25.75
 185.244.25.78
@@ -4544,6 +4556,7 @@
 185.70.105.143
 185.70.105.177
 185.70.105.178
+185.70.105.226
 185.70.105.35
 185.70.105.55
 185.70.105.63
@@ -4956,6 +4969,7 @@
 192.163.204.167
 192.187.111.66
 192.200.194.110
+192.200.195.199
 192.200.208.181
 192.210.135.113
 192.210.146.101
@@ -5926,6 +5940,7 @@
 206.81.13.56
 206.81.14.245
 206.81.16.124
+206.81.17.217
 206.81.23.65
 206.81.26.161
 206.81.4.241
@@ -6030,6 +6045,7 @@
 209.141.50.55
 209.141.50.57
 209.141.51.85
+209.141.52.41
 209.141.54.253
 209.141.54.9
 209.141.55.226
@@ -7611,6 +7627,8 @@
 45.95.147.71
 45.95.147.74
 45.95.147.75
+45.95.147.79
+45.95.147.82
 4570595.ru
 46.101.102.135
 46.101.104.141
@@ -9680,6 +9698,7 @@
 85.112.43.2
 85.115.23.247
 85.117.234.116
+85.117.234.188
 85.117.234.229
 85.117.234.37
 85.14.255.229
@@ -11892,6 +11911,7 @@ aksesbelajar.com
 aksharamonline.com
 aksharidwar.in
 aksioma-as.com.ua
+aksmobilya.com
 akt-ein.gr
 aktemuryonetim.com
 aktha.in
@@ -38092,6 +38112,7 @@ johncarta.com
 johnclive.co.uk
 johnkemper.fun
 johnmccance.com
+johnmedina-001-site1.ftempurl.com
 johnmillsblog.files.wordpress.com
 johnnipe.com
 johnnobab.com
@@ -39258,6 +39279,7 @@ kidscontent.tv
 kidscountnebraska.com
 kidsinbalance.nl
 kidsnow.at
+kidsplay.website
 kidsport.sk
 kidsters.ru
 kidstime.edu.vn
@@ -43175,6 +43197,7 @@ malware-ms18.picus.io
 malware-spyhunter.s3.amazonaws.com/one.exe
 malware.picus.io
 malwaresandviruses.000webhostapp.com
+malwr.host
 mamaannlovespells.com
 mamabebe.pt
 mamadance.pl
@@ -43982,6 +44005,7 @@ mcdel.chat.ru
 mcdevitths.org
 mcdgtunis.cf
 mcdonoughpodiatry.com
+mcduck.site
 mceltarf.dz
 mcfunkypants.com
 mcgresources.info
@@ -57996,6 +58020,7 @@ sredamoney.com
 srediscezdravja.si
 sreekumarnair.com
 sreelabels.com
+sreex.info
 srgcapital.com
 srgeducation.com
 srgranel.pt
@@ -60609,6 +60634,7 @@ sunsetbelly.com
 sunsethillhoney.com
 sunsetpsychic.co.uk
 sunsetrotarytn.org
+sunshincity.com
 sunshine.marinabaytranphu.com
 sunshine2019.com
 sunshineandrain.org
@@ -65469,6 +65495,7 @@ v-schomann.de
 v1253.dh.net.ua
 v1258.dh.net.ua
 v13083.dh.net.ua
+v139528.hosted-by-vdsina.ru
 v2.catsbest.ru
 v2.viennateng.com
 v20061.dh.net.ua
