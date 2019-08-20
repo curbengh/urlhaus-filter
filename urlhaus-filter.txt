@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 20 Aug 2019 00:21:20 UTC
+! Updated: Tue, 20 Aug 2019 12:21:37 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1298,6 +1298,7 @@
 13.59.140.144
 13.59.241.74
 13.67.107.73
+13.67.95.191
 13.71.118.234
 13.73.162.155
 13.75.76.78
@@ -1348,6 +1349,7 @@
 134.209.113.7
 134.209.116.243
 134.209.116.247
+134.209.117.22
 134.209.117.229
 134.209.117.99
 134.209.119.145
@@ -1614,6 +1616,7 @@
 138.68.184.128
 138.68.2.34
 138.68.21.206
+138.68.217.234
 138.68.224.220
 138.68.225.236
 138.68.238.104
@@ -1643,6 +1646,7 @@
 139.162.176.29
 139.162.176.5
 139.162.229.9
+139.162.23.6
 139.162.4.143
 139.162.73.241
 139.180.195.36
@@ -2074,6 +2078,7 @@
 147.135.121.113
 147.135.121.116
 147.135.121.119
+147.135.124.113
 147.135.126.109
 147.135.21.158
 147.135.23.229
@@ -3669,6 +3674,7 @@
 178.159.37.113
 178.159.38.201
 178.169.68.162
+178.17.170.28
 178.172.201.42
 178.173.147.1
 178.208.241.152
@@ -5956,6 +5962,7 @@
 207.148.31.152
 207.148.31.160
 207.148.64.177
+207.148.79.152
 207.148.80.46
 207.154.193.227
 207.154.200.125
@@ -6094,6 +6101,7 @@
 209.97.142.13
 209.97.142.241
 209.97.143.36
+209.97.150.233
 209.97.152.247
 209.97.152.74
 209.97.155.105
@@ -7629,6 +7637,7 @@
 45.95.147.75
 45.95.147.79
 45.95.147.82
+45.95.147.85
 4570595.ru
 46.101.102.135
 46.101.104.141
@@ -25729,6 +25738,7 @@ download.2345.com/unionpic/2345pic_lm_508858_v9.1.1.8346_silent.exe
 download.adamas.ai
 download.azaleanet.it
 download.bigmail.daum.net
+download.bypass.cn
 download.cardesales.com
 download.conceptndev.fr
 download.dongao.com
@@ -25794,6 +25804,7 @@ downloads.intercomcdn.com/i/o/66442009/a8df52e4e8a3c64b74858c9b/INV-85237323.doc
 downloads.intercomcdn.com/i/o/67089177/f3b57a1b092e9f1b173a2bee/INV-526968.doc/
 downloads.intercomcdn.com/i/o/69362562/37c988860b345dbb4264b3c3/case_27627831.doc
 downloads.medpak.com/downloads/fdb/db06jul2016.exe
+downloads.noaa.network
 downloads.sandisk.com/sansa/Application/7za.txt
 downloads.webstartpro.com
 downloads44you.shop
@@ -31369,6 +31380,7 @@ g.7230.com
 g.makswells.com
 g.mysofting.xyz
 g0ogle.free.fr
+g15aocbenedict.com
 g20digital.com.br
 g237.cn
 g2ds.co
@@ -31924,6 +31936,7 @@ geodiaspora.com.ua
 geodrilling.cl
 geodynamics.com.pk
 geoffcasson.com
+geoffreylilge.ca
 geoglobalsystem.com
 geokentech.com
 geolegno.eu
@@ -35182,6 +35195,7 @@ hoxen.net
 hozd-magad-formaba.net10.hu
 hozpack.com
 hp-clicker.000webhostapp.com
+hpa2u.top
 hpardb.in
 hpaudiobooksfree.com
 hpbio.com.br
@@ -37984,6 +37998,7 @@ jinyangku.com
 jiodiscount.com
 jiorx.info
 jipschool.org
+jiraiya.info
 jiren.ru
 jirman.com
 jiromatica.com
@@ -46598,6 +46613,7 @@ nailbar-fecity.ru
 nailideas.xyz
 naimalsadi.com
 nainai.lt
+nainyet.casa
 nairianthemes.com
 nairobitour.co.ke
 naixuan.do
@@ -51955,10 +51971,7 @@ pubertilodersx.com
 pubg.cheat.cx
 pubgm.vnhax.com/beta/VnHaxInternal.Shipping.dll
 public.boxcloud.com/d/1/b1!8P9I0uXc8vuahctrtYWk2z_Wjkr-8-0MmIHItlD_9pcieFZZ2P0qyOWB90gcRwxXZLodBzRRoTvMCo87Lgm_jHlGnMNrDajV4zLoEBee1icpMYyrJ_9yXeSyGWASvKFvnUv_NqnG1zILZdji3nNuVO2kuAtwH6x-4HRZr4Xxst75lczL1nhx-h5q5wDSAvpvOjUcAtzx1nxIYiaQcAKxV_IG0JLRjZNQFdOEQKQEe8b2Qiuo1_hWI-xfAYIMeLxreWtFeAQ_60BPmiezVjaf07XE3suJ81Y2KW4N7aTe_32L_EMTqckWc_qOBOXO5Va0770FR1Nvfyl-qe1nNx1cg0vRm6gsmueXtYl1ZwSElilXceSRQ2zSvj-np1x5BHYnbQpUYcQ-ainpn0cCgDRohdwe4SZ0ecFa-S_b4OmH1yP2F6BbUyUQl3dyJK1RrqXFcqqLQnB7-aaRqjy4VJq-iD9pT5_MaCKh4MDj0O6Re0r_QUl9hl6TN_e-RklEwzi1RU9l6VooztPoyyts3hYRenAwPPXFnOWN-u8w8eGOnbqwHAIdheHFV1IIBaIRDqrDurnkX-6SbvxnIqWMlty_TGc4BfMTdeL3z6Z9yGWwyaC6h742SE3w3fUSGEAniP8gxsfq8tfSE7RKG2L1bFSrFSMr44yViZyuXiiDLU_WjusPpUuY5h1G9RFLduHWuUkqczm0KHEUl1vqJJ-jjh111R1hAspGUmLnlMmUlb5QUadDoCu2tgfkTu2DbJ0kH6-u5dQrG3U_mhgIyW-LO1x8ZqnPe2YVOPXG-Hm2UNKLViYIZ166AFE2FXHWcLAt3JCM2kqS9xIdLAXrJ1_lCeIzNXsDMpT5YpxX_t7d0BRKpNc0hCY7eoRJUlw13oOvdhseButepRim7bldF7GWvfWsqdbIDGQbLYEk3iFWwK3nFPS2yFGuzEmLgPpCr53YRnWkCc38D7mnwGBYcqCbf-xFa6FZGwk0Tjlsn-hl_dxJJYAfz4ZTqoD5auEh7I82xJEXIoIWH0kIleNX5GDHYdFKk-j23wF-cNZbz_Hp3QjmmA4UcJCgLAeJtmgHgHCsEtfiwxKLlAQ5Qfaiwc5ufnO52OVoOdCQQsycKLnYj5VK22FKQp7Cym-pJIShZBwKcVfhuBsFiqVgzXWTp
-public.boxcloud.com/d/1/b1!GHLl423JhdSv-_1uIGXzSwJEwoFMyyZnMIYN7GkSnzYKeRhMA1yAMUfZjA7EH492y2SIULrM5cN205ORjj_3eYi8btl_5FRiUPAK8Mnb-gIc1zyDDdBES_r3T4wExH3vpoGQRNdLwF-j5WwPXzHR5g4Nv7EPssbiuzM5JqYLGQufeGOjtHRyVYrwJy3D-dVAgxKW1lOz6_AWktQhJeW-cKgloqz3u9tRl3qKHMIzinfgn8WlyILD8CcKUgy9K5l_0My4Y6fceoWySx9Tb8zZ5Z0EFCHAlXcxtlwQwxLsFIOSeo4Iv0El1YaYzt00PQ81zJ-xmq8YqDsM0meq9UxUgc7CcehyqnvR2skGZfpDLpTw0zRDW8CsHanRGXTeCi1aVx8Z5JxzL6M52-oWHgIKkRxeC0S9PVAa36pS8HTid6HKOVJ8e9I9YwbqjH6-X0-V5Eld-4DP-ZQFnyAdL42r6ohd5kuNHEN1iUJ-qyPDMC8yuejRqBwQYnZof6w8FikqYzSuq1Qje__34WAfqD-ep7IwaOCuk3rpXsNUJoHcZ9BRZHGadsV-Xt2GpDXsr3Lr1XOjp3i-ZGT7wSVTqau98o_mA1frQSoazI9d1U1OlU7JH3Krf2QoBupTAcb8IaaurgcFFp376oS2TyveuPMJxlWhkUYh05HdQezprO5H4GVdVmEzNNf5w43ilwQhivOPuaUADKGSn7XGD7aEg9hQXvLiG8P75WMXnV5cmOQ-MqSNzMQ-lmMc0CBHymJ3cMlctGOJdtQaOQaqwk2WL53xlcXiVc1WjDHA9FAEIUmQp_63_8MLLDU7GtJXsj-68qYwoJ1qAC1zHNfmmUQmhrt_3AzyAyrLljzgl0E1T2pOYx_Ak1rXvwwN1SRaRz8CSWNGmEUb6l7Fuj4L7wuPUensZGqj7hZB2aMwqY-P8juISHS2V8IGuEYSdfPj_nvZkD43b2PAfWR7pFpb-WsQ4qmG-JvAyWoAK3j96f0jcq4mnIEAGFYNO_OfxT5ubF4fsTuuLoXiAuipQZVZ30rGfPXybSATJowAF09eu_idFbv46hBQAXjg2e52A1-uHhPoPkaPCVxSjWb2PmCZOXMPO7M-Ttg9zW1IkuME7-NTSyCpZ6eb3kRs04xUXoKq7ybpP91uYTiLPgyMz9s8o
-public.boxcloud.com/d/1/b1!b0kYbBmPt0CVrer4t1SZhrXd7kOkXaWUFTM-4bDRwxdw-CEb-yfdkVTqycl0YzzKMwzGHQViBPlSFRbHAchK4nmzjODl3TCgsp2ilvE-24qC7_hEOClE-B637EBsotsJ1-hSGX021TLdzf9Ftm5JQ07zpCYyzIjGvX-TKo-B-wO7zBZ9z3sBYpJIZZege9uztPWBmOAw-dxOzhRJlK7SCIaLYZhjdUogSwOYWCWA3LUFh0eHvk29vuN5uSKQcRYJ_9jjZWBqErT6WdY2Kej7zZM0IqRcjCUGjtuFTsi_1yNTqYMb1YZ_NKXP8zWFM2NkTXKdL2wd6B-npa7qF-j9Eq9BaghO1FRcL4Fx0LBhfKHgCtBvBqh90MnjCkd4rIiKbSnrIAKfvP1YNB34YGXYDjr3e8WQ2rd0Z50exK7pY8kydcIj_ei66cSHdU0HsSJrI0G_INMBNk1DUXwSUqWbuj9zoCZXw3yypCM_0lYpJUtAKcKjc4hI5vAoF9xvGwDnT4oYtYwpoR_FN42l8u2hkeM0TONt_sxrgM9OekmmP-HfDGuow96LQg2bvaquxSOmD1SWHh_sPEvffcga-vdeMTEXJtdh9ubXG741Nx-ze1yQ5VIjUGfikQOW7GOx40F-fKsg3gvded4KpDwgUaUH0OofgaCx4yH7A_XoJd9eWg1ksQjdBw1fH3Cg1nPn7Z_zCbCAo4VjWzpRpbDYan-DMpMDYm36IR7XBf9qIGBxLy5Rsv8A_AuofF_F1E53TjyAIWqx4aIy74VEKMZqP7gAXL-eN5LYCR7HoKgJwulkFCw9UEAjNKZtREHreLhB6r2L2AG6GaZO9OxJv7nZc42Qrrh4kXchmURPNkLitlHrk0NHoT5EDTQsyKQ_ABRKn7KXdf4kU4hKD7zedNCYH2UC2TFg9IsTq0lcTcyx15Y0rfwwc45xBC3YWXb4CvXP510EABDGDw8x5P8kEvMN_qXH4qYZ4fqGZI1ZsGACR2Jbo5YeLNUvcthZ4OvpSeF6Yz_WSTAPR5qPA9FyUkDXAoGCQbDx--JsolhyNrxIc7Iq4qWzU_KKMqtmeeQgxKHXMgM-2pwlNdSrDD3_cnbr2n8AGT8qQPVOZkMSZdPYX6hPKwXESF9ZGc18vuMaT9SmTcYcraZRyqnzrGJsq
 public.boxcloud.com/d/1/b1!gulAle0fJVMZdDGcv1HPnvguFaArZUZUs5RwkYMeglWk-TEPV3_TyRa_xZvvsk0B4d3VMPWMr0oNrHwAE3DLk7fEuUhdRmCM8e4OBWEItK5YXUfK-d1Q3BcbrTdFYMt36YRdCoGIc9ilYLezm7ntZXAyJrtZh98YRrIdReBL338jGtb2dPXiZIXOT_o84VPgudB7eopzrqb2CMtYV_HPRk5-eirnQAhlqV93JArLxkZ6bm9IRd5S158sgCuCZ39BnMzv8ewg6FqiI7atp4OXMugEfFQXb1mlr2gwxIjnYklAie9Rxb6aUyW-55S9gFudyaenqhpS8_BeXzYLuu8R-uAKfCM5-uBr05SannxwDQP3lIYxLGtWF9M-qxazXFfQl5g4Hg_DI91bEM2gCs7NRGBlhYEOURMaEUcdIv0BQU5Xyt42WyOTRaqO2XZVLhenkDYA5MIuGgkxkEJCmgFn0uTRccQQ9o5DDQyeaVtPB7oZxEg3-HF_ToFaGE9PxQAdCjC0HKBtazMw40utZ2E9yKdoGJ2dh3YFTHXXp9r5AtEk2GJJbCSc78Q55NiZC2mbDqR7hVUYDHcZ1q7L9VVXTKD9W-oBsJyUK3KtM-1FRvoEXMJN4fibHwKCYTNOLxLYHOsWmzADJlDsNTLr5KPBLGGXvZ1l07cDbsRzu8vgeSdiljvKztsmfWNY1Hej_JrX4KCdaK7-YAvUb8vGjzeB7Sv2bxeCHkIBexhrsWFOm0oSjbeI-nBo1a1dSpJI6_ctxJC-hhzk5yD2y4Q_0ExheeaM_vgwkzpE4e7D_lwvkkduQ4SdhjthyGo8fOYD6Xmu5BYiH4SujqJ3FDeG_WogozdX6EfYeYK0eFNhxmlAikrDBRQ5_uhhduuUZkWMypMWe6entrX3R6fsy0cAoSuDVg2Ek-m_PCoOFp-SVVhqzQQtO9ClJeXI0kxKksQ3FLYOiSkoVwMGcnt-gwPwx2EviklmYiyIHHSZpHLICy3kTEdBaHrRe4L0myfadVk7LvU4eOgw6pN4lerbSN1aWKxgmcdQfH84oPvtfbFF2GEn6QJubHjUiVIZmQsYo4KiOGmHZfJNU-yaXtuh2nvEpfQg2s-tA4VhNjWyBP7slZaSSYslzYjHrsC9UnVlZ1cKFNx-3PizsUAj60A4i
-public.boxcloud.com/d/1/b1!peIF8vSaDYZEDfmsSK7XQewSMc74JbImZqLg4Bua73U-83M2o7oXi7nnoXcJ7HgyZSuNZV4C0auquFsWqiSOAWXTpaBU8IvtyjmqMtcOevQcYLz5YsJ-I35l8261DA4kaTywd9NxnRqDQOvjbhu053bYpGrNr_RliFxLOMoDI1Dj1HSKQeXHlhicq5Ecw0c7rAP6BKXjxAia-trXodXAT3L64vjYW2wAPzrwFXDolC1cZo9RkALbqqJ_MZdy7nCn5Ox-CuOr7Ws_9Lp9ieTdaIfroIux4I7Y5b4pKYb-4TEo2sPKZj2s0Z1R6PXSaXizDPX_CkNv12qL6hnApo_FOPmEi6lHoNfq5aubm4dQLDznOScik8_ztlg3knNTuQoJPJ9Swy72QZTt0kMq8Z_t0gaVvV3V8IOoQj5Amevi5In8RC_jp-9TmIgyu8WvdKQTGB8evjGS4-noQi_Meg_4gKGh7GpyStjMB4SNrI6mgNd5fL_NVIXi3jTriVVv5JFqY-KsXO2D2ebogJrX6UM0-Q5ueJHdspzHdlxlEc6DI81tnpgeaPFQYw7DWhjl82er30Cg1TI46fypM1SVE9HCOJs8IuPloz-fma65TS0MzPdzhw_6ovTbmYK2yxTKZM7hMV8EV2dUc3cL64R4GzUSfPOrryLmaJX-0ns6rZOxzb78tPwVNWO-WxML5cqHxbAyvipFKXcY_j5Isvtejv00ENScwdSeRPtT8o7dxy9qclJdGmzTekwZZZ_NsCgEojW7tDWQRzdwc55-D-ngC4t8pIlyzKtkvhKVSR7a7D-XRucIaFqbt6E9L4vtEdx-VkmFA1WBsdmc5v6yRR3HkJiud2t0eoPYejDr2ORqhIF3PxCmq9HVQRay2Vv0mtf_AsrnP44iQwLDKX5hyc5NTMS2tQWTIEZAER965vAuDZEM3P4NB3AY_gMZpkR_GcCnMWAbDmBoozpBKLEXgrQ42bfow5Q-XkSbhcIoG-VUP-Ii1Ajv9JFM1StGousfiQPRMg-7p2-HSAD-RE0eT20uqkxy2-effKYAFrFG4oxNEZZElNMD0ArHWd-6Iq7MAq82Otw6AzYDWQX-NM_heH3WuPl1jxD8Acxf6NrHvKMKTN91BZA8y86dr4N0Mu9tl8t2LLEmbtxzk0hA39KAp
 public.boxcloud.com/d/1/b1!siWxb4emW9kLzPQLuDadOZq9Ynestc36wMu0c6UDyOciewGtgD6kHq8rusogNwqvHphhdE8Rv9f_YNP-kZEgfdbyGbeU8T8lgVcuekq-J0JNUj8YydXiZCUowbtgRKKGQRE4QvIvUZypaf13EYjZzkbCUNh3yq9ynfcXclfm7wL3NI1ILE3_nHb7xvHC5wBxpE4kPF181gS5fon2YJiQq-TT9hyQa8FxTI5qaqa5sbxAlcvbkRoPNpKJt2-dbXIRTlT8hrvOrLLVG1jiRnQP_5p9yce-gl4vVzgSAss5oFsYfw6DGcO90RHTx3t7R-l3FmVhC7ipIBICov3X88-Zp_jdmkv6W0dUoVeWa5tzNHZTCzNdTCK3mFFA5So_mrgRRzJOpe167fK65_iecIUB636GNOeUbaoh2ofAUpYCllbLYuxl5EBxoWNgPJXKnSK-YOss_z-6eJjNtqEUzwAs7eUVEJiYOK-jVqJqvJL6s05qPVMNbRXYEPPIXhEjsRwJNpE38NOpcxOtnsiyr8LAuzCMdsV-NyuLE0lRB-EXr1YbOjxFJIqKDjVYPcubE_vKJlkVoIsPUVvZ_tzUNInYP2ZidET2Jhg2YYOsPRyrBtZI_qYhBW4YBuJPWxMRZNevRg_CglhQhZz-MUN1XlRwS5TRGoCsWgikk7rumsLM6tAT-BZnNLyf5QovsFjPp9WEb6WBNbyPUExQn2OubLJ8yd5Cc8oU4sebnD1PATMUMloM0QkNHiJRNWHlsE0GKCeH95XBn5N9Cu8Ogh4K4GDhcWAHpT5O1vnQJgx7DYjoBj-GsOddIolbrtZaZX3rWAiyfD_W3EcA-OhMMDeeObbBkQ6NGiTDjz8dfuGPzJQc7X1tnZy0dFWJO1PYtkpAKnrH9kqZpf_GJNkEfRgyScr56-TcRA4R7bDOpKFsBXWfVDCZJZIU7kbhfvgrgvx-vDpRUQARDgAaHCNjm5be5WVf-7d8I3QCn7GlKGSKWgC26DyrWj7oy2szCHGYJY_wnd42n_DeNLr6LoH2ATiTjpgACZPNCAcMrNgeihtntGrbiiAsQXmySGGW7gV7F3-bWKsmwmuh7kqvBWOn902Qaxk8JjxzwUE-PmsJLE_i692dKri73MykhZwgOqMuq80LWHrBo47gz4DRFbKnZ
 publica.cz
 publications.aios.org
@@ -53309,6 +53322,7 @@ repository.unwiku.ac.id
 repproduce.com
 repro4.com
 reprosysteme.fr
+republicfreight.com
 repuestoscall.cl
 rerff.info
 res-energo.com
@@ -63724,6 +63738,7 @@ transrituals.com
 transworldscm.com
 tranthachcaothainguyen.com
 tranz2000.net
+trasaction-docs.icu
 trascendenza.pe
 trashcollectors.co.uk
 trasp3.xsrv.jp
@@ -66667,6 +66682,7 @@ vterkin656.temp.swtest.ru
 vterkin657.temp.swtest.ru
 vterkin658.temp.swtest.ru
 vterkin659.temp.swtest.ru
+vtex.in
 vtgtools.tk
 vtiger.kreativa-italia.com
 vtlsuites.com
