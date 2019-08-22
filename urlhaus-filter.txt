@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 22 Aug 2019 00:21:33 UTC
+! Updated: Thu, 22 Aug 2019 12:21:41 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2999,6 +2999,7 @@
 167.71.216.150
 167.71.217.232
 167.71.237.85
+167.71.241.245
 167.71.32.48
 167.71.33.137
 167.71.4.20
@@ -3685,6 +3686,7 @@
 178.233.85.254
 178.236.210.22
 178.238.233.28
+178.254.42.121
 178.32.67.9
 178.33.14.208
 178.33.14.211
@@ -4559,6 +4561,7 @@
 185.68.93.30
 185.68.93.34
 185.68.93.59
+185.7.78.31
 185.70.105.143
 185.70.105.177
 185.70.105.178
@@ -5392,6 +5395,7 @@
 199.180.134.215
 199.19.224.241
 199.19.225.161
+199.19.225.2
 199.19.226.178
 199.192.17.201
 199.192.22.114
@@ -6032,6 +6036,7 @@
 209.141.41.58
 209.141.42.144
 209.141.42.145
+209.141.42.23
 209.141.42.3
 209.141.43.15
 209.141.43.89
@@ -6558,6 +6563,7 @@
 23.249.161.93
 23.249.163.110
 23.249.163.113
+23.249.163.117
 23.249.163.126
 23.249.163.139
 23.249.163.14
@@ -7280,6 +7286,7 @@
 37.49.225.78
 37.49.227.120
 37.49.227.176
+37.49.227.202
 37.49.230.137
 37.49.230.216
 37.49.230.232
@@ -7639,6 +7646,7 @@
 45.95.147.79
 45.95.147.82
 45.95.147.85
+45.95.147.89
 4570595.ru
 46.101.102.135
 46.101.104.141
@@ -9798,6 +9806,7 @@
 87.236.212.241
 87.241.135.139
 87.244.5.18
+87.246.6.100
 87.247.155.12
 87.251.82.211
 87.27.210.133
@@ -10315,6 +10324,7 @@
 95.215.207.24
 95.216.166.0
 95.216.189.14
+95.217.10.22
 95.224.96.154
 95.235.152.140
 95.235.235.155
@@ -11939,6 +11949,7 @@ aktusglobal.com
 akucakep.com
 akuda.cl
 akudankanvas.com
+akudobia.com
 akula.pw
 akuntansi.widyakartika.ac.id
 akuseruseisyun.net
@@ -22403,6 +22414,7 @@ d1.udashi.com
 d1.w26.cn
 d10656335.u29.c11.ixinstant.com
 d110.cdn.m6web.fr
+d12quigfjulianne.com
 d17la500vzsvps.cloudfront.net
 d18646broderick.net
 d18ariellewhitney.city
@@ -24286,6 +24298,7 @@ discoverstudentxchange.com
 discoverthat.com.au
 discoverylandservices.net
 discoverytour.cl
+discribechnl.com
 discurs-berlin.de
 disejardines.com
 disfacar.com
@@ -38314,12 +38327,27 @@ jpmorganchasse.com
 jpmtech.com
 jpnc.co.kr
 jpol.com
+jppost-abi.top
+jppost-ada.top
+jppost-adi.top
+jppost-ado.top
+jppost-agu.top
 jppost-aha.com
+jppost-aji.top
 jppost-ama.com
+jppost-ama.top
 jppost-ame.com
 jppost-ami.com
 jppost-amo.com
 jppost-amu.com
+jppost-ani.top
+jppost-anu.top
+jppost-ara.top
+jppost-are.top
+jppost-aro.top
+jppost-aru.top
+jppost-awa.top
+jppost-azu.top
 jppost-ki.com
 jppost-me.top
 jppost-mi.top
@@ -40730,6 +40758,7 @@ lawfordunitedfc.co.uk
 lawgic.com
 lawindenver.com
 lawlabs.ru
+lawmaninvestments.com
 lawncareaugusta.com
 lawncaregrovetown.com
 lawncaremartinez.com
@@ -44518,6 +44547,7 @@ mesaqore.com
 meseva.in
 mesheddesigns.com
 mesinfilling.com
+mesirot.com
 meskamber.com
 mesoforex.com
 mesqen.eruapp.com
@@ -60937,6 +60967,7 @@ svrwood.com
 svs-art.com
 svspirulinafarms.com
 svsuameer.nl
+svvaddledesigns.com
 svyyoursoft.com
 sw.mytou8.com
 swabbyshobbies.com
@@ -62186,6 +62217,7 @@ testes.xor.ptservidor.net
 testesfuncionais.pt
 testfax.net
 testfixit.tk
+testfreedom.000webhostapp.com
 testhartfordhighschool-my.sharepoint.com
 testing-samdowling.c9users.io
 testing.alphyc.com
@@ -67779,6 +67811,7 @@ wko-web.de
 wkwxbwbz.sha58.me
 wl-interiors.co.uk
 wladdes.com
+wlibby71e.com
 wlkttc.top
 wlodek.net.pl
 wmcforyou.com
@@ -68141,6 +68174,7 @@ wwblog.cc
 wweshop.tk
 wwpdubai.com
 wws.emeraldsurfsciences.org
+wws.no-shirt-no-shoes.com
 www-bsac.eecs.berkeley.edu
 www-grupotv1-com-br.azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 www.smart-eg.com
