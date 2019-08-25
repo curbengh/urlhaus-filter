@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 25 Aug 2019 00:23:01 UTC
+! Updated: Sun, 25 Aug 2019 12:22:05 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -38426,6 +38426,12 @@ jppost-aro.top
 jppost-aru.top
 jppost-awa.top
 jppost-azu.top
+jppost-ga.top
+jppost-gi.top
+jppost-go.top
+jppost-gu.top
+jppost-ha.top
+jppost-hi.top
 jppost-ki.com
 jppost-me.top
 jppost-mi.top
@@ -52480,7 +52486,10 @@ quytlshadroxanne.com
 qvdms.com
 qvid.cl
 qw-ea.top
+qw-ec.top
 qw-ee.top
+qw-ek.top
+qw-em.top
 qw-ep.top
 qw-eq.top
 qw-er.top
@@ -52498,6 +52507,7 @@ qw-qs.top
 qw-qu.top
 qw-qw.top
 qw-qy.top
+qw-ru.top
 qw-wb.top
 qw-wc.top
 qw-wf.top
@@ -54678,6 +54688,7 @@ sabeganha.com
 saberastronautics.com
 saberprotech.com
 sabinevogt.de
+sabiupd.compress.to
 sabkasath.pk
 sabkezendegi.ir
 sabkuchlo.in
