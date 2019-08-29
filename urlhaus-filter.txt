@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 29 Aug 2019 00:21:42 UTC
+! Updated: Thu, 29 Aug 2019 12:21:47 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1829,6 +1829,7 @@
 142.11.214.9
 142.11.215.254
 142.11.216.61
+142.11.217.116
 142.11.217.134
 142.11.217.230
 142.11.217.88
@@ -2378,6 +2379,7 @@
 157.230.94.197
 157.230.99.56
 157.245.43.220
+157.245.43.235
 157.245.75.129
 157.52.151.215
 157.52.156.37
@@ -2548,6 +2550,7 @@
 159.65.47.211
 159.65.49.210
 159.65.52.184
+159.65.52.247
 159.65.53.157
 159.65.64.71
 159.65.65.213
@@ -4125,6 +4128,7 @@
 185.164.72.136
 185.164.72.155
 185.164.72.213
+185.164.72.228
 185.164.72.241
 185.164.72.91
 185.169.52.72
@@ -7657,6 +7661,7 @@
 45.80.39.242
 45.88.78.34
 45.89.230.119
+45.89.230.185
 45.89.230.8
 45.91.25.50
 45.95.147.12
@@ -8420,6 +8425,7 @@
 51.91.174.30
 51.91.202.137
 51.91.202.140
+51.91.202.143
 51.91.248.86
 51.91.58.185
 5151c.cn
@@ -9132,6 +9138,7 @@
 6chen.cn
 6connectdev.com
 6dynfq.ch.files.1drv.com
+6evg.ww2rai.ru
 6gue98ddw4220152.freebackup.site
 6hu.xyz
 6ip.us
@@ -10344,6 +10351,7 @@
 94i30.com
 94tk.com
 95.110.227.132
+95.110.227.199
 95.132.41.136
 95.135.20.85
 95.140.17.164
@@ -10813,6 +10821,7 @@ absimpex.com
 absolutaservicos.com
 absoluteart.biz
 absolutecarpetcleaningaustin.com
+absolutelyclean.net
 absoluteoutdoorliving.com
 absolutepleasureyacht.com
 absolys.com
@@ -12833,6 +12842,7 @@ amg-company.net
 amg-contracts.co.uk
 amgadvertiser.com
 amglogs.website
+amherstbroncos.org
 ami-carservice.de
 ami.regroups.net
 amicideimusei-mikrokosmos.it
@@ -14716,6 +14726,7 @@ austria-in-motion.net
 austxport.com.au
 ausvest-my.sharepoint.com
 auswireless.net
+autarla.com
 auteam.com.mx
 autelite.com
 auter.hu
@@ -15194,6 +15205,7 @@ b.top4top.net/p_1042pycd51.jpg
 b.top4top.net/p_1113zezwp1.jpg
 b.top4top.net/p_394ed2c11.jpg
 b.top4top.net/p_4150lzvz1.jpg
+b.ww2rai.ru
 b010.info
 b1.ee
 b118group.com
@@ -15262,6 +15274,7 @@ bacio.ru
 back-forth.eu
 backdeckstudio.com
 backeryds.se
+background.pt
 backhomebail.com
 backofficebids.com
 backon.jp
@@ -16130,6 +16143,7 @@ bellaechicc.com
 bellaforeverfashion.com
 bellanapolipizzeriamiami.com
 bellandiepetri.it
+bellastile.ru
 bellatrix-rs.com.br
 bellavillacity.com
 bellavista-woodview.com
@@ -21624,6 +21638,7 @@ consultorialyceum.com.br
 consultroom.in
 consultstryker.com
 consumars.com
+consumer-now.com
 consumerassociationmm.org
 consumerclaimline.co.uk
 contabil-sef.creativsoft.md
@@ -21953,6 +21968,7 @@ crackmiata.com
 cradiant.com
 cradigital.com
 crafformican-iop-milo.com
+craft-holdings.duckdns.org
 craft-master.ru
 craftacademia.com
 craftmartonline.com
@@ -22478,6 +22494,7 @@ cycle-film.com
 cycleaddiction.com
 cyclingpeeps.com
 cyclingrace.ru
+cyclomove.com
 cyclosustainability.com
 cyclotech.tk
 cycomhardware.rajaojek.com
@@ -23752,6 +23769,7 @@ designvaerk.dk
 designword.jp
 designworx.co.nz
 designyourdreams.co.uk
+desileaked.com
 desing.co
 desiretoinspirehomedecor.com
 desite.gr
@@ -28556,6 +28574,7 @@ envirobostad.se
 envirochementerprises.com
 environglobalstaging.co.za
 envirotrim.net
+envisioned.duckdns.org
 envisionlight.com
 envisiontech-eti.com
 envosis.com
@@ -31056,6 +31075,7 @@ frazer.devurai.com
 frazilli.com.br
 frbdental.com
 frcbxvrn.com
+frcegroup-my.sharepoint.com
 frcs.com.br
 fre7.doshimotai.ru
 freakworld.es
@@ -33726,6 +33746,7 @@ hackerdefenseacademy.com
 hackerhouse.nl
 hackerranch.com
 hackerzvoice.net
+hackingtrails.com
 hacosgems.com
 hacsnet.gr
 had.at
@@ -35347,11 +35368,13 @@ houseefashioon.my
 householdhaircuts.com
 housek.info
 houselight.com.br
+housemarksales.duckdns.org
 housemart-my.sharepoint.com
 houseofbluez.biz
 houseofhorrorsmovie.com
 houseofthefuture.co.za
 housepital.in
+houseresale.duckdns.org
 housesittingreference.com
 housetohouseisrael.com
 houston-deals.com
@@ -38326,6 +38349,7 @@ jobgroup.it
 jobguru.info
 jobhunt.world
 jobinspektor.de
+jobmalawi.com
 jobmall.co.ke
 jobmuslim.com
 jobnest.in
@@ -40371,6 +40395,7 @@ ks-werbeservice.de
 ksa.fm
 ksafety.it
 ksc-almaz.ru
+kscco-lighthouse.com
 ksenta.ru
 ksgroupglobal.com
 ksguild.org
@@ -40518,6 +40543,7 @@ kuyabunso.com.au
 kuzina-teatr.ru
 kuzminala.ru
 kuznetsane.bpmb.ru
+kv0yg9f024w5uj5t.com
 kvadrat-s.ru
 kvarta-m.by
 kvartersakutenab.se
@@ -41541,6 +41567,7 @@ liderlight.ru
 liderpallet.com.ua
 lidersahtebalik.com.tr
 lidman.tk
+lidmans.000webhostapp.com
 lidoconchiglie.com
 lidogenrikhonelove.com
 lidoturistico.com
@@ -49037,6 +49064,7 @@ onedrive.live.com/download?cid=64DE6B3FCA356C05&resid=64DE6B3FCA356C05%211284&au
 onedrive.live.com/download?cid=68C9F09DED4D3B72&resid=68C9F09DED4D3B72%21173&authkey=AL6oUfOJI4ZrhEY
 onedrive.live.com/download?cid=6BD18291F1CB65CB&resid=6BD18291F1CB65CB%21147&authkey=AGsXVgyF2LBgCVc
 onedrive.live.com/download?cid=6C9835F2947A6579&resid=6C9835F2947A6579%21312&authkey=AJmqZVyYAkXLEa8
+onedrive.live.com/download?cid=6DDAEA193A0BBFBC&resid=6DDAEA193A0BBFBC%21115&authkey=AKO-mAFWSWxsRQc
 onedrive.live.com/download?cid=72B337E59D825543&resid=72B337E59D825543%21205&authkey=ALIvqOXoZk7hbSc
 onedrive.live.com/download?cid=72B337E59D825543&resid=72B337E59D825543%21206&authkey=AAOuXcEAtf788Ic
 onedrive.live.com/download?cid=72FA4918EB0ACED9&resid=72FA4918EB0ACED9%21154&authkey=AHtM35PLth4bjio
@@ -50379,6 +50407,7 @@ pcgame.cdn0.hf-game.com
 pcgestion.com
 pcgroup.vn
 pcgroups.in
+pchelpportal.ru
 pchost-aeronet.hu
 pchubonline.com
 pciholog.ru
@@ -52621,6 +52650,7 @@ qpoeisenqweqas.com
 qpondhk.com
 qppl.angiang.gov.vn
 qprinting.com.au
+qq.ww2rai.ru
 qqenglish.com.cn
 qqwqwwwpoasd.com
 qqydw.oss-cn-beijing.aliyuncs.com
@@ -53730,6 +53760,7 @@ rentacaryimi.com
 rentacarzagreb.hr
 rentaflock.com
 rentalagreement.aartimkarande.in
+rentalbackdrop.id
 rentals.quoteprovider.com
 rentamodel3.com
 rented.ufc.br
@@ -54133,6 +54164,7 @@ riyanshoppingbags.com
 rize-act-web.net
 rizoweb.com
 rizproduction.online
+rj7flq.by.files.1drv.com
 rjimpex.com
 rjk.co.th
 rjm.2marketdemo.com
@@ -55808,6 +55840,7 @@ screentechsecurity.net
 screwwith.us
 scribblers-aide.com
 scribblersonline.uk
+scriptswithsammich.com
 scryhgolb.com
 scseguros.pt
 sct.org.uk
@@ -56007,6 +56040,7 @@ sednya.info
 sedotwcdadilancar.com
 sedotwcsejakarta.com
 seductivestrands.com
+see.prblm.li
 seecareer.com
 seedscaramel.com
 seedsforgrowth.nl
@@ -56231,6 +56265,7 @@ seracojp.com
 seraflora.com
 serafsrl.it
 serakoon.com
+seraph15.ru
 serapist-ouen.com
 seraqueetea.org
 serasaconsumidorexperian.com
@@ -57060,6 +57095,7 @@ sigod.com
 sigurdsonperformanceauto.com
 sigurjon.com
 sihaiyucang.com
+sihatk.com
 siisa.com.mx
 sijin-edu.com
 sijuki.com
@@ -57111,6 +57147,7 @@ simblissity.co.uk
 simbratec.com.br
 simcom.ir
 simcon.ca
+simeo.ug
 simeon163.ru
 simes.es
 simgen.ca
@@ -58278,6 +58315,7 @@ spandanclinics.com
 spannarpssateri.se
 spannys.com.au
 spargelhofmann.at
+sparid-boys.000webhostapp.com
 spariev.com
 spark-plugin.com
 sparkcreativeworks.com
@@ -64264,6 +64302,7 @@ traxl.de
 trayc.online
 trazo24.com
 trb-project.xyz
+trb4ui1o7qm4t7mh.com
 trblietavo.sk
 trca.es
 trcont.pw
@@ -65437,6 +65476,7 @@ umquartodecena.com
 umrah2u.com
 umramx.bilkent.edu.tr
 umshopmall.com
+umswd6qo4ah9valh.com
 umtha.co.za
 umtiazinnotech.com.my
 umutkasimoglu.com
@@ -66051,6 +66091,7 @@ uyencometics.bmt.city
 uyf.com.ua
 uyijbmxxm8874337.gameofthrones05.site
 uytr5e.imtbreds.com
+uywork.com
 uzbek.travel
 uzbekshop.uz
 uzeyirpeygamber.com
@@ -67905,6 +67946,7 @@ westcoastcafe.co.uk
 westcoastrepro.ca
 westcoastview-mauritius.com
 westernamericanfoods.com
+westernautoweb.duckdns.org
 westerndesertmob.com.au
 westfallworks.com
 westflavorsunit.com
@@ -68975,6 +69017,7 @@ xn--24-vlchbeo3fyc.xn--p1ai
 xn--26-6kcaalesi4enatg5a2l.xn--p1ai
 xn--28-6kcash0dwa.xn--p1ai
 xn--28-vlc2ak.xn--p1ai
+xn--30-sb4am31a6ca43a079u5pav17qq6eb18hb7va.xyz
 xn--32-6kct4bgplfz.xn--p1ai
 xn--32-6kcu3bwjz.xn--p1ai
 xn--33-jlcxfrb9d2b.xn--p1ai
@@ -69872,6 +69915,7 @@ zaputina.ru.com
 zarabianiegeorge.cba.pl
 zaragozamarketing.com
 zarathustra.guru
+zaratour.net
 zaregare.com
 zarema-kosmetolog.ru
 zarnihlyan.com
@@ -70220,6 +70264,7 @@ zurizanzlbar.com
 zurnalas.bernardinai.lt
 zutom.sk
 zuvwax.com
+zuzi-sklep.pl
 zvaleriefs96.com
 zvarga.com
 zvfeinaya.com
