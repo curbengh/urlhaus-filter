@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 30 Aug 2019 00:21:39 UTC
+! Updated: Fri, 30 Aug 2019 12:21:33 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -471,6 +471,7 @@
 104.248.191.192
 104.248.191.31
 104.248.197.246
+104.248.198.116
 104.248.199.89
 104.248.2.56
 104.248.20.52
@@ -2113,6 +2114,7 @@
 148.70.57.37
 148.72.176.78
 149.154.68.154
+149.202.103.87
 149.202.110.2
 149.202.159.182
 149.202.20.39
@@ -2509,6 +2511,7 @@
 159.65.185.37
 159.65.185.61
 159.65.188.126
+159.65.190.238
 159.65.190.9
 159.65.192.196
 159.65.195.106
@@ -2548,6 +2551,7 @@
 159.65.41.178
 159.65.41.77
 159.65.42.17
+159.65.42.177
 159.65.46.207
 159.65.47.211
 159.65.49.210
@@ -3022,6 +3026,7 @@
 167.71.214.117
 167.71.216.150
 167.71.217.232
+167.71.230.34
 167.71.237.85
 167.71.241.245
 167.71.32.48
@@ -4131,6 +4136,7 @@
 185.164.72.155
 185.164.72.213
 185.164.72.223
+185.164.72.223.ip.chase-secure03b-4a-t90.tk
 185.164.72.228
 185.164.72.241
 185.164.72.91
@@ -4181,6 +4187,7 @@
 185.180.198.65
 185.180.198.91
 185.180.199.102
+185.180.199.91
 185.181.10.208
 185.181.10.234
 185.181.9.161
@@ -7794,6 +7801,7 @@
 46.161.40.93
 46.166.133.162
 46.166.133.165
+46.166.151.88
 46.166.160.41
 46.166.185.161
 46.166.185.18
@@ -9061,6 +9069,7 @@
 68.183.38.6
 68.183.38.69
 68.183.39.48
+68.183.4.248
 68.183.4.36
 68.183.41.147
 68.183.41.164
@@ -12283,6 +12292,7 @@ algous.margol.in
 algysautos-cyprus.com
 algysautosblog.com
 alhabib7.com
+alhaji.top
 alhamdltd.com
 alhazbd.com
 alhussainchargha.com
@@ -24599,6 +24609,8 @@ djtosh.co.za
 djunreal.co.uk
 djwesz.nl
 djxdrone.fr
+djykybumlu.s3.amazonaws.com/Video-6103.exe
+djykybumlu.s3.amazonaws.com/Video_Player.exe
 djyokoo.com
 djzmo.com
 dk-rc.com
@@ -37890,6 +37902,7 @@ jart-design.com
 jasabacklinkseo.com
 jasabakov.org.rs
 jasakonveksisemarang.com
+jasapembuatanwebsitedibali.web.id
 jasaservicelift.com
 jasaviral.com
 jasawebsite.online
@@ -42713,6 +42726,7 @@ macssnow.com
 mactayiz.net
 mactoyohashi.net
 mactransport.ca
+macvin.5gbfree.com
 madaboutscience.net
 madacovi.com
 madadeno.ir
@@ -53882,6 +53896,7 @@ retro-jordans-for-sale.com
 retro11legendblue.com
 retroframing.com
 retrohoopsnebraska.com
+retroops.com
 rets.life
 retsreformnu.dk
 return.network
@@ -62243,6 +62258,7 @@ technosoftservicess.com
 technotruck.ru
 technowood.co.ke
 techollys.com
+techpartner.info.pl
 techpc.ga
 techprogress.com.ua
 techproject.co.uk
@@ -67483,6 +67499,7 @@ wasimjee.com
 wasobd.net
 wassedfast.com
 wasseralfingen.com
+wasserettederoos.nl
 wasteartstudio.com
 wastetoenergyhq.com
 wasza.com
@@ -70210,6 +70227,7 @@ zprb.ru
 zptransport.si
 zras.sk
 zrcg-china.com
+zrfghcnakf.s3.amazonaws.com/Video_Play.exe
 zrkls.pw
 zrxx.info
 zs11.koszalin.pl
