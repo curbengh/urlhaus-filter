@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 31 Aug 2019 00:22:54 UTC
+! Updated: Sat, 31 Aug 2019 12:22:22 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -70,6 +70,7 @@
 1.32.40.167
 1.32.40.203
 1.32.41.133
+1.32.41.61
 1.32.43.40
 1.32.45.198
 1.32.48.235
@@ -941,6 +942,7 @@
 116.203.40.206
 116.203.48.81
 116.203.66.92
+116.206.177.144
 116.73.61.11
 116.87.45.38
 11651.wang
@@ -1780,6 +1782,7 @@
 14.46.154.219
 14.46.209.82
 14.46.33.116
+14.46.70.54
 14.46.70.58
 14.47.60.102
 14.48.38.21
@@ -2116,6 +2119,7 @@
 149.154.68.154
 149.202.103.87
 149.202.110.2
+149.202.143.154
 149.202.159.182
 149.202.20.39
 149.255.36.197
@@ -2963,6 +2967,7 @@
 165.227.72.10
 165.227.75.138
 165.227.81.93
+165.227.83.225
 165.227.84.68
 165.227.85.56
 165.227.92.245
@@ -4212,6 +4217,7 @@
 185.186.246.69
 185.186.77.105
 185.186.77.106
+185.186.77.243
 185.186.77.46
 185.189.149.137
 185.189.149.164
@@ -5078,6 +5084,7 @@
 192.3.12.133
 192.3.131.23
 192.3.131.25
+192.3.131.30
 192.3.146.201
 192.3.160.67
 192.3.162.102
@@ -6128,6 +6135,7 @@
 209.141.62.19
 209.141.62.36
 209.159.150.121
+209.159.153.173
 209.182.216.156
 209.182.217.156
 209.182.217.78
@@ -7677,6 +7685,8 @@
 45.89.230.185
 45.89.230.8
 45.91.25.50
+45.95.147.105
+45.95.147.115
 45.95.147.12
 45.95.147.15
 45.95.147.16
@@ -7932,6 +7942,7 @@
 46.29.160.224
 46.29.160.252
 46.29.160.82
+46.29.161.236
 46.29.161.238
 46.29.161.247
 46.29.161.39
@@ -8898,6 +8909,7 @@
 67.205.133.221
 67.205.138.102
 67.205.138.54
+67.205.140.158
 67.205.142.176
 67.205.142.64
 67.205.146.234
@@ -9574,6 +9586,7 @@
 80.211.83.69
 80.211.83.93
 80.211.84.76
+80.211.85.101
 80.211.86.129
 80.211.86.86
 80.211.86.9
@@ -9828,6 +9841,7 @@
 85.9.61.102
 85.96.187.127
 85.99.111.150
+85.99.241.251
 85.99.242.62
 85.99.247.141
 85.99.247.39
@@ -10031,6 +10045,7 @@
 89.41.106.3
 89.41.72.178
 89.41.79.104
+89.42.133.42
 89.42.211.49
 89.42.75.33
 89.45.164.140
@@ -15208,6 +15223,7 @@ azubita107s3.watchdogdns.duckdns.org
 azul-holiday.pl
 azuraccessoires83.fr
 azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
+azuremoonentertainment.mobi
 azuresys.com
 azuru1.duckdns.org
 azusafest.com
@@ -29644,6 +29660,7 @@ fakhria.com
 fakita.com
 faktorgrup.com
 faktoryapi.com.tr
+falasbotbtc.fun
 falconna.com
 falconsafe.com.sg
 falconscooters.net
@@ -29872,6 +29889,7 @@ faturamentocontabil.com
 faubourg-70.fr
 faubourg70.fr
 faucetbaby.com
+faucetbot-bitcoin.fun
 faujuladnan.com
 fauxfursandrealrags.com
 favavva.usa.cc
@@ -32007,6 +32025,7 @@ gd2334d.ru
 gda-eksplorasi.co.id
 gdai.co.il
 gdbonsdias.com
+gdfdfv.ru
 gdgkpvcxoolnubyn.com
 gdiinnovativesolutions.com
 gdjkeed.pw
@@ -34330,6 +34349,7 @@ hectorcordova.com
 hectorgarrofe.com
 hedel.jp
 hederefloareasoarelui.com
+hedisetro.5gbfree.com
 hediyenkolay.com
 hedrasl.com
 heebrink.supersnelwordpress.nl
@@ -43403,6 +43423,7 @@ mail.zieglersolar.com
 mail.zoemcgee.com
 mail.zoi-research.com
 mail.zumbafitnessseattle.com
+mailadvert17dt.world
 mailadvert57.club
 mailadvert852.club
 mailchi.mp/d6aa22f3e487/a4sanqf6wu
@@ -47755,6 +47776,7 @@ nicolaskohen.com
 nicolocappelletti.com
 nicolosicura.it
 nicosiabujinkan.com
+nicoslag.ru
 nicosong.com
 nicroturk.com
 nicsena-programs.glitch.me
@@ -50032,6 +50054,7 @@ parsrad.ir
 part-timebusiness.org
 partage-fichiers.com
 partage.nelmedia.ca
+partaususd.ru
 parth-traders.com
 partidiricambio24.it
 partidizayn.com
