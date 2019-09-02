@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 02 Sep 2019 00:21:35 UTC
+! Updated: Mon, 02 Sep 2019 12:22:00 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1418,6 +1418,7 @@
 134.209.19.159
 134.209.190.132
 134.209.191.12
+134.209.195.176
 134.209.195.57
 134.209.196.198
 134.209.196.86
@@ -2096,6 +2097,7 @@
 147.135.116.66
 147.135.121.113
 147.135.121.116
+147.135.121.118
 147.135.121.119
 147.135.124.113
 147.135.126.109
@@ -2389,6 +2391,7 @@
 157.230.94.197
 157.230.99.56
 157.245.37.237
+157.245.39.9
 157.245.43.220
 157.245.43.235
 157.245.75.129
@@ -2748,6 +2751,7 @@
 164.132.213.118
 164.132.213.119
 164.41.28.71
+164.68.107.62
 164.68.115.67
 164.68.116.122
 164.68.116.138
@@ -2838,6 +2842,7 @@
 165.22.221.150
 165.22.221.183
 165.22.222.229
+165.22.227.101
 165.22.227.164
 165.22.227.252
 165.22.227.7
@@ -5073,6 +5078,7 @@
 192.241.149.194
 192.241.151.14
 192.241.152.41
+192.241.154.50
 192.241.158.242
 192.241.194.166
 192.241.218.154
@@ -5100,6 +5106,7 @@
 192.34.63.214
 192.48.88.211
 192.64.116.236
+192.64.80.14
 192.81.208.17
 192.81.209.164
 192.81.213.241
@@ -6942,6 +6949,7 @@
 31.129.70.65
 31.13.195.251
 31.13.195.49
+31.13.195.65
 31.131.24.153
 31.132.1.61
 31.132.142.166
@@ -7095,6 +7103,7 @@
 35.183.245.54
 35.184.187.178
 35.184.197.183
+35.184.206.229
 35.184.61.254
 35.184.79.110
 35.185.149.100
@@ -7696,6 +7705,7 @@
 45.95.147.101
 45.95.147.105
 45.95.147.115
+45.95.147.117
 45.95.147.12
 45.95.147.15
 45.95.147.16
@@ -7957,6 +7967,7 @@
 46.29.161.39
 46.29.163.102
 46.29.163.124
+46.29.163.138
 46.29.163.168
 46.29.163.195
 46.29.163.200
@@ -9011,6 +9022,7 @@
 68.183.16.105
 68.183.160.222
 68.183.161.98
+68.183.165.78
 68.183.166.199
 68.183.166.74
 68.183.167.47
@@ -9748,6 +9760,7 @@
 83.132.244.60
 83.14.243.238
 83.142.229.79
+83.166.240.209
 83.166.241.99
 83.166.244.180
 83.166.247.73
@@ -9911,6 +9924,7 @@
 87.241.135.139
 87.244.5.18
 87.246.6.100
+87.246.6.102
 87.247.155.12
 87.251.82.211
 87.27.210.133
@@ -10863,6 +10877,7 @@ absbldq.com
 abscaffold.com
 absen.ismartv.id
 absentselection.icu
+absetup2.icu
 absfze.ml
 absimpex.com
 absolutaservicos.com
@@ -11672,6 +11687,7 @@ aghayebusiness.com
 aghigh.yazdvip.ir
 aghpl.com
 agildoc.com
+agile-moji-9064.pupu.jp
 agile.org.il
 agilife.pl
 agilitygenesis.com
@@ -25205,6 +25221,7 @@ doc-0o-as-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-0s-1k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/uijrkghr80ngkvv9en1ml29dv3bjl6al/1540389600000/01121010560865514304/*/1WKa1dPdYhsCf5vJdNmgvGgvxp89ge5pX?e=download
 doc-0s-1o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/j4os2hu5iv97j65a4m130n1h49h75c80/1537329600000/14160312939835532486/*/18i2yyTqzgJp-REjsPpB_3PqQvw1u318z?e=download
 doc-0s-3k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/9e7ihfppq14b1kbp2l2pdfs9f6qg8he4/1552564800000/02049868374479201304/*/1fxi931krvQd_DOd9J6klDm1FKKcy7Lu5
+doc-0s-3o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/nr7iqfha4cl0gkgs1kfudliddo74nfhk/1567404000000/00694410224048673285/*/1Xb9pUqmqhG1cYQ9ad3DwtieK6C3ynty3?e=download
 doc-0s-40-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/lof8bu55e7anj0gegqpv8p36j96u4a8j/1545040800000/12570212088129378205/*/1RVtGySbns1klN_lywOpPJMuoT6A3iZvh
 doc-0s-5k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/jvig7tbi1ejor4o0f9jb921d9c4n8r55/1551470400000/01716522472954494626/*/1K67GRCKR4RZ-8cZOvPLXO7AkzLljBZXQ
 doc-0s-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/lmb0thmeqvo9vhvg6uqm94aa5aplvrap/1543334400000/05984462313861663074/*/19esASJydhkMq-f80TgNobrTh0yUDmgzy
@@ -26592,6 +26609,7 @@ drjoshihospital.com
 drkamalsgroup.com
 drkeshavdelhi.com
 drkgill.com
+drkrust.de
 drkulla.pl
 drkusa.com
 drlaszlozopcsak.com
@@ -27277,7 +27295,9 @@ dwpacket.com/hhyqbff/playerp2.0.exe
 dwpacket.com/jqhcjssz/playerp2.0.exe
 dwpacket.com/ozsmd/playerp2.0.exe
 dwpacket.com/payerp2.0.exe
+dwpacket.com/playerp.exe
 dwpacket.com/playerp2.0.exe
+dwpacket.com/qhbsyys/playerp2.0.exe
 dwpacket.com/yhzjxxc
 dwpacket.com/yhzjxxc/playerp2.0.exe
 dwpacket.com/zvjyemx
@@ -27737,6 +27757,7 @@ ecovilavaledoeden.com.br
 ecpn23.ru
 ecsconsultancy.com.au
 ecsn.biz
+ecstay.website
 ectagono.com
 ectcnepal.org
 ecuadoresort.com
@@ -32590,6 +32611,7 @@ gitlab.com/c-18/ss/raw/master/ss/h32
 gitlab.com/finndev/EloBuddy.Dependencies/raw/master/Setup/EloBuddy-Setup.exe
 gitlab.com/goldwe/git/raw/master/TI10045BR.msi?inline=false
 gitlab.com/jhonytrav777/travel/raw/master/winmng.exe
+gitlab.com/limaltdax1/kayweb/raw/master/Settin092.msi?inline=false
 gitlab.com/oliveiravtm182/comprovante_deposito2012928301298/raw/pdf/ANX_COMP_DOCXL.msi?inline=false
 gitlab.com/ram0s/ssl/raw/master/TI10045BR.msi
 gitlab.com/santos2018e/n2019198263981623891/raw/1880c3d42e949f836fbc2494fa3b80416da8786d/Nf-s20191982738912731651263187236817236-pdf.zip
@@ -33576,6 +33598,7 @@ gtomeconquista.com
 gtp.usgtf.com
 gtpdev.wbwebdesigns.com
 gtqw5dgqw84.com
+gtspower.xyz/wupvd.exe
 gtv.omginteractive.com
 gtvtuning.com
 gtwmarine.pl
@@ -33697,6 +33720,7 @@ guruamardasfamily.com
 guruandco.in
 gurubooks.net
 gurudevar.org
+gurumew.com
 gurupitch.com
 gurusexpo.com.ng
 gurutransfer.com
@@ -36137,6 +36161,7 @@ ieletron.com
 ielts-india.in
 ieltsgo.ir
 ieltsonlinetest.com
+ienfujz.online
 ienuestroesfuerzo.edu.co
 iepedacitodecielo.edu.co
 iephb.ru
@@ -42174,6 +42199,7 @@ logicsoccer.vip
 logiebank.net
 logikcs.de
 login.178stu.com
+login.excaliburwebs.us
 login.ismartv.id
 loginbrazil.com.br
 logincl4u.hi2.ro
@@ -49061,6 +49087,7 @@ onedrive.live.com/download?cid=75D7969B6CA6A5E2&resid=75D7969B6CA6A5E2%21118&aut
 onedrive.live.com/download?cid=776A0B6ECBF2EE0E&resid=776A0B6ECBF2EE0E%21132&authkey=ACB7KdVNsfYTrPo
 onedrive.live.com/download?cid=77FDFE95A281E8EF&resid=77FDFE95A281E8EF%213279&authkey=ACZaGzLQtCWJrUs
 onedrive.live.com/download?cid=7C167AFC54F7AB77&resid=7C167AFC54F7AB77%21105&authkey=AD1UGmBap85KR5o
+onedrive.live.com/download?cid=7C519BD087F6132C&resid=7C519BD087F6132C%21255&authkey=AFsNvI3rfYT-Ngg
 onedrive.live.com/download?cid=7C62D6373672653A&resid=7C62D6373672653A%21110&authkey=ABxf7gLQqKrr5aY
 onedrive.live.com/download?cid=7EB6A112D3786D60&resid=7EB6A112D3786D60%21226&authkey=ANQ3g3RHUfDy-nU
 onedrive.live.com/download?cid=7ED1E492626D9134&resid=7ED1E492626D9134%2118622&authkey=ALKio0mxmyC_FOE
@@ -49101,6 +49128,7 @@ onedrive.live.com/download?cid=B14794701872F736&resid=B14794701872F736%21282&aut
 onedrive.live.com/download?cid=B14794701872F736&resid=B14794701872F736%21283&authkey=AG7W5JbzmxdnMRs
 onedrive.live.com/download?cid=B513A81C7A5771D3&resid=B513A81C7A5771D3%21126&authkey=ABrv-fe5LMJC3C8
 onedrive.live.com/download?cid=B5DAFD1294CD5EF8&resid=B5DAFD1294CD5EF8%21454&authkey=ANB1LeeGXY-Er0Y
+onedrive.live.com/download?cid=B5DAFD1294CD5EF8&resid=B5DAFD1294CD5EF8%21455&authkey=AOFTOmLU89rrWmw
 onedrive.live.com/download?cid=B6B0DC1F0D7C34C4&resid=B6B0DC1F0D7C34C4!107&authkey=AJXLyCyMswkMvv4
 onedrive.live.com/download?cid=B6B0DC1F0D7C34C4&resid=B6B0DC1F0D7C34C4%21114&authkey=ANQbBV3YmQNMmso
 onedrive.live.com/download?cid=B6EDADCFDB8A2B5F&resid=B6EDADCFDB8A2B5F%21124&authkey=AJWhYYDtLApAc00
@@ -49135,6 +49163,7 @@ onedrive.live.com/download?cid=EA581288599D6AE1&resid=EA581288599D6AE1%21126&aut
 onedrive.live.com/download?cid=EBDE3D8CE54ED339&resid=EBDE3D8CE54ED339%21153&authkey=AKPvZ3cKptj9Pq4
 onedrive.live.com/download?cid=ED0141F46D6D00C9&resid=ED0141F46D6D00C9%2110669&authkey=AKFup5TTuavYYgI
 onedrive.live.com/download?cid=EE4FAF07E1EBD8FB&resid=EE4FAF07E1EBD8FB%21129&authkey=AM1E2LFx_SiGYuk
+onedrive.live.com/download?cid=EE4FAF07E1EBD8FB&resid=EE4FAF07E1EBD8FB%21147&authkey=AJHiWpYIh99YY6Y
 onedrive.live.com/download?cid=EFA0769FCF42DBD8&resid=EFA0769FCF42DBD8%21108&authkey=AB3oOb0EyDsXoWg
 onedrive.live.com/download?cid=EFFC9DD2C2D85AF1&resid=EFFC9DD2C2D85AF1%21987&authkey=AAtbPuCaIYJHGYs
 onedrive.live.com/download?cid=F1473D1AD777998C&resid=F1473D1AD777998C%21737&authkey=AOqHsFpqoGcgFxI
@@ -57906,6 +57935,7 @@ societas.si
 societe-ui.com
 societebeaute.com
 sociomaven.com
+socket.ru
 sockets.duckdns.org
 sockmaniacs.com
 socksrocks.dk
