@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 06 Sep 2019 12:21:41 UTC
+! Updated: Sat, 07 Sep 2019 00:22:38 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1841,6 +1841,7 @@
 142.11.212.167
 142.11.212.47
 142.11.213.139
+142.11.213.146
 142.11.213.50
 142.11.214.9
 142.11.215.254
@@ -2735,6 +2736,7 @@
 162.244.32.192
 162.244.32.37
 162.246.20.236
+162.246.21.139
 162.246.23.253
 162.250.124.210
 162.250.126.36
@@ -3110,6 +3112,7 @@
 167.99.106.175
 167.99.107.136
 167.99.115.182
+167.99.121.229
 167.99.125.11
 167.99.125.164
 167.99.127.156
@@ -4038,6 +4041,7 @@
 185.101.105.233
 185.101.105.243
 185.101.105.246
+185.101.105.254
 185.101.107.127
 185.101.107.148
 185.101.107.191
@@ -5045,6 +5049,7 @@
 191.96.249.214
 191.96.249.27
 192.0.27.69
+192.119.111.12
 192.119.66.148
 192.144.136.174
 192.154.105.234
@@ -6314,6 +6319,7 @@
 212.237.31.64
 212.237.32.62
 212.237.34.150
+212.237.38.251
 212.237.43.65
 212.237.46.253
 212.237.46.85
@@ -7608,6 +7614,7 @@
 45.129.3.130
 45.129.3.59
 45.138.157.74
+45.142.212.25
 45.15.253.88
 45.195.84.92
 45.227.252.250
@@ -8293,6 +8300,7 @@
 5.224.1.219
 5.225.67.5
 5.230.141.14
+5.230.152.6
 5.230.22.132
 5.230.24.45
 5.232.97.108
@@ -8841,6 +8849,7 @@
 62.210.144.185
 62.210.189.131
 62.210.207.229
+62.210.53.40
 62.219.127.170
 62.219.129.229
 62.219.131.205
@@ -10713,6 +10722,7 @@ aadityaindiawordpress.000webhostapp.com
 aadsons.in
 aae.co.th
 aafiyaat.com
+aagaeyarintz.com
 aagemoller.dk
 aagi.sagi.co.th
 aahi.co.uk
@@ -12074,7 +12084,10 @@ akili.ro
 akillidershane.com
 akinari.com.tr
 akinlolo.co.uk
-akinq.com
+akinq.com/account.exe
+akinq.com/ceo.exe
+akinq.com/ita.exe
+akinq.com/purchase.exe
 akito.be
 akktis.com
 akleigh.com
@@ -20797,13 +20810,7 @@ cjj.lanibio.net
 cjllcmonthlysub.ga
 cjmont41.fr
 cjnzbdy.gq
-cjoint.com/doc/15_07/EGkcftWS3qa_Console-ID-Fud.rar
-cjoint.com/doc/18_08/HHAvFUx2KML_DOCUMENTS-2.zip
-cjoint.com/doc/18_08/HHxoxvqdLui_DOCUMENTS.zip
-cjoint.com/doc/18_09/HIeuUN8skg6_DOCUMENTS-4.zip
-cjoint.com/doc/18_12/HLBnmzUX3Ll_SCAN-RESERVATIONS.rar
-cjoint.com/doc/18_12/HLEpvMYQjnE_AUTHORIZATION-FORMS.zip
-cjoint.com/doc/19_02/IBdvoJ3sDpk_Reservation.zip
+cjoint.com
 cjsebbelov.dk
 cjtows.com
 ck-finanzberatung.de
@@ -24211,6 +24218,7 @@ dhlexpress.club
 dhlexpress3.box.com
 dhlexpressdeliver.com
 dhlexpresslog.com
+dhlexpressshipping.com
 dhlexpressworldwide.box.com
 dhm-mhn.com
 dhmkanagoza.com
@@ -27166,6 +27174,7 @@ dstachow.pl
 dstore.hu
 dstorm.eu
 dsuc.cl
+dsuw5jbqe7xdzi.com
 dswsngo.org
 dtbcreation.com.my
 dthakar.com
@@ -33512,7 +33521,7 @@ grouopsra.com
 group404.com
 groupegps.com
 groupejpr.com
-grouper.ieee.org/groups/802/15/archive/802-15-sg5list/zipsKPvvzhlA9.zip
+grouper.ieee.org
 groupesival.com
 groupevl.ca
 grouphk.xyz
@@ -35333,7 +35342,7 @@ hoposoft.com
 hopper-restaurants.com
 hopperfinishes.com
 hora.today
-horadecocinar.com
+horadecocinar.com/wp-content/plugins/all-in-one-seo-pack/css/llc/FdgE-nG44_PkZJI-Avy/
 horcharoen.com
 horizon2akeris.fr
 horizont.az
@@ -38774,14 +38783,19 @@ jppost-mi.top
 jppost-mo.top
 jppost-mu.top
 jppost-pe.com
+jppost-ra.co
+jppost-re.co
+jppost-ru.co
 jppost-sa.top
 jppost-se.top
 jppost-si.top
 jppost-so.com
 jppost-su.top
 jppost-tu.top
+jppost-wa.co
 jppost-wo.co
 jppost-yo.co
+jppost-yu.co
 jppygfot.sha58.me
 jpqr.my
 jpro.jiwa-nala.org
@@ -44164,6 +44178,7 @@ marketingunitech.com
 marketinsight.hu
 marketintelligencebotswana.co.bw
 marketopic.ru
+marketprice.com.ng
 markets-force.info
 marketsbarcelona.com
 marketspioneer.com
@@ -46191,7 +46206,7 @@ moscow33.online/KeyMoscow33.40.exe
 moscow33.online/proxy/assno.chickenkiller.com.exe
 moscow44.online/KeyMoscow44.35.exe
 moscow44.online/KeyMoscow44.40.exe
-moscow55.online/KeyMoscow55.35.exe
+moscow55.online
 moscow66.online/KeyMoscow55.35.exe
 moscow77.online
 moscowvorota.ru
@@ -46763,7 +46778,24 @@ my-unicorner.de
 my.camptaiwan.com.tw
 my.jiwa-nala.org
 my.mail.de
-my.mixtape.moe
+my.mixtape.moe/ayqydr.vbs
+my.mixtape.moe/chhsmy.htaa
+my.mixtape.moe/coxgka.jpg
+my.mixtape.moe/ejkhnj.htaa
+my.mixtape.moe/eyugjv.htaa
+my.mixtape.moe/huofcq.htaa
+my.mixtape.moe/krmiez.docx
+my.mixtape.moe/ntvual.jar
+my.mixtape.moe/rgbtph.jpg
+my.mixtape.moe/swxfsf.hta
+my.mixtape.moe/tcelou.htaa
+my.mixtape.moe/ufmaxl.htaa
+my.mixtape.moe/vartac.jpg
+my.mixtape.moe/vfgrox.jpg
+my.mixtape.moe/vjgwsh.zip
+my.mixtape.moe/xyvdrv.htaa
+my.mixtape.moe/ywphpl.zip
+my.mixtape.moe/zmkjcs.jpg
 my.zhaopin.com
 my10apps.com
 my2b.online
@@ -48915,6 +48947,7 @@ okna-pvh-deshevo.ru
 okna-pvh-kolpino.ru
 okna-remont.moscow
 okna.landok.pro
+okomina.dk
 okotect.hu
 okozukai-site.com
 okranutritionph.com
@@ -50512,6 +50545,7 @@ payyosafoolayzp.com
 pazarcheto.com
 pazargezer.com
 pazcomau-my.sharepoint.com
+pb128o6c2favwk.com
 pbc-berlin.com
 pbc.boyuberq.ru
 pbcenter.home.pl
@@ -50803,12 +50837,7 @@ persianruggallery.com
 persiapanieltstoefl.com
 persiapet.net
 persimmonforge.com
-perso.wanadoo.es/cartaouol/uolcartoes.exe
-perso.wanadoo.es/gracig02/atualizado098476verifica.exe
-perso.wanadoo.es/grande000001/csrs.jpg
-perso.wanadoo.es/provedoresbrasil/relatorioemails2006.exe
-perso.wanadoo.es/stjsites/stj.exe
-perso.wanadoo.es/tdfgr/350RONPXJ65Y47.exe
+perso.wanadoo.es
 personal.nwolb.user.log.security.cod.issue.fondue-at-the-fountain.com
 personalized-weddings.com
 personalshopper-salzburg.com
@@ -51737,10 +51766,7 @@ posnxqmp.ru
 posqit.net
 possopagar.com.br
 post.thazin95924.ml
-posta.co.tz/network/List0fNames2018-pdf.jar
-posta.co.tz/network/Payment_notification.jar
-posta.co.tz/network/Payment_notification_pdf.jar
-posta.co.tz/network/cb-2018%20mandate-pdf.jar
+posta.co.tz
 postakutusufilm.com
 postalhero.com
 postcraft.nl
@@ -54160,7 +54186,7 @@ rgbsrl.com.ar
 rgclimatizacion.com
 rgdecor.org
 rgfloors.com.au
-rgho.st/download/6nNmWRj65/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/Fornite%20Hack%202018.exe
+rgho.st
 rgmobilegossip.com
 rgrosser.com
 rgrservicos.com.br
@@ -54990,10 +55016,7 @@ s01.solidfilesusercontent.com/YTMwZjFlYTU1ZDRjOWFmNjYxMTI2Nzk5YmExYmNlZDhmZGRjYT
 s01.solidfilesusercontent.com/ZDYzMDE3MTMzNmEwZWQzODJkZWQ0YTIyODRkYWMyOTMwNzkyZTRhMzoxaE9qWlQ6eEZ4eXlNY1FCWlVvbGRKaERKTGFXaUdqcHV3/gWvpLG4DrPQgB/263.exe
 s01.solidfilesusercontent.com/ZGQ4ZjZlNDM1NTI1ZmZjNzRkNzY1YzA1MjNhZWNiNjdmZjAxNTBlYzoxaE9SdGY6MTBldkc5ZzhtN2FWc2xMYV9WcFpISkN5Nk1Z/gWvpLG4DrPQgB/263.exe
 s01.solidfilesusercontent.com/ZTA5MmQ3YzExNzFiMjNmNGJhMmUyNjBlZjdlYzU2N2JkNTY5ZDVkZToxaE91N1E6TkMyTlRVeml3RFZyWW42OTBqSlNuQWtJSUVZ/gWvpLG4DrPQgB/263.exe
-s02.solidfilesusercontent.com/NGJkOWYyNmQ3MGM4ZjgwZGEyMTIzNDg0N2ZiYzJiOWU2Mjk3ZjJhNToxaE84Mlg6R3Jfd29kcVJ1czNOUnU0bzRzRV9FVlFnamZj/gWvpLG4DrPQgB/263.exe
-s02.solidfilesusercontent.com/OThiMTBhN2YyOTUxOWZjZjJmYjZlNGU2OWIwZTMzNjExMDdkMzI1YjoxaE9YUEE6aDFyZ0drZEtzX2Z0UkgtRzVyT1lNbHBfenBv/gWvpLG4DrPQgB/263.exe
-s02.solidfilesusercontent.com/ZDBhYzQyYjVjMDNjMWZiNmIxZTExN2M3YWEyYWE4NDA5Njg0OWQzYzoxaE9kMUk6TENwUVNFbVp1WHZlbnNWaFk0d0pIV213clBR/gWvpLG4DrPQgB/263.exe
-s02.solidfilesusercontent.com/ZjczZTg2ZDZhMTVhZDgzMjI5MTljNmM0ZjY3MTg2NTk1NTg2Yjg5MDoxaE9wYmw6NE9IQl9JUVJybVFGVVRoZk03S2w4WFhPNVBJ/gWvpLG4DrPQgB/263.exe
+s02.solidfilesusercontent.com
 s02.yapfiles.ru/files/1056402/2.jpg
 s02.yapfiles.ru/files/1194058/42342.jpg
 s02.yapfiles.ru/files/1225340/52324.jpg
@@ -56914,6 +56937,7 @@ shelleylamb.com
 shells.fashionshells.net
 shellter-static.s3.amazonaws.com/media/files/5adbc741-fe58-4372-ad03-f27df73dbf1c.exe
 shelmex.com
+shelteredsparrow.org
 sheltonsautomasters.com
 shema.co.il
 shemaletube.cc
@@ -57549,9 +57573,7 @@ sitwww.watchdogdns.duckdns.org
 sitymag.ru
 siuagustina.band
 sivadatasdevri.com
-sivarajan.com/FILE/Please-pull-invoice-16523/
-sivarajan.com/Invoice/
-sivarajan.com/Past-Due-Invoices-June/
+sivarajan.com
 sivayo.com
 sivenit.net
 sivricerihtim.com
@@ -61442,8 +61464,7 @@ superchargeyourmind.com
 supercopa.cl
 superdad.id
 superdigitalguy.xyz
-superdomain1709.info/c4FXP3OiUoyf.67W
-superdomain1709.info/kuYcDSjTE.jdZ
+superdomain1709.info
 superdot.rs
 superfitnes.net.ru
 superformi.ga
@@ -61852,7 +61873,14 @@ szmh-group.cf
 szmren.com
 szxypt.com
 t-bot.io
+t-cac.top
+t-cag.top
+t-cah.top
+t-cam.top
+t-can.top
 t-casamos.com
+t-cax.top
+t-caz.top
 t-comp.sk
 t-ehses.de
 t-h-e.co.il
@@ -62356,7 +62384,7 @@ teachthefuture.co
 teadyhedz.com
 teafresco.com
 teaheaven.co.uk
-teal.download.pdfforge.org
+teal.download.pdfforge.org/op/op.exe
 team-booking.apstrix.com
 team.neunoi.it
 team.superset.se
@@ -64906,7 +64934,11 @@ turbolader.by
 turbominebtcminer.com
 turboogates.com
 turbosonly.com
-turfsiteph.net
+turfsiteph.net/ACCOUNT/Invoices/
+turfsiteph.net/Facture-impayee/
+turfsiteph.net/IRS-Tax-Transcipts-062018-055T/5/
+turfsiteph.net/IRS-Transcripts-June-2018-09/19/
+turfsiteph.net/ups.com/WebTracking/AB-51161605617001/
 turfslayer.com
 turgentesdeficcion.org
 turginovo.ru
@@ -65022,6 +65054,7 @@ twobulletsleft.com
 twochiefstrading.com
 twoduelists.com
 twoguysandalaptop.com
+twojour.com
 twoofakindpainters.com
 twosisterstravelco.com
 twothinkdesign.com
@@ -66050,7 +66083,7 @@ url.emailprotection.link/?bcp_LQdELwbKhxKToIznR8rOuhtt9W4qlFovFOxc0z5zmN6k8ji5zi
 url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmBKpoVHxYkckgjOQoYTV_U0G2UMKhd4MBI9Ms8vO3Vliq2ClOuUAa6nO2a7Ij5lJFsouoEEMeMVmI/
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
 url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
-url3.mailanyone.net
+url3.mailanyone.net/v1/?m=1gqjAZ-000BfC-4n&i=57e1b682&c=OZtRQmXF7oN5pbgtjwITGqIFHzseGIPJ778kLq969LDnepRJUFA3m4dqjipi-y6OdeP66fl3GFcG9Mo0uCH8uh_3unyNDLNiJEst871L2nZ8Bt27Et8YRWVkmsFhx001Buq9q_60jxe1ofVPHOxLFN1ol0vyuzUw6cC67geyyV1T0aGD81PMHe6Cu8Qd2qq8-ymIP4qFuRBsKb7Lv1Y00D0SYWjvvMyla6LG_jYhjkcVuQ-nh42o0dILyk44Tc-C/
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urldefense.proofpoint.com/v2/url?u=http-3A__borinfor.com_newfolde-5Fr_doc_En-5Fus_OVERDUE-2DACCOUNT_Invoice-2D07-2D19-2D18&d=DwIFaQ&c=VQ9hgUuwpNx5qjiyTmR6qQ&r=VWCMrOAZ42xEY7aBeHkCfVC7-GccDQiNerNlJRH5muI&m=JavSUg0f9C2qoCCa7AWt8RM7BRNk5mP_S7hBxPVa8ZU&s=XFGDpuuNz7L0uj6b4PoAfz3lck7VPATlniNQMVv_P6w&e/
@@ -68899,7 +68932,7 @@ www-bsac.eecs.berkeley.edu
 www-grupotv1-com-br.azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 www.smart-eg.com
 www022284.com
-www107.zippyshare.com/d/8OPFupqh/37744/Server.exe
+www107.zippyshare.com
 www2.cj53.cn
 www2.gamingsupport.com
 www2.itcm.edu.mx
@@ -69594,8 +69627,7 @@ yanghongmin.com
 yangshengcentre.com
 yanjiaozhan.com
 yanlariviere.com
-yann-artes.com/Documents/
-yann-artes.com/h0QFEQ7/
+yann-artes.com
 yannatravelsandeats.com
 yannsmithkielland.com
 yanobuy.com
@@ -70347,7 +70379,7 @@ ziziused.com
 zizu.com.mx
 zizzy.eu
 zj.9553.com
-zjjcmspublic.oss-cn-hangzhou.aliyuncs.com/jcms_files/jcms1/web1898/site/attach/0/ad9ae31e86a9473c8836fbfd38462a8d.doc
+zjjcmspublic.oss-cn-hangzhou.aliyuncs.com
 zjttkj.cn
 zk-orekhovoborisovo.ru
 zkdjezica.si
