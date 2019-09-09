@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 09 Sep 2019 00:21:34 UTC
+! Updated: Mon, 09 Sep 2019 12:21:41 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -341,6 +341,7 @@
 104.192.224.99
 104.192.87.200
 104.193.252.134
+104.193.252.144
 104.193.252.178
 104.193.252.200
 104.198.17.119
@@ -380,6 +381,7 @@
 104.236.108.231
 104.236.156.211
 104.236.196.29
+104.237.135.92
 104.237.152.186
 104.237.193.189
 104.237.5.148
@@ -982,6 +984,7 @@
 118.25.176.38
 118.25.25.201
 118.35.52.175
+118.40.183.176
 118.41.18.21
 118.42.107.26
 118.42.208.62
@@ -1553,6 +1556,7 @@
 134.56.180.195
 134544.server-webtonia.de
 1348photo.com
+136.144.200.209
 136.243.104.26
 136.243.227.17
 136.244.109.33
@@ -2080,6 +2084,7 @@
 144.48.82.76
 144.57.73.165
 144.76.14.182
+144.91.64.187
 144.91.64.98
 144.kuai-go.com
 145.239.138.69
@@ -2352,6 +2357,7 @@
 157.230.243.144
 157.230.244.98
 157.230.245.63
+157.230.245.93
 157.230.248.42
 157.230.251.197
 157.230.28.40
@@ -2406,6 +2412,7 @@
 157.230.94.197
 157.230.99.56
 157.245.129.86
+157.245.143.74
 157.245.171.223
 157.245.2.21
 157.245.33.114
@@ -2415,6 +2422,7 @@
 157.245.39.9
 157.245.43.220
 157.245.43.235
+157.245.43.250
 157.245.70.229
 157.245.75.129
 157.245.75.220
@@ -2749,10 +2757,12 @@
 162.244.32.37
 162.246.20.236
 162.246.21.139
+162.246.21.141
 162.246.23.253
 162.250.124.210
 162.250.126.36
 163-cn.ml
+163.172.13.153
 163.172.133.10
 163.172.144.82
 163.172.147.222
@@ -4327,6 +4337,7 @@
 185.22.152.106
 185.22.152.122
 185.22.152.182
+185.22.152.194
 185.22.152.249
 185.22.153.191
 185.22.153.208
@@ -4526,6 +4537,7 @@
 185.244.25.253
 185.244.25.254
 185.244.25.70
+185.244.25.72
 185.244.25.73
 185.244.25.75
 185.244.25.78
@@ -5381,6 +5393,7 @@
 198.12.71.15
 198.12.71.3
 198.12.71.6
+198.12.76.151
 198.12.95.233
 198.12.97.67
 198.12.97.68
@@ -6573,6 +6586,7 @@
 220.135.108.15
 220.135.132.85
 220.135.136.24
+220.135.136.245
 220.135.19.18
 220.135.226.7
 220.135.27.22
@@ -6656,6 +6670,7 @@
 23.106.122.2
 23.106.123.105
 23.106.123.224
+23.106.124.142
 23.106.215.95
 23.108.49.246
 23.108.57.157
@@ -8087,6 +8102,7 @@
 46.36.36.189
 46.36.36.198
 46.36.36.3
+46.36.36.96
 46.36.37.121
 46.36.37.150
 46.36.37.166
@@ -10954,6 +10970,9 @@ absentselection.icu
 absetup2.icu
 absetup5.icu
 absetup6.icu
+absetup7.icu/ca/1.exe
+absetup7.icu/eu/1.exe
+absetup7.icu/us/1.exe
 absfze.ml
 absimpex.com
 absolutaservicos.com
@@ -15386,6 +15405,8 @@ b5.doshimotai.ru
 b64zwvi.top
 b7center.com
 b7j.info
+b7llug7q2jsxds.top
+b8dls65wkf75g0.com
 baacsetu.org
 baaders-namibia.com
 baangcreativa.net
@@ -15442,6 +15463,7 @@ backpack-vacuum-cleaners.com
 backpacker.view-indonesia.com
 backpackers.gr
 backpage-inc.com
+backpinging.com
 backselfconfidence.xyz
 backstage-secrets.com
 backthenstuff.com
@@ -19453,6 +19475,7 @@ carshoez.com
 carsibazar.com
 carsitxal.tk
 carsonbiz.com
+carsonly.tech/wupvd.exe
 carspy24.com
 carsturismo.com
 carsuperheros.com
@@ -19608,6 +19631,7 @@ catherine-marty-kinesiologue.fr
 catherinechidgey.com
 catherineclay.co
 catherinetaylor.co.nz
+catherinethai.com
 catherstone.co.uk
 cathoger.info
 cathome.org.tw
@@ -20197,6 +20221,7 @@ cfyprgzm.yjdata.me
 cg.getoptimize.it
 cg.light-chicago.com
 cg40289.tmweb.ru
+cg53575.tmweb.ru
 cgalim.com
 cgameres.game.yy.com
 cgcorporateclub.com
@@ -24742,6 +24767,7 @@ dj-joker.pl
 dj-nilson.nl
 dj-nj.gamestoplay.nl
 dj-tobeat.de
+dj.kayamalimusavirlik.com
 djaccounting.tax
 djadinolfi.com
 djakman.web.id
@@ -26322,6 +26348,7 @@ dreamsfurnishers.com
 dreamsmattress.in
 dreamswork.tk
 dreamtownpsl.co.ke
+dreamtravel.site
 dreamtravelonthego.com
 dreamtrips.cheap
 dreamtrips.icu
@@ -28218,6 +28245,7 @@ electricchili.com
 electrice1.ro
 electricianingreensboro.com
 electricians4hire.net
+electricidadaldama.com
 electricitebatimentbalagne.fr
 electricskateboard.com
 electricsunroof.com
@@ -34897,6 +34925,7 @@ hirewordpressgurus.com
 hiriazi.ir
 hiringjet.com
 hirosys.biz
+hirslibilisim.com
 hiscoutereast-my.sharepoint.com
 hisdsw.pw
 hisgraceinme.com
@@ -42691,6 +42720,7 @@ luckyfollowme.xyz
 luckyjam.ru
 luckylibertarian.com
 luckylohn.de
+luckynurse.com
 luckyslots.club
 lucleos.com
 lucretia-fitness.be
@@ -45525,6 +45555,8 @@ mine-crafter.site
 mine-parts.ru
 mine.zarabotaibitok.ru
 minecraftmod.ru
+minemusic.xyz/cl.exe
+minemusic.xyz/cl2.exe
 minenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 miner.party
 minera.hu
@@ -49489,6 +49521,7 @@ onurinanli.com
 onus.vn
 onvacationbolivia.com
 onwaanyi.site
+onwheelsapp.com
 onycom.com.vn
 onyourmind.net
 onyx-it.fr
@@ -50084,6 +50117,7 @@ pages.suddenlink.net
 pagina20.net
 paginapeliculasonline.info
 pagsalon.com
+pahanlab.com
 pai.fai.umj.ac.id
 paides.com
 paidtv.siaraya.com
@@ -52369,6 +52403,7 @@ promienzary.com
 promitprofil.com
 promo-npaper.ru
 promo-snap.com
+promo-softnet.info
 promo.sdance.kz
 promo.tainstruments.com
 promoagency.sk
@@ -68395,6 +68430,7 @@ williamsonteas.com
 williamssminexroad.cf
 willie-wong.com
 willins.com.br
+willipostcopa.com
 willmymanbegood.tk
 willplummer.com
 willricharchitectureanddesign.com
@@ -68963,6 +68999,7 @@ wwwregistraduriavotaciones036.000webhostapp.com
 wwwsiriweb4u.in
 wwyl-public.oss-cn-beijing.aliyuncs.com
 wxbsc.hzgjp.com
+wxcvddaozc6y4n.com
 wxhz.boyuberq.ru
 wxw.jackservice.com.pl
 wxx.xn--6qq986b3xl
