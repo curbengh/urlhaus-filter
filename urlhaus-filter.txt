@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 12 Sep 2019 12:21:40 UTC
+! Updated: Fri, 13 Sep 2019 00:21:42 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2430,6 +2430,7 @@
 157.245.43.250
 157.245.67.116
 157.245.68.214
+157.245.68.93
 157.245.70.229
 157.245.75.129
 157.245.75.220
@@ -2635,6 +2636,7 @@
 159.65.92.43
 159.65.95.55
 159.65.99.169
+159.65.99.169/httpd
 159.65.99.223
 159.69.40.239
 159.89.106.189
@@ -3790,6 +3792,7 @@
 178.238.233.28
 178.254.42.121
 178.32.178.194
+178.32.178.197
 178.32.67.9
 178.33.14.208
 178.33.14.211
@@ -4385,6 +4388,7 @@
 185.222.202.68
 185.222.58.151
 185.223.163.17
+185.223.28.153
 185.223.31.180
 185.223.95.70
 185.224.131.155
@@ -4654,6 +4658,7 @@
 185.52.3.23
 185.55.218.173
 185.55.218.74
+185.55.218.74/httpd
 185.58.225.28
 185.58.226.245
 185.60.133.243
@@ -5923,6 +5928,7 @@
 205.185.120.173
 205.185.120.227
 205.185.120.241
+205.185.120.241/MasakiBins/uchttpd.arm
 205.185.121.114
 205.185.121.19
 205.185.121.209
@@ -6118,6 +6124,7 @@
 207.148.31.152
 207.148.31.160
 207.148.64.177
+207.148.66.125
 207.148.79.152
 207.148.80.46
 207.154.193.227
@@ -6238,6 +6245,8 @@
 209.182.217.156
 209.182.217.78
 209.182.218.127
+209.182.218.159
+209.182.218.229
 209.182.219.221
 209.250.234.19
 209.250.243.48
@@ -6342,6 +6351,7 @@
 211.227.192.114
 211.228.249.197
 211.229.130.219
+211.230.109.58
 211.233.40.180
 211.238.147.196
 211.250.228.242
@@ -6438,6 +6448,7 @@
 213.183.60.7
 213.183.63.124
 213.183.63.242
+213.202.211.188
 213.226.126.238
 213.226.68.105
 213.226.68.223
@@ -6450,6 +6461,7 @@
 213.252.247.45
 213.32.34.37
 213.32.95.48
+213.45.0.146
 213.45.221.49
 213.45.250.178
 213.57.13.135
@@ -6573,6 +6585,7 @@
 219.68.230.35
 219.73.13.152
 219.80.217.209
+219.85.163.80
 219.85.233.13
 219.85.6.253
 219.85.61.101
@@ -6772,6 +6785,7 @@
 23.254.224.47
 23.254.224.52
 23.254.225.180
+23.254.225.234
 23.254.225.245
 23.254.225.71
 23.254.226.130
@@ -7772,6 +7786,7 @@
 45.76.188.149
 45.76.206.149
 45.76.216.23
+45.76.216.23/rev_http_53.exe
 45.76.234.129
 45.76.3.86
 45.76.32.207
@@ -7847,6 +7862,7 @@
 45.95.147.85
 45.95.147.89
 4570595.ru
+46.100.57.58
 46.101.102.135
 46.101.104.141
 46.101.109.160
@@ -8814,6 +8830,7 @@
 59.20.189.138
 59.20.189.145
 59.20.189.173
+59.22.144.136
 59.24.115.81
 59.25.9.121
 59.28.242.142
@@ -8828,6 +8845,7 @@
 59.47.72.34
 59.47.72.69
 59.80.44.99
+59.80.44.99/indonesias.me:9998/iexplore.exe
 59.90.247.38
 59.95.148.105
 59.98.44.226
@@ -9615,6 +9633,7 @@
 80.211.138.245
 80.211.139.17
 80.211.139.209
+80.211.139.209/bassbootshttpd
 80.211.142.26
 80.211.143.52
 80.211.143.89
@@ -10104,6 +10123,7 @@
 89.153.228.130
 89.160.77.21
 89.163.214.181
+89.163.221.12
 89.163.241.196
 89.163.241.200
 89.165.10.137
@@ -11005,9 +11025,7 @@ absentselection.icu
 absetup2.icu
 absetup5.icu
 absetup6.icu
-absetup7.icu/ca/1.exe
-absetup7.icu/eu/1.exe
-absetup7.icu/us/1.exe
+absetup7.icu
 absfze.ml
 absimpex.com
 absolutaservicos.com
@@ -11359,7 +11377,7 @@ adcash.cf
 adcash.ga
 adccenterbd.com
 adcommunication.pt
-adcoophttp
+adcoophttp://adcoops.ga/1/gmv4_protected.msi
 adcoops.ga
 add3565office.com
 addai.or.id
@@ -11903,6 +11921,7 @@ agyria.gr
 ah-xinli.cn
 ah.com.ru
 ah.download.cycore.cn
+aha1.net.br
 ahaanpublicschool.com
 ahadhp.ir
 ahadsharif.com
@@ -12180,10 +12199,7 @@ akili.ro
 akillidershane.com
 akinari.com.tr
 akinlolo.co.uk
-akinq.com/account.exe
-akinq.com/ceo.exe
-akinq.com/ita.exe
-akinq.com/purchase.exe
+akinq.com
 akito.be
 akktis.com
 akleigh.com
@@ -13282,6 +13298,7 @@ andrewwill.com
 andrey-nikolsky.ru
 andreybodrov.ru
 andreysharanov.info
+andreysharanov.info/app/vc-0122-http.exe
 andrezinhoinfo.com.br
 andriyan.ir
 androappy.com
@@ -13345,6 +13362,7 @@ angiras.org
 angkappokercom.com
 angkaprediksi.fun
 angkoramazingtrip.com
+angle-mort.com
 angletradings.com
 angletsurf.org
 anglickapohoda.cz
@@ -13453,6 +13471,7 @@ anokhlally.com
 anonerbermountdoc.icu
 anonfile.com/KcSc1bu5bb/InstagramChecker2019_exe
 anonupload.net
+anonupload.net/uploads/ntvitnai/http%3A/anonupload.net/uploads
 anonymousfiles.io
 anonymousrgv.com
 anonymouz.biz
@@ -19531,7 +19550,7 @@ carshoez.com
 carsibazar.com
 carsitxal.tk
 carsonbiz.com
-carsonly.tech/wupvd.exe
+carsonly.tech
 carspy24.com
 carsturismo.com
 carsuperheros.com
@@ -20267,6 +20286,7 @@ cfs4.tistory.com
 cfs6.blog.daum.net
 cfs8.blog.daum.net
 cfs8.tistory.com
+cfs8.tistory.com/upload_control/download.blog?fhandle=YmxvZzE3MDMwMUBmczgudGlzdG9yeS5jb206L2F0dGFjaC8wLzExLmV4ZQ%3D%3D&filename=swf-qwerhttp.exe
 cfs9.tistory.com
 cfscapitalgroup.co.uk
 cfsengenharia.pt
@@ -20857,8 +20877,7 @@ cirestudios.com
 cirqueampere.fr
 cisir.utp.edu.my
 cisme.in
-cismichigan.com/1518MBCNZI/oamo/Commercial
-cismichigan.com/1518MBCNZI/oamo/Commercial/
+cismichigan.com
 cisnecosmetics.com.br
 ciss.mk
 cissa.ewebdy.com
@@ -22803,6 +22822,7 @@ d-snpagentdirectory.com
 d-staging.site
 d-trump.jp
 d-va.cz
+d-va.cz/ZVjGOE9http
 d-zerone.co.kr
 d.coka.la
 d.ho3fty.ru
@@ -23710,6 +23730,7 @@ delta.com.gt
 deltaambulances.fr
 deltaenergysystems.co.ke
 deltaengineering.users31.interdns.co.uk
+deltaengineering.users31.interdns.co.uk/KepZJXThttp
 deltasdhoop.com
 deltaviptemizlik.com
 deltesyikim.com
@@ -24118,6 +24139,7 @@ dev.churchco-op.org
 dev.colagenulmeu.ro
 dev.colombiafacil.com
 dev.cscslacouronne.org
+dev.cscslacouronne.org/reverse_http.exe
 dev.deweerdwebsites.nl
 dev.diawan.net
 dev.dimatech.org
@@ -26228,7 +26250,11 @@ download.win-test.com
 download.winzip.com/winzip155.exe
 download.zjsyawqj.cn
 download1139.mediafire.com/4432q6mcuhhg/j6169m85wbimutp/DHL+SPREADSHEET.rar
+download1229.mediafire.com/47c02i106azg/qwbxpjosu6n2oe7/PAYMENT+RELEASED.7z
+download1229.mediafire.com/6ywe4f5n6npg/qwbxpjosu6n2oe7/PAYMENT+RELEASED.7z
+download1229.mediafire.com/vejbcror1xcg/qwbxpjosu6n2oe7/PAYMENT+RELEASED.7z
 download1517.mediafire.com/bc1lueuhcs8g/ob9ljzayf7b0zm1/Black+Ops+2.zip
+download1626.mediafire.com/6d1j0iuygeug/tpvpb44txx58f7j/FACTURA+SEPTIEMBRE.7z
 download1773.mediafire.com/mkn3ex33e8ig/wvfdhin8e032uiu/INVOICE+FOR+NEW+PAYMENT+.rar
 download1773.mediafire.com/t3p0v7l5gnvg/wvfdhin8e032uiu/INVOICE+FOR+NEW+PAYMENT+.rar
 download1839.mediafire.com/907q6atok94g/z919p7d7la0s5u8/docs.xls.zip
@@ -26241,6 +26267,7 @@ download301.wanmei.com
 download5.77169.com
 download5.bossran2018.com
 download692.mediafire.com/vz9gj5h1wgmg/pbb5sd2dl2v84g9/JANUARY+INVOICE+PAYMENT.rar
+download758.mediafire.com/ryzecgyqd9rg/fzklunol7nnjnhk/factura+de_env%C3%ADo.7z
 downloaddd.cf
 downloaddd.gq
 downloadfileserver.space
@@ -27416,6 +27443,7 @@ duongmanhtuan.com
 duoscript.com
 dupihahhosote.com
 dupke.at
+dupke.at/rFQAhttp
 duplaixart.com
 duplicatemysuccess.com
 dupratconcept.com
@@ -27468,6 +27496,7 @@ dveri-kuhni64.ru
 dveri-mebel.info
 dveri-vr.ru
 dveri509.ru
+dveri509.ru/y1http
 dveriki50.ru
 dverliga.ru
 dvinyaninov.ru
@@ -27497,6 +27526,7 @@ dwtdehradun.org
 dwtioqwf.sha58.me
 dwumas-serwis.pl
 dx.198424.com
+dx.198424.com/soft1/httpdebugger.chs.zip
 dx.9ht.com
 dx.mqego.com
 dx.qqtn.com
@@ -29548,6 +29578,7 @@ evro-sad.ru
 evro-sert.ru
 evrocredit.ge
 evrohros.ru
+evrohros.ru/default/Rech/RECH/Rechnung-022-844/http://stkme.co.uk/files/Rechnung/Hilfestellung/Rechnungs-Details-Nr006299/
 evrostini.com
 evrosvjaz.ru
 evsafir.com
@@ -30102,7 +30133,7 @@ fastpacepersonaltraining.com
 fastpool.ir
 fastrackapp.es
 fastrxtransfer.com
-fastsoft.onlinedown.net
+fastsoft.onlinedown.net/down/onekeyyijianhuanyuan.exe
 fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
@@ -33634,6 +33665,7 @@ grillitrestaurant.com
 grimix.co.il
 grina-profil.ru
 grinai.com
+grindbase.pw
 grindbasez.com
 grindersswitchpark.com
 grinduarsenalas.lt
@@ -34820,6 +34852,8 @@ hervitama.co.id
 herwin.in
 herwork.org
 hes32-ctp.trendmicro.com
+hes32-ctp.trendmicro.com/wis/clicktime/v1/query?url=http%3a%2f%2fbrazenfreight.co.za%2fde%5fDE%2fRERPSNQS6194206%2fgescanntes%2dDokument%2fRECHNUNG&umid=0597875c-971d-4dbb-86d5-d91ca85d7e23&auth=d22983323af54717a7788e8f4dad6cbd2e8e39b4-7ee0da30bd8f3627d703b9cbd3a/
+hes32-ctp.trendmicro.com/wis/clicktime/v1/query?url=http%3a%2f%2fbrazenfreight.co.za%2fde%5fDE%2fRERPSNQS6194206%2fgescanntes%2dDokument%2fRECHNUNG&umid=0597875c-971d-4dbb-86d5-d91ca85d7e23&auth=d22983323af54717a7788e8f4dad6cbd2e8e39b4-7ee0da30bd8f3627d703b9cbd3a711e6700fa520/
 hesap.hawzentr.com
 hesc.ru
 hesq.co.za
@@ -35803,14 +35837,20 @@ htmlget.com
 htnieuw.hazenbergtimmerwerken.nl
 htpinvestment.com.vn
 htt.nu
-http.pc-rekcah.com
-http.zombiebears.online
+http.pc-rekcah.com/d/hs
+http.zombiebears.online/zb.exe
+http//download1229.mediafire.com/dny23644za3g/qwbxpjosu6n2oe7/PAYMENT+RELEASED.7z
+http//download1229.mediafire.com/lybrm9igf7sg/qwbxpjosu6n2oe7/PAYMENT+RELEASED.7z
+http://www.mediafire.com/file/32qxbloxsv1hufy/JUSTIFFICANTE_TRANSFERENCIA.7z/file
 https-canadapost.top/SoftIntera.exe
 https//139.99.186.18:443/1.exe
+https://download2261.mediafire.com/f5owj20azjrg/xwnll82qrp3e5zj/DENIZCILIK+KAGITLARI.7z
+https://www.mediafire.com/file/05i2pfbnrcsxtl3/Eyl%FCl_2019_i%E7in_fatura.7z/file
 https:/aliooird.us/login
 httpswindowsupdates.com/AD0V3Upd4t3.exe
-httpwindows10updatevbcustom.com
-httpyiwujiadianweixiu.xyz
+httpwindows10updatevbcustom.com/Apkwins465.exe
+httpyiwujiadianweixiu.xyz/Corporation/En/Service-Invoice
+httpyiwujiadianweixiu.xyz/Corporation/En/Service-Invoice/
 httsdomainset.ddns.net
 htxl.cn
 htz.securityart.net
@@ -36229,6 +36269,7 @@ icloudunlockexperts.com
 iclub8.hk
 icmap.org.gh
 icmcce.net
+icmcce.net/factura-recibo/http://#icollc.net/OVERDUE-ACCOUNT/HRI-Monthly-Invoice/
 icmcm.net
 icn.tectrade.bg
 ico.currencyescrow.org
@@ -36898,7 +36939,9 @@ indodentist.com
 indokku.com
 indonesiafte.com
 indonesiakompeten.com
-indonesias.me
+indonesias.me:9998/333.exe
+indonesias.me:9998/64.exe
+indonesias.me:9998/c64.exe
 indonesiaumroh.com
 indoorpublicidade.com.br
 indoqualitycleaning.com
@@ -38262,7 +38305,9 @@ jaster24h.biz
 jasvir.vhostevents.com
 jasweet.com
 jatakavedhan.com
-jatayu.id
+jatayu.id/Jul2018/En_us/DOC/Direct-Deposit-Notice/
+jatayu.id/Rechnungs-docs/
+jatayu.id/pdf/US/Client/Pay-Invoice/
 jatc.aero
 jati.gov.bd
 jaume-mestres.en-construccio.link
@@ -42667,6 +42712,7 @@ louisa-martin.com
 louise.mog422.net
 louised.dk
 louiseyclarke.com
+louiseyclarke.com/docs/cache/0b632ea269f5847062dd887187209838/http://www.louiseyclarke.com/docs/j1a6bh.php?16a8ee=paid-dating-sites-in-usa
 louisianacraneandelectrical.com
 louisianaplating.com
 louiskazan.com
@@ -43023,6 +43069,7 @@ m9c.net
 m9f.oss-cn-beijing.aliyuncs.com
 ma-masalikilhuda.sch.id
 ma-patents.com
+ma-patents.com/ocnpathttp://stesh.it/xijcjod.exen.exe
 ma-yar.com
 ma.mctv.ne.jp
 ma.owwwv.com
@@ -43783,6 +43830,7 @@ mailman.anu.edu.au
 mailorderworks.co.uk
 mailserv1551kx3.club
 mailserv85m.world
+mailserv93fd.world
 mailsoi5.gq
 mailstat55.club
 mailveri.us
@@ -43910,6 +43958,7 @@ malehequities.com
 malekii.com
 maleo.kr
 maler-eberhardt.de
+malev-bg.com
 malfreemaps.com
 malhariaflordelotus.com.br
 maliebaanloop.nl
@@ -45384,7 +45433,7 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
-miamicondoinvestments.com
+miamicondoinvestments.com/wp-admin/sec.myaccount.docs.com/
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -46238,6 +46287,7 @@ moneystudiosgh.com
 moneytechtips.com
 moneytobuyyourhome.com
 monfoodland.mn
+mongadget.com
 mongduongtpc.vn
 monglee.com
 mongtrelgo.hopto.org
@@ -46390,17 +46440,14 @@ mosbussum.nl
 moschee-wil.ch
 moscow.bulgakovmuseum.ru
 moscow00.online
-moscow1.online/GetDataAVK.exe
-moscow1.online/KeyMoscow.exe
-moscow1.online/proxy/skapoland.chickenkiller.com.exe
+moscow1.online
 moscow11.at
 moscow11.host
 moscow11.icu
 moscow33.online/KeyMoscow33.35.exe
 moscow33.online/KeyMoscow33.40.exe
 moscow33.online/proxy/assno.chickenkiller.com.exe
-moscow44.online/KeyMoscow44.35.exe
-moscow44.online/KeyMoscow44.40.exe
+moscow44.online
 moscow55.online/KeyMoscow55.35.exe
 moscow66.online/KeyMoscow55.35.exe
 moscow77.online
@@ -47930,7 +47977,7 @@ newparadise.com.vn
 newpavanchatcorner.com
 newpioneerschool.com
 newportedu.org
-newradio.it/personalplayer/rvl/rvl.exe
+newradio.it
 newreport.info
 newrockchurchconyers.org
 news-week.ru
@@ -48121,6 +48168,12 @@ nhchomeschool.org
 nhicf.net
 nhinfotech.com
 nhlavuteloholdings.co.za
+nhlavuteloholdings.co.za/wp_http/Doc18.doc
+nhlavuteloholdings.co.za/wp_http/bio.exe
+nhlavuteloholdings.co.za/wp_http/chk.exe
+nhlavuteloholdings.co.za/wp_http/ckk.exe
+nhlavuteloholdings.co.za/wp_http/hj.exe
+nhlavuteloholdings.co.za/wp_http/uzo.exe
 nhomkinhdongtien.com
 nhp-i.com
 nhpetsave.com
@@ -48192,6 +48245,7 @@ nightvision.tech
 nigtc.com
 nihaobuddy.com
 nihaoconsult.com
+nihaoconsult.com/seafhttp/files/8abbb7a9-030d-4b85-ae0b-31097a024065/IMG_0001+(1).scr
 niharindustries.com
 nihilistpost.com
 nihonsuki.korigengi.net
@@ -49423,6 +49477,7 @@ onedrive.live.com/download?cid=874313DA33B7390C&resid=874313DA33B7390C%21106&aut
 onedrive.live.com/download?cid=88F4EEA3EC82CA8E&resid=88F4EEA3EC82CA8E%21117&authkey=AOz-ms-AzoNCXiY
 onedrive.live.com/download?cid=896080F2B56FCB9C&resid=896080F2B56FCB9C%21105&authkey=AAthDXz2aWw0jkM
 onedrive.live.com/download?cid=89C7621D5AF3E686&resid=89C7621D5AF3E686%21156&authkey=AIE_I1P6NCq3ark
+onedrive.live.com/download?cid=89C7621D5AF3E686&resid=89C7621D5AF3E686%21158&authkey=AKJLfUSMZODca9Y
 onedrive.live.com/download?cid=89C7621D5AF3E686&resid=89C7621D5AF3E686%21162&authkey=AM_bDlEZhyEDrpY
 onedrive.live.com/download?cid=8AD327FEA0288842&resid=8AD327FEA0288842%21476&authkey=ACo-GUvKHDyJL-o
 onedrive.live.com/download?cid=8C475D0E0CBF5CB6&resid=8C475D0E0CBF5CB6!137&authkey=AFelDd8VMsO1wSU
@@ -49499,6 +49554,7 @@ onedrive.live.com/download?cid=F1473D1AD777998C&resid=F1473D1AD777998C%21737&aut
 onedrive.live.com/download?cid=F18B18C4669022A1&resid=F18B18C4669022A1%21120&authkey=AC1B_PMepLhlihk
 onedrive.live.com/download?cid=F19900734F18B6F1&resid=F19900734F18B6F1%21203&authkey=ALjx_4LjjmKI1aw
 onedrive.live.com/download?cid=F3BA03FF9BD7183E&resid=F3BA03FF9BD7183E%21137&authkey=ADKzncNbdhev0XI
+onedrive.live.com/download?cid=F494FCEFF7E16536&resid=F494FCEFF7E16536%21120&authkey=AFR1E2MB7sf9Y2E
 onedrive.live.com/download?cid=F7D3319EB4E00F92&resid=F7D3319EB4E00F92%21120&authkey=APV8gIMOzw2-JRA
 onedrive.live.com/download?cid=FC7BC68455AEA781&resid=FC7BC68455AEA781%21109&authkey=AG9VQDCdVrVebZk
 onedrive.live.com/download?cid=FCF97169EAFE6C08&resid=FCF97169EAFE6C08%21106&authkey=AAvv7fSo_R5abGQ
@@ -49694,6 +49750,7 @@ opora-company.ru
 oportunidadpc.com
 oppa-casino.com
 oppmujeresmich.org
+oppofile.duckdns.org
 opportunitiesontheweb.tk
 opportunity.aiesec.hk
 oprecht-advies.nl
@@ -50389,7 +50446,7 @@ paradoxsolutionsservices.com
 parafia.kaszczorek.com
 parafinadomicilio.cl
 paragptfe.com
-parahttp.tk
+parahttp.tk/payload.exe
 paraisokids.com.mx
 parakazani.net
 parallaxinsights.com
@@ -51409,6 +51466,10 @@ pinturaartisticas.com
 pinturasdeguerra.com
 pioneerelectrical.co.uk
 pioneerfitting.com
+pioneerfitting.com/http/amb001.exe
+pioneerfitting.com/http/asok.exe
+pioneerfitting.com/http/asok2.exe
+pioneerfitting.com/http/crypted.exe
 pioneerfittings.com
 pioneerhometution.com
 pioneeroil.net
@@ -51975,6 +52036,7 @@ potrethukum.com
 potterspots.com
 potuansdqwbe.com
 poultry.com.ng
+poultry.com.ng/6008320X/WIRE/Businesshttp://floridabassconnection.xpartsols.com/INFO/US/0-Past-Due-Invoices/
 pouring.ac.ug
 pourvoiriekakuskanus.com
 pousadabrasilcp.com.br
@@ -52262,6 +52324,7 @@ prismware.ml
 prithvigroup.net
 pritsep56.ru
 privacydesignstudio.com
+privacymails.space
 privacytools.life
 privacytools.site
 privat-cyprian.sk
@@ -52584,6 +52647,8 @@ protect2.fireeye.com/url?k=f5b74bdbc664847a.f5b76c6f-804cbd36101ba80b&u=http://f
 protectiadatelor.biz
 protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 protection.retarus.com
+protection.retarus.com/v1?u=http%3A%2F%2Flegits.net%2FDE_de%2FGIIKIZE3061893%2FRechnungskorrektur%2FRECHNUNG&c=3ilYjYY&r=7ZhBifMLeZHn85L8J4oL3g&k=7s1&s=Rdtav3L3f2isDv4KmhWjT4DJcSKbJ5IukNPt5sAQGAl/
+protection.retarus.com/v1?u=http%3A%2F%2Fstekols.ru%2FWgLKKAQ8uOkMRD&c=4FZ5KW0&r=6LgdlKfBiNk86LoqCLvG9w&k=7s1&s=8TLWvhIzcO7a7w19H9Mp5Pz3AXMItoxTAwmyHCimtHx/
 protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 protection1llc-my.sharepoint.com
 proteger.at
@@ -54190,7 +54255,7 @@ res-energo.com
 res.entercenter.net
 res.qaqgame.cn
 res.uf1.cn
-res.yeshen.com
+res.yeshen.com/player/launch/2017/09/12/da5f9a1c23034353852750488feeaf36.exe
 res11.bignox.com/player/tools/201804/407c0ce1a3b0432e91d07b3a55c6613e.exe
 res11.bignox.com/player/tools/201804/5f3cc3d06f5b4d6b92f33fdef4172d41.exe
 res11.bignox.com/player/tools/201804/69b3de2b75d547b4aac9e47d874ef805.exe
@@ -54777,7 +54842,7 @@ rome-apartments-it.com
 romediamondlotusq2.net
 romeosretail-my.sharepoint.com
 romeoz.com
-romidavis.com/services/platform.php2
+romidavis.com
 rommerskirchen.sg
 romodin.com
 romualdgallofre.com
@@ -54800,7 +54865,8 @@ rontonsoup.com
 ronyrenon.com
 roode.net
 rooftechconstruction.com
-roostercastle.servehttp.com
+roostercastle.servehttp.com/SjD.exe
+roostercastle.servehttp.com/SjD.exe?sid=pb9hjY
 root-project.ru
 rootaxx.org
 rootcellar.us
@@ -55971,8 +56037,7 @@ saturday-school.org
 satutitik.com
 satyam.cl
 satyammetals.com
-satysservs.com/setup6-156.exe
-satysservs.com/setup6-158.exe
+satysservs.com
 sauceismoney.com
 saudaveldemais.com
 saudenatural.ml
@@ -56709,6 +56774,7 @@ series60.cba.pl
 seriousvanity.com
 seritarghe.novi.it
 serkanaygin.com
+serkanaygin.com/Paid-Invoice/paid/http://123xyz.xyz/Mar-19-04-48-04/Express-Domestic/
 serloquequieras.pinamar.gob.ar
 sernet.com.ar
 seroja.kotabatu.net
@@ -57608,10 +57674,7 @@ simrahsoftware.com
 simrans.sg
 simstal.kiwi
 simurgkusyuvasi.org
-sinacloud.net/yun2016/Bwin732d.rar
-sinacloud.net/yun2016/GomLibrary.rar
-sinacloud.net/yun2016/PrsProt32.rar
-sinacloud.net/yun2016/pl25120.rar
+sinacloud.net
 sinagogart.org
 sinakhoessentials.co.za
 sinaldigital.com
@@ -58357,6 +58420,13 @@ softsinn-trading.info
 softspotitservices.com
 softtest.lsp.goozmo.com
 software.goop.co.il
+software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=%D7%9E%D7%A7%D7%9C%D7%93%D7%AA%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA%20%D7%9E%D7%A9%D7%95%D7%A4%D7%A8%D7%AA&ctid=ct282718&url=http%3A%2F%2Fwww.tau.ac.il%2F~stoledo%2FTools%2FKeyboards%2FSivanToledoHebrewKeyboardLayout10.exe
+software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=Act%20of%20War:%20Direct%20Action&ctid=ct282718&url=http%3A%2F%2Fsoftwarex-files.download.com%2Fgames%2Fd3%2Fgsc%2Fstrategy%2Factofwardirectaction%2FAOW_DEMO_EURO.EXE
+software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=Ages%20-%20Family%20Tree%20Database&ctid=ct282718&url=http%3A%2F%2Fwww.daubnet.com%2Fftp%2Fages.exe
+software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=ICQ&ctid=ct282718&url=http%3a%2f%2fftp.icq.com%2fpub%2fICQ7%2finstall_icq7.exe
+software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=ICQ&ctid=ct282718&url=http://ftp.icq.com/pub/ICQ7/install_icq7.exe
+software.goop.co.il/aspsrc/v2.aspx?locale=he&swname=actofwar:directaction&ctid=ct282718&url=http:/softwarex-files.download.com/games/d3/gsc/strategy/actofwardirectaction/aow_demo_euro.exe
+software.goop.co.il/aspsrc/v2.aspx?locale=he&swname=ages%20-%20family%20tree%20database&ctid=ct282718&url=http:/www.daubnet.com/ftp/ages.exe
 software.rasekhoon.net
 software.sathome.org
 softwareandproductsfordownload.s3.amazonaws.com/WCP%202014%20FBC%20%20(version%205%C2%B71)%20%2016-Jul-2015.exe
@@ -59295,6 +59365,7 @@ statewidehomesavings.com
 statexadver3552mn12.club
 static-4matic.club
 static.21.101.69.159.clients.your-server.de
+static.21.101.69.159.clients.your-server.de/find/fa59c682e6df1f50b1beb48d3a1001b6/result-550604149.dl?source=direct&return_url=http%3A%2F%2Fwww.getgosoft.com%2Fgetgodm%2Fthankyou
 static.3001.net
 static.43.47.69.159.clients.your-server.de
 static.76.102.69.159.clients.your-server.de
@@ -61439,6 +61510,7 @@ suacuanhua.com
 suadienlanhthaibinh.net
 suahoradeaprender.com.br
 suakhoaotovinhphuc.com
+suakhoaotovinhphuc.com/doc/US_us/Client/Invoice-6790678/http://www.dropshipthai.com/cache/files/En_us/Purchase/Auditor-of-State-Notification-of-EFT-Deposit/
 suaku.com
 suamaygiatduchung.com
 suanhangay.com
@@ -61914,6 +61986,11 @@ sweetturningfirm.work
 sweillem.000webhostapp.com
 swendsen.org
 swernicke.de
+swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/%3Chttp://swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/
+swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/%3Chttp:/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/
+swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/<http://swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/
+swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/<http:/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/
+swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/<http:/swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/
 swghaem.ir
 swgtalents.com
 swhive.com
@@ -65798,6 +65875,7 @@ uhrc.co.uk
 uhttravel.com
 uhuii.com
 ui.threatstream.com
+ui.threatstream.com/detail/http://sixsigma-accreditation.org/wp-includes/id3/pik.zip
 uia2020rio.archi
 uicphipsi.com
 uidp.org
@@ -66133,6 +66211,7 @@ update.hoiucvl.com
 update.igra123.com
 update.jirisancapital.com
 update.joinbr.com
+update.joinbr.com/LMUpdate/BRmhttp.exe
 update.kuai-go.com
 update.link66.cn
 update.my.99.com
@@ -66150,7 +66229,7 @@ update.yoprogramolatino.com
 update.zbs.su
 update24.ch
 update365office.com
-update6.satysservs.com/updateto165-1.dat
+update6.satysservs.com
 updateadovesettings.io
 updateguru.xyz
 updateoffileshares.cf
