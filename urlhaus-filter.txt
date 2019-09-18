@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 17 Sep 2019 12:22:28 UTC
+! Updated: Wed, 18 Sep 2019 00:22:37 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -715,6 +715,7 @@
 108.177.235.71
 108.185.253.146
 108.190.193.1
+108.190.31.236
 108.21.209.33
 108.220.3.201
 108.30.95.28
@@ -1838,6 +1839,7 @@
 140.224.61.122
 140.227.27.252
 140.82.24.184
+140.82.3.31
 140.82.33.56
 140.82.37.11
 140.82.43.95
@@ -3347,6 +3349,7 @@
 16morningdoveestate.com
 17-kyani-cloud.codehelper.com
 17.bd-pcgame.xiazai24.com
+170.78.97.170
 170.83.209.223
 170spadinacondo.com
 171.113.39.223
@@ -3362,6 +3365,7 @@
 171.245.38.79
 171.249.42.60
 171.251.163.150
+171.255.232.195
 171.38.147.237
 171.38.150.165
 171.61.9.183
@@ -4368,6 +4372,7 @@
 185.203.119.10
 185.203.119.13
 185.203.119.211
+185.203.236.46
 185.205.210.160
 185.205.210.210
 185.206.145.171
@@ -4658,6 +4663,8 @@
 185.25.50.201
 185.25.51.133
 185.250.240.234
+185.250.240.236
+185.250.240.237
 185.250.240.84
 185.251.38.122
 185.251.38.208
@@ -4818,6 +4825,7 @@
 187.173.142.150
 187.175.42.227
 187.193.79.62
+187.195.33.81
 187.198.214.16
 187.199.77.77
 187.2.17.29
@@ -5669,7 +5677,7 @@
 1roof.ltd.uk
 1sana1bana.estepeta.com.tr
 1sandiegohomesales.com
-1satcom.com/wp-content/themes/twentysixteen/css/kia.zip
+1satcom.com
 1sbs.unb.br
 1serp.ru
 1sfdhlkl.gq
@@ -6826,6 +6834,7 @@
 23.254.132.59
 23.254.134.119
 23.254.138.248
+23.254.161.249
 23.254.164.66
 23.254.165.208
 23.254.167.143
@@ -7192,6 +7201,7 @@
 31.41.47.190
 31.43.224.218
 31.44.184.33
+31.45.196.86
 31.46.168.98
 31.6.70.84
 31.7.147.73
@@ -8922,6 +8932,7 @@
 59.90.247.38
 59.95.148.105
 59.98.44.226
+59055.cn
 59prof.ru
 5amers.com.au
 5buckplugin.com
@@ -10188,13 +10199,7 @@
 887.basinbultenigonderimi.com
 887sconline.com
 888fx.pro
-88b.me/R/SURIA.arm
-88b.me/R/SURIA.arm5
-88b.me/R/SURIA.mips
-88b.me/dlk/upg/bf.mips
-88b.me/nbt/bf.arm
-88b.me/nbt/bf.mips
-88b.me/nbt/bf.mipsel
+88b.me
 88four8.com
 88fpw.com
 88hardwood.com
@@ -10834,15 +10839,7 @@ a.safe.moe
 a.turnuvam.org
 a.uchi.moe
 a.uguu.se
-a.xiazai163.com/DOWN/AT180DLL_ITMOP.COM.ZIP
-a.xiazai163.com/DOWN/RUOKUAIDAMA_ITMOP.COM.ZIP
-a.xiazai163.com/down/chuangyiQQliaotianjiluchakanqi_itmop.com.zip
-a.xiazai163.com/down/cyspysrj_itmop.com.zip
-a.xiazai163.com/down/ghojingxianganzhuangqiwin10_itmop.com.zip
-a.xiazai163.com/down/jishiyuqidongqi_itmop.com.zip
-a.xiazai163.com/down/jushengwangguan_pj_itmop.com.zip
-a.xiazai163.com/down/qqqzsprj2017_itmop.com.zip
-a.xiazai163.com/down/quickunpack_itmop.com.zip
+a.xiazai163.com
 a.xsvip.vip
 a0.kl.com.ua
 a0238592.xsph.ru
@@ -10965,7 +10962,7 @@ aapr.org.au
 aardathdelivery.co.zw
 aardvark-world.org.uk
 aarifhospitals.com
-aarsen.us/websites/o.exe
+aarsen.us
 aartinc.net
 aartista.com.br
 aaryanlab.com
@@ -11467,7 +11464,12 @@ adasnature.rodevdesign.com
 adastrawll.gq
 adax.us
 aday.haberkorfez.com
-adazing.com
+adazing.com/DHL-number/En/
+adazing.com/DOC/EHM76459484042P/525428/HQLA-OUAEH
+adazing.com/DOC/EHM76459484042P/525428/HQLA-OUAEH/
+adazing.com/Vos-factures-impayees/
+adazing.com/files/En_us/Jul2018/Invoice-469685754-072318/
+adazing.com/xebgo7d/
 adbee.tk
 adbord.com
 adcanudosnh.com.br
@@ -12179,6 +12181,7 @@ airmasterbh.com
 airmaxx.rs
 airmec.com.tr
 airmod.com.br
+airnetinfotech.com
 airportexecutiveservice.com
 airportgeek.com
 airporttaxigdansk.pl
@@ -12207,6 +12210,7 @@ aitechr.migallery.com
 aitelong.top
 aitkenspence.com
 aiupwa.com
+aivaelectric.com
 aivnews.com
 aiwaviagens.com
 aiwei-evy.cn
@@ -12456,6 +12460,7 @@ albertacareers.com
 albertandyork.com
 albertgrafica.com.br
 albertiglesias.net
+albertmarashistudio.com
 albertomerello.com
 albertorigoni.com
 albertparktabletennis.com.au
@@ -12543,7 +12548,7 @@ alexfranco.co
 alexgarkavenko.com
 alexhhh.chat.ru
 alexis.monville.com
-alexlema.com/css/a1/Mail_Access_Logs.doc
+alexlema.com
 alexm.co.za
 alexovicsattila.com
 alexpopow.com
@@ -12693,6 +12698,7 @@ alkamaria.net
 alkareemco.com
 alkautharpulaupinang.com
 alkazan.ru
+alkemyteam.com
 alkhajah.ae
 alkhalilgraphics.com
 alkhashen.com
@@ -13233,7 +13239,7 @@ amnholidays.com
 amnisopes.com
 amniyatgostariranian.ir
 amnrelease.com
-amnsreiuojy.ru/t.exe
+amnsreiuojy.ru
 amnsw.com.au
 amnsw.prospareparts.com.au
 amnsw.prosparepartscom.au
@@ -13525,6 +13531,7 @@ anitafoam.com
 anixter.cf
 anizoo.site
 anja.nu
+anjalihome.org
 anjaneya.extracss.com
 anjia8.net
 anjomanisargaran.ir
@@ -14215,7 +14222,7 @@ arigbabuwogalleria.com
 arihantchemcorp.com
 ariko.vn
 arimmo.ch
-arimonza.it/wp-admin/js/V8805692810U6201579.zip
+arimonza.it
 arina.jsin.ru
 arinidentalcare.com
 arinndembo.com
@@ -14243,6 +14250,7 @@ arjgrafik.pl
 arjundhingra.com
 arkadasboya.com
 arkajosh.com
+arkamp.ir
 arkan.cv.ua
 arkanddove.com
 arkapub.com
@@ -15051,7 +15059,9 @@ aurokids.ru
 auronet.cl
 aurora.nl
 auroracommunitycare.com
-auroradx.com
+auroradx.com/adxwp/wp-content/backups-dup-pro/tmp/msg.jpg
+auroradx.com/adxwp/wp-content/backups-dup-pro/tmp/pikz.zip
+auroradx.com/adxwp/wp-content/backups-dup-pro/tmp/stroi-industr.zip
 aurorahurricane.net.au
 auroratd.com
 aurrealisgroup.com
@@ -15129,7 +15139,7 @@ autodavid.hr
 autodetali-161.ru
 autodevices.topterra.ru
 autodrim.pl
-autodwg.com
+autodwg.com/download/dwfinpro.exe
 autoecole-hammamet.tn
 autoecole.inchtechs.com
 autoescuelacontreras.es
@@ -15864,6 +15874,7 @@ bangkoktailor.biz
 bangkokyouthcenter.com
 bangladeshfashionologysummit.com
 banglaixe.vn
+banglanews-24.com
 banglanews24x7.com
 banglanewstime.com
 banglarsiksha.in
@@ -15990,6 +16001,7 @@ barilsiciliano.it
 baristabros.com
 baristabrothers.com.au
 baristas.com.tr
+baristaxpress.co.nz
 barjockeysclub.com
 barjudo.com
 barocatch.com
@@ -16982,7 +16994,7 @@ biederman.net
 biegtkaczy.cba.pl
 bielden.net
 bienangel.com
-bienbaogiaothong.top/wp-admin/sec.accs.resourses.com/
+bienbaogiaothong.top
 biengrandir37.com
 bienhaitien.com
 bienhieutrongnha.com
@@ -17855,6 +17867,7 @@ blog.serviceheroes.com
 blog.shiwkesh.tk
 blog.sigma-solutions.vn
 blog.siteone.cz
+blog.skinncells.com
 blog.snailwhite.vn
 blog.soumensageiro.com
 blog.sp8tjk.y0.pl
@@ -17902,7 +17915,7 @@ blogdautu.vn
 blogdovarejo.campanhamartins.com.br
 blogentry.cf
 blogforgamer.com
-blogformacionpchj.inces.gob.ve
+blogformacionpchj.inces.gob.ve/inicio/sendincsec/legal/sec/En_en/2019-03/
 blogforprofits.com
 blogg.postvaxel.se
 blogg.website
@@ -17915,7 +17928,7 @@ blogkarir.com
 blogkienthuc.org
 blogline.net
 blogmason.mixh.jp
-blogmiranda.inces.gob.ve
+blogmiranda.inces.gob.ve/zzsm-qqz8fm-fhtu.view/
 blogmydaily.com
 blognhakhoa.vn
 blogprinter.net
@@ -18005,7 +18018,7 @@ bluenetchartering.cf
 blueombrehairstyle.site
 blueorangegroup.pl
 bluepalm.tech
-blueprints.dk/wp-content/ava7u-ne6jnv-vrfieb/
+blueprints.dk
 bluepuma.at
 blues.org.il
 bluesaloon.com
@@ -18492,8 +18505,7 @@ brandxplore.com
 brandywinematerials.com
 braner.com.ua
 branfinancial.com
-branner-chile.com/wp-admin/s5045m4kdv2yxwdez6m21k7oq5xe_smdxp-8989005213940/
-branner-chile.com/wp-content/uploads/2018/02/log.txt
+branner-chile.com
 brannudd.com
 brantech.com
 brar.aminfortgreene.com
@@ -18987,6 +18999,7 @@ busybhive.com
 busycows.ca
 busylineshipping.com
 busymomslifecoach.com
+butchscorpion.com
 buterin-mudachina.fun
 butgoviet.com
 buthimisrael.ru
@@ -21372,8 +21385,7 @@ cloudflarrr.ml
 cloudhaste.com
 cloudhooks.com
 clouding-world.online
-cloudme.com/v1/ws2/:dr404/:22cted/22cted.exe
-cloudme.com/v1/ws2/:dr404/:MicrosoftOffice/MicrosoftOffice.exe
+cloudme.com
 cloudninedesign.com.au
 cloudphotos.party
 cloudresemblao.top
@@ -21628,6 +21640,7 @@ coinspottechrem.net
 coinspottechrem.ru
 coiptpyv.net.pl
 cokhicongnghe.com
+cokhitangiabao.vn
 cokhivantiendung.com
 col.cstar.com.co
 colbydix.com
@@ -22460,7 +22473,7 @@ creaception.com
 creactive.ch
 creagrafica.com.ve
 cream-no1.com
-creamistryfranchise.com/5vAfyDtA
+creamistryfranchise.com
 creapackthai.com
 crearquitectos.es
 creartspublicidad.com
@@ -23534,7 +23547,7 @@ dbalive.dk
 dbcomestic.com
 dbfuppsala.se
 dbinario.com
-dbo.ca.gov
+dbo.ca.gov/forms/tma/callreport_forms/Call_Report_NonNMLS_2018-04-17.xls
 dboyusa.online
 dbravo.pro
 dbs-ebank.com
@@ -23612,7 +23625,7 @@ dd-fsa.dk
 dd-installationen.com
 dd.cloudappconfig.com
 dd.loop.coop
-dd.smaxdn.com/2018-11-23_com.xxzj.calculator_22.apk
+dd.smaxdn.com
 dda.co.ir
 ddaynew.5demo.xyz
 ddbuilding.com
@@ -24013,6 +24026,7 @@ demo4.inspectormarketing365.com
 demo5.gdlogic.gr
 demo7.maybay.net
 demo7.mon-application.com
+democuk.tk
 demoevents.criticalskillsboost.com
 demofinance.binghana.com
 demojasdev.com-demo.site
@@ -25044,7 +25058,7 @@ djlilmic.com
 djmarket.co.uk
 djment.com
 djohnsonfamily.co.uk
-djpartycompany.gr/components/com_mailto/gc/dnno.exe
+djpartycompany.gr
 djpiwa.net
 djreservations.com
 djsbejaia.com
@@ -26146,7 +26160,7 @@ dominusrex.fr
 domm.ru
 domodep.com
 domotextil.ru
-domoticavic.com/itau/u5a41/
+domoticavic.com
 dompodjaworem.pl
 dompogrzebowysandomierz.pl
 domproekt56.ru
@@ -26219,7 +26233,7 @@ door-craft.ru
 door-ma.com
 doordam.co.uk
 doordroppers.co.uk
-doordu.com/Jul2018/En/INVOICE-STATUS/Invoices/
+doordu.com
 doorlife.co.in
 doorspro.ie
 doosian.com
@@ -26324,8 +26338,7 @@ down.haote.com
 down.hognoob.se
 down.icafe8.com
 down.klldddiso.xyz
-down.kuwo.cn/KwLyric.exe
-down.kuwo.cn/mbox/wwwab/MBOX8.0.1.5/kuwo2015.exe
+down.kuwo.cn
 down.leyoucoc.cn
 down.my0115.ru
 down.pcclear.com
@@ -26372,6 +26385,7 @@ down7.downyouxi.com
 down7.hgkjb.top
 down8.downyouxi.com
 downardstudios.com
+downcdn.xianshuabao.com
 downcleardown.xyz
 downeastskiclub.com
 downfile2019.com
@@ -26471,6 +26485,7 @@ doxa.ca
 doyoto.com
 doyoucq.com
 doyoulovequotes.com
+dp4kb.magelangkota.go.id
 dp5a.surabaya.go.id
 dpa-industries.com
 dpa.atos-nao.net/Download/ACSDPA.exe
@@ -27756,27 +27771,7 @@ dwodjwqwjdqijd.tapdevtesting.xyz
 dwonload.frrykt.cn
 dwonload.sz-qudou.net
 dworkociolek.pl
-dwpacket.com/75/playerp.exe
-dwpacket.com/bsdlzch/playerp2.0.exe
-dwpacket.com/bsyyzqc/playerp2.0.exe
-dwpacket.com/cwzxs/playerp2.0.exe
-dwpacket.com/gxfcoy
-dwpacket.com/gxfcoy/playerp2.0.exe
-dwpacket.com/hdgjscz
-dwpacket.com/hdgjscz/playerp2.0.exe
-dwpacket.com/hdsng
-dwpacket.com/hdsng/playerp2.0.exe
-dwpacket.com/hhyqbff/playerp2.0.exe
-dwpacket.com/jqhcjssz/playerp2.0.exe
-dwpacket.com/ozsmd/playerp2.0.exe
-dwpacket.com/payerp2.0.exe
-dwpacket.com/playerp.exe
-dwpacket.com/playerp2.0.exe
-dwpacket.com/qhbsyys/playerp2.0.exe
-dwpacket.com/yhzjxxc
-dwpacket.com/yhzjxxc/playerp2.0.exe
-dwpacket.com/zvjyemx
-dwpacket.com/zvjyemx/playerp2.0.exe
+dwpacket.com
 dwpwebsites.com
 dwsobi.qhigh.com
 dwtdehradun.org
@@ -27845,6 +27840,7 @@ dyara.com.ar
 dyarmisr.com
 dyefusion.lesetoilesdelarive.ca
 dyergrimesarchitects.co.uk
+dyingtoachieve.com
 dylanfabrics.com
 dymoetiketler.com
 dyna-medical.be
@@ -28118,7 +28114,7 @@ ec2-35-180-41-210.eu-west-3.compute.amazonaws.com
 ec2-52-14-10-150.us-east-2.compute.amazonaws.com
 ec2-52-27-72-148.us-west-2.compute.amazonaws.com
 ec2-54-212-231-68.us-west-2.compute.amazonaws.com
-ec2euc1.boxcloud.com
+ec2euc1.boxcloud.com/d/1/a1!1V6vIBwx7vlie5y8Jj5xM5IPOc9JdxZE8ck08Lu22jdQvqu0y23HLeDgazmXQbcUkHLgG95jBFv9p6E7N10-Td4omXyXfERhnGbpIk8IdEwOo81uTBHMYgy4yzT8Uxvxi_DNrwZVwtLndrqwk6HOtXFFG8JKPJ8-j3bYBRD7YW7N9nYzemOQEELVbjTHue6WA3yUOZgGYESvvG1o6919_NqqHATm_0MamPN9-_JTXF4S-ugI1s9il7i1vZ-euwgQoqgFeY5oJDW8thvVONRQk07JCvnmdWQnXX73l0ZvLypUuE7zJXsUcD5NGxrgNlrokmgqML3GqmVtClNBzsPt-4hCnBYbE8GFKG2PSUVv1AQ_OMqRi7_JBjnODN0K3rmScVbIHzzjAg_jacJ95hxys2NQU5-AVFI3mCsbyKrGcfCd0f0UbMxY8_U-adP_am2uYu7WJbTLhRMdeyA-WVab9_d_rsbZN6qHboBnfb-ijaBnqE8ynoZtVmMJ5-48vxc-GIMYW84qv5VvoeWLfUAZz6lHAWnqlSEHdOKo20T5TSGdq-iXNr9uPyrvqgkqG9HpKX37RCFRIzCH7msfmQqHgbz-2KEPa7CUiSQ2u8z21psh44KaSLVzJjCKzBjxAazONNQpIcsCJypBbx8vqrtOK7QhiX5gNJMoFxJGHI8DnZCDRVrzwWF9qowDQZmQle38iYkWPK_43qARZCYv53ECgLSEvFzIyq5bqgSCnvLv9YPI3DLNhkLmIJhb_-nAl1ma_y7HAzsqeQkS-c-_2pPORVY4faBAA7pPnt7cjI5VSu1JcFdQk3Xg_VoORZHo8QzmeLylrsDdbg1k4RBZK7hHQwN_sBr0owykFHvOvjqZq1lssaNL7N3SJBH_aDgRGglq2ojvYqSkLvLnet4-3Dr8qnksAAPhKHmfzagGXFfHkIuKs7n6dth09683x8T1Ape47jO8A3dU24WyvOlAHWXR0I91CZHB9fpHq2_qBHC66Ww4PYnR2KVcLrAjdII50jaO1znPE0nbdTQDqc9C4DLAdDWTrfnH-1lYwNfvm1SzR-FKy7qTF9ySduT3htYPFTCW-zwftT5YxvXPff6-XXCD599Rg8Fr2-INWCed5F8d3vC_lU3sy9p_-MfnSP_uRjY0F9rCy3LnSGb_
 ecadigital.com
 ecampus.mk
 ecasas.com.co
@@ -28327,7 +28323,7 @@ eduhac.com
 edupath.edu.sa
 edurotations.com
 eduscore.org
-eduspiresolutions.org
+eduspiresolutions.org/94-891753-84184-638-ID.zip
 eduswiss.com
 eduvisionplus.ttstaging.com
 edv-salz.de
@@ -28508,6 +28504,7 @@ ekaterinagritsan.ru
 ekaterue.bget.ru
 ekcasaute.ca
 ekcconstruction.com.au
+ekerisiltihaliyikama.com
 ekimkayadropshipping.com
 ekimkayadropshippingcom
 ekinsaat.com
@@ -28525,6 +28522,7 @@ ekolab.by
 ekolaser.ru
 ekolog.org
 ekomaiko.cl
+ekonkarserai.com
 ekonomnye-perevozki.ru
 ekooluxpersonals.com
 ekopravo.kiev.ua
@@ -29588,7 +29586,7 @@ ethclick.live
 ethclicks.live
 ethdigitalcampus.com
 ethecae.com
-ethecal.com/wp-admin/sites/pyl6j5aah_eottjcf-539345791934398/
+ethecal.com
 etherbound.org
 etherealms.com
 ethereumcashpr0.com
@@ -30767,7 +30765,8 @@ file.botvonline.com
 file.buttsdki.ca
 file.co.uk.cjllcmonthlysub.ga
 file.fm
-file.foxitreader.cn
+file.foxitreader.cn/file/Channel/PDFShrink/PDFShrinkSetup.exe
+file.foxitreader.cn/www_file/PDFShrinkSetup.exe
 file.importantcover.uk
 file.lauasinh.com
 file.mayter.cn
@@ -30842,7 +30841,10 @@ files.fm/pa/accts/Payroll/Cash_Disbursement_Report_Sept.doc
 files.fm/pa/accts/Payroll/Grace091155.exe
 files.fm/pa/accts/Payroll/OfficeViewer.exe
 files.fqapps.com
-files.gathercdn.com
+files.gathercdn.com/attachments/2018-09-07/01ffb03a-b2e4-4721-b5d7-e1c33addb301/YXR_QO_3324291_931552353_09_07_2018.doc
+files.gathercdn.com/attachments/2018-09-17/b6e5fbf0-7d1d-4ef6-8ba7-9e3e9a54e89d/AMS_GT_397%252FSFULF540938199_09_17_2018.doc
+files.gathercdn.com/attachments/2018-09-18/c3376b01-0c2f-414b-b1eb-169358a27a71/AVE_B_694_WJXJU5696931361_09_18_2018.doc
+files.gathercdn.com/attachments/2018-10-29/c05da777-1c47-4498-9c81-53470af9642e/Kowa.doc
 files.hrloo.com
 files.l-d.tech
 files.lashawnbarber.com
@@ -32247,7 +32249,7 @@ gaertl.com
 gaetanascucinaitaliananyc.com
 gafgfagf.co.vu
 gafrontke.de
-gagandevelopers.com/uyea_KEUXr-OCipjWa/IKq/Clients/01_19/
+gagandevelopers.com
 gagat.am
 gagsm.com
 gahagandds.com
@@ -32746,7 +32748,7 @@ geo-sign.com
 geo-teplo.site
 geoartbrasil.com
 geobrand.co.jp
-geocities.co.jp/HeartLand-Kaede/2774/winduke.zip
+geocities.co.jp
 geoclean.cl
 geoclimachillers.com
 geocoal.co.za
@@ -33071,6 +33073,7 @@ gionghatvietnhi.club
 gioo.co
 giophoto.com
 giovanigioiellieriditalia.it
+giovannadurso.com
 giovanni1313.5gbfree.com
 gipertonia.site
 gipl.website
@@ -33204,7 +33207,8 @@ glfca.org
 glfishsuppliesgrimsby.co.uk
 glid.jp
 gligoricekofood.com
-glip-vault-1.s3-accelerate.amazonaws.com
+glip-vault-1.s3-accelerate.amazonaws.com/web/customer_files/1018812956684/IMAGE_020110333001001.zip?Expires=2075494478&AWSAccessKeyId=AKIAJROPQDFTIHBTLJJQ&Signature=YzxiWz8qYEyE%2FcRW%2FMpzw%2FoMHDg%3D&response-content-disposition=attachment
+glip-vault-1.s3-accelerate.amazonaws.com/web/customer_files/1019027505164/Outstanding%20Payment%20Copy.zip?Expires=2075494478&AWSAccessKeyId=AKIAJROPQDFTIHBTLJJQ&Signature=7tH4mckzx%2FeV0H5QoM7Yn5hJtuE%3D&response-content-disposition=attachment
 glip-vault-1.s3.amazonaws.com/web/customer_files/720950280204/ACH%20PAYMENT%20REMITTANCE.DOC.zip?Expires=2075494478&AWSAccessKeyId=AKIAJROPQDFTIHBTLJJQ&Signature=APQeJXVXqVwwtpv%2FU8BoHV3zWNs%3D&response-content-disposition=attachment
 glip-vault-1.s3.amazonaws.com/web/customer_files/720950280204/ACH%20PAYMENT%20REMITTANCE.DOC.zip?Expires=2075494478&AWSAccessKeyId=AKIAJROPQDFTIHBTLJJQ&Signature=APQeJXVXqVwwtpv/U8BoHV3zWNs=&response-content-disposition=attachment
 glitzygal.net
@@ -33255,6 +33259,7 @@ globalnewsheadline.com
 globalonetraininggroup.com
 globalpaperroll.com
 globalpassionentertainment.com
+globalpaymentportal.co
 globalreachadvertising.com
 globalrecordsblue.tk
 globalrecruitmentconsultants.premiumbeautyhair.com
@@ -33355,7 +33360,7 @@ go.pardot.com/l/690863/2019-08-06/39y42/690863/30073/ShippingLabelFor.zip
 go.pardot.com/l/690863/2019-08-06/39ydv/690863/30081/Label_Updated.zip
 go.pardot.com/l/94872/2019-08-05/3lm51n/94872/208025/print_label.zip
 go.sharewilly.de
-go.xsuad.com/2019-06-12_com.jjgege.camera3_2.apk
+go.xsuad.com
 go2035.ru
 go2l.ink
 goa.rocks
@@ -34042,7 +34047,7 @@ grupoiesp.tk
 grupoinalen.com
 grupoinfonet.com
 grupojg.com.br
-grupolainmaculada.com/Oct2018/En/ACH-form
+grupolainmaculada.com
 grupolaplace.com.br
 grupoloang.com
 grupolorena.com.sv
@@ -35074,7 +35079,7 @@ hennpress.de
 henrijacobs.nl
 henrique.solutions
 henrylandgrebe.com
-henrymattern.com/companion/workplace.php2
+henrymattern.com
 henterprise.bythewaymart.com
 hep.dk
 hepfilmizle.net
@@ -35795,7 +35800,7 @@ honeyman.ca
 honeymanhomes.co.uk
 honeymoon-egypt.com
 honeymoonlady.com
-honeynet.org/sites/default/files/files/1309361194_eschweiler_forensic_challenge_8.zip
+honeynet.org
 honeywax.ir
 hongcheng.org.hk
 hongkongrestaurant.com.au
@@ -35844,6 +35849,7 @@ hora.today
 horadecocinar.com
 horcharoen.com
 horizon2akeris.fr
+horizonfunerals.com.au
 horizont.az
 horizonth.com
 hormati.com
@@ -37184,7 +37190,7 @@ incasesafety.com
 incelticitayt.site
 inceptioneng.com
 inceptionradio.planetparanormal.com
-inces.gob.ve
+inces.gob.ve/entel_online/Visualizar-fact.zip
 incgoin.com
 inci-huidtherapie.nl
 inclusao.enap.gov.br
@@ -37251,6 +37257,7 @@ indo-line.com
 indocatra.co.id
 indocinemax21.com
 indodentist.com
+indoes.cloud
 indokku.com
 indonesiafte.com
 indonesiakompeten.com
@@ -37528,7 +37535,7 @@ inreal.com.ua
 inrpo.com
 insaatkurutma.xyz
 insaatmuhendisligi.ismailtorlak.com
-insaforp.org.sv/administrator/dPPz-wl06_GShEDikH-qmT/
+insaforp.org.sv
 insameyer.com
 insanlarlakonusmak.com
 insaproma.com
@@ -38262,8 +38269,7 @@ itnotice.ir
 itnova.kr
 itoh-pat.com
 itopu.com
-itosm.com/LimeSurvey/IRS-Tax-Transcipts-066/7
-itosm.com/LimeSurvey/IRS-Tax-Transcipts-066/7/
+itosm.com
 itotemic.com
 itown.pl
 itp25.com
@@ -39301,7 +39307,11 @@ jppost-aso.top
 jppost-ato.top
 jppost-awa.top
 jppost-azu.top
+jppost-bge.top
+jppost-bgu.top
 jppost-bha.top
+jppost-bza.top
+jppost-bzu.top
 jppost-ga.co
 jppost-ga.top
 jppost-ge.co
@@ -39664,7 +39674,7 @@ kaitenz.com
 kaiwaa.com.br
 kaiz.ru
 kajastech.com
-kakaocorp.link/data/imgs/deim.gif
+kakaocorp.link
 kakatiyaangels.com
 kakhun.ru
 kakoon.co.il
@@ -39847,6 +39857,7 @@ karenanndesign.com
 karenbsantos.com.br
 karenjoantopping.com
 karenmphotos.com
+karenshealthfoods.com
 karevfk.tk
 karfage.com
 kargahehasti.com
@@ -40576,6 +40587,7 @@ kkansdqwjeeqbnvczmxc.com
 kkbatteries.com
 kkdas.net
 kkeely.pw
+kkindonesia.com
 kkk-2365.com
 kkk-3712.com
 kkk-3728.com
@@ -40805,11 +40817,10 @@ kolarmillstores.com
 kolastav.sk
 kolaysigorta.co
 kolayticaret24.com
-kolbecompany.com/pykm/Document/gXnBJXFVkGzxirvmIcONoELHHdrnb/
+kolbecompany.com
 kolejmontlari.com
 kolejnicky.cz
-kolejskilmentari.edu.my/MEFZY-R2eEc_OnxRMTNO-lNB/En/Outstanding-Invoices/
-kolejskilmentari.edu.my/layouts/f9SK5Jy_QfbwM/
+kolejskilmentari.edu.my
 kolkatacleanair.in
 kollab-vm.tk
 kollymedia.in
@@ -41528,6 +41539,7 @@ lalitmumbai.net
 lalunafashion.eu
 lalunenoire.net
 lam.cz
+lamaggiora.it
 lamaisonh.com
 lamama.host
 lambchop.net
@@ -41650,6 +41662,7 @@ lareinedragons.fr
 larepablacailia.icu
 laresperanca.com
 largemsword.pw
+larissalinhares.com.br
 larissapharma.com
 laritadalathotel.com
 larixparcels.com
@@ -43244,6 +43257,7 @@ luigisrestaurantchelsea.com
 luisnacht.com.ar
 luisromero.es
 luizazan.ro
+luizdroidbr.top
 lukahoward.com
 lukastudio.vn
 lukejohnhall.co.uk
@@ -44252,6 +44266,7 @@ mak.nkpk.org.ua
 mak915800.ru
 makaden.com
 makaja.nl
+makanaliabadian.ir
 makanankhasjogya.000webhostapp.com
 makcaw.org
 makeinchennai.com
@@ -45374,7 +45389,7 @@ medicalweb.ir
 medicarehospital.org
 medicationsafetyconference.com
 medicci.ru
-medicina.uanl.mx/salamuseo/wp-content/uploads/jplc6-tzv7k-fpewx.view/
+medicina.uanl.mx
 medicinaesteticaorlandini.it
 medicinageriatrica.com.br
 medicinaonline.rjsrwaco.watchdogdns.duckdns.org
@@ -45758,6 +45773,7 @@ mfomjr.com
 mfotovideo.ro
 mfpvision.com
 mfronza.com.br
+mfstol.ru
 mfsupplys.com
 mg-s.it
 mg-vaillant.ru
@@ -46660,7 +46676,8 @@ moneynowllc.com
 moneyqqq.com
 moneystudiosgh.com
 moneytechtips.com
-moneytobuyyourhome.com
+moneytobuyyourhome.com/wp-includes/GUNB-VS8qGlJTOcpRhNH_jlaqYxrE-Wt/
+moneytobuyyourhome.com/wp-includes/HlghjhkGEK/
 monfoodland.mn
 mongadget.com
 mongduongtpc.vn
@@ -46731,7 +46748,7 @@ mooi-trade.com
 mooithailand.nl
 moolchi.com
 moolo.pl
-moomi-daeri.com
+moomi-daeri.com/STATUS/Invoice-195444603-Invoice-date-060718-Order-no-49493163275/
 moomicos.com
 moon-bots.ru
 moon.net-security.pl
@@ -46821,8 +46838,8 @@ moscow11.host
 moscow11.icu
 moscow33.online
 moscow44.online
-moscow55.online/KeyMoscow55.35.exe
-moscow66.online/KeyMoscow55.35.exe
+moscow55.online
+moscow66.online
 moscow77.online
 moscowvorota.ru
 moseler.org
@@ -47158,6 +47175,7 @@ muapromotion.com
 muathangnhom.com
 muathatde.com
 muaxanh.com
+muaxuanmedia.com
 muccimobilya.com
 muchdesign.com
 muchirawrites.org
@@ -47848,6 +47866,7 @@ nanodivulga.ufn.edu.br
 nanohair.com.au
 nanokesif.com
 nanomineraller.com
+nanopas.in
 nanosys.co.za
 nanowash1.com
 nanya-tlm.half-straw.com
@@ -49111,6 +49130,7 @@ nsdaili.addbyidc.com.cdn6118.hnpet.net
 nsdxcasd.club
 nseimushi.site
 nsewyainc.ml
+nsfund.mn
 nsicem.ru
 nsktech.fr
 nslc.vn
@@ -49211,6 +49231,7 @@ nustyle.de
 nut.72ndstreetbagel.com
 nut.angelospizzabroadway.com
 nutdelden.nl
+nuthetazeta.org
 nutraceptic.com
 nutraceuticalbusinessleaders.com
 nutraplus.in
@@ -49311,6 +49332,7 @@ oasis-projects.com
 oasis.projects.com
 oasishookahnj.com
 oasisimportexport.com
+oatendimento.com
 oaxaliscofoods.com
 obacold.com
 obamacarewriter.com
@@ -49630,7 +49652,7 @@ old.firecom.pro
 old.gkinfotechs.com
 old.hello5.kr
 old.hinz.se.prison01.dalnix.se
-old.honeynet.org/scans/scan33/0x90.exe
+old.honeynet.org
 old.klinika-kostka.com
 old.norsec.kz
 old.oleglukanov.com
@@ -50235,6 +50257,7 @@ order31avegyro.com
 orderabboccatonyc.com
 orderauto.es
 ordercakeonlineinlucknow.com
+orderchina.com.vn
 orderlynet.net
 orderout.nl
 orders.e-transaction.website
@@ -51009,24 +51032,7 @@ passpartout.org
 passportstatusonline.com
 passwordrecoverysoft.com
 past.com.tr
-paste.ee/r/DNfid
-paste.ee/r/IBxWH
-paste.ee/r/KC3M6
-paste.ee/r/VADxX
-paste.ee/r/XUnRN
-paste.ee/r/XuObf
-paste.ee/r/YoY3z/0
-paste.ee/r/ZjjLK
-paste.ee/r/aDgZw
-paste.ee/r/dykKR
-paste.ee/r/fsU10
-paste.ee/r/g6daj
-paste.ee/r/hW6I2
-paste.ee/r/kCMwY
-paste.ee/r/oSNoT
-paste.ee/r/tbOr2
-paste.ee/r/x0Coe
-paste.ee/r/yCZLo/0
+paste.ee
 pastebin.com/2q8dT2n3
 pastebin.com/gUJMLv20
 pastebin.com/rVFFxSs6
@@ -51089,7 +51095,25 @@ pastebin.com/raw/y6R5nYzL
 pastebin.com/raw/yJnNFtb9
 pastebin.com/raw/yvyE642L
 pastebin.com/raw/yy30ZSfm
-pasteboard.co
+pasteboard.co/images/HHKrjPX.jpg/download
+pasteboard.co/images/HIzhg49.jpg/download
+pasteboard.co/images/HLNMUsd.png/download
+pasteboard.co/images/HLoGpNO.jpg/download
+pasteboard.co/images/HMTQPDK.jpg/download
+pasteboard.co/images/HSAFBZI.jpg/download
+pasteboard.co/images/HSALBfU.jpg/download
+pasteboard.co/images/HSk9gWK.jpg/download
+pasteboard.co/images/HT2ugQA.jpg/download
+pasteboard.co/images/HTp1oKY.jpg/download
+pasteboard.co/images/HVTFIvR.jpg/download
+pasteboard.co/images/HVb42Yz.jpg/download
+pasteboard.co/images/HVbB1pM.jpg/download
+pasteboard.co/images/HVjbP3R.jpg/download
+pasteboard.co/images/HWfviIm.jpg/download
+pasteboard.co/images/HWgDFYp.png/download
+pasteboard.co/images/HWyr6Hm.jpg/download
+pasteboard.co/images/HXunzx0.jpg/download
+pasteboard.co/images/HXurHEL.jpg/download
 pastelcolors.in
 pastilepentruslabit.ro
 pastliferegressiontraining.com
@@ -51145,6 +51169,7 @@ patrickkrader.com
 patrickorth.de
 patriclonghi.com
 patriotjerky.com
+patriotmedicalapp.com
 patrogabon.com
 patroldata.com
 patryk-razny.pl
@@ -51615,6 +51640,7 @@ pfvmex.com
 pg-inc.net
 pgabriellelawrence.top
 pgarfielduozzelda.band
+pge-hochstetter.de
 pggurgaon.in
 pghpermanentmakeup.com
 pgneetindia.com
@@ -51668,6 +51694,7 @@ phenieconsult.com
 phenoir.org
 phensupplement.com
 phetphoomtour.com
+phidels.com
 phigvelers.com
 phihungmobile.net
 phikunprogramming.com
@@ -51864,6 +51891,7 @@ pinaster.pl
 pincelebrations.site
 pindekoration.online
 pindiario-justice.site
+pindnews.com
 pine-o.co.jp
 pineloautoricambi.com
 pingarten.site
@@ -52266,7 +52294,7 @@ politicot.com
 politinsky.000webhostapp.com
 poliyzsl.host
 poljimenez.com
-polk.k12.ga.us
+polk.k12.ga.us/userfiles/13/Classes/2473/8thPSsyllabus.doc
 polka32.ru
 polkolonieb4k.pl
 pollovideo.cf
@@ -52699,6 +52727,7 @@ primaveraaldocostruzioni.com
 primaybordon.com
 primedaydeals.com
 primeeast.net
+primegateglobal.net
 primeistanbulresidences.com
 primelineinda.com
 primemag.me
@@ -52796,7 +52825,7 @@ pro-obed.u1296248.cp.regruhosting.ru
 pro-prokat.ru
 pro-sealsolutions.com
 pro-structure.ru
-pro-teammt.ru/projects/hwmt/release/Multi-Tool.exe
+pro-teammt.ru
 pro-tekconsulting.org
 pro-tone.ru
 pro-tvoydom.ru
@@ -52861,8 +52890,7 @@ professionaldevelopmentpeople.com
 professionalshare.cc
 professionalshop.in
 professionalwaiterskollege.org
-profetestruec.net:8000/in3.ps1
-profetestruec.net:8000/in6.ps1
+profetestruec.net
 profexsystem.com
 proffessia.ru
 proffice.com.pl
@@ -53011,6 +53039,7 @@ pronav.com.br
 pronetworksgroup.com
 pronews.vn
 pronexhem.com
+pronhubhd.com
 pronic.com.tr
 pronics-reh.com
 pronnuaire.fr
@@ -53127,7 +53156,6 @@ proxima-advertising.com
 proxima-solution.com
 proxindo.id
 proxy-ipv4.com
-proxy.qualtrics.com
 proxy.qualtrics.com/proxy/?url=https%3A%2F%2Fuark.qualtrics.com%2FCP%2FFile.php%3FF%3DF_0ImYT11IuwAOVeZ&token=VaZKFD%2BFsRcUYx5fyuNAX24ZXgk5dXrGqSzM%2BPOz8fw%3D
 proxyholding.com
 proxyresume.com
@@ -53220,6 +53248,7 @@ psychologylibs.ru
 psychologynotepad.com
 psychprofiler.com
 psymonkee.com
+pt-gbij8sdfj8wsd0-19.s3.amazonaws.com/P19.dll
 ptb.com.mx
 ptci-md.org
 ptdtech.tk
@@ -53874,7 +53903,7 @@ r-klecker.de
 r-martin.fr
 r-sharks.com
 r-web.pl
-r.chaoxin.com/d29889e/2018-10-19_14/9ebbc/7e408/1539931621_225246.exe
+r.chaoxin.com
 r.kuai-go.com
 r.thephmdxb.ae
 r00ts.hitherenoodle.tk
@@ -54982,6 +55011,7 @@ rexus.com.tr
 reyatel.com
 reyesfitnessclub.com
 reyesrealestategroup.com
+reza-khosravi.com
 rezaherbalstore.com
 rezepte-gesundes.com
 rezeptegesundes.com
@@ -55297,6 +55327,7 @@ robinsontaylor.mobi
 robjunior.com
 robledodetorio.com
 robograf.me
+robotechcity.com
 robotforex.youralgo.com
 robotics138.org
 robotizando.com.br
@@ -55694,7 +55725,7 @@ rukotvor.com
 rulamart.com
 ruleofseventy.com
 rulifer.pw
-ruma.co.id/en1/LLC/7aah1jg4r4_dxjcr-683016813/
+ruma.co.id
 rumaharmasta.com
 rumahdiskon.net
 rumahminangberdaya.com
@@ -56079,8 +56110,10 @@ sachcubanme.bmt.city
 sachindutta.com
 sachoob.com
 sacm.net
-sacmsgmgw001a.delta.org
-sacmsgmgw001b.delta.org
+sacmsgmgw001a.delta.org/enduser/classify_url.html?url=bcj4vOoPS8B46Ud6gJMEtrSVpbK6kvOhzNoTP1Nkc9akCYldm5ysiiV042Pg5WhS/
+sacmsgmgw001a.delta.org/enduser/classify_url.html?url=gMQvjTDwF+23in+gr9bszmxgor7TYncykJbo+NUodQg6GgUL9qbt0DxSnpXzZCh6fb6C0XyiTaySpVP8B3UA2w/
+sacmsgmgw001b.delta.org/enduser/classify_url.html?url=vn1ThnzZihkgHFvBYSgQsXigd2FROhFqovuC9pBEzpiVgOuDF6NXNoa9h08sWe+d/
+sacmsgmgw001b.delta.org/enduser/classify_url.html?url=vn1ThnzZihkgHFvBYSgQsXigd2FROhFqovuC9pBEzpiVgOuDF6NXNoa9h08sWe+dWI6vgTagrNGo9imHFHKhlw==/
 saconets.com
 sacramentode.ml
 sacredheartwinnetka.com
@@ -56104,6 +56137,7 @@ saenz.fr
 safa.205dundas.com
 safaniru.com
 safariet-zarzis.com
+safarigold.com
 safarihwange.com
 safariinsaat.com.tr
 safarnavade.ir
@@ -56174,6 +56208,7 @@ sagliklibedenim.com
 sagrathi.com
 sagunpapers.com
 sahabathasyim.com
+sahabatsablon.com
 sahafstandi.com
 sahane34sohbet.000webhostapp.com
 saharamoroccotravel.com
@@ -56468,7 +56503,7 @@ sanjh.tv
 sanjibanisevasangathan.com
 sanjosegruaencarnacion.com
 sanjuandeulua.com.mx
-sankaraa.com/our-customers/kbw7-6j5qw8-nvjphhk/
+sankaraa.com
 sankaraca.com
 sankat.de
 sankei-setubi.jp
@@ -56835,6 +56870,7 @@ schumisound.de
 schuster-nass.de
 schusterartconsultancy.com
 schuurs.net
+schwaemmlein.de
 schwaetz.de
 schweisserei-fritzsch.de
 schwerdt.org
@@ -56935,7 +56971,10 @@ sd-project.org
 sdalirsyad01pwt.sch.id
 sdasteigers.nl
 sdcspraydrying.com
-sddhfs.ru
+sddhfs.ru/naashbj876.exe
+sddhfs.ru/nwsfdhjk45gf.exe
+sddhfs.ru/phfg345.EXE
+sddhfs.ru/phfg756dgf.EXE
 sdelaneyuaclotilde.club
 sdf35435345.site
 sdf5wer4wer.com
@@ -57112,6 +57151,7 @@ sedotwcsejakarta.com
 seductivestrands.com
 see.prblm.li
 seecareer.com
+seedopk.org
 seedscaramel.com
 seedsforgrowth.nl
 seedsofhope.wtmserver.com
@@ -57441,6 +57481,7 @@ service.raglassalum.com
 service.studio
 service20.consys.ru
 service24.sprinter.by
+service4it.eu
 service6000.ch
 servicebox365office.com
 servicedesign-tsinghua.com
@@ -57498,6 +57539,7 @@ ses-philippines.com
 sescapce.org.br
 sesisitmer.com
 seslibiri.com
+sestili.it
 setacim.com
 setblok.com
 setembroamarelo.org.br
@@ -57713,6 +57755,7 @@ sharafprinters.com
 shardatech.org
 shards.pl
 share.dmca.gripe
+share.meerai.eu
 share.mn
 sharechautari.com
 shared.pdffiller.com/1395f7beaf30f1943ac9e1b9800a8fbf/8c7dd922ad47494fc02c388e12c00eac/cdecfead5bd78cb1c29f931bc49ad2db.exe?t=1549302986
@@ -57789,6 +57832,7 @@ shehripakistan.store
 sheikhchemical.com
 sheilareadjewellery.com
 sheisam.ru
+shejipxw.com
 shelleylamb.com
 shells.fashionshells.net
 shellter-static.s3.amazonaws.com/media/files/5adbc741-fe58-4372-ad03-f27df73dbf1c.exe
@@ -58657,19 +58701,11 @@ slotshots2.yggdrasilgaming.com
 slovak-cts.sk
 slowexposure.com
 slowianskawieza.pl
+slowlane.me
 slowmoneysocal.org
 slowtime.net
 slppoffice.lk
-slpsrgpsrhojifdij.ru/1.exe
-slpsrgpsrhojifdij.ru/2.exe
-slpsrgpsrhojifdij.ru/3.exe
-slpsrgpsrhojifdij.ru/c.exe
-slpsrgpsrhojifdij.ru/krablin.exe
-slpsrgpsrhojifdij.ru/krablin.exe?SZLIp
-slpsrgpsrhojifdij.ru/krablin.exe?VuNpZqS
-slpsrgpsrhojifdij.ru/o.exe
-slpsrgpsrhojifdij.ru/p.exe
-slpsrgpsrhojifdij.ru/t.exe
+slpsrgpsrhojifdij.ru
 slrent.com
 slrpros.com
 sls-eg.com
@@ -59765,7 +59801,7 @@ sse.aircargox.com
 sse.deescustomcreations.com
 ssearthmovers.in
 sseg.ch
-ssenis.fun
+ssenis.fun/Sw0HJmXzqA.exe
 sseszh.ch
 ssf1.ru
 ssgarments.pk
@@ -59779,8 +59815,7 @@ ssllinks.duckdns.org
 sslv3.at
 ssmmbed.com
 ssmthethwa.co.za
-ssofhoseuegsgrfnj.su/o.exe
-ssofhoseuegsgrfnj.su/t.exe
+ssofhoseuegsgrfnj.su
 ssofhoseuegsgrfnu.ru
 ssoocc.com
 ssosi.ru
@@ -59812,6 +59847,7 @@ stacibockman.com
 stacjazgierz.pl
 stack.academy
 stacknheap.com
+stackspay.com
 stadtmisr.com
 stafette.ro
 staff.mezoninn.ru
@@ -59941,7 +59977,8 @@ starregistry.srmtechsol.com
 stars-castle.ir
 starserver45.world
 starserver4551mx2.club
-starserver5715km.world
+starserver5715km.world/del/del777.exe
+starserver5715km.world/mp444tx777.exe
 starserver715km.world
 starspirit.com.au
 starspoly.edu.ng
@@ -60039,6 +60076,7 @@ stavrakakis.de
 stavrosgrill.it
 stay-night.org
 staybigsarash.tcoqianlong.watchdogdns.duckdns.org
+stayfitphysio.ca
 staygreen.danang.today
 staywickend101.ddns.net
 stb-haaglanden.nl
@@ -61969,7 +62007,7 @@ streetrod3.com
 streetsearch.in
 streetsmartcity.com
 streetstore.co.jp
-streettalk.website/wp-content/themes/businessx/assets/css/admin/ssj.jpg
+streettalk.website
 strefenxmine.000webhostapp.com
 strengthandvigour.com
 strenover.ga
@@ -61995,6 +62033,7 @@ strona520.cba.pl
 strong.net
 strongbolts.cc
 strongit.co.uk
+strongvietnam.vn
 stroppysheilas.com.au
 strossle.sk
 stroy-aliance.ru
@@ -62430,7 +62469,10 @@ support.homemakerideas.com
 support.imaitaly.biz
 support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/
 support.jbrueggemann.com
-support.mdsol.com
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
 support.redbook.aero
 support.volkerstevin.ca
 support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/
@@ -62537,7 +62579,10 @@ svaistore.ru
 svanshalsbygg.se
 svatba.erbak.com
 svazkickboxu.cz
-svc.darkhost.pro
+svc.darkhost.pro/RuntimeBroker.exe
+svc.darkhost.pro/cheats_loader.exe
+svc.darkhost.pro/x32.vmp.exe
+svc.darkhost.pro/x64.vmp.exe
 svenahrens.nl
 svenhedintravel.pl
 svenmader.com
@@ -63158,6 +63203,7 @@ tatanka.pl
 tatc.ir
 tatecodom.ru
 tatgalloprecast.comsketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
+tatildomaini.com
 tatilmaster.com
 tatim.com.br
 tatnefts.su
@@ -63979,7 +64025,9 @@ thats-amazing.com
 thaus.to/1.exe
 thaus.to/2.exe
 thctiedye.com
-thdidm.zendesk.com
+thdidm.zendesk.com/attachments/token/90twtLKKvofUaiNKT8vhMBab4/
+thdidm.zendesk.com/attachments/token/i87knteqNN582AqG1Au1GQzvc/?name=new-contract-November.doc
+thdidm.zendesk.com/attachments/token/wtT4UmVAZ2oFlQshHDuiDRRGF/?name=Untitled_3LO318363.doc
 the-anchor-group.com
 the-bombay-summit.000webhostapp.com
 the-grizz.com
@@ -64068,6 +64116,7 @@ thecoastofhelpfoundation.org
 thecoldfront.com
 thecollectivewriters.com
 thecomicsburger.com.br
+thecommunicator.icu
 theconnectionsindia.com
 thecontemporaries.org
 thecooters.com
@@ -64139,7 +64188,7 @@ thegeers.com
 thegesualdosix.com
 thegiddystitcher.com
 thegilbertlawoffice.com
-thegims.com
+thegims.com/kk/panelnew/gate.php
 thegioicongdungcu.com
 thegioitraicay24h.com
 theglobetrotters.org
@@ -64333,6 +64382,7 @@ thepynebros.com
 thequeencooks.com
 thequeso.com
 thequietcreatives.com
+thequilterscorner.com.au
 thequoruminitiative.com
 therapystars.co.uk
 therattgang.com
@@ -64600,6 +64650,7 @@ tiagovsky.com
 tial.com.watchdogdns.duckdns.org
 tianangdep.com
 tiaoma.org.cn
+tiaragroup.es
 tiaramarket.ir
 tiasaludable.es
 tibamerica.com
@@ -65087,6 +65138,7 @@ topstick.co.kr
 topstock.su
 topsurvivallifestyle.com
 topsystemautomacao.com.br
+toptarotist.nl
 toptenimmigration.com.vn
 topterra.ru
 toptierhighticket.club
@@ -65251,7 +65303,7 @@ track.smtpsendemail.com/6039663/c?p=nmYzgpvjfxvbxINlhD74pSXXT6reJPgoLBdNZH7pPqqU
 track.smtpsendemail.com/6039663/c?p=nmYzgpvjfxvbxINlhD74pSXXT6reJPgoLBdNZH7pPqqUMw-ev9kRLBYi59B2oPhGUZYLZm8GDg98RyBNIKgS5Tp427xBaIu_AaYea5ImoiygfkTk7kzusb5pXTFi8LFKQXykI-ZGVO0ysLmuV_Mao5BKLmqtSxXR8Yp_qqaovs8GKoC5Pg8cOx5V1pBcLg8v/
 track.smtpsendemail.com/9011226/c?p=FoWocnIR-bZLvojME_8ucf_dlG9rUHaESbNtiV4k4S_ghz9xQLgnrkbwjMYho8tNF8nR8Os5R8FV1l7YL8InBR7qzFB-kllC8sX1AKZjajR-zXimiLhO_jEiLQ4HM5r2yvkham__jLoewuqIMzp_q0bXwLdtGXgg3KMJHYoPdIg=/
 track.smtpsendemail.com/9011226/c?p=IZDwJHQsWgOLkBfhBEr2bjye8MwTvyJ0_GlRJ2FQcGN9fSS-2ePuPXpTG-INJ813_Qyci3KqILwfKp4cb9igE6KB0VHUl_mEH_vNmYZwYn7poI2IZ77rE4Yfuhoi2mrSdTLb_Cz_FbgZVn2AI_U5wjMWQz5sSBbenDGC8fab7PM=/
-track.smtpserver.email/5025709/c?p=DPdzPfm0ITEeSUYMbQHFqNtXhCLsDYJBqZ-fOOwix04sbB4kdpJY8mgVAVKHoy5oCUnaERSQjtyOAM8sljuqMHyX8_AC2S3jM9O3po_V6FdALrHCGEJEd4EqF14t72jTMhuI_YlbOKZq-00PtkjbWg==
+track.smtpserver.email
 track.wizkidhosting.com
 track6.mixtape.moe
 track8.mixtape.moe
@@ -65425,6 +65477,7 @@ travelha.ir
 travelhealthconsultancy.co.uk
 travelingua.dev.trestristestigres.com
 travelintoegypt.com
+traveljembersurabaya.online
 travellind.com
 travelloc.dev-amgrade.com
 travellow.world
@@ -65659,6 +65712,7 @@ trueshare.com/DirectLink/FileAccess.aspx?DLID=a3xhX784BxKb5w1xgGah
 trueshare.com/DirectLink/FileAccess.aspx?DLID=g512467Okv168aall61W
 trueterroir.co.uk
 trullsrodshop.com
+trulykomal.com
 trumbullcsb.org
 trumpfalls.com
 trumplegal.com
@@ -65822,7 +65876,7 @@ tulapahatere.club
 tulieucuocsong.com
 tulip-remodeling.com
 tulipremodeling.com
-tullverket.se/download/18.7df61c5915510cfe9e7fb9/1466512276799/740.41%20Forsakran%20for%20flyttsakstullfrihet.docm
+tullverket.se
 tulomontas.com
 tulparmotors.com
 tulpconsult.nl
@@ -66785,6 +66839,7 @@ unkk.top
 unknown-soft.com
 unknownworld.ir
 unleashyourinnerbrilliance.com
+unlimit517.co.jp
 unlimited.nu
 unlimitedbags.club
 unlock2.neagoeandrei.com
@@ -67015,7 +67070,7 @@ url.emailprotection.link/?ayL72bfBub-Dd-Y3yvvPpz8JfYmmIlgEjoSDUuj2vrnTpKguZ2uBjd
 url.emailprotection.link/?bcp_LQdELwbKhxKToIznR8rOuhtt9W4qlFovFOxc0z5zmN6k8ji5zi9v7qbCrvRGePrP065w1sneU27JfM6LqozRkXpWdzWXoQHCUebEUJx-pJ0FN_jIdanzNgIHD_CY1/
 url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmBKpoVHxYkckgjOQoYTV_U0G2UMKhd4MBI9Ms8vO3Vliq2ClOuUAa6nO2a7Ij5lJFsouoEEMeMVmI/
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
-url2.mailanyone.net
+url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
 url3.mailanyone.net
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
@@ -67047,7 +67102,8 @@ ury8297ridowoury833oe.com
 urzedniczatv.pl
 us-defense-department.ml
 us-trans.ru
-us-west-2.protection.sophos.com
+us-west-2.protection.sophos.com/?d=fergus.vn&u=aHR0cDovL2Zlcmd1cy52bi9UcmFuc2FjdGlvbl9kZXRhaWxzLzAxMjAxOQ==&e=bGhpY2tleUBtaXNzb3VsYWNvdW50eS51cw==&t=SW9UZyszNFBzSGZwOTZraUtENzJORnc2MWdEMm1ucVVwbUwxTmRVZStyUT0=/
+us-west-2.protection.sophos.com/?d=toools.es&u=aHR0cDovL3Rvb29scy5lcy9iYW5raW50ZXJfL3hEc2EtQzUxU0w4SXpCVGdMN2kxX3RyQllLS1ZqWS1WNS8=&e=c2tvZXBrZUBtaXNzb3VsYWNvdW50eS51cw==&t=QlZHM2FiNzVhbjFld3d5dVJWdnlDMXp6dHpxMU8vVW1FQlhLSTdremUxVT0=/
 us.cdn.persiangig.com
 us15.campaign-archive.com/pages?u=cd5e2bf0aa684eff0aeb54377&id=030032cee1f0
 us2.campaign-archive.com/pages?u=035496fc182d3cf5353219b28&id=03009ec6e1f0
@@ -67095,7 +67151,75 @@ users.telenet.be/rudiSB/prive/cgi-bin/run.sh
 users.telenet.be/rudiSB/prive/cgi-bin/xmrig
 users.telenet.be/rudiSB/public_html/cgi-bin/run.sh
 users.telenet.be/rudiSB/public_html/cgi-bin/xmrig
-users.tpg.com.au
+users.tpg.com.au//soniamatas/9302030002_993.zip
+users.tpg.com.au/ajsteel/222_737_81010.zip
+users.tpg.com.au/ajsteel/222_737_81011.zip
+users.tpg.com.au/ajsteel/222_737_81013.zip
+users.tpg.com.au/ajsteel/222_737_81015.zip
+users.tpg.com.au/ajsteel/222_737_81016.zip
+users.tpg.com.au/ajsteel/222_737_81017.zip
+users.tpg.com.au/ajsteel/222_737_81020.zip
+users.tpg.com.au/ajsteel/222_737_81021.zip
+users.tpg.com.au/ajsteel/222_737_81024.zip
+users.tpg.com.au/ajsteel/222_737_81025.zip
+users.tpg.com.au/ajsteel/222_737_81028.zip
+users.tpg.com.au/ajsteel/222_737_81029.zip
+users.tpg.com.au/ajsteel/222_737_81030.zip
+users.tpg.com.au/ajsteel/222_737_81032.zip
+users.tpg.com.au/ajsteel/222_737_81033.zip
+users.tpg.com.au/ajsteel/222_737_81035.zip
+users.tpg.com.au/ajsteel/222_737_81039.zip
+users.tpg.com.au/ajsteel/222_737_8104.zip
+users.tpg.com.au/ajsteel/222_737_81040.zip
+users.tpg.com.au/ajsteel/222_737_81042.zip
+users.tpg.com.au/ajsteel/222_737_8105.zip
+users.tpg.com.au/ajsteel/222_737_8107.zip
+users.tpg.com.au/ajsteel/222_737_8108.zip
+users.tpg.com.au/ajsteel/222_737_8109.zip
+users.tpg.com.au/apexdriving/1_11838_99_7287.zip
+users.tpg.com.au/apexdriving/1_2838_99_7287.zip
+users.tpg.com.au/apexdriving/1_29838_99_7287.zip
+users.tpg.com.au/apexdriving/1_41838_99_7287.zip
+users.tpg.com.au/apexdriving/1_42838_99_7287.zip
+users.tpg.com.au/apexdriving/1_53838_99_7287.zip
+users.tpg.com.au/apexdriving/1_5838_99_7287.zip
+users.tpg.com.au/apexdriving/1_75838_99_7287.zip
+users.tpg.com.au/apexdriving/1_8838_99_7287.zip
+users.tpg.com.au/dimcejim/7827_99_838.zip
+users.tpg.com.au/dimcejim/899848_0028.zip
+users.tpg.com.au/dmrennie/067_15651_8.zip
+users.tpg.com.au/dmrennie/067_16925_8.zip
+users.tpg.com.au/dmrennie/067_18199_8.zip
+users.tpg.com.au/dmrennie/067_20110_8.zip
+users.tpg.com.au/dmrennie/067_22021_8.zip
+users.tpg.com.au/dmrennie/067_25206_8.zip
+users.tpg.com.au/dmrennie/067_25843_8.zip
+users.tpg.com.au/dmrennie/067_27117_8.zip
+users.tpg.com.au/dmrennie/067_29665_8.zip
+users.tpg.com.au/dmrennie/067_30302_8.zip
+users.tpg.com.au/dmrennie/067_33487_8.zip
+users.tpg.com.au/dmrennie/067_34761_8.zip
+users.tpg.com.au/dmrennie/067_36035_8.zip
+users.tpg.com.au/dmrennie/067_38583_8.zip
+users.tpg.com.au/dmrennie/067_39220_8.zip
+users.tpg.com.au/dmrennie/067_42405_8.zip
+users.tpg.com.au/dmrennie/067_43042_8.zip
+users.tpg.com.au/dmrennie/067_47501_8.zip
+users.tpg.com.au/dmrennie/067_51323_8.zip
+users.tpg.com.au/dmrennie/067_55782_8.zip
+users.tpg.com.au/dmrennie/067_57056_8.zip
+users.tpg.com.au/dmrennie/067_6096_8.zip
+users.tpg.com.au/dmrennie/067_61515_8.zip
+users.tpg.com.au/dmrennie/067_63426_8.zip
+users.tpg.com.au/dmrennie/067_64063_8.zip
+users.tpg.com.au/dmrennie/067_8007_8.zip
+users.tpg.com.au/elainew8/CBG-3983-3885-0909.zip
+users.tpg.com.au/elainew8/CGB_INV_25.05.18.docx
+users.tpg.com.au/elainew8/Pdform-INVGSK.zip
+users.tpg.com.au/elainew8/o_inv_25.05.2018.html
+users.tpg.com.au/palipane/293902399023-39922.zip
+users.tpg.com.au/soniamatas/9302030002.993.zip
+users.tpg.com.au/soniamatas/9302030002_993.zip
 userslinks.xyz
 usgmsp.com
 usgoldusa.com
@@ -67251,6 +67375,7 @@ vagrantcafe.com
 vaguevague.com
 vaheracouncil.com
 vahokad.sk
+vaidapt.s3.amazonaws.com/0.zip
 vaigacafe.com
 vaileather.com
 vaillantteknikservisibursa.com
@@ -67373,6 +67498,7 @@ vantaihoangphi.com
 vantasticsightseeing.com
 vantienphat.com
 vantourism.info
+vantuwer.sakura.ne.jp
 vanwyckpress.com
 vanypeluquerias.com
 vanyt.duckdns.org
@@ -68180,6 +68306,7 @@ vlinco.net
 vlogicdev.com
 vloke.mx
 vlporsche.be
+vls-online.de
 vlxdgiabao.com
 vlxdhoangmai.com.vn
 vm486446.had.su
@@ -68736,7 +68863,7 @@ web.pa-cirebon.go.id
 web.riderit.com
 web.smakristen1sltg.sch.id
 web.speakingofhome.com
-web.tiscali.it/hispeedcar/lamborgbg.jpg
+web.tiscali.it
 web.tiscalinet.it
 web.udl.cat
 web.vorona.ru
@@ -69318,12 +69445,13 @@ windowsmxapplayrun.com
 windowtreatmentshollywood.com
 windowtreatmentsshermanoaks.com
 windowtreatmentswesthollywood.com
-windrvs.com/update/update.rar
+windrvs.com
 windrvs.ru
 windwardwake.com
 windycitypizzakitchens.com
 wine-love.ru
 wine1.com.au
+winebiddingthailand.com
 winecorkartist.com
 winefly.net
 winefriend.co.za
@@ -69454,8 +69582,7 @@ wmd9e.a3i1vvv.feteboc.com
 wmdcustoms.com
 wmebbiz.co.za
 wmg128.com
-wmi.1217bye.host/1.txt
-wmi.1217bye.host/2.txt
+wmi.1217bye.host
 wmkatz.com
 wmo-raad.inov.me
 wmpatagonia.cl
@@ -69468,6 +69595,7 @@ woaldi2.com
 woatinkwoo.com
 wodmetaldom.pl
 woelf.in
+woellhaf-it.de
 woftam.net
 wog92bqzqg1m9j4i3.website
 wojciechbuczak.pl
@@ -69709,7 +69837,7 @@ wpdabiran.yousefi.pro
 wpdemo.sleeplesshacker.com
 wpdemo.wctravel.com.au
 wpdemo.weboost.website
-wpengine.zendesk.com
+wpengine.zendesk.com/attachments/token/QiGBj5OV2VIK5lcGBzKwa3wzH/?name=LY7995522-693.doc
 wpgtxdtgifr.ga
 wpldjxxxua.ga
 wpmom.co
@@ -69821,7 +69949,7 @@ www-bsac.eecs.berkeley.edu
 www-grupotv1-com-br.azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 www.smart-eg.com
 www022284.com
-www107.zippyshare.com/d/8OPFupqh/37744/Server.exe
+www107.zippyshare.com
 www2.cj53.cn
 www2.gamingsupport.com
 www2.itcm.edu.mx
@@ -69875,7 +70003,9 @@ x-trade.com.pl
 x-x-team.weebly.com/uploads/7/8/4/0/78404562/tedata.exe
 x-x-team.weebly.com/uploads/7/8/4/0/78404562/windowsapplication1.exe
 x.autistichorse.club
-x.jmxded153.net
+x.jmxded153.net/y.z?l=http%3a%2f%2fshivmotor.com%2fNMVA-SVa_XGhzimAE-gtc%2f49390%2fSurveyQuestionsUS_us%2fSales-Invoice&r=11943112279&d=271873&p=1&t=h/
+x.jmxded153.net/y.z?l=http%3a%2f%2fshivmotor.com%2fNMVA-SVa_XGhzimAE-gtc%2f49390%2fSurveyQuestionsUS_us%2fSales-Invoice&r=11943113879&d=271873&p=1&t=h/
+x.jmxded153.net/y.z?l=http://thuraya.kz/iVIg-wWj_tCpHue-kR/EXT/PaymentStatus/En/Past-Due-Invoice&r=11940086345&d=271873&p=1&t=h/
 x.jmxded184.net
 x.kuai-go.com
 x.ord-id.com
@@ -69992,6 +70122,7 @@ xinchao.asia
 xindetrading.000webhostapp.com
 xingyang-glove.com
 xinhkorea.com
+xinlou.info
 xinyemian.com
 xinyuming.xyz
 xit4f7sj.xzkkl.com
@@ -70015,6 +70146,7 @@ xmfreede.com
 xml.vn
 xmprod.com
 xmr-services.net
+xmr.haoqing.me
 xmrcgpu.com
 xmrminingpro.com
 xmsilo.xyz
@@ -70189,6 +70321,7 @@ xn--80aaofrh9b.xn--90ais
 xn--80aaxiih2a7cxd.xn--p1ai
 xn--80aaxk0bn.xn--p1ai
 xn--80abdh8aeoadtg.xn--p1ai
+xn--80abghbpe9aidnhd0a3ntb.xn--p1ai
 xn--80abghrgkskqdlmb.xn--p1ai
 xn--80abhfbusccenm1pyb.xn--p1ai
 xn--80acgthip.xn--p1ai
@@ -70438,6 +70571,7 @@ xuongmaybinhduong.com
 xuseajwd.yuhong.me
 xvirginieyylj.city
 xvkbse.com.nanjingxinglun.com
+xwai.com
 xwnmt.mjt.lu
 xwtumlso.sha58.me
 xxcrossconcept.com
