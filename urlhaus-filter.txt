@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 21 Sep 2019 00:23:09 UTC
+! Updated: Sat, 21 Sep 2019 12:23:02 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -331,6 +331,7 @@
 104.168.211.238
 104.168.215.139
 104.168.248.22
+104.168.253.82
 104.168.28.249
 104.168.57.119
 104.168.66.156
@@ -4164,6 +4165,7 @@
 185.11.146.84
 185.112.156.92
 185.112.248.58
+185.112.250.241
 185.112.82.89
 185.114.23.99
 185.117.119.32
@@ -4501,6 +4503,7 @@
 185.232.65.130
 185.232.65.164
 185.232.65.169
+185.233.186.156
 185.234.216.113
 185.234.216.167
 185.234.216.233
@@ -5249,6 +5252,7 @@
 192.241.135.229
 192.241.136.218
 192.241.140.230
+192.241.140.94
 192.241.142.242
 192.241.143.151
 192.241.145.236
@@ -5325,6 +5329,7 @@
 193.187.172.193
 193.187.172.42
 193.187.174.17
+193.19.119.192
 193.200.50.136
 193.226.232.72
 193.238.36.33
@@ -6192,6 +6197,7 @@
 206.189.36.207
 206.189.44.161
 206.189.45.178
+206.189.55.99
 206.189.60.214
 206.189.64.124
 206.189.64.47
@@ -7911,6 +7917,7 @@
 45.76.126.118
 45.76.127.2
 45.76.132.203
+45.76.136.217
 45.76.138.150
 45.76.169.124
 45.76.188.149
@@ -8194,6 +8201,7 @@
 46.21.147.169
 46.21.248.153
 46.210.121.204
+46.225.117.173
 46.225.118.74
 46.23.118.242
 46.24.91.108
@@ -9165,6 +9173,7 @@
 66.185.195.28
 66.195.138.88
 66.23.201.227
+66.23.226.219
 66.23.231.102
 66.23.231.122
 66.23.231.125
@@ -35556,6 +35565,7 @@ himlamriversidequan7.com
 himnosdealabanza.cl
 hindislogan.com
 hindisms4u.com
+hinehf1d.club
 hinfo.biz
 hingcheong.hk
 hinnitus.dk
@@ -39576,6 +39586,7 @@ jppost-bgu.top
 jppost-bha.top
 jppost-bza.top
 jppost-bzu.top
+jppost-fu.co
 jppost-ga.co
 jppost-ga.top
 jppost-ge.co
@@ -39585,8 +39596,11 @@ jppost-go.top
 jppost-gu.co
 jppost-gu.top
 jppost-ha.top
+jppost-he.co
 jppost-hi.top
 jppost-hu.co
+jppost-ke.co
+jppost-ki.co
 jppost-ki.com
 jppost-ku.top
 jppost-me.co
@@ -39602,6 +39616,7 @@ jppost-pe.com
 jppost-ra.co
 jppost-re.co
 jppost-ru.co
+jppost-sa.co
 jppost-sa.top
 jppost-se.top
 jppost-si.top
@@ -53917,6 +53932,13 @@ qe-et.top
 qe-eu.top
 qe-ew.top
 qe-ey.top
+qe-fa.top
+qe-fc.top
+qe-ff.top
+qe-fm.top
+qe-fn.top
+qe-fp.top
+qe-fw.top
 qe-qa.top
 qe-qb.top
 qe-qc.top
@@ -59997,6 +60019,7 @@ speedyimagesigns.com
 speeltuingeenhoven.nl
 spejderneslejr2012.dk
 spektramaxima.com
+spencersssjjs.com
 sperverabridexusly.info
 speyeder.net
 spffy.com
@@ -69826,6 +69849,7 @@ wichaiservice.com
 wichmann-gmbh.eu
 wickedcloudsok.com
 wickedskinz.net
+wickrod.pw
 wickysplace.com
 widianto.org
 widitec.com
