@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 22 Sep 2019 00:23:08 UTC
+! Updated: Sun, 22 Sep 2019 12:23:19 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -269,6 +269,7 @@
 103.90.203.153
 103.91.208.215
 103.91.208.225
+103.92.25.90
 103.92.25.95
 103.97.177.29
 103.97.179.22
@@ -912,6 +913,7 @@
 114.32.50.49
 114.32.63.56
 114.33.110.58
+114.33.117.208
 114.33.134.75
 114.33.164.206
 114.33.174.116
@@ -971,6 +973,7 @@
 116.203.153.251
 116.203.180.29
 116.203.203.210
+116.203.206.127
 116.203.209.50
 116.203.40.206
 116.203.48.81
@@ -1387,6 +1390,7 @@
 134.175.91.178
 134.19.188.107
 134.19.188.108
+134.19.188.120
 134.19.188.24
 134.19.188.42
 134.209.103.108
@@ -2461,6 +2465,7 @@
 157.245.143.74
 157.245.171.223
 157.245.2.21
+157.245.211.135
 157.245.221.250
 157.245.33.114
 157.245.33.187
@@ -4648,6 +4653,7 @@
 185.244.25.35
 185.244.25.60
 185.244.25.66
+185.244.25.67
 185.244.25.70
 185.244.25.72
 185.244.25.73
@@ -5292,6 +5298,7 @@
 192.3.160.67
 192.3.162.102
 192.3.182.220
+192.3.244.227
 192.3.31.34
 192.30.253.112
 192.34.61.243
@@ -5384,6 +5391,7 @@
 194.147.34.126
 194.147.34.63
 194.147.34.79
+194.147.34.89
 194.147.35.117
 194.147.35.118
 194.147.35.172
@@ -5951,6 +5959,7 @@
 203.157.182.14
 203.163.211.46
 203.189.235.221
+203.198.246.160
 203.226.76.144.clientjcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 203.228.89.116
 203.28.238.170
@@ -7940,6 +7949,7 @@
 45.76.47.156
 45.76.94.243
 45.76.99.110
+45.77.108.143
 45.77.138.225
 45.77.145.214
 45.77.207.51
@@ -9394,6 +9404,7 @@
 68.183.28.70
 68.183.29.175
 68.183.29.187
+68.183.3.175
 68.183.3.98
 68.183.30.184
 68.183.32.243
@@ -27964,6 +27975,7 @@ dvastudio.ru
 dvb-pc-service.de
 dvb-upload.com
 dvbfzq.dm.files.1drv.com
+dvcdoctor.com
 dvcedu.vn
 dvdcristao.com.br
 dvdmg.com
@@ -46151,6 +46163,8 @@ mhdaaikash-dot-yamm-track.appspot.com/Redirect?ukey=1sslm86aJS3is-9swoOGl2979wtR
 mhfa.org.mt
 mhh.prolivraison.com
 mhills.fr
+mhkdhotbot.myvnc.com
+mhkdhotbot80.myvnc.com
 mhkqyj.com
 mhlsistemas.com.br
 mhnew.enabledware.com
@@ -57471,6 +57485,7 @@ sdsdsdas.weebly.com/uploads/9/6/5/2/96520294/ioii.exe
 sdsdsdas.weebly.com/uploads/9/6/5/2/96520294/nesreen.exe
 sdsgdfsfas.xyz
 sdsgroup.co.il
+sdstat320d.com
 sdstat95xz.world
 sdveganecofriendly.com
 sdvf.kuai-go.com
@@ -57955,6 +57970,7 @@ serviceforyou.de
 servicehl.ma
 servicelearning.thu.edu.tw
 servicemanager.icu
+servicemhkd.myvnc.com
 servicemhkd80.myvnc.com
 serviceparck.com
 servicepartner.sk
