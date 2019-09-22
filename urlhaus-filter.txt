@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 21 Sep 2019 12:23:02 UTC
+! Updated: Sun, 22 Sep 2019 00:23:08 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -865,6 +865,7 @@
 112.184.100.250
 112.184.88.60
 112.185.161.218
+112.185.243.249
 112.187.217.80
 112.196.4.10
 112.196.42.180
@@ -970,6 +971,7 @@
 116.203.153.251
 116.203.180.29
 116.203.203.210
+116.203.209.50
 116.203.40.206
 116.203.48.81
 116.203.66.92
@@ -2633,6 +2635,7 @@
 159.65.239.183
 159.65.240.150
 159.65.243.81
+159.65.246.65
 159.65.247.164
 159.65.247.21
 159.65.248.217
@@ -2982,6 +2985,7 @@
 165.22.57.233
 165.22.57.246
 165.22.63.242
+165.22.64.218
 165.22.65.215
 165.22.67.165
 165.22.67.232
@@ -3208,6 +3212,7 @@
 167.99.107.136
 167.99.113.44
 167.99.115.182
+167.99.117.92
 167.99.121.229
 167.99.125.11
 167.99.125.164
@@ -4170,6 +4175,7 @@
 185.114.23.99
 185.117.119.32
 185.117.75.111
+185.117.75.248
 185.117.88.121
 185.117.88.96
 185.118.165.108
@@ -4185,6 +4191,7 @@
 185.121.139.229
 185.121.139.238
 185.121.166.109
+185.125.219.177
 185.125.230.212
 185.125.231.40
 185.126.179.107
@@ -4515,6 +4522,7 @@
 185.234.218.10
 185.234.218.183
 185.234.218.210
+185.234.218.37
 185.234.73.4
 185.235.128.232
 185.238.136.54
@@ -5001,6 +5009,7 @@
 188.191.31.49
 188.192.104.226
 188.209.49.189
+188.209.52.11
 188.209.52.135
 188.209.52.169
 188.209.52.180
@@ -9691,6 +9700,7 @@
 79.117.87.87
 79.117.97.92
 79.120.157.92
+79.124.49.203
 79.124.78.82
 79.124.8.110
 79.134.225.70
@@ -17167,7 +17177,7 @@ bigdaddysparkave.com
 bigdatastudies.com
 bigdev.top
 bigeyes.com.tw
-bigfile.mail.naver.com/bigfileupload/download?fid=V/R91zFlpzEwaAbjK3e5KqUwHqUmKx2maxuXKxMdFoudHqu9KqvXaA2qaxvja6iopoUXKrumKrMqFrKmFxkCK6M/FruqpxIvFrJ4a6U=
+bigfile.mail.naver.com
 bigfishchain.com
 bigfoothospitality.com
 bigg-live.com
@@ -18695,7 +18705,8 @@ breendaexchange.cf
 breewillson.com
 breezart-russia.ru
 breeze.cmsbased.net
-breezetrvl.com
+breezetrvl.com/iMi
+breezetrvl.com/iMi/
 brelecs.com
 brembotembo.com
 brendanstead.com
@@ -19776,8 +19787,7 @@ cargoinsurance.tk
 cargokz.kz
 cargomate-kr.cf
 cargomax.ru
-caribbean360.com/bu40BVNZ/
-caribbean360.com/test/XChCw-sav_KomKB-Pe0/COMET/SIGNS/PAYMENT/NOTIFICATION/01/28/2019/En_us/Sales-Invoice/
+caribbean360.com
 carikliantiquitat.com
 carimbosrapidos.com.br
 carimint.com
@@ -24331,6 +24341,7 @@ dequon-autopro.weebly.com/uploads/1/3/4/8/13485243/troller_v1.exe
 der-fliesenleger-profi.de
 der-saarlooswolfhond.de
 der.kuai-go.com
+derakhshanplast.ir
 derautomat.de
 derbydays.ru
 derbydonkey.com
@@ -29599,7 +29610,7 @@ es-solution.ru
 es-solution.u1296248.cp.regruhosting.ru
 es.7iswing.com
 es.lv
-es.nestradas.com/wp-content/languages/plugins/2c.jpg
+es.nestradas.com
 es.thevoucherstop.com
 esagarautomobiles.com
 esanjobs.org
@@ -31141,7 +31152,7 @@ finance2.mcu.ac.th
 financeadvisor.co.in
 financeiro783927.dynamic-dns.net
 financementparthenon.com
-financeroll.com/wp-content/FILE/FJqJeHbEScgeSUGmi/
+financeroll.com
 financialbenefits.tk
 financialdiscourse.com
 financiallypoor.com
@@ -33806,7 +33817,7 @@ goodveiwhk.com
 goodwife.com
 goodwillhospital.org
 goodword.pro
-goodyearmotors.com
+goodyearmotors.com/De/ZMIRQKWX6219588/Rechnungs-docs/DOC-Dokument/
 goofdeckers.bid
 google-ads-expert.co.ua
 google-tokyo.info
@@ -35319,7 +35330,7 @@ helpimhomeless.com
 helpingblogger.com
 helpinghere.fr
 helpingpawsrescueinc.org
-helpjet.net/dl/70967328-75843699-19193941/30885056/20070223101355468_driver.exe
+helpjet.net
 helplog3021.cf
 helplog359.gq
 helpmebuyavehicle.com
@@ -36053,7 +36064,7 @@ honeyman.ca
 honeymanhomes.co.uk
 honeymoon-egypt.com
 honeymoonlady.com
-honeynet.org
+honeynet.org/sites/default/files/files/1309361194_eschweiler_forensic_challenge_8.zip
 honeywax.ir
 hongcheng.org.hk
 hongkongrestaurant.com.au
@@ -39083,6 +39094,7 @@ jeopath.club
 jeponautoparts.ru
 jeppepovlsenfilm.com
 jeremedia.com
+jeremydupet.fr
 jeremypauchard.fr
 jerimiloh.com
 jerko.novi-net.net
@@ -39275,7 +39287,8 @@ jma.edu.pe
 jmade.ru
 jmahoney.net
 jmamusical.jp
-jmbase.my
+jmbase.my/tuzs/436jmhxnmv_uasm5z4bzc-5/
+jmbase.my:443/tuzs/436jmhxnmv_uasm5z4bzc-5/
 jmbelizetravel.com
 jmbtrading.com.br
 jmcallaghan.com
@@ -42169,7 +42182,7 @@ lctnastisa01.com
 lcugudy.cf
 lcwk.ru
 lczyp.com
-ld.mediaget.com
+ld.mediaget.com/index4.php?l=en
 ld15.wa-democrats.net
 ldchanoi.com
 lddspt.com
@@ -48408,8 +48421,7 @@ nbdservizi.com
 nbgcpa.net
 nbgcpa.org
 nbhgroup.in
-nbigfile.mail.naver.com/bigfileupload/download?fid=9YRcMrkd162jK6J0b4eOK3YwFA2raxUmHqUmKx2maAUZKxuwFqtwHqu9Kqb9FAulaxvjFxbmaztrpxvqKqvXFAUraxtrKqb/MoJvMx3Spx2/M4U=
-nbigfile.mail.naver.com/bigfileupload/download?fid=VPeqW60cW4KZFovXHqujKoUjKogwaAgXKoMmFqUXKxKjKxEqFxUmaxula3YqKogqKzMwFrU9KxkCM4M/KzJSFqt/KqbXpo2lKoEZat==
+nbigfile.mail.naver.com
 nbj.engaged.it
 nbn-nrc.org
 nbn.co.ls
@@ -48457,7 +48469,12 @@ neatappletech.readysetselfie.com
 nebesnaya-sotnya.site
 nebraskacharters.com.au
 nebrodiescursionileanza.com
-nebula-ent.com
+nebula-ent.com/doc/EN_en/STATUS/HRI-Monthly-Invoice
+nebula-ent.com/doc/EN_en/STATUS/HRI-Monthly-Invoice/
+nebula-ent.com/files/En_us/Jul2018/Invoice-849834311-
+nebula-ent.com/files/En_us/Jul2018/Invoice-849834311/
+nebula-ent.com/t3
+nebula-ent.com/t3/
 nebula.ee
 neccotweethearts.com
 necessary-evil.com
@@ -48575,7 +48592,7 @@ nestorlmports.com
 nestoroeat.com
 nestpensions10.org.uk
 nestpensions5.org.uk
-nestradas.com/wp-content/plugins/contact-form-7/admin/css/2c.jpg
+nestradas.com
 nesz.pl
 net-telecom.ru
 net-tribe.jp
@@ -50024,7 +50041,7 @@ old.firecom.pro
 old.gkinfotechs.com
 old.hello5.kr
 old.hinz.se.prison01.dalnix.se
-old.honeynet.org
+old.honeynet.org/scans/scan33/0x90.exe
 old.klinika-kostka.com
 old.norsec.kz
 old.oleglukanov.com
@@ -51936,12 +51953,7 @@ persianruggallery.com
 persiapanieltstoefl.com
 persiapet.net
 persimmonforge.com
-perso.wanadoo.es/cartaouol/uolcartoes.exe
-perso.wanadoo.es/gracig02/atualizado098476verifica.exe
-perso.wanadoo.es/grande000001/csrs.jpg
-perso.wanadoo.es/provedoresbrasil/relatorioemails2006.exe
-perso.wanadoo.es/stjsites/stj.exe
-perso.wanadoo.es/tdfgr/350RONPXJ65Y47.exe
+perso.wanadoo.es
 personal.nwolb.user.log.security.cod.issue.fondue-at-the-fountain.com
 personalized-weddings.com
 personalshopper-salzburg.com
@@ -57125,8 +57137,7 @@ saturday-school.org
 satutitik.com
 satyam.cl
 satyammetals.com
-satysservs.com/setup6-156.exe
-satysservs.com/setup6-158.exe
+satysservs.com
 sauceismoney.com
 saudaveldemais.com
 saudenatural.ml
@@ -58783,7 +58794,10 @@ simrahsoftware.com
 simrans.sg
 simstal.kiwi
 simurgkusyuvasi.org
-sinacloud.net
+sinacloud.net/yun2016/Bwin732d.rar
+sinacloud.net/yun2016/GomLibrary.rar
+sinacloud.net/yun2016/PrsProt32.rar
+sinacloud.net/yun2016/pl25120.rar
 sinagogart.org
 sinakhoessentials.co.za
 sinaldigital.com
@@ -58942,9 +58956,7 @@ sitwww.watchdogdns.duckdns.org
 sitymag.ru
 siuagustina.band
 sivadatasdevri.com
-sivarajan.com/FILE/Please-pull-invoice-16523/
-sivarajan.com/Invoice/
-sivarajan.com/Past-Due-Invoices-June/
+sivarajan.com
 sivayo.com
 sivenit.net
 sivricerihtim.com
@@ -60502,7 +60514,8 @@ static.43.47.69.159.clients.your-server.de
 static.76.102.69.159.clients.your-server.de
 static.error-soft.net
 static.ilclock.com
-static.ow.ly
+static.ow.ly/docs/Carbo%20Contract%202010_3K7C.doc
+static.ow.ly/docs/Womens%20Spring%202012%20Email%20blast2_n4s.doc
 static.solidbasewebschool.nl
 static.topxgun.com
 staticholidaysuk.co.uk
@@ -65695,7 +65708,7 @@ totalcommunicationinc.com
 totallyconneted.com
 totalnutritionflorida.com
 totalsigorta.com
-totalsystem.co.id
+totalsystem.co.id/INV/BMQ-035909996015081/
 totaltechi.com
 totaltek.cc
 totaltelecoms-ng.com
@@ -67076,7 +67089,7 @@ uhost.club
 uhrc.co.uk
 uhttravel.com
 uhuii.com
-ui.threatstream.com/detail/http://sixsigma-accreditation.org/wp-includes/id3/pik.zip
+ui.threatstream.com
 uia2020rio.archi
 uicphipsi.com
 uidp.org
@@ -67433,7 +67446,7 @@ update.yoprogramolatino.com
 update.zbs.su
 update24.ch
 update365office.com
-update6.satysservs.com/updateto165-1.dat
+update6.satysservs.com
 updateadovesettings.io
 updateguru.xyz
 updateoffileshares.cf
@@ -67582,7 +67595,7 @@ url.emailprotection.link/?bcp_LQdELwbKhxKToIznR8rOuhtt9W4qlFovFOxc0z5zmN6k8ji5zi
 url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmBKpoVHxYkckgjOQoYTV_U0G2UMKhd4MBI9Ms8vO3Vliq2ClOuUAa6nO2a7Ij5lJFsouoEEMeMVmI/
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
 url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
-url3.mailanyone.net/v1/?m=1gqjAZ-000BfC-4n&i=57e1b682&c=OZtRQmXF7oN5pbgtjwITGqIFHzseGIPJ778kLq969LDnepRJUFA3m4dqjipi-y6OdeP66fl3GFcG9Mo0uCH8uh_3unyNDLNiJEst871L2nZ8Bt27Et8YRWVkmsFhx001Buq9q_60jxe1ofVPHOxLFN1ol0vyuzUw6cC67geyyV1T0aGD81PMHe6Cu8Qd2qq8-ymIP4qFuRBsKb7Lv1Y00D0SYWjvvMyla6LG_jYhjkcVuQ-nh42o0dILyk44Tc-C/
+url3.mailanyone.net
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urldefense.proofpoint.com/v2/url?u=http-3A__borinfor.com_newfolde-5Fr_doc_En-5Fus_OVERDUE-2DACCOUNT_Invoice-2D07-2D19-2D18&d=DwIFaQ&c=VQ9hgUuwpNx5qjiyTmR6qQ&r=VWCMrOAZ42xEY7aBeHkCfVC7-GccDQiNerNlJRH5muI&m=JavSUg0f9C2qoCCa7AWt8RM7BRNk5mP_S7hBxPVa8ZU&s=XFGDpuuNz7L0uj6b4PoAfz3lck7VPATlniNQMVv_P6w&e/
@@ -68541,7 +68554,40 @@ vinafruit.net
 vinagyp.com
 vinahuy.com
 vinale.nl
-vinastone.com
+vinastone.com/2033798ELGVT/PAYMENT/Smallbusiness
+vinastone.com/2033798ELGVT/PAYMENT/Smallbusiness/
+vinastone.com/57qt1
+vinastone.com/57qt1/
+vinastone.com/6HMxF0/
+vinastone.com/994WFILE/4883YJFC/US/Payments/092018
+vinastone.com/994WFILE/58AKWKTYMF/WIRE/Smallbusiness
+vinastone.com/994WFILE/58AKWKTYMF/WIRE/Smallbusiness/
+vinastone.com/994WFILE/9MEPXJYCC/1992V/biz/Business
+vinastone.com/994WFILE/9MEPXJYCC/1992V/biz/Business/
+vinastone.com/994WFILE/9MEPXJYCC/PAYMENT/Commercial
+vinastone.com/994WFILE/9MEPXJYCC/PAYMENT/Commercial/
+vinastone.com/994WFILE/EN_US/Attachments/092018
+vinastone.com/994WFILE/En_us/Documents/102018
+vinastone.com/994WFILE/FB49795S/707998428/LJ-UII
+vinastone.com/994WFILE/FB49795S/707998428/LJ-UII/
+vinastone.com/Declaracion-mensual-junio
+vinastone.com/Declaracion-mensual-junio/
+vinastone.com/Download/QZMV043472159XFK/348545/WGPR-YDJC
+vinastone.com/Download/QZMV043472159XFK/348545/WGPR-YDJC/
+vinastone.com/EN_US/Clients_transactions/112018
+vinastone.com/EN_US/Clients_transactions/112018/
+vinastone.com/FILE/Invoice-663900/
+vinastone.com/Jul2018/US/Invoice-for-sent/Invoice/
+vinastone.com/KzjAW6
+vinastone.com/KzjAW6/
+vinastone.com/LLC/En_us/Outstanding-Invoices
+vinastone.com/LLC/En_us/Outstanding-Invoices/
+vinastone.com/New-Order-Upcoming/Invoice-613340/
+vinastone.com/OVERDUE-ACCOUNT/HRI-Monthly-Invoice/
+vinastone.com/Rechnungs-docs/
+vinastone.com/doc/US_us/New-Order-Upcoming/Invoice-07-11-18/
+vinastone.com/m3qQf5sLVY
+vinastone.com/sites/de/Zahlung/Rechnung-fur-Dienstleistungen-XZN-14-80540/
 vinatuoi.com
 vinay29.000webhostapp.com
 vinaykhatri.in
@@ -69491,7 +69537,7 @@ weboffice365.net
 webofmiscellaneous.com
 webon.vn
 webonlineshop.ml
-weboyun.site
+weboyun.site/wp-includes/secure_zone/ver/ENG/logged/public_data/
 webpathfinder.com
 webplaner.ch
 webpresario.com
@@ -69949,7 +69995,7 @@ wimkegravestein.nl
 wimpiebarnard.co.za
 win-best.com.hk
 win-speed.com
-win.tue.nl/~aeb/linux/hh/Message.zip
+win.tue.nl
 win1more.com
 win32.x10host.com
 winactive.host
