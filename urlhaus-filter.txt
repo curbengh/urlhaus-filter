@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 22 Sep 2019 12:23:19 UTC
+! Updated: Mon, 23 Sep 2019 00:22:24 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -302,6 +302,7 @@
 104.168.140.207
 104.168.141.118
 104.168.141.144
+104.168.142.84
 104.168.143.19
 104.168.144.199
 104.168.144.8
@@ -324,6 +325,7 @@
 104.168.169.153
 104.168.169.89
 104.168.171.186
+104.168.173.190
 104.168.174.124
 104.168.174.246
 104.168.195.250
@@ -486,6 +488,7 @@
 104.248.191.31
 104.248.196.145
 104.248.197.246
+104.248.197.62
 104.248.198.116
 104.248.198.14
 104.248.199.89
@@ -694,6 +697,7 @@
 107.181.160.197
 107.181.230.18
 107.182.225.125
+107.187.164.144
 107.189.187.12
 107.190.143.122
 107.191.104.226
@@ -2467,6 +2471,7 @@
 157.245.2.21
 157.245.211.135
 157.245.221.250
+157.245.221.28
 157.245.33.114
 157.245.33.187
 157.245.37.237
@@ -2604,6 +2609,7 @@
 159.65.166.93
 159.65.170.120
 159.65.170.44
+159.65.171.79
 159.65.172.17
 159.65.177.158
 159.65.180.153
@@ -2695,6 +2701,7 @@
 159.89.109.196
 159.89.114.171
 159.89.115.120
+159.89.118.241
 159.89.121.244
 159.89.121.65
 159.89.122.135
@@ -2980,6 +2987,7 @@
 165.22.253.89
 165.22.254.109
 165.22.255.18
+165.22.26.162
 165.22.31.143
 165.22.31.170
 165.22.33.211
@@ -3633,6 +3641,7 @@
 177.41.45.110
 177.43.159.19
 177.45.198.79
+177.45.203.208
 177.62.104.249
 177.62.179.224
 177.62.196.225
@@ -4175,6 +4184,7 @@
 185.11.146.84
 185.112.156.92
 185.112.248.58
+185.112.250.239
 185.112.250.241
 185.112.82.89
 185.114.23.99
@@ -4291,6 +4301,7 @@
 185.163.111.103
 185.163.127.12
 185.163.45.12
+185.163.45.180
 185.163.47.134
 185.163.47.188
 185.164.72.110
@@ -4718,6 +4729,7 @@
 185.25.50.160
 185.25.50.201
 185.25.51.133
+185.250.240.150
 185.250.240.234
 185.250.240.236
 185.250.240.237
@@ -5426,6 +5438,7 @@
 194.36.173.82
 194.36.189.244
 194.36.191.114
+194.36.191.122
 194.48.152.114
 194.48.152.17
 194.5.250.114
@@ -7007,6 +7020,7 @@
 24.45.124.218
 24.50.221.229
 24.50.239.48
+24.54.106.17
 24.63.34.175
 24.90.187.93
 24.96.119.52
@@ -7201,6 +7215,7 @@
 30undertennis.com
 31.128.173.853.zhzy999.net
 31.129.70.65
+31.13.195.165
 31.13.195.251
 31.13.195.49
 31.13.195.65
@@ -7342,6 +7357,7 @@
 34.80.139.3
 34.80.84.76
 34.87.96.249
+34.90.238.61
 34.90.45.71
 34.90.52.127
 35.154.50.228
@@ -8622,6 +8638,7 @@
 50.115.166.132
 50.115.166.136
 50.115.166.165
+50.115.168.102
 50.116.104.210
 50.197.106.230
 50.21.190.213
@@ -9056,6 +9073,7 @@
 60.250.1.161
 60.250.242.72
 60.250.99.131
+60.251.238.165
 601elevate.com
 602881963.cz
 6053365.com
@@ -10681,6 +10699,7 @@
 94.140.125.34
 94.140.125.9
 94.140.244.229
+94.142.140.131
 94.142.141.51
 94.154.17.170
 94.156.133.65
@@ -15274,7 +15293,7 @@ autodavid.hr
 autodetali-161.ru
 autodevices.topterra.ru
 autodrim.pl
-autodwg.com/download/dwfinpro.exe
+autodwg.com
 autoecole-hammamet.tn
 autoecole.inchtechs.com
 autoescuelacontreras.es
@@ -16652,7 +16671,9 @@ belangel.by
 belanja-berkah.xyz
 belanwalibahu.club
 belapari.org
-belart.rs
+belart.rs/images/FILE/Mig63c0nMMM/
+belart.rs/images/nachrichten/Frage/042019/
+belart.rs/sitemaps/Scan/29kTwIP7R/
 belaythakayni.com
 belboks.com
 belcorpisl.com
@@ -17960,7 +17981,7 @@ blog.ka-pok.com
 blog.kbits.net
 blog.kibblesnbitsblog.com
 blog.kingtelecom.com.br
-blog.kobisi.com
+blog.kobisi.com/wp-includes/Pages/lwhvRUfXazsPIfrpEZxSvMtgM/
 blog.kopila.co
 blog.lalalalala.club
 blog.lasoy.net
@@ -21237,7 +21258,8 @@ cirestudios.com
 cirqueampere.fr
 cisir.utp.edu.my
 cisme.in
-cismichigan.com
+cismichigan.com/1518MBCNZI/oamo/Commercial
+cismichigan.com/1518MBCNZI/oamo/Commercial/
 cisnecosmetics.com.br
 ciss.mk
 cissa.ewebdy.com
@@ -25278,7 +25300,7 @@ djlilmic.com
 djmarket.co.uk
 djment.com
 djohnsonfamily.co.uk
-djpartycompany.gr
+djpartycompany.gr/components/com_mailto/gc/dnno.exe
 djpiwa.net
 djreservations.com
 djsbejaia.com
@@ -26563,7 +26585,8 @@ down.haote.com
 down.hognoob.se
 down.icafe8.com
 down.klldddiso.xyz
-down.kuwo.cn
+down.kuwo.cn/KwLyric.exe
+down.kuwo.cn/mbox/wwwab/MBOX8.0.1.5/kuwo2015.exe
 down.leyoucoc.cn
 down.my0115.ru
 down.pcclear.com
@@ -29834,7 +29857,7 @@ ethclick.live
 ethclicks.live
 ethdigitalcampus.com
 ethecae.com
-ethecal.com
+ethecal.com/wp-admin/sites/pyl6j5aah_eottjcf-539345791934398/
 etherbound.org
 etherealms.com
 ethereumcashpr0.com
@@ -33829,7 +33852,7 @@ goodveiwhk.com
 goodwife.com
 goodwillhospital.org
 goodword.pro
-goodyearmotors.com/De/ZMIRQKWX6219588/Rechnungs-docs/DOC-Dokument/
+goodyearmotors.com
 goofdeckers.bid
 google-ads-expert.co.ua
 google-tokyo.info
@@ -35177,7 +35200,7 @@ healthhostess.com
 healthier-online.fr
 healthifyafrica.com
 healthinword.com.ng
-healthknowledge.my/wp-includes/gi7jeaol4m_0cke1q0y-76/
+healthknowledge.my
 healthnwellness.in
 healthphysics.com.au
 healthproblems.review
@@ -35342,7 +35365,7 @@ helpimhomeless.com
 helpingblogger.com
 helpinghere.fr
 helpingpawsrescueinc.org
-helpjet.net
+helpjet.net/dl/70967328-75843699-19193941/30885056/20070223101355468_driver.exe
 helplog3021.cf
 helplog359.gq
 helpmebuyavehicle.com
@@ -36225,7 +36248,7 @@ hosting.tlink.vn
 hosting113979.a2f57.netcup.net
 hostingboom.com
 hostingbypierre.com
-hostingcloud.science
+hostingcloud.science/6NQq.js
 hostinggiarenhat.com
 hostmktar.com
 hostn.co
@@ -37981,6 +38004,7 @@ interconimpex.com
 intercontinentalglobalservice.com
 interer-gostinnoy.ru
 interfaith.lk
+interfaithretreats.net
 interfaithtour.fr
 interfid-liberty.com
 interfrazao.com.br
@@ -41620,7 +41644,18 @@ kvintek.com
 kviv-avto.ru
 kviz.nasasuperhrana.si
 kvltehnika.ee
-kvnode.nl
+kvnode.nl/arc
+kvnode.nl/armv4l
+kvnode.nl/armv5l
+kvnode.nl/armv6l
+kvnode.nl/armv7l
+kvnode.nl/m68k
+kvnode.nl/mips
+kvnode.nl/mipsel
+kvnode.nl/powerpc
+kvnode.nl/sh4
+kvnode.nl/sparc
+kvnode.nl/x86
 kvona.com
 kvsc.com.my
 kvse.dp.ua
@@ -45903,7 +45938,7 @@ meltonairservices.com.au
 melwanilaw.com
 melyanna.nl
 memap.co.uk
-members.chello.nl
+members.chello.nl/g.dales2/b.exe
 members.iinet.net.au/~sambo75/FedEx--shipping(ecopy)22-3235-44-Labels.jar
 members.iinet.net.au/~sambo75/FedEx-shipping(ecopy)22-3235-44-Labels.jar
 members.iinet.net.au/~sambo75/svvchost.exe
@@ -46181,7 +46216,7 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
-miamicondoinvestments.com/wp-admin/sec.myaccount.docs.com/
+miamicondoinvestments.com
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -47203,16 +47238,20 @@ mosbirdclub.ru
 mosbussum.nl
 moschee-wil.ch
 moscow.bulgakovmuseum.ru
-moscow00.online
+moscow00.online/GetDataAVK.exe
+moscow00.online/KeyMoscow00.35.exe
 moscow1.online/GetDataAVK.exe
 moscow1.online/KeyMoscow.exe
 moscow1.online/proxy/skapoland.chickenkiller.com.exe
 moscow11.at
 moscow11.host
 moscow11.icu
-moscow33.online
-moscow44.online
-moscow55.online
+moscow33.online/KeyMoscow33.35.exe
+moscow33.online/KeyMoscow33.40.exe
+moscow33.online/proxy/assno.chickenkiller.com.exe
+moscow44.online/KeyMoscow44.35.exe
+moscow44.online/KeyMoscow44.40.exe
+moscow55.online/KeyMoscow55.35.exe
 moscow66.online/KeyMoscow55.35.exe
 moscow77.online
 moscowvorota.ru
@@ -48788,7 +48827,7 @@ newparadise.com.vn
 newpavanchatcorner.com
 newpioneerschool.com
 newportedu.org
-newradio.it
+newradio.it/personalplayer/rvl/rvl.exe
 newreport.info
 newrockchurchconyers.org
 news-week.ru
@@ -53608,6 +53647,7 @@ proxima-solution.com
 proxindo.id
 proxy-ipv4.com
 proxy.qualtrics.com/proxy/?url=https%3A%2F%2Fuark.qualtrics.com%2FCP%2FFile.php%3FF%3DF_0ImYT11IuwAOVeZ&token=VaZKFD%2BFsRcUYx5fyuNAX24ZXgk5dXrGqSzM%2BPOz8fw%3D
+proxygrnd.xyz
 proxyholding.com
 proxyresume.com
 proxysis.com.br
@@ -55516,7 +55556,7 @@ rgbsrl.com.ar
 rgclimatizacion.com
 rgdecor.org
 rgfloors.com.au
-rgho.st
+rgho.st/download/6nNmWRj65/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/Fornite%20Hack%202018.exe
 rgmobilegossip.com
 rgrosser.com
 rgrservicos.com.br
@@ -58712,7 +58752,7 @@ sijin-edu.com
 sijuki.com
 sikanino.com
 sikh-history.com
-sikhorhsp.com
+sikhorhsp.com/vos-factures-impayees/
 sikoruiz.es
 silantaplace.com
 silantavillage.com
@@ -59193,7 +59233,16 @@ slowlane.me
 slowmoneysocal.org
 slowtime.net
 slppoffice.lk
-slpsrgpsrhojifdij.ru
+slpsrgpsrhojifdij.ru/1.exe
+slpsrgpsrhojifdij.ru/2.exe
+slpsrgpsrhojifdij.ru/3.exe
+slpsrgpsrhojifdij.ru/c.exe
+slpsrgpsrhojifdij.ru/krablin.exe
+slpsrgpsrhojifdij.ru/krablin.exe?SZLIp
+slpsrgpsrhojifdij.ru/krablin.exe?VuNpZqS
+slpsrgpsrhojifdij.ru/o.exe
+slpsrgpsrhojifdij.ru/p.exe
+slpsrgpsrhojifdij.ru/t.exe
 slrent.com
 slrpros.com
 sls-eg.com
@@ -60313,7 +60362,8 @@ ssllinks.duckdns.org
 sslv3.at
 ssmmbed.com
 ssmthethwa.co.za
-ssofhoseuegsgrfnj.su
+ssofhoseuegsgrfnj.su/o.exe
+ssofhoseuegsgrfnj.su/t.exe
 ssofhoseuegsgrfnu.ru
 ssoocc.com
 ssosi.ru
@@ -62974,10 +63024,7 @@ support.homemakerideas.com
 support.imaitaly.biz
 support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/
 support.jbrueggemann.com
-support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/
-support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc
-support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
-support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
+support.mdsol.com
 support.redbook.aero
 support.volkerstevin.ca
 support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/
@@ -65739,7 +65786,7 @@ totharduron.com
 totnaks.com
 toto-win.ru
 touchandlearn.pt
-toucharger.com
+toucharger.com/download/media/TC/barre-menu_1_57600.exe
 touchartvn.com
 touchesbegan.eu
 touchoftuscany.com
@@ -66238,7 +66285,10 @@ truebluevibes.com
 truebox-sg.com
 trueke.es
 truenorthtimber.com
-trueshare.com
+trueshare.com/DirectLink/FileAccess.aspx?DLID=5iUsD63u2n341xo3F787
+trueshare.com/DirectLink/FileAccess.aspx?DLID=Ramij68ogQxqP3IjGWG3
+trueshare.com/DirectLink/FileAccess.aspx?DLID=a3xhX784BxKb5w1xgGah
+trueshare.com/DirectLink/FileAccess.aspx?DLID=g512467Okv168aall61W
 trueterroir.co.uk
 trullsrodshop.com
 trulykomal.com
@@ -69230,9 +69280,7 @@ wallpaaper.xyz
 wallpapershd.xyz
 wallsorts.co.nz
 wallstreetancona.wazabit.it
-wallstreetreporter.com/wp-content/plugins/most-popular-posts/1
-wallstreetreporter.com/wp-content/plugins/most-popular-posts/2
-wallstreetreporter.com/wp-content/plugins/most-popular-posts/3
+wallstreetreporter.com
 walnutgrey.com
 walstan.com
 waltermagaya.com
@@ -70557,7 +70605,7 @@ www2.recepty5.com
 www2.runmyweb.com
 www2.wlwv.k12.or.us
 www6.hpq0.cn
-www68.zippyshare.com
+www68.zippyshare.com/d/5Eixpiut/74091/Csgo%20cheat%20updated.exe
 wwwclplonline.000webhostapp.com
 wwwdev.whitehat.pt
 wwwhelper.com
@@ -71197,6 +71245,7 @@ xyntegra.com
 xyrkl.pw
 xyskyewhitedevilexploitgreat.duckdns.org
 xysldsp.com
+xyxyxoooo.com
 xyxyxyxyxyxyxywkworkforworldwifewide.duckdns.org
 xyz-ideas.com
 xyz123web.com
