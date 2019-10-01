@@ -99,7 +99,7 @@ failed_job:
     - mkdir -p .gitlab/
     - wget https://img.shields.io/badge/pipeline-failed-critical.svg -O .gitlab/status.svg
     - git add .gitlab/status.svg
-    - git diff-index --quiet HEAD || git commit -m "Success pipeline"
+    - git diff-index --quiet HEAD || git commit -m "Failed pipeline"
     - ssh git@gitlab.com
     - git push
     - ssh -T git@github.com || echo
