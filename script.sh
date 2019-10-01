@@ -105,4 +105,21 @@ sed '1 i\'"$COMMENT"'' | \
 sed '1s/Malicious/Online Malicious/' > ../urlhaus-filter-online.txt
 
 
+## Host-only blocklist
+FIRST_LINE="# Title: abuse.ch URLhaus Malicious Hosts Blocklist"
+SECOND_LINE="# Updated: $CURRENT_TIME"
+THIRD_LINE="# Repo: https://gitlab.com/curben/urlhaus-filter"
+FOURTH_LINE="# License: https://creativecommons.org/publicdomain/zero/1.0/"
+FIFTH_LINE="# Source: https://urlhaus.abuse.ch/api/"
+COMMENT="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE"
+
+cat malware-domains.txt | \
+sort | \
+sed '1 i\'"$COMMENT"'' > ../urlhaus-filter-hosts.txt
+
+cat malware-domains-online.txt | \
+sort | \
+sed '1 i\'"$COMMENT"'' | \
+sed '1s/Malicious/Online Malicious/' > ../urlhaus-filter-hosts-online.txt
+
 cd ../ && rm -r tmp/
