@@ -73,7 +73,7 @@ Mirrors:
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 - https://cdn.staticaly.com/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 
-Note that host-based software cannot block malware URLs hosted by well-known domains (e.g. amazonaws.com, docs.google.com, dropbox.com).
+Note that host-based software does not block malware URLs hosted by well-known domains (e.g. amazonaws.com, docs.google.com, dropbox.com).
 
 ## Issues
 
