@@ -106,7 +106,6 @@ sed '1s/Malicious/Online Malicious/' > ../urlhaus-filter-online.txt
 
 
 ## Host-only blocklist
-CURRENT_TIME="$(date -R -u)"
 FIRST_LINE="# Title: abuse.ch URLhaus Malicious Hosts Blocklist"
 SECOND_LINE="# Updated: $CURRENT_TIME"
 THIRD_LINE="# Repo: https://gitlab.com/curben/urlhaus-filter"
