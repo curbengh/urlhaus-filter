@@ -34,22 +34,8 @@ Mirrors:
 
 This filter is only tested with uBO. [FilterLists](https://filterlists.com/) shows it is compatible with the following software:
 
-- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
-- [Google Hit Hider](https://www.jeffersonscher.com/gm/google-hit-hider/)
-- [hostsmgr](https://www.henrypp.org/product/hostsmgr)
+- [AdNauseam](https://github.com/dhowe/AdNauseam/)
 - [NanoAdblocker](https://github.com/NanoAdblocker/NanoCore)
-- [Personal Blocklist](https://addons.mozilla.org/firefox/addon/personal-blocklist/)
-- [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
-- [Pi-hole](https://pi-hole.net/)
-- [Samsung Knox](https://www.samsungknox.com/)
-- [uMatrix](https://github.com/gorhill/uMatrix)
-
-Possibly compatible mobile apps (not tested):
-
-- [AdGuard](https://adguard.com/)
-- [Blokada](https://github.com/blokadaorg/blokada/)
-
-Note that some of the software above are host-based only, meaning it cannot block malware URLs hosted by well-known domains (e.g. amazonaws.com, docs.google.com, dropbox.com). For best compatibility, use uBO or its fork NanoAdblocker.
 
 ## Issues
 
