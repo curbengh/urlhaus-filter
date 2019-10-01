@@ -34,22 +34,46 @@ Mirrors:
 
 This filter is only tested with uBO. [FilterLists](https://filterlists.com/) shows it is compatible with the following software:
 
+- [AdNauseam](https://github.com/dhowe/AdNauseam/)
+- [NanoAdblocker](https://github.com/NanoAdblocker/NanoCore)
+
+Host/DNS-based software uses host-based blocklist instead, see below section.
+
+## Host-based blocklist
+
+If you're using one of the following programs:
+
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
+- [Blokada](https://github.com/blokadaorg/blokada/)
 - [Google Hit Hider](https://www.jeffersonscher.com/gm/google-hit-hider/)
 - [hostsmgr](https://www.henrypp.org/product/hostsmgr)
-- [NanoAdblocker](https://github.com/NanoAdblocker/NanoCore)
 - [Personal Blocklist](https://addons.mozilla.org/firefox/addon/personal-blocklist/)
 - [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
 - [Pi-hole](https://pi-hole.net/)
 - [Samsung Knox](https://www.samsungknox.com/)
 - [uMatrix](https://github.com/gorhill/uMatrix)
 
-Possibly compatible mobile apps (not tested):
+The filters listed in [Subscribe](#subscribe) section are not compatible.
+Instead, use the following blocklist:
 
-- [AdGuard](https://adguard.com/)
-- [Blokada](https://github.com/blokadaorg/blokada/)
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
 
-Note that some of the software above are host-based only, meaning it cannot block malware URLs hosted by well-known domains (e.g. amazonaws.com, docs.google.com, dropbox.com). For best compatibility, use uBO or its fork NanoAdblocker.
+Mirrors:
+
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
+- https://cdn.staticaly.com/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
+
+<br />
+Lite version (online hosts only):
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
+
+Mirrors:
+
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
+- https://cdn.staticaly.com/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
+
+Note that host-based software cannot block malware URLs hosted by well-known domains (e.g. amazonaws.com, docs.google.com, dropbox.com).
 
 ## Issues
 
