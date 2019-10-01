@@ -17,13 +17,14 @@ deploy_job:
 
     # Import private key with ed25519 workaround
     - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    - echo "$GH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
 
     # Create the SSH directory and give it the right permissions
     - mkdir -p ~/.ssh
     - chmod 700 ~/.ssh
 
     # Add gitlab.com as ssh known host
-    - ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
+    - echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
     - chmod 644 ~/.ssh/known_hosts
 
     # Set commit author
@@ -46,6 +47,11 @@ deploy_job:
 
     # Push the commit
     - git push
+
+    # Push to mirror
+    - ssh git@github.com
+    - git remote add mirror git@github.com:curbengh/urlhaus-filter.git
+    - git push mirror
 
   after_script:
     # Generate successful status badge
