@@ -31,7 +31,6 @@ deploy_job:
     - git config --global user.name "curben-bot"
     - git config --global user.email "curben-bot@users.noreply.gitlab.com"
 
-  script:
     # SSH to gitlab.com
     - ssh git@gitlab.com
 
@@ -39,28 +38,42 @@ deploy_job:
     - git clone --depth 3 git@gitlab.com:curben/urlhaus-filter.git build
     - cd build/
 
+  script:
     # Run scripts
     - sh script.sh
 
     # Commit the changes
     - sh utils/commit.sh
 
-    # Push the commit
+  after_script:
+    - cd build/
+
+    # Re-add ssh key https://gitlab.com/gitlab-org/gitlab-runner/issues/1926
+    - eval $(ssh-agent -s)
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    - echo "$GH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+    - chmod 644 ~/.ssh/known_hosts
+
+    # Generate successful status badge
+    - mkdir -p .gitlab/
+    - wget https://img.shields.io/badge/pipeline-passed-success.svg -O .gitlab/status.svg
+    - git add .gitlab/status.svg
+    # Only commit when diff exists https://stackoverflow.com/a/8123841
+    - git config --global user.name "curben-bot"
+    - git config --global user.email "curben-bot@users.noreply.gitlab.com"
+    - git diff-index --quiet HEAD || git commit -m "Success pipeline"
+
+    - ssh git@gitlab.com
     - git push
 
     # Push to mirror
-    - ssh git@github.com
+    # Force exit code 0
+    - ssh -T git@github.com || echo
     - git remote add mirror git@github.com:curbengh/urlhaus-filter.git
     - git push mirror
-
-  after_script:
-    # Generate successful status badge
-    - mkdir -p /builds/curben/urlhaus-filter/public/
-    - wget https://img.shields.io/badge/pipeline-passed-success.svg -O /builds/curben/urlhaus-filter/public/status.svg
-
-  artifacts:
-    paths:
-      - public/status.svg
 
   only:
     # Allow CI to be triggered by schedule
@@ -73,32 +86,28 @@ failed_job:
   stage: failed_stage
 
   script:
-    # Generate failed status badge
-    - mkdir -p /builds/curben/urlhaus-filter/public/
-    - wget https://img.shields.io/badge/pipeline-failed-critical.svg -O /builds/curben/urlhaus-filter/public/status.svg
-
-  artifacts:
-    paths:
-      - public/status.svg
+    - cd build/
+    - eval $(ssh-agent -s)
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    - echo "$GH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+    - chmod 644 ~/.ssh/known_hosts
+    - git config --global user.name "curben-bot"
+    - git config --global user.email "curben-bot@users.noreply.gitlab.com"
+    - mkdir -p .gitlab/
+    - wget https://img.shields.io/badge/pipeline-failed-critical.svg -O .gitlab/status.svg
+    - git add .gitlab/status.svg
+    - git diff-index --quiet HEAD || git commit -m "Success pipeline"
+    - ssh git@gitlab.com
+    - git push
+    - ssh -T git@github.com || echo
+    - git remote add mirror git@github.com:curbengh/urlhaus-filter.git
+    - git push mirror
 
   # Run this job only when deploy_job failed
   when: on_failure
-
-  only:
-    - schedules
-    - web
-
-pages:
-  stage: pages_stage
-
-  script:
-    - echo "Uploading status.svg to Pages..."
-
-  artifacts:
-    paths:
-      - public
-
-  when: always
 
   only:
     - schedules
