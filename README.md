@@ -51,7 +51,7 @@ Host/DNS-based software uses host-based blocklist instead, see below section.
 
 ## Host-based blocklist
 
-If you're using one of the following programs:
+If you're using host-based blockers like one of the following (but not limited to):
 
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
 - [Blokada](https://github.com/blokadaorg/blokada/)
