@@ -15,7 +15,7 @@ deploy_job:
 
     - git checkout master
     - git config --global user.name "curben-bot"
-    - git config --global user.email "curben-bot@users.noreply.gitlab.com"
+    - git config --global user.email "3048979-curben-bot@users.noreply.gitlab.com"
 
     # Commit the changes
     - sh utils/commit.sh
