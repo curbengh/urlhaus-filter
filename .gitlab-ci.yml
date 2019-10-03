@@ -42,7 +42,7 @@ deploy_job:
 
     # Push to mirror
     # Force exit code 0
-    - ssh -T git@github.com || echo
+    - ssh -T git@github.com || ":"
     - git remote add mirror git@github.com:curbengh/urlhaus-filter.git
     - git push mirror master
 
@@ -74,7 +74,7 @@ failed_job:
     - ssh -T git@gitlab.com
     - git remote set-url origin git@gitlab.com:curben/urlhaus-filter.git
     - git push origin master
-    - ssh -T git@github.com || echo
+    - ssh -T git@github.com || ":"
     - git remote add mirror git@github.com:curbengh/urlhaus-filter.git
     - git push mirror master
 
