@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Fri, 11 Oct 2019 00:12:36 UTC
+# Updated: Fri, 11 Oct 2019 12:12:43 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -1603,6 +1603,7 @@
 125.164.158.75
 125.164.182.45
 125.164.234.198
+125.164.44.216
 125.166.156.219
 125.18.28.170
 125.209.71.6
@@ -2454,6 +2455,7 @@
 142.93.134.253
 142.93.134.98
 142.93.135.109
+142.93.135.8
 142.93.136.146
 142.93.136.187
 142.93.138.130
@@ -2664,6 +2666,7 @@
 146.71.76.19
 146.71.76.191
 146.71.76.58
+146.71.76.64
 146.71.77.205
 146.71.78.71
 146.71.79.190
@@ -3262,6 +3265,7 @@
 159.65.233.36
 159.65.234.16
 159.65.235.46
+159.65.236.54
 159.65.237.96
 159.65.237.98
 159.65.238.162
@@ -3788,6 +3792,7 @@
 167.114.98.221
 167.160.177.16
 167.160.36.37
+167.179.117.58
 167.179.119.235
 167.250.30.27
 167.71.0.66
@@ -4133,6 +4138,7 @@
 171.97.62.107
 17184.p17.justsv.com
 172.104.104.166
+172.104.114.20
 172.104.212.184
 172.104.242.131
 172.104.40.92
@@ -5370,6 +5376,7 @@
 185.112.249.146
 185.112.249.22
 185.112.249.55
+185.112.249.9
 185.112.249.95
 185.112.250.239
 185.112.250.240
@@ -7467,6 +7474,7 @@
 198.23.201.217
 198.23.201.218
 198.23.201.219
+198.23.202.49
 198.23.252.10
 198.23.255.10
 198.27.126.93
@@ -8644,6 +8652,7 @@
 211.21.205.207
 211.22.103.237
 211.22.125.10
+211.220.181.146
 211.224.199.50
 211.227.192.114
 211.228.249.197
@@ -9469,6 +9478,7 @@
 3.8.8.24
 3.82.177.144
 3.85.223.208
+3.86.56.191
 3.87.40.220
 3.89.91.237
 3.92.174.100
@@ -10576,6 +10586,7 @@
 45.8.126.5
 45.8.159.7
 45.80.148.117
+45.80.148.47
 45.80.37.125
 45.80.37.152
 45.80.37.166
@@ -18642,6 +18653,7 @@ atakara.bid
 atakentegitimkurumlari.com
 ataklartesisat.com
 atakorpub.com
+atakoyarena.com
 atasehirmutluson.xyz
 atasehirrehberi.net
 atashneda.com
@@ -20699,6 +20711,7 @@ beyazgarage.com
 beydagihali.com
 beyhannakliyat.com
 beyinvesinirhastaliklari.com
+beynerendo.com
 beyoglumetropol.com
 beyondb2b.eu
 beyondbathroomsandplumbing.co.uk
@@ -22332,6 +22345,7 @@ brothercountry-iran.com
 brotherhairs.com
 brothersecurityservice.com
 brotherstaxikusadasi.com
+brouq-sa.com
 brouwercc.nl
 brouwershuys.nl
 browar-zacisze.cba.pl
@@ -25211,6 +25225,7 @@ colegioadventistadeibague.edu.co
 colegioarbitrosargentinos.com.ar
 colegiodavinci.pe
 colegiodelaconquista.com
+colegiolosandes.edu.pe
 colegiosantanna.com.br
 colegiosaofrancisco.com.br
 colemagee.com
@@ -26314,6 +26329,7 @@ cscv.gob.ve
 csd-tat.org.ua
 csd190.com
 csday.site
+csdstat14tp.world
 cse.com.ge
 csebullk.com
 cselegance.com
@@ -27417,6 +27433,7 @@ dehkadeh-tameshk.ir
 dehlie.dk
 dehneshin.com
 dehydrated.sk
+deidrekreuz.com
 deimplant.com
 deinc.com
 deinde.tech
@@ -30438,6 +30455,7 @@ ednannya.org
 ednis.devblek.pt
 edogservices.com.au
 edqwest.com
+eds-pv.com
 edsakaindobubble.com
 edsonramalho.com.br
 edspack.com.br
@@ -31542,6 +31560,7 @@ ersankaravan.com
 ersbaca.com.tr
 eruditup.ru
 erufc.co.kr
+erugutrane.com
 erun-tech.com
 erush.nl
 erusst.com
@@ -33008,6 +33027,7 @@ files.runforfreedom.org
 files.secure-docs.us
 files.zzattack.org
 files6.uludagbilisim.com
+filesdocuments.com
 filesecured.xyz
 fileservice.ga
 filesfromoffice365.com
@@ -34216,6 +34236,7 @@ fupfa.org
 fupu.org
 fur-market.ru
 furbymsk.ru
+fureheroes.com
 furenzip.com
 furhatsth.net
 furious-styles.com
@@ -35145,6 +35166,7 @@ giaoducvacongnghe.com
 giaphatdecor.com
 giardiniereluigi.it
 giasuducviet.vn
+giatsaygiare.com
 giave.vn
 giaxetoyotahadong.com
 giay136.com
@@ -35290,6 +35312,7 @@ glasspro.kz
 glassservice-beograd.com
 glatech.ir
 glaub-online.de
+glaustudios.com
 glazastiks.ru
 glb-almhbub.com
 glbproject.it
@@ -36327,6 +36350,7 @@ guiullucia.com
 gujaratisamajjobs.com
 gujjulala.com
 gularte.com.br
+gulartetattoo.com
 gulfclouds.site
 gulfcoastcurbappeal.net
 gulfexpresshome.co
@@ -37766,6 +37790,7 @@ homes.co.id
 homescout.tk
 homesecuredata.com
 homesick.cc
+homesickpromotions.com
 homesmebel.com
 homesports.com.ar
 homestayhonson.com
@@ -40676,6 +40701,7 @@ java-gold.com
 javabike.net
 javadesign.apm.pe.kr
 javatank.ru
+javcastle.com
 javcoservices.com
 javeacochesdelevante.com
 javed.co.uk
@@ -42680,6 +42706,7 @@ kitabos.com
 kitahamakai-miyoshiiin.com
 kitakami-fukushi.ac.jp
 kitaooji-kinseiin.jp
+kitaplasalim.org
 kitchen-aid.vn
 kitchenclassic.ir
 kitchencraftregina.com
@@ -43656,6 +43683,7 @@ lagouttedelixir.com
 lagranderecre-collectivites.fr
 lagrandetournee.fr
 lagreca.it
+lagriffeduweb.com
 laguartis.com
 lagucover.xyz
 laguna-residences.com
@@ -47121,6 +47149,7 @@ masterprint.id
 masters-catering.kz
 masters18.com
 mastersgb.com
+mastersjarvis.com
 mastersmeble.pl
 mastersoftext.net
 masterspharmacy.co.uk
@@ -47453,6 +47482,7 @@ meblog.ir
 mebs-marketing.de
 mecanique-vivante.com
 mecanizadosgurrutxaga.com
+mecatronica.ifc-riodosul.edu.br
 mecenat.com.ua
 mecgwl.ac.in
 mechanicaltools.club
@@ -50310,6 +50340,7 @@ ncvascular.com.au
 ncw.com.sa
 ncwvalley.com
 ndalima.co.za
+ndcgc.org
 ndiamed.net
 ndigital.cn
 ndit.ca
@@ -50627,6 +50658,7 @@ newlitbits.ca
 newmarkethistoricalsociety.org
 newmarketing.no
 newmarkettowing.ca
+newmillerhvac.com
 newmix.top
 newnow.com.tw
 newoffices.xyz
@@ -50738,6 +50770,7 @@ nexzus.com
 neyture.customsites.nl
 nfbio.com
 nfc.vn
+nfe-fazenda.myftp.org
 nfefazendaportalprincipal.com
 nfegratuito.myrp.com.br
 nfog2018.dk
@@ -50886,6 +50919,7 @@ nigelec.net
 nigelkarikari.com
 nigellane.net
 nigeriafasbmbcongress.futminna.edu.ng
+nigerianwhistleblowers.com
 nigeriatbpartnership.org
 nigeventindustry.org
 niggalife.5gbfree.com
@@ -50952,6 +50986,7 @@ ninestars.jp
 ninetygrime.kolegajualan.com
 ninetynine.nl
 ninhodosanimais.com.br
+niningwindarti.com
 ninjacoder.me
 ninjatrader.life
 ninta.pw
@@ -51536,6 +51571,7 @@ nxn.one
 nxtgreen.co.in
 nyamphande.com
 nyanya-v-ceti.ru
+nyc.rekko.com
 nycfpf.com
 nyconstructionaccidentattorneys.net
 nydrugrehabilitation.com
@@ -51718,6 +51754,7 @@ oet.xenxulbl.trade
 oetkepel.nl
 oetsiekoetsie.nl
 oetvonline.com
+ofek-bar.co.il
 oferta.watra.com.pl
 ofertas.comparadentistas.com
 off-cloud.com
@@ -52131,6 +52168,7 @@ onggiodieuhoa.com
 ongwayyo.org
 onholyland.com
 onhouseproperty.com
+onickdoorsonline.com
 onicorp.ru
 onilk.tk
 onino.co
@@ -52728,6 +52766,7 @@ ozgursimsek.xyz
 ozkaracan.com.tr
 ozkayalar.com
 ozkngbvcs.bkt.gdipper.com
+ozlemerdencaylan.com
 ozlemtunc.com
 ozmetal.com.tr
 ozon.misatheme.com
@@ -52973,6 +53012,7 @@ papabubbleksa.com
 papagreybeard.us
 papaleguaspneus.com.br
 papanegro.cl
+paparatsi.club
 paparatzi.co.il
 paparra.net
 papatheodorou.com.cy
@@ -53472,6 +53512,7 @@ pengona.com
 peninsulals.com
 penis.tips
 penktadienioistorijos.lt
+pennapoinx.com
 pennasliotar.com
 pennasports.com
 penneytrail.org
@@ -54365,6 +54406,7 @@ poli.videoingenieria.es
 polibarral.pt
 policereporterplus.com
 poliklinika-majnaric.com
+polishmenailboutique.com
 politcalpr.files.wordpress.com
 politecompany.org
 politgroup.top
@@ -55946,6 +55988,7 @@ queekebook.com
 queenannehair.com
 queencoffe.ru
 queenfashionnew.vn
+queeniekawabe.com
 queenofpeacedelray.org
 queensaccessories.co.za
 queensfordcollegebrisbane-my.sharepoint.com
@@ -58458,6 +58501,7 @@ samox.cz
 samplesmag.org
 sampling-group.com
 sampoernagroups.com
+samportal.com
 samratindian.com.au
 samruddhinursing.com
 samsadanala.com
@@ -60470,6 +60514,7 @@ sipdoorphone.com
 sipmanagement-my.sharepoint.com
 siprev.net.br
 siragehad.com
+sirajhummus.com
 siranagi.sakura.ne.jp
 sirenas-spa.com
 sirijayareddypsychologist.com
@@ -60627,6 +60672,7 @@ skincodeindia.com
 skindeeptattoos.net
 skindnarog.com
 skinnovatelab.com
+skinrenaissanceclinic.net
 skins-dreamteam.eu
 skinsekret.ru
 skintimes.nl
@@ -61789,6 +61835,7 @@ springhousecarehome.co.uk
 springsalphas.org
 sprinklage.be
 sprinter.by
+sprintnetworksti.com
 sprintsalesapi.com
 sprinty.com.au
 spritebug.com
@@ -64788,6 +64835,7 @@ thegesualdosix.com
 thegiddystitcher.com
 thegilbertlawoffice.com
 thegioicongdungcu.com
+thegioigas.com
 thegioitraicay24h.com
 theglobetrotters.org
 thegoldenbeard.in
@@ -64851,6 +64899,7 @@ thekeyfurniture.com
 thekindlesales.com
 thekingarzel.duckdns.org
 thekingofecom.com
+thekingofsoul.com
 thekingsway.org
 thekubhugja1.xyz
 thekurers.com
@@ -64932,6 +64981,7 @@ themusae.com
 thenatureszest.com
 theneonblonde.com
 thenewerabeauty.com
+thenews4views.com
 thenff.com
 thenichegame.com
 thenine.club
@@ -65149,6 +65199,7 @@ thietbiytegiatot.net
 thietkewebsitepq.com
 thietkewebwp.com
 thietkexaydungnhamoi.com
+thijsmorlion.com
 thim.biz
 thimaralkhair.com
 thingsfromthe90s.com
@@ -65230,6 +65281,7 @@ threesets.com
 threesisterscenter.com
 threestartex.com
 threewheelbicycles.com
+threololic.com
 threxng.com
 thronesenglishgame.com
 thryhamexico.com
@@ -68281,6 +68333,7 @@ vinka-gmbh.de
 vinkagu.com
 vinlotteri.jenszackrisson.se
 vinmeconline.com
+vinoclicks.in
 vinomag.pw
 vinovertus.com
 vinsportiataymo.com
@@ -71358,6 +71411,7 @@ yxieludy.cf
 yxkj333.com
 yxuwxpqjtdmj.tw
 yy.xn--gjvz58f.com
+yy6262.com
 yyfsl.top
 yyhbggu.ru
 yyirnldy.cf
@@ -71412,6 +71466,7 @@ zaini.in
 zairarosas.com
 zairehair.com.br
 zajcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
+zajonc.de
 zakatandsadaqat.org.ng
 zakaz-flexumgel.ru
 zakaz-klinistil.ru
