@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sat, 12 Oct 2019 12:13:36 UTC
+# Updated: Sun, 13 Oct 2019 00:14:14 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -54,6 +54,7 @@
 0x099as0xd.duckdns.org
 0xbitconnect.co
 0xff.pl
+1-stomatolog.ru
 1.1.150.122
 1.1.226.93
 1.161.23.221
@@ -1427,6 +1428,7 @@
 12.163.111.91
 12.178.187.6
 12.178.187.8
+12.178.187.9
 12.249.173.210
 12.25.14.44
 12.30.166.150
@@ -2262,6 +2264,7 @@
 139.59.74.176
 139.59.75.31
 139.59.78.79
+139.59.8.190
 139.59.81.226
 139.59.83.175
 139.59.86.57
@@ -5540,6 +5543,7 @@
 185.164.40.36
 185.164.72.110
 185.164.72.111
+185.164.72.135
 185.164.72.136
 185.164.72.138
 185.164.72.149
@@ -6153,6 +6157,7 @@
 186.115.206.244
 186.120.84.242
 186.121.127.50
+186.122.73.201
 186.137.55.9
 186.138.38.199
 186.149.12.84
@@ -6658,6 +6663,7 @@
 189.222.195.198
 189.223.121.48
 189.223.2.238
+189.223.91.149
 189.226.101.255
 189.230.174.16
 189.236.53.130
@@ -8212,6 +8218,7 @@
 205.185.117.168
 205.185.117.187
 205.185.117.44
+205.185.118.143
 205.185.118.152
 205.185.118.172
 205.185.118.175
@@ -8404,6 +8411,7 @@
 206.248.136.6
 206.255.52.18
 206.72.195.90
+206.72.197.77
 206.72.198.100
 206.81.1.111
 206.81.11.231
@@ -11447,6 +11455,7 @@
 50.115.168.102
 50.115.168.110
 50.115.168.111
+50.115.172.143
 50.116.104.210
 50.197.106.230
 50.21.190.213
@@ -11627,6 +11636,7 @@
 52.15.227.66
 52.15.233.13
 52.163.201.250
+52.170.151.92
 52.172.0.191
 52.172.1.101
 52.172.12.125
@@ -18260,6 +18270,7 @@ artemunar.com.ar
 artemvqe.beget.tech
 artera.lt
 arterra.com.tr
+artesaniasdecolombia.com.co
 artesianwater-540.com.ua
 artesucarta.it
 artevide.cz
@@ -22875,7 +22886,6 @@ c.eeeeee.cz
 c.etheos.site
 c.k1ristri.ru
 c.pieshua.com
-c.top4top.net
 c.vivi.casa
 c.vollar.ga
 c.xzzzx.ga
@@ -26646,6 +26656,7 @@ cyborginformatica.com.ar
 cybuzz.in
 cycle-film.com
 cycleaddiction.com
+cyclingpeeps.com
 cyclingrace.ru
 cyclomove.com
 cyclosustainability.com
@@ -31234,6 +31245,7 @@ en.laserspark.ru
 en.modernizmgdyni.pl
 en.sign-group.ru
 en.sun-sen.com
+en.tag.ir
 en.worthfind.com
 en.yallanesafer.net
 enaax.com
@@ -32687,7 +32699,6 @@ fastpacepersonaltraining.com
 fastpool.ir
 fastrackapp.es
 fastrxtransfer.com
-fastsoft.onlinedown.net
 fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
@@ -38091,6 +38102,7 @@ hostworld.dk
 hostzaa.com
 hosurbusiness.com
 hotabovich.ru
+hotaction.online
 hotcode.gr
 hotcrypto.com
 hotedeals.co.uk
@@ -38512,7 +38524,6 @@ i-call.it
 i-comi.com
 i-conglomerates.com
 i-cplus.ru
-i-deti.ru
 i-dog.jp
 i-dol.net
 i-genre.com
@@ -47864,7 +47875,6 @@ meltonairservices.com.au
 melwanilaw.com
 melyanna.nl
 memap.co.uk
-members.chello.nl
 members.westnet.com.au
 membre.parle-en-musique.fr
 membros.12weeksfor.com.br
@@ -49810,6 +49820,7 @@ my10apps.com
 my2b.online
 myabisib.ru
 myacademjourneys.com
+myaccount.dropsend.com
 myadmin.59north.com
 myafyanow.com
 myanmodamini.es
@@ -50475,7 +50486,6 @@ neatappletech.readysetselfie.com
 nebesnaya-sotnya.site
 nebraskacharters.com.au
 nebrodiescursionileanza.com
-nebula-ent.com
 nebula.ee
 neccotweethearts.com
 necessary-evil.com
@@ -52355,7 +52365,6 @@ onlinewp.it
 onlyapteka.ru
 onlychild.org
 onlycocktaildresses.com
-onlygoodman.com
 onlylaw.ru
 onlyonnetflix.com
 onlysunset.club
@@ -53518,6 +53527,7 @@ pd.creditreform-muster.de
 pd0rt.nl
 pdedas.com
 pdesaa.cimaa.pt
+pdf-archive.com
 pdf-archive.press
 pdf-archive.store
 pdf-compare.site
@@ -57192,7 +57202,6 @@ res-energo.com
 res.entercenter.net
 res.qaqgame.cn
 res.uf1.cn
-res.yeshen.com
 resbrokers.com
 rescombp.co.uk
 rescue8.org
@@ -58328,6 +58337,8 @@ sachindutta.com
 sachoob.com
 sachtrithuc.com
 sacm.net
+sacmsgmgw001a.delta.org
+sacmsgmgw001b.delta.org
 saconets.com
 sacramentode.ml
 sacredbeautycollection.com
@@ -58912,6 +58923,7 @@ saturday-school.org
 satutitik.com
 satyam.cl
 satyammetals.com
+satysservs.com
 sauceismoney.com
 saudaveldemais.com
 saudenatural.ml
@@ -60588,7 +60600,6 @@ simrahsoftware.com
 simrans.sg
 simstal.kiwi
 simurgkusyuvasi.org
-sinacloud.net
 sinagogart.org
 sinakhoessentials.co.za
 sinaldigital.com
@@ -63662,6 +63673,7 @@ tafe.org
 tafertergr.com
 tafftanzania.or.tz
 tafol.es
+tag.ir
 tag520.com
 tagamol.com
 tagbanners.com
@@ -65151,7 +65163,6 @@ theoldhoughcaravanstorage.co.uk
 theoncarrier.com
 theonetruematt.com
 theonlineezzy.store
-theonlygoodman.com
 theoppaisquad.com
 theoptimacreative.com
 theoraclecasting.co.uk
@@ -66705,7 +66716,6 @@ tulapahatere.club
 tulieucuocsong.com
 tulip-remodeling.com
 tulipremodeling.com
-tullverket.se
 tulomontas.com
 tulparmotors.com
 tulpconsult.nl
@@ -66946,7 +66956,6 @@ u2164176.ct.sendgrid.net
 u2285184.ct.sendgrid.net
 u2307421.ct.sendgrid.net
 u2434969.ct.sendgrid.net
-u248251.ct.sendgrid.net
 u2493681.ct.sendgrid.net
 u255864177.hostingerapp.com
 u2730173.ct.sendgrid.net
@@ -67465,6 +67474,7 @@ update.yoprogramolatino.com
 update.zbs.su
 update24.ch
 update365office.com
+update6.satysservs.com
 updateadovesettings.io
 updateguru.xyz
 updateoffileshares.cf
@@ -67583,6 +67593,7 @@ url-validation-clients.com
 url.246546.com
 url.57569.fr.snd52.ch
 url.edu
+url3.mailanyone.net
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urlsys.com
@@ -69417,7 +69428,6 @@ weboffice365.net
 webofmiscellaneous.com
 webon.vn
 webonlineshop.ml
-weboyun.site
 webpathfinder.com
 webplaner.ch
 webpresario.com
@@ -70426,7 +70436,6 @@ www-bsac.eecs.berkeley.edu
 www-grupotv1-com-br.azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 www.smart-eg.com
 www022284.com
-www107.zippyshare.com
 www11.thinkproject.com
 www2.cj53.cn
 www2.gamingsupport.com
