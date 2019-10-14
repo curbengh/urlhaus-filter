@@ -10,7 +10,8 @@ Import the following URL into uBO to subscribe:
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
 
-Mirrors:
+<details>
+<summary>Mirrors</summary>
 
 - https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
@@ -20,12 +21,15 @@ Mirrors:
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter.txt
 - https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter.txt
 
+</details>
+
 <br />
 Lite version (online urls only):
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 
-Mirrors:
+<details>
+<summary>Mirrors</summary>
 
 - https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
@@ -35,6 +39,7 @@ Mirrors:
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-online.txt
 - https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-online.txt
 
+</details>
 
 **Note:** Lite version is ~95% smaller by excluding offline urls. The status of urls is determined by the upstream Abuse.ch. However, the test is not 100% accurate and some malicious urls that are otherwise accessible may be missed. If bandwidth (1.5MB/day) is not a constraint, I recommend the regular version.
 
@@ -68,7 +73,8 @@ Instead, use the following blocklist:
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
 
-Mirrors:
+<details>
+<summary>Mirrors</summary>
 
 - https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
@@ -78,12 +84,15 @@ Mirrors:
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-hosts.txt
 - https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-hosts.txt
 
+</details>
+
 <br />
 Lite version (online hosts only):
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 
-Mirrors:
+<details>
+<summary>Mirrors</summary>
 
 - https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
@@ -92,6 +101,8 @@ Mirrors:
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-hosts-online.txt
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-hosts-online.txt
 - https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-hosts-online.txt
+
+</details>
 
 Note that host-based software does not block malware URLs hosted by well-known domains (e.g. amazonaws.com, docs.google.com, dropbox.com).
 
