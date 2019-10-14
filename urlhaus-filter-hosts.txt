@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Mon, 14 Oct 2019 00:12:42 UTC
+# Updated: Mon, 14 Oct 2019 12:13:14 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -505,6 +505,7 @@
 104.168.159.201
 104.168.161.86
 104.168.163.95
+104.168.164.50
 104.168.166.89
 104.168.167.92
 104.168.169.153
@@ -3074,6 +3075,7 @@
 157.245.171.223
 157.245.2.21
 157.245.209.242
+157.245.210.194
 157.245.211.135
 157.245.215.107
 157.245.216.189
@@ -3273,6 +3275,7 @@
 159.65.232.56
 159.65.232.90
 159.65.233.36
+159.65.233.6
 159.65.234.16
 159.65.235.46
 159.65.236.54
@@ -4706,6 +4709,7 @@
 178.128.207.74
 178.128.214.44
 178.128.222.7
+178.128.223.110
 178.128.224.202
 178.128.224.34
 178.128.225.101
@@ -4900,6 +4904,7 @@
 178.62.21.111
 178.62.21.247
 178.62.213.188
+178.62.216.45
 178.62.221.94
 178.62.226.34
 178.62.227.13
@@ -6986,6 +6991,7 @@
 191.5.215.52
 191.7.136.37
 191.8.102.94
+191.8.121.209
 191.8.17.183
 191.8.19.159
 191.8.29.201
@@ -6995,6 +7001,7 @@
 191.96.249.154
 191.96.249.214
 191.96.249.27
+191.96.25.217
 191.97.40.155
 191.97.43.91
 192.0.27.69
@@ -7036,6 +7043,7 @@
 192.227.176.97
 192.227.186.151
 192.227.204.214
+192.236.154.112
 192.236.161.176
 192.236.161.53
 192.236.161.54
@@ -7457,6 +7465,7 @@
 198.167.143.202
 198.175.126.80
 198.199.123.110
+198.199.64.204
 198.199.66.46
 198.199.73.140
 198.199.73.64
@@ -7486,6 +7495,7 @@
 198.211.117.226
 198.211.118.231
 198.211.96.59
+198.211.99.52
 198.23.151.82
 198.23.191.102
 198.23.201.215
@@ -7585,6 +7595,7 @@
 199.48.164.49
 199.66.93.23
 199.com.vn
+1990.duckdns.org
 1a-werbeagentur.de
 1arab.net
 1bbot.space
@@ -12103,6 +12114,7 @@
 66.42.58.126
 66.42.78.2
 66.42.83.118
+66.42.85.196
 66.45.232.92
 66.45.248.246
 66.55.64.137
@@ -15245,6 +15257,7 @@ adanademir.com
 adanaplastikgeridonusum.com
 adanavho.org.tr
 adanawebseo.net
+adanzyeyapi.com
 adap.davaocity.gov.ph
 adape.me
 adapta.com.ar
@@ -15263,7 +15276,6 @@ adcash.cf
 adcash.ga
 adccenterbd.com
 adcommunication.pt
-adcoophttp
 adcoops.ga
 add3565office.com
 addai.or.id
@@ -21030,6 +21042,7 @@ bimonti.com.br
 bin-bang.com
 binaline.net
 binance-forever.ru
+binar.ir
 binar48.ru
 binary-options.tradetoolsfx.com
 binaryoptionsteamtrading.com
@@ -21883,6 +21896,7 @@ bojacobsen.dk
 bojorcompany.com
 boklunue.go.th
 bokningskontoret.se
+bokslink.com
 bolatafricancuisinechicago.com
 boldbiz.net
 boldbiznet.com
@@ -21916,6 +21930,7 @@ bomeitejiancai.com
 bomfire.com
 bommesspeelgoed.nl
 bommyknockerspodcast.com
+bompas.fr.mialias.net
 bon-kredite.net
 bona-loba.ru
 bonakma.com
@@ -22158,6 +22173,7 @@ brabbelinis.de
 brabonet.com
 brace-dd.com
 braces.org.uk
+bracesonpostcard.com
 bracolltd.tk
 bradanthonylaina.com
 bradingram.com
@@ -22219,6 +22235,7 @@ brands2life.b2ldigitalprojects.com
 brandschoices.com
 brandschutznet.de
 brandsecret.net
+brandsofzambia.com
 brandstories.today
 brandv.co
 brandvivodev1.link
@@ -22692,6 +22709,7 @@ buscafitness.cl
 buscarmedico.com
 buschwein.de
 busdibandung.com
+buseacycle.com
 buseguzellikmerkezi.com
 busesworldwide.org
 busferie.pl
@@ -24559,6 +24577,7 @@ chthonian-win.000webhostapp.com
 chuabenhbangthuocdongy.com
 chuahetdaubungkinh.com
 chuamuicothe.com
+chuaviemxoangyduc.com
 chubakhangal.mn
 chubanomania.icu
 chubbylogz.ga
@@ -25931,6 +25950,7 @@ corpus-delicti.com
 corpusjurisindia.com
 correctionalofficeredu.com
 corredordepropiedades.tv
+correlation.ca
 correo.kable.cl
 corretordejoanete.site
 corrheating.ie
@@ -28191,6 +28211,7 @@ dfgfgw.kuai-go.com
 dfghdfghffd.ru
 dfghdfghhffd.ru
 dfghfghdghd.ru
+dfghgdsf.ru
 dfghjkjbi.s3-us-west-1.amazonaws.com
 dfib.net
 dfinformatica.com.br
@@ -28888,6 +28909,7 @@ dnaofexcellence.org
 dnavastgoed.be
 dnbos.com
 dnbsharepoint.com
+dncvietnam.com
 dndisruptor.com
 dnenes.com.mx
 dnew242.com
@@ -35021,6 +35043,7 @@ geocomperu.com
 geodiaspora.com.ua
 geodrilling.cl
 geodynamics.com.pk
+geoexpert.gr
 geoffcasson.com
 geoffreylilge.ca
 geoflux.co.bw
@@ -35087,6 +35110,7 @@ gescopa.com
 gescoworld.com
 geshtalt.mk
 gessb.com
+gessuae.ae
 gestaonfe.com.br
 gestas.xyz
 gestationaldiabetes.eastus.cloudapp.azure.com
@@ -37827,6 +37851,7 @@ holipath.com
 holisticxox.com
 holladayphotography.tantumservices.com
 hollandselection.nl
+hollywoodclub.xyz
 hollywoodgossip.biz
 hollywoodmusic.de
 hollywoodremix.com
@@ -38304,10 +38329,6 @@ htmlget.com
 htnieuw.hazenbergtimmerwerken.nl
 htpinvestment.com.vn
 htt.nu
-http.pc-rekcah.com
-http.zombiebears.online
-httpwindows10updatevbcustom.com
-httpyiwujiadianweixiu.xyz
 httsdomainset.ddns.net
 htxl.cn
 htz.securityart.net
@@ -40587,6 +40608,7 @@ izzibrothersprogressiveunion.com
 izzylight.com
 izzzlhsn.sha58.me
 j-cab.se
+j-cta.org
 j-d-i.co.jp
 j-gourmet.com
 j-j-oil-gas.org
@@ -48365,6 +48387,7 @@ milano-autonoleggio.it
 milano-ristrutturazioni.org
 milano.today
 milanoplaces.com
+milap.net
 milaromanoff.com
 milaszewski.pl
 milbot.nu
@@ -53185,7 +53208,6 @@ paradoxsolutionsservices.com
 parafia.kaszczorek.com
 parafinadomicilio.cl
 paragptfe.com
-parahttp.tk
 paraisokids.com.mx
 paraitelengria.com
 parakazani.net
@@ -53601,6 +53623,7 @@ pedrerrique.net
 pedro.geo.do
 pedrobay.com
 pedroniza.com
+pedrootavio.top
 pedroprado.com.br
 pedslovo.ru
 pedulirakyataceh.org
@@ -56211,6 +56234,7 @@ quranpf.org
 quranyar.ir
 qureshijewellery.com
 qurilish.webforte.uz
+qutcasts.duckdns.org
 quvalda.by
 quynhtienbridal.com
 quytlshadroxanne.com
@@ -57081,6 +57105,7 @@ relativitypm.com
 relaxed.systems
 relaxmens.ir
 relaxyourdog.com
+relay.dyndns.org
 relep.org
 relex-shipping.de
 reliablefenceli.wevportfolio.com
@@ -57219,6 +57244,7 @@ res.qaqgame.cn
 res.uf1.cn
 resbrokers.com
 rescombp.co.uk
+rescue.slotsoft.net
 rescue8.org
 rescuereinvented.org
 rescuingchildrenhealingadults.com
@@ -57845,7 +57871,6 @@ roode.net
 roofcontractorportland.com
 rooftechconstruction.com
 roomserviceq8.com
-roostercastle.servehttp.com
 root-project.ru
 rootaxx.org
 rootcellar.us
@@ -58030,6 +58055,7 @@ rssansani.com
 rssdefense.com
 rstelectricals.com
 rsterlingzmyrtice.xyz
+rsudsuka.demakkab.go.id
 rt001v5r.eresmas.net
 rta-bau.de
 rta.hu
@@ -58982,6 +59008,7 @@ sawala.co
 sawasdeethaimassage.com.au
 sawf.tk
 sawitandtravel.com
+sawitsukses.com
 saxophonist.gr
 saxtorph.net
 saxy.com.au
@@ -59929,6 +59956,7 @@ sgl.kz
 sglightbox.com
 sgm.pc6.com
 sgnewcondolaunch.com.sg
+sgnr.in
 sgokta.com
 sgov.rsmart-testsolutions.watchdogdns.duckdns.org
 sgpartneriai.lt
@@ -62330,6 +62358,7 @@ start-up-consultants.com
 startabusinessinpa.com
 startbonfire.com
 startbootstrap.net
+startdfy.com
 starteasy.in
 startechone.com
 startechsysltd.com
@@ -64460,6 +64489,7 @@ tenangagrofarm.com
 tenantscreeningasia.com
 tendailytrends.com
 tendancekart.com
+tendenciasv.com
 tendep.com
 tenderheartfoundation.org
 tendwalk.com
@@ -65043,6 +65073,7 @@ thehealthgardens.com
 theheartofmilton.com
 theheavenmusic.com
 thehivecreative.com
+thehomebenefitprogram.com
 thehomelymealmaker.in
 thehomespecialist.com
 thehopeherbal.com
@@ -71490,6 +71521,7 @@ yourmusicscore.melodiaecifras.com.br
 yournal.fr
 yournovelblueprint.com
 yourplasteringneedscovered.co.uk
+yourpremiersmile.com
 yourquotes.in
 yourroofer.co.uk
 yourseo.ac.ug
@@ -71572,6 +71604,7 @@ yumurtasiorganikkoy.com
 yumuto.discusengineeredproducts.com
 yumuy.johet.bid
 yumyumhostel.myjino.ru
+yun-1.lenku.cn
 yunck.website
 yunfuwuqi.org.cn
 yunhali.net
