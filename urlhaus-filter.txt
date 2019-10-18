@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 18 Oct 2019 00:12:45 UTC
+! Updated: Fri, 18 Oct 2019 12:12:48 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -310,6 +310,7 @@
 103.204.70.58
 103.205.7.218
 103.206.118.250
+103.207.38.15
 103.207.38.8
 103.209.176.85
 103.210.236.96
@@ -524,6 +525,7 @@
 104.168.204.23
 104.168.211.238
 104.168.215.139
+104.168.234.40
 104.168.248.22
 104.168.253.82
 104.168.28.249
@@ -631,6 +633,7 @@
 104.248.138.147
 104.248.139.242
 104.248.14.118
+104.248.14.94
 104.248.140.207
 104.248.140.251
 104.248.141.89
@@ -2155,6 +2158,7 @@
 138.68.133.121
 138.68.133.162
 138.68.145.201
+138.68.15.227
 138.68.156.95
 138.68.16.227
 138.68.161.156
@@ -2431,6 +2435,7 @@
 142.11.237.86
 142.11.238.27
 142.11.238.56
+142.11.239.127
 142.11.240.29
 142.11.241.222
 142.11.248.129
@@ -2845,6 +2850,7 @@
 152.250.36.102
 152.89.244.115
 153.126.197.101
+153.128.38.180
 154.126.178.16
 154.126.178.53
 154.16.195.217
@@ -2911,6 +2917,7 @@
 157.230.109.223
 157.230.11.49
 157.230.110.213
+157.230.111.143
 157.230.113.173
 157.230.113.199
 157.230.113.33
@@ -4239,6 +4246,9 @@
 173.214.164.146
 173.216.255.71
 173.230.134.39
+173.232.146.155
+173.232.146.156
+173.232.146.157
 173.233.85.171
 173.234.24.67
 173.234.25.110
@@ -4938,6 +4948,7 @@
 178.62.205.54
 178.62.21.111
 178.62.21.247
+178.62.212.19
 178.62.213.188
 178.62.216.45
 178.62.221.94
@@ -7183,6 +7194,7 @@
 193.106.57.83
 193.109.68.75
 193.111.153.8
+193.111.153.92
 193.111.155.48
 193.112.160.173
 193.124.188.118
@@ -9484,6 +9496,7 @@
 27.76.166.161
 27.77.189.133
 27.77.190.51
+27.77.219.133
 27.78.159.41
 27.78.188.179
 27.99.35.145
@@ -15719,6 +15732,7 @@ afivesusu.com
 afjv-my.sharepoint.com
 afkar.today
 afmaldives.org
+afmichicago.org
 afnoasjfn.net
 afokoadventure.com
 afonertox.com
@@ -15733,6 +15747,7 @@ africabootcampacademy.influencetec.net
 africahousingawards.com
 africamarket.shop
 africamissions.ca
+african-trips.com
 africanbigbrother.com
 africancinema.org
 africangreatdeals.com
@@ -15769,6 +15784,7 @@ afsgames.com
 afshari.ch
 afshari.yazdvip.ir
 afspatna.com
+aftablarestan.ir
 aftelecom.com.br
 after5pc.com
 aftertax.pl
@@ -16195,6 +16211,7 @@ akademia.gnatyshyn.pl
 akademiakom.ru
 akademiawandy.pl
 akademie-im-wonnegau.de
+akademik.upsi.edu.my
 akademiya-snov.ru
 akademskabeba.rs
 akademsmile.ru
@@ -16532,6 +16549,7 @@ alfatechnosoft.com
 alfauzmiddleeast.com
 alfayrouz-eg.com
 alfemimoda.com
+alferdows.com
 alfirauf.xyz
 alfisaliah.com
 alfoldoo.com
@@ -24596,6 +24614,7 @@ cenedra.com
 cenfcamryn.club
 cengizguler.com.tr
 cenim.be
+cenovia.com
 centalnana.com
 centauree.com
 center-credit.org
@@ -27176,6 +27195,7 @@ cssshk.com
 cssvblagodarenie.dr19.ru
 cssworkingbase.com
 csszsz.hu
+cstarserver17km.club
 cstechguru.com
 csteurope.com
 csti-cyprus.org
@@ -30346,6 +30366,7 @@ docs.google.com/uc?export=&id=1x9HDQHTYRb4o1ylaUqpweSHgGsOwUAqN
 docs.google.com/uc?export=&id=1y6MvqL_3fUuq6oiapBj_2CYqYSbkzvzJ
 docs.google.com/uc?export=&id=1yoPsolpYfdKzwCqY6QsKOPjjoCEzO58s
 docs.google.com/uc?export=download&id=1-V5aaH7GsUMiRNzUE9KkInXi1-xoHBkv
+docs.google.com/uc?export=download&id=181IOXflgdim7TLux1mXD9VRIT51XLWrI
 docs.google.com/uc?export=download&id=1B4ZFtjlKNRgdoH3DK607GEY7q1r-N68W
 docs.google.com/uc?export=download&id=1Ca-K4kzZzpYE0FmwDIAj_VFXlt_tfG06
 docs.google.com/uc?export=download&id=1DVskSguuyHcsTZjePLxGa4yXjlr6zwlM
@@ -30363,6 +30384,7 @@ docs.google.com/uc?export=download&id=1Y9H9QRE8V2f3Bl7ZtafLPfYoK0YnBd-F
 docs.google.com/uc?export=download&id=1gC6g9ohciDi1m73wkSY4Lo4nrJGXOcCY
 docs.google.com/uc?export=download&id=1n4ObD9irEtF6TA-re6omRQFK8bM7KywK
 docs.google.com/uc?export=download&id=1nVJ9CeVoxZimn548YQlGOGePwXMeFkdn
+docs.google.com/uc?export=download&id=1ns2KLQ3FFNY9YOFjRwJENly3vxBlTPi0
 docs.google.com/uc?export=download&id=1pznR49E9zygAtrByAapcSTYyNzUfNEmB
 docs.google.com/uc?export=download&id=1qCt-px0G0tBmLH1aN8Zj5mVUeRlpgbMC
 docs.google.com/uc?export=download&id=1qjMp0RORtmdCx6IW6bWg2LgMarP7TM6P
@@ -32097,6 +32119,7 @@ dropbox.com/s/zuz92k7faz5jho4/slip%20copy.iso?dl=1
 dropbox.com/sh/04w4ffx9rckonfn/AADh4D1tFPdLxlJomPg064-oa?dl=1
 dropbox.com/sh/7qcnfp4lr9qspm2/AABxFkyq1n2pu9CGqJ97v92-a?dl=1
 dropbox.com/sh/dfyhqkg9271ww74/AAAa3FnyX02FWz-6vlqS9POJa?dl=1
+dropbox.com/sh/ngyjxnoz5u1v26p/AACwsWi_ig6IcKNMXzhZ9j6ma?dl=1
 dropbox.com/sh/nk7grq9xoosn2p8/AACqZKf9wFzFgJqALHefGUQ3a?dl=1
 dropbox.com/sh/rsss764me1vos5l/AADuu6reF0AE6MV40hix5Xs5a?dl=1
 dropbox.com/sh/tw6e98dko833w0k/AAC3lJzy8vthxZXXUxFA__ola?dl=1
@@ -37274,6 +37297,7 @@ garammatka.com
 garant-rst.ru
 garant-tepla.ru
 garantitaksi.com
+garbage-barabage.tech
 garbage-barabage.top
 garcia-automotive.com
 garciaikoplesver.net
@@ -38370,6 +38394,7 @@ goldenstone.com.ng
 goldentalentcentre.com
 goldentime777.xii.jp
 goldentour.by
+goldentravel.ec
 goldentrustdevelopment.com
 goldenuv.com
 goldenyachts.customexposure.tech
@@ -40103,6 +40128,7 @@ herlihycentra.ie
 herliniamran.com
 hermagi.ir
 herman-steyn.com
+hermannarmin.com
 hermes.travel.pl
 hermesfortune.com
 hermeslogisticsint.com
@@ -42899,6 +42925,7 @@ invetreaks.jp
 invfactor.cnr.it
 invi.by
 invisible-miner.pro
+invisio-new.redstone.studio
 invite.viamedia.ba
 invizza.com
 invoice.name
@@ -44371,6 +44398,7 @@ joshworld.top
 josjuniour.co.ke
 joskaejw.club
 josound.net
+jostensarlington.com
 jostmed.futminna.edu.ng
 jostyle.pl
 josuke.net
@@ -45084,6 +45112,7 @@ karin-russell-wiederkehr.com
 karinaagency.com
 karinkolland.at
 karishmajaveri.com
+kariyerrunway.com
 karkas-dom-moscow.ru
 karkasbrus.ru
 karkasdom.dp.ua
@@ -50169,6 +50198,7 @@ maritim.ca
 maritime.co.id
 maritimecurling.info
 maritimelaunch.com
+maritimelawyers.us
 mariusaffolter.com
 marjaexports.com
 marjanschonenberg.nl
@@ -54590,6 +54620,7 @@ nortees.guiatonarede.com.br
 nortemecanica.es
 norteysur.com.co
 north-bear.ru
+northcarolinaforeclosuresforsale.com
 northcityspb.ru
 northeastphiladelphiahomesforsale.com
 northeastpiperestoration.com
@@ -56934,6 +56965,7 @@ pathwaymbs.com
 patient7.com
 patientteacher.com
 patimpatam.net
+patinauniversity.net
 patinvietnam.vn
 patmanunggal.com
 patoimpex.com
@@ -58328,6 +58360,7 @@ possopagar.com.br
 post.thazin95924.ml
 posta.co.tz
 postakutusufilm.com
+postalandcourieretc.co.uk
 postalhero.com
 postcraft.nl
 postfixsmtpserver.com
@@ -61821,6 +61854,7 @@ rrrradkqwdojnqwd.com
 rrsfinancial.com
 rrshree.com
 rs.kiev.ua
+rsaavedrawalker.com
 rsaustria.com
 rsb18.rhostbh.com
 rscreation.be
@@ -62246,6 +62280,7 @@ s3.eu-central-1.amazonaws.com/csh-static/test_my_patience/611aae7343c98861c3fe09
 s3.eu-central-1.amazonaws.com/csh-static/test_my_patience/e85d45150eae2eda19bd2db7b946bcdebaf424bb3c259308750f11db3fb8dd8e.exe
 s3.eu-west-2.amazonaws.com
 s3.sa-east-1.amazonaws.com/44vtcoqofw9vugf/IMG-20170109-181028-571.zip
+s3.sa-east-1.amazonaws.com/dfvgfr45dfsdcx/OH662316633BR.49.zip?aGRkIhszymGTGi6WHcYSYHG627mNwxWB3eHTjciwQ7xRlEdvh5LvYbJp3fLv9NZIY1el45qSrL3RA4v4w1BxPNadzyzhQTWMqM4t
 s3.sa-east-1.amazonaws.com/e43tyncvg37v98a/IMG_20160804_214808.zip?ZjbSDrmPtjYU9kcFbWRC3EqdszJKn1YeTM6GqAAx2nBtnQswmmAYljpekzrq2fGDApne0achEFFcYhZpTu36ql3QC1Mu7GZVetuq
 s3.sa-east-1.amazonaws.com/fv9akcjc9dc4oay/EXTRATO_PENDENCIA_FINANCEIRA_CPF-CNPJ.zip?1D43rIKTHv1fB5jgtVFLROJm683410gwstp4yTQqQOTHJNBijIYOZELAWKEHXUvY4Ut0ELGKEMMDH3nde27ylkoVBCx0UIWEsjyX
 s3.sa-east-1.amazonaws.com/xdfvgbhj7865432/OH662316633BR.zip
@@ -62307,6 +62342,7 @@ sabudanikay.com
 sabugoventures.co.ke
 sabupda.vizvaz.com
 sabzgame.ir
+sac-sofom.com
 sacargocity.com
 sacasa.org
 sachamn.com
@@ -68508,6 +68544,7 @@ studentjob.africa
 studentlife.cbs.dk
 studentloans.credezen.com
 students.allstardentalacademy.com
+students.vlevski.eu
 students.washington.edu
 students2019.com
 studentsbooklist.com
@@ -69698,6 +69735,7 @@ tatanka.it
 tatanka.pl
 tatc.ir
 tatecodom.ru
+tatenfuermorgen.de
 tatgalloprecast.comsketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 tatildomaini.com
 tatilmaster.com
@@ -71136,6 +71174,7 @@ thinkcube.design
 thinker101.5gbfree.com
 thinkim.com
 thinking.co.th
+thinkingthehumanity.com
 thinkmonochrome.co.uk
 thinknik.ca
 thinkogy.com
