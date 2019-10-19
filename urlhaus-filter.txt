@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 18 Oct 2019 12:12:48 UTC
+! Updated: Sat, 19 Oct 2019 00:12:39 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2125,6 +2125,7 @@
 138.197.188.103
 138.197.192.94
 138.197.193.53
+138.197.196.48
 138.197.196.60
 138.197.2.122
 138.197.205.1
@@ -2264,6 +2265,7 @@
 139.59.41.81
 139.59.44.35
 139.59.44.60
+139.59.45.210
 139.59.45.85
 139.59.56.53
 139.59.56.62
@@ -2853,6 +2855,7 @@
 153.128.38.180
 154.126.178.16
 154.126.178.53
+154.16.195.18
 154.16.195.217
 154.16.201.215
 154.16.3.14
@@ -3706,6 +3709,7 @@
 165.22.63.242
 165.22.64.218
 165.22.65.215
+165.22.65.242
 165.22.67.165
 165.22.67.232
 165.22.67.64
@@ -3844,6 +3848,8 @@
 167.114.98.221
 167.160.177.16
 167.160.36.37
+167.172.138.121
+167.172.140.189
 167.179.117.58
 167.179.119.235
 167.250.30.27
@@ -4946,6 +4952,7 @@
 178.62.201.163
 178.62.203.226
 178.62.205.54
+178.62.206.32
 178.62.21.111
 178.62.21.247
 178.62.212.19
@@ -6378,6 +6385,7 @@
 187.23.183.57
 187.232.214.111
 187.233.92.119
+187.235.198.157
 187.235.218.147
 187.250.124.219
 187.250.129.179
@@ -8454,6 +8462,7 @@
 206.189.237.130
 206.189.237.162
 206.189.237.214
+206.189.25.237
 206.189.26.175
 206.189.26.31
 206.189.27.104
@@ -11943,6 +11952,7 @@
 59.126.203.25
 59.126.220.144
 59.126.245.37
+59.126.34.190
 59.126.40.253
 59.126.82.23
 59.127.1.67
@@ -12285,6 +12295,7 @@
 67lget9865181258.freebackup.fun
 67ms.top
 68.129.32.96
+68.168.123.84
 68.183.1.88
 68.183.101.24
 68.183.103.111
@@ -12854,6 +12865,7 @@
 78.39.232.58
 78.39.232.91
 78.45.143.85
+78.47.37.70
 78.47.49.39
 78.69.215.201
 78.69.48.163
@@ -15208,6 +15220,7 @@ acilisbalon.com
 acimma.com.br
 acinco.eng.br
 aciteb.org
+acjabogados.com
 ackersberg.at
 ackosice.sk
 aclandgroup.com
@@ -18461,7 +18474,7 @@ artemunar.com.ar
 artemvqe.beget.tech
 artera.lt
 arterra.com.tr
-artesaniasdecolombia.com.co/webalizer/wamoryztYaNnAbfvVzDIfgRCoNth/
+artesaniasdecolombia.com.co
 artesianwater-540.com.ua
 artesucarta.it
 artevide.cz
@@ -18677,6 +18690,7 @@ ashtonestatesales.com
 ashtree.sg
 ashu20506.000webhostapp.com
 ashwamedhtechnologies.com
+ashwameghmilitaryschool.in
 ashwinbihari.nl
 asia-siam.ru
 asia-star.info
@@ -19027,7 +19041,7 @@ atozblogging.com
 atp-tek.com
 atparsco.com
 atphitech.com
-atpscan.global.hornetsecurity.com/index.php?atp_str=afW-6ROPadYx-4dieFO4DbV3E_xmH3-Ype0mHRlsyEuhwsqoEEbZLBAFyf6_bDLJTeSgdUgEyMXaPYm1fSyHXkyYLPVIFpr0HnjO3w92Mx4BQEA-rhcuJBljF7xs-IE79eIg5O9B_HcFg9yGyzdkrNZCo-SWcS_BoDLiAxLFFlgCcV-hkcqKgjzMXADBPvzglcgSAECd8rV4If7NGCqKrXPrWLYKMZxYJHyncp2kIgW8_RjSDCHhxD9niYyJJb1joVi-Wm8urvrdOP7bVNkrinv2G2ef433YzWETxfWlzGfnEHNQbTdBrST1zV1HNcyRnd3TVjwjjWn-3c5iRkyWIDuG4saguSDuVUDmDSM6OiM1NjA1ODY3MWVlZDYjOjoj2oG-0aPVYmvMJgGU-mi8Gg/
+atpscan.global.hornetsecurity.com
 atr.it
 atragon.co.uk
 atrakniaz.ir
@@ -19225,8 +19239,7 @@ autobritt.apptitude.ch
 autobuschel.ru
 autocenter2000.com.br
 autoclasscuneo.it
-autocom.mx/aviso-de-privacidad-agencias-es-mx.htm
-autocom.mx/aviso-de-privacidad-agencias-es-mx.htm/
+autocom.mx
 autodavid.hr
 autodetali-161.ru
 autodevices.topterra.ru
@@ -19289,7 +19302,7 @@ autoprof.es
 autoreduc.com
 autoregressed.com
 autorepairinriorancho.com
-autorepairmanuals.ws/homepage/bSDjvZYCUYyxvldpcWiSpz/
+autorepairmanuals.ws
 autorepuestosdml.com
 autoride.gr
 autorizatiifirme.ro
@@ -23423,7 +23436,10 @@ c.eeeeee.cz
 c.etheos.site
 c.k1ristri.ru
 c.pieshua.com
-c.top4top.net
+c.top4top.net/p_1042v9c0c1.jpg
+c.top4top.net/p_1055q1ssb1.jpg
+c.top4top.net/p_6534e8r81.jpg
+c.top4top.net/p_897ao4tp1.jpg
 c.vivi.casa
 c.vollar.ga
 c.xzzzx.ga
@@ -23898,8 +23914,7 @@ cargoinsurance.tk
 cargokz.kz
 cargomate-kr.cf
 cargomax.ru
-caribbean360.com/bu40BVNZ/
-caribbean360.com/test/XChCw-sav_KomKB-Pe0/COMET/SIGNS/PAYMENT/NOTIFICATION/01/28/2019/En_us/Sales-Invoice/
+caribbean360.com
 carikliantiquitat.com
 carimbosrapidos.com.br
 carimint.com
@@ -24999,7 +25014,7 @@ checkz.tk
 chedea.eu
 cheectv.com
 cheekie2.neagoeandrei.com
-cheematransxpressinc.com/wp-includes/shm5djl4638/
+cheematransxpressinc.com
 cheerchile.cl
 cheesecakery.com.br
 chef-solutions.dreamscape.co.in
@@ -25165,7 +25180,7 @@ chocolatefountaincreation.com
 chocolatefountaindecadence.com
 chocollat.ru
 chocotrans.com
-choicebookstall.com/cgi-bin/Pages/BNrzcwecogxNabTSVqnTUtTY/
+choicebookstall.com
 choicemobiledetailing.com
 choicesportstraining.com
 choilaura.com
@@ -25327,6 +25342,7 @@ cibsbrokers.com
 cicekciilhan.com
 cicerano.com
 ciceroin.org
+ciceron.al
 cicimum.com
 ciclocars.top
 cicprint.com.mx
@@ -25805,6 +25821,7 @@ cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.wa
 cmailad177.com
 cmailadvert15dx.club
 cmailadvert15dx.world
+cmailserv19fd.club
 cmailserv19fd.world
 cmalamiere.com
 cmasempresa.com
@@ -26078,6 +26095,7 @@ collegesarcasm.tk
 collegeunderwear.com
 collidach.co.uk
 collierymines.com
+collinsfamily.cc
 collinsserver.duckdns.org
 colmenacl.net
 colmlp.com
@@ -27460,6 +27478,7 @@ cyzic.com
 czabk.com
 czartransporte.com.br
 czcad.com
+czechmagic.tk
 czeppel.de
 czmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 czsl.91756.cn
@@ -29134,8 +29153,7 @@ diamondbuilding.ir
 diamondcity.ru
 diamondcomtwo.com
 diamonddental.pl
-diamondegy.com/wp-includes/wuksdgxg9n-pcm-6870/
-diamondegy.com/wp-includes/yvoARKmNkVtSrZIITA/
+diamondegy.com
 diamondeyeperformance.com
 diamondgroup.com.vn
 diamondig.com
@@ -29239,7 +29257,7 @@ dienlanhannguyen.com
 dienlanhbachkhoak8.com
 dienlanhlehai.com
 dienmaynghiaphat.com
-dienminhphu.com/wp-admin/wwgzt33gps5b466lkxdcahifi4gds9n7/
+dienminhphu.com
 diennangmattroi.com
 dienthoai.com
 dientoandammay-env.mrqdpvvgj9.us-east-2.elasticbeanstalk.com
@@ -31095,7 +31113,7 @@ dp-partners.net
 dp4kb.magelangkota.go.id
 dp5a.surabaya.go.id
 dpa-industries.com
-dpa.atos-nao.net/Download/ACSDPA.exe
+dpa.atos-nao.net
 dpack365-my.sharepoint.com
 dpacorp.org
 dparmm1.wci.com.ph
@@ -33768,7 +33786,7 @@ enersave.ca
 enes-cam.com
 enesyapidekorasyon.com.tr
 enet.cm
-enews.machinedesign.com
+enews.machinedesign.com/country/US/Regular&date=4-01-19_4-05-19
 enewsale.info
 enewslife.ru
 enfa.jp
@@ -34835,7 +34853,13 @@ f.imake99.website
 f.jump.wtf
 f.kuai-go.com
 f.makswells.com
-f.top4top.net
+f.top4top.net/p_1021nyrf11.jpg
+f.top4top.net/p_102230sjx1.jpg
+f.top4top.net/p_395kzojk1.jpg
+f.top4top.net/p_422xlwbo1.png
+f.top4top.net/p_69215ufx1.jpg
+f.top4top.net/p_82367ep41.jpg
+f.top4top.net/p_920uefkfpx3xc1.jpg
 f002.backblazeb2.com/file/casefile/adobe.exe
 f002.backblazeb2.com/file/cliente22/Or%C3%A7amento%20de%20Maio.msi
 f0232447.xsph.ru
@@ -35255,6 +35279,7 @@ fbc.animalscareness.xyz
 fbcgsarl.com
 fbertr90.email
 fbi-park.de
+fbigov.website
 fbox.vn
 fbroz.com
 fbs33.ru
@@ -37297,7 +37322,7 @@ garammatka.com
 garant-rst.ru
 garant-tepla.ru
 garantitaksi.com
-garbage-barabage.tech
+garbage-barabage.tech/amix
 garbage-barabage.top
 garcia-automotive.com
 garciaikoplesver.net
@@ -46731,8 +46756,7 @@ labourmonitor.org
 labphon15.labphon.org
 labpolimeros.eng.ufmg.br
 labreacht.com
-labroier.com/ATT/WIWHEy9OhgL_eeGv0STQ_QeLAiucjR/
-labroier.com/HJaZG_8Tdz-ixCpRhkrd/zj/Transactions/022019/
+labroier.com
 labs.omahsoftware.com
 labsinitiative.com
 labstory.in.th
@@ -47812,6 +47836,7 @@ likenow.tv
 likeorder.com
 likepage.site
 liker.website
+likesmore.tk
 liketop.tk
 likino.com
 likssmp.ru
@@ -51054,7 +51079,7 @@ meltonairservices.com.au
 melwanilaw.com
 melyanna.nl
 memap.co.uk
-members.chello.nl/g.dales2/b.exe
+members.chello.nl
 members.iinet.net.au/~sambo75/FedEx--shipping(ecopy)22-3235-44-Labels.jar
 members.iinet.net.au/~sambo75/FedEx-shipping(ecopy)22-3235-44-Labels.jar
 members.iinet.net.au/~sambo75/svvchost.exe
@@ -51209,6 +51234,7 @@ metaops.com
 metaphysicalhub.com
 metaplat.eu
 metasense.com.br
+metastar.co.uk
 metatecture.ru
 metatropolis.com
 meter.gr
@@ -52737,7 +52763,7 @@ mtmade.de
 mtmby.com
 mtn-ins.co.il
 mtnet.ro
-mtrack.me
+mtrack.me/tracking/raWzMz50paMkCGD3ZwxkAGV2ZwHzMKWjqzA2pzSaqaR9AGZ2BGL4BQDmWay2LKu2pG0kAmtkBGpjZQp0ZSV
 mtrans-rf.net
 mtsecret.mtcup.com.vn
 mtskhazanahtangsel.sch.id
@@ -53020,8 +53046,25 @@ my-spa.rs
 my-unicorner.de
 my.camptaiwan.com.tw
 my.jiwa-nala.org
-my.mail.de/dl/16396560ccdf7536b3dde030d4b7e0e0/
-my.mixtape.moe
+my.mail.de
+my.mixtape.moe/ayqydr.vbs
+my.mixtape.moe/chhsmy.htaa
+my.mixtape.moe/coxgka.jpg
+my.mixtape.moe/ejkhnj.htaa
+my.mixtape.moe/eyugjv.htaa
+my.mixtape.moe/huofcq.htaa
+my.mixtape.moe/krmiez.docx
+my.mixtape.moe/ntvual.jar
+my.mixtape.moe/rgbtph.jpg
+my.mixtape.moe/swxfsf.hta
+my.mixtape.moe/tcelou.htaa
+my.mixtape.moe/ufmaxl.htaa
+my.mixtape.moe/vartac.jpg
+my.mixtape.moe/vfgrox.jpg
+my.mixtape.moe/vjgwsh.zip
+my.mixtape.moe/xyvdrv.htaa
+my.mixtape.moe/ywphpl.zip
+my.mixtape.moe/zmkjcs.jpg
 my.zhaopin.com
 my10apps.com
 my2b.online
@@ -54656,7 +54699,7 @@ noshabl.com
 noshakingwediehere.cf
 noshnow.co.uk
 nosites-top10.com
-nosmenu.com/wp-content/ls0mzew7507/
+nosmenu.com
 nosomosgenios.com
 nosportugal.com
 nossocentrogamek.com
@@ -54904,8 +54947,7 @@ nurserylk.com
 nursingprograms.info
 nursingtestbankstutor.com
 nurtasbilgisayar.com
-nurturetherapies.ca/stats/LLC/MkgrmiiGYaCRxRBfbgVUwsxUr/
-nurturetherapies.ca/stats/goNJYfLJs/
+nurturetherapies.ca
 nusaberita.com
 nusakontras.com
 nusantaradatacenter.com
@@ -56046,8 +56088,7 @@ organicprom.ru
 organicsoilnaturals.com
 organikatzir.enterhello.com
 organiseyou.nl
-organizersondemand.com/cgi-bin/6vtd7304/
-organizersondemand.com/cgi-bin/m719694/
+organizersondemand.com
 orgasmosfemeninos.net
 orglux.site
 orhangencebay.gen.tr
@@ -57126,7 +57167,7 @@ pd.creditreform-muster.de
 pd0rt.nl
 pdedas.com
 pdesaa.cimaa.pt
-pdf-archive.com
+pdf-archive.com/2017/06/29/fmb/fmb.pdf
 pdf-archive.press
 pdf-archive.store
 pdf-compare.site
@@ -57364,7 +57405,12 @@ persianruggallery.com
 persiapanieltstoefl.com
 persiapet.net
 persimmonforge.com
-perso.wanadoo.es
+perso.wanadoo.es/cartaouol/uolcartoes.exe
+perso.wanadoo.es/gracig02/atualizado098476verifica.exe
+perso.wanadoo.es/grande000001/csrs.jpg
+perso.wanadoo.es/provedoresbrasil/relatorioemails2006.exe
+perso.wanadoo.es/stjsites/stj.exe
+perso.wanadoo.es/tdfgr/350RONPXJ65Y47.exe
 persona-dental.ru
 personal.nwolb.user.log.security.cod.issue.fondue-at-the-fountain.com
 personalized-weddings.com
@@ -61043,7 +61089,7 @@ res-energo.com
 res.entercenter.net
 res.qaqgame.cn
 res.uf1.cn
-res.yeshen.com
+res.yeshen.com/player/launch/2017/09/12/da5f9a1c23034353852750488feeaf36.exe
 res11.bignox.com/player/tools/201804/407c0ce1a3b0432e91d07b3a55c6613e.exe
 res11.bignox.com/player/tools/201804/5f3cc3d06f5b4d6b92f33fdef4172d41.exe
 res11.bignox.com/player/tools/201804/69b3de2b75d547b4aac9e47d874ef805.exe
@@ -61359,6 +61405,7 @@ rimo.hu
 rinchen.com
 rinconadarolandovera.com
 ring-lights.com
+ring1.ug
 ringcap.ir
 rinhuanet.us
 rinkaisystem-ht.com
@@ -62354,8 +62401,7 @@ sachtrithuc.com
 sacm.net
 sacmsgmgw001a.delta.org/enduser/classify_url.html?url=bcj4vOoPS8B46Ud6gJMEtrSVpbK6kvOhzNoTP1Nkc9akCYldm5ysiiV042Pg5WhS/
 sacmsgmgw001a.delta.org/enduser/classify_url.html?url=gMQvjTDwF+23in+gr9bszmxgor7TYncykJbo+NUodQg6GgUL9qbt0DxSnpXzZCh6fb6C0XyiTaySpVP8B3UA2w/
-sacmsgmgw001b.delta.org/enduser/classify_url.html?url=vn1ThnzZihkgHFvBYSgQsXigd2FROhFqovuC9pBEzpiVgOuDF6NXNoa9h08sWe+d/
-sacmsgmgw001b.delta.org/enduser/classify_url.html?url=vn1ThnzZihkgHFvBYSgQsXigd2FROhFqovuC9pBEzpiVgOuDF6NXNoa9h08sWe+dWI6vgTagrNGo9imHFHKhlw==/
+sacmsgmgw001b.delta.org
 saconets.com
 sacramentode.ml
 sacredbeautycollection.com
@@ -62550,7 +62596,7 @@ sale-petit-bonhomme.com
 salecar.muasam360.com
 salecar2.muasam360.com
 salediplomacy.com
-saleemibookdepot.com/hpkikf/LLC/fqj2uihuh9te8_bculdpib-726470310041/
+saleemibookdepot.com
 salentowedding.com
 salernopizzamexicannyc.com
 sales2polarregion.co
@@ -66250,8 +66296,7 @@ ssllinks.duckdns.org
 sslv3.at
 ssmmbed.com
 ssmthethwa.co.za
-ssofhoseuegsgrfnj.su/o.exe
-ssofhoseuegsgrfnj.su/t.exe
+ssofhoseuegsgrfnj.su
 ssofhoseuegsgrfnu.ru
 ssoocc.com
 ssosi.ru
@@ -66477,7 +66522,8 @@ static.43.47.69.159.clients.your-server.de
 static.76.102.69.159.clients.your-server.de
 static.error-soft.net
 static.ilclock.com
-static.ow.ly
+static.ow.ly/docs/Carbo%20Contract%202010_3K7C.doc
+static.ow.ly/docs/Womens%20Spring%202012%20Email%20blast2_n4s.doc
 static.solidbasewebschool.nl
 static.topxgun.com
 staticholidaysuk.co.uk
@@ -70437,6 +70483,7 @@ test28722.futurehost.pl
 test5.freebottlepc.com
 test5.peterwooding.com
 testaccess.atamagala.com
+testalmanur.kz
 testandersonline.nl
 testannuaire.actu-moteurs.com
 testari-online.ro
@@ -71110,6 +71157,7 @@ thewhistleblower.co.za
 thewindexperience.nl
 thewindmillcentre.org.uk
 thewindowmaker.com
+thewinningvoice.com
 thewinnowgroup.org
 thewinslowgroup.com
 thewomentour.com
@@ -71940,6 +71988,7 @@ tpoa-indonesia.org
 tpreiastephenville.com
 tpulmano.com
 tpvmurcia.es
+tpzen.vn
 tqwe651qweqweqw.com
 tr-alsat.com
 tr.capers.co
@@ -71969,7 +72018,7 @@ track.smtpsendemail.com/6039663/c?p=nmYzgpvjfxvbxINlhD74pSXXT6reJPgoLBdNZH7pPqqU
 track.smtpsendemail.com/6039663/c?p=nmYzgpvjfxvbxINlhD74pSXXT6reJPgoLBdNZH7pPqqUMw-ev9kRLBYi59B2oPhGUZYLZm8GDg98RyBNIKgS5Tp427xBaIu_AaYea5ImoiygfkTk7kzusb5pXTFi8LFKQXykI-ZGVO0ysLmuV_Mao5BKLmqtSxXR8Yp_qqaovs8GKoC5Pg8cOx5V1pBcLg8v/
 track.smtpsendemail.com/9011226/c?p=FoWocnIR-bZLvojME_8ucf_dlG9rUHaESbNtiV4k4S_ghz9xQLgnrkbwjMYho8tNF8nR8Os5R8FV1l7YL8InBR7qzFB-kllC8sX1AKZjajR-zXimiLhO_jEiLQ4HM5r2yvkham__jLoewuqIMzp_q0bXwLdtGXgg3KMJHYoPdIg=/
 track.smtpsendemail.com/9011226/c?p=IZDwJHQsWgOLkBfhBEr2bjye8MwTvyJ0_GlRJ2FQcGN9fSS-2ePuPXpTG-INJ813_Qyci3KqILwfKp4cb9igE6KB0VHUl_mEH_vNmYZwYn7poI2IZ77rE4Yfuhoi2mrSdTLb_Cz_FbgZVn2AI_U5wjMWQz5sSBbenDGC8fab7PM=/
-track.smtpserver.email/5025709/c?p=DPdzPfm0ITEeSUYMbQHFqNtXhCLsDYJBqZ-fOOwix04sbB4kdpJY8mgVAVKHoy5oCUnaERSQjtyOAM8sljuqMHyX8_AC2S3jM9O3po_V6FdALrHCGEJEd4EqF14t72jTMhuI_YlbOKZq-00PtkjbWg==
+track.smtpserver.email
 track.wizkidhosting.com
 track6.mixtape.moe
 track8.mixtape.moe
@@ -73803,7 +73852,7 @@ url.emailprotection.link/?bcp_LQdELwbKhxKToIznR8rOuhtt9W4qlFovFOxc0z5zmN6k8ji5zi
 url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmBKpoVHxYkckgjOQoYTV_U0G2UMKhd4MBI9Ms8vO3Vliq2ClOuUAa6nO2a7Ij5lJFsouoEEMeMVmI/
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
 url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
-url3.mailanyone.net/v1/?m=1gqjAZ-000BfC-4n&i=57e1b682&c=OZtRQmXF7oN5pbgtjwITGqIFHzseGIPJ778kLq969LDnepRJUFA3m4dqjipi-y6OdeP66fl3GFcG9Mo0uCH8uh_3unyNDLNiJEst871L2nZ8Bt27Et8YRWVkmsFhx001Buq9q_60jxe1ofVPHOxLFN1ol0vyuzUw6cC67geyyV1T0aGD81PMHe6Cu8Qd2qq8-ymIP4qFuRBsKb7Lv1Y00D0SYWjvvMyla6LG_jYhjkcVuQ-nh42o0dILyk44Tc-C/
+url3.mailanyone.net
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urldefense.proofpoint.com/v2/url?u=http-3A__borinfor.com_newfolde-5Fr_doc_En-5Fus_OVERDUE-2DACCOUNT_Invoice-2D07-2D19-2D18&d=DwIFaQ&c=VQ9hgUuwpNx5qjiyTmR6qQ&r=VWCMrOAZ42xEY7aBeHkCfVC7-GccDQiNerNlJRH5muI&m=JavSUg0f9C2qoCCa7AWt8RM7BRNk5mP_S7hBxPVa8ZU&s=XFGDpuuNz7L0uj6b4PoAfz3lck7VPATlniNQMVv_P6w&e/
@@ -75439,7 +75488,9 @@ wallpaaper.xyz
 wallpapershd.xyz
 wallsorts.co.nz
 wallstreetancona.wazabit.it
-wallstreetreporter.com
+wallstreetreporter.com/wp-content/plugins/most-popular-posts/1
+wallstreetreporter.com/wp-content/plugins/most-popular-posts/2
+wallstreetreporter.com/wp-content/plugins/most-popular-posts/3
 walnutgrey.com
 walstan.com
 waltermagaya.com
@@ -75492,6 +75543,7 @@ ware.ru
 warehousefoil.com
 waresky.com
 waresu30.beget.tech
+waresustem.live
 wargog.com
 warholagency.com
 waripco.com
