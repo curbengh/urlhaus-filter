@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 19 Oct 2019 12:12:43 UTC
+! Updated: Sun, 20 Oct 2019 00:12:37 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -605,6 +605,7 @@
 104.244.76.190
 104.244.76.210
 104.244.76.236
+104.244.76.58
 104.244.76.73
 104.244.77.11
 104.244.77.163
@@ -2270,6 +2271,7 @@
 139.59.45.85
 139.59.56.53
 139.59.56.62
+139.59.58.117
 139.59.59.55
 139.59.6.216
 139.59.62.107
@@ -2928,6 +2930,7 @@
 157.230.113.33
 157.230.114.105
 157.230.114.93
+157.230.116.163
 157.230.116.176
 157.230.117.251
 157.230.117.87
@@ -3939,6 +3942,7 @@
 167.71.84.22
 167.71.90.52
 167.71.91.80
+167.71.95.24
 167.71.96.235
 167.71.97.221
 167.71.99.171
@@ -5889,6 +5893,7 @@
 185.234.218.10
 185.234.218.183
 185.234.218.210
+185.234.218.36
 185.234.218.37
 185.234.73.4
 185.235.128.232
@@ -8438,6 +8443,7 @@
 206.189.189.239
 206.189.190.120
 206.189.190.51
+206.189.191.105
 206.189.193.217
 206.189.194.77
 206.189.196.216
@@ -9140,6 +9146,7 @@
 220.132.66.134
 220.132.72.122
 220.132.73.70
+220.133.143.134
 220.133.156.146
 220.133.212.30
 220.133.24.190
@@ -10814,6 +10821,7 @@
 46.101.159.88
 46.101.173.113
 46.101.176.121
+46.101.177.201
 46.101.177.73
 46.101.193.175
 46.101.195.35
@@ -12879,6 +12887,7 @@
 78.39.232.58
 78.39.232.91
 78.45.143.85
+78.47.29.60
 78.47.37.70
 78.47.49.39
 78.69.215.201
@@ -17822,7 +17831,8 @@ apecmadala.com
 apecmas.com
 apectrans.com
 apee296.co.ke
-apekresource.com
+apekresource.com/bq2lfsk/64r5m14k3fvgcen3usqpgqrreya2tj_2fd4gjst-010235475/
+apekresource.com/wp-includes/1kt7t9/
 apel-sjp.fr
 apels.videodp.ru
 apenzel.com
@@ -23415,10 +23425,7 @@ bytime.ru
 bytosti.cz
 byukattie.top
 byvejen.dk
-byworks.com/wp-includes/files/service/verif/EN/04-2019/
-byworks.com/wp-includes/p0b8-crvw7a-brlh/
-byworks.com/wp-includes/secure.myacc.send.net/
-byworks.com/wp-includes/support/Frage/042019/
+byworks.com
 byxaru.com
 byxxyz.com
 byz2.com
@@ -25787,8 +25794,7 @@ cloudflarrr.ml
 cloudhaste.com
 cloudhooks.com
 clouding-world.online
-cloudme.com/v1/ws2/:dr404/:22cted/22cted.exe
-cloudme.com/v1/ws2/:dr404/:MicrosoftOffice/MicrosoftOffice.exe
+cloudme.com
 cloudmine.pl
 cloudninedesign.com.au
 cloudphotos.party
@@ -27862,6 +27868,7 @@ darkpathrecords.com
 darkrebbit.bit
 darkshark.website
 darktowergaming.com
+darkware.club
 darlantc.com
 darmoviesnepal.com
 darnellsim.us
@@ -28871,6 +28878,7 @@ dev-d.com
 dev-developer.carmd.com
 dev-en.rewallonia.be
 dev-facebook.redirectme.net
+dev-nextgen.com
 dev-point.co
 dev-site.ovh
 dev-testmystore.my
@@ -33803,7 +33811,7 @@ enersave.ca
 enes-cam.com
 enesyapidekorasyon.com.tr
 enet.cm
-enews.machinedesign.com/country/US/Regular&date=4-01-19_4-05-19
+enews.machinedesign.com
 enewsale.info
 enewslife.ru
 enfa.jp
@@ -40778,7 +40786,29 @@ home.healthiestu.com
 home.isdes.com
 home.ktxhome.com
 home.lotr.flaik.com
-home.mindspring.com
+home.mindspring.com/~dicklin/USPS20190104.jar
+home.mindspring.com/~dicklin/ups20190114.jar
+home.mindspring.com/~dwduffy/UPS/tracking-copy.jar
+home.mindspring.com/~georgedibble/secure_message.jar
+home.mindspring.com/~jolchawa/01/FedEx20190104.jar
+home.mindspring.com/~jolchawa/UPS_Tracking/1ZW701450096823341.jar
+home.mindspring.com/~jolchawa/ups1/ups20190114.jar
+home.mindspring.com/~marvinlzinn1/20181510.exe
+home.mindspring.com/~marvinlzinn1/UPS_Trk_1Z6A7Y850392419911.exe
+home.mindspring.com/~marvinlzinn1/USPS_20181228.jar
+home.mindspring.com/~marvinlzinn1/_output281B0.exe
+home.mindspring.com/~marvinlzinn1/secure_message.jar
+home.mindspring.com/~mlaurie/1521740581.jar
+home.mindspring.com/~mlaurie/1521794522.jar
+home.mindspring.com/~mlaurie/1522003981.jar
+home.mindspring.com/~mlaurie/1522102502.jar
+home.mindspring.com/~paulfwhite/UPS_tracking.jar
+home.mindspring.com/~pmco/UPS_20180208.jar
+home.mindspring.com/~pmco/USPS20190109.jar
+home.mindspring.com/~sbirmingham/Costings_Follow_Up.jar
+home.mindspring.com/~sbirmingham/Tracking_Number_1Z6A7Y855293103311.jar
+home.mindspring.com/~wilfert/USPS_94078556993022393116.jar
+home.mindspring.com/~wilfert/USPS_Tracking.jar
 home.phnix-e.com
 home.selltokengarff.com
 home.southerntransitions.net
@@ -51383,7 +51413,7 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
-miamicondoinvestments.com/wp-admin/sec.myaccount.docs.com/
+miamicondoinvestments.com
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -52108,7 +52138,8 @@ mobj.qp265.cn
 mobogeniedownload.net
 moborom.com
 mobosim.com
-mobradio.com.br
+mobradio.com.br/wp-admin/INC/OdTgzACDP/
+mobradio.com.br/wp-admin/t8zhk_2oafdbgcjj-8355359422/
 mobshop.schmutzki.de
 mobsterljud.se
 mobuzzasia.com
@@ -53774,7 +53805,12 @@ neatappletech.readysetselfie.com
 nebesnaya-sotnya.site
 nebraskacharters.com.au
 nebrodiescursionileanza.com
-nebula-ent.com
+nebula-ent.com/doc/EN_en/STATUS/HRI-Monthly-Invoice
+nebula-ent.com/doc/EN_en/STATUS/HRI-Monthly-Invoice/
+nebula-ent.com/files/En_us/Jul2018/Invoice-849834311-
+nebula-ent.com/files/En_us/Jul2018/Invoice-849834311/
+nebula-ent.com/t3
+nebula-ent.com/t3/
 nebula.ee
 neccotweethearts.com
 necessary-evil.com
@@ -54094,7 +54130,7 @@ newpavanchatcorner.com
 newpioneerschool.com
 newplannersolutions.com
 newportedu.org
-newradio.it
+newradio.it/personalplayer/rvl/rvl.exe
 newregionalsmartschool.com
 newreport.info
 newrockchurchconyers.org
@@ -55897,7 +55933,7 @@ onlinewp.it
 onlyapteka.ru
 onlychild.org
 onlycocktaildresses.com
-onlygoodman.com/ijs/ijs.exe
+onlygoodman.com
 onlylaw.ru
 onlyonnetflix.com
 onlysunset.club
@@ -57694,7 +57730,7 @@ phunmayngocdung.com
 phunukinhdoanh.net
 phunutoiyeu.com
 phuongphan.co
-phutungotogiare.vn
+phutungotogiare.vn/wp-includes/sendincverif/support/sec/en_EN/032019/
 phy.mbstu.ac.bd
 phylab.ujs.edu.cn
 physicaltrainernearme.com
@@ -59341,7 +59377,10 @@ punter.tk
 puntoardg.com
 puntodeencuentrove.com
 puntofrio.com.co
-puntoprecisoapp.com
+puntoprecisoapp.com/ypb/C3p/
+puntoprecisoapp.com/ypb/CWaLp-ZvMdFq079BYzYU_FwcfChFo-dU/
+puntoprecisoapp.com/ypb/files/support/ios/EN/2019-04/
+puntoprecisoapp.com/ypb/secure.myacc.docs.com/
 puntosilueta.com
 puntoyaparteseguros.com
 puparevieira.com
@@ -62417,8 +62456,7 @@ sachindutta.com
 sachoob.com
 sachtrithuc.com
 sacm.net
-sacmsgmgw001a.delta.org/enduser/classify_url.html?url=bcj4vOoPS8B46Ud6gJMEtrSVpbK6kvOhzNoTP1Nkc9akCYldm5ysiiV042Pg5WhS/
-sacmsgmgw001a.delta.org/enduser/classify_url.html?url=gMQvjTDwF+23in+gr9bszmxgor7TYncykJbo+NUodQg6GgUL9qbt0DxSnpXzZCh6fb6C0XyiTaySpVP8B3UA2w/
+sacmsgmgw001a.delta.org
 sacmsgmgw001b.delta.org
 saconets.com
 sacramentode.ml
@@ -71009,13 +71047,7 @@ theoldhoughcaravanstorage.co.uk
 theoncarrier.com
 theonetruematt.com
 theonlineezzy.store
-theonlygoodman.com/alti/alti.exe
-theonlygoodman.com/fif/fif.exe
-theonlygoodman.com/neuf/neuf.exe
-theonlygoodman.com/nit/nit.exe
-theonlygoodman.com/on/on.exe
-theonlygoodman.com/six/six.exe
-theonlygoodman.com/twe/twe.exe
+theonlygoodman.com
 theoppaisquad.com
 theoptimacreative.com
 theoraclecasting.co.uk
@@ -72037,7 +72069,7 @@ track.smtpsendemail.com/6039663/c?p=nmYzgpvjfxvbxINlhD74pSXXT6reJPgoLBdNZH7pPqqU
 track.smtpsendemail.com/6039663/c?p=nmYzgpvjfxvbxINlhD74pSXXT6reJPgoLBdNZH7pPqqUMw-ev9kRLBYi59B2oPhGUZYLZm8GDg98RyBNIKgS5Tp427xBaIu_AaYea5ImoiygfkTk7kzusb5pXTFi8LFKQXykI-ZGVO0ysLmuV_Mao5BKLmqtSxXR8Yp_qqaovs8GKoC5Pg8cOx5V1pBcLg8v/
 track.smtpsendemail.com/9011226/c?p=FoWocnIR-bZLvojME_8ucf_dlG9rUHaESbNtiV4k4S_ghz9xQLgnrkbwjMYho8tNF8nR8Os5R8FV1l7YL8InBR7qzFB-kllC8sX1AKZjajR-zXimiLhO_jEiLQ4HM5r2yvkham__jLoewuqIMzp_q0bXwLdtGXgg3KMJHYoPdIg=/
 track.smtpsendemail.com/9011226/c?p=IZDwJHQsWgOLkBfhBEr2bjye8MwTvyJ0_GlRJ2FQcGN9fSS-2ePuPXpTG-INJ813_Qyci3KqILwfKp4cb9igE6KB0VHUl_mEH_vNmYZwYn7poI2IZ77rE4Yfuhoi2mrSdTLb_Cz_FbgZVn2AI_U5wjMWQz5sSBbenDGC8fab7PM=/
-track.smtpserver.email
+track.smtpserver.email/5025709/c?p=DPdzPfm0ITEeSUYMbQHFqNtXhCLsDYJBqZ-fOOwix04sbB4kdpJY8mgVAVKHoy5oCUnaERSQjtyOAM8sljuqMHyX8_AC2S3jM9O3po_V6FdALrHCGEJEd4EqF14t72jTMhuI_YlbOKZq-00PtkjbWg==
 track.wizkidhosting.com
 track6.mixtape.moe
 track8.mixtape.moe
@@ -73871,7 +73903,7 @@ url.emailprotection.link/?bcp_LQdELwbKhxKToIznR8rOuhtt9W4qlFovFOxc0z5zmN6k8ji5zi
 url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmBKpoVHxYkckgjOQoYTV_U0G2UMKhd4MBI9Ms8vO3Vliq2ClOuUAa6nO2a7Ij5lJFsouoEEMeMVmI/
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
 url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
-url3.mailanyone.net
+url3.mailanyone.net/v1/?m=1gqjAZ-000BfC-4n&i=57e1b682&c=OZtRQmXF7oN5pbgtjwITGqIFHzseGIPJ778kLq969LDnepRJUFA3m4dqjipi-y6OdeP66fl3GFcG9Mo0uCH8uh_3unyNDLNiJEst871L2nZ8Bt27Et8YRWVkmsFhx001Buq9q_60jxe1ofVPHOxLFN1ol0vyuzUw6cC67geyyV1T0aGD81PMHe6Cu8Qd2qq8-ymIP4qFuRBsKb7Lv1Y00D0SYWjvvMyla6LG_jYhjkcVuQ-nh42o0dILyk44Tc-C/
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urldefense.proofpoint.com/v2/url?u=http-3A__borinfor.com_newfolde-5Fr_doc_En-5Fus_OVERDUE-2DACCOUNT_Invoice-2D07-2D19-2D18&d=DwIFaQ&c=VQ9hgUuwpNx5qjiyTmR6qQ&r=VWCMrOAZ42xEY7aBeHkCfVC7-GccDQiNerNlJRH5muI&m=JavSUg0f9C2qoCCa7AWt8RM7BRNk5mP_S7hBxPVa8ZU&s=XFGDpuuNz7L0uj6b4PoAfz3lck7VPATlniNQMVv_P6w&e/
@@ -75843,7 +75875,7 @@ weboffice365.net
 webofmiscellaneous.com
 webon.vn
 webonlineshop.ml
-weboyun.site/wp-includes/secure_zone/ver/ENG/logged/public_data/
+weboyun.site
 webpathfinder.com
 webplaner.ch
 webpresario.com

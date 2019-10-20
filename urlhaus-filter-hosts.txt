@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sat, 19 Oct 2019 12:12:43 UTC
+# Updated: Sun, 20 Oct 2019 00:12:37 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -604,6 +604,7 @@
 104.244.76.190
 104.244.76.210
 104.244.76.236
+104.244.76.58
 104.244.76.73
 104.244.77.11
 104.244.77.163
@@ -2269,6 +2270,7 @@
 139.59.45.85
 139.59.56.53
 139.59.56.62
+139.59.58.117
 139.59.59.55
 139.59.6.216
 139.59.62.107
@@ -2927,6 +2929,7 @@
 157.230.113.33
 157.230.114.105
 157.230.114.93
+157.230.116.163
 157.230.116.176
 157.230.117.251
 157.230.117.87
@@ -3938,6 +3941,7 @@
 167.71.84.22
 167.71.90.52
 167.71.91.80
+167.71.95.24
 167.71.96.235
 167.71.97.221
 167.71.99.171
@@ -5888,6 +5892,7 @@
 185.234.218.10
 185.234.218.183
 185.234.218.210
+185.234.218.36
 185.234.218.37
 185.234.73.4
 185.235.128.232
@@ -8431,6 +8436,7 @@
 206.189.189.239
 206.189.190.120
 206.189.190.51
+206.189.191.105
 206.189.193.217
 206.189.194.77
 206.189.196.216
@@ -9133,6 +9139,7 @@
 220.132.66.134
 220.132.72.122
 220.132.73.70
+220.133.143.134
 220.133.156.146
 220.133.212.30
 220.133.24.190
@@ -10802,6 +10809,7 @@
 46.101.159.88
 46.101.173.113
 46.101.176.121
+46.101.177.201
 46.101.177.73
 46.101.193.175
 46.101.195.35
@@ -12866,6 +12874,7 @@
 78.39.232.58
 78.39.232.91
 78.45.143.85
+78.47.29.60
 78.47.37.70
 78.47.49.39
 78.69.215.201
@@ -17786,7 +17795,6 @@ apecmadala.com
 apecmas.com
 apectrans.com
 apee296.co.ke
-apekresource.com
 apel-sjp.fr
 apels.videodp.ru
 apenzel.com
@@ -23070,6 +23078,7 @@ bytime.ru
 bytosti.cz
 byukattie.top
 byvejen.dk
+byworks.com
 byxaru.com
 byxxyz.com
 byz2.com
@@ -25238,6 +25247,7 @@ cloudflarrr.ml
 cloudhaste.com
 cloudhooks.com
 clouding-world.online
+cloudme.com
 cloudmine.pl
 cloudninedesign.com.au
 cloudphotos.party
@@ -27289,6 +27299,7 @@ darkpathrecords.com
 darkrebbit.bit
 darkshark.website
 darktowergaming.com
+darkware.club
 darlantc.com
 darmoviesnepal.com
 darnellsim.us
@@ -28261,6 +28272,7 @@ dev-d.com
 dev-developer.carmd.com
 dev-en.rewallonia.be
 dev-facebook.redirectme.net
+dev-nextgen.com
 dev-point.co
 dev-site.ovh
 dev-testmystore.my
@@ -31602,6 +31614,7 @@ enersave.ca
 enes-cam.com
 enesyapidekorasyon.com.tr
 enet.cm
+enews.machinedesign.com
 enewsale.info
 enewslife.ru
 enfa.jp
@@ -38191,7 +38204,6 @@ home.healthiestu.com
 home.isdes.com
 home.ktxhome.com
 home.lotr.flaik.com
-home.mindspring.com
 home.phnix-e.com
 home.selltokengarff.com
 home.southerntransitions.net
@@ -48596,6 +48608,7 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
+miamicondoinvestments.com
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -49319,7 +49332,6 @@ mobj.qp265.cn
 mobogeniedownload.net
 moborom.com
 mobosim.com
-mobradio.com.br
 mobshop.schmutzki.de
 mobsterljud.se
 mobuzzasia.com
@@ -50946,7 +50958,6 @@ neatappletech.readysetselfie.com
 nebesnaya-sotnya.site
 nebraskacharters.com.au
 nebrodiescursionileanza.com
-nebula-ent.com
 nebula.ee
 neccotweethearts.com
 necessary-evil.com
@@ -51262,7 +51273,6 @@ newpavanchatcorner.com
 newpioneerschool.com
 newplannersolutions.com
 newportedu.org
-newradio.it
 newregionalsmartschool.com
 newreport.info
 newrockchurchconyers.org
@@ -52845,6 +52855,7 @@ onlinewp.it
 onlyapteka.ru
 onlychild.org
 onlycocktaildresses.com
+onlygoodman.com
 onlylaw.ru
 onlyonnetflix.com
 onlysunset.club
@@ -54517,7 +54528,6 @@ phunmayngocdung.com
 phunukinhdoanh.net
 phunutoiyeu.com
 phuongphan.co
-phutungotogiare.vn
 phy.mbstu.ac.bd
 phylab.ujs.edu.cn
 physicaltrainernearme.com
@@ -56142,7 +56152,6 @@ punter.tk
 puntoardg.com
 puntodeencuentrove.com
 puntofrio.com.co
-puntoprecisoapp.com
 puntosilueta.com
 puntoyaparteseguros.com
 puparevieira.com
@@ -58933,6 +58942,7 @@ sachindutta.com
 sachoob.com
 sachtrithuc.com
 sacm.net
+sacmsgmgw001a.delta.org
 sacmsgmgw001b.delta.org
 saconets.com
 sacramentode.ml
@@ -65837,6 +65847,7 @@ theoldhoughcaravanstorage.co.uk
 theoncarrier.com
 theonetruematt.com
 theonlineezzy.store
+theonlygoodman.com
 theoppaisquad.com
 theoptimacreative.com
 theoraclecasting.co.uk
@@ -66845,7 +66856,6 @@ track-lost-device.co.za
 track-systemgo.ru
 track.bestwesternlex.com
 track.defatinator.com
-track.smtpserver.email
 track.wizkidhosting.com
 track6.mixtape.moe
 track8.mixtape.moe
@@ -68289,7 +68299,6 @@ url-validation-clients.com
 url.246546.com
 url.57569.fr.snd52.ch
 url.edu
-url3.mailanyone.net
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urlsys.com
@@ -70137,6 +70146,7 @@ weboffice365.net
 webofmiscellaneous.com
 webon.vn
 webonlineshop.ml
+weboyun.site
 webpathfinder.com
 webplaner.ch
 webpresario.com
