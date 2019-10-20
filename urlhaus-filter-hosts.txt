@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sun, 20 Oct 2019 00:12:37 UTC
+# Updated: Sun, 20 Oct 2019 12:13:00 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -3236,6 +3236,7 @@
 159.203.69.152
 159.203.69.66
 159.203.70.140
+159.203.70.141
 159.203.73.41
 159.203.73.80
 159.203.78.101
@@ -3800,6 +3801,7 @@
 165.227.26.16
 165.227.32.119
 165.227.36.38
+165.227.4.149
 165.227.42.233
 165.227.44.216
 165.227.44.23
@@ -29682,6 +29684,7 @@ download.security.baidu.co.th
 download.skycn.com
 download.sosej.cz
 download.ttrar.com
+download.ttz3.cn
 download.u7pk.com
 download.viamedia.ba
 download.ware.ru
@@ -69241,6 +69244,7 @@ vioplanoc.com
 vioprotection.com.co
 vios-club.com
 vip-lojistik.com
+vip-rocket.net
 vip.muabannhanh.com
 vip163.cf
 vip163.ga
