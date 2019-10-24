@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 24 Oct 2019 00:12:52 UTC
+! Updated: Thu, 24 Oct 2019 15:14:44 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2136,6 +2136,7 @@
 138.197.167.101
 138.197.169.191
 138.197.169.57
+138.197.173.129
 138.197.173.212
 138.197.173.233
 138.197.188.103
@@ -5439,6 +5440,7 @@
 185.10.68.213
 185.10.68.228
 185.100.84.187
+185.101.105.115
 185.101.105.129
 185.101.105.130
 185.101.105.131
@@ -5501,6 +5503,7 @@
 185.112.249.146
 185.112.249.22
 185.112.249.226
+185.112.249.227
 185.112.249.55
 185.112.249.62
 185.112.249.9
@@ -6805,6 +6808,7 @@
 189.39.241.199
 189.39.243.45
 189.41.106.205
+189.41.191.62
 189.45.44.86
 189.46.108.155
 189.46.117.68
@@ -7129,6 +7133,7 @@
 192.119.66.148
 192.119.68.225
 192.119.87.234
+192.119.94.166
 192.144.136.174
 192.154.105.234
 192.155.85.122
@@ -7642,6 +7647,8 @@
 198.46.235.194
 198.49.75.130
 198.50.143.165
+198.50.168.67
+198.50.203.97
 198.50.232.214
 198.50.237.87
 198.55.107.149
@@ -10089,6 +10096,7 @@
 36.67.47.179
 36.67.52.241
 36.67.74.15
+36.70.124.7
 36.70.136.52
 36.70.208.2
 36.70.214.112
@@ -11431,6 +11439,7 @@
 5.188.60.165
 5.188.60.99
 5.188.87.11
+5.188.9.33
 5.189.128.129
 5.189.151.58
 5.189.227.247
@@ -11887,6 +11896,7 @@
 54.145.99.108
 54.146.46.168
 54.149.127.181
+54.153.111.225
 54.153.155.14
 54.153.245.124
 54.154.144.172
@@ -12667,6 +12677,7 @@
 72.44.25.94
 72.52.243.16
 72.69.204.59
+72.89.84.172
 72115847-675705947641930512.preview.editmysite.com
 72clothing.com
 73.101.223.120
@@ -15991,6 +16002,7 @@ aghakhani.com
 agharezafotouhi.ir
 aghayebusiness.com
 aghigh.yazdvip.ir
+aghosh.org
 aghpl.com
 agildoc.com
 agile-moji-9064.pupu.jp
@@ -16520,6 +16532,7 @@ albazrazgroup.com
 albercaspoolfactory.com
 albergostevano.it
 alberguetaull.com
+alberolandia.it
 albert.playground.mostar.id
 albertaalliance.ca
 albertabeef.ca
@@ -17898,6 +17911,7 @@ apantvbd.com
 apartahotelfamilyhouse.com
 apartamentyeuropa.pl
 apartamentygosciejow.pl
+apartberlin.com
 apartdelpinar.com.ar
 apartemenverde.com
 apartmagabriela.cz
@@ -19369,6 +19383,7 @@ autodrim.pl
 autodwg.com/download/dwfinpro.exe
 autoecole-hammamet.tn
 autoecole.inchtechs.com
+autoecolehophophop.com
 autoescuelacontreras.es
 autoescuelasancarlos.com
 autoescuelasbaratasenvalencia.com.es
@@ -21418,6 +21433,7 @@ bilgiegitimonline.com
 bilgikap.xyz
 bilginerotoekspertiz.com
 bilgisel.blog
+bilim-pavlodar.gov.kz
 bilisimeskisehir.com
 bilisimnokta.com
 bility.com.br
@@ -22340,6 +22356,7 @@ bloominggood.co.za
 bloomingrosebd.com
 bloomspor.com
 bloqueador-ar.com.br
+blossombeautyandspa.com
 blossombrows.com
 blossomtel.com
 blsa.org.za
@@ -22719,6 +22736,7 @@ bos.pgzs.com/rbreszy/android/soft/2014/2/12/f0d55cb043ee478daa3f293357422ddf/com
 bosalud.com
 boscanatural.com
 boshnakov.com
+bosjia.com
 bosmcafe.com
 bosnasport.info
 bosniakov.com
@@ -23871,6 +23889,7 @@ canalgeo.com
 canalglam.com.br
 canalhousedeschans.com
 canbattery.ca
+cancerclubcisc.org
 canco.co.ir
 cancofastteners.com
 cancomic.com
@@ -25349,6 +25368,7 @@ cholaholidays.com
 cholesterol-ache.xyz
 chomptruck.com
 chongnet.cn
+chongoubus.com
 chonreneedanceacademy.com
 choobica.com
 choobika.com
@@ -27055,6 +27075,7 @@ craftacademia.com
 craftlok.com
 craftmartonline.com
 craftresortphuket.com
+craftsas.com
 craftsvina.com
 craftwormcreations.com
 craftww.pl
@@ -29708,6 +29729,7 @@ diskonterbaiksuzuki.com
 dislh.asahankab.go.id
 dislip8o.beget.tech
 disnak.sukabumikab.go.id
+disneylearning.cn
 disp.viamedia.ba
 dispendik.blitarkab.go.id
 disperkim.kalselprov.go.id
@@ -33285,6 +33307,7 @@ efectiva.com.ar
 efectiva.pl
 efectivafm.com
 efectycredit.com
+effectivefamilycounseling.com
 efficientlifechurch.com
 efficientlifechurch.org
 efficientmarketing.com.au
@@ -35953,6 +35976,7 @@ finansvekredi.com
 finatechadvisors.com
 finbuilding.vn
 fincabonanzaquindio.com
+fincorpacc.com
 find-me-an-english-book.co.uk
 find-me-an-english-penpal.find-me-an-english-tutor.co.uk
 findafitfriend.com.au
@@ -36184,6 +36208,7 @@ flagstarnursing.com
 flairequip.com
 flameresistantdeals.com
 flaminghead.net
+flamingohonuicoc.com
 flamingonightstreet.xyz
 flanaganlaw.com
 flapcon.com
@@ -38154,6 +38179,7 @@ gianphoihoaphatgroup.com
 giant-fighting-robots.org
 giantwealth.com
 giaodichbds247.com
+giaodienweb.xyz
 giaoducdacbiet.edu.vn
 giaoducvacongnghe.com
 giaphatdecor.com
@@ -38711,6 +38737,7 @@ gonorthhalifax.com
 gonouniversity.edu.bd
 gonulyayincilik.com
 goo-s.mn
+goo.kz
 good-deal.ml
 goodapple.co.uk
 goodbarber-app.com
@@ -38769,6 +38796,7 @@ gopalakidz.club
 gopalcatters.com
 gophimeraq.com
 gopiwedsusha.com
+goprimaair.com
 goprohero.com.br
 gopropertyplus.com
 gopropool.com
@@ -39193,6 +39221,7 @@ gromovmaster.ru
 gronbach.us
 grondverzetjousma.nl
 groningerjongleerweekend.kaptein-online.nl
+gronowskiphotos.net
 groolia.com
 groomdog.ru
 groomertracker.net
@@ -40636,6 +40665,7 @@ hitechlab.pt
 hitechlink.com.vn
 hitechontheweb.com
 hitesupackaging.com
+hitfluent.com
 hitless.com
 hitme.ga
 hitmidia.com.br
@@ -40689,6 +40719,7 @@ hlitreecare.com
 hlttourism.com
 hlxmzsyzx.com
 hmao.planetasvet.ru
+hmcargollc.com
 hmcfarms.com
 hmcharitableassociation.com
 hmeyerortm.user.jacobs-university.de
@@ -42625,6 +42656,7 @@ indulgegourmetkettlecorn.com
 indumentariastore.com.br
 indushandicrafts.com
 industriadosom.com.br
+industrial-parks.com
 industrialautomation.vertscend.in
 industrias-je.com
 industriasrofo.com
@@ -43572,6 +43604,7 @@ isupplyco.co
 isupport.gr
 isupportnaturalhealth.com
 isuzu-nkp.com
+iswanweb.com
 iswebteam.net
 isys.fire-navi.jp
 iszuddinismail.com
@@ -45347,6 +45380,7 @@ kapuaskampung.com
 kar.big-pro.com
 karabagvip.com
 karabantwo.info
+karabukevleniyor.com
 karacasmad.com.br
 karachicrime.pk
 karagozgumruk.com
@@ -47904,6 +47938,7 @@ lf.s-grand.ru
 lf13e4d0.justinstalledpanel.com
 lfenjoy.com
 lfoweiro129301.pw
+lfsm.co.za
 lg-signage.kz
 lg.icf-fx.kz
 lg4square.com
@@ -49306,6 +49341,7 @@ mafud.company
 mafzalfurniture.com.pk
 mag-company.com
 mag-online.ir
+magalinest.com
 magasen5.es
 magashazi.hu
 magazine.asifabih.com
@@ -49372,6 +49408,7 @@ magnetpowerbank.site
 magnetsep.com
 magnivacsbeach.com
 magnoliaburbank.com
+magnoliagreeninfo.com
 magnum-traffic.de
 magnumbd.com
 magofuchoko.com
@@ -52459,6 +52496,7 @@ mogilevcity.by
 moh.sk.gov.ng
 moha-group.com
 moha-group.ir
+mohamadelzein.com
 mohamadfala.com
 mohamedsamy.net
 mohammadishmam.com
@@ -52948,6 +52986,7 @@ mrsinghcab.com
 mrsmakeup.co.uk
 mrsoftware.nl
 mrsstedward.pbworks.com
+mrsvgnpwr.com
 mrtaotao.com
 mrtechpr.com
 mrtrouble.com.tw
@@ -53551,6 +53590,7 @@ mysmsdirect.com
 mysocialmedia.life
 mysoredentalcare.com
 myspaceplanner.fr
+myspiritualhealings.com
 mysprint.shop
 mystavki.com
 mysterylover.com
@@ -54046,6 +54086,7 @@ nedvigovka.ru
 neecopower.com
 need-h.com
 needbasesolutions.in
+needingstaffs.com
 needlandscapers.com
 needlelogy.com
 needlemax.com
@@ -56156,6 +56197,7 @@ onlinewp.it
 onlyapteka.ru
 onlychild.org
 onlycocktaildresses.com
+onlycompass.com
 onlygoodman.com
 onlylaw.ru
 onlyonnetflix.com
@@ -57943,6 +57985,7 @@ php.mavalerio.com.br
 phpmasters.in
 phpsolutions.nl
 phpsystems.ca
+phptechblogs.com
 phs.quantumcode.com.au
 phuckien.com.vn
 phuclinhbasao.com
@@ -60720,6 +60763,7 @@ rapidosec-mauertrockenlegung-graz.at
 rapidroofrepair.co.uk
 rapidsolut-my.sharepoint.com
 rapidsuccessprogramming.com
+rapidtradeservices.brillboard.com
 rapitecperu.com
 rapolaswordpress.000webhostapp.com
 raporto.com.al
@@ -62485,6 +62529,7 @@ s.put.re/V6Dw8o4w.doc
 s.put.re/YUH44Wmo.jpg
 s.put.re/Zqczsf5s.exe
 s.put.re/eDygzXGN.exe
+s.put.re/fJjE7i4c.jpg
 s.put.re/mSpoXyLA.qwe
 s.put.re/mz1f41L8.qwe
 s.put.re/t9FDi5cf.exe
@@ -63731,6 +63776,7 @@ sebastiandibusz.com
 sebastien-marot.fr
 sebazi.com
 sebazicom
+sebco.co.ke
 sebestyenferenc.hu
 sebsn.de
 sebutgurom.ru
@@ -64017,6 +64063,7 @@ sentrypc.download
 senturklerforklift.com
 seo.vodai.bid
 seo1mexico.com
+seo4biz.com
 seoandgrow.com
 seocddj.com
 seoclass.lidyr.com
@@ -65557,6 +65604,7 @@ smartonlinestop.com
 smartparkinguae.com
 smartphonexyz.com
 smartpromo.top
+smartr.online
 smartrankking.com
 smartre.live
 smartrealestateschool.com
@@ -67154,6 +67202,7 @@ stomatologkubrak.pl
 stomnsco.com
 stomper.ml
 stonaa.com
+stoneacre.info
 stoneartstudiosco.com
 stonebridgeranchrealestate.com
 stonedesigncenter.es
@@ -68883,6 +68932,7 @@ strikeforce.uploadbook.com
 strikmgt.nl
 stringletter.com
 stripouts.co.uk
+strmfrnt.com
 strochki.info
 stroedk.dk
 stroim-dom45.ru
@@ -70686,6 +70736,7 @@ terrago.be
 terragrain.eu
 terramar.xyz
 terramosa.com
+terranovaoutdoorliving.com
 terranowwa.org
 terraoferta.club
 terrapersonas.com
@@ -71487,6 +71538,7 @@ theubergroups.com
 theunstoppablesummit.com
 theupperquartile.co.uk
 theushers.net
+thevagabondsatchel.com
 thevalleystore.com
 thevamlgo.com
 thevangarde.com
@@ -72495,6 +72547,7 @@ tranhoangvn.com
 tranhtuong.top
 tranhvinhthanh.com
 transactionmodeling.com
+transactionportal.co
 transagep.com
 transamerica.simpleupdate.net
 transatlantictravel.xyz
@@ -72557,6 +72610,7 @@ travel2njoy.com
 travelandsmile.it
 travelblog.rasay.me
 travelcentreny.com
+travelenvision.com
 travelerguideblog.com
 travelexeq.com
 travelgdl-tours.com
@@ -73116,6 +73170,7 @@ tvsabogados.com
 tvtuning.techplus.pk
 tvunwired.com
 twan.brightcircle.work
+twatistan.com
 twcc.orange-wireless.com
 twcinteriors.com
 tweed-wyszukiwarka.pl
@@ -74089,6 +74144,7 @@ upgradefile.com
 upgradeoffice365.com
 upgradesoftware2017.com
 upgradeyourbrowser.org
+upgrading-office-content.esy.es
 upgulf.net
 upice.eqwauemt.com
 upick.ec
@@ -74695,6 +74751,7 @@ vasabaha.com
 vasantkunjcultural.com
 vasantvihar.co
 vascomedicsinternational.com
+vasconesia.com
 vaser.ca
 vashdok.com.ua
 vasicweb.com
@@ -74992,6 +75049,7 @@ vfxfesst.com
 vg-tour.com
 vgd.vg
 vghneaohdw.top
+vgnbox.com
 vgpromoters.com
 vh250640.eurodir.ru
 vhadinyani.co.za
@@ -75828,6 +75886,7 @@ wahathalwancontracting.com
 wahegurucollegeabohar.com
 wahl.in
 waikikitarifa.com
+wairingi.com
 waisir.com
 waitbuzz.net
 waiter.zendesk.com
@@ -75959,6 +76018,7 @@ wasserettederoos.nl
 wasteartstudio.com
 wastetoenergyhq.com
 wasza.com
+waszkovia.com
 watchchurchonline.com
 watchdogdns.duckdns.org
 watchdogdns.duckdns.orgwatchdogdns.duckdns.org
@@ -76429,6 +76489,7 @@ westburydentalcare.com
 westchestersewerrepair.com
 westclaire.com.au
 westcoastcafe.co.uk
+westcoastdatacom.com
 westcoastrepro.ca
 westcoastview-mauritius.com
 westernamericanfoods.com
@@ -76860,6 +76921,7 @@ wmo-raad.inov.me
 wmpatagonia.cl
 wmsoluciones.cl
 wmtrees.services
+wmv.vinceskillion.com
 wmzwq.cn
 wnhs.madcollective.com
 wnssl.com
@@ -77971,6 +78033,7 @@ yamato-ka.com
 yamato-ku.com
 yamato-me.com
 yamato-sa.com
+yamato-si.com
 yamato-su.com
 yamike.com
 yamisiones.com/cache/98UACH/KFBQ35670INVNT/Aug-10-2018-7288859/EOB-ESKX
@@ -78190,6 +78253,7 @@ ymail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.wa
 ymca.monkeynbiz.com
 ymcaminya.org
 ymeezusdy.cf
+ymfitnesswear.com
 ymka.com.ua
 ymlsr.com.tw
 ymtbs.cn
@@ -78534,6 +78598,7 @@ zangemeister.de
 zanjhrhhyh.cf
 zanpress.com
 zaoyinzhili.com
+zapatoscr.000webhostapp.com
 zapchasti-hend-saratov.ru
 zapchasti-toyota-samara.ru
 zapmodulservice.ru
