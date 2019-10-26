@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sat, 26 Oct 2019 00:12:44 UTC
+# Updated: Sat, 26 Oct 2019 12:12:40 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -513,6 +513,7 @@
 104.168.163.95
 104.168.164.50
 104.168.166.89
+104.168.167.254
 104.168.167.92
 104.168.169.153
 104.168.169.89
@@ -2588,6 +2589,7 @@
 142.93.229.31
 142.93.23.127
 142.93.231.197
+142.93.232.114
 142.93.232.131
 142.93.232.235
 142.93.232.87
@@ -2785,6 +2787,7 @@
 149.34.34.198
 149.34.40.189
 149.5.209.70
+149.56.0.246
 149.56.100.86
 149.56.110.181
 149.56.122.12
@@ -4735,6 +4738,7 @@
 178.128.127.231
 178.128.127.97
 178.128.13.30
+178.128.146.141
 178.128.148.138
 178.128.149.0
 178.128.15.245
@@ -5442,6 +5446,7 @@
 185.100.84.187
 185.101.105.115
 185.101.105.117
+185.101.105.121
 185.101.105.129
 185.101.105.130
 185.101.105.131
@@ -5679,6 +5684,7 @@
 185.164.72.228
 185.164.72.241
 185.164.72.244
+185.164.72.89
 185.164.72.91
 185.164.75.133
 185.169.52.72
@@ -8573,6 +8579,7 @@
 206.72.197.77
 206.72.198.100
 206.81.1.111
+206.81.10.91
 206.81.11.231
 206.81.11.79
 206.81.12.46
@@ -9436,6 +9443,7 @@
 23.94.62.127
 23.94.65.53
 23.94.65.55
+23.95.200.195
 23.95.26.126
 23.95.55.45
 23.96.55.100
@@ -9770,6 +9778,7 @@
 31.211.155.88
 31.211.159.149
 31.211.23.240
+31.214.157.113
 31.214.157.115
 31.214.157.169
 31.214.157.206
@@ -21055,6 +21064,7 @@ betablanja.com
 betaborrachas.com.br
 betal-urfo.ru
 betaqq.ru
+betav1.wylog.com
 betc-photographe-alsace.com
 betdat.com
 betenu.org
@@ -24584,6 +24594,7 @@ chantsetnotes.net
 chanvribloc.com
 chaos-mediadesign.com
 chaoscopia.com
+chaoswarprivate.000webhostapp.com
 chapkonak.ir
 chapmanbright.com
 chapter3.co.zw
@@ -25083,6 +25094,7 @@ cinemapokkisham.com
 cinemaschool.pro
 cinemastudio.club
 cinemaxxi.me
+cinemay.biz
 cinephilia.site
 cinergie-shop.ch
 cineskatepark.it
@@ -28500,6 +28512,7 @@ dev.cscslacouronne.org
 dev.deweerdwebsites.nl
 dev.diawan.net
 dev.dimatech.org
+dev.dmacourse.com
 dev.donclarkphotography.com
 dev.europeanexperts.com
 dev.familyhospital.vn
@@ -31059,6 +31072,7 @@ edtecnologia.com.br
 edtrust.katehuntwebdesign.com
 edtwodth.dk
 edu.mirhamidi.org
+edu.tizino.com
 eduahmedabad.com
 eduapps.in
 eduardoraupp.com
@@ -31268,6 +31282,7 @@ ejanlele.design
 ejdelapena.com
 ejder.com.tr
 ejemplo.com.mx
+ejerciciosantonio.000webhostapp.com
 ejercitodemaquinas.com
 ejiri.to
 ejob.magnusideas.com
@@ -31788,6 +31803,7 @@ enbesandesignstudio.com
 enc-tech.com
 encame.com
 enchantography.com
+encitmgdk.com
 enckell.se
 encogo.com
 encompassrei.com
@@ -36020,6 +36036,7 @@ glecenter.org
 glencrossdesign.co.uk
 glendyli.myhostpoint.ch
 glenhursthoa.com
+glenncappe.info
 glenndarnell.com
 gleyr.it
 glfca.org
@@ -37490,6 +37507,7 @@ hanoihomes.net
 hanoihub.vn
 hanokj.com
 hanoverpaversathome.com
+hansco.in
 hansetravel.de
 hansole.org
 hanspaul.de
@@ -45704,6 +45722,7 @@ lipuu.com
 liquidasalvador.com.br
 liquidigloo.com
 liquorcity.mx
+liquorstorelasvegas.com
 liragec.org
 lirave.bplaced.net
 lis-consult.dk
@@ -51546,6 +51565,7 @@ new-cuisibat.com
 new-idea.be
 new-standart-outsourcing.com.ua
 new-ware.com
+new.1communityre.com
 new.53museum.org
 new.9875432.ru
 new.allfn.com
@@ -61666,6 +61686,7 @@ simple.org.il
 simpleaoc.com
 simpleasis.com
 simplebsolutions.co.uk
+simplecuisine.000webhostapp.com
 simpledomes.com
 simpleisnice.com
 simplemakemoneyonline.com
@@ -62213,6 +62234,7 @@ smefood.com
 smeg-center.ru
 smehelpdesk.net
 smehlik.net
+smeiran.com
 smejk.cz
 smejky.com
 smelecpro.com

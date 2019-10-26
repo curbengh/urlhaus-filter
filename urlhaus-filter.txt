@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 26 Oct 2019 00:12:44 UTC
+! Updated: Sat, 26 Oct 2019 12:12:40 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -522,6 +522,7 @@
 104.168.163.95
 104.168.164.50
 104.168.166.89
+104.168.167.254
 104.168.167.92
 104.168.169.153
 104.168.169.89
@@ -2597,6 +2598,7 @@
 142.93.229.31
 142.93.23.127
 142.93.231.197
+142.93.232.114
 142.93.232.131
 142.93.232.235
 142.93.232.87
@@ -2794,6 +2796,7 @@
 149.34.34.198
 149.34.40.189
 149.5.209.70
+149.56.0.246
 149.56.100.86
 149.56.110.181
 149.56.122.12
@@ -4744,6 +4747,7 @@
 178.128.127.231
 178.128.127.97
 178.128.13.30
+178.128.146.141
 178.128.148.138
 178.128.149.0
 178.128.15.245
@@ -5451,6 +5455,7 @@
 185.100.84.187
 185.101.105.115
 185.101.105.117
+185.101.105.121
 185.101.105.129
 185.101.105.130
 185.101.105.131
@@ -5688,6 +5693,7 @@
 185.164.72.228
 185.164.72.241
 185.164.72.244
+185.164.72.89
 185.164.72.91
 185.164.75.133
 185.169.52.72
@@ -8588,6 +8594,7 @@
 206.72.197.77
 206.72.198.100
 206.81.1.111
+206.81.10.91
 206.81.11.231
 206.81.11.79
 206.81.12.46
@@ -9451,6 +9458,7 @@
 23.94.62.127
 23.94.65.53
 23.94.65.55
+23.95.200.195
 23.95.26.126
 23.95.55.45
 23.96.55.100
@@ -9787,6 +9795,7 @@
 31.211.155.88
 31.211.159.149
 31.211.23.240
+31.214.157.113
 31.214.157.115
 31.214.157.169
 31.214.157.206
@@ -21195,6 +21204,7 @@ betablanja.com
 betaborrachas.com.br
 betal-urfo.ru
 betaqq.ru
+betav1.wylog.com
 betc-photographe-alsace.com
 betdat.com
 betenu.org
@@ -24677,13 +24687,17 @@ cdn.discordapp.com/attachments/577990361855557642/606343601328226304/IMG_0108201
 cdn.discordapp.com/attachments/588179819972395029/588871215666692096/GEE.exe
 cdn.discordapp.com/attachments/588179819972395029/588874572926025729/out-1445440753.hta
 cdn.discordapp.com/attachments/595421777279320067/616848894969774081/RFQ_JVJS.ace
+cdn.discordapp.com/attachments/603292715991695380/603292856131780628/dllinjector.exe
 cdn.discordapp.com/attachments/606606785704624131/606628524820004874/We_have_a_new_delivery_for_you.exe
 cdn.discordapp.com/attachments/609777838069121041/609777878569189392/anticheat.exe
 cdn.discordapp.com/attachments/617964571378057228/624018298127908892/TNT_Collection_Request_BH7_178845.zip
 cdn.discordapp.com/attachments/617964571378057228/624425041588781093/TNT_COLLECTION.zip
+cdn.discordapp.com/attachments/621840654749663237/622266166353592321/f.exe
+cdn.discordapp.com/attachments/622940298062069784/622940532041318402/RFQOM1909-13.gz
 cdn.discordapp.com/attachments/627945604818927619/627946827152621591/Akelas_Gen.exe
 cdn.discordapp.com/attachments/632864244857307157/635779797041283083/Scanned-IMG-PO_EDB2944-Doc-2019-21-10-PDF.7z
 cdn.discordapp.com/attachments/635760237982384150/636097594929709056/PDF.PO31001123453735464_PDF.gz
+cdn.discordapp.com/attachments/636826381099204620/636829015709188096/Swift_MT103_-USD_550000_Settlement.xls
 cdn.fanyamedia.net
 cdn.fbsbx.com/v/t59.2708-21/30831868_2001421493263570_988122346738941952_n.zip/71I49N1JH7GG.zip?oh=81f42de9d61696c78f429719277283cc&oe=5AE24EE8&dl=1
 cdn.fbsbx.com/v/t59.2708-21/30831923_2004391716299881_1152363085843922944_n.zip/DOC_26-04.zip?oh=3e9b2b1fee016b3085dce0d2d5d106ae&oe=5AE4BDFE&dl=1
@@ -25116,6 +25130,7 @@ chantsetnotes.net
 chanvribloc.com
 chaos-mediadesign.com
 chaoscopia.com
+chaoswarprivate.000webhostapp.com
 chapkonak.ir
 chapmanbright.com
 chapter3.co.zw
@@ -25615,6 +25630,7 @@ cinemapokkisham.com
 cinemaschool.pro
 cinemastudio.club
 cinemaxxi.me
+cinemay.biz
 cinephilia.site
 cinergie-shop.ch
 cineskatepark.it
@@ -29126,6 +29142,7 @@ dev.cscslacouronne.org
 dev.deweerdwebsites.nl
 dev.diawan.net
 dev.dimatech.org
+dev.dmacourse.com
 dev.donclarkphotography.com
 dev.europeanexperts.com
 dev.familyhospital.vn
@@ -33279,6 +33296,7 @@ edtecnologia.com.br
 edtrust.katehuntwebdesign.com
 edtwodth.dk
 edu.mirhamidi.org
+edu.tizino.com
 eduahmedabad.com
 eduapps.in
 eduardoraupp.com
@@ -33489,6 +33507,7 @@ ejanlele.design
 ejdelapena.com
 ejder.com.tr
 ejemplo.com.mx
+ejerciciosantonio.000webhostapp.com
 ejercitodemaquinas.com
 ejiri.to
 ejob.magnusideas.com
@@ -34011,6 +34030,7 @@ enbesandesignstudio.com
 enc-tech.com
 encame.com
 enchantography.com
+encitmgdk.com
 enckell.se
 encogo.com
 encompassrei.com
@@ -38464,6 +38484,7 @@ glecenter.org
 glencrossdesign.co.uk
 glendyli.myhostpoint.ch
 glenhursthoa.com
+glenncappe.info
 glenndarnell.com
 gleyr.it
 glfca.org
@@ -39947,6 +39968,7 @@ hanoihomes.net
 hanoihub.vn
 hanokj.com
 hanoverpaversathome.com
+hansco.in
 hansetravel.de
 hansole.org
 hanspaul.de
@@ -48389,6 +48411,7 @@ lipuu.com
 liquidasalvador.com.br
 liquidigloo.com
 liquorcity.mx
+liquorstorelasvegas.com
 liragec.org
 lirave.bplaced.net
 lis-consult.dk
@@ -54382,6 +54405,7 @@ new-cuisibat.com
 new-idea.be
 new-standart-outsourcing.com.ua
 new-ware.com
+new.1communityre.com
 new.53museum.org
 new.9875432.ru
 new.allfn.com
@@ -65189,6 +65213,7 @@ simple.org.il
 simpleaoc.com
 simpleasis.com
 simplebsolutions.co.uk
+simplecuisine.000webhostapp.com
 simpledomes.com
 simpleisnice.com
 simplemakemoneyonline.com
@@ -65764,6 +65789,7 @@ smefood.com
 smeg-center.ru
 smehelpdesk.net
 smehlik.net
+smeiran.com
 smejk.cz
 smejky.com
 smelecpro.com
@@ -76633,8 +76659,10 @@ werbeweber.de
 werbungwir.com
 werdner.com
 weresolve.ca
+werfcdxv.ru/nckjxhgfdsb.exe
 werfcdxv.ru/nvcxkhjfygdsxc.EXE
 werfcdxv.ru/nvjfcdxkhgsdf.exe
+werfcdxv.ru/pvcxbcjfhkdgsd.EXE
 werge21.ru
 werkenbij.velthuizenkeukens.nl
 werki1.de
