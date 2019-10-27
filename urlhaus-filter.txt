@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 26 Oct 2019 12:12:40 UTC
+! Updated: Sun, 27 Oct 2019 00:12:33 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1509,6 +1509,7 @@
 121.174.70.160
 121.174.70.181
 121.174.70.189
+121.174.70.208
 121.174.70.244
 121.177.239.68
 121.180.253.95
@@ -2656,6 +2657,7 @@
 142.93.67.27
 142.93.68.129
 142.93.69.56
+142.93.7.21
 142.93.7.211
 142.93.70.37
 142.93.72.136
@@ -3972,6 +3974,7 @@
 167.71.75.37
 167.71.78.62
 167.71.79.144
+167.71.79.88
 167.71.80.252
 167.71.82.110
 167.71.82.119
@@ -19235,7 +19238,10 @@ att-hellolab.com
 att1.bigmir.net
 attach.66rpg.com
 attach.mail.daum.net
-attack.s2lol.com
+attack.s2lol.com/free/svchosts.exe
+attack.s2lol.com/new/dllhosts.exe
+attack.s2lol.com/svchost.exe
+attack.s2lol.com/svchosts.exe
 attack.ucoz.ae
 attackplanr.com
 attaqwapreneur.com
@@ -21270,7 +21276,8 @@ beysel.com
 beytepefoodcenter.com
 beytriali.com
 bezambici.com
-bezier.com
+bezier.com/wp-admin/1
+bezier.com/wp-admin/3
 bezlive.com
 bezoekbosnie.nl
 bezoporu.wtie.tu.koszalin.pl
@@ -24033,6 +24040,7 @@ capitalrealestate.us
 capitalrh.com.br
 capitalsolutions.gr
 capitanmiranda.gov.py
+capmusic.ru
 capnensensejoguina.com
 capolytecch.com
 capony.000webhostapp.com
@@ -26003,7 +26011,7 @@ cloud.diminishedvaluecalifornia.com
 cloud.hollweck.it
 cloud.kryptonia.fr
 cloud.patrika.com
-cloud.s2lol.com
+cloud.s2lol.com/auto/autotrain_vlbisu/AutoTrainJX.exe
 cloud.xenoris.fr
 cloudaftersales.com
 cloudbytegames.com
@@ -28365,7 +28373,7 @@ dc535.4sync.com/download/YDv0y4ck/H5EF2KML0C9BGEG6FN9G0NEW-UPDAT.zip?dsid=MBbTfz
 dc538.4sync.com/download/pU3asCMi/Intimacao000121031Pdf.zip?dsid=wqiIPRF1.ad8fb678cdc94a057f8e0d4c8b5d1123&sbsr=103ebf07c37b2197df4fd3f50e3029589d9&bip=MTg5LjcwLjE4My4xMTA&lgfp=40
 dc540.4sync.com/download/q5YAklS2/TYEUIRTTREE34594548MP3.zip?dsid=MBbTfzsm.3a245bc4c1f0f445f96d2b1f7232f9ed&sbsr=068f52e685c0af548db3b6a2c00fd0449dc&bip=MTA3LjE3OC4xOTQuODE&lgfp=40
 dc540.4sync.com/download/zPGLN2-T/MVM0655IKBNJBD461585B1GF0410.zip?dsid=MBbTfzsm.6944b30fab30f22e8c526034170e97ac&sbsr=504d2ba2504701680058e2670497803f9dc&bip=MTA3LjE3OC4xOTQuODM&lgfp=40
-dc625.4shared.com
+dc625.4shared.com/download/F6hF2sATea/Emissao-DanfeID493929290129248.bz2?dsid=wcWXcGyS.03a6923665a8de26ab0c68d2130f3182&sbsr=d422f1eeac3f50cba95a0b36ee5ba69ba25&bip=ODAuMTYuMTAyLjIxMA&lgfp=40
 dc683.4sync.com/download/Bz7c4EgY/UPDATEAD3MH9237GM19BGA8AN790BA.zip?dsid=MBbTfzsm.4ebf79b67076472f98907c45f5a585b7&sbsr=23713d4dda2f5f39f708d9fe32d606a19db&bip=MTA3LjE3OC4xOTQuODE&lgfp=40
 dc683.4sync.com/download/E0eqIsQS/KRTB092831MOSDOC.zip?dsid=wqiIPRF1.3503a25b3fb742ec787bf6eb976e0f9e&sbsr=6234150d065d9b7807f7b690204674849d9&bip=MTA3LjE3OC4xOTQuNzk&lgfp=40
 dc683.4sync.com/download/E0eqIsQS/KRTB092831MOSDOC.zip?dsid=wqiIPRF1.3503a25b3fb742ec787bf6eb976e0f9e&sbsr=8c60c38966e9246b575bb769ae6d7ea09d9&bip=MTA3LjE3OC4xOTQuODM&lgfp=40
@@ -41606,7 +41614,9 @@ huc-hkh.orciprudential.com.watchdogdns.duckdns.org
 hudkov.pro
 hudlit.me
 hudsonfunding.com
-hudsonguild.org
+hudsonguild.org/wp-content/uploads/ZyGuL-8iP46rrf2i3A9d_cMOkSDXcu-lXZ/
+hudsonguild.org/wp-content/uploads/cSOgk-8QHEzjD5ihuqmxf_rjdlpquTI-l6/
+hudsonguild.org/wp-content/uploads/wwk73w0-vz8lem-bcopskj/
 hudsonmartialarts.com.au
 huethietke.com
 hufa.hueuni.edu.vn
@@ -51793,7 +51803,7 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
-miamicondoinvestments.com/wp-admin/sec.myaccount.docs.com/
+miamicondoinvestments.com
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -56625,10 +56635,7 @@ osethmaayurveda.com
 osezrayonner.ma
 osgbforum.com
 oshattorney.com
-osheoufhusheoghuesd.ru/2.exe
-osheoufhusheoghuesd.ru/3.exe
-osheoufhusheoghuesd.ru/4.exe
-osheoufhusheoghuesd.ru/t.exe
+osheoufhusheoghuesd.ru
 oshonafitness.com
 oshorainternational.com
 oshow.com.ua
@@ -57407,25 +57414,7 @@ pastebin.com/raw/yJnNFtb9
 pastebin.com/raw/yrDF1YCq
 pastebin.com/raw/yvyE642L
 pastebin.com/raw/yy30ZSfm
-pasteboard.co/images/HHKrjPX.jpg/download
-pasteboard.co/images/HIzhg49.jpg/download
-pasteboard.co/images/HLNMUsd.png/download
-pasteboard.co/images/HLoGpNO.jpg/download
-pasteboard.co/images/HMTQPDK.jpg/download
-pasteboard.co/images/HSAFBZI.jpg/download
-pasteboard.co/images/HSALBfU.jpg/download
-pasteboard.co/images/HSk9gWK.jpg/download
-pasteboard.co/images/HT2ugQA.jpg/download
-pasteboard.co/images/HTp1oKY.jpg/download
-pasteboard.co/images/HVTFIvR.jpg/download
-pasteboard.co/images/HVb42Yz.jpg/download
-pasteboard.co/images/HVbB1pM.jpg/download
-pasteboard.co/images/HVjbP3R.jpg/download
-pasteboard.co/images/HWfviIm.jpg/download
-pasteboard.co/images/HWgDFYp.png/download
-pasteboard.co/images/HWyr6Hm.jpg/download
-pasteboard.co/images/HXunzx0.jpg/download
-pasteboard.co/images/HXurHEL.jpg/download
+pasteboard.co
 pastelcolors.in
 pastilepentruslabit.ro
 pastliferegressiontraining.com
@@ -57867,12 +57856,7 @@ persianruggallery.com
 persiapanieltstoefl.com
 persiapet.net
 persimmonforge.com
-perso.wanadoo.es/cartaouol/uolcartoes.exe
-perso.wanadoo.es/gracig02/atualizado098476verifica.exe
-perso.wanadoo.es/grande000001/csrs.jpg
-perso.wanadoo.es/provedoresbrasil/relatorioemails2006.exe
-perso.wanadoo.es/stjsites/stj.exe
-perso.wanadoo.es/tdfgr/350RONPXJ65Y47.exe
+perso.wanadoo.es
 persona-dental.ru
 personal.nwolb.user.log.security.cod.issue.fondue-at-the-fountain.com
 personalized-weddings.com
@@ -61786,7 +61770,7 @@ rgbsrl.com.ar
 rgclimatizacion.com
 rgdecor.org
 rgfloors.com.au
-rgho.st/download/6nNmWRj65/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/Fornite%20Hack%202018.exe
+rgho.st
 rgmobilegossip.com
 rgrosser.com
 rgrservicos.com.br
@@ -62699,7 +62683,15 @@ s214620.gridserver.com
 s2646b6752f64d083.jimcontent.com
 s287-my.sharepoint.com
 s298myt.storage.yandex.net
-s2lol.com
+s2lol.com/update/audition/AutoUpdate.exe
+s2lol.com/update/botnet/svchosts.exe
+s2lol.com/update/chinhdo/hostfile/files/vaogame.exe
+s2lol.com/update/ngay_tro_ve_nd2004/AutoUpdate.exe
+s2lol.com/update/volam_volamtuyetdinh/AutoUpdate.exe
+s2lol.com/update/volamhuynhduc/AutoUpdate.exe
+s2lol.com/update/volamsimple_tinhkiem/AutoUpdate.exe
+s2lol.com/update/volamtuyenhoang5/AutoUpdate.exe
+s2lol.com/update/volamvoson1/AutoUpdate.exe
 s2s-architect.com
 s3-ap-northeast-1.amazonaws.com
 s3-eu-west-1.amazonaws.com/killino2/gs5tye4fw.png
@@ -62905,7 +62897,8 @@ sachindutta.com
 sachoob.com
 sachtrithuc.com
 sacm.net
-sacmsgmgw001a.delta.org
+sacmsgmgw001a.delta.org/enduser/classify_url.html?url=bcj4vOoPS8B46Ud6gJMEtrSVpbK6kvOhzNoTP1Nkc9akCYldm5ysiiV042Pg5WhS/
+sacmsgmgw001a.delta.org/enduser/classify_url.html?url=gMQvjTDwF+23in+gr9bszmxgor7TYncykJbo+NUodQg6GgUL9qbt0DxSnpXzZCh6fb6C0XyiTaySpVP8B3UA2w/
 sacmsgmgw001b.delta.org
 saconets.com
 sacramentode.ml
@@ -67065,7 +67058,8 @@ static.43.47.69.159.clients.your-server.de
 static.76.102.69.159.clients.your-server.de
 static.error-soft.net
 static.ilclock.com
-static.ow.ly
+static.ow.ly/docs/Carbo%20Contract%202010_3K7C.doc
+static.ow.ly/docs/Womens%20Spring%202012%20Email%20blast2_n4s.doc
 static.solidbasewebschool.nl
 static.topxgun.com
 staticholidaysuk.co.uk
@@ -69834,7 +69828,17 @@ syfuj.com.vn
 syhszh.com
 syjingermei.xyz
 sylt-wulbrandt.de
-sylvaclouds.eu
+sylvaclouds.eu/20th/FABUARY-SPECIFICATION-04.exe
+sylvaclouds.eu/20th/document003.exe
+sylvaclouds.eu/IFY/scan(1).exe
+sylvaclouds.eu/IFY2/program.exe
+sylvaclouds.eu/IFY2/scan(1).exe
+sylvaclouds.eu/NEEW/DOCUMENT.exe
+sylvaclouds.eu/new1/IMG-0001-documents.exe
+sylvaclouds.eu/nnz/file.exe
+sylvaclouds.eu/nz/nzejj.exe
+sylvaclouds.eu/nz1/nze2.exe
+sylvaclouds.eu/nze3/Document0022.exe
 sylvanbrandt.com
 sylvester.ca
 sylviastratieva.com
@@ -75436,40 +75440,7 @@ vinafruit.net
 vinagyp.com
 vinahuy.com
 vinale.nl
-vinastone.com/2033798ELGVT/PAYMENT/Smallbusiness
-vinastone.com/2033798ELGVT/PAYMENT/Smallbusiness/
-vinastone.com/57qt1
-vinastone.com/57qt1/
-vinastone.com/6HMxF0/
-vinastone.com/994WFILE/4883YJFC/US/Payments/092018
-vinastone.com/994WFILE/58AKWKTYMF/WIRE/Smallbusiness
-vinastone.com/994WFILE/58AKWKTYMF/WIRE/Smallbusiness/
-vinastone.com/994WFILE/9MEPXJYCC/1992V/biz/Business
-vinastone.com/994WFILE/9MEPXJYCC/1992V/biz/Business/
-vinastone.com/994WFILE/9MEPXJYCC/PAYMENT/Commercial
-vinastone.com/994WFILE/9MEPXJYCC/PAYMENT/Commercial/
-vinastone.com/994WFILE/EN_US/Attachments/092018
-vinastone.com/994WFILE/En_us/Documents/102018
-vinastone.com/994WFILE/FB49795S/707998428/LJ-UII
-vinastone.com/994WFILE/FB49795S/707998428/LJ-UII/
-vinastone.com/Declaracion-mensual-junio
-vinastone.com/Declaracion-mensual-junio/
-vinastone.com/Download/QZMV043472159XFK/348545/WGPR-YDJC
-vinastone.com/Download/QZMV043472159XFK/348545/WGPR-YDJC/
-vinastone.com/EN_US/Clients_transactions/112018
-vinastone.com/EN_US/Clients_transactions/112018/
-vinastone.com/FILE/Invoice-663900/
-vinastone.com/Jul2018/US/Invoice-for-sent/Invoice/
-vinastone.com/KzjAW6
-vinastone.com/KzjAW6/
-vinastone.com/LLC/En_us/Outstanding-Invoices
-vinastone.com/LLC/En_us/Outstanding-Invoices/
-vinastone.com/New-Order-Upcoming/Invoice-613340/
-vinastone.com/OVERDUE-ACCOUNT/HRI-Monthly-Invoice/
-vinastone.com/Rechnungs-docs/
-vinastone.com/doc/US_us/New-Order-Upcoming/Invoice-07-11-18/
-vinastone.com/m3qQf5sLVY
-vinastone.com/sites/de/Zahlung/Rechnung-fur-Dienstleistungen-XZN-14-80540/
+vinastone.com
 vinatuoi.com
 vinay29.000webhostapp.com
 vinaykhatri.in
