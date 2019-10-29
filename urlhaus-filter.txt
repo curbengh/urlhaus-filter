@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 29 Oct 2019 00:13:22 UTC
+! Updated: Tue, 29 Oct 2019 12:13:04 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -531,6 +531,7 @@
 104.168.174.124
 104.168.174.246
 104.168.195.250
+104.168.198.208
 104.168.204.214
 104.168.204.23
 104.168.211.238
@@ -1296,6 +1297,7 @@
 114.35.136.5
 114.35.181.39
 114.35.203.9
+114.35.225.90
 114.35.40.77
 114.35.44.248
 114.35.45.6
@@ -2497,6 +2499,7 @@
 142.93.117.67
 142.93.119.243
 142.93.119.54
+142.93.12.107
 142.93.120.109
 142.93.121.80
 142.93.122.111
@@ -3542,6 +3545,7 @@
 162.220.165.89
 162.222.188.61
 162.243.137.61
+162.243.161.92
 162.243.162.204
 162.243.162.232
 162.243.163.204
@@ -4312,6 +4316,7 @@
 173.214.164.146
 173.216.255.71
 173.230.134.39
+173.232.146.141
 173.232.146.155
 173.232.146.156
 173.232.146.157
@@ -6155,6 +6160,7 @@
 185.246.155.205
 185.246.7.160
 185.247.117.132
+185.247.117.30
 185.247.118.78
 185.247.119.203
 185.248.100.217
@@ -7196,6 +7202,7 @@
 192.210.214.199
 192.227.176.100
 192.227.176.105
+192.227.176.116
 192.227.176.17
 192.227.176.19
 192.227.176.20
@@ -7320,6 +7327,7 @@
 193.187.172.42
 193.187.174.17
 193.188.254.166
+193.19.119.130
 193.19.119.146
 193.19.119.192
 193.200.50.136
@@ -7586,6 +7594,7 @@
 197.51.170.13
 197.87.59.61
 197.96.148.146
+1970.duckdns.org
 197195.w95.wedos.ws
 198.1.105.64
 198.1.188.107
@@ -9451,6 +9460,7 @@
 23.254.226.31
 23.254.227.117
 23.254.227.7
+23.254.228.30
 23.254.230.141
 23.254.230.38
 23.254.243.51
@@ -10070,6 +10080,7 @@
 35.235.69.201
 35.236.137.49
 35.236.198.26
+35.236.44.15
 35.236.94.93
 35.237.105.248
 35.237.142.66
@@ -15416,6 +15427,7 @@ aconcaguaultratrail.com.ar
 acone.com.br
 aconiaformation.fr
 aconsultancy.com
+acooholding.ir
 acoola.band
 acor.cz
 acor.org.ma
@@ -16225,6 +16237,7 @@ ahyfurniture.com
 ai-asia.com
 ai.forcast.cl
 ai4.health
+ai4africa.org
 aia.org.pe
 aialogisticsltd.com
 aiassist.vyudu.tech
@@ -18250,6 +18263,7 @@ aquauu.ru
 aquecedorsaojosedospinhais.aquecedoremcuritiba.com.br
 aquilastudios.se
 aqwdownload3r.weebly.com/uploads/2/0/7/2/20722772/aqworlds_acs_generator_v1.00testing.exe
+aqxxgk.anqing.gov.cn
 ar-energyservice.com
 ar-text.nl
 ar-vrn.ru
@@ -19935,6 +19949,7 @@ b2bdiscovery.in
 b2chosting.in
 b2g.dk
 b2grow.com
+b2kish.ir
 b2on.com.br
 b2streeteats.com
 b4512652-a-62cb3a1a-s-sites.googlegroups.com
@@ -22848,6 +22863,7 @@ bot.sunless.network
 bot.xiaohec.top
 botanicalhenna.com
 botelho.info
+botenboten.com
 botkhmer.net
 botmechanic.io
 botnet.cryptokassa.ru
@@ -24634,6 +24650,7 @@ cdn-a1.jumbomail.me
 cdn-frm-eu.wargaming.net/wot/ru/uploads/monthly_09_2015/post-29970188-0-81533700-1442898439.zip
 cdn.atsh.co
 cdn.branch.io/branch-assets/1540050811214-og_image.jpg
+cdn.discordapp.com/attachments/180362455950688256/637664745499131956/hihi.exe
 cdn.discordapp.com/attachments/323093248052559874/323097081377980417/Strats_Nidas_score_300_details_des_mobs_et_explications_au_niveau_des_placements_team_200_full_optii.exe
 cdn.discordapp.com/attachments/323853112815124481/339009105366745088/1_abre_isto_e_espera_3_seg_e_dps_f7.exe
 cdn.discordapp.com/attachments/328201637032099840/452788643220684810/pkl7.0.exe
@@ -24694,6 +24711,7 @@ cdn.discordapp.com/attachments/494117184725975071/494122059736023053/samp.exe
 cdn.discordapp.com/attachments/494127193723502595/494133048045207572/123.exe
 cdn.discordapp.com/attachments/494893013147844610/531054085688786954/dac-v4.rar
 cdn.discordapp.com/attachments/495467257212829727/495487223341383680/SauseAdderV6.exe
+cdn.discordapp.com/attachments/495709437600727041/602244114607636485/a1b1f6db4f770d962996c221eed1173d98cb8b33dc15ac09d0.exe
 cdn.discordapp.com/attachments/500309263449718805/500339498945871873/DigitalAiming.js
 cdn.discordapp.com/attachments/501009794719547417/501028815883993088/Intriga_Devbuild.exe
 cdn.discordapp.com/attachments/510880849395318794/510882147079290894/Useless_Loading_Bar.exe
@@ -24735,15 +24753,18 @@ cdn.discordapp.com/attachments/538861511133888526/546550948026253332/jumpscare.e
 cdn.discordapp.com/attachments/538861511133888526/546557289419636736/fff.exe
 cdn.discordapp.com/attachments/543511106849734663/543512792716804135/SeafkoAgent.exe
 cdn.discordapp.com/attachments/543511106849734663/543827896800641055/SeafkoAgent.exe
+cdn.discordapp.com/attachments/543860274034245642/601736669267230730/chit_na_ks_1183064a8ba795196_66874_32d44b76d0.iso
 cdn.discordapp.com/attachments/544605025998077953/545145463670702080/Crackfy.exe
 cdn.discordapp.com/attachments/546460126706401290/548036618850664448/DiscordHaxx_1.9_BETA.zip
 cdn.discordapp.com/attachments/547024305947541505/547026104880201748/Ravenfield_mods.exe
+cdn.discordapp.com/attachments/548403517459529758/602532672664764416/51.3.exe
 cdn.discordapp.com/attachments/548593284985913388/548622096075325441/The_power_of_hentai.exe
 cdn.discordapp.com/attachments/552239345160159246/552239551981158400/Scanned_from_a_ero_MultiFunction_Printer.pdf.zip
 cdn.discordapp.com/attachments/552239345160159246/553151884433555477/Scan987373.zip
 cdn.discordapp.com/attachments/552530638843150356/552711022163656724/nl.exe
 cdn.discordapp.com/attachments/552723946735403008/553782079192825856/ValGen.rar
 cdn.discordapp.com/attachments/553235098049314846/554027529724493834/DTSv42.exe
+cdn.discordapp.com/attachments/561650724673421314/561661819333378078/Chip_Manager.exe
 cdn.discordapp.com/attachments/574321395094519809/574614788202561537/onetap.su_crack1.exe
 cdn.discordapp.com/attachments/574585696191512619/574585792794460181/Robux_Generator.exe
 cdn.discordapp.com/attachments/574684982941843457/596457242916552725/47dd50bf6a8d5405_1.mp4
@@ -24752,12 +24773,14 @@ cdn.discordapp.com/attachments/577990361855557642/606343601328226304/IMG_0108201
 cdn.discordapp.com/attachments/588179819972395029/588871215666692096/GEE.exe
 cdn.discordapp.com/attachments/588179819972395029/588874572926025729/out-1445440753.hta
 cdn.discordapp.com/attachments/595421777279320067/616848894969774081/RFQ_JVJS.ace
+cdn.discordapp.com/attachments/595634822848970754/615652811060936732/3504969485-395864534.ophack.exe
 cdn.discordapp.com/attachments/600992147080085504/601315555252633609/cfg2.exe
 cdn.discordapp.com/attachments/600992147080085504/601315874338766858/idinaxyi.exe
 cdn.discordapp.com/attachments/601417622298558484/601425396097089566/8876cd42ae7b8660.exe
 cdn.discordapp.com/attachments/601417622298558484/601691504662282270/rms32.exe
 cdn.discordapp.com/attachments/601502645064302696/601518150558679089/1245.exe
 cdn.discordapp.com/attachments/601901280151076875/601901481242918932/Roblox.Money.exe
+cdn.discordapp.com/attachments/602091284487864331/602137307927281664/kulan.exe
 cdn.discordapp.com/attachments/602133146514751498/602133267285671940/Get_Pack.exe
 cdn.discordapp.com/attachments/602229173792276493/602255871686475797/sss.exe
 cdn.discordapp.com/attachments/603292715991695380/603292856131780628/dllinjector.exe
@@ -24771,11 +24794,14 @@ cdn.discordapp.com/attachments/622940298062069784/622940532041318402/RFQOM1909-1
 cdn.discordapp.com/attachments/627945604818927619/627946827152621591/Akelas_Gen.exe
 cdn.discordapp.com/attachments/632439259122630677/638315129028608005/AWB-7739-993882-0009-439-110919-6822-HTED.pdf.gz
 cdn.discordapp.com/attachments/632864244857307157/635779797041283083/Scanned-IMG-PO_EDB2944-Doc-2019-21-10-PDF.7z
+cdn.discordapp.com/attachments/634522127982395414/637230099648741387/P.O.gz
 cdn.discordapp.com/attachments/635760237982384150/636097594929709056/PDF.PO31001123453735464_PDF.gz
 cdn.discordapp.com/attachments/636826381099204620/636829015709188096/Swift_MT103_-USD_550000_Settlement.xls
 cdn.discordapp.com/attachments/637253209714458656/637257913706086411/Doc-2019-25-10-pdf.img
 cdn.discordapp.com/attachments/638140320084656145/638140434404737043/Bank_details.pdf__________.cab
 cdn.discordapp.com/attachments/638143743815581708/638143947222417418/updatewin3.exe
+cdn.discordapp.com/attachments/638574512798957568/638574879917998080/Exhil_cheat.rar
+cdn.discordapp.com/attachments/638589185569193996/638589825607270433/PDF.11001123455633243452_PDF.gz
 cdn.fanyamedia.net
 cdn.fbsbx.com/v/t59.2708-21/30831868_2001421493263570_988122346738941952_n.zip/71I49N1JH7GG.zip?oh=81f42de9d61696c78f429719277283cc&oe=5AE24EE8&dl=1
 cdn.fbsbx.com/v/t59.2708-21/30831923_2004391716299881_1152363085843922944_n.zip/DOC_26-04.zip?oh=3e9b2b1fee016b3085dce0d2d5d106ae&oe=5AE4BDFE&dl=1
@@ -25734,6 +25760,7 @@ circumstanction.com
 cirestudios.com
 cirocostagliola.it
 cirqueampere.fr
+cirugiaurologica.com
 cisir.utp.edu.my
 cisme.in
 cismichigan.com
@@ -26319,6 +26346,7 @@ codeperformance-my.sharepoint.com
 codeproof.com
 codeshare365.com
 codestic.net
+codework.business24crm.io
 codex.com.py
 codeyeti.com
 codienlanhnme.vn
@@ -28806,6 +28834,7 @@ delwuinfoservices.com
 delzepich.de
 demak.grasindotravel.co.id
 demandgeneration.nl
+demandinsight.com
 dembo.bangkok.th.com
 demeidenchocolaensnoep.nl
 demellowandco.com
@@ -32155,6 +32184,7 @@ dropbox.com/s/0259z5lsjmkiavk/Scan_Doc_%23785784904.ace?dl=1
 dropbox.com/s/07pfr1dn1sapgq8/eFax_message_8509.zip?dl=1
 dropbox.com/s/09gn7xzjo73lwxt/Bank%20Swift%20Copy.pdf.z?dl=1
 dropbox.com/s/0cxon4ppy81srnv/CUSTOM_INVOICE%26PARKING_LIST.xls.z?dl=1
+dropbox.com/s/0gkxcgxo543rrur/bank%20details%20confirm.pdf.z?dl=1
 dropbox.com/s/0i3xqzqpkj1qu2g/DETALLE%20DE%20CONFIRMACION%20DE%20PAGO%20PSE%20NOTIFICACION%20DE%20PAGO%20SOPORTE%20IMG-0987654321123456789009876543.uue?dl=1
 dropbox.com/s/0m29532jztadbda/bsuPQI87aopY.doc?dl=1
 dropbox.com/s/0r5kicbvwfiwiv4/Payment%20Advice.jar?dl=1
@@ -32164,6 +32194,7 @@ dropbox.com/s/0ydl17u1ozzseev/Credit_Card_Auth_Form.pdf.jar?dl=0
 dropbox.com/s/0ydl17u1ozzseev/Credit_Card_Auth_Form.pdf.jar?dl=1
 dropbox.com/s/0yfzp8kiiyvtznx/Bank%20Swift%20Copy.pdf.z?dl=1
 dropbox.com/s/144tigh4530t8pu/Revised%20Purchase%20Order.pdf.rar?dl=1
+dropbox.com/s/1958lgmczwyzbmq/Payment%20Slip.pdf.z?dl=1
 dropbox.com/s/1bpeb5sq9gkciut/Invoice%20copy1709%20.zip?dl=1
 dropbox.com/s/1g3rnxenm9cr9rh/New%20P.O.ace
 dropbox.com/s/1jlutnq5vc44j54/Scan_87765389PO.pdf.z?dl=1
@@ -44189,6 +44220,7 @@ jamor.pl
 jamprograms.com
 jamrockiriejerk.ca
 jamroomstudio.com
+jams.com.es
 jamsand.com
 jana-spreen.de
 janavenanciomakeup.com.br
@@ -44839,6 +44871,7 @@ jokerjumpers.com
 jokokrimpen.nl
 jolange.com.au
 jolansoki.site
+joleen.milfoy.net
 jollycharm.com
 jolyscortinas.com.br
 jomblo.com
@@ -48856,6 +48889,7 @@ loh-tech.com
 lohacemos.mx
 lohasun.com
 lohseweb.dk
+loisnfernandez.us
 loitran.ml
 loja.kaebischschokoladen.com.br
 loja.newconcept.pub
@@ -53150,6 +53184,7 @@ mpn.vn
 mpo.firstideasolutions.in
 mport.org
 mpoweredbarbados.com
+mprabin.com
 mpressmedia.net
 mpsday.la
 mpsoren.cc
@@ -53352,6 +53387,7 @@ muchoko.cf
 muciblpg.com
 mudancastransmaso.com.br
 mudanzas-zaragoza.org
+mudanzasycargasinternacionales.com
 mudanzasyserviciosayala.com
 mudassarnazir.com
 mudfreaksblog.cubicproject.com
@@ -54580,6 +54616,7 @@ new.sadovaya-mebel.com
 new.surfcampghana.com
 new.sustenancefood.com
 new.umeonline.it
+new.v-bazaar.com
 new.vinajewellery.com.au
 new.vipgoma.com
 new.worldheritagetours.com
@@ -54742,6 +54779,7 @@ next-vision.ro
 next.lesvideosjaunes.eu
 nextar.co.jp
 nexteracom.ml
+nextgen345.000webhostapp.com
 nextgenopx-my.sharepoint.com
 nextlevelhosting.org
 nextleveljoy.com
@@ -58095,6 +58133,7 @@ petpencilportraits.com
 petr.servisujem.sk
 petranightshotel.com
 petrina.com.br
+petriotics.com
 petris.ro
 petro-bulk.com
 petroc.org.tw
@@ -62801,6 +62840,7 @@ rz70tom99.band
 rzd-med.kz
 rzesobranie.pl
 rzwemerson.xyz
+s-ashirov-mektep.kz
 s-e-e-l.de
 s-kotobuki.co.jp
 s-maruay.com
@@ -63615,6 +63655,7 @@ saritanuts.com
 saritsaini.com
 sarjupaytren.com
 sarkargar.com
+sarkariaschool.in
 sarkariresultinfo.co.in
 sarl-globalfoods.com
 sarli.com.br
@@ -64648,6 +64689,7 @@ sextoysrus.me
 sextruyen.com
 sexualharassment.in
 sexvip.sk
+sexwallet.gr
 sexychennaiescort.com
 sexychennaiescorts.com
 sexyfeast.co.uk
@@ -64708,6 +64750,7 @@ sgokta.com
 sgov.rsmart-testsolutions.watchdogdns.duckdns.org
 sgpartneriai.lt
 sgpf.eu
+sgphoto.in
 sgpspadrauna.in
 sgry.jp
 sgshopshop.com
@@ -65029,6 +65072,7 @@ shop.albertgrafica.com.br
 shop.angsoftech.com
 shop.avn.parts
 shop.ayanawebzine.com
+shop.belanja-rak.com
 shop.cp-print.ru
 shop.deepcleaningalbania.com
 shop.devisvrind.nl
@@ -65045,6 +65089,7 @@ shop.luxurs.org
 shop.mg24.by
 shop.mgcentrografica.com
 shop.milazite.com
+shop.mixme.com
 shop.mkl-systems.de
 shop.nototal.pw
 shop.siaraya.com
@@ -65762,6 +65807,7 @@ slagmite.com
 slajd.eu
 slajf.com
 slalloim.pw
+slalloim.site
 slalloim.xyz
 slamheads.com
 slappingmodems.stream
@@ -67090,6 +67136,7 @@ staging.smsmagica.com
 staging.speedlab.uk
 staging.superorbital.com.au
 staging.thenaturallifestyles.com
+staging.therobertstreethub.com
 staging.tigertennisacademy.com
 staging.wolseleyfamilyplace.com
 staging.xdigitalstudio.com
@@ -72572,6 +72619,7 @@ topcheapflight.com
 topcleanservice.ch
 topcoatflorida.com
 topcoen-eu.com
+topcoinfx.com
 topcopytrader.000webhostapp.com
 topcrackdownload.com
 topdalescotty.top
@@ -73926,6 +73974,7 @@ uc9cca3c7aef17f12e7756f81e12.dl.dropboxusercontent.com/cd/0/get/ATuCEM7sHfnnjJ5N
 uc9d282b0aa21ceaaa90d9eb604d.dl.dropboxusercontent.com/cd/0/get/AXSQHA0lhIPUUloy0OlT33SQzhsnLSZRHqnKw6GnErTWSYGzf00ZuWFg2wfQI6z9uULTR6pIpH6e1M3gBJCTATP5orktnYmqVTYDFZ0qWczpMpBsxUcdaalzTPxwORJSFCFMIlz6gi-LQjolVzO3FZWa4fLxdsT1m9dc_sRJyGwGs_nce9u3VdkOD0-WzHtB2VU/file?dl=1
 uc9dc107f06a0228baa4ae9952fd.dl.dropboxusercontent.com/cd/0/get/AUT8HHhzoiiET7zHDcZ7OOuIWYNazuMVnmet6xphmbVGUAFs8AAwv_LA1fS7n0i-fv1ZXJgZeTutfMhL7Mas7vtHE0KZLj_Nr8_XrnM4Wp2NILPmptphMYznm_MHF8SV9w1HFSw7HCeZHInxVFVVNcimR_l07UIMfJK7rFbg2oJMVBlZ2blYUJrIEPxm4ypLQM4/file?dl=1
 uc9e8cb4f3f0e43230836e5ec6c6.dl.dropboxusercontent.com/cd/0/get/AlGO1D_AevlEjF3JzoeVSsWMe66EiKB6g2BAiHdkboNfJdJ4GhM7cKIGdWfggkT9F1IfaiJMoSKCIIuithaUTtF1aKPolysb_oU_GwTjCAvhcQ/file?dl=1
+uc9ff60411ad3fa819ff2ff094d7.dl.dropboxusercontent.com/cd/0/get/ArWxMlLxUolDifQd0hVQMsb24l8DjE9YpYr45bMLks158K5Y3dPZ8bIjxFC5wlTlBNyT2Bf59OBVyoDJBXXCnh2VGmbBYF7AF1du9Lj_Wd9N4Ef63b5Ln0QBlnSRGdn45W8/file?dl=1
 uca059b5e8338c7412b25f10e1e5.dl.dropboxusercontent.com/cd/0/get/Afu8oI4OjKyLUwMo9JgaFLuzCRthO54lGIaRwbbpxaYzwT6YtI6h8iST0Nzjk7TFLY7qJDk2CVkDnTI0zLtVxbxnnm8UAqkzasg9i5d-Elvmng/file?dl=1
 uca065fffb223a76ecc3640ac226.dl.dropboxusercontent.com/cd/0/get/AWn1zxJYU86rQOtRCGuToADPjHsycppqrcZWY7tjB0rARAhrqw-4GP55UObjFiHZXbLuwoS2LxUJquo19jqwlEwRLQ0_2D5vLQiMI-4zDWsaBJJWqh34n1SSqi3qMomUXkFDOso0EEKlDZGdSktTof5YSTIH3newqJUNEUur-qfGoNE45J4ac2_a9RoKnhHZlnQ/file?dl=1
 uca10ca2d4df8fc9dcc4add8e93b.dl.dropboxusercontent.com/cd/0/get/AQwfF7GVBG-y12ztFiWSW3lITbf-pVMaLwVLUtq5RUx2brsAzPC0Y8ZoAOrOpQdbA42bfQuF9pNTz_ug8z1SVXdRvsfsd8ApP5XyHqWiMyu56WtumuToFPv8y7OVWEk3MnyU2-d4ZyLXpHjFWUUyXc60f-M3KwkanR6wQhZVlVtbhrB-4dY_QYKOD4-VPD5dxJA/file?dl=1
@@ -74823,6 +74872,7 @@ uzholod.uz
 uzmandisdoktoru.net
 uzmanportal.com
 uznaya1.ru
+uzojesse.top
 uzoma.ru
 uzopeanspecialisthospital.com
 uzri.net
@@ -75852,6 +75902,7 @@ vivaldoramos.com.br
 vivanatal.com.br
 vivantecosmectics.ir
 vivaochoro.com.br
+vivasemfumar.club
 vivasivo.com
 vivationdesign.com
 vivatruck.eu
@@ -77482,6 +77533,7 @@ wp-test2.cdg82.fr
 wp.10zan.com
 wp.a--m.ru
 wp.albertform.com.br
+wp.ansergy.com
 wp.berbahku.id.or.id
 wp.bevcomp.com
 wp.blecinf.ovh
@@ -77505,6 +77557,7 @@ wp.o-enpro.com
 wp.radio614.org
 wp.samprint.sk
 wp.sieucongcu.com
+wp.stepconference.com
 wp.symch.online
 wp.thethtar.me
 wp.xn--3bs198fche.com
@@ -78723,6 +78776,7 @@ yourecovers.com
 yourequipments-d.com
 youreyeinthesky.co.uk
 yourfiles0.tk
+yourfitculture.com
 yourfreegoldencorral.com
 yourfunapps.ga
 yourgpshelper.com
@@ -79049,6 +79103,7 @@ zenext.usa.cc
 zengqs.com
 zenithcreche.com
 zenithpedalboards.nl
+zenithremit.com
 zenixmedia.com
 zenkashow.com
 zenmonkey.com
