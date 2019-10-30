@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 30 Oct 2019 00:12:49 UTC
+! Updated: Wed, 30 Oct 2019 12:12:50 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -535,6 +535,7 @@
 104.168.253.82
 104.168.28.249
 104.168.57.119
+104.168.61.47
 104.168.66.156
 104.168.66.165
 104.168.7.43
@@ -3825,6 +3826,7 @@
 165.227.178.174
 165.227.178.189
 165.227.183.147
+165.227.193.147
 165.227.195.213
 165.227.197.35
 165.227.202.134
@@ -3907,6 +3909,7 @@
 167.250.30.27
 167.71.0.66
 167.71.101.10
+167.71.102.73
 167.71.107.219
 167.71.107.86
 167.71.109.81
@@ -3930,6 +3933,7 @@
 167.71.167.91
 167.71.168.28
 167.71.169.213
+167.71.171.214
 167.71.172.63
 167.71.176.174
 167.71.177.64
@@ -6300,6 +6304,7 @@
 185.82.216.62
 185.82.220.137
 185.82.252.199
+185.86.148.123
 185.86.149.83
 185.86.77.61
 185.86.78.254
@@ -7513,6 +7518,7 @@
 195.182.153.162
 195.189.226.54
 195.190.101.58
+195.201.108.187
 195.201.43.180
 195.206.106.244
 195.209.127.198
@@ -7954,6 +7960,7 @@
 2.55.97.245
 2.56.213.96
 2.56.241.218
+2.56.8.132
 2.57.254.93
 2.59.42.63
 2.84.139.251
@@ -12179,8 +12186,10 @@
 6.adborod.z8.ru
 6.u0135364.z8.ru
 6.u0141023.z8.ru
+60.164.250.170
 60.166.10.153
 60.169.10.30
+60.198.180.122
 60.214.102.173
 60.245.59.98
 60.248.141.87
@@ -12449,6 +12458,7 @@
 67.207.93.49
 67.207.94.25
 67.209.114.215
+67.209.121.72
 67.21.68.148
 67.21.81.79
 67.229.157.146
@@ -12700,6 +12710,7 @@
 6dynfq.ch.files.1drv.com
 6evg.ww2rai.ru
 6gue98ddw4220152.freebackup.site
+6hffgq.dm.files.1drv.com
 6hu.xyz
 6ip.us
 6itokam.com
@@ -13078,6 +13089,7 @@
 79.117.87.87
 79.117.97.92
 79.118.118.47
+79.118.195.239
 79.120.157.92
 79.124.49.203
 79.124.78.82
@@ -16295,6 +16307,7 @@ aima.com.tr
 aima.it
 aimaproducoes.com.br
 aimar-travel.com
+aimbiscuits.com
 aimifan.com
 aimingcentermass.com
 aimmvqsf.ahhxdl.cn
@@ -17094,6 +17107,7 @@ alokitokantho.com
 alokitosovna.com
 aloneintheweb.com
 alongthelines.com
+alongwalker.com
 alonhadat24h.vn
 alooshop.ir
 aloravan.com
@@ -21245,6 +21259,7 @@ bestwashingmachine2019.com
 bestwellplastic.com
 bestwigs.eu
 bestwirelessbra.com
+bestwpdesign.com
 besyolplastik.com.tr
 beta-foundation.org
 beta-shopdeca.ch
@@ -22336,6 +22351,7 @@ blog.planetasif.com
 blog.ploytrip.com
 blog.pokerclassified.com
 blog.postfly.be
+blog.powderhook.com
 blog.powersoft.net.ec
 blog.practicereiki.com
 blog.psd-consulting.com
@@ -24771,11 +24787,14 @@ cdn.discordapp.com/attachments/552530638843150356/552711022163656724/nl.exe
 cdn.discordapp.com/attachments/552723946735403008/553782079192825856/ValGen.rar
 cdn.discordapp.com/attachments/553235098049314846/554027529724493834/DTSv42.exe
 cdn.discordapp.com/attachments/561650724673421314/561661819333378078/Chip_Manager.exe
+cdn.discordapp.com/attachments/573174964400947221/573176997740675102/11.exe
 cdn.discordapp.com/attachments/574321395094519809/574614788202561537/onetap.su_crack1.exe
 cdn.discordapp.com/attachments/574585696191512619/574585792794460181/Robux_Generator.exe
 cdn.discordapp.com/attachments/574684982941843457/596457242916552725/47dd50bf6a8d5405_1.mp4
 cdn.discordapp.com/attachments/575288023592337409/629013358967783424/Resanance.exe
 cdn.discordapp.com/attachments/577990361855557642/606343601328226304/IMG_01082019.rar
+cdn.discordapp.com/attachments/580402213478989835/580402374842122268/next_rp.exe
+cdn.discordapp.com/attachments/586809470492082189/637605916417720320/funny_meme
 cdn.discordapp.com/attachments/588179819972395029/588871215666692096/GEE.exe
 cdn.discordapp.com/attachments/588179819972395029/588874572926025729/out-1445440753.hta
 cdn.discordapp.com/attachments/595421777279320067/616848894969774081/RFQ_JVJS.ace
@@ -24789,10 +24808,13 @@ cdn.discordapp.com/attachments/601901280151076875/601901481242918932/Roblox.Mone
 cdn.discordapp.com/attachments/602091284487864331/602137307927281664/kulan.exe
 cdn.discordapp.com/attachments/602133146514751498/602133267285671940/Get_Pack.exe
 cdn.discordapp.com/attachments/602229173792276493/602255871686475797/sss.exe
+cdn.discordapp.com/attachments/603167598410203138/603223842160377897/HaxOfHITBOXreachEndFly1ss1ByEnder.exe
 cdn.discordapp.com/attachments/603292715991695380/603292856131780628/dllinjector.exe
 cdn.discordapp.com/attachments/606606785704624131/606628524820004874/We_have_a_new_delivery_for_you.exe
 cdn.discordapp.com/attachments/609777838069121041/609777878569189392/anticheat.exe
+cdn.discordapp.com/attachments/611350621169254412/638848906339287060/doc893036454490423.iso
 cdn.discordapp.com/attachments/611883518452170792/620929763372040192/12312312312.exe
+cdn.discordapp.com/attachments/615152982513942529/634852115457769504/notepad2.exe
 cdn.discordapp.com/attachments/617964571378057228/624018298127908892/TNT_Collection_Request_BH7_178845.zip
 cdn.discordapp.com/attachments/617964571378057228/624425041588781093/TNT_COLLECTION.zip
 cdn.discordapp.com/attachments/621840654749663237/622266166353592321/f.exe
@@ -24800,9 +24822,11 @@ cdn.discordapp.com/attachments/622940298062069784/622940532041318402/RFQOM1909-1
 cdn.discordapp.com/attachments/627945604818927619/627946827152621591/Akelas_Gen.exe
 cdn.discordapp.com/attachments/632439259122630677/638315129028608005/AWB-7739-993882-0009-439-110919-6822-HTED.pdf.gz
 cdn.discordapp.com/attachments/632864244857307157/635779797041283083/Scanned-IMG-PO_EDB2944-Doc-2019-21-10-PDF.7z
+cdn.discordapp.com/attachments/632878200921391150/632878615306174494/-_.exe
 cdn.discordapp.com/attachments/634522127982395414/637230099648741387/P.O.gz
 cdn.discordapp.com/attachments/635760237982384150/636097594929709056/PDF.PO31001123453735464_PDF.gz
 cdn.discordapp.com/attachments/636826381099204620/636829015709188096/Swift_MT103_-USD_550000_Settlement.xls
+cdn.discordapp.com/attachments/636864935179190279/638911916567429130/RFQ_PURCHASE_ORDER-PO1067756000458858585xlsx.gz
 cdn.discordapp.com/attachments/637253209714458656/637257913706086411/Doc-2019-25-10-pdf.img
 cdn.discordapp.com/attachments/638140320084656145/638140434404737043/Bank_details.pdf__________.cab
 cdn.discordapp.com/attachments/638143743815581708/638143947222417418/updatewin3.exe
@@ -28862,6 +28886,7 @@ demirelplastik.com
 demirelspor.com
 demirendustriyel.com.tr
 demirhb.com
+demisorg.com
 demo-joomrecipe.joomboost.com
 demo-nastart3.ru
 demo-progenajans.com
@@ -29270,12 +29295,15 @@ dev.churchco-op.org
 dev.colagenulmeu.ro
 dev.colombiafacil.com
 dev.cscslacouronne.org
+dev.definitions-marketing.com
 dev.deweerdwebsites.nl
 dev.diawan.net
 dev.dimatech.org
+dev.directveilig.nl
 dev.dmacourse.com
 dev.donclarkphotography.com
 dev.eatvacation.com
+dev.enolo.it
 dev.europeanexperts.com
 dev.familyhospital.vn
 dev.firecom.pro
@@ -29285,6 +29313,7 @@ dev.go.bookingrobin.com
 dev.graine-deveil.fr
 dev.groupe-t2i.com
 dev.grow2max.com
+dev.hire-experts.com
 dev.hooliv.com
 dev.imajiku.com
 dev.ivdm.co.in
@@ -29299,6 +29328,7 @@ dev.livana-spikoe.com
 dev.maverick.cm
 dev.microcravate.com
 dev.moleq.com
+dev.mornflake.com
 dev.novembit.com
 dev.pacificsymposium.org
 dev.peachybelts.co.uk
@@ -29324,6 +29354,7 @@ dev.terredesienne.com
 dev.thememove.com
 dev.thetatechnolabs.com
 dev.umasterov.org
+dev.vistacomm.com
 dev.vivaomundodigital.com.br
 dev.wakeup.systems
 dev.westernverify.com
@@ -32257,6 +32288,7 @@ dropbox.com/s/5pmfvp2owyt66cu/NEW%20ORDER.pdf.z?dl=1
 dropbox.com/s/5qkkgl26hxup23x/Shipping%20Documents_BL-NCTSHCM1809008.z?dl=1
 dropbox.com/s/658dgtslojr7w2l/?dl=1
 dropbox.com/s/68fn7g2kw31aflu/DETALLE%20DE%20TRANSACCION%20EXITOSA%20CONFIRMACION%20Y%20SOPORTE%20DE%20PAGO%20IMG-4346974573450394274975.uue?dl=1
+dropbox.com/s/6b6syxzkswwotzf/GOODS%20AND%20QUANTITY%20NEEDED-pdf.cab?dl=1
 dropbox.com/s/6gbfwe6egm8za0v/PURCHASE%20ORDER.xlsx?dl=1
 dropbox.com/s/6h6idooc4jjphal/O1QjoDub8Hn8S2O.exe?dl=1
 dropbox.com/s/6rjz7mwz975jmg7/%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.zip?dl=1&62
@@ -36129,6 +36161,8 @@ files.fm/pa/accts/Payroll/Cash_Disbursement_Report_Sept.doc
 files.fm/pa/accts/Payroll/Grace091155.exe
 files.fm/pa/accts/Payroll/OfficeViewer.exe
 files.fqapps.com
+files.gamebanana.com/tools/enchanced_server_picker.exe
+files.gamebanana.com/tools/tagconverter.exe
 files.gathercdn.com/attachments/2018-09-07/01ffb03a-b2e4-4721-b5d7-e1c33addb301/YXR_QO_3324291_931552353_09_07_2018.doc
 files.gathercdn.com/attachments/2018-09-17/b6e5fbf0-7d1d-4ef6-8ba7-9e3e9a54e89d/AMS_GT_397%252FSFULF540938199_09_17_2018.doc
 files.gathercdn.com/attachments/2018-09-18/c3376b01-0c2f-414b-b1eb-169358a27a71/AVE_B_694_WJXJU5696931361_09_18_2018.doc
@@ -45444,6 +45478,7 @@ kabiguru.org
 kabiledans.com
 kabloarizasi.com
 kabmetodist.ru
+kaburto.info
 kachsurf.mylftv.com
 kaco-newenargy.com
 kacynfujii.com
@@ -45843,6 +45878,7 @@ kbpbiosciences.com
 kbpmnusantara.com
 kbs.school
 kbsconsulting.es
+kbtseafood.com
 kbubu.com
 kc.vedigitize.com
 kcQqJGTK6guBn1vf.nappybusyspark.club
@@ -47487,6 +47523,7 @@ laminatefloors.co.za
 lammaixep.com
 lamme.edu.vn
 lamonzz.com
+lamp.ernsintl.com
 lampalazszelidito.hu
 lamppm.asertiva.cl
 lamppostjerseycity.com
@@ -48922,6 +48959,7 @@ logwoodonline.com
 loh-tech.com
 lohacemos.mx
 lohasun.com
+lohf.org
 lohseweb.dk
 loisnfernandez.us
 loitran.ml
@@ -50482,6 +50520,7 @@ mandalafest.ru
 mandalikawisata.com
 mandarini.ge
 mandezik.com
+mandingoci.com
 mandirnj.com
 mandjammo.com
 mandram.com
@@ -50579,6 +50618,7 @@ mange-gode-blogs.dk
 manglamorganic.com
 mangledmonkeymedia.com
 mango.anazet.es
+mangopanda.com
 mangorestaurant.com.np
 mangos.ir
 manhajj.com
@@ -51458,6 +51498,7 @@ mediafire.com/file/51xqb928jycp078/PO_AND_FOB_FOR_JAN_PURCHASE.rar/file
 mediafire.com/file/5s75x9o17s8y5qj/LPO_AND_FOB_13022019.rar/file
 mediafire.com/file/5vdl6g24ydigsaf/PAYMENT_SLIP_%2440958.7z/file
 mediafire.com/file/9194bm1qo99t693/Payment_copy_873783733837.rar/file
+mediafire.com/file/bu9d73cl374cndj/kurye_belgesi.7z/file
 mediafire.com/file/emprx55y4abhz00/NEW_PAID_QUATATION_FEB.rar/file
 mediafire.com/file/epejc6wv64ts6w6/TT_Payment_VN32456239.rar/file
 mediafire.com/file/f4lenwcp3rmxmjg/INVOICE_2019_PAID_QUOTATIONS.rar/file
@@ -54310,6 +54351,7 @@ navigatingthroughquicksand.com
 navigatorpojizni.ru
 navilux.de
 navinfamilywines.com
+navischarters.com
 navjeevanhospital.co.in
 navjeevanproperties.com
 navolnejm.ru
@@ -56038,6 +56080,7 @@ olairdryport.com
 olallalab.org
 olambolartzam.com
 olapixels.com
+olaps.com
 olasen.com
 olauyanz.club
 olavarria.gov.ar
@@ -56655,6 +56698,7 @@ optics-line.com
 opticsigns.com
 optikamv.cz
 optima.easiere.com
+optimal-estate.com
 optimalpartner.hu
 optimasaludmental.com
 optimasiinstagram.com
@@ -57064,6 +57108,7 @@ oykuapart.com
 oyokunoshi.com
 oyunlist.com
 oyunrengi.com
+oz-dn.org
 oz-link.com
 oz-tekpersonelkiyafetleri.com
 oz4eai75936b8d.com
@@ -57177,6 +57222,7 @@ pacosupply.com
 pacsteamxl.weebly.com/uploads/1/0/3/9/10398966/steam_pacsteamt-230809.exe
 paddyconnolly.com
 paelnews.com
+paeststaby.com
 paewaterfilter.com
 pafagroup.com
 pafferreira.com.br
@@ -58393,6 +58439,7 @@ picluib-jp.co
 picnicapp.co.uk
 picntic.com
 picogram.co.kr
+picperfectstore.com
 picplace.co
 picpos.ru
 pics4game.com
@@ -58569,6 +58616,7 @@ pixymind.ir
 piyagroup.com
 piyancell.com
 pizazzdesign.com
+pizinachit.com
 pizza786edmonton.ca
 pizzabro.de
 pizzariajennifer.com.br
@@ -58647,6 +58695,7 @@ plantaselectricaskalota.com
 plantasemsintropia.pt
 plantationslidingdoorrepair.net
 plantebussen.dk
+plantgroupnursery.com
 planthire24.com
 planticacr.com
 plantillasboston.com
@@ -59339,6 +59388,7 @@ preventis.fr
 preview.enroutedigitallab.com
 prevlimp.com.br
 prevodi-lopandic.com
+preweb.firmaprofesional.com
 prewento.com
 prezident-prof.ru
 prezzemolo.dk
@@ -65097,6 +65147,7 @@ shop-weave.com
 shop.69slam.sk
 shop.albertgrafica.com.br
 shop.angsoftech.com
+shop.aodaiaodai.com
 shop.avn.parts
 shop.ayanawebzine.com
 shop.belanja-rak.com
@@ -67104,6 +67155,7 @@ ssstatyba.lt
 sstudio.com.br
 sstvalve.com
 ssumcba.org
+ssun.info
 ssvinterior.com
 ssws1.kl.com.ua
 ssytzx.com
@@ -67152,11 +67204,13 @@ staging.fanthefirecreative.com
 staging.fuel10k.com
 staging.icehousecorp.com
 staging.michaelpeachey.com.au
+staging.naturalbornbullys.co.uk
 staging.net-linking.com
 staging.noc.com.sg
 staging.ocfair.com
 staging.pashminadevelopers.com
 staging.phandeeyar.org
+staging.presthemes.com
 staging.smsmagica.com
 staging.speedlab.uk
 staging.superorbital.com.au
@@ -67448,6 +67502,7 @@ stenburyfederation.co.uk
 stencilbazaar.com
 stendel.ca
 steninger.us
+stent.dz
 step-up-web.ru
 step01.net
 stepfamiliessuck.com
@@ -69855,6 +69910,7 @@ surewaytoheaven.org
 surfaceartinc.com
 surfcrypto.life
 surfersupport.com
+surfing-web.com
 surfmorerelogios.com.br
 surfsafe.ddns.net
 surfsongnorthwildwood.com
@@ -70454,6 +70510,7 @@ tanguear.it
 tangvision.com
 tania.ad99.it
 tanibisnis.web.id
+tanilcosmetics.com
 tanimo.com
 tanimura.dr-clinic.jp
 tanineahlebeyt.com
@@ -71080,6 +71137,7 @@ tendancekart.com
 tendenciasv.com
 tendep.com
 tenderheartfoundation.org
+tenderind.com
 tendwalk.com
 tenedromhouses.com
 tenelevendirectsales.com
@@ -71225,6 +71283,7 @@ test.dndarchive.com
 test.dovevn.com
 test.echt-leben.com
 test.ekonomskikalendar.com
+test.ellebibikini.it
 test.ewelcome.nl
 test.ewriteright.in
 test.flyingsteel.com
@@ -71271,6 +71330,7 @@ test.ok-hausmeisterservice.de
 test.onlinesunlight.com
 test.oppenheimer-partners.com
 test.ord.nuucloud.com
+test.pexys-studio.com
 test.powerupcommunities.com
 test.pr-dev.ru
 test.proapparel.my
@@ -77628,8 +77688,10 @@ wp.motopodium.com
 wp.myapp.ir
 wp.myspec.com.au
 wp.o-enpro.com
+wp.precisionbrush.com
 wp.radio614.org
 wp.samprint.sk
+wp.scientificsatellite.net
 wp.sieucongcu.com
 wp.stepconference.com
 wp.symch.online
@@ -77771,6 +77833,7 @@ wwd.hollishealth.com
 wweshop.tk
 wwm.ge
 wwmariners.com
+wwmzd.com
 wwpdubai.com
 wws.breebrasil.com
 wws.emeraldsurfsciences.org
@@ -79042,6 +79105,7 @@ zahidahmedtk.000webhostapp.com
 zahirbanjarmasin.com
 zahiretnadia.free.fr
 zahrahenna.com.sg
+zahum.com
 zaichik.org
 zaikahospitality.com
 zainabsipra.blog

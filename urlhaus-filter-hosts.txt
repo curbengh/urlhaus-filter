@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Wed, 30 Oct 2019 00:12:49 UTC
+# Updated: Wed, 30 Oct 2019 12:12:50 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -534,6 +534,7 @@
 104.168.253.82
 104.168.28.249
 104.168.57.119
+104.168.61.47
 104.168.66.156
 104.168.66.165
 104.168.7.43
@@ -3824,6 +3825,7 @@
 165.227.178.174
 165.227.178.189
 165.227.183.147
+165.227.193.147
 165.227.195.213
 165.227.197.35
 165.227.202.134
@@ -3906,6 +3908,7 @@
 167.250.30.27
 167.71.0.66
 167.71.101.10
+167.71.102.73
 167.71.107.219
 167.71.107.86
 167.71.109.81
@@ -3929,6 +3932,7 @@
 167.71.167.91
 167.71.168.28
 167.71.169.213
+167.71.171.214
 167.71.172.63
 167.71.176.174
 167.71.177.64
@@ -6299,6 +6303,7 @@
 185.82.216.62
 185.82.220.137
 185.82.252.199
+185.86.148.123
 185.86.149.83
 185.86.77.61
 185.86.78.254
@@ -7512,6 +7517,7 @@
 195.182.153.162
 195.189.226.54
 195.190.101.58
+195.201.108.187
 195.201.43.180
 195.206.106.244
 195.209.127.198
@@ -7948,6 +7954,7 @@
 2.55.97.245
 2.56.213.96
 2.56.241.218
+2.56.8.132
 2.57.254.93
 2.59.42.63
 2.84.139.251
@@ -12166,8 +12173,10 @@
 6.adborod.z8.ru
 6.u0135364.z8.ru
 6.u0141023.z8.ru
+60.164.250.170
 60.166.10.153
 60.169.10.30
+60.198.180.122
 60.214.102.173
 60.245.59.98
 60.248.141.87
@@ -12436,6 +12445,7 @@
 67.207.93.49
 67.207.94.25
 67.209.114.215
+67.209.121.72
 67.21.68.148
 67.21.81.79
 67.229.157.146
@@ -12687,6 +12697,7 @@
 6dynfq.ch.files.1drv.com
 6evg.ww2rai.ru
 6gue98ddw4220152.freebackup.site
+6hffgq.dm.files.1drv.com
 6hu.xyz
 6ip.us
 6itokam.com
@@ -13065,6 +13076,7 @@
 79.117.87.87
 79.117.97.92
 79.118.118.47
+79.118.195.239
 79.120.157.92
 79.124.49.203
 79.124.78.82
@@ -16270,6 +16282,7 @@ aima.com.tr
 aima.it
 aimaproducoes.com.br
 aimar-travel.com
+aimbiscuits.com
 aimifan.com
 aimingcentermass.com
 aimmvqsf.ahhxdl.cn
@@ -17060,6 +17073,7 @@ alokitokantho.com
 alokitosovna.com
 aloneintheweb.com
 alongthelines.com
+alongwalker.com
 alonhadat24h.vn
 alooshop.ir
 aloravan.com
@@ -21110,6 +21124,7 @@ bestwashingmachine2019.com
 bestwellplastic.com
 bestwigs.eu
 bestwirelessbra.com
+bestwpdesign.com
 besyolplastik.com.tr
 beta-foundation.org
 beta-shopdeca.ch
@@ -21985,6 +22000,7 @@ blog.planetasif.com
 blog.ploytrip.com
 blog.pokerclassified.com
 blog.postfly.be
+blog.powderhook.com
 blog.powersoft.net.ec
 blog.practicereiki.com
 blog.psd-consulting.com
@@ -28193,6 +28209,7 @@ demirelplastik.com
 demirelspor.com
 demirendustriyel.com.tr
 demirhb.com
+demisorg.com
 demo-joomrecipe.joomboost.com
 demo-nastart3.ru
 demo-progenajans.com
@@ -28600,12 +28617,15 @@ dev.churchco-op.org
 dev.colagenulmeu.ro
 dev.colombiafacil.com
 dev.cscslacouronne.org
+dev.definitions-marketing.com
 dev.deweerdwebsites.nl
 dev.diawan.net
 dev.dimatech.org
+dev.directveilig.nl
 dev.dmacourse.com
 dev.donclarkphotography.com
 dev.eatvacation.com
+dev.enolo.it
 dev.europeanexperts.com
 dev.familyhospital.vn
 dev.firecom.pro
@@ -28615,6 +28635,7 @@ dev.go.bookingrobin.com
 dev.graine-deveil.fr
 dev.groupe-t2i.com
 dev.grow2max.com
+dev.hire-experts.com
 dev.hooliv.com
 dev.imajiku.com
 dev.ivdm.co.in
@@ -28629,6 +28650,7 @@ dev.livana-spikoe.com
 dev.maverick.cm
 dev.microcravate.com
 dev.moleq.com
+dev.mornflake.com
 dev.novembit.com
 dev.pacificsymposium.org
 dev.peachybelts.co.uk
@@ -28654,6 +28676,7 @@ dev.terredesienne.com
 dev.thememove.com
 dev.thetatechnolabs.com
 dev.umasterov.org
+dev.vistacomm.com
 dev.vivaomundodigital.com.br
 dev.wakeup.systems
 dev.westernverify.com
@@ -42721,6 +42744,7 @@ kabiguru.org
 kabiledans.com
 kabloarizasi.com
 kabmetodist.ru
+kaburto.info
 kachsurf.mylftv.com
 kaco-newenargy.com
 kacynfujii.com
@@ -43120,6 +43144,7 @@ kbpbiosciences.com
 kbpmnusantara.com
 kbs.school
 kbsconsulting.es
+kbtseafood.com
 kbubu.com
 kc.vedigitize.com
 kcQqJGTK6guBn1vf.nappybusyspark.club
@@ -44762,6 +44787,7 @@ laminatefloors.co.za
 lammaixep.com
 lamme.edu.vn
 lamonzz.com
+lamp.ernsintl.com
 lampalazszelidito.hu
 lamppm.asertiva.cl
 lamppostjerseycity.com
@@ -46170,6 +46196,7 @@ logwoodonline.com
 loh-tech.com
 lohacemos.mx
 lohasun.com
+lohf.org
 lohseweb.dk
 loisnfernandez.us
 loitran.ml
@@ -47725,6 +47752,7 @@ mandalafest.ru
 mandalikawisata.com
 mandarini.ge
 mandezik.com
+mandingoci.com
 mandirnj.com
 mandjammo.com
 mandram.com
@@ -47741,6 +47769,7 @@ mange-gode-blogs.dk
 manglamorganic.com
 mangledmonkeymedia.com
 mango.anazet.es
+mangopanda.com
 mangorestaurant.com.np
 mangos.ir
 manhajj.com
@@ -51399,6 +51428,7 @@ navigatingthroughquicksand.com
 navigatorpojizni.ru
 navilux.de
 navinfamilywines.com
+navischarters.com
 navjeevanhospital.co.in
 navjeevanproperties.com
 navolnejm.ru
@@ -53105,6 +53135,7 @@ olairdryport.com
 olallalab.org
 olambolartzam.com
 olapixels.com
+olaps.com
 olasen.com
 olauyanz.club
 olavarria.gov.ar
@@ -53524,6 +53555,7 @@ optics-line.com
 opticsigns.com
 optikamv.cz
 optima.easiere.com
+optimal-estate.com
 optimalpartner.hu
 optimasaludmental.com
 optimasiinstagram.com
@@ -53933,6 +53965,7 @@ oykuapart.com
 oyokunoshi.com
 oyunlist.com
 oyunrengi.com
+oz-dn.org
 oz-link.com
 oz-tekpersonelkiyafetleri.com
 oz4eai75936b8d.com
@@ -54028,6 +54061,7 @@ paconsults.com
 pacosupply.com
 paddyconnolly.com
 paelnews.com
+paeststaby.com
 paewaterfilter.com
 pafagroup.com
 pafferreira.com.br
@@ -55141,6 +55175,7 @@ picluib-jp.co
 picnicapp.co.uk
 picntic.com
 picogram.co.kr
+picperfectstore.com
 picplace.co
 picpos.ru
 pics4game.com
@@ -55316,6 +55351,7 @@ pixymind.ir
 piyagroup.com
 piyancell.com
 pizazzdesign.com
+pizinachit.com
 pizza786edmonton.ca
 pizzabro.de
 pizzariajennifer.com.br
@@ -55394,6 +55430,7 @@ plantaselectricaskalota.com
 plantasemsintropia.pt
 plantationslidingdoorrepair.net
 plantebussen.dk
+plantgroupnursery.com
 planthire24.com
 planticacr.com
 plantillasboston.com
@@ -56081,6 +56118,7 @@ preventis.fr
 preview.enroutedigitallab.com
 prevlimp.com.br
 prevodi-lopandic.com
+preweb.firmaprofesional.com
 prewento.com
 prezident-prof.ru
 prezzemolo.dk
@@ -61489,6 +61527,7 @@ shop-weave.com
 shop.69slam.sk
 shop.albertgrafica.com.br
 shop.angsoftech.com
+shop.aodaiaodai.com
 shop.avn.parts
 shop.ayanawebzine.com
 shop.belanja-rak.com
@@ -63462,6 +63501,7 @@ ssstatyba.lt
 sstudio.com.br
 sstvalve.com
 ssumcba.org
+ssun.info
 ssvinterior.com
 ssws1.kl.com.ua
 ssytzx.com
@@ -63510,11 +63550,13 @@ staging.fanthefirecreative.com
 staging.fuel10k.com
 staging.icehousecorp.com
 staging.michaelpeachey.com.au
+staging.naturalbornbullys.co.uk
 staging.net-linking.com
 staging.noc.com.sg
 staging.ocfair.com
 staging.pashminadevelopers.com
 staging.phandeeyar.org
+staging.presthemes.com
 staging.smsmagica.com
 staging.speedlab.uk
 staging.superorbital.com.au
@@ -63805,6 +63847,7 @@ stenburyfederation.co.uk
 stencilbazaar.com
 stendel.ca
 steninger.us
+stent.dz
 step-up-web.ru
 step01.net
 stepfamiliessuck.com
@@ -64598,6 +64641,7 @@ surewaytoheaven.org
 surfaceartinc.com
 surfcrypto.life
 surfersupport.com
+surfing-web.com
 surfmorerelogios.com.br
 surfsafe.ddns.net
 surfsongnorthwildwood.com
@@ -65194,6 +65238,7 @@ tanguear.it
 tangvision.com
 tania.ad99.it
 tanibisnis.web.id
+tanilcosmetics.com
 tanimo.com
 tanimura.dr-clinic.jp
 tanineahlebeyt.com
@@ -65819,6 +65864,7 @@ tendancekart.com
 tendenciasv.com
 tendep.com
 tenderheartfoundation.org
+tenderind.com
 tendwalk.com
 tenedromhouses.com
 tenelevendirectsales.com
@@ -65964,6 +66010,7 @@ test.dndarchive.com
 test.dovevn.com
 test.echt-leben.com
 test.ekonomskikalendar.com
+test.ellebibikini.it
 test.ewelcome.nl
 test.ewriteright.in
 test.flyingsteel.com
@@ -66010,6 +66057,7 @@ test.ok-hausmeisterservice.de
 test.onlinesunlight.com
 test.oppenheimer-partners.com
 test.ord.nuucloud.com
+test.pexys-studio.com
 test.powerupcommunities.com
 test.pr-dev.ru
 test.proapparel.my
@@ -71812,8 +71860,10 @@ wp.motopodium.com
 wp.myapp.ir
 wp.myspec.com.au
 wp.o-enpro.com
+wp.precisionbrush.com
 wp.radio614.org
 wp.samprint.sk
+wp.scientificsatellite.net
 wp.sieucongcu.com
 wp.stepconference.com
 wp.symch.online
@@ -71954,6 +72004,7 @@ wwd.hollishealth.com
 wweshop.tk
 wwm.ge
 wwmariners.com
+wwmzd.com
 wwpdubai.com
 wws.breebrasil.com
 wws.emeraldsurfsciences.org
@@ -73198,6 +73249,7 @@ zahidahmedtk.000webhostapp.com
 zahirbanjarmasin.com
 zahiretnadia.free.fr
 zahrahenna.com.sg
+zahum.com
 zaichik.org
 zaikahospitality.com
 zainabsipra.blog
