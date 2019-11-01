@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Fri, 01 Nov 2019 00:13:11 UTC
+# Updated: Fri, 01 Nov 2019 12:12:53 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -948,6 +948,7 @@
 107.23.121.174
 107.23.200.84
 107.as7x.com
+108.161.151.177
 108.162.132.106
 108.170.112.46
 108.170.31.53
@@ -1543,6 +1544,7 @@
 122.117.126.1
 122.117.141.154
 122.117.195.54
+122.117.30.246
 122.117.42.73
 122.117.49.237
 122.117.59.239
@@ -1612,6 +1614,7 @@
 124.117.238.230
 124.120.168.123
 124.120.234.244
+124.121.139.39
 124.129.34.212
 124.13.45.29
 124.153.225.20
@@ -3912,6 +3915,7 @@
 167.160.177.16
 167.160.36.37
 167.172.138.121
+167.172.138.222
 167.172.140.189
 167.179.117.58
 167.179.119.235
@@ -4129,6 +4133,7 @@
 167.99.62.191
 167.99.63.66
 167.99.64.148
+167.99.64.85
 167.99.70.105
 167.99.71.142
 167.99.72.120
@@ -5555,6 +5560,7 @@
 185.112.250.117
 185.112.250.126
 185.112.250.128
+185.112.250.133
 185.112.250.239
 185.112.250.240
 185.112.250.241
@@ -6860,6 +6866,7 @@
 189.251.58.38
 189.252.0.119
 189.253.139.2
+189.253.210.54
 189.32.232.54
 189.39.241.199
 189.39.243.45
@@ -7217,6 +7224,8 @@
 192.210.146.54
 192.210.214.166
 192.210.214.199
+192.210.214.254
+192.210.239.144
 192.227.176.100
 192.227.176.105
 192.227.176.116
@@ -7280,6 +7289,7 @@
 192.250.233.133
 192.250.236.142
 192.254.177.175
+192.3.104.62
 192.3.12.133
 192.3.131.23
 192.3.131.25
@@ -7310,6 +7320,7 @@
 192.95.32.11
 192.95.56.39
 192.99.142.235
+192.99.154.217
 192.99.154.226
 192.99.167.14
 192.99.167.213
@@ -9624,6 +9635,7 @@
 27.201.181.117
 27.238.33.39
 27.255.77.14
+27.29.11.6
 27.3.122.71
 27.32.173.136
 27.48.138.13
@@ -12680,6 +12692,7 @@
 68.32.100.6
 68.42.122.148
 68.66.233.69
+68.66.241.92
 68h7.com
 69.10.42.100
 69.10.43.208
@@ -13634,6 +13647,7 @@
 83.19.236.214
 83.209.212.21
 83.224.148.24
+83.224.156.131
 83.224.158.34
 83.23.90.163
 83.234.147.166
@@ -16647,6 +16661,7 @@ albiraqcontracting.com
 albitagri.biz
 alboegfotografi.dk
 albomed-eu.com
+alboradatv.cl
 alburjpp.com
 albus.com.br
 albus.kz
@@ -18845,6 +18860,7 @@ asd5qwdqwe4qwe.com
 asdafaefdsvdsasd.000webhostapp.com
 asdainsaat.com
 asdam.site
+asdasgs.ug
 asday.site
 asdfdsf.ru
 asdfghjklzxcvbnm.zapto.org
@@ -21950,6 +21966,7 @@ blog.doutorresolve.com.br
 blog.duncanrae.com
 blog.dymix.net
 blog.easyparcel.co.id
+blog.easyparcel.co.th
 blog.edonanim.com
 blog.elefantuldodo.ro
 blog.elplatorico.es
@@ -23784,6 +23801,7 @@ capep.co.ma
 capetandemparagliding.co.za
 capetowntandemparagliding.co.za
 capewestcoastaccommodation.com
+capgemrni.com
 capitalbravo.ru
 capitalbusinessbrokers.biz
 capitalbusinessbrokers.net
@@ -24766,6 +24784,7 @@ charlieboles.net
 charliechan.it
 charliefox.com.br
 charliekao-com.tk
+charlim.net
 charlirni.net
 charm.andreea.alexandroni.ro
 charm.bizfxr.com
@@ -26573,6 +26592,7 @@ cosmopolitanadvertising.com
 cosmoprof.com.gt
 cosmoservicios.cl
 cosmosibm.com
+cosmosjapan.vn
 cosohuyhoang.com
 cosplaycollegium.club
 costaconstruct.ro
@@ -28725,6 +28745,7 @@ dev.sitiotesting.lab.fluxit.com.ar
 dev.skatys.com
 dev.slamals.org
 dev.smartshopmanager.com
+dev.splus.iag.usp.br
 dev.stgss.se-solves.com
 dev.strkdesign.nl
 dev.style-cost.com.ua
@@ -30247,6 +30268,7 @@ dreamacinc.com
 dreamair.co.zw
 dreamawakening.com
 dreambigbuilder.com
+dreamcoastbuilders.com
 dreamdbc.com
 dreamec.vn
 dreamfieldstables.com
@@ -30276,6 +30298,7 @@ dreamtrips.icu
 dreamvision.bg
 dreamwolf.tv
 dreamzshop.xyz
+drearncosmetics.net
 dreddy.com
 dreemmall.com
 drees.com.br
@@ -34795,6 +34818,7 @@ freeezguru.com
 freefusion.co.uk
 freegameshacks.net
 freehacksfornite.com
+freehacksfortnite.com
 freehost7.com
 freehygieneproducts.net
 freelancecommunication.fr
@@ -35028,6 +35052,7 @@ fuerzabrutabrasil.com.br
 fufu.com.mx
 fuhacks.pro
 fuhafarm.com
+fuhon.com.tw
 fuin54baby.com
 fuiqucasdbewe.com
 fuji-cs.jp
@@ -36863,6 +36888,7 @@ gratefireplaces.net
 gratiseverfine.in
 gratisgiftcards.com
 gratitudedesign.com
+graveobd.co
 graveswilliams.5gbfree.com
 gravironallc.icu
 gravitel.org
@@ -40788,6 +40814,7 @@ interraniternational.com
 interruption.ru
 intersantosservicos.com.br
 intersect4life.com
+intersel-idf.org
 interservis.info
 intersped.com.pl
 intertexbrasov.ro
@@ -45904,6 +45931,7 @@ link2u.nl
 linkagift.com
 linkalternatifsbobet.review
 linkbio.net
+linkcomkw.pw
 linkcomputers.co.in
 linkedincloud.usa.cc
 linkedinprofilepictures.com
@@ -46757,6 +46785,7 @@ lyashko.site
 lybid-plaza.ua
 lycjyq.sn.files.1drv.com
 lydian.co.jp
+lydiantemps.co.uk
 lydproduksjoner.no
 lydrose.com
 lyfamilydaycare.com
@@ -47979,6 +48008,7 @@ maracuja.ru
 maradineaustralia.com
 maradop.com
 marakusta.at
+maralskds.ug
 maramahan.ir
 maramaljidi.com
 maramuresguides.ro
@@ -56994,6 +57024,13 @@ q6we541sdqwe.com
 q8expos.com
 q8offers.com
 q9676cassie.com
+qa-za.top
+qa-ze.top
+qa-zf.top
+qa-zp.top
+qa-zt.top
+qa-zw.top
+qa-zy.top
 qa.frplive.tv
 qa.tubeloo.com
 qa4sw.com
@@ -57648,6 +57685,7 @@ qwq7urac09jbde96.com
 qwqcpfhp.com
 qwqw1e4qwe14we.com
 qwqweqw4e1qwe.com
+qwsfdxv.ru
 qwundqwjnd.net
 qxgkonms.sha58.me
 qybele.com
@@ -60639,6 +60677,7 @@ sdf35435345.site
 sdf5wer4wer.com
 sdfdgsgdg.ml
 sdfdsd.kuai-go.com
+sdfgdsf.ru
 sdfjke.net
 sdfsd14as2334d.ru
 sdhfiuy.com
@@ -62005,6 +62044,7 @@ simonenogueira.com.br
 simonflower.co.uk
 simongustafsson.com
 simonjessop.com
+simonsereno.com
 simonsolutions.us
 simp-consulting.pl
 simpelway.dk.linux154.unoeuro-server.com
@@ -63684,6 +63724,7 @@ staging.ocfair.com
 staging.pashminadevelopers.com
 staging.phandeeyar.org
 staging.presthemes.com
+staging.securenetworks.pk
 staging.smsmagica.com
 staging.speedlab.uk
 staging.superorbital.com.au
@@ -71826,6 +71867,7 @@ woock.ru
 woocommerce-19591-66491-179337.cloudwaysapps.com
 woocommerce-pos.openswatch.com
 woocommerce.demo.agms.com
+wood-expert.net
 woodbeei.com
 woodchips.com.ua
 woodferniture.com
