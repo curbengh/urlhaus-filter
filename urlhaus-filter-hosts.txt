@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sat, 02 Nov 2019 00:15:15 UTC
+# Updated: Sat, 02 Nov 2019 12:12:37 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -3818,6 +3818,7 @@
 165.227.107.90
 165.227.110.185
 165.227.111.138
+165.227.111.29
 165.227.114.95
 165.227.115.67
 165.227.119.100
@@ -3944,6 +3945,7 @@
 167.71.141.222
 167.71.141.98
 167.71.142.4
+167.71.144.144
 167.71.145.91
 167.71.160.213
 167.71.167.91
@@ -7678,6 +7680,7 @@
 198.175.126.80
 198.199.123.110
 198.199.64.204
+198.199.65.58
 198.199.66.46
 198.199.73.140
 198.199.73.64
@@ -11900,6 +11903,7 @@
 51.83.86.240
 51.89.0.134
 51.89.139.104
+51.89.163.174
 51.89.170.128
 51.89.171.194
 51.91.111.198
@@ -53518,6 +53522,7 @@ onedigibox.com
 onedollerstore.com
 onedrive.autotalk.com.ng
 onedrive.one
+onedrive.outlook.com.thesmallworld-spa.com
 onedrivenet.xyz
 oneesidegame5.co.uk
 oneexpo.ro
@@ -57083,6 +57088,13 @@ q6we541sdqwe.com
 q8expos.com
 q8offers.com
 q9676cassie.com
+qa-be.top
+qa-cb.top
+qa-cd.top
+qa-ch.top
+qa-cn.top
+qa-cp.top
+qa-cx.top
 qa-za.top
 qa-ze.top
 qa-zf.top
@@ -68293,6 +68305,7 @@ trsoftwaresolutions.lbyts.com
 tru.goodvibeskicking.com
 truck-accidentlawyer.info
 trucker-hilfe.de
+truckerzone.net
 truckprt.com
 trucksoxmoor.com
 truckturbina.ru
