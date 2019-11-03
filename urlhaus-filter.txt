@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 03 Nov 2019 00:12:39 UTC
+! Updated: Sun, 03 Nov 2019 12:14:36 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -488,6 +488,7 @@
 104.161.92.244
 104.162.129.153
 104.168.132.46
+104.168.133.5
 104.168.135.123
 104.168.135.186
 104.168.136.219
@@ -4341,6 +4342,7 @@
 173.232.146.156
 173.232.146.157
 173.232.146.170
+173.232.146.176
 173.233.85.171
 173.234.24.67
 173.234.25.110
@@ -5023,6 +5025,7 @@
 178.33.208.161
 178.33.218.65
 178.33.83.72
+178.33.83.75
 178.34.183.30
 178.44.253.215
 178.45.195.30
@@ -5567,6 +5570,7 @@
 185.112.250.126
 185.112.250.128
 185.112.250.133
+185.112.250.203
 185.112.250.239
 185.112.250.240
 185.112.250.241
@@ -7273,6 +7277,7 @@
 192.241.136.218
 192.241.140.230
 192.241.140.94
+192.241.141.129
 192.241.142.242
 192.241.143.151
 192.241.145.236
@@ -7537,6 +7542,7 @@
 195.144.21.134
 195.144.21.154
 195.154.150.54
+195.154.77.155
 195.161.41.90
 195.161.62.252
 195.162.70.104
@@ -7870,6 +7876,7 @@
 1serp.ru
 1sfdhlkl.gq
 1sfdhlkl.tk
+1stchoicepestcontrol.co.za
 1stduellc.com
 1stgroupco.mn
 1stniag.com
@@ -10725,6 +10732,7 @@
 45.138.157.74
 45.142.189.189
 45.142.212.25
+45.144.2.104
 45.147.200.13
 45.147.228.77
 45.15.253.88
@@ -11986,6 +11994,7 @@
 52.38.160.206
 52.50.24.225
 52.52.3.72
+52.53.215.54
 52.54.227.252
 52.57.240.181
 52.57.28.29
@@ -13575,6 +13584,7 @@
 82.114.95.186
 82.118.21.127
 82.118.234.75
+82.118.242.108
 82.130.210.49
 82.130.211.129
 82.130.250.94
@@ -24891,6 +24901,7 @@ cdn.discordapp.com/attachments/599264349043032093/599264816389029908/mine.exe
 cdn.discordapp.com/attachments/599277113345835049/599624772808343597/roblox_hack.exe
 cdn.discordapp.com/attachments/600992147080085504/601315555252633609/cfg2.exe
 cdn.discordapp.com/attachments/600992147080085504/601315874338766858/idinaxyi.exe
+cdn.discordapp.com/attachments/601356618424123392/601726023146668072/jopa.exe
 cdn.discordapp.com/attachments/601417622298558484/601425396097089566/8876cd42ae7b8660.exe
 cdn.discordapp.com/attachments/601417622298558484/601691504662282270/rms32.exe
 cdn.discordapp.com/attachments/601502645064302696/601518150558679089/1245.exe
@@ -45304,6 +45315,7 @@ jppost-cko.top
 jppost-cku.top
 jppost-cmi.top
 jppost-cno.top
+jppost-cpu.top
 jppost-cre.top
 jppost-cro.top
 jppost-cru.top
@@ -60401,12 +60413,19 @@ q8expos.com
 q8offers.com
 q9676cassie.com
 qa-be.top
+qa-br.top
+qa-bw.top
 qa-cb.top
 qa-cd.top
 qa-ch.top
 qa-cn.top
 qa-cp.top
 qa-cx.top
+qa-na.top
+qa-nc.top
+qa-nm.top
+qa-nu.top
+qa-nw.top
 qa-za.top
 qa-ze.top
 qa-zf.top
@@ -76803,6 +76822,7 @@ warehousefoil.com
 waresky.com
 waresu30.beget.tech
 waresustem.live
+waresystem.com
 wargog.com
 warholagency.com
 waripco.com
