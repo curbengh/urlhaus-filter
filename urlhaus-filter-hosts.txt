@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sun, 03 Nov 2019 12:14:36 UTC
+# Updated: Mon, 04 Nov 2019 00:12:48 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -527,6 +527,7 @@
 104.168.174.246
 104.168.195.250
 104.168.198.208
+104.168.201.47
 104.168.204.214
 104.168.204.23
 104.168.211.162
@@ -776,6 +777,7 @@
 104.248.42.220
 104.248.43.176
 104.248.44.13
+104.248.45.10
 104.248.46.116
 104.248.47.15
 104.248.49.76
@@ -1241,6 +1243,7 @@
 113.160.144.116
 113.161.224.96
 113.22.81.251
+113.220.228.79
 113.245.211.102
 113.4.133.3
 113bola.com
@@ -2623,6 +2626,7 @@
 142.93.235.214
 142.93.235.47
 142.93.236.160
+142.93.237.102
 142.93.237.171
 142.93.237.185
 142.93.24.154
@@ -2933,6 +2937,7 @@
 154.91.144.24
 154.91.144.44
 155.133.11.18
+155.138.128.141
 155.138.134.133
 155.138.162.105
 155.138.165.78
@@ -5569,6 +5574,7 @@
 185.112.250.126
 185.112.250.128
 185.112.250.133
+185.112.250.145
 185.112.250.203
 185.112.250.239
 185.112.250.240
@@ -5676,6 +5682,7 @@
 185.150.237.237
 185.152.191.250
 185.153.180.22
+185.153.196.207
 185.153.198.63
 185.154.15.36
 185.154.20.145
@@ -8737,6 +8744,7 @@
 2080dent.com
 209.126.67.34
 209.126.69.49
+209.126.69.74
 209.141.32.210
 209.141.33.119
 209.141.33.126
@@ -10124,6 +10132,7 @@
 35.234.5.71
 35.235.102.123
 35.235.69.201
+35.236.111.58
 35.236.137.49
 35.236.198.26
 35.236.44.15
@@ -10721,6 +10730,7 @@
 45.142.189.189
 45.142.212.25
 45.144.2.104
+45.144.2.209
 45.147.200.13
 45.147.228.77
 45.15.253.88
@@ -14178,6 +14188,7 @@
 89.42.198.87
 89.42.211.49
 89.42.75.33
+89.43.31.109
 89.44.128.126
 89.44.135.72
 89.45.164.140
@@ -15639,7 +15650,6 @@ aday.haberkorfez.com
 adbee.tk
 adbord.com
 adcanudosnh.com.br
-adcash.cf
 adcash.ga
 adccenterbd.com
 adcommunication.pt
@@ -20008,6 +20018,7 @@ babababy.ga
 babaiko.site
 babaldi.com
 babaloke.woundedwarriorscience.science
+babalublog.com
 babaroadways.in
 babaunangdong.com
 babeltradcenter.ro
@@ -21185,7 +21196,6 @@ bestselfchallenges.com
 bestseofreetools.com
 bestseoserviceinpakistan.pk
 bestservis161.ru
-bestsexologist.xyz
 bestshariaproperty.com
 bestsmartphonesreviews.net
 bestsportstreamingsites.live
@@ -22169,6 +22179,7 @@ blogdautu.vn
 blogdovarejo.campanhamartins.com.br
 blogentry.cf
 blogforgamer.com
+blogformacionpchj.inces.gob.ve
 blogforprofits.com
 blogg.postvaxel.se
 blogg.website
@@ -22181,6 +22192,7 @@ blogkarir.com
 blogkienthuc.org
 blogline.net
 blogmason.mixh.jp
+blogmiranda.inces.gob.ve
 blogmydaily.com
 blognhakhoa.vn
 blogprinter.net
@@ -22236,7 +22248,6 @@ blue-strawberry.de
 bluebellantiageing.co.uk
 bluebellhdb.com
 bluebellsplayschool.com
-blueberry.london
 blueberryshop.ru
 bluebird-developments.com
 bluebirdbd.com
@@ -23944,7 +23955,6 @@ cargoinsurance.tk
 cargokz.kz
 cargomate-kr.cf
 cargomax.ru
-caribbean360.com
 carifesta.com
 carikliantiquitat.com
 carimbosrapidos.com.br
@@ -25345,7 +25355,6 @@ citroen-tennstedt.be
 citroenfollowthewind.com
 citronproduction.sk
 city.net.ru
-city1stconstructionlending.com
 cityandsuburbanwaste.co.uk
 citybiliardo.com
 cityclosetselfstorage.com
@@ -25397,6 +25406,7 @@ cjj.lanibio.net
 cjllcmonthlysub.ga
 cjmont41.fr
 cjnzbdy.gq
+cjoint.com
 cjsebbelov.dk
 cjtows.com
 ck-finanzberatung.de
@@ -28265,7 +28275,6 @@ delivery.balanceado.com
 delivery.mn
 deliyiz.net
 delkaland.com
-dell1.ug
 della.themeshigh.com
 dellaconnor.com
 dellarosa.com.au
@@ -29845,7 +29854,6 @@ domanhtrang.com
 domanieccy.pl
 domanname.bid
 domasnea.ro
-domauvolgi.ru
 domberu.ru
 dombud.budujcie.pl
 domeara.com
@@ -32629,7 +32637,6 @@ estomedic.com
 estore.qurvex.com
 estrategias-corporativas.com
 estrategiasdeaprovacao.com.br
-estreamnetworks.net
 estrindesign.com
 estrom.es
 estrutura.eng.br
@@ -33900,7 +33907,6 @@ file-server.online
 file.botvonline.com
 file.buttsdki.ca
 file.co.uk.cjllcmonthlysub.ga
-file.fm
 file.importantcover.uk
 file.lauasinh.com
 file.mayter.cn
@@ -38788,7 +38794,6 @@ home.healthiestu.com
 home.isdes.com
 home.ktxhome.com
 home.lotr.flaik.com
-home.mindspring.com
 home.phnix-e.com
 home.punchlineidk.com
 home.selltokengarff.com
@@ -39581,7 +39586,6 @@ ibsschoolperu.com
 ibtcfilmschool.com
 ibustan.com
 ibuying.pk
-ibws.ca
 iby.ro
 ic-1.de
 ic-star.unila.ac.id
@@ -40100,7 +40104,6 @@ imbir.pro
 imboni.org
 imbt.info
 imcfilmproduction.com
-imdavidlee.com
 imdglobalservices.com
 imediatv.ca
 imefer.com.br
@@ -40269,6 +40272,7 @@ incasesafety.com
 incelticitayt.site
 inceptioneng.com
 inceptionradio.planetparanormal.com
+inces.gob.ve
 incgoin.com
 inci-huidtherapie.nl
 incipepharma.com
@@ -40420,7 +40424,6 @@ influenceinasia.com
 influentialparenting.org
 info-checkus.000webhostapp.com
 info-daily.boilerhouse.digital
-info-prosol.ch
 info.cgetc.com
 info.corp.zergaphonetronic.org
 info.cv.ua
@@ -41611,7 +41614,6 @@ jacobgrier.com
 jacobsondevelopers.com
 jacobsracing.ca
 jacobsvillejoinin.com
-jacobycompany.com
 jacobycompany.dreamhosters.com
 jacobyodesign.com
 jacosgallery.com
@@ -51115,6 +51117,7 @@ myjmcedu-my.sharepoint.com
 myjobscentre.com
 myked.com
 myklecks.com
+mykyc.site
 mylavita.net
 mylendgenuity.biz
 mylendgenuity.net
@@ -52307,6 +52310,7 @@ nihilistpost.com
 nihonsuki.korigengi.net
 niigata-maruhan-itou-nouen.com
 niilesolution.com
+niiqata-power.com
 niiticonsulting.com
 nijerdesign.com
 nijs.mmdnv.be
@@ -53927,7 +53931,6 @@ oscar-isaac.com
 oscarolivas.com
 oscooil.com
 osdecs.org.br
-osdsoft.com
 ose.lazyeight.tech
 oseco.se
 osef.gr
@@ -54822,6 +54825,7 @@ pd.creditreform-muster.de
 pd0rt.nl
 pdedas.com
 pdesaa.cimaa.pt
+pdf-archive.com
 pdf-archive.press
 pdf-archive.store
 pdf-compare.site
@@ -58861,7 +58865,6 @@ rgbsrl.com.ar
 rgclimatizacion.com
 rgdecor.org
 rgfloors.com.au
-rgho.st
 rgmobilegossip.com
 rgrosser.com
 rgrservicos.com.br
@@ -59831,7 +59834,6 @@ sachindutta.com
 sachoob.com
 sachtrithuc.com
 sacm.net
-sacmsgmgw001a.delta.org
 sacmsgmgw001b.delta.org
 saconets.com
 sacramentode.ml
@@ -60439,7 +60441,6 @@ saturday-school.org
 satutitik.com
 satyam.cl
 satyammetals.com
-satysservs.com
 sauceismoney.com
 saudaveldemais.com
 saudenatural.ml
@@ -64864,6 +64865,7 @@ support.gsntv.com
 support.homemakerideas.com
 support.imaitaly.biz
 support.jbrueggemann.com
+support.mdsol.com
 support.redbook.aero
 support.volkerstevin.ca
 support81.si
@@ -65321,7 +65323,6 @@ tae79wfg.email
 taekemdejong.nl
 taekwon-do.gr
 taekwondo-nitra.eu
-tafa.pxlcorp.com
 tafe.org
 tafertergr.com
 tafftanzania.or.tz
@@ -66531,7 +66532,6 @@ tharsisfilms.com
 thatavilellaoficial.com.br
 thatoilchick.com
 thats-amazing.com
-thaus.to
 thc-annex.com
 thctiedye.com
 the-anchor-group.com
@@ -67911,6 +67911,7 @@ track-lost-device.co.za
 track-systemgo.ru
 track.bestwesternlex.com
 track.defatinator.com
+track.smtpserver.email
 track.wizkidhosting.com
 track6.mixtape.moe
 track8.mixtape.moe
@@ -68324,7 +68325,6 @@ truebox-sg.com
 trueke.es
 truenorthtimber.com
 trueperz.com
-trueshare.com
 trueterroir.co.uk
 trullsrodshop.com
 trulykomal.com
@@ -69251,7 +69251,6 @@ update.yoprogramolatino.com
 update.zbs.su
 update24.ch
 update365office.com
-update6.satysservs.com
 updateadovesettings.io
 updateguru.xyz
 updateoffileshares.cf
@@ -69398,6 +69397,7 @@ urzedniczatv.pl
 us-defense-department.ml
 us-trans.ru
 us.cdn.persiangig.com
+us.hostiso.cloud
 us5interclub.cba.pl
 usa-lenders.com
 usa-market.org
@@ -70924,6 +70924,7 @@ wallpaaper.xyz
 wallpapershd.xyz
 wallsorts.co.nz
 wallstreetancona.wazabit.it
+wallstreetreporter.com
 walnutgrey.com
 walstan.com
 waltermagaya.com
