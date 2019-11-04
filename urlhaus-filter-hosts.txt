@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Mon, 04 Nov 2019 00:12:48 UTC
+# Updated: Mon, 04 Nov 2019 12:13:18 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -959,6 +959,7 @@
 108.170.31.53
 108.170.40.42
 108.174.194.200
+108.174.194.61
 108.174.194.92
 108.174.197.100
 108.174.197.102
@@ -1182,6 +1183,7 @@
 111.248.97.61
 111.255.193.35
 111.30.107.131
+111.43.223.138
 111.6.76.54
 111.61.52.53
 111.67.194.29
@@ -1583,6 +1585,7 @@
 123.129.217.250
 123.134.198.213
 123.16.23.175
+123.170.222.215
 123.194.194.150
 123.194.235.37
 123.195.112.125
@@ -7461,6 +7464,7 @@
 194.182.66.134
 194.182.73.177
 194.182.76.15
+194.182.85.62
 194.187.149.17
 194.187.154.27
 194.191.243.240
@@ -7807,6 +7811,7 @@
 199.231.185.10
 199.231.185.6
 199.244.48.84
+199.247.22.155
 199.247.22.88
 199.255.156.138
 199.38.243.9
@@ -9328,6 +9333,7 @@
 220.135.87.33
 220.136.39.51
 220.181.87.80
+220.189.107.212
 220.221.224.68
 220.230.116.97
 220.249.106.153
@@ -23693,6 +23699,7 @@ camereco.com
 cameriabakeshop.com
 camertondesigns.com
 camev.com.tr
+camexpertangkor.com
 camfriendly.com
 camhpseattle.com
 camiladell.com
@@ -25175,6 +25182,7 @@ chuaviemxoangyduc.com
 chubakhangal.mn
 chubanomania.icu
 chubbylogz.ga
+chucelo.fun
 chuckblier.com
 chucktomasi.com
 chuckweiss.com
@@ -29920,6 +29928,7 @@ donghethietbi.com
 donghodaian.com
 donghokashi.com
 donghomynghe.com
+donghotot.xyz
 donghua.ren
 donghuongkiengiang.com
 dongjin.sk
@@ -30454,6 +30463,7 @@ droobedu.com
 droobox.online
 dropbox-cloud.cloudio.co.id
 dropbox-download.com
+dropbox.faro-express.com
 dropbox1.ddns.net
 dropboxsec.net
 dropbuilders.com
@@ -50905,6 +50915,7 @@ musicatemporis.recordtogo.com
 musicaustriallc.ru
 musiccollege.kz
 musicfacile.com
+musichoangson.com
 musichrome.it
 musicianabrsm.com
 musicmama.ru
@@ -55595,6 +55606,7 @@ placering.nl
 placidocn.com
 placo.de
 plagading.edufa.id
+plain-hiji-6209.lolitapunk.jp
 plainviewreformedchurch.org
 plan.sk
 plan95.ca
@@ -61375,6 +61387,7 @@ sevremont-plus.com
 sewabadutcikarang.com
 sewamobilbengkulu.web.id
 sewamobilmurahdibali.co.id
+sewanotebookbandung.com
 sewardweb.com
 sewinggroup.com.mx
 sewlab.net
@@ -62537,6 +62550,7 @@ slotjumbo.com
 slotoru.com
 slotsday.gr
 slotshots2.yggdrasilgaming.com
+slotxogameth.com
 slovak-cts.sk
 slowexposure.com
 slowianskawieza.pl
@@ -62998,6 +63012,7 @@ solarwallpapers.com
 solaryug.com
 soldatmap.cba.pl
 soldeyanahuara.com
+soldi.duckdns.org
 solecom.com
 soleilbeautynyc.com
 soletec.es
@@ -72011,6 +72026,7 @@ wordpress.khinethazin.me
 wordpress.logoinn.me
 wordpress.p364918.webspaceconfig.de
 wordpress.reservapp.cl
+wordpress.simcoltd.com
 wordpress.theeventnews.org
 wordpress.wordt-getest.nl
 wordpress2.fauzulhasan.com
@@ -73522,6 +73538,7 @@ zachbolland.com
 zackulafamily.com
 zadania.abel.bielsko.pl
 zadecu.com
+zadkay.com
 zadvexmail19mn.world
 zaednoplovdiv.com
 zaey.com.tr

@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 04 Nov 2019 00:12:48 UTC
+! Updated: Mon, 04 Nov 2019 12:13:18 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -960,6 +960,7 @@
 108.170.31.53
 108.170.40.42
 108.174.194.200
+108.174.194.61
 108.174.194.92
 108.174.197.100
 108.174.197.102
@@ -1183,6 +1184,7 @@
 111.248.97.61
 111.255.193.35
 111.30.107.131
+111.43.223.138
 111.6.76.54
 111.61.52.53
 111.67.194.29
@@ -1584,6 +1586,7 @@
 123.129.217.250
 123.134.198.213
 123.16.23.175
+123.170.222.215
 123.194.194.150
 123.194.235.37
 123.195.112.125
@@ -7462,6 +7465,7 @@
 194.182.66.134
 194.182.73.177
 194.182.76.15
+194.182.85.62
 194.187.149.17
 194.187.154.27
 194.191.243.240
@@ -7808,6 +7812,7 @@
 199.231.185.10
 199.231.185.6
 199.244.48.84
+199.247.22.155
 199.247.22.88
 199.255.156.138
 199.38.243.9
@@ -9335,6 +9340,7 @@
 220.135.87.33
 220.136.39.51
 220.181.87.80
+220.189.107.212
 220.221.224.68
 220.230.116.97
 220.249.106.153
@@ -20754,6 +20760,7 @@ bbuseruploads.s3.amazonaws.com/4cbd0bcf-1f5f-4cb3-aa69-e8bfbecb1aa0/downloads/bc
 bbuseruploads.s3.amazonaws.com/4cbd0bcf-1f5f-4cb3-aa69-e8bfbecb1aa0/downloads/c194b5b8-1486-469c-b357-0d8379f37d84/svchost.exe?Signature=4OUHCLiFqD9VF1s1sTyJs%2BcWnL0%3D&Expires=1533169083&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=hGTyghJQzyhHR2DfqA4kxhau2RcbmybB&response-content-disposition=attachment%3B%20filename%3D%22svchost.exe%22
 bbuseruploads.s3.amazonaws.com/4cbd0bcf-1f5f-4cb3-aa69-e8bfbecb1aa0/downloads/dc54b8b0-74d3-4b0a-851d-def7ef2b46d1/svchost.exe?Signature=hjMXY9W1H57OsxluS3tyArcIoQQ%3D&Expires=1533123010&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=L8jxWd.puPh9m0aOpmqnzQ5gf3QnVbGU&response-content-disposition=attachment%3B%20filename%3D%22svchost.exe%22
 bbuseruploads.s3.amazonaws.com/4cbd0bcf-1f5f-4cb3-aa69-e8bfbecb1aa0/downloads/dee95b84-3a34-4259-8225-c98a0262865e/svchost.exe?Signature=zOd1rpCIAZo3JL0Ud%2BAv9qpvlhI%3D&Expires=1533223424&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=yn6U.y3EgaSTBNyQA6xmv9LoXP7q.Kz0&response-content-disposition=attachment%3B%20filename%3D%22svchost.exe%22
+bbuseruploads.s3.amazonaws.com/52a6e9e1-dcb4-4dc0-8946-7c718f602ba6/downloads/6ed6f7f8-c8cf-4a37-805a-56e1acc1d269/CLIPPER.exe?Signature=Gk4f7GnOR1oqS109eTX7ABryNpU%3D&Expires=1572849188&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=jl1WPvl0UnLp8artYv3yHvlmo9Ge3_Ut&response-content-disposition=attachment%3B%20filename%3D%22CLIPPER.exe%22
 bbuseruploads.s3.amazonaws.com/6070e03d-1411-4e26-ba9b-fec48820a1f5/downloads/4d587a7b-08fe-446e-9b18-6c747a7d5e06/nvidia.exe?Signature=pV3ub2hKS6EYyAjofO0i4bHglM8%3D&Expires=1533455107&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=eqtF4uzW06rDmNMjpM27A1WfUI2Yx4KP&response-content-disposition=attachment%3B%20filename%3D%22nvidia.exe%22
 bbuseruploads.s3.amazonaws.com/6070e03d-1411-4e26-ba9b-fec48820a1f5/downloads/7b7ea639-b11d-4e28-bc24-b91a42ff3c50/jardata.exe?Signature=Rw5WrvuhqmIOKjfPjNvl8%2F21M%2Fs%3D&Expires=1533454327&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=ZIdykz2f1TR4xBYS6Cvjr65d2wIpHuS6&response-content-disposition=attachment%3B%20filename%3D%22jardata.exe%22
 bbuseruploads.s3.amazonaws.com/60ced439-c88c-4323-836f-28ca90d26e15/downloads/5c955c19-0065-4fbc-85e0-f37a7173544b/jofy.exe?Signature=%2BxyqOWvlG00hVH%2BNL5iwwIVPlEk%3D&Expires=1540254991&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=OO7AUYI8s4IWtzy6BawTMxQgWoI3ojHm&response-content-disposition=attachment%3B%20filename%3D%22jofy.exe%22
@@ -21975,6 +21982,8 @@ bitbucket.org/secondlifegg/second/downloads/stealer.exe
 bitbucket.org/secondlifegg/second/downloads/windir2.exe
 bitbucket.org/security2019/new2019/downloads/CLIPPER.exe
 bitbucket.org/sergstopio/adnim231/downloads/download.hta
+bitbucket.org/softportal2019/update/downloads/CLIPPER.exe
+bitbucket.org/softportal2019/update/downloads/setup_m.exe
 bitbucket.org/syfrex1/syfrex/downloads/BitcoinBotv1.0.rar
 bitbucket.org/syfrex1/syfrex/downloads/LinkenSphere-test.exe
 bitbucket.org/syfrex1/syfrex/downloads/Rainbow%20Six%20Independent.exe
@@ -24072,6 +24081,7 @@ camereco.com
 cameriabakeshop.com
 camertondesigns.com
 camev.com.tr
+camexpertangkor.com
 camfriendly.com
 camhpseattle.com
 camiladell.com
@@ -24854,6 +24864,7 @@ cdn.discordapp.com/attachments/511999346280103956/529482659995320330/Cracked.exe
 cdn.discordapp.com/attachments/513657531235565578/513983099009499136/hwid.exe
 cdn.discordapp.com/attachments/517531887841968134/517712231488815155/Launcher.exe
 cdn.discordapp.com/attachments/520639140224827405/585134645579087875/SRSDAC00180_2.exe
+cdn.discordapp.com/attachments/521288016585687044/523262964518617088/dox.exe
 cdn.discordapp.com/attachments/522281428038320155/522615269819023360/ROBLOXHACK.bat
 cdn.discordapp.com/attachments/523497183459409926/553957499846262794/Roblox.exe
 cdn.discordapp.com/attachments/523884505581486081/527153250043166740/her-drocheniy.exe
@@ -25773,6 +25784,7 @@ chuaviemxoangyduc.com
 chubakhangal.mn
 chubanomania.icu
 chubbylogz.ga
+chucelo.fun
 chuckblier.com
 chucktomasi.com
 chuckweiss.com
@@ -31431,6 +31443,7 @@ donghethietbi.com
 donghodaian.com
 donghokashi.com
 donghomynghe.com
+donghotot.xyz
 donghua.ren
 donghuongkiengiang.com
 dongjin.sk
@@ -32587,6 +32600,7 @@ dropbox.com/s/g344g9s8be2bfp4/2019264-20274245552-Docs.xz?dl=1
 dropbox.com/s/glhdm58a8s5u77v/Information.pdf.gz?dl=1
 dropbox.com/s/gqs3n4qnwkt2xvq/_output77CACA0.pdf.z?dl=1
 dropbox.com/s/gxfqfem5m813nva/Firefox_67.3.39.js?dl=1
+dropbox.com/s/h9bc8dttuoct1p3/jpgimg_01PDF.z?dl=1
 dropbox.com/s/h9lmju4ig3j8gvd/flashplayer_37.3.42_plugin.js?dl=1
 dropbox.com/s/hh36evov8dqhle6/PO.xlsx?dl=1
 dropbox.com/s/hqmzlh7r1y7wzku/passwordthieft.exe?dl=1
@@ -32783,6 +32797,7 @@ dropbox.com:443/s/2v3b7l5j949dgnv/flashplayer_37.3.45_plugin.js?dl=1
 dropbox.com:443/s/f1q0gwfx4jh529a/flashplayer_37.3.12_plugin.js?dl=1
 dropbox.com:443/s/fltw81tagjtdbb6/okw.dll?dl=1
 dropbox.com:443/s/ttoyj0vjxhadb7j/Vo8hF5dE54Sjhr.zip?dl=1
+dropbox.faro-express.com
 dropbox1.ddns.net
 dropboxsec.net
 dropbuilders.com
@@ -53899,6 +53914,7 @@ musicatemporis.recordtogo.com
 musicaustriallc.ru
 musiccollege.kz
 musicfacile.com
+musichoangson.com
 musichrome.it
 musicianabrsm.com
 musicmama.ru
@@ -58963,6 +58979,7 @@ placering.nl
 placidocn.com
 placo.de
 plagading.edufa.id
+plain-hiji-6209.lolitapunk.jp
 plainviewreformedchurch.org
 plan.sk
 plan95.ca
@@ -65104,6 +65121,7 @@ sevremont-plus.com
 sewabadutcikarang.com
 sewamobilbengkulu.web.id
 sewamobilmurahdibali.co.id
+sewanotebookbandung.com
 sewardweb.com
 sewinggroup.com.mx
 sewlab.net
@@ -66290,6 +66308,7 @@ slotjumbo.com
 slotoru.com
 slotsday.gr
 slotshots2.yggdrasilgaming.com
+slotxogameth.com
 slovak-cts.sk
 slowexposure.com
 slowianskawieza.pl
@@ -66763,6 +66782,7 @@ solarwallpapers.com
 solaryug.com
 soldatmap.cba.pl
 soldeyanahuara.com
+soldi.duckdns.org
 solecom.com
 soleilbeautynyc.com
 soletec.es
@@ -74382,6 +74402,7 @@ uc64dffdc2637d0eb59905af916c.dl.dropboxusercontent.com/cd/0/get/ASgxYXj7iiVX_PPm
 uc658d069cda35b5c41b1e7e7378.dl.dropboxusercontent.com/cd/0/get/AfQPL62g46-s4YlrGZm5snxk8Xe98qofoWSp871FrX0rTrCe_6iHRlzYTXXU6drP5-ErpD9iw-NVfbeyrreYIThAokcSt-jLYHC6z3VNbic5tg/file?dl=1
 uc65b715ae909d52ebde7b5d0e42.dl.dropboxusercontent.com/cd/0/get/AW0LIg7Q_UJ5WywW_527BQ75JWG1lGkNJBm49Kp4mG44XAQh1Zf8n_MH8Z6nkKshp0WthhkHXYwXT5lztqEhwQJpaFLB3fzESYtTRj9lIaM5OTHYWDnGxU7rLI_xV48V-dMD2KfUtFPp-nh29bliY35uql-YNPn6L4m1NF-kq1-6Z0XvbLvgaU-q2zaWN330DVA/file?dl=1
 uc666aea658e1a38f98e24c5fd6b.dl.dropboxusercontent.com/cd/0/get/AVjgvNoQvaB2tNIgYititW7BkgOs8MOJ0KVZ9hnSXuURYmAmLCSKOIhpKkIagckgWcvZcIykTEjQ0Sz65sd278UJviw1kmmswiAtGCejtxIPkoNDsroAUKBv8szAu1x1ClPRU5Xj9yoKmZDo-0irMtK0gVn40nK6_4-4VhvqGG55FppxEdLE4aUzc7tu3nr1tH4/file?dl=1
+uc6697c177fb1a9344bd89bb3b9d.dl.dropboxusercontent.com/cd/0/get/Aru9m_vAlF_TiD7lshcZZL-pbScfTkrtpXtwtSCUb2NijytKCmkF_l3eqpNNwxTtkGLsC_kPbghmltFeiucQ0psvQuEsIagNKzakAKm5p4TjC7TvB0MFKuD_U5pK22RLn1Q/file?dl=1
 uc674fe1509393534b0833837535.dl.dropboxusercontent.com/cd/0/get/AP1dJsj16tZI6ut3FucYxjqGVxslcZd0oWCtdHzq-B4xcfjPyxq7HRiQoONEzurLYO5_alTlD3DQM6PigMUEPqsInuNIKikrEeFm-YcRto8UR5ovsbwyonIHf0HFjAjNgfKpUzD76RrydlvJ4e9uQIAZ8UT197hzw7C18zbcHz4vCYy0tON5_C39nMwiGzxj_5k/file?dl=1
 uc679c203af8cab354325dd5673d.dl.dropboxusercontent.com/cd/0/get/Ad244pzHitN84D0KOa-CGCm5RVLnbn6eTD0zPhWazC4vNLAdgBNKjSP2OIYNqxC1dvA1gtuu6ReuYNguelEgKz8yuyraNiZwJ1D-wtQRYZR9pA/file?dl=1#
 uc69b45a9b1e31416f439f02ca11.dl.dropboxusercontent.com/cd/0/get/AT8W2pq_KOYLW4qzyeAqPiWXN38LH9Hi3q8dNKC5GSKoigo5_49tZRhy53Y9dWZrkhslSwaPHa6-dlRoWiQLiRt3RrmXlH_aljxbR-kvM4t2hyRBZb4SoyPD3ZZKOFA3B6s5nsW0k4Y_wfPM0NIxY0StuoSG-yIAL8LgC2GTReZ1AuW_q8zdoSFloGk5rwLiZDQ/file?dl=1
@@ -77952,6 +77973,7 @@ wordpress.khinethazin.me
 wordpress.logoinn.me
 wordpress.p364918.webspaceconfig.de
 wordpress.reservapp.cl
+wordpress.simcoltd.com
 wordpress.theeventnews.org
 wordpress.wordt-getest.nl
 wordpress2.fauzulhasan.com
@@ -79494,6 +79516,7 @@ zachbolland.com
 zackulafamily.com
 zadania.abel.bielsko.pl
 zadecu.com
+zadkay.com
 zadvexmail19mn.world
 zaednoplovdiv.com
 zaey.com.tr
