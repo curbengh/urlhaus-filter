@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 05 Nov 2019 00:12:49 UTC
+! Updated: Tue, 05 Nov 2019 12:13:24 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2461,6 +2461,7 @@
 142.11.212.47
 142.11.213.139
 142.11.213.146
+142.11.213.204
 142.11.213.50
 142.11.214.46
 142.11.214.9
@@ -2753,6 +2754,7 @@
 146.71.76.191
 146.71.76.58
 146.71.76.64
+146.71.77.150
 146.71.77.205
 146.71.78.71
 146.71.79.190
@@ -2870,6 +2872,7 @@
 151.77.168.231
 151.80.162.223
 151.80.186.121
+151.80.197.109
 151.80.209.229
 151.80.241.104
 151.80.241.109
@@ -3159,6 +3162,7 @@
 157.230.99.56
 157.245.1.67
 157.245.106.38
+157.245.117.219
 157.245.129.86
 157.245.130.209
 157.245.132.4
@@ -3168,6 +3172,7 @@
 157.245.144.62
 157.245.147.239
 157.245.171.223
+157.245.190.144
 157.245.2.21
 157.245.209.242
 157.245.210.194
@@ -5545,6 +5550,7 @@
 185.101.107.191
 185.101.107.236
 185.101.161.189
+185.102.122.2
 185.103.246.195
 185.104.114.55
 185.105.37.207
@@ -8149,6 +8155,7 @@
 201.150.109.34
 201.150.109.49
 201.150.109.61
+201.153.28.86
 201.160.78.20
 201.161.175.161
 201.168.151.182
@@ -8515,6 +8522,7 @@
 205.185.125.213
 205.185.125.244
 205.185.125.6
+205.185.126.105
 205.185.126.154
 205.185.126.185
 205.185.126.201
@@ -9444,6 +9452,7 @@
 23.122.183.241
 23.130.192.130
 23.130.192.132
+23.19.227.212
 23.19.58.91
 23.225.123.179
 23.226.130.118
@@ -9514,6 +9523,7 @@
 23.254.217.198
 23.254.217.50
 23.254.224.150
+23.254.224.213
 23.254.224.32
 23.254.224.39
 23.254.224.47
@@ -9531,6 +9541,7 @@
 23.254.227.117
 23.254.227.7
 23.254.228.30
+23.254.230.120
 23.254.230.141
 23.254.230.38
 23.254.243.51
@@ -12309,6 +12320,7 @@
 61.58.55.226
 61.6.2.114
 61.6.40.66
+61.68.40.199
 61.7.174.101
 61.7.190.41
 61.73.81.11
@@ -13486,6 +13498,7 @@
 80.250.84.118
 80.252.107.183
 80.254.102.105
+80.34.181.19
 80.41.55.178
 80.44.208.78
 80.44.217.46
@@ -14507,6 +14520,7 @@
 92.62.66.42
 92.62.78.46
 92.63.105.90
+92.63.192.152
 92.63.197.106
 92.63.197.112
 92.63.197.118
@@ -15366,6 +15380,7 @@ academica.samarindaweb.com
 academicrastreweb.com
 academruk.ru
 academy.appspatrols.com
+academy.seongon.com
 academydf.com
 academykar.ir
 acaiberrysupplements.net
@@ -22487,6 +22502,7 @@ blog.pitangawear.com.br
 blog.planetasif.com
 blog.ploytrip.com
 blog.pokerclassified.com
+blog.polikoding.com
 blog.postfly.be
 blog.powderhook.com
 blog.powersoft.net.ec
@@ -22686,6 +22702,7 @@ blueprints.dk
 bluepuma.at
 blues.org.il
 bluesaloon.com
+bluesao.10web.site
 bluesfest.ge
 bluesky-oz.ru
 blueskypharmaservices.com
@@ -22905,6 +22922,7 @@ bonsaiterapiasorientais.com
 bonsaver.com.br
 bonstock.com
 bontemps.es
+bonus-casino.eu
 bonus-ssl.com
 bonusdiyari.com
 bonusklanten.nl
@@ -22991,6 +23009,7 @@ borislosev.ru
 borje.com
 bork-sh.vitebsk.by
 borkaszendvics.hu
+bormondwal.com
 borneodigital.co
 borneowisata.com
 borneozen.com
@@ -24890,6 +24909,7 @@ cdn.discordapp.com/attachments/510880849395318794/510882147079290894/Useless_Loa
 cdn.discordapp.com/attachments/510885167699722245/510891916553093131/go.exe
 cdn.discordapp.com/attachments/511999346280103956/529482659995320330/Cracked.exe
 cdn.discordapp.com/attachments/513657531235565578/513983099009499136/hwid.exe
+cdn.discordapp.com/attachments/516979367419707403/639531512286543902/output.exe
 cdn.discordapp.com/attachments/517531887841968134/517712231488815155/Launcher.exe
 cdn.discordapp.com/attachments/520639140224827405/585134645579087875/SRSDAC00180_2.exe
 cdn.discordapp.com/attachments/521288016585687044/523262964518617088/dox.exe
@@ -28409,6 +28429,7 @@ darassalam.ch
 darbartech.com
 darbouazza.ma
 darbud.website.pl
+darco.pk
 dardash.info
 dareldjazair.com
 darelyateem.org
@@ -29740,6 +29761,7 @@ dgnj.cn
 dgpratomo.com
 dgs.pni-me.com
 dgstrainingacademy.com
+dgsunpower.com
 dgtet.pw
 dgxbydamonique.com
 dh.3ayl.cn
@@ -38937,6 +38959,7 @@ glmalta.co.id
 glob.pavlodesign.com.ua
 global-erty.ge
 global.domainstack.in
+global.iyeuwp.com
 global.pro.vn
 globaladmin.kz
 globalafricanproductions.com
@@ -40674,6 +40697,7 @@ hdswacable.com
 hdsystem.it
 hdtgs.ga
 hdtnet.cn
+hdtsolution.com
 hdtv.teckcorner.com
 hdzbih.tv
 headbuild.info
@@ -44424,6 +44448,7 @@ izmiran.nw.ru
 izmirelbisecilerodasi.org
 izmirgitarkursu.net
 izmirlipilavciadnan.com
+izmirtadilatci.com
 izmirtesisatci.net
 izmiryargiakademi.com
 izmitgranit.net
@@ -48570,6 +48595,7 @@ lf13e4d0.justinstalledpanel.com
 lfenjoy.com
 lfoweiro129301.pw
 lfsm.co.za
+lfz5286.com
 lg-signage.kz
 lg.icf-fx.kz
 lg4square.com
@@ -49122,6 +49148,7 @@ lkvcello.fi
 lkvervoer.nl
 lladweywatches.com
 llaloio.desi
+llbzy.com
 llen.co.nz
 lletenldy.cf
 llevagafas.es
@@ -51950,6 +51977,7 @@ meetline.ml
 meetlines.it
 meets.dyonworkshop.com
 meetyourneighbour.ca
+meetzon.com
 meeweb.com
 meewis.nl
 mefun.tv
@@ -53323,6 +53351,7 @@ monmotors.com
 monnaomotona.co.bw
 monngonvietdalat.com
 mono-projekt.pl
+mono-trade.com
 monochromeperformance.com
 monodoze.com
 monoit.eu
@@ -53878,6 +53907,7 @@ mulmurfeed.com
 multi-account-trader.tradetoolsfx.com
 multi-bygg.com
 multi-sync.com
+multi-trexintegfoodsplc.com
 multi.akktis.com
 multiaccueil-quesnoysurdeule.fr
 multiadatainternational.org
@@ -54302,6 +54332,7 @@ myriadclassified.com
 myricardoqdestin.email
 myrltech.com
 myroadmap.ir
+mysafetrip.fr
 mysanta.000webhostapp.com
 mysbta.org
 myschool-eg.000webhostapp.com
@@ -54827,6 +54858,7 @@ nedasovcan.sk
 nedia.jp
 nedmextrade.com
 nednedziwe.com
+nedronog.com
 nedvigovka.ru
 neecopower.com
 need-h.com
@@ -55347,6 +55379,7 @@ nhakinh.net
 nhanhoamotor.vn
 nhansinhduong.com
 nhaoxahoiconhue2.com
+nhasachngoaingu.net
 nhasachthanhduy.com
 nhasmart.com
 nhatduocnamvuong.com
@@ -58458,6 +58491,7 @@ pennoscan.com.au
 penpilot.net
 pensacolahomeinspections.com
 pensacqua.it
+pensaresaber.com
 pensionhinterhofer.at
 pensiunea-anamaria-bargau.ro
 pensjonat-domino.pl
@@ -58521,6 +58555,7 @@ perfectonline.nl
 perfectpressing.net
 perfectradiouk.torontocast.stream
 perfectshotlacrosse.com
+perfecttimeoflove.com
 perfexim.nazwa.pl
 perfilpesquisas.com.br
 perflow.com
@@ -59134,6 +59169,7 @@ planexsolution.com
 planikafires.gr
 planitsolutions.co.nz
 planktonik.hu
+planmyfurnitureinterior.com
 planningtravel.es
 plannpick.com
 plano.xoom.it
@@ -59980,6 +60016,7 @@ pro-verb.be
 pro.netplanet.it
 pro.prosperitybookkeeping.net
 pro.tmb.8interactive.co.th
+pro.voix-padg.com
 pro7.com.ua
 pro7seas.com
 proa.org
@@ -71111,6 +71148,7 @@ taproomagogo.com
 tapsglobalsolutions.com
 tapsu.in
 taptagtees.com
+tapucreative.com
 taquitoswest.com
 tara73.ru
 taragc.ir
@@ -73159,6 +73197,7 @@ tomjennings.net
 tommarmores.com.br
 tommie.tlpdesignstudios.com
 tommyhalfigero.top
+tommyhook.com
 tommyleetattoo.com
 tommysgrillpizzerianyc.com
 tomopreis.nl
@@ -74838,6 +74877,7 @@ ukconsumerresearch.co.uk
 ukdn.com
 ukecodom.ru
 ukepegiw.myhostpoint.ch
+ukhtinada.com
 ukhuwahfillhijrah.com
 ukimmigrationattorneymaine.us
 ukipbolton.org
@@ -75640,6 +75680,7 @@ valledaosta.at
 valleorbadepurazione.it
 valletbearings.com
 valleyciaabogados.cl
+valleyheritagemuseum.org
 valleyonlineshop.com
 valleywomenshealth.com
 vallyxs0.beget.tech
@@ -77195,6 +77236,7 @@ web63.s150.goserver.host
 web6463.koxue.win
 web65.snake.kundenserver42.de
 web91.s139.goserver.host
+webable.digital
 webahang.com
 webalanadi.com
 webap.synology.me
@@ -77303,6 +77345,7 @@ website.fauzulhasan.com
 website.nea-handbal.nl
 website.videonhadat.vn
 website.vtoc.vn
+website60s.net
 websitebesttobest.com
 websitebuilderdp.com
 websitedesigngarden.com
@@ -78453,6 +78496,7 @@ xbitestudio.com
 xblbnlws.appdoit.cn
 xbluetrding.com
 xbsoluciones.com
+xbtify.info
 xc-zs.co.uk
 xcalculus.xin
 xcatcher.x10host.com
@@ -79083,9 +79127,13 @@ yamato-ka.com
 yamato-ki.com/yamato.apk
 yamato-ku.com
 yamato-me.com
+yamato-na.com
+yamato-ne.com
+yamato-no.com
 yamato-sa.com
 yamato-si.com
 yamato-su.com
+yamato-ti.com
 yamemasesy.com
 yamike.com
 yamisiones.com/cache/98UACH/KFBQ35670INVNT/Aug-10-2018-7288859/EOB-ESKX
@@ -79955,6 +80003,7 @@ zodiacrobots.ru
 zoelowney.com
 zoeticbuildingandsupply.com
 zoetstudio.com
+zogur.com
 zoha.farosur.com.ar
 zoil.website
 zolfagharico.com
@@ -80035,6 +80084,7 @@ ztds2.online
 zteandroid.com
 ztelligence.mobi
 ztowerseal.com
+ztqy168.com
 ztshu.com
 zuev.biz
 zuisarch.top
