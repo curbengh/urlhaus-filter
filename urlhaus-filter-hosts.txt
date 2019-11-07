@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Thu, 07 Nov 2019 00:12:42 UTC
+# Updated: Thu, 07 Nov 2019 12:12:57 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -2444,6 +2444,7 @@
 141.237.152.241
 141.237.233.4
 141.237.48.128
+141.255.164.15
 141.255.40.67
 141.255.98.249
 1412studiodm.com
@@ -3950,6 +3951,7 @@
 167.71.0.66
 167.71.101.10
 167.71.102.73
+167.71.103.48
 167.71.107.219
 167.71.107.86
 167.71.109.81
@@ -7238,6 +7240,7 @@
 191.97.40.155
 191.97.43.91
 192.0.27.69
+192.108.235.35.bc.googleusercontent.com
 192.119.111.12
 192.119.111.230
 192.119.66.148
@@ -7397,6 +7400,7 @@
 193.151.91.211
 193.151.91.86
 193.164.133.75
+193.169.252.230
 193.187.172.11
 193.187.172.166
 193.187.172.181
@@ -7720,6 +7724,7 @@
 198.167.143.107
 198.167.143.202
 198.175.126.80
+198.199.104.8
 198.199.123.110
 198.199.64.204
 198.199.65.58
@@ -7832,6 +7837,7 @@
 199.195.248.63
 199.195.252.101
 199.195.252.210
+199.195.254.59
 199.230.109.154
 199.231.185.10
 199.231.185.6
@@ -8825,6 +8831,7 @@
 209.141.48.246
 209.141.49.76
 209.141.49.93
+209.141.50.206
 209.141.50.236
 209.141.50.26
 209.141.50.55
@@ -10039,6 +10046,7 @@
 34.90.45.71
 34.90.52.127
 34.95.52.111
+35.141.217.189
 35.154.50.228
 35.164.28.174
 35.165.83.118
@@ -13904,6 +13912,7 @@
 85.96.178.217
 85.96.187.127
 85.97.131.5
+85.97.201.58
 85.97.206.161
 85.98.172.165
 85.99.111.150
@@ -13978,6 +13987,7 @@
 87.121.52.230
 87.121.98.42
 87.125.246.228
+87.14.143.251
 87.176.75.190
 87.2.113.142
 87.2.198.203
@@ -14890,6 +14900,7 @@
 95.9.144.121
 95.9.191.21
 95.9.220.134
+95.9.225.5
 95.9.255.216
 95.9.5.177
 95.9.84.154
@@ -22102,6 +22113,7 @@ blog.horganice.in.th
 blog.hubhound.me
 blog.hudle.in
 blog.ieeeuet.org.pk
+blog.innovaccer.com
 blog.instacart-clone.com
 blog.instime.org
 blog.intelliservices.io
@@ -29786,6 +29798,7 @@ dockrover.com
 docksey.com
 doclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 docmagnet.com
+docnotes.biz
 docoils.com
 docphillippines.com
 docs.afakeartist.com
@@ -31040,6 +31053,7 @@ e3dai.com
 e3sports.com
 e456t09139.space
 e63372sr.beget.tech
+e7ia8stp7eae8.ybjrm1hgcafc7.ml
 e913618t.beget.tech
 ea-360.com
 ea-no7.net
@@ -31807,6 +31821,7 @@ elephantpodcasts.com
 elephanttimberframe.com
 elespaciodepopito.com.ar
 eletelephant.com
+eletelportoes.com.br
 eletronicautomacoes.com.br
 eletronop.com.br
 eletrotecsolucoes.com
@@ -33146,6 +33161,7 @@ exeterpremedia.com
 exhibitionislam.com
 exhilarinfo.com
 exictos.ligaempresarial.pt
+eximalert.com
 eximium.pt
 eximme.com
 exinstaima.com
@@ -33221,6 +33237,7 @@ extendedfamilyweb.club
 extendsas.com
 extensive.com.au
 external.wilnerzon.se
+externalisation-offshore.com
 extmail.cn
 extrashades.com
 extrasistemas.com
@@ -33953,6 +33970,7 @@ fhdesigen.com
 fhek.nl
 fhhgkhgj.us.to
 fhinmobiliaria.cl
+fhmupuibgr.com
 fiashplayer.com
 fiat-fullback.ru
 fib.conference.unair.ac.id
@@ -34312,6 +34330,7 @@ fitnessways.us
 fitnice-system.com
 fitografia.net
 fitonutrient.com
+fitoutdesigns.com
 fitpuls.cz
 fittlounge.com
 fitzsimonsinnovation.com
@@ -37446,6 +37465,7 @@ gucci-admin.com
 gucciai.net
 gucul-huligan.com
 gudachu.ru
+gudangbos.net
 gudanglagu4shared.website
 gudint.christianstay.com
 gudonly.apzlab.com
@@ -38515,6 +38535,7 @@ hfgdsdasd.ru
 hfhs.ch
 hfkxgwd.qok.me
 hfmid.bjcma.top
+hfraga.com
 hfsoftware.cl
 hg77709.com
 hgddds.usa.cc
@@ -39329,6 +39350,7 @@ hrbruncheng.cn
 hrdivx.com
 hrdwo.org.pk
 hrenergysolutions.co.uk
+hrghpyxiqg.com
 hrhorizons.co.uk
 hrigeneva.com
 hrirsatellite.net
@@ -41500,6 +41522,7 @@ itaxilight.secretagents.us
 itbchateauneuf.net
 itblogs-bd.com
 itbparnamirim.org
+itbz.com
 itc.stackcreativo.com.ve
 itchyscalphairloss.com
 itcmogri.org
@@ -42793,6 +42816,7 @@ jsbspod.com
 jsbsystem.com
 jsc.go.ke
 jscarline.dk
+jscfgfuevx.com
 jschamorro.com
 jscorporation.co.in
 jsdx1.downg.com
@@ -48768,6 +48792,7 @@ mazegp.com
 mazepeople.com
 mazharul-hossain.info
 mazhavil.com
+mazhenkai.top
 mazinani1363.com
 mazonit.co.il
 mazury.vip
@@ -51814,6 +51839,7 @@ nazara.id
 nazarnews.kz
 nazarspot.com.tr
 nazmulchowdhury.xyz
+nazscklpaq.com
 nbargaincentre.co.za
 nbawtsfgiobm.notificacaojuridica2015.net
 nbdservizi.com
@@ -53993,6 +54019,7 @@ orbisinc.com
 orbit99.co.id
 orcelead.com
 orchardim.com
+orchaskiddiesworld.com
 orchidreview.xyz
 orciprudential.com.watchdogdns.duckdns.org
 orclei.com.br
@@ -59485,6 +59512,7 @@ romanskey.ch
 romantis.penghasilan.website
 romanu.hi2.ro
 romanvolk.ru
+romanwebsite.com
 romanyaciftevatandaslik.com
 romatribal.com
 rombell.ro
@@ -59896,6 +59924,7 @@ rwittrup.com
 rws-bremen.de
 rwv667t9al.usa.cc
 rxanatomy.com
+rxcvslqwai.com
 rxrhorseriding.net
 rxvarbtf.sha58.me
 ry.valerana44.ru
@@ -61204,6 +61233,7 @@ sekretbeauty.ru
 sekretmira.ru
 seksizle.ru
 seksmag.nl
+sekurus.com
 selagalaresort.com
 selalehaliyikama.net
 selbicconsult.com
@@ -69030,6 +69060,7 @@ uat.convencionmoctezuma.com.mx
 uatwebsite.aithent.com
 uavlab.am
 ubeinc.com
+ubekzmjonw.com
 uberalawyer.com
 ubercentral.com.br
 ubercoupon.site
@@ -69129,7 +69160,6 @@ uhost.club
 uhrc.co.uk
 uhttravel.com
 uhuii.com
-ui.threatstream.com
 uia2020rio.archi
 uicphipsi.com
 uidp.org
@@ -71175,6 +71205,7 @@ wallet.howtolk.com
 walley.org
 wallichresidencecondosg.com
 wallistreet.com
+wallmarket.ir
 wallpaaper.xyz
 wallpapershd.xyz
 wallsorts.co.nz
@@ -73205,6 +73236,7 @@ xuperweb.com
 xuseajwd.yuhong.me
 xvirginieyylj.city
 xvkbse.com.nanjingxinglun.com
+xvobvgcssb.com
 xwai.com
 xwnmt.mjt.lu
 xwtumlso.sha58.me
@@ -74041,6 +74073,7 @@ zhasoral.kz
 zhealth.colling.hosting
 zhenskiizhurnal.ru
 zhesa.ir
+zhfhywzsmf.com
 zhguycz.com
 zhiko.ir
 zhiti.cf
@@ -74184,6 +74217,7 @@ zonemotors.ro
 zonesoftware.co
 zonexon.de
 zonguldakescortbu.xyz
+zonmumuefa.com
 zonnestroomtilburg.nl
 zoob.net
 zoodbash.com
