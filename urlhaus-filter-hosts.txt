@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Fri, 08 Nov 2019 00:12:45 UTC
+# Updated: Fri, 08 Nov 2019 12:12:47 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -3759,6 +3759,7 @@
 165.22.229.152
 165.22.229.208
 165.22.23.186
+165.22.230.152
 165.22.231.111
 165.22.231.232
 165.22.231.31
@@ -4004,6 +4005,7 @@
 167.71.237.85
 167.71.241.245
 167.71.248.156
+167.71.254.48
 167.71.3.168
 167.71.32.48
 167.71.33.137
@@ -4070,6 +4072,7 @@
 167.99.113.44
 167.99.115.182
 167.99.117.92
+167.99.119.233
 167.99.121.229
 167.99.125.11
 167.99.125.164
@@ -4434,6 +4437,7 @@
 175.107.23.253
 175.107.44.239
 175.126.98.140
+175.136.91.36
 175.137.243.255
 175.138.190.130
 175.138.99.115
@@ -5459,6 +5463,7 @@
 182.126.105.32
 182.126.232.93
 182.127.241.30
+182.127.92.221
 182.16.175.154
 182.16.29.107
 182.160.101.51
@@ -6379,6 +6384,7 @@
 185.86.149.83
 185.86.77.61
 185.86.78.254
+185.91.53.165
 185.94.172.29
 185.94.33.22
 185.96.235.210
@@ -6489,6 +6495,7 @@
 187.109.50.195
 187.11.111.168
 187.11.14.243
+187.11.15.5
 187.11.28.76
 187.11.29.27
 187.11.50.121
@@ -7249,6 +7256,7 @@
 192.108.235.35.bc.googleusercontent.com
 192.119.111.12
 192.119.111.230
+192.119.111.4
 192.119.66.148
 192.119.68.225
 192.119.87.234
@@ -10192,6 +10200,7 @@
 35.236.111.58
 35.236.137.49
 35.236.198.26
+35.236.254.185
 35.236.44.15
 35.236.94.93
 35.237.105.248
@@ -27432,6 +27441,7 @@ cy24817.tmweb.ru
 cy3.mqego.com
 cyannamercury.com
 cyberabbi.com
+cyberblox.my
 cyberbr.tk
 cyberchainpay.iamrans.com
 cybercoretechnologies.com
@@ -31262,6 +31272,7 @@ ec2-52-14-10-150.us-east-2.compute.amazonaws.com
 ec2-52-220-60-155.ap-southeast-1.compute.amazonaws.com
 ec2-52-27-72-148.us-west-2.compute.amazonaws.com
 ec2-52-50-24-225.eu-west-1.compute.amazonaws.com
+ec2-54-207-92-161.sa-east-1.compute.amazonaws.com
 ec2-54-212-231-68.us-west-2.compute.amazonaws.com
 ecadigital.com
 ecampus.mk
@@ -33947,6 +33958,7 @@ festival2019.labelledanse.net
 festivalcigar.com
 festivaldescons.fr
 festivaldubbq.fr
+festivalinternacionaldehistoria.com
 fesya2020.com
 fet.com.pk
 fet.rs
@@ -39578,6 +39590,7 @@ hvnc.info
 hvnc.pw
 hvstreit.de
 hvyiasubeqweqw.com
+hvyyda.by.files.1drv.com
 hwang88.com
 hwasungchem.co.kr
 hwayou.com.tw
@@ -41684,6 +41697,7 @@ ivicatechnology.co.zw
 ivigilante.live
 ivkin.ru
 ivoireboutique.net
+ivoireco.com
 ivpnsymposium.org
 ivsnet.org
 ivv.btwstudio.ch
@@ -45204,6 +45218,7 @@ lanele.co.za
 laneware.net
 lang-english.tk
 lang-french.tk
+langchaixua.com
 lange2011.de
 langel.ml
 langittour.com
@@ -47373,6 +47388,7 @@ mahasiswa.uin-malang.ac.id
 mahathmadentalclinic.in
 mahboobasif.com
 mahdavischool.org
+mahdehadis.ir
 mahdepardis.com
 mahdiabdullahi.ir
 mahediraj.com
@@ -48116,6 +48132,7 @@ managementtop.id
 manageone.co.th
 manageprint.in
 manager.blob.core.windows.net
+manajemen.feb.unair.ac.id
 manaku.com
 manalitravelbazaar.com
 manamekids.es
@@ -55507,6 +55524,7 @@ phimphot.tk
 phitemntech.com
 phlocks.com
 phlpride.com
+phltimberwarehouse.co.uk
 phmcsecurities.org
 phobeo.com
 phobos-comic.com
@@ -57799,6 +57817,7 @@ quantumgaming.co.za
 quantuminterior.xyz
 quantumneurology.com
 quantumplus.ml
+quantums.technology
 quarenta.eu
 quartier-midi.be
 quartz-eg.com
@@ -59983,6 +60002,7 @@ rygcapacitaciones.com
 rygconsulting.com.sv
 ryggkliniken.com
 ryghthelp.com
+rygseminarios.com
 ryiugrwrhoui6.juridico90190.com.de
 rykos.cz
 ryleco.com
@@ -65576,6 +65596,7 @@ taact.co.in
 taarefeahlalbaitam.com
 tabanway.com.tr
 tabara-general.com
+tabaraktraders.com
 tabarelli.com.br
 tabaslotbpress.com
 tabauro.com
@@ -68626,6 +68647,7 @@ trs.or.th
 trsintl.com
 trsoftwaresolutions.lbyts.com
 tru.goodvibeskicking.com
+truceordeuce.com
 truck-accidentlawyer.info
 trucker-hilfe.de
 truckerzone.net
@@ -71632,6 +71654,7 @@ websteroids.ro
 websuntangled.co.uk
 webszillatechnologies.com
 webtask.com.br
+webtechfeeders.in
 webtechits.com
 webtein.com
 webteste.pg.utfpr.edu.br
@@ -72410,6 +72433,7 @@ worldgenerator.su
 worldhealthinfo.com.ng
 worldhover.com
 worldindiaexpress.com
+worldixam.com
 worldjaquar.com
 worldkidsnews.com
 worldlifefree.info
