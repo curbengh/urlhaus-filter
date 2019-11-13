@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 13 Nov 2019 00:12:53 UTC
+! Updated: Wed, 13 Nov 2019 12:13:05 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2973,6 +2973,7 @@
 155.138.175.63
 155.138.193.119
 155.138.195.197
+155.138.198.77
 155.138.203.151
 155.138.206.153
 155.138.206.237
@@ -3337,6 +3338,7 @@
 159.203.84.111
 159.203.88.124
 159.203.9.56
+159.203.92.58
 159.203.94.72
 159.203.96.141
 159.203.98.17
@@ -3969,6 +3971,7 @@
 167.172.140.189
 167.172.225.62
 167.172.225.69
+167.172.234.250
 167.172.239.163
 167.179.117.58
 167.179.119.235
@@ -5632,6 +5635,7 @@
 185.112.250.146
 185.112.250.203
 185.112.250.215
+185.112.250.224
 185.112.250.239
 185.112.250.240
 185.112.250.241
@@ -5684,6 +5688,7 @@
 185.131.190.217
 185.131.190.25
 185.131.191.52
+185.132.53.100
 185.134.122.209
 185.134.21.75
 185.135.82.116
@@ -6306,6 +6311,7 @@
 185.35.137.144
 185.35.138.173
 185.35.64.156
+185.36.190.239
 185.36.81.43
 185.4.67.190
 185.43.4.190
@@ -6895,6 +6901,7 @@
 189.159.158.118
 189.163.114.218
 189.163.161.90
+189.163.44.7
 189.164.115.156
 189.167.48.135
 189.170.12.149
@@ -7091,6 +7098,7 @@
 190.215.252.42
 190.216.198.149
 190.217.81.217
+190.218.118.110
 190.218.74.174
 190.219.161.43
 190.219.206.182
@@ -9022,6 +9030,7 @@
 211.104.242.69
 211.104.242.73
 211.107.230.86
+211.137.225.126
 211.143.198.177
 211.143.198.180
 211.143.198.201
@@ -9997,6 +10006,7 @@
 31.211.23.240
 31.214.157.113
 31.214.157.115
+31.214.157.16
 31.214.157.169
 31.214.157.206
 31.214.157.251
@@ -12454,6 +12464,7 @@
 62.109.17.211
 62.109.18.109
 62.11.221.225
+62.113.215.237
 62.113.238.144
 62.113.238.159
 62.117.124.114
@@ -14153,6 +14164,7 @@
 88.240.61.153
 88.241.60.56
 88.244.11.55
+88.244.149.220
 88.247.132.254
 88.247.133.187
 88.247.156.108
@@ -22092,6 +22104,8 @@ bitbucket.org/esk1/apolloteam/downloads/xmrig_x64.exe
 bitbucket.org/fghrthrry/99/downloads/chrome.exe
 bitbucket.org/fiarbot/fairbot/downloads/fairbot.exe
 bitbucket.org/fiarbot/fairbot/downloads/full.exe
+bitbucket.org/forcefourth/home/downloads/setup_c.exe
+bitbucket.org/forcefourth/home/downloads/setup_m.exe
 bitbucket.org/friend1010/friend/downloads/betabot_build.exe
 bitbucket.org/friend1010/friend/downloads/bin.exe
 bitbucket.org/friend1010/friend/downloads/phemida_bin.exe
@@ -25204,9 +25218,11 @@ cdn.discordapp.com/attachments/639364328029421570/639364395734138900/XLS.OA10DA-
 cdn.discordapp.com/attachments/639364328029421570/639373111627743232/XLS.OA10DA-44AE-8CD2-AFD48FA98305_XLS.gz
 cdn.discordapp.com/attachments/639898095341142066/639951367921729576/media.exe
 cdn.discordapp.com/attachments/640702583509352502/641810938529316883/SOF3400901-E01-DV294633_du_27052019_SASRI-034324486.pdf.7z
+cdn.discordapp.com/attachments/641290995094519841/641313744202235962/1.exe
 cdn.discordapp.com/attachments/641950401318617090/642334632456486922/setup.exe
 cdn.discordapp.com/attachments/642959875680239639/643682250071867414/Assign_Documents.img
 cdn.discordapp.com/attachments/643509022309351425/643515985793646592/ENCLOSED_PAYMENT_PROOF.zip
+cdn.discordapp.com/attachments/643509022309351425/643741170626723840/MT103_SWIFT_COPY_200191121.zip
 cdn.fanyamedia.net
 cdn.fbsbx.com/v/t59.2708-21/30831868_2001421493263570_988122346738941952_n.zip/71I49N1JH7GG.zip?oh=81f42de9d61696c78f429719277283cc&oe=5AE24EE8&dl=1
 cdn.fbsbx.com/v/t59.2708-21/30831923_2004391716299881_1152363085843922944_n.zip/DOC_26-04.zip?oh=3e9b2b1fee016b3085dce0d2d5d106ae&oe=5AE4BDFE&dl=1
@@ -25700,6 +25716,7 @@ chatoursclub.com
 chatpetit.com
 chatrashow.com
 chatteriedebalmoral.ch
+chattogram.xyz
 chattogramtv.com
 chaturaayurved.com
 chaudharytour.com
@@ -25809,6 +25826,7 @@ chestandallergy.co.za
 chestnutplacejp.com
 chesworths.co.uk
 chetgreen.com
+cheucjeskalom.info
 chevalblanc.com.pk
 chevroletcantho.vn
 chevyaddict.com
@@ -26635,6 +26653,7 @@ cnbangladesh.com
 cnbinteriors.com
 cnc.alprazolam.rip
 cnc.arm7plz.xyz
+cnc.botnetrep.xyz
 cnc.dontcatch.us
 cnc.flexsecurity.xyz
 cnc.junoland.xyz
@@ -28099,6 +28118,7 @@ culturallyspeaking.net
 culturalmastery.com
 culturaonline.cl
 culture-developpement.asso.fr
+culture.kirchhoff-automotive.com
 culturensk.ru
 culturerings.com
 cultureubridge.com
@@ -33793,6 +33813,7 @@ ecnm2017.fr
 eco-chem.hr
 eco-chistka.top
 eco-developments.ca
+eco-earthworks.com
 eco-fun.ru
 eco-pur.iknwb.com
 eco-sales.ru
@@ -36361,6 +36382,7 @@ feenyks.com
 feezell.com
 fefifofit.com
 fefs.it
+feiashao.space
 feifel-soft.de
 feinsicht.de
 feiqichuli.cc
@@ -36576,8 +36598,10 @@ file-server.online
 file.botvonline.com
 file.buttsdki.ca
 file.co.uk.cjllcmonthlysub.ga
+file.fm/down.php?cf&i=3v98r36f&n=09874.doc
 file.fm/down.php?cf&i=7pnvf2d6&n=8950003198.xls
 file.fm/down.php?cf&i=ppdcgtca&n=20630716.doc
+file.fm/down.php?cf&i=xgpq5a6d&n=orderS-OB-006.doc
 file.foxitreader.cn/file/Channel/PDFShrink/PDFShrinkSetup.exe
 file.foxitreader.cn/www_file/PDFShrinkSetup.exe
 file.importantcover.uk
@@ -37019,6 +37043,7 @@ flcquynhon.net
 fleamarketfragrances.com
 flechabusretiro.com.ar
 fleetceo.com
+fleetdesk.io
 fleetia.eu
 fleetstreetstudios.co.za
 fleetwoodrvpark.com
@@ -39370,6 +39395,7 @@ go.skyyer.com
 go.xsuad.com
 go2035.ru
 go2l.ink
+goa.app
 goa.rocks
 goadvert.pk
 goaliesinc.com
@@ -42850,6 +42876,7 @@ ictlagos.tk
 ictpolicy.guide
 ictsphere.tv
 ictvacaturesachterhoek.nl
+ictzj.com
 icurse.nl
 icv.edu.au
 icwrae.astrelita.host
@@ -45812,6 +45839,7 @@ jppost-yo.co
 jppost-yu.co
 jppygfot.sha58.me
 jpqr.my
+jpro-bg.com
 jpro.jiwa-nala.org
 jpt.kz
 jptecnologia.com.br
@@ -54848,6 +54876,7 @@ namastepirineos.com
 nambar.everlast-agency.com
 namc18.com
 namcancode.ml
+namdeinvest.com
 namecard.hu
 namecheap-webmail.com
 namecheaptest.websteach.info
@@ -57374,6 +57403,7 @@ ooaisdjqiweqwe.com
 ooc.pw
 ooch.co.uk
 oochechersk.gov.by
+oocities.org/kimrimbey/AllHandouts/vocabularylists/VocabListAll.doc
 oocities.org/mx/obramaury/palmeras/cartasrpresidente.doc
 oodfloristry.com
 oohbox.pl
@@ -62097,6 +62127,7 @@ raw.githubusercontent.com/TestEdFromMyHeart/221/master/Masksim.exe
 raw.githubusercontent.com/TradeMachine/TradeCAT/master/YobitUPnet.exe
 raw.githubusercontent.com/albertsrun/Release/master/my9.exe
 raw.githubusercontent.com/ashishb/android-malware/master/Android.Malware.at_plapk.a/com.fdhgkjhrtjkjbx.model.apk
+raw.githubusercontent.com/bowker-bulger/Vruntes/master/masksim.exe
 raw.githubusercontent.com/canandemirel032/p4ys/gh-pages/dd4fy7rmh6o.avi
 raw.githubusercontent.com/cyberserkers/root/master/azx
 raw.githubusercontent.com/deaddoll123/catcher/master/ca07.dat
@@ -62333,6 +62364,7 @@ realestatesdakota.com
 realestatetexas.ddns.net
 realestatewaterviews.com
 realeverydaybusiness.com
+realgauthier.com
 realgelo.com.br
 realgen-marketing.nl
 realgen-webdesign.nl
@@ -63074,6 +63106,7 @@ risovat-prosto.ru
 rissan.ru
 rissin.jp
 ristopietila.xyz
+ristorantesonora.it
 ristrutturaitalia.com
 ritabrandao.pt
 ritaioural.com
@@ -63536,6 +63569,7 @@ rqw1qwr8qwr.com
 rrbmexico.com
 rrbyupdata.renrenbuyu.com
 rrcg.kz
+rrctech.com.br
 rrdm.co.in
 rrexkmwi.yjdata.me
 rrglobaltrade.com
@@ -71268,6 +71302,7 @@ tacoar.com.br
 tacollective.org
 tacoshermanos.fr
 tact-yl.fr
+tactical-toolbox.com
 tacticalintelligence.org
 tacticsco.com
 tadayoni.ir
@@ -78508,6 +78543,7 @@ wnssl.com
 wnunisa.com
 woaldi2.com
 woatinkwoo.com
+wodfitapparel.fr
 wodmetaldom.pl
 woelf.in
 woellhaf-it.de
@@ -80677,6 +80713,7 @@ zyz-industry.cf
 zz.8282.space
 zzajqwnewq.com
 zzanchi.com
+zzanusa.com
 zzb.kz
 zzenmarketing.com
 zzerkalo.ru
