@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 16 Nov 2019 00:13:01 UTC
+! Updated: Sat, 16 Nov 2019 12:12:51 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1212,6 +1212,7 @@
 111.90.138.223
 111.90.141.104
 111.90.147.83
+111.90.148.153
 111.90.150.149
 111.90.150.205
 111.90.151.207
@@ -2990,6 +2991,7 @@
 155.138.230.17
 155.94.152.139
 155.94.160.116
+155.94.236.160
 156.155.7.181
 156.219.166.63
 156.236.116.94
@@ -5286,6 +5288,7 @@
 179.43.128.199
 179.43.147.77
 179.43.148.217
+179.43.149.12
 179.43.149.166
 179.43.149.189
 179.50.130.37
@@ -6323,6 +6326,7 @@
 185.29.11.113
 185.29.11.126
 185.29.254.131
+185.29.54.209
 185.29.8.212
 185.30.45.58
 185.33.146.33
@@ -7518,6 +7522,7 @@
 193.70.17.7
 193.70.26.49
 193.70.26.51
+193.70.36.193
 193.70.81.236
 193.77.216.20
 193.77.43.201
@@ -7639,6 +7644,7 @@
 195.123.212.29
 195.123.213.126
 195.123.218.152
+195.123.220.160
 195.123.221.103
 195.123.227.20
 195.123.227.99
@@ -21041,6 +21047,7 @@ bbuseruploads.s3.amazonaws.com/60ced439-c88c-4323-836f-28ca90d26e15/downloads/5c
 bbuseruploads.s3.amazonaws.com/67f661cf-6d43-49fa-a928-6390536c92f1/downloads/436b55e2-bcbe-49fd-ba68-822b10c7934b/nvidia.exe?Signature=NFVZYFhJnrLPuo4qMADae%2BSdVkw%3D&Expires=1533454673&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=ERKqMttkl9u.8Ga.IAscDDS_YX.hAtRe&response-content-disposition=attachment%3B%20filename%3D%22nvidia.exe%22
 bbuseruploads.s3.amazonaws.com/67f661cf-6d43-49fa-a928-6390536c92f1/downloads/9657dca2-233f-49f5-b533-e73b8abc24cf/jardata.exe?Signature=QcFcjzcoQdKuPYTnNFxP47xNORs%3D&Expires=1533455378&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=yW2OHBJYFIWzN.D.YUXkzxgRAf.9F96a&response-content-disposition=attachment%3B%20filename%3D%22jardata.exe%22
 bbuseruploads.s3.amazonaws.com/67f661cf-6d43-49fa-a928-6390536c92f1/downloads/ef245362-93a5-4877-b1f6-e849cc89d421/amd.exe?Signature=zHPzHjhlkjyTve2556tK8pWtU%2FY%3D&Expires=1533455427&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=.IOz1Nk0AF0or8oGUQs2b0ae28B3Vf3O&response-content-disposition=attachment%3B%20filename%3D%22amd.exe%22
+bbuseruploads.s3.amazonaws.com/6bd9630e-748d-444c-b625-36d2ad516a1a/downloads/42a47981-916e-4e52-95ea-60f4a42db51d/setup_c.exe?Signature=l1fBkqPV8GFWIWlHmav0lGTNZ%2BI%3D&Expires=1573903742&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=vXRfQ.TaAd7wvlJT2bXhaFR4NgV8Rfc5&response-content-disposition=attachment%3B%20filename%3D%22setup_c.exe%22
 bbuseruploads.s3.amazonaws.com/6bf15bb2-f547-4630-8fcf-f7ebcea764b1/downloads/47f18f7f-5ec2-4855-9146-0ce223495920/Apollo_x64.exe?Signature=OThB7oFLBNWPZYIUcYKMGgyfzAE%3D&Expires=1541398445&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=akjnv2wn1gXc6jTDjTV2prPNMLgXZ6Jw&response-content-disposition=attachment%3B%20filename%3D%22Apollo_x64.exe%22
 bbuseruploads.s3.amazonaws.com/6bf15bb2-f547-4630-8fcf-f7ebcea764b1/downloads/c5d5e88e-e5d8-4956-b52a-c321d11db9b6/Apollo_x86.exe?Signature=spYaTC56usZPBqGp6yb0jlyDE3I%3D&Expires=1541398442&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=eG_fU0ErhYFZBLED6oQ3uTxkZQObGAO7&response-content-disposition=attachment%3B%20filename%3D%22Apollo_x86.exe%22
 bbuseruploads.s3.amazonaws.com/6fbd728e-bffb-4622-ab7e-fbb04f67c974/downloads/352192d6-ff96-4748-b188-3370902eb919/Rainbow%20Six%20Independent.exe?Signature=TagfJCFEG%2F25tghGFPUnKiya%2BDI%3D&Expires=1541862303&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=4SpZ2t66808U3g7UMLZHA8wX_Zf_RWYh&response-content-disposition=attachment%3B%20filename%3D%22Rainbow%2520Six%2520Independent.exe%22
@@ -22157,6 +22164,7 @@ bitbucket.org/anatoliisaharoff/rep/downloads/Setup3.exe
 bitbucket.org/anatoliisaharoff/rep/downloads/Setup4.exe
 bitbucket.org/anatoliisaharoff/rep/downloads/big.exe
 bitbucket.org/anatoliisaharoff/rep/downloads/lood.exe
+bitbucket.org/areabecome/cloude/downloads/setup_c.exe
 bitbucket.org/awesomeapplication/awesomeapplication/downloads/PYTrade.exe
 bitbucket.org/barry892/2/downloads/Apollo_x64.exe
 bitbucket.org/bazar2019/downloads/downloads/CLIPPER.exe
@@ -22615,6 +22623,7 @@ blog.autoridadefitness.com
 blog.batalk.fun
 blog.bctianfu.cn
 blog.beginningelastic.com
+blog.begumnazli.com
 blog.beletage.ro
 blog.bellerbyandco.com
 blog.beramaljariyah.org
@@ -25185,6 +25194,7 @@ cdn.discordapp.com/attachments/483351832173871133/483363777711046656/walmaaaaart
 cdn.discordapp.com/attachments/484289881942786049/484672038112591882/dcad3069268a3307.exe
 cdn.discordapp.com/attachments/488214005299544074/602961357847003210/Noragami_Sz.exe
 cdn.discordapp.com/attachments/491921422181203978/547571357785784320/Debug.rar
+cdn.discordapp.com/attachments/492206903632330755/558329379009069076/raf.exe
 cdn.discordapp.com/attachments/493720209014915074/618065969746804786/SkypeHost.jpg
 cdn.discordapp.com/attachments/493798023009271809/510489109207449600/Invoice.doc
 cdn.discordapp.com/attachments/494117184725975071/494122059736023053/samp.exe
@@ -41557,6 +41567,7 @@ hidge.net
 hidrofire.greenstudio.co
 hidrogadget.com
 hidroingenieria.com.pe
+hidrojatobrasil.com.br
 hidroterapiadecolonmoderna.com
 hieber-stgt.de
 hiedbooks.vn
@@ -52448,6 +52459,7 @@ medialteam.de
 mediamatters.info
 mediamouse.com.au
 medianabolivia.com
+medianews.ge
 mediaprecies.online
 mediariser.com
 mediaritm.com.ua
@@ -55069,6 +55081,7 @@ nagoyan.fun
 nagpur.awgp.org
 nagpurdirectory.org
 nahalbazr.com
+nahrungsmittel.ml
 nahuelko.cl
 naicrose.com
 naifan222.com
@@ -55825,6 +55838,7 @@ newupdatindef.info
 newuvolume2.com
 newvirtual360.com
 newwater-my.sharepoint.com
+newwavesshoes.tools
 newwayglobal.net
 newwayit.vn
 newwebsite.smex.org
@@ -56412,6 +56426,7 @@ notariareyes.pe
 notarius.kharkiv.ua
 notarius40.ru
 notariusz-balas.pl
+notariuszswietochlowice.pl
 note.youdao.com/yws/api/personal/file/WEB3a243b322cf83ca7cae587a92916bac7?method=download&inline=true&shareKey=649ac0bb5d5b13d15cbf50b2609e193a
 note.youdao.com/yws/api/personal/file/WEBb6b3acba5104f41c9b364680f28de9f9?method=download&inline=true&shareKey=c5aa6f51dffffee47d0ee728d894f348
 notehashtom.ir
@@ -58652,6 +58667,7 @@ pastebin.com/raw/A8e40C8J
 pastebin.com/raw/AE0Fn9qQ
 pastebin.com/raw/CM22vTup
 pastebin.com/raw/CY2EEMJN
+pastebin.com/raw/CZrRXG1E
 pastebin.com/raw/Cn5v4VK0
 pastebin.com/raw/D1Bjgv8a
 pastebin.com/raw/D9V1HJmM
@@ -58670,6 +58686,7 @@ pastebin.com/raw/HX72131y
 pastebin.com/raw/HtbKk3tV
 pastebin.com/raw/JaerZWSQ
 pastebin.com/raw/JdTuFmc5
+pastebin.com/raw/Jk83kEqi
 pastebin.com/raw/JmC5V5as
 pastebin.com/raw/KN4bbgRm
 pastebin.com/raw/L5DrSWri
@@ -58689,6 +58706,7 @@ pastebin.com/raw/SpihegJk
 pastebin.com/raw/SsR5h3vf
 pastebin.com/raw/T4kLHbMZ/
 pastebin.com/raw/TNnFtBjw
+pastebin.com/raw/TZz8928z
 pastebin.com/raw/TqNik0Yd
 pastebin.com/raw/TqTpj30L
 pastebin.com/raw/U5LwXtVY
@@ -58730,6 +58748,7 @@ pastebin.com/raw/kbPPLSbN
 pastebin.com/raw/kjKci9J8
 pastebin.com/raw/kjNYaw6G
 pastebin.com/raw/krn3bWkf
+pastebin.com/raw/m6mLXAjm
 pastebin.com/raw/ng1agnTh
 pastebin.com/raw/nv5d9pYu
 pastebin.com/raw/phbZu0vK
@@ -59605,6 +59624,7 @@ pingo.id
 pingservhost.info
 pingstate.com
 pingtelecom.eu
+pingup.ir
 pingwersen.com
 pingxianghk.com
 pinheirotraldi.com.br
@@ -62565,6 +62585,7 @@ rcsdfoundation.com
 rctglobal-my.sharepoint.com
 rcti.web.id
 rcube.co.in
+rcw-lb.com
 rcxmail.com
 rcy.owak-kmyt.ru
 rdabih.org
@@ -68264,6 +68285,7 @@ sproutsschools.org
 sproutssolutions.com
 sprucatia.info
 spruce.live
+sprucedale.ca
 spruituitjes.nl
 spscdhaka.edu.bd
 spschool.tk

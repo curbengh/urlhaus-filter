@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sat, 16 Nov 2019 00:13:01 UTC
+# Updated: Sat, 16 Nov 2019 12:12:51 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -1211,6 +1211,7 @@
 111.90.138.223
 111.90.141.104
 111.90.147.83
+111.90.148.153
 111.90.150.149
 111.90.150.205
 111.90.151.207
@@ -2989,6 +2990,7 @@
 155.138.230.17
 155.94.152.139
 155.94.160.116
+155.94.236.160
 156.155.7.181
 156.219.166.63
 156.236.116.94
@@ -5285,6 +5287,7 @@
 179.43.128.199
 179.43.147.77
 179.43.148.217
+179.43.149.12
 179.43.149.166
 179.43.149.189
 179.50.130.37
@@ -6322,6 +6325,7 @@
 185.29.11.113
 185.29.11.126
 185.29.254.131
+185.29.54.209
 185.29.8.212
 185.30.45.58
 185.33.146.33
@@ -7517,6 +7521,7 @@
 193.70.17.7
 193.70.26.49
 193.70.26.51
+193.70.36.193
 193.70.81.236
 193.77.216.20
 193.77.43.201
@@ -7638,6 +7643,7 @@
 195.123.212.29
 195.123.213.126
 195.123.218.152
+195.123.220.160
 195.123.221.103
 195.123.227.20
 195.123.227.99
@@ -22236,6 +22242,7 @@ blog.autoridadefitness.com
 blog.batalk.fun
 blog.bctianfu.cn
 blog.beginningelastic.com
+blog.begumnazli.com
 blog.beletage.ro
 blog.bellerbyandco.com
 blog.beramaljariyah.org
@@ -38952,6 +38959,7 @@ hidge.net
 hidrofire.greenstudio.co
 hidrogadget.com
 hidroingenieria.com.pe
+hidrojatobrasil.com.br
 hidroterapiadecolonmoderna.com
 hieber-stgt.de
 hiedbooks.vn
@@ -49461,6 +49469,7 @@ medialteam.de
 mediamatters.info
 mediamouse.com.au
 medianabolivia.com
+medianews.ge
 mediaprecies.online
 mediariser.com
 mediaritm.com.ua
@@ -52026,6 +52035,7 @@ nagoyan.fun
 nagpur.awgp.org
 nagpurdirectory.org
 nahalbazr.com
+nahrungsmittel.ml
 nahuelko.cl
 naicrose.com
 naifan222.com
@@ -52767,6 +52777,7 @@ newupdatindef.info
 newuvolume2.com
 newvirtual360.com
 newwater-my.sharepoint.com
+newwavesshoes.tools
 newwayglobal.net
 newwayit.vn
 newwebsite.smex.org
@@ -53354,6 +53365,7 @@ notariareyes.pe
 notarius.kharkiv.ua
 notarius40.ru
 notariusz-balas.pl
+notariuszswietochlowice.pl
 notehashtom.ir
 notequeen.com
 notes.egytag.com
@@ -56175,6 +56187,7 @@ pingo.id
 pingservhost.info
 pingstate.com
 pingtelecom.eu
+pingup.ir
 pingwersen.com
 pingxianghk.com
 pinheirotraldi.com.br
@@ -58989,6 +59002,7 @@ rcsdfoundation.com
 rctglobal-my.sharepoint.com
 rcti.web.id
 rcube.co.in
+rcw-lb.com
 rcxmail.com
 rcy.owak-kmyt.ru
 rdabih.org
@@ -64436,6 +64450,7 @@ sproutsschools.org
 sproutssolutions.com
 sprucatia.info
 spruce.live
+sprucedale.ca
 spruituitjes.nl
 spscdhaka.edu.bd
 spschool.tk
