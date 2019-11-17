@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sun, 17 Nov 2019 00:12:54 UTC
+# Updated: Sun, 17 Nov 2019 12:12:52 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -4427,6 +4427,7 @@
 173.249.49.90
 173.249.51.121
 173.249.54.12
+173.25.113.8
 173.254.192.169
 173.27.128.198
 173.30.17.89
@@ -5750,6 +5751,7 @@
 185.142.98.41
 185.144.100.123
 185.144.156.59
+185.144.157.157
 185.144.157.96
 185.144.158.228
 185.144.159.15
@@ -7322,6 +7324,7 @@
 192.119.111.12
 192.119.111.230
 192.119.111.4
+192.119.115.75
 192.119.66.148
 192.119.68.225
 192.119.74.81
@@ -7511,6 +7514,7 @@
 193.37.214.15
 193.37.70.218
 193.41.78.207
+193.56.28.103
 193.56.28.126
 193.56.28.14
 193.56.28.144
@@ -7786,6 +7790,7 @@
 198.12.97.71
 198.12.97.72
 198.12.97.73
+198.12.97.74
 198.12.97.75
 198.12.97.76
 198.12.97.78
@@ -9031,6 +9036,7 @@
 21.me.uk
 210.105.126.232
 210.113.48.59
+210.126.15.27
 210.16.101.51
 210.16.102.43
 210.204.167.215
@@ -9499,6 +9505,7 @@
 221.159.41.119
 221.161.40.223
 221.167.229.24
+221.210.211.148
 221.226.86.151
 221.229.31.214
 221.232.181.186
@@ -52714,6 +52721,7 @@ newmarketing.no
 newmarkettowing.ca
 newmillerhvac.com
 newmix.top
+newnight.com.tr
 newnow.com.tw
 newoffices.xyz
 newparadise.com.vn
@@ -53770,6 +53778,7 @@ occn-asecna.org
 occulu.com
 occupationspace.com
 oceacondotel.com
+ocean-v.com
 ocean-web.biz
 oceanavenue.it
 oceangate.parkhomes.vn

@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 17 Nov 2019 00:12:54 UTC
+! Updated: Sun, 17 Nov 2019 12:12:52 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -4428,6 +4428,7 @@
 173.249.49.90
 173.249.51.121
 173.249.54.12
+173.25.113.8
 173.254.192.169
 173.27.128.198
 173.30.17.89
@@ -5751,6 +5752,7 @@
 185.142.98.41
 185.144.100.123
 185.144.156.59
+185.144.157.157
 185.144.157.96
 185.144.158.228
 185.144.159.15
@@ -7323,6 +7325,7 @@
 192.119.111.12
 192.119.111.230
 192.119.111.4
+192.119.115.75
 192.119.66.148
 192.119.68.225
 192.119.74.81
@@ -7512,6 +7515,7 @@
 193.37.214.15
 193.37.70.218
 193.41.78.207
+193.56.28.103
 193.56.28.126
 193.56.28.14
 193.56.28.144
@@ -7787,6 +7791,7 @@
 198.12.97.71
 198.12.97.72
 198.12.97.73
+198.12.97.74
 198.12.97.75
 198.12.97.76
 198.12.97.78
@@ -9043,6 +9048,7 @@
 21.me.uk
 210.105.126.232
 210.113.48.59
+210.126.15.27
 210.16.101.51
 210.16.102.43
 210.204.167.215
@@ -9511,6 +9517,7 @@
 221.159.41.119
 221.161.40.223
 221.167.229.24
+221.210.211.148
 221.226.86.151
 221.229.31.214
 221.232.181.186
@@ -25154,6 +25161,7 @@ cdn.discordapp.com/attachments/328201637032099840/452788643220684810/pkl7.0.exe
 cdn.discordapp.com/attachments/330023129223135232/331132862625611786/powerproductions.exe
 cdn.discordapp.com/attachments/341940792253874176/341940874445455360/MJnwem2Rzu0.exe
 cdn.discordapp.com/attachments/358454190642823168/358454276252499968/test.exe
+cdn.discordapp.com/attachments/359657881357910016/476821371897380895/jopa.exe
 cdn.discordapp.com/attachments/360637646495809538/367538700911116288/LMAOBox.exe
 cdn.discordapp.com/attachments/361560694593945603/361921483959828490/injector.exe
 cdn.discordapp.com/attachments/366142357034500098/439388650581786634/Windows_Patch_Guard_.exe
@@ -25313,6 +25321,7 @@ cdn.discordapp.com/attachments/603634568213561384/603669977748340739/saint-1.0-j
 cdn.discordapp.com/attachments/604267973116428298/604269060762501121/Server1.exe
 cdn.discordapp.com/attachments/604946752826638346/604948715865767952/GOLOSOVANIE.exe
 cdn.discordapp.com/attachments/605716973946404884/605721453257687053/warst.exe
+cdn.discordapp.com/attachments/606197629155803136/606203209505046535/964b1da45734e393.bat
 cdn.discordapp.com/attachments/606212996922081302/606565863390445620/www.exe
 cdn.discordapp.com/attachments/606606785704624131/606628524820004874/We_have_a_new_delivery_for_you.exe
 cdn.discordapp.com/attachments/609777838069121041/609777878569189392/anticheat.exe
@@ -25325,6 +25334,8 @@ cdn.discordapp.com/attachments/621840654749663237/622266166353592321/f.exe
 cdn.discordapp.com/attachments/622940298062069784/622940532041318402/RFQOM1909-13.gz
 cdn.discordapp.com/attachments/626154810466369566/626873398651256832/0caaefecf2d9dd70.exe
 cdn.discordapp.com/attachments/627945604818927619/627946827152621591/Akelas_Gen.exe
+cdn.discordapp.com/attachments/630911118843576320/643723679376605184/bbuild1.exe
+cdn.discordapp.com/attachments/630911118843576320/643861341907451974/buildlk4.exe
 cdn.discordapp.com/attachments/632439259122630677/638315129028608005/AWB-7739-993882-0009-439-110919-6822-HTED.pdf.gz
 cdn.discordapp.com/attachments/632864244857307157/635779797041283083/Scanned-IMG-PO_EDB2944-Doc-2019-21-10-PDF.7z
 cdn.discordapp.com/attachments/632878200921391150/632878615306174494/-_.exe
@@ -55776,6 +55787,7 @@ newmarketing.no
 newmarkettowing.ca
 newmillerhvac.com
 newmix.top
+newnight.com.tr
 newnow.com.tw
 newoffices.xyz
 newparadise.com.vn
@@ -56849,6 +56861,7 @@ occn-asecna.org
 occulu.com
 occupationspace.com
 oceacondotel.com
+ocean-v.com
 ocean-web.biz
 oceanavenue.it
 oceangate.parkhomes.vn
@@ -58677,11 +58690,14 @@ pastebin.com/raw/5Xq2Gj3W
 pastebin.com/raw/6HZv2hXc
 pastebin.com/raw/78rAkiHr
 pastebin.com/raw/7GT7JVC6
+pastebin.com/raw/82NPcP37
+pastebin.com/raw/8QhXA4yk
 pastebin.com/raw/8Zh9yNMF
 pastebin.com/raw/9N5Dq3w8
 pastebin.com/raw/9see7UfF
 pastebin.com/raw/A8e40C8J
 pastebin.com/raw/AE0Fn9qQ
+pastebin.com/raw/C0HDGynb
 pastebin.com/raw/CM22vTup
 pastebin.com/raw/CY2EEMJN
 pastebin.com/raw/CZrRXG1E
@@ -58701,14 +58717,17 @@ pastebin.com/raw/GNmcnAL3
 pastebin.com/raw/GVq1pR1U
 pastebin.com/raw/HX72131y
 pastebin.com/raw/HtbKk3tV
+pastebin.com/raw/J6sSHq71
 pastebin.com/raw/JaerZWSQ
 pastebin.com/raw/JdTuFmc5
 pastebin.com/raw/Jk83kEqi
 pastebin.com/raw/JmC5V5as
 pastebin.com/raw/KN4bbgRm
+pastebin.com/raw/KgNuSJT8
 pastebin.com/raw/L5DrSWri
 pastebin.com/raw/LDdW1ffH
 pastebin.com/raw/LwmR5Ax3
+pastebin.com/raw/M5vupjxv
 pastebin.com/raw/M5ybFueL
 pastebin.com/raw/NKg9bQQA
 pastebin.com/raw/NYPyRGCL
@@ -58718,6 +58737,7 @@ pastebin.com/raw/Q0E8fdwn
 pastebin.com/raw/Q8Tr0y9G
 pastebin.com/raw/Q8tGJt1V
 pastebin.com/raw/Qx0K2baN
+pastebin.com/raw/R0fNyc4T
 pastebin.com/raw/SpWFxEhr
 pastebin.com/raw/SpihegJk
 pastebin.com/raw/SsR5h3vf
@@ -58728,6 +58748,7 @@ pastebin.com/raw/TqNik0Yd
 pastebin.com/raw/TqTpj30L
 pastebin.com/raw/U5LwXtVY
 pastebin.com/raw/UDJxdggR
+pastebin.com/raw/UvZLsLGi
 pastebin.com/raw/VzFYiLW9
 pastebin.com/raw/W7wdpmyf
 pastebin.com/raw/XhFPmhEW
@@ -58735,12 +58756,14 @@ pastebin.com/raw/XrBgrev5
 pastebin.com/raw/XsN26VB7
 pastebin.com/raw/Y7UjMvHd
 pastebin.com/raw/Ykp5RF2D
+pastebin.com/raw/Z5qQ0ie8
 pastebin.com/raw/ZPXjnBLc
 pastebin.com/raw/ZU7beYdK
 pastebin.com/raw/ZpGRinae
 pastebin.com/raw/ZsWQg7Up
 pastebin.com/raw/a816Nq2Q
 pastebin.com/raw/aWM30tW9
+pastebin.com/raw/bk5MFdXf
 pastebin.com/raw/c1M7bSdB
 pastebin.com/raw/cE3wg3Mc
 pastebin.com/raw/cLGxne7W
@@ -58783,6 +58806,7 @@ pastebin.com/raw/u8DEvTmL
 pastebin.com/raw/vCka2r6A
 pastebin.com/raw/vXpe74L2
 pastebin.com/raw/vb8yZXjq
+pastebin.com/raw/vrTtj4sx
 pastebin.com/raw/w3sJyC99
 pastebin.com/raw/wDvPz4jU
 pastebin.com/raw/wfiKQEy4
@@ -58793,6 +58817,7 @@ pastebin.com/raw/yrDF1YCq
 pastebin.com/raw/yvyE642L
 pastebin.com/raw/yy30ZSfm
 pastebin.com/raw/zTbe7wFc
+pastebin.com/raw/zde6dFKC
 pasteboard.co/images/HHKrjPX.jpg/download
 pasteboard.co/images/HIzhg49.jpg/download
 pasteboard.co/images/HLNMUsd.png/download
