@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 20 Nov 2019 00:12:41 UTC
+! Updated: Wed, 20 Nov 2019 12:14:49 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -535,6 +535,7 @@
 104.168.190.82
 104.168.195.250
 104.168.198.208
+104.168.201.35
 104.168.201.47
 104.168.204.214
 104.168.204.23
@@ -5677,6 +5678,7 @@
 185.112.250.203
 185.112.250.205
 185.112.250.215
+185.112.250.221
 185.112.250.224
 185.112.250.239
 185.112.250.240
@@ -7378,6 +7380,7 @@
 192.210.146.35
 192.210.146.45
 192.210.146.54
+192.210.180.166
 192.210.214.166
 192.210.214.199
 192.210.214.254
@@ -12134,6 +12137,7 @@
 51.77.210.97
 51.77.225.113
 51.77.225.118
+51.77.225.5
 51.77.245.82
 51.77.95.121
 51.77.95.123
@@ -17514,6 +17518,7 @@ alphasudvtc.fr
 alphaterapi.no
 alphatronic.com.my
 alphauniverse-mea2.com
+alphoreswdc.in
 alpina-expert.pl
 alpinaemlak.com
 alpinecare.co.uk
@@ -21898,6 +21903,7 @@ biegtkaczy.cba.pl
 bielden.net
 bienangel.com
 bienbaogiaothong.top
+bienesraicesvictoria.com
 biengrandir37.com
 bienhaitien.com
 bienhieutrongnha.com
@@ -25344,6 +25350,7 @@ cdn.discordapp.com/attachments/552530638843150356/552711022163656724/nl.exe
 cdn.discordapp.com/attachments/552723946735403008/553782079192825856/ValGen.rar
 cdn.discordapp.com/attachments/553235098049314846/554027529724493834/DTSv42.exe
 cdn.discordapp.com/attachments/561650724673421314/561661819333378078/Chip_Manager.exe
+cdn.discordapp.com/attachments/570649031038992414/606840890593509386/va.exe
 cdn.discordapp.com/attachments/571283361541390356/605829616111976448/cb1c129ca14d8046.exe
 cdn.discordapp.com/attachments/573174964400947221/573176997740675102/11.exe
 cdn.discordapp.com/attachments/574321395094519809/574614788202561537/onetap.su_crack1.exe
@@ -25355,6 +25362,7 @@ cdn.discordapp.com/attachments/580402213478989835/580402374842122268/next_rp.exe
 cdn.discordapp.com/attachments/586809470492082189/637605916417720320/funny_meme
 cdn.discordapp.com/attachments/588179819972395029/588871215666692096/GEE.exe
 cdn.discordapp.com/attachments/588179819972395029/588874572926025729/out-1445440753.hta
+cdn.discordapp.com/attachments/588286158258307072/610861960275427372/server.jpg.exe
 cdn.discordapp.com/attachments/590617225833218058/602442562417983508/rat.exe
 cdn.discordapp.com/attachments/593100084615315456/607170896389472267/FREEQN.exe
 cdn.discordapp.com/attachments/595421777279320067/616848894969774081/RFQ_JVJS.ace
@@ -25426,6 +25434,7 @@ cdn.discordapp.com/attachments/639898095341142066/639951367921729576/media.exe
 cdn.discordapp.com/attachments/640702583509352502/641810938529316883/SOF3400901-E01-DV294633_du_27052019_SASRI-034324486.pdf.7z
 cdn.discordapp.com/attachments/641290995094519841/641313744202235962/1.exe
 cdn.discordapp.com/attachments/641950401318617090/642334632456486922/setup.exe
+cdn.discordapp.com/attachments/642298409394634775/646273266041880596/Quotation_Pl-109-2019.tar.gz
 cdn.discordapp.com/attachments/642959875680239639/643682250071867414/Assign_Documents.img
 cdn.discordapp.com/attachments/643490154576740352/644103335401619466/Scanned131119.zip
 cdn.discordapp.com/attachments/643502182473269259/644420414617026560/sales_contract56432897611_____pdf.gz
@@ -25436,6 +25445,9 @@ cdn.discordapp.com/attachments/643536609689468968/645952392566800404/emailling_s
 cdn.discordapp.com/attachments/643600184579850271/643601185462288395/FreeDiscordNitro.exe
 cdn.discordapp.com/attachments/644350090311368705/645872071162986496/Assigin_Document.img
 cdn.discordapp.com/attachments/644441640345403413/644441978016366592/TT_hzl_kopya_pdf_________________________.zip
+cdn.discordapp.com/attachments/645260599810588700/646369720366268426/video_2019-11-05_17-23-18.mp4.scr
+cdn.discordapp.com/attachments/646150655886491651/646169619106758656/DHL_AWB_NO_5011043111pdf.lzh
+cdn.discordapp.com/attachments/646464906396434445/646465074508070932/PO187144_Urgent_Request_Quote_Best_Price.gz
 cdn.fanyamedia.net
 cdn.fbsbx.com/v/t59.2708-21/30831868_2001421493263570_988122346738941952_n.zip/71I49N1JH7GG.zip?oh=81f42de9d61696c78f429719277283cc&oe=5AE24EE8&dl=1
 cdn.fbsbx.com/v/t59.2708-21/30831923_2004391716299881_1152363085843922944_n.zip/DOC_26-04.zip?oh=3e9b2b1fee016b3085dce0d2d5d106ae&oe=5AE4BDFE&dl=1
@@ -25885,6 +25897,7 @@ characterthelight.jp
 charavoilebzh.org
 charcalla.com
 charest-orthophonie.ca
+chargelity.pl
 chargement-document.icu
 chargement-document.pro
 chargement-pro.icu
@@ -30076,6 +30089,7 @@ dev.umasterov.org
 dev.vistacomm.com
 dev.vivaomundodigital.com.br
 dev.wakeup.systems
+dev.wellcorp.com
 dev.westernverify.com
 dev.wheelhouseit.com
 dev.whereplane.com
@@ -30535,6 +30549,7 @@ digitechnohub.com
 digitek.co.id
 digiter.es
 digitfile.ir
+digitgenics.com
 digitop.ooo
 digitour.top
 digitrade-intl.com
@@ -31866,6 +31881,7 @@ dogunetajans.com
 dogustarmobilya.com
 dogway.ru
 dohka44.web-master-2018.pp.ua
+doibietchangconchi8899.com
 doimoicongngheviet.com
 doinothientrieu.com
 doithuong.info
@@ -33664,6 +33680,7 @@ dropbox.com/s/2c48byv1gjg9wpr/Payment%20Slip%20Copy.tbz2?dl=1
 dropbox.com/s/2gjbjqii34dqsu7/PO.doc?dl=1
 dropbox.com/s/2iddeqbnl1redaw/Chrome_72.3.37.js?dl=1
 dropbox.com/s/2k5wdkklvpl4ctm/Revised%20Proforma.ace?dl=1
+dropbox.com/s/2kn30ouin5i04r4/PO442df9bc210ac.xlsb?dl=1
 dropbox.com/s/2lpur5zkwn3hta3/Purchase_order713A730.pdf.z?dl=1
 dropbox.com/s/2lzxmxcbzpuhywk/QUOTATIONS.DOC.Z.zip?dl=1
 dropbox.com/s/2rf7ry7dwx1qmp8/INV.ISO?dl=1
@@ -34721,6 +34738,7 @@ ecf23.eu
 ecgroup.com.tw
 echaintool.info
 echelona.net
+echoclassroom.com
 echophotography.org
 echosystem.ru
 echotherapie.com
@@ -40386,6 +40404,7 @@ gobossfashionwear.com
 gocarloans.com.au
 gocbaohiem.com
 gocbd.club
+gocleaner-bar.tech
 gocmuahang.com
 gocnho.vn
 gocongo.cd
@@ -41678,6 +41697,7 @@ handyworksone.com
 hangang.com.ua
 hangaroundapp.cubettech.in
 hangdandung.com
+hangduc24h.com
 hangharmas.hu
 hanginthere.life
 hangkhogiavi.com
@@ -41742,6 +41762,7 @@ happyfava.com
 happyfeetpreschool.co.in
 happyfishcompany.com
 happygardenwillstonpark.com
+happyguty.com
 happyinviting.com
 happylife777.ru
 happymemories.pt
@@ -44082,6 +44103,7 @@ iicsdelhi.org
 iidl.info
 iien.ir
 iimmpune.in
+iimtgroupeducation.info
 iipcinternational.com
 iiql34hie2224684.cavaleira6.xyz
 iiql34hie2623277.cavaleira6.xyz
@@ -44523,6 +44545,7 @@ indirimpazarim.com
 indiscriminate.co.uk
 indkoko.xyz
 indo-line.com
+indobola88.org
 indocatra.co.id
 indocinemax21.com
 indodentist.com
@@ -45688,6 +45711,7 @@ iverson55.ml
 ivglavsnab.ru
 ivicatechnology.co.zw
 ivigilante.live
+ivisionhealth.com
 ivkin.ru
 ivoireboutique.net
 ivoireco.com
@@ -46470,6 +46494,7 @@ jobmalawi.com
 jobmall.co.ke
 jobmuslim.com
 jobnest.in
+jobokutokel.jeparakab.go.id
 jobs.achievercs.com
 jobs.experis.co.il
 jobs.spyreporters.com
@@ -46671,6 +46696,7 @@ josuke.net
 jotaefe.cl
 jotaortega.com
 joueraucasino.net
+joufhs.net
 jounsenurf.com
 journal.noesa.co.id
 journal.tgeeks.co.tz
@@ -47364,6 +47390,7 @@ karamaria.com
 karamba.pw
 karamed.ir
 karamina.com
+karanrajesh.london
 karaoke-flat.com
 karaoke-honeybee.com
 karapatas-olivepress.gr
@@ -51073,6 +51100,7 @@ lumina.it
 luminanza.com.br
 luminarycare.com
 luminohellas.gr
+luminoushomeinspection.com
 luminousinvestment.com
 lumnus.com.br
 lumoura.com
@@ -52114,6 +52142,7 @@ makerlabs.mx
 makescreatures.com
 maket.pro
 maketheswitch.ca
+makeupartisthub.com
 makeupartistinmiami.com
 makeupbyolivia.co.uk
 makeupbysinead.com
@@ -52828,6 +52857,7 @@ mastergromov.ru
 masteringbuildltd.co.uk
 masteringdesignsonline.com
 masterlabphoto.com
+mastermindescapetheroomgame.com
 mastermixco.com
 masternotebooks.com
 masteronare.com
@@ -55108,6 +55138,7 @@ mroneagrofarm.com
 mrpak.ariyotehranbartar.com
 mrpiratz.com
 mrquick.co.il
+mrsconnect.org
 mrsdiggs.com
 mrsgiggles.com
 mrshare.info
@@ -57416,6 +57447,7 @@ nucuoihalong.com
 nudebeautiful.net
 nudgepartners.co.nz
 nuesamouau.com
+nuevaley.cl
 nuevasoportunidades.net
 nuevida.se
 nuevo.napolestapatiofc.mx
@@ -59549,6 +59581,7 @@ pastebin.com/raw/PGEcvceN
 pastebin.com/raw/Q0E8fdwn
 pastebin.com/raw/Q8Tr0y9G
 pastebin.com/raw/Q8tGJt1V
+pastebin.com/raw/QndVDCqj
 pastebin.com/raw/Qx0K2baN
 pastebin.com/raw/R0fNyc4T
 pastebin.com/raw/SpWFxEhr
@@ -59563,6 +59596,7 @@ pastebin.com/raw/U5LwXtVY
 pastebin.com/raw/U9Z6F7mE
 pastebin.com/raw/UDJxdggR
 pastebin.com/raw/UvZLsLGi
+pastebin.com/raw/V6tYzga4
 pastebin.com/raw/VzFYiLW9
 pastebin.com/raw/W7wdpmyf
 pastebin.com/raw/XhFPmhEW
@@ -59631,6 +59665,7 @@ pastebin.com/raw/vXpe74L2
 pastebin.com/raw/vb8yZXjq
 pastebin.com/raw/vrTtj4sx
 pastebin.com/raw/w3sJyC99
+pastebin.com/raw/w584MLzt
 pastebin.com/raw/wAJgxNYP
 pastebin.com/raw/wDvPz4jU
 pastebin.com/raw/wfiKQEy4
@@ -59829,6 +59864,7 @@ pcengine.ru
 pcf08.com
 pcgame.cdn0.hf-game.com
 pcgestion.com
+pcginsure.com
 pcgroup.vn
 pcgroups.in
 pchelpportal.ru
@@ -61035,6 +61071,7 @@ poppensieker.org
 popup.hu
 popup.liveintensiv.ru
 popyinz.cf
+porangna.com
 porashonaapp.com
 porat-ins.co.il
 porcelanafriapasoapaso.com
@@ -63973,6 +64010,7 @@ respectsolution.com/wp-admin/0d0572/
 respectsolution.com/wp-admin/css/3yvg/
 responsitivity.com
 responsivepixels.co.uk
+resq-today.com
 ressamatos.com
 ressourcesetassurances.fr
 rest-tv.top
@@ -66536,6 +66574,7 @@ sellhomesinvenice.com
 sellingproducts.club
 sellitti.com
 sellkorbo.com
+sellusedgym.com
 sellyourlcds.com
 sellyp.duckdns.org
 selvelone.com
@@ -73412,6 +73451,7 @@ tenusitidi.com
 tenutamose.ml
 teo.solutions
 teoriademae.com
+teorija.rs
 tepadi.mx
 tepeas.com
 tepingost.ug
@@ -74801,6 +74841,7 @@ tochkae.ru
 toclound.com
 tocsm.ru
 toctranvan-xuyentay-quangnam.com
+todayalbanianews.info
 todaylink.tk
 todaynews9.in
 todayoffernews.com
@@ -80927,6 +80968,7 @@ xwnmt.mjt.lu
 xwtumlso.sha58.me
 xxcrossconcept.com
 xxlempire.info
+xxoo.tm
 xxvmiud489716612.hostwebfree.site
 xxwl.kuaiyunds.com
 xxwrmw.info
