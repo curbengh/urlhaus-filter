@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 23 Nov 2019 00:07:46 UTC
+! Updated: Sat, 23 Nov 2019 12:07:45 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -203,6 +203,7 @@
 1001-territoires.fr
 1001tur-tver.ru
 100alternance.fr
+101.0.102.122
 101.100.175.130
 101.108.169.205
 101.128.72.166
@@ -2489,6 +2490,7 @@
 142.11.193.12
 142.11.194.239
 142.11.195.229
+142.11.199.147
 142.11.199.235
 142.11.205.42
 142.11.206.115
@@ -2763,6 +2765,7 @@
 144.217.18.44
 144.217.201.30
 144.217.241.195
+144.217.242.217
 144.217.43.222
 144.217.84.36
 144.48.82.67
@@ -21158,6 +21161,7 @@ bbuseruploads.s3.amazonaws.com/6fbd728e-bffb-4622-ab7e-fbb04f67c974/downloads/71
 bbuseruploads.s3.amazonaws.com/6fbd728e-bffb-4622-ab7e-fbb04f67c974/downloads/863b9b9a-9775-4290-a963-4cb21846db29/services.exe?Signature=XdKxKl0pW9eedmNAnv0DFD34TP4%3D&Expires=1541862283&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=OtHC6rlF9JcYHsfRGcIjXsSi3GvTjkDS&response-content-disposition=attachment%3B%20filename%3D%22services.exe%22
 bbuseruploads.s3.amazonaws.com/6fbd728e-bffb-4622-ab7e-fbb04f67c974/downloads/d3f5dfe6-27a2-4b9c-9fef-7f229975939a/lmndwl.exe?Signature=avTPj1GYPrrcuW3mbLsr%2FUPeAEI%3D&Expires=1541862293&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=EiCwmif.jIE6cPs4e.kBfYdZQp7GGOzl&response-content-disposition=attachment%3B%20filename%3D%22lmndwl.exe%22
 bbuseruploads.s3.amazonaws.com/6fbd728e-bffb-4622-ab7e-fbb04f67c974/downloads/d9952e58-1338-46bf-b8f6-da93be2c2640/refund-mpgh.exe?Signature=HZ54PIL7EiCu07v15M1KtTzLNeU%3D&Expires=1541862296&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=NmA.OXxAAfoSDOZrDbmuB1nkt8kBer2y&response-content-disposition=attachment%3B%20filename%3D%22refund-mpgh.exe%22
+bbuseruploads.s3.amazonaws.com/88b3cf9e-82b0-44d3-b6ab-5788942e8a31/downloads/d5240168-0a35-4512-b7a1-74e61f94385d/setup_c.exe?Signature=THEBbkr0ZZI%2BKlLi5jS1IWLkBv0%3D&Expires=1574508116&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=379F_4G5zPC90jY6s4lWn4TXgNI_c853&response-content-disposition=attachment%3B%20filename%3D%22setup_c.exe%22
 bbuseruploads.s3.amazonaws.com/a02c8499-b938-4f69-b203-d88f1ea2fc91/downloads/4f4b0e79-bad4-4e62-b4ec-9e4ea5839a81/svchost.exe?Signature=wtgejS%2BFshZ2C11eIDthphjW1Uk%3D&Expires=1542900574&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=DW5niEuU8zf7W0nwJnJXcB0eZCFSS3Op&response-content-disposition=attachment%3B%20filename%3D%22svchost.exe%22
 bbuseruploads.s3.amazonaws.com/ddcd2423-f3e6-4c2b-aac1-a933c1ad8303/downloads/8968bfbf-817f-4429-8973-decbb11db27b/rat10.exe?Signature=dzARHxBjMzUXGGTRLOBdB%2Bk6RGU%3D&Expires=1540255507&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=pVAuf2OdvBfdt2NCypUlrcLnmGmA4fna&response-content-disposition=attachment%3B%20filename%3D%22rat10.exe%22
 bc-cdc.org
@@ -22279,6 +22283,7 @@ bitbucket.org/bazar2019/downloads/downloads/cfgsys.exe
 bitbucket.org/bazarcloud/update/downloads/CLIPPER.exe
 bitbucket.org/bazarcloud/update/downloads/setup_m.exe
 bitbucket.org/bazarnew/setup/downloads/CLIPPER.exe
+bitbucket.org/being-decide/google/downloads/setup_c.exe
 bitbucket.org/benbarwq/eric/downloads/Payeer-bot.exe
 bitbucket.org/bitflashh/bitflash/downloads/FirefoxPortable.rar
 bitbucket.org/bitflashh/bitflash/downloads/archi.rar
@@ -22370,6 +22375,7 @@ bitbucket.org/new_project2019/software/downloads/CLIPPER.exe
 bitbucket.org/new_project2019/software/downloads/MINER.exe
 bitbucket.org/new_project2019/software/downloads/pay.exe
 bitbucket.org/oisev1/bot/downloads/setup.zip
+bitbucket.org/paybot/paybot/downloads/BitcoAuthy.exe
 bitbucket.org/poleglot/sfse/downloads/Setup.exe
 bitbucket.org/scat01/1/downloads/Wacatac_2019-11-16_11-47.exe
 bitbucket.org/secondlifegg/second/downloads/Crypted.exe
@@ -23499,6 +23505,7 @@ boxindoro.com
 boxofgiggles.com
 boxpik.com
 boxsco.website
+boxun360.com
 boyabadanaustasi.net
 boyfotos.nl
 boyka.co
@@ -25397,6 +25404,7 @@ cdn.discordapp.com/attachments/574321395094519809/574614788202561537/onetap.su_c
 cdn.discordapp.com/attachments/574585696191512619/574585792794460181/Robux_Generator.exe
 cdn.discordapp.com/attachments/574684982941843457/596457242916552725/47dd50bf6a8d5405_1.mp4
 cdn.discordapp.com/attachments/575288023592337409/629013358967783424/Resanance.exe
+cdn.discordapp.com/attachments/577180624247586818/611956535282630686/docusign.exe
 cdn.discordapp.com/attachments/577990361855557642/606343601328226304/IMG_01082019.rar
 cdn.discordapp.com/attachments/580402213478989835/580402374842122268/next_rp.exe
 cdn.discordapp.com/attachments/586809470492082189/637605916417720320/funny_meme
@@ -25429,6 +25437,7 @@ cdn.discordapp.com/attachments/603292715991695380/603292856131780628/dllinjector
 cdn.discordapp.com/attachments/603634568213561384/603655973554487316/open_me.exe
 cdn.discordapp.com/attachments/603634568213561384/603669977748340739/saint-1.0-jar-with-dependencies.exe
 cdn.discordapp.com/attachments/604267973116428298/604269060762501121/Server1.exe
+cdn.discordapp.com/attachments/604526650130169857/647492132403413003/Shrifti.sfx.exe
 cdn.discordapp.com/attachments/604946752826638346/604948715865767952/GOLOSOVANIE.exe
 cdn.discordapp.com/attachments/605716973946404884/605721453257687053/warst.exe
 cdn.discordapp.com/attachments/606197629155803136/606203209505046535/964b1da45734e393.bat
@@ -25484,11 +25493,13 @@ cdn.discordapp.com/attachments/643490154576740352/644103335401619466/Scanned1311
 cdn.discordapp.com/attachments/643502182473269259/644420414617026560/sales_contract56432897611_____pdf.gz
 cdn.discordapp.com/attachments/643502182473269259/646231566116454420/Ref191119.zip
 cdn.discordapp.com/attachments/643502182473269259/646536125976018945/tt_.gz
+cdn.discordapp.com/attachments/643502365487398912/647142823086522368/PO_28126.jar
 cdn.discordapp.com/attachments/643502441517809705/644796623884648448/TRACKING_NUMBER_9867645.jar
 cdn.discordapp.com/attachments/643509022309351425/643515985793646592/ENCLOSED_PAYMENT_PROOF.zip
 cdn.discordapp.com/attachments/643509022309351425/643741170626723840/MT103_SWIFT_COPY_200191121.zip
 cdn.discordapp.com/attachments/643536609689468968/645952392566800404/emailling_swift_copy_mt103.zip
 cdn.discordapp.com/attachments/643600184579850271/643601185462288395/FreeDiscordNitro.exe
+cdn.discordapp.com/attachments/643998794333159448/647281988889346054/QUOTE_3400901-E01-GOLDLINE29463343_du_27052019_SASRI-034324486.pdf.7z
 cdn.discordapp.com/attachments/644350090311368705/645872071162986496/Assigin_Document.img
 cdn.discordapp.com/attachments/644441640345403413/644441978016366592/TT_hzl_kopya_pdf_________________________.zip
 cdn.discordapp.com/attachments/645260599810588700/646369720366268426/video_2019-11-05_17-23-18.mp4.scr
@@ -25496,6 +25507,7 @@ cdn.discordapp.com/attachments/646150655886491651/646169619106758656/DHL_AWB_NO_
 cdn.discordapp.com/attachments/646414568519630852/646828498350112810/RFQ_176-4000127496.doc
 cdn.discordapp.com/attachments/646464906396434445/646465074508070932/PO187144_Urgent_Request_Quote_Best_Price.gz
 cdn.discordapp.com/attachments/646806756030152707/646816651542659082/POEZ039665433232787787_PDF.gz
+cdn.discordapp.com/attachments/646815330710192140/646815745438908437/Scan_Order_confirmation-NOV-20-FL19-1008-LYM01.gz
 cdn.discordapp.com/attachments/646969418936745987/647014123745574913/PO_Amendment_PDF.tar.gz
 cdn.fanyamedia.net
 cdn.fbsbx.com/v/t59.2708-21/30831868_2001421493263570_988122346738941952_n.zip/71I49N1JH7GG.zip?oh=81f42de9d61696c78f429719277283cc&oe=5AE24EE8&dl=1
@@ -27461,6 +27473,7 @@ condosbysmdc.ph
 condoshotelliondor.com
 condotelphuquoc-grandworld.xyz
 condowealth.co
+conduct-disorder.000webhostapp.com
 conecta.aliz.com.br
 conectaconstruccion.com
 conectacontualma.com
@@ -36632,6 +36645,7 @@ emiratesprefab.ae
 emirays.com
 emirbilardo.com
 emisafrica.com
+emitech.vn
 emitrial.xyz
 emlak.baynuri.net
 emlak.marasyurtdernegi.org
@@ -38889,6 +38903,7 @@ firephonesex.com
 fireprotectionservicespennsylvania.review
 firesafetytraining.in
 firespinjay.co.uk
+firestarter.co.ug
 firetechnicaladvisor.com
 firetronicsinc.net
 firewallvip.com
@@ -39873,7 +39888,12 @@ fs05n3.sendspace.com/dlpro/895143f1d061f6b756e346c7105ad081/5d4c1da7/vz36v3/Clie
 fs05n3.sendspace.com/dlpro/959b0a20d8e88550c780d1422f50e29e/5d4c20e0/vz36v3/ClienttsMoneyFollowup.exe
 fs05n4.sendspace.com/dlpro/bca15c5b497a8f9e86e5bcd93d9f6c10/5d4479c7/95be2c/01082019PFINVOICINGPROCEDUTE.exe
 fs05n5.sendspace.com/dlpro/b8c23f7d132c42535a40adc577c4f75a/5d497b44/95be2c/01082019PFINVOICINGPROCEDUTE.exe
+fs07n2.sendspace.com/dlpro/034caf2b56da5a1df09d735c955b1b33/5dd244df/eyan1j/Andyluxery.exe
+fs07n3.sendspace.com/dlpro/10581d2a275a8bc25f9b2a7f9684e331/5d538a61/eyan1j/Andyluxery.exe
+fs07n3.sendspace.com/dlpro/3e2946e9012ecaa108d99454e37a71bf/5d4fc585/eyan1j/Andyluxery.exe
 fs07n4.sendspace.com/dl/b340f5d34d8af24da7b2cd0b8575b17c/5c9dff2e6cfaa2f5/a5drzh/RFX_20000421_53.jar
+fs07n4.sendspace.com/dlpro/94e1f3fa88abe1de487c251d40bfa898/5d5a7710/eyan1j/Andyluxery.exe
+fs07n4.sendspace.com/dlpro/f5fab24292916dddfe8595d3cc8a16cb/5d60c2bb/eyan1j/Andyluxery.exe
 fs07n5.sendspace.com/dlpro/4cd0ef290cd646d13c58ad787b887821/5cbf7e87/xcqwkn/IMG-0004_Pdf.zip
 fs08n1.sendspace.com/dlpro/44c9dd4be59af6594a1c793af7628740/5cd0f00e/ojvct9/rgen4.2.exe
 fs08n1.sendspace.com/dlpro/95304811bd5ea8e7313f9f3cb7b08986/5d027f52/aiuxqk/Flight%20Ticket%201Z110BA.zip
@@ -41331,6 +41351,7 @@ globalgalaxygems.com
 globalgraphicart.com
 globalgroupsearch.com
 globalgym.gr
+globalgymnastics.co
 globalholidaystours.com
 globalhruk.com
 globalhyg.com
@@ -42470,6 +42491,7 @@ guydejean.com
 guz-nmgb.ru
 guzelsozler.org
 gvasconcelosconsultoria.com.br
+gvcbxgdf.ru
 gviewgame.com
 gvits.co.uk
 gvmadvogados.com.br
@@ -43385,6 +43407,7 @@ herrajesmasota.com
 herrenmode.tk
 herrent.com
 herrgaardstak.se
+herscare.net
 hertifical.com
 hertmanlaw.com
 hertoginstyling.nl
@@ -44474,6 +44497,7 @@ httpswindowsupdates.com/AD0V3Upd4t3.exe
 httpwindows10updatevbcustom.com
 httpyiwujiadianweixiu.xyz
 httsdomainset.ddns.net
+httvic.com.au
 htxl.cn
 htz.securityart.net
 huangao6.com
@@ -47436,6 +47460,7 @@ jimenezdesigngroup.com
 jimlaneevangelist.com
 jimlowry.com
 jimmibroadband.in
+jimmit.xyz
 jimmybuysnj.com
 jimmyjohansson.net
 jimmyphan.net
@@ -50745,6 +50770,7 @@ leasghler.eu
 leashairsupply.com
 leastinvasivefirst.org
 leatherback.co.za
+leatherlites.ug
 leathershop77.com
 leavamder.com
 leavell-photography.com
@@ -53896,6 +53922,7 @@ mascorloja.com
 masdeco.com.ar
 masdegaly.info
 masdeprovence.fr
+masdkhjdfgjgh.ug
 masens.be
 maseratilevante.nl
 masertalaamar.com
@@ -60279,6 +60306,7 @@ paintball.by
 painterbl.com
 painterzindubai.com
 paintjacker.com
+paipaisdvzxc.ru
 paixaopelovinho.pt
 pajansszsd.giize.com
 pajbbxbg.crcrabbpublications.com
@@ -60653,7 +60681,9 @@ pastebin.com/raw/4REjmP3V
 pastebin.com/raw/4k8ygWK7
 pastebin.com/raw/4rfaCW4N
 pastebin.com/raw/5Xq2Gj3W
+pastebin.com/raw/64gZhkaj
 pastebin.com/raw/6HZv2hXc
+pastebin.com/raw/6PapCDVd
 pastebin.com/raw/78rAkiHr
 pastebin.com/raw/7GT7JVC6
 pastebin.com/raw/82NPcP37
@@ -60666,6 +60696,7 @@ pastebin.com/raw/ABWV78y1
 pastebin.com/raw/AE0Fn9qQ
 pastebin.com/raw/AFJ3YqCi
 pastebin.com/raw/AnnvDPYx
+pastebin.com/raw/BJdc0ikm
 pastebin.com/raw/C0HDGynb
 pastebin.com/raw/CJFAYeLy
 pastebin.com/raw/CM22vTup
