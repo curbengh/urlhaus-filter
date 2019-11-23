@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 22 Nov 2019 12:07:47 UTC
+! Updated: Sat, 23 Nov 2019 00:07:46 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1698,6 +1698,7 @@
 125.24.64.61
 125.254.53.45
 125.47.177.139
+125.63.70.222
 125.65.112.193
 125.65.44.5
 125.77.30.21
@@ -4359,6 +4360,7 @@
 171.240.203.7
 171.243.157.81
 171.245.38.79
+171.249.17.196
 171.249.42.60
 171.251.163.150
 171.255.232.195
@@ -4606,6 +4608,7 @@
 176.57.116.187
 176.57.220.28
 176.57.69.62
+176.58.67.3
 176.62.179.113
 176.9.118.186
 176.97.211.183
@@ -5847,6 +5850,7 @@
 185.163.45.142
 185.163.45.180
 185.163.45.243
+185.163.45.73
 185.163.47.134
 185.163.47.142
 185.163.47.144
@@ -7559,6 +7563,7 @@
 193.56.28.44
 193.64.224.94
 193.70.110.230
+193.70.124.48
 193.70.17.7
 193.70.26.49
 193.70.26.51
@@ -9124,6 +9129,7 @@
 211.193.86.151
 211.194.183.51
 211.196.28.116
+211.198.237.141
 211.20.204.164
 211.204.165.173
 211.21.205.207
@@ -11056,6 +11062,7 @@
 45.55.34.44
 45.55.40.190
 45.55.41.114
+45.55.44.58
 45.55.46.234
 45.55.48.118
 45.55.51.21
@@ -12464,7 +12471,6 @@
 59.47.72.34
 59.47.72.69
 59.80.44.99
-59.80.44.99/indonesias.me:9998/iexplore.exe
 59.90.247.38
 59.95.148.105
 59.98.44.226
@@ -13525,6 +13531,7 @@
 7min.eadmax.com.br
 7naturalessences.com
 7orus.org
+7pi.de
 7rb.xyz
 7seotools.com
 7starthailand.com
@@ -13826,6 +13833,7 @@
 81.218.141.180
 81.218.170.52
 81.218.184.2
+81.218.187.113
 81.218.196.175
 81.226.99.48
 81.23.187.210
@@ -16758,6 +16766,7 @@ aisect.org
 aishic.com
 aisi2000.com.ua
 aisis.co.uk
+aissas.com
 aissol.com
 aist-it.com
 aist.vn.ua
@@ -18497,7 +18506,7 @@ apicecon.com.br
 apicforme.com
 apidava.tk
 apieceoftoastblog.com
-apigeoip.com/cl.exe
+apigeoip.com
 apihomes.us
 apiperjuangan.com
 apipro.com.br
@@ -18720,6 +18729,7 @@ aquilastudios.se
 aqwdownload3r.weebly.com/uploads/2/0/7/2/20722772/aqworlds_acs_generator_v1.00testing.exe
 aqxxgk.anqing.gov.cn
 ar-energyservice.com
+ar-rahman.jogorogo.info
 ar-text.nl
 ar-vrn.ru
 ar.caginerhastanesi.com.tr
@@ -19932,8 +19942,7 @@ autobritt.apptitude.ch
 autobuschel.ru
 autocenter2000.com.br
 autoclasscuneo.it
-autocom.mx/aviso-de-privacidad-agencias-es-mx.htm
-autocom.mx/aviso-de-privacidad-agencias-es-mx.htm/
+autocom.mx
 autodavid.hr
 autodetali-161.ru
 autodevices.topterra.ru
@@ -22911,6 +22920,7 @@ blog.sparshayurveda.in
 blog.sportsphotos.com
 blog.steadfast-inc.com
 blog.tactfudosan.com
+blog.taglr.com
 blog.taxmann.com
 blog.thaicarecloud.org
 blog.thatwesguy.com
@@ -26103,6 +26113,7 @@ chevroletcantho.vn
 chevyaddict.com
 chevyoflouisville.com
 chexdomiki.ru
+cheystars.com
 chezmonica.com.au
 chezwork.com.ua
 chg.org.uk
@@ -26156,6 +26167,7 @@ chimachinenow.com
 chimccj.site
 chimexim.spraystudio.ro
 chimie.usm.md
+chiming-auto.com
 china-hql.com
 china029.com
 chinabolcargo.com
@@ -26833,7 +26845,8 @@ cloudflarrr.ml
 cloudhaste.com
 cloudhooks.com
 clouding-world.online
-cloudme.com
+cloudme.com/v1/ws2/:dr404/:22cted/22cted.exe
+cloudme.com/v1/ws2/:dr404/:MicrosoftOffice/MicrosoftOffice.exe
 cloudmine.pl
 cloudninedesign.com.au
 cloudphotos.party
@@ -27827,9 +27840,11 @@ cortlnachina.com
 corujaocat.com.br
 corumsuaritma.com
 corumtemizlik.com
+corvis.co.uk
 coryl.usa.cc
 coscokorea.services
 coscorubber.com
+cosda.com.tw
 cose-di-casa.com
 cosi-ilmercatodeisapori.com
 coskunkuyumculuk.com
@@ -29158,6 +29173,7 @@ dawoomang.co.kr
 dawsonvillepropertymanagement.com
 dayahblang.id
 dayakpoker.club
+dayas.gizmo-studio.com
 dayboihanoiswimming.edu.vn
 dayboromedical.com.au
 daydainhuapet.net
@@ -29575,7 +29591,30 @@ delivery.balanceado.com
 delivery.mn
 deliyiz.net
 delkaland.com
-dell1.ug
+dell1.ug/exe/sqlreader.exe
+dell1.ug/exe/sqlreader1.exe
+dell1.ug/files/cost/3=====.exe
+dell1.ug/files/cost/4.exe
+dell1.ug/files/cost/41.exe
+dell1.ug/files/cost/5.exe
+dell1.ug/files/cost/51.exe
+dell1.ug/files/cost/updatewin1=.exe
+dell1.ug/files/cost/updatewin2=.exe
+dell1.ug/files/cost/updatewin=.exe
+dell1.ug/files/cost1/3=====.exe
+dell1.ug/files/cost1/41.exe
+dell1.ug/files/cost1/58.exe
+dell1.ug/files/cost1/updatewin.exe
+dell1.ug/files/cost1/updatewin1.exe
+dell1.ug/files/cost1/updatewin2.exe
+dell1.ug/files/penelop/3.exe
+dell1.ug/files/penelop/3=====.exe
+dell1.ug/files/penelop/4.exe
+dell1.ug/files/penelop/41.exe
+dell1.ug/files/penelop/5.exe
+dell1.ug/files/penelop/updatewin.exe
+dell1.ug/files/penelop/updatewin1.exe
+dell1.ug/files/penelop/updatewin2.exe
 della.themeshigh.com
 dellaconnor.com
 dellarosa.com.au
@@ -30244,6 +30283,7 @@ dextraderspost.com
 deytona.de
 dez-incubator.ir
 deza.ir
+dezaredo.top
 dezenhomes.com
 dezicake.com
 dezireconsultant.com
@@ -30791,6 +30831,7 @@ diverdonis.com
 divergentsight.net
 diversifii.com
 diversitycityin.com
+diversityfoodbrands.com
 diversitymbamagazine.com
 diversitywealth.com
 diverzeent.com
@@ -37705,6 +37746,7 @@ exictos.ligaempresarial.pt
 eximalert.com
 eximium.pt
 eximme.com
+eximpo.com
 exinstaima.com
 exinusa.com
 existors.com
@@ -39326,6 +39368,7 @@ forconfirmation.gq
 ford-capital.com
 fordauto.com.vn
 fordhamfamily.net
+fordlamdong.com.vn
 fore-force.ru
 forecast-weather.eu
 foredinoc.com
@@ -40311,6 +40354,7 @@ gamedata.box.sk
 gamedemo.xyz
 gamedoithe.net
 gamedoithuong.info
+gamee.top
 gameforte.com
 gamehack.chat.ru
 gamelaboratory.ru
@@ -41082,6 +41126,7 @@ gilltravels.in.net
 gilmarnazareno.com.br
 gilmatas.000webhostapp.com
 gilmore-offroad.de
+gilodone.top
 gilroy.org
 gilroygarlicfestival.omginteractive.com
 gilsanbus.com
@@ -43050,6 +43095,7 @@ health-beautyzone.com
 health-gov-za.org
 health-hq.info
 health-regulations.xyz
+health.buvizyon.com
 health.chmoz.com
 health.escascollege.com
 healthandenvironmentonline.com
@@ -43953,29 +43999,7 @@ home.healthiestu.com
 home.isdes.com
 home.ktxhome.com
 home.lotr.flaik.com
-home.mindspring.com/~dicklin/USPS20190104.jar
-home.mindspring.com/~dicklin/ups20190114.jar
-home.mindspring.com/~dwduffy/UPS/tracking-copy.jar
-home.mindspring.com/~georgedibble/secure_message.jar
-home.mindspring.com/~jolchawa/01/FedEx20190104.jar
-home.mindspring.com/~jolchawa/UPS_Tracking/1ZW701450096823341.jar
-home.mindspring.com/~jolchawa/ups1/ups20190114.jar
-home.mindspring.com/~marvinlzinn1/20181510.exe
-home.mindspring.com/~marvinlzinn1/UPS_Trk_1Z6A7Y850392419911.exe
-home.mindspring.com/~marvinlzinn1/USPS_20181228.jar
-home.mindspring.com/~marvinlzinn1/_output281B0.exe
-home.mindspring.com/~marvinlzinn1/secure_message.jar
-home.mindspring.com/~mlaurie/1521740581.jar
-home.mindspring.com/~mlaurie/1521794522.jar
-home.mindspring.com/~mlaurie/1522003981.jar
-home.mindspring.com/~mlaurie/1522102502.jar
-home.mindspring.com/~paulfwhite/UPS_tracking.jar
-home.mindspring.com/~pmco/UPS_20180208.jar
-home.mindspring.com/~pmco/USPS20190109.jar
-home.mindspring.com/~sbirmingham/Costings_Follow_Up.jar
-home.mindspring.com/~sbirmingham/Tracking_Number_1Z6A7Y855293103311.jar
-home.mindspring.com/~wilfert/USPS_94078556993022393116.jar
-home.mindspring.com/~wilfert/USPS_Tracking.jar
+home.mindspring.com
 home.phnix-e.com
 home.punchlineidk.com
 home.selltokengarff.com
@@ -45618,9 +45642,7 @@ indokku.com
 indonesiaexp.com
 indonesiafte.com
 indonesiakompeten.com
-indonesias.me:9998/333.exe
-indonesias.me:9998/64.exe
-indonesias.me:9998/c64.exe
+indonesias.me
 indonesiaumroh.com
 indoorpublicidade.com.br
 indoqualitycleaning.com
@@ -46368,7 +46390,7 @@ iquestcon-my.sharepoint.com
 ir-consulting.eu
 ir-music.ir
 ir-watduoliprudential.com.watchdogdns.duckdns.org
-ir.interceptors.com
+ir.interceptors.com/wp-content/WnDYSB/
 iracan.ir
 iradacancel.com
 iraflatow.com
@@ -47526,6 +47548,7 @@ jmtc.91756.cn
 jnanamandira.org
 jnanoday.in
 jnberaca.com
+jnc.agcweb.co.kr
 jndexpertservices.com
 jnetworks.at
 jnfglobe.com
@@ -47665,7 +47688,9 @@ joinerycity.co.uk
 joinjohndoeit.000webhostapp.com
 joinstore454.ru
 jointhegoodcampaign.com
-jointings.org
+jointings.org/eng/wp-content/plugins/featurific-for-wordpress/1
+jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2
+jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3
 jointpluspro.premiumbeautyhair.com
 joinus.logicalatdemo.co.in
 jojocorpflorida.com
@@ -48628,6 +48653,7 @@ kbbmorissa.com
 kbentley.com
 kbfqatar.org
 kbhookah.com
+kbinternationalcollege.com
 kbitr0gz21p8.com
 kbj.if.its.ac.id
 kbjv.ch
@@ -49415,6 +49441,7 @@ knowledgebase.uniwin.eu
 knowledgeday.net
 knowledgedot.tk
 knowledgegraphs.org
+knowledgeins.com
 knowthesymptoms.org
 knowtohealth.com
 kns.tc
@@ -51858,6 +51885,7 @@ longridgeclayshooting.co.uk
 longtan.hangan.org
 longviewlegacy.com
 longviewtrading.com
+longxijituan.com
 lonner.name
 lonnielepp.com
 lonnieruiz.com
@@ -54499,6 +54527,7 @@ megaklik.top
 megal.co
 megaloadfiles.website
 megaloexpress.com
+megamocambique.com
 meganck.info
 megandilmore.com
 megankmurphy.com
@@ -54650,6 +54679,7 @@ menteesaude.com
 mentes.bolt.hu
 mentesdigitais.com.br
 mentfort.com
+menton.wacan-extranet.com
 mentor.in
 mentor1st.com
 mentorduweb.com
@@ -54670,6 +54700,7 @@ meragullabgirls.gq
 meraustaad.com
 meravilla.it
 mercadeoporinternet.com
+mercado.tomino.gal
 mercadosaway.com
 mercadry.com
 mercalzado.com
@@ -56244,6 +56275,7 @@ ms4096.synology.me
 ms888.sk
 ms93.pl
 msa.club.kmu.edu.tw
+msakpets.com
 msao.net
 msb-blog.firstcom.vn
 msboxoffice.com
@@ -56626,7 +56658,7 @@ my-unicorner.de
 my-way.style
 my.camptaiwan.com.tw
 my.jiwa-nala.org
-my.mail.de
+my.mail.de/dl/16396560ccdf7536b3dde030d4b7e0e0/
 my.mixtape.moe
 my.zhaopin.com
 my10apps.com
@@ -57567,6 +57599,7 @@ new-cuisibat.com
 new-idea.be
 new-standart-outsourcing.com.ua
 new-ware.com
+new-year-packages.com
 new.1communityre.com
 new.53museum.org
 new.9875432.ru
@@ -58013,6 +58046,7 @@ niloiuyrt.info
 nilsguzellik.com
 nilsnilsgarden.se
 niman.ru
+nimble.press
 nimblix.net
 nimitta.life
 nimrodsson.se
@@ -58549,6 +58583,7 @@ numb-inside.info
 numberonefile.co.za
 numdgore.men
 numediamarketing.com
+numerialcsses.com
 numidiatalent.com
 numii.com
 numit.com.my
@@ -60045,6 +60080,7 @@ overtakenlives.org
 overthebarr.club
 overwatchboostpro.com
 oviajante.pt
+ovicol.com
 oving.banachwebdesign.nl
 ovs.igp.gob.pe
 ovstor.space
@@ -60372,6 +60408,7 @@ panoramika.com.ua
 panoramki.ru
 panoskassakos.com
 panoulemn.ro
+panproduksiyon.com
 pansardo.com
 panska.cz
 pantel-web.de
@@ -60580,7 +60617,25 @@ passpartout.org
 passportstatusonline.com
 passwordrecoverysoft.com
 past.com.tr
-paste.ee
+paste.ee/r/DNfid
+paste.ee/r/IBxWH
+paste.ee/r/KC3M6
+paste.ee/r/TJPAh
+paste.ee/r/VADxX
+paste.ee/r/XUnRN
+paste.ee/r/XuObf
+paste.ee/r/YoY3z/0
+paste.ee/r/ZjjLK
+paste.ee/r/aDgZw
+paste.ee/r/dykKR
+paste.ee/r/fsU10
+paste.ee/r/g6daj
+paste.ee/r/hW6I2
+paste.ee/r/kCMwY
+paste.ee/r/oSNoT
+paste.ee/r/tbOr2
+paste.ee/r/x0Coe
+paste.ee/r/yCZLo/0
 pastebin.com/2q8dT2n3
 pastebin.com/gUJMLv20
 pastebin.com/rVFFxSs6
@@ -63856,6 +63911,7 @@ quicktechsupport247.com
 quicktryk.dk
 quickwork.club
 quik.reviews
+quiken.estate
 quillstudios.com.au
 quiltingyourquilts.com
 quimitorres.com
@@ -64720,6 +64776,7 @@ realtymarket.in
 realtytraining.org
 reasgt.me
 rebarcanada.com
+rebaskon.top
 rebbyanngray.com
 rebeccawillis.co.uk
 rebel.ae
@@ -65152,6 +65209,7 @@ restedtraveler.com
 restejeune.com
 restlesz.su
 restofkiuun.com
+restoran-almaata.kz
 restoran-maligan.com
 restorunn.com
 restosducoeur-bassinminier.fr
@@ -66195,24 +66253,7 @@ s-sibsb.ru
 s-vrach.com.ua
 s.51shijuan.com
 s.kk30.com
-s.put.re/1dQ5f9Yj.jpg
-s.put.re/58o4na3e.exe
-s.put.re/6ge1tsxb.exe
-s.put.re/7QXJMwGu.txt
-s.put.re/BhfuDm8g.exe
-s.put.re/HboyD62p.txt
-s.put.re/V6Dw8o4w.doc
-s.put.re/VoLicm9b.txt
-s.put.re/YUH44Wmo.jpg
-s.put.re/Zqczsf5s.exe
-s.put.re/eDygzXGN.exe
-s.put.re/fJjE7i4c.jpg
-s.put.re/mSpoXyLA.qwe
-s.put.re/mz1f41L8.qwe
-s.put.re/t9FDi5cf.exe
-s.put.re/wCk3SB3x.txt
-s.put.re/wDhamd3P.jpg
-s.put.re/wEujgoau.exe
+s.put.re
 s.trade27.ru
 s01.solidfilesusercontent.com/YTMwZjFlYTU1ZDRjOWFmNjYxMTI2Nzk5YmExYmNlZDhmZGRjYTJhMToxaE9VYUk6R000eW1iU0Q3eVRLUGNSU0NvN1oybERJdVBj/gWvpLG4DrPQgB/263.exe
 s01.solidfilesusercontent.com/ZDYzMDE3MTMzNmEwZWQzODJkZWQ0YTIyODRkYWMyOTMwNzkyZTRhMzoxaE9qWlQ6eEZ4eXlNY1FCWlVvbGRKaERKTGFXaUdqcHV3/gWvpLG4DrPQgB/263.exe
@@ -68151,6 +68192,7 @@ sh.sg
 sh2017.chancemkt.com
 sh2nevinsk.ru
 shaadiexclusive.com
+shaarada.com
 shabab.ps
 shababazm.com
 shabai.me
@@ -69014,7 +69056,7 @@ sites.google.com/site/rodolfwf1/modulosagosto/beoca1.zip?attredirects=0&d=1
 sites.google.com/site/rodolfwf1/modulosagosto/tjonline2.zip?attredirects=0&d=1
 sites.google.com/site/trojanhorse8776/crypter/Spider%20Hack%20Tools%20Plus%20v1.0%20By%20Spider%20Virus.rar?attredirects=0&d=1
 sites.google.com/site/veraooutubro343g/outonoveras/drive2.zip
-sites.ieee.org/sagroups-1914/files/2018/08/P1914.1-D1.1-cl_rtse_sync_2.doc
+sites.ieee.org
 sites.webdefy.com
 sitesbrgiga.com.br
 siteshop.tk
@@ -73911,7 +73953,8 @@ tamnhindoanhnhan.com
 tamoyun.web.tr
 tampacigarroller.com
 tampaseo.com
-tamsu.website
+tamsu.website/document4753.zip
+tamsu.website/document7806.zip
 tamsuamy.com
 tamsys.net
 tamta.gr
@@ -74095,7 +74138,8 @@ tatilmaster.com
 tatim.com.br
 tatnefts.su
 tatoestudio.com
-tatra603team.cz
+tatra603team.cz/templates/ja_purity/images/header/2c.jpg
+tatra603team.cz/templates/ja_purity/styles/background/lighter/images/2c.jpg
 tatsu.com.vn
 tatsuo.io
 tattomakeup.ru
@@ -74927,6 +74971,7 @@ textilehub.com.pk
 textilekey.com
 textilessudamericanos.com
 textilkopruch.com.br
+texum-me.com
 teyouhao.com
 tfhvccny.com
 tfile.7to.cn
@@ -75786,7 +75831,7 @@ tijenkaras.com
 tike.co.uk
 tiketanda.com
 tikimi.net.vn
-tikvip.lt
+tikvip.lt/tracklist/tracking_number.pdf.exe
 tilbemarket.com
 tile-info.com
 tilesforafrica.com
@@ -77042,7 +77087,7 @@ tulieucuocsong.com
 tulip-remodeling.com
 tulipremodeling.com
 tullosscapitalmanagement.net
-tullverket.se
+tullverket.se/download/18.7df61c5915510cfe9e7fb9/1466512276799/740.41%20Forsakran%20for%20flyttsakstullfrihet.docm
 tulomontas.com
 tulparmotors.com
 tulpconsult.nl
@@ -77168,6 +77213,7 @@ tvacaradabahia.com.br
 tvaradze.com
 tvbgm.com
 tvbildirim.com
+tvbox-manufacturer.com
 tvboxaddons.com
 tver.planetasvet.ru
 tvgestaltung.de
@@ -78707,6 +78753,7 @@ valleywomenshealth.com
 vallyxs0.beget.tech
 valmakk.com
 valoomanus.com
+valormax.profissional.ws
 valorpositivo.com
 valotin.com
 valquathailand.com
@@ -79288,6 +79335,7 @@ vigilar.com.br
 vignoblesponty.com
 vigor-dragon.com
 vigovrus84.had.su
+vigreenfarm.vn
 vii-seas.com
 viipaletalot.fi
 vijayhost.com
@@ -79824,6 +79872,7 @@ vpsimport.com.br
 vpsojhaul.com
 vpstinydev.gq
 vqwc8z9260u2.top
+vrankendiamant.co.kr
 vrcarwash.pt
 vrdeveloperspk.com
 vreau-relatie.eu
@@ -79901,6 +79950,7 @@ vvapor.top
 vvb93165cn.temp.swtest.ru
 vvcbg.com
 vvegroep.com
+vvhsd.com
 vvioeuly.pw
 vvk888.ru
 vvsmanagementgroup.com
@@ -79974,6 +80024,7 @@ wadspay.com
 wae.co.in
 waed.com.au
 waggrouponline.org
+waghmaredd.com
 wagnermenezes.org
 wagnersystemen.nl
 wagonistanbul.com
@@ -80854,6 +80905,7 @@ wills.mu
 willson.dothome.co.kr
 willspy.com
 willumeit.de
+willwerscheid.com
 willynaylor.com
 willyshatsandcraftllc.com
 willywoo.nl
@@ -81270,6 +81322,7 @@ woutaalexp.com
 wouw.site
 wow-shablon.ru
 wow.doorattendants.com
+wow.dreyfus.fr
 wowepic.net
 wowsoftware.weebly.com/uploads/6/0/1/3/60131139/spell_checker_64bit.exe
 wowter.com
@@ -82569,6 +82622,7 @@ yourbikinifigure.com
 yourcbts.com
 yourclubwebsite.com
 yourcreative.co.uk
+yourcrypto.life
 yourcure.in
 yourcurrencyrates.com
 yourdentalfirst.com
