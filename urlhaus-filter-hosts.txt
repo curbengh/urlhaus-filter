@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sat, 23 Nov 2019 12:07:45 UTC
+# Updated: Sun, 24 Nov 2019 00:07:49 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -9716,6 +9716,7 @@
 23.254.226.31
 23.254.227.117
 23.254.227.7
+23.254.228.211
 23.254.228.30
 23.254.230.120
 23.254.230.141
@@ -9941,7 +9942,6 @@
 2ndpub.com
 2ndscreensociety.com
 2nell.com
-2no.co
 2q1wea3rdsf.000webhostapp.com
 2q3w.com
 2reis.fr
@@ -10497,7 +10497,6 @@
 3658503.com
 3658504.com
 365boxms.com
-365care.encoreskydev.com
 365essex.com
 365ia.cf
 365officeonline.club
@@ -12528,6 +12527,7 @@
 61.42.68.167
 61.5.20.119
 61.53.228.147
+61.54.166.66
 61.56.180.28
 61.56.182.218
 61.57.95.207
@@ -17857,7 +17857,6 @@ amnholidays.com
 amnisopes.com
 amniyatgostariranian.ir
 amnrelease.com
-amnsreiuojy.ru
 amnsw.com.au
 amnsw.prospareparts.com.au
 amnsw.prosparepartscom.au
@@ -19690,6 +19689,7 @@ atozblogging.com
 atp-tek.com
 atparsco.com
 atphitech.com
+atpscan.global.hornetsecurity.com
 atr.it
 atragon.co.uk
 atrakniaz.ir
@@ -21309,7 +21309,6 @@ bellemaisonvintage.com
 bellenoirluxury.com
 bellepiscine.net
 bellepoque-biella.com
-bellespianoclass.com.sg
 belletrisa.com
 bellevega.com
 bellevuemedia.org
@@ -21749,6 +21748,7 @@ bhfdsss.usa.cc
 bhgjxx.com
 bhimsecurity.com
 bhitaihospital.com
+bhmaatcalculator.nl
 bhor.co.in
 bhoroshasthol.com
 bhp-problem.hostit.pl
@@ -24314,7 +24314,6 @@ capitalrh.com.br
 capitalsolutions.gr
 capitanmiranda.gov.py
 caplem.com
-capmusic.ru
 capnensensejoguina.com
 capolytecch.com
 capony.000webhostapp.com
@@ -25893,6 +25892,7 @@ cjj.lanibio.net
 cjllcmonthlysub.ga
 cjmont41.fr
 cjnzbdy.gq
+cjoint.com
 cjsebbelov.dk
 cjtows.com
 ck-finanzberatung.de
@@ -26133,6 +26133,7 @@ cloudflarrr.ml
 cloudhaste.com
 cloudhooks.com
 clouding-world.online
+cloudme.com
 cloudmine.pl
 cloudninedesign.com.au
 cloudphotos.party
@@ -26952,7 +26953,6 @@ convmech.com
 convrgouchon.com
 conwinonline.com
 coocihem.ru
-coofixtool.com
 cookconcreteproducts.com
 cooke.im
 cookecitysinclair.com
@@ -28674,7 +28674,6 @@ decorexpert-arte.com
 decorinfo.ru
 decorsfantasmo.com
 decorstoff.com
-decorstyle.ig.com.br
 decortez.com
 decortie.top
 decospirit.com
@@ -34189,7 +34188,6 @@ fastpool.ir
 fastprotectsolutions.com
 fastrackapp.es
 fastrxtransfer.com
-fastsoft.onlinedown.net
 fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
@@ -34910,6 +34908,7 @@ fjminc.com
 fjondi.com
 fjorditservices.com
 fk.0xbdairolkoie.space
+fk.0xbdairolkoie.website
 fk.unud.ac.id
 fkd.derpcity.ru
 fkedkf0o4tr.000webhostapp.com
@@ -37224,7 +37223,6 @@ godleyfamilyfoundation.org
 godloveorphanageandngo.com
 gododu.com
 godrej-nurture.site
-godrejsalon-i.in
 godrivedrop.com
 godwincapital.com
 goegamer.eu
@@ -40018,7 +40016,6 @@ htcpi.org
 htepl.com
 hthaher.com
 hthindustrial.com
-htl.li
 htl.ru
 htlinternational.org
 htlvn.com
@@ -43718,7 +43715,6 @@ jxj.duckdns.org
 jxprint.ru
 jxproject.ru
 jxstudio.ru
-jxwmw.cn
 jy-property.com
 jycingenieria.cl
 jycslist.free.fr
@@ -49300,7 +49296,6 @@ mascorloja.com
 masdeco.com.ar
 masdegaly.info
 masdeprovence.fr
-masdkhjdfgjgh.ug
 masens.be
 maseratilevante.nl
 masertalaamar.com
@@ -52018,12 +52013,14 @@ my-unicorner.de
 my-way.style
 my.camptaiwan.com.tw
 my.jiwa-nala.org
+my.mail.de
 my.mixtape.moe
 my.zhaopin.com
 my10apps.com
 my2b.online
 myabisib.ru
 myacademjourneys.com
+myaccount.dropsend.com
 myadmin.59north.com
 myafyanow.com
 myairestaurant.com
@@ -61045,8 +61042,6 @@ sachindutta.com
 sachoob.com
 sachtrithuc.com
 sacm.net
-sacmsgmgw001a.delta.org
-sacmsgmgw001b.delta.org
 saconets.com
 sacramentobouncers.com
 sacramentode.ml
@@ -65043,6 +65038,7 @@ ssllinks.duckdns.org
 sslv3.at
 ssmmbed.com
 ssmthethwa.co.za
+ssofhoseuegsgrfnj.su
 ssofhoseuegsgrfnu.ru
 ssoocc.com
 ssosi.ru
@@ -72636,7 +72632,6 @@ web.pa-cirebon.go.id
 web.riderit.com
 web.smakristen1sltg.sch.id
 web.speakingofhome.com
-web.tiscali.it
 web.tiscalinet.it
 web.udl.cat
 web.vorona.ru
@@ -74563,7 +74558,6 @@ yamato-te.com
 yamato-ti.com
 yamemasesy.com
 yamike.com
-yamisiones.com
 yanato.jp
 yanchenghengxin.com
 yancommato.com
