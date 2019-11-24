@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sun, 24 Nov 2019 00:07:49 UTC
+# Updated: Sun, 24 Nov 2019 12:07:47 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -923,6 +923,7 @@
 107.174.14.71
 107.174.14.74
 107.174.14.79
+107.174.14.82
 107.174.14.98
 107.174.203.117
 107.174.221.192
@@ -2495,6 +2496,7 @@
 142.11.206.115
 142.11.206.184
 142.11.210.100
+142.11.210.165
 142.11.210.200
 142.11.210.231
 142.11.211.114
@@ -3955,6 +3957,7 @@
 165.227.49.241
 165.227.5.139
 165.227.5.223
+165.227.60.201
 165.227.63.145
 165.227.63.166
 165.227.68.28
@@ -5550,6 +5553,7 @@
 182.235.29.89
 182.236.124.160
 182.245.227.65
+182.254.195.236
 182.30.98.192
 182.34.223.84
 182.37.46.53
@@ -6039,6 +6043,7 @@
 185.217.93.129
 185.217.94.23
 185.219.133.9
+185.219.221.159
 185.219.221.205
 185.22.152.106
 185.22.152.122
@@ -6092,6 +6097,7 @@
 185.225.17.5
 185.225.17.82
 185.227.108.18
+185.227.108.206
 185.227.108.208
 185.227.108.58
 185.227.108.83
@@ -11291,6 +11297,7 @@
 46.109.108.225
 46.109.246.18
 46.109.79.106
+46.116.26.222
 46.117.176.102
 46.121.26.229
 46.121.82.70
@@ -12421,6 +12428,7 @@
 59.127.136.53
 59.127.162.231
 59.127.221.185
+59.127.27.148
 59.127.40.197
 59.127.80.229
 59.127.97.26
@@ -12635,6 +12643,7 @@
 64.189.114.161
 64.20.35.181
 64.20.36.228
+64.20.36.234
 64.32.3.186
 64.34.218.28
 64.34.219.41
@@ -13931,6 +13940,7 @@
 82.81.214.74
 82.81.25.188
 82.81.27.115
+82.81.44.203
 82.81.44.37
 82.81.9.62
 82.98.119.68
@@ -51985,6 +51995,7 @@ mwfurniture.vn
 mwhite.ru
 mwmkzqtg.com
 mwmummeryroofing.com
+mwrevents.org
 mwvisual.com
 mx.oocities.com
 mx2-dokidoki-ne.gq
@@ -55998,6 +56009,7 @@ pegasusactual.com
 pegionshamza.com
 pegsaindustrial.com
 peifreechurch.org
+peilin-1252286657.cos.ap-chengdu.myqcloud.com
 peinture-marseille.com
 peixuanli.com
 peka.com.ar
@@ -62122,6 +62134,7 @@ secured.erlivia.ltd
 secured.eroea.com
 secured.icbegypt.com
 secured.monclaer.com
+secured.quantiunnsolutions.com
 secureddocfiles.com
 securedigitalinfo.com
 securednetwork.se
@@ -63684,6 +63697,7 @@ skpd.jpwpl.edu.my
 skpindia.net
 skr0.net
 skrentertainmentgroup.com
+skripidigs.xyz
 skroc.net
 skrperspective.com
 sktinds.com
@@ -70368,6 +70382,7 @@ ulenit.com
 ulikeuploads.ml
 ulishome.de
 ulisse.dk
+uloab.com
 uloaku.in
 ulrichsteinharter.de
 ulrikhtm.ru

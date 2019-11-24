@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 24 Nov 2019 00:07:49 UTC
+! Updated: Sun, 24 Nov 2019 12:07:47 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -924,6 +924,7 @@
 107.174.14.71
 107.174.14.74
 107.174.14.79
+107.174.14.82
 107.174.14.98
 107.174.203.117
 107.174.221.192
@@ -2496,6 +2497,7 @@
 142.11.206.115
 142.11.206.184
 142.11.210.100
+142.11.210.165
 142.11.210.200
 142.11.210.231
 142.11.211.114
@@ -3956,6 +3958,7 @@
 165.227.49.241
 165.227.5.139
 165.227.5.223
+165.227.60.201
 165.227.63.145
 165.227.63.166
 165.227.68.28
@@ -5551,6 +5554,7 @@
 182.235.29.89
 182.236.124.160
 182.245.227.65
+182.254.195.236
 182.30.98.192
 182.34.223.84
 182.37.46.53
@@ -6040,6 +6044,7 @@
 185.217.93.129
 185.217.94.23
 185.219.133.9
+185.219.221.159
 185.219.221.205
 185.22.152.106
 185.22.152.122
@@ -6093,6 +6098,7 @@
 185.225.17.5
 185.225.17.82
 185.227.108.18
+185.227.108.206
 185.227.108.208
 185.227.108.58
 185.227.108.83
@@ -11309,6 +11315,7 @@
 46.109.108.225
 46.109.246.18
 46.109.79.106
+46.116.26.222
 46.117.176.102
 46.121.26.229
 46.121.82.70
@@ -12440,6 +12447,7 @@
 59.127.136.53
 59.127.162.231
 59.127.221.185
+59.127.27.148
 59.127.40.197
 59.127.80.229
 59.127.97.26
@@ -12654,6 +12662,7 @@
 64.189.114.161
 64.20.35.181
 64.20.36.228
+64.20.36.234
 64.32.3.186
 64.34.218.28
 64.34.219.41
@@ -13950,6 +13959,7 @@
 82.81.214.74
 82.81.25.188
 82.81.27.115
+82.81.44.203
 82.81.44.37
 82.81.9.62
 82.98.119.68
@@ -25464,6 +25474,7 @@ cdn.discordapp.com/attachments/617964571378057228/624425041588781093/TNT_COLLECT
 cdn.discordapp.com/attachments/621840654749663237/622266166353592321/f.exe
 cdn.discordapp.com/attachments/622940298062069784/622940532041318402/RFQOM1909-13.gz
 cdn.discordapp.com/attachments/625392309340471298/644098450677563394/rfq_11122019_pdf.xz
+cdn.discordapp.com/attachments/625392309340471298/645971091805962260/new_order_xerabytes_llc_P8112019-205_xls.xz
 cdn.discordapp.com/attachments/625392309340471298/646298812348104710/REVISED_PI_XLS.7z
 cdn.discordapp.com/attachments/626154810466369566/626873398651256832/0caaefecf2d9dd70.exe
 cdn.discordapp.com/attachments/627945604818927619/627946827152621591/Akelas_Gen.exe
@@ -25492,6 +25503,7 @@ cdn.discordapp.com/attachments/639364328029421570/639364395734138900/XLS.OA10DA-
 cdn.discordapp.com/attachments/639364328029421570/639373111627743232/XLS.OA10DA-44AE-8CD2-AFD48FA98305_XLS.gz
 cdn.discordapp.com/attachments/639898095341142066/639951367921729576/media.exe
 cdn.discordapp.com/attachments/640702583509352502/641810938529316883/SOF3400901-E01-DV294633_du_27052019_SASRI-034324486.pdf.7z
+cdn.discordapp.com/attachments/641015078530842682/645889727521619968/R6.exe
 cdn.discordapp.com/attachments/641115505754767420/647060249131614221/Original_Documents.doc
 cdn.discordapp.com/attachments/641290995094519841/641313744202235962/1.exe
 cdn.discordapp.com/attachments/641950401318617090/642334632456486922/setup.exe
@@ -56667,6 +56679,7 @@ mwfurniture.vn
 mwhite.ru
 mwmkzqtg.com
 mwmummeryroofing.com
+mwrevents.org
 mwvisual.com
 mx.oocities.com
 mx.technolutions.net/mpss/c/BgE/jM0HAA/t.2me/E2sfmJJZTs6mASn8XXBs0w/h0/ExW3HpZOfSKFHF9iDdddDTwLss3aI50r6NDwIIM7gh5ONf5KRnA5zaBG7nDxzJRq-2BG2jji0uf-2F3tBBCTE6AicA-3D-3D
@@ -60691,6 +60704,7 @@ pastebin.com/raw/4REjmP3V
 pastebin.com/raw/4k8ygWK7
 pastebin.com/raw/4rfaCW4N
 pastebin.com/raw/5Xq2Gj3W
+pastebin.com/raw/5eP8tuUN
 pastebin.com/raw/64gZhkaj
 pastebin.com/raw/6HZv2hXc
 pastebin.com/raw/6PapCDVd
@@ -60700,6 +60714,7 @@ pastebin.com/raw/82NPcP37
 pastebin.com/raw/8QhXA4yk
 pastebin.com/raw/8Zh9yNMF
 pastebin.com/raw/9N5Dq3w8
+pastebin.com/raw/9q5ZaeHb
 pastebin.com/raw/9see7UfF
 pastebin.com/raw/A8e40C8J
 pastebin.com/raw/ABWV78y1
@@ -60833,6 +60848,7 @@ pastebin.com/raw/kjKci9J8
 pastebin.com/raw/kjNYaw6G
 pastebin.com/raw/krn3bWkf
 pastebin.com/raw/m6mLXAjm
+pastebin.com/raw/m9uJvZZz
 pastebin.com/raw/ng1agnTh
 pastebin.com/raw/nv5d9pYu
 pastebin.com/raw/p7nvBwgt
@@ -60840,6 +60856,7 @@ pastebin.com/raw/phbZu0vK
 pastebin.com/raw/pqj6c7eX
 pastebin.com/raw/pu4arU1t
 pastebin.com/raw/pyfgFjUY
+pastebin.com/raw/q4Hh7DU3
 pastebin.com/raw/rQqRHd1Z
 pastebin.com/raw/rQtfery0
 pastebin.com/raw/rRBkjxcH
@@ -61184,6 +61201,7 @@ pegasusactual.com
 pegionshamza.com
 pegsaindustrial.com
 peifreechurch.org
+peilin-1252286657.cos.ap-chengdu.myqcloud.com
 peinture-marseille.com
 peixuanli.com
 peka.com.ar
@@ -67639,6 +67657,7 @@ secured.erlivia.ltd
 secured.eroea.com
 secured.icbegypt.com
 secured.monclaer.com
+secured.quantiunnsolutions.com
 secureddocfiles.com
 securedigitalinfo.com
 securednetwork.se
@@ -69237,6 +69256,7 @@ skpd.jpwpl.edu.my
 skpindia.net
 skr0.net
 skrentertainmentgroup.com
+skripidigs.xyz
 skroc.net
 skrperspective.com
 sktinds.com
@@ -77927,6 +77947,7 @@ ulenit.com
 ulikeuploads.ml
 ulishome.de
 ulisse.dk
+uloab.com
 uloaku.in
 ulrichsteinharter.de
 ulrikhtm.ru
