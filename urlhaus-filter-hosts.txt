@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sun, 24 Nov 2019 12:07:47 UTC
+# Updated: Mon, 25 Nov 2019 00:07:39 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -663,6 +663,7 @@
 104.248.142.189
 104.248.142.32
 104.248.143.179
+104.248.145.18
 104.248.148.224
 104.248.149.170
 104.248.149.214
@@ -2828,6 +2829,7 @@
 147.135.99.100
 147.135.99.107
 147.135.99.111
+147.135.99.147
 147.135.99.155
 147.91.212.250
 147.92.80.67
@@ -4069,6 +4071,7 @@
 167.71.230.34
 167.71.237.85
 167.71.241.245
+167.71.244.235
 167.71.248.156
 167.71.254.48
 167.71.3.168
@@ -6756,6 +6759,7 @@
 188.165.179.11
 188.165.179.15
 188.165.179.8
+188.165.193.126
 188.165.202.80
 188.165.220.81
 188.165.89.65
@@ -7398,6 +7402,7 @@
 192.210.146.35
 192.210.146.45
 192.210.146.54
+192.210.180.163
 192.210.180.166
 192.210.214.166
 192.210.214.199
@@ -15961,7 +15966,6 @@ aday.haberkorfez.com
 adbee.tk
 adbord.com
 adcanudosnh.com.br
-adcash.cf
 adcash.ga
 adccenterbd.com
 adcinterior.co.in
@@ -18329,7 +18333,6 @@ antistresstoys.xyz
 antiteza.org
 antivirusassists.com
 antoine-maubon.fr
-antoinegimenez.com
 antoinevachon.com
 antolin-davies.com
 anton-1.info
@@ -18476,7 +18479,6 @@ apicecon.com.br
 apicforme.com
 apidava.tk
 apieceoftoastblog.com
-apigeoip.com
 apihomes.us
 apiperjuangan.com
 apipro.com.br
@@ -19897,11 +19899,11 @@ autobritt.apptitude.ch
 autobuschel.ru
 autocenter2000.com.br
 autoclasscuneo.it
-autocom.mx
 autodavid.hr
 autodetali-161.ru
 autodevices.topterra.ru
 autodrim.pl
+autodwg.com
 autoecole-hammamet.tn
 autoecole.inchtechs.com
 autoecolehophophop.com
@@ -22136,6 +22138,7 @@ biz-shop.pro
 biz.creationcabin.com
 bizajans.com
 bizasiatrading.com
+bizbhutanevents.com
 bizbuilder.co.za
 bizcodedigital.in
 bizcraftindia.com
@@ -22608,6 +22611,7 @@ blogdautu.vn
 blogdovarejo.campanhamartins.com.br
 blogentry.cf
 blogforgamer.com
+blogformacionpchj.inces.gob.ve
 blogforprofits.com
 blogg.postvaxel.se
 blogg.website
@@ -22620,6 +22624,7 @@ blogkarir.com
 blogkienthuc.org
 blogline.net
 blogmason.mixh.jp
+blogmiranda.inces.gob.ve
 blogmydaily.com
 blognhakhoa.vn
 blogprinter.net
@@ -23928,7 +23933,6 @@ c.eeeeee.cz
 c.etheos.site
 c.k1ristri.ru
 c.pieshua.com
-c.top4top.net
 c.vivi.casa
 c.vollar.ga
 c.xzzzx.ga
@@ -26143,7 +26147,6 @@ cloudflarrr.ml
 cloudhaste.com
 cloudhooks.com
 clouding-world.online
-cloudme.com
 cloudmine.pl
 cloudninedesign.com.au
 cloudphotos.party
@@ -28684,6 +28687,7 @@ decorexpert-arte.com
 decorinfo.ru
 decorsfantasmo.com
 decorstoff.com
+decorstyle.ig.com.br
 decortez.com
 decortie.top
 decospirit.com
@@ -30672,7 +30676,6 @@ down.haote.com
 down.hognoob.se
 down.icafe8.com
 down.klldddiso.xyz
-down.kuwo.cn
 down.leyoucoc.cn
 down.my0115.ru
 down.pcclear.com
@@ -32669,7 +32672,6 @@ emtech-canada.com
 emtlogistic.com
 emu4ios.biz
 emulsiflex.com
-emumovies.com
 en.avtoprommarket.ru
 en.belux.hu
 en.chubakhangal.mn
@@ -33293,7 +33295,6 @@ estomedic.com
 estore.qurvex.com
 estrategias-corporativas.com
 estrategiasdeaprovacao.com.br
-estreamnetworks.net
 estrindesign.com
 estrom.es
 estrutura.eng.br
@@ -33856,7 +33857,6 @@ f.imake99.website
 f.jump.wtf
 f.kuai-go.com
 f.makswells.com
-f.top4top.net
 f0232447.xsph.ru
 f0236061.xsph.ru
 f0241996.xsph.ru
@@ -34198,6 +34198,7 @@ fastpool.ir
 fastprotectsolutions.com
 fastrackapp.es
 fastrxtransfer.com
+fastsoft.onlinedown.net
 fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
@@ -40102,7 +40103,6 @@ humandevelopmentmag.org
 humanfortis.mn
 humanhealthinsurance.xyz
 humani.com.hr
-humanitiesprc.web.illinois.edu
 humanjournal.site
 humanointegral.cl
 humanoshaciaelfuturo.org
@@ -41086,6 +41086,7 @@ incasesafety.com
 incelticitayt.site
 inceptioneng.com
 inceptionradio.planetparanormal.com
+inces.gob.ve
 incgoin.com
 inci-huidtherapie.nl
 incipepharma.com
@@ -41911,6 +41912,7 @@ iquestcon-my.sharepoint.com
 ir-consulting.eu
 ir-music.ir
 ir-watduoliprudential.com.watchdogdns.duckdns.org
+ir.interceptors.com
 iracan.ir
 iradacancel.com
 iraflatow.com
@@ -50007,6 +50009,8 @@ meltonairservices.com.au
 melwanilaw.com
 melyanna.nl
 memap.co.uk
+members.chello.nl
+members.iinet.net.au
 members.westnet.com.au
 membre.parle-en-musique.fr
 membros.12weeksfor.com.br
@@ -52534,7 +52538,6 @@ nasdembjm.000webhostapp.com
 nase-rodina.cz
 nashikproperty.tk
 nashobmen.org
-nashobmenfiles.com
 nashpersonal.com.ua
 nasikotak.id
 nasilsing.com
@@ -52881,6 +52884,7 @@ nethouse.sk
 netich.co.ke
 netimoveis.me
 netin.vn
+netix.dl.sourceforge.net
 netizennepal.com
 netking.duckdns.org
 netlux.in
@@ -54248,7 +54252,6 @@ officeboss.xyz
 officecloud.cc
 officeconcerts.com
 officehomems.com
-officekav.com
 officeminami.net
 officemysuppbox.com
 officeonline.000webhostapp.com
@@ -55720,6 +55723,7 @@ passpartout.org
 passportstatusonline.com
 passwordrecoverysoft.com
 past.com.tr
+pasteboard.co
 pastelcolors.in
 pastilepentruslabit.ro
 pastliferegressiontraining.com
@@ -59847,7 +59851,6 @@ res-energo.com
 res.entercenter.net
 res.qaqgame.cn
 res.uf1.cn
-res.yeshen.com
 resamarkham.info
 resbrokers.com
 rescombp.co.uk
@@ -60052,7 +60055,6 @@ rgbsrl.com.ar
 rgclimatizacion.com
 rgdecor.org
 rgfloors.com.au
-rgho.st
 rgmobilegossip.com
 rgrosser.com
 rgrservicos.com.br
@@ -65052,7 +65054,6 @@ ssllinks.duckdns.org
 sslv3.at
 ssmmbed.com
 ssmthethwa.co.za
-ssofhoseuegsgrfnj.su
 ssofhoseuegsgrfnu.ru
 ssoocc.com
 ssosi.ru
@@ -66204,6 +66205,7 @@ support.gsntv.com
 support.homemakerideas.com
 support.imaitaly.biz
 support.jbrueggemann.com
+support.mdsol.com
 support.redbook.aero
 support.volkerstevin.ca
 support81.si
@@ -67010,6 +67012,7 @@ tatilmaster.com
 tatim.com.br
 tatnefts.su
 tatoestudio.com
+tatra603team.cz
 tatsu.com.vn
 tatsuo.io
 tattomakeup.ru
@@ -68692,6 +68695,7 @@ tijenkaras.com
 tike.co.uk
 tiketanda.com
 tikimi.net.vn
+tikvip.lt
 tilbemarket.com
 tile-info.com
 tilesforafrica.com
@@ -69234,6 +69238,7 @@ totnaks.com
 toto-win.ru
 totosdatete.org
 touchandlearn.pt
+toucharger.com
 touchartvn.com
 touchesbegan.eu
 touchoftuscany.com
@@ -69750,7 +69755,6 @@ truefashion.info
 trueke.es
 truenorthtimber.com
 trueperz.com
-trueshare.com
 trueterroir.co.uk
 trulight.io
 trullsrodshop.com
@@ -72647,6 +72651,7 @@ web.pa-cirebon.go.id
 web.riderit.com
 web.smakristen1sltg.sch.id
 web.speakingofhome.com
+web.tiscali.it
 web.tiscalinet.it
 web.udl.cat
 web.vorona.ru
@@ -73833,7 +73838,6 @@ www-bsac.eecs.berkeley.edu
 www-grupotv1-com-br.azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 www.smart-eg.com
 www022284.com
-www107.zippyshare.com
 www11.thinkproject.com
 www2.cj53.cn
 www2.gamingsupport.com
@@ -73842,7 +73846,6 @@ www2.recepty5.com
 www2.runmyweb.com
 www2.wlwv.k12.or.us
 www6.hpq0.cn
-www68.zippyshare.com
 wwwclplonline.000webhostapp.com
 wwwdev.whitehat.pt
 wwwhelper.com
@@ -73891,6 +73894,7 @@ x-soft.tomskru
 x-tel.com
 x-trade.com.pl
 x.autistichorse.club
+x.jmxded153.net
 x.jmxded184.net
 x.kuai-go.com
 x.ord-id.com

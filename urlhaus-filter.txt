@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 24 Nov 2019 12:07:47 UTC
+! Updated: Mon, 25 Nov 2019 00:07:39 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -664,6 +664,7 @@
 104.248.142.189
 104.248.142.32
 104.248.143.179
+104.248.145.18
 104.248.148.224
 104.248.149.170
 104.248.149.214
@@ -2829,6 +2830,7 @@
 147.135.99.100
 147.135.99.107
 147.135.99.111
+147.135.99.147
 147.135.99.155
 147.91.212.250
 147.92.80.67
@@ -4070,6 +4072,7 @@
 167.71.230.34
 167.71.237.85
 167.71.241.245
+167.71.244.235
 167.71.248.156
 167.71.254.48
 167.71.3.168
@@ -6757,6 +6760,7 @@
 188.165.179.11
 188.165.179.15
 188.165.179.8
+188.165.193.126
 188.165.202.80
 188.165.220.81
 188.165.89.65
@@ -7399,6 +7403,7 @@
 192.210.146.35
 192.210.146.45
 192.210.146.54
+192.210.180.163
 192.210.180.166
 192.210.214.166
 192.210.214.199
@@ -15990,7 +15995,10 @@ adazing.com/xebgo7d/
 adbee.tk
 adbord.com
 adcanudosnh.com.br
-adcash.cf
+adcash.cf/20190118/multishare.exe
+adcash.cf/20190118/ppi02.exe
+adcash.cf/20190118/pushbot.exe
+adcash.cf/20190118/svchost.exe
 adcash.ga
 adccenterbd.com
 adcinterior.co.in
@@ -18374,7 +18382,7 @@ antistresstoys.xyz
 antiteza.org
 antivirusassists.com
 antoine-maubon.fr
-antoinegimenez.com
+antoinegimenez.com/css/hUgHbaEf/
 antoinevachon.com
 antolin-davies.com
 anton-1.info
@@ -18521,7 +18529,7 @@ apicecon.com.br
 apicforme.com
 apidava.tk
 apieceoftoastblog.com
-apigeoip.com
+apigeoip.com/cl.exe
 apihomes.us
 apiperjuangan.com
 apipro.com.br
@@ -19957,12 +19965,13 @@ autobritt.apptitude.ch
 autobuschel.ru
 autocenter2000.com.br
 autoclasscuneo.it
-autocom.mx
+autocom.mx/aviso-de-privacidad-agencias-es-mx.htm
+autocom.mx/aviso-de-privacidad-agencias-es-mx.htm/
 autodavid.hr
 autodetali-161.ru
 autodevices.topterra.ru
 autodrim.pl
-autodwg.com/download/dwfinpro.exe
+autodwg.com
 autoecole-hammamet.tn
 autoecole.inchtechs.com
 autoecolehophophop.com
@@ -22476,7 +22485,7 @@ biz-shop.pro
 biz.creationcabin.com
 bizajans.com
 bizasiatrading.com
-bizbhutanevents.com/wp-rss.php
+bizbhutanevents.com
 bizbuilder.co.za
 bizcodedigital.in
 bizcraftindia.com
@@ -22995,7 +23004,7 @@ blogdautu.vn
 blogdovarejo.campanhamartins.com.br
 blogentry.cf
 blogforgamer.com
-blogformacionpchj.inces.gob.ve/inicio/sendincsec/legal/sec/En_en/2019-03/
+blogformacionpchj.inces.gob.ve
 blogforprofits.com
 blogg.postvaxel.se
 blogg.website
@@ -23008,7 +23017,7 @@ blogkarir.com
 blogkienthuc.org
 blogline.net
 blogmason.mixh.jp
-blogmiranda.inces.gob.ve/zzsm-qqz8fm-fhtu.view/
+blogmiranda.inces.gob.ve
 blogmydaily.com
 blognhakhoa.vn
 blogprinter.net
@@ -24328,7 +24337,10 @@ c.eeeeee.cz
 c.etheos.site
 c.k1ristri.ru
 c.pieshua.com
-c.top4top.net
+c.top4top.net/p_1042v9c0c1.jpg
+c.top4top.net/p_1055q1ssb1.jpg
+c.top4top.net/p_6534e8r81.jpg
+c.top4top.net/p_897ao4tp1.jpg
 c.vivi.casa
 c.vollar.ga
 c.xzzzx.ga
@@ -25401,6 +25413,7 @@ cdn.discordapp.com/attachments/538861511133888526/546557289419636736/fff.exe
 cdn.discordapp.com/attachments/539099781692129280/609047899690500097/j_.bat
 cdn.discordapp.com/attachments/539272126738333706/605432321943797783/fhrtsjgtrjf.exe
 cdn.discordapp.com/attachments/541659699938852871/551293048709971978/cs_1.6.exe
+cdn.discordapp.com/attachments/543105341953409024/611571256650629130/qwe.exe
 cdn.discordapp.com/attachments/543511106849734663/543512792716804135/SeafkoAgent.exe
 cdn.discordapp.com/attachments/543511106849734663/543827896800641055/SeafkoAgent.exe
 cdn.discordapp.com/attachments/543860274034245642/601736669267230730/chit_na_ks_1183064a8ba795196_66874_32d44b76d0.iso
@@ -26871,7 +26884,8 @@ cloudflarrr.ml
 cloudhaste.com
 cloudhooks.com
 clouding-world.online
-cloudme.com
+cloudme.com/v1/ws2/:dr404/:22cted/22cted.exe
+cloudme.com/v1/ws2/:dr404/:MicrosoftOffice/MicrosoftOffice.exe
 cloudmine.pl
 cloudninedesign.com.au
 cloudphotos.party
@@ -29470,10 +29484,7 @@ decorexpert-arte.com
 decorinfo.ru
 decorsfantasmo.com
 decorstoff.com
-decorstyle.ig.com.br/wp-content/languages/73ev356jq-qo21-295069/
-decorstyle.ig.com.br/wp-content/languages/Scan/za7w63pg79e_f4ia5-01669369/
-decorstyle.ig.com.br/wp-content/languages/cAYciQWuiFGdqx/
-decorstyle.ig.com.br/wp-content/languages/gtra6/
+decorstyle.ig.com.br
 decortez.com
 decortie.top
 decospirit.com
@@ -32270,7 +32281,8 @@ down.haote.com
 down.hognoob.se
 down.icafe8.com
 down.klldddiso.xyz
-down.kuwo.cn
+down.kuwo.cn/KwLyric.exe
+down.kuwo.cn/mbox/wwwab/MBOX8.0.1.5/kuwo2015.exe
 down.leyoucoc.cn
 down.my0115.ru
 down.pcclear.com
@@ -36744,7 +36756,8 @@ emtech-canada.com
 emtlogistic.com
 emu4ios.biz
 emulsiflex.com
-emumovies.com
+emumovies.com/api/KoVnY-VKOAHCVbLbuiaGV_tYplOEOl-tC/
+emumovies.com/api/QPTD-ns1RMZxGPP9KUXc_ZJtdiARvZ-AdO/
 en.avtoprommarket.ru
 en.belux.hu
 en.chubakhangal.mn
@@ -37370,7 +37383,7 @@ estomedic.com
 estore.qurvex.com
 estrategias-corporativas.com
 estrategiasdeaprovacao.com.br
-estreamnetworks.net
+estreamnetworks.net/7GWTSLC/WIRE/Commercial
 estrindesign.com
 estrom.es
 estrutura.eng.br
@@ -37941,7 +37954,13 @@ f.imake99.website
 f.jump.wtf
 f.kuai-go.com
 f.makswells.com
-f.top4top.net
+f.top4top.net/p_1021nyrf11.jpg
+f.top4top.net/p_102230sjx1.jpg
+f.top4top.net/p_395kzojk1.jpg
+f.top4top.net/p_422xlwbo1.png
+f.top4top.net/p_69215ufx1.jpg
+f.top4top.net/p_82367ep41.jpg
+f.top4top.net/p_920uefkfpx3xc1.jpg
 f002.backblazeb2.com/file/casefile/adobe.exe
 f002.backblazeb2.com/file/cliente22/Or%C3%A7amento%20de%20Maio.msi
 f0232447.xsph.ru
@@ -38286,7 +38305,7 @@ fastpool.ir
 fastprotectsolutions.com
 fastrackapp.es
 fastrxtransfer.com
-fastsoft.onlinedown.net/down/onekeyyijianhuanyuan.exe
+fastsoft.onlinedown.net
 fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
@@ -44574,7 +44593,7 @@ humandevelopmentmag.org
 humanfortis.mn
 humanhealthinsurance.xyz
 humani.com.hr
-humanitiesprc.web.illinois.edu
+humanitiesprc.web.illinois.edu/cgi-bin/qczl/
 humanjournal.site
 humanointegral.cl
 humanoshaciaelfuturo.org
@@ -45603,7 +45622,7 @@ incasesafety.com
 incelticitayt.site
 inceptioneng.com
 inceptionradio.planetparanormal.com
-inces.gob.ve/entel_online/Visualizar-fact.zip
+inces.gob.ve
 incgoin.com
 inci-huidtherapie.nl
 incipepharma.com
@@ -46431,7 +46450,7 @@ iquestcon-my.sharepoint.com
 ir-consulting.eu
 ir-music.ir
 ir-watduoliprudential.com.watchdogdns.duckdns.org
-ir.interceptors.com/wp-content/WnDYSB/
+ir.interceptors.com
 iracan.ir
 iradacancel.com
 iraflatow.com
@@ -53943,7 +53962,9 @@ masdeco.com.ar
 masdegaly.info
 masdeprovence.fr
 masdkhjdfgjgh.ug/nashjgsda.exe
+masdkhjdfgjgh.ug/nghjfd.exe
 masdkhjdfgjgh.ug/nsdfhgjsdf.exe
+masdkhjdfgjgh.ug/pcvjhdfhkjsd.EXE
 masdkhjdfgjgh.ug/pdhbjvfg.EXE
 masdkhjdfgjgh.ug/psdhjksdf.EXE
 masens.be
@@ -54681,11 +54702,8 @@ meltonairservices.com.au
 melwanilaw.com
 melyanna.nl
 memap.co.uk
-members.chello.nl/g.dales2/b.exe
-members.iinet.net.au/~sambo75/FedEx--shipping(ecopy)22-3235-44-Labels.jar
-members.iinet.net.au/~sambo75/FedEx-shipping(ecopy)22-3235-44-Labels.jar
-members.iinet.net.au/~sambo75/svvchost.exe
-members.iinet.net.au/~sambo75/usps/USPS-shipping(ecopy)22-3235-44-Labels.jar
+members.chello.nl
+members.iinet.net.au
 members.westnet.com.au
 membre.parle-en-musique.fr
 membros.12weeksfor.com.br
@@ -57228,7 +57246,9 @@ nasdembjm.000webhostapp.com
 nase-rodina.cz
 nashikproperty.tk
 nashobmen.org
-nashobmenfiles.com
+nashobmenfiles.com/get/2948273/1856276
+nashobmenfiles.com/get/2948273/1856276/wifi_hack-wap_sasisa_ru.exe
+nashobmenfiles.com/get/2948273/wifi_hack-wap_sasisa_ru.exe
 nashpersonal.com.ua
 nasikotak.id
 nasilsing.com
@@ -57575,7 +57595,7 @@ nethouse.sk
 netich.co.ke
 netimoveis.me
 netin.vn
-netix.dl.sourceforge.net/project/ubl/ubl/Binaries/BootLoader_GUI.exe
+netix.dl.sourceforge.net
 netizennepal.com
 netking.duckdns.org
 netlink.com/wp-content/plugins/all-in-one-wp-migration/storage/doc/Copy_Invoice/469302181479406/FHoLy-13a_ZIEFBA-gXE/
@@ -58967,7 +58987,7 @@ officeboss.xyz
 officecloud.cc
 officeconcerts.com
 officehomems.com
-officekav.com
+officekav.com/wp-admin/HHYxQcOSN/
 officeminami.net
 officemysuppbox.com
 officeonline.000webhostapp.com
@@ -60722,6 +60742,7 @@ pastebin.com/raw/AE0Fn9qQ
 pastebin.com/raw/AFJ3YqCi
 pastebin.com/raw/AnnvDPYx
 pastebin.com/raw/BJdc0ikm
+pastebin.com/raw/BajCgNu3
 pastebin.com/raw/C0HDGynb
 pastebin.com/raw/CJFAYeLy
 pastebin.com/raw/CM22vTup
@@ -60831,6 +60852,7 @@ pastebin.com/raw/fRShK2UX
 pastebin.com/raw/fT6CeiS1
 pastebin.com/raw/fwiPuPT5
 pastebin.com/raw/gFDwhAHE
+pastebin.com/raw/gbhZSgCM
 pastebin.com/raw/gg71FzBt
 pastebin.com/raw/gwmvaipm
 pastebin.com/raw/hDg9NVQx
@@ -60883,6 +60905,7 @@ pastebin.com/raw/xwZXF2wq
 pastebin.com/raw/y5zfuhJy
 pastebin.com/raw/y6R5nYzL
 pastebin.com/raw/yJnNFtb9
+pastebin.com/raw/yUj51nDt
 pastebin.com/raw/yrDF1YCq
 pastebin.com/raw/yvyE642L
 pastebin.com/raw/yy30ZSfm
@@ -60890,25 +60913,7 @@ pastebin.com/raw/zFw14NjP
 pastebin.com/raw/zTbe7wFc
 pastebin.com/raw/zZZhQqtZ
 pastebin.com/raw/zde6dFKC
-pasteboard.co/images/HHKrjPX.jpg/download
-pasteboard.co/images/HIzhg49.jpg/download
-pasteboard.co/images/HLNMUsd.png/download
-pasteboard.co/images/HLoGpNO.jpg/download
-pasteboard.co/images/HMTQPDK.jpg/download
-pasteboard.co/images/HSAFBZI.jpg/download
-pasteboard.co/images/HSALBfU.jpg/download
-pasteboard.co/images/HSk9gWK.jpg/download
-pasteboard.co/images/HT2ugQA.jpg/download
-pasteboard.co/images/HTp1oKY.jpg/download
-pasteboard.co/images/HVTFIvR.jpg/download
-pasteboard.co/images/HVb42Yz.jpg/download
-pasteboard.co/images/HVbB1pM.jpg/download
-pasteboard.co/images/HVjbP3R.jpg/download
-pasteboard.co/images/HWfviIm.jpg/download
-pasteboard.co/images/HWgDFYp.png/download
-pasteboard.co/images/HWyr6Hm.jpg/download
-pasteboard.co/images/HXunzx0.jpg/download
-pasteboard.co/images/HXurHEL.jpg/download
+pasteboard.co
 pastelcolors.in
 pastilepentruslabit.ro
 pastliferegressiontraining.com
@@ -65193,7 +65198,7 @@ res-energo.com
 res.entercenter.net
 res.qaqgame.cn
 res.uf1.cn
-res.yeshen.com
+res.yeshen.com/player/launch/2017/09/12/da5f9a1c23034353852750488feeaf36.exe
 res11.bignox.com/player/tools/201804/407c0ce1a3b0432e91d07b3a55c6613e.exe
 res11.bignox.com/player/tools/201804/5f3cc3d06f5b4d6b92f33fdef4172d41.exe
 res11.bignox.com/player/tools/201804/69b3de2b75d547b4aac9e47d874ef805.exe
@@ -65408,7 +65413,7 @@ rgbsrl.com.ar
 rgclimatizacion.com
 rgdecor.org
 rgfloors.com.au
-rgho.st
+rgho.st/download/6nNmWRj65/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/Fornite%20Hack%202018.exe
 rgmobilegossip.com
 rgrosser.com
 rgrservicos.com.br
@@ -70624,7 +70629,8 @@ ssllinks.duckdns.org
 sslv3.at
 ssmmbed.com
 ssmthethwa.co.za
-ssofhoseuegsgrfnj.su
+ssofhoseuegsgrfnj.su/o.exe
+ssofhoseuegsgrfnj.su/t.exe
 ssofhoseuegsgrfnu.ru
 ssoocc.com
 ssosi.ru
@@ -73386,10 +73392,7 @@ support.homemakerideas.com
 support.imaitaly.biz
 support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/
 support.jbrueggemann.com
-support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/
-support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc
-support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
-support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
+support.mdsol.com
 support.redbook.aero
 support.volkerstevin.ca
 support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/
@@ -74200,8 +74203,7 @@ tatilmaster.com
 tatim.com.br
 tatnefts.su
 tatoestudio.com
-tatra603team.cz/templates/ja_purity/images/header/2c.jpg
-tatra603team.cz/templates/ja_purity/styles/background/lighter/images/2c.jpg
+tatra603team.cz
 tatsu.com.vn
 tatsuo.io
 tattomakeup.ru
@@ -75893,7 +75895,7 @@ tijenkaras.com
 tike.co.uk
 tiketanda.com
 tikimi.net.vn
-tikvip.lt/tracklist/tracking_number.pdf.exe
+tikvip.lt
 tilbemarket.com
 tile-info.com
 tilesforafrica.com
@@ -76440,7 +76442,7 @@ totnaks.com
 toto-win.ru
 totosdatete.org
 touchandlearn.pt
-toucharger.com/download/media/TC/barre-menu_1_57600.exe
+toucharger.com
 touchartvn.com
 touchesbegan.eu
 touchoftuscany.com
@@ -76974,7 +76976,10 @@ truefashion.info
 trueke.es
 truenorthtimber.com
 trueperz.com
-trueshare.com
+trueshare.com/DirectLink/FileAccess.aspx?DLID=5iUsD63u2n341xo3F787
+trueshare.com/DirectLink/FileAccess.aspx?DLID=Ramij68ogQxqP3IjGWG3
+trueshare.com/DirectLink/FileAccess.aspx?DLID=a3xhX784BxKb5w1xgGah
+trueshare.com/DirectLink/FileAccess.aspx?DLID=g512467Okv168aall61W
 trueterroir.co.uk
 trulight.io
 trullsrodshop.com
@@ -80381,7 +80386,7 @@ web.pa-cirebon.go.id
 web.riderit.com
 web.smakristen1sltg.sch.id
 web.speakingofhome.com
-web.tiscali.it/hispeedcar/lamborgbg.jpg
+web.tiscali.it
 web.tiscalinet.it
 web.udl.cat
 web.vorona.ru
@@ -81586,7 +81591,7 @@ www-bsac.eecs.berkeley.edu
 www-grupotv1-com-br.azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 www.smart-eg.com
 www022284.com
-www107.zippyshare.com
+www107.zippyshare.com/d/8OPFupqh/37744/Server.exe
 www11.thinkproject.com
 www2.cj53.cn
 www2.gamingsupport.com
@@ -81595,7 +81600,7 @@ www2.recepty5.com
 www2.runmyweb.com
 www2.wlwv.k12.or.us
 www6.hpq0.cn
-www68.zippyshare.com
+www68.zippyshare.com/d/5Eixpiut/74091/Csgo%20cheat%20updated.exe
 wwwclplonline.000webhostapp.com
 wwwdev.whitehat.pt
 wwwhelper.com
@@ -81646,9 +81651,7 @@ x-trade.com.pl
 x-x-team.weebly.com/uploads/7/8/4/0/78404562/tedata.exe
 x-x-team.weebly.com/uploads/7/8/4/0/78404562/windowsapplication1.exe
 x.autistichorse.club
-x.jmxded153.net/y.z?l=http%3a%2f%2fshivmotor.com%2fNMVA-SVa_XGhzimAE-gtc%2f49390%2fSurveyQuestionsUS_us%2fSales-Invoice&r=11943112279&d=271873&p=1&t=h/
-x.jmxded153.net/y.z?l=http%3a%2f%2fshivmotor.com%2fNMVA-SVa_XGhzimAE-gtc%2f49390%2fSurveyQuestionsUS_us%2fSales-Invoice&r=11943113879&d=271873&p=1&t=h/
-x.jmxded153.net/y.z?l=http://thuraya.kz/iVIg-wWj_tCpHue-kR/EXT/PaymentStatus/En/Past-Due-Invoice&r=11940086345&d=271873&p=1&t=h/
+x.jmxded153.net
 x.jmxded184.net
 x.kuai-go.com
 x.ord-id.com
