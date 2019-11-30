@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sat, 30 Nov 2019 00:07:43 UTC
+# Updated: Sat, 30 Nov 2019 12:07:53 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -2415,6 +2415,7 @@
 14.183.91.168
 14.186.157.13
 14.186.172.102
+14.186.27.115
 14.192.205.109
 14.192.207.187
 14.200.128.35
@@ -2853,6 +2854,7 @@
 147.92.80.67
 148.163.166.221
 148.243.84.12
+148.251.133.24
 148.3.35.72
 148.70.119.17
 148.70.29.77
@@ -3260,6 +3262,7 @@
 157.245.221.250
 157.245.221.28
 157.245.228.208
+157.245.235.136
 157.245.240.208
 157.245.244.4
 157.245.249.47
@@ -4053,6 +4056,8 @@
 167.71.109.81
 167.71.110.173
 167.71.111.63
+167.71.12.242
+167.71.124.4
 167.71.13.86
 167.71.131.218
 167.71.131.238
@@ -4516,6 +4521,7 @@
 174.138.36.230
 174.138.41.154
 174.138.44.164
+174.138.48.218
 174.138.49.178
 174.138.52.106
 174.138.52.74
@@ -7644,6 +7650,7 @@
 194.135.92.26
 194.135.93.43
 194.143.251.36
+194.147.32.11
 194.147.32.131
 194.147.32.132
 194.147.32.198
@@ -9631,6 +9638,7 @@
 222.119.181.142
 222.119.181.149
 222.119.181.151
+222.119.181.166
 222.119.40.240
 222.119.56.74
 222.119.56.81
@@ -14827,6 +14835,7 @@
 92.242.221.118
 92.242.62.156
 92.242.62.158
+92.242.62.197
 92.247.84.90
 92.249.193.47
 92.25.161.233
@@ -14986,6 +14995,7 @@
 94.156.35.177
 94.156.77.167
 94.156.77.36
+94.158.247.59
 94.176.239.24
 94.177.175.45
 94.177.183.53
@@ -34399,6 +34409,7 @@ fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
 fasttuning.lt
+fastupdate1.top
 fastweb101.com
 fastxpressdownload.com
 faszination3d.de
@@ -50186,6 +50197,7 @@ megachief.com
 megaestereocalca.net
 megafeedbd.com
 megafighton.sandboxph.com
+megagemes.info
 megahaliyikama.net
 megahost.pt
 megahurda.tk
@@ -63593,6 +63605,7 @@ shyampooja.com
 shzwnsarin.com
 si-hao.cn
 sia-gmbh.de
+siairport.com
 siakad.brawijaya.ac.id
 siakad.ub.ac.id
 sial-healthcare.co.uk
@@ -73281,6 +73294,7 @@ wediet.com.my
 wedingcoenterprise.com
 wedjoyet.com
 wedliny-zmtrzebownisko.big07.pl
+wednesdat.xyz
 wedouhbhdm.pw
 wedowebsite.ca
 weebci.net

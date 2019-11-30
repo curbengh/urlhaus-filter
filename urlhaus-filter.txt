@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 30 Nov 2019 00:07:43 UTC
+! Updated: Sat, 30 Nov 2019 12:07:53 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2416,6 +2416,7 @@
 14.183.91.168
 14.186.157.13
 14.186.172.102
+14.186.27.115
 14.192.205.109
 14.192.207.187
 14.200.128.35
@@ -2854,6 +2855,7 @@
 147.92.80.67
 148.163.166.221
 148.243.84.12
+148.251.133.24
 148.3.35.72
 148.70.119.17
 148.70.29.77
@@ -3261,6 +3263,7 @@
 157.245.221.250
 157.245.221.28
 157.245.228.208
+157.245.235.136
 157.245.240.208
 157.245.244.4
 157.245.249.47
@@ -4054,6 +4057,8 @@
 167.71.109.81
 167.71.110.173
 167.71.111.63
+167.71.12.242
+167.71.124.4
 167.71.13.86
 167.71.131.218
 167.71.131.238
@@ -4517,6 +4522,7 @@
 174.138.36.230
 174.138.41.154
 174.138.44.164
+174.138.48.218
 174.138.49.178
 174.138.52.106
 174.138.52.74
@@ -7645,6 +7651,7 @@
 194.135.92.26
 194.135.93.43
 194.143.251.36
+194.147.32.11
 194.147.32.131
 194.147.32.132
 194.147.32.198
@@ -9642,6 +9649,7 @@
 222.119.181.142
 222.119.181.149
 222.119.181.151
+222.119.181.166
 222.119.40.240
 222.119.56.74
 222.119.56.81
@@ -14846,6 +14854,7 @@
 92.242.221.118
 92.242.62.156
 92.242.62.158
+92.242.62.197
 92.247.84.90
 92.249.193.47
 92.25.161.233
@@ -15005,6 +15014,7 @@
 94.156.35.177
 94.156.77.167
 94.156.77.36
+94.158.247.59
 94.176.239.24
 94.177.175.45
 94.177.183.53
@@ -25438,6 +25448,7 @@ cdn.discordapp.com/attachments/323853112815124481/339009105366745088/1_abre_isto
 cdn.discordapp.com/attachments/328201637032099840/452788643220684810/pkl7.0.exe
 cdn.discordapp.com/attachments/330023129223135232/331132862625611786/powerproductions.exe
 cdn.discordapp.com/attachments/341529577606217730/609103022756331596/1.exe
+cdn.discordapp.com/attachments/341529577606217730/609109291630198825/15.exe
 cdn.discordapp.com/attachments/341940792253874176/341940874445455360/MJnwem2Rzu0.exe
 cdn.discordapp.com/attachments/342298408360345601/647203197240344606/hworm.vbs
 cdn.discordapp.com/attachments/358454190642823168/358454276252499968/test.exe
@@ -25472,6 +25483,7 @@ cdn.discordapp.com/attachments/430556909351731200/603316202063790090/zxv_signed.
 cdn.discordapp.com/attachments/430556909351731200/603688724831797250/day1_signed.exe
 cdn.discordapp.com/attachments/430556909351731200/605810389128839229/zsd_signed.exe
 cdn.discordapp.com/attachments/436298448665575427/481620773501534208/111111111.exe
+cdn.discordapp.com/attachments/436574725515378688/609151320976261164/227.exe
 cdn.discordapp.com/attachments/441473088090013706/458322655972425739/ForceOP.exe
 cdn.discordapp.com/attachments/443794863973203980/444125355335221250/kubiki.ru.exe
 cdn.discordapp.com/attachments/445012898138423306/445013562780286987/installer.exe
@@ -25589,6 +25601,7 @@ cdn.discordapp.com/attachments/588179819972395029/588871215666692096/GEE.exe
 cdn.discordapp.com/attachments/588179819972395029/588874572926025729/out-1445440753.hta
 cdn.discordapp.com/attachments/588286158258307072/610861960275427372/server.jpg.exe
 cdn.discordapp.com/attachments/590617225833218058/602442562417983508/rat.exe
+cdn.discordapp.com/attachments/590895419199062026/609314291673202698/ffff.exe
 cdn.discordapp.com/attachments/593100084615315456/607170896389472267/FREEQN.exe
 cdn.discordapp.com/attachments/595421777279320067/616848894969774081/RFQ_JVJS.ace
 cdn.discordapp.com/attachments/595492404279377951/595492423841611836/dwm.exe
@@ -25668,6 +25681,7 @@ cdn.discordapp.com/attachments/641015078530842682/645889727521619968/R6.exe
 cdn.discordapp.com/attachments/641115505754767420/647060249131614221/Original_Documents.doc
 cdn.discordapp.com/attachments/641290995094519841/641313744202235962/1.exe
 cdn.discordapp.com/attachments/641950401318617090/642334632456486922/setup.exe
+cdn.discordapp.com/attachments/642298409394634775/643364739556179968/pdf_Approved_Estimation_Pages_for_EQ16070066.tar.gz
 cdn.discordapp.com/attachments/642298409394634775/646273266041880596/Quotation_Pl-109-2019.tar.gz
 cdn.discordapp.com/attachments/642959875680239639/643682250071867414/Assign_Documents.img
 cdn.discordapp.com/attachments/643490154576740352/644103335401619466/Scanned131119.zip
@@ -25689,6 +25703,7 @@ cdn.discordapp.com/attachments/644350090311368705/645872071162986496/Assigin_Doc
 cdn.discordapp.com/attachments/644441640345403413/644441978016366592/TT_hzl_kopya_pdf_________________________.zip
 cdn.discordapp.com/attachments/645260599810588700/646369720366268426/video_2019-11-05_17-23-18.mp4.scr
 cdn.discordapp.com/attachments/645915699704889356/646640677064540170/Payment_Notification.zip
+cdn.discordapp.com/attachments/646007338523688990/646009027314319362/Discord_nitro_hack_Coded_by_Realine.exe
 cdn.discordapp.com/attachments/646150655886491651/646169619106758656/DHL_AWB_NO_5011043111pdf.lzh
 cdn.discordapp.com/attachments/646414568519630852/646828498350112810/RFQ_176-4000127496.doc
 cdn.discordapp.com/attachments/646464906396434445/646465074508070932/PO187144_Urgent_Request_Quote_Best_Price.gz
@@ -40786,6 +40801,7 @@ fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
 fasttuning.lt
+fastupdate1.top
 fastweb101.com
 fastxpressdownload.com
 faszination3d.de
@@ -57172,6 +57188,7 @@ megachief.com
 megaestereocalca.net
 megafeedbd.com
 megafighton.sandboxph.com
+megagemes.info
 megahaliyikama.net
 megahost.pt
 megahurda.tk
@@ -63353,6 +63370,7 @@ pastebin.com/raw/0YTqaBmJ
 pastebin.com/raw/0php6n7G
 pastebin.com/raw/1fjPuYhv
 pastebin.com/raw/1w6BLxha
+pastebin.com/raw/2gCwSTFg
 pastebin.com/raw/2nfaiNGN
 pastebin.com/raw/2qqL8jVT
 pastebin.com/raw/2vHCXAwe
@@ -63380,6 +63398,7 @@ pastebin.com/raw/A8e40C8J
 pastebin.com/raw/ABWV78y1
 pastebin.com/raw/AE0Fn9qQ
 pastebin.com/raw/AFJ3YqCi
+pastebin.com/raw/Ac5L7NRj
 pastebin.com/raw/AnnvDPYx
 pastebin.com/raw/AnsHH70i
 pastebin.com/raw/B9WYiKEa
@@ -63420,6 +63439,7 @@ pastebin.com/raw/JaerZWSQ
 pastebin.com/raw/JdTuFmc5
 pastebin.com/raw/Jk83kEqi
 pastebin.com/raw/JmC5V5as
+pastebin.com/raw/K3acEKyj
 pastebin.com/raw/KN4bbgRm
 pastebin.com/raw/KgNuSJT8
 pastebin.com/raw/Kgr3ZPs7
@@ -63439,6 +63459,7 @@ pastebin.com/raw/NYPyRGCL
 pastebin.com/raw/NyBhcsCS
 pastebin.com/raw/P8jwNFLR
 pastebin.com/raw/PGEcvceN
+pastebin.com/raw/Pt3ucSh5
 pastebin.com/raw/Q0E8fdwn
 pastebin.com/raw/Q8Tr0y9G
 pastebin.com/raw/Q8tGJt1V
@@ -63477,6 +63498,7 @@ pastebin.com/raw/ZU7beYdK
 pastebin.com/raw/ZUUcb4ar
 pastebin.com/raw/ZpGRinae
 pastebin.com/raw/ZsWQg7Up
+pastebin.com/raw/Zt3fQmYs
 pastebin.com/raw/ZxBcfMCW
 pastebin.com/raw/a816Nq2Q
 pastebin.com/raw/aMnUbDuB
@@ -63556,6 +63578,7 @@ pastebin.com/raw/w584MLzt
 pastebin.com/raw/wAJgxNYP
 pastebin.com/raw/wDvPz4jU
 pastebin.com/raw/wfiKQEy4
+pastebin.com/raw/wvQ2tKMy
 pastebin.com/raw/x170Cj1j
 pastebin.com/raw/xwZXF2wq
 pastebin.com/raw/y5zfuhJy
@@ -71510,6 +71533,7 @@ shyampooja.com
 shzwnsarin.com
 si-hao.cn
 sia-gmbh.de
+siairport.com
 siakad.brawijaya.ac.id
 siakad.ub.ac.id
 sial-healthcare.co.uk
@@ -83403,6 +83427,7 @@ wediet.com.my
 wedingcoenterprise.com
 wedjoyet.com
 wedliny-zmtrzebownisko.big07.pl
+wednesdat.xyz
 wedouhbhdm.pw
 wedowebsite.ca
 weebci.net
