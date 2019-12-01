@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 01 Dec 2019 00:07:45 UTC
+! Updated: Sun, 01 Dec 2019 12:07:47 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -3690,6 +3690,7 @@
 162.244.32.180
 162.244.32.192
 162.244.32.37
+162.244.81.204
 162.244.81.55
 162.246.20.236
 162.246.21.139
@@ -3929,6 +3930,7 @@
 165.22.96.111
 165.22.96.8
 165.22.99.126
+165.227.0.135
 165.227.0.144
 165.227.102.170
 165.227.102.171
@@ -4026,6 +4028,7 @@
 167.114.155.196
 167.114.186.21
 167.114.194.6
+167.114.198.145
 167.114.255.50
 167.114.3.119
 167.114.57.102
@@ -4042,6 +4045,7 @@
 167.172.138.222
 167.172.140.189
 167.172.184.185
+167.172.199.201
 167.172.208.31
 167.172.225.62
 167.172.225.69
@@ -5020,6 +5024,7 @@
 178.128.237.177
 178.128.238.126
 178.128.238.130
+178.128.238.54
 178.128.24.226
 178.128.240.237
 178.128.241.137
@@ -8256,6 +8261,7 @@
 2.55.97.245
 2.56.213.96
 2.56.241.218
+2.56.8.113
 2.56.8.132
 2.56.8.146
 2.56.8.16
@@ -9532,6 +9538,7 @@
 218.161.75.17
 218.161.80.86
 218.161.83.114
+218.21.171.49
 218.214.86.77
 218.232.224.35
 218.255.247.58
@@ -9971,6 +9978,7 @@
 27.64.236.63
 27.64.237.80
 27.64.24.23
+27.64.84.180
 27.66.65.251
 27.68.5.234
 27.70.202.116
@@ -11544,6 +11552,7 @@
 46.21.248.153
 46.21.63.172
 46.210.121.204
+46.212.171.15
 46.214.156.21
 46.225.117.173
 46.225.118.74
@@ -14466,6 +14475,7 @@
 89.122.255.52
 89.122.77.154
 89.133.14.96
+89.138.241.110
 89.142.169.22
 89.144.174.153
 89.148.143.160
@@ -25459,6 +25469,7 @@ cdn.discordapp.com/attachments/323093248052559874/323097081377980417/Strats_Nida
 cdn.discordapp.com/attachments/323853112815124481/339009105366745088/1_abre_isto_e_espera_3_seg_e_dps_f7.exe
 cdn.discordapp.com/attachments/328201637032099840/452788643220684810/pkl7.0.exe
 cdn.discordapp.com/attachments/330023129223135232/331132862625611786/powerproductions.exe
+cdn.discordapp.com/attachments/341529577606217730/609100137347678208/0.exe
 cdn.discordapp.com/attachments/341529577606217730/609103022756331596/1.exe
 cdn.discordapp.com/attachments/341529577606217730/609109291630198825/15.exe
 cdn.discordapp.com/attachments/341940792253874176/341940874445455360/MJnwem2Rzu0.exe
@@ -25634,6 +25645,7 @@ cdn.discordapp.com/attachments/602547819349409828/602565242102480906/hazir.exe
 cdn.discordapp.com/attachments/602622426278264832/602622563184672768/donat.op.exe
 cdn.discordapp.com/attachments/602629984477118475/611516183950131230/server12.exe
 cdn.discordapp.com/attachments/603167598410203138/603223842160377897/HaxOfHITBOXreachEndFly1ss1ByEnder.exe
+cdn.discordapp.com/attachments/603214298642120744/608654745284116481/ml.exe
 cdn.discordapp.com/attachments/603260499223904257/603260529628282881/Server.exe
 cdn.discordapp.com/attachments/603292715991695380/603292856131780628/dllinjector.exe
 cdn.discordapp.com/attachments/603634568213561384/603655973554487316/open_me.exe
@@ -25645,6 +25657,7 @@ cdn.discordapp.com/attachments/605716973946404884/605721453257687053/warst.exe
 cdn.discordapp.com/attachments/606197629155803136/606203209505046535/964b1da45734e393.bat
 cdn.discordapp.com/attachments/606212996922081302/606565863390445620/www.exe
 cdn.discordapp.com/attachments/606606785704624131/606628524820004874/We_have_a_new_delivery_for_you.exe
+cdn.discordapp.com/attachments/608316456194539521/608576353226194954/roblox.com
 cdn.discordapp.com/attachments/608942875857649675/609828759776002077/dddd.exe
 cdn.discordapp.com/attachments/609188936899624960/609191727265349667/Minecraft_Cheat_V6.3.exe.exe
 cdn.discordapp.com/attachments/609451207882178581/609710702235746325/13337.exe
@@ -27732,6 +27745,7 @@ confidentum.lv
 config.cqhbkjzx.com
 config.cqmjkjzx.com
 config.hyzmbz.com
+config.kuaisousou.top
 config.myjhxl.com
 config.myloglist.top
 config.wulishow.top
@@ -63575,6 +63589,7 @@ pastebin.com/raw/w3sJyC99
 pastebin.com/raw/w584MLzt
 pastebin.com/raw/wAJgxNYP
 pastebin.com/raw/wDvPz4jU
+pastebin.com/raw/wcanafB2
 pastebin.com/raw/wfiKQEy4
 pastebin.com/raw/wvQ2tKMy
 pastebin.com/raw/x170Cj1j
@@ -68377,6 +68392,7 @@ rlpromotion.com
 rlshowalter.com
 rmaier.net
 rmailadvert15dx.xyz
+rmailserv19fd.xyz
 rmalakoyss.000webhostapp.com
 rmapplus.net
 rmarketo.com
@@ -68781,6 +68797,7 @@ rrctech.com.br
 rrdm.co.in
 rrexkmwi.yjdata.me
 rrglobaltrade.com
+rrgodshsf.ug
 rronrestaurant.com
 rroun-nourr.ga
 rrppdigital.com.ve
