@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 02 Dec 2019 00:07:49 UTC
+! Updated: Mon, 02 Dec 2019 12:07:55 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -120,6 +120,7 @@
 1.34.192.190
 1.34.199.108
 1.34.201.88
+1.34.22.179
 1.34.220.200
 1.34.238.15
 1.34.242.32
@@ -312,6 +313,7 @@
 103.195.37.243
 103.195.7.162
 103.195.7.71
+103.195.7.97
 103.199.114.215
 103.199.114.227
 103.199.114.49
@@ -997,6 +999,7 @@
 108.190.193.1
 108.190.31.236
 108.21.209.33
+108.214.240.100
 108.220.3.201
 108.237.60.93
 108.246.79.90
@@ -1721,6 +1724,7 @@
 125253363-659105193269603733.preview.editmysite.com
 125804273-550759987745397227.preview.editmysite.com
 127yjs.com
+128.106.183.24
 128.199.108.159
 128.199.137.201
 128.199.138.22
@@ -2661,6 +2665,7 @@
 142.93.194.187
 142.93.195.228
 142.93.195.249
+142.93.195.84
 142.93.196.253
 142.93.197.119
 142.93.197.207
@@ -4047,9 +4052,11 @@
 167.172.138.121
 167.172.138.222
 167.172.140.189
+167.172.16.155
 167.172.184.185
 167.172.199.201
 167.172.208.31
+167.172.220.98
 167.172.225.62
 167.172.225.69
 167.172.228.220
@@ -5876,6 +5883,7 @@
 185.158.249.232
 185.158.249.237
 185.158.249.238
+185.158.249.245
 185.158.251.103
 185.158.251.183
 185.158.251.213
@@ -8264,6 +8272,7 @@
 2.55.97.245
 2.56.213.96
 2.56.241.218
+2.56.8.110
 2.56.8.113
 2.56.8.132
 2.56.8.146
@@ -9789,6 +9798,7 @@
 23.254.167.231
 23.254.201.100
 23.254.201.234
+23.254.203.178
 23.254.204.254
 23.254.204.46
 23.254.204.62
@@ -9800,6 +9810,7 @@
 23.254.217.198
 23.254.217.50
 23.254.224.150
+23.254.224.153
 23.254.224.213
 23.254.224.32
 23.254.224.39
@@ -13549,6 +13560,7 @@
 79.118.118.47
 79.118.195.239
 79.120.157.92
+79.122.96.30
 79.124.49.203
 79.124.78.129
 79.124.78.82
@@ -17309,6 +17321,7 @@ alfacerimonial.com
 alfachemllc.com
 alfacr.pl
 alfaelegancedesign.ro
+alfaeticaret.com
 alfahdfirm.com
 alfajrclean.com
 alfalahchemicals.com
@@ -20384,6 +20397,7 @@ awator.net
 awayfromhomeinc.org
 awazpeople25.waw.pl
 awbghana.com
+awchang.com
 awcq60100.com
 awdmiami.com
 awesomeattorneymarketingtexas.com
@@ -22565,6 +22579,7 @@ bitbucket.org/new_project2019/software/downloads/pay.exe
 bitbucket.org/oisev1/bot/downloads/setup.zip
 bitbucket.org/paybot/paybot/downloads/BitcoAuthy.exe
 bitbucket.org/poleglot/sfse/downloads/Setup.exe
+bitbucket.org/presscircle/cloud/downloads/setup_c.exe
 bitbucket.org/scat01/1/downloads/Wacatac_2019-11-16_11-47.exe
 bitbucket.org/secondlifegg/second/downloads/Crypted.exe
 bitbucket.org/secondlifegg/second/downloads/MrVagner2.exe
@@ -26677,6 +26692,7 @@ cifeca.com
 ciga.ro
 cigales.be
 cigan.sk
+cigpcl.com
 ciicpro.com
 cild.edu.vn
 cilico.com
@@ -29231,6 +29247,7 @@ dapfactory.com
 dapinha.com.br
 dappen-online.de
 dapperlilgents.com
+dapperreviews.xyz
 dappublicidad.com
 daprepair.com
 dapster.y0.pl
@@ -39665,6 +39682,7 @@ ersalbe.ir
 ersanenglish.com
 ersankaravan.com
 ersbaca.com.tr
+ertertrkv.ru
 eruditup.ru
 erufc.co.kr
 erugutrane.com
@@ -41304,6 +41322,7 @@ filewhale.com
 filewood.tk
 filezhub.ml
 filfak-online.su
+filiereorkid.com
 filipesantos.com.br
 fillezilla.icf-fx.kz
 fillings.myddns.me
@@ -42111,6 +42130,7 @@ foxmusic.xyz
 foxnib.com
 foxrat123456.000webhostapp.com
 foxrpas.com
+foxupdate1.me
 foxyco.pinkjacketclients.com
 foxycopinkjacketclients.com
 fp.unived.ac.id
@@ -42158,6 +42178,7 @@ frameyourdreams.in
 franbella.com.br
 francas-bfc.fr
 francdecor.ru
+franceschetta.it
 franceslin.com
 francetvreplay.com
 franchise-atom.ru
@@ -55902,6 +55923,7 @@ majidfarm.ir
 majidi.gamecart.ir
 majidshop.ir
 majoristanbul.com
+majorlandproperty.com
 majorleaguepub.com
 majormixer.com
 majorpart.co.th
@@ -60518,6 +60540,7 @@ newscommer.com/tvgyasmev5gmk49l/lsa64install.exe
 newscommer.com/tvgyasmev5gmk49l/lsa64install_in.exe
 newsfeedkings.palab.info
 newsfootball.info
+newsitalybiz.club
 newsite.iscapp.com
 newsite.safuture.ca
 newskabar.club
@@ -61126,6 +61149,7 @@ northtopsailoceanfrontrentals.com
 northwesthiphop.com
 northwindforex.com
 nortic.co
+norvicshippnig.com
 norvikar.no
 norway2thailand.com
 norwegiannomad.com
@@ -63435,16 +63459,19 @@ pastebin.com/raw/6PapCDVd
 pastebin.com/raw/78rAkiHr
 pastebin.com/raw/7GT7JVC6
 pastebin.com/raw/7Rn9NazM
+pastebin.com/raw/7pUHhvcD
 pastebin.com/raw/82NPcP37
 pastebin.com/raw/8QhXA4yk
 pastebin.com/raw/8Zh9yNMF
 pastebin.com/raw/9N5Dq3w8
+pastebin.com/raw/9a1kEdn5
 pastebin.com/raw/9q5ZaeHb
 pastebin.com/raw/9see7UfF
 pastebin.com/raw/A8e40C8J
 pastebin.com/raw/ABWV78y1
 pastebin.com/raw/AE0Fn9qQ
 pastebin.com/raw/AFJ3YqCi
+pastebin.com/raw/ARdtcQtn
 pastebin.com/raw/Ac5L7NRj
 pastebin.com/raw/AnnvDPYx
 pastebin.com/raw/AnsHH70i
@@ -63470,6 +63497,7 @@ pastebin.com/raw/Euzk3Ht4
 pastebin.com/raw/F8W8Pz9Z
 pastebin.com/raw/FB9ZJpxV
 pastebin.com/raw/FQmdrFgG
+pastebin.com/raw/FUH5z93c
 pastebin.com/raw/FkyichTu
 pastebin.com/raw/G0ie0Cpk
 pastebin.com/raw/GNmcnAL3
@@ -63548,6 +63576,7 @@ pastebin.com/raw/ZH0hZHmG
 pastebin.com/raw/ZPXjnBLc
 pastebin.com/raw/ZU7beYdK
 pastebin.com/raw/ZUUcb4ar
+pastebin.com/raw/Za3T5yJk
 pastebin.com/raw/ZpGRinae
 pastebin.com/raw/ZsWQg7Up
 pastebin.com/raw/Zt3fQmYs
@@ -63586,6 +63615,7 @@ pastebin.com/raw/gsz0i2D6
 pastebin.com/raw/gwmvaipm
 pastebin.com/raw/hDg9NVQx
 pastebin.com/raw/hZCSsUay
+pastebin.com/raw/hzLN7srw
 pastebin.com/raw/iFSRFgHk
 pastebin.com/raw/iUcvz0qf
 pastebin.com/raw/inLZPJm0
@@ -72615,6 +72645,7 @@ softcanyon.com
 softcodeit.mobi
 softdl2.360tpcdn.com
 softdl4.360.cn
+softecangola.net
 softechint.co.uk
 softem.de
 softhotel.com
@@ -78000,6 +78031,7 @@ the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 the1.uz
 the1sissycuckold.com
 the36thavenue.com/og/7hf/
+the36thavenue.com/og/rpTZZdQ/
 the36thavenue.com/rxdpc/mrrpJmdiUJxuJjSfbiwVkYsiDIQGf/
 theaccessibilityhub.ca
 theaccessiblechurch.com
@@ -78043,6 +78075,7 @@ thebeautysea.info
 thebenson.biz
 thebermanlaw.group
 thebert.com
+thebestdeals.top
 thebestkcsmiles.com
 thebiga.dk
 thebighorntechnologies.com
@@ -78975,6 +79008,7 @@ to18.ir
 to9vxnzu16drzz9i.com
 toad.lol
 toadskins.com
+toannangcantho.com
 toasted.sa
 toaster.ph
 toatau.com
@@ -81782,6 +81816,7 @@ vav.edu.vn
 vavila163.com
 vaws.nl
 vayotradecenter.com
+vaytaichinhonline.com
 vaytien24h.org
 vaytiencaptoc.info
 vaytienlaocai.com
@@ -85155,6 +85190,7 @@ yalfinteencontre.com
 yalinosgb.com
 yallagul.com
 yallasaffar.com
+yam-editor-hmg.doc88.com.br
 yama-wonderfull-blog.com
 yamacoffee.com
 yamamenosato.com
@@ -85668,6 +85704,7 @@ yuyu02004-10043918.file.myqcloud.com
 yuyuezb.com
 yuzu.webcrow.jp
 yvarfo1y.beget.tech
+yvonnekersten.nl
 yvsguchdy.cf
 yw11i7292ieuowpeu29.com
 ywhmcs.com
