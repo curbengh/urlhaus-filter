@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sun, 01 Dec 2019 12:07:47 UTC
+# Updated: Mon, 02 Dec 2019 00:07:49 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -94,6 +94,7 @@
 1.32.53.177
 1.32.53.188
 1.32.53.191
+1.32.54.239
 1.33.232.74
 1.34.103.221
 1.34.105.178
@@ -1521,7 +1522,6 @@
 120.50.27.174
 120.52.120.11
 120.52.33.2
-120.52.51.13
 120.55.76.1
 120.72.21.106
 120.72.21.98
@@ -3253,6 +3253,7 @@
 157.245.144.62
 157.245.147.239
 157.245.171.223
+157.245.175.26
 157.245.190.144
 157.245.2.21
 157.245.209.242
@@ -3264,6 +3265,7 @@
 157.245.221.250
 157.245.221.28
 157.245.228.208
+157.245.233.7
 157.245.235.136
 157.245.237.42
 157.245.240.208
@@ -3282,6 +3284,7 @@
 157.245.43.235
 157.245.43.250
 157.245.52.62
+157.245.61.10
 157.245.67.116
 157.245.68.214
 157.245.68.93
@@ -8555,6 +8558,7 @@
 202.178.120.102
 202.182.102.37
 202.182.124.43
+202.186.122.253
 202.191.124.185
 202.28.110.204
 202.29.95.12
@@ -9717,6 +9721,7 @@
 23.226.231.5
 23.227.201.166
 23.228.112.165
+23.228.113.244
 23.23.29.10
 23.235.202.43
 23.236.76.61
@@ -10587,6 +10592,7 @@
 3658503.com
 3658504.com
 365boxms.com
+365care.encoreskydev.com
 365essex.com
 365ia.cf
 365officeonline.club
@@ -10664,6 +10670,7 @@
 37.254.72.198
 37.254.93.104
 37.255.10.49
+37.255.193.232
 37.255.196.22
 37.255.221.162
 37.255.70.202
@@ -11114,6 +11121,7 @@
 45.32.212.23
 45.32.213.194
 45.32.214.246
+45.32.222.62
 45.32.226.191
 45.32.230.13
 45.32.24.207
@@ -12112,6 +12120,7 @@
 50.115.168.102
 50.115.168.110
 50.115.168.111
+50.115.172.117
 50.115.172.143
 50.116.104.210
 50.197.106.230
@@ -13063,6 +13072,7 @@
 68.183.68.222
 68.183.71.128
 68.183.71.182
+68.183.71.205
 68.183.72.247
 68.183.72.69
 68.183.75.210
@@ -14901,6 +14911,7 @@
 92.63.197.60
 92.8.204.13
 92.8.226.20
+92.84.165.203
 9210660313.myjino.ru
 923oak.com
 926cs.com
@@ -19832,6 +19843,7 @@ atozblogging.com
 atp-tek.com
 atparsco.com
 atphitech.com
+atpscan.global.hornetsecurity.com
 atr.it
 atragon.co.uk
 atrakniaz.ir
@@ -19952,7 +19964,6 @@ aurokids.ru
 auronet.cl
 aurora.nl
 auroracommunitycare.com
-auroradx.com
 aurorahurricane.net.au
 auroratd.com
 aurrealisgroup.com
@@ -20035,6 +20046,7 @@ autodavid.hr
 autodetali-161.ru
 autodevices.topterra.ru
 autodrim.pl
+autodwg.com
 autoecole-hammamet.tn
 autoecole.inchtechs.com
 autoecolehophophop.com
@@ -22006,6 +22018,7 @@ bigdatastudies.com
 bigdev.top
 bigdiamondeals.com
 bigeyes.com.tw
+bigfile.mail.naver.com
 bigfishchain.com
 bigfoothospitality.com
 bigg-live.com
@@ -24601,6 +24614,7 @@ cargoinsurance.tk
 cargokz.kz
 cargomate-kr.cf
 cargomax.ru
+caribbean360.com
 carifesta.com
 carikliantiquitat.com
 carimbosrapidos.com.br
@@ -24982,7 +24996,6 @@ cc.dev.tuut.com.br
 cc.divineconnectionprop.co.za
 cc14927-wordpress.tw1.ru
 cc78.bg
-cc9.ne.jp
 ccamatil1-my.sharepoint.com
 ccandcbrand.com
 ccash.xyz
@@ -25062,6 +25075,7 @@ cdn.prominertools.com
 cdn.siv.cc
 cdn.slty.de
 cdn.top4top.net
+cdn.truelife.vn
 cdn.xiaoduoai.com
 cdn.zecast.com
 cdn4.css361.com
@@ -26034,6 +26048,7 @@ city.net.ru
 city1stconstructionlending.com
 cityandsuburbanwaste.co.uk
 citybiliardo.com
+citybroadband.club
 cityclosetselfstorage.com
 cityclosetstorage.com
 citycom.com.br
@@ -26083,6 +26098,7 @@ cjj.lanibio.net
 cjllcmonthlysub.ga
 cjmont41.fr
 cjnzbdy.gq
+cjoint.com
 cjsebbelov.dk
 cjtows.com
 ck-finanzberatung.de
@@ -27149,6 +27165,7 @@ convmech.com
 convrgouchon.com
 conwinonline.com
 coocihem.ru
+coofixtool.com
 cookconcreteproducts.com
 cooke.im
 cookecitysinclair.com
@@ -28880,6 +28897,7 @@ decorexpert-arte.com
 decorinfo.ru
 decorsfantasmo.com
 decorstoff.com
+decorstyle.ig.com.br
 decortez.com
 decortie.top
 decospirit.com
@@ -29027,7 +29045,6 @@ delivery.balanceado.com
 delivery.mn
 deliyiz.net
 delkaland.com
-dell1.ug
 della.themeshigh.com
 dellaconnor.com
 dellarosa.com.au
@@ -30949,7 +30966,6 @@ download.fahpvdxw.cn
 download.fixdown.com
 download.fsyuran.com
 download.glzip.cn
-download.instalki.org
 download.ipro.de
 download.kaobeitu.com
 download.ktkt.com
@@ -31423,6 +31439,7 @@ dubaijewellerymegastores.com
 dubairpsmobipay.rps-dev.com
 dubbeldwars.com
 dubbingafrica.com
+dubem.top
 dubis.eu
 dubktoys.com
 dublinbusinessjournal.com
@@ -34078,7 +34095,6 @@ f.imake99.website
 f.jump.wtf
 f.kuai-go.com
 f.makswells.com
-f.top4top.net
 f0232447.xsph.ru
 f0236061.xsph.ru
 f0241996.xsph.ru
@@ -34844,7 +34860,6 @@ files.danwin1210.me
 files.dropmybin.me
 files.enjin.com
 files.fqapps.com
-files.gathercdn.com
 files.hrloo.com
 files.l-d.tech
 files.lashawnbarber.com
@@ -37755,6 +37770,7 @@ goudappel.org
 goudu.club
 gourmetlab.pe
 gourmetreats.in
+gov.kr
 gov.rsmart-testsolutions.watchdogdns.duckdns.org
 govche.in
 goveboatclub.com.au
@@ -39837,7 +39853,6 @@ home.healthiestu.com
 home.isdes.com
 home.ktxhome.com
 home.lotr.flaik.com
-home.mindspring.com
 home.phnix-e.com
 home.punchlineidk.com
 home.selltokengarff.com
@@ -42185,7 +42200,6 @@ iqos.uni28.com
 iqra.co.ke
 iquestcon-my.sharepoint.com
 ir-consulting.eu
-ir-music.ir
 ir-watduoliprudential.com.watchdogdns.duckdns.org
 ir.interceptors.com
 iracan.ir
@@ -44959,7 +44973,6 @@ kinetics.hk
 kineziolog.si
 king-dom101.net
 king-lam.com
-king.myapp.com
 kingaardvark.com
 kingasgroup.co.uk
 kingcoffeetni.com
@@ -46264,7 +46277,6 @@ lareinedragons.fr
 larepablacailia.icu
 laresperanca.com
 largemsword.pw
-larissadelrio.com
 larissalinhares.com.br
 larissapharma.com
 laritadalathotel.com
@@ -46484,7 +46496,6 @@ lctnastisa01.com
 lcugudy.cf
 lcwk.ru
 lczyp.com
-ld.mediaget.com
 ld15.wa-democrats.net
 ldchanoi.com
 lddspt.com
@@ -50333,7 +50344,7 @@ melwanilaw.com
 melyanna.nl
 memap.co.uk
 memaryab.com
-members.iinet.net.au
+members.chello.nl
 members.westnet.com.au
 membre.parle-en-musique.fr
 membros.12weeksfor.com.br
@@ -51724,6 +51735,7 @@ mosbirdclub.ru
 mosbussum.nl
 moschee-wil.ch
 moscow.bulgakovmuseum.ru
+moscow00.online
 moscow1.online
 moscow11.at
 moscow11.host
@@ -52367,7 +52379,6 @@ my-unicorner.de
 my-way.style
 my.camptaiwan.com.tw
 my.jiwa-nala.org
-my.mixtape.moe
 my.zhaopin.com
 my10apps.com
 my2b.online
@@ -53021,6 +53032,7 @@ nbdservizi.com
 nbgcpa.net
 nbgcpa.org
 nbhgroup.in
+nbigfile.mail.naver.com
 nbj.engaged.it
 nbn-nrc.org
 nbn.co.ls
@@ -53073,7 +53085,6 @@ neatappletech.readysetselfie.com
 nebesnaya-sotnya.site
 nebraskacharters.com.au
 nebrodiescursionileanza.com
-nebula-ent.com
 nebula.ee
 neccotweethearts.com
 necessary-evil.com
@@ -55147,6 +55158,7 @@ openclient.sroinfo.com
 opencommande.icu
 opendata.safuture.ca
 opendatacities.com
+opendoorcdn.com
 openflair.de
 openhosting.tk
 openhousemonterrey.org
@@ -55378,7 +55390,6 @@ oscar-isaac.com
 oscarolivas.com
 oscooil.com
 osdecs.org.br
-osdsoft.com
 ose.lazyeight.tech
 oseco.se
 osef.gr
@@ -56541,6 +56552,7 @@ persianruggallery.com
 persiapanieltstoefl.com
 persiapet.net
 persimmonforge.com
+perso.wanadoo.es
 persona-dental.ru
 personal.nwolb.user.log.security.cod.issue.fondue-at-the-fountain.com
 personalized-weddings.com
@@ -58325,7 +58337,6 @@ proxima-advertising.com
 proxima-solution.com
 proxindo.id
 proxy-ipv4.com
-proxy.qualtrics.com
 proxygrnd.xyz
 proxyholding.com
 proxyresume.com
@@ -59374,6 +59385,7 @@ rabotaemsandreem.ru
 rabotavlitve.com
 rabotkerk.be
 raccanelli.com.br
+racerswhocare.com
 rachel-may.com
 racheldessinphotography.com
 racheldessinphotography.net
@@ -61096,6 +61108,7 @@ rsaustria.com
 rsb18.rhostbh.com
 rscreation.be
 rsdsolutions.com
+rsdstat14tp.xyz
 rsgqatar.com
 rshairbeautyipl.com.au
 rsia.kendangsari.com
@@ -61512,6 +61525,7 @@ safekar.online
 safekro.com
 safelinks-protection.com
 safemoneyamerica.com
+safentrix.com
 saferoomreviews.com
 safesalesnembutal.com
 safeservicesfze.com
@@ -62109,7 +62123,6 @@ saveanimal.org
 savecannabis.org
 savegglserps.com
 saveraahealthcare.com
-saveserpnow.com
 saveserpresults.com
 savetax.idfcmf.com
 savethechildren.xyz
@@ -62532,6 +62545,7 @@ sector7-design.com
 secueasyintergratedsystems.com
 secumor.com
 secure-download.space
+secure-n2.top
 secure-snupa.com
 secure.accounts.resourses.com
 secure.anchorssb.co
@@ -65495,7 +65509,6 @@ sslupdate2.top
 sslv3.at
 ssmmbed.com
 ssmthethwa.co.za
-ssofhoseuegsgrfnu.ru
 ssosi.ru
 sspchakri.com
 ssprosvcs.com
@@ -65999,6 +66012,7 @@ stmmg.com.br
 stmoritz.ga
 stmsales.com
 stn.methodist.org.hk
+stnupdate1.com
 sto11km.ru
 stobolid.ru
 stock-footage-free-europe.com
@@ -66587,6 +66601,7 @@ supercopa.cl
 supercrystal.am
 superdad.id
 superdigitalguy.xyz
+superdomain1709.info
 superdot.rs
 superecruiters.com
 superfitnes.net.ru
@@ -68768,7 +68783,6 @@ thepeteryee.com
 thepgconsultancy.com
 thepickledcarrot.ca
 thepietruck.com.au
-thepinetree.net
 thepinkonionusa.com
 theplayfab.com
 thepngbusiness.com
@@ -71217,7 +71231,6 @@ upload-exe.me
 upload-stat2.info
 upload-stat3.info
 upload-stat4.info
-upload.cat
 upload.moe
 upload.ynpxrz.com
 upload1.icu
@@ -71288,6 +71301,7 @@ urbanmad.com
 urbannet.co.kr
 urbanplace.co.il
 urbanprofile.net
+urbanstyle.in
 urbariatkavecany.sk
 urbibfvy.yuhong.me
 urbix.com.mx
@@ -71333,7 +71347,6 @@ ury8297ridowoury833oe.com
 urzedniczatv.pl
 us-defense-department.ml
 us-trans.ru
-us-west-2.protection.sophos.com
 us.cdn.persiangig.com
 us.hostiso.cloud
 us5interclub.cba.pl
@@ -73138,6 +73151,7 @@ web.eficiens.cl
 web.gotham.com.au
 web.ismt.pt
 web.muasam360.com
+web.opendrive.com
 web.pa-cirebon.go.id
 web.riderit.com
 web.smakristen1sltg.sch.id
@@ -73320,7 +73334,6 @@ wedding-shop.gr
 weddingcatcher.de
 weddingday-tkak.com
 weddingphotographernorwich.com
-weddingphotomenu.com
 weddingstudio.com.my
 wedewer.com
 wedieherenoshaking.ml
@@ -74336,6 +74349,7 @@ www-bsac.eecs.berkeley.edu
 www-grupotv1-com-br.azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 www.smart-eg.com
 www022284.com
+www107.zippyshare.com
 www11.thinkproject.com
 www2.cj53.cn
 www2.gamingsupport.com
@@ -75610,6 +75624,7 @@ zagogulina.com
 zagrodazbyszka.pl
 zagrosenergygroup.com
 zagruz.dnset.com
+zagruz.toh.info
 zagruz.zyns.com
 zagstudio.ir
 zahahadidmiami.com
@@ -75704,7 +75719,6 @@ zbtgcvclwr3qoz7h.com
 zcmpompa.com
 zcnet.com
 zcomsolutions.com
-zcop.ru
 zcsmba.org
 zcxe37adonis.top
 zdatasolutions.com.au
@@ -75930,6 +75944,7 @@ ziziused.com
 zizu.com.mx
 zizzy.eu
 zj.9553.com
+zjjcmspublic.oss-cn-hangzhou.aliyuncs.com
 zjttkj.cn
 zk-orekhovoborisovo.ru
 zkdjezica.si
