@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Tue, 03 Dec 2019 00:07:56 UTC
+# Updated: Tue, 03 Dec 2019 12:08:14 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -484,6 +484,7 @@
 104.131.105.124
 104.131.247.50
 104.131.36.48
+104.140.242.41
 104.148.19.116
 104.148.19.229
 104.148.41.37
@@ -2272,6 +2273,7 @@
 138.68.217.234
 138.68.224.220
 138.68.225.236
+138.68.234.239
 138.68.238.104
 138.68.238.45
 138.68.255.241
@@ -2822,6 +2824,7 @@
 146.0.72.181
 146.0.75.34
 146.0.77.12
+146.185.195.20
 146.185.253.127
 146.185.253.173
 146.255.233.50
@@ -3483,6 +3486,7 @@
 159.65.221.209
 159.65.223.68
 159.65.225.142
+159.65.225.45
 159.65.227.17
 159.65.228.119
 159.65.228.138
@@ -9100,6 +9104,7 @@
 209.141.59.124
 209.141.59.55
 209.141.60.230
+209.141.61.126
 209.141.61.187
 209.141.61.249
 209.141.62.119
@@ -10549,6 +10554,7 @@
 36.70.214.112
 36.71.70.204
 36.72.188.110
+36.72.61.162
 36.73.69.190
 36.74.74.99
 36.75.120.132
@@ -10954,6 +10960,7 @@
 41.66.76.79
 41.67.137.162
 41.72.203.82
+41.75.134.246
 41.75.68.157
 41.76.157.2
 41.76.246.6
@@ -12637,6 +12644,7 @@
 60.250.1.161
 60.250.242.72
 60.250.99.131
+60.251.229.104
 60.251.238.165
 601elevate.com
 602881963.cz
@@ -14763,6 +14771,7 @@
 91.234.99.177
 91.235.102.179
 91.235.129.55
+91.236.116.64
 91.236.140.236
 91.236.148.74
 91.236.224.217
@@ -15809,6 +15818,7 @@ acc-gen.com
 acc.misiva.com.ec
 accademiadellebellestorie.it
 accallnet.com
+accdb.opengate.it
 accedia.fr
 accelerating-success.com
 accelotech.com
@@ -16345,6 +16355,7 @@ advokat-sng.com
 advokatcw.no
 advokatikevac.com
 advustech.com
+adwaaalkhalej.com
 adwise.ru
 adwitiyagroup.com
 adwokat-dmp.pl
@@ -16733,6 +16744,7 @@ ahatourstravels.com
 ahavatil.com
 ahavietnam.com.vn
 ahead-consulting.pl
+aheakeerep.com
 aheedtravels.com
 ahenkhaircenter.com
 ahfsystems.com
@@ -17515,6 +17527,7 @@ alliance-rnd.com
 alliance-vent.ru
 alliancedirect.com
 alliancehomeinspections.com
+alliancehomepackers.com
 alliancelk.com
 alliancenh.com
 alliancerfinanceservices.com
@@ -28842,6 +28855,7 @@ de.gsearch.com.de
 de.thevoucherstop.com
 de3.doshimotai.ru
 deaconbrothersfilm.com
+deadenddrive.com
 deadseaskulls.com
 deadz.io
 deafiran.ir
@@ -29240,6 +29254,7 @@ demo4.inspectormarketing365.com
 demo5.gdlogic.gr
 demo7.maybay.net
 demo7.mon-application.com
+demo8.shenoydemo.org
 democuk.tk
 demoevents.criticalskillsboost.com
 demofinance.binghana.com
@@ -29935,6 +29950,7 @@ dienlanhannguyen.com
 dienlanhbachkhoak8.com
 dienlanhlehai.com
 dienmaynghiaphat.com
+dienmayngocthach.com
 dienminhphu.com
 diennangmattroi.com
 dienthoai.com
@@ -32415,6 +32431,7 @@ eierwiese.de
 eigen-bedrijf-starten.be
 eigenheim4life.de
 eightlegswebdesign.co.uk
+eightsecretsbook.com
 eightyeightaccessories.com.ng
 eigo-t.net
 eikokomiya.com
@@ -32939,6 +32956,7 @@ emredekorasyon.org
 emregunaydin.com.tr
 emrekarton.com
 emrsesp.com
+ems.mewxu.net
 emseenerji.com
 emsivab.se
 emst.com.ua
@@ -33115,6 +33133,7 @@ enstromstudios.inter-state.com
 ensumak.com
 entasiradio.tuc.gr
 entasystem.online
+entebook.com
 entec.vn
 enter-market.ru
 enter2shop.net
@@ -33971,6 +33990,7 @@ exeobmens.com
 exercisesupercenter.com
 exeterpremedia.com
 exhibitionislam.com
+exhicon.ir
 exhilarinfo.com
 exictos.ligaempresarial.pt
 eximalert.com
@@ -36509,6 +36529,7 @@ gandcrab505.ddns.net
 gandharaminerals.com
 gando24.com
 gandomdasht.com
+ganeca.co.id
 ganegamoks.com
 ganeshfestivalusa.org
 gangasecurity.in
@@ -38664,6 +38685,7 @@ haggend.co.uk
 haggerty.5gbfree.com
 haghshenas110.com
 haghshop.ir
+haghtillez.com
 haglfurniture.vn
 hagmann.at
 hagtex.no
@@ -40541,6 +40563,7 @@ hybrid-analysis.open-ns.ru
 hybridbusinesssolutions.com.au
 hybridseed.co.nz
 hyclor-my.sharepoint.com
+hyderabadmoversandpackers.com
 hydra0118.store
 hydra0218.xyz
 hydra100.staroundi.com
@@ -40556,6 +40579,7 @@ hydromc.ru
 hydronauta.win
 hydrotc.ru
 hydtvshow.xyz
+hyetiarice.com
 hyey.cn
 hygfv.igg.biz
 hygianis-dz.com
@@ -41340,6 +41364,7 @@ imperialsociety.org
 imperiaskygardens-minhkhai.com
 imperiaskygardens.site
 imperium-valeo.cz
+imperylify.com
 implantis.kh.ua
 import.ydgdev3.com
 importacas.pt
@@ -41404,6 +41429,7 @@ inancspor.com
 inandmusicgroup.com
 inanet.xyz
 inanhaiminh.com
+inanhung.com
 inaothoitrangvinhtuoi.com
 inarplas.com
 inauto-yar.ru
@@ -42543,6 +42569,7 @@ itconsortium.net
 itcoolingsolutions.com.au
 itcs-pohle.de
 itcshop.com.ng
+itcslimited.com
 itechscaner.com
 itechsystem.es
 itechzone.ml
@@ -47400,6 +47427,7 @@ littlepeonyphotos.ru
 littlepicture.de
 littlepoppetschildcare.com
 littlerock321.com
+littlerosespace.com
 littlesingers.info
 littlesmasher.com
 littlesparrowwatergardens-my.sharepoint.com
@@ -49227,6 +49255,7 @@ mamsoftwareportal.com
 mamsports.org
 mamweb.de
 mamycloth.store
+mamylining.com
 mamymall.ru
 mana9at.com
 manageeguru.com
@@ -50033,6 +50062,7 @@ mcjm.me
 mckeeverfineart.com
 mcknightnamibia.com
 mclaughlingroup.com.au
+mclenetios.com
 mcllmp.com
 mclplumbing.com
 mcmaqaulsk.top
@@ -50355,6 +50385,7 @@ mekea.de
 mekka-eco.com
 mekky.cz
 meknan.net
+meko-me.co.il
 mekosoft.vn
 mel.nosteakinspace.com
 melabatement.ga
@@ -50634,6 +50665,7 @@ mfdab.se
 mfevr.com
 mfg-reps.net
 mfgeorgia.ge
+mfgifts.co.in
 mfgov.ml
 mfj222.co.za
 mfletch.top
@@ -53398,6 +53430,7 @@ new.hadar.kz
 new.hawaiifencesupply.com
 new.hawkeyetraders.com
 new.hilarious.be
+new.homatour.com
 new.hornsleth.com
 new.hostdone.com
 new.igluonline.com
@@ -53888,6 +53921,7 @@ nitish4x.xyz
 nitrawhite.com.ar
 nitrobit.ru
 nitsinternational.com
+nittemsmeconclave.com
 nityarong.com
 niucase.cn
 nivasi.in
@@ -54553,6 +54587,7 @@ obulebu.com
 obustroica.ru
 obxsalesandrentals.com
 obzor23.ru
+oc.webexpertsonline.org
 ocab.simongustafsson.com
 ocaf.in
 occn-asecna.org
@@ -54986,6 +55021,7 @@ omnibox.mobi
 omnieventos.com.br
 omnigroupcapital.com
 omnisolve.hu
+omnundancy.com
 omolara.net
 omoshiroi.us
 omsa.com.au
@@ -55245,6 +55281,7 @@ operngala.berlin
 opesjk.ug
 opewinsng.com
 opfers.com
+ophopparee.com
 ophtaview.ro
 opjebord.nl
 opoasdhqnjwn.com
@@ -59260,6 +59297,7 @@ quranpf.org
 quranyar.ir
 qureshijewellery.com
 qurilish.webforte.uz
+qurrineion.com
 qutcasts.duckdns.org
 quvalda.by
 quwasolutions.com
@@ -60123,6 +60161,7 @@ regionconsultdom.ru
 regionsnews.net
 regiosano.mx
 regipostaoptika.hu
+register.raceyaya.com
 register.srru.ac.th
 registermedicalgroup.com
 registrationsansar.com
@@ -61109,6 +61148,7 @@ royaladventureclub.com
 royalamericanconstruction.com
 royalbluebustour.com
 royalbullysticks.com
+royalcargomovers.org
 royalcastleisback.com
 royalcook.in
 royalgam6web-tracking.cocomputewww.watchdogdns.duckdns.org
@@ -62195,6 +62235,7 @@ savaspark.com.tr
 save24x7.com
 saveanimal.org
 savecannabis.org
+saveearth.org.in
 savegglserps.com
 saveraahealthcare.com
 saveserpnow.com
@@ -63590,6 +63631,7 @@ shopatease.bajwadairy.com
 shopatrebate.com
 shopbeauty.org
 shopbikevault.com
+shopbkk.online
 shopcaart.com
 shopchungcu-bietthu.com
 shopclicksave.net
@@ -64953,6 +64995,7 @@ songspksongspk.top
 songul-memis.com
 sonhanquoc.net
 sonharvaleapena.com.br
+sonhastore.com
 soniarad.info
 soniccleansingantiaginginfusiondevices.com
 sonice.nl
@@ -70161,6 +70204,7 @@ trendonlineshop.xyz
 trendtrabzon.com
 trendy-chirurgiaplastyczna.pl
 trendybirdie.it
+trendyco.ir
 trendygital.peppyemails.com
 trent-ae.com
 trentay.vn
@@ -71001,6 +71045,7 @@ ulvsunda.net
 ulyana-photo.ru
 um-regionalverbund.de
 um.co.at
+umae.org
 umainc.in
 umak.edu.ph
 umakara.com.ua
@@ -71936,6 +71981,8 @@ velvetrockapps.com
 vemalandsafaris.com
 vemaprojects.be
 vemaybaymonisa.com
+vemaybayrenhat.com
+vemaybaythuha.com
 vemcanovinha.com.br
 vemdemanu.com.br
 vemfsys.gr
@@ -74440,6 +74487,7 @@ www11.thinkproject.com
 www2.cj53.cn
 www2.gamingsupport.com
 www2.itcm.edu.mx
+www2.percolab.com
 www2.recepty5.com
 www2.runmyweb.com
 www2.wlwv.k12.or.us
