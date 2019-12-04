@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Wed, 04 Dec 2019 00:12:59 UTC
+# Updated: Wed, 04 Dec 2019 12:08:05 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -1218,6 +1218,7 @@
 111.42.102.125
 111.42.102.130
 111.42.102.145
+111.42.102.78
 111.42.66.146
 111.42.66.31
 111.43.223.117
@@ -3702,6 +3703,7 @@
 162.243.254.239
 162.243.26.135
 162.243.7.179
+162.244.32.144
 162.244.32.167
 162.244.32.173
 162.244.32.180
@@ -8043,6 +8045,7 @@
 198.98.54.147
 198.98.54.86
 198.98.55.193
+198.98.55.50
 198.98.55.87
 198.98.56.116
 198.98.56.196
@@ -9068,6 +9071,7 @@
 209.141.40.86
 209.141.41.188
 209.141.41.227
+209.141.41.5
 209.141.41.58
 209.141.42.144
 209.141.42.145
@@ -9094,6 +9098,7 @@
 209.141.50.57
 209.141.51.85
 209.141.52.41
+209.141.52.83
 209.141.54.253
 209.141.54.9
 209.141.55.226
@@ -9111,6 +9116,7 @@
 209.141.59.55
 209.141.60.230
 209.141.61.126
+209.141.61.135
 209.141.61.187
 209.141.61.249
 209.141.62.119
@@ -13514,6 +13520,7 @@
 78.191.196.186
 78.207.210.11
 78.24.219.147
+78.26.189.92
 78.36.215.105
 78.36.85.85
 78.37.161.161
@@ -14294,6 +14301,7 @@
 85.96.174.129
 85.96.178.217
 85.96.187.127
+85.96.198.83
 85.97.131.5
 85.97.201.58
 85.97.206.161
@@ -16795,6 +16803,7 @@ ahosep.com
 ahrensgrabenhorst.de
 ahsan.buyiaas.com
 ahsantiago.pt
+ahsappanjur.com
 ahsb.my
 ahsengiyim.com.tr
 ahsenyurt.net
@@ -20907,6 +20916,8 @@ banjojimonline.com
 banjostylexcomms.com
 bank0001.dothome.co.kr
 bank911.ru
+bankaihtiyackredi.com
+bankakonutkredi.com
 bankenarmafzar.com
 bankeobaychim.net
 bankerscomply.com
@@ -28805,6 +28816,7 @@ dc-tech.ru
 dc.amegt.com
 dc.kuai-go.com
 dc2bookings.com
+dcacademy.designerscafe.in
 dcaremedicolegal.com
 dcarvalho.net
 dcbadfoodlawyer.com
@@ -30302,6 +30314,7 @@ dive2enjoy.com
 divelog.com.br
 divelop.nl
 diverdonis.com
+diverfarming-my.sharepoint.com
 divergentsight.net
 diversifii.com
 diversitycityin.com
@@ -32282,6 +32295,7 @@ education-eg.com
 education.quakenergy.com
 educationalworkshop.info
 educationamritsar.com
+educationcharter.net
 educationreformorg.com
 educators.plus
 edufinit.com
@@ -32842,6 +32856,7 @@ emailmarketingsurvey.com
 emailserverhub.ccomduoliprudential.com.watchdogdns.duckdns.org
 emailupgrade.flu.cc
 emaiscuism.com
+emamit.com
 emanuelnb.org
 emapla.com.br
 emark4sudan.com
@@ -34369,6 +34384,7 @@ famtripsandinspectionvisits.com
 fanalwriters.com
 fanarticho.com
 fanaticalmind.com
+fanaticaviation.com
 fanbasic.org
 fanction.jp
 fancy.direxpro.md
@@ -34496,7 +34512,6 @@ fasiladanser.com
 faskas.com
 fasomeat.com
 fast-cargo.com
-fast-computer.su
 fast-rack.eu
 fast-yoron-5181.fakefur.jp
 fast7news.in
@@ -34733,6 +34748,7 @@ fencebuildersusa.com
 fender4star.com
 fendy.lightux.com
 fenett2018.com
+fengyunhuiwu.com
 fenicerosa.com
 fenichka-ru.myjino.ru
 fenichka.ru
@@ -38529,6 +38545,7 @@ gurmeetramrahim.com
 gurmekan.net
 gurstore.in
 gurtravel.ge
+guru-kripa.designerscafe.in
 guru-sale-today.desi
 guruamardasfamily.com
 guruandco.in
@@ -39502,6 +39519,7 @@ hetbeeldenrijk.nl
 hetum.co.il
 hetz.nu
 heuveling.net
+hewaralqalam.com
 hewle.kielsoservice.net
 hexacam.com
 hexacode.lk
@@ -40096,6 +40114,7 @@ horectitab.com
 horizon2akeris.fr
 horizonfunerals.com.au
 horizont.az
+horizontelesource.com
 horizonth.com
 hormati.com
 horn-art.vn
@@ -40593,6 +40612,7 @@ hybrid-analysis.open-ns.ru
 hybridbusinesssolutions.com.au
 hybridseed.co.nz
 hyclor-my.sharepoint.com
+hyderabadcabrentals.com
 hyderabadmoversandpackers.com
 hyderabadtoursandtravels.com
 hydra0118.store
@@ -48217,6 +48237,7 @@ lwkb.info
 lyashko.site
 lybibafeliteone.com
 lybid-plaza.ua
+lyciawood.com
 lycjyq.sn.files.1drv.com
 lydian.co.jp
 lydiantemps.co.uk
@@ -54078,6 +54099,7 @@ noithatquyetloan.com.vn
 noithatshop.vn
 noithattdc.com
 noithatthanhnhan.com
+noithatthientuan.com
 noithattunglam.com
 noithatvanphongdanang.vn
 noithatviethcm.com
@@ -56021,6 +56043,7 @@ pangtoutuo.vip
 panicpc.fr
 panifortiza.com
 panjabi.net
+panjurkapak.com
 panlierhu.com
 pannewasch.de
 pannkoke.ru
@@ -56582,6 +56605,7 @@ pennasports.com
 penneytrail.org
 pennoscan.com.au
 penpilot.net
+penrithrivercafe.com
 pensacolahomeinspections.com
 pensacqua.it
 pensaresaber.com
@@ -56723,6 +56747,7 @@ perusahaansecurity.com
 perutravelamazing.com
 peruwalkingtravel.com
 perzado.com
+pesaship.com
 pescaderiasenguan.com
 pescadores.cl
 pescaeguipos.com
@@ -59059,6 +59084,7 @@ qgks2q.by.files.1drv.com
 qgproducoes.com.br
 qhemp.io
 qhoteloldcity.com
+qianghankeji.com
 qiankunculture.com
 qianlong.watchdogdns.duckdns.org
 qianzhiwangluo.com
@@ -60003,6 +60029,7 @@ readyteam.org
 reaksiyondanismanlik.com
 real-deal.net
 real-estate-athens.com
+real-money.online
 real-song.tjmedia.co.kr
 real-swiss-watches.ru
 real-websolutions.nl
@@ -60936,6 +60963,7 @@ robotizando.com.br
 robotop.cn
 robpepper.co.uk
 robshop.lt
+robsitbon.net
 robustclarity.com
 robwalls.com
 robwassotdint.ru
@@ -63346,6 +63374,7 @@ shahrenarmafzar.com
 shahriasharmin.com
 shahrproject.ir
 shahrubanu.com
+shahshahani.info
 shailendramathur.com
 shajishalom.com
 shake4help.com
@@ -66072,6 +66101,7 @@ steppingoutstudio.com
 steppingstonegy.com
 stepsofcoffee.com
 steptobetter.com
+stepupfincorp.com
 stepwhite.com.hk
 stereo92.net
 sternen-kind.de
@@ -68549,6 +68579,7 @@ thanhphotrithuc.com
 thanhsarah.com
 thanhthanhtungstone.com
 thanhtungtanluoc.com
+thanhviet.com.vn
 thankg1.org
 thanksfitness.com
 thankyoucraig.com
@@ -70680,6 +70711,7 @@ tuval-mobilya.com
 tuvanachau.com.vn
 tuvancondotelarena.com
 tuvandauthau.net
+tuvandoanhnghiep.org
 tuvanduhocduc.org
 tuvangamenet.com
 tuvangioitinh.com
@@ -71502,6 +71534,7 @@ url-validation-clients.com
 url.246546.com
 url.57569.fr.snd52.ch
 url.edu
+url.sg
 url3.mailanyone.net
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
@@ -71835,6 +71868,7 @@ vanisoftware.com
 vanividyalaya.edu.in
 vankat-agromarket.cz
 vanlizza-chau.com
+vanlokaq-monics.gq
 vanmanrunner.com
 vanmaysedenvoitoinhahi.com
 vanminhhotel.com
@@ -72985,6 +73019,7 @@ vwininternational.com
 vwmagazijn.nl
 vwqze.info
 vydra.icu
+vyhoang.airaworldtourism.com
 vym.com.ua
 vyroba-plotov-bran.sk
 vysokepole.eu
@@ -73369,6 +73404,7 @@ webbs.cl
 webbsmail.co.uk
 webbuffet.it
 webbureau-utrecht.nl
+webbuze.online
 webcamvriendinnen.nl
 webchamp.com
 webclicks.co.za
@@ -73452,6 +73488,7 @@ webradiosolnascente.com
 webriver.website
 websapp.jic-shop.com
 websayfaniz.com
+webseographicsit.com
 webserv-redir.net
 webserverthai.com
 webshop.se
@@ -73653,6 +73690,7 @@ weronikasculptu.re
 weronikasokolinskaya.pa.infobox.ru
 wertedits.com
 wertios.com
+werwrewrkv.ru
 werycloud.website
 wesconsultants.com
 weseleopole.pl

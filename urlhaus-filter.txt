@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 04 Dec 2019 00:12:59 UTC
+! Updated: Wed, 04 Dec 2019 12:08:05 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1219,6 +1219,7 @@
 111.42.102.125
 111.42.102.130
 111.42.102.145
+111.42.102.78
 111.42.66.146
 111.42.66.31
 111.43.223.117
@@ -3703,6 +3704,7 @@
 162.243.254.239
 162.243.26.135
 162.243.7.179
+162.244.32.144
 162.244.32.167
 162.244.32.173
 162.244.32.180
@@ -8044,6 +8046,7 @@
 198.98.54.147
 198.98.54.86
 198.98.55.193
+198.98.55.50
 198.98.55.87
 198.98.56.116
 198.98.56.196
@@ -9079,6 +9082,7 @@
 209.141.40.86
 209.141.41.188
 209.141.41.227
+209.141.41.5
 209.141.41.58
 209.141.42.144
 209.141.42.145
@@ -9105,6 +9109,7 @@
 209.141.50.57
 209.141.51.85
 209.141.52.41
+209.141.52.83
 209.141.54.253
 209.141.54.9
 209.141.55.226
@@ -9122,6 +9127,7 @@
 209.141.59.55
 209.141.60.230
 209.141.61.126
+209.141.61.135
 209.141.61.187
 209.141.61.249
 209.141.62.119
@@ -13536,6 +13542,7 @@
 78.191.196.186
 78.207.210.11
 78.24.219.147
+78.26.189.92
 78.36.215.105
 78.36.85.85
 78.37.161.161
@@ -14316,6 +14323,7 @@
 85.96.174.129
 85.96.178.217
 85.96.187.127
+85.96.198.83
 85.97.131.5
 85.97.201.58
 85.97.206.161
@@ -16833,6 +16841,7 @@ ahosep.com
 ahrensgrabenhorst.de
 ahsan.buyiaas.com
 ahsantiago.pt
+ahsappanjur.com
 ahsb.my
 ahsengiyim.com.tr
 ahsenyurt.net
@@ -20992,6 +21001,8 @@ banjojimonline.com
 banjostylexcomms.com
 bank0001.dothome.co.kr
 bank911.ru
+bankaihtiyackredi.com
+bankakonutkredi.com
 bankenarmafzar.com
 bankeobaychim.net
 bankerscomply.com
@@ -29624,6 +29635,7 @@ dc708.4sync.com/download/wAm3sJJ4/UPDATEAD3MH9237GM19BGA8AN790B2.zip?dsid=MBbTfz
 dc708.4sync.com/download/xgTHMfUD/BUTMHfAI1FLEK7I0GIEGA1J57ND447.zip?dsid=MBbTfzsm.f23210f02ce868e072e349fe18208871&sbsr=4a497c6ae3fcfe84300eced143bc932b9db&bip=MTA3LjE3OC4xOTQuNzk&lgfp=40
 dc708.4sync.com/download/xgTHMfUD/BUTMHfAI1FLEK7I0GIEGA1J57ND447.zip?dsid=MBbTfzsm.f23210f02ce868e072e349fe18208871&sbsr=e9c54bf47b1e917f2462a8ea1cded5239db&bip=MTA3LjE3OC4xOTQuODE&lgfp=40
 dc779.4sync.com/download/bjyDqNn4/BULGTKO038242DFE9888.zip?dsid=wqiIPRF1.d8a6931a9960763c664ba5cfe15d38fe&sbsr=8cd9e157b074b6538a09bf89b7f3a3bf9d9&bip=MTA3LjE3OC4xOTQuNzk&lgfp=40
+dcacademy.designerscafe.in
 dcaremedicolegal.com
 dcarvalho.net
 dcbadfoodlawyer.com
@@ -31163,6 +31175,7 @@ dive2enjoy.com
 divelog.com.br
 divelop.nl
 diverdonis.com
+diverfarming-my.sharepoint.com
 divergentsight.net
 diversifii.com
 diversitycityin.com
@@ -32936,7 +32949,11 @@ drive.google.com/file/d/1-XGOd6ZJSj8S_KAzQ1LIx4QsUKyPq2sc/view?usp=sharing
 drive.google.com/file/d/1-XHhjWnxBDWk4IWSORUNrpK2UqpmCByj
 drive.google.com/file/d/1-ZsiogR085Y61FO7VLcXWlt_K-jy-aDt
 drive.google.com/file/d/1-aBlUZZOxPYBhH2qFU_KLKqbqnaTlwCD
+drive.google.com/file/d/1-eXpRKqxVTI-qpRj5TtymW0R2ZBhKtcO/view?usp=sharing
 drive.google.com/file/d/1-mHplFT6qJUNq2B0hzxink5JoGw98Pyt/view?usp=sharing
+drive.google.com/file/d/1-q4FsTIWZ_d89vbbukQbSrM_jSbRF6od/view?usp=sharing
+drive.google.com/file/d/1-x2RMu5D7VD1Kp0wTuLA1J1UJG0udaRX/view?usp=sharing
+drive.google.com/file/d/103Q0ZLN0_F6cECOXcJlO5lN4R1XET9uR/view?usp=sharing
 drive.google.com/file/d/105qud1a4xJ6J9pr3YAdUYu03tk2_cQj2
 drive.google.com/file/d/1082pGIhHBXACFiwtFr0jxNASxGO1z_ec/view
 drive.google.com/file/d/108k3PyXuKgtaTRhGc7vKPzLlTzbiE2SY/view?usp=sharing/
@@ -32960,6 +32977,7 @@ drive.google.com/file/d/111xIewtJmJoiuar8HS2_0gcQclXSKAVD
 drive.google.com/file/d/11DHCWpUnC85-lBoPIk-feW9Tsg3C5Tu6
 drive.google.com/file/d/11FhsvsQP909nLBJWJQRuoKNj2pRVFVyI
 drive.google.com/file/d/11I5oETVPA9TNFOeFmJA_Pkba04pa1-c5
+drive.google.com/file/d/11K-BpZgK2LxWWrK8ioO6RcHkvq0sWIzV/view?usp=sharing
 drive.google.com/file/d/11LzKiNmR8yJP2Hop9k4qtcLlVyMg1Ju_
 drive.google.com/file/d/11MZfFBupjBPRNfGREsvMkS5n_kMdrLsG
 drive.google.com/file/d/11NrDW13lTcDp91gDYfAfe9EE7JN3zVF1
@@ -32978,6 +32996,7 @@ drive.google.com/file/d/11omRP-bCC6DXOYNhyd_FNMNoTqnckbi0
 drive.google.com/file/d/11s0Oi52IF24Ojfg7JAHTnjq3XCio1ew8
 drive.google.com/file/d/11ub00dhpg21JRIMRetGFUlPjnfLx0EpY
 drive.google.com/file/d/11w6YTbmyNcX5L2J4GFKxUKn4roFpCdz3
+drive.google.com/file/d/11yS8cK5fsq0i5hCb9BqdGf2DeOY9bci4/view?usp=sharing
 drive.google.com/file/d/120H_QxO5KdzeS1YI0X5leHxtuVk58fdY
 drive.google.com/file/d/124YiVpWs3HjAq9lix5Vh4EC3SBK3CXNY
 drive.google.com/file/d/127pMsN3syC8Epn208fVvRC2kSlkvXxSn
@@ -32988,6 +33007,7 @@ drive.google.com/file/d/12HwJ9OOuBKgv2lxhWXH8tYZiKdUjGD2n
 drive.google.com/file/d/12JjYExE6QkZ7IJ1xqSGI3Ag-s43L14re
 drive.google.com/file/d/12KvF55UYYBxO597zv3NVvpt7CumJE4qe
 drive.google.com/file/d/12M4DE2mUF3pNHERZRyNttBuJccZiWrHW
+drive.google.com/file/d/12MmQplxpRrG-aC82fVOGYgW3XiZTIa_v/view?usp=sharing
 drive.google.com/file/d/12MuQWI86bek1vUk2Fm7eh4lCtmTPd-4m
 drive.google.com/file/d/12SsnH9GzzOqCTFI1toqySCaOMi7NS4Kx
 drive.google.com/file/d/12ieLWE-yh0AI5rb_rmncPLIUxgQtiNiU
@@ -33016,6 +33036,8 @@ drive.google.com/file/d/13gcbScmtHT23F1z6oSqcOUuejw5W9c-4
 drive.google.com/file/d/13kYSJeb7Wxa-sRwKxu6blzgnthKC8oMe/view?usp=sharing
 drive.google.com/file/d/13qByWCcMAMBj8HfcPDVtxzUmho19Y2J-
 drive.google.com/file/d/13rfKEeh6mDcI-6azKNTp2Hq1edQiO1Pw/view?usp=sharing
+drive.google.com/file/d/13yIE_mqxRcE1yjcWHU8katGFl00zqDiM/view?usp=sharing
+drive.google.com/file/d/142CQHcxg-knko1k-75-hMLP4vvh1I_wg/view?usp=sharing
 drive.google.com/file/d/146ysOQWQU7lITJNxkaoSCSi2FbrDDQC4
 drive.google.com/file/d/14B-IWBpaBg2zLFGSBDOEHic8WHpkGX2Z/view?usp=drive_web
 drive.google.com/file/d/14CihAFNqmSEBHWncQEXeJl3h8RHK39JU
@@ -33023,6 +33045,7 @@ drive.google.com/file/d/14EmznxjaZ6sB0H6YiuunaBHxlELga222
 drive.google.com/file/d/14FA9OsVB1f50J5spIfCFL1uCPxrAPpC3
 drive.google.com/file/d/14FeXwxDhH26IuOoGj5KOtZEaUeu6MQBS
 drive.google.com/file/d/14ISZ_Q2GAkacmBIiT5fmZk0LDmTKtx_q
+drive.google.com/file/d/14MPGYWtsqLdUprhsoDP46OgfYrMJ0yew/view?usp=sharing
 drive.google.com/file/d/14MmW8LQx8zH_gjII87NFF58URTLqaakv
 drive.google.com/file/d/14PtOOF8XMdtMsNjJIeJBldN4iygfxVrW
 drive.google.com/file/d/14Q1tzL31EWmCTLVelGckcuTovuB2at92
@@ -33052,6 +33075,7 @@ drive.google.com/file/d/15_jy1IovWFmuLlDTAT-NNb3TnHujfcdy
 drive.google.com/file/d/15g4z9iXOSe6IKlWuXWt106xfiBADRPvA/view?usp=sharing
 drive.google.com/file/d/15jHI0F_gj0T-iEL50nODzQqw61NZSKbO
 drive.google.com/file/d/15zqkrstaUaF2m_bILG8tpiM4UNPkFUKp
+drive.google.com/file/d/15zrN9Sq_zq4tcHFLGa3yZ1ey9NErUrew/view?usp=sharing
 drive.google.com/file/d/16-mTpgDgaMqZByOczeBXLfHuRkvs6xx0/view?usp=sharing
 drive.google.com/file/d/160glLzHNNDfGN6nhicR213LHuVFVb-70
 drive.google.com/file/d/161IBaf97k74XhZ0NjBSSO_k3zdOhG3D1
@@ -33073,11 +33097,13 @@ drive.google.com/file/d/16a1Uw_L6T3bqvxhOn4zUAfDNpgLf3ZtX
 drive.google.com/file/d/16b0eO4bFG0bsfNS3E5UjTtCez9ayvVZf
 drive.google.com/file/d/16bni91pncw7tvVuVMcl1N1yW7FZH3weB/view?usp=sharing
 drive.google.com/file/d/16cTX4Ap8rqTQqjl6zfO54sXCJ49-4nxA
+drive.google.com/file/d/16dP2fw_LJSLOEst8aGie4P0n60Q3Vzbo/view?usp=sharing
 drive.google.com/file/d/16i_ABdQWO1mcb8DFvX0VCeoQaPQIsEUj
 drive.google.com/file/d/16m1zd_odoViCypUoxu8blMdJVhnqGWko
 drive.google.com/file/d/16oUZYgfXJ2FaoTmbof2-wbBMKl2KqXLp
 drive.google.com/file/d/16uWDOgJvfgHYGrGLh6hxBxxTXbM6unv4
 drive.google.com/file/d/16vNA7bzy7GbaaMLiE_brDeqRL2igXEFt
+drive.google.com/file/d/16wQZcvSWG5WtElyEKSWLwx6TaqiWiVHH/view?usp=sharing
 drive.google.com/file/d/17-6JsdMPVWQmM4UnQii8KhYU3ns1Hb9S
 drive.google.com/file/d/174-1AADtYEy-pMSppjpIAAJ1i1QDCjhA/view?usp=sharing
 drive.google.com/file/d/1743BxIjljMEtnOyvVoYecl0bbIG92ySj/view?usp=sharing
@@ -33092,6 +33118,7 @@ drive.google.com/file/d/17TpRnkny47gqFWe73bRw1D90CUsbc855
 drive.google.com/file/d/17UMaZBaCnjrlOd1A-ZI3bOq4tNXMyabV
 drive.google.com/file/d/17XRtk7dptU-bws-sWQrpVyHa4rwYW5j2/view?usp=sharing
 drive.google.com/file/d/17XSo8oB-4L20UPsBhqYcQbpypsLnUgE0
+drive.google.com/file/d/17_pLpLq1nF9ZJgn3pY5FHway6ggtsOGC/view?usp=sharing
 drive.google.com/file/d/17aq62hd8n7arTIarqgQd98E_Vf8GgXtm
 drive.google.com/file/d/17cfPg3CES3VD6KzpCbke7MZpG_HcWJe3
 drive.google.com/file/d/17eAWzC9LlrdqZXj-65AMI0f3adblH0hI
@@ -33100,6 +33127,7 @@ drive.google.com/file/d/17hfjHHMD5JCYF1fee9HrbAZoroFIvaj7
 drive.google.com/file/d/17iCOt4ii6Z2-PBe48gJ78J6JptOvAUln
 drive.google.com/file/d/17xdWNA1EgLeCXwv_efwTVyshQCUnkcUh
 drive.google.com/file/d/180wx-tLRPvVOStm6_pW6MRR-nOqqw2ip/view?usp=sharing
+drive.google.com/file/d/183uZrIp8Hfsax1XKoZ-Qi5TGlcUAo9qW/view?usp=sharing
 drive.google.com/file/d/185IkPIiVVzW6W2swbaOaRpKfPMT9_COY
 drive.google.com/file/d/186BYib2pQ9L311IHGOLJyOMIlCz6zW6D
 drive.google.com/file/d/18A-yUeqX25A7JnKUDR_MLlfY4vjHVPSY
@@ -33116,11 +33144,14 @@ drive.google.com/file/d/18QVeBDKz7UD0ZskQ_IQvSIgFh7eC7kJe
 drive.google.com/file/d/18W8R4GgqcjCskfJgj1JNxHA_niPsXFZH/view?usp=sharing
 drive.google.com/file/d/18_fhYEAFIF9osl6vsbJLCghxEuz8LoAt/view?usp=sharing/
 drive.google.com/file/d/18cl9LmWvspHvwZ4B3MApSQgN4zfUd82j
+drive.google.com/file/d/18e2Fwb2gx_GYRkiJd9SavSYlu3DH9MhV/view?usp=sharing
 drive.google.com/file/d/18fArv_ACSHSsJA8glT6KsmQwx1TFjoYa
 drive.google.com/file/d/18gZru0WH6aDW_haWBR0Yi2NBvZgfIzFB
 drive.google.com/file/d/18iietJnaYEbLy2-_g6I-IzIjqFco8hEZ
 drive.google.com/file/d/18mrIl0j_cd4m6Hj-9jM79dp-OEXfj2Nm
 drive.google.com/file/d/18ogjzS24c2CaJNawWsQ1LLPoMD7Fvhq6
+drive.google.com/file/d/18r_7-_b6HHrNE9j9Pa5Ef1lUoXZ5GyKv/view?usp=sharing
+drive.google.com/file/d/18tf-K6dR5V8bxJ3xKzA25Z7v5NFXZV0z/view?usp=sharing
 drive.google.com/file/d/18xq4jGkI9kIW0pQ2ZdhgQDL10WlpFwg3
 drive.google.com/file/d/18zxK4pl67XUAWgffFfvOvZBpA4wp9Awd
 drive.google.com/file/d/19-cV_UfP6Q8hQEkleBGBOX5VYGwlrYId
@@ -33129,6 +33160,7 @@ drive.google.com/file/d/193PmZ1-M44fTTrKKB-n7Uw4bYMXxPZYi
 drive.google.com/file/d/19AKBWznhhq_wal_sc8q1-X1aGljj7PbA
 drive.google.com/file/d/19CdSPI8v8fsZSWGRgXe8oovLatwzGSr1
 drive.google.com/file/d/19D2XlY5aQKKYpAQKAWH5lpZeaYtli0qv
+drive.google.com/file/d/19GI7nQoKUaBJwBsta3JLy6UVSfYK8q4H/view?usp=sharing
 drive.google.com/file/d/19PVQZFXZkQIdmi169wfwQB0vqA1Clf_r
 drive.google.com/file/d/19Q3TQ_qcUFvhY0Q-K8Q0sYb0R-xAHtts/view?usp=sharing
 drive.google.com/file/d/19R72-0zn4Zc-v6VrCYbWmDybvG9T70Gi/view?usp=sharing
@@ -33138,13 +33170,19 @@ drive.google.com/file/d/19YMkWunKm5kX3Pi3RXTQXeZAY4rlM95c
 drive.google.com/file/d/19_7WR7xRMbbWARBI6XL9XC6n7cTyjz2a
 drive.google.com/file/d/19fblfVRjuHII5XVO3nfDeaMMxdWpjMBe
 drive.google.com/file/d/19luDRPXa4gz8IyRhnmOcivnG1RHnAxAt
+drive.google.com/file/d/19mT86xvznZS9cRLwLEy2GQVx50GYiCbQ/view?usp=sharing
+drive.google.com/file/d/19mkppur9WUV-My644VPBvAh1-4ZZpn_t/view?usp=sharing
 drive.google.com/file/d/19rFvTmu7Je8Kvm90g8-ZZKHqmNEUwYt9
+drive.google.com/file/d/19sAfyvR1A9Hm9daVVT3BM7Yn4Co-tEDb/view?usp=sharing
 drive.google.com/file/d/19wbRlDkwvbr9lym7qh_P3GBaVbPrIqgq
 drive.google.com/file/d/19xcXnjhdki1eMVdGSDCT0c15gMu-fJWq
 drive.google.com/file/d/19yYbUAUCoO9hONwBWb775wEEUaQqWdiZ
+drive.google.com/file/d/1A-wX3QXl3W8wCfK9W61UgpHXkcAQJ6kq/view?usp=sharing
 drive.google.com/file/d/1A0LuBGhvZBiJ-NMDPv8bHSpPrysLNrQa
+drive.google.com/file/d/1A0XBYeCWjjnKajEJ6EFm0oJV2K3ZGf95/view?usp=sharing
 drive.google.com/file/d/1A4IWDzbxXJhNwBEJcaB85tM_ZPX1okzE/view?usp=sharing/
 drive.google.com/file/d/1A4lR3Hu6vGuO5LLqmeFBOpTuuJd5t0tN
+drive.google.com/file/d/1A4o-uUIMV8G3ZNJXkG5QMlght4mDmc7y/view?usp=sharing
 drive.google.com/file/d/1A63EqGMPawtDTbiN7L5iOayfXsToRQur
 drive.google.com/file/d/1A79XbmMrMk-Y6IQk80EPO-NSqJQMEBH4
 drive.google.com/file/d/1A9a2i-evuOB5O8GLAQiZUJisCid1S0CO/view?usp=sharing
@@ -33155,6 +33193,7 @@ drive.google.com/file/d/1AQFvGhiD40uFgKlAGQmI2YimEomdY3Nv
 drive.google.com/file/d/1AR2halnuxb8E9b5avM-HFN5Gtaq3aGeV
 drive.google.com/file/d/1ASwv8dRUPCMDwJBRQIHRNUDwU_NxUSSO
 drive.google.com/file/d/1ATi3HGHbO4-T39xjcZ9obAtUKyy2LovT
+drive.google.com/file/d/1AYI6W3VtI4Ta3hHe8VGQoZ48ZUyqJD95/view?usp=sharing
 drive.google.com/file/d/1AagJhQQWShndR_8L8D-t7vJ9JpGJgbcd
 drive.google.com/file/d/1AakpdCwhXNxfgqq_JCk_AzSTAs8rGPnG
 drive.google.com/file/d/1Abc2ISJmAC_J5JR9ltrZMyJ6hwlNv0ho
@@ -33184,11 +33223,13 @@ drive.google.com/file/d/1BTrK0peAIXHRL_B33PWMOsJWHk3ekFPE
 drive.google.com/file/d/1BW3ACxOLoMTsBVSXmgnRkW0fJbNuYHpi
 drive.google.com/file/d/1BfJbWh1r43SNL0KvfWv69SxBJXGCJ03F
 drive.google.com/file/d/1BfcxjZ9N0_lk__dsV0qfpF2Z0wa5-KyD
+drive.google.com/file/d/1BiP0wyuBYwpesECIFjtog8TQuq4uHPtO/view?usp=sharing
 drive.google.com/file/d/1BjvN8y-K6g9kS7Hj3LqjjmxozRnMQALG
 drive.google.com/file/d/1BpYzCzsjMIRU48tRMK1zmDj7Hvn-zecy
 drive.google.com/file/d/1Bq3S0xQePoy5vmwpwi9-vVAneCfjmon0
 drive.google.com/file/d/1BqXDs9sa-yyxA2PDzlPGxyOSuGUhlxIu
 drive.google.com/file/d/1BsbsYbaRhVEuHUdPri8UGCjhdertiDO6
+drive.google.com/file/d/1C-RDV5y7ctgvt9OASkMXt2IxmFylwbU_/view?usp=sharing
 drive.google.com/file/d/1C4FpyGG-ozU_A7LIahZsZ3MZCfHNQ1Em
 drive.google.com/file/d/1CA6VNfNmby1FlXMAzqHDdxqIq6RZCRzi
 drive.google.com/file/d/1CGn08Pc8ZJx-LvKSn_S-z_5fUYGtCUnM
@@ -33201,10 +33242,12 @@ drive.google.com/file/d/1Cg6b3mU-e9cU3sv1vsaQEoYM-2E8qvMW
 drive.google.com/file/d/1ChaDDyVlUDfq0vi64dkd19Qokr_4vpkq/view?usp=sharing/
 drive.google.com/file/d/1CmKvCyyD7559UK61hu6WRmNNFZ0xbHm2/view?usp=sharing/
 drive.google.com/file/d/1Cnirck0kiHz2HfhamryY67L1erujfbHy
+drive.google.com/file/d/1CpiFQRUBSqT1IhnRxi-RYk4anWBCEzh2/view?usp=sharing
 drive.google.com/file/d/1CupeDpz4rs2dahumw991h-Cau1StbtuK
 drive.google.com/file/d/1CvpWHM-xd2oW9b2wrvAGLD-cVd4HLz2C
 drive.google.com/file/d/1D0WyKVo7AC9VDnK-OUgC_fn67BGhU-2A
 drive.google.com/file/d/1D1oHb3qIsRlB3211aaNL_5ipmt7y3dgA
+drive.google.com/file/d/1D2iUO1hGnEDJyI4uFEGIuhwmMMAYxZJu/view?usp=sharing
 drive.google.com/file/d/1D3XJthXdxA1e-hmAmaPx20NUBpMMJ7Jn
 drive.google.com/file/d/1D3hBhKNRSIOkmMZpZ2FnVAAJ0qdUttAX
 drive.google.com/file/d/1D5XK33VIu31ywgphiWRuD8nUGnsJac0d
@@ -33217,6 +33260,7 @@ drive.google.com/file/d/1DGa2DybEhjRzfxnFVJBwSAKS0GdEjLeL/view
 drive.google.com/file/d/1DHuqFisHtNK2_7qVC5PhME7aS2KSu0jc
 drive.google.com/file/d/1DNwVbhN5hfiYUJB1KE0VMPVWdGXgqzPc
 drive.google.com/file/d/1DRBXszHnOgGgqgXfdlmflwX0WxmByAaO
+drive.google.com/file/d/1DVwTTjKvyXziCkZuV2hSESuo_qrgmny_/view?usp=sharing
 drive.google.com/file/d/1DXL4ulwRVn92Q0859_L-kHQ18h0YlKzL
 drive.google.com/file/d/1DZ5gSabYHmEam96I2qNlsQuJhQJb8MkU/view?usp=sharing/
 drive.google.com/file/d/1DcgFbv9wDrVStD8lUbfr2mPw5ROEyDge
@@ -33225,6 +33269,7 @@ drive.google.com/file/d/1Dl69yYh1Z0xCb6HQbiSH8oWvKUCYGZOo/view?usp=sharing/
 drive.google.com/file/d/1DmnajMp1cVX_WYjswRIUz3GRLLXgAuEp/view?usp=sharing
 drive.google.com/file/d/1Dn7e6_yjE2iNQr-rYkadVn_JgwIecsUf
 drive.google.com/file/d/1DoC4RaTjHHQOMBiiONUzbZetXLd80Wyk
+drive.google.com/file/d/1Dqnph94d99DEoLrjJV_tq87p6fjyR5W9/view?usp=sharing
 drive.google.com/file/d/1Du3kAbivGE0TFmnwDmBQ3QU6v2LhPL3m/view?usp=sharing/
 drive.google.com/file/d/1E0KISST3h_MHfFopxCLR_BWYvbqI8A2H
 drive.google.com/file/d/1E0VutQ0gfUhbBP1-5faqWr514lelCRPu
@@ -33234,6 +33279,7 @@ drive.google.com/file/d/1E7VlkwCjiQcprK4aEr8VWrKOfRIpRNpb
 drive.google.com/file/d/1E7uSLBygmgtfgLEQzanaQ5h7iAMaqqNS/view
 drive.google.com/file/d/1E7uSLBygmgtfgLEQzanaQ5h7iAMaqqNS/view?usp=drive_web
 drive.google.com/file/d/1EAx8bgbMzkV-iE-7mopdD1lh477r27E0
+drive.google.com/file/d/1EBgfcR2jJpb8-r2mdgtdn2wo2NBHSHTc/view?usp=sharing
 drive.google.com/file/d/1EEWRPySgAy9Rm5fL8c99V2hDMTwkDQ8v
 drive.google.com/file/d/1EFVkIAxBGeau8jwAiDyVQQ4K3WudTk9T
 drive.google.com/file/d/1EH_Y8d0yKBSzuIU2Tbx_7u73Ksks9lhv
@@ -33241,6 +33287,7 @@ drive.google.com/file/d/1EJnYgXLh4jrSkEcQ8qXi-w8J-4JIELn0/view?usp=sharing/
 drive.google.com/file/d/1EKu_I88gVU3WNUbfYC2rEWUO6FlWdvos/view?usp=sharing
 drive.google.com/file/d/1EQjjQf8gDbQPOhK5Tjqr3I4NP8tf4W0w
 drive.google.com/file/d/1EYPuTHD2aSKJ5roQFo8mVTI8sJnJDKTt
+drive.google.com/file/d/1EYlfKOHkjGdNVef6ls4YIYO-cBTx5-Nz/view?usp=sharing
 drive.google.com/file/d/1E_VBbFIxUiLfbUuhVsiN1VxygtbKCiQD
 drive.google.com/file/d/1EdF7xULCO_smMj7SShmsTgDNUZ7_Jc3H
 drive.google.com/file/d/1EkJtoPHKoQToyaH9zYosIKOYx_dCf6CK
@@ -33263,6 +33310,7 @@ drive.google.com/file/d/1FILqYQZfnFbmRbUYu9XobyPfbnCFyz7L
 drive.google.com/file/d/1FJ29szdGpHxjrDruQ05vdEWjIl16uAzG
 drive.google.com/file/d/1FNJ4AvFSVnu2vT4pV9s0DFk7sbesBcGD
 drive.google.com/file/d/1FPE-KU8x6uL5q3gq2vM51WVWoJP65KE3
+drive.google.com/file/d/1FV1NnltZvJ9oPuRltKD1sbBmakkR6HFZ/view?usp=sharing
 drive.google.com/file/d/1FXACNGNgXAScTbNh0e-Qm8oubUmihEfo
 drive.google.com/file/d/1FZceeWRgeK5nIzPckijyt1aguZwtF3qV
 drive.google.com/file/d/1FdQ70EXfI1ufyDb6xS3s8bD7CeS3MdFr
@@ -33270,8 +33318,10 @@ drive.google.com/file/d/1Fhb6-CU6GLB2jwrhc_pSD5tCOEEMABwN
 drive.google.com/file/d/1FiczT8GPr7WRYCAQTuouFO5K8d6BQpsY
 drive.google.com/file/d/1FlOFpw8uU7d7mEBcd-OXHpHf8dYQLQ6p
 drive.google.com/file/d/1FmPLbuAojKQ4WD3z4v2ZvakvVHnodcTj
+drive.google.com/file/d/1FnQ6R1BpmyfPLVzBP_ptFJzgWuDdoh2_/view?usp=sharing
 drive.google.com/file/d/1FnfpE5-X0EKsz5TUjpcXXWENEq4kpxz1
 drive.google.com/file/d/1Fo0d5Lvw1fsVgTm4AJjexxfXUVHLu7Kd/view?usp=sharing/
+drive.google.com/file/d/1Fs616brYnXjP0o4tIkOJ6R94nz3M46rC/view?usp=sharing
 drive.google.com/file/d/1FsEKE5aKH9IIKQI1hA6nwkvkJH1NAGgq
 drive.google.com/file/d/1FszADrH6AJCNz7rhv8foC7fjdHdk1Y8a
 drive.google.com/file/d/1FvlG91i_MXpsJJyfcgzcE3evt6PYljis
@@ -33296,6 +33346,7 @@ drive.google.com/file/d/1H2flMtPg5RCwNb7scscfXNJWyaDXzgZH
 drive.google.com/file/d/1H5xubyNk9YATocGlFFMV3P0irBBhXyjp
 drive.google.com/file/d/1HHVbu20FUJptF4FVE-WUy7ty1lmasntY
 drive.google.com/file/d/1HJep1Y890-W2yNp20j0WsCmOxlWnk8OE
+drive.google.com/file/d/1HKWruemozGNqy1IeAn-kPfzp4XM-lu7D/view?usp=sharing
 drive.google.com/file/d/1HP71yb06M95C64aR-jBYNiTOt7cK7qlc
 drive.google.com/file/d/1HRLCpScjOA-Q0iqAvCWy5dLjdYXBHD-T
 drive.google.com/file/d/1HSeEGUDiVvLPFIdp5EC3qKqqOHwlisN6
@@ -33311,6 +33362,7 @@ drive.google.com/file/d/1Hq0q8w_Ow15OSxFfhY_zArxtv_MV763j
 drive.google.com/file/d/1HsFRRafRGLa2zpZd8OpTxu6ZH8VW_pWy
 drive.google.com/file/d/1Huq6BKDtRdh-GLiYM47ViZ-7hSPvqqJl
 drive.google.com/file/d/1HwC51YwSlbE0EdLPwqht86CM5EoXVAmH/view?usp=sharing
+drive.google.com/file/d/1Hx7mNL_tFFFuwPaL7bjeq0M7kW-lvkPl/view?usp=sharing
 drive.google.com/file/d/1I1FqcTt68ynPibxZR0Df8VryzGS7kL2l
 drive.google.com/file/d/1ICL0weAI9OIjq41i9Qn8tPiEx1BOXghC
 drive.google.com/file/d/1ICNUT15MwKwmSQiYfmi4PpRuhdPkPqqa
@@ -33323,6 +33375,7 @@ drive.google.com/file/d/1Ie8kOyHy8_aWF5plsCnoKOsxMGCiq6z2
 drive.google.com/file/d/1IeySJqWqOfKgpLzF_TNQhoVx7mW6CgGa
 drive.google.com/file/d/1IiGgaI-ZA3Z4zkc9F_Kmqf8WVzS_T9EA
 drive.google.com/file/d/1Im-0xdd3bYz6CGxHJcyd-t-Yk4D22aKP
+drive.google.com/file/d/1ImqeHLl3ROYh3--dI-deCNMaN4ATNVQd/view?usp=sharing
 drive.google.com/file/d/1IqDMNYcjWxF9Unfipt5XSwrUmHAsplIM
 drive.google.com/file/d/1Is95cNRUilRCSOETu0dyLMOG-0CywE9p
 drive.google.com/file/d/1IspJj9HQqdSkB7MgyYq005pi8ehIRUCM
@@ -33335,6 +33388,7 @@ drive.google.com/file/d/1J63vRt3WaM8vDPRK665v5bseqsTdYPCe
 drive.google.com/file/d/1J9DvrBqBfbQXVZeSQfV_Fk8MTXg4tySX
 drive.google.com/file/d/1JAMTStOVT7CHD0yPPEwpc4jfOXXKC1Qv/view?usp=sharing
 drive.google.com/file/d/1JEWzxphPIyh1xwHTxaeMPMjlvOKqKzqJ
+drive.google.com/file/d/1JE_dGaf2Vy0WR0Tc08t2SkIy76a5LJhX/view?usp=sharing
 drive.google.com/file/d/1JHh7VlZ5MmTdojoqQHs4j3eai3cXEpst
 drive.google.com/file/d/1JIHKkeGU0754yHOFCI5eIZEfbaW9EN1G
 drive.google.com/file/d/1JImAnpm7I0fbyvNgaPfU0OnYh9hS9YO2
@@ -33361,9 +33415,11 @@ drive.google.com/file/d/1K-OxmykXumbBy5B4Kl-Ycy8Ivwfh7o0T/view?usp=sharing
 drive.google.com/file/d/1K-dTyUxDJqOv62jVkZ4P0QOmZHMHf2Wp
 drive.google.com/file/d/1K0qFEpKuZmB-5xxywcnX01f4BwW-WAhj
 drive.google.com/file/d/1K5HYneE8U7ILLh8ztGxH1SBHCUi1gNrb/view?usp=sharing
+drive.google.com/file/d/1K6WXLrhm8AIekBpZmaObzjLO2xFgwSa1/view?usp=sharing
 drive.google.com/file/d/1KCx8xBNHTAZSmtLQ0IiQ4HDbD9TzbrhY/view?usp=sharing
 drive.google.com/file/d/1KF5madEX7eJofiRJCYLSIhJXSieG-UZJ
 drive.google.com/file/d/1KIepESnjfjQnnksiXT9NcNko_1fWRdRs
+drive.google.com/file/d/1KJNuLX4XrzSkM51NYJtvYyfWrxgz7neF/view?usp=sharing
 drive.google.com/file/d/1KMf_Saoldkz1oqYSduwEstiFeLSnszTr
 drive.google.com/file/d/1KOxHBgklYyMzXGdWEQ8uckYVDSyaIrt1
 drive.google.com/file/d/1KSHZzJiXSb0nLV_TRaLRuaxdlf8ES6eX
@@ -33382,6 +33438,7 @@ drive.google.com/file/d/1KrTDAgdt3YxChNhGXTXgoZbhUqcNcyRg
 drive.google.com/file/d/1L08KCunvKr3YoGLVHbIUzEuqCphfNQ_c
 drive.google.com/file/d/1L5FfrzwQPFFhSxmJCuc_QlzevpgtmZR-
 drive.google.com/file/d/1L5HJeA-5V4-SGGjVtQxpzOX88WNTADf0
+drive.google.com/file/d/1L6IFdL3Z1pDvFfoQXvL_X3zDtHXHbmh7/view?usp=sharing
 drive.google.com/file/d/1LEc-T8twhCQ28UKfPgjjJYxmg85GGd64
 drive.google.com/file/d/1LEyXfCgU2tllYwVPGh7_mD0OHucJi-XJ
 drive.google.com/file/d/1LFdy72baOYGESDWrpLy6VKGZNBwq02Wp
@@ -33396,7 +33453,9 @@ drive.google.com/file/d/1LmrQ71i6KxaS9U2RPj7HMvbQq9N2oLas/view?usp=sharing
 drive.google.com/file/d/1LrEfF6lSQEnM44VBFOY6V8Qjna0kB6vz/view?usp=sharing/
 drive.google.com/file/d/1LrxRlg_hPTcOWocLABQ-MGmIhWz1BOO2
 drive.google.com/file/d/1LyJgL2q6eIYpBTCaLF1_qvkinFn-QqVc
+drive.google.com/file/d/1M-uvoo3irOtbq_MFZ8f8o1lY2Tl_hCMW/view?usp=sharing
 drive.google.com/file/d/1M0S8-LY7IB9cCyNGnUykrXitiQCo5faq
+drive.google.com/file/d/1M0W_ymWMYgvEXQ-g5WPjKTO8GJN09bUp/view?usp=sharing
 drive.google.com/file/d/1M9uxtQACHIHHi4YfWgXN_tvvIkjgw32A
 drive.google.com/file/d/1MIzlpTWYhP8CXh8PZQtzqxLC64K2O1Hj
 drive.google.com/file/d/1MN_qdletvsUOBAiPXiRASqLrl2moDNHT
@@ -33406,8 +33465,11 @@ drive.google.com/file/d/1MQr9zVDxgoblZwWafrpTfFEvki2btZ2V
 drive.google.com/file/d/1MXc5Ns5-ljflzZ0rSs7DS9Ih_I8fGj-p
 drive.google.com/file/d/1MZ3J_SnRUUJXG-u0n9tuvZYhI3tDw4cQ/view?usp=sharing
 drive.google.com/file/d/1Me0xKTs4iRX_VzN3TDqwVA1SAOrXqxk4
+drive.google.com/file/d/1MlB5x0QCUXHKbwUiDTcQwQ2wpN9FC3gh/view?usp=sharing
+drive.google.com/file/d/1MmjiRU2pO_nN-CbDGifS7GiM1UCO-Fzu/view?usp=sharing
 drive.google.com/file/d/1Mqwt9qW3N_HDXw8M8pR5_A8qgQ0S3bqE
 drive.google.com/file/d/1MrYMN2IjWXaj0X9kmp3be9sh2xjmpQVX
+drive.google.com/file/d/1MubM7UyBMk2QWJLNFDLpYJCe1Cb3nqO6/view?usp=sharing
 drive.google.com/file/d/1MwHm7nziGtdUsyPzrbCaP7J6VxB-a89N/view?usp=sharing/
 drive.google.com/file/d/1MweQrGS6HhgcSO0reT9I-smNkJQ4iSmo/view?usp=sharing
 drive.google.com/file/d/1MykVk565GRxYZIzs9fVqH84xlnIHoprm
@@ -33430,14 +33492,17 @@ drive.google.com/file/d/1NccUAxc4nypW_Kex__QSQaPSYR5cErrN
 drive.google.com/file/d/1NeQVf7zREfzgdDVgMEV2FrLRLZqJZzsU
 drive.google.com/file/d/1NifiFH5GaZzacTMh_RZoFh6JXunIHqeH
 drive.google.com/file/d/1NkoYCDSMMF4hgecAX62ILV6JbDkTLZAA
+drive.google.com/file/d/1Nn9DYu58rIcf5zYTkzRK9rf6dlRKx2vn/view?usp=sharing
 drive.google.com/file/d/1NrFaB-fQJ-sBAMLfiWWVT59TGUrk8b2C
 drive.google.com/file/d/1NzFCvKE5e9VX7oyiCJJi3bw3nAyGEac3
 drive.google.com/file/d/1O-_jkhIOpADsTWpFXJxOwLcokdqfXenN/view?usp=sharing
 drive.google.com/file/d/1O1lP2BiWhQgm15nq32Tcxfh4h52Z5Lzx
 drive.google.com/file/d/1O3AgWSoOXsqK9E9xD4U7DlYeMq1ShcL_
 drive.google.com/file/d/1O3x3F4i9mHacGrcVwx7kRsa5HN8MCH-U/view?usp=drive_web
+drive.google.com/file/d/1O68KjZq248KosA1tFovNSg2bWJDw0fea/view?usp=sharing
 drive.google.com/file/d/1O95ldHkruRT-mNct_Hi54HJk8Z6XyZ59/view?usp=sharing/
 drive.google.com/file/d/1OCqM2g8xccTPKWDetVveCOQBLfFUoVhc/view?usp=sharing
+drive.google.com/file/d/1OD3BMHX06lbix7WS4vjOQ73uMykH4HHI/view?usp=sharing
 drive.google.com/file/d/1ODu3fnwXl9tc5nt3kZrctoH3eNo-Sd6y
 drive.google.com/file/d/1OFrO4Gv1fpkzDjUuTlmtKJ2oEW8kNAn4
 drive.google.com/file/d/1OJZMRdRzlXMsfhInBI_98g2mNRlu_Ako
@@ -33445,6 +33510,7 @@ drive.google.com/file/d/1OREMkEUoppzxplPNSGAv0Br-97F59BeG/view?usp=sharing/
 drive.google.com/file/d/1OVxPXCBKixZPSIk4HAL4EeKWj2jctU-d
 drive.google.com/file/d/1OX94EFrzqHh1judkeE4su6g1VMZNdaPf
 drive.google.com/file/d/1OZNJ1fCQ0iHMeOW5rHjlVli6cVts9T8c/view?usp=sharing
+drive.google.com/file/d/1O_MDcnhlYC4_IjV3t-4nm4buFJg1nUNb/view?usp=sharing
 drive.google.com/file/d/1OcCN35Cq5Z9XdBnT1yxwK2q_Hm8oKAkr
 drive.google.com/file/d/1Od0umgpmZK0ZrcB34PVV_1Er7FbNFqKc
 drive.google.com/file/d/1Oj1tpKUWyJwH95SFrVBq1CSzUxJuAd1K
@@ -33467,6 +33533,7 @@ drive.google.com/file/d/1PZvELp8xrmFvMNi_NSsiICFw2hlfVrbB
 drive.google.com/file/d/1PZygIcmC6WZE6L834cbqVBHw8n9cpLYB
 drive.google.com/file/d/1PaINgJBE0mUxffvfSLgHm51KOsQ4rl8j
 drive.google.com/file/d/1PacYvhLpVvBnX3o9nCgjZtlB6RAJi7eH/view?usp=sharing/
+drive.google.com/file/d/1PifhmMN8j0yoZiSju7gl_QEBFWr5Yw8p/view?usp=sharing
 drive.google.com/file/d/1PljzJZGONEtW5PlHahVKGIksvTHFSoUo
 drive.google.com/file/d/1PpEP7cA_qjGgp6E8_lrPJOlCnfkBjL-U
 drive.google.com/file/d/1Pq50jVM2uvt74-fhrKYdBSpPQKAH8ZbO
@@ -33502,17 +33569,21 @@ drive.google.com/file/d/1QoLuvhg0bralslWuAA4Lre7heP6Ll4uR/view?usp=sharing
 drive.google.com/file/d/1QpdcxnH4LsMixi2Snb3j7P41vd5AsnN9/view?usp=sharing
 drive.google.com/file/d/1Qq2LQ_wOOXK8Rel2a-9nJxupTI_FRf2l
 drive.google.com/file/d/1QugUKTryZonzZQlJtnXuXk4mY4HfYXch
+drive.google.com/file/d/1R0BLc0eIetKhY1fs56aeCVoF4ZVnBXIx/view?usp=sharing
 drive.google.com/file/d/1R7rU8vUeJ5hyXUBjr-WAGkYM2rmNYpLs
 drive.google.com/file/d/1RCGvZy7PWWrOzUKT3ahFTQgKyIibS3LF
+drive.google.com/file/d/1REkv7cThsJYHJBN5JP4qRSzrS-bKitFn/view?usp=sharing
 drive.google.com/file/d/1RKMR0OdvxlSnPQm1jrNLItuYN4q_Aoww
 drive.google.com/file/d/1RVKgK1Z4i0beu2jLEjaF7z8_c2mCzz9b
 drive.google.com/file/d/1RWpiOVQ3bAdOfv2X9cIpA1TF5WnZGvoG
 drive.google.com/file/d/1RYhcmMNJ9sQ0aWcUaRkwhxhvq2yLskw6/view
 drive.google.com/file/d/1RbJVcnbKwySPGfrUEbt0ZcLzvLNy9C3d/view?usp=sharing
+drive.google.com/file/d/1RloET1UG3czdQGKDMV1Hx1YJKA23fzPH/view?usp=sharing
 drive.google.com/file/d/1RnlWrIs7lvP-Aqzg6RgyPAUXCWTilcNl/view?usp=sharing
 drive.google.com/file/d/1RsymNlpzcQyBhCSHbDISkWRdw_GAXrgS
 drive.google.com/file/d/1RwQUMzoMg3Y_tAj0kCag9GXe4CIrlup-
 drive.google.com/file/d/1Rza2hqcqF6ZPpWEAmj7h8jhxdT2qaIPH
+drive.google.com/file/d/1S9KcjxK8gjYClBT1Bof4h-AFaZ4o5U3v/view?usp=sharing
 drive.google.com/file/d/1SC8tM7sBVWm3knHYc7DgSuzGI3tjhiSZ
 drive.google.com/file/d/1SE3U1Ny1luR5EFNAQVKtxvgzrS4XcM7g/view?usp=sharing
 drive.google.com/file/d/1SFQ5fFZX7Uw0g2C6JhBaWCkf4iPhk9-a
@@ -33521,6 +33592,7 @@ drive.google.com/file/d/1SJ2PQOYu6-RZDUnc-r-52knJ2xvt15Nn
 drive.google.com/file/d/1SMj6HKCklgKout9UxNQjj_lkhCjcSnig
 drive.google.com/file/d/1SQFpkAIHXXzcNUnNAimMw3ww0_0eae5t
 drive.google.com/file/d/1SRVzl2WDvDs0ZbxvGJEjHeO3GYrMC0nc
+drive.google.com/file/d/1SX6K5UL7Z7VE8yd__fUhBfWm8ZHldY_c/view?usp=sharing
 drive.google.com/file/d/1Sd4UPIW73zL2n16mnvplZJNcp4Km1XzA
 drive.google.com/file/d/1Sg9GYUzwKAiBIr38g9gPIgoHM5TO52qS
 drive.google.com/file/d/1SmLktTXVip2M46XpM-oeSLEKD8Rm8sNb
@@ -33560,6 +33632,7 @@ drive.google.com/file/d/1U8fpa8H2qxEFYEtKS-HvymnyFSjA5XdP
 drive.google.com/file/d/1U8z2L37iQXGZb73hTr5sRTmOzux9Q6S3
 drive.google.com/file/d/1UCpGxysswiaHuFB-VxgyBEMij-7Yx1aH
 drive.google.com/file/d/1UGQSIanYFPYkz4zy5bpnUEtixCxOlarc
+drive.google.com/file/d/1UKMwiU9kphP8l6Tf0KK1wL5TpSuDZAFF/view?usp=sharing
 drive.google.com/file/d/1UNQUv2NHePVMSndRegQbkFjFCQ7AIjho
 drive.google.com/file/d/1URaNMg7_bP4cj-J1EBy-Tf1ujlM2rBdS
 drive.google.com/file/d/1USYvUz1vTgPowg8l2NuUPrmf28bRWzta
@@ -33579,13 +33652,16 @@ drive.google.com/file/d/1V5KfiCu5UCggnkhVdVbvvjZQ88Ud96rV
 drive.google.com/file/d/1V7khnxuxDHxeaIzQLjIyeFhbiOnjPrQB
 drive.google.com/file/d/1V9HC6qEh3vwiZfBNMiv8qX-aVjY88mpW
 drive.google.com/file/d/1V9JCNVHeXHQcd2dIUsSzJABHq7lflM_I
+drive.google.com/file/d/1V9l2RGCEQa3Tw0xlA5wp9glOiIGWzkSz/view?usp=sharing
 drive.google.com/file/d/1VDw81VzT6NPIWu6fWjK1iSgScdoj8Bg0
 drive.google.com/file/d/1VES2B8Nye75IYoHvQMeaYK6OeBhFcKYw
 drive.google.com/file/d/1VF0duMAvSsKJy2OeYpGXtOrN38eyOj-D
 drive.google.com/file/d/1VFHISQ5I_3GYmjxZ9RFdHpndJsgY9J-c
+drive.google.com/file/d/1VGb6f7U_gqMAvmTI_k68G6sQN7PpH_fN/view?usp=sharing
 drive.google.com/file/d/1VQNJ62WT_R32kHJS4HaGly-CN--ou7N3
 drive.google.com/file/d/1VRPnddnCevqpnaWtwXlFzzxG-GAc6Fvk
 drive.google.com/file/d/1VUoC07G0MRqiuFMdjELrWGK5kVOPsRJ7
+drive.google.com/file/d/1VW1LOwwRSA6IgxswoUhdYi5JWJkiDh_a/view?usp=sharing
 drive.google.com/file/d/1VZOJ-n-gQcbrpe7C8zKgHqT6GgjDO9NY
 drive.google.com/file/d/1VisWInfF_zSrm7cUIgcG84nxvqoJPuBi
 drive.google.com/file/d/1Vk2LfgyqojQbhIcQ4VPgcX1kfR_Z44vI
@@ -33619,6 +33695,7 @@ drive.google.com/file/d/1Wmg59JdmzVowpV-3F_Ze4QeWfw4U_cUW
 drive.google.com/file/d/1Wqu5Q9P1NR8myA-jtCbBZ6LXmM3Mmu7a
 drive.google.com/file/d/1WsLwICubcY_X6tk2XbfQuTzdU1VU9hrS
 drive.google.com/file/d/1WseW78CACU9R3hzkpC67-yBkqBAYordF
+drive.google.com/file/d/1Ww852K9_HeeTAbWsq069oprM0vkpF6pJ/view?usp=sharing
 drive.google.com/file/d/1X-75qUm3ylN3jLQGz8npKC_PSjYsTMH6/view?usp=sharing
 drive.google.com/file/d/1X-TCQ6P9lHq9WcQLxLsTd7S1gUoTkrvi
 drive.google.com/file/d/1X5gdoUPvaKBj_MtoxFyMMqLw0TMgznv0
@@ -33662,6 +33739,7 @@ drive.google.com/file/d/1Ygfgcw636SEzuds4IWhkouN5wb7rqWST
 drive.google.com/file/d/1YhUaTWCXAJs5CaX_6oixM0N-N6IlwZ3y
 drive.google.com/file/d/1Ykk0tpGoO3cMmvwRXI1H4AOItzu3nTxd
 drive.google.com/file/d/1YmCnI96j6BSWCJ_AdkAv_mHZ5DLD6wrk
+drive.google.com/file/d/1YpMfoWaIC_KQWAAJ2YJM_WvRNM904eCf/view?usp=sharing
 drive.google.com/file/d/1Yt5hdteHPsfDONt1Stjou6b5XoD_r9gc
 drive.google.com/file/d/1YtRoPgMLcq4xJZs5M0Z1-C55FJI4LpLr
 drive.google.com/file/d/1Yu88Z36KT2NyC5KaUxEY1oUbfePC-1De
@@ -33671,11 +33749,13 @@ drive.google.com/file/d/1Z0kqUhrWvvyVJzcrpTdEQ5UMXpECW6si
 drive.google.com/file/d/1Z1CUlscTpmlWO11NqRbduoemgtJR_Qa8
 drive.google.com/file/d/1Z41JeBuqODln6y28_pF4TJD7jbhrYjX0
 drive.google.com/file/d/1Z5_iW8JKP9c1dJeAMi1iMkAvOSkVXyeG
+drive.google.com/file/d/1Z61zUdKPNgZgR8RYiI7zHuVGj74__sjY/view?usp=sharing
 drive.google.com/file/d/1ZDX-1BEAlK0POnAI-4UMxKUObH62xmFu
 drive.google.com/file/d/1ZHtvDRpum_GB2pP9kBatl8YydXDioTVf
 drive.google.com/file/d/1ZINZxXtyYmhTclUmczm32kUQoRc53650
 drive.google.com/file/d/1ZJm19UoyCSf-ZzvOn4aMTmGu0h0yO5Og/view?usp=sharing/
 drive.google.com/file/d/1ZMLxU2euibP6ElBffRDd3lGs9Yyc2Q44
+drive.google.com/file/d/1ZNo9YhYHoc0cZGd_WpN4SHnWJygnrPsb/view?usp=sharing
 drive.google.com/file/d/1ZPPhxu0E1eEbYo90SJYk0oWxkKTNN9Ob
 drive.google.com/file/d/1ZWBDMXrPCoIsgvYhMTmu4adGBIupLIGe
 drive.google.com/file/d/1ZWg_CuTJ6BpcG-CBMNXItNY3sbcJbjBw
@@ -33692,11 +33772,13 @@ drive.google.com/file/d/1ZngZTn0cEIngR_Lvuetwr4ej3Lucdlkj
 drive.google.com/file/d/1Zqea-X_QGZPHms3QwCjx55NBGd7P-12q
 drive.google.com/file/d/1ZrUk3eF9kKF792sOzP45cm-B1l0YWF1h
 drive.google.com/file/d/1ZrZ5uAoe3wOv8DaifARtjcZJye7G6WwK/view?usp=sharing
+drive.google.com/file/d/1ZwUOe0SDsUAg8z3LQwYHhj7iik0uPna4/view?usp=sharing
 drive.google.com/file/d/1ZzK5ywK9GgTvZBnkev68oTBMFP2CKjN9
 drive.google.com/file/d/1_3dK84WHmGSHoExxUsNDbbvCWz95fkO1/view?usp=sharing
 drive.google.com/file/d/1_4HOEZNFmFbatofu4TIxHlr4IJWoWgxt
 drive.google.com/file/d/1_6lKC0zYShnH4douwhNurAPVfM3eCCxd
 drive.google.com/file/d/1_B_Kf-WeETakxJ-EyNjuBRWDlWB21ZMq
+drive.google.com/file/d/1_BgunQcZoe0GrUHdFbl9C_X38r6NM79R/view?usp=sharing
 drive.google.com/file/d/1_BiKbf4HN1RCEMF_aVJEiCX6oPNaJqsa
 drive.google.com/file/d/1_DJNHbYRVxqQ5nmDl5IiV0l3kEvmtnuV
 drive.google.com/file/d/1_HQQmjJHwlsAyct4bnNhv7XLODQIt-Y9
@@ -33720,13 +33802,17 @@ drive.google.com/file/d/1aRvadm5B19ykU_qE3FHmP_ahCYCt6tla/view?usp=sharing/
 drive.google.com/file/d/1aZ2Oa8DdRS-5zu64xw91ahpRLnEKEsHH
 drive.google.com/file/d/1a_g2B0jaLtAssvnFwo8BUsTJ7ABkcCj4
 drive.google.com/file/d/1abH56xSDV1Zunf_LQmCZM2PpCDci3U3O
+drive.google.com/file/d/1afB2E6wS4URsv_Om2Q9uiu9GAw05mtZQ/view?usp=sharing
 drive.google.com/file/d/1ajs2EYKoVOpOI6KiwPHmxR1FSMUWTFS-
 drive.google.com/file/d/1at5Ce-K-gnqTjCLncMGIDovluV3v9OAA
 drive.google.com/file/d/1av6FsYSGnH-CDPe9dSte8WkBMI9ZN4UJ
 drive.google.com/file/d/1avFmWdu2yEKQ9WSJHAGJ6b35fJvjF6oE
+drive.google.com/file/d/1b4T1aXANwKoE96O7PI1TPKNXIEVAB3dy/view?usp=sharing
 drive.google.com/file/d/1b7sThjQYLnM_nI7ggARbW9usqKXEv2Jv
 drive.google.com/file/d/1b7yPrO0Kcdjc71luMJ0-9vTer3zadAaK
 drive.google.com/file/d/1bAJBIfvIe7Xnij7K9VevcvWzb9XZgoAk
+drive.google.com/file/d/1bCWWRonC3gs6G-PuAWxxtimZe4doNLz4/view?usp=sharing
+drive.google.com/file/d/1bDZcOAsrrzfYd0gRIkHS9XtOkuc6fkLy/view?usp=sharing
 drive.google.com/file/d/1bKyHvB1Ss9CWqgo3gVztGtM5G3Yx-4tu
 drive.google.com/file/d/1bMgRIW2RzvLt943z2nGOMA5acXy55TR7
 drive.google.com/file/d/1bPJxBelCVgdgqOdyBDInJBIOuvM3vKuB
@@ -33738,6 +33824,7 @@ drive.google.com/file/d/1bVi5jlh5WspFT5LQSb7PZeDX17st6j9y
 drive.google.com/file/d/1bWqd3tqOKfdPZivkzpKRlvSgfvC62vSK/view?usp=sharing
 drive.google.com/file/d/1bZI09chh2hsGmBg8UZw5Far5qTKuAfY-
 drive.google.com/file/d/1bZZoOk__F9o-itnResBHdR13pDtb2u-a
+drive.google.com/file/d/1b_KqAxSg3ylMwa2b77mWapxmoI7XB4P3/view?usp=sharing
 drive.google.com/file/d/1b_Q_-vj7R-UZh59JK4lNzdmnK5T8YuYU
 drive.google.com/file/d/1bcJNqivD4-oh_85N0rYvOEo6SjwtOTaP/view?usp=sharing
 drive.google.com/file/d/1bdKZNtZhs3KcCC5zu6o10wDd5KWzgwli
@@ -33753,6 +33840,7 @@ drive.google.com/file/d/1c3hghOOoYMdiGmeDk8z2iCY5pPQ7Sa6Q/view?usp=sharing
 drive.google.com/file/d/1c3id8tgyTIbTJdemAhQ6TmXzKLlsb7TZ/view?usp=sharing
 drive.google.com/file/d/1c6ApwmKc914_-kzJti9X_qZmv3zYdwsn
 drive.google.com/file/d/1c6KBC0PxzhLKO_alybb7DNbdz41grN2a
+drive.google.com/file/d/1c8efIcC5W6kL3QM1gWCW-bd6-HigphD4/view?usp=sharing
 drive.google.com/file/d/1c9lL4Kk6CYmZNn4Sw9KtGIEZSZ0Zd0uM
 drive.google.com/file/d/1cE9q3DB1dN7irrvnbUzlMiIVuKE2zF_c
 drive.google.com/file/d/1cETA6okisnlB-COcraG59xYwklbZWuJJ
@@ -33775,9 +33863,11 @@ drive.google.com/file/d/1dC5m1s5E18CfKqVLj9ancw2gcmqaGTXy
 drive.google.com/file/d/1dFD9X1c7qx4lTqk6Z6qu4Tj94DvmTLky
 drive.google.com/file/d/1dJsyOHGeu6UmEpP1y3WOo7q2jJHZkaJ7
 drive.google.com/file/d/1dP2zkpik_QvlKNFo1c8q5J1IKAFCDBjN
+drive.google.com/file/d/1dPOoyFwl83f-ruRdzhGGxX0LpbPv4AFv/view?usp=sharing
 drive.google.com/file/d/1dRPC8tJWAy0ZmRlyfyEReq5-1vRlMRya
 drive.google.com/file/d/1dSghadAHJgpU66sP2_a3sDlQKOXRuxby
 drive.google.com/file/d/1dWn0p43aQisfTReceXk4vuwg03aLwJ0Q
+drive.google.com/file/d/1dYBSgMbHuUEJ4llrk3MT2BOCO8iLtvgj/view?usp=sharing
 drive.google.com/file/d/1dZU56mVDevk6MxKrOfKo9U-aKJknd4bj
 drive.google.com/file/d/1dgxVHPMxr9oHrwBPzdVZnaNRnO7RTQXr
 drive.google.com/file/d/1dnKhB04f7D0VA0Uqd3XVXis7HFGyBugH
@@ -33837,12 +33927,16 @@ drive.google.com/file/d/1fxr3qlIcrhKovnPqPJPLVNSB9skculFg
 drive.google.com/file/d/1fxziFvkdwXmLolaoblis5nllTKGTnZn6/view?usp=sharing/
 drive.google.com/file/d/1fy5tMK2eb0juIsHgT-wqBgXvIpjN8ywu
 drive.google.com/file/d/1fzK7QXn6RVmQO9i0bxjJ891F6fpBx2E_
+drive.google.com/file/d/1fzyONnglHnOBEptO0LYRwYX9-1mV9hzi/view?usp=sharing
 drive.google.com/file/d/1g5wr5vYPfbGWByBbOh2b2cMjyNYfg0As
 drive.google.com/file/d/1g6YpF24ZE6jIgFyjZVKwbSzRg_5yV70R
 drive.google.com/file/d/1g8opwJRSD2uo7SCzINncoGJ-kc6rQL9h
+drive.google.com/file/d/1g910GLewpa5w82s1D-igrNuNtKYFRAz8/view?usp=sharing
 drive.google.com/file/d/1gCltMdzdoFgvlu6ozqI48rZlw0BwW-kX
 drive.google.com/file/d/1gKqoqQIq7WE9I8J-1IDJZVCsSECjbgQP
 drive.google.com/file/d/1gNLI6tusTNLbj_b4rp9kRYTs-rVzOxRl
+drive.google.com/file/d/1gPhG-O8BUKRffiYXm5sd39MJe5_VDFRP/view?usp=sharing
+drive.google.com/file/d/1gRdYQu_Lz_dhfI8fHgd8ZRfROJ32GJDj/view?usp=sharing
 drive.google.com/file/d/1gVb97fwp6WwEn1UK6gtlgio3wvtwdwBt
 drive.google.com/file/d/1gVh8lnVJdSBUz8LU0jAgnu-1h3SEdHqL
 drive.google.com/file/d/1gePicGxt6aaHgRdsJku01LRvZy55LaH8
@@ -33867,6 +33961,8 @@ drive.google.com/file/d/1h_NDbDM9WBup22w7Lf06AQQZcJE6g6xs
 drive.google.com/file/d/1hb0C-RXkbLnD1WHyWJArnRJJ4T1LJyiY
 drive.google.com/file/d/1hedJuqlUSlx_PGUjjlEzYoJ4zQ_Mw-h4
 drive.google.com/file/d/1hf0UepuD1t4ss41ZLDf24nxwwZIZi0HF
+drive.google.com/file/d/1hjYxVN3Ce59DQyMcf6TEcZs63E1QxEBi/view?usp=sharing
+drive.google.com/file/d/1hk719fgi-tJY7z5Y1RwvzSLOdN2tyU4W/view?usp=sharing
 drive.google.com/file/d/1hkGyb-Qi7GX7a20yDTgojsAT01WItVv2
 drive.google.com/file/d/1hkLd_oTD7E2uaqgVDDjjmLsb-FmUiu1F
 drive.google.com/file/d/1htxgPps2qwVfSMWJkV0ilTwSUCj1YkAo
@@ -33874,10 +33970,12 @@ drive.google.com/file/d/1hvGDzm7r7VTdQnK8IIMLbFtF1Whol7iy
 drive.google.com/file/d/1hxBJEhHjgHHAHCQ_peLWRJyL0r9nuYKI
 drive.google.com/file/d/1hxq7a_NHcQoyxDCGhbaEQUNJ82dJlSq-
 drive.google.com/file/d/1hy4HI6nDFkSpeWeejhPQPDSJGhrWQQxy
+drive.google.com/file/d/1i-8fLWjpR8bWOckoKWGnokZr49TpCqYc/view?usp=sharing
 drive.google.com/file/d/1i3YoqU6OKAOyk8G4ZDnLcCJ6WN4fbSxH
 drive.google.com/file/d/1i5Tn8dvKsHSS9QuPoVB7jZML8X-NzwuG
 drive.google.com/file/d/1iAlguyyEJc4xh_gVgszhHvJ9Dc7TYj89/view?usp=sharing
 drive.google.com/file/d/1iEtYhm7__fYK9xfpVNfKxVCqDM5YwvBQ
+drive.google.com/file/d/1iHu31S4s0HimOxR5-ukJAqbHlyJtrO7S/view?usp=sharing
 drive.google.com/file/d/1iRD4p2y4Qlap_ubAWY0mFPKZpBQ_FtC0
 drive.google.com/file/d/1iS3mtHKXfY9qG4IxIg-YFccISZ8fS-07
 drive.google.com/file/d/1iU-uxTTOlv97AKQ6XOEMG3e6L1Q0JlSi
@@ -33892,6 +33990,7 @@ drive.google.com/file/d/1ilhgwYOy1Ops2PaU3PjWPv0kNjIbn8YO
 drive.google.com/file/d/1ipJagYj0SqBQ2QqilAbSFd10XuBBJ0n1
 drive.google.com/file/d/1iyWe4t29yt7WLCCah2pTz9htMofjaVy7
 drive.google.com/file/d/1j1QHx4Xkq-MfbAiFH0hLa9iFDvBnrx7C
+drive.google.com/file/d/1j3jG_y5aKp_WCqebEi3ET3OxjmE9q2Q5/view?usp=sharing
 drive.google.com/file/d/1j6eCcNFwVPB5Bc-IEKDvbWd6y4AEFXVz/view?usp=sharing
 drive.google.com/file/d/1j7sKM8YiCaPlt5uYPlYEGzsKEQE93Job
 drive.google.com/file/d/1jAq-pkAXgCaHQJvITiEG17GFNeSvP23y
@@ -33899,6 +33998,7 @@ drive.google.com/file/d/1jB3yfvm3Dd4O2Z4m3YcTp_gX7LkhW5-b
 drive.google.com/file/d/1jFDaAmHRUY6eoaUy5snMxz--XUcbcEPA
 drive.google.com/file/d/1jMCda_InQoDm3gyj7GXhvCcrb1u6Ap1N
 drive.google.com/file/d/1jNas-AaYib0CyDm3XVL1nU4jKBud4lvL
+drive.google.com/file/d/1jQ55YtOuotsxvZafop2Z1yESKHFafdq4/view?usp=sharing
 drive.google.com/file/d/1jQ6AfAWoU7dpcNx6QoCQJXi9IzHBb_a8/view?usp=sharing/
 drive.google.com/file/d/1jQRInxRaA0zPIB__4D7dxCS_-wmZrqG1
 drive.google.com/file/d/1jSzOKh4X6wikM8p67ipcvf6DJkS2terq/view?usp=sharing
@@ -33910,8 +34010,10 @@ drive.google.com/file/d/1jYns7H5Gx8nvyXhCYUXFm9-6c_ppAEj-
 drive.google.com/file/d/1jZOyEL71EYYGhLyCky7v6BDvfhnTXbjU/view?usp=sharing
 drive.google.com/file/d/1j_hzSADle8ouowpV8AHvBtbjh3frMfAF
 drive.google.com/file/d/1jcJSizRunzYlI1G6TF4dKDDKcg1vPW10
+drive.google.com/file/d/1jkHyLy26ez3SbiEwQKJkQpC885n5OAf_/view?usp=sharing
 drive.google.com/file/d/1js5TQyNiIpJOBcAFuKh6k614OEUYh-qE
 drive.google.com/file/d/1jviPOMP2Sq-HUxPTsq3lgs5bywFtqrvR/view?usp=sharing/
+drive.google.com/file/d/1k1FCY7EL585ofV1yGRyTmSnpzyrR54qV/view?usp=sharing
 drive.google.com/file/d/1k40Vh1y3Php4xmGDfgE3kzA1IJt7H73S
 drive.google.com/file/d/1k7bcY1Rwg7VA6hHzr02E_Ssk4Jzt3HPe/view?usp=sharing
 drive.google.com/file/d/1k9uikHZeMlg18mpdxtxSfCRBr3Qmg8i0
@@ -33955,10 +34057,12 @@ drive.google.com/file/d/1m19Gj1_aznk5YtI2_f48I1kbFtcBxHq9
 drive.google.com/file/d/1m6Q9oDHdURQaOJ0BH261A8L2S5J_MHN0
 drive.google.com/file/d/1m7T3XQGamwt-fwT0lH9ni7u0nn9VSVKT
 drive.google.com/file/d/1mCxxwwEcMBKAbd2wqYFCIJG200GCuLFC/view?usp=sharing/
+drive.google.com/file/d/1mFIA28ZUeJ7JEdqA8OwbEPjK4AyIF6-5/view?usp=sharing
 drive.google.com/file/d/1mIF1PUfyBqPn8q2_brkYyNp_dBeNmzIk/view?usp=sharing/
 drive.google.com/file/d/1mKdfA5k8SCRicvAtgn2Q7EugdvbT7o9o
 drive.google.com/file/d/1mKtLPY1FiXNPj20jIcaxH6VqbDPQd5We
 drive.google.com/file/d/1mNojI3VTHLciN3NcjVCNU6mnl5w6nhyE
+drive.google.com/file/d/1mOGFuOHEB2h5AN7QWcKciKMKXgdewxDt/view?usp=sharing
 drive.google.com/file/d/1mQdYmbZL0TK8l0ra3Dle5ZAN-mpm_Cig/view?usp=sharing/
 drive.google.com/file/d/1mQmSVmO5JD6IZOpLAtL0QwM0g81xlfsu
 drive.google.com/file/d/1mTj_YTjhw6BYnRR5xBKvTXGJ-aSD8bVd
@@ -33985,6 +34089,7 @@ drive.google.com/file/d/1n5bo1kQPOc9IOsy0sJI0loIZJc6ea6GP
 drive.google.com/file/d/1n5nfBl1jBheUIbrExEdaG5w3qRgnUV0o
 drive.google.com/file/d/1n71M5LzjNpBLM5otrxVlibgpzLSaxyo0/view?usp=sharing
 drive.google.com/file/d/1n8jtJJZLicegsfUkmaTjAmpvJs6Z_AAa
+drive.google.com/file/d/1nL64RGPsSpNU031obPyixvLi80TBqNQg/view?usp=sharing
 drive.google.com/file/d/1nLcowq1v_D-tc608RF_TIvyxM7M05QyI
 drive.google.com/file/d/1nM7d2Rin3WrMRiX5a1xBh8BXdBYoDmfj
 drive.google.com/file/d/1nMtmpNajFS9qLb4ZVqs7RUWNMHFHOZj1
@@ -33994,6 +34099,7 @@ drive.google.com/file/d/1nOY072Z32UGJ20Tubkl1j3LiQZ-ni2_h
 drive.google.com/file/d/1nP0CVToMlOqixTkZEbiGvHtje1FCsWWQ
 drive.google.com/file/d/1nXhjQjK9wiYnLZBhF-r_hQij-WyTGcox
 drive.google.com/file/d/1ndBO0VvtEa4fgehPMGDS_hTFdI246sDn
+drive.google.com/file/d/1nfTAPXkdtyxOYFS21cP50UOnAZy1XQ-F/view?usp=sharing
 drive.google.com/file/d/1niFXO8jN_OeQSr79x_ibMPIrNCkKls5B/view?usp=sharing/
 drive.google.com/file/d/1nk0DIHVQoRydIpo4xHNsHIzaxDKLExMz
 drive.google.com/file/d/1nk2XFQnMCDUstATxdcDvsujJwyI4Aewh
@@ -34047,6 +34153,7 @@ drive.google.com/file/d/1pcWnw1XMUmgeaaId_6RPvP2bfC2knB40
 drive.google.com/file/d/1po-8q8G_70070ZdV1TuS3q5ByiRActrG/view?usp=sharing
 drive.google.com/file/d/1po2yk8D1xEQnQoHPGVqxjREW-DtRWSgS
 drive.google.com/file/d/1pon6QuOImH-MoGZWznhebmvbvO2xtdJg
+drive.google.com/file/d/1ppa069E7EYmDF1sXwUxBqmyvEMJTMIdN/view?usp=sharing
 drive.google.com/file/d/1pqeXg607cb_QNvtcpn6u9eAeR5U14puh
 drive.google.com/file/d/1prFRR4kYOj_6oUqinhg425GiM_at3-MJ
 drive.google.com/file/d/1prpkkUQhl0dtdVxM7enSz6HwIDjQUwQW/view?usp=sharing
@@ -34055,9 +34162,11 @@ drive.google.com/file/d/1q1h9N53Xddocig_V6bqKlIDnO62Da7cA
 drive.google.com/file/d/1q9IxiQUhKNgAAGHkzQvUaus_ZbXAsOUd
 drive.google.com/file/d/1qDaTLJKpaBE-lUJwbBk4NTPPAo6Wejj4/view?usp=sharing
 drive.google.com/file/d/1qDfc4GtVtCiihGLH2d4Kg5f7RkDAeKh1
+drive.google.com/file/d/1qF3HdO5ytNKRq1yOEEc87vM8f_NF4s4b/view?usp=sharing
 drive.google.com/file/d/1qKQr5T_IdT_-SU2G9tp2fHNd1m6VNWeG
 drive.google.com/file/d/1qKiSCfazCJSfdwbICFNv6ZtVAXM8lz6Z
 drive.google.com/file/d/1qLV_vXa3DwLiBiUlzW6pvrQ2aDufPet7
+drive.google.com/file/d/1qLxkKu1AmVJnVzAA_CHefZJxTZC7SxdX/view?usp=sharing
 drive.google.com/file/d/1qN0XV0KYASvh7GBg6qEzK753wuDTfmQ_
 drive.google.com/file/d/1qOoc3D7WNHcswWSh2mXGkTCkpybel2VB
 drive.google.com/file/d/1qQFpwTTUJCSf-owMyc1aWp4wdPtNZz73
@@ -34079,8 +34188,11 @@ drive.google.com/file/d/1rA1-dXXKGco6R5TZ4PS83TrwpSigLN_t
 drive.google.com/file/d/1rBAvlRtU7UObYfpAA3vRQBKmqF7sunEQ
 drive.google.com/file/d/1rFcXzi7-un22FHqQ0EsmC7e3lNaA02F7
 drive.google.com/file/d/1rNnBtmaXkcdvvHb2Pyf56IIZDb3qgI5q
+drive.google.com/file/d/1rOYvpqExWdKS8ukRe9pyIwUvyuSLf7gE/view?usp=sharing
 drive.google.com/file/d/1rRVQQ0aEP7V4IpwQwOn6xmO9zk4Re72z
 drive.google.com/file/d/1rSTfEVU23K88A4FQe9du77LMr4WmmtNQ
+drive.google.com/file/d/1rUPaSGDtchGkr3gjHGZ8wZPgKNZALos2/view?usp=sharing
+drive.google.com/file/d/1rUygrL7EHSpgrQ2faRzLtNp8CbPHcANJ/view?usp=sharing
 drive.google.com/file/d/1rXIzHj-qz2l4MKZH1J6iDeqs9ADYL4WN/view?usp=sharing
 drive.google.com/file/d/1rYJD03wCQW5GCBi0oAMbA88GA6kEJZ7N
 drive.google.com/file/d/1rYZ3_q6UkllsapDeUBQ8k4Hw_0i2N-vE
@@ -34103,6 +34215,7 @@ drive.google.com/file/d/1sEU78eXwbWWLM11rfMZTAbWptVt_Rbg_
 drive.google.com/file/d/1sFnKobmaG_R1BOFpeyhk2tuEnQYzTqVf
 drive.google.com/file/d/1sGClrPjTVMIvRDNmqIazci2Wm_KE_GZy
 drive.google.com/file/d/1sLZY9r4D-MrD6FsSZa6VYIKfDL4BHcBh
+drive.google.com/file/d/1sMtVNQWJwOEURRLoRANur0d6LyXXLrD-/view?usp=sharing
 drive.google.com/file/d/1sNUN9_0sUoT7hKWeMQHJjtrQ8g9tvNMR/view?usp=sharing/
 drive.google.com/file/d/1sNo4zhF1uxmfaqGL8QVX09EruREKgNj5
 drive.google.com/file/d/1sO8gydx71A5XQXys4TxNF3iTpxsi1eL5
@@ -34116,7 +34229,9 @@ drive.google.com/file/d/1snRVXMFGZysWqJIbXcHt8VA2bJ1Wznqj
 drive.google.com/file/d/1soZvfCuMPyiU5D1qip5B8brOgo3dA3SK
 drive.google.com/file/d/1srn9xfCi2fzGkyB9eAKfvn7W3kcMgf-Y
 drive.google.com/file/d/1stdBgINzRdtv6dHCyNOiyhLQGw4lzqBS
+drive.google.com/file/d/1szWgSuAdrFYKDz8Wt4pjRTWdenoXhbzQ/view?usp=sharing
 drive.google.com/file/d/1t-spHFzYXWryBvScmK7dMSVB2ob2VFhL
+drive.google.com/file/d/1t1-6W_0HumaQV7HiH2LG93oM7G-9Z07p/view?usp=sharing
 drive.google.com/file/d/1t1EXQvIsiW8gq5BGy8GDWItyea7CFVn-
 drive.google.com/file/d/1t1hWNR6U7KgSwRm424oG-ZmPURWks7Fi
 drive.google.com/file/d/1tDfR4v4x11pZjJMS3ZJaN0OAIiKBqwcu
@@ -34129,6 +34244,7 @@ drive.google.com/file/d/1th0tjSRDwxK7drEU6Bjmi6UARQSef6aj
 drive.google.com/file/d/1tpHlw2BEVSOMcLS7TY-Mprhm3pXcyR1e/view?usp=sharing/
 drive.google.com/file/d/1txhYj0GPX_1QpmC9L2-aH_00SQw1LzmJ
 drive.google.com/file/d/1tyuXHa6BgDLswu5k7iwKNBpOlCcj9Dec
+drive.google.com/file/d/1u0p1T0EOrL_o7_L3glxpKeaiXW1gNjIn/view?usp=sharing
 drive.google.com/file/d/1u1Qs15XCRak1-L1I3KV3qOLjfCNCOfcs
 drive.google.com/file/d/1u2ji-ve0f41rl7KOHl0YjufqbWHAvPnL
 drive.google.com/file/d/1u4373giNQJFhQ-2hNUDiEdgAtQ1f2i_q
@@ -34161,6 +34277,8 @@ drive.google.com/file/d/1v3HFfrkFpc6D3uRogiqohHice9vHfp3M
 drive.google.com/file/d/1v4EvYByJOBHz7Z0II9lyBlYBuRbk4EbK
 drive.google.com/file/d/1v8gDs3jlMWcXFSE2QUCl3Xt-emD7FylM
 drive.google.com/file/d/1vJ7sqCBewmSFw3hIw6EWJf1CZGasdHi2
+drive.google.com/file/d/1vJJDev-r1scHPGRTVoE88PhEr24L43Z-/view?usp=sharing
+drive.google.com/file/d/1vK8cL79zUTo_VLurnwhfH5ylUGY-qwY2/view?usp=sharing
 drive.google.com/file/d/1vKDJ56E1Fs6PBbd4rY_JDHuaaDOwXQME
 drive.google.com/file/d/1vMwiPG7tXNBc57cdr2j1PusNV_d7biTu
 drive.google.com/file/d/1vOjE_-CZjO0pd3GZkqcvamTGUXfh_cVS
@@ -34191,8 +34309,10 @@ drive.google.com/file/d/1wT_yj4Fw7QID5UIm65MpkFtdCjr2I8TY
 drive.google.com/file/d/1wVGMeOscCbLoqsOl1dp0-xDX4Xn62vHU
 drive.google.com/file/d/1wWkVp5kwMtS8WuX2cPw6lV-UDSr3T8dl
 drive.google.com/file/d/1wanYBr8UW1a8ff5-7Rx_g3B6xo8eIQGN
+drive.google.com/file/d/1wdsEUuLJxqXqAqle9pXnKb9N7nNMEMgq/view?usp=sharing
 drive.google.com/file/d/1wg2V7F-O0ezw-MfzRb2FN29Y1_qRP9ht/view?usp=sharing/
 drive.google.com/file/d/1wg6tEeiiIVayRU3GsBBLq9FBLvZxO46q
+drive.google.com/file/d/1wgj-ngyvbZsuDf7YOGb0hFOy1v0jI-Hl/view?usp=sharing
 drive.google.com/file/d/1wpfu2vhGjnTcSGADmbt8DI_mQWGyz5Sg
 drive.google.com/file/d/1wq1DQBxfUGtKUw5rTimhoI4bGgt1Y5D5
 drive.google.com/file/d/1wqtT77cfEVlnTf0paCfdlvYHY2PLX-n2
@@ -34202,12 +34322,15 @@ drive.google.com/file/d/1wvieWVnF-dIa9LfllMPWcawXlatMhxzz
 drive.google.com/file/d/1x1BtIj_Fjcasr615UZrvuXVF9iJWFMq7
 drive.google.com/file/d/1x5x9tAitSYuEOGyMOSVn9ZN3PAoaaOyO
 drive.google.com/file/d/1xEz1fWfz2OLKay-5MDw7Ywc-pb933ZeU
+drive.google.com/file/d/1xFa_3iR_JS-kq9keueko12O53JiMrPxy/view?usp=sharing
+drive.google.com/file/d/1xFdcmAkNizE9iFdSj4OHUhOx7RKUnIcT/view?usp=sharing
 drive.google.com/file/d/1xG2Jc6g3A2eyIoVbnNwMBhZwP4Je1vzi
 drive.google.com/file/d/1xIZmHZ63US-LSr7RLi5pohv93fA1wi0A
 drive.google.com/file/d/1xKmY426vNnwDDoWhR6iOE5dHumVrGDDz
 drive.google.com/file/d/1xLKT5U95wnzVSeP3yN-u-9YxNi6sGcBS
 drive.google.com/file/d/1xLyUXJQZnJNkS7c7lvGHb6TtaJ009lao
 drive.google.com/file/d/1xQfZMi6ny0gkCw0HNeAmznyvolv8IKam
+drive.google.com/file/d/1xTsoCg36-iiHr21YhfL3OWpM7d2vjQJz/view?usp=sharing
 drive.google.com/file/d/1x_xL9RFf99ehHFjQ1-1RJh2sgD7eJgyV
 drive.google.com/file/d/1xcimBo0rNQiRICaI5qNqNOTEplUUPf8T
 drive.google.com/file/d/1xdmTtrWrE5_9nQJ3UbX6oWUnq_DQQZPv
@@ -34216,10 +34339,13 @@ drive.google.com/file/d/1xk-t9sb3HdBsMExGjNLhNts3VBwKmVb-/view?usp=sharing
 drive.google.com/file/d/1xkyDOXZ-uM_1NndloBh8ih2bvSKyak47/view?usp=sharing
 drive.google.com/file/d/1xlS6DvgJrh1hwUViQcgN5-KjfG4dyx_W
 drive.google.com/file/d/1xroOMvrH36hHNnj39snFcud1xQTj5Zsq
+drive.google.com/file/d/1xs-_jJmXdtpJuZr9-shvQbGLovQDUc-6/view?usp=sharing
 drive.google.com/file/d/1xwP7eM3dzujROpo76u1v-_9kluTCV6uR
+drive.google.com/file/d/1y-LBQh7l9pV54lm1rx_Tw3-ZG5ZEWPzD/view?usp=sharing
 drive.google.com/file/d/1y1FoVNHOIOJxTIfiYroU1sdDaZQdEnBp
 drive.google.com/file/d/1y2ThCEsGb-ZZ7JpIpxk5dxWB0Yo8BZNK
 drive.google.com/file/d/1y3aglGfktJrsrbGethPZwG6S5T2unXEN
+drive.google.com/file/d/1y7xl0tdvWlrWyh-DNwv-3CQ6T8yiYHMh/view?usp=sharing
 drive.google.com/file/d/1y8SgBeu3aGSqqNmE7p4joMZAd8eh1E3-
 drive.google.com/file/d/1y8y4EQYoOvu90cdSzPfhxt-qKMSFrweX/view?usp=sharing
 drive.google.com/file/d/1y9iXsorflfZJzpKIsN4NHxO-1FiKVVC1
@@ -34234,6 +34360,7 @@ drive.google.com/file/d/1yO4nxj7qkgsN2XzESNkVI3FnRreq31jx
 drive.google.com/file/d/1yQL-BtDG0AzUguLnS9mu3VNzFFA4Th56
 drive.google.com/file/d/1yTNupm3FVqZhBfPsWq6cWiLCCQQgEd8Y
 drive.google.com/file/d/1yX7wpaCjr2tkqNuqMTbK_q1cQTGlvhIc
+drive.google.com/file/d/1yYRb2JFlKI_wMsX5f2or5cJIj6GUfdFY/view?usp=sharing
 drive.google.com/file/d/1ygD59MG2IvtBRtSnb9f8MfU4akoTQzVa
 drive.google.com/file/d/1yh-JAldvvfO5ye_SDAAbA3gEYEe7312c/view?usp=sharing/
 drive.google.com/file/d/1yiGDZ1JtY83jakLl1MG10PiL-Rf8O6DR
@@ -34242,6 +34369,8 @@ drive.google.com/file/d/1ynJHsTn6_OR7zBrCwaSJyfiXgOCA9O4t
 drive.google.com/file/d/1yqUSz6csfZ8QV3wLkNkVuyzrr2LAejHb
 drive.google.com/file/d/1yt8b1lO5kFx4n_7dCltC1OsomeYMUbl-
 drive.google.com/file/d/1yuAKA6CGkeZoFY8gnZJQzxW-fQxFHJ2q
+drive.google.com/file/d/1z5onfgxvOpxeOBoV2o_pU0u_bSwaAYfm/view?usp=sharing
+drive.google.com/file/d/1z7T0R7kE_tx_YawwNDxpOtSx_HC6-IbV/view?usp=sharing
 drive.google.com/file/d/1zBq3JAMcyUcRvXHTyrdKErx6K4G-mk82
 drive.google.com/file/d/1zCUzHqSp8B28BWYDD1-6YqRKNW3OME_B
 drive.google.com/file/d/1zEmIpqZHnCcu5AJvz92G1GnyJOOI0jG5
@@ -38838,6 +38967,7 @@ education-eg.com
 education.quakenergy.com
 educationalworkshop.info
 educationamritsar.com
+educationcharter.net
 educationreformorg.com
 educators.plus
 edufinit.com
@@ -39399,6 +39529,7 @@ emailmarketingsurvey.com
 emailserverhub.ccomduoliprudential.com.watchdogdns.duckdns.org
 emailupgrade.flu.cc
 emaiscuism.com
+emamit.com
 emanuelnb.org
 emapla.com.br
 emark4sudan.com
@@ -40949,6 +41080,7 @@ famtripsandinspectionvisits.com
 fanalwriters.com
 fanarticho.com
 fanaticalmind.com
+fanaticaviation.com
 fanbasic.org
 fanction.jp
 fancy.direxpro.md
@@ -41076,7 +41208,6 @@ fasiladanser.com
 faskas.com
 fasomeat.com
 fast-cargo.com
-fast-computer.su
 fast-rack.eu
 fast-yoron-5181.fakefur.jp
 fast7news.in
@@ -41319,6 +41450,7 @@ fencebuildersusa.com
 fender4star.com
 fendy.lightux.com
 fenett2018.com
+fengyunhuiwu.com
 fenicerosa.com
 fenichka-ru.myjino.ru
 fenichka.ru
@@ -45341,6 +45473,7 @@ gurmeetramrahim.com
 gurmekan.net
 gurstore.in
 gurtravel.ge
+guru-kripa.designerscafe.in
 guru-sale-today.desi
 guruamardasfamily.com
 guruandco.in
@@ -46314,6 +46447,7 @@ hetbeeldenrijk.nl
 hetum.co.il
 hetz.nu
 heuveling.net
+hewaralqalam.com
 hewle.kielsoservice.net
 hexacam.com
 hexacode.lk
@@ -47087,6 +47221,7 @@ horectitab.com
 horizon2akeris.fr
 horizonfunerals.com.au
 horizont.az
+horizontelesource.com
 horizonth.com
 hormati.com
 horn-art.vn
@@ -47591,6 +47726,7 @@ hybrid-analysis.open-ns.ru
 hybridbusinesssolutions.com.au
 hybridseed.co.nz
 hyclor-my.sharepoint.com
+hyderabadcabrentals.com
 hyderabadmoversandpackers.com
 hyderabadtoursandtravels.com
 hydra0118.store
@@ -55304,6 +55440,7 @@ lwkb.info
 lyashko.site
 lybibafeliteone.com
 lybid-plaza.ua
+lyciawood.com
 lycjyq.sn.files.1drv.com
 lydian.co.jp
 lydiantemps.co.uk
@@ -61350,6 +61487,7 @@ noithatquyetloan.com.vn
 noithatshop.vn
 noithattdc.com
 noithatthanhnhan.com
+noithatthientuan.com
 noithattunglam.com
 noithatvanphongdanang.vn
 noithatviethcm.com
@@ -63536,6 +63674,7 @@ pangtoutuo.vip
 panicpc.fr
 panifortiza.com
 panjabi.net
+panjurkapak.com
 panlierhu.com
 pannewasch.de
 pannkoke.ru
@@ -63790,6 +63929,7 @@ pastebin.com/raw/1W8151yW
 pastebin.com/raw/1fjPuYhv
 pastebin.com/raw/1w6BLxha
 pastebin.com/raw/2JhFfTaR
+pastebin.com/raw/2fitS5rz
 pastebin.com/raw/2gCwSTFg
 pastebin.com/raw/2h2PEsGa
 pastebin.com/raw/2nfaiNGN
@@ -63816,8 +63956,10 @@ pastebin.com/raw/6R76DLmU
 pastebin.com/raw/78rAkiHr
 pastebin.com/raw/7GT7JVC6
 pastebin.com/raw/7Rn9NazM
+pastebin.com/raw/7T1A46D8
 pastebin.com/raw/7pUHhvcD
 pastebin.com/raw/82NPcP37
+pastebin.com/raw/8AWq9tPE
 pastebin.com/raw/8QhXA4yk
 pastebin.com/raw/8Zh9yNMF
 pastebin.com/raw/9J3VdNeX
@@ -63833,6 +63975,7 @@ pastebin.com/raw/ARdtcQtn
 pastebin.com/raw/Ac5L7NRj
 pastebin.com/raw/AnnvDPYx
 pastebin.com/raw/AnsHH70i
+pastebin.com/raw/B1XWipLA
 pastebin.com/raw/B62DYPCq
 pastebin.com/raw/B9WYiKEa
 pastebin.com/raw/BJdc0ikm
@@ -63859,6 +64002,7 @@ pastebin.com/raw/Euzk3Ht4
 pastebin.com/raw/F4u0pqRe
 pastebin.com/raw/F8W8Pz9Z
 pastebin.com/raw/FB9ZJpxV
+pastebin.com/raw/FNBEeNh5
 pastebin.com/raw/FQmdrFgG
 pastebin.com/raw/FUH5z93c
 pastebin.com/raw/FkyichTu
@@ -63875,6 +64019,7 @@ pastebin.com/raw/Hn0iW6jc
 pastebin.com/raw/HtbKk3tV
 pastebin.com/raw/J6sSHq71
 pastebin.com/raw/JC7kfJFp
+pastebin.com/raw/JGgaF3UB
 pastebin.com/raw/JSMdZ7DG
 pastebin.com/raw/JX04QUfs
 pastebin.com/raw/JaerZWSQ
@@ -63882,6 +64027,7 @@ pastebin.com/raw/JdTuFmc5
 pastebin.com/raw/Jk83kEqi
 pastebin.com/raw/JmC5V5as
 pastebin.com/raw/K3acEKyj
+pastebin.com/raw/K9ZpeHkW
 pastebin.com/raw/KN4bbgRm
 pastebin.com/raw/KQRDhmUH
 pastebin.com/raw/KgNuSJT8
@@ -63915,6 +64061,7 @@ pastebin.com/raw/Qx0K2baN
 pastebin.com/raw/R0fNyc4T
 pastebin.com/raw/RFza8dqe
 pastebin.com/raw/RNncKyUC
+pastebin.com/raw/RSnSreeW
 pastebin.com/raw/SZxfx0qZ
 pastebin.com/raw/SpWFxEhr
 pastebin.com/raw/SpihegJk
@@ -63922,6 +64069,7 @@ pastebin.com/raw/SsR5h3vf
 pastebin.com/raw/T0UXLwDj
 pastebin.com/raw/T4kLHbMZ/
 pastebin.com/raw/T8DvhqPG
+pastebin.com/raw/TMHjRGmW
 pastebin.com/raw/TNnFtBjw
 pastebin.com/raw/TZ0hwkm4
 pastebin.com/raw/TZz8928z
@@ -63963,12 +64111,15 @@ pastebin.com/raw/ZpGRinae
 pastebin.com/raw/ZsWQg7Up
 pastebin.com/raw/Zt3fQmYs
 pastebin.com/raw/Zunvk1Lm
+pastebin.com/raw/ZwTAiZEr
 pastebin.com/raw/ZxBcfMCW
 pastebin.com/raw/ZxSz1t2e
+pastebin.com/raw/a4wjYvBc
 pastebin.com/raw/a816Nq2Q
 pastebin.com/raw/aMnUbDuB
 pastebin.com/raw/aUsZD652
 pastebin.com/raw/aWM30tW9
+pastebin.com/raw/aYkNkarc
 pastebin.com/raw/adTFwSQL
 pastebin.com/raw/aiaFfhat
 pastebin.com/raw/b02xTctz
@@ -63988,6 +64139,7 @@ pastebin.com/raw/dz7Uw5Ts
 pastebin.com/raw/eFL5ufx9
 pastebin.com/raw/eKWNp8mk
 pastebin.com/raw/eMqPJrM2
+pastebin.com/raw/eNBNAqUN
 pastebin.com/raw/eXnA5nqf
 pastebin.com/raw/efZDG7aL
 pastebin.com/raw/f4LJAVQ2
@@ -64005,6 +64157,7 @@ pastebin.com/raw/gsz0i2D6
 pastebin.com/raw/gwmvaipm
 pastebin.com/raw/hDg9NVQx
 pastebin.com/raw/hZCSsUay
+pastebin.com/raw/hg15ZVaH
 pastebin.com/raw/hzLN7srw
 pastebin.com/raw/i5AiAYuD
 pastebin.com/raw/iFSRFgHk
@@ -64032,6 +64185,7 @@ pastebin.com/raw/m9uJvZZz
 pastebin.com/raw/ng1agnTh
 pastebin.com/raw/nv5d9pYu
 pastebin.com/raw/p7nvBwgt
+pastebin.com/raw/pJvSfE79
 pastebin.com/raw/pRGiJZE2
 pastebin.com/raw/phbZu0vK
 pastebin.com/raw/pqj6c7eX
@@ -64081,6 +64235,7 @@ pastebin.com/raw/y5zfuhJy
 pastebin.com/raw/y6R5nYzL
 pastebin.com/raw/yDfV34B2
 pastebin.com/raw/yJnNFtb9
+pastebin.com/raw/yUc29316
 pastebin.com/raw/yUj51nDt
 pastebin.com/raw/yrDF1YCq
 pastebin.com/raw/yvyE642L
@@ -64091,6 +64246,7 @@ pastebin.com/raw/zPSyq6mc
 pastebin.com/raw/zTbe7wFc
 pastebin.com/raw/zZZhQqtZ
 pastebin.com/raw/zde6dFKC
+pastebin.com/raw/zecD9M7Z
 pasteboard.co
 pastelcolors.in
 pastilepentruslabit.ro
@@ -64434,6 +64590,7 @@ pennasports.com
 penneytrail.org
 pennoscan.com.au
 penpilot.net
+penrithrivercafe.com
 pensacolahomeinspections.com
 pensacqua.it
 pensaresaber.com
@@ -64575,6 +64732,7 @@ perusahaansecurity.com
 perutravelamazing.com
 peruwalkingtravel.com
 perzado.com
+pesaship.com
 pescaderiasenguan.com
 pescadores.cl
 pescaeguipos.com
@@ -66937,6 +67095,7 @@ qgks2q.by.files.1drv.com
 qgproducoes.com.br
 qhemp.io
 qhoteloldcity.com
+qianghankeji.com
 qiankunculture.com
 qianlong.watchdogdns.duckdns.org
 qianzhiwangluo.com
@@ -68003,6 +68162,7 @@ readyteam.org
 reaksiyondanismanlik.com
 real-deal.net
 real-estate-athens.com
+real-money.online
 real-song.tjmedia.co.kr
 real-swiss-watches.ru
 real-websolutions.nl
@@ -68955,6 +69115,7 @@ robotizando.com.br
 robotop.cn
 robpepper.co.uk
 robshop.lt
+robsitbon.net
 robustclarity.com
 robvanderwoude.com/updates/caldemo.txt
 robwalls.com
@@ -71546,6 +71707,7 @@ shahrenarmafzar.com
 shahriasharmin.com
 shahrproject.ir
 shahrubanu.com
+shahshahani.info
 shailendramathur.com
 shajishalom.com
 shake4help.com
@@ -74318,6 +74480,7 @@ steppingoutstudio.com
 steppingstonegy.com
 stepsofcoffee.com
 steptobetter.com
+stepupfincorp.com
 stepwhite.com.hk
 stereo92.net
 sternen-kind.de
@@ -78410,6 +78573,7 @@ thanhphotrithuc.com
 thanhsarah.com
 thanhthanhtungstone.com
 thanhtungtanluoc.com
+thanhviet.com.vn
 thankg1.org
 thanksfitness.com
 thankyoucraig.com
@@ -80600,6 +80764,7 @@ tuval-mobilya.com
 tuvanachau.com.vn
 tuvancondotelarena.com
 tuvandauthau.net
+tuvandoanhnghiep.org
 tuvanduhocduc.org
 tuvangamenet.com
 tuvangioitinh.com
@@ -81787,6 +81952,7 @@ url.emailprotection.link/?ayL72bfBub-Dd-Y3yvvPpz8JfYmmIlgEjoSDUuj2vrnTpKguZ2uBjd
 url.emailprotection.link/?bcp_LQdELwbKhxKToIznR8rOuhtt9W4qlFovFOxc0z5zmN6k8ji5zi9v7qbCrvRGePrP065w1sneU27JfM6LqozRkXpWdzWXoQHCUebEUJx-pJ0FN_jIdanzNgIHD_CY1/
 url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmBKpoVHxYkckgjOQoYTV_U0G2UMKhd4MBI9Ms8vO3Vliq2ClOuUAa6nO2a7Ij5lJFsouoEEMeMVmI/
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
+url.sg
 url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
 url3.mailanyone.net
 url5459.41southbar.com
@@ -82224,6 +82390,7 @@ vanisoftware.com
 vanividyalaya.edu.in
 vankat-agromarket.cz
 vanlizza-chau.com
+vanlokaq-monics.gq
 vanmanrunner.com
 vanmaysedenvoitoinhahi.com
 vanminhhotel.com
@@ -83387,6 +83554,7 @@ vwininternational.com
 vwmagazijn.nl
 vwqze.info
 vydra.icu
+vyhoang.airaworldtourism.com
 vym.com.ua
 vyroba-plotov-bran.sk
 vysokepole.eu
@@ -83774,6 +83942,7 @@ webbs.cl
 webbsmail.co.uk
 webbuffet.it
 webbureau-utrecht.nl
+webbuze.online
 webcamvriendinnen.nl
 webchamp.com
 webclicks.co.za
@@ -83859,6 +84028,7 @@ webradiosolnascente.com
 webriver.website
 websapp.jic-shop.com
 websayfaniz.com
+webseographicsit.com
 webserv-redir.net
 webserverthai.com
 webshop.se
@@ -84068,6 +84238,7 @@ weronikasculptu.re
 weronikasokolinskaya.pa.infobox.ru
 wertedits.com
 wertios.com
+werwrewrkv.ru
 werycloud.website
 wesco.com/canada_terms_and_conditions_of_sale_english.pdf/
 wesconsultants.com
