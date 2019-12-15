@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 14 Dec 2019 12:08:01 UTC
+! Updated: Sun, 15 Dec 2019 00:08:00 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2584,6 +2584,7 @@
 142.11.219.20
 142.11.219.202
 142.11.222.125
+142.11.227.252
 142.11.227.63
 142.11.229.126
 142.11.236.183
@@ -2836,6 +2837,7 @@
 144.217.241.195
 144.217.242.217
 144.217.43.222
+144.217.7.29
 144.217.84.36
 144.48.82.67
 144.48.82.76
@@ -3489,6 +3491,7 @@
 159.65.136.187
 159.65.138.44
 159.65.142.218
+159.65.143.126
 159.65.145.44
 159.65.146.194
 159.65.146.232
@@ -3967,6 +3970,7 @@
 165.22.69.255
 165.22.7.106
 165.22.70.48
+165.22.71.160
 165.22.71.196
 165.22.71.42
 165.22.72.155
@@ -4118,6 +4122,7 @@
 167.172.187.94
 167.172.199.201
 167.172.208.31
+167.172.215.218
 167.172.220.98
 167.172.225.62
 167.172.225.69
@@ -5891,6 +5896,7 @@
 185.131.191.52
 185.132.53.100
 185.132.53.104
+185.132.53.119
 185.132.53.234
 185.134.122.209
 185.134.21.75
@@ -8396,7 +8402,7 @@
 2.ak1ba.pro
 2.clcshop.online
 2.globalengine.ru
-2.indexsinas.me
+2.indexsinas.me:811/c64.exe
 2.moulding.z8.ru
 2.spacepel.com
 2.toemobra.com.br
@@ -9183,6 +9189,7 @@
 209.141.42.145
 209.141.42.23
 209.141.42.3
+209.141.42.87
 209.141.43.15
 209.141.43.89
 209.141.45.120
@@ -10978,7 +10985,7 @@
 3dshoes.com.ua
 3dx.pc6.com
 3dxchat.sexy
-3dxgadgetstore.com/wp-content/themes/azuma/functions/OCT/
+3dxgadgetstore.com
 3dyazicimarket.com.tr
 3e-science.co.jp
 3efetarim.com
@@ -11228,6 +11235,7 @@
 45.126.254.31
 45.127.220.129
 45.127.97.4
+45.128.133.37
 45.129.2.127
 45.129.2.132
 45.129.3.105
@@ -11525,6 +11533,7 @@
 46.101.176.121
 46.101.177.201
 46.101.177.73
+46.101.185.133
 46.101.192.167
 46.101.193.175
 46.101.195.35
@@ -13376,6 +13385,7 @@
 7.adborod.z8.ru
 70.116.68.186
 70.119.121.78
+70.119.17.40
 70.164.206.71
 70.177.14.165
 70.185.41.153
@@ -14236,6 +14246,7 @@
 82.196.10.146
 82.196.100.251
 82.196.11.96
+82.196.13.37
 82.196.13.46
 82.196.2.225
 82.197.242.52
@@ -15735,7 +15746,7 @@ aa-top.com
 aa1atghd0uhfffgftyfasdgfjsq20.s3.amazonaws.com/DocumentoOutubro-PT-G256984172H-2019-10_20.zip
 aa22.mon-application.com
 aaa-sovereignty.com
-aaa.usbquatang.vn/rqvye/multifunctional_module/guarded_area/j3q1DWH_ttzyjGHbd9L4c/
+aaa.usbquatang.vn
 aaaca.co
 aaadriving.co.nz
 aaag-maroc.com
@@ -16361,7 +16372,7 @@ adaptservices.net
 adarma.xyz
 adasnature.rodevdesign.com
 adastrawll.gq
-adax.us
+adax.us/logmag/shit.exe
 aday.haberkorfez.com
 adazing.com/DHL-number/En/
 adazing.com/DOC/EHM76459484042P/525428/HQLA-OUAEH
@@ -20638,7 +20649,7 @@ autoprof.es
 autoreduc.com
 autoregressed.com
 autorepairinriorancho.com
-autorepairmanuals.ws
+autorepairmanuals.ws/homepage/bSDjvZYCUYyxvldpcWiSpz/
 autorepuestosdml.com
 autoride.gr
 autorizatiifirme.ro
@@ -22786,7 +22797,7 @@ bilanacc.com
 bilateralgroup.co
 bilberrymarketing.ca
 bilcoinkap.online
-bildeboks.no/wp-content/themes/themeforest-10050004-trent-wordpress-responsive-one-page-parallax/trent-theme/images/headers/msg.jpg
+bildeboks.no
 bildideen.site
 bilecikadaosgb.com.tr
 bilet-bilet.com
@@ -23640,7 +23651,9 @@ blog.kpourkarite.com
 blog.lalalalala.club
 blog.lasoy.net
 blog.laviajeria.com
-blog.learncy.net
+blog.learncy.net/wp-admin/includes/available-550527173-DMt5fWR4vu/interior-warehouse/kub-6xs1y/
+blog.learncy.net/wp-admin/user/oxZqQp/
+blog.learncy.net/wp-content/themes/salient/nectar/plugin-notices/l1nM94Xew/
 blog.leasetrader.com
 blog.leitershop-24.com
 blog.livedareevents.com
@@ -24572,7 +24585,8 @@ brighter-homes.com
 brightervisionsites30.com
 brightestwash.com
 brightfutureparivar.org
-brightheads.in
+brightheads.in/wp-content/uploads/87719203644245/9gl6de9g91t/4m0nties-9942744274-2183132-tvtop2ff-8nlmg3y5/
+brightheads.in/wp-content/uploads/vJIBgwBzsXUYnfHPLuwoqrMEWLGi/
 brightkidsformula.com
 brightless.net
 brightmarkinvestments.com
@@ -25252,8 +25266,7 @@ cabocitytours.com
 caboexecutivecatering.com
 cabola.com.br
 cabootaxi.com
-cabosanlorenzo.com/wp-load/960-it06f-3748/
-cabosanlorenzo.com/wp-load/protected-resource/verifiable-tk2c-3kfk3g9iz/ebub24rmzo8-9u88717yx935/
+cabosanlorenzo.com
 caca.dk
 cacaonamtruongson.com
 cacaonguyenchat.com
@@ -25949,8 +25962,7 @@ casinoolimp.online
 casinoonline-games.net
 casinoonlinemaxbet.com
 casinospelare.net
-casinovegas.in/cgi-bin/lm/he4cvd7ox/jqarb5-68879-1195183-facr5h-pmg56/
-casinovegas.in/cgi-bin/protected_module/additional_warehouse/NzQU7EbxmY_mLobpJqHn8Lh8/
+casinovegas.in
 casiregalo.es
 casite-720243.cloudaccess.net
 caspertour.asc-florida.com
@@ -27211,7 +27223,7 @@ chinesetimes.jp
 chinhdropfile.myvnc.com
 chinhdropfile80.myvnc.com
 chinmayacorp.com
-chinmayprabhune.com
+chinmayprabhune.com/wp-includes/lm/6t8nq-842130022-01968-eke6dxyk-buim8h7e8/
 chintamuktwelfare.com
 chintech.com.cn
 chinyami.co.tz
@@ -30245,7 +30257,7 @@ datasci.sci.dusit.ac.th
 datascienceexcellence.com
 datascienceexcellence.net
 datascienceexcellence.org
-dataseru.com/wp-includes/ZqBS/
+dataseru.com
 dataserver.c0.pl
 datasheep.co.uk
 datasoft-sa.com
@@ -30377,7 +30389,7 @@ dayspringserves.com
 daythietke.com.vn
 daytona73mock.com
 daytonohseo.com
-dayzend.net/pypi/LLC/wevtqbs955k/
+dayzend.net
 dayzendapparel.com
 dayzerocapetown.co.za
 dazhuzuo.com
@@ -30725,7 +30737,7 @@ deinc.com
 deinde.tech
 deine-stickdatei.de
 deine-tierheilpraxis.de
-deinpostfach.com/3.exe
+deinpostfach.com
 deirah.com
 deist-online.de
 deitmer.info
@@ -33530,8 +33542,7 @@ down.haote.com
 down.hognoob.se
 down.icafe8.com
 down.klldddiso.xyz
-down.kuwo.cn/KwLyric.exe
-down.kuwo.cn/mbox/wwwab/MBOX8.0.1.5/kuwo2015.exe
+down.kuwo.cn
 down.leyoucoc.cn
 down.my0115.ru
 down.pcclear.com
@@ -33622,7 +33633,7 @@ download.pdf00.cn
 download.postnltrackentrace.com
 download.qiangxm.com
 download.rising.com.cn
-download.security.baidu.co.th/softmgr/C9_Thailand_Downloader_1.062.exe
+download.security.baidu.co.th
 download.skycn.com
 download.sosej.cz
 download.ttrar.com
@@ -33719,7 +33730,7 @@ dprd.tangerangselatankota.go.id
 dprince.org
 dprk.acehbesarkab.go.id
 dpsbanarpal.in
-dpsborhan.com
+dpsborhan.com/wp-includes/closed-2316765-5yeJoe8uC6/BfjYuq33-7g1uNV2fB7-dsw3n3ec5sv-lev1w3/3O1owz9-xKHw3K5pwz/
 dptcosmetic.com.vn
 dptsco.ir
 dpublicidadsolucion.com
@@ -40133,7 +40144,7 @@ ecommercedefinitivo.com.br
 ecommercefajeza.web.id
 ecommercehub.com.br
 ecommercesuper.com
-ecomriseup.com/wp-includes/esp/dlk0dw8-43223194-41970-bgnk-yup7342d/
+ecomriseup.com
 econ-week.com
 economiadigital.biz
 economika.com.ve
@@ -42659,7 +42670,7 @@ fastpool.ir
 fastprotectsolutions.com
 fastrackapp.es
 fastrxtransfer.com
-fastsoft.onlinedown.net/down/onekeyyijianhuanyuan.exe
+fastsoft.onlinedown.net
 fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
@@ -43557,7 +43568,7 @@ fleetstreetstudios.co.za
 fleetwoodrvpark.com
 flek1.free.fr
 flemart.ru
-fleminghowden.co.uk/app/closed_72401571_gPZiW/verified_cloud/ssgs68kax2zmzf_9w2t738v321s/
+fleminghowden.co.uk
 flemingtonosteopathy-my.sharepoint.com
 fleshycams.com
 fletchertours.goodwow.net
@@ -44435,7 +44446,7 @@ ftf.bythewaymart.com
 ftflogistica.com.br
 ftik.iainkediri.ac.id
 ftk-toys.ru
-ftk.uin-antasari.ac.id/calendar/docs/
+ftk.uin-antasari.ac.id
 ftk.unsada.ac.id
 ftmis199.de
 ftmk.utem.edu.my
@@ -46409,7 +46420,7 @@ goudappel.org
 goudu.club
 gourmetlab.pe
 gourmetreats.in
-gov.kr
+gov.kr/main?d=AA100DataDownApp&SAVE_FILE_NM=38500.exe
 gov.rsmart-testsolutions.watchdogdns.duckdns.org
 govche.in
 goveboatclub.com.au
@@ -47052,7 +47063,7 @@ gujaratisamajjobs.com
 gujjulala.com
 gularte.com.br
 gulartetattoo.com
-gulenoto.com/wp-includes/p1zablb2ihdj/
+gulenoto.com
 gulfclouds.site
 gulfcoastcurbappeal.net
 gulfexpresshome.co
@@ -48793,7 +48804,7 @@ homebodygirl.com
 homebrain.ai
 homebrewtrainers.com
 homecaregurgaon.com
-homecarehvac.com/wp-includes/open_resource/guarded_profile/eshftvv0ht_61x297v2/
+homecarehvac.com
 homeclub.am
 homeconcept.rs
 homedealtoday.com
@@ -52693,7 +52704,7 @@ jolange.com.au
 jolansoki.site
 jolapa.com
 joleen.milfoy.net
-jolietlocalmover.com/dlppn/cache/zfg1zna/FILE/uvrkxn4t/ood4-3853-53921222-1ptb57x5qm-l19tb/
+jolietlocalmover.com
 jollycharm.com
 jolyscortinas.com.br
 jomblo.com
@@ -54211,7 +54222,7 @@ kinetikproje.com
 kineziolog.si
 king-dom101.net
 king-lam.com
-king.myapp.com/myapp/Kingroot/webapp_kingroot/solution_test/00000000000000000001457946048278.jar
+king.myapp.com
 kingaardvark.com
 kingasgroup.co.uk
 kingcoffeetni.com
@@ -57259,8 +57270,7 @@ lse-my.asia
 lsfgarquitetos.com.br
 lsn.standard-om.net
 lsouza.com.br
-lsperennial.com/tnnfxu/545533028378/ofzt2ll4a-4754801-8569215-64d2t-rbtsi5ylgq/
-lsperennial.com/tnnfxu/parts_service/sxqppt-3564-6400614645-rpnt-zgmw1cqv4m/
+lsperennial.com
 lspo.ru
 lsrighi.com
 lstasshdy.cf
@@ -58970,7 +58980,8 @@ marinapartners.com
 marinapuertocancun.com
 marinasuitesnhatrang.com
 marinavinhomes.vn
-marinawellnesshub.com
+marinawellnesshub.com/personal_TGhY_jQST9BY5/JOhvdF/
+marinawellnesshub.com/wp-admin/multifunzionale_modulo/j8m216sa1j0gxr_5dvsskk_profilo/7921476723823_3SL2qI9/
 marindofacility.co.id
 marineboyz.com
 marinecommunityclubltd.com
@@ -59010,8 +59021,7 @@ markelliotson.com
 markemerybuilding.com
 markerom.ru
 markesrobo-empresarial.com
-market.afkarcode.com/5tdpsm/55ywj-e1v-277482/
-market.afkarcode.com/5tdpsm/QPY/
+market.afkarcode.com
 market.optiua.com
 marketbd.xyz
 marketeirow.com
@@ -59942,7 +59952,7 @@ melwanilaw.com
 melyanna.nl
 memap.co.uk
 memaryab.com
-members.chello.nl/g.dales2/b.exe
+members.chello.nl
 members.iinet.net.au/~sambo75/FedEx--shipping(ecopy)22-3235-44-Labels.jar
 members.iinet.net.au/~sambo75/FedEx-shipping(ecopy)22-3235-44-Labels.jar
 members.iinet.net.au/~sambo75/svvchost.exe
@@ -60258,7 +60268,7 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
-miamicondoinvestments.com/wp-admin/sec.myaccount.docs.com/
+miamicondoinvestments.com
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -60962,6 +60972,7 @@ mnewsapp.ga
 mnginvestments.com
 mnhealthcare.biz
 mniumek.cba.pl
+mnjkoug.ug
 mnkprombusinessmanagemewww.watchdogdns.duckdns.org
 mnlandscapes.rebeccasilus.com
 mnminfrasolutions.com
@@ -62625,7 +62636,7 @@ nascalinesflights.com
 nascenthotels.com
 nasdacoin.ru
 nasdembjm.000webhostapp.com
-nase-rodina.cz/xoV9W6
+nase-rodina.cz
 naserakhlaghi.ir
 nashikproperty.tk
 nashobmen.org
@@ -62716,7 +62727,7 @@ naturathome.be
 naturdoctor.com
 nature-creativ.fr
 nature-moi.com
-natureduca.com/images_reporteros/FZd/
+natureduca.com
 naturehut.net
 naturemont.ru
 naturerepublickh.com
@@ -62924,7 +62935,7 @@ neoluz.com.br
 neomagazine.masscomm.cmu.ac.th
 neomfootwear.com
 neon-sky.com
-neon7.in
+neon7.in/wp-includes/paclm/cugkw8-1537-655050919-9ru3-293h3/
 neoneet.com
 neonwise.com
 neora.ru
@@ -63202,7 +63213,7 @@ newphonenow.com
 newpioneerschool.com
 newplannersolutions.com
 newportedu.org
-newradio.it
+newradio.it/personalplayer/rvl/rvl.exe
 newratehub.com
 newregionalsmartschool.com
 newreport.info
@@ -66266,10 +66277,7 @@ pasilhok.desa.id
 pasioncontinental.com
 pasirmatogu.tapselkab.go.id
 paskha.biz.ua
-paskjldf.ug/ndfgjkhgdf.exe
-paskjldf.ug/ndfgkhjgfdk.exe
-paskjldf.ug/pbcxvhkjfdjgk.exe
-paskjldf.ug/pfgdjhgdf.exe
+paskjldf.ug
 pasoprage.nl
 pasqualeserrani.com
 pass4art.com
@@ -66284,7 +66292,27 @@ passpartout.org
 passportstatusonline.com
 passwordrecoverysoft.com
 past.com.tr
-paste.ee
+paste.ee/r/DNfid
+paste.ee/r/IBxWH
+paste.ee/r/KC3M6
+paste.ee/r/S1BF3
+paste.ee/r/TJPAh
+paste.ee/r/VADxX
+paste.ee/r/XUnRN
+paste.ee/r/XuObf
+paste.ee/r/YoY3z/0
+paste.ee/r/ZjjLK
+paste.ee/r/aDgZw
+paste.ee/r/dykKR
+paste.ee/r/fsU10
+paste.ee/r/g6daj
+paste.ee/r/hW6I2
+paste.ee/r/kCMwY
+paste.ee/r/oSNoT
+paste.ee/r/tbOr2
+paste.ee/r/te2rx/0
+paste.ee/r/x0Coe
+paste.ee/r/yCZLo/0
 pastebin.com/2q8dT2n3
 pastebin.com/gUJMLv20
 pastebin.com/rVFFxSs6
@@ -66411,6 +66439,7 @@ pastebin.com/raw/J6sSHq71
 pastebin.com/raw/JC7kfJFp
 pastebin.com/raw/JGgaF3UB
 pastebin.com/raw/JSMdZ7DG
+pastebin.com/raw/JThqpaQR
 pastebin.com/raw/JX04QUfs
 pastebin.com/raw/JaerZWSQ
 pastebin.com/raw/JdTuFmc5
@@ -66431,6 +66460,7 @@ pastebin.com/raw/LmpwCg1r
 pastebin.com/raw/Lpby2SeY
 pastebin.com/raw/LucgjQJK
 pastebin.com/raw/LwmR5Ax3
+pastebin.com/raw/LzkNcv75
 pastebin.com/raw/M09iGMLY
 pastebin.com/raw/M5vupjxv
 pastebin.com/raw/M5wekJYc
@@ -69290,10 +69320,7 @@ punter.tk
 puntoardg.com
 puntodeencuentrove.com
 puntofrio.com.co
-puntoprecisoapp.com/ypb/C3p/
-puntoprecisoapp.com/ypb/CWaLp-ZvMdFq079BYzYU_FwcfChFo-dU/
-puntoprecisoapp.com/ypb/files/support/ios/EN/2019-04/
-puntoprecisoapp.com/ypb/secure.myacc.docs.com/
+puntoprecisoapp.com
 puntosilueta.com
 puntoyaparteseguros.com
 puparevieira.com
@@ -70406,7 +70433,7 @@ raminkb.com
 ramjigulatiofficial.com
 raml-herger.at
 ramoflouisville.com
-rampbay.com
+rampbay.com/var/r3kb2/
 ramper.es
 rampp.ir
 ramrag.com
@@ -70905,7 +70932,7 @@ redcross59.ru
 redcuberecords.com
 reddeadtwo.com
 reddeertowingservice.com
-reddoak.com
+reddoak.com/wp-content/Documentation/t3vem8-4800-53779-iypz6if2-dc1zcb6kt/
 reddogtransport.co.uk
 redebioclinica.med.br
 redepsicanalise.com.br
@@ -71482,7 +71509,9 @@ riccocard.com
 ricepotfrisco.com
 ricercarfashion.com
 richardcarvalho.com
-richardciccarone.com
+richardciccarone.com/watixl/KbSXxlb
+richardciccarone.com/watixl/KbSXxlb/
+richardciccarone.com/watixl/Pages/iwq2bcuhtc/fpl5dh7-1085-7485017905-7upoox-mmwh5rr/
 richardcorneliusonline.com
 richardfu.net
 richardgregory.co.uk
@@ -72679,8 +72708,10 @@ sachindutta.com
 sachoob.com
 sachtrithuc.com
 sacm.net
-sacmsgmgw001a.delta.org
-sacmsgmgw001b.delta.org
+sacmsgmgw001a.delta.org/enduser/classify_url.html?url=bcj4vOoPS8B46Ud6gJMEtrSVpbK6kvOhzNoTP1Nkc9akCYldm5ysiiV042Pg5WhS/
+sacmsgmgw001a.delta.org/enduser/classify_url.html?url=gMQvjTDwF+23in+gr9bszmxgor7TYncykJbo+NUodQg6GgUL9qbt0DxSnpXzZCh6fb6C0XyiTaySpVP8B3UA2w/
+sacmsgmgw001b.delta.org/enduser/classify_url.html?url=vn1ThnzZihkgHFvBYSgQsXigd2FROhFqovuC9pBEzpiVgOuDF6NXNoa9h08sWe+d/
+sacmsgmgw001b.delta.org/enduser/classify_url.html?url=vn1ThnzZihkgHFvBYSgQsXigd2FROhFqovuC9pBEzpiVgOuDF6NXNoa9h08sWe+dWI6vgTagrNGo9imHFHKhlw==/
 saconets.com
 sacramentobouncers.com
 sacramentode.ml
@@ -72732,7 +72763,7 @@ safekar.online
 safekro.com
 safelinks-protection.com
 safemoneyamerica.com
-safentrix.com/adlink?cid=0
+safentrix.com
 saferoomreviews.com
 safesalesnembutal.com
 safesandsecurity.co.za
@@ -72878,8 +72909,7 @@ sakixx.ml
 sakonwan.aplatoo.com
 sakumall.com
 sakura.hostenko.com
-sakuralabs.com/4gubn/personal-zone/interior-forum/rye8idbdwx6uiw9-vtw0y35413
-sakuralabs.com/4gubn/personal-zone/interior-forum/rye8idbdwx6uiw9-vtw0y35413/
+sakuralabs.com
 sakyant.org
 saladesom.com.br
 saladgarden.jp
@@ -73764,7 +73794,7 @@ searcharticlesup.gq
 searchcars.co.in
 searchingforsoulministry.org
 searchingworks.us
-searchofy.com
+searchofy.com/cgi-bin/2m6v692/
 searchselfstoragenetwork.com
 searchselfstoragequote.com
 searchstoragequote.com
@@ -75225,7 +75255,7 @@ simplicityprojects.com
 simplifyglobalsolutions.com
 simplisal.co.uk
 simplyarmstrong.com
-simplycannabis207.me/wp-content/2i79-nb-61210/
+simplycannabis207.me
 simplygardenky.com
 simplyposh.lk
 simplyresponsive.com
@@ -75656,6 +75686,7 @@ slotshots2.yggdrasilgaming.com
 slotxogameth.com
 sloughchessacademy.com
 slovak-cts.sk
+slowerfants.info
 slowexposure.com
 slowianskawieza.pl
 slowlane.me
@@ -77234,7 +77265,8 @@ static.43.47.69.159.clients.your-server.de
 static.76.102.69.159.clients.your-server.de
 static.error-soft.net
 static.ilclock.com
-static.ow.ly
+static.ow.ly/docs/Carbo%20Contract%202010_3K7C.doc
+static.ow.ly/docs/Womens%20Spring%202012%20Email%20blast2_n4s.doc
 static.solidbasewebschool.nl
 static.topxgun.com
 staticholidaysuk.co.uk
@@ -80167,7 +80199,7 @@ systemupd.com
 systemy-sterowania.pl
 systhema.nl
 syswow32batch.su
-sytercollection.web.id/wp-includes/UfKKgAN/
+sytercollection.web.id
 syubbanulakhyar.com
 syuji-higa.com
 syzang.com
@@ -80439,7 +80471,8 @@ tamnhindoanhnhan.com
 tamoyun.web.tr
 tampacigarroller.com
 tampaseo.com
-tamsu.website
+tamsu.website/document4753.zip
+tamsu.website/document7806.zip
 tamsuamy.com
 tamsys.net
 tamta.gr
@@ -86843,9 +86876,7 @@ wallpaaper.xyz
 wallpapershd.xyz
 wallsorts.co.nz
 wallstreetancona.wazabit.it
-wallstreetreporter.com/wp-content/plugins/most-popular-posts/1
-wallstreetreporter.com/wp-content/plugins/most-popular-posts/2
-wallstreetreporter.com/wp-content/plugins/most-popular-posts/3
+wallstreetreporter.com
 walnutgrey.com
 walstan.com
 waltermagaya.com
@@ -87088,13 +87119,16 @@ web.ismt.pt
 web.mit.edu/kolya/.f/root/net.mit.edu/net/user/chris/WinNT/MIT_Agenda2a.doc
 web.mit.edu/kolya/.f/root/net.mit.edu/sipb/user/kolya/afs/root.afs/net/user/chris/WinNT/MIT_Agenda2a.doc
 web.muasam360.com
-web.opendrive.com
+web.opendrive.com/api/v1/download/file.json/MjBfNTg5OTkzNl8?inline=1
+web.opendrive.com/api/v1/download/file.json/NzNfMTUyMjE5OTdf?inline=0
+web.opendrive.com/api/v1/download/file.json/OTBfMTcwNDM3ODRf?inline=0
+web.opendrive.com/api/v1/download/file.json/OTlfMTY1MDczODRf?inline=0
 web.pa-cirebon.go.id
 web.plf.vn
 web.riderit.com
 web.smakristen1sltg.sch.id
 web.speakingofhome.com
-web.tiscali.it
+web.tiscali.it/hispeedcar/lamborgbg.jpg
 web.tiscalinet.it
 web.udl.cat
 web.vorona.ru
@@ -87674,7 +87708,6 @@ wildcard.wpmudev.host
 wilddiary.com
 wilde.dk
 wildfhs.com
-wildfire.paloaltonetworks.com/panos/sample/cloud/bWYyL0FpajRPdnROT2RYcmFZTDR4S1lGQ051TXBSYk9nMVV3bU9kUkZXUExLc3VFTUx6NFhnMFdYcncwV291MFVaZVRjYUdkZ2U4UHFxNUlIeEZMbVFUK3dMNm10RXRpRm1FUGtwUWJjMWwrTUsyZjFDMHpWckI0cDcyL3doaThtSzM4RWxRVFErS24zazhzYnhrTVNLQlRqaERsS2VnYzNQODVXNDhFL3QwUUNMWFJZelFqK1FhbndHVkxvcXF2/
 wildgardenmedia.com
 wildheifer.de
 wildhowlz.com
@@ -88357,7 +88390,7 @@ www-bsac.eecs.berkeley.edu
 www-grupotv1-com-br.azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 www.smart-eg.com
 www022284.com
-www107.zippyshare.com
+www107.zippyshare.com/d/8OPFupqh/37744/Server.exe
 www11.thinkproject.com
 www2.cj53.cn
 www2.gamingsupport.com
