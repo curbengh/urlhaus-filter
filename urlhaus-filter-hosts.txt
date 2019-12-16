@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sun, 15 Dec 2019 12:07:50 UTC
+# Updated: Mon, 16 Dec 2019 00:08:17 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -1662,6 +1662,7 @@
 123.10.105.90
 123.10.25.47
 123.12.111.162
+123.12.4.52
 123.12.74.116
 123.129.217.250
 123.13.58.151
@@ -3594,6 +3595,7 @@
 159.65.81.17
 159.65.81.70
 159.65.81.86
+159.65.82.186
 159.65.83.240
 159.65.83.246
 159.65.83.94
@@ -5856,6 +5858,7 @@
 185.117.88.121
 185.117.88.96
 185.118.12.178
+185.118.164.220
 185.118.165.108
 185.118.165.205
 185.118.166.205
@@ -8403,7 +8406,6 @@
 2.moulding.z8.ru
 2.spacepel.com
 2.toemobra.com.br
-2.top4top.net
 2.u0135364.z8.ru
 200.100.103.159
 200.100.141.80
@@ -10784,6 +10786,7 @@
 37.139.29.246
 37.139.5.191
 37.142.114.154
+37.142.118.95
 37.142.119.187
 37.142.138.126
 37.142.144.79
@@ -11298,6 +11301,7 @@
 45.32.155.207
 45.32.157.1
 45.32.170.190
+45.32.188.83
 45.32.189.32
 45.32.202.132
 45.32.211.160
@@ -11829,6 +11833,7 @@
 46.30.42.225
 46.30.42.245
 46.32.231.239
+46.33.232.146
 46.36.35.110
 46.36.35.128
 46.36.36.127
@@ -11951,6 +11956,7 @@
 49.71.61.106
 49.73.18.110
 49.75.68.238
+49.82.8.106
 49.89.174.135
 49parallel.ca
 4abconsulting.de
@@ -12809,7 +12815,6 @@
 6-milescoast.vn
 6-shifoxona.uz
 6.adborod.z8.ru
-6.top4top.net
 6.u0135364.z8.ru
 6.u0141023.z8.ru
 60.164.250.170
@@ -14801,6 +14806,7 @@
 89.34.26.204
 89.34.26.23
 89.34.26.73
+89.34.27.36
 89.34.98.140
 89.35.10.49
 89.35.193.90
@@ -17099,7 +17105,6 @@ aig-com.ga
 aigavicenza.it
 aiglemovies.com
 aihealth.vn
-aiiaiafrzrueuedur.ru
 aiineh.com
 aiit.ahbys.com
 aijdjy.com
@@ -18011,7 +18016,6 @@ alphoreswdc.in
 alpina-expert.pl
 alpinaemlak.com
 alpinecare.co.uk
-alpinehandlingsystems.com
 alpineinternet.com.au
 alpinetrekkers.pk
 alpinewebgroup.com
@@ -20411,6 +20415,7 @@ auladebajavision.com
 aulamania.com
 aulbros.com
 auligo.com
+auliskicamp.in
 aulist.com
 auliyarahman.com
 aulsystem.com
@@ -20518,7 +20523,6 @@ autobritt.apptitude.ch
 autobuschel.ru
 autocenter2000.com.br
 autoclasscuneo.it
-autocom.mx
 autod.kws-auto.ru
 autodavid.hr
 autodetali-161.ru
@@ -21011,6 +21015,7 @@ b.catgirlsare.sexy
 b.coka.la
 b.makswells.com
 b.reich.io
+b.top4top.net
 b.ww2rai.ru
 b010.info
 b1.ee
@@ -22592,6 +22597,7 @@ bigdatastudies.com
 bigdev.top
 bigdiamondeals.com
 bigeyes.com.tw
+bigfile.mail.naver.com
 bigfishchain.com
 bigfoothospitality.com
 bigg-live.com
@@ -24326,6 +24332,7 @@ bsmartedu.in
 bsmassage.hu
 bsn39.flu.cc
 bsp-japan.com
+bsp.co.id
 bspartage.com
 bspb.info
 bspecfab.com
@@ -25303,6 +25310,7 @@ cargoinsurance.tk
 cargokz.kz
 cargomate-kr.cf
 cargomax.ru
+caribbean360.com
 carifesta.com
 carikliantiquitat.com
 carimbosrapidos.com.br
@@ -25707,7 +25715,6 @@ cc.dev.tuut.com.br
 cc.divineconnectionprop.co.za
 cc14927-wordpress.tw1.ru
 cc78.bg
-cc9.ne.jp
 ccamatil1-my.sharepoint.com
 ccandcbrand.com
 ccash.xyz
@@ -25790,7 +25797,6 @@ cdn.prominertools.com
 cdn.siv.cc
 cdn.slty.de
 cdn.top4top.net
-cdn.truelife.vn
 cdn.xiaoduoai.com
 cdn.zecast.com
 cdn4.css361.com
@@ -26767,7 +26773,6 @@ cirqueampere.fr
 cirugiaurologica.com
 cisir.utp.edu.my
 cisme.in
-cismichigan.com
 cisnecosmetics.com.br
 ciss.mk
 cissa.ewebdy.com
@@ -28934,6 +28939,7 @@ cybersecurityforyourbusiness.com
 cybersecuritygoals.com
 cybersoftwarelabs.com
 cybersol.net
+cybikbase.com
 cybimex.com
 cyborginformatica.com.ar
 cybuzz.in
@@ -29961,7 +29967,6 @@ delivery.balanceado.com
 delivery.mn
 deliyiz.net
 delkaland.com
-dell1.ug
 della.themeshigh.com
 dellaconnor.com
 dellarosa.com.au
@@ -31773,6 +31778,7 @@ donusumhirdavatmetal.com
 donvosphotography.com
 dooball.biz
 doobegroup.com
+doodlebug.club
 doodleninja.in
 doodletango.com
 doodletopixel.co.uk
@@ -31907,7 +31913,6 @@ down.haote.com
 down.hognoob.se
 down.icafe8.com
 down.klldddiso.xyz
-down.kuwo.cn
 down.leyoucoc.cn
 down.my0115.ru
 down.pcclear.com
@@ -32040,6 +32045,7 @@ dp-partners.net
 dp4kb.magelangkota.go.id
 dp5a.surabaya.go.id
 dpa-industries.com
+dpa.atos-nao.net
 dpack365-my.sharepoint.com
 dpacorp.org
 dparmm1.wci.com.ph
@@ -34028,7 +34034,6 @@ en.modernizmgdyni.pl
 en.ntv.as
 en.sign-group.ru
 en.sun-sen.com
-en.tag.ir
 en.worthfind.com
 en.yallanesafer.net
 enaax.com
@@ -34565,6 +34570,7 @@ eslahat.news
 esmeralda.ru
 esmeraldadelmar.info
 esmerize.com
+esmerocapas.com.br
 esmobleman.com
 esmocoin.com
 esmorga.com
@@ -34671,7 +34677,6 @@ estomedic.com
 estore.qurvex.com
 estrategias-corporativas.com
 estrategiasdeaprovacao.com.br
-estreamnetworks.net
 estrindesign.com
 estrom.es
 estrutura.eng.br
@@ -39681,6 +39686,7 @@ gsm-timer.ru
 gsmbrain.com
 gsncloud-my.sharepoint.com
 gsoftclean.online
+gsoftclean.top
 gsoftclean.xyz
 gsonlinetutorial.com
 gsportsgroup.co.kr
@@ -48305,7 +48311,6 @@ lctnastisa01.com
 lcugudy.cf
 lcwk.ru
 lczyp.com
-ld.mediaget.com
 ld.us15.list-manage.com
 ld15.wa-democrats.net
 ldchanoi.com
@@ -49447,7 +49452,6 @@ logisticshopping.com
 logistiya.ru
 logiviatech.com
 logocompass.ru
-logocrib.com
 logodo.net
 logologi.vn
 logomotivede.com
@@ -51377,6 +51381,7 @@ marindofacility.co.id
 marineboyz.com
 marinecommunityclubltd.com
 marinecreditunionusa.com
+marinefoundation.in
 marinem.com
 marineservice.lt
 mario-plata.de
@@ -53613,6 +53618,7 @@ monkeycropsme.com
 monkeyfishfrog.com
 monkeyinferno.net
 monkeyspawcreative.com
+monmotors.com
 monnam.com
 monnaomotona.co.bw
 monngonvietdalat.com
@@ -54429,7 +54435,6 @@ my-unicorner.de
 my-way.style
 my.camptaiwan.com.tw
 my.jiwa-nala.org
-my.mixtape.moe
 my.zhaopin.com
 my10apps.com
 my2b.online
@@ -55123,6 +55128,7 @@ nbdservizi.com
 nbgcpa.net
 nbgcpa.org
 nbhgroup.in
+nbigfile.mail.naver.com
 nbj.engaged.it
 nbn-nrc.org
 nbn.co.ls
@@ -55975,7 +55981,6 @@ niveront.com
 nivs.westpointng.com
 nixtin.us
 nixw00xtr00x.duckdns.org
-nixware.cc
 nizansigorta.com
 nizhalgalsociety.com
 nizhny-novgorod.telemagazin24.ru
@@ -63982,6 +63987,7 @@ sachindutta.com
 sachoob.com
 sachtrithuc.com
 sacm.net
+sacmsgmgw001b.delta.org
 saconets.com
 sacramentobouncers.com
 sacramentode.ml
@@ -64033,7 +64039,6 @@ safekar.online
 safekro.com
 safelinks-protection.com
 safemoneyamerica.com
-safentrix.com
 saferoomreviews.com
 safesalesnembutal.com
 safesandsecurity.co.za
@@ -64642,7 +64647,6 @@ saturday-school.org
 satutitik.com
 satyam.cl
 satyammetals.com
-satysservs.com
 sauceismoney.com
 saudaveldemais.com
 saudenatural.ml
@@ -67131,7 +67135,6 @@ smsafiliados.com
 smsbab.com.ng
 smseventplaner.com
 smsfgoldbullion.com.au
-smsiarkowiec.pl
 smsin.site
 smskey.ru
 smsncr.com
@@ -68456,6 +68459,7 @@ static.43.47.69.159.clients.your-server.de
 static.76.102.69.159.clients.your-server.de
 static.error-soft.net
 static.ilclock.com
+static.ow.ly
 static.solidbasewebschool.nl
 static.topxgun.com
 staticholidaysuk.co.uk
@@ -69891,7 +69895,6 @@ tafe.org
 tafertergr.com
 tafftanzania.or.tz
 tafol.es
-tag.ir
 tag520.com
 tagamol.com
 tagbanners.com
@@ -70044,6 +70047,7 @@ tamnhindoanhnhan.com
 tamoyun.web.tr
 tampacigarroller.com
 tampaseo.com
+tamsu.website
 tamsuamy.com
 tamsys.net
 tamta.gr
@@ -71302,7 +71306,6 @@ thecityglobal.com
 thecityvisit.com
 theclaridge.org
 theclown.ca
-theclubmumbai.com
 thecoastaltimes.media
 thecoastofhelpfoundation.org
 thecoldfront.com
@@ -71615,7 +71618,6 @@ thepeteryee.com
 thepgconsultancy.com
 thepickledcarrot.ca
 thepietruck.com.au
-thepinetree.net
 thepinkonionusa.com
 theplayfab.com
 thepngbusiness.com
@@ -72689,6 +72691,7 @@ track-lost-device.co.za
 track-systemgo.ru
 track.bestwesternlex.com
 track.defatinator.com
+track.smtpserver.email
 track.wizkidhosting.com
 track6.mixtape.moe
 track8.mixtape.moe
@@ -73092,6 +73095,7 @@ troncomed.ae
 troncustoms.cf
 trontik.ru
 troopchalkkids.com
+troopwebhost.blob.core.windows.net
 tropicalhawaii.com
 tropicalislandrealtyofflorida.com
 tropicallogistix.com
@@ -74123,7 +74127,6 @@ update.zbs.su
 update15.hospedagemdesites.ws
 update24.ch
 update365office.com
-update6.satysservs.com
 updateadovesettings.io
 updateguru.xyz
 updateinfo3.top
@@ -74259,6 +74262,7 @@ url.246546.com
 url.57569.fr.snd52.ch
 url.edu
 url.sg
+url3.mailanyone.net
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urlsys.com
@@ -74450,7 +74454,6 @@ v68dejuancc.band
 v6ckv.vandartel.eu
 v73adrian79.company
 v7gfx.de
-v9.monerov8.com
 vaaiseguro.com.br
 vaarbewijzer.nl
 vaastuhomess.com
@@ -76152,6 +76155,7 @@ web.plf.vn
 web.riderit.com
 web.smakristen1sltg.sch.id
 web.speakingofhome.com
+web.tiscali.it
 web.tiscalinet.it
 web.udl.cat
 web.vorona.ru
@@ -77406,7 +77410,6 @@ www2.recepty5.com
 www2.runmyweb.com
 www2.wlwv.k12.or.us
 www6.hpq0.cn
-www68.zippyshare.com
 wwwclplonline.000webhostapp.com
 wwwdev.whitehat.pt
 wwwhelper.com
@@ -77771,6 +77774,7 @@ xn--5dbalbrcab0al1jnj.co.il
 xn--70-1lcencedmk.xn--p1ai
 xn--70-jlc6aj.xn--p1ai
 xn--72-6kcin5agafz3b.xn--p1ai
+xn--72c1a1bt4awk9o.xn--o3cw4h
 xn--72c1af8bgw6e1a1hwd.com
 xn--72c1afja3d9cezh4w.com
 xn--72c6a5a8bvfyb.com
