@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Tue, 24 Dec 2019 00:08:15 UTC
+# Updated: Tue, 24 Dec 2019 12:08:12 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -127,6 +127,7 @@
 1.246.223.35
 1.246.223.39
 1.246.223.44
+1.246.223.49
 1.246.223.54
 1.246.223.55
 1.246.223.58
@@ -397,6 +398,7 @@
 103.204.70.58
 103.205.7.218
 103.206.118.250
+103.207.37.211
 103.207.38.15
 103.207.38.8
 103.209.176.85
@@ -1705,6 +1707,7 @@
 114.231.5.20
 114.234.141.86
 114.234.251.17
+114.234.56.109
 114.234.68.71
 114.235.1.167
 114.235.110.215
@@ -1831,7 +1834,9 @@
 115.53.85.87
 115.55.123.56
 115.55.200.58
+115.55.39.48
 115.55.66.139
+115.56.69.190
 115.56.69.35
 115.58.56.47
 115.58.85.204
@@ -2259,6 +2264,7 @@
 121.242.207.115
 121.41.0.159
 121.52.145.194
+121.58.86.235
 121.62.22.129
 121.66.36.138
 121298189-242237494434886978.preview.editmysite.com
@@ -3274,6 +3280,7 @@
 141.237.152.241
 141.237.233.4
 141.237.48.128
+141.255.164.13
 141.255.164.15
 141.255.40.67
 141.255.98.249
@@ -5399,6 +5406,7 @@
 172.39.17.169
 172.39.18.50
 172.39.19.188
+172.39.2.71
 172.39.23.203
 172.39.27.185
 172.39.28.113
@@ -14247,6 +14255,7 @@
 59.90.41.127
 59.90.42.49
 59.92.188.28
+59.94.93.153
 59.95.148.105
 59.95.232.135
 59.95.36.137
@@ -14458,6 +14467,7 @@
 62.133.171.21
 62.140.224.186
 62.141.55.98
+62.16.55.170
 62.162.115.194
 62.162.127.182
 62.174.172.215
@@ -21744,6 +21754,7 @@ asmnutrition.ru
 asmo-rus.org
 asmo.media
 asmobilus.lt
+asmupdate3.top
 asmweb.xyz
 asncare.com
 asncustoms.ru
@@ -27620,6 +27631,7 @@ cbea.com.hk
 cbet.ca
 cbfund.io
 cbhrmf.com.br
+cbk.m.dodo52.com
 cbl-mmg.com
 cbmagency.com
 cbmiconstrutora.com.br
@@ -28450,6 +28462,7 @@ chivarov.de
 chixg.com
 chiyababu.000webhostapp.com
 chizzyworld.eu
+chj.m.dodo52.com
 chklink.us
 chlorella.by
 chmara.net
@@ -34608,6 +34621,7 @@ dso-security.com
 dssa.ch
 dsservis.sk
 dstachow.pl
+dstang.com
 dstny.net
 dstore.hu
 dstorm.eu
@@ -39624,6 +39638,7 @@ fstyline.xyz
 fsuiujosq.cf
 ft.bem.unram.ac.id
 ftanom.cf
+fte.m.dodo52.com
 fteola.cf
 ftf.bythewaymart.com
 ftflogistica.com.br
@@ -46764,6 +46779,7 @@ itcoolingsolutions.com.au
 itcs-pohle.de
 itcshop.com.ng
 itcslimited.com
+itd.m.dodo52.com
 itechscaner.com
 itechsystem.es
 itechzone.ml
@@ -47305,6 +47321,7 @@ jazmin.infusionstudios.com
 jazz.devdemo.biz
 jazzie-brown.de
 jb84gw.dm.files.1drv.com
+jb92paris.free.fr
 jbarbourlaw.com
 jbc-fakiromania.fr
 jbcc.asia
@@ -48201,6 +48218,7 @@ jslogo.cn
 jsoidujs.cf
 jsonpop.cn
 jsplivenews.com
+jsq.m.dodo52.com
 jsquaredohio.com
 jsrwaco.watchdogdns.duckdns.org
 jss.co.ir
@@ -71770,6 +71788,7 @@ ssl2.blockbitcoin.com
 ssllinks.duckdns.org
 sslupdate1.top
 sslupdate2.top
+sslupdate4.top
 sslv3.at
 ssmmbed.com
 ssmthethwa.co.za
@@ -74714,6 +74733,7 @@ testfax.net
 testfixit.tk
 testfreedom.000webhostapp.com
 testhartfordhighschool-my.sharepoint.com
+testing-bg.site
 testing-samdowling.c9users.io
 testing.alphyc.com
 testing.mark-lab.biz
@@ -77864,6 +77884,7 @@ upax.com.br
 upbizindia.com
 upcom-pro.be
 upcountrysalvation.com
+upd.m.dodo52.com
 updata.com.br
 update-55.waw.pl
 update-chase.justmoveup.com
@@ -82625,6 +82646,8 @@ yvonnekersten.nl
 yvsguchdy.cf
 yw11i7292ieuowpeu29.com
 ywhmcs.com
+ywp.dodovip.com
+yx.m.dodo52.com
 yxchczdy.cf
 yxcsdy.cf
 yxieludy.cf
