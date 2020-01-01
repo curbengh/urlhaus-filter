@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Tue, 31 Dec 2019 12:07:59 UTC
+# Updated: Wed, 01 Jan 2020 00:08:03 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -350,6 +350,7 @@
 103.100.209.198
 103.102.133.33
 103.102.46.107
+103.102.59.206
 103.106.244.31
 103.108.73.200
 103.109.179.206
@@ -525,6 +526,7 @@
 103.59.133.32
 103.59.134.101
 103.59.134.14
+103.59.134.37
 103.59.134.42
 103.59.134.43
 103.59.134.45
@@ -1368,6 +1370,7 @@
 110.154.193.74
 110.154.196.231
 110.154.197.168
+110.154.197.243
 110.154.208.236
 110.154.208.32
 110.154.210.4
@@ -1910,6 +1913,7 @@
 114.215.206.234
 114.218.207.237
 114.225.117.71
+114.226.100.240
 114.226.119.188
 114.226.62.226
 114.226.64.246
@@ -1971,6 +1975,7 @@
 114.239.105.131
 114.239.106.85
 114.239.123.15
+114.239.123.182
 114.239.124.99
 114.239.129.144
 114.239.135.42
@@ -2085,6 +2090,8 @@
 115.208.172.36
 115.209.247.231
 115.21.142.249
+115.213.203.223
+115.216.33.169
 115.219.86.10
 115.220.246.49
 115.221.124.213
@@ -2134,10 +2141,12 @@
 115.55.200.58
 115.55.36.115
 115.55.39.48
+115.55.40.115
 115.55.44.206
 115.55.66.139
 115.56.69.190
 115.56.69.35
+115.58.209.116
 115.58.56.47
 115.58.60.198
 115.58.85.204
@@ -2288,7 +2297,9 @@
 117.194.162.120
 117.194.162.57
 117.194.166.223
+117.194.166.42
 117.195.49.151
+117.195.51.192
 117.195.53.225
 117.195.54.115
 117.195.54.174
@@ -2891,6 +2902,7 @@
 123.13.5.74
 123.13.58.101
 123.13.58.151
+123.13.84.239
 123.134.198.213
 123.159.207.108
 123.159.207.111
@@ -2937,6 +2949,7 @@
 123.8.223.185
 123.8.223.9
 123.96.97.205
+123.97.141.23
 123.97.159.39
 12303033.com
 123179113-999724479432441953.preview.editmysite.com
@@ -3066,6 +3079,7 @@
 125.43.233.50
 125.44.190.181
 125.44.192.41
+125.44.234.99
 125.44.47.150
 125.46.128.146
 125.46.196.62
@@ -5923,6 +5937,7 @@
 172.249.254.16
 172.36.0.147
 172.36.0.156
+172.36.0.180
 172.36.0.21
 172.36.0.244
 172.36.0.62
@@ -5935,6 +5950,7 @@
 172.36.10.9
 172.36.11.138
 172.36.11.207
+172.36.11.230
 172.36.12.142
 172.36.12.216
 172.36.12.4
@@ -5974,6 +5990,7 @@
 172.36.2.165
 172.36.2.73
 172.36.20.234
+172.36.20.48
 172.36.20.78
 172.36.21.175
 172.36.21.179
@@ -6016,6 +6033,7 @@
 172.36.3.153
 172.36.3.175
 172.36.3.177
+172.36.3.182
 172.36.3.213
 172.36.3.239
 172.36.3.250
@@ -6027,6 +6045,7 @@
 172.36.31.140
 172.36.32.164
 172.36.33.19
+172.36.33.220
 172.36.33.234
 172.36.33.248
 172.36.34.195
@@ -6074,6 +6093,7 @@
 172.36.43.167
 172.36.43.35
 172.36.43.70
+172.36.44.223
 172.36.44.95
 172.36.45.220
 172.36.46.21
@@ -6115,6 +6135,7 @@
 172.36.56.55
 172.36.57.107
 172.36.57.143
+172.36.57.165
 172.36.57.51
 172.36.58.148
 172.36.58.166
@@ -6801,6 +6822,7 @@
 177.86.234.133
 177.86.234.62
 177.86.235.213
+177.86.75.71
 177.87.13.15
 177.87.191.60
 177.87.218.13
@@ -7729,6 +7751,7 @@
 183.128.143.249
 183.128.179.252
 183.128.191.187
+183.128.191.199
 183.128.215.224
 183.130.124.215
 183.134.150.14
@@ -11433,6 +11456,7 @@
 211.137.225.142
 211.137.225.144
 211.137.225.146
+211.137.225.147
 211.137.225.150
 211.137.225.18
 211.137.225.2
@@ -12062,6 +12086,7 @@
 222.124.45.191
 222.125.62.184
 222.133.177.93
+222.136.159.99
 222.137.248.58
 222.138.134.154
 222.138.134.236
@@ -12138,6 +12163,7 @@
 222.80.146.34
 222.80.148.43
 222.80.160.152
+222.80.161.156
 222.80.170.78
 222.80.171.12
 222.81.14.37
@@ -13209,6 +13235,7 @@
 36.96.125.101
 36.96.165.148
 36.96.181.55
+36.96.184.180
 36.96.188.9
 36.96.204.44
 36.96.205.152
@@ -14520,6 +14547,7 @@
 47inf.org
 48jy84235198b21f7873078899cf5b.cloudflareworkers.com
 49.0.41.126
+49.112.138.112
 49.112.139.65
 49.112.146.92
 49.112.91.180
@@ -14672,6 +14700,7 @@
 49.81.248.234
 49.81.250.134
 49.81.254.97
+49.81.27.217
 49.81.35.201
 49.81.97.248
 49.82.10.77
@@ -15486,6 +15515,7 @@
 58.238.185.95
 58.27.133.164
 58.40.122.158
+58.51.26.139
 58.82.189.178
 58.9.118.193
 58012601-400280936254816614.preview.editmysite.com
@@ -15830,6 +15860,7 @@
 61.2.178.167
 61.2.178.173
 61.2.178.187
+61.2.178.199
 61.2.178.248
 61.2.178.56
 61.2.178.80
@@ -15837,6 +15868,7 @@
 61.2.179.196
 61.2.179.206
 61.2.179.233
+61.2.179.80
 61.2.180.81
 61.2.181.168
 61.2.188.199
@@ -15853,6 +15885,7 @@
 61.2.244.24
 61.2.244.55
 61.2.244.74
+61.2.245.175
 61.2.245.94
 61.2.246.4
 61.2.246.80
@@ -15864,6 +15897,7 @@
 61.216.29.195
 61.219.188.149
 61.219.41.50
+61.221.229.170
 61.222.95.43
 61.228.108.86
 61.247.224.66
@@ -19459,6 +19493,7 @@ adazing.com
 adbee.tk
 adbord.com
 adcanudosnh.com.br
+adcash.cf
 adcash.ga
 adccenterbd.com
 adcinterior.co.in
@@ -20671,7 +20706,6 @@ alessandro.enlalineadelfrente.com
 alessandroconte.net
 alessandrofabiani.it
 alessence.com
-alessiocorvaglia.com
 alessiopaolelli.com
 alesya.es
 aleterapia.com
@@ -21535,6 +21569,7 @@ amnholidays.com
 amnisopes.com
 amniyatgostariranian.ir
 amnrelease.com
+amnsreiuojy.ru
 amnsw.com.au
 amnsw.prospareparts.com.au
 amnsw.prosparepartscom.au
@@ -23775,7 +23810,6 @@ autodavid.hr
 autodetali-161.ru
 autodevices.topterra.ru
 autodrim.pl
-autodwg.com
 autoecole-hammamet.tn
 autoecole.inchtechs.com
 autoecolehophophop.com
@@ -25415,6 +25449,7 @@ bengal.pt
 bengalbreeze.com
 benhnamgioi.online
 benimax.com.br
+benimdunyamkres.com
 benimeli-motor.com
 benimurun.com
 benirtravel.co.ke
@@ -26705,6 +26740,7 @@ blog.thewebcake.com
 blog.thoai.vn
 blog.threadless.com
 blog.timejobs.cl
+blog.tkaraca.com
 blog.todaygig.com
 blog.toothlab.org
 blog.trestique.com
@@ -28202,6 +28238,7 @@ c.eeeeee.cz
 c.etheos.site
 c.k1ristri.ru
 c.pieshua.com
+c.top4top.net
 c.vivi.casa
 c.vollar.ga
 c.xzzzx.ga
@@ -28462,7 +28499,6 @@ camisolaamarela.pt
 camiticket.com
 camiworldwide.in
 camlikkamping.com
-cammi.it
 campagnesms.info
 campaigns.actionable-science.com
 campanus.cz
@@ -29243,6 +29279,7 @@ cdn.prominertools.com
 cdn.siv.cc
 cdn.slty.de
 cdn.top4top.net
+cdn.truelife.vn
 cdn.xiaoduoai.com
 cdn.zecast.com
 cdn4.css361.com
@@ -30253,7 +30290,6 @@ cirqueampere.fr
 cirugiaurologica.com
 cisir.utp.edu.my
 cisme.in
-cismichigan.com
 cisnecosmetics.com.br
 ciss.mk
 cissa.ewebdy.com
@@ -30429,6 +30465,7 @@ clayservices.co.za
 claytonjohnston.com
 clc-net.fr
 cld-net.com
+cld.persiangig.com
 clean.crypt24.in
 clean.vanzherke.ru
 cleanacresna.org
@@ -33214,7 +33251,6 @@ dbalive.dk
 dbcomestic.com
 dbfuppsala.se
 dbinario.com
-dbo.ca.gov
 dboyusa.online
 dbravo.pro
 dbs-ebank.com
@@ -33327,7 +33363,6 @@ dealsammler.de
 dealsfantasy.com
 dealsnow.com.ng
 dealspotservices.com
-dealtimer.com
 deam.cl
 deambulations-nomades.eu
 deanhopkins.co.uk
@@ -35482,6 +35517,7 @@ door-craft.ru
 door-ma.com
 doordam.co.uk
 doordroppers.co.uk
+doordu.com
 doorlife.co.in
 doorsecurityy.com
 doorspro.ie
@@ -35637,6 +35673,7 @@ down1.hgkjb.top
 down1.softups.info
 down1.topsadon1.com
 down1.xt70.com
+down10.zol.com.cn
 down10b.zol.com.cn
 down11.downyouxi.com
 down12.downyouxi.com
@@ -36344,7 +36381,6 @@ dw.convertfiles.com
 dw.vsoyou.net
 dwahomework.biz
 dwallo.com
-dwarikesh.com
 dwaynejohnson.co.in
 dwdsystem.home.pl
 dwedwe.altervista.org
@@ -36667,6 +36703,7 @@ easyshirts.in
 easytax.vn
 easytaxvn
 easytechnologies.sk
+easytradeservices.com
 easytradeteam.co.in
 easyvisaoverseas.com
 easywork360.com
@@ -36755,7 +36792,6 @@ ec2-52-50-24-225.eu-west-1.compute.amazonaws.com
 ec2-54-207-92-161.sa-east-1.compute.amazonaws.com
 ec2-54-212-231-68.us-west-2.compute.amazonaws.com
 ec2-54-94-215-87.sa-east-1.compute.amazonaws.com
-ec2euc1.boxcloud.com
 ecadigital.com
 ecampus.mk
 ecampuskbds.com
@@ -39083,6 +39119,7 @@ f0267229.xsph.ru
 f0269025.xsph.ru
 f0316439.xsph.ru
 f0jgqwejaisdqjwnqwe.com
+f12.file-upload.com
 f1bolidcom.410.com1.ru
 f1daysgo.ml
 f1ib2g.db.files.1drv.com
@@ -39921,7 +39958,6 @@ files.danwin1210.me
 files.dropmybin.me
 files.enjin.com
 files.fqapps.com
-files.gathercdn.com
 files.hrloo.com
 files.l-d.tech
 files.lashawnbarber.com
@@ -42593,7 +42629,6 @@ glid.jp
 gligoricekofood.com
 glik.acemlnc.com
 glimpse.com.cn
-glip-vault-1.s3-accelerate.amazonaws.com
 glitzygal.net
 glkbio.com
 glluttbad.us
@@ -42947,7 +42982,6 @@ golfcorporativo.cl
 golfer.de
 golfingtrail.com
 golfkildare.com
-golfmd.com
 golford.com
 goliax.ir
 golihi.com
@@ -43615,6 +43649,7 @@ grupoiesp.tk
 grupoinalen.com
 grupoinfonet.com
 grupojg.com.br
+grupolainmaculada.com
 grupolaplace.com.br
 grupoloang.com
 grupolorena.com.sv
@@ -43767,6 +43802,7 @@ guigussq.com
 guildone.natursektgirls.live
 guildtw.natursektgirls.live
 guiler.net
+guilleoff.xyz
 guillermocazenave.com
 guimant.com
 guimaraesconstrutorasjc.com.br
@@ -44793,7 +44829,6 @@ help.saiyou.me
 help.shop123.net
 help.talisman-sql.ru
 help.thetechguyusa.com
-help.wework.com
 help2help.info
 help3in1.oss-cn-hangzhou.aliyuncs.com
 helpandinformation.uk
@@ -45517,7 +45552,6 @@ honestlywoman.com.au
 honestman.in
 honey-money.net
 honeybadgerteam6.com
-honeybearlane.com
 honeycibilisim.com
 honeygico.com
 honeygpleasures.com
@@ -47133,6 +47167,7 @@ indian-escorts-dubai.com
 indian-escorts-qatar.com
 indian-escorts-rak.com
 indian-escorts-sharjah.com
+indianagoods.club
 indianblog.info
 indianceramicsourcing.com
 indianescortsabudhabi.com
@@ -49442,7 +49477,6 @@ joleen.milfoy.net
 jolietlocalmover.com
 jollycharm.com
 jolyscortinas.com.br
-jomblo.com
 jomjomstudio.com
 jommakandelivery.my
 jomplan.com
@@ -50093,6 +50127,7 @@ kaitenz.com
 kaiwaa.com.br
 kaiz.ru
 kajastech.com
+kakaocorp.link
 kakatiyaangels.com
 kakekommisjonen.com
 kakhun.ru
@@ -51250,7 +51285,6 @@ klimabakimkombiservisi.com
 klimahavalandirma.com.tr
 klimaservisin.org
 klimasur99.com
-klingerigi.com
 klinika-himki.u2818345.cp.regruhosting.ru
 kliniksmc.com
 klining-expert.ru
@@ -51672,6 +51706,7 @@ kpu.dinkeskabminsel.com
 kqfkqkf7ma.temp.swtest.ru
 kqq.kz
 kqs.me
+kr1s.ru
 krabben.no
 krafiatmada.my
 kraftaverk.is
@@ -52274,7 +52309,6 @@ lalogarcia.es
 lalolink.com
 lalunafashion.eu
 lalunenoire.net
-lam.cz
 lamacosmetics.com
 lamaggiora.it
 lamaisonh.com
@@ -54126,6 +54160,7 @@ lovelylolita.info
 lovelymoments.in
 lovelynails.ca
 lovelysmiley.com
+lovemedate.llc
 lovemepls.com
 lovemymural.com.hk
 lovence.vn
@@ -57185,7 +57220,6 @@ mi88karine.company
 miafashionropadeportiva.com
 miagoth.com
 miamibeachprivateinvestigators.com
-miamicondoinvestments.com
 miamidadecountyprivateinvestigator.com
 miamifloridainvestigator.com
 miamigardensslidingdoorrepair.com
@@ -58386,7 +58420,6 @@ moscow11.icu
 moscow33.online
 moscow44.online
 moscow55.online
-moscow66.online
 moscow77.online
 moscowvorota.ru
 moseler.org
@@ -59069,6 +59102,7 @@ my-way.style
 my.camptaiwan.com.tw
 my.jiwa-nala.org
 my.mail.de
+my.mixtape.moe
 my.zhaopin.com
 my10apps.com
 my2b.online
@@ -59862,6 +59896,7 @@ neatappletech.readysetselfie.com
 nebesnaya-sotnya.site
 nebraskacharters.com.au
 nebrodiescursionileanza.com
+nebula-ent.com
 nebula.ee
 neccotweethearts.com
 necessary-evil.com
@@ -62397,6 +62432,7 @@ oscarolivas.com
 oscarorce.com
 oscooil.com
 osdecs.org.br
+osdsoft.com
 ose.lazyeight.tech
 oseco.se
 osef.gr
@@ -62502,7 +62538,6 @@ ots-imabari.com
 ots.sd
 otstcfq.wufoo.com
 ottawa.interculturaldialog.com
-ottawaflowers.com
 ottawaminorhockey.com
 otterloo.nl
 ottimade.com
@@ -65570,7 +65605,6 @@ protecaoportal.com.br
 protecguvenlik.com.tr
 protech.mn
 protechcarpetcare.com
-protect-au.mimecast.com
 protectiadatelor.biz
 protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 protection.retarus.com
@@ -66801,6 +66835,7 @@ radiospach.cl
 radiosul.net
 radiotaxilaguna.com
 radiotremp.cat
+radiotvappp.online
 radiovisioninc.com
 radioviverbem.com.br
 radioyachting.com
@@ -67066,7 +67101,6 @@ rashmi-goyal.site
 rashmielectricals.com
 rashmigupta.com
 rasio-solusindo.com
-raskovskyasociados.com.ar
 raspain.chat.ru
 rassi.ro
 rasslin.jp
@@ -67900,7 +67934,6 @@ rhholding.ca
 rhinoarabia.site
 rhlgroups.com
 rhlnetwork.com
-rhnindia.org
 rhnoman.info
 rhodesmyisland.com
 rhodessealines.com
@@ -69643,7 +69676,6 @@ sartek.com.vn
 sartetextile.com
 sarthakkalucha.com
 sarutec.de
-sarvdharmektautsavsamiti.com
 sarvkaran.com
 sarwa.co.za
 sas-agri.ml
@@ -71762,7 +71794,6 @@ siteplaceholder.com
 siteradar.com
 sites.blueskydigital.com.au
 sites.btb.kg
-sites.ieee.org
 sites.linkysoft.com
 sites.webdefy.com
 sitesbrgiga.com.br
@@ -72285,6 +72316,7 @@ smsafiliados.com
 smsbab.com.ng
 smseventplaner.com
 smsfgoldbullion.com.au
+smsiarkowiec.pl
 smsin.site
 smskey.ru
 smsncr.com
@@ -73063,6 +73095,7 @@ speedrunmedia.com
 speedsazeh.com
 speedscenewiring.com
 speedtransfer.com.br
+speedvid.net
 speedway.pp.ua
 speedy-kids.com
 speedycompare.site
@@ -73394,6 +73427,7 @@ sslupdate4.top
 sslv3.at
 ssmmbed.com
 ssmthethwa.co.za
+ssofhoseuegsgrfnu.ru
 ssoocc.com
 ssosi.ru
 sspchakri.com
@@ -74932,6 +74966,7 @@ syfuj.com.vn
 syhszh.com
 syjingermei.xyz
 sylt-wulbrandt.de
+sylvaclouds.eu
 sylvanbrandt.com
 sylvester.ca
 sylviastratieva.com
@@ -75298,6 +75333,7 @@ tamnhindoanhnhan.com
 tamoyun.web.tr
 tampacigarroller.com
 tampaseo.com
+tamsu.website
 tamsuamy.com
 tamsys.net
 tamta.gr
@@ -76399,7 +76435,6 @@ texasranchandhome.com
 texeem.com
 texet2.ug
 texsencare.com
-textchetna.com
 textielacademie.be
 textildruck-saar.de
 textileboilerltd.com
@@ -76501,7 +76536,6 @@ thayvoiphone.vn
 thc-annex.com
 thccamera.com
 thctiedye.com
-thdidm.zendesk.com
 the-anchor-group.com
 the-bombay-summit.000webhostapp.com
 the-clippings.com
@@ -78464,7 +78498,6 @@ troncomed.ae
 troncustoms.cf
 trontik.ru
 troopchalkkids.com
-troopwebhost.blob.core.windows.net
 tropicalhawaii.com
 tropicalislandrealtyofflorida.com
 tropicallogistix.com
@@ -79667,7 +79700,6 @@ url.246546.com
 url.57569.fr.snd52.ch
 url.edu
 url.sg
-url2.mailanyone.net
 url3.mailanyone.net
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
@@ -79691,7 +79723,6 @@ ury8297ridowoury833oe.com
 urzedniczatv.pl
 us-defense-department.ml
 us-trans.ru
-us-west-2.protection.sophos.com
 us.cdn.persiangig.com
 us.hostiso.cloud
 us5interclub.cba.pl
@@ -79726,7 +79757,6 @@ useit.cc
 usemycredit.ml
 usep75.fr
 useraccount.co
-users.tpg.com.au
 userslinks.xyz
 useurogren.com
 usgmsp.com
@@ -82487,6 +82517,7 @@ wmd9e.a3i1vvv.feteboc.com
 wmdcustoms.com
 wmebbiz.co.za
 wmg128.com
+wmi.1217bye.host
 wmi.4i7i.com
 wmkatz.com
 wmo-raad.inov.me
@@ -82818,7 +82849,6 @@ wpdemo.sleeplesshacker.com
 wpdemo.wctravel.com.au
 wpdemo.weboost.website
 wpdev.hooshmarketing.com
-wpengine.zendesk.com
 wpgtxdtgifr.ga
 wpldjxxxua.ga
 wpmagian.com
@@ -83024,7 +83054,6 @@ x-soft.tomskru
 x-tel.com
 x-trade.com.pl
 x.autistichorse.club
-x.jmxded153.net
 x.jmxded184.net
 x.kuai-go.com
 x.ord-id.com
