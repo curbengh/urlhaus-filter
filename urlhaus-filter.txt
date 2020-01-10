@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 09 Jan 2020 12:08:19 UTC
+! Updated: Fri, 10 Jan 2020 00:08:13 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1071,14 +1071,18 @@
 106.110.117.141
 106.110.126.252
 106.110.140.241
+106.110.149.228
 106.110.149.44
 106.110.152.196
 106.110.192.24
 106.110.193.165
 106.110.193.243
+106.110.193.31
 106.110.193.45
+106.110.201.18
 106.110.205.156
 106.110.215.178
+106.110.220.66
 106.110.44.65
 106.110.54.229
 106.110.90.185
@@ -1089,6 +1093,7 @@
 106.111.139.155
 106.111.145.79
 106.111.155.197
+106.111.195.13
 106.111.198.208
 106.111.198.6
 106.111.225.17
@@ -1194,6 +1199,7 @@
 107.175.83.150
 107.178.119.165
 107.178.221.225
+107.179.31.66
 107.179.34.49
 107.179.34.6
 107.179.85.30
@@ -1318,6 +1324,7 @@
 109.201.143.180
 109.202.125.29
 109.205.143.207
+109.207.114.111
 109.207.176.8
 109.224.21.149
 109.226.26.237
@@ -1511,6 +1518,7 @@
 110.156.96.227
 110.156.99.200
 110.156.99.87
+110.157.192.141
 110.157.211.214
 110.157.211.63
 110.157.212.113
@@ -1524,6 +1532,7 @@
 110.171.26.113
 110.172.144.247
 110.172.188.221
+110.178.197.158
 110.18.194.20
 110.18.194.204
 110.18.194.228
@@ -1870,6 +1879,7 @@
 112.120.55.177
 112.121.223.237
 112.122.227.241
+112.123.231.205
 112.126.94.107
 112.133.243.116
 112.135.71.97
@@ -1937,6 +1947,7 @@
 112.255.2.232
 112.26.160.67
 112.27.124.142
+112.27.124.172
 112.27.88.109
 112.27.88.111
 112.27.88.116
@@ -1974,6 +1985,7 @@
 113.133.227.47
 113.133.228.121
 113.133.228.189
+113.133.228.204
 113.133.231.105
 113.133.231.117
 113.133.231.141
@@ -2023,7 +2035,9 @@
 113.245.209.238
 113.245.209.88
 113.245.210.63
+113.245.210.70
 113.245.211.102
+113.245.211.152
 113.245.211.205
 113.245.211.92
 113.245.216.37
@@ -2032,6 +2046,7 @@
 113.245.217.221
 113.245.219.239
 113.245.219.51
+113.245.219.86
 113.245.248.4
 113.248.104.244
 113.25.173.244
@@ -2043,6 +2058,7 @@
 113.4.133.3
 113.4.20.86
 113.70.50.4
+113.70.51.57
 113.70.80.56
 113.70.83.141
 113.71.134.229
@@ -2152,6 +2168,7 @@
 114.236.23.246
 114.236.55.197
 114.238.101.127
+114.238.120.59
 114.238.147.26
 114.238.147.96
 114.238.16.25
@@ -2276,6 +2293,7 @@
 114.35.45.6
 114.35.51.217
 114.35.62.34
+114.35.9.11
 114.36.206.221
 114.43.3.90
 114.43.38.136
@@ -2293,6 +2311,7 @@
 115.178.97.150
 115.193.103.48
 115.193.162.77
+115.193.172.64
 115.194.100.35
 115.194.223.95
 115.195.134.23
@@ -2330,6 +2349,7 @@
 115.221.165.199
 115.222.198.65
 115.222.198.77
+115.222.202.23
 115.224.129.221
 115.225.124.29
 115.225.127.18
@@ -2405,6 +2425,7 @@
 115.56.69.35
 115.58.134.187
 115.58.209.116
+115.58.22.88
 115.58.56.47
 115.58.57.118
 115.58.60.198
@@ -2576,6 +2597,7 @@
 117.194.166.42
 117.194.167.225
 117.195.48.87
+117.195.49.115
 117.195.49.13
 117.195.49.151
 117.195.50.99
@@ -2617,6 +2639,7 @@
 117.199.42.209
 117.199.42.32
 117.199.43.124
+117.199.43.176
 117.199.43.186
 117.199.43.189
 117.199.43.200
@@ -2699,6 +2722,7 @@
 117.207.34.148
 117.207.34.158
 117.207.35.12
+117.207.35.137
 117.207.35.139
 117.207.35.146
 117.207.35.167
@@ -2728,6 +2752,7 @@
 117.207.38.169
 117.207.38.239
 117.207.38.62
+117.207.38.82
 117.207.39.29
 117.207.39.5
 117.207.40.123
@@ -2742,6 +2767,7 @@
 117.207.41.100
 117.207.41.112
 117.207.41.169
+117.207.41.183
 117.207.42.128
 117.207.42.135
 117.207.42.188
@@ -2764,6 +2790,7 @@
 117.211.131.38
 117.211.132.121
 117.211.134.180
+117.211.135.20
 117.211.136.184
 117.211.138.144
 117.211.138.203
@@ -2792,6 +2819,7 @@
 117.212.243.2
 117.212.244.195
 117.212.244.208
+117.212.244.225
 117.212.244.231
 117.212.246.140
 117.212.246.208
@@ -2823,6 +2851,7 @@
 117.217.38.36
 117.217.38.68
 117.217.39.107
+117.217.39.197
 117.217.39.241
 117.218.130.103
 117.218.130.123
@@ -2874,8 +2903,11 @@
 117.248.104.13
 117.248.104.158
 117.248.104.231
+117.248.104.98
 117.248.105.111
+117.248.105.112
 117.248.105.178
+117.248.105.229
 117.248.105.234
 117.248.105.243
 117.248.106.12
@@ -2918,6 +2950,7 @@
 117.87.239.15
 117.87.67.196
 117.87.72.213
+117.87.72.22
 117.88.129.47
 117.88.23.24
 117.90.167.17
@@ -3010,6 +3043,7 @@
 118.253.142.113
 118.253.142.135
 118.253.50.60
+118.255.179.119
 118.255.213.88
 118.255.234.221
 118.255.250.35
@@ -3065,6 +3099,7 @@
 119.3.179.221
 119.3.2.156
 119.32.87.124
+119.36.27.100
 119.40.83.210
 119.41.180.140
 119.48.46.210
@@ -3230,6 +3265,7 @@
 121.180.45.135
 121.181.244.217
 121.182.43.88
+121.186.74.53
 121.189.114.4
 121.191.68.58
 121.202.97.160
@@ -3283,6 +3319,7 @@
 121.234.198.116
 121.234.216.108
 121.234.219.120
+121.234.219.231
 121.234.230.180
 121.234.237.60
 121.234.239.114
@@ -3343,6 +3380,7 @@
 122.168.43.206
 122.168.5.231
 122.174.253.72
+122.176.94.96
 122.180.29.167
 122.212.124.14
 122.230.218.37
@@ -3394,6 +3432,7 @@
 123.12.111.162
 123.12.177.126
 123.12.177.205
+123.12.198.218
 123.12.235.163
 123.12.243.19
 123.12.4.52
@@ -3467,6 +3506,8 @@
 123.66.146.94
 123.8.223.185
 123.8.223.9
+123.8.55.220
+123.96.78.147
 123.96.97.205
 123.97.128.171
 123.97.141.23
@@ -3498,6 +3539,7 @@
 124.118.202.99
 124.118.203.202
 124.118.210.243
+124.118.213.93
 124.118.229.159
 124.118.230.0
 124.118.230.157
@@ -3509,6 +3551,7 @@
 124.118.236.249
 124.118.237.164
 124.118.238.94
+124.118.239.125
 124.118.239.173
 124.119.104.171
 124.119.104.175
@@ -3521,6 +3564,7 @@
 124.121.139.39
 124.129.34.212
 124.13.45.29
+124.131.113.116
 124.153.225.20
 124.161.59.133
 124.191.216.133
@@ -3630,6 +3674,7 @@
 125.44.188.253
 125.44.190.181
 125.44.192.41
+125.44.205.9
 125.44.232.149
 125.44.234.99
 125.44.46.49
@@ -3724,6 +3769,7 @@
 128.70.217.218
 128bitsecured.com
 128construction.com
+129.121.176.89
 129.204.217.34
 129.204.69.15
 129.28.113.158
@@ -4804,6 +4850,7 @@
 146.185.253.127
 146.185.253.173
 146.255.233.50
+146.255.243.178
 146.71.76.136
 146.71.76.188
 146.71.76.19
@@ -4895,6 +4942,7 @@
 14ca1s5asc45.com
 14music.gr
 15-y-block-7.icu
+150.255.157.218
 150.255.163.251
 150.66.17.190
 150.co.il
@@ -5988,6 +6036,7 @@
 165.227.198.230
 165.227.202.134
 165.227.204.158
+165.227.206.228
 165.227.207.188
 165.227.207.245
 165.227.21.213
@@ -6454,6 +6503,7 @@
 171.220.177.61
 171.220.179.48
 171.220.179.66
+171.220.181.43
 171.221.99.74
 171.226.209.60
 171.231.131.233
@@ -6660,6 +6710,7 @@
 172.36.31.140
 172.36.31.147
 172.36.31.228
+172.36.31.23
 172.36.32.164
 172.36.32.70
 172.36.33.151
@@ -6718,6 +6769,7 @@
 172.36.41.192
 172.36.41.194
 172.36.41.218
+172.36.41.233
 172.36.41.76
 172.36.42.111
 172.36.42.121
@@ -6810,6 +6862,7 @@
 172.36.58.253
 172.36.59.212
 172.36.59.9
+172.36.6.174
 172.36.6.181
 172.36.6.218
 172.36.60.0
@@ -6885,6 +6938,7 @@
 172.39.32.160
 172.39.32.17
 172.39.33.27
+172.39.33.28
 172.39.33.6
 172.39.34.140
 172.39.34.73
@@ -6896,6 +6950,7 @@
 172.39.38.126
 172.39.38.16
 172.39.38.74
+172.39.39.172
 172.39.39.200
 172.39.4.161
 172.39.4.83
@@ -6955,6 +7010,7 @@
 172.39.65.160
 172.39.65.99
 172.39.66.48
+172.39.66.74
 172.39.67.103
 172.39.68.168
 172.39.68.191
@@ -7218,6 +7274,7 @@
 175.3.180.56
 175.3.181.174
 175.3.181.232
+175.3.181.28
 175.3.181.97
 175.3.182.183
 175.3.182.199
@@ -7525,6 +7582,7 @@
 177.189.24.216
 177.189.255.29
 177.189.5.230
+177.19.228.87
 177.191.248.119
 177.191.251.180
 177.193.176.229
@@ -7614,6 +7672,7 @@
 177.76.203.140
 177.8.216.26
 177.8.63.8
+177.81.33.163
 177.81.69.83
 177.82.96.66
 177.84.40.158
@@ -7950,6 +8009,7 @@
 178.33.83.74
 178.33.83.75
 178.34.183.30
+178.44.230.230
 178.44.253.215
 178.45.195.30
 178.46.13.39
@@ -8345,6 +8405,7 @@
 180.138.219.85
 180.138.228.237
 180.138.229.254
+180.141.246.159
 180.142.231.128
 180.142.231.143
 180.142.231.179
@@ -8358,6 +8419,7 @@
 180.177.76.161
 180.178.104.86
 180.178.96.214
+180.180.202.205
 180.211.94.222
 180.211.99.165
 180.214.144.182
@@ -8505,6 +8567,7 @@
 182.116.54.107
 182.116.98.139
 182.117.103.252
+182.117.170.101
 182.117.181.233
 182.117.188.54
 182.117.189.55
@@ -8556,11 +8619,13 @@
 182.126.197.150
 182.126.231.93
 182.126.232.93
+182.126.235.234
 182.126.236.168
 182.126.5.172
 182.126.66.9
 182.126.71.191
 182.126.71.68
+182.126.73.144
 182.126.74.236
 182.126.79.1
 182.127.100.44
@@ -8625,6 +8690,7 @@
 182.68.3.125
 182.75.80.150
 183.100.109.156
+183.100.148.225
 183.100.194.165
 183.101.143.208
 183.101.39.187
@@ -8679,6 +8745,7 @@
 183.237.98.133
 183.26.196.49
 183.26.241.192
+183.26.26.144
 183.7.192.12
 183.71.193.54
 183.71.200.161
@@ -8914,6 +8981,7 @@
 185.148.240.120
 185.148.241.52
 185.148.39.19
+185.150.2.234
 185.150.237.237
 185.152.191.250
 185.153.180.22
@@ -11495,6 +11563,7 @@
 200.74.236.22
 200.75.107.84
 200.79.152.109
+200.79.153.166
 200.85.168.202
 200.9.102.80
 200.96.214.131
@@ -12635,6 +12704,7 @@
 216.158.230.10
 216.158.233.3
 216.158.238.158
+216.163.8.76
 216.170.112.131
 216.170.114.120
 216.170.114.195
@@ -12760,6 +12830,7 @@
 218.161.75.17
 218.161.80.86
 218.161.83.114
+218.203.206.137
 218.21.170.11
 218.21.170.15
 218.21.170.20
@@ -12838,6 +12909,7 @@
 218.94.100.173
 21807.xc.iziyo.com
 219.140.202.194
+219.144.12.114
 219.144.13.113
 219.144.13.60
 219.146.3.7
@@ -12921,6 +12993,7 @@
 220.170.141.214
 220.171.193.24
 220.171.207.210
+220.173.31.128
 220.181.87.80
 220.184.64.68
 220.184.65.110
@@ -12956,6 +13029,7 @@
 221.15.126.234
 221.15.162.19
 221.15.194.251
+221.15.216.248
 221.15.218.117
 221.15.96.40
 221.15.96.50
@@ -13088,6 +13162,7 @@
 222.142.185.7
 222.142.194.167
 222.142.201.51
+222.142.227.128
 222.142.236.127
 222.142.237.223
 222.142.255.196
@@ -13114,6 +13189,7 @@
 222.187.155.31
 222.187.165.245
 222.187.168.254
+222.187.183.16
 222.187.238.16
 222.188.79.219
 222.191.159.227
@@ -13146,6 +13222,7 @@
 222.74.186.186
 222.74.214.122
 222.80.134.17
+222.80.135.46
 222.80.144.122
 222.80.146.34
 222.80.146.56
@@ -13154,6 +13231,7 @@
 222.80.148.33
 222.80.148.43
 222.80.160.152
+222.80.160.98
 222.80.161.156
 222.80.167.152
 222.80.167.204
@@ -13176,6 +13254,7 @@
 222.83.49.46
 222.83.52.92
 222.83.54.178
+222.83.88.236
 222.83.92.103
 222.87.179.228
 222.95.63.172
@@ -13228,6 +13307,7 @@
 23.226.231.5
 23.227.201.166
 23.228.112.165
+23.228.113.117
 23.228.113.244
 23.23.29.10
 23.235.202.43
@@ -13699,6 +13779,8 @@
 31.146.124.193
 31.146.124.194
 31.146.124.20
+31.146.124.202
+31.146.124.204
 31.146.124.235
 31.146.124.26
 31.146.124.28
@@ -13871,6 +13953,7 @@
 34.199.99.97
 34.201.148.147
 34.203.229.125
+34.203.249.87
 34.205.154.11
 34.205.58.207
 34.207.117.230
@@ -14136,6 +14219,7 @@
 36.105.202.153
 36.105.203.26
 36.105.203.44
+36.105.203.83
 36.105.21.53
 36.105.24.192
 36.105.242.189
@@ -14152,6 +14236,7 @@
 36.105.33.13
 36.105.33.145
 36.105.33.217
+36.105.34.0
 36.105.34.113
 36.105.34.204
 36.105.35.244
@@ -14754,6 +14839,7 @@
 42.224.169.247
 42.225.136.13
 42.225.209.95
+42.225.223.11
 42.226.79.155
 42.227.120.122
 42.227.163.57
@@ -14858,6 +14944,7 @@
 42.97.124.11
 42.97.133.12
 42.97.135.172
+42.97.14.183
 42.97.154.13
 42.97.159.28
 42.97.174.168
@@ -15047,6 +15134,7 @@
 45.32.211.160
 45.32.212.23
 45.32.213.194
+45.32.214.207
 45.32.214.246
 45.32.222.62
 45.32.226.191
@@ -15711,6 +15799,7 @@
 49.115.73.110
 49.115.73.245
 49.115.75.42
+49.115.82.151
 49.115.90.118
 49.115.97.76
 49.115.99.129
@@ -15718,9 +15807,11 @@
 49.116.106.126
 49.116.106.160
 49.116.106.186
+49.116.106.94
 49.116.12.67
 49.116.14.126
 49.116.176.27
+49.116.177.254
 49.116.178.10
 49.116.182.220
 49.116.182.31
@@ -15766,6 +15857,7 @@
 49.119.189.223
 49.119.212.107
 49.119.212.133
+49.119.212.64
 49.119.213.115
 49.119.214.107
 49.119.214.21
@@ -15806,6 +15898,7 @@
 49.156.44.62
 49.158.185.5
 49.158.191.232
+49.158.201.200
 49.159.104.121
 49.159.196.14
 49.159.8.123
@@ -15846,9 +15939,11 @@
 49.68.53.213
 49.68.55.125
 49.68.56.199
+49.68.56.252
 49.68.80.174
 49.68.92.252
 49.69.61.206
+49.70.0.108
 49.70.107.185
 49.70.113.133
 49.70.118.212
@@ -15971,10 +16066,12 @@
 49.89.230.178
 49.89.232.186
 49.89.232.30
+49.89.234.53
 49.89.235.12
 49.89.242.116
 49.89.242.125
 49.89.242.236
+49.89.243.43
 49.89.252.58
 49.89.48.76
 49.89.60.212
@@ -16761,6 +16858,7 @@
 58.218.66.97
 58.218.67.161
 58.218.9.185
+58.219.174.191
 58.226.141.44
 58.227.54.120
 58.230.89.42
@@ -16773,6 +16871,7 @@
 58.46.249.71
 58.46.250.193
 58.46.250.203
+58.48.254.22
 58.50.33.51
 58.51.26.139
 58.53.159.221
@@ -16857,7 +16956,7 @@
 59.47.72.34
 59.47.72.69
 59.80.44.99
-59.80.44.99/indonesias.me:9998/iexplore.exe
+59.88.51.207
 59.89.208.122
 59.90.247.38
 59.90.36.229
@@ -16868,12 +16967,15 @@
 59.90.40.247
 59.90.40.59
 59.90.41.127
+59.90.41.131
 59.90.41.181
 59.90.41.198
 59.90.41.247
 59.90.41.99
+59.90.42.147
 59.90.42.44
 59.90.42.49
+59.91.93.79
 59.92.188.167
 59.92.188.28
 59.92.188.3
@@ -16922,6 +17024,7 @@
 59.96.24.202
 59.96.24.75
 59.96.24.93
+59.96.25.137
 59.96.25.164
 59.96.26.222
 59.96.27.207
@@ -17096,12 +17199,14 @@
 61.0.120.245
 61.0.123.196
 61.0.124.237
+61.0.125.7
 61.0.126.231
 61.1.229.127
 61.1.231.201
 61.128.42.77
 61.128.43.191
 61.128.54.243
+61.128.81.223
 61.128.83.148
 61.14.238.91
 61.145.160.131
@@ -17172,6 +17277,7 @@
 61.2.150.171
 61.2.150.188
 61.2.150.196
+61.2.150.240
 61.2.150.5
 61.2.150.70
 61.2.150.78
@@ -17234,6 +17340,7 @@
 61.2.176.134
 61.2.176.158
 61.2.176.170
+61.2.176.174
 61.2.176.208
 61.2.176.249
 61.2.176.37
@@ -17329,6 +17436,7 @@
 61.53.147.218
 61.53.147.33
 61.53.20.53
+61.53.22.253
 61.53.228.147
 61.53.229.229
 61.53.236.225
@@ -18593,6 +18701,7 @@
 80.240.20.19
 80.240.50.205
 80.240.60.8
+80.242.70.223
 80.245.105.21
 80.250.84.118
 80.252.107.183
@@ -19638,6 +19747,7 @@
 92.222.78.19
 92.223.177.227
 92.232.176.235
+92.24.156.251
 92.241.143.9
 92.241.78.114
 92.242.198.31
@@ -21582,6 +21692,7 @@ aguarde.magrelaentrega.com.br
 aguas.esundemo.com.ar
 aguatop.cl
 aguiasdooriente.com.br
+aguilarygarces.com
 aguimaweb.com
 agulhasnaja.com.br
 agulino.com
@@ -25088,7 +25199,7 @@ atozblogging.com
 atp-tek.com
 atparsco.com
 atphitech.com
-atpscan.global.hornetsecurity.com
+atpscan.global.hornetsecurity.com/index.php?atp_str=afW-6ROPadYx-4dieFO4DbV3E_xmH3-Ype0mHRlsyEuhwsqoEEbZLBAFyf6_bDLJTeSgdUgEyMXaPYm1fSyHXkyYLPVIFpr0HnjO3w92Mx4BQEA-rhcuJBljF7xs-IE79eIg5O9B_HcFg9yGyzdkrNZCo-SWcS_BoDLiAxLFFlgCcV-hkcqKgjzMXADBPvzglcgSAECd8rV4If7NGCqKrXPrWLYKMZxYJHyncp2kIgW8_RjSDCHhxD9niYyJJb1joVi-Wm8urvrdOP7bVNkrinv2G2ef433YzWETxfWlzGfnEHNQbTdBrST1zV1HNcyRnd3TVjwjjWn-3c5iRkyWIDuG4saguSDuVUDmDSM6OiM1NjA1ODY3MWVlZDYjOjoj2oG-0aPVYmvMJgGU-mi8Gg/
 atr.it
 atragon.co.uk
 atrakniaz.ir
@@ -25815,7 +25926,11 @@ b.catgirlsare.sexy
 b.coka.la
 b.makswells.com
 b.reich.io
-b.top4top.net
+b.top4top.net/p_1042pycd51.jpg
+b.top4top.net/p_1113zezwp1.jpg
+b.top4top.net/p_1286n3s1.jpg
+b.top4top.net/p_394ed2c11.jpg
+b.top4top.net/p_4150lzvz1.jpg
 b.ww2rai.ru
 b010.info
 b1.ee
@@ -28502,7 +28617,8 @@ blog.neopag.com
 blog.olafocus.com
 blog.olawolff.com
 blog.olddognewdata.com
-blog.oluwaseungbemigun.com
+blog.oluwaseungbemigun.com/818744H/PAYMENT/Personal
+blog.oluwaseungbemigun.com/818744H/PAYMENT/Personal/
 blog.openthefar.com
 blog.orbi-imoveis.com.br
 blog.ouou.eu
@@ -30164,7 +30280,8 @@ cactopelli.com
 cacustomerservicenumbers.com
 cad-spaces.ch
 cadafrica.africa
-cadastrodaindustria.com
+cadastrodaindustria.com/ky
+cadastrodaindustria.com/ky/
 caddish-seventies.000webhostapp.com
 caddyhk.com
 cadeepak.com
@@ -30356,7 +30473,7 @@ camisolaamarela.pt
 camiticket.com
 camiworldwide.in
 camlikkamping.com
-cammi.it
+cammi.it/components/UPS-View/Mar-13-18-03-33-51/
 campagnesms.info
 campaigns.actionable-science.com
 campanus.cz
@@ -31047,7 +31164,7 @@ cbsr.com.pk
 cbstore.de
 cbt.vkreclam.ru
 cbtdeconsultingllc.com
-cbup1.cache.wps.cn
+cbup1.cache.wps.cn/powerword/update/2016.3.3.0332/selfpatch/update.exe
 cbvgdf.ru
 cc.80style.com
 cc.dev.tuut.com.br
@@ -32879,8 +32996,7 @@ cloudflarrr.ml
 cloudhaste.com
 cloudhooks.com
 clouding-world.online
-cloudme.com/v1/ws2/:dr404/:22cted/22cted.exe
-cloudme.com/v1/ws2/:dr404/:MicrosoftOffice/MicrosoftOffice.exe
+cloudme.com
 cloudmine.pl
 cloudninedesign.com.au
 cloudphotos.party
@@ -32957,6 +33073,7 @@ cministries.org
 cmisafes.com.au
 cmit22.ru
 cmitik.ru
+cmnbbnshgsadrrefasderg05g.s3.us-east-2.amazonaws.com
 cmnmember.coachmohdnoor.com
 cmpsolutions.com.br
 cmpthai.com
@@ -33185,9 +33302,7 @@ coimbragarcia.adv.br
 coin-base.tk
 coin-blocker.com
 coin.ambigain.com
-coinbase-us1.info/BuiL.dat
-coinbase-us1.info/VijOl.dat
-coinbase-us1.info/lTUHw.dat
+coinbase-us1.info
 coinbidders.com
 coindemariee.com
 coindropz.com
@@ -33209,6 +33324,7 @@ col.cstar.com.co
 colab.co
 colbydix.com
 colchesterplumbersdirect.co.uk
+cold-kusu-7115.sub.jp
 coldcerealfordinner.com
 coldservmail.coldserv.com
 coldsilver.com
@@ -33759,7 +33875,7 @@ conteetcomptine.com
 contemplativepsych.com
 content.bateriku.com
 content.difc.ae
-content.freelancehunt.com
+content.freelancehunt.com/projectsnippet/d1ec2/7ebeb/111120/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80+%D0%BF%D1%80%D0%B0%D0%B9%D1%81%D0%B0.xls
 content.greenvines.com.tw
 content24.pl
 contentprotectionsummit.com
@@ -35864,7 +35980,9 @@ deldorado.com.br
 deleboks.dk
 delegatesinrwanda.com
 delegirato.pro
-deleogun.com
+deleogun.com/paclm/bZIuaFhVQlDwWFAAVqunuPzofQ/
+deleogun.com/paclm/bziuafhvqldwwfaavqunupzofq/
+deleogun.com/wp-content/uploads/2019/09/fct.php
 delereve.com
 delespino.nl
 deletenanocomplex.vojtechkocian.cz
@@ -38691,7 +38809,9 @@ doverenewables.watchdogdns.duckdns.org
 dovermahealth.org
 doveroma.com
 dovetailgardens.com
-dovgun.com
+dovgun.com/www/www/www/www/golesson/itAjzdUjNE14pHx/SWIFT/PrivateBanking
+dovgun.com/www/www/www/www/golesson/itAjzdUjNE14pHx/SWIFT/PrivateBanking/
+dovgun.com/x7tDH1jMd9
 dovkolkermd.com
 dowall.com
 down-home-farm.com
@@ -38718,7 +38838,8 @@ down.haote.com
 down.hognoob.se
 down.icafe8.com
 down.klldddiso.xyz
-down.kuwo.cn
+down.kuwo.cn/KwLyric.exe
+down.kuwo.cn/mbox/wwwab/MBOX8.0.1.5/kuwo2015.exe
 down.leyoucoc.cn
 down.my0115.ru
 down.pcclear.com
@@ -38807,7 +38928,7 @@ download.pdf00.cn
 download.postnltrackentrace.com
 download.qiangxm.com
 download.rising.com.cn
-download.security.baidu.co.th/softmgr/C9_Thailand_Downloader_1.062.exe
+download.security.baidu.co.th
 download.skycn.com
 download.sosej.cz
 download.ttrar.com
@@ -40542,6 +40663,7 @@ drive.google.com/uc?export=download&id=1-0_td6IVQcL41eNq-_9nYwR7fSNpTka9
 drive.google.com/uc?export=download&id=1-NtSKsmEH5CaqOKyDXPaW-4-iN08A0YQ
 drive.google.com/uc?export=download&id=10ApbK3m6K_7nn-dPrrjZ_k9RedNhcRlH
 drive.google.com/uc?export=download&id=10V1pmfGMwQ5bk3rNjib4ESdqe9TqPOyI
+drive.google.com/uc?export=download&id=10nUsegc6bkTLJ8XVlnLGfmDm62QeyvXJ
 drive.google.com/uc?export=download&id=10rOlcE-bkknm4GUfhbPhJjjtN7PJchsL
 drive.google.com/uc?export=download&id=10ykUwgi9aeY7nhtFakB6X3u36DUCl1D0
 drive.google.com/uc?export=download&id=12Pfk4Aae_AGmHUQoYmac_kZTqz4jFnew
@@ -40560,6 +40682,7 @@ drive.google.com/uc?export=download&id=1BA_Uuj9e0VrYIkNbh1L3M-RP0_ovEuSj
 drive.google.com/uc?export=download&id=1BWR30p1K8Y8LcXdaagb5mwLAa3O0yh_z
 drive.google.com/uc?export=download&id=1CQHUkFhDWRum_MGIY34q2sGjwwnZuyCT
 drive.google.com/uc?export=download&id=1DthOJ_yf-OP0yLS4plBC9Et7JI0D8iCL
+drive.google.com/uc?export=download&id=1E7diTCV8FcAF8Jlox24HPrxJe8Cd549_
 drive.google.com/uc?export=download&id=1E7uSLBygmgtfgLEQzanaQ5h7iAMaqqNS
 drive.google.com/uc?export=download&id=1EntibBAlB7rva3TlWHEw1YtvH7WcX1wd
 drive.google.com/uc?export=download&id=1EvPbTcsEJklKTMPtSo3dYnTdP_Wqj8Hs
@@ -40618,6 +40741,7 @@ drive.google.com/uc?export=download&id=1sPBaaKl_h3fxxCbXSewujE8PdxV6r7f6
 drive.google.com/uc?export=download&id=1s_-aUQPbNJLxY7af7sEnxUl4YhKYiBsU
 drive.google.com/uc?export=download&id=1smMMupj6ccr-Qhc5y-UepW4aEOZq2cPy
 drive.google.com/uc?export=download&id=1tupHTLVzBfv_m7du0QeZ1--O_TB_chWw
+drive.google.com/uc?export=download&id=1u1K-6iLO23c0qqxnN_wM0HpckMBOMwN6
 drive.google.com/uc?export=download&id=1u3r3kEzFKO0jT6JUNxqbY3aaLhIGCRdc
 drive.google.com/uc?export=download&id=1v0wdQ-GB1j25qomFhTbvL-lzVgST4qOc
 drive.google.com/uc?export=download&id=1vAVtXSmlHUJXNe3bYKJ4iOhc9RsGm-_q
@@ -52792,6 +52916,7 @@ funbajana.com
 funclick.ml
 fundacao-algarvia.pt
 fundacionafanic.com
+fundacioncaminosdepazporcolombiacali.org
 fundacioncreatalento.org
 fundacionesperanza.org.es
 fundacionmontehoreb.org.ve
@@ -53890,7 +54015,7 @@ ghjccv.ru
 ghjklhjf.ru
 ghkjzxf.ru
 ghlow.me
-ghmhotels.com/PiJvz-AWvO_rIPiWDDvb-9k/PaymentStatus/En_us/Outstanding-Invoices/
+ghmhotels.com
 ghodaghodi.com
 ghonche93.ir
 ghonsisesa.tk
@@ -54752,7 +54877,7 @@ goudappel.org
 goudu.club
 gourmetlab.pe
 gourmetreats.in
-gov.kr/main?d=AA100DataDownApp&SAVE_FILE_NM=38500.exe
+gov.kr
 gov.rsmart-testsolutions.watchdogdns.duckdns.org
 govche.in
 goveboatclub.com.au
@@ -55203,10 +55328,7 @@ growwiththerapy.com
 groznykh.tmweb.ru
 grr.wood.ba
 grscert.com
-grsme.info/78.doc
-grsme.info/FruhT.com
-grsme.info/sRera.com
-grsme.info/tjGw.com
+grsme.info
 grt.website
 gruasasuservicio.com
 gruasviajerascr.com
@@ -55442,7 +55564,7 @@ gulungdinamo.com
 gulzarhomestay.com
 gumiviet.com
 gumuscorap.com
-gun.com
+gun.com/wp-content/uploads/2019/09/fct.php
 guncelkadin.org
 gundemakcaabat.com
 gundemhaber.org
@@ -55471,6 +55593,7 @@ gupoty.aninik.me
 guptaclinic.in
 guptapipe.com
 gurgaonaffordablehousing.com
+guridosinferno.s3.us-east-2.amazonaws.com
 gurkerwirt.at
 gurleyevents.com
 gurmakmakina.com.tr
@@ -59029,9 +59152,7 @@ indonesia236.000webhostapp.com
 indonesiaexp.com
 indonesiafte.com
 indonesiakompeten.com
-indonesias.me:9998/333.exe
-indonesias.me:9998/64.exe
-indonesias.me:9998/c64.exe
+indonesias.me
 indonesiaumroh.com
 indoorpublicidade.com.br
 indoqualitycleaning.com
@@ -64122,7 +64243,7 @@ laiagency.co.tz
 laibachmusic.com
 lailarahman.com
 lainaconsulting.co.za
-laineservices.com/howe3k5jf/hh06w-sf9gdl-iioq.view/
+laineservices.com
 laining.info
 lainocosmetics.ru
 lairdlawfirm.com
@@ -72304,7 +72425,7 @@ newphonenow.com
 newpioneerschool.com
 newplannersolutions.com
 newportedu.org
-newradio.it
+newradio.it/personalplayer/rvl/rvl.exe
 newratehub.com
 newregionalsmartschool.com
 newreport.info
@@ -73259,7 +73380,7 @@ nucuoihalong.com
 nudebeautiful.net
 nudgepartners.co.nz
 nudists.xyz
-nuesamouau.com/Download/Invoice-number-746412/
+nuesamouau.com
 nuevaley.cl
 nuevasoportunidades.net
 nuevida.se
@@ -74219,6 +74340,7 @@ onedrive.live.com/download?cid=E8FEA56B7FE69C1D&resid=E8FEA56B7FE69C1D%21108&aut
 onedrive.live.com/download?cid=E99909BB43841353&resid=E99909BB43841353!130&authkey=AEO4hz9cysOY0kQ
 onedrive.live.com/download?cid=E99909BB43841353&resid=E99909BB43841353%21130&authkey=AEO4hz9cysOY0kQ
 onedrive.live.com/download?cid=EA581288599D6AE1&resid=EA581288599D6AE1%21126&authkey=AFkE1PKmAUa70cc
+onedrive.live.com/download?cid=EAE9B5435CFAEBAA&resid=EAE9B5435CFAEBAA%21232&authkey=AAuY9sGJCcGPZX8
 onedrive.live.com/download?cid=EBDE3D8CE54ED339&resid=EBDE3D8CE54ED339%21153&authkey=AKPvZ3cKptj9Pq4
 onedrive.live.com/download?cid=ED0141F46D6D00C9&resid=ED0141F46D6D00C9%2110669&authkey=AKFup5TTuavYYgI
 onedrive.live.com/download?cid=EE4FAF07E1EBD8FB&resid=EE4FAF07E1EBD8FB!141&authkey=AK7qzUBzt9OB3iY
@@ -75546,6 +75668,7 @@ pastebin.com/raw/2vHCXAwe
 pastebin.com/raw/2zXJE5Mb
 pastebin.com/raw/33E400e1
 pastebin.com/raw/36KTDjQx
+pastebin.com/raw/37Pd20T8
 pastebin.com/raw/38Pc4ntc
 pastebin.com/raw/38awCvev
 pastebin.com/raw/3F458M0X
@@ -75562,6 +75685,7 @@ pastebin.com/raw/4Sxcc2nW
 pastebin.com/raw/4k8ygWK7
 pastebin.com/raw/4rfaCW4N
 pastebin.com/raw/4rnJ0dTJ
+pastebin.com/raw/4sZAhGZh
 pastebin.com/raw/4t3DrKjv
 pastebin.com/raw/4xBpcrnn
 pastebin.com/raw/57FHbDxt
@@ -75634,6 +75758,7 @@ pastebin.com/raw/BrfjKQur
 pastebin.com/raw/BzxHfZ5C
 pastebin.com/raw/C0HDGynb
 pastebin.com/raw/C79B3s7J
+pastebin.com/raw/CGe3S2Vf
 pastebin.com/raw/CJFAYeLy
 pastebin.com/raw/CM22vTup
 pastebin.com/raw/CQx9KKBb
@@ -75648,6 +75773,7 @@ pastebin.com/raw/CtXqJwXh
 pastebin.com/raw/CxtK4MPF
 pastebin.com/raw/D1Bjgv8a
 pastebin.com/raw/D4KeVch3
+pastebin.com/raw/D61TVvPE
 pastebin.com/raw/D7NvFmPR
 pastebin.com/raw/D9V1HJmM
 pastebin.com/raw/DAamJM9r
@@ -75663,6 +75789,7 @@ pastebin.com/raw/DeL27X4Q
 pastebin.com/raw/Dg6YC10Y
 pastebin.com/raw/Dt2NFbUW
 pastebin.com/raw/DvE8hLrf
+pastebin.com/raw/DxUcbR37
 pastebin.com/raw/EAvq6aKc
 pastebin.com/raw/Ee6L18at
 pastebin.com/raw/EtW6vVym
@@ -75805,6 +75932,7 @@ pastebin.com/raw/SpihegJk
 pastebin.com/raw/SqLLVard
 pastebin.com/raw/SsR5h3vf
 pastebin.com/raw/T0UXLwDj
+pastebin.com/raw/T4FySwnD
 pastebin.com/raw/T4kLHbMZ/
 pastebin.com/raw/T4y1J3NB
 pastebin.com/raw/T8DvhqPG
@@ -75932,6 +76060,7 @@ pastebin.com/raw/dDdax95R
 pastebin.com/raw/dNmeTAgN
 pastebin.com/raw/dU0BKu98
 pastebin.com/raw/dXZCx6hd
+pastebin.com/raw/dmDDDeCw
 pastebin.com/raw/dpQMabSW
 pastebin.com/raw/dwUHe2wR
 pastebin.com/raw/dz7Uw5Ts
@@ -76134,6 +76263,7 @@ pastebin.com/raw/x9M6ADhA
 pastebin.com/raw/xR0X5fXY
 pastebin.com/raw/xZPpq1mD
 pastebin.com/raw/xbuzLXhm
+pastebin.com/raw/xrDwKEdb
 pastebin.com/raw/xwZXF2wq
 pastebin.com/raw/xxznLsbC
 pastebin.com/raw/y0qB1vrD
@@ -78799,6 +78929,7 @@ public.boxcloud.com/d/1/b1!gulAle0fJVMZdDGcv1HPnvguFaArZUZUs5RwkYMeglWk-TEPV3_Ty
 public.boxcloud.com/d/1/b1!siWxb4emW9kLzPQLuDadOZq9Ynestc36wMu0c6UDyOciewGtgD6kHq8rusogNwqvHphhdE8Rv9f_YNP-kZEgfdbyGbeU8T8lgVcuekq-J0JNUj8YydXiZCUowbtgRKKGQRE4QvIvUZypaf13EYjZzkbCUNh3yq9ynfcXclfm7wL3NI1ILE3_nHb7xvHC5wBxpE4kPF181gS5fon2YJiQq-TT9hyQa8FxTI5qaqa5sbxAlcvbkRoPNpKJt2-dbXIRTlT8hrvOrLLVG1jiRnQP_5p9yce-gl4vVzgSAss5oFsYfw6DGcO90RHTx3t7R-l3FmVhC7ipIBICov3X88-Zp_jdmkv6W0dUoVeWa5tzNHZTCzNdTCK3mFFA5So_mrgRRzJOpe167fK65_iecIUB636GNOeUbaoh2ofAUpYCllbLYuxl5EBxoWNgPJXKnSK-YOss_z-6eJjNtqEUzwAs7eUVEJiYOK-jVqJqvJL6s05qPVMNbRXYEPPIXhEjsRwJNpE38NOpcxOtnsiyr8LAuzCMdsV-NyuLE0lRB-EXr1YbOjxFJIqKDjVYPcubE_vKJlkVoIsPUVvZ_tzUNInYP2ZidET2Jhg2YYOsPRyrBtZI_qYhBW4YBuJPWxMRZNevRg_CglhQhZz-MUN1XlRwS5TRGoCsWgikk7rumsLM6tAT-BZnNLyf5QovsFjPp9WEb6WBNbyPUExQn2OubLJ8yd5Cc8oU4sebnD1PATMUMloM0QkNHiJRNWHlsE0GKCeH95XBn5N9Cu8Ogh4K4GDhcWAHpT5O1vnQJgx7DYjoBj-GsOddIolbrtZaZX3rWAiyfD_W3EcA-OhMMDeeObbBkQ6NGiTDjz8dfuGPzJQc7X1tnZy0dFWJO1PYtkpAKnrH9kqZpf_GJNkEfRgyScr56-TcRA4R7bDOpKFsBXWfVDCZJZIU7kbhfvgrgvx-vDpRUQARDgAaHCNjm5be5WVf-7d8I3QCn7GlKGSKWgC26DyrWj7oy2szCHGYJY_wnd42n_DeNLr6LoH2ATiTjpgACZPNCAcMrNgeihtntGrbiiAsQXmySGGW7gV7F3-bWKsmwmuh7kqvBWOn902Qaxk8JjxzwUE-PmsJLE_i692dKri73MykhZwgOqMuq80LWHrBo47gz4DRFbKnZ
 publica.cz
 publications.aios.org
+publicsgroupe.net
 publicspeaking.co.id
 publiplast.tn
 publisam.com
@@ -81064,7 +81195,7 @@ rgbsrl.com.ar
 rgclimatizacion.com
 rgdecor.org
 rgfloors.com.au
-rgho.st/download/6nNmWRj65/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/e2fd966cb90832c49db58889a5bce7fa7eb6f67c/Fornite%20Hack%202018.exe
+rgho.st
 rglgrupomedico.com.mx
 rgmobilegossip.com
 rgrosser.com
@@ -82069,29 +82200,7 @@ s-skinsecrets.com
 s-vrach.com.ua
 s.51shijuan.com
 s.kk30.com
-s.put.re/1dQ5f9Yj.jpg
-s.put.re/58o4na3e.exe
-s.put.re/6ge1tsxb.exe
-s.put.re/7QXJMwGu.txt
-s.put.re/AkRd7qVK.txt
-s.put.re/BhfuDm8g.exe
-s.put.re/CdidHjNP.txt
-s.put.re/DFBHMimr.txt
-s.put.re/HboyD62p.txt
-s.put.re/V6Dw8o4w.doc
-s.put.re/VPgyDbTx.txt
-s.put.re/VoLicm9b.txt
-s.put.re/YUH44Wmo.jpg
-s.put.re/Zqczsf5s.exe
-s.put.re/eDygzXGN.exe
-s.put.re/fJjE7i4c.jpg
-s.put.re/jLb6b73b.txt
-s.put.re/mSpoXyLA.qwe
-s.put.re/mz1f41L8.qwe
-s.put.re/t9FDi5cf.exe
-s.put.re/wCk3SB3x.txt
-s.put.re/wDhamd3P.jpg
-s.put.re/wEujgoau.exe
+s.put.re
 s.trade27.ru
 s.vollar.ga
 s01.solidfilesusercontent.com/YTMwZjFlYTU1ZDRjOWFmNjYxMTI2Nzk5YmExYmNlZDhmZGRjYTJhMToxaE9VYUk6R000eW1iU0Q3eVRLUGNSU0NvN1oybERJdVBj/gWvpLG4DrPQgB/263.exe
@@ -83441,6 +83550,7 @@ sdsgroup.co.il
 sdstat320d.com
 sdstat95xz.world
 sdstat9624tp.world
+sdufyuidgfysviuvsdiufsdg04g.s3.us-east-2.amazonaws.com
 sdveganecofriendly.com
 sdvf.kuai-go.com
 sdvg-impuls.ru
@@ -84755,8 +84865,7 @@ shwetown.com
 shweyoteshin.com
 shyampawar.com
 shyampooja.com
-shzwnsarin.com/folder/linkcrypted.exe
-shzwnsarin.com/inc/moc.exe
+shzwnsarin.com
 si-hao.cn
 sia-gmbh.de
 siairport.com
@@ -85927,6 +86036,7 @@ softspotitservices.com
 softtest.lsp.goozmo.com
 softupdate1.me
 softupdate2.me
+software-database.com
 software.goop.co.il
 software.its.ac.id
 software.rasekhoon.net
@@ -87089,7 +87199,8 @@ static.error-soft.net
 static.ilclock.com
 static.ow.ly
 static.solidbasewebschool.nl
-static.topxgun.com
+static.topxgun.com/1465810383951_443.exe
+static.topxgun.com/1465810408079_502.exe
 staticholidaysuk.co.uk
 statieheli.com
 statik-brandschutz-dresden.de
@@ -89951,6 +90062,7 @@ sxagoafzezqjjmc.usa.cc
 sxajthe.online
 sxhts-group.com
 sxp23.net
+sxrmailadvert15dx87.club
 sxsainct.com
 sxsinc.com
 sxwftool.com
@@ -95136,7 +95248,7 @@ url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmB
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
 url.sg
 url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
-url3.mailanyone.net
+url3.mailanyone.net/v1/?m=1gqjAZ-000BfC-4n&i=57e1b682&c=OZtRQmXF7oN5pbgtjwITGqIFHzseGIPJ778kLq969LDnepRJUFA3m4dqjipi-y6OdeP66fl3GFcG9Mo0uCH8uh_3unyNDLNiJEst871L2nZ8Bt27Et8YRWVkmsFhx001Buq9q_60jxe1ofVPHOxLFN1ol0vyuzUw6cC67geyyV1T0aGD81PMHe6Cu8Qd2qq8-ymIP4qFuRBsKb7Lv1Y00D0SYWjvvMyla6LG_jYhjkcVuQ-nh42o0dILyk44Tc-C/
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urldefense.proofpoint.com/v2/url?u=http-3A__borinfor.com_newfolde-5Fr_doc_En-5Fus_OVERDUE-2DACCOUNT_Invoice-2D07-2D19-2D18&d=DwIFaQ&c=VQ9hgUuwpNx5qjiyTmR6qQ&r=VWCMrOAZ42xEY7aBeHkCfVC7-GccDQiNerNlJRH5muI&m=JavSUg0f9C2qoCCa7AWt8RM7BRNk5mP_S7hBxPVa8ZU&s=XFGDpuuNz7L0uj6b4PoAfz3lck7VPATlniNQMVv_P6w&e/
@@ -96179,6 +96291,7 @@ vigreenfarm.vn
 vii-seas.com
 viipaletalot.fi
 vijayhost.com
+vikasdalvi.com
 vikaskanungo.in
 vikentours.no
 vikingsinstitute.org
@@ -96334,6 +96447,7 @@ viplight.ae
 vipline.zp.ua
 viplink.cn
 viplovechs.com
+vipmas15.beget.tech
 vipre.at
 vipro.life
 viproducciones.com
@@ -96606,6 +96720,7 @@ vmsmarketing.ie
 vmt-duessel.de
 vn-share.cf
 vn.vnhax.com
+vnasdoinfoinsdoiafnospidfiog12g.s3.us-east-2.amazonaws.com
 vnbroad.com
 vnca.com
 vncannabis.com
@@ -98345,7 +98460,7 @@ wow.doorattendants.com
 wow.dreyfus.fr
 wowcsc.in
 wowepic.net
-wowmotions.com
+wowmotions.com/wp-admin/A8LwzwQ/
 wowsoftware.weebly.com/uploads/6/0/1/3/60131139/spell_checker_64bit.exe
 wowter.com
 wowwe.ggbro.club
@@ -98569,7 +98684,7 @@ www-dev.e4healthinc.com
 www-grupotv1-com-br.azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 www.smart-eg.com
 www022284.com
-www107.zippyshare.com/d/8OPFupqh/37744/Server.exe
+www107.zippyshare.com
 www11.thinkproject.com
 www2.cj53.cn
 www2.gamingsupport.com
@@ -99179,6 +99294,7 @@ xn--yoconsumoproductosespaoles-2rc.com
 xn--yyc-jk4buiz50r.com
 xn--zlbhdoihrubehkj3aq0g.gr
 xn-r-2lbdc-jnh6-k.ru
+xnasxjnasn.blogspot.com
 xncbvmck74738cnncbx.com
 xnkwintech.com
 xnxxchannel.com
@@ -99877,7 +99993,7 @@ yunhali.net
 yunusaf19.nineteen.axc.nl
 yunuso.com
 yunwaibao.net
-yunyuangun.com
+yunyuangun.com/api.exe
 yupitrabajo.com
 yurayura.life
 yurtdisindayim.com
@@ -100358,7 +100474,6 @@ zoetermeerov.nl
 zoeticbuildingandsupply.com
 zoetstudio.com
 zoeydeutchweb.com
-zogur.com
 zoha.farosur.com.ar
 zoil.website
 zolfagharico.com
