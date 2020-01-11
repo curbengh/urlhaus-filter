@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 10 Jan 2020 12:08:06 UTC
+! Updated: Sat, 11 Jan 2020 00:08:11 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -377,6 +377,7 @@
 103.110.18.0
 103.110.18.105
 103.110.18.180
+103.110.18.201
 103.110.18.239
 103.110.19.21
 103.110.89.83
@@ -1233,6 +1234,7 @@
 108.170.112.46
 108.170.31.53
 108.170.40.42
+108.170.52.134
 108.170.52.147
 108.174.194.200
 108.174.194.61
@@ -1445,10 +1447,12 @@
 110.154.177.103
 110.154.177.234
 110.154.192.247
+110.154.193.195
 110.154.193.206
 110.154.193.243
 110.154.193.244
 110.154.193.74
+110.154.194.82
 110.154.196.231
 110.154.197.168
 110.154.197.243
@@ -1457,6 +1461,7 @@
 110.154.209.171
 110.154.210.21
 110.154.210.4
+110.154.210.43
 110.154.210.5
 110.154.210.67
 110.154.211.147
@@ -1483,6 +1488,7 @@
 110.154.242.174
 110.154.242.195
 110.154.242.210
+110.154.242.5
 110.154.242.66
 110.154.243.224
 110.154.243.57
@@ -2178,11 +2184,13 @@
 114.238.147.26
 114.238.147.96
 114.238.16.25
+114.238.160.123
 114.238.180.184
 114.238.197.234
 114.238.216.6
 114.238.216.7
 114.238.216.86
+114.238.55.124
 114.238.7.210
 114.238.80.172
 114.238.82.87
@@ -2222,6 +2230,7 @@
 114.239.193.231
 114.239.194.17
 114.239.195.122
+114.239.197.10
 114.239.200.107
 114.239.202.115
 114.239.202.52
@@ -2320,6 +2329,7 @@
 115.193.103.48
 115.193.162.77
 115.193.172.64
+115.193.189.209
 115.194.100.35
 115.194.223.95
 115.195.134.23
@@ -2337,6 +2347,7 @@
 115.206.0.29
 115.206.102.251
 115.206.106.84
+115.206.12.74
 115.206.45.60
 115.207.142.60
 115.208.172.36
@@ -2449,6 +2460,7 @@
 115.59.147.136
 115.59.166.77
 115.59.20.253
+115.59.25.169
 115.59.27.19
 115.59.27.245
 115.59.68.122
@@ -2601,6 +2613,7 @@
 117.149.20.18
 117.193.120.12
 117.194.126.176
+117.194.161.202
 117.194.162.120
 117.194.162.57
 117.194.166.223
@@ -2622,6 +2635,7 @@
 117.195.54.174
 117.195.54.193
 117.195.54.26
+117.195.54.47
 117.195.54.82
 117.195.55.160
 117.195.57.80
@@ -2706,6 +2720,7 @@
 117.207.212.121
 117.207.212.222
 117.207.213.200
+117.207.213.84
 117.207.214.59
 117.207.214.77
 117.207.220.109
@@ -2725,6 +2740,7 @@
 117.207.222.69
 117.207.222.72
 117.207.222.86
+117.207.32.10
 117.207.32.12
 117.207.32.124
 117.207.32.175
@@ -2761,6 +2777,7 @@
 117.207.37.229
 117.207.37.230
 117.207.37.233
+117.207.37.235
 117.207.37.248
 117.207.37.75
 117.207.37.78
@@ -2789,6 +2806,7 @@
 117.207.42.135
 117.207.42.188
 117.207.42.70
+117.207.43.242
 117.207.43.90
 117.207.44.167
 117.207.44.19
@@ -2815,6 +2833,7 @@
 117.211.139.13
 117.211.141.54
 117.211.150.124
+117.211.150.197
 117.211.150.210
 117.211.150.214
 117.211.150.219
@@ -2843,6 +2862,7 @@
 117.212.246.140
 117.212.246.208
 117.212.247.160
+117.212.247.17
 117.214.11.249
 117.214.11.8
 117.215.9.10
@@ -2903,6 +2923,8 @@
 117.247.156.234
 117.247.156.27
 117.247.156.28
+117.247.157.36
+117.247.158.65
 117.247.214.184
 117.247.24.17
 117.247.50.80
@@ -2970,6 +2992,7 @@
 117.87.209.203
 117.87.239.15
 117.87.67.196
+117.87.69.160
 117.87.72.213
 117.87.72.22
 117.88.129.47
@@ -3323,6 +3346,7 @@
 121.226.79.127
 121.226.79.159
 121.226.80.241
+121.226.85.51
 121.230.176.229
 121.230.255.221
 121.231.164.131
@@ -3338,6 +3362,7 @@
 121.233.3.235
 121.233.41.14
 121.233.50.201
+121.233.73.54
 121.233.84.90
 121.233.86.54
 121.234.198.116
@@ -3420,6 +3445,7 @@
 122.236.15.180
 122.236.200.184
 122.236.31.17
+122.240.194.194
 122.241.225.190
 122.241.230.78
 122.254.18.24
@@ -3527,6 +3553,7 @@
 123.249.88.28
 123.31.27.73
 123.4.103.61
+123.4.135.233
 123.4.143.229
 123.4.55.123
 123.5.188.64
@@ -3554,6 +3581,7 @@
 124.114.22.157
 124.115.49.46
 124.117.201.113
+124.117.203.138
 124.117.204.240
 124.117.238.230
 124.118.113.36
@@ -3568,6 +3596,7 @@
 124.118.203.202
 124.118.210.243
 124.118.213.93
+124.118.229.106
 124.118.229.159
 124.118.230.0
 124.118.230.157
@@ -3639,7 +3668,9 @@
 125.107.21.172
 125.109.153.207
 125.109.164.96
+125.109.197.79
 125.115.143.80
+125.118.63.45
 125.118.86.4
 125.119.64.37
 125.119.64.96
@@ -4469,6 +4500,7 @@
 14.205.199.212
 14.205.199.253
 14.205.199.53
+14.205.199.8
 14.207.59.223
 14.230.232.48
 14.232.145.161
@@ -6475,6 +6507,7 @@
 168.62.186.228
 168.62.61.200
 168.63.94.20
+168.90.143.194
 168.90.209.171
 1685.actressreviews.com
 16888.vn
@@ -6659,6 +6692,7 @@
 172.36.18.127
 172.36.18.142
 172.36.18.162
+172.36.18.216
 172.36.18.96
 172.36.19.113
 172.36.19.139
@@ -6680,6 +6714,7 @@
 172.36.20.78
 172.36.21.175
 172.36.21.179
+172.36.21.191
 172.36.21.232
 172.36.21.7
 172.36.22.15
@@ -6726,6 +6761,7 @@
 172.36.28.37
 172.36.29.223
 172.36.29.250
+172.36.29.63
 172.36.3.131
 172.36.3.153
 172.36.3.175
@@ -6755,6 +6791,8 @@
 172.36.33.220
 172.36.33.234
 172.36.33.248
+172.36.33.34
+172.36.33.51
 172.36.34.195
 172.36.34.214
 172.36.34.41
@@ -6775,6 +6813,7 @@
 172.36.37.122
 172.36.37.175
 172.36.37.247
+172.36.37.253
 172.36.37.54
 172.36.38.100
 172.36.38.103
@@ -6793,6 +6832,7 @@
 172.36.39.83
 172.36.39.88
 172.36.4.101
+172.36.4.117
 172.36.4.164
 172.36.4.165
 172.36.4.175
@@ -6871,6 +6911,7 @@
 172.36.52.218
 172.36.52.225
 172.36.53.134
+172.36.53.143
 172.36.53.183
 172.36.53.196
 172.36.53.245
@@ -6879,6 +6920,7 @@
 172.36.54.194
 172.36.54.229
 172.36.54.26
+172.36.54.32
 172.36.54.80
 172.36.55.131
 172.36.55.193
@@ -6926,6 +6968,7 @@
 172.36.8.116
 172.36.8.168
 172.36.8.190
+172.36.9.165
 172.36.9.243
 172.36.9.94
 172.39.1.124
@@ -7008,8 +7051,10 @@
 172.39.44.29
 172.39.44.80
 172.39.45.210
+172.39.47.243
 172.39.48.0
 172.39.48.112
+172.39.48.77
 172.39.49.51
 172.39.5.245
 172.39.5.92
@@ -7085,6 +7130,7 @@
 172.39.81.125
 172.39.81.134
 172.39.81.156
+172.39.81.195
 172.39.81.225
 172.39.82.174
 172.39.82.233
@@ -7322,6 +7368,7 @@
 175.3.182.183
 175.3.182.199
 175.3.182.200
+175.3.182.202
 175.3.182.41
 175.3.183.131
 175.3.183.166
@@ -7606,6 +7653,7 @@
 177.185.159.78
 177.185.65.252
 177.185.69.230
+177.185.69.41
 177.185.69.98
 177.188.105.220
 177.188.117.163
@@ -7691,6 +7739,7 @@
 177.66.30.13
 177.67.163.176
 177.67.164.114
+177.67.164.155
 177.67.164.64
 177.67.8.11
 177.67.8.54
@@ -8344,6 +8393,7 @@
 180.104.177.163
 180.104.182.181
 180.104.184.201
+180.104.194.205
 180.104.205.93
 180.104.206.181
 180.104.206.215
@@ -8414,6 +8464,7 @@
 180.123.36.33
 180.123.47.58
 180.123.59.84
+180.123.67.214
 180.123.70.164
 180.123.77.168
 180.123.85.140
@@ -8705,6 +8756,7 @@
 182.127.97.190
 182.131.92.145
 182.149.102.167
+182.150.209.86
 182.16.175.154
 182.16.29.107
 182.160.101.51
@@ -8728,6 +8780,7 @@
 182.37.46.53
 182.47.113.212
 182.52.137.212
+182.56.86.245
 182.56.88.86
 182.64.149.72
 182.64.184.146
@@ -8764,6 +8817,7 @@
 183.145.200.190
 183.145.213.33
 183.147.2.90
+183.15.91.234
 183.151.121.213
 183.151.166.244
 183.151.200.190
@@ -8777,6 +8831,7 @@
 183.156.165.37
 183.156.7.216
 183.157.18.31
+183.157.46.107
 183.158.243.200
 183.158.73.102
 183.159.164.155
@@ -12965,6 +13020,7 @@
 219.144.13.113
 219.144.13.60
 219.146.3.7
+219.151.249.243
 219.154.160.75
 219.155.97.221
 219.155.97.243
@@ -13066,6 +13122,7 @@
 220.74.105.46
 220.77.210.144
 220.79.131.52
+220.79.174.168
 220.81.118.108
 220.87.40.35
 220.88.102.15
@@ -13073,6 +13130,7 @@
 220.89.79.46
 220.92.226.116
 220.93.118.126
+220.94.77.193
 220.95.38.8
 221.11.215.132
 221.121.41.139
@@ -13141,6 +13199,7 @@
 221.213.1.168
 221.213.150.164
 221.226.86.151
+221.227.189.154
 221.228.159.3
 221.229.178.227
 221.229.181.157
@@ -13264,6 +13323,7 @@
 222.242.207.4
 222.243.14.67
 222.246.228.185
+222.246.240.161
 222.248.104.98
 222.253.253.175
 222.255.46.67
@@ -13613,6 +13673,7 @@
 27.15.152.47
 27.15.155.174
 27.15.155.88
+27.15.180.231
 27.15.180.93
 27.15.181.87
 27.15.27.41
@@ -13863,6 +13924,7 @@
 31.146.190.15
 31.146.222.114
 31.146.222.131
+31.146.222.146
 31.146.222.165
 31.146.222.171
 31.146.222.69
@@ -14260,6 +14322,7 @@
 36.105.15.108
 36.105.15.189
 36.105.151.17
+36.105.151.63
 36.105.157.16
 36.105.157.181
 36.105.157.218
@@ -14320,6 +14383,7 @@
 36.107.173.22
 36.107.208.3
 36.107.250.64
+36.107.255.130
 36.107.255.2
 36.107.27.118
 36.107.27.47
@@ -15011,6 +15075,7 @@
 42.7.26.13
 42.97.101.209
 42.97.114.56
+42.97.121.230
 42.97.124.11
 42.97.133.12
 42.97.135.172
@@ -15913,6 +15978,7 @@
 49.116.57.200
 49.116.57.51
 49.116.58.98
+49.116.59.225
 49.116.59.240
 49.116.60.220
 49.116.60.244
@@ -15920,6 +15986,7 @@
 49.116.61.91
 49.116.62.212
 49.116.62.239
+49.116.8.2
 49.116.97.11
 49.116.97.163
 49.116.98.115
@@ -16086,6 +16153,7 @@
 49.81.248.13
 49.81.248.234
 49.81.250.134
+49.81.250.18
 49.81.254.97
 49.81.27.210
 49.81.27.216
@@ -16155,6 +16223,7 @@
 49.89.242.236
 49.89.243.43
 49.89.252.58
+49.89.48.224
 49.89.48.76
 49.89.60.212
 49.89.65.146
@@ -16162,6 +16231,7 @@
 49.89.67.136
 49.89.68.175
 49.89.68.212
+49.89.69.222
 49.89.70.143
 49.89.76.136
 49.89.81.193
@@ -16310,6 +16380,7 @@
 5.165.70.145
 5.167.163.32
 5.167.53.163
+5.17.143.37
 5.180.40.102
 5.182.210.138
 5.182.210.141
@@ -17039,6 +17110,7 @@
 59.47.72.34
 59.47.72.69
 59.80.44.99
+59.80.44.99/indonesias.me:9998/iexplore.exe
 59.88.51.207
 59.89.208.122
 59.90.247.38
@@ -17079,8 +17151,10 @@
 59.95.234.149
 59.95.235.19
 59.95.245.107
+59.95.245.109
 59.95.36.137
 59.95.36.2
+59.95.36.92
 59.95.37.233
 59.95.37.56
 59.95.38.157
@@ -17110,6 +17184,7 @@
 59.96.24.93
 59.96.25.137
 59.96.25.164
+59.96.25.192
 59.96.26.222
 59.96.27.207
 59.96.27.60
@@ -17128,6 +17203,7 @@
 59.96.85.112
 59.96.85.134
 59.96.85.146
+59.96.85.157
 59.96.85.200
 59.96.85.241
 59.96.85.255
@@ -17180,6 +17256,7 @@
 59.96.89.20
 59.96.89.231
 59.96.89.31
+59.96.89.39
 59.96.90.108
 59.96.90.159
 59.96.90.50
@@ -17255,6 +17332,7 @@
 60.179.71.183
 60.184.120.215
 60.184.121.208
+60.184.149.190
 60.184.229.141
 60.184.9.141
 60.185.187.230
@@ -17335,6 +17413,7 @@
 61.2.134.140
 61.2.134.251
 61.2.134.96
+61.2.135.126
 61.2.135.204
 61.2.135.9
 61.2.14.128
@@ -17349,6 +17428,7 @@
 61.2.148.162
 61.2.148.195
 61.2.148.80
+61.2.149.114
 61.2.149.122
 61.2.149.133
 61.2.149.154
@@ -17391,6 +17471,7 @@
 61.2.152.236
 61.2.152.251
 61.2.152.36
+61.2.152.41
 61.2.152.96
 61.2.153.101
 61.2.153.115
@@ -17926,6 +18007,7 @@
 68.183.218.17
 68.183.218.218
 68.183.218.61
+68.183.219.115
 68.183.219.20
 68.183.22.37
 68.183.22.42
@@ -19191,6 +19273,7 @@
 85.187.241.2
 85.187.245.35
 85.187.253.219
+85.204.116.108
 85.204.116.111
 85.204.116.123
 85.204.116.203
@@ -21259,7 +21342,7 @@ adminsystemcr.com
 adminwhiz.ca
 admiralparkway.com
 admiris.net
-admobs.in
+admobs.in/calendar/report/3nw1qwb4ulk/
 admolex.com
 admonpc-ayapel.com.co
 admotion.ie
@@ -21267,6 +21350,7 @@ admrent.com
 adnaan.website
 adnc.cn
 adnetss.com
+adnoiiasdnfoinsafopinsodifg16g.s3.us-east-2.amazonaws.com
 adoam.pw
 adoam.site
 adobe-flash-player.pro
@@ -21915,8 +21999,7 @@ aig-com.ga
 aigavicenza.it
 aiglemovies.com
 aihealth.vn
-aiiaiafrzrueuedur.ru/o.exe
-aiiaiafrzrueuedur.ru/t.exe
+aiiaiafrzrueuedur.ru
 aiineh.com
 aiit.ahbys.com
 aijdjy.com
@@ -24754,7 +24837,7 @@ arvd.begrip.sk
 arvendanismanlik.com
 arvicukrus.lt
 arvid-blixen.de
-arvindsinghyadav.xyz/him.exe
+arvindsinghyadav.xyz
 arvindtronik.iniserverku.com
 arvinhayat.com
 arvolea.pt
@@ -25327,7 +25410,10 @@ att1.bigmir.net
 attach.66rpg.com
 attach.mail.daum.net
 attach2.mail.daumcdnr.com
-attack.s2lol.com
+attack.s2lol.com/free/svchosts.exe
+attack.s2lol.com/new/dllhosts.exe
+attack.s2lol.com/svchost.exe
+attack.s2lol.com/svchosts.exe
 attack.ucoz.ae
 attackplanr.com
 attaqwapreneur.com
@@ -25685,7 +25771,13 @@ avenue5.co.in.cp-in-10.webhostbox.net
 avenzis.nl
 averefiducia.com
 averfoodrs.eu
-averin.pro
+averin.pro/EC2UKr
+averin.pro/EC2UKr/
+averin.pro/KGZN4tJaS/
+averin.pro/Ml8GR/
+averin.pro/fonts/IRS-Transcripts-June-2018-04/0/
+averin.pro/iofR/
+averin.pro/j7oL/
 averson.by
 averybit.com
 aveslor.com
@@ -28718,8 +28810,7 @@ blog.neopag.com
 blog.olafocus.com
 blog.olawolff.com
 blog.olddognewdata.com
-blog.oluwaseungbemigun.com/818744H/PAYMENT/Personal
-blog.oluwaseungbemigun.com/818744H/PAYMENT/Personal/
+blog.oluwaseungbemigun.com
 blog.openthefar.com
 blog.orbi-imoveis.com.br
 blog.ouou.eu
@@ -30210,6 +30301,7 @@ buzznino.com
 buzzpaymentz.com
 buzzplayz.info
 buzztinker.com
+buzztrends.club
 bv7a5s.myraidbox.de
 bvbi-infotech.com
 bvdsweb.pw
@@ -30687,7 +30779,7 @@ cannonbead.com
 canoearoundireland.com
 canoncoffee.com
 canoninstant.com
-canopyofgloryministries.org
+canopyofgloryministries.org/wp-content/uwl120-e48vz-msskpl/
 canottierimilano.it
 canozal.com
 canprotours.ca
@@ -30856,8 +30948,7 @@ cargoinsurance.tk
 cargokz.kz
 cargomate-kr.cf
 cargomax.ru
-caribbean360.com/bu40BVNZ/
-caribbean360.com/test/XChCw-sav_KomKB-Pe0/COMET/SIGNS/PAYMENT/NOTIFICATION/01/28/2019/En_us/Sales-Invoice/
+caribbean360.com
 carifesta.com
 carikliantiquitat.com
 carimbosrapidos.com.br
@@ -31681,7 +31772,7 @@ cdn.siv.cc
 cdn.slty.de
 cdn.speedof.me/sample4096k.bin?r=0.1570982201
 cdn.top4top.net
-cdn.truelife.vn/webtube/201310/2139273/pianito.exe
+cdn.truelife.vn
 cdn.xiaoduoai.com
 cdn.zecast.com
 cdn4.css361.com
@@ -33086,7 +33177,7 @@ cloud.diminishedvaluecalifornia.com
 cloud.hollweck.it
 cloud.kryptonia.fr
 cloud.patrika.com
-cloud.s2lol.com
+cloud.s2lol.com/auto/autotrain_vlbisu/AutoTrainJX.exe
 cloud.xenoris.fr
 cloudaftersales.com
 cloudatlas.io
@@ -33403,7 +33494,9 @@ coimbragarcia.adv.br
 coin-base.tk
 coin-blocker.com
 coin.ambigain.com
-coinbase-us1.info
+coinbase-us1.info/BuiL.dat
+coinbase-us1.info/VijOl.dat
+coinbase-us1.info/lTUHw.dat
 coinbidders.com
 coindemariee.com
 coindropz.com
@@ -36081,9 +36174,7 @@ deldorado.com.br
 deleboks.dk
 delegatesinrwanda.com
 delegirato.pro
-deleogun.com/paclm/bZIuaFhVQlDwWFAAVqunuPzofQ/
-deleogun.com/paclm/bziuafhvqldwwfaavqunupzofq/
-deleogun.com/wp-content/uploads/2019/09/fct.php
+deleogun.com
 delereve.com
 delespino.nl
 deletenanocomplex.vojtechkocian.cz
@@ -37049,6 +37140,7 @@ dibutecno-17.es
 dicaconsultores.com
 dicampo.cl
 dicarmo.com
+dicebot-game.com
 dichiara.com.ar
 dichvuchupanhsanpham.com
 dichvucong.vn
@@ -38910,9 +39002,7 @@ doverenewables.watchdogdns.duckdns.org
 dovermahealth.org
 doveroma.com
 dovetailgardens.com
-dovgun.com/www/www/www/www/golesson/itAjzdUjNE14pHx/SWIFT/PrivateBanking
-dovgun.com/www/www/www/www/golesson/itAjzdUjNE14pHx/SWIFT/PrivateBanking/
-dovgun.com/x7tDH1jMd9
+dovgun.com
 dovkolkermd.com
 dowall.com
 down-home-farm.com
@@ -40867,11 +40957,13 @@ drive.google.com/uc?id=1-80DWi5F5W8d7j0kXUhYLQA6hnXwqLXw&export=download
 drive.google.com/uc?id=1-83EcvCAcf3jmNKAEFvXK0CeGXiBMcBC&export=download
 drive.google.com/uc?id=1-8_9P9c7Cie7UmsDAdwJH7VevAYwua33&export=download
 drive.google.com/uc?id=1-8yVMyIf0MgjkZgp_XIuW1noqnuqZZvH&export=download
+drive.google.com/uc?id=1-9FU2ibwyqxJ_EXMhZ1R0VtlcwkPdXzs&export=download
 drive.google.com/uc?id=1-A-vOqm_dWiYJ2KWrtm_PD5JZHY-nr4D&export=download
 drive.google.com/uc?id=1-CBcDDxONSEuqE9piY-EHa-HTEzoLrTX&export=download
 drive.google.com/uc?id=1-CI74IAAscC-5Y4KEjm9qoEsXjS_9fYR&export=download
 drive.google.com/uc?id=1-CUa8kHpyL3cM0T7tOb6DY7qt5Ck3bRR&export=download
 drive.google.com/uc?id=1-CXHhtX2HCogfVMRX7EIea050bimliDY&export=download
+drive.google.com/uc?id=1-ChWS7gPh0DGbxuL6tu2KyWbrUuhfErV&export=download
 drive.google.com/uc?id=1-Cx1K5YbVH5XO0Yqdkg81lfkRpFd2UVT&export=download
 drive.google.com/uc?id=1-EL42w6csFQ8ygqYj6CqbyFPDJlI3CLr&export=download
 drive.google.com/uc?id=1-EVgTGDH5aWGAW1R8neRaOdy9yDnWyKO&export=download
@@ -40959,6 +41051,7 @@ drive.google.com/uc?id=10Oxbn9PKwG_0WT93fzqH8A5b07ncONab&export=download
 drive.google.com/uc?id=10OzMCfPWuOkbGX_PQBNGX50ctyGfgKBV&export=download
 drive.google.com/uc?id=10PLO8VawvhwK_qLx7_0C-Qur0f7Q-d2i&export=download
 drive.google.com/uc?id=10P_qhN_FhvouSCOF9DnTuUJtOpU238zM&export=download
+drive.google.com/uc?id=10QV8bkFLXt4TVcts3XL6yCCrWcFBfwY_&export=download
 drive.google.com/uc?id=10Qz3bOSqrvmz5an_A2X8zuMZEYVktblc&export=download
 drive.google.com/uc?id=10R3pmnCLixwDT1XJYrXIZd6yxgnypn9b&export=download
 drive.google.com/uc?id=10RUYmoT_fr4WpnuuQv0B-H9SeCKP2eLM&export=download
@@ -41032,6 +41125,7 @@ drive.google.com/uc?id=11VmjPIX51Jx5pio0RV3i71gF4vPugAUn&export=download
 drive.google.com/uc?id=11WwQH6Qf4v12Q3EFJtuGyGW4inHYUSJD&export=download
 drive.google.com/uc?id=11X514Lj996cAbV35iFkITLgfZ86Llms1&export=download
 drive.google.com/uc?id=11XN5GycwDTou3ykx9PCDTZjLltlcwFci&export=download
+drive.google.com/uc?id=11YcuHSyDH_9-i-lF4PSrDxng_oxZmXNB&export=download
 drive.google.com/uc?id=11Z3G7RfNw7LPr01ibMkGM34N1Dg-D9_3&export=download
 drive.google.com/uc?id=11ZHEf1SvJIpS8sWTLEXviR5Ezow2GGWM&export=download
 drive.google.com/uc?id=11Za9wuqO0Vzr6FQG7S7Og3IdmwpVedoK&export=download
@@ -41084,6 +41178,7 @@ drive.google.com/uc?id=12GOmLKiCu0T3GOxidP1_mm8d_8XYGjbj&export=download
 drive.google.com/uc?id=12H_rgeomssuT65ihTE52JITeCc5dCGjH&export=download
 drive.google.com/uc?id=12HtFuqz2tjKAtjkVb-WFCOzS8imTb5Lj&export=download
 drive.google.com/uc?id=12I-dJca2Owrm2LJM_kLz1UxSB2G0o2hk&export=download
+drive.google.com/uc?id=12IDCXkN27CT4vCwYlW7w1jT8p8oRpsM5&export=download
 drive.google.com/uc?id=12InY-k4bYvYORkK6YwMisQqBiiM_fmMs&export=download
 drive.google.com/uc?id=12IyDrGjkTzM3VHYhqo16l42H9yR7QMmE&export=download
 drive.google.com/uc?id=12JGe_wCfWkKR0zaAVFt0tKeVX_dVLmwq&export=download
@@ -41094,6 +41189,7 @@ drive.google.com/uc?id=12N0ce-qLNjRuomppqS7eKnFRCSVL2hFb&export=download
 drive.google.com/uc?id=12NVT3ZXKBmKQP4j6OsEgjKoHdqlDidXA&export=download
 drive.google.com/uc?id=12Niun6BqWqHYbUFwaxmlQwaAwz-ikDvX&export=download
 drive.google.com/uc?id=12O9iqgVk4W9_FvNC-9wA5gm35iptL7B1&export=download
+drive.google.com/uc?id=12PFLEzNygHG9rBtWTs7Odc_-Fj36ZELd&export=download
 drive.google.com/uc?id=12PQxb_PQEUtGdreDzIy0SrhQ8L7yB6EH&export=download
 drive.google.com/uc?id=12PmxajwWJwnjpSbmd3sk4zTW6QgRzHHg&export=download
 drive.google.com/uc?id=12Q0VNy3ScPhD08QT_Gc4_eBQkklu_CHh&export=download
@@ -41186,6 +41282,7 @@ drive.google.com/uc?id=13SYnqLInnXElCGKdzoCwCm7M0ZgC-uxI&export=download
 drive.google.com/uc?id=13T5hnzV-1DpJugP0M8Q0xuL1spyFn4s_&export=download
 drive.google.com/uc?id=13VI6piwQPcG6wYolbG71b00niEORQSPD&export=download
 drive.google.com/uc?id=13VOG7GVRmXG-b_s2eQlnglA8WIDVjTiJ&export=download
+drive.google.com/uc?id=13Wy2LH4JTb8qi8ueMTc-U0Tb8mh1X9yy&export=download
 drive.google.com/uc?id=13X1iSH6d1wTPdxFldYsNex3mEIbFK9Gf&export=download
 drive.google.com/uc?id=13XwABIpWSvOdb5XFQRMHJwVVhy1s9gHK&export=download
 drive.google.com/uc?id=13Y9CY9oBmhN3jtebphFhSPKmxlfIV5n6&export=download
@@ -41212,6 +41309,7 @@ drive.google.com/uc?id=13l3sBKDDFWg90a10vrR3bbubwJqc0WJQ&export=download
 drive.google.com/uc?id=13lXGp9VWUdvG1ZQIpuWBO8uRH3PDVY26&export=download
 drive.google.com/uc?id=13mhMkR58Z-Vnh8gBRBlRyCBogL2VtfEn&export=download
 drive.google.com/uc?id=13oESpWp0fmGRdtYA7BqrYL-lAvEUkYW5&export=download
+drive.google.com/uc?id=13qNBvJQi4QsxZj1LKO3vyFFIKqwYyU4L&export=download
 drive.google.com/uc?id=13qyI-_17-nMl0afY2BZ4vufIGnliF0Ao&export=download
 drive.google.com/uc?id=13tDMfRq7ce9hQZE2mWO4Fsn2prAiTMtO&export=download
 drive.google.com/uc?id=13vDdyR8NucLnZPyf-VSy1CzkuDtkbnLc&export=download
@@ -41220,6 +41318,7 @@ drive.google.com/uc?id=13z6pFwDCGg8n5KWczdxSSlg_THEXd1SX&export=download
 drive.google.com/uc?id=14-QTCBDLFm5h3eHtZoqBhIZHaXFUMKPj&export=download
 drive.google.com/uc?id=14-RV3AYTF03Kiv3eAzFOHSSXdXUOp45t&export=download
 drive.google.com/uc?id=14-iWVm5yLdg8lJiJ_MvP2IBGP1WfDQth&export=download
+drive.google.com/uc?id=140K_I7wgwzdkGVRHkrn624KpTLMDKQ5r&export=download
 drive.google.com/uc?id=144Nia0-NYHDuEWDVWABKbjcGS2BKfRSV&export=download
 drive.google.com/uc?id=1459lghIrMhKk5Q9Sxses_RRPubnzPHPV&export=download
 drive.google.com/uc?id=1459pxbsulycRFiHj5sjsj7Ut6c2Xh62C&export=download
@@ -41238,6 +41337,7 @@ drive.google.com/uc?id=14DN007evkn0eENQGRYKMDCQhjF_u2C-B&export=download
 drive.google.com/uc?id=14E5mqrKx7Z48RARcxC1149encwaelA2Y&export=download
 drive.google.com/uc?id=14EHGd_CzGIkf-kfWyB10Q4wW9rS2_48f&export=download
 drive.google.com/uc?id=14ErngQBt0ggwMKeyg3pNLDs002IlLCeY&export=download
+drive.google.com/uc?id=14EtzyX_wedQX8RZbzj-QzEiTUjii_5JS&export=download
 drive.google.com/uc?id=14FZ99VQyHdpzeT6m25dDTXCj9vhtuafI&export=download
 drive.google.com/uc?id=14FddVZ_TsPW-uc3t32adak36kNHx54ui&export=download
 drive.google.com/uc?id=14Fdj0qK4VETRerPHfD0oYdidZIKIXGZZ&export=download
@@ -41361,6 +41461,7 @@ drive.google.com/uc?id=15T9hWCu2eKh3j8KhVamOg5w9xabtGtqX&export=download
 drive.google.com/uc?id=15T_3co-wgK7nUq1naMG3eGrsFH7HEPVV&export=download
 drive.google.com/uc?id=15U2ZR0S32m02Ct7WcZEUUrmdiZevHBj2&export=download
 drive.google.com/uc?id=15UMA_YRc70szKD1s1kHlzQRzJXMLA146&export=download
+drive.google.com/uc?id=15UQgNDJYfGedHJXdXoEPg9nJ3K_Xtuft&export=download
 drive.google.com/uc?id=15USHXUnkhMNAXvNv6gqHZjqgmIUXg1xx&export=download
 drive.google.com/uc?id=15UwYCcdu8OQLRy-mPqccbiJY91ZS1eJD&export=download
 drive.google.com/uc?id=15VfAq6grsuUJxwu5GSdbir2Iy-u49E9b&export=download
@@ -41407,6 +41508,7 @@ drive.google.com/uc?id=167VQGJF5guT5TtH1_uW8le-wJH-kFiEy&export=download
 drive.google.com/uc?id=168yi5fveJ5oEfdAt9V3tCtxwKIFONDlt&export=download
 drive.google.com/uc?id=169-rTJ7N9BF1GWjB9l8qpCr9YCjmP6ES&export=download
 drive.google.com/uc?id=16BjKjunQfJMvs6FI4O4LCa8qV-8Us9qx&export=download
+drive.google.com/uc?id=16ChJCOwiiNGH32i_qZvMDrd2hsFfSJRZ&export=download
 drive.google.com/uc?id=16DAmNUvKCHr2bgW5u8rFFm9BzIhQXYy9&export=download
 drive.google.com/uc?id=16EQc7abwO8NCSjuNhF-X43Ay6hQPy6Tb&export=download
 drive.google.com/uc?id=16F6QIL8L2ejhzxWrYA4eFPHqnKm0TYii&export=download
@@ -41455,6 +41557,7 @@ drive.google.com/uc?id=16q9WuFaETJ0kakhHf_y25BSr-gWP5of4&export=download
 drive.google.com/uc?id=16rK5X-K95CYap6FRg1IMZ3R4B_9HnW0M&export=download
 drive.google.com/uc?id=16sIUlvQy-bkq9OpZ2H-G2_uv6BGcFCVm&export=download
 drive.google.com/uc?id=16sRMRLS7HzqaMk7d8ZmrjrZIUIh-FlSA&export=download
+drive.google.com/uc?id=16tp0IOdfmnfufmuoz5IIBWl9O4NyS_hX&export=download
 drive.google.com/uc?id=16uM2Qfmu8cUqWJuNn7w2ZJ3cuRX8ezUj&export=download
 drive.google.com/uc?id=16uygnDM6H0-fI1PFtl9Gui1-FSOHIx94&export=download
 drive.google.com/uc?id=16vOsRU3awi5rOZJC_75W9-ud-ZPzSPdP&export=download
@@ -41508,6 +41611,7 @@ drive.google.com/uc?id=17Yz4rDXOvPT0LEgfztrghAdoGMwNpYMH&export=download
 drive.google.com/uc?id=17_QxtK6BLuQXizr7Vhmj2B1D1zdc1oc5&export=download
 drive.google.com/uc?id=17__JctlI4bNuubTGwh6uKxUw_PqYDkGZ&export=download
 drive.google.com/uc?id=17aTGyJxWkQSSIwHFrXzTwVK7zkYf8eh3&export=download
+drive.google.com/uc?id=17bPGzoL485L3YQ9iSRXMoOgNn7coK-t_&export=download
 drive.google.com/uc?id=17cFfm2_jMtHOpPz-AgUQcdc54jJKu84A&export=download
 drive.google.com/uc?id=17dmqJrOqAJL0NKXf8HBwSXlSNwg9Zv_w&export=download
 drive.google.com/uc?id=17dudyVe9D38RPbeQyX7eC9uaS4Rr9e0v&export=download
@@ -41564,6 +41668,7 @@ drive.google.com/uc?id=18SC_2Zl8DhYY6hzjpGx6gcT-HN7qfQ35&export=download
 drive.google.com/uc?id=18UU0ViRJ34q_uRK8pkd78qIu9JXc0uBF&export=download
 drive.google.com/uc?id=18WFProhSRPk4NcEKhX-zi0i66aWB_JCB&export=download
 drive.google.com/uc?id=18Wylw8-QlpHQWK8bZafmgmetO_QTDwqA&export=download
+drive.google.com/uc?id=18X4-88aBBi1b-XGZjcdhY5Pe6CH42Av2&export=download
 drive.google.com/uc?id=18_vvgCw7Eb5yDZ4rHr5YFy9-Z_ucUMZm&export=download
 drive.google.com/uc?id=18bQI8LxPB3IEvG7NNJTd4AoyE1J_Jd_n&export=download
 drive.google.com/uc?id=18bfRFx9HEDGTOOocV3cqrXpcGP82Jj0o&export=download
@@ -41616,6 +41721,7 @@ drive.google.com/uc?id=19R3O3gUaQph1zCWvIZc0NfL86p1GT2Mu&export=download
 drive.google.com/uc?id=19Rbv3edHqFcTtkXLIGfgcDo35zekXX0d&export=download
 drive.google.com/uc?id=19VqnWcnLgtgATu7daXq1H9pf1Dba8yQN&export=download
 drive.google.com/uc?id=19WgLwIZal8RUmf0b4imPVkhys7qc9Uoa&export=download
+drive.google.com/uc?id=19ZD1009ndZuwaKNp7-z-WVmvashOU5Ld&export=download
 drive.google.com/uc?id=19_mNKrdRzRSNnNnaJvl5CkfNnn9ZKIEY&export=download
 drive.google.com/uc?id=19_zUKa_NQqgVPgBfs6dgahIGB96SDmfg&export=download
 drive.google.com/uc?id=19b7Mqk2-BjeVA0ebB8az2MQ-9RrCVKYY&export=download
@@ -41649,6 +41755,7 @@ drive.google.com/uc?id=19rmhumVYpTc1Z7ggsrnzdh8_kqSidth7&export=download
 drive.google.com/uc?id=19s72SssliLFCWBGq5bk3E5ZP9wOL1KC6&export=download
 drive.google.com/uc?id=19shW64P3G-vvzvbvjzSW4UDXeq34tuTb&export=download
 drive.google.com/uc?id=19uH4nl2MU9NKJIecj09YJV3iBuEmjRUe&export=download
+drive.google.com/uc?id=19vU1VkPmiJ58uyP_UeeuhGAB5sB4bxAp&export=download
 drive.google.com/uc?id=19vYx7EFxa3JskK55t7RqYtIcj6ybWNGA&export=download
 drive.google.com/uc?id=1A-evhmbQ4F0cExb0dC8hT1T_iRGtcBAo&export=download
 drive.google.com/uc?id=1A0_mqhNl60DyCg6-hKPYFeXylCZ7X2k7&export=download
@@ -41804,6 +41911,7 @@ drive.google.com/uc?id=1C5QYp4W3i8QUzFnPzPsGQw1ifsVL0nI6&export=download
 drive.google.com/uc?id=1C5XFLOv7Kdsw_y71S4X476YzuXYBgSKv&export=download
 drive.google.com/uc?id=1C62DYNPZ3tP1hqXmrxooNR-xbnlX8omw&export=download
 drive.google.com/uc?id=1C8318arl3aROSZgfds-sCjU547cGpkl1&export=download
+drive.google.com/uc?id=1CAiqlZnL2v9NM7yIERXDrSrI0r6o5G3L&export=download
 drive.google.com/uc?id=1CC_wCCf9IQWAquVFAqlpmf_AayyUbhWr&export=download
 drive.google.com/uc?id=1CDc5mTGipvq6C143FFENi0dAjxPgkmFN&export=download
 drive.google.com/uc?id=1CFM5uste_kezqnEvflt4Ga8eWsUJkm8Z&export=download
@@ -41862,9 +41970,11 @@ drive.google.com/uc?id=1D0v8JiDGFMULki0n1d5hjdRk1EzFU9ng&export=download
 drive.google.com/uc?id=1D19aR7Sy_F7YYUJ_yzJWr-jrb3p6nN_8&export=download
 drive.google.com/uc?id=1D1OR7UUGAJF7W1WveLmpNBN128ulDxrQ&export=download
 drive.google.com/uc?id=1D2G4McMjvVl3Q1qEwh5kacXIiTMUHV64&export=download
+drive.google.com/uc?id=1D3NjICn2RJXxpMYKNJ7KF-n7MYnObw7F&export=download
 drive.google.com/uc?id=1D3fFuGDg3DUFHBDY6o56JutigfUxId09&export=download
 drive.google.com/uc?id=1D4R-oBrOY9zQvzM1mLZAU8rFrD0aRH0r&export=download
 drive.google.com/uc?id=1D4kGA6U-3l7uTJAM5io1qOi4vcGStdrB&export=download
+drive.google.com/uc?id=1D4qPl_9sOaezfQ-fryNMovtlYjBDz05m&export=download
 drive.google.com/uc?id=1D5AYoIAmFOM1vMnyb-fXGb3H6edxvf_w&export=download
 drive.google.com/uc?id=1D5RNFSDYORBx4SrVK7IufTQvLS9Dogu-&export=download
 drive.google.com/uc?id=1D5ei5hZv4ZY_v12al8isWJcFOhk2YuUN&export=download
@@ -41947,6 +42057,7 @@ drive.google.com/uc?id=1E0ZwAB1czV7fsspbn3eLdz39zt6KhgPT&export=download
 drive.google.com/uc?id=1E1MeEXyIeaShu6IffShD8Z16kVc6PECR&export=download
 drive.google.com/uc?id=1E2FpYo4bkjcI5vbiyEO9E2SRvcx3Di3q&export=download
 drive.google.com/uc?id=1E3v2HUa8F0yTB16qbdqQ794fSrYeJlMY&export=download
+drive.google.com/uc?id=1E4MceOv9F6UAKn404xZMNcVJWWr0nuPP&export=download
 drive.google.com/uc?id=1E5G5bk3Q0h3iAi9PBhXZx4maPdq8OVEP&export=download
 drive.google.com/uc?id=1E8EOkH-j7cob8bgLPGLFBr6kQkRuhYHJ&export=download
 drive.google.com/uc?id=1EAMHIivbt5QRYAjyIPc5yAJnRiZ0iXIA&export=download
@@ -41967,6 +42078,7 @@ drive.google.com/uc?id=1EJqs1j8uH4uVbhj8POKGdSmyRrrtX7_-&export=download
 drive.google.com/uc?id=1EKeZfqBBHDfSb0qdlxQ5jy0Glj9zzAIs&export=download
 drive.google.com/uc?id=1EMhhheV5rI5EUD49FFFaaYkL_E1E45ZF&export=download
 drive.google.com/uc?id=1ENP3uzh9mpkcKPYcItP0r8FJVi6hfENM&export=download
+drive.google.com/uc?id=1ENwGCKzlPZHX9AmiZ9SldmU8vPNZnC-Z&export=download
 drive.google.com/uc?id=1EOHjVAYDcYgWqXKhF_Omlw_jiQjoYmAt&export=download
 drive.google.com/uc?id=1EOiuSUXfHS-HE5O-AfoxTBakDH95a-ck&export=download
 drive.google.com/uc?id=1EOxTHrakjtBqf8hTKLhQfSc6S47tEB41&export=download
@@ -42126,6 +42238,7 @@ drive.google.com/uc?id=1GcQbdfjqsuqEKUnoi___RrsWxJ479Gdi&export=download
 drive.google.com/uc?id=1Gd5bvKjdm3QmJTPvGU6pPP3wEFBIw8ob&export=download
 drive.google.com/uc?id=1GdLqwQsJafOTl4LyrEMDXxTL-HInKtAg&export=download
 drive.google.com/uc?id=1GdmK0FpdRu_CZIHeCSfW2ghGHwmzzF1i&export=download
+drive.google.com/uc?id=1GeoqH9zKuoZugpCASEBChefxrCxHkmK_&export=download
 drive.google.com/uc?id=1GfP8SgEPnfNXe7QTCgorvuMwcKjORmwA&export=download
 drive.google.com/uc?id=1GgK4gMZ4SjmZXyYq7ULSR8LIYEZb5jiX&export=download
 drive.google.com/uc?id=1Ghs9crZmMpX-Inpxht3fT21V2wL3dZdE&export=download
@@ -42166,6 +42279,7 @@ drive.google.com/uc?id=1H6Zyji1OzsiZp2BZYnk2LBufbYETzwoZ&export=download
 drive.google.com/uc?id=1H7610rvEcS-PvsGjWu3ekNv_qM2edg4t&export=download
 drive.google.com/uc?id=1H76K6rG1LMqn6GLjydGtMsp2xb2sPbDf&export=download
 drive.google.com/uc?id=1H82SdZczkT4vJB4C0dYrV0qso823OOzV&export=download
+drive.google.com/uc?id=1H8B2uqA_OhfEqZ3rsMitf215JCc3Uccy&export=download
 drive.google.com/uc?id=1H9Tw7zgaPzKxY_6GdelUDsZGJsFa8UDZ&export=download
 drive.google.com/uc?id=1HAx6TI-K9nexwQOmxh7JGXs6Jsiy7h_S&export=download
 drive.google.com/uc?id=1HBA6J3wtNKFwphE9KoRY1i7dCb_r_rhl&export=download
@@ -42229,10 +42343,12 @@ drive.google.com/uc?id=1HuQWqtLDKNhVvjC_6fbha7gHryZRvJ2z&export=download
 drive.google.com/uc?id=1HvR-1kjAI4KGOolEZfGnsaqMHpP3ojno&export=download
 drive.google.com/uc?id=1HvqpurmlmjYYEXtcmt6Cl-4FLrXZyFDG&export=download
 drive.google.com/uc?id=1HxCl7EZLm959cnBRcLzSA8tU5txPh7P2&export=download
+drive.google.com/uc?id=1HxJGchevIgFouhQJBPdlKiefB31i-P8d&export=download
 drive.google.com/uc?id=1HyKBwjj6APAxbZJUMn83xSwGO32ZbETY&export=download
 drive.google.com/uc?id=1HzDRktS_vkxYKP-dfmCHlWp5K2Dg20zD&export=download
 drive.google.com/uc?id=1HzjRU8GVlBjeM530dPPw8-6jbN3fDDik&export=download
 drive.google.com/uc?id=1I-YFeE7pmGTV-8bYmfvXPR3Hp4NzQPdE&export=download
+drive.google.com/uc?id=1I-m-Zdvb1MI-EE99NWHEPjL8qWaX7E0U&export=download
 drive.google.com/uc?id=1I1yIau33_dig289HnCPybeqji6sPugka&export=download
 drive.google.com/uc?id=1I2LsCbKyQ6jYI8au2_0YruHxjCoLlQKJ&export=download
 drive.google.com/uc?id=1I2YPyyHWTpIMFiHuZ5QYbIlNlSDhoV_8&export=download
@@ -42368,6 +42484,7 @@ drive.google.com/uc?id=1Jb3RNpwisUf0mZSOZuAqny8LT_EYYEYU&export=download
 drive.google.com/uc?id=1Jc42_DVWQFLqCCEH7RHMp-6DwhR6LptD&export=download
 drive.google.com/uc?id=1JcJSmQ489ixTo3po-bye5DOaut1l1bET&export=download
 drive.google.com/uc?id=1Jci4yIqexdl-aLhSlARGFE1wyOoVcbcY&export=download
+drive.google.com/uc?id=1Jd-fg_69lzQii2dHdah9bVcU9EFddRHU&export=download
 drive.google.com/uc?id=1Jf2ngtlm4K5qpBSd2g86IXIfSAsZDXDv&export=download
 drive.google.com/uc?id=1JfifRVlCjHboiZkHkrETJX1kdp00GU8w&export=download
 drive.google.com/uc?id=1JgItVVmQhBYNZECgb0qDN8eD7xpntnA7&export=download
@@ -42376,9 +42493,11 @@ drive.google.com/uc?id=1JiKmrZjGU6VYFW1O0toSSJqgzJRrBgMP&export=download
 drive.google.com/uc?id=1JjTky2LJS2Vu3pDAMaQof4raCN_9ATBG&export=download
 drive.google.com/uc?id=1JjigJlD7ikq1Whzpdlf53FBhQhg6HQ8h&export=download
 drive.google.com/uc?id=1JmB5W0jDI6mOdNatV46L7gh1B48kqNqA&export=download
+drive.google.com/uc?id=1JmECsHqy6HjTxpjASVw-SNz0zKfNr2WJ&export=download
 drive.google.com/uc?id=1JmRpgJsE9QpNXdETKp-j3K8feNWjKxZ6&export=download
 drive.google.com/uc?id=1JoekLa2KgLvvMBWkaNjIm8jCVBMY6hfI&export=download
 drive.google.com/uc?id=1Jq-BDDAsdPTq8iOdgp94IwREtLwKG1e-&export=download
+drive.google.com/uc?id=1JqHbzSyi5e_xgTFAOmsM9Q9C3p1kEobk&export=download
 drive.google.com/uc?id=1Jrq1l9naBbXlML9Z46HN1GENsF0DrANm&export=download
 drive.google.com/uc?id=1JrvyWVqIr-cYaynBYq0ox0dlFe2Cpe-j&export=download
 drive.google.com/uc?id=1Jtmt4mOSXbE0YC9uZxUqKVYTEhzL18WZ&export=download
@@ -42417,6 +42536,7 @@ drive.google.com/uc?id=1KKPh65-WozNYedmSpj2_hYdt_YO8FgsM&export=download
 drive.google.com/uc?id=1KKkm9Ffq0ds1vrquRoMkBhBHJfu7QZn7&export=download
 drive.google.com/uc?id=1KLDIDB8n-5d586G-YVwiWeIjbqXvZ2Uo&export=download
 drive.google.com/uc?id=1KLeBjAhU5OkcGxaF-2Muv-Ev4WtsGxE-&export=download
+drive.google.com/uc?id=1KLvNsXJIRxAcGQE6EIK_cTXsk-lfFS05&export=download
 drive.google.com/uc?id=1KNMVdoyFMGTQQBSIBQhdZkltmhnUuhVv&export=download
 drive.google.com/uc?id=1KNewJVZRBkjE8jM7ZsZ5R3ouwg7DrSUT&export=download
 drive.google.com/uc?id=1KNgKLCmLOnZT1fRxbdqK7ELz59GX_t1T&export=download
@@ -42446,6 +42566,8 @@ drive.google.com/uc?id=1KctvBu_-qvzk1tOoICl7Il48yUrzpWkU&export=download
 drive.google.com/uc?id=1KcxJj0leYwCg-vUDx7x8bvEehjSf1u8Q&export=download
 drive.google.com/uc?id=1Ke16-m3k4QuL-cpcGybsPOOptkvdrTe4&export=download
 drive.google.com/uc?id=1Ke2_KV7YiIrZO66urXjxg4w2CsTfmAw0&export=download
+drive.google.com/uc?id=1Ke7XgYFdsQMP3mpHOS1IGMHYfJYiRf8e&export=download
+drive.google.com/uc?id=1KftUycky_tXa8SVzMcOK2X3uANZN1V0t&export=download
 drive.google.com/uc?id=1KiGUcZI1VQYpnvcaA7OMZAN04WYqYqip&export=download
 drive.google.com/uc?id=1KiL9X8HrOvVHMkbh12qZQOzqXbEz7ITd&export=download
 drive.google.com/uc?id=1KjT9LmMM2AwHdJnPnpmJPJ5zN9bwiGXf&export=download
@@ -42461,6 +42583,7 @@ drive.google.com/uc?id=1Ko82Euuftz58Pyzbl3NWiQgz3aOVNNWV&export=download
 drive.google.com/uc?id=1KoJK6QkwbiUcIXpvp6e5cIODa-2v7-O1&export=download
 drive.google.com/uc?id=1KpFkxydX3jlFyHsglJ07VcjrNX2DZ-Yo&export=download
 drive.google.com/uc?id=1KqEjJ4tYrfdc22hxqK-MwPUeovU_RCjO&export=download
+drive.google.com/uc?id=1KqpMGwV_KEsl41W2fcb6bm2ZtkULFc2h&export=download
 drive.google.com/uc?id=1KrV_mbtyclaj0wOpE6IXGhVWXOk7Lfze&export=download
 drive.google.com/uc?id=1KtqWMfNCbzQiZud1Vj_2HGcoaxTjFlfA&export=download
 drive.google.com/uc?id=1Ku3ER3M2TkcliJlSP2IDGfKZMcPmEJnD&export=download
@@ -42521,6 +42644,7 @@ drive.google.com/uc?id=1LXr0s0d8bsF_e7ZUkOerchbgYsps3MrB&export=download
 drive.google.com/uc?id=1LY2xCAirSud8MTB3GIKX4I0e1MDeIz1r&export=download
 drive.google.com/uc?id=1LZnt31Co57gMp9VHnvnnM5f9YR0KYSNt&export=download
 drive.google.com/uc?id=1L_ECz8UXIHH1NJbDhEpbloa48x8u_Fxs&export=download
+drive.google.com/uc?id=1L_KuD-0PEGFvR4OjD_kgsH3ZHOi5p1NY&export=download
 drive.google.com/uc?id=1L_WqVtOcCrc8N1CSbPeFmA4GpJ63tFeo&export=download
 drive.google.com/uc?id=1LbXs4kaBQnNIKD5_obWjnVE23GHkM0L6&export=download
 drive.google.com/uc?id=1LcT43fGps9j2JX-Bn9wgpLnOLvSUEAYs&export=download
@@ -42549,6 +42673,7 @@ drive.google.com/uc?id=1LwY0V0tP1cHzcGHd6HusgLX7p1TBIwps&export=download
 drive.google.com/uc?id=1LwcKl_v6HOBCkTfVL87F9rt5zR-inPc-&export=download
 drive.google.com/uc?id=1LxJwOMhqcPnaro52iA3gE01rSXe-aHIj&export=download
 drive.google.com/uc?id=1LyXvS-PXg-TiQPKxaBHn8jUm5eU5kIV_&export=download
+drive.google.com/uc?id=1Lyf_0e7-pj75b8UhZSJjSkzX90N7SqHS&export=download
 drive.google.com/uc?id=1Lz_vclS8whSsV9BGVXGOvUFVHwx0Uivz&export=download
 drive.google.com/uc?id=1M-8fFNLJBAW5Qokslfff6oFigK-Jr5H_&export=download
 drive.google.com/uc?id=1M-eov2FLRq0FtKM_xQCTndhba5NK-uQx&export=download
@@ -42568,6 +42693,7 @@ drive.google.com/uc?id=1MCH1CYwRBCsegTTmfJRphNVvVkSXgEpp&export=download
 drive.google.com/uc?id=1MET8k0uAmAmlvPwaYIzHqcxmbqOKte6h&export=download
 drive.google.com/uc?id=1MG4EmDP0RGZKLKYtZ4QK6ACcnUJT1kt5&export=download
 drive.google.com/uc?id=1MH9RsRHyAk3IVhZjGL1R-DuOdM3w2bSu&export=download
+drive.google.com/uc?id=1MHQ9tNqy3Q0LO-AO6MYt7HjN5erwG0uT&export=download
 drive.google.com/uc?id=1MHbYWWav4_zXZrGs6QOe9hrkEBklPyT8&export=download
 drive.google.com/uc?id=1MKiXuOkMA9fV54REX_iYnPaT_R2mL7RR&export=download
 drive.google.com/uc?id=1MNOsr4RxBg4cqEAw6CR3e70SHy5MF_xj&export=download
@@ -42590,6 +42716,7 @@ drive.google.com/uc?id=1MZVnY-o02eYevmNswUUlAsR3FPxuTAXe&export=download
 drive.google.com/uc?id=1MZam5SADb2Xn-juh86JNL0t1YhIgeBSL&export=download
 drive.google.com/uc?id=1M_iFH5aPOfF3tCHdcgjX0mZCqj7b6ctp&export=download
 drive.google.com/uc?id=1MbkiXvjTQZaanuynsyUK5vpAVSNAytE_&export=download
+drive.google.com/uc?id=1Mbz191vJVESNHvqCs_pZTRUfDRnKp5AJ&export=download
 drive.google.com/uc?id=1Mdleo-81baCfTO9o_KzZO14wI6LXDzli&export=download
 drive.google.com/uc?id=1Me3gpIE4p67WoSeOmylUF3ZawE1G3Cnv&export=download
 drive.google.com/uc?id=1MeNf8-m5ifp0OjPaCyQiTrFgEWxniGOi&export=download
@@ -42613,6 +42740,7 @@ drive.google.com/uc?id=1Mq5E0AcCOeJaAMC_ySzw-LnisoG6lKTs&export=download
 drive.google.com/uc?id=1MqJOgRmY01M4Q7Izaq1ANUd9HNmYf2OS&export=download
 drive.google.com/uc?id=1MsW_4dj60UE5fMuWmTQyVJIKYD0t0O_P&export=download
 drive.google.com/uc?id=1MsbFiikAmvJp8oCYI5n1ljXDwL5klO_n&export=download
+drive.google.com/uc?id=1Mt0n18Ygg8LjNYMZAL2-rhnac1akjwRV&export=download
 drive.google.com/uc?id=1MuCbk77RTJQyT1rLLGM02MjPCPXFYcxP&export=download
 drive.google.com/uc?id=1MuaITdOawdf0NRP2xdH2aewVTPhvzfXi&export=download
 drive.google.com/uc?id=1MuwIko7GkPXd-TlWGF8fzp4e2p3B5Rzg&export=download
@@ -42655,6 +42783,7 @@ drive.google.com/uc?id=1NLBTPnCUiFk4fnJvxB_1Ki0wwG-g5rYe&export=download
 drive.google.com/uc?id=1NMQD8bGhlkIf5KJpg4ejyqLYpKU35xlT&export=download
 drive.google.com/uc?id=1NNmCjZoCKri_OMyBx_Pi4bnSsfwzr-8R&export=download
 drive.google.com/uc?id=1NO-y2zqWFKo5Zda2LZos_WHI71lOHlpx&export=download
+drive.google.com/uc?id=1NOPb1NP8ib0cPEdQiBuHrAHIRH0NQPAP&export=download
 drive.google.com/uc?id=1NOVdcc7rJinTf0qN7I9H3k94ftFemR13&export=download
 drive.google.com/uc?id=1NPYLjHq-bt9q_MWqUR-stYo9KBiqanqv&export=download
 drive.google.com/uc?id=1NR3MkX_z1AzeHCuZhyNRq_A6Xbxk5EmT&export=download
@@ -42686,6 +42815,7 @@ drive.google.com/uc?id=1NsW8EQ-nUVgwnRbf_KPurEUUo54QAuqK&export=download
 drive.google.com/uc?id=1Nvnjw9k4fANkV5jvrqfCECcYPZbcJ3T3&export=download
 drive.google.com/uc?id=1NwJHRBbDG5e6Jc-AHKSivj0C85RlKoo1&export=download
 drive.google.com/uc?id=1NxaTAmgLWla2_SEJ3CzEHggsSpQ_e60X&export=download
+drive.google.com/uc?id=1NyLAPTN0d_IwcxoFajkcAS7dlV6c07Ci&export=download
 drive.google.com/uc?id=1NyO20spb5n5m6j3a2P-GmKENsCyEUSYU&export=download
 drive.google.com/uc?id=1NzOdPO6JJ-EgCTEXM7-NvVYtMEaHAUnk&export=download
 drive.google.com/uc?id=1O-4KoWtaOt02x8-4owbQkkUtJuGqo3ou&export=download
@@ -42695,6 +42825,7 @@ drive.google.com/uc?id=1O2HXYuSbDiK5FlWEF-y3-BfODBoKwsQ_&export=download
 drive.google.com/uc?id=1O2a2Z5oo4L2lfSjBtv5C3F7sgzR82t5y&export=download
 drive.google.com/uc?id=1O2ohaIfztQzd1kJt91TBkAwgKabA7fnY&export=download
 drive.google.com/uc?id=1O3hltjl00YBbkhEbb56u2P2kB5KdJ7Yn&export=download
+drive.google.com/uc?id=1O44s2zNgE0bPE8yvvDnVypSQZfSXfS4x&export=download
 drive.google.com/uc?id=1O4tIUryQS1cuz2EmJ352wOs4gDLDXkK1&export=download
 drive.google.com/uc?id=1O4y8O7r42ir328RxDe1qdyfVPtOQhqyb&export=download
 drive.google.com/uc?id=1O5mZzrd6a4gEbayG8UmQ7bJVgVjdrq6o&export=download
@@ -42710,6 +42841,7 @@ drive.google.com/uc?id=1OBkZJJCUhaHuBj-z_zhEiU0l2xcj0Vpk&export=download
 drive.google.com/uc?id=1OD8wtcWfJG0Q3EgiPnbWXM1acOkXXmHX&export=download
 drive.google.com/uc?id=1OEM1qPlzql--KIjV0OCQbPwCr82ejF3Y&export=download
 drive.google.com/uc?id=1OESSvvy52oOfNSeA3piO5bKWxvSxSeGA&export=download
+drive.google.com/uc?id=1OHb68dx3La1WrT-TKn0amLvVd48wXBY6&export=download
 drive.google.com/uc?id=1OHhYIVFs6rsl-TFnj-hBeYw-AWutT3hA&export=download
 drive.google.com/uc?id=1OICC_HWBzO3YnGBY5IGa49AF2Vo_pPWd&export=download
 drive.google.com/uc?id=1OIlQ_75Vmq3wx4heH-4cs8fqLvDEzeCp&export=download
@@ -42774,6 +42906,7 @@ drive.google.com/uc?id=1PB7lrsK_FPeX7oF_DNjROPAtBi3Y3cuQ&export=download
 drive.google.com/uc?id=1PBKFiKnjSx4UEdo8--HYcT49MSNsqfm9&export=download
 drive.google.com/uc?id=1PCuF0MZnZ9A8WGAfMA8blOoaBJtxd7oz&export=download
 drive.google.com/uc?id=1PEHg848wjAGPA0YXqZYTncUKwRYKlqYw&export=download
+drive.google.com/uc?id=1PFfg0PGxwJDGUcspg0TFqKth5qr4jTjq&export=download
 drive.google.com/uc?id=1PHXRf1IUEz8FTsNJ-bCXbv9cSn99yjaX&export=download
 drive.google.com/uc?id=1PHiL3fHLPKJqFX_IHfwCokLottGMhEI-&export=download
 drive.google.com/uc?id=1PI7Jf6Nb2UdwdaIYZwzHyhKNER08EwD4&export=download
@@ -42875,6 +43008,7 @@ drive.google.com/uc?id=1QgciZfVV2pvcyUIs9r3PCSA860Wly48N&export=download
 drive.google.com/uc?id=1QiM5JX608FycCQgc3x86ZqYqN2KxSheR&export=download
 drive.google.com/uc?id=1QiuzHyjCkLYQkysneAJLD3kU6eqntqQc&export=download
 drive.google.com/uc?id=1QjYcICnDBCVXEtjMBbQyFMfkB0538AI_&export=download
+drive.google.com/uc?id=1QkHocPnhNf3RjYarO_EApYNZODKb3Xhf&export=download
 drive.google.com/uc?id=1QkUgwwqA39PiSDQFZOq1LCC2Y1ZhW4zZ&export=download
 drive.google.com/uc?id=1Qm1a5uEpQc_sBKYq4Vn86pBfsjV92J2D&export=download
 drive.google.com/uc?id=1QnKVa233eF7RDUo_UVFd9Evwz-Ixgvla&export=download
@@ -42924,6 +43058,7 @@ drive.google.com/uc?id=1RPG8HCw6342AYjbmdgjTt26fJ4QAjg9j&export=download
 drive.google.com/uc?id=1RRP7CYu_LcwVP4LalQVKnF6FMP2-un4W&export=download
 drive.google.com/uc?id=1RRUPFr7VzuobJSG18QYZlzs1xv8NkCYD&export=download
 drive.google.com/uc?id=1RShwesAaE0p6WjXV90g96nMAugzHXZpO&export=download
+drive.google.com/uc?id=1RUJwADhp6K0AzbersMvzoisVyZU7iBZN&export=download
 drive.google.com/uc?id=1RV-onIbmKYrmHSOHeceQWEbPNhrinJdC&export=download
 drive.google.com/uc?id=1RYDpyXJDl_MR5U7Ba0O7t2biPBarFrle&export=download
 drive.google.com/uc?id=1RYO-IXDku15_2cMo8ims3EOyPosFLtUP&export=download
@@ -42934,6 +43069,7 @@ drive.google.com/uc?id=1RdA8pVL_3_vCgU-49aT5uoQm0hsg0SGf&export=download
 drive.google.com/uc?id=1RdBOywoYiStmCqpTi9I7SLBIzczH7ayb&export=download
 drive.google.com/uc?id=1RdTsvsizzyckXzN0DoaS7yuY3gWuDf1b&export=download
 drive.google.com/uc?id=1Rg5AfSIvNzlLwrWG4OyaAgtcvAD928jA&export=download
+drive.google.com/uc?id=1RiZFXFQBPF-WCs1UHDd3EJ3nvDauXpVM&export=download
 drive.google.com/uc?id=1RjKeg_aPCtQcHotd3Ni-iXaHV_0qkEWo&export=download
 drive.google.com/uc?id=1RkPbUdDSNvpDJXxdXF7G266zNo9N5-HC&export=download
 drive.google.com/uc?id=1RlJWuE-HFAdq15rVypGq_jueYDcitZpI&export=download
@@ -42963,6 +43099,9 @@ drive.google.com/uc?id=1S0F9IwPeQIrKOWkwa3aXv8fzmvnAdEF9&export=download
 drive.google.com/uc?id=1S5Rvg0kDBx_fgaulWSqLgkBMB2woTvSI&export=download
 drive.google.com/uc?id=1S5xMKFHNFXyJ-_IN-x8lz_-canpTDRWy&export=download
 drive.google.com/uc?id=1S7BcSkYxZLDjnl9spvvuvQK2MRfR1J19&export=download
+drive.google.com/uc?id=1S7mGRi_SF9Wp5ISN-c2ojlH4O2IhzgSD&export=download
+drive.google.com/uc?id=1S8cPTRhyQzVK7zMuIiRazfn0JDdDawjy&export=download
+drive.google.com/uc?id=1S996irKIWWv3sRwU7zsYxD-9AA3jkDk3&export=download
 drive.google.com/uc?id=1SATvt0IGiEHjcs--zttH52SNkrIA6y8J&export=download
 drive.google.com/uc?id=1SCf8o-Kbo-ON-xNj27bjk7TwtC4nWFdJ&export=download
 drive.google.com/uc?id=1SCrFDhBp1iwApdfjo-1SJOYpQVQYIUT5&export=download
@@ -43039,10 +43178,12 @@ drive.google.com/uc?id=1TNufwvMf5miWDi8oeFZwBZpW7jmi7WoN&export=download
 drive.google.com/uc?id=1TPG9HT3ydtYTJQktCdDACDSw44Wdwi9z&export=download
 drive.google.com/uc?id=1TPP-NAwj1wNw3Q4SYU0UpVAkVdi7dpJ8&export=download
 drive.google.com/uc?id=1TPT1_bvUsaKfT4_S77XcABevi7e-FDfD&export=download
+drive.google.com/uc?id=1TPi_ktVkdrRCy3pqxJMltZcNTmsdlHvJ&export=download
 drive.google.com/uc?id=1TPzfju43YiBTeMeD9xE7BzMGF0qvHO5O&export=download
 drive.google.com/uc?id=1TQuh3_R3-tgrFYKnCVcZYfAflM-RhSx9&export=download
 drive.google.com/uc?id=1TSrUgmWYHSNapmdeGfHwgeHQoGqKQUCp&export=download
 drive.google.com/uc?id=1TVZeKTrtdVp4LqsMkzlBHUM9VgjGPSdR&export=download
+drive.google.com/uc?id=1TW96PYukCCzOwy7R436MV1pXRb2puAUy&export=download
 drive.google.com/uc?id=1TYPQUyATHPQU5EUiefhYQiBnRRt_xv60&export=download
 drive.google.com/uc?id=1TYPyNiig9RRLr9YptsiA79HcjfkRs68G&export=download
 drive.google.com/uc?id=1TYhuo74pG0v5XI54mAAgUGsoAuFua_b2&export=download
@@ -43050,6 +43191,7 @@ drive.google.com/uc?id=1T_C9dtkpX3TDolecFZUN6c0efoQxzfLs&export=download
 drive.google.com/uc?id=1T__T1Up7EHVrNJYG0MMHmj2hQMW-s4ix&export=download
 drive.google.com/uc?id=1Ta1j1SGfxAot0y6BYqJ5zlamKDeR-xv1&export=download
 drive.google.com/uc?id=1Ta349DmpPLXM_iSZ76-EmKBNqsMhHSfm&export=download
+drive.google.com/uc?id=1TaigIoDyt96Qbhw3b1yUAeNeG-PO-SLr&export=download
 drive.google.com/uc?id=1TcrBZgUr_nfGNMa0XAey0SEqv3jsTH7L&export=download
 drive.google.com/uc?id=1TfdHxT5QC-YvuhbFST5oF2mr0AGB7RHA&export=download
 drive.google.com/uc?id=1TfpegFTf6zt80W8NxwTwz04B9IiOUWec&export=download
@@ -43160,6 +43302,7 @@ drive.google.com/uc?id=1VBsagpwuEMu5YPmY0YZYOTqqMrCqcwdT&export=download
 drive.google.com/uc?id=1VCFOdUIsXu4xBKvqVvAhbmCQFiESooJ0&export=download
 drive.google.com/uc?id=1VCrN8rs_USpUC_YqNBtwPQgYfO7Qs8QT&export=download
 drive.google.com/uc?id=1VD8UxpWaR-5Ce-fgTeSld5-638_b2KJs&export=download
+drive.google.com/uc?id=1VDUxzMBBpukfU3kMdBmPYfYWG3Z89MM_&export=download
 drive.google.com/uc?id=1VDaETIUFOT5Sa9IYI0NxTn_3YcuZkJhy&export=download
 drive.google.com/uc?id=1VDaxpW7m6gt96RNvCZh8IgrRkS4pWnn_&export=download
 drive.google.com/uc?id=1VG_OEt470dY8Np15hwt6Y0C0wyOxVQGS&export=download
@@ -43203,6 +43346,7 @@ drive.google.com/uc?id=1Vme3AfDZUW1DQ-ydnh3KsEixdEPK5sZ-&export=download
 drive.google.com/uc?id=1VnXtRASNhUmwWkCa0RI6N8pkxgsRjRCE&export=download
 drive.google.com/uc?id=1Vr4aOCMUXmKkxaftR1Gek39R90rjEeEm&export=download
 drive.google.com/uc?id=1VsmZGe-IkIxM7hbIebflCJkD77TyRWsv&export=download
+drive.google.com/uc?id=1VsqE6iXIeinlkAuy2cXp3IHevJisL0Gb&export=download
 drive.google.com/uc?id=1Vtf3223_LsFOHjs7DnWm5oTSg1_jSsQ5&export=download
 drive.google.com/uc?id=1Vu-VjPgz4BNJm59dB0UcHP8aVUHFE0ra&export=download
 drive.google.com/uc?id=1VvaR5iZ_qgyMQCnBfNPsyPi9SwFdayVO&export=download
@@ -43212,6 +43356,7 @@ drive.google.com/uc?id=1W-q2wpxnYHaDET8y0-3nhYKAYZhVzTrZ&export=download
 drive.google.com/uc?id=1W0CpUDP8VNIzD7tMK8KmkvipxYwsdGC4&export=download
 drive.google.com/uc?id=1W10fXtwn3oqlmsRuY3FvBZIaXFI0Rx8n&export=download
 drive.google.com/uc?id=1W1C5UORkqlPn0B4m3cuoHcaLNT-Ma3wf&export=download
+drive.google.com/uc?id=1W1TNHeHclLDYqiQKHb8BxZDK5yTqr6cv&export=download
 drive.google.com/uc?id=1W2mkQ4qDL02W6jc4lMf_Rhe3xHLHMS1b&export=download
 drive.google.com/uc?id=1W3U7AHT5ksUOXx9Vu4UmDpnLBGT84h5q&export=download
 drive.google.com/uc?id=1W3aQImbe67n_ptWZ3iniwqvGUP-8DR1D&export=download
@@ -43334,6 +43479,7 @@ drive.google.com/uc?id=1XZ_GR4cIKsQ4mWob2TrWejnIx05dPBqS&export=download
 drive.google.com/uc?id=1Xag_2-x346e4KZmMN_GnRa-QeOupeae4&export=download
 drive.google.com/uc?id=1Xajo2gTaNQE5w2PS22PrIAq2t9qBTE64&export=download
 drive.google.com/uc?id=1XbBHXwMLqGuLNfRM0Do5WxOIf3GWzhIY&export=download
+drive.google.com/uc?id=1XclZGNQcpOS9_-Gp-kZ0p7Nzn7LQMwPx&export=download
 drive.google.com/uc?id=1XczjFsZuhVP_uwNISF_3M5uLN3Rl-ekz&export=download
 drive.google.com/uc?id=1XeVaqW9XgzT7lBEUooAMdmdd3NM1BZFz&export=download
 drive.google.com/uc?id=1XfY5gbyYynCkqIgg44pvKSgx0WSakDeT&export=download
@@ -43368,6 +43514,7 @@ drive.google.com/uc?id=1Y79HgJcC9lEYEmiLrfpQc3aD_MNi_Ro7&export=download
 drive.google.com/uc?id=1Y9R4Hp2P2NYzd2OTMKi1Jgg2q3Hy7J_M&export=download
 drive.google.com/uc?id=1YACRFQMd40ZW7L4l0bNjBXWZuzjC_Oas&export=download
 drive.google.com/uc?id=1YCricmfwNatdZeWHXAWYq4ZzCS1VbwZQ&export=download
+drive.google.com/uc?id=1YE1YFwFm_sHAWmelLJNPY03ytY7KZsvR&export=download
 drive.google.com/uc?id=1YEc1TKq3CVmnRQgZUGipCRYpCwrW-BoD&export=download
 drive.google.com/uc?id=1YGm6T_xuFWorJlYE3ME_sGJpggqHGepx&export=download
 drive.google.com/uc?id=1YHakqlz3yHtp3PzjmR8BM8LIbEsWh8x1&export=download
@@ -43397,6 +43544,7 @@ drive.google.com/uc?id=1YaDwJ0Z-7fawmiMoRpyKWLKJwR1F37or&export=download
 drive.google.com/uc?id=1YcNhFlp826LdCoOwvBI9-LslgicafLLx&export=download
 drive.google.com/uc?id=1YeZx6aEOPU_RuLl90a2F0vtbjc6efqUE&export=download
 drive.google.com/uc?id=1YfYRxFA_En6pnrCCcnAPoCPXmsFlhj4N&export=download
+drive.google.com/uc?id=1YgSHo_ejaRcEGzhVTgWmWu11HI9abPZh&export=download
 drive.google.com/uc?id=1YgXjDVa6M6QQzPQcw0-ElIpG3Yly-AW3&export=download
 drive.google.com/uc?id=1YhIJWkuPVqxcP9mFFIY38Q5dVK5GCaMF&export=download
 drive.google.com/uc?id=1Yi1-1E6iBzlb3Wst0b2O3VKvlbTrJhJ8&export=download
@@ -43473,6 +43621,7 @@ drive.google.com/uc?id=1ZoYjpEW_uH-uw-BFfZiDFQbJ7w92LjyP&export=download
 drive.google.com/uc?id=1Zr1gULp4E1MG_ckVGNBvaNQKrqTw-b9U&export=download
 drive.google.com/uc?id=1Zrokr6SSEGIAyC1JDR0rVMH0ujhqx8Uk&export=download
 drive.google.com/uc?id=1Zs22_rptPkq6NqIVpbQy372RpQyg2-v0&export=download
+drive.google.com/uc?id=1ZsGTNlGoFFC-Tgft7aEAND_S4wS5Yxmz&export=download
 drive.google.com/uc?id=1Zt54ExugOlgIh05-zgWvU678XmeJV4VG&export=download
 drive.google.com/uc?id=1ZuUgtmOGTYfyaFmaYG0D4SZyZ8jHncW7&export=download
 drive.google.com/uc?id=1ZvBDq1gPWhcekwop8hMB8NGU0EUGWA4I&export=download
@@ -43513,6 +43662,7 @@ drive.google.com/uc?id=1_PISvaz828yehiFIA9zuhRxaMOt1r3TK&export=download
 drive.google.com/uc?id=1_PYdaoXZ07l0ydgmdRt2OS0TpjHlHixU&export=download
 drive.google.com/uc?id=1_RUcdmZlweuau_xqz4WZsUgWgqvA3rG0&export=download
 drive.google.com/uc?id=1_S2BsKyArWAr81Qh-k07vUuoPsg-1nY1&export=download
+drive.google.com/uc?id=1_SANDmsaw1BaDGLHm1TWZEYZNiPzXGeE&export=download
 drive.google.com/uc?id=1_UfNpLjxrJfpzx9jCqym0fhc9J2Auad6&export=download
 drive.google.com/uc?id=1_WGKeE3c1mRZmX9pu3F7M_j3QMN4PdNQ&export=download
 drive.google.com/uc?id=1_Wpzgr6CKTd-Z67OgWIAZrsXAKxdI1lu&export=download
@@ -43590,12 +43740,14 @@ drive.google.com/uc?id=1aRRDhEDtRLp8FoaLY8WtR2skIwIJqoC6&export=download
 drive.google.com/uc?id=1aRdSU1P93-iUyGLWZNNSWQy3rn-fQVyw&export=download
 drive.google.com/uc?id=1aSfgl2gumDq784S9MLINVD_1nGvKCevm&export=download
 drive.google.com/uc?id=1aTV9g2091cwr4nzGAtpICCBkaUJ1D05z&export=download
+drive.google.com/uc?id=1aXBIwd6CIFjWQJN3n3LkIw3yhwBQRjTW&export=download
 drive.google.com/uc?id=1aXL9KJrZAPk3vTcc6uQLHBZxAOS29Jyq&export=download
 drive.google.com/uc?id=1aYwhnPiN5WP8xsSjXwYgjoPQmzxwryUp&export=download
 drive.google.com/uc?id=1aZ94Uiy80-vrWFMoEwvI3t4q28NtQodC&export=download
 drive.google.com/uc?id=1a_XVzujk3l0qZGj6Nu782QHXSgeNklWr&export=download
 drive.google.com/uc?id=1a_oS0Lh2_5W8I6fgxfdzdZhIuQDtLhD7&export=download
 drive.google.com/uc?id=1ab1RX-n3Dckkvom-vY-3-7P8jI656KnX&export=download
+drive.google.com/uc?id=1acNA2XaL_YP4fqpy-k_Ts-T2ccKk-WFq&export=download
 drive.google.com/uc?id=1adC9HT2eoy2TDHfUD22pTT2Joh77EcE1&export=download
 drive.google.com/uc?id=1adPD42qV2ODDnYlgeSfh39oRAdFS0Woa&export=download
 drive.google.com/uc?id=1ae_Wfs9xjVQ2PtYXVhSN5Ob4XT0W4FlP&export=download
@@ -43625,6 +43777,7 @@ drive.google.com/uc?id=1axW8u6Is_NbfXuVbMNteOmkVLVj6yto0&export=download
 drive.google.com/uc?id=1ay7bG0nOwiyT4vM6sqJ2uuLwzDnWwAQO&export=download
 drive.google.com/uc?id=1aySH7qiNzAsS-8LiKnCkNRsacMtM3BpD&export=download
 drive.google.com/uc?id=1azWe1gFlWO4TsOJWSMbUQ2z8e5gmh39y&export=download
+drive.google.com/uc?id=1azqHhPoTFevOW3WBcTv51q3E4abExZ3L&export=download
 drive.google.com/uc?id=1b-8NOYxNVIQeBQBD7z0b33oOgyQuZY4o&export=download
 drive.google.com/uc?id=1b-9cTfoXy_iuo9dc3jmwX5YbfSvvq1HA&export=download
 drive.google.com/uc?id=1b0eB3ZdB-iujwPgDty6TeY9X9I35kUQU&export=download
@@ -43767,6 +43920,7 @@ drive.google.com/uc?id=1cXF7lxatADWnBjv_dvToY1MQibAZT2Us&export=download
 drive.google.com/uc?id=1cXhlDNqc9Tn5SbfDXafxnkzJoVRHeKZP&export=download
 drive.google.com/uc?id=1ca5menf4kOCoSHkf-Z4S2QPI9hOTWk_w&export=download
 drive.google.com/uc?id=1ccB0WRoHRt4i_-dUPrOA74vV_kU_dL3L&export=download
+drive.google.com/uc?id=1ccLiEtHnCmWGsVia8uZyQZcZyWxZbwwE&export=download
 drive.google.com/uc?id=1ce0EbY7cBKANplWpnHxpu6ql-COI3RxR&export=download
 drive.google.com/uc?id=1ceSY11k9p8wRUwjxFb3TwfByWw3wxE-f&export=download
 drive.google.com/uc?id=1ceaSghfRqqLWAWiR_isPLoGX6bo_K4zv&export=download
@@ -43777,6 +43931,7 @@ drive.google.com/uc?id=1ciYDcwh-U6gwmekZWPTIw6aQny49_iZM&export=download
 drive.google.com/uc?id=1cjvOdPvodiKINiLEUAxoqU-mOlqKYRp6&export=download
 drive.google.com/uc?id=1clSLWnSrj84fs4ygPNPCrYGH6SyZpG0G&export=download
 drive.google.com/uc?id=1cma-Uo7idYugVXntsHRsM-SVxKx6nHQL&export=download
+drive.google.com/uc?id=1cn5ISDc2CQeyenvhyQxd2IHPIMBqleRG&export=download
 drive.google.com/uc?id=1cnT4JqQbx9TVqVA4ojRc5Yx1BwUf9Zon&export=download
 drive.google.com/uc?id=1co62F8wjpNmwjXQqde7opy9QV0PDg1Lx&export=download
 drive.google.com/uc?id=1coapQww6N_VhmT_b5vHcah3RAzaI6zkq&export=download
@@ -43814,6 +43969,7 @@ drive.google.com/uc?id=1dFXsK62AhHLBjph__IXYKJ9wQorWiHA1&export=download
 drive.google.com/uc?id=1dFt1y7__G-PZ8sprVbVZFx6GNzO3g3rK&export=download
 drive.google.com/uc?id=1dGj14Jlt-5S6sxfss5ypUAdnBkedhhvc&export=download
 drive.google.com/uc?id=1dGupsEs_lq-MrrMdvutQEs0Ri56-JwHI&export=download
+drive.google.com/uc?id=1dIfbX6Le_594WZUuWY3eYsNL12_-jRVP&export=download
 drive.google.com/uc?id=1dIuzNVK-5pFgGOVpEjiwxtwnKS7aF5gG&export=download
 drive.google.com/uc?id=1dJXkKajhjgdL514ZywXVe4ubMsKmQ-Oq&export=download
 drive.google.com/uc?id=1dL6N4wJ7ZcvbF071u4hdfkER58hjPnnK&export=download
@@ -43907,6 +44063,7 @@ drive.google.com/uc?id=1eSCIzF7GMly_rlShRgHHurkr3sGVJoBs&export=download
 drive.google.com/uc?id=1eSMS32sJEM_BMEsgr5lpiuDPWIZFIo6N&export=download
 drive.google.com/uc?id=1eSkzvaQvQ5qtngebE99g81bQcmb6mIjJ&export=download
 drive.google.com/uc?id=1eSrjCCG8gqn7HqhV3arirzACF00_F7Sy&export=download
+drive.google.com/uc?id=1eSsB0pLXZJHDeoLsJ72Lg21eieMbTO9T&export=download
 drive.google.com/uc?id=1eUmUaI9qe3eLvkrivS7tkhLtDOKcEMQi&export=download
 drive.google.com/uc?id=1eUnkq21Z6iTeA4xwKzYszl-frITiwGQi&export=download
 drive.google.com/uc?id=1eUq2AYrS8A36DqGRibhImGJaKfi-YnhT&export=download
@@ -43926,6 +44083,7 @@ drive.google.com/uc?id=1eeVXTymUVRdseM8VIUvfmzyCIionBe7U&export=download
 drive.google.com/uc?id=1eeeEtWehKe9w08UwqBqXYUyNjl0JRgy7&export=download
 drive.google.com/uc?id=1efHpRcVObVhMEORDOhNzn77QKvO4H44m&export=download
 drive.google.com/uc?id=1egov05yLHODFy1uTjtdtZuz9WgY2ktvJ&export=download
+drive.google.com/uc?id=1eh3cqzgCx2RPJmKMJ9qJwZVYDf5oKI6R&export=download
 drive.google.com/uc?id=1ehPl6RvWh01xy4fpQ3tuflyILQIaUY93&export=download
 drive.google.com/uc?id=1ekQah38waw5_zXMaxxZjAfQtCUwcJt_L&export=download
 drive.google.com/uc?id=1enLwRte0ac_mqudEYCQrRzHV-cerxzph&export=download
@@ -43958,6 +44116,7 @@ drive.google.com/uc?id=1f8i9wu_-uVx9LiotRS5XvH8fJGOZtTMh&export=download
 drive.google.com/uc?id=1f9dKCN-bhWjFVu4fgQmfmNvd6UOKVagI&export=download
 drive.google.com/uc?id=1f9v_HGz9np3vk7mcVx5Cv7RLtdp9vvbP&export=download
 drive.google.com/uc?id=1fCaCy1omrCp8Fs4Dh6ejKw-dXxcsGgZ-&export=download
+drive.google.com/uc?id=1fDGcdV9ALyNtlnxZZ2Mh3d3UptRWGggN&export=download
 drive.google.com/uc?id=1fDl_twHIOS7xe5JlCmBUh_Pw84JDrP-b&export=download
 drive.google.com/uc?id=1fFKteq9nl7Iu-U3-K1bgtIVjCrU0xHCC&export=download
 drive.google.com/uc?id=1fHEW1AB9IpIfqqEM3-KMqpZUpdR9Zu4K&export=download
@@ -43988,6 +44147,7 @@ drive.google.com/uc?id=1fciyos6ugTzW81dGOYBDgm-nwDErRJzY&export=download
 drive.google.com/uc?id=1fdKlhH_XACn1X-m5YF1MyzUQGXPjfQHj&export=download
 drive.google.com/uc?id=1feGlTsZ5SVEQJ7DjblFIefK19QUgEaC6&export=download
 drive.google.com/uc?id=1fhBqAhYwsjVjlltPPMMcXHwuOLKvj7YH&export=download
+drive.google.com/uc?id=1fiziqiVBMyQmOBhCOdMq6s0AYH0NF5Mc&export=download
 drive.google.com/uc?id=1fjBnQFa2y7mxGtmpZi3qSq3rSQxxTxvs&export=download
 drive.google.com/uc?id=1fjk21gwexRdwB-GIV9aI_5-9djqFstVq&export=download
 drive.google.com/uc?id=1fjpGevpzfUAu6NcxIdYI8MgIkxqqY2Kc&export=download
@@ -44020,6 +44180,7 @@ drive.google.com/uc?id=1g5KC-Z44jlPfoAFBh8FJy6wiLjhk3h5K&export=download
 drive.google.com/uc?id=1g6GyfH_736VhshKQ19HCdLSOuAqJ-1CA&export=download
 drive.google.com/uc?id=1g75HDMXisDWF3eumZYprC6leqc3T0v16&export=download
 drive.google.com/uc?id=1g8rpH8GIuvjl0eUJUt8vKKldzenBdGke&export=download
+drive.google.com/uc?id=1g9XNPOOFQzRhz0TQmswKWxcYZQHGBABy&export=download
 drive.google.com/uc?id=1gABgiM-mXJTJnVO7XmsJCJi9Q0Htk9A9&export=download
 drive.google.com/uc?id=1gC6b20cm7H1S1Q-3EWQdDyinmw8urEeB&export=download
 drive.google.com/uc?id=1gC9ISarRpol8YIcjhHokRS5CKlWLg3iY&export=download
@@ -44064,6 +44225,7 @@ drive.google.com/uc?id=1gd7yRhSgV2pXD9wiNHeh1mq-L0DWIzTm&export=download
 drive.google.com/uc?id=1gdh1P2ShNYcJifGvRmk2_6s9jWoAh71j&export=download
 drive.google.com/uc?id=1gfBAuNlfQ144i4PTJpOF0C9IpbtoZYz3&export=download
 drive.google.com/uc?id=1gfC9KlrYuPoExi1dDVl05vfLnonvQwwl&export=download
+drive.google.com/uc?id=1gffJIOE8_1uAePD4tLyTYwcAaOLuac0G&export=download
 drive.google.com/uc?id=1ggyonh7ZNDbGZuhnLl9lvT2vVRBS_HTm&export=download
 drive.google.com/uc?id=1gibSS5y_lMaX8Mk5XUtNbs1nqJu84Nfr&export=download
 drive.google.com/uc?id=1gkHnRD7hYy39_fiwHcT5A-LprmNvNZhm&export=download
@@ -44178,6 +44340,7 @@ drive.google.com/uc?id=1iC62AIer-dUEPBMG0hyl8eMuUJqwcJub&export=download
 drive.google.com/uc?id=1iCbNo_uAliGeC0VKedH-uNWnpvaZ-zcq&export=download
 drive.google.com/uc?id=1iDWG4JI8akqMs8seKTlnL0TZM_GLoOTY&export=download
 drive.google.com/uc?id=1iEGJt_X3lDiqDY8RxTOOhKfrtb6iqxZw&export=download
+drive.google.com/uc?id=1iF9qo1GPLx2dXykgMgyIaHgQNPzc5qSD&export=download
 drive.google.com/uc?id=1iFK4yAjX-ITShNehyzK5HEjWJGX2LzvT&export=download
 drive.google.com/uc?id=1iFqcYLKLJe_5rXjXX3nRCoaKPTSstLbB&export=download
 drive.google.com/uc?id=1iGbQCVbDTAwbQ1jmMSGVBu_Q1fpsUkvU&export=download
@@ -44195,6 +44358,7 @@ drive.google.com/uc?id=1iRJFzVyIUoTRIa3RSyvYNEQ5Fjq8VcWw&export=download
 drive.google.com/uc?id=1iS-ok1dhnTqml_4MgNShYXv3XATzQSUj&export=download
 drive.google.com/uc?id=1iSbfblh5liDomvgK7NYFzFz9TUX-km8f&export=download
 drive.google.com/uc?id=1iUePFGW1zq055VoDM7KwKgdFqyAZ2oHt&export=download
+drive.google.com/uc?id=1iWdRuelOsIpAaxDuTCgOkgGOSnSjIXf8&export=download
 drive.google.com/uc?id=1iWq02pQ71-vAg8NMkV7hutFYBeRqnTl0&export=download
 drive.google.com/uc?id=1iXYOaj1cgSz3QjzcrFQUVfDAgDO9SqVR&export=download
 drive.google.com/uc?id=1iXeoHTRthWxkNja4sN8b9SwO9A5TLAQi&export=download
@@ -44212,12 +44376,14 @@ drive.google.com/uc?id=1iiBSWfHLCnm9k0jjOvHZpieV9psxkppG&export=download
 drive.google.com/uc?id=1ilVZgKq8BzMkaNKORi_fqOdslJvlWo2Q&export=download
 drive.google.com/uc?id=1imNvzBsxxb4vKFWEJDzE4O2478Fd6h3j&export=download
 drive.google.com/uc?id=1imjQ8bvSdgbWxR5WCgUYFQlXIrQE_xtK&export=download
+drive.google.com/uc?id=1ioL9Dg8hiFg2vpsVvQH6nPz-lK3tLqWe&export=download
 drive.google.com/uc?id=1ioxK5WODb5f-RHaRMGH86hxqcLfQczpS&export=download
 drive.google.com/uc?id=1ipEVmQoS4PRkppiXFbdj3VF4yGUvAEZ5&export=download
 drive.google.com/uc?id=1ipgHAWZwdmFrwkxi-b6JgI3KBymFAdYf&export=download
 drive.google.com/uc?id=1ipsLidamfTmOTOQPUmEHjADNWhGcqCwZ&export=download
 drive.google.com/uc?id=1iqKBRHoWLXZLGSdhrS3k1x9b5PRSWqpa&export=download
 drive.google.com/uc?id=1iqumJKoZhVtTD5_AJEqLfbT4MLS_3IlS&export=download
+drive.google.com/uc?id=1irPZeRZlHPTxjYGPM39M1f03L4vq7_YF&export=download
 drive.google.com/uc?id=1is50AuoE8w1c1qkijNsAvaqsikwarw2W&export=download
 drive.google.com/uc?id=1isdtOqalE4AaTPSe9X82KDdeVeujACPD&export=download
 drive.google.com/uc?id=1itBpvjRqAmddqT6HYL8hSoveWepuOdQr&export=download
@@ -44234,6 +44400,7 @@ drive.google.com/uc?id=1j2LJd7AQ3suc9KlUQhaQwZQPW-gUgaVg&export=download
 drive.google.com/uc?id=1j36SkMqXOVG4urxpLMRYq66eD3aT4Rzf&export=download
 drive.google.com/uc?id=1j3rxjSvi0mK5cV5Jnx9_W04gqgGl7gT7&export=download
 drive.google.com/uc?id=1j3ulMYEyoRkp2DJACKt_7KMXjiLV0tL4&export=download
+drive.google.com/uc?id=1j6IcnnO0Aj3glnKeV-txgdKPXh5SaN1l&export=download
 drive.google.com/uc?id=1j6VTOoVJtqMPQt1oMjMwMgHKC9Oi-DV4&export=download
 drive.google.com/uc?id=1j6tM-E5UgR6cXPZZ3asg2v8GabK2d1HX&export=download
 drive.google.com/uc?id=1j6vY99dG3i4hFveWAIFc36SSR7yoL8dW&export=download
@@ -44258,6 +44425,7 @@ drive.google.com/uc?id=1jJxqm588wRFacZ6hxdS1mv1ldDKXLKdJ&export=download
 drive.google.com/uc?id=1jMZfbNN4PgaQENRPpCQqqBMzHQIu1dQZ&export=download
 drive.google.com/uc?id=1jNo7l46KQEJCK3wGUc_CY1jWC8zZCo75&export=download
 drive.google.com/uc?id=1jRfLFLkHoQd8QhjUE2JQ4AKVXSsuXmYX&export=download
+drive.google.com/uc?id=1jSU9xmlfrEa5upCiQvCeel8nVNKzfrPr&export=download
 drive.google.com/uc?id=1jSuyzPdZcamGpIOqA5TKWH5elRibizLD&export=download
 drive.google.com/uc?id=1jUJ2k2OvAf7zRNptC1ew-roJJ_UMo75r&export=download
 drive.google.com/uc?id=1jUgTzqLtCboj7sy7cbzz9EEHFCFyuYEv&export=download
@@ -44280,6 +44448,7 @@ drive.google.com/uc?id=1jbNTkf9K128_U3eHKSfUbefKTUHBhb7f&export=download
 drive.google.com/uc?id=1jdypednWvLkc3XZUsxVYg4euhBhxg_GY&export=download
 drive.google.com/uc?id=1jf5cHQvhLaz0Q6mJrxby1q8-45nrqVKz&export=download
 drive.google.com/uc?id=1jj3c9ZknS1lGDeu7bE00Xr3m2C5_IxJR&export=download
+drive.google.com/uc?id=1jlKpcTZknDWOVpvTXYllbXd6NUJLOamT&export=download
 drive.google.com/uc?id=1jlarG2JCQLzbxxr-7nKJxGlGmZT6Mr6V&export=download
 drive.google.com/uc?id=1jlzchu1jGj8HqWLz78sWus5ncsF55UlB&export=download
 drive.google.com/uc?id=1jn1Xi4gdczuKKD_MO36D62NQjLCySJwY&export=download
@@ -44402,10 +44571,12 @@ drive.google.com/uc?id=1lDt6j7UNpL9IH2co_hr8o0fjN8XHIDcP&export=download
 drive.google.com/uc?id=1lEWaqQej8j3rtUBxDxMdSdYS8ufTPWV0&export=download
 drive.google.com/uc?id=1lF8PtSRl_yk4vazpWb-6n1cYuKslsUjP&export=download
 drive.google.com/uc?id=1lFiajQAWMvw0gCtYM_fgAZvcCoDANJzt&export=download
+drive.google.com/uc?id=1lFrNij9lhUQAdVJw1DHvVspTzEyfLQnB&export=download
 drive.google.com/uc?id=1lH_OU2tJQ2FRzlcPv5KgBYJerozd2klU&export=download
 drive.google.com/uc?id=1lIArtBVpEbN7h96Dm6QzJDhWiLXAN0UR&export=download
 drive.google.com/uc?id=1lIyNfB2sQGUVYz73A7r2Q957nWovVNIx&export=download
 drive.google.com/uc?id=1lJrOSV7Nw7hx1rNeukUZDwYsQI6557Gk&export=download
+drive.google.com/uc?id=1lKDMOUB6_94Qo4XMQySVSWpBM5-xR_aJ&export=download
 drive.google.com/uc?id=1lLe1Mbtaj2XJkKayasAqd4-GvRXljg-7&export=download
 drive.google.com/uc?id=1lLusYJlbboI7N1EXd49l_eOZBFtPlXob&export=download
 drive.google.com/uc?id=1lMFAItqY282awHzRvJUPCGT0H_izwjn9&export=download
@@ -44464,6 +44635,7 @@ drive.google.com/uc?id=1mBSRZ0vUBr-e1FFmbVoWkV3E7j8fTOoX&export=download
 drive.google.com/uc?id=1mCL1gsaiy_uZWuFJOvAOfRMVWD-Vi4Sk&export=download
 drive.google.com/uc?id=1mCOpOKnLq-mNpnZmb7b_NXFqzH1JvLT8&export=download
 drive.google.com/uc?id=1mCRep_HlK_bjhvLfKrxWOzijmMKSHp8Q&export=download
+drive.google.com/uc?id=1mD5PFNaCbC3L0u1RJ613ABNqooz9YOYK&export=download
 drive.google.com/uc?id=1mDqWoPKrjY1ju2Ad8p9gy-ehlVHQL3Ba&export=download
 drive.google.com/uc?id=1mE0AakTY-UuZFKmEdRdUWlnkaco6IcMk&export=download
 drive.google.com/uc?id=1mFd0lbCI3-r5ndmYYrceVuZCf0ffK97J&export=download
@@ -44472,6 +44644,7 @@ drive.google.com/uc?id=1mHLGY-EgRzf9T_WnI_5GHRepH24tK0m3&export=download
 drive.google.com/uc?id=1mI6-jzyKs8taDbHaVse3tF692e0ry6-s&export=download
 drive.google.com/uc?id=1mN7kxeK2yFIoQ81h4AovxgFNUhBlZg2K&export=download
 drive.google.com/uc?id=1mO_GsVGiF6usPTTjtnlcZC-jWhju-KmL&export=download
+drive.google.com/uc?id=1mPb4VKAZIpjKSSWRQJVs6Cp6OCZD7wvS&export=download
 drive.google.com/uc?id=1mPhmhoTmDRyThvLfTvbSj9F-IPNHV9h7&export=download
 drive.google.com/uc?id=1mPzVSVCNs1zNI26tkkw0RGq6rTyfIzoK&export=download
 drive.google.com/uc?id=1mQDFjp9qYtqLGmvb6h8kah6v7QADIKkW&export=download
@@ -44538,6 +44711,7 @@ drive.google.com/uc?id=1n5TdQoevlddp1FI1_JSTlZmLRJ3AFb8-&export=download
 drive.google.com/uc?id=1n83CTgdz8cqmxFI1yrv6gOyn0RXzXpwC&export=download
 drive.google.com/uc?id=1n97kBQdmkl7szq8xVJH2qiThjzUVTHtZ&export=download
 drive.google.com/uc?id=1nBwIufA7Hj16ubm0usGrlS6P7U1-Acx8&export=download
+drive.google.com/uc?id=1nEiACsVZJxKPKaeAIzzGrh2BYr9tenXI&export=download
 drive.google.com/uc?id=1nG0_hVBkD2bGix9GJ2MNGn5YkWd3N0nk&export=download
 drive.google.com/uc?id=1nMF-gZIId--zz44rnRrjNtr6huv1KANp&export=download
 drive.google.com/uc?id=1nMM4lrLoHdiTIAbByi1nerr5FwSszkvd&export=download
@@ -44549,6 +44723,7 @@ drive.google.com/uc?id=1nPOqxubbX-NA_vXznV-B90MJ6g6uKiTO&export=download
 drive.google.com/uc?id=1nRYmTL1AqTh4U8oO1OUa2Ukiy-BAixTb&export=download
 drive.google.com/uc?id=1nSMKo9_WPWP9z4Jb9b-5kn5zo423QqzU&export=download
 drive.google.com/uc?id=1nTZHyP7RA6xdY6P1WHytRjAxrzVBbTcY&export=download
+drive.google.com/uc?id=1nTwTtqN5EBNuaxZEdvj71aHtDOTm8s2p&export=download
 drive.google.com/uc?id=1nVi_3VGgADFq5Zofvq1osjo8xfH3-pTB&export=download
 drive.google.com/uc?id=1nWC6V4_jrXDwO9vLI2ZvCf9E1f1ma-aq&export=download
 drive.google.com/uc?id=1nX4qvP7aPYNMI7FV45xfNW840yqsvD2x&export=download
@@ -44608,6 +44783,7 @@ drive.google.com/uc?id=1oCvTAqKWnr3DIter-aKsTMGJryyK-H8q
 drive.google.com/uc?id=1oDIs68YyDINsEAJtZEDJu5DIcgbUsn3b&export=download
 drive.google.com/uc?id=1oDeW4wQBFzRQOxC-NCaVI_iG95xbsg-G&export=download
 drive.google.com/uc?id=1oDexipv9e37zAtfEDkv7zkRxvI0BlueD&export=download
+drive.google.com/uc?id=1oE5CyxxObqvNcnC3CM_Emm2Hd_m8ec7m&export=download
 drive.google.com/uc?id=1oEOhAZrcBByqcG861_53kibQ4ogdxKxC&export=download
 drive.google.com/uc?id=1oGBQvkwsuMvm_sYPgKFKOamD7YACqZ5q&export=download
 drive.google.com/uc?id=1oGFAsJwa7-C-fOiSwaNJOTFkiYQIe_FT&export=download
@@ -44678,6 +44854,8 @@ drive.google.com/uc?id=1pAJ3uFzDSCmbBSUrR4s6d3oHwx98t9ec&export=download
 drive.google.com/uc?id=1pALEqqtgLr--kXQXL8mQC9AzadZ8CTNL&export=download
 drive.google.com/uc?id=1pAnHNyWMXujUgekT0wJibIGLBEj5N38l&export=download
 drive.google.com/uc?id=1pAnPcsSRM4l46X3VFvbusgqZ1GXrfu2y&export=download
+drive.google.com/uc?id=1pCcx1PH1i5ZmAxYUFWWVxWDB_kVdGdwB&export=download
+drive.google.com/uc?id=1pEr7rbgoq6CYiJprApUJOinw3Yppj6oe&export=download
 drive.google.com/uc?id=1pF3xeKkSSaOPolmqrkVIcPa-gnlGOT3C&export=download
 drive.google.com/uc?id=1pF8n4qFu9Qdo9bGSMaX2BkCZZ5GwhMPE&export=download
 drive.google.com/uc?id=1pFPPUyWw4HX-LDPXZnA9uXlT87IVTJ8O&export=download
@@ -44749,6 +44927,7 @@ drive.google.com/uc?id=1q7UfnBq-GtmQoPVxxjfsAFX0jztrW4jC&export=download
 drive.google.com/uc?id=1q9fs0OUoG_ZUkdaq7JN0xcSeb5ual1qL&export=download
 drive.google.com/uc?id=1qA9eXBEZn5bnoBbcjeghZ0-ZR9j4tiPh&export=download
 drive.google.com/uc?id=1qAAkQmXyqVC00nx6jLTT9HPMaQJCspnT&export=download
+drive.google.com/uc?id=1qAKV-zaw5uRyR3GpO7KPCwsU9gkm09Qu&export=download
 drive.google.com/uc?id=1qAmGwQpcGAhAdNzdzwbkUf3XUQobdd35&export=download
 drive.google.com/uc?id=1qCr9IfHuKke-EriWmRXzkXU_4zBCDab4&export=download
 drive.google.com/uc?id=1qDr6sri62tDL1ZbAWj340V4__SSY1Wvx&export=download
@@ -44855,6 +45034,7 @@ drive.google.com/uc?id=1raR0hSkVR7DyXYC4XbxJPyx9j6fSFh7K&export=download
 drive.google.com/uc?id=1rbRrJ4qKQjqeLvpTCbJENyZu5VJnGSSw&export=download
 drive.google.com/uc?id=1rbi4tzEZJddnHxtUSv5XjcZ-8JkYaqkv&export=download
 drive.google.com/uc?id=1rdUDkN-H6m8ykh-CIwZwaJWUeiewsu-X&export=download
+drive.google.com/uc?id=1rdZ9utaKBTR0rI9pGcCVFw0GcT9Ubzo7&export=download
 drive.google.com/uc?id=1re0iNimObZtMtknbDVlmsbVjfMC9cU96&export=download
 drive.google.com/uc?id=1reekt4JbkNmkSNaYifSDT4cfmMtOCdpX&export=download
 drive.google.com/uc?id=1renpv_XAGl6mZvu3raG447bVVzoetAeA&export=download
@@ -44883,6 +45063,7 @@ drive.google.com/uc?id=1s3s13786WortYq8Z0KYNuERxvQAXNg1j&export=download
 drive.google.com/uc?id=1s5YQ41J30ZE5OPV4VP6Vhn1MzZrEm5tT&export=download
 drive.google.com/uc?id=1s5yWVDmcjQfYmAisNBKQSqtFnRrQdB9f&export=download
 drive.google.com/uc?id=1s6UPKB2zTEtMklcESc2Kfi5A_NcdlEGS&export=download
+drive.google.com/uc?id=1sAA91U3XD3OS0Um_aC7Fg6YJB9iepUxd&export=download
 drive.google.com/uc?id=1sAJwsTqqo6E5a-PtxBX1bAEG-peNu1kF&export=download
 drive.google.com/uc?id=1sALQeN1LQxagtuUNvBSVM3zTKwjqMBdD&export=download
 drive.google.com/uc?id=1sAgp9b3UopP-xWBBBpu-f2QjyNXoB_PG&export=download
@@ -44913,6 +45094,7 @@ drive.google.com/uc?id=1sUVBGdKj_fnz5I6T_RO_jQaNMqmeG1oO&export=download
 drive.google.com/uc?id=1sWBxSWu5W0wWJC7voEy30Fx2NpcC3spl&export=download
 drive.google.com/uc?id=1sWnJwRfYOUKRPVtRn0h9uLcIaE09oKfG&export=download
 drive.google.com/uc?id=1sWxMcCvXMgV8V0lAaCn62wJbesn6zdfB&export=download
+drive.google.com/uc?id=1sXaGRXAA_HTBl7pJ0LGVIJYZ9EccWJa7&export=download
 drive.google.com/uc?id=1sYC_iXIHwGJ6Cg-PvYy8lOQ1w4MrBIl2&export=download
 drive.google.com/uc?id=1sYw5mZxHZkDDk1wYp0IqJb3Z4eRns4m9&export=download
 drive.google.com/uc?id=1s_SiGcJ7Xhj3yHTN3p4glK4-B09P_PXU&export=download
@@ -44928,6 +45110,7 @@ drive.google.com/uc?id=1sk2GbLUvTFdNeMjXpiT78lGCs4esXtHe&export=download
 drive.google.com/uc?id=1slIYSwI3a25OuyfCvQgcSUWVSOxuJMDH&export=download
 drive.google.com/uc?id=1smkQXVmMu8ArWLCwK0v5jXvKX_L0XKXe&export=download
 drive.google.com/uc?id=1snIRE4OITkVYDdhi-a3ati_ZFKk7UoOx&export=download
+drive.google.com/uc?id=1snrBLsfs9VWR5AQicvJlMUn_9o3FFve0&export=download
 drive.google.com/uc?id=1spKSYsEANVeRHIZZ420ZrGPv-tGu_fNM&export=download
 drive.google.com/uc?id=1ssUSk--OPSJiaW9ozJo9oNqoKtX9757a&export=download
 drive.google.com/uc?id=1ssgXLTq2W8X36-5cwne4w5QG-jJ9gdZl&export=download
@@ -44964,6 +45147,7 @@ drive.google.com/uc?id=1tCDzrHXpyAFJcq9SHL5ddLPfxhQrIZpY&export=download
 drive.google.com/uc?id=1tDyb3hG7OvtsNRCdpqM_AIZKRQwYW8jb&export=download
 drive.google.com/uc?id=1tFOyjTlb9joa0GzB_EEkQBj2xO5kVNNi&export=download
 drive.google.com/uc?id=1tFvk3NHZdJ_9Gm9IJkwtiuRbR8o-Lps5&export=download
+drive.google.com/uc?id=1tG9UM0lGADzBJHajcAI2ErK05ai-NvEo&export=download
 drive.google.com/uc?id=1tGehzRJVvS_C_6n-0T_hRiHKwjjblLcV&export=download
 drive.google.com/uc?id=1tIpxJwxMIoFIyaBtUEEwbOqRD4ky6JXe&export=download
 drive.google.com/uc?id=1tJ8iNQLeCfUTvDv_hePAqikVUdWERjeN&export=download
@@ -45053,6 +45237,7 @@ drive.google.com/uc?id=1uRFnFd21ttBXPwwlU6g0fDOQPTWnWqHD&export=download
 drive.google.com/uc?id=1uRec814_CJi_R5UzJKIlDXC4xOIngDzw&export=download
 drive.google.com/uc?id=1uS0Za8d_X09VccXtmmYRvMP_FRj0pWbs&export=download
 drive.google.com/uc?id=1uTAYL_rhFEDwHUp2AMMkm171IsjXYDsa&export=download
+drive.google.com/uc?id=1uTWcABYrIlf-rM9ihHFkYVNdLgXr9aNf&export=download
 drive.google.com/uc?id=1uWcup891cgUV_PVyiPOqpheJLGJ_LRKg&export=download
 drive.google.com/uc?id=1uXL5bKHVUSfDxhAZwJ7MXxsD6mwoGPMr&export=download
 drive.google.com/uc?id=1uXbMZheulMn2ROioqhZkgnvJVNQIigDj&export=download
@@ -45394,11 +45579,13 @@ drive.google.com/uc?id=1zGb9BtGWFeaK3u_fIkqMpUqQ7Z3uVJko&export=download
 drive.google.com/uc?id=1zI8K7ghEYExaNZ80SQ_2nm3SIjaQo-Th&export=download
 drive.google.com/uc?id=1zKjtbh4q75hp7sU3FeQcJOaGneD0H7Ng&export=download
 drive.google.com/uc?id=1zLCBnODEzYQR1KNVjLXb8RPVh20fGvwB&export=download
+drive.google.com/uc?id=1zLQBgYxBZpj1A34ub4EUnahIFX2a4Ytp&export=download
 drive.google.com/uc?id=1zLQVXcc3IuJp0ghPtEFYSXhLWfsj4yvd&export=download
 drive.google.com/uc?id=1zMiJvq7XmhedNpurXh7-op36Doe6mEOz&export=download
 drive.google.com/uc?id=1zNQOkORJ6jVYXP2MFYwFYGv0LRHlzcV_&export=download
 drive.google.com/uc?id=1zNdsqXtIo_0BlST2m_IjPj2zrsu2gJ7j&export=download
 drive.google.com/uc?id=1zO79GWv3925hGQEfQphaAUq8GmfHGGZ9&export=download
+drive.google.com/uc?id=1zOAa0crJJyjs3DTQk_M_ZqG9gStxV2FG&export=download
 drive.google.com/uc?id=1zOJDyrI1VE9smFxfN3o3BUwAm_b9PyQM&export=download
 drive.google.com/uc?id=1zP8hB0-yF4LMrNRdFHUo_pn-wLQoNMpU&export=download
 drive.google.com/uc?id=1zPo5M3k2Fz9kcSvcbBx_1S_336AI2Joz&export=download
@@ -51066,7 +51253,7 @@ fastpool.ir
 fastprotectsolutions.com
 fastrackapp.es
 fastrxtransfer.com
-fastsoft.onlinedown.net/down/onekeyyijianhuanyuan.exe
+fastsoft.onlinedown.net
 fastsolutions-france.com
 fastter.allsb.ru
 fasttrackorganizing.com
@@ -55254,7 +55441,8 @@ greenedus.com
 greenenergybarrierofatlanta.com
 greenercleanteam.com
 greenertrack.info
-greenfenix.com.uy
+greenfenix.com.uy/blogs/jmtov-6hww10-njzzbgtd/
+greenfenix.com.uy/blogs/trust.myacc.send.com/
 greenfieldsromania.ro
 greenflagtrails.co.za
 greenfood.sa.com
@@ -55667,7 +55855,7 @@ gulungdinamo.com
 gulzarhomestay.com
 gumiviet.com
 gumuscorap.com
-gun.com/wp-content/uploads/2019/09/fct.php
+gun.com
 guncelkadin.org
 gundemakcaabat.com
 gundemhaber.org
@@ -59255,7 +59443,9 @@ indonesia236.000webhostapp.com
 indonesiaexp.com
 indonesiafte.com
 indonesiakompeten.com
-indonesias.me
+indonesias.me:9998/333.exe
+indonesias.me:9998/64.exe
+indonesias.me:9998/c64.exe
 indonesiaumroh.com
 indoorpublicidade.com.br
 indoqualitycleaning.com
@@ -65878,6 +66068,7 @@ lmkpartners.com
 lmmmgroup.com
 lmnht.com
 lmntriximinds.000webhostapp.com
+lmnvdsas1dsfsdgsd0rebvsds5.s3.amazonaws.com/FacturaJaneiro-752698-2019-10_5.zip
 lmogwrnu.tk
 lmrcaorgukdy.cf
 lms-charity.co.uk
@@ -70647,7 +70838,7 @@ moscow11.icu
 moscow33.online
 moscow44.online
 moscow55.online
-moscow66.online
+moscow66.online/KeyMoscow55.35.exe
 moscow77.online
 moscowvorota.ru
 moseler.org
@@ -70777,6 +70968,7 @@ moviemixture.com
 moviepagla.ml
 movies-download.in
 movietrailers.cf
+moviewavs.esy.es
 moviewordpress.thandarayethein.me
 movil-sales.ru
 movimientoeco.org
@@ -74937,7 +75129,10 @@ osethmaayurveda.com
 osezrayonner.ma
 osgbforum.com
 oshattorney.com
-osheoufhusheoghuesd.ru
+osheoufhusheoghuesd.ru/2.exe
+osheoufhusheoghuesd.ru/3.exe
+osheoufhusheoghuesd.ru/4.exe
+osheoufhusheoghuesd.ru/t.exe
 oshodrycleaning.com
 oshonafitness.com
 oshorainternational.com
@@ -75742,8 +75937,10 @@ pastebin.com/raw/03LTBDsn
 pastebin.com/raw/06YN9uD3
 pastebin.com/raw/09HZAvW9
 pastebin.com/raw/0CivwdGu
+pastebin.com/raw/0LfEkEjA
 pastebin.com/raw/0Y9YX53Z
 pastebin.com/raw/0YTqaBmJ
+pastebin.com/raw/0YdyRCYf
 pastebin.com/raw/0hJ8tR0H
 pastebin.com/raw/0jJWh1RH
 pastebin.com/raw/0php6n7G
@@ -75798,6 +75995,7 @@ pastebin.com/raw/4t3DrKjv
 pastebin.com/raw/4xBpcrnn
 pastebin.com/raw/57FHbDxt
 pastebin.com/raw/5KReLkBv
+pastebin.com/raw/5UdPkfKK
 pastebin.com/raw/5Xq2Gj3W
 pastebin.com/raw/5c7MiCyA
 pastebin.com/raw/5eP8tuUN
@@ -75814,12 +76012,14 @@ pastebin.com/raw/6PbH2wVe
 pastebin.com/raw/6R76DLmU
 pastebin.com/raw/6V5xjUT2
 pastebin.com/raw/6gF86SB7
+pastebin.com/raw/6mEHrtKV
 pastebin.com/raw/70jFTt5H
 pastebin.com/raw/78rAkiHr
 pastebin.com/raw/7GT7JVC6
 pastebin.com/raw/7PkQrdFL
 pastebin.com/raw/7Rn9NazM
 pastebin.com/raw/7T1A46D8
+pastebin.com/raw/7i3JCmtU
 pastebin.com/raw/7pUHhvcD
 pastebin.com/raw/82NPcP37
 pastebin.com/raw/8AWq9tPE
@@ -75858,6 +76058,7 @@ pastebin.com/raw/B1XWipLA
 pastebin.com/raw/B62DYPCq
 pastebin.com/raw/B9WYiKEa
 pastebin.com/raw/BJdc0ikm
+pastebin.com/raw/BMCkd14e
 pastebin.com/raw/BXkpdww3
 pastebin.com/raw/BajCgNu3
 pastebin.com/raw/Bc0eYuB3
@@ -75965,6 +76166,7 @@ pastebin.com/raw/KgNuSJT8
 pastebin.com/raw/Kgr3ZPs7
 pastebin.com/raw/KiQt4Adg
 pastebin.com/raw/Kk0RN0BA
+pastebin.com/raw/KnqbrQBa
 pastebin.com/raw/L5DrSWri
 pastebin.com/raw/L7L2VmAD
 pastebin.com/raw/L7Ltyg84
@@ -76001,6 +76203,7 @@ pastebin.com/raw/NQVWzuzy
 pastebin.com/raw/NT30Y3AV
 pastebin.com/raw/NVA2gRD9
 pastebin.com/raw/NYPyRGCL
+pastebin.com/raw/NbtLVnaN
 pastebin.com/raw/NfmVf31N
 pastebin.com/raw/NucWUXt9
 pastebin.com/raw/NwT88PFm
@@ -76061,6 +76264,7 @@ pastebin.com/raw/U0pwaiQV
 pastebin.com/raw/U5LwXtVY
 pastebin.com/raw/U9Z6F7mE
 pastebin.com/raw/UAgNLfZr
+pastebin.com/raw/UCJHw3fL
 pastebin.com/raw/UDJxdggR
 pastebin.com/raw/UUnxz1Zu
 pastebin.com/raw/Ukz4qARy
@@ -76105,9 +76309,11 @@ pastebin.com/raw/YF8FyTqr
 pastebin.com/raw/YWtKiMXj
 pastebin.com/raw/Ygv1PF5P
 pastebin.com/raw/Ykp5RF2D
+pastebin.com/raw/Yt0EUBML
 pastebin.com/raw/Yuf5c5Vx
 pastebin.com/raw/Yv2abezH
 pastebin.com/raw/YyEWtuwJ
+pastebin.com/raw/Yz2xcpaV
 pastebin.com/raw/Z3atEQgX
 pastebin.com/raw/Z3j146da
 pastebin.com/raw/Z5qQ0ie8
@@ -76152,6 +76358,7 @@ pastebin.com/raw/bpEyQXQ4
 pastebin.com/raw/bqJb6eEi
 pastebin.com/raw/bvdRHPch
 pastebin.com/raw/c1M7bSdB
+pastebin.com/raw/c807tPxq
 pastebin.com/raw/cE3wg3Mc
 pastebin.com/raw/cHtYLPtd
 pastebin.com/raw/cLGxne7W
@@ -80748,7 +80955,7 @@ redcross59.ru
 redcuberecords.com
 reddeadtwo.com
 reddeertowingservice.com
-reddoak.com/wp-content/Documentation/t3vem8-4800-53779-iypz6if2-dc1zcb6kt/
+reddoak.com
 reddogtransport.co.uk
 redebioclinica.med.br
 redepsicanalise.com.br
@@ -81074,7 +81281,7 @@ res-energo.com
 res.entercenter.net
 res.qaqgame.cn
 res.uf1.cn
-res.yeshen.com/player/launch/2017/09/12/da5f9a1c23034353852750488feeaf36.exe
+res.yeshen.com
 res11.bignox.com/player/tools/201804/407c0ce1a3b0432e91d07b3a55c6613e.exe
 res11.bignox.com/player/tools/201804/5f3cc3d06f5b4d6b92f33fdef4172d41.exe
 res11.bignox.com/player/tools/201804/69b3de2b75d547b4aac9e47d874ef805.exe
@@ -82348,7 +82555,15 @@ s237799.smrtp.ru
 s2646b6752f64d083.jimcontent.com
 s287-my.sharepoint.com
 s298myt.storage.yandex.net
-s2lol.com
+s2lol.com/update/audition/AutoUpdate.exe
+s2lol.com/update/botnet/svchosts.exe
+s2lol.com/update/chinhdo/hostfile/files/vaogame.exe
+s2lol.com/update/ngay_tro_ve_nd2004/AutoUpdate.exe
+s2lol.com/update/volam_volamtuyetdinh/AutoUpdate.exe
+s2lol.com/update/volamhuynhduc/AutoUpdate.exe
+s2lol.com/update/volamsimple_tinhkiem/AutoUpdate.exe
+s2lol.com/update/volamtuyenhoang5/AutoUpdate.exe
+s2lol.com/update/volamvoson1/AutoUpdate.exe
 s2retail.vn
 s2s-architect.com
 s3-ap-northeast-1.amazonaws.com
@@ -83512,6 +83727,7 @@ science.jburroughs.org
 sciencefictionforgirls.com
 scienceofmotherhood.com
 sciencequipments.com
+sciencestoppers.com
 scientificservicesinc.com
 scientificvoice.xyz
 scientificwebs.com
@@ -87309,8 +87525,7 @@ static.error-soft.net
 static.ilclock.com
 static.ow.ly
 static.solidbasewebschool.nl
-static.topxgun.com/1465810383951_443.exe
-static.topxgun.com/1465810408079_502.exe
+static.topxgun.com
 staticholidaysuk.co.uk
 statieheli.com
 statik-brandschutz-dresden.de
@@ -92660,7 +92875,7 @@ time.jannattech.com
 time4nails.com.ua
 time4robots.pt
 timebank.ai
-timebound.ug
+timebound.ug/pps.ps1
 timeforcoffe.eu
 timegitim.com
 timehalik.tk
@@ -93098,7 +93313,7 @@ topcoatflorida.com
 topcoen-eu.com
 topcoinfx.com
 topcopytrader.000webhostapp.com
-topcrackdownload.com
+topcrackdownload.com/wp-includes/r608/
 topdalescotty.top
 topdesign777.ru
 topdoithuong.com
@@ -93476,7 +93691,9 @@ transeagleperu.com
 transfer-1.ru
 transfer-factori.ru
 transfer-sirius.ru
-transfer.sh
+transfer.sh/Y4ABB/afopxczkqcl.exe
+transfer.sh/YGgvY/sbaeu.exe
+transfer.sh/YqhxC/invoice_877145.doc
 transferxeber.az
 transforma.de
 transformatinginside.info
@@ -95359,7 +95576,7 @@ url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmB
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
 url.sg
 url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
-url3.mailanyone.net/v1/?m=1gqjAZ-000BfC-4n&i=57e1b682&c=OZtRQmXF7oN5pbgtjwITGqIFHzseGIPJ778kLq969LDnepRJUFA3m4dqjipi-y6OdeP66fl3GFcG9Mo0uCH8uh_3unyNDLNiJEst871L2nZ8Bt27Et8YRWVkmsFhx001Buq9q_60jxe1ofVPHOxLFN1ol0vyuzUw6cC67geyyV1T0aGD81PMHe6Cu8Qd2qq8-ymIP4qFuRBsKb7Lv1Y00D0SYWjvvMyla6LG_jYhjkcVuQ-nh42o0dILyk44Tc-C/
+url3.mailanyone.net
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urldefense.proofpoint.com/v2/url?u=http-3A__borinfor.com_newfolde-5Fr_doc_En-5Fus_OVERDUE-2DACCOUNT_Invoice-2D07-2D19-2D18&d=DwIFaQ&c=VQ9hgUuwpNx5qjiyTmR6qQ&r=VWCMrOAZ42xEY7aBeHkCfVC7-GccDQiNerNlJRH5muI&m=JavSUg0f9C2qoCCa7AWt8RM7BRNk5mP_S7hBxPVa8ZU&s=XFGDpuuNz7L0uj6b4PoAfz3lck7VPATlniNQMVv_P6w&e/
@@ -96918,7 +97135,7 @@ von-katha.de
 vong.info
 vonlany.de
 voogorn.ru
-vophone.com
+vophone.com/portal/cache/LLC/Q1savIN7l/
 voprosnik.top
 vorck.com
 voreralosangha.in
@@ -98126,7 +98343,7 @@ wimkegravestein.nl
 wimpiebarnard.co.za
 win-best.com.hk
 win-speed.com
-win.tue.nl
+win.tue.nl/~aeb/linux/hh/Message.zip
 win1more.com
 win32.x10host.com
 winactive.host
@@ -99612,8 +99829,7 @@ yamato-te.com
 yamato-ti.com
 yamemasesy.com
 yamike.com
-yamisiones.com/cache/98UACH/KFBQ35670INVNT/Aug-10-2018-7288859/EOB-ESKX
-yamisiones.com/cache/98UACH/KFBQ35670INVNT/Aug-10-2018-7288859/EOB-ESKX/
+yamisiones.com
 yanato.jp
 yanchenghengxin.com
 yancommato.com
@@ -100104,7 +100320,7 @@ yunhali.net
 yunusaf19.nineteen.axc.nl
 yunuso.com
 yunwaibao.net
-yunyuangun.com/api.exe
+yunyuangun.com
 yupitrabajo.com
 yurayura.life
 yurtdisindayim.com
