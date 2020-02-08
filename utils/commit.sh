@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -e -x
+set -efux -o pipefail
 
 ## Commit the filter update
 
