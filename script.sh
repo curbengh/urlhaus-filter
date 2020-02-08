@@ -122,4 +122,4 @@ sort | \
 sed '1 i\'"$COMMENT"'' | \
 sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-hosts-online.txt"
 
-cd ../ && rm -r "tmp/"
+cd ../ && rm -rf "tmp/"
