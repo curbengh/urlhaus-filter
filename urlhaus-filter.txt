@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 14 Feb 2020 12:08:44 UTC
+! Updated: Sat, 15 Feb 2020 00:08:40 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -37,6 +37,7 @@
 0400msc.com
 0414605256-my.sharepoint.com
 0417music.com
+04c077be.ngrok.io
 05.bd-pcgame.xiazai24.com
 0532dna.com
 0539wp.ewok.cl
@@ -224,6 +225,7 @@
 1.34.12.240
 1.34.12.97
 1.34.120.14
+1.34.131.46
 1.34.138.228
 1.34.143.251
 1.34.143.71
@@ -512,6 +514,7 @@
 103.110.19.38
 103.110.19.58
 103.110.19.92
+103.110.39.115
 103.110.39.126
 103.110.39.141
 103.110.39.199
@@ -1888,6 +1891,7 @@
 110.155.55.143
 110.155.59.31
 110.155.6.9
+110.155.62.141
 110.155.63.46
 110.155.72.76
 110.155.75.157
@@ -2626,6 +2630,7 @@
 113.226.172.15
 113.227.162.87
 113.227.229.147
+113.230.150.94
 113.24.112.48
 113.24.162.154
 113.24.89.58
@@ -2634,6 +2639,7 @@
 113.240.152.28
 113.240.153.18
 113.240.185.182
+113.243.141.175
 113.243.157.199
 113.243.166.13
 113.243.166.83
@@ -2701,6 +2707,7 @@
 113.245.211.69
 113.245.211.78
 113.245.211.92
+113.245.216.106
 113.245.216.37
 113.245.217.136
 113.245.217.216
@@ -3370,6 +3377,7 @@
 115.224.129.221
 115.224.213.99
 115.224.238.150
+115.224.72.41
 115.225.108.114
 115.225.120.154
 115.225.124.29
@@ -3536,6 +3544,7 @@
 115.49.73.178
 115.49.73.183
 115.49.73.208
+115.49.74.11
 115.49.74.140
 115.49.74.163
 115.49.74.201
@@ -3702,6 +3711,7 @@
 115.55.164.63
 115.55.169.205
 115.55.174.41
+115.55.193.173
 115.55.198.216
 115.55.199.84
 115.55.2.50
@@ -3712,6 +3722,7 @@
 115.55.205.188
 115.55.208.186
 115.55.208.197
+115.55.208.230
 115.55.209.236
 115.55.21.190
 115.55.21.94
@@ -3995,6 +4006,7 @@
 115.63.141.174
 115.63.186.53
 115.63.189.53
+115.63.190.55
 115.63.191.237
 115.63.191.64
 115.63.22.11
@@ -4361,6 +4373,7 @@
 117.202.78.231
 117.202.79.27
 117.202.79.49
+117.204.252.67
 117.205.236.102
 117.205.237.180
 117.205.83.92
@@ -4547,6 +4560,7 @@
 117.207.38.67
 117.207.38.82
 117.207.39.180
+117.207.39.191
 117.207.39.197
 117.207.39.207
 117.207.39.217
@@ -4799,6 +4813,7 @@
 117.217.39.242
 117.217.39.26
 117.217.39.93
+117.217.60.208
 117.218.130.103
 117.218.130.123
 117.218.130.244
@@ -5079,6 +5094,7 @@
 117.91.241.17
 117.93.118.225
 117.93.126.68
+117.93.127.147
 117.93.26.218
 117.93.32.209
 117.93.81.86
@@ -5129,6 +5145,7 @@
 117.95.190.116
 117.95.191.121
 117.95.191.134
+117.95.191.144
 117.95.192.26
 117.95.20.204
 117.95.200.50
@@ -5276,6 +5293,7 @@
 119.1.49.91
 119.1.80.134
 119.1.86.10
+119.1.87.204
 119.1.92.85
 119.102.127.122
 119.118.173.180
@@ -5782,6 +5800,7 @@
 122.117.62.15
 122.117.71.60
 122.117.76.60
+122.117.78.238
 122.117.93.40
 122.117.99.185
 122.144.5.203
@@ -6081,6 +6100,7 @@
 123.11.30.128
 123.11.30.95
 123.11.31.233
+123.11.31.235
 123.11.33.130
 123.11.33.5
 123.11.34.191
@@ -6189,6 +6209,7 @@
 123.12.241.162
 123.12.243.19
 123.12.245.104
+123.12.246.90
 123.12.254.113
 123.12.3.49
 123.12.31.145
@@ -6334,6 +6355,7 @@
 123.4.191.95
 123.4.197.162
 123.4.198.10
+123.4.209.191
 123.4.212.93
 123.4.213.152
 123.4.241.230
@@ -6463,6 +6485,7 @@
 124.115.34.5
 124.115.35.155
 124.115.35.211
+124.115.35.67
 124.115.49.193
 124.115.49.46
 124.117.201.113
@@ -6811,6 +6834,7 @@
 125.44.22.168
 125.44.22.66
 125.44.22.94
+125.44.225.5
 125.44.226.36
 125.44.227.65
 125.44.228.32
@@ -6900,6 +6924,7 @@
 125.47.209.109
 125.47.216.102
 125.47.216.141
+125.47.220.71
 125.47.221.178
 125.47.222.229
 125.47.225.29
@@ -7735,6 +7760,7 @@
 14.237.203.18
 14.237.232.181
 14.242.196.40
+14.245.0.236
 14.246.11.161
 14.248.178.177
 14.249.139.35
@@ -8750,6 +8776,7 @@
 159.203.32.48
 159.203.34.19
 159.203.34.42
+159.203.35.232
 159.203.36.118
 159.203.36.162
 159.203.38.0
@@ -10069,6 +10096,7 @@
 172.36.2.110
 172.36.2.165
 172.36.2.203
+172.36.2.61
 172.36.2.73
 172.36.20.131
 172.36.20.164
@@ -11247,6 +11275,7 @@
 175.3.183.162
 175.3.183.166
 175.3.183.187
+175.3.183.243
 175.3.183.31
 175.3.183.95
 175.4.152.254
@@ -12350,6 +12379,7 @@
 18.188.218.228
 18.188.78.96
 18.188.94.183
+18.191.16.12
 18.194.253.41
 18.205.117.241
 18.206.204.30
@@ -12489,6 +12519,7 @@
 180.117.206.116
 180.117.206.142
 180.117.206.32
+180.117.206.63
 180.117.206.92
 180.117.216.64
 180.117.217.92
@@ -12792,6 +12823,7 @@
 182.112.45.161
 182.112.53.43
 182.112.54.162
+182.112.54.248
 182.112.54.87
 182.112.57.11
 182.112.57.166
@@ -12816,10 +12848,12 @@
 182.113.159.11
 182.113.185.0
 182.113.186.132
+182.113.186.229
 182.113.188.121
 182.113.188.195
 182.113.190.207
 182.113.191.99
+182.113.192.147
 182.113.195.114
 182.113.195.4
 182.113.196.88
@@ -12904,6 +12938,7 @@
 182.114.208.129
 182.114.208.208
 182.114.208.91
+182.114.209.1
 182.114.209.152
 182.114.209.183
 182.114.209.207
@@ -12965,6 +13000,7 @@
 182.114.253.165
 182.114.253.184
 182.114.253.193
+182.114.253.215
 182.114.253.218
 182.114.253.67
 182.114.254.10
@@ -13024,6 +13060,7 @@
 182.116.45.201
 182.116.46.183
 182.116.46.192
+182.116.49.11
 182.116.50.197
 182.116.51.238
 182.116.51.50
@@ -13234,6 +13271,7 @@
 182.124.40.108
 182.124.43.128
 182.124.5.203
+182.124.51.122
 182.124.52.75
 182.124.61.182
 182.124.78.12
@@ -13430,6 +13468,7 @@
 182.127.168.230
 182.127.169.125
 182.127.169.231
+182.127.170.111
 182.127.170.117
 182.127.170.208
 182.127.172.124
@@ -13533,6 +13572,7 @@
 182.127.79.128
 182.127.79.169
 182.127.79.210
+182.127.82.103
 182.127.86.100
 182.127.88.79
 182.127.90.210
@@ -16189,6 +16229,7 @@
 196.218.153.74
 196.218.202.115
 196.218.3.243
+196.218.48.82
 196.218.53.68
 196.218.88.59
 196.219.160.248
@@ -18889,6 +18930,7 @@
 222.139.69.243
 222.139.75.153
 222.139.77.8
+222.139.80.203
 222.139.84.96
 222.139.85.253
 222.139.85.95
@@ -19089,6 +19131,7 @@
 222.246.20.201
 222.246.228.185
 222.246.240.161
+222.246.243.63
 222.246.252.137
 222.246.252.166
 222.246.254.212
@@ -19608,6 +19651,7 @@
 27.14.209.131
 27.14.210.217
 27.14.211.143
+27.14.214.41
 27.14.82.28
 27.14.82.53
 27.14.86.145
@@ -19946,6 +19990,7 @@
 31.146.222.69
 31.146.222.7
 31.146.229.109
+31.146.229.254
 31.146.229.43
 31.148.120.121
 31.148.137.133
@@ -21248,6 +21293,7 @@
 42.225.17.119
 42.225.193.242
 42.225.193.4
+42.225.194.75
 42.225.195.94
 42.225.197.175
 42.225.198.177
@@ -21283,6 +21329,7 @@
 42.225.223.138
 42.225.228.168
 42.225.229.201
+42.225.229.70
 42.225.230.138
 42.225.234.158
 42.225.235.249
@@ -21296,6 +21343,7 @@
 42.225.246.121
 42.225.37.44
 42.225.39.180
+42.225.44.233
 42.225.46.232
 42.225.52.41
 42.225.62.203
@@ -21378,6 +21426,7 @@
 42.228.119.194
 42.228.119.248
 42.228.121.209
+42.228.121.30
 42.228.122.172
 42.228.122.79
 42.228.127.228
@@ -21471,6 +21520,7 @@
 42.230.227.58
 42.230.229.236
 42.230.231.32
+42.230.244.253
 42.230.245.2
 42.230.246.69
 42.230.247.9
@@ -21646,6 +21696,7 @@
 42.232.222.153
 42.232.226.37
 42.232.228.93
+42.232.23.147
 42.232.231.174
 42.232.234.167
 42.232.237.220
@@ -21697,6 +21748,7 @@
 42.234.115.246
 42.234.116.178
 42.234.117.136
+42.234.117.153
 42.234.118.102
 42.234.136.212
 42.234.138.196
@@ -21898,6 +21950,7 @@
 42.239.105.102
 42.239.105.149
 42.239.105.255
+42.239.106.247
 42.239.108.251
 42.239.114.131
 42.239.120.181
@@ -22933,6 +22986,7 @@
 49.112.197.115
 49.112.198.12
 49.112.205.250
+49.112.206.76
 49.112.232.133
 49.112.241.55
 49.112.253.159
@@ -23332,6 +23386,7 @@
 49.70.19.62
 49.70.19.85
 49.70.2.97
+49.70.20.219
 49.70.208.232
 49.70.22.135
 49.70.22.192
@@ -23949,6 +24004,7 @@
 5.75.9.160
 5.79.106.222
 5.79.109.46
+5.79.132.198
 5.79.217.121
 5.79.247.227
 5.79.69.209
@@ -24495,6 +24551,7 @@
 59.127.27.148
 59.127.40.197
 59.127.80.229
+59.127.94.241
 59.127.97.26
 59.15.167.158
 59.152.43.1
@@ -25043,6 +25100,7 @@
 61.160.213.150
 61.163.11.105
 61.163.11.165
+61.163.11.208
 61.163.154.20
 61.163.155.16
 61.163.158.141
@@ -33838,6 +33896,7 @@ asociatiaumanism.ro
 asodepa.org.ve
 asodergina.com
 asolmex.org
+asominas.org
 asound.no
 asp.pl
 aspaud.com
@@ -41082,6 +41141,7 @@ cdn.discordapp.com/attachments/671479518401396747/671578945933541376/JANUARY_ORD
 cdn.discordapp.com/attachments/673680946553421826/673681002891182120/POorder_No._096110400.gz
 cdn.discordapp.com/attachments/673702553757941761/673702787464429569/0659_INQ-SIP-18-19_03_02_2020.rar
 cdn.discordapp.com/attachments/676291750867894275/676291843574464522/Consulta_20MAR035.gz
+cdn.discordapp.com/attachments/677200369066967042/677748288333545482/Shipping_Documents.gz
 cdn.discordapp.com/attachments/677462554477461509/677463258914881553/Conferma_d_Ordine_3900345973_07012020_po_number_1081262.gz
 cdn.fanyamedia.net
 cdn.fbsbx.com/v/t59.2708-21/30831868_2001421493263570_988122346738941952_n.zip/71I49N1JH7GG.zip?oh=81f42de9d61696c78f429719277283cc&oe=5AE24EE8&dl=1
@@ -51071,6 +51131,7 @@ drive.google.com/uc?export=download&id=1LoooIIwWnuvw7H7BE1TsrjQSe7WfXm5Z
 drive.google.com/uc?export=download&id=1O3x3F4i9mHacGrcVwx7kRsa5HN8MCH-U
 drive.google.com/uc?export=download&id=1OdFI_bDmE8XB3OmLWqXjkPZp7cuQlDTh
 drive.google.com/uc?export=download&id=1OeR_ekkcG2rWn_1apiR4dfjcpaQqQpg3
+drive.google.com/uc?export=download&id=1PGinhhhues1qa8JYk-Jb2-bsm6dQzSZq
 drive.google.com/uc?export=download&id=1PINsRhkzzLFfvZDcuyu7l7OJKUn3ycfR
 drive.google.com/uc?export=download&id=1PKnkHHeLC3-ip31tg696z9B1Vt7HNkHR
 drive.google.com/uc?export=download&id=1PviEcA5yAdZcrysTKQKl2JlN4NxCtxen
@@ -59575,6 +59636,7 @@ duperadz.com
 dupihahhosote.com
 dupke.at
 duplaixart.com
+duplicadodesufactura.r1-it.storage.cloud.it
 duplicatemysuccess.com
 dupol.com.br
 duppolysport.com
@@ -63039,6 +63101,7 @@ fashionfootprint.nmco.co.za
 fashiongul.com
 fashioninstyle.co.uk
 fashionjunk.in
+fashionkillah.xyz
 fashionlifestyle.net
 fashionmall4u.com
 fashionpoint.kl.com.ua
@@ -78798,6 +78861,7 @@ linkmaxbd.com/web/legale/sich/04-2019/
 linkmaxbd.com/web/secure.myaccount.send.net/
 linkmaxbd.com/web/uOPX-M3tkPx4AxGllnym_wMertWxMM-CCN/
 linkmaxbd.com/ww4w/4s87-ame04-jholkr/
+linkomember.info
 linkovani.cz
 linkplay.duckdns.org
 linkprotect.cudasvc.com/url?a=http%3a%2f%2foldmemoriescc.com%2fAT_T_Online%2fXeLZhRG0Mxb_PSWBv8qn_1Sue0&c=E,1,AFZ3oULq3-D2kJuqZS1m2VM6QOFdrQCvL9dXrH6dEd44O2bgiVuS3quFVPumP4K6GgS3XE9zq5a4gh7s8fzf4dAxfOz5XHhch19yLogDKhLpt-rS3y9KvPotSzs,&typo=1
@@ -88215,6 +88279,7 @@ onedrive.live.com/download?cid=05E819CBA701C160&resid=5E819CBA701C160%21155&auth
 onedrive.live.com/download?cid=05E819CBA701C160&resid=5E819CBA701C160%21158&authkey=AIsa53xBYeyQyHE
 onedrive.live.com/download?cid=06029435F17A795C&resid=6029435F17A795C%211072&authkey=APcjB6iQBDSVDcY
 onedrive.live.com/download?cid=063732C6D894FA66&resid=63732C6D894FA66%21850&authkey=AAsl1K6nxMnA3Pw&em=2
+onedrive.live.com/download?cid=0BA9134F852F6C12&resid=BA9134F852F6C12%21964&authkey=AP3IM1s_BKvguaU
 onedrive.live.com/download?cid=0C707F50E538E089&resid=C707F50E538E089%21108&authkey=AFlvxX6otk0Mz4Q
 onedrive.live.com/download?cid=0F11BF59B04838E2&resid=F11BF59B04838E2%21120&authkey=AGgYAnSkgDXu1zo
 onedrive.live.com/download?cid=116E09956D59EFEF&resid=116E09956D59EFEF%21112&authkey=AI5rcuKbfn1GjCc
@@ -90307,6 +90372,7 @@ pastebin.com/raw/JzLBJQsc
 pastebin.com/raw/K10K8pk0
 pastebin.com/raw/K2g9aNcu
 pastebin.com/raw/K3acEKyj
+pastebin.com/raw/K4ebnTHD
 pastebin.com/raw/K9ZpeHkW
 pastebin.com/raw/K9gXTN7B
 pastebin.com/raw/KBAFKdS3
@@ -90327,6 +90393,7 @@ pastebin.com/raw/KYk2PSMS
 pastebin.com/raw/KZsJzgz0
 pastebin.com/raw/KaNg4hAF
 pastebin.com/raw/KdTNngXu
+pastebin.com/raw/KeJXiUjs
 pastebin.com/raw/KgNuSJT8
 pastebin.com/raw/Kgr3ZPs7
 pastebin.com/raw/KiQt4Adg
@@ -90344,6 +90411,7 @@ pastebin.com/raw/LDdW1ffH
 pastebin.com/raw/LDfGDmSe
 pastebin.com/raw/LJn1bB9P
 pastebin.com/raw/LLHBn54Q
+pastebin.com/raw/LQn0EBEW
 pastebin.com/raw/LUxCGhq8
 pastebin.com/raw/LVU0Xj00
 pastebin.com/raw/LawFdhYN
@@ -90440,6 +90508,7 @@ pastebin.com/raw/Q8tGJt1V
 pastebin.com/raw/Q9QkSDc8
 pastebin.com/raw/QAZtewCi
 pastebin.com/raw/QAg8Cq6X
+pastebin.com/raw/QDdZmH6P
 pastebin.com/raw/QFErnWZ3
 pastebin.com/raw/QJSr8zUe
 pastebin.com/raw/QKGkuv46
@@ -90562,7 +90631,9 @@ pastebin.com/raw/V5bJEdTM
 pastebin.com/raw/V6rBPiJm
 pastebin.com/raw/V6tYzga4
 pastebin.com/raw/V7Gi5aYM
+pastebin.com/raw/V7U0yw94
 pastebin.com/raw/V9m4ALCf
+pastebin.com/raw/VBVZwKh2
 pastebin.com/raw/VBkdFMxf
 pastebin.com/raw/VCagUNZP
 pastebin.com/raw/VFnihgtc
@@ -90578,6 +90649,7 @@ pastebin.com/raw/VdbzRGKa
 pastebin.com/raw/Vp1RTT4q
 pastebin.com/raw/VrZrW0AM
 pastebin.com/raw/Vv2fdxa3
+pastebin.com/raw/Vy2B8mjN
 pastebin.com/raw/VzFYiLW9
 pastebin.com/raw/W0pkzjAf
 pastebin.com/raw/W14MXBp1
@@ -90762,6 +90834,7 @@ pastebin.com/raw/ccdUiC4E
 pastebin.com/raw/cevay1GK
 pastebin.com/raw/cgqC4YE8
 pastebin.com/raw/chB8Pjgk
+pastebin.com/raw/chgG0Hdb
 pastebin.com/raw/ckz2bwYn
 pastebin.com/raw/cpUMdQxz
 pastebin.com/raw/cpZXKGhH
@@ -90893,10 +90966,12 @@ pastebin.com/raw/hq48KCAY
 pastebin.com/raw/htJ3kFGH
 pastebin.com/raw/hvAmX1RK
 pastebin.com/raw/hzLN7srw
+pastebin.com/raw/i4GtQfMq
 pastebin.com/raw/i4PTz4he
 pastebin.com/raw/i5AiAYuD
 pastebin.com/raw/i7xYg5V5
 pastebin.com/raw/iFSRFgHk
+pastebin.com/raw/iFxsExDQ
 pastebin.com/raw/iHHU1gqQ
 pastebin.com/raw/iJieRNCh
 pastebin.com/raw/iLNsMd5m
@@ -90928,6 +91003,7 @@ pastebin.com/raw/jQSwdZKw
 pastebin.com/raw/jTnaR0QD
 pastebin.com/raw/jUXspR4h
 pastebin.com/raw/jUz4ARZF
+pastebin.com/raw/jZsrX0Rj
 pastebin.com/raw/jaTmxFj8
 pastebin.com/raw/jatgf9vg
 pastebin.com/raw/jeAGBYuU
@@ -90953,6 +91029,7 @@ pastebin.com/raw/kd2L4NVp
 pastebin.com/raw/kjKci9J8
 pastebin.com/raw/kjNYaw6G
 pastebin.com/raw/kjNZNa8Y
+pastebin.com/raw/knyBSXgJ
 pastebin.com/raw/krn3bWkf
 pastebin.com/raw/kux21KmL
 pastebin.com/raw/kvf4HFjQ
@@ -91082,6 +91159,7 @@ pastebin.com/raw/smTirp5s
 pastebin.com/raw/smUtrGH6
 pastebin.com/raw/sqWYGYSu
 pastebin.com/raw/svAUqF1b
+pastebin.com/raw/sx8P0NsW
 pastebin.com/raw/sxPpM31y
 pastebin.com/raw/syKdBRSp
 pastebin.com/raw/t0DWeTRL
@@ -91112,6 +91190,7 @@ pastebin.com/raw/u0FSzYHL
 pastebin.com/raw/u1icgd3T
 pastebin.com/raw/u2D4fRdt
 pastebin.com/raw/u2aBCiL3
+pastebin.com/raw/u4eL2ZKi
 pastebin.com/raw/u6d7XDkc
 pastebin.com/raw/u7RDaWfs
 pastebin.com/raw/u8DEvTmL
@@ -91194,6 +91273,7 @@ pastebin.com/raw/wyCTyAAf
 pastebin.com/raw/wzGfQSua
 pastebin.com/raw/x170Cj1j
 pastebin.com/raw/x9M6ADhA
+pastebin.com/raw/xHUgqxcC
 pastebin.com/raw/xHya7JK2
 pastebin.com/raw/xM5KiTNY
 pastebin.com/raw/xNdDtNXG
@@ -112915,6 +112995,7 @@ vinastone.com
 vinatuoi.com
 vinay29.000webhostapp.com
 vinaykhatri.in
+vincentdemiero.com
 vincentniclofrlive.nncdev.com
 vincewoud.nl
 vincitunion.com
@@ -114457,6 +114538,7 @@ wewalk4you.com
 wex-notdead.ru
 weyfilms.com
 weyounited.nl
+weyouthorganization.org
 wezeldabgarrett.xyz
 wezenz.com
 wf-hack.com
