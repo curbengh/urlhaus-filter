@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sat, 22 Feb 2020 00:08:42 UTC
+! Updated: Sat, 22 Feb 2020 12:08:35 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -118,6 +118,7 @@
 1.207.29.147
 1.220.9.68
 1.226.176.21
+1.226.176.97
 1.231.147.26
 1.235.143.219
 1.243.119.109
@@ -253,6 +254,7 @@
 1.34.201.88
 1.34.22.179
 1.34.220.200
+1.34.23.52
 1.34.238.15
 1.34.242.32
 1.34.244.236
@@ -304,6 +306,7 @@
 1.53.211.23
 1.53.5.64
 1.53.86.74
+1.54.120.151
 1.54.121.108
 1.54.140.167
 1.54.184.215
@@ -892,6 +895,7 @@
 104.149.20.107
 104.154.169.178
 104.155.134.95
+104.155.220.235
 104.155.225.130
 104.155.65.6
 104.160.175.168
@@ -1016,6 +1020,7 @@
 104.229.177.9
 104.229.195.103
 104.232.39.151
+104.232.39.214
 104.233.101.103
 104.233.201.209
 104.233.73.35
@@ -1178,6 +1183,7 @@
 104.248.237.70
 104.248.237.82
 104.248.239.195
+104.248.239.236
 104.248.240.11
 104.248.243.249
 104.248.244.54
@@ -2022,6 +2028,7 @@
 110.177.245.34
 110.177.246.125
 110.177.3.152
+110.177.37.36
 110.177.47.208
 110.177.6.117
 110.177.6.78
@@ -2660,6 +2667,7 @@
 113.133.231.141
 113.133.231.208
 113.133.231.69
+113.133.231.73
 113.134.132.110
 113.134.133.106
 113.134.133.50
@@ -2677,6 +2685,7 @@
 113.138.146.97
 113.138.151.107
 113.138.153.175
+113.138.175.242
 113.138.176.8
 113.138.177.127
 113.138.178.63
@@ -2926,6 +2935,7 @@
 114.107.135.186
 114.107.173.48
 114.107.175.98
+114.109.186.114
 114.115.215.99
 114.115.249.109
 114.116.107.252
@@ -2981,6 +2991,7 @@
 114.228.130.236
 114.228.172.165
 114.228.207.224
+114.228.24.9
 114.228.248.138
 114.228.248.59
 114.228.28.254
@@ -3652,6 +3663,7 @@
 115.49.208.35
 115.49.210.2
 115.49.210.229
+115.49.210.31
 115.49.211.184
 115.49.211.84
 115.49.213.255
@@ -3816,6 +3828,7 @@
 115.52.161.113
 115.52.161.191
 115.52.161.234
+115.52.161.59
 115.52.161.81
 115.52.162.103
 115.52.162.112
@@ -3923,6 +3936,7 @@
 115.55.210.144
 115.55.212.229
 115.55.212.23
+115.55.214.30
 115.55.216.146
 115.55.22.178
 115.55.22.84
@@ -4038,6 +4052,7 @@
 115.58.121.177
 115.58.122.157
 115.58.124.246
+115.58.127.11
 115.58.127.172
 115.58.127.99
 115.58.132.121
@@ -4121,6 +4136,7 @@
 115.59.49.166
 115.59.51.123
 115.59.53.112
+115.59.59.109
 115.59.68.122
 115.59.7.136
 115.59.70.74
@@ -5240,6 +5256,7 @@
 117.60.129.113
 117.60.142.5
 117.60.161.120
+117.60.162.154
 117.60.167.68
 117.60.20.230
 117.60.20.6
@@ -5507,6 +5524,7 @@
 118.255.213.88
 118.255.234.221
 118.255.250.35
+118.255.255.88
 118.255.26.135
 118.255.40.196
 118.255.61.119
@@ -5576,6 +5594,7 @@
 119.188.250.55
 119.193.179.1
 119.193.225.54
+119.194.36.96
 119.194.91.157
 119.2.48.159
 119.201.68.12
@@ -6210,6 +6229,7 @@
 123.10.133.149
 123.10.133.216
 123.10.134.125
+123.10.134.140
 123.10.134.175
 123.10.134.19
 123.10.134.207
@@ -6325,6 +6345,7 @@
 123.10.50.5
 123.10.52.155
 123.10.52.202
+123.10.52.93
 123.10.55.138
 123.10.55.141
 123.10.55.99
@@ -6344,13 +6365,16 @@
 123.10.91.68
 123.10.92.141
 123.10.93.153
+123.11.0.141
 123.11.1.232
 123.11.1.38
 123.11.10.115
 123.11.10.156
 123.11.10.162
+123.11.10.221
 123.11.10.229
 123.11.10.252
+123.11.10.4
 123.11.10.77
 123.11.10.98
 123.11.103.147
@@ -6574,6 +6598,7 @@
 123.12.71.253
 123.12.74.116
 123.12.79.227
+123.12.8.172
 123.12.9.26
 123.120.68.68
 123.129.217.250
@@ -6609,6 +6634,7 @@
 123.13.83.73
 123.13.84.192
 123.13.84.239
+123.133.131.216
 123.134.198.213
 123.135.149.97
 123.14.248.12
@@ -6714,6 +6740,7 @@
 123.4.254.154
 123.4.255.242
 123.4.27.132
+123.4.27.222
 123.4.27.5
 123.4.33.170
 123.4.36.166
@@ -6739,6 +6766,7 @@
 123.4.65.16
 123.4.67.217
 123.4.79.215
+123.4.80.127
 123.4.84.103
 123.4.84.65
 123.4.88.120
@@ -6978,6 +7006,7 @@
 124.253.146.254
 124.253.156.27
 124.253.161.63
+124.253.162.219
 124.253.163.105
 124.253.19.155
 124.253.24.58
@@ -7125,6 +7154,7 @@
 125.41.28.87
 125.41.29.47
 125.41.3.11
+125.41.3.191
 125.41.30.16
 125.41.5.230
 125.41.5.251
@@ -7145,6 +7175,7 @@
 125.42.195.109
 125.42.195.8
 125.42.198.10
+125.42.198.191
 125.42.200.193
 125.42.200.55
 125.42.204.55
@@ -7174,6 +7205,7 @@
 125.42.236.76
 125.42.237.145
 125.42.237.162
+125.42.238.178
 125.42.238.192
 125.42.238.213
 125.42.239.139
@@ -7295,6 +7327,7 @@
 125.45.169.130
 125.45.169.204
 125.45.169.72
+125.45.174.184
 125.45.175.99
 125.45.177.61
 125.45.178.166
@@ -7592,6 +7625,7 @@
 133.242.156.30
 133.32.201.14
 134.119.177.136
+134.122.33.1
 134.175.189.57
 134.175.208.207
 134.175.229.110
@@ -7645,6 +7679,7 @@
 134.209.165.212
 134.209.167.163
 134.209.167.48
+134.209.167.97
 134.209.17.180
 134.209.170.182
 134.209.170.31
@@ -8154,6 +8189,7 @@
 14.204.104.6
 14.204.105.106
 14.204.105.143
+14.204.105.203
 14.204.42.127
 14.204.43.141
 14.204.5.189
@@ -10397,6 +10433,7 @@
 172.245.173.145
 172.245.186.147
 172.245.190.103
+172.245.6.129
 172.249.254.16
 172.36.0.109
 172.36.0.141
@@ -10485,6 +10522,7 @@
 172.36.16.230
 172.36.16.241
 172.36.16.25
+172.36.16.253
 172.36.16.42
 172.36.17.153
 172.36.17.170
@@ -10850,6 +10888,7 @@
 172.36.50.227
 172.36.50.229
 172.36.50.54
+172.36.50.75
 172.36.51.10
 172.36.51.127
 172.36.51.138
@@ -11223,6 +11262,7 @@
 172.39.61.59
 172.39.61.77
 172.39.61.90
+172.39.61.91
 172.39.62.172
 172.39.62.195
 172.39.62.245
@@ -11634,6 +11674,7 @@
 175.11.195.157
 175.11.195.65
 175.11.212.108
+175.11.212.156
 175.11.212.197
 175.11.213.144
 175.11.214.159
@@ -12787,6 +12828,7 @@
 179.127.119.254
 179.127.180.9
 179.14.150.9
+179.156.136.113
 179.162.177.249
 179.162.179.107
 179.177.170.154
@@ -13006,6 +13048,7 @@
 180.116.220.107
 180.116.228.242
 180.116.23.220
+180.116.23.57
 180.116.232.146
 180.116.232.95
 180.116.233.119
@@ -13337,6 +13380,7 @@
 182.112.218.247
 182.112.220.205
 182.112.25.105
+182.112.26.49
 182.112.29.171
 182.112.29.227
 182.112.34.167
@@ -13372,6 +13416,7 @@
 182.113.185.0
 182.113.186.132
 182.113.186.229
+182.113.187.43
 182.113.188.121
 182.113.188.195
 182.113.190.207
@@ -13392,6 +13437,7 @@
 182.113.205.179
 182.113.205.231
 182.113.206.32
+182.113.207.134
 182.113.207.228
 182.113.208.138
 182.113.208.223
@@ -13540,6 +13586,7 @@
 182.114.254.10
 182.114.254.110
 182.114.254.121
+182.114.254.142
 182.114.254.188
 182.114.254.249
 182.114.254.251
@@ -13579,6 +13626,7 @@
 182.115.230.230
 182.115.231.121
 182.115.239.227
+182.115.243.217
 182.115.246.11
 182.115.252.60
 182.115.254.0
@@ -13766,6 +13814,7 @@
 182.121.54.115
 182.121.80.58
 182.121.82.198
+182.121.83.224
 182.121.84.227
 182.121.85.154
 182.121.89.92
@@ -13842,6 +13891,7 @@
 182.124.36.63
 182.124.40.108
 182.124.43.128
+182.124.44.10
 182.124.5.203
 182.124.51.122
 182.124.52.75
@@ -13866,6 +13916,7 @@
 182.126.102.35
 182.126.102.66
 182.126.103.50
+182.126.104.196
 182.126.105.32
 182.126.113.115
 182.126.113.174
@@ -13967,6 +14018,7 @@
 182.126.238.130
 182.126.239.150
 182.126.239.250
+182.126.241.236
 182.126.5.172
 182.126.55.121
 182.126.55.221
@@ -14012,6 +14064,7 @@
 182.127.103.44
 182.127.107.51
 182.127.108.155
+182.127.108.169
 182.127.109.214
 182.127.111.163
 182.127.112.220
@@ -14047,6 +14100,7 @@
 182.127.160.142
 182.127.162.8
 182.127.163.109
+182.127.165.238
 182.127.166.234
 182.127.167.204
 182.127.168.102
@@ -14115,6 +14169,7 @@
 182.127.4.165
 182.127.40.152
 182.127.40.153
+182.127.41.115
 182.127.41.237
 182.127.42.154
 182.127.42.48
@@ -16872,6 +16927,7 @@
 196.217.131.199
 196.218.153.74
 196.218.202.115
+196.218.25.30
 196.218.3.243
 196.218.48.82
 196.218.53.68
@@ -18057,6 +18113,7 @@
 206.81.17.217
 206.81.23.65
 206.81.26.161
+206.81.4.194
 206.81.4.241
 206.81.4.47
 206.81.5.136
@@ -18318,6 +18375,7 @@
 211.104.242.240
 211.104.242.242
 211.104.242.47
+211.104.242.68
 211.104.242.69
 211.104.242.73
 211.107.131.83
@@ -18878,6 +18936,7 @@
 217.8.117.61
 217.8.117.64
 217.99.236.145
+218.0.163.194
 218.0.163.29
 218.147.55.114
 218.150.192.56
@@ -19072,6 +19131,7 @@
 219.155.162.123
 219.155.162.228
 219.155.162.91
+219.155.170.79
 219.155.208.220
 219.155.208.222
 219.155.208.67
@@ -19103,6 +19163,7 @@
 219.155.228.223
 219.155.231.172
 219.155.240.125
+219.155.241.93
 219.155.242.109
 219.155.243.84
 219.155.247.188
@@ -19165,6 +19226,7 @@
 219.68.242.33
 219.73.13.152
 219.77.113.124
+219.77.32.6
 219.80.217.209
 219.85.163.80
 219.85.233.13
@@ -19241,6 +19303,7 @@
 220.135.132.85
 220.135.136.24
 220.135.136.245
+220.135.156.69
 220.135.180.137
 220.135.19.18
 220.135.226.7
@@ -19336,6 +19399,7 @@
 221.15.11.167
 221.15.11.23
 221.15.11.72
+221.15.114.217
 221.15.114.253
 221.15.126.234
 221.15.13.120
@@ -19356,6 +19420,7 @@
 221.15.22.178
 221.15.226.174
 221.15.226.231
+221.15.227.127
 221.15.227.57
 221.15.23.60
 221.15.23.90
@@ -19551,6 +19616,7 @@
 222.138.134.154
 222.138.134.236
 222.138.134.29
+222.138.141.110
 222.138.143.153
 222.138.144.147
 222.138.144.226
@@ -19598,6 +19664,7 @@
 222.138.188.98
 222.138.189.156
 222.138.189.163
+222.138.189.219
 222.138.189.223
 222.138.190.21
 222.138.190.25
@@ -19706,6 +19773,7 @@
 222.140.190.112
 222.140.198.237
 222.140.33.63
+222.140.66.91
 222.140.71.163
 222.140.77.166
 222.141.100.61
@@ -20014,6 +20082,7 @@
 222.87.179.228
 222.87.190.78
 222.93.98.136
+222.95.50.236
 222.95.63.172
 222.98.197.136
 222bonus.com
@@ -20114,6 +20183,8 @@
 223.15.51.46
 223.15.52.27
 223.15.53.201
+223.15.54.34
+223.15.54.41
 223.150.8.208
 223.154.234.175
 223.154.40.32
@@ -20490,6 +20561,7 @@
 27.206.118.71
 27.206.172.178
 27.206.199.105
+27.211.208.17
 27.213.179.152
 27.214.39.48
 27.219.9.70
@@ -21129,6 +21201,7 @@
 35.232.140.239
 35.232.194.7
 35.232.212.18
+35.232.248.97
 35.232.73.116
 35.233.127.71
 35.233.95.148
@@ -21851,7 +21924,7 @@
 3agirl.co
 3arabsports.net
 3asy.club
-3b3kb3.com
+3b3kb3.com/pe/1/jiaet.exe
 3bee.in
 3c-one.ru
 3cfilati.it
@@ -22164,6 +22237,7 @@
 42.225.235.171
 42.225.235.249
 42.225.236.77
+42.225.237.168
 42.225.237.195
 42.225.240.163
 42.225.241.226
@@ -22500,6 +22574,7 @@
 42.231.66.198
 42.231.66.40
 42.231.67.10
+42.231.67.166
 42.231.67.87
 42.231.68.140
 42.231.68.30
@@ -22577,6 +22652,7 @@
 42.232.227.79
 42.232.228.93
 42.232.23.147
+42.232.230.218
 42.232.231.174
 42.232.233.78
 42.232.234.167
@@ -22747,6 +22823,7 @@
 42.235.94.94
 42.235.95.91
 42.236.162.188
+42.236.213.171
 42.236.214.202
 42.237.1.138
 42.237.1.9
@@ -22825,6 +22902,7 @@
 42.238.180.92
 42.238.180.99
 42.238.188.96
+42.238.189.56
 42.238.190.137
 42.238.190.176
 42.238.203.160
@@ -22845,6 +22923,7 @@
 42.239.102.150
 42.239.103.186
 42.239.103.93
+42.239.104.234
 42.239.105.102
 42.239.105.149
 42.239.105.255
@@ -22892,6 +22971,7 @@
 42.239.169.235
 42.239.170.47
 42.239.176.192
+42.239.176.236
 42.239.176.24
 42.239.176.69
 42.239.177.115
@@ -22920,6 +23000,7 @@
 42.239.182.164
 42.239.182.202
 42.239.183.172
+42.239.183.176
 42.239.183.33
 42.239.183.37
 42.239.183.49
@@ -23114,6 +23195,7 @@
 45.148.10.175
 45.148.10.176
 45.148.10.181
+45.148.10.184
 45.148.10.197
 45.148.10.51
 45.148.10.83
@@ -23375,6 +23457,7 @@
 45.81.19.181
 45.82.153.15
 45.84.196.135
+45.84.196.191
 45.84.196.75
 45.88.77.131
 45.88.78.34
@@ -23449,6 +23532,7 @@
 46.101.116.132
 46.101.118.105
 46.101.119.204
+46.101.121.47
 46.101.123.17
 46.101.125.237
 46.101.128.74
@@ -23549,6 +23633,7 @@
 46.147.193.171
 46.147.200.240
 46.158.105.76
+46.160.83.168
 46.161.185.15
 46.161.40.93
 46.166.133.162
@@ -23590,6 +23675,7 @@
 46.17.46.22
 46.17.46.225
 46.17.47.102
+46.17.47.188
 46.17.47.210
 46.17.47.244
 46.17.47.25
@@ -24224,6 +24310,7 @@
 49.68.134.128
 49.68.144.15
 49.68.151.74
+49.68.154.52
 49.68.155.60
 49.68.156.248
 49.68.157.210
@@ -25194,8 +25281,7 @@
 518meeker.com
 518td.cn
 518vps.com
-51aiwan.com/wp-content/uploads/2017/12/59GQSCZ/oamo/Commercial
-51aiwan.com/wp-content/uploads/2017/12/59GQSCZ/oamo/Commercial/
+51aiwan.com
 51az.com.cn
 51bairen.com
 51laserclean.com
@@ -25302,6 +25388,7 @@
 54.211.128.16
 54.224.240.34
 54.233.125.210
+54.233.198.219
 54.234.174.153
 54.234.26.113
 54.236.34.129
@@ -25580,6 +25667,7 @@
 59.47.69.221
 59.47.72.34
 59.47.72.69
+59.49.174.40
 59.5.121.25
 59.51.113.9
 59.51.207.113
@@ -26703,6 +26791,7 @@
 61.54.223.50
 61.54.238.122
 61.54.240.122
+61.54.248.248
 61.54.250.126
 61.54.40.11
 61.54.40.252
@@ -27436,6 +27525,7 @@
 72.2.242.68
 72.2.242.70
 72.2.243.14
+72.2.243.172
 72.2.243.225
 72.2.244.171
 72.2.244.236
@@ -27604,6 +27694,7 @@
 76.182.156.147
 76.200.79.33
 76.243.189.77
+76.254.129.227
 76.74.170.118
 76.74.170.204
 76.74.177.230
@@ -28063,7 +28154,18 @@
 7status.in
 7thbramshill.ukscouts.org.uk
 7tpavq.by.files.1drv.com
-7uptheme.com
+7uptheme.com/tjpoawj21/750705090/ZmOfr-hlC_vpPv-fig/
+7uptheme.com/tjpoawj21/RzIy-5j_FY-eLQ/
+7uptheme.com/wordpress/8n24o3-wzc2g-uvciuy/
+7uptheme.com/wordpress/CCJ33/
+7uptheme.com/wordpress/DOC/8LSIltWlUxC/
+7uptheme.com/wordpress/FILE/e5OEQZYTL6K/
+7uptheme.com/wordpress/JygG-Z3B8oufu3l3clk3_HMEThTWf-2T/
+7uptheme.com/wordpress/UPS/Mar-26-19-12-55-01/
+7uptheme.com/wordpress/Z_G/
+7uptheme.com/wordpress/t6k3c-gbdsq57-fgkrn/
+7uptheme.com/wordpress/yryuv-ad0rpx-jpjc.view/
+7uptheme.com/wordpress/zc0dnv1-srpr2yh-keryl/
 7w.kiev.ua
 7x3dsqyow.preview.infomaniak.website
 7yueyun.com
@@ -28264,6 +28366,7 @@
 80.216.144.247
 80.216.149.38
 80.22.222.13
+80.230.67.122
 80.232.223.106
 80.232.255.152
 80.240.20.19
@@ -28483,6 +28586,7 @@
 82.76.15.3
 82.77.146.132
 82.78.13.95
+82.79.150.84
 82.80.143.205
 82.80.148.44
 82.80.159.113
@@ -29426,6 +29530,7 @@
 92.38.46.104
 92.38.47.207
 92.39.78.146
+92.41.181.235
 92.44.62.174
 92.45.198.74
 92.45.248.133
@@ -30655,6 +30760,7 @@ acronimofenix.com.br
 acropol.com.eg
 acropolegifts.com
 acroronan.com
+acrosoftware.com
 acryliq.ru
 acryplast.ru
 acs.vn
@@ -30981,10 +31087,7 @@ adrianoogushi.com.br
 adrianpottinger.com
 adrienkantmd.com
 adrienneaubrecht.net
-adrite.com/EN/CyberMonday2018
-adrite.com/EN/CyberMonday2018/
-adrite.com/files/En_us/Sales-Invoice
-adrite.com/files/En_us/Sales-Invoice/
+adrite.com
 adroitlyadvertising.com
 adrolling.co.uk
 ads.actmol.by
@@ -31153,7 +31256,8 @@ aestheticbros7.com
 aestheticdoctor.xyz
 aestheticsmedicaltraininguk.co.uk
 aestheticsurgery.vn
-aesthetix.in
+aesthetix.in/wp-admin/DOC/8te7eeww/
+aesthetix.in/wp-admin/nnrgw8179ka7yzgt799nydbsechs5g_w485mw-9039736828/
 aetruckmaint.com
 aetstranslation.com.au
 aeve.com
@@ -31256,7 +31360,7 @@ africaphotosafari.net
 africaprocurementagency.com
 africashowtv.com
 africimmo.com
-afrigrowth.org/xQydN/
+afrigrowth.org
 afrika.by
 afrimarinecharter.com
 afriplugz.com
@@ -31333,7 +31437,7 @@ agenciacoruja.com
 agenciadisenoweb.com
 agenciadosucesso.com.br
 agenciadpromo.com.br
-agenciaeuro.com.br
+agenciaeuro.com.br/saz/HSWBN0X/
 agenciagriffe.com.br
 agenciagrou.com.br
 agencialldigital.com.br
@@ -31591,11 +31695,7 @@ ahsengiyim.com.tr
 ahsenyurt.net
 ahsoluciones.net
 ahsrx.com
-ahstextile.com/js/file/DPejqtj/CGHdf98.exe
-ahstextile.com/js/file/DPejqtj/VSP2091.exe
-ahstextile.com/js/file/FHGFfg/DSDho98.exe
-ahstextile.com/js/file/FHGFfg/IV-00645364.exe
-ahstextile.com/js/file/GHHGfa/THGBBG89.exe
+ahstextile.com
 ahsweater.com
 ahundredviral.online
 ahuproduction.com
@@ -33177,7 +33277,7 @@ anandare.com
 anandashramdharwad.org
 anandbrothers.co.in
 anandcontractors.com.au
-anandpen.com/wp-includes/images/media/1/explorer.zip
+anandpen.com
 anandtechverce.com
 anani.de
 anantaawellness.com
@@ -34931,7 +35031,7 @@ asmweb.xyz
 asncare.com
 asncustoms.ru
 asndjqwnewq.com
-asndoors.co.uk/US/Clients_transactions/122018/
+asndoors.co.uk
 asnpl.com.au
 asoajedrezsanmarcos.org
 asociatiaumanism.ro
@@ -35269,7 +35369,7 @@ atozblogging.com
 atp-tek.com
 atparsco.com
 atphitech.com
-atpscan.global.hornetsecurity.com/index.php?atp_str=afW-6ROPadYx-4dieFO4DbV3E_xmH3-Ype0mHRlsyEuhwsqoEEbZLBAFyf6_bDLJTeSgdUgEyMXaPYm1fSyHXkyYLPVIFpr0HnjO3w92Mx4BQEA-rhcuJBljF7xs-IE79eIg5O9B_HcFg9yGyzdkrNZCo-SWcS_BoDLiAxLFFlgCcV-hkcqKgjzMXADBPvzglcgSAECd8rV4If7NGCqKrXPrWLYKMZxYJHyncp2kIgW8_RjSDCHhxD9niYyJJb1joVi-Wm8urvrdOP7bVNkrinv2G2ef433YzWETxfWlzGfnEHNQbTdBrST1zV1HNcyRnd3TVjwjjWn-3c5iRkyWIDuG4saguSDuVUDmDSM6OiM1NjA1ODY3MWVlZDYjOjoj2oG-0aPVYmvMJgGU-mi8Gg/
+atpscan.global.hornetsecurity.com
 atr.it
 atragon.co.uk
 atraits.com
@@ -35500,8 +35600,7 @@ autobuschel.ru
 autocenter-sd.com
 autocenter2000.com.br
 autoclasscuneo.it
-autocom.mx/aviso-de-privacidad-agencias-es-mx.htm
-autocom.mx/aviso-de-privacidad-agencias-es-mx.htm/
+autocom.mx
 autod.kws-auto.ru
 autod1983.it
 autodavid.hr
@@ -35888,9 +35987,7 @@ aydinmete.com.tr
 aydinvps.com
 aydosyazilim.com
 ayecargo.com
-ayefin.com/cgi-bin/browse/oi7xbw/
-ayefin.com/financial-statement/DOC/ykmlxhtcm46/
-ayefin.com/sms.ayefin.com/multifunctional-array/interior-cloud/xLmHKU6ig-5u53kcoawGa/
+ayefin.com
 ayeletbenyosef.co.il
 ayerstechnology.com
 ayeshashoukat.com
@@ -37946,7 +38043,17 @@ bigskymikis.net
 bigstudio.photo
 bigsunshinebooks.com
 bigtech24.de
-bigtext.club
+bigtext.club/app/collectchromefingerprint.exe
+bigtext.club/app/deps.zip?t=2019-08-20
+bigtext.club/app/e7.exe
+bigtext.club/app/updateprofile-0321.exe
+bigtext.club/app/updateprofile-3.exe
+bigtext.club/app/updateprofile-4.exe
+bigtext.club/app/updateprofile-srv1-0520.exe
+bigtext.club/app/vc.exe
+bigtext.club/app/watchdog.exe
+bigtext.club/app/winboxls-0712.exe
+bigtext.club/app/winboxscan-0702.exe
 bigtvjoblist.com
 biguwh.com
 bigwafarm.com
@@ -41700,7 +41807,7 @@ cavineetjain.co.in
 cavintageclothing.com
 cavstatmedia.com
 cavus2.com
-cawawaeadaswadeaef.ru/t.exe
+cawawaeadaswadeaef.ru
 caxanuma.com
 caycanhnamcong.com.vn
 cayecasas.com
@@ -46360,9 +46467,7 @@ data4u.kay-tech.info
 databacknow.com
 database.z-flooring.com
 databasetm.ru
-databeuro.com/Document/ceMoosqXDVwVADKMFmZPOyhgRgSsX/
-databeuro.com/Sep2018/RSec-7tEDd8inAMFLyNN_lYVtDOOW-TPf/
-databeuro.com/Sep2018/gsm.php
+databeuro.com
 databig.akamaihub.stream
 databook.com.ec
 databus.app
@@ -46388,7 +46493,7 @@ datascienceexcellence.net
 datascienceexcellence.org
 dataseru.com
 dataserver.c0.pl
-datasheep.co.uk/www.skye-tours.com/MhzEd-U9M0SONwohw1Ubz_oDNLLFGN-3J4/
+datasheep.co.uk
 datasoft-sa.com
 datatalentadvisors.com
 datatechis.com
@@ -48686,6 +48791,7 @@ dl.bypass.network
 dl.commentcamarche.net
 dl.downyi.com
 dl.dropbox.com/s/2rkjxc3kbui8rz1/imagen00944272formatopdf%20imagen00944273formatopdf.UUE?dl=1
+dl.dropbox.com/s/liej0okj2qt6wv4/kAIq23pa
 dl.dropbox.com/s/myfi57mlu9q372n/DocumentoCitacionJuzgadoInterrogatorio397563485632785627DocumentoCitacionJuzgadoInterrogatorio397563485632785627.UUE?dl=0
 dl.dropboxusercontent.com/s/031hhxq1pfz4382/flashplayer_42.19_plugin.js?dl=1
 dl.dropboxusercontent.com/s/0avv6crcj8mfv4i/flashplayer_42.48_plugin.js?dl=1
@@ -50145,7 +50251,7 @@ door-craft.ru
 door-ma.com
 doordam.co.uk
 doordroppers.co.uk
-doordu.com
+doordu.com/Jul2018/En/INVOICE-STATUS/Invoices/
 doorlife.co.in
 doorsecurityy.com
 doorspro.ie
@@ -50523,12 +50629,7 @@ dragfest.co.uk
 dragon21.de
 dragonfang.com
 dragonhousesolihull.co.uk
-dragonsknot.com/cgi-bin/FEhYD-Dy5sZQzjctfE5E_rrwExwNd-FZf/
-dragonsknot.com/cgi-bin/open-disk/ehw32di-wuxfzo6tn-q72nHFUFhC-blyC8TzWovgG/b9GGFiThVD-Mpm7Lv3djNIz/
-dragonsknot.com/cgi-bin/pSHdT-OIOMETuraPjRrIS_yPPHorjr-DV/
-dragonsknot.com/cgi-bin/privata-ef6vmr6p4dckh5v-rsg1x9pia7e/custodito-profilo/EG0Uu6-MI8vgLmG1fhb/
-dragonsknot.com/cgi-bin/sfb8-w52710-nlmruq/
-dragonsknot.com/cgi-bin/trust.accs.docs.net/
+dragonsknot.com
 dragonstormkenpokarate.com
 drainpiner.com
 drajna.ro
@@ -63092,7 +63193,7 @@ estomedic.com
 estore.qurvex.com
 estrategias-corporativas.com
 estrategiasdeaprovacao.com.br
-estreamnetworks.net/7GWTSLC/WIRE/Commercial
+estreamnetworks.net
 estrindesign.com
 estrom.es
 estrutura.eng.br
@@ -63793,10 +63894,7 @@ f2concept.com
 f2favotto.ml
 f2host.com
 f3.hu
-f321y.com/dhelper.dat
-f321y.com:8888/buff2.dat
-f321y.com:8888/dhelper.dat
-f321y.com:8888/docv8k.dat
+f321y.com
 f328.com
 f3distribuicao.com.br
 f468lrul93362411.wshowlw.club
@@ -64704,7 +64802,7 @@ filebr.com
 fileco.jobkorea.co.kr
 filedigital.ir
 filedistrserver.pw
-filedn.com
+filedn.com/lhBNrF9G71LkaeSLYT0rpYm/Archive/0.009109276452.exe
 filegst.com
 filehhhost.ru
 filehost.su
@@ -68014,7 +68112,7 @@ gn.prometeopro.com
 gn52.cn
 gnb.uz
 gnc.happenizedev.com
-gnesoft.com
+gnesoft.com/wp-content/ZLCRDJL/f3bon8k-867-53340-in2due1bv-t3gl2rvbl/
 gness.net
 gnexwp.travelbangla.org
 gnezdino71.ru
@@ -70005,8 +70103,7 @@ healthcorner.ae
 healthcuresandremedies.site
 healthdataknowledge.com
 healthdepartmentrewari.com
-healthdept.org/43002QOYHBJN/SWIFT/Personal
-healthdept.org/Telekom/Transaktion/112018/
+healthdept.org
 healthemade.com
 healthexpertsview.com
 healthfest.pt
@@ -70232,7 +70329,7 @@ helpimhomeless.com
 helpingblogger.com
 helpinghere.fr
 helpingpawsrescueinc.org
-helpjet.net/dl/70967328-75843699-19193941/30885056/20070223101355468_driver.exe
+helpjet.net
 helplog3021.cf
 helplog359.gq
 helpmebuyavehicle.com
@@ -71324,7 +71421,7 @@ host27.qnop.net
 host4mij.nl
 hostalcabanavaihere.com
 hostalcasablancasc.com
-hostas.ga/20190118/4C384435-9E82-4011-ACF3-78489BB98229.exe
+hostas.ga
 hostbit.tech
 hostbox.ch
 hostcare.com.br
@@ -71368,8 +71465,7 @@ hostzaa.com
 hosurbusiness.com
 hot-sites.ru
 hotabovich.ru
-hotaction.online/ru53332/AF8n4F2TUwAAtBECAFBUFwAMAP6NBukA/download%3Fftj%3D19.exe
-hotaction.online/ru53332/APHPel3MdAAAqRcCAFBUGQASAOIRQyoA/SparkBooth+6+Crack+Full+License+Key+Free+Download+All.exe?utm_source=10f1ad3cf245d803
+hotaction.online
 hotart.co.nz
 hotcode.gr
 hotcrypto.com
@@ -71504,7 +71600,7 @@ houz01.website24g.com
 houzess.com
 how-to-nampa.com
 how-to-tech.com
-howalshafikings.com/images/g7p08692/
+howalshafikings.com
 howardbenz.com
 howardbragman.com
 howardgfranklin.com
@@ -72658,7 +72754,7 @@ imagebuoy.com
 imagedecor.info
 imagedns.com
 imageflex.com.br
-imagehosting.biz
+imagehosting.biz/images/2019/02/14/in1.png
 imageia.co.il
 imagelinetechnologies.com
 imagemarketingwest.com
@@ -72741,7 +72837,12 @@ img.mailinblue.com/2098380/attachments/Quo00289.zip
 img.martatovaglieri.com
 img.martatovaglieri.it
 img.rheovest.com
-img.sobot.com
+img.sobot.com/chatres/89/msg/20190425/70d8456269fc4824ab94e61b985f4dd0.png
+img.sobot.com/chatres/89/msg/20190606/35c4e7c12f6e4f7f801acc86af945d9f.png
+img.sobot.com/chatres/89/msg/20190627/b91559ac5f6d4d2f94f9fba20121170c.png
+img.sobot.com/chatres/89/msg/20190627/d6dced5199434ee898670f773eaaa069.png
+img.sobot.com/chatres/89/msg/20191022/2be662ee79084035914e9d6a6d6be10d.png
+img.sobot.com/chatres/89/msg/20191022/78e3582c42824f17aba17feefb87ea5f.png
 img.wanghejun.cn
 img1.wsimg.com/blobby/go/716ce6c5-e07c-43a7-a685-6d934b9f51c3/downloads/1cqdpmlgu_930218.doc
 img19.vikecn.com
@@ -73141,10 +73242,7 @@ info.maitriinfosoft.com
 info2web.biz
 infobreakerz.com
 infocanadaimmigration.ca
-infocarnames.ru/ru53332/Myarcadeplugin+pro+v5-RTMD-AGnP3F0obgAA6RoCAEVHFwASADqXe4MA.exe
-infocarnames.ru/ru53332/download%3Fftj%3D19-RTMD-AF8n4F2TUwAAtBECAFBUFwAMAP6NBukA.exe
-infocarnames.ru/ru53332/experience+certificate+format+for+driver+pdf-RTMD-AAqx1l3coqAAtbecAelofwAsAl6trkiA.exe
-infocarnames.ru/ru53332/lumion+10+pro+crack+++serial+key+free+download+torrent+2020-RTMD-acxk2f3yggaavhwcae5mfwasanitnoga.exe
+infocarnames.ru
 infocentertour.ru
 infochannel.be
 infochemistry.ru
@@ -74061,6 +74159,7 @@ irwaffle.ir
 iryna.biz
 is-hp.com
 is.gd/8B3Pgg?/890427140188
+is.gd/owDlk0
 is4340.azurewebsites.net
 is45wdsed4455sdfsf.duckdns.org
 isaac.samjoemmy.com
@@ -74999,8 +75098,7 @@ jeewantagroup.org
 jefandflorencebabyshower.com
 jefestacoshop.com
 jeffandpaula.com
-jeffarchibald.ca/FILE/Invoice-14477606-Invoice-date-052118-Order-no-3568026653/
-jeffarchibald.ca/WVzVGjC/
+jeffarchibald.ca
 jeffchays.com
 jeffcm.com
 jeffcoxdeclareswar.com
@@ -75045,7 +75143,7 @@ jeopath.club
 jeponautoparts.ru
 jeppepovlsenfilm.com
 jepri-link.org
-jeremedia.com/78MB/WIRE/Smallbusiness
+jeremedia.com
 jeremflow.com
 jeremiahyap.com
 jeremydupet.fr
@@ -75418,8 +75516,7 @@ joedee.co.za
 joegie.nl
 joeing.duckdns.org
 joeing.rapiddns.ru
-joeing.warzonedns.com/j/f.msi
-joeing.warzonedns.com/j/t.msi
+joeing.warzonedns.com
 joeing2.duckdns.org
 joeksdj.nl
 joelanguell.com
@@ -75451,11 +75548,7 @@ jogodapolitica.org.br
 jogorekso.co.id
 johannes-haimann.de
 johannesson.at
-johansensolutions.com/advertising-post/open.EN.myaccount.sent.biz/
-johansensolutions.com/travel/RZZBC-Tzl82yfhREm5kdU_BoydTsBq-uDj/
-johansensolutions.com/travel/dHkcW-MjShdhRHEmmzJo9_yFLJMfbv-7cV/
-johansensolutions.com/travel/kdknH-uRqFT22SujstO0B_EVlyBnaxB-y9/
-johansensolutions.com/travel/lxrp-iw1iyBpSpbCdV7_POWcInSbZ-A4s/
+johansensolutions.com
 johida7397.xyz
 johkar.net
 john12321.5gbfree.com
@@ -77654,7 +77747,7 @@ kodi.org.pl
 kodiakpro.ca
 kodim0112sabang.com
 kodip.nfile.net
-kodjdsjsdjf.tk/mine.exe
+kodjdsjsdjf.tk
 kodlacan.site
 kodmuje.com
 kodolios.000webhostapp.com
@@ -79521,8 +79614,7 @@ lfsm.co.za
 lfz5286.com
 lg-signage.kz
 lg.icf-fx.kz
-lg4square.com/wp-content/themes/churchope/css/messg.jpg
-lg4square.com/wp-content/themes/churchope/images/messg.jpg
+lg4square.com
 lgbg.org
 lgbtmovetodenver.com
 lgflashtool.info
@@ -83627,8 +83719,7 @@ mehrsarakerman.ir
 mehti.ir
 mehuaedxb.com
 mei.kitchen
-meico.com.co/wp-content/plugins/wp-mail-smtp/33NGYR/identity/Smallbusiness
-meico.com.co/wp-content/plugins/wp-mail-smtp/33NGYR/identity/Smallbusiness/
+meico.com.co
 meidianahijab.id
 meidiaz.com
 meigaweb.com
@@ -83790,7 +83881,7 @@ menxhiqi.com
 menziesadvisory-my.sharepoint.com
 menzway.com
 meogiambeo.com
-meohaybotui.com
+meohaybotui.com/qItjGI/
 meolamdephay.com
 mera.ddns.net
 meragullabgirls.gq
@@ -84082,7 +84173,7 @@ miamijouvert.com
 miamintercom.com
 miamiplumbingrepairs.com
 miamirealtysolution.com
-miamr.com/euWn/
+miamr.com
 miandevelopers.com
 miaoshuosh.com
 miasteniagravis.uy
@@ -84161,9 +84252,7 @@ micropcsystem.com
 microratings.tk
 micros0ft1.ddns.net
 microservicesmonitor.com
-microsfotgooglegmailoutlook365mailallaregoodformailing.warzonedns.com/big/vbc.exe
-microsfotgooglegmailoutlook365mailallaregoodformailing.warzonedns.com/major/nass.xml
-microsfotgooglegmailoutlook365mailallaregoodformailing.warzonedns.com/major/patto.xml
+microsfotgooglegmailoutlook365mailallaregoodformailing.warzonedns.com
 microsoft-01.dynamic-dns.net
 microsoft-dl.com.br.md-43.webhostbox.net
 microsoft-frameworkseguro.com
@@ -84674,7 +84763,7 @@ mitracleaner.com
 mitraghavamian.com
 mitraindopaytren.com
 mitraoperaciones.com
-mitrasoft.co.id/files/Overview/mr6mev/
+mitrasoft.co.id
 mitreart.com
 mitrel.ma
 mitresource.com
@@ -85767,8 +85856,7 @@ mtbmarselis.dk
 mtbplus.de
 mtcinteriordesign.co.uk
 mtcr.co.za
-mtdc.com.my/csm/mtdc_tenant/uploadedImages/FILE/o3xzk5h347jxshu8k73a66d4j0k087_aid8t27-174416710418/
-mtdc.com.my/csm/mtdc_tenant/uploadedImages/INC/ErfRjWbgc5K/
+mtdc.com.my
 mteestore.com
 mteiedu.com
 mteng.mmj7.com
@@ -87542,7 +87630,7 @@ nextgenopx-my.sharepoint.com
 nextgentechnologybd.com
 nextindustries.jk-trading.in
 nextit.tn
-nextlevelhosting.org/wp-content/uploads/2019/09/pdf_222465.zip
+nextlevelhosting.org
 nextleveljoy.com
 nextleveltravel.es
 nextlinq.com
@@ -88987,7 +89075,7 @@ ohotnicom.com
 ohscrane.com
 ohters.de
 ohyellow.nl
-oi65.tinypic.com
+oi65.tinypic.com/2z8thcz.jpg
 oi68.tinypic.com/2saxhrc.jpg
 oiainbtaea38.silverabout.ml
 oiasdnqweqasd.com
@@ -90039,12 +90127,7 @@ osethmaayurveda.com
 osezrayonner.ma
 osgbforum.com
 oshattorney.com
-osheoufhusheoghuesd.ru/1.exe
-osheoufhusheoghuesd.ru/2.exe
-osheoufhusheoghuesd.ru/3.exe
-osheoufhusheoghuesd.ru/4.exe
-osheoufhusheoghuesd.ru/o.exe
-osheoufhusheoghuesd.ru/t.exe
+osheoufhusheoghuesd.ru
 oshodrycleaning.com
 oshonafitness.com
 oshorainternational.com
@@ -90935,6 +91018,7 @@ pastebin.com/raw/0KavcL8G
 pastebin.com/raw/0LHQqS7q
 pastebin.com/raw/0LfEkEjA
 pastebin.com/raw/0Lvb6L5R
+pastebin.com/raw/0PG7Ts5c
 pastebin.com/raw/0SNP79GL
 pastebin.com/raw/0TWZtjfA
 pastebin.com/raw/0Uqhk9H0
@@ -90957,6 +91041,7 @@ pastebin.com/raw/0xz4brub
 pastebin.com/raw/0zqpn4km
 pastebin.com/raw/10R78M4g
 pastebin.com/raw/15n6g3KE
+pastebin.com/raw/18DNHCYA
 pastebin.com/raw/19RYgwWw
 pastebin.com/raw/19fwxSVt
 pastebin.com/raw/1Avqehp8
@@ -91307,6 +91392,7 @@ pastebin.com/raw/CZrRXG1E
 pastebin.com/raw/CcDGGF0n
 pastebin.com/raw/CcEBSQi1
 pastebin.com/raw/CfPub3YH
+pastebin.com/raw/CgXtaPMR
 pastebin.com/raw/CgeX9mwc
 pastebin.com/raw/CizyBVSB
 pastebin.com/raw/Cn5v4VK0
@@ -91354,6 +91440,7 @@ pastebin.com/raw/DxUcbR37
 pastebin.com/raw/EA7QB67u
 pastebin.com/raw/EAWiGWcW
 pastebin.com/raw/EAvq6aKc
+pastebin.com/raw/ECR3zkRF
 pastebin.com/raw/EDaYzYWf
 pastebin.com/raw/EHskuTjH
 pastebin.com/raw/EKzfhwWg
@@ -91581,6 +91668,7 @@ pastebin.com/raw/M521Nb41
 pastebin.com/raw/M5vupjxv
 pastebin.com/raw/M5wekJYc
 pastebin.com/raw/M5ybFueL
+pastebin.com/raw/M7fdcyey
 pastebin.com/raw/MHbgK6Lq
 pastebin.com/raw/MJKmqfuV
 pastebin.com/raw/MKApS80G
@@ -92028,6 +92116,7 @@ pastebin.com/raw/c69acEZN
 pastebin.com/raw/c6YJ9sWs
 pastebin.com/raw/c807tPxq
 pastebin.com/raw/c9Hjbt90
+pastebin.com/raw/c9x3qBRQ
 pastebin.com/raw/cBLTktPz
 pastebin.com/raw/cBpuj1yF
 pastebin.com/raw/cE3wg3Mc
@@ -92144,6 +92233,7 @@ pastebin.com/raw/fuiRFxBh
 pastebin.com/raw/fwiPuPT5
 pastebin.com/raw/fyxuZRcJ
 pastebin.com/raw/g0PtYLVP
+pastebin.com/raw/g26u5W8U
 pastebin.com/raw/g4xxaETL
 pastebin.com/raw/g6dqrQAe
 pastebin.com/raw/gA4fNDzX
@@ -92159,6 +92249,7 @@ pastebin.com/raw/gVK7Bj4J
 pastebin.com/raw/gX2WjaS2
 pastebin.com/raw/gbhZSgCM
 pastebin.com/raw/gf7fwGj4
+pastebin.com/raw/gfSeDYFF
 pastebin.com/raw/gfehSR9H
 pastebin.com/raw/gfmuv9M1
 pastebin.com/raw/gg71FzBt
@@ -92258,10 +92349,12 @@ pastebin.com/raw/ju0X8Bgs
 pastebin.com/raw/k0v49HPJ
 pastebin.com/raw/k1gJt36z
 pastebin.com/raw/k8Tii2YC
+pastebin.com/raw/k9aBvVRV
 pastebin.com/raw/kDBQVqHA
 pastebin.com/raw/kFnSkejm
 pastebin.com/raw/kHq5wY6r
 pastebin.com/raw/kNrZdhgu
+pastebin.com/raw/kPQA6Y9X
 pastebin.com/raw/kRPzP63g
 pastebin.com/raw/kTdtaVDM
 pastebin.com/raw/kY9AtRgr
@@ -92344,6 +92437,7 @@ pastebin.com/raw/pR3Xssea
 pastebin.com/raw/pRGiJZE2
 pastebin.com/raw/pb0UyDiN
 pastebin.com/raw/pbKEFVRZ
+pastebin.com/raw/pfGbzxGR
 pastebin.com/raw/phS7sDeA
 pastebin.com/raw/phbZu0vK
 pastebin.com/raw/pkqv1vYB
@@ -92463,6 +92557,7 @@ pastebin.com/raw/uKD281XV
 pastebin.com/raw/uLJ7QS5R
 pastebin.com/raw/uLxWDXrx
 pastebin.com/raw/uQFwKHbS
+pastebin.com/raw/uQXGC6mM
 pastebin.com/raw/uS6Nnxxd
 pastebin.com/raw/uc1tXrxE
 pastebin.com/raw/ucEZV4Nt
@@ -92558,6 +92653,7 @@ pastebin.com/raw/xmWRhZG0
 pastebin.com/raw/xrDwKEdb
 pastebin.com/raw/xtSAHQY3
 pastebin.com/raw/xugyp0uK
+pastebin.com/raw/xwBi9rip
 pastebin.com/raw/xwZXF2wq
 pastebin.com/raw/xwpai2qd
 pastebin.com/raw/xx8Mg4BA
@@ -93146,8 +93242,7 @@ periscope.es
 peritofinanceiro.tk
 perkasa.ddns.net
 perkasa.undiksha.ac.id
-perkasa.warzonedns.com:8080/bin/chiefo.exe
-perkasa.warzonedns.com:8080/bin/pdf.exe
+perkasa.warzonedns.com
 perkfix.com
 perkim.bondowosokab.go.id
 perlage.net
@@ -94248,7 +94343,7 @@ pontosat.com.br
 pontotocdistrictba.com
 pontus-euxinus.ro
 pony.s-p-y.ml
-pony.warzonedns.com/RFQ/RFQ-TC002651.zip
+pony.warzonedns.com
 ponytales.nostalgicbookshelf.com
 poojasingh.me
 pool.ug
@@ -94443,6 +94538,7 @@ potlackariet.sk
 potoflogz.tk
 potolkiakcia.by
 potoretocreative.com
+potosxylogicalnreinforcementagency4thsdy.duckdns.org
 potouly.com
 potrethukum.com
 potterspots.com
@@ -95559,10 +95655,7 @@ punter.tk
 puntoardg.com
 puntodeencuentrove.com
 puntofrio.com.co
-puntoprecisoapp.com/ypb/C3p/
-puntoprecisoapp.com/ypb/CWaLp-ZvMdFq079BYzYU_FwcfChFo-dU/
-puntoprecisoapp.com/ypb/files/support/ios/EN/2019-04/
-puntoprecisoapp.com/ypb/secure.myacc.docs.com/
+puntoprecisoapp.com
 puntosilueta.com
 puntoyaparteseguros.com
 puparevieira.com
@@ -95607,10 +95700,7 @@ purpleorangedesign.com
 purrpurr.eu
 purshakar.recordraisers.in
 pursuittech.com
-pursuitvision.com/templates/pursuitvision/css/msg.jpg
-pursuitvision.com/templates/pursuitvision/css/reso.zip
-pursuitvision.com/templates/pursuitvision/images/Hybrid-App/msg.jpg
-pursuitvision.com/templates/pursuitvision/js/stroi-industr.zip
+pursuitvision.com
 purundjan.com
 purvienterprise.echoes.co.in
 purviitech.com
@@ -95964,25 +96054,7 @@ qe-zw.top
 qe-zz.top
 qeba.win
 qeducacional.com.br
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/ace/v.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/ace/vbc.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/big/MT103........MT103........MT103.......MT103......doc
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/big/v.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/big/vnc.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/deking/v.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/deking/vbc.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/jack/v.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/jack/vbc.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/king/v.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/king/vbc.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/noah/v.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/noah/vnc.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/sammy/invoce.....invocie.....invoice....invoice.doc
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/sammy/v.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/sammy/vbc.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/sammy/vnc.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/tony/V.exe
-qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com/tony/vnc.exe
+qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com
 qeoficial.es
 qeshmsport.ir
 qf.com.ve
@@ -97833,6 +97905,7 @@ retrouver-la-lumiere.fr
 rets.life
 retsreformnu.dk
 return.network
+retxv.xyz
 retype.de
 reueysouxjsala.com
 reuniakbarunmer.com
@@ -99454,7 +99527,7 @@ safelink.themeson.review
 safelinks-protection.com
 safemedicinaonline.com
 safemoneyamerica.com
-safentrix.com/adlink?cid=0
+safentrix.com
 saferoomreviews.com
 safesalesnembutal.com
 safesandsecurity.co.za
@@ -101921,7 +101994,7 @@ shoshana.ge
 shoshou.mixh.jp
 shot-life.ru
 shot.co.kr
-shotfarm.com/wp-content/themes/dante/swift-framework/custom-post-types/pik.zip
+shotfarm.com
 shourayinfotech.xyz
 shout4music.com
 shoutsonline.com
@@ -102497,7 +102570,7 @@ sjgue.com
 sjhoops.com
 sji-new.managedcoder.com
 sjoshke.nl
-sjp.co.uk
+sjp.co.uk/files/sjpupdater.exe
 sjpowersolution.com
 sjssonline.com
 sjulander.com
@@ -102883,7 +102956,7 @@ smartoria.it
 smartparkinguae.com
 smartpdfreader.com
 smartphonexyz.com
-smartpresence.id/wp-includes/blocks/Overview/
+smartpresence.id
 smartpromo.top
 smartproperty-transpark.com
 smartr.online
@@ -103918,8 +103991,7 @@ spipererck.com
 spiraldigitalinc.com
 spiralforum.hu
 spire.nu
-spiresindependent.co.uk/PAY/HJSU06047354UX/Aug-06-2018-78652883/JGY-ZHOTY-Aug-06-2018
-spiresindependent.co.uk/PAY/HJSU06047354UX/Aug-06-2018-78652883/JGY-ZHOTY-Aug-06-2018/
+spiresindependent.co.uk
 spirit-of-drini.com
 spiritexecutive.com
 spiritofbeauty.de
@@ -104852,7 +104924,7 @@ stockquestindia.com
 stocusservices.com.br
 stodfm34.ug
 stoeckmeyer.de
-stoeltje.com/AdventuresInBabysitting/l8rn/
+stoeltje.com
 stoertebeker-sylt.de
 stogt.com
 stoilamser.com
@@ -106690,7 +106762,7 @@ stu.ng
 stuartdomestics.co.uk
 stuartherring.com
 stuartmeharg.ie
-stuckenschneider.com/wp-admin/zajYUHg2R/
+stuckenschneider.com
 stud.clanweb.eu
 stud100.biz
 student.iiatlanta.com
@@ -107221,7 +107293,10 @@ support.imaitaly.biz
 support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/
 support.jbrueggemann.com
 support.m2mservices.com
-support.mdsol.com
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/
+support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
+support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
 support.nordenrecycling.com
 support.redbook.aero
 support.smartech.sn
@@ -107258,12 +107333,7 @@ surenarora.com
 sureshdangol.com.np
 sureshnaturopathy.in
 surewaytoheaven.org
-surfaceartinc.com/BANKOFAMERICA/Aug-13-2018
-surfaceartinc.com/BANKOFAMERICA/Aug-13-2018/
-surfaceartinc.com/PAYMENT/LVVW986477343JP/Aug-07-2018-8692782708/FPB-OILUR-Aug-07-2018
-surfaceartinc.com/PAYMENT/LVVW986477343JP/Aug-07-2018-8692782708/FPB-OILUR-Aug-07-2018/
-surfaceartinc.com/files/US/Aug2018/invoice
-surfaceartinc.com/files/US/Aug2018/invoice/
+surfaceartinc.com
 surfcrypto.life
 surfersupport.com
 surfing-web.com
@@ -107644,28 +107714,7 @@ systemagically.com
 systemandcode.com
 systematicsarl.com
 systematm.com
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/ach.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/alu.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/b.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/c.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/file.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/image.png
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/lov.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/love.bat
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/love.doc
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/love.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/luv.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/mori.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/v.doc
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/v.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/vbc.hta
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/lovetrue/vv.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/noahg/vbc.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/noahg/win32.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/noahg/winrar.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/sammy/vbc.exe
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/stsan/sddsdddsdsdsdsd.doc
-systemgooglegooglegooglegooglegooglegoole.warzonedns.com/stsan/stsan.doc
+systemgooglegooglegooglegooglegooglegoole.warzonedns.com
 systemmasterpage.com
 systemmicroupdate.com
 systemnet.work
@@ -109203,8 +109252,7 @@ tfhvccny.com
 tfile.7to.cn
 tfkam38pqhsh6m.com
 tfmakeup.com
-tfortytimes.com/app/app.exe
-tfortytimes.com/app/watchdog.exe?t=2019-11-28
+tfortytimes.com
 tfsupreme.com
 tftt.dairyaustralia.com.au
 tfu.ae
@@ -109301,7 +109349,9 @@ thayvoiphone.vn
 thc-annex.com
 thccamera.com
 thctiedye.com
-thdidm.zendesk.com
+thdidm.zendesk.com/attachments/token/90twtLKKvofUaiNKT8vhMBab4/
+thdidm.zendesk.com/attachments/token/i87knteqNN582AqG1Au1GQzvc/?name=new-contract-November.doc
+thdidm.zendesk.com/attachments/token/wtT4UmVAZ2oFlQshHDuiDRRGF/?name=Untitled_3LO318363.doc
 the-anchor-group.com
 the-bombay-summit.000webhostapp.com
 the-clippings.com
@@ -111407,7 +111457,7 @@ trinitas.or.id
 trinituscollective.com
 trinity.com.vn
 trinitycollege.cl
-trinitycustom.com/prisy.doc
+trinitycustom.com
 trinitydancematrix.com
 trinityempire.org
 trinityprosound.com
@@ -112881,9 +112931,7 @@ unmondedephotos.com
 unmundomejor.life
 uno.smartcommerce21.com
 unoautomation.com.br
-unokaoeojoejfghr.ru/m.exe
-unokaoeojoejfghr.ru/s.exe
-unokaoeojoejfghr.ru/t.exe
+unokaoeojoejfghr.ru
 unomagurasadar.gov.bd
 unoparjab.com.br
 unoppressive-operat.000webhostapp.com
@@ -112942,9 +112990,7 @@ update-chase.justmoveup.com
 update-prog.com
 update-res.100public.com
 update.5v.pl
-update.7h4uk.com:443/antitrojan.ps1
-update.7h4uk.com:443/cohernece.txt
-update.7h4uk.com:443/logos.png
+update.7h4uk.com
 update.att.tools
 update.bracncet.net
 update.bruss.org.ru
@@ -113245,7 +113291,7 @@ user-images.githubusercontent.com/56861392/67262078-0aa0cd80-f4d6-11e9-8639-6382
 useraccount.co
 useradmincloud.gq
 users.atw.hu
-users.skynet.be
+users.skynet.be/crisanar/defis/JEK_crackme1.7.zip
 users.telenet.be
 users.tpg.com.au
 userslinks.xyz
@@ -114188,7 +114234,7 @@ viettelelecom.com
 viettelquangbinh.vn
 viettelsolutionhcm.vn
 viettinland.com
-viettinlaw.com
+viettinlaw.com/xmtuzix/docs/k9zuyya91v/
 viettrungkhaison.com
 viettrust-vn.net
 vietucgroup.org
@@ -115197,8 +115243,7 @@ wartazone.com
 wartini.de
 warunknasakita.co.id
 warwickvalleyliving.com
-warzonedns.com/dll/upnp.exe
-warzonedns.com/upnp.exe
+warzonedns.com
 warzonesecure.com
 was-studio.com
 wasama.org
@@ -116123,9 +116168,7 @@ wincoair.com
 wind0wsactivator.host
 wind7.ru
 windailygh.com
-windefenderprotectedwindefendergooglegmail.warzonedns.com/maj.......................................................0/svchost.vbs
-windefenderprotectedwindefendergooglegmail.warzonedns.com/maj.......................................................0/v.vbs
-windefenderprotectedwindefendergooglegmail.warzonedns.com/maj.......................................................0/vbc.vbs
+windefenderprotectedwindefendergooglegmail.warzonedns.com
 windfarmdevelopments.co.nz
 windmedbiolife.com
 windmillhill.school
@@ -116318,7 +116361,8 @@ wmdcustoms.com
 wmebbiz.co.za
 wmf.desevens.com.ng
 wmg128.com
-wmi.1217bye.host
+wmi.1217bye.host/1.txt
+wmi.1217bye.host/2.txt
 wmi.4i7i.com
 wmkatz.com
 wmo-raad.inov.me
@@ -116484,15 +116528,7 @@ wordwave.academy
 work.kromedout.com
 work.vexacom.com
 work4sales.com
-workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com/0................................................................0/c.doc
-workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com/ac..........................c/....................exe
-workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com/alk...........................al/win32.exe
-workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com/alk...........................al/x.exe
-workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com/bigb/c.exe
-workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com/bigb/win32.exe
-workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com/bigb/x..x.exe
-workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com/lovess/llv.exe
-workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com/nho/win33.exe
+workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com
 workbus.ru
 workcompoptions.com
 workd.ru
@@ -118298,7 +118334,7 @@ yumitel.com
 yummiesbandra.com
 yummybox.uk
 yummydinner.com
-yumrecipefinder.com
+yumrecipefinder.com/download/Yum%20Recipe%20Finder_MTIzMDM.exe
 yumurtasiorganikkoy.com
 yumuto.discusengineeredproducts.com
 yumuy.johet.bid
@@ -118521,8 +118557,7 @@ zcb.hsdgk.cn
 zcmpompa.com
 zcnet.com
 zcomsolutions.com
-zcop.ru/java12.dat
-zcop.ru/java13r.dat
+zcop.ru
 zcsmba.org
 zcxe37adonis.top
 zdatasolutions.com.au
@@ -119002,14 +119037,7 @@ zyd1.com
 zykj.shop
 zylokk.000webhostapp.com
 zymogen.net
-zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com/big/mine.exe
-zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com/big/vc.exe
-zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com/big/win.exe
-zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com/deking/v.exe
-zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com/deking/vbc.exe
-zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com/king/v.exe
-zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com/king/vbc.exe
-zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com/workf/vbc.exe
+zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com
 zypeujun.ru
 zyr.co.jp
 zyrstststzzxccxccddfgdd.duckdns.org
