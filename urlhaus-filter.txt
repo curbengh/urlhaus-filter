@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Wed, 26 Feb 2020 12:08:55 UTC
+! Updated: Thu, 27 Feb 2020 00:08:48 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -844,6 +844,7 @@
 103.84.241.134
 103.84.241.54
 103.84.241.76
+103.86.48.111
 103.87.104.203
 103.87.44.73
 103.88.129.153
@@ -1447,6 +1448,7 @@
 107.155.120.192
 107.155.152.123
 107.155.153.179
+107.160.244.5
 107.160.244.6
 107.160.40.212
 107.160.40.4
@@ -1899,6 +1901,7 @@
 110.154.234.250
 110.154.236.72
 110.154.238.125
+110.154.239.109
 110.154.239.210
 110.154.240.139
 110.154.240.97
@@ -2096,6 +2099,7 @@
 110.178.96.235
 110.178.97.234
 110.179.0.101
+110.179.11.34
 110.179.12.18
 110.179.127.154
 110.179.132.201
@@ -2588,6 +2592,7 @@
 112.187.217.188
 112.187.217.80
 112.192.145.13
+112.192.154.151
 112.192.154.160
 112.192.155.19
 112.192.156.245
@@ -2611,6 +2616,7 @@
 112.242.184.103
 112.243.142.164
 112.249.193.175
+112.249.221.38
 112.249.70.80
 112.250.200.211
 112.254.139.161
@@ -2787,6 +2793,7 @@
 113.243.175.51
 113.243.177.186
 113.243.191.209
+113.243.217.204
 113.243.240.200
 113.243.251.128
 113.243.30.104
@@ -2876,6 +2883,7 @@
 113.248.97.94
 113.25.161.131
 113.25.163.23
+113.25.164.76
 113.25.165.95
 113.25.168.46
 113.25.170.247
@@ -2898,6 +2906,7 @@
 113.25.190.191
 113.25.191.43
 113.25.200.58
+113.25.201.121
 113.25.201.72
 113.25.203.174
 113.25.204.212
@@ -3059,6 +3068,7 @@
 114.228.53.48
 114.228.63.168
 114.229.118.119
+114.229.118.154
 114.229.139.76
 114.229.150.14
 114.229.18.192
@@ -3100,6 +3110,7 @@
 114.234.121.0
 114.234.121.155
 114.234.121.63
+114.234.125.12
 114.234.130.210
 114.234.136.188
 114.234.137.218
@@ -3589,6 +3600,7 @@
 115.209.247.231
 115.209.252.238
 115.209.253.121
+115.209.38.99
 115.209.39.67
 115.209.54.220
 115.21.142.249
@@ -3647,6 +3659,7 @@
 115.229.224.202
 115.229.227.153
 115.229.230.126
+115.229.241.224
 115.229.249.127
 115.229.249.138
 115.229.249.147
@@ -3773,6 +3786,7 @@
 115.49.239.245
 115.49.239.90
 115.49.244.154
+115.49.244.55
 115.49.245.83
 115.49.246.101
 115.49.246.210
@@ -3872,6 +3886,7 @@
 115.49.96.245
 115.49.96.40
 115.49.96.65
+115.49.97.106
 115.49.97.148
 115.49.97.36
 115.49.97.45
@@ -3879,6 +3894,7 @@
 115.50.1.211
 115.50.1.224
 115.50.148.218
+115.50.165.136
 115.50.175.89
 115.50.2.250
 115.50.210.121
@@ -4273,6 +4289,7 @@
 115.59.78.143
 115.59.78.86
 115.59.8.213
+115.59.83.248
 115.59.9.146
 115.59.9.189
 115.59.9.97
@@ -6035,6 +6052,7 @@
 121.174.70.131
 121.174.70.135
 121.174.70.160
+121.174.70.174
 121.174.70.181
 121.174.70.189
 121.174.70.208
@@ -6281,6 +6299,7 @@
 122.212.124.14
 122.225.138.101
 122.225.139.131
+122.227.126.207
 122.227.126.85
 122.230.136.44
 122.230.137.111
@@ -6548,6 +6567,7 @@
 123.11.11.56
 123.11.11.9
 123.11.12.209
+123.11.12.226
 123.11.12.251
 123.11.12.43
 123.11.12.48
@@ -6846,6 +6866,7 @@
 123.162.60.21
 123.162.60.88
 123.162.60.96
+123.163.238.162
 123.170.222.215
 123.171.6.191
 123.171.6.24
@@ -6900,6 +6921,7 @@
 123.254.209.170
 123.31.27.73
 123.4.103.61
+123.4.131.174
 123.4.133.125
 123.4.135.233
 123.4.143.229
@@ -6950,6 +6972,7 @@
 123.4.54.99
 123.4.55.108
 123.4.55.123
+123.4.55.23
 123.4.65.16
 123.4.67.217
 123.4.79.215
@@ -6962,6 +6985,7 @@
 123.5.116.145
 123.5.117.5
 123.5.118.139
+123.5.119.103
 123.5.119.50
 123.5.177.89
 123.5.184.72
@@ -7387,6 +7411,7 @@
 125.42.233.199
 125.42.233.21
 125.42.233.31
+125.42.233.74
 125.42.234.135
 125.42.234.147
 125.42.234.41
@@ -7458,6 +7483,7 @@
 125.44.215.43
 125.44.22.151
 125.44.22.168
+125.44.22.175
 125.44.22.66
 125.44.22.94
 125.44.225.178
@@ -9993,6 +10019,7 @@
 165.22.46.26
 165.22.50.215
 165.22.52.19
+165.22.55.10
 165.22.57.233
 165.22.57.246
 165.22.63.242
@@ -10240,6 +10267,7 @@
 167.71.217.232
 167.71.230.34
 167.71.237.85
+167.71.238.16
 167.71.241.245
 167.71.244.235
 167.71.248.156
@@ -10569,6 +10597,7 @@
 171.211.206.71
 171.214.244.108
 171.217.54.82
+171.217.55.188
 171.220.177.148
 171.220.177.33
 171.220.177.61
@@ -11497,6 +11526,7 @@
 172.39.59.90
 172.39.6.148
 172.39.6.227
+172.39.6.31
 172.39.6.97
 172.39.60.110
 172.39.60.13
@@ -11541,6 +11571,7 @@
 172.39.68.71
 172.39.68.88
 172.39.69.188
+172.39.69.28
 172.39.69.37
 172.39.7.108
 172.39.7.230
@@ -11617,6 +11648,7 @@
 172.39.84.103
 172.39.84.151
 172.39.84.179
+172.39.84.34
 172.39.84.40
 172.39.84.94
 172.39.85.106
@@ -12944,6 +12976,7 @@
 178.62.205.54
 178.62.206.32
 178.62.21.111
+178.62.21.171
 178.62.21.247
 178.62.212.19
 178.62.213.188
@@ -13373,6 +13406,7 @@
 180.121.230.57
 180.121.231.77
 180.121.239.105
+180.121.239.134
 180.121.83.251
 180.122.240.194
 180.123.108.85
@@ -13416,6 +13450,7 @@
 180.123.90.90
 180.123.93.37
 180.123.94.119
+180.123.96.75
 180.123.99.123
 180.124.0.243
 180.124.11.131
@@ -13434,6 +13469,7 @@
 180.124.147.15
 180.124.150.116
 180.124.151.231
+180.124.169.12
 180.124.186.248
 180.124.188.120
 180.124.190.56
@@ -13638,6 +13674,7 @@
 182.109.209.158
 182.109.59.142
 182.110.155.213
+182.110.155.71
 182.111.223.69
 182.112.1.45
 182.112.15.114
@@ -13709,6 +13746,7 @@
 182.113.203.162
 182.113.204.199
 182.113.204.212
+182.113.205.100
 182.113.205.179
 182.113.205.231
 182.113.206.250
@@ -13831,6 +13869,7 @@
 182.114.248.165
 182.114.248.212
 182.114.248.231
+182.114.248.26
 182.114.248.27
 182.114.248.40
 182.114.248.95
@@ -13971,12 +14010,14 @@
 182.117.104.145
 182.117.104.9
 182.117.106.181
+182.117.106.243
 182.117.11.180
 182.117.11.223
 182.117.12.25
 182.117.13.199
 182.117.14.181
 182.117.140.177
+182.117.15.4
 182.117.154.146
 182.117.158.101
 182.117.158.156
@@ -13990,6 +14031,7 @@
 182.117.171.203
 182.117.180.7
 182.117.181.233
+182.117.184.92
 182.117.188.54
 182.117.189.55
 182.117.206.54
@@ -14017,6 +14059,7 @@
 182.117.40.179
 182.117.40.61
 182.117.40.63
+182.117.41.100
 182.117.41.127
 182.117.41.160
 182.117.41.187
@@ -14220,6 +14263,7 @@
 182.126.100.190
 182.126.102.35
 182.126.102.66
+182.126.103.146
 182.126.103.50
 182.126.104.196
 182.126.105.32
@@ -14576,6 +14620,7 @@
 182.142.112.180
 182.142.113.100
 182.142.115.182
+182.142.119.217
 182.142.119.89
 182.143.18.124
 182.149.102.167
@@ -17534,6 +17579,7 @@
 1cx.cn
 1de.pl
 1drv.ms/u/s%21AtAqctMofmQVbd37IMslASqXsdg?download=1
+1ec6b9e8.ngrok.io
 1eight1.com
 1energy.sk
 1ezvacation.com
@@ -18480,6 +18526,7 @@
 207.154.207.113
 207.154.215.50
 207.154.216.46
+207.154.217.74
 207.154.220.45
 207.154.223.104
 207.154.232.205
@@ -18621,6 +18668,7 @@
 209.250.234.19
 209.250.243.48
 209.250.253.105
+209.250.255.172
 209.45.49.177
 209.58.160.248
 209.73.153.68
@@ -18939,6 +18987,7 @@
 212.98.188.218
 213.108.116.120
 213.109.134.116
+213.109.235.169
 213.122.157.8
 213.135.104.125
 213.135.191.183
@@ -19390,6 +19439,7 @@
 218.73.63.189
 218.74.147.142
 218.77.213.221
+218.77.231.86
 218.77.233.79
 218.77.236.153
 218.82.133.146
@@ -19501,6 +19551,7 @@
 219.155.210.200
 219.155.210.210
 219.155.210.241
+219.155.211.143
 219.155.211.155
 219.155.211.186
 219.155.211.210
@@ -19692,6 +19743,7 @@
 220.170.141.214
 220.170.141.238
 220.171.193.24
+220.171.204.1
 220.171.207.210
 220.172.158.123
 220.173.115.28
@@ -19759,6 +19811,7 @@
 221.144.153.139
 221.146.91.205
 221.15.1.77
+221.15.10.110
 221.15.100.132
 221.15.103.138
 221.15.11.167
@@ -20182,6 +20235,7 @@
 222.141.175.0
 222.141.22.189
 222.141.23.57
+222.141.248.227
 222.141.251.181
 222.141.40.28
 222.141.44.11
@@ -20227,6 +20281,7 @@
 222.142.201.51
 222.142.201.83
 222.142.201.99
+222.142.202.101
 222.142.202.233
 222.142.203.152
 222.142.203.197
@@ -20351,6 +20406,7 @@
 222.246.13.30
 222.246.20.201
 222.246.228.185
+222.246.228.193
 222.246.240.161
 222.246.240.46
 222.246.243.63
@@ -21696,6 +21752,7 @@
 36.105.14.61
 36.105.144.178
 36.105.146.140
+36.105.146.71
 36.105.147.169
 36.105.147.172
 36.105.147.65
@@ -21930,6 +21987,7 @@
 36.24.46.186
 36.24.46.210
 36.24.73.135
+36.24.73.42
 36.26.102.43
 36.26.98.25
 36.32.149.73
@@ -22084,6 +22142,7 @@
 36.96.183.233
 36.96.184.180
 36.96.185.138
+36.96.185.213
 36.96.187.104
 36.96.188.9
 36.96.204.108
@@ -22735,6 +22794,7 @@
 42.227.184.160
 42.227.184.166
 42.227.184.198
+42.227.184.226
 42.227.184.3
 42.227.185.108
 42.227.185.25
@@ -22867,6 +22927,7 @@
 42.230.206.111
 42.230.206.149
 42.230.206.228
+42.230.207.35
 42.230.207.95
 42.230.208.66
 42.230.209.115
@@ -22994,7 +23055,9 @@
 42.231.185.149
 42.231.185.9
 42.231.186.138
+42.231.187.164
 42.231.187.80
+42.231.190.3
 42.231.202.125
 42.231.205.43
 42.231.206.12
@@ -23337,6 +23400,7 @@
 42.238.135.44
 42.238.135.46
 42.238.147.84
+42.238.149.28
 42.238.150.192
 42.238.151.68
 42.238.158.19
@@ -23357,6 +23421,7 @@
 42.238.180.99
 42.238.181.191
 42.238.188.96
+42.238.189.14
 42.238.189.56
 42.238.190.137
 42.238.190.176
@@ -23411,6 +23476,7 @@
 42.239.149.44
 42.239.150.2
 42.239.150.65
+42.239.151.252
 42.239.152.133
 42.239.152.192
 42.239.153.187
@@ -23652,6 +23718,7 @@
 45.148.10.140
 45.148.10.154
 45.148.10.160
+45.148.10.166
 45.148.10.175
 45.148.10.176
 45.148.10.181
@@ -23920,6 +23987,7 @@
 45.82.153.15
 45.84.196.135
 45.84.196.191
+45.84.196.21
 45.84.196.75
 45.88.77.131
 45.88.78.34
@@ -24077,6 +24145,7 @@
 46.101.96.137
 46.101.97.80
 46.101.98.158
+46.101.98.52
 46.105.100.36
 46.105.103.57
 46.105.123.74
@@ -24457,6 +24526,7 @@
 49.112.146.92
 49.112.151.34
 49.112.155.141
+49.112.196.23
 49.112.197.115
 49.112.198.12
 49.112.198.44
@@ -24691,6 +24761,7 @@
 49.119.214.21
 49.119.215.162
 49.119.215.3
+49.119.215.30
 49.119.215.36
 49.119.215.65
 49.119.36.200
@@ -24924,6 +24995,7 @@
 49.70.33.178
 49.70.34.12
 49.70.34.180
+49.70.34.223
 49.70.36.49
 49.70.38.214
 49.70.38.238
@@ -26165,6 +26237,7 @@
 59.31.253.29
 59.32.97.208
 59.35.233.97
+59.35.234.250
 59.35.234.49
 59.35.53.37
 59.4.104.15
@@ -26628,6 +26701,7 @@
 60.210.253.145
 60.214.102.173
 60.245.59.98
+60.248.118.242
 60.248.141.87
 60.250.1.161
 60.250.231.73
@@ -26682,6 +26756,7 @@
 61.147.44.192
 61.147.66.239
 61.153.168.8
+61.158.191.193
 61.158.191.21
 61.160.213.150
 61.162.134.225
@@ -27255,6 +27330,7 @@
 61.53.229.229
 61.53.236.225
 61.53.236.33
+61.53.237.37
 61.53.239.145
 61.53.239.87
 61.53.240.218
@@ -27269,6 +27345,7 @@
 61.53.249.51
 61.53.250.241
 61.53.250.72
+61.53.251.135
 61.53.251.50
 61.53.252.158
 61.53.252.198
@@ -27291,6 +27368,7 @@
 61.53.83.56
 61.53.87.17
 61.53.88.239
+61.53.89.34
 61.54.164.149
 61.54.166.66
 61.54.168.95
@@ -28990,6 +29068,7 @@
 81.214.87.86
 81.215.194.241
 81.215.205.181
+81.215.228.13
 81.215.230.86
 81.215.30.156
 81.215.9.55
@@ -29882,6 +29961,7 @@
 91.215.26.211
 91.216.149.130
 91.217.0.134
+91.217.2.120
 91.217.221.68
 91.218.113.5
 91.218.115.54
@@ -34226,6 +34306,7 @@ antikkoy.com
 antiktravel.net
 antinomics.com
 antioch.riessgroup.com
+antipiracydetectandorganisationforfilmhs.duckdns.org
 antique-carpets.com
 antique.gamo.com.tr
 antiqueclocks.co.in
@@ -36682,6 +36763,7 @@ b-sound.co.uk
 b-styles.net
 b.catgirlsare.sexy
 b.coka.la
+b.kitchencabinetryprofessionals.com
 b.makswells.com
 b.reich.io
 b.top4top.net
@@ -44693,6 +44775,7 @@ codienlanhnme.vn
 codienphudat.vn
 codifet.com
 codingbrush.com
+codingtemple.com
 codivar.org.br
 codmvm.com
 codnit.com
@@ -49793,6 +49876,7 @@ doc-00-0g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-00-0o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/4kq7v2rdsop2c7c5kfj3r49pan47g5r2/1580205600000/16450436106015487964/*/16rfWGHIisTTJyU_XK4YBpHHntPNhU_iP?e=download
 doc-00-18-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/3j8hpuh3krq3oecffjmj84j9fs9ts0la/1549591200000/14009385843881428878/*/13YsxT47x2pcHBtyvpchwx4boab_vyLKU?e
 doc-00-2k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/1qgralgt63nbr3dsftkrvrjcvecb31qu/1582699500000/04567802101573540432/*/1N8gVOM5p8Ubm1HwolChxHidT7YoN29EE?e=download
+doc-00-2k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/vh27cdgurog69ob0494sjma74ob9kdro/1582729200000/04567802101573540432/*/1N8gVOM5p8Ubm1HwolChxHidT7YoN29EE?e=download
 doc-00-3s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/icfasa66o9j1aqmfvg1ev48nua9e83h3/1579759200000/04075242508404153795/*/1jv0yuGPtZNr-B0z68nyVw0AJAJUypz6b?e=download
 doc-00-40-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/1sq85phfgvs2lrh4vjabb9jt9esk3e9m/1582700400000/16539084320342465001/*/1tqDHCz_38SidFvdvOclf6e1_P_1vUtt3?e=download
 doc-00-40-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/njsj55tebrj1ej7epm1ijtugfgggurfa/1545033600000/12570212088129378205/*/1Ejr-YYwTzRXvmacIEezvawBjPexR6Mmo
@@ -49976,6 +50060,7 @@ doc-0g-as-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-0g-bc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/pae9s8slb5ab31uf003ce37268rb5782/1580104800000/01890263320338092889/*/1u5hYnZgWvzCLtzW-DdxJD1qbLZ4jKs4c?e=download
 doc-0g-bg-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/19unol82rubllctu0donicr31s7mseqp/1579600800000/03611993591137543159/*/11LGtph5kVxXmtmjzH_DbWmg5-CnA1h8R?e=download
 doc-0g-bg-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/i8e8bpefugf14g6cv08o4u9pd1crq4ta/1579672800000/09717453326039192070/*/1i8uzSkJhJMBgbOapt-0VMtJS4nCspzqc?e=download
+doc-0g-bg-docs.googleusercontent.com/docs/securesc/s60cf7a63kh45bsq88f3lkstqrqucjrc/ul0nlihptb8mdqtdu718j9diunr2m6hr/1582733700000/09879232076589083237/14581366145295467048Z/1N8-4uNAA5IJNZ9SSS0_AEni1FcGCK-0p?e=download
 doc-0g-c8-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/p28531eg742m567e4cl5fogn4eka3oc9/1535112000000/03026271291422084203/*/1CfyPzMhxe_k1oiwMAiXeGvacCmGUJrp6?e=download
 doc-0g-cc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/3i5utjj3olgt63hiuf6neriq4dq36b1q/1545062400000/17141853213745639104/*/1zAJnLpg7VEOUdbB03bJgq9K7cE8VUFFm?e=download
 doc-0g-cc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/aqjb1lgqotiv6ne78l59mlt65a1qim98/1580364000000/14433512525160002600/*/1SVJUbLpUTw1NLUDhLwjokOBmuDawKmqD?e=download
@@ -50035,6 +50120,7 @@ doc-0o-0c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-0o-0g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/35psjbtf31pp17te918mhvsiiccisoh3/1580277600000/09427745593351172228/*/1OHzGfO5GVQHB3VdnRAdR40LvEFE85Sch?e=download
 doc-0o-0g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/39ns6mskqtncvpqv98e9u2lrltganm83/1580450400000/01006674961349154892/*/13jWvIfY-Lk5XjPtaZpVAp8kTEqs4Otk7?e=download
 doc-0o-0s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/di4gpv7sbr4m65etndejsnejism4jnic/1551376800000/11272599324986780296/*/16K1KSLupKNe9TC7IVhNJG0K6OVPIJhA0
+doc-0o-1c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/57tubthpt84r9ui3ha4qeq16fh6c591o/1582733700000/09879232076589083237/*/1N8-4uNAA5IJNZ9SSS0_AEni1FcGCK-0p?e=download
 doc-0o-1c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/gpv2809hcj45131cv18roamgli42phue/1579528800000/15168522258363322808/*/1z710PHJOjXm_oxvcnCUoc1EkXdWfXfMV?e=download
 doc-0o-1s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/sj31lrlkdhaem227sva6f5l2e0d6u9bo/1571155200000/01826684581919947336/*/1mKVw1f5oSAnj0w6psinGll7vx9c1ovea?e=download
 doc-0o-20-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/pq24mlitvd5dcvjcv52fmp4g7dasisj6/1552579200000/13295716617792925351/*/110XzBct47wD-MZrelRz9rM9xvYhlnco2
@@ -50163,6 +50249,7 @@ doc-14-9o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7m
 doc-14-9o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/mirqngu4elmuci6nukmcc2n1fk0p02jh/1581411600000/09400636732882897174/*/1S6Z7204NKbFAy3BiJTJZtD-KlOIrvgQ-?e=download
 doc-14-9o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/pao5cbkvqdmfmd9fkp42eu8uq5h0lvje/1581355800000/09400636732882897174/*/1S6Z7204NKbFAy3BiJTJZtD-KlOIrvgQ-?e=download
 doc-14-a4-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/7lik7sjjmdbmvud6c4f6i51oti82eoe5/1580234400000/07511773390099805260/*/1fE-OwhnKZF6Re0tcsLwJH0Rst1KZ0vW7?e=download
+doc-14-ag-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/1hl3p0dpik4dgidbk8r5k2gbfvtgm12v/1582729200000/18237541117052446004/*/1kFKFujzCp5kmBVx4aShNlmDJ-uNtJz90?e=download
 doc-14-ag-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/svf7aiq83j20h3e79dasvkt7gvmo9dlc/1580536800000/03862585151009852245/*/14VueFkF-741G1To0wdXlP_Tx6gHeOMB9?e=download
 doc-14-ak-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/p0l84e28umk50b4kjnjmnpi57i7ck3kb/1579543200000/17049860571286284949/*/1b0m5bB2JFbjWee3zlc9w70_5VmHrMdIa?e=download
 doc-14-as-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/q9lrjeaunns8phasi25o878f06uhralf/1579507200000/03500850461192942988/*/1EkhqHOETGw8_3w2vOhSQ7Ce2uwPkr4s7?e=download
@@ -52814,6 +52901,7 @@ drive.google.com/uc?export=download&id=1-0_td6IVQcL41eNq-_9nYwR7fSNpTka9
 drive.google.com/uc?export=download&id=1-NtSKsmEH5CaqOKyDXPaW-4-iN08A0YQ
 drive.google.com/uc?export=download&id=1-tvGsn3wKwJ_Rl0R729Wit47dPAm9RmY
 drive.google.com/uc?export=download&id=10ApbK3m6K_7nn-dPrrjZ_k9RedNhcRlH
+drive.google.com/uc?export=download&id=10B5t-PyiotIjd29xOsTd1TK39yay8Fy-
 drive.google.com/uc?export=download&id=10V1pmfGMwQ5bk3rNjib4ESdqe9TqPOyI
 drive.google.com/uc?export=download&id=10nUsegc6bkTLJ8XVlnLGfmDm62QeyvXJ
 drive.google.com/uc?export=download&id=10rOlcE-bkknm4GUfhbPhJjjtN7PJchsL
@@ -52913,6 +53001,7 @@ drive.google.com/uc?export=download&id=1mZbfsvhdcGG2NjbwB6jo4CsDclwep8rX
 drive.google.com/uc?export=download&id=1miHwhqzVwmguNKqajR2Ab77_hGDCkfb-
 drive.google.com/uc?export=download&id=1n64ks4W9KHoTlo-8s3lmViyLBlLtMH5D
 drive.google.com/uc?export=download&id=1nT2hQWW1tOM_yxPK5_nhIm8xBVETGXdF
+drive.google.com/uc?export=download&id=1ognCmZnB0GJlw6anVnGqcLcznxhuCRmz
 drive.google.com/uc?export=download&id=1ovqTnb7sJ_0nN8taYZzwNOgLau3io_wJ
 drive.google.com/uc?export=download&id=1qCDqLvYtLdALuoy-AM0Fwov_ZZPoC6ve
 drive.google.com/uc?export=download&id=1rp33UAGDE-eSmtdSO7gdlKDAo4uZI140
@@ -61839,6 +61928,7 @@ ebaygoals.com
 ebayimages.co.uk
 ebd.bbz.kg
 ebe.dk
+ebeautytrade.com
 ebenisteriegmrs.com
 ebfit.ca
 ebi-tanha.persiangig.com
@@ -62688,6 +62778,7 @@ eliteseobusiness.com
 elitesignsonline.com
 elitesleepnw.com
 elitesport.biz
+elitestrideshockey.com
 elitetank.com
 elitetoys.dk
 elitetransmission.fr
@@ -83882,6 +83973,7 @@ meble-robert.pl
 meble.grudziadz24h.eu
 mebli-stoly.com.ua
 meblog.ir
+mebo.com.vn
 mebs-marketing.de
 mecanique-vivante.com
 mecanizadosgurrutxaga.com
@@ -91871,6 +91963,7 @@ pastebin.com/raw/BHUH1CvU
 pastebin.com/raw/BHuhFtmi
 pastebin.com/raw/BJU79pEm
 pastebin.com/raw/BJdc0ikm
+pastebin.com/raw/BK7VQdfB
 pastebin.com/raw/BK7hY2Gf
 pastebin.com/raw/BLkB7mYu
 pastebin.com/raw/BMCkd14e
@@ -92104,6 +92197,7 @@ pastebin.com/raw/J3S5pSwq
 pastebin.com/raw/J3SCRqMY
 pastebin.com/raw/J6sSHq71
 pastebin.com/raw/J7Rrkxsp
+pastebin.com/raw/J7ZXxWuR
 pastebin.com/raw/JAkhvYGQ
 pastebin.com/raw/JBSADQj5
 pastebin.com/raw/JC7kfJFp
@@ -92198,6 +92292,7 @@ pastebin.com/raw/LeURbcG7
 pastebin.com/raw/LejN0t0m
 pastebin.com/raw/LeyRn7Am
 pastebin.com/raw/Lgr3srth
+pastebin.com/raw/Lj2UbfQJ
 pastebin.com/raw/LmpwCg1r
 pastebin.com/raw/LmtcVxQw
 pastebin.com/raw/Lpby2SeY
@@ -92347,6 +92442,7 @@ pastebin.com/raw/RCWDRWxv
 pastebin.com/raw/RDDDcTN1
 pastebin.com/raw/RDzKxEH6
 pastebin.com/raw/RF2tjNmZ
+pastebin.com/raw/RFCwppSd
 pastebin.com/raw/RFHF4Z5s
 pastebin.com/raw/RFiq0vSv
 pastebin.com/raw/RFza8dqe
@@ -92761,6 +92857,7 @@ pastebin.com/raw/e6DYcgz9
 pastebin.com/raw/e8kSryaf
 pastebin.com/raw/e8zMnTJ7
 pastebin.com/raw/eAZ06Mk0
+pastebin.com/raw/eCZRZ1Ga
 pastebin.com/raw/eDMbNCxE
 pastebin.com/raw/eEqGBFWD
 pastebin.com/raw/eFL5ufx9
@@ -92810,6 +92907,7 @@ pastebin.com/raw/fYsb9L4c
 pastebin.com/raw/fZzfBkX4
 pastebin.com/raw/feLYj0DW
 pastebin.com/raw/fh0j7LK9
+pastebin.com/raw/fiDRDdkr
 pastebin.com/raw/fiFingYp
 pastebin.com/raw/fqddzuxn
 pastebin.com/raw/fr7vXFwX
@@ -92877,6 +92975,7 @@ pastebin.com/raw/hh1E37cN
 pastebin.com/raw/hnvgNA9b
 pastebin.com/raw/hq48KCAY
 pastebin.com/raw/htJ3kFGH
+pastebin.com/raw/huuwQZ0k
 pastebin.com/raw/hvAmX1RK
 pastebin.com/raw/hvkLyF2U
 pastebin.com/raw/hzLN7srw
@@ -93078,6 +93177,7 @@ pastebin.com/raw/qwK2uBUa
 pastebin.com/raw/r80fzTLv
 pastebin.com/raw/r83xfRFM
 pastebin.com/raw/rFzLADPN
+pastebin.com/raw/rLyYxxHK
 pastebin.com/raw/rQqRHd1Z
 pastebin.com/raw/rQtfery0
 pastebin.com/raw/rRBkjxcH
@@ -93165,6 +93265,7 @@ pastebin.com/raw/uQFwKHbS
 pastebin.com/raw/uQXGC6mM
 pastebin.com/raw/uS6Nnxxd
 pastebin.com/raw/uXrWYEBf
+pastebin.com/raw/ubttCLxY
 pastebin.com/raw/uc1tXrxE
 pastebin.com/raw/ucEZV4Nt
 pastebin.com/raw/udcjPyM5
@@ -93324,6 +93425,7 @@ pastebin.com/raw/zPSyq6mc
 pastebin.com/raw/zSCxDknF
 pastebin.com/raw/zTZpGfwG
 pastebin.com/raw/zTbe7wFc
+pastebin.com/raw/zVbipP9N
 pastebin.com/raw/zWyx97Rk
 pastebin.com/raw/zYz43xvK
 pastebin.com/raw/zZZhQqtZ
@@ -94659,6 +94761,7 @@ playcoin.game
 playden.in
 playfire.online
 playgrounds.tumo.org
+playgroupsrl.com
 playhard.ru
 playitforwardnashville.com
 playkey.ga
@@ -95886,6 +95989,7 @@ promocja.iwnirz.pl
 promoclass.it
 promodigital.tk
 promodont.com
+promokonyara.ru
 promolatinconferences.com
 promomitsubishitermurah.net
 promonoble.com
