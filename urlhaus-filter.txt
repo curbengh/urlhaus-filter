@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Fri, 28 Feb 2020 12:09:01 UTC
+! Updated: Sat, 29 Feb 2020 00:08:47 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -818,6 +818,7 @@
 103.82.72.202
 103.82.72.233
 103.82.72.28
+103.82.72.58
 103.82.72.62
 103.82.72.66
 103.82.72.69
@@ -896,6 +897,7 @@
 104.131.148.172
 104.131.247.50
 104.131.36.48
+104.140.114.105
 104.140.114.107
 104.140.242.40
 104.140.242.41
@@ -1435,6 +1437,7 @@
 106.5.75.94
 106.5.86.90
 106.5.93.76
+106.57.13.240
 106.57.196.211
 106.57.215.62
 106.57.9.52
@@ -1446,6 +1449,7 @@
 106.87.82.10
 106829979-802763948852434700.preview.editmysite.com
 106b.com
+107.140.225.169
 107.149.146.28
 107.150.42.178
 107.151.159.210
@@ -4409,6 +4413,7 @@
 115.63.101.125
 115.63.11.165
 115.63.11.55
+115.63.12.51
 115.63.137.17
 115.63.140.32
 115.63.141.174
@@ -6138,6 +6143,7 @@
 121.226.178.186
 121.226.178.215
 121.226.178.25
+121.226.178.87
 121.226.182.238
 121.226.182.39
 121.226.182.5
@@ -6665,6 +6671,7 @@
 123.11.198.246
 123.11.199.122
 123.11.2.248
+123.11.2.27
 123.11.201.208
 123.11.217.88
 123.11.222.205
@@ -6815,6 +6822,7 @@
 123.12.236.84
 123.12.237.233
 123.12.239.79
+123.12.240.23
 123.12.241.111
 123.12.241.162
 123.12.243.19
@@ -7551,6 +7559,7 @@
 125.44.22.168
 125.44.22.175
 125.44.22.66
+125.44.22.75
 125.44.22.94
 125.44.225.178
 125.44.225.5
@@ -7594,6 +7603,7 @@
 125.44.44.48
 125.44.44.5
 125.44.45.123
+125.44.45.139
 125.44.45.15
 125.44.45.70
 125.44.46.49
@@ -7635,6 +7645,7 @@
 125.45.74.0
 125.45.74.199
 125.45.75.119
+125.45.76.229
 125.45.76.51
 125.45.79.129
 125.45.8.144
@@ -10338,6 +10349,7 @@
 167.71.237.85
 167.71.238.16
 167.71.241.245
+167.71.244.132
 167.71.244.235
 167.71.248.156
 167.71.254.48
@@ -10855,6 +10867,7 @@
 172.36.17.81
 172.36.17.85
 172.36.18.100
+172.36.18.106
 172.36.18.127
 172.36.18.142
 172.36.18.162
@@ -11269,6 +11282,7 @@
 172.36.54.96
 172.36.55.120
 172.36.55.131
+172.36.55.188
 172.36.55.193
 172.36.55.2
 172.36.55.226
@@ -11392,6 +11406,7 @@
 172.39.13.35
 172.39.13.45
 172.39.14.111
+172.39.14.137
 172.39.14.162
 172.39.14.17
 172.39.14.33
@@ -11611,6 +11626,7 @@
 172.39.62.195
 172.39.62.245
 172.39.62.61
+172.39.63.104
 172.39.63.117
 172.39.63.165
 172.39.63.73
@@ -13775,6 +13791,7 @@
 182.112.24.153
 182.112.25.105
 182.112.26.49
+182.112.29.151
 182.112.29.171
 182.112.29.227
 182.112.34.167
@@ -13926,6 +13943,7 @@
 182.114.213.141
 182.114.213.143
 182.114.213.44
+182.114.213.6
 182.114.214.184
 182.114.214.204
 182.114.214.215
@@ -14036,6 +14054,7 @@
 182.115.215.173
 182.115.215.243
 182.115.219.218
+182.115.222.247
 182.115.230.230
 182.115.231.121
 182.115.239.227
@@ -14445,6 +14464,7 @@
 182.126.235.110
 182.126.235.114
 182.126.235.117
+182.126.235.130
 182.126.235.234
 182.126.235.80
 182.126.236.148
@@ -14993,6 +15013,7 @@
 185.102.122.2
 185.103.138.10
 185.103.138.11
+185.103.138.12
 185.103.138.17
 185.103.138.19
 185.103.138.20
@@ -15109,6 +15130,7 @@
 185.132.53.119
 185.132.53.133
 185.132.53.143
+185.132.53.149
 185.132.53.210
 185.132.53.234
 185.132.53.36
@@ -16174,6 +16196,7 @@
 187.75.24.26
 187.75.63.11
 187.76.62.90
+187.85.250.153
 187.85.253.112
 187.85.253.117
 187.85.253.164
@@ -16514,6 +16537,7 @@
 189.252.0.119
 189.253.139.2
 189.253.210.54
+189.26.178.98
 189.27.2.22
 189.32.232.54
 189.33.57.191
@@ -17186,6 +17210,7 @@
 194.126.29.234
 194.135.147.57
 194.135.91.218
+194.135.92.243
 194.135.92.252
 194.135.92.26
 194.135.93.43
@@ -18652,6 +18677,7 @@
 208.110.69.98
 208.110.71.194
 208.113.129.46
+208.115.113.32
 208.163.58.18
 208.167.239.134
 208.167.245.254
@@ -19166,6 +19192,7 @@
 213.7.246.198
 213.81.136.78
 213.81.178.115
+213.87.13.223
 213.92.198.8
 213.97.24.164
 216.128.103.225
@@ -19683,6 +19710,7 @@
 219.155.28.82
 219.155.60.194
 219.155.61.47
+219.155.86.33
 219.155.96.41
 219.155.97.221
 219.155.97.243
@@ -20253,6 +20281,7 @@
 222.139.216.148
 222.139.216.252
 222.139.222.108
+222.139.222.119
 222.139.222.122
 222.139.222.233
 222.139.222.249
@@ -20381,6 +20410,7 @@
 222.142.156.7
 222.142.157.25
 222.142.185.7
+222.142.188.207
 222.142.189.173
 222.142.191.12
 222.142.191.21
@@ -23101,6 +23131,7 @@
 42.230.25.115
 42.230.25.243
 42.230.25.251
+42.230.253.40
 42.230.27.222
 42.230.27.227
 42.230.3.21
@@ -24480,6 +24511,7 @@
 46.243.189.109
 46.246.223.33
 46.246.44.140
+46.246.45.144
 46.246.63.60
 46.248.193.75
 46.248.40.155
@@ -25243,6 +25275,7 @@
 49.81.87.46
 49.81.88.241
 49.81.91.161
+49.81.96.166
 49.81.97.248
 49.81.97.26
 49.82.10.77
@@ -26220,6 +26253,7 @@
 58.212.116.151
 58.214.206.73
 58.216.67.49
+58.216.98.162
 58.216.98.61
 58.217.42.234
 58.217.44.70
@@ -35770,6 +35804,7 @@ asiapacts.com
 asiapointpl.com
 asiatamir.ir
 asiatc.ir
+asiatic.com.pk
 asiaticcarpets-my.sharepoint.com
 asic.abdulhaseeb.work
 asicsverification.com
@@ -76314,6 +76349,17 @@ jllesur.fr
 jload01.info
 jload02.info
 jload03.info
+jload04.info/downfiles/1.exe
+jload04.info/downfiles/2.exe
+jload04.info/downfiles/3.exe
+jload04.info/downfiles/4.exe
+jload04.info/downfiles/999.exe
+jload04.info/download.php?file=1.exe
+jload04.info/download.php?file=2.exe
+jload04.info/download.php?file=3.exe
+jload04.info/download.php?file=4.exe
+jload04.info/download.php?file=999.exe
+jload05.xyz
 jlokd.club
 jlramirez.com
 jlseditions.fr
@@ -77857,6 +77903,7 @@ kentonross.com
 kentuckyinjuryaccident.com
 kenviro.com
 kenweb.co.nz
+kenyabay.com
 kenyanflies.com
 kenyantoothpaste.000webhostapp.com
 keokukstpaulucc.org
@@ -81696,6 +81743,7 @@ lqhnvuoi.lylguys.me
 lqmstore.000webhostapp.com
 lqo01.pro
 lqo02.pro
+lqo03.pro
 lr12sp10.org
 lraven.tk
 lrbw-fm.eu
@@ -88381,6 +88429,7 @@ newdentspb.ru
 newdesign.jigaweda.com
 newdimensionshealthclub-my.sharepoint.com
 newdiscoverclutch.discoverclutch.com
+newdungenessnursery.com
 neweast-tr.net
 neweducationsite.com
 newella.gr
@@ -92000,6 +92049,7 @@ pastebin.com/raw/10R78M4g
 pastebin.com/raw/15n6g3KE
 pastebin.com/raw/18DNHCYA
 pastebin.com/raw/19RYgwWw
+pastebin.com/raw/19eNid0H
 pastebin.com/raw/19fwxSVt
 pastebin.com/raw/1Avqehp8
 pastebin.com/raw/1DchT6L5
@@ -92652,6 +92702,7 @@ pastebin.com/raw/LDfGDmSe
 pastebin.com/raw/LJn1bB9P
 pastebin.com/raw/LLHBn54Q
 pastebin.com/raw/LQn0EBEW
+pastebin.com/raw/LTBTvqXJ
 pastebin.com/raw/LUDyCSAx
 pastebin.com/raw/LUga8SvL
 pastebin.com/raw/LUxCGhq8
@@ -92696,6 +92747,7 @@ pastebin.com/raw/MZaFjXR9
 pastebin.com/raw/Mc9bKeiS
 pastebin.com/raw/MeeCZMDd
 pastebin.com/raw/Mf36Lbmu
+pastebin.com/raw/MgBminTT
 pastebin.com/raw/MgaKnSuT
 pastebin.com/raw/MiCtF86w
 pastebin.com/raw/MkWmsbFC
@@ -92832,6 +92884,7 @@ pastebin.com/raw/RSnSreeW
 pastebin.com/raw/RTPt4JS4
 pastebin.com/raw/RVaPZy04
 pastebin.com/raw/Rd208bwD
+pastebin.com/raw/Rf9rkGKy
 pastebin.com/raw/RfgCsrW5
 pastebin.com/raw/Rh6y8mdQ
 pastebin.com/raw/RiMGY5fb
@@ -93031,6 +93084,7 @@ pastebin.com/raw/Y8yR8xUW
 pastebin.com/raw/YBKhSAQy
 pastebin.com/raw/YF8FyTqr
 pastebin.com/raw/YFu4J8M2
+pastebin.com/raw/YHbRUGA6
 pastebin.com/raw/YHqUuxYb
 pastebin.com/raw/YLuAc9Vk
 pastebin.com/raw/YPhyjj7c
@@ -93288,6 +93342,7 @@ pastebin.com/raw/fRbvWMSC
 pastebin.com/raw/fSfjrS3D
 pastebin.com/raw/fShhe9DA
 pastebin.com/raw/fT6CeiS1
+pastebin.com/raw/fTbZ7sPY
 pastebin.com/raw/fYsb9L4c
 pastebin.com/raw/fZzfBkX4
 pastebin.com/raw/feLYj0DW
@@ -93314,6 +93369,7 @@ pastebin.com/raw/gGVzEw5G
 pastebin.com/raw/gHeH4sXH
 pastebin.com/raw/gL1HVf1W
 pastebin.com/raw/gLUxpv5z
+pastebin.com/raw/gSU4tv5R
 pastebin.com/raw/gU33StNH
 pastebin.com/raw/gUFmsNr9
 pastebin.com/raw/gVK7Bj4J
@@ -93450,6 +93506,7 @@ pastebin.com/raw/knyBSXgJ
 pastebin.com/raw/krn3bWkf
 pastebin.com/raw/kux21KmL
 pastebin.com/raw/kvf4HFjQ
+pastebin.com/raw/kwPjf9ur
 pastebin.com/raw/kxkh4mG5
 pastebin.com/raw/kyHt4WMi
 pastebin.com/raw/kzD26e6b
@@ -93530,9 +93587,11 @@ pastebin.com/raw/pQBRGHSZ
 pastebin.com/raw/pR3Xssea
 pastebin.com/raw/pRGiJZE2
 pastebin.com/raw/pY1fXi0G
+pastebin.com/raw/pZBbTyKp
 pastebin.com/raw/pb0UyDiN
 pastebin.com/raw/pbKEFVRZ
 pastebin.com/raw/pfGbzxGR
+pastebin.com/raw/phRM38nn
 pastebin.com/raw/phS7sDeA
 pastebin.com/raw/phbZu0vK
 pastebin.com/raw/pi8ePktU
@@ -93635,6 +93694,7 @@ pastebin.com/raw/tdYEyRSV
 pastebin.com/raw/tf2JPjvN
 pastebin.com/raw/tgANesPq
 pastebin.com/raw/tgWaQ78X
+pastebin.com/raw/ti3Ri0LR
 pastebin.com/raw/tmDQAps5
 pastebin.com/raw/tpMq0Ucn
 pastebin.com/raw/tsED2tC9
@@ -103358,6 +103418,7 @@ sijin-edu.com
 sijuki.com
 sikanino.com
 sikh-history.com
+sikhbokichu.com
 sikhorhsp.com
 sikhyatra.com.pk
 sikorskyleze.com
@@ -120127,6 +120188,7 @@ zp1.duckdns.org
 zpanel123.com
 zpindyshop.com
 zplusgroupofinstitutions.org
+zppq.watashinonegai.ru
 zprb.ru
 zptransport.si
 zras.sk
