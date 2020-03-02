@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Sun, 01 Mar 2020 12:08:59 UTC
+! Updated: Mon, 02 Mar 2020 00:08:54 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1057,6 +1057,7 @@
 104.237.135.92
 104.237.152.186
 104.237.193.189
+104.237.194.147
 104.237.5.148
 104.238.149.109
 104.238.165.39
@@ -2626,6 +2627,7 @@
 112.185.243.249
 112.187.217.188
 112.187.217.80
+112.187.86.179
 112.192.145.13
 112.192.154.151
 112.192.154.160
@@ -2729,6 +2731,7 @@
 113.133.228.189
 113.133.228.204
 113.133.228.23
+113.133.228.30
 113.133.228.60
 113.133.228.91
 113.133.229.227
@@ -2845,6 +2848,7 @@
 113.243.74.249
 113.243.75.7
 113.245.136.145
+113.245.138.241
 113.245.139.122
 113.245.139.191
 113.245.139.225
@@ -3247,6 +3251,7 @@
 114.235.232.20
 114.235.232.246
 114.235.249.126
+114.235.249.210
 114.235.249.53
 114.235.250.150
 114.235.251.172
@@ -3337,6 +3342,7 @@
 114.239.108.214
 114.239.108.98
 114.239.109.243
+114.239.110.147
 114.239.112.240
 114.239.112.250
 114.239.112.255
@@ -3853,6 +3859,7 @@
 115.49.238.254
 115.49.239.245
 115.49.239.90
+115.49.241.219
 115.49.244.154
 115.49.244.55
 115.49.245.83
@@ -4632,6 +4639,7 @@
 116.241.94.251
 116.249.204.122
 116.249.239.67
+116.249.249.106
 116.249.251.58
 116.249.251.80
 116.26.112.107
@@ -5915,6 +5923,7 @@
 120.209.99.168
 120.209.99.201
 120.212.208.53
+120.212.212.210
 120.212.213.157
 120.212.216.116
 120.212.218.84
@@ -6091,6 +6100,7 @@
 120.71.99.122
 120.71.99.168
 120.71.99.172
+120.71.99.185
 120.71.99.24
 120.72.21.106
 120.72.21.98
@@ -6261,6 +6271,7 @@
 121.233.117.238
 121.233.117.50
 121.233.12.58
+121.233.15.110
 121.233.16.109
 121.233.17.97
 121.233.191.175
@@ -6303,6 +6314,7 @@
 121.234.66.209
 121.234.71.199
 121.235.225.149
+121.235.47.168
 121.235.74.231
 121.236.139.194
 121.239.120.129
@@ -6690,6 +6702,7 @@
 123.11.14.14
 123.11.14.146
 123.11.14.147
+123.11.14.194
 123.11.14.215
 123.11.14.221
 123.11.144.222
@@ -6769,6 +6782,7 @@
 123.11.39.253
 123.11.39.71
 123.11.40.167
+123.11.5.95
 123.11.56.69
 123.11.57.144
 123.11.58.111
@@ -6907,6 +6921,7 @@
 123.12.67.162
 123.12.68.129
 123.12.69.163
+123.12.69.203
 123.12.69.250
 123.12.7.151
 123.12.70.55
@@ -10776,6 +10791,7 @@
 171.240.203.7
 171.241.152.185
 171.243.157.81
+171.243.32.252
 171.245.38.79
 171.248.57.149
 171.249.17.196
@@ -11100,6 +11116,7 @@
 172.36.32.164
 172.36.32.213
 172.36.32.33
+172.36.32.5
 172.36.32.70
 172.36.33.109
 172.36.33.148
@@ -11294,6 +11311,7 @@
 172.36.5.226
 172.36.5.42
 172.36.5.46
+172.36.5.60
 172.36.50.11
 172.36.50.161
 172.36.50.168
@@ -11693,6 +11711,7 @@
 172.39.60.110
 172.39.60.13
 172.39.60.37
+172.39.61.186
 172.39.61.59
 172.39.61.77
 172.39.61.90
@@ -13584,6 +13603,7 @@
 180.121.239.105
 180.121.239.134
 180.121.83.251
+180.122.205.177
 180.122.240.194
 180.123.108.85
 180.123.144.10
@@ -14034,6 +14054,7 @@
 182.114.214.215
 182.114.214.23
 182.114.214.28
+182.114.214.33
 182.114.214.74
 182.114.214.97
 182.114.215.210
@@ -14080,6 +14101,7 @@
 182.114.251.226
 182.114.251.23
 182.114.251.234
+182.114.251.254
 182.114.251.65
 182.114.251.84
 182.114.251.89
@@ -14112,6 +14134,7 @@
 182.114.255.233
 182.114.255.239
 182.114.255.243
+182.114.255.25
 182.114.255.41
 182.114.255.89
 182.114.89.113
@@ -14283,6 +14306,7 @@
 182.118.98.192
 182.119.100.244
 182.119.102.190
+182.119.102.207
 182.119.103.32
 182.119.103.34
 182.119.103.79
@@ -14598,6 +14622,7 @@
 182.126.74.109
 182.126.74.236
 182.126.74.34
+182.126.74.83
 182.126.75.23
 182.126.76.217
 182.126.78.10
@@ -14784,6 +14809,7 @@
 182.127.74.89
 182.127.75.179
 182.127.75.235
+182.127.76.205
 182.127.77.58
 182.127.77.91
 182.127.78.51
@@ -14792,6 +14818,7 @@
 182.127.79.128
 182.127.79.169
 182.127.79.210
+182.127.79.4
 182.127.81.216
 182.127.82.103
 182.127.86.100
@@ -15898,6 +15925,7 @@
 185.29.254.131
 185.29.54.209
 185.29.8.212
+185.3.69.142
 185.3.69.16
 185.30.233.137
 185.30.45.58
@@ -17524,6 +17552,7 @@
 195.88.209.231
 195.9.216.42
 195.91.133.254
+196.116.159.95
 196.188.1.69
 196.202.194.133
 196.202.26.182
@@ -17537,6 +17566,7 @@
 196.218.25.30
 196.218.3.243
 196.218.48.82
+196.218.5.243
 196.218.53.68
 196.218.88.59
 196.219.160.248
@@ -17562,6 +17592,7 @@
 197.202.55.0
 197.202.67.25
 197.202.72.146
+197.202.85.199
 197.203.2.40
 197.205.10.21
 197.205.11.20
@@ -19737,6 +19768,7 @@
 219.154.160.249
 219.154.160.75
 219.154.162.97
+219.154.186.150
 219.154.186.37
 219.154.186.38
 219.154.188.120
@@ -19754,6 +19786,7 @@
 219.155.131.37
 219.155.132.79
 219.155.133.245
+219.155.133.74
 219.155.135.64
 219.155.142.157
 219.155.156.40
@@ -19762,6 +19795,7 @@
 219.155.162.228
 219.155.162.91
 219.155.169.175
+219.155.169.194
 219.155.170.124
 219.155.170.79
 219.155.175.184
@@ -19858,6 +19892,7 @@
 219.157.232.182
 219.157.28.56
 219.157.28.91
+219.157.43.76
 219.157.64.249
 219.157.65.10
 219.157.65.140
@@ -19998,6 +20033,7 @@
 220.190.98.216
 220.191.105.47
 220.191.39.47
+220.202.75.116
 220.202.75.171
 220.221.224.68
 220.230.116.97
@@ -20083,6 +20119,7 @@
 221.15.23.60
 221.15.23.90
 221.15.248.200
+221.15.250.59
 221.15.251.50
 221.15.4.156
 221.15.4.179
@@ -20553,6 +20590,7 @@
 222.142.227.128
 222.142.227.80
 222.142.228.207
+222.142.229.110
 222.142.229.153
 222.142.229.184
 222.142.235.146
@@ -20764,6 +20802,7 @@
 222.82.133.168
 222.82.134.8
 222.82.136.120
+222.82.140.198
 222.82.143.170
 222.82.155.47
 222.82.156.139
@@ -22360,6 +22399,7 @@
 36.82.179.161
 36.82.236.196
 36.83.194.27
+36.83.204.120
 36.83.63.126
 36.84.108.181
 36.84.141.77
@@ -22670,6 +22710,7 @@
 39.109.104.219
 39.120.177.32
 39.122.223.123
+39.148.45.250
 39.158.37.223
 39.40.211.98
 39.42.165.105
@@ -22909,6 +22950,7 @@
 42.115.66.92
 42.115.67.249
 42.115.67.71
+42.115.67.78
 42.115.68.140
 42.115.73.133
 42.115.75.31
@@ -22990,6 +23032,7 @@
 42.225.209.35
 42.225.209.37
 42.225.209.95
+42.225.210.1
 42.225.215.207
 42.225.216.184
 42.225.217.218
@@ -22999,6 +23042,7 @@
 42.225.223.11
 42.225.223.138
 42.225.228.168
+42.225.229.127
 42.225.229.201
 42.225.229.235
 42.225.229.70
@@ -23510,6 +23554,7 @@
 42.233.75.90
 42.233.78.79
 42.233.79.152
+42.233.79.237
 42.233.92.123
 42.233.96.141
 42.233.97.4
@@ -23625,6 +23670,7 @@
 42.235.58.245
 42.235.58.251
 42.235.59.141
+42.235.60.195
 42.235.61.110
 42.235.65.176
 42.235.68.11
@@ -24849,6 +24895,7 @@
 49.112.155.141
 49.112.196.23
 49.112.197.115
+49.112.198.107
 49.112.198.12
 49.112.198.44
 49.112.198.73
@@ -25043,6 +25090,7 @@
 49.116.62.251
 49.116.62.38
 49.116.72.80
+49.116.74.231
 49.116.74.254
 49.116.8.2
 49.116.96.69
@@ -25237,6 +25285,7 @@
 49.68.50.58
 49.68.51.84
 49.68.52.140
+49.68.52.186
 49.68.53.213
 49.68.54.180
 49.68.55.105
@@ -25556,6 +25605,7 @@
 49.89.234.53
 49.89.235.12
 49.89.235.32
+49.89.241.78
 49.89.242.116
 49.89.242.125
 49.89.242.236
@@ -25599,6 +25649,7 @@
 49.89.84.163
 49.89.84.17
 49.89.84.240
+49.89.85.58
 49.89.86.154
 49.89.93.219
 49.89.95.123
@@ -92300,9 +92351,11 @@ pastebin.com/raw/1Avqehp8
 pastebin.com/raw/1DchT6L5
 pastebin.com/raw/1G57f6py
 pastebin.com/raw/1Jp7uiWj
+pastebin.com/raw/1N7H7x7Z
 pastebin.com/raw/1NwWrL6U
 pastebin.com/raw/1PbjYGme
 pastebin.com/raw/1SCFyCR9
+pastebin.com/raw/1UqeQFTW
 pastebin.com/raw/1Uwm1D9k
 pastebin.com/raw/1W8151yW
 pastebin.com/raw/1YM5HMG2
@@ -92364,6 +92417,7 @@ pastebin.com/raw/2snzzHSJ
 pastebin.com/raw/2tEv6wS7
 pastebin.com/raw/2vHCXAwe
 pastebin.com/raw/2yNxkSgM
+pastebin.com/raw/2yapMCLU
 pastebin.com/raw/2zXJE5Mb
 pastebin.com/raw/32FssAnG
 pastebin.com/raw/32VwqKLv
@@ -92413,6 +92467,7 @@ pastebin.com/raw/4HfkZNrP
 pastebin.com/raw/4K6gwK2f
 pastebin.com/raw/4KEmrSdu
 pastebin.com/raw/4Kf6xHyc
+pastebin.com/raw/4MAk0qik
 pastebin.com/raw/4RDe3hzK
 pastebin.com/raw/4REjmP3V
 pastebin.com/raw/4Sxcc2nW
@@ -92436,6 +92491,7 @@ pastebin.com/raw/57FHbDxt
 pastebin.com/raw/57k9KUDM
 pastebin.com/raw/589m895i
 pastebin.com/raw/593Bq9NS
+pastebin.com/raw/5AaqYkEC
 pastebin.com/raw/5B2aK85X
 pastebin.com/raw/5BXntxVA
 pastebin.com/raw/5HUtPrrx
@@ -92599,6 +92655,7 @@ pastebin.com/raw/AF0hrbQe
 pastebin.com/raw/AFJ3YqCi
 pastebin.com/raw/AFgHTH0K
 pastebin.com/raw/AH42JpK3
+pastebin.com/raw/AHVECCKL
 pastebin.com/raw/AJ818JGC
 pastebin.com/raw/AKG652mJ
 pastebin.com/raw/AMFxUMUg
@@ -92657,6 +92714,7 @@ pastebin.com/raw/Bn82zuig
 pastebin.com/raw/Bn9VjSbA
 pastebin.com/raw/BrfjKQur
 pastebin.com/raw/BtWAw0Mb
+pastebin.com/raw/BvKt8Btz
 pastebin.com/raw/Bvmmdjkm
 pastebin.com/raw/ByEbpKpi
 pastebin.com/raw/BzxHfZ5C
@@ -92798,6 +92856,7 @@ pastebin.com/raw/Fm4XFeHT
 pastebin.com/raw/FnU3AWrB
 pastebin.com/raw/FsneN7tT
 pastebin.com/raw/FvK1Ny2v
+pastebin.com/raw/FvX2ALvX
 pastebin.com/raw/Fz3HwgZ1
 pastebin.com/raw/Fz3SreAQ
 pastebin.com/raw/G0ie0Cpk
@@ -92938,6 +92997,7 @@ pastebin.com/raw/KNr38nxu
 pastebin.com/raw/KNr8brZX
 pastebin.com/raw/KQRDhmUH
 pastebin.com/raw/KT1fXCaq
+pastebin.com/raw/KUNkru1N
 pastebin.com/raw/KWQGxq69
 pastebin.com/raw/KYk2PSMS
 pastebin.com/raw/KZsJzgz0
@@ -93037,6 +93097,7 @@ pastebin.com/raw/NLeS0qUp
 pastebin.com/raw/NPgU1dks
 pastebin.com/raw/NQVWzuzy
 pastebin.com/raw/NT30Y3AV
+pastebin.com/raw/NUi359di
 pastebin.com/raw/NVA2gRD9
 pastebin.com/raw/NWzJq5Zq
 pastebin.com/raw/NX74tctN
@@ -93152,6 +93213,7 @@ pastebin.com/raw/Rf9rkGKy
 pastebin.com/raw/RfgCsrW5
 pastebin.com/raw/Rh6y8mdQ
 pastebin.com/raw/RiMGY5fb
+pastebin.com/raw/Rp9xNv5d
 pastebin.com/raw/RrsWhkMe
 pastebin.com/raw/RsCQ00XK
 pastebin.com/raw/RwWphDcn
@@ -93429,6 +93491,7 @@ pastebin.com/raw/aBVTRfbf
 pastebin.com/raw/aKUxtSHL
 pastebin.com/raw/aKXkzzaC
 pastebin.com/raw/aLA96YdF
+pastebin.com/raw/aLf6eBxN
 pastebin.com/raw/aMnUbDuB
 pastebin.com/raw/aQwTXmsG
 pastebin.com/raw/aUinCLey
@@ -93459,6 +93522,7 @@ pastebin.com/raw/aqU4GLmW
 pastebin.com/raw/arp4cA5v
 pastebin.com/raw/asWe7Bj7
 pastebin.com/raw/asgx33Ly
+pastebin.com/raw/awS6Apzz
 pastebin.com/raw/axJbfjbW
 pastebin.com/raw/axhXa3T4
 pastebin.com/raw/b02xTctz
@@ -93467,6 +93531,7 @@ pastebin.com/raw/b2miuqbs
 pastebin.com/raw/b4XgCKMx
 pastebin.com/raw/b5CURuLA
 pastebin.com/raw/b61Mxyt6
+pastebin.com/raw/b6GrjBwa
 pastebin.com/raw/b8K3h7iv
 pastebin.com/raw/bArenSzE
 pastebin.com/raw/bJCpUte5
@@ -93534,6 +93599,7 @@ pastebin.com/raw/d6wHV7Mh
 pastebin.com/raw/d8V3GC8H
 pastebin.com/raw/d91qymBq
 pastebin.com/raw/dAfkRnEh
+pastebin.com/raw/dCGubZqY
 pastebin.com/raw/dDMqMkC9
 pastebin.com/raw/dDdax95R
 pastebin.com/raw/dFYmawCR
@@ -93775,12 +93841,14 @@ pastebin.com/raw/kY9AtRgr
 pastebin.com/raw/kbPPLSbN
 pastebin.com/raw/kd2L4NVp
 pastebin.com/raw/kdmQqiUQ
+pastebin.com/raw/kiaJURuJ
 pastebin.com/raw/kjKci9J8
 pastebin.com/raw/kjNYaw6G
 pastebin.com/raw/kjNZNa8Y
 pastebin.com/raw/kkTVvYhC
 pastebin.com/raw/knyBSXgJ
 pastebin.com/raw/krn3bWkf
+pastebin.com/raw/ksSBBkqK
 pastebin.com/raw/kux21KmL
 pastebin.com/raw/kvf4HFjQ
 pastebin.com/raw/kwPjf9ur
@@ -109917,6 +109985,7 @@ tdaprod.com.br
 tdbankdocuments.com
 tdc.manhlinh.net
 tdcind.com
+tdekhno.com.ua
 tdi.com.mx
 tdl.az
 tdmekos.ru
