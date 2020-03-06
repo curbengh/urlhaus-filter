@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Thu, 05 Mar 2020 12:08:51 UTC
+# Updated: Fri, 06 Mar 2020 00:08:51 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -1399,6 +1399,7 @@
 106.111.244.188
 106.111.251.101
 106.111.251.218
+106.111.252.13
 106.111.33.137
 106.111.33.169
 106.111.34.28
@@ -1455,6 +1456,7 @@
 106.5.86.90
 106.5.93.76
 106.57.13.240
+106.57.14.174
 106.57.196.211
 106.57.215.62
 106.57.9.52
@@ -1884,6 +1886,7 @@
 110.154.199.136
 110.154.199.228
 110.154.199.247
+110.154.2.83
 110.154.208.236
 110.154.208.32
 110.154.209.171
@@ -2642,6 +2645,7 @@
 112.184.88.60
 112.185.161.218
 112.185.243.249
+112.187.143.180
 112.187.217.188
 112.187.217.80
 112.187.86.179
@@ -2957,6 +2961,7 @@
 113.25.168.46
 113.25.170.247
 113.25.171.110
+113.25.171.159
 113.25.172.2
 113.25.172.55
 113.25.173.202
@@ -2992,6 +2997,7 @@
 113.25.210.85
 113.25.212.226
 113.25.214.114
+113.25.224.67
 113.25.226.157
 113.25.227.232
 113.25.229.109
@@ -3223,6 +3229,7 @@
 114.234.169.49
 114.234.193.100
 114.234.195.96
+114.234.209.152
 114.234.213.162
 114.234.216.43
 114.234.217.72
@@ -4386,6 +4393,7 @@
 115.59.118.119
 115.59.118.173
 115.59.120.233
+115.59.120.252
 115.59.121.229
 115.59.121.34
 115.59.14.146
@@ -4421,6 +4429,7 @@
 115.59.77.105
 115.59.77.140
 115.59.77.202
+115.59.77.211
 115.59.77.249
 115.59.77.78
 115.59.78.143
@@ -4484,6 +4493,7 @@
 115.61.54.20
 115.61.60.221
 115.61.7.248
+115.61.8.101
 115.61.8.161
 115.61.8.24
 115.61.9.100
@@ -4507,6 +4517,7 @@
 115.62.37.61
 115.62.39.171
 115.62.39.184
+115.62.40.217
 115.62.5.147
 115.62.5.41
 115.62.8.198
@@ -6303,6 +6314,7 @@
 121.226.228.5
 121.226.232.34
 121.226.234.52
+121.226.235.197
 121.226.236.112
 121.226.236.113
 121.226.236.225
@@ -6548,6 +6560,7 @@
 123.10.0.185
 123.10.1.191
 123.10.1.21
+123.10.1.240
 123.10.1.70
 123.10.10.10
 123.10.10.58
@@ -6731,6 +6744,7 @@
 123.10.55.138
 123.10.55.141
 123.10.55.99
+123.10.57.215
 123.10.57.45
 123.10.59.126
 123.10.6.126
@@ -6808,6 +6822,7 @@
 123.11.15.79
 123.11.161.131
 123.11.161.209
+123.11.165.135
 123.11.166.177
 123.11.169.125
 123.11.181.129
@@ -7609,6 +7624,7 @@
 125.40.10.62
 125.40.105.213
 125.40.113.80
+125.40.115.231
 125.40.146.43
 125.40.147.92
 125.40.150.165
@@ -11022,6 +11038,7 @@
 172.36.10.9
 172.36.10.95
 172.36.11.114
+172.36.11.129
 172.36.11.138
 172.36.11.153
 172.36.11.207
@@ -11091,6 +11108,7 @@
 172.36.17.153
 172.36.17.170
 172.36.17.189
+172.36.17.217
 172.36.17.42
 172.36.17.54
 172.36.17.60
@@ -11159,6 +11177,7 @@
 172.36.22.90
 172.36.23.117
 172.36.23.123
+172.36.23.134
 172.36.23.157
 172.36.23.165
 172.36.23.174
@@ -11407,6 +11426,7 @@
 172.36.45.132
 172.36.45.150
 172.36.45.220
+172.36.45.228
 172.36.45.244
 172.36.45.248
 172.36.45.94
@@ -12462,6 +12482,7 @@
 175.41.20.205
 175.8.115.220
 175.8.228.151
+175.8.229.137
 175.8.36.184
 175.8.36.198
 175.8.37.142
@@ -14268,6 +14289,7 @@
 182.114.250.104
 182.114.250.146
 182.114.250.148
+182.114.250.149
 182.114.250.150
 182.114.250.187
 182.114.250.203
@@ -14791,6 +14813,7 @@
 182.126.239.250
 182.126.241.236
 182.126.5.172
+182.126.5.42
 182.126.55.121
 182.126.55.221
 182.126.6.188
@@ -19573,6 +19596,7 @@
 216.176.179.106
 216.183.54.169
 216.198.66.107
+216.198.66.11
 216.198.66.121
 216.218.192.170
 216.221.192.134
@@ -19859,6 +19883,7 @@
 218.238.35.153
 218.255.247.58
 218.28.151.244
+218.29.180.191
 218.29.181.38
 218.29.183.251
 218.3.183.32
@@ -19870,6 +19895,7 @@
 218.31.156.218
 218.31.164.216
 218.31.2.90
+218.31.253.143
 218.31.253.155
 218.31.253.157
 218.31.253.209
@@ -21114,6 +21140,7 @@
 223.13.248.166
 223.13.250.213
 223.13.250.91
+223.13.26.165
 223.13.26.52
 223.13.27.103
 223.13.32.42
@@ -21195,6 +21222,7 @@
 223.150.8.208
 223.154.234.175
 223.154.40.32
+223.154.42.165
 223.154.42.219
 223.154.43.45
 223.154.80.52
@@ -22373,6 +22401,7 @@
 36.105.21.53
 36.105.24.192
 36.105.240.214
+36.105.242.103
 36.105.242.189
 36.105.242.193
 36.105.242.90
@@ -22534,6 +22563,7 @@
 36.109.65.171
 36.109.66.41
 36.109.67.149
+36.109.84.97
 36.109.85.21
 36.109.86.173
 36.109.92.235
@@ -23848,6 +23878,7 @@
 42.234.113.251
 42.234.113.68
 42.234.114.204
+42.234.115.221
 42.234.115.246
 42.234.116.178
 42.234.116.19
@@ -24368,6 +24399,7 @@
 45.147.228.74
 45.147.228.77
 45.147.229.149
+45.147.229.21
 45.148.10.140
 45.148.10.154
 45.148.10.160
@@ -25855,6 +25887,7 @@
 49.89.114.18
 49.89.116.38
 49.89.119.194
+49.89.124.183
 49.89.125.103
 49.89.127.37
 49.89.136.209
@@ -26354,6 +26387,7 @@
 5.9.178.94
 5.9.248.8
 5.95.226.79
+5.95.59.66
 5.fjwt1.crsky.com
 5.top4top.io
 5.u0148466.z8.ru
@@ -26895,6 +26929,7 @@
 59.126.203.25
 59.126.218.79
 59.126.220.144
+59.126.242.193
 59.126.245.37
 59.126.30.69
 59.126.34.190
@@ -27510,6 +27545,7 @@
 61.168.138.83
 61.168.139.168
 61.168.140.230
+61.168.140.39
 61.168.140.52
 61.168.141.75
 61.168.142.11
@@ -27519,6 +27555,7 @@
 61.168.41.32
 61.168.46.173
 61.168.47.158
+61.168.47.174
 61.168.47.210
 61.172.11.252
 61.174.124.107
@@ -28076,6 +28113,7 @@
 61.53.242.187
 61.53.243.143
 61.53.243.207
+61.53.248.30
 61.53.249.163
 61.53.249.181
 61.53.249.51
@@ -30658,6 +30696,7 @@
 91.103.2.132
 91.105.113.175
 91.105.126.31
+91.105.37.201
 91.106.75.115
 91.109.197.145
 91.113.201.90
@@ -31793,6 +31832,7 @@ abis.abis-dom.ru
 abitare.nl
 abitbet.com
 abitwindoc.ru
+abizima.gq
 abkascomarine.com
 ablades.ru
 ablaze-visuals.com
@@ -34129,6 +34169,7 @@ alqobfymyc.top
 alquilaauto.cl
 alrafahfire.com
 alrayyan-ae.com
+alrazi-pharrna.com
 alreadyhost.ithinq.net
 alry.com.br
 alsaditravel.com
@@ -43409,6 +43450,7 @@ chargement-document.icu
 chargement-document.pro
 chargement-pro.icu
 charger-battery.co.uk
+chargercoro.com
 chargeupyourbusinessbook.com
 charigaru.com
 charihome.com
@@ -47113,6 +47155,8 @@ datthocuphuquoc.xyz
 dattiec.net
 dattopantthengadi.in
 datudeli.com
+datumu.ga
+datumu.ml
 datvangthainguyen.com
 datvemaybay247.com
 datvensaigon.com
@@ -49398,6 +49442,7 @@ doanhnghiepcanbiet.info
 doanhnghiepcanbiet.net
 doanhnhantrehagiang.vn
 doanthanhnien.spktvinh.edu.vn
+doaretreat.com
 dobavljaci.com
 dobcast.uy
 dobdom.su
@@ -54340,6 +54385,7 @@ femknop.se
 femmedica.pl
 femmesdecaledonie.com
 femminent.com
+femto.pw
 femu.hu
 fenapro.org.br
 fenaq.org
@@ -55491,7 +55537,11 @@ forward-service.zp.ua
 forwardarch.com
 forwomeninscience.in.ua
 forza-lindelof.cf
+forza-lindelof.ga
+forza-lindelof.tk
 forzainsurancegroup.com
+forzalindelof.cf
+forzamaguire.tk
 forzashowband.com
 forzatattoo.com
 forzavoila.net
@@ -58364,6 +58414,7 @@ greendesign.biz
 greenebikes.com
 greenectar.com
 greenedus.com
+greenelectronicswsdy6andkitchenappliance.duckdns.org
 greenenergybarrierofatlanta.com
 greenercleanteam.com
 greenertrack.info
@@ -70480,6 +70531,7 @@ mababo-bau.eu
 mabagrgv.beget.tech
 mabanqueislamique.com
 mabconsulting.tech
+mabelis.cf
 mabit.com
 mabluna.com
 mabnanirou.com
@@ -77363,6 +77415,7 @@ nometana.com
 nomia.top
 nominas.utrng.edu.mx
 nomnyz.cf
+nomnyz.ga
 nomoprints.com
 nomore-nomoney.com
 nompareilleproductions.fr
@@ -78275,6 +78328,7 @@ okaylatest.com
 okazaki.cc
 okberitaviral.com
 okdpreview.com
+okehieugochukwucassperkroosdavid.duckdns.org
 okeymusicbox.com
 okhan.net
 oki-dental.com
@@ -82791,6 +82845,7 @@ pugliachebonta.it
 puglicarlog.com.br
 pugovkinitki.ru
 pugs-center.org
+pugterx0.s3.eu-west-2.amazonaws.com
 puisatiere.fr
 pujashoppe.in
 pujcovna-privesu-liberec.cz
@@ -83252,6 +83307,7 @@ qinchengwh.com
 qingshansq.com
 qingwise.cn
 qinner.luxeone.cn
+qinshag.com
 qinyongjin.net
 qirqle.com
 qisa.xyz
@@ -89825,6 +89881,7 @@ smn-002.onedrive-cdn.com
 smnnikishin.000webhostapp.com
 smokeshopsinc.com
 smokesock.com
+smokesome.xyz
 smoketravkueveryday.tech
 smokingpot.xyz
 smoltest.tk
@@ -90264,6 +90321,8 @@ somakx.com
 somalisuk.com
 somamradiator.com
 somanchainani.net
+somaplast.cf
+somaplast.ga
 somaplast.ml
 somaspristine.com
 somasteel.com
@@ -99928,6 +99987,7 @@ waraly.com
 warapunga.ch
 warcraftoutlet.com
 wardesign.com
+wardruz.ml
 ware.ru
 warehousefoil.com
 waresky.com
@@ -101062,6 +101122,7 @@ wmtrees.services
 wmv.vinceskillion.com
 wmzwq.cn
 wnhs.madcollective.com
+wnksupply.co.th
 wnssl.com
 wnunisa.com
 woaldi2.com
