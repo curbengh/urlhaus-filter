@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Wed, 11 Mar 2020 12:09:34 UTC
+# Updated: Thu, 12 Mar 2020 00:09:07 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -394,6 +394,7 @@
 1.71.20.207
 1.71.20.29
 1.71.20.46
+1.71.20.69
 1.71.22.221
 1.71.22.28
 1.71.57.158
@@ -2158,6 +2159,7 @@
 110.178.197.158
 110.178.197.31
 110.178.198.134
+110.178.34.55
 110.178.37.187
 110.178.40.105
 110.178.41.231
@@ -2202,6 +2204,7 @@
 110.18.194.236
 110.18.194.3
 110.180.107.188
+110.180.136.182
 110.180.75.134
 110.181.233.193
 110.181.239.132
@@ -2622,6 +2625,7 @@
 112.123.109.118
 112.123.187.200
 112.123.231.205
+112.123.61.128
 112.126.94.107
 112.133.231.109
 112.133.243.116
@@ -2921,6 +2925,7 @@
 113.245.140.71
 113.245.142.150
 113.245.143.240
+113.245.143.26
 113.245.143.51
 113.245.143.82
 113.245.145.23
@@ -3553,6 +3558,7 @@
 114.239.26.96
 114.239.27.87
 114.239.29.114
+114.239.33.138
 114.239.33.211
 114.239.33.212
 114.239.34.167
@@ -3862,6 +3868,7 @@
 115.229.255.28
 115.23.88.27
 115.230.16.93
+115.230.17.138
 115.230.17.37
 115.230.22.5
 115.230.82.235
@@ -3880,6 +3887,7 @@
 115.48.117.246
 115.48.130.99
 115.48.133.198
+115.48.133.46
 115.48.138.83
 115.48.139.87
 115.48.140.195
@@ -4024,6 +4032,7 @@
 115.49.42.41
 115.49.43.151
 115.49.43.197
+115.49.43.235
 115.49.45.188
 115.49.45.219
 115.49.46.249
@@ -4275,6 +4284,7 @@
 115.55.214.30
 115.55.215.21
 115.55.216.146
+115.55.218.85
 115.55.22.178
 115.55.22.84
 115.55.22.86
@@ -4417,9 +4427,11 @@
 115.58.132.234
 115.58.132.243
 115.58.133.164
+115.58.133.70
 115.58.134.187
 115.58.134.198
 115.58.134.41
+115.58.135.59
 115.58.135.67
 115.58.135.71
 115.58.140.40
@@ -5480,6 +5492,7 @@
 117.218.130.123
 117.218.130.244
 117.218.130.6
+117.22.236.241
 117.22.237.239
 117.22.238.74
 117.220.101.142
@@ -6284,6 +6297,7 @@
 120.71.122.230
 120.71.123.61
 120.71.136.134
+120.71.136.192
 120.71.140.199
 120.71.141.14
 120.71.186.129
@@ -7048,6 +7062,7 @@
 123.11.37.63
 123.11.37.65
 123.11.38.106
+123.11.38.52
 123.11.38.67
 123.11.39.207
 123.11.39.217
@@ -7094,6 +7109,7 @@
 123.11.75.40
 123.11.75.74
 123.11.75.80
+123.11.76.136
 123.11.76.192
 123.11.76.204
 123.11.76.90
@@ -7112,6 +7128,7 @@
 123.11.8.22
 123.11.8.250
 123.11.8.31
+123.11.8.40
 123.11.8.81
 123.11.8.98
 123.11.88.39
@@ -7830,6 +7847,7 @@
 125.41.13.203
 125.41.140.103
 125.41.153.134
+125.41.154.128
 125.41.172.143
 125.41.173.96
 125.41.174.70
@@ -8027,6 +8045,7 @@
 125.45.114.251
 125.45.120.137
 125.45.120.188
+125.45.120.201
 125.45.120.206
 125.45.120.210
 125.45.120.221
@@ -8945,6 +8964,7 @@
 14.204.5.189
 14.204.5.224
 14.204.5.40
+14.204.53.254
 14.204.53.67
 14.204.62.21
 14.205.199.212
@@ -9157,6 +9177,7 @@
 142.93.135.8
 142.93.136.146
 142.93.136.187
+142.93.137.89
 142.93.138.130
 142.93.138.217
 142.93.139.125
@@ -11132,6 +11153,7 @@
 171.112.177.248
 171.113.37.70
 171.113.39.223
+171.115.248.226
 171.117.85.112
 171.125.124.6
 171.125.74.43
@@ -11410,6 +11432,7 @@
 172.36.23.157
 172.36.23.165
 172.36.23.174
+172.36.23.194
 172.36.23.212
 172.36.23.224
 172.36.23.244
@@ -12253,6 +12276,7 @@
 172.39.82.240
 172.39.83.185
 172.39.83.250
+172.39.83.50
 172.39.83.70
 172.39.84.103
 172.39.84.151
@@ -14126,6 +14150,7 @@
 180.124.130.62
 180.124.133.35
 180.124.144.214
+180.124.146.227
 180.124.147.15
 180.124.150.116
 180.124.151.231
@@ -14347,6 +14372,7 @@
 182.111.223.69
 182.112.1.45
 182.112.10.126
+182.112.12.202
 182.112.15.114
 182.112.16.26
 182.112.177.215
@@ -15010,6 +15036,7 @@
 182.126.115.80
 182.126.116.189
 182.126.117.248
+182.126.118.233
 182.126.119.160
 182.126.119.38
 182.126.120.25
@@ -16720,6 +16747,7 @@
 187.101.244.76
 187.101.75.6
 187.101.86.53
+187.102.14.46
 187.102.51.254
 187.102.54.243
 187.102.57.151
@@ -17079,6 +17107,7 @@
 188.4.142.242
 188.4.244.73
 188.65.92.34
+188.68.244.89
 188.75.143.162
 188.75.240.200
 188.75.241.132
@@ -17645,6 +17674,8 @@
 192.236.146.234
 192.236.147.162
 192.236.154.112
+192.236.155.212
+192.236.155.213
 192.236.155.225
 192.236.155.231
 192.236.160.165
@@ -20182,6 +20213,7 @@
 217.73.62.206
 217.77.219.158
 217.8.117.22
+217.8.117.23
 217.8.117.24
 217.8.117.51
 217.8.117.53
@@ -20214,6 +20246,7 @@
 218.161.75.17
 218.161.80.86
 218.161.83.114
+218.164.152.62
 218.2.17.60
 218.203.206.137
 218.21.170.11
@@ -20643,6 +20676,7 @@
 220.168.238.31
 220.168.240.194
 220.168.240.38
+220.168.240.46
 220.170.141.214
 220.170.141.238
 220.171.193.24
@@ -20701,6 +20735,7 @@
 221.13.235.134
 221.13.235.200
 221.13.235.220
+221.13.235.239
 221.13.237.113
 221.13.237.244
 221.13.239.203
@@ -20761,6 +20796,7 @@
 221.15.251.50
 221.15.4.156
 221.15.4.179
+221.15.4.253
 221.15.4.39
 221.15.4.59
 221.15.5.148
@@ -21138,6 +21174,7 @@
 222.139.96.233
 222.140.125.179
 222.140.128.149
+222.140.128.45
 222.140.129.49
 222.140.130.117
 222.140.134.144
@@ -21821,6 +21858,7 @@
 23.82.185.164
 23.83.133.137
 23.83.133.217
+23.83.134.84
 23.92.211.212
 23.92.89.155
 23.94.137.68
@@ -22677,6 +22715,7 @@
 35.225.248.161
 35.225.3.162
 35.225.4.108
+35.225.60.190
 35.225.76.130
 35.226.12.246
 35.226.135.179
@@ -23053,6 +23092,7 @@
 36.33.173.243
 36.34.229.65
 36.35.161.153
+36.35.164.148
 36.35.50.19
 36.37.185.187
 36.37.221.37
@@ -23235,6 +23275,7 @@
 36.96.97.83
 36.96.98.87
 36.96.99.10
+36.96.99.153
 360bangla.com.bd
 360d.online
 360dbranding.com
@@ -23477,6 +23518,7 @@
 39.77.194.63
 39.81.254.230
 39.81.71.124
+39.96.77.68
 39uiewea9aa1g.coppercard.cf
 3aempire.com
 3agirl.co
@@ -24065,6 +24107,7 @@
 42.230.211.197
 42.230.216.113
 42.230.216.152
+42.230.216.186
 42.230.216.244
 42.230.217.166
 42.230.217.248
@@ -24652,6 +24695,7 @@
 42.239.147.115
 42.239.148.113
 42.239.148.223
+42.239.149.102
 42.239.149.44
 42.239.150.2
 42.239.150.65
@@ -24885,6 +24929,7 @@
 45.136.111.47
 45.136.194.160
 45.136.245.207
+45.137.154.60
 45.137.22.49
 45.137.22.59
 45.138.157.74
@@ -25025,6 +25070,7 @@
 45.231.11.156
 45.231.11.164
 45.231.11.172
+45.231.11.227
 45.232.152.232
 45.232.153.231
 45.232.156.128
@@ -26443,6 +26489,7 @@
 49.89.176.236
 49.89.180.94
 49.89.181.125
+49.89.182.204
 49.89.183.97
 49.89.185.122
 49.89.185.145
@@ -26479,6 +26526,7 @@
 49.89.223.59
 49.89.224.111
 49.89.225.241
+49.89.225.72
 49.89.226.123
 49.89.226.168
 49.89.226.35
@@ -26498,6 +26546,7 @@
 49.89.233.155
 49.89.233.205
 49.89.233.77
+49.89.234.147
 49.89.234.53
 49.89.235.12
 49.89.235.32
@@ -27029,6 +27078,7 @@
 51.254.176.79
 51.254.209.163
 51.254.23.185
+51.254.23.227
 51.254.27.116
 51.254.27.62
 51.254.37.159
@@ -27368,6 +27418,7 @@
 58.218.130.170
 58.218.16.154
 58.218.17.186
+58.218.18.38
 58.218.213.74
 58.218.3.174
 58.218.30.154
@@ -28066,6 +28117,7 @@
 61.128.42.77
 61.128.43.13
 61.128.43.191
+61.128.43.63
 61.128.54.243
 61.128.81.223
 61.128.83.148
@@ -28884,6 +28936,7 @@
 64.32.3.186
 64.34.218.28
 64.34.219.41
+64.44.133.131
 64.44.133.133
 64.44.133.134
 64.44.133.143
@@ -31103,6 +31156,7 @@
 89.230.29.78
 89.237.15.72
 89.238.181.79
+89.238.181.82
 89.239.96.164
 89.248.167.133
 89.248.168.156
@@ -32599,6 +32653,7 @@ accordlifespec.com
 accoun2-sign1-secur-ace324490748.com
 account-confirm-v060.ga
 account-serv-v12.ml
+account-support.site
 account-verification-information.sanfranciscotoseoul.com
 accountamatic.net
 accountantswoottonbassett.co.uk
@@ -35780,6 +35835,7 @@ aomua.xyz
 aomyl8.com
 aone-hotel.com
 aoneequestrian.com
+aonefire.com
 aonespot.com
 aoobee.com
 aoos.online
@@ -37362,6 +37418,7 @@ atparsco.com
 atphitech.com
 atpscan.global.hornetsecurity.com
 atr.it
+atradex.com
 atragon.co.uk
 atraits.com
 atrakniaz.ir
@@ -39643,6 +39700,7 @@ besyolplastik.com.tr
 beta-foundation.org
 beta-shopdeca.ch
 beta.adriatictours.com
+beta.artaffinittee.com
 beta.brewproductions.com
 beta.chillitorun.pl
 beta.christineborgyoga.com
@@ -40784,6 +40842,7 @@ blog.salon-do-kemin.com
 blog.salsaspotsfl.com
 blog.samgriffin.com.au
 blog.sanaozel.site
+blog.sangutours.com
 blog.satsum.com
 blog.saudiagar.net
 blog.sawanadruki.pl
@@ -43972,6 +44031,7 @@ chaithanyatravels.co.in
 chaityaenterprises.com
 chaji.im
 chaka2chakaadventures.com
+chakamardita.com
 chakamobile.com
 chakrasound.net
 chakravatnews.in
@@ -46881,6 +46941,7 @@ csw.hu
 csyuan.life
 cszmufa.ru
 ct-corp.cn
+ct.flowlesscache.xyz
 ct3-24.ru
 ct66999.tmweb.ru
 ct77.duckdns.org
@@ -47074,6 +47135,7 @@ cutepopup.com
 cutile.com
 cutm.illumine.in
 cutncurls.com
+cutox.info
 cuturl.us
 cuucwnmn.geekismylife.com
 cuupedu.com
@@ -47512,6 +47574,7 @@ dangtangdnvn.com
 dangventures.com
 danhba.dulichvietnam.com.vn
 danialent.com
+danicar.it
 daniconte.com.br
 daniek.nl
 daniel-bruns.com
@@ -52361,6 +52424,7 @@ elaptop.hu
 elarabia.designlandwebsolutions.online
 elaragones.mx
 elarce.org
+elarchivodelaesperanza.com
 elartedelaaccion.es
 elartemexicano.com.mx
 elazabtours.com
@@ -56446,6 +56510,7 @@ freestyle-spots.de
 freestyle.hk
 freetalksa.xyz
 freetoair.xyz
+freetospeak.me
 freeunweb.pro
 freewallpaperdesktop.com
 freewaydeathsquad.com
@@ -57465,6 +57530,7 @@ gdobuy.pw
 gdprofit.000webhostapp.com
 gdragroup.co.uk
 gdrif.org
+gdrintl.com
 gdscpt.co.za
 gdt.de
 gdthtgf.com
@@ -58202,6 +58268,7 @@ globalapostolicom.org
 globalautosaleslanka.com
 globalawardscheme.com
 globalbank.us
+globalbeauty-kosmetik.de
 globalbossbabes.com
 globalconsultoria.online
 globalcosmetic.ru
@@ -61518,6 +61585,7 @@ hosted.finedesignweb.com
 hostel-group911.kz
 hostelegant.com
 hostelmokotow.pl
+hostfleek.com
 hostile-gaming.fr
 hosting.drupwayinfotech.in
 hosting.mrsofttech.com
@@ -62671,6 +62739,7 @@ ikastudio.in
 ikatan.org
 ikazuchi.cba.pl
 ikbenpink.be
+ikdarkhawast.com
 ikea.gofluent.com
 ikeba-fia.unkris.ac.id
 ikebana.wacan-extranet.com
@@ -69604,6 +69673,7 @@ levocumbut.com
 lewandowskhj.nazwa.pl
 lewconav.cariadmarketing.co.uk
 lewisandclarkford.net
+lewisfamilyworks.net
 lewistonsports.com
 lex-guard.com
 lex.allensvilleplaningmill.com
@@ -70503,6 +70573,7 @@ lola-salon.ru
 lolatunde.info
 lolavandersteen.nl
 lolavendeghaz.hu
+lolel.best
 lolgreena.com
 loli-tas.cc
 loli-tas.club
@@ -73993,6 +74064,7 @@ mfg-reps.net
 mfgeorgia.ge
 mfgifts.co.in
 mfgov.ml
+mfgxt-my.sharespoint-en.com
 mfinance.mn
 mfj222.co.za
 mfletch.top
@@ -74131,6 +74203,7 @@ micosoftoutlook.dns04.com
 micro.it-lobster.com
 microaccess.in
 microagrisolution.com
+microbladingkulubu.com
 microbs.com.br
 microclan.com
 microcommindia.com
@@ -76079,6 +76152,7 @@ mwclinic.com
 mwfindia.org
 mwfloor.com
 mwfurniture.vn
+mwfxu-my.sharespoint-en.com
 mwhite.ru
 mwmkzqtg.com
 mwmummeryroofing.com
@@ -78833,6 +78907,7 @@ office-365-cloud6-2.pw
 office-archives.duckdns.org
 office-cleaner-commander.com
 office-cleaner-commanders.com
+office-cleaner-index.com
 office-constructor.ddns.net
 office.devatsu.top
 office.erlivia.ltd
@@ -79156,6 +79231,7 @@ omagroup.ru
 omaharefugees.com
 omaint.ml
 omalleyco-my.sharepoint.com
+omalll.com
 omanfleethtml.neomeric.us
 omarelbalshy.com
 omartinez.com
@@ -84432,6 +84508,7 @@ qwundqwjnd.net
 qx.bijiakeji.com
 qx.lc-zn.com
 qxgkonms.sha58.me
+qy8pgq.bn.files.1drv.com
 qybele.com
 qyhalle44.com
 qyoi11iyuau.club
@@ -84663,6 +84740,7 @@ rain.discusllc.org
 rain.djnwelding.com
 rainbow-logistic.com
 rainbowcakery.hk
+rainbowisp.info
 rainbowrealty.com
 rainbowruiruresort.com
 rainbowtrade.net
@@ -88277,6 +88355,7 @@ secure.jpmchase-online.ga
 secure.srlinea.live
 secure.staticoo.com
 secure.update.netech.date
+secure.zenithglobalplc.com
 secure2appledotjgoyang.net
 secureaccess.ru
 secureav.pw
@@ -89099,6 +89178,7 @@ sharafgq.com
 sharafprinters.com
 shardatech.org
 shards.pl
+share-oreoo-9.com
 share-relations.com
 share.dmca.gripe
 share.meerai.eu
@@ -89119,6 +89199,7 @@ sharefun.ml
 sharegroup.info
 sharemarketguruji.com
 sharepdfs.com
+sharespoint-en.com
 sharesystem.com.mx
 sharetech4u.com
 sharevission.com
@@ -89371,6 +89452,7 @@ shop.albertgrafica.com.br
 shop.angsoftech.com
 shop.aodaiaodai.com
 shop.arch.my
+shop.artaffinittee.com
 shop.avn.parts
 shop.ax6.cn
 shop.ayanawebzine.com
@@ -92414,6 +92496,7 @@ stockarchi.com
 stockbaneh.ir
 stockbusiness.xyz
 stocklab.id
+stockmarketrevolution.com
 stockpallets.com
 stockpickssystem.com
 stockquestindia.com
@@ -95321,6 +95404,7 @@ thebuyme.com
 thecafebaker.co.nz
 thecaramelsoldier.com
 thecardz.com
+thecarriers.net
 thecastlebude.org.uk
 thecatsonfire.com
 thecellar.site
@@ -96416,6 +96500,7 @@ tntnutritionuniversity.paulsaltercoaching.com
 to-purchase.ru
 to18.ir
 to9vxnzu16drzz9i.com
+toabookings.com
 toad.lol
 toadskins.com
 toancaumaketing.com
@@ -100505,6 +100590,7 @@ w04.jujingdao.com
 w077775.blob2.ge.tt
 w0alqa.dm.files.1drv.com
 w0rdpresskings.com
+w0zahq.dm.files.1drv.com
 w102294.blob2.ge.tt
 w2wfaithwear.com
 w3.153.yhlg.com
