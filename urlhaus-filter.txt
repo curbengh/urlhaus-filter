@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Thu, 26 Mar 2020 00:09:15 UTC
+! Updated: Thu, 26 Mar 2020 12:09:15 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1914,6 +1914,7 @@
 110.154.173.152
 110.154.173.161
 110.154.173.219
+110.154.173.4
 110.154.174.126
 110.154.174.183
 110.154.174.203
@@ -2094,6 +2095,7 @@
 110.155.3.211
 110.155.32.89
 110.155.34.110
+110.155.4.56
 110.155.40.201
 110.155.44.95
 110.155.46.151
@@ -2140,6 +2142,7 @@
 110.155.87.75
 110.156.12.60
 110.156.14.12
+110.156.33.93
 110.156.34.90
 110.156.37.47
 110.156.41.234
@@ -3333,6 +3336,7 @@
 114.226.126.126
 114.226.169.54
 114.226.17.219
+114.226.174.213
 114.226.196.149
 114.226.199.81
 114.226.225.158
@@ -3398,6 +3402,7 @@
 114.229.219.10
 114.229.221.230
 114.229.231.111
+114.229.231.91
 114.229.244.71
 114.229.245.123
 114.229.40.211
@@ -3650,6 +3655,7 @@
 114.239.123.15
 114.239.123.182
 114.239.124.104
+114.239.124.147
 114.239.124.99
 114.239.126.254
 114.239.129.132
@@ -3912,6 +3918,7 @@
 115.132.75.62
 115.134.0.22
 115.148.172.171
+115.149.138.108
 115.150.58.218
 115.151.18.45
 115.151.21.180
@@ -4043,6 +4050,7 @@
 115.224.213.99
 115.224.238.150
 115.224.72.41
+115.224.88.245
 115.225.104.24
 115.225.105.163
 115.225.108.114
@@ -4297,6 +4305,7 @@
 115.49.75.113
 115.49.75.147
 115.49.75.153
+115.49.75.173
 115.49.75.235
 115.49.75.3
 115.49.75.72
@@ -4465,6 +4474,7 @@
 115.54.110.96
 115.54.118.53
 115.54.128.195
+115.54.128.215
 115.54.129.10
 115.54.130.72
 115.54.134.187
@@ -4832,6 +4842,7 @@
 115.59.76.126
 115.59.76.136
 115.59.76.150
+115.59.76.195
 115.59.76.213
 115.59.76.223
 115.59.76.225
@@ -5165,6 +5176,7 @@
 116.26.113.142
 116.26.114.199
 116.26.114.47
+116.26.114.6
 116.26.115.161
 116.26.115.180
 116.26.115.196
@@ -6263,6 +6275,7 @@
 117.ip-193-70-115.eu
 1171j.projectsbit.org
 118.101.48.162
+118.112.200.139
 118.117.167.48
 118.117.50.32
 118.117.50.39
@@ -6541,6 +6554,7 @@
 120.68.2.214
 120.68.2.233
 120.68.2.33
+120.68.2.66
 120.68.2.91
 120.68.216.123
 120.68.216.223
@@ -6933,6 +6947,7 @@
 121.233.22.168
 121.233.22.40
 121.233.22.76
+121.233.22.8
 121.233.24.107
 121.233.24.34
 121.233.24.60
@@ -7394,6 +7409,7 @@
 123.11.0.137
 123.11.0.141
 123.11.0.228
+123.11.0.48
 123.11.0.94
 123.11.1.125
 123.11.1.232
@@ -7689,6 +7705,7 @@
 123.12.22.146
 123.12.220.191
 123.12.220.95
+123.12.221.108
 123.12.221.143
 123.12.221.62
 123.12.222.177
@@ -7766,6 +7783,7 @@
 123.13.0.131
 123.13.0.227
 123.13.10.226
+123.13.120.172
 123.13.121.195
 123.13.122.246
 123.13.2.165
@@ -7852,6 +7870,7 @@
 123.175.248.137
 123.175.249.123
 123.175.249.69
+123.175.251.167
 123.175.30.125
 123.18.67.177
 123.193.144.240
@@ -7992,6 +8011,7 @@
 123.5.121.187
 123.5.123.39
 123.5.125.166
+123.5.125.183
 123.5.125.191
 123.5.125.254
 123.5.127.2
@@ -8693,6 +8713,7 @@
 125.45.75.119
 125.45.76.109
 125.45.76.229
+125.45.76.238
 125.45.76.51
 125.45.78.59
 125.45.79.129
@@ -9679,6 +9700,7 @@
 140.224.60.30
 140.224.61.122
 140.227.27.252
+140.237.255.239
 140.240.138.22
 140.82.24.184
 140.82.3.31
@@ -10568,6 +10590,7 @@
 157.245.249.236
 157.245.249.47
 157.245.250.21
+157.245.253.245
 157.245.33.114
 157.245.33.187
 157.245.35.20
@@ -11973,6 +11996,7 @@
 172.36.1.123
 172.36.1.142
 172.36.1.163
+172.36.1.183
 172.36.1.208
 172.36.1.209
 172.36.1.21
@@ -12234,6 +12258,7 @@
 172.36.3.250
 172.36.3.42
 172.36.3.66
+172.36.30.132
 172.36.30.133
 172.36.30.190
 172.36.30.20
@@ -12548,6 +12573,7 @@
 172.36.55.25
 172.36.55.251
 172.36.55.35
+172.36.55.62
 172.36.55.65
 172.36.55.85
 172.36.56.134
@@ -13052,6 +13078,7 @@
 172.39.81.195
 172.39.81.203
 172.39.81.225
+172.39.81.34
 172.39.81.46
 172.39.81.50
 172.39.81.71
@@ -13392,6 +13419,7 @@
 175.11.194.203
 175.11.195.157
 175.11.195.65
+175.11.195.90
 175.11.212.108
 175.11.212.156
 175.11.212.197
@@ -13433,6 +13461,7 @@
 175.201.20.132
 175.201.33.225
 175.202.162.120
+175.202.71.203
 175.204.252.158
 175.204.80.151
 175.205.246.100
@@ -14177,6 +14206,7 @@
 178.128.148.138
 178.128.149.0
 178.128.15.245
+178.128.150.13
 178.128.151.76
 178.128.152.57
 178.128.152.65
@@ -14954,6 +14984,7 @@
 180.123.212.249
 180.123.212.5
 180.123.22.114
+180.123.224.22
 180.123.225.72
 180.123.230.186
 180.123.233.56
@@ -14985,6 +15016,7 @@
 180.123.85.140
 180.123.90.90
 180.123.91.214
+180.123.92.237
 180.123.93.37
 180.123.94.119
 180.123.96.75
@@ -15183,6 +15215,7 @@
 181.163.76.97
 181.164.251.100
 181.166.100.16
+181.167.251.49
 181.174.164.115
 181.174.166.137
 181.174.166.164
@@ -15423,6 +15456,7 @@
 182.113.247.79
 182.113.42.52
 182.113.49.193
+182.113.58.37
 182.113.58.68
 182.113.68.61
 182.114.156.79
@@ -15434,6 +15468,7 @@
 182.114.194.89
 182.114.199.0
 182.114.2.229
+182.114.20.91
 182.114.200.251
 182.114.207.226
 182.114.208.118
@@ -16229,6 +16264,7 @@
 182.127.151.32
 182.127.155.145
 182.127.155.56
+182.127.156.246
 182.127.159.184
 182.127.160.142
 182.127.162.8
@@ -16509,6 +16545,7 @@
 182.96.93.211
 183.0.203.145
 183.0.203.216
+183.1.86.46
 183.1.86.84
 183.100.109.156
 183.100.148.225
@@ -19027,6 +19064,7 @@
 194.15.36.166
 194.15.36.168
 194.15.36.216
+194.15.36.245
 194.15.36.41
 194.15.36.42
 194.15.36.53
@@ -21339,6 +21377,7 @@
 218.0.163.29
 218.147.43.28
 218.147.55.114
+218.148.170.82
 218.150.119.180
 218.150.192.56
 218.156.26.85
@@ -21755,6 +21794,7 @@
 220.128.233.122
 220.128.233.169
 220.128.96.172
+220.132.105.127
 220.132.110.123
 220.132.120.219
 220.132.130.90
@@ -22250,6 +22290,8 @@
 222.138.179.96
 222.138.180.194
 222.138.180.237
+222.138.180.34
+222.138.181.136
 222.138.181.252
 222.138.181.53
 222.138.182.141
@@ -22278,6 +22320,7 @@
 222.138.189.163
 222.138.189.219
 222.138.189.223
+222.138.190.135
 222.138.190.21
 222.138.190.25
 222.138.190.93
@@ -22355,6 +22398,7 @@
 222.139.27.222
 222.139.27.25
 222.139.28.146
+222.139.28.84
 222.139.29.100
 222.139.33.183
 222.139.37.54
@@ -22648,6 +22692,7 @@
 222.242.150.80
 222.242.159.200
 222.242.159.77
+222.242.182.75
 222.242.183.201
 222.242.183.222
 222.242.183.47
@@ -22686,6 +22731,7 @@
 222.74.186.180
 222.74.186.186
 222.74.214.122
+222.78.17.95
 222.80.131.11
 222.80.131.141
 222.80.131.2
@@ -23148,6 +23194,7 @@
 23.94.62.127
 23.94.65.53
 23.94.65.55
+23.95.18.84
 23.95.20.154
 23.95.200.195
 23.95.226.132
@@ -25196,6 +25243,7 @@
 42.225.204.7
 42.225.205.155
 42.225.205.209
+42.225.206.11
 42.225.206.148
 42.225.206.183
 42.225.206.215
@@ -25567,6 +25615,7 @@
 42.230.43.221
 42.230.45.79
 42.230.5.210
+42.230.50.192
 42.230.50.75
 42.230.51.107
 42.230.51.23
@@ -25581,6 +25630,7 @@
 42.230.58.204
 42.230.6.232
 42.230.60.110
+42.230.61.17
 42.230.62.207
 42.230.62.91
 42.230.7.111
@@ -25833,6 +25883,7 @@
 42.233.138.157
 42.233.139.154
 42.233.144.221
+42.233.145.163
 42.233.147.123
 42.233.149.14
 42.233.149.189
@@ -26263,6 +26314,7 @@
 42.239.205.98
 42.239.206.14
 42.239.207.12
+42.239.209.108
 42.239.210.187
 42.239.211.215
 42.239.212.230
@@ -26774,6 +26826,7 @@
 45.84.196.162
 45.84.196.191
 45.84.196.21
+45.84.196.234
 45.84.196.75
 45.88.77.131
 45.88.78.34
@@ -26959,6 +27012,7 @@
 46.121.26.229
 46.121.82.70
 46.130.127.210
+46.146.113.253
 46.146.224.113
 46.147.193.171
 46.147.200.240
@@ -27336,6 +27390,7 @@
 49.112.155.141
 49.112.196.23
 49.112.197.115
+49.112.197.58
 49.112.198.107
 49.112.198.12
 49.112.198.44
@@ -27466,6 +27521,7 @@
 49.116.18.151
 49.116.182.220
 49.116.182.31
+49.116.183.120
 49.116.183.41
 49.116.19.102
 49.116.197.208
@@ -27478,6 +27534,7 @@
 49.116.210.114
 49.116.213.177
 49.116.214.13
+49.116.214.204
 49.116.214.80
 49.116.215.200
 49.116.217.54
@@ -27587,6 +27644,7 @@
 49.117.191.202
 49.117.191.252
 49.119.188.56
+49.119.189.124
 49.119.189.223
 49.119.189.98
 49.119.190.235
@@ -28032,6 +28090,7 @@
 49.82.8.106
 49.82.9.6
 49.83.144.113
+49.84.108.5
 49.84.114.85
 49.84.124.8
 49.84.125.104
@@ -29151,6 +29210,7 @@
 58zwp.com
 59.0.105.231
 59.0.212.36
+59.0.78.18
 59.1.143.196
 59.1.81.1
 59.100.23.20
@@ -30467,7 +30527,9 @@
 61.54.223.166
 61.54.223.50
 61.54.238.122
+61.54.239.145
 61.54.240.122
+61.54.248.10
 61.54.248.219
 61.54.248.248
 61.54.250.126
@@ -30658,6 +30720,7 @@
 64.52.22.139
 64.52.23.27
 64.52.87.76
+64.53.172.125
 64.57.168.14
 64.57.168.148
 64.57.168.18
@@ -32654,6 +32717,7 @@
 86.225.71.97
 86.34.66.189
 86.35.153.146
+86.35.221.136
 86.35.43.220
 86.5.70.142
 86.63.78.214
@@ -34397,7 +34461,8 @@ academicrastreweb.com
 academruk.ru
 academy.appspatrols.com
 academy.desevens.com.ng
-academy.seongon.com
+academy.seongon.com/wp-content/4h2x11317/
+academy.seongon.com/wp-content/viw/
 academydf.com
 academykar.ir
 academyskate.ir
@@ -34955,8 +35020,7 @@ adrite.com
 adroitlyadvertising.com
 adrolling.co.uk
 ads.actmol.by
-ads.hanggiadinh.com/Webservices/RedirectV2/RedirectAds.exe
-ads.hanggiadinh.com/Webservices/RedirectV2/RedirectService.exe
+ads.hanggiadinh.com
 ads.kalabisim.com
 adsapomg.space
 adsdeedee.com
@@ -35610,8 +35674,7 @@ aigavicenza.it
 aigforms.myap.co.za
 aiglemovies.com
 aihealth.vn
-aiiaiafrzrueuedur.ru/o.exe
-aiiaiafrzrueuedur.ru/t.exe
+aiiaiafrzrueuedur.ru
 aiineh.com
 aiit.ahbys.com
 aijdjy.com
@@ -39707,7 +39770,13 @@ avenue5.co.in.cp-in-10.webhostbox.net
 avenzis.nl
 averefiducia.com
 averfoodrs.eu
-averin.pro
+averin.pro/EC2UKr
+averin.pro/EC2UKr/
+averin.pro/KGZN4tJaS/
+averin.pro/Ml8GR/
+averin.pro/fonts/IRS-Transcripts-June-2018-04/0/
+averin.pro/iofR/
+averin.pro/j7oL/
 averson.by
 averybit.com
 aveslor.com
@@ -45082,7 +45151,7 @@ camisolaamarela.pt
 camiticket.com
 camiworldwide.in
 camlikkamping.com
-cammi.it/components/UPS-View/Mar-13-18-03-33-51/
+cammi.it
 camnangtrithuc.com
 campagnesms.info
 campaigns.actionable-science.com
@@ -48628,8 +48697,7 @@ confidentlearners.co.nz
 confidentlook.co.uk
 confidentum.lv
 config.cqhbkjzx.com
-config.cqmjkjzx.com/bug/gspdf/LightPdfUpdater.exe
-config.cqmjkjzx.com/src/EasilyPdf/update/EasilyPDFUpdatePack.exe
+config.cqmjkjzx.com
 config.hyzmbz.com
 config.kuaisousou.top
 config.myjhxl.com
@@ -49385,6 +49453,7 @@ creditpretinternational.com
 creditpuls.com.ua
 creditsmilitary.xyz
 creditupper.com
+credoaz.com
 creedcraft.net
 creekviewbasketball.org
 cref19.org.br
@@ -49688,7 +49757,7 @@ ctadamsauthor.com
 ctaxgroup.co.uk
 ctb.kiev.ua
 ctbiblesociety.org
-ctc.com.sg
+ctc.com.sg/travelclub/sites/acessos/0019203/
 ctcsports.co.za
 ctec.ufal.br
 ctet.testlabz.com
@@ -50729,7 +50798,7 @@ dbcomestic.com
 dbecome.top
 dbfuppsala.se
 dbinario.com
-dbo.ca.gov/forms/tma/callreport_forms/Call_Report_NonNMLS_2018-04-17.xls
+dbo.ca.gov
 dboyusa.online
 dbravo.pro
 dbs-ebank.com
@@ -54135,6 +54204,7 @@ dogulabs.com
 dogunetajans.com
 dogustarmobilya.com
 dogway.ru
+doha-media.com
 dohka44.web-master-2018.pp.ua
 doibietchangconchi8899.com
 doimoicongngheviet.com
@@ -54315,7 +54385,7 @@ donnebella.com
 donnerreuschel.com
 donphenom.al
 donpomodoro.com.co
-donsinout.info
+donsinout.info/doc/putty.exe
 donsly.usa.cc
 donsworld.org
 dontlitigate.com
@@ -56374,6 +56444,7 @@ drive.google.com/uc?export=download&id=10Ox6EX1bvbf6hU2_Z0GRbHRgfxlA3K_I
 drive.google.com/uc?export=download&id=10Pa1XGV2un0jr3_2eHxexv5ImJB8p2vz
 drive.google.com/uc?export=download&id=10V1pmfGMwQ5bk3rNjib4ESdqe9TqPOyI
 drive.google.com/uc?export=download&id=10VF43QBZfTE5X2NNI6HFr7Dq2jA9gcuy
+drive.google.com/uc?export=download&id=10h9Z2TVeipSQNSXmNJgnkBHmzHUnaARW
 drive.google.com/uc?export=download&id=10nAXipyS351C7mC-hS7sn9JheZ6RzGhG
 drive.google.com/uc?export=download&id=10nUsegc6bkTLJ8XVlnLGfmDm62QeyvXJ
 drive.google.com/uc?export=download&id=10rOlcE-bkknm4GUfhbPhJjjtN7PJchsL
@@ -56390,6 +56461,7 @@ drive.google.com/uc?export=download&id=11aK18X77DKAFaP-2iPBEsCtl62vRllI7
 drive.google.com/uc?export=download&id=11bWcSuqhCojAZBXdrygNdDyQLHFGDI41
 drive.google.com/uc?export=download&id=11f206Mr4RSDJnXfiXKQNYiqgNbzNFhHU
 drive.google.com/uc?export=download&id=11fzGuGcIurpCYnTae_MTlhtH4WpYdX0h
+drive.google.com/uc?export=download&id=11gsxnBxEfe18C1fAYV9kpdESsdsXUox3
 drive.google.com/uc?export=download&id=11okWnMF9Z44_tqdP4OA1BTJ2yGD-hF4O
 drive.google.com/uc?export=download&id=11wtBQg8bI5g2tl0-N4D4kIIo9stcTWlV
 drive.google.com/uc?export=download&id=11wwJeVrtQWqBc6Fdwnb9WxeaeBzzrICz
@@ -56441,6 +56513,7 @@ drive.google.com/uc?export=download&id=156jJ0UX2xPywsDcV6B2DeReo3cHSJkpv
 drive.google.com/uc?export=download&id=158GmnTd_9T-Wvpx5Y6N7S3tQeLFEefQW
 drive.google.com/uc?export=download&id=15ADg6S_FuFA8NNrZ7phVmB-GB0gMxBDp
 drive.google.com/uc?export=download&id=15AUSP6Ynk-dAwHwjE-MZXfGaKlTY0k2Z
+drive.google.com/uc?export=download&id=15C9FZOz2o-ZTbr2yZLgdCyPftjkZ8Fwd
 drive.google.com/uc?export=download&id=15Ewu_2JeHQlKaNffOhCNYiKMXxekHsAT
 drive.google.com/uc?export=download&id=15I7TlUI3zAJBosyToVIHW_6r1Je7l3wI
 drive.google.com/uc?export=download&id=15OZJQpd509PmLGB7-r6hRXEZNnbv8A31
@@ -56466,6 +56539,7 @@ drive.google.com/uc?export=download&id=16Eb8p8uE52k7Nb-f6evA8Z3BVHK7IEZe
 drive.google.com/uc?export=download&id=16HzBUSc3UNgBzKdUnijocu0c-f2RcisC
 drive.google.com/uc?export=download&id=16ICE9lldU0djFMiPaJdgxG7CWlgM5Xmr
 drive.google.com/uc?export=download&id=16JLBw_d-vabHl7j2oDMukMbQSBEFWMib
+drive.google.com/uc?export=download&id=16JTTmjPCjreJQTr7e2sAKulv3wdbZmCv
 drive.google.com/uc?export=download&id=16KP3IocnQb5m5zefE1jxwAaeQXUEBIgQ
 drive.google.com/uc?export=download&id=16So116HdgKqg6OqpZSqvnl9WEOkMpTJ5
 drive.google.com/uc?export=download&id=16Vl-0QHfn030Jx7SsOUWLu-w6GLHwc8r
@@ -56511,6 +56585,7 @@ drive.google.com/uc?export=download&id=19ruXOF2CNuy1df5X1HJo6HWo537Lr91u
 drive.google.com/uc?export=download&id=19thcoeUYN5QQMytUjbAmQMo5WBfW-qOS
 drive.google.com/uc?export=download&id=1A3r3AFUVMsc48HyfGJ2R49mJZCDUkSSU
 drive.google.com/uc?export=download&id=1AGrds1SrLCUj7r8DcoInG9aTbv4PSZit
+drive.google.com/uc?export=download&id=1ATNJeXLKeXo73iLwnSTW6VwIcrR9Uoy9
 drive.google.com/uc?export=download&id=1AXeTNDsA0DZNcPkV2Bvkusu1aEPngOoj
 drive.google.com/uc?export=download&id=1AfrKpY9siqfzg-BehW6FS6WgOOSHIhTv
 drive.google.com/uc?export=download&id=1AkTrWx-BtqY0moE_PLkoHC3phYKAo12i
@@ -56562,6 +56637,7 @@ drive.google.com/uc?export=download&id=1Dp9uCL0YrAy72WrlB1Fpt-3PNDjpaKAo
 drive.google.com/uc?export=download&id=1DtRdSvu0LkRm7IeyVihFU-2llXrG5DHF
 drive.google.com/uc?export=download&id=1DthOJ_yf-OP0yLS4plBC9Et7JI0D8iCL
 drive.google.com/uc?export=download&id=1E0dZwKYyX11SSfuXw8Gf0iJ_Ltr5VD8j
+drive.google.com/uc?export=download&id=1E2J8Uke0MTDZCxOgOQ81SXwzHQ2C9FzU
 drive.google.com/uc?export=download&id=1E6tsOtff7SZZPj3r6b6knygl6ijHeO8F
 drive.google.com/uc?export=download&id=1E7diTCV8FcAF8Jlox24HPrxJe8Cd549_
 drive.google.com/uc?export=download&id=1E7uSLBygmgtfgLEQzanaQ5h7iAMaqqNS
@@ -56601,6 +56677,7 @@ drive.google.com/uc?export=download&id=1GjshNS-vfwtTTTEBcxl5nDw7Ta3PUY1Y
 drive.google.com/uc?export=download&id=1Gkpz-NbirzC1uY3JBc62khYA34uTI8Xj
 drive.google.com/uc?export=download&id=1GmzibgMcbd4TqzLx8A8UJePIee0X5kYF
 drive.google.com/uc?export=download&id=1GpKCRXCpyLFYp6Jb95FnIVfquF1odtkL
+drive.google.com/uc?export=download&id=1GpKvCJ3TUMmd1rJVKzbV18rAnwa84V2U
 drive.google.com/uc?export=download&id=1Gy8OKPsIf0shj-ZXq9uHKCwaEpcaZIkh
 drive.google.com/uc?export=download&id=1H06GVvtnGXQApVNmSta7oM5onjABGffX
 drive.google.com/uc?export=download&id=1H1tOrvFUfx6zohtdAa4jFLk0hw5IHbps
@@ -56617,6 +56694,7 @@ drive.google.com/uc?export=download&id=1Hi0BTgXjSLAJRZmq3y5mef1Povaf2bvK
 drive.google.com/uc?export=download&id=1Hr1KgNHTL1yt2x0UA0CONqs_T2zWvJr7
 drive.google.com/uc?export=download&id=1Ht9xEMRgT1OU8IG-HbII4LrFDiGw59mA
 drive.google.com/uc?export=download&id=1Hwg_Aj58GFMFmVg_0oR6Q0z1dqC8cnub
+drive.google.com/uc?export=download&id=1I3-QE3XQb9dQ-fv5zzfZ9bFlufyhwxJr
 drive.google.com/uc?export=download&id=1I38b4AauDg0qT85Cc-KQ7fzVBk7v6zTa
 drive.google.com/uc?export=download&id=1I3aiBiHfenqitly-V0fQDBzeyKADvo_g
 drive.google.com/uc?export=download&id=1IFmNNXC_a2Xli2wwq6OZs5j9ique2Gd8
@@ -56672,6 +56750,8 @@ drive.google.com/uc?export=download&id=1LFYBDE6vNCmOvpp_mYZp-4Bp7bEFI_tT
 drive.google.com/uc?export=download&id=1LP1YxAVhrjt744STa-87y3AOwyvCm0Mg
 drive.google.com/uc?export=download&id=1LPRW0m_ouE0pZOZZT7KvggP-QyCdLlO2
 drive.google.com/uc?export=download&id=1LQnFdCgfMEWsSqYC2XP3xhXkmoyMF-WZ
+drive.google.com/uc?export=download&id=1LSTVEjATZTu2pzzSDFSUqms_zP-n-F2x
+drive.google.com/uc?export=download&id=1LTnacxCdAaWwl3oT-VA8lvN0cQdjONSP
 drive.google.com/uc?export=download&id=1LUtWF1eVgVeJli510btkfnkidzJsZkea
 drive.google.com/uc?export=download&id=1L_UQ5Lj6VnGpqEtRYC2xC7T_cCn3P5Oo
 drive.google.com/uc?export=download&id=1LcrFGcqkv7htr7IkUnV6hvb4uwb4CLZA
@@ -56683,7 +56763,9 @@ drive.google.com/uc?export=download&id=1Lr3tNR0ywwXr_8U8fGVUDiN1PcpQ0idG
 drive.google.com/uc?export=download&id=1LrtPAI1SGJxB_Sizn5IbPobRzjas42bV
 drive.google.com/uc?export=download&id=1LsxERRZq8nxQ-jeszI3PsFHgrhLIffDP
 drive.google.com/uc?export=download&id=1M-UOf5GsWgpgzc5B-d7n74X3ghnWYXNo
+drive.google.com/uc?export=download&id=1M9jQKCc3vEPtRccbI120dKl3koUkxtP1
 drive.google.com/uc?export=download&id=1MEro0NUtdDVOaiMV5USsOkvd9SbUJa89
+drive.google.com/uc?export=download&id=1MHDvi3wQbT1jPhd82AiErd7JPn0fLpJf
 drive.google.com/uc?export=download&id=1MKT84G2bha_gbbA9WOHCISwvgFTzo6RB
 drive.google.com/uc?export=download&id=1MMqdeg-LSC_umv96ZNtyhFBXx-79uMno
 drive.google.com/uc?export=download&id=1MS73I_eTnPmK5gsbAVtnMkTYaGtXHgXu
@@ -56710,6 +56792,7 @@ drive.google.com/uc?export=download&id=1Nr999Q1O0nsrizJGxYWyI3IhX5tTjdIU
 drive.google.com/uc?export=download&id=1NuczoojVTyYsYdI0ARlI0iv8E8nVV9AX
 drive.google.com/uc?export=download&id=1Nz9djqBRST3Z167DEzH-CcynqsRkt-ll
 drive.google.com/uc?export=download&id=1O-SMA-T-D569_EwiiEy_AyUldFH8unum
+drive.google.com/uc?export=download&id=1O11gMygeQx9Q7uYZx8KvVThnZxDf_OW9
 drive.google.com/uc?export=download&id=1O1gMNFwJRw0M-JFGN_RrjxggpKltAEVy
 drive.google.com/uc?export=download&id=1O1ixK0MUUDeH6DipmaLwQmwQXjdqha2s
 drive.google.com/uc?export=download&id=1O3x3F4i9mHacGrcVwx7kRsa5HN8MCH-U
@@ -56763,6 +56846,7 @@ drive.google.com/uc?export=download&id=1QbpBJGD0ARsrJM8lVcNeUaCxbKuYk9n8
 drive.google.com/uc?export=download&id=1Qex__dEn0SLoWuR_48-uwVHncegVAxli
 drive.google.com/uc?export=download&id=1QwNIhUkKi-26CIug6muhNVafKUclaw0W
 drive.google.com/uc?export=download&id=1R-knDOL4SGt24JF54kLJzmbkhpEtKt_L
+drive.google.com/uc?export=download&id=1R5FDRZXcGg2RafQwsOoRwQ_Yy1_DMSCL
 drive.google.com/uc?export=download&id=1R6PfWITQ-tX5xV_cjinVAD7hfe_nlbbK
 drive.google.com/uc?export=download&id=1R8PtHEQ56yBZAPWnHywUYxCQ7S3x8Pxa
 drive.google.com/uc?export=download&id=1RU8w_3Lq6joKvAXa5dTTAFu9jugel6VL
@@ -56838,6 +56922,7 @@ drive.google.com/uc?export=download&id=1WGqMrdWb2-3LDs_Vpn5zVpQXHIB_1nWz
 drive.google.com/uc?export=download&id=1WHrhulzWzSr8UbSSQhMMjrhvYI5c1uXz
 drive.google.com/uc?export=download&id=1WJPZ1TFI4rHZSH9PyIdh_1WE6ljk87In
 drive.google.com/uc?export=download&id=1WLW2bt7Nzs-_XEgJy574Wn38W9FM_qc-
+drive.google.com/uc?export=download&id=1WN7nFRyv-tgzVPoXv0YCbB-4umpCmXen
 drive.google.com/uc?export=download&id=1WXba3aoRms0M-l57k8edc8vT6AZCSbL_
 drive.google.com/uc?export=download&id=1WbS2XNhAmncWNT1gcHcY82Ugo5AOK0te
 drive.google.com/uc?export=download&id=1WfGIRe0v1L0RXCoVWl5sLOkq713BdiFG
@@ -56913,6 +56998,7 @@ drive.google.com/uc?export=download&id=1_fINNN-0dJbuNb7dNKBcH5wuFYWIL3Q2
 drive.google.com/uc?export=download&id=1_gdF-OZyyroSJERYim223Pn95VGSK4mJ
 drive.google.com/uc?export=download&id=1_gztQkuOp4UQttUTybCQyrW0N28mvXbl
 drive.google.com/uc?export=download&id=1_pWj49wk_43eqh8VD8D2CqZGvUAHDJDQ
+drive.google.com/uc?export=download&id=1_uqdoTOuQFgSclV8pRQnFXSDNWIKoIlW
 drive.google.com/uc?export=download&id=1_zMHqQ5j8cTzHmWLlQeLNOJXd_4TIxVC
 drive.google.com/uc?export=download&id=1a-XOLXKqJKDmkF1nDZ2BQebR1icJjJ3i
 drive.google.com/uc?export=download&id=1a9VuXuFOqSfuMcdI6uthX7A3lVKX0DNJ
@@ -56924,6 +57010,7 @@ drive.google.com/uc?export=download&id=1abFiK-OwWYUS6L-qTSjQt5CZ7U6bM4lD
 drive.google.com/uc?export=download&id=1adUBonLFgG1cZ6VPlpHZzYnJ9g0JvTHK
 drive.google.com/uc?export=download&id=1ahbNp-vuO7Z0RDMbE6bT_S_8qnEEi4tB
 drive.google.com/uc?export=download&id=1ai4-xtv18cSL_w-w98EqsSt19zcikNVv
+drive.google.com/uc?export=download&id=1ak7FD1MtnX8ljtZmWFe4NU8NGwLQnI1C
 drive.google.com/uc?export=download&id=1asrbXFrcB1pkXU0CYz8wsJyoYv7Aqm-_
 drive.google.com/uc?export=download&id=1ayp_67Uu7WlHeZflYnpgrMthLgK6D9w8
 drive.google.com/uc?export=download&id=1aytoIWtaSINlry5bEdytMNB4h5oshAzc
@@ -56954,6 +57041,7 @@ drive.google.com/uc?export=download&id=1cfIQeOmiNTR-x21yoiYHnQhbWn7IwP2V
 drive.google.com/uc?export=download&id=1ch4jKdUzQHTGrrovsdhymb-RtVUVusEu
 drive.google.com/uc?export=download&id=1cmpBf9jhLDABYGid22CC2G8f5At0Ikrp
 drive.google.com/uc?export=download&id=1coM3TWKqR9AxmSaz7sJuqhUrK_OKxpuw
+drive.google.com/uc?export=download&id=1ct3FM1JIf5kM_kw309ieFA9lEsMBJo_-
 drive.google.com/uc?export=download&id=1ctMVrd5MEVZAC0Ze-3fXPANG7zUgTmdJ
 drive.google.com/uc?export=download&id=1cvnLqV-q2Y_RBbenLDuHtfGXCwA8FOP8
 drive.google.com/uc?export=download&id=1cy_QrK7d924F1DsqNX4wKsaoN-cilULJ
@@ -57031,6 +57119,7 @@ drive.google.com/uc?export=download&id=1hDuT_QXSqwAjvzg4-LIf1-dl-eh94l42
 drive.google.com/uc?export=download&id=1hQdvbrWss1JA_hrt0dogGUiyg8_7RQ3u
 drive.google.com/uc?export=download&id=1hQweOnUc-z22esu9jGvA-H0OSoNmegOE
 drive.google.com/uc?export=download&id=1hWBRWksG8o8X06HARnMORYSeOAe86Lie
+drive.google.com/uc?export=download&id=1hWR4LZEm2T8oNTG2L8imOeDkbBa-7Oys
 drive.google.com/uc?export=download&id=1hY3ESaTv31HtPl5fJyuYq-qiTInkTs-O
 drive.google.com/uc?export=download&id=1hZBLAHCyg5-KT1iUrDGtfTZk4CvRJUcs
 drive.google.com/uc?export=download&id=1hbkvRs-jcxy4ZBG6DVy_g95cv-5GLjh6
@@ -57082,6 +57171,7 @@ drive.google.com/uc?export=download&id=1ksmW1dc2oWl4zF0MQWH2zvPo3o200Wxl
 drive.google.com/uc?export=download&id=1l-lqnx7DUVs2k4pAHak8M3vHRhGtkRJ6
 drive.google.com/uc?export=download&id=1l2zl2FWlHdpTb5pzj_k97oPgzjzlyNQl
 drive.google.com/uc?export=download&id=1lKLbw-xDVj_b7ejiygi2KBe2Iq6x1Lf2
+drive.google.com/uc?export=download&id=1lMRW2lXpkeL1xN_yIcxD-WVDnfG0BWqy
 drive.google.com/uc?export=download&id=1lNsf7gInTK6-SzBNl6E0nPO4sid_7t8L
 drive.google.com/uc?export=download&id=1lQEAw2-lmG25Y_3TxBPYpKKbkaeTnpnD
 drive.google.com/uc?export=download&id=1lQnqNShJ03oG6re6tbWLSg6oAOEDf6ps
@@ -57135,6 +57225,8 @@ drive.google.com/uc?export=download&id=1nxID3cbZ3N3YCfZ5Mt-WYptrBK_9HFWH
 drive.google.com/uc?export=download&id=1o8_3vPF09u4Ux8uArct71p3-oziKtJl4
 drive.google.com/uc?export=download&id=1oCKSKxGhTVzbIUbTb8UGaoJOwHclESuv
 drive.google.com/uc?export=download&id=1oEwn6l5-JvTcAr1yDRGYquAmfZxOmy1F
+drive.google.com/uc?export=download&id=1oF-C-1GChs221fRSHd4anQOOqn6P8ym4
+drive.google.com/uc?export=download&id=1oOnGhKzG-GgUm9tjNmsRcr1RzQZ792wl
 drive.google.com/uc?export=download&id=1oXTXiAJITepT0KhKBOIaEcCxbV1NeJ0V
 drive.google.com/uc?export=download&id=1ognCmZnB0GJlw6anVnGqcLcznxhuCRmz
 drive.google.com/uc?export=download&id=1olhqgprSFx-Csb4KN1BLmOR7ViZWlDeS
@@ -57265,6 +57357,7 @@ drive.google.com/uc?export=download&id=1wbub-TgL5dljO1WVfH0GCwSduOCuI7eP
 drive.google.com/uc?export=download&id=1wbwIYiSjRbwPKGB28-O2EJ8gyawfnPhz
 drive.google.com/uc?export=download&id=1wc2QlTGMYWJTmkyQeFQ6uSYaAE7ThNYx
 drive.google.com/uc?export=download&id=1wfzj1k15uOwSl80CksQuZcUqSDE8oOMW
+drive.google.com/uc?export=download&id=1wkee2pTVtn8ha4rx2DDwc30xPt-EnR02
 drive.google.com/uc?export=download&id=1wuluNkLWO-mVLpxpQupC_INeBVs6Dy-3
 drive.google.com/uc?export=download&id=1wyDa0sz9XeYmGk3Mc86PPGsFCMVG98ze
 drive.google.com/uc?export=download&id=1wz9BwZp3QaTqNNfxsB4wex7qSWtKjglm
@@ -57310,11 +57403,13 @@ drive.google.com/uc?export=download&id=1zJQs_owwPDDOSNBnNPfhwHfSlvXh8MXW
 drive.google.com/uc?export=download&id=1zKFFYpQea6dv2jzBplPhSSuiG_ldU516
 drive.google.com/uc?export=download&id=1zPZW5EXrvz9yKHBah1V2Z6zI3QXMFHus
 drive.google.com/uc?export=download&id=1zREeSmej9mMiM6QRS_Zww_oRjG5Uva2U
+drive.google.com/uc?export=download&id=1zRxx7d7dvNWRynLQkveGP01i7ys5UEY4
 drive.google.com/uc?export=download&id=1zTWHqI8Q61Lv4pjxDj91oxB6toS9MroD
 drive.google.com/uc?export=download&id=1zab9pz057dJN0QV5ABRYqgOqsBzrrRzX
 drive.google.com/uc?export=download&id=1zbfcT7F31DmyBX2hMeF8lOj0O-XDDE-b
 drive.google.com/uc?export=download&id=1znJauNFq74a-ICZLHV2_UW_uLaJqzsRg
 drive.google.com/uc?export=download&id=1znal8WfifKTKSPtNjydGviz0Chgz_N9A
+drive.google.com/uc?export=download&id=1zwPcEHnn7mCI6-9MPQxSilP-2Oh1JL4k
 drive.google.com/uc?export=download&id=1zwWAfqy_raql2KC6Ce81tOImiPDZia6y
 drive.google.com/uc?export=download&id=1zx25pid_WOGW-T_4OTpPlu0oiz_ylnaQ
 drive.google.com/uc?export=download&id=1zzR3uoTuJ7ULU6g1cfm7B9nVun2nilUw
@@ -65855,8 +65950,7 @@ dvt553ldkg.com
 dvuitton.fweb.vn/wp-admin/NKP31Q03ZS/rmex58501869-12-twsajqlafx2/
 dvuitton.fweb.vn/wp-admin/protected-zone/verifiable-forum/06038010686219-OgRI7qUJ70l/
 dw.58wangdun.com
-dw.convertfiles.com/files/0321124001547570957/ups-delivery-notification-1z074y0a0390613255_2019-01-15_19-44%281%29.zip?&rpsnv=83fdc3407ccf68718bfb9aaddefa7cc0e40529db
-dw.convertfiles.com/files/0350370001524472103/afhaalbewijs-pn3746627.zip
+dw.convertfiles.com
 dw.vsoyou.net
 dwahomework.biz
 dwallo.com
@@ -67594,6 +67688,7 @@ engenhodeideias.com.br
 engeserv.com.br
 engetrate.com.br
 engfix.com.br
+engiesen.com
 engineer.emilee.jp
 engineering.vtvcab.vn
 engineeringchristculture.com
@@ -68915,7 +69010,10 @@ f2concept.com
 f2favotto.ml
 f2host.com
 f3.hu
-f321y.com
+f321y.com/dhelper.dat
+f321y.com:8888/buff2.dat
+f321y.com:8888/dhelper.dat
+f321y.com:8888/docv8k.dat
 f328.com
 f3distribuicao.com.br
 f3site.top
@@ -71613,14 +71711,7 @@ fuzoneeducations.com
 fuzzyconcepts.com
 fuzzylogic.in
 fuzzymiles.com
-fv1-2.failiem.lv/down.php?i=866a5tnm&n=eFax_message_8501.zip&download_checksum=2436c70ebdc46e4deae67a684d501e980a399948&download_timestamp=1544877407
-fv1-2.failiem.lv/down.php?i=866a5tnm&n=eFax_message_8501.zip&download_checksum=2f58f3958bdd74b7b7c7d359b27ece0d001b14d3&download_timestamp=1544877326
-fv1-2.failiem.lv/down.php?i=866a5tnm&n=eFax_message_8501.zip&download_checksum=b6d9947be0cd57e96513e56a8ffb585948b18de8&download_timestamp=1544877755
-fv1-2.failiem.lv/down.php?i=866a5tnm&n=eFax_message_8501.zip&download_checksum=dd38f08dd73f729bb354c9fd8c7559dfed05ada1&download_timestamp=1544877600
-fv1-2.failiem.lv/down.php?i=x998qvjp&n=eFax_message_8503.zip&download_checksum=57aa50fbe7e0e98a8c06fbc666fda1b1de55acad&download_timestamp=1544877284
-fv1-2.failiem.lv/down.php?i=x998qvjp&n=eFax_message_8503.zip&download_checksum=c45a527822169df1dbcec71ad7a82c851b4453b2&download_timestamp=1544878007
-fv1-2.failiem.lv/down.php?truemimetype=1&i=6cdww6dj&download_checksum=c18a85b1523f4b20ed115ca2f8348aebfcc4359c&download_timestamp=1536791270
-fv1-2.failiem.lv/down.php?truemimetype=1&i=8sw4havs&download_checksum=4e49f09636c4528292511db886067d14d4016eee&download_timestamp=1537834998
+fv1-2.failiem.lv
 fv13.failiem.lv
 fv15.failiem.lv
 fv2-1.failiem.lv
@@ -73227,7 +73318,7 @@ go.pardot.com/l/690863/2019-08-06/39ydv/690863/30081/Label_Updated.zip
 go.pardot.com/l/94872/2019-08-05/3lm51n/94872/208025/print_label.zip
 go.sharewilly.de
 go.skyyer.com
-go.xsuad.com
+go.xsuad.com/2019-06-12_com.jjgege.camera3_2.apk
 go2035.ru
 go2l.ink
 go9533.com.tw
@@ -74797,7 +74888,7 @@ hangtieudung.cf
 hangtotma.com
 hangtrentroi.com
 hangulcafes.ga
-hanhtrinhtamlinh.com/gpk/personal-section/verifiable-space/d3d-660ut9x793v61/
+hanhtrinhtamlinh.com
 hanhtrinhthanhnienkhoinghiep.vn
 haniamarket.com
 hanict.org.vn
@@ -76980,7 +77071,9 @@ i.ooxx.ooo
 i.paragptfe.com
 i.postimg.cc/4sswVrhZ/1.jpg?dl=1
 i.postimg.cc/7xHTVP4Z/13.jpg?dl=1
+i.postimg.cc/858f9YtC/Bq-VRv-SRRCirt.png
 i.postimg.cc/8c9xKhPb/Ou-SAc-EDrhg-Jz.png
+i.postimg.cc/8kBTvH0W/i-Im-Tjhjex-Zg.png
 i.postimg.cc/BJSqdH7Z/mix1.jpg?dl=1
 i.postimg.cc/BsgtDtpj/polvcer.jpg?dl=1
 i.postimg.cc/C0PdbYbC/mix2.jpg?dl=1
@@ -76999,6 +77092,7 @@ i.postimg.cc/qkMnKd8H/mix3.jpg?dl=1
 i.postimg.cc/rysqKsPd/Screenshot-194.png?dl=1
 i.postimg.cc/sjfbPNwh/big.jpg?dl=1
 i.postimg.cc/vYc6TxSV/mix2.jpg?dl=1
+i.postimg.cc/xdKHXN3P/bzj-Mlg-LHC.png
 i.postimg.cc/y6sVbk3G/mix4.jpg?dl=1
 i.ptfecablemanufacturer.com
 i.top4top.io
@@ -77713,7 +77807,7 @@ imagebuoy.com
 imagedecor.info
 imagedns.com
 imageflex.com.br
-imagehosting.biz/images/2019/02/14/in1.png
+imagehosting.biz
 imageia.co.il
 imagelinetechnologies.com
 imagemarketingwest.com
@@ -82022,7 +82116,15 @@ keyhousebuyers.com
 keyi888.com.tw
 keyimmo.info
 keylord.com.hk
-keymailuk.com
+keymailuk.com/155653WIUJR/PAYROLL/Business
+keymailuk.com/155653WIUJR/PAYROLL/Business/
+keymailuk.com/212DJSPVTCX/ACH/Personal
+keymailuk.com/212DJSPVTCX/ACH/Personal/
+keymailuk.com/US/Clients_Messages/2018-11
+keymailuk.com/US/Clients_Messages/2018-11/
+keymailuk.com/cgi-bin/lm5u1-xlv8ct0-xkbyjhb/
+keymailuk.com/cgi-bin/u9qgh-jmppd-wwfye/
+keymailuk.com/rlge/FILE/o1xSfgnM/
 keymedia.com.vn
 keys365.ru
 keyscourt.co.uk
@@ -82499,7 +82601,7 @@ kiziltepemarangozmobeso.org
 kiziltepeototamircilereso.org
 kizlardunyasi.com
 kj.xxxoc.com
-kjbm8.mof.gov.cn/inc/photosetup.exe
+kjbm8.mof.gov.cn
 kjbm9.mof.gov.cn/inc/photosetup.exe
 kjf-designs.com
 kjg-schiefbahn.de
@@ -83102,6 +83204,7 @@ kremlin-school.info
 krems-bedachungen.de
 krenary.com
 krenovator.cc
+kresidences.eu
 kreslousak.cz
 kretanaturleben.de
 kreuz-halbmeil.de
@@ -85517,6 +85620,7 @@ lokipanelhostingpanel.ga
 lokipanelhostingpanel.gq
 lokipanelhostingpanel.tk
 lokomarijuanastore.com
+lol.tf
 lola-salon.ru
 lolatunde.info
 lolavandersteen.nl
@@ -88940,7 +89044,7 @@ menxhiqi.com
 menziesadvisory-my.sharepoint.com
 menzway.com
 meogiambeo.com
-meohaybotui.com/qItjGI/
+meohaybotui.com
 meolamdephay.com
 mera.ddns.net
 meragullabgirls.gq
@@ -89923,7 +90027,7 @@ mktfan.com
 mktree.ml
 mkw.ba
 mkwu.borneo.ac.id
-mky.com/Proof%20of%20payment%2019.09.2018.doc
+mky.com
 ml-moto.biz
 ml.com.watchdogdns.duckdns.org
 mlagroup.co.in
@@ -91304,14 +91408,15 @@ my.findsr.co
 my.jiwa-nala.org
 my.mail.de
 my.mixtape.moe
-my.zhaopin.com/attach/2016/10/12/90fb5cb42363491ba30d4443ed0546e5.doc
+my.zhaopin.com
 my10apps.com
 my2b.online
 my7shop.com
 my95.xyz
 myabisib.ru
 myacademjourneys.com
-myaccount.dropsend.com
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids=14267487
+myaccount.dropsend.com/share/c5f9bb12ec599fcfc75eebe46d90a042/download?file_ids[]=14267487
 myadmin.59north.com
 myafyanow.com
 myagentco.com
@@ -91862,7 +91967,7 @@ nangmui.info
 nangmuislinedep.com.vn
 nangngucau-hybrid.vn
 nangngucsiam.com
-nanhai.gov.cn
+nanhai.gov.cn/cms/html/files/2014-11/06/20141106144718814148788.doc
 nanhoo.com
 nanichaouiloveaya.mygamesonline.org
 nanito.de
@@ -93137,7 +93242,7 @@ njb-gmbh.com
 njbehesht.ir
 njcifd.ueuo.com
 njeas.futminna.edu.ng
-njelec.com
+njelec.com/wp-content/Invoice-Number-791907/
 njoya.nl
 njrior.cn
 njsinfotechindia.com
@@ -94194,7 +94299,7 @@ ohscrane.com
 ohters.de
 ohyellow.nl
 oi65.tinypic.com
-oi68.tinypic.com/2saxhrc.jpg
+oi68.tinypic.com
 oiainbtaea38.silverabout.ml
 oiasdnqweqasd.com
 oiflddw.gq
@@ -94577,6 +94682,7 @@ onedrive.live.com/download?cid=0BDF0D65F1DD9F20&resid=BDF0D65F1DD9F20!106&authke
 onedrive.live.com/download?cid=0BDF0D65F1DD9F20&resid=BDF0D65F1DD9F20!107&authkey=AMx5XTDAVev5sXI
 onedrive.live.com/download?cid=0BDF0D65F1DD9F20&resid=BDF0D65F1DD9F20%21106&authkey=ANR0xmdfmOwcF5Q
 onedrive.live.com/download?cid=0C707F50E538E089&resid=C707F50E538E089%21108&authkey=AFlvxX6otk0Mz4Q
+onedrive.live.com/download?cid=0F0A5AADC4C3C242&resid=F0A5AADC4C3C242%21309&authkey=ALFe36DRAi1zmWc
 onedrive.live.com/download?cid=0F11BF59B04838E2&resid=F11BF59B04838E2%21120&authkey=AGgYAnSkgDXu1zo
 onedrive.live.com/download?cid=116E09956D59EFEF&resid=116E09956D59EFEF%21112&authkey=AI5rcuKbfn1GjCc
 onedrive.live.com/download?cid=128213AA971358FD&resid=128213AA971358FD!109&authkey=APzTk6KMSip_UMg
@@ -94617,6 +94723,7 @@ onedrive.live.com/download?cid=2F38368D4BD88C0E&resid=2F38368D4BD88C0E!215&authk
 onedrive.live.com/download?cid=2F38368D4BD88C0E&resid=2F38368D4BD88C0E%21118&authkey=AL9u2JyCVKLhDfk
 onedrive.live.com/download?cid=2F6D9FC711AAA2AC&resid=2F6D9FC711AAA2AC%21115&authkey=APzdXuMNZlEsa18
 onedrive.live.com/download?cid=2F6D9FC711AAA2AC&resid=2F6D9FC711AAA2AC%21117&authkey=AFfqq3sAhcEmdRA
+onedrive.live.com/download?cid=2F6D9FC711AAA2AC&resid=2F6D9FC711AAA2AC%21122&authkey=AOfsne4m5DENzuc
 onedrive.live.com/download?cid=2F996A2F28356A49&resid=2F996A2F28356A49%21134&authkey=ABrC7U5UvhNrXII
 onedrive.live.com/download?cid=31795CF0FFB84FEE&resid=31795CF0FFB84FEE%21105&authkey=AD4rjP6prwaFFno
 onedrive.live.com/download?cid=341DF7E18D513049&resid=341DF7E18D513049%21110&authkey=ACZqAh_FBkJu3AY
@@ -94647,6 +94754,7 @@ onedrive.live.com/download?cid=4D4D07581D39B63D&resid=4D4D07581D39B63D%21109&aut
 onedrive.live.com/download?cid=4D4D07581D39B63D&resid=4D4D07581D39B63D%21110&authkey=AEIDAVG5cc7O4iM
 onedrive.live.com/download?cid=4E373E1E6438C0C2&resid=4E373E1E6438C0C2%21950&authkey=ALgVvAVkBwu5TKg
 onedrive.live.com/download?cid=4EA578F7EEDA4BE5&resid=4EA578F7EEDA4BE5%21107&authkey=AB0nNXtnFs6dnAc
+onedrive.live.com/download?cid=4EA578F7EEDA4BE5&resid=4EA578F7EEDA4BE5%21108&authkey=AKX7DZotJ-doS70
 onedrive.live.com/download?cid=4EB71CCD337C7F4B&resid=4EB71CCD337C7F4B%21113&authkey=AC4Qu6KNdLy45_U
 onedrive.live.com/download?cid=4F1737459E3F8C0A&resid=4F1737459E3F8C0A%21108&authkey=ANpirksTUiMHwHg
 onedrive.live.com/download?cid=52B058F13D76643F&resid=52B058F13D76643F%21149&authkey=AKGlh8obqa3jFAs
@@ -94836,6 +94944,7 @@ onedrive.live.com/download?cid=D920A22BF0CEC4EA&resid=D920A22BF0CEC4EA%21652&aut
 onedrive.live.com/download?cid=DB1835D52256AF27&resid=DB1835D52256AF27%21105&authkey=AKL5V1YKnBcCHFc
 onedrive.live.com/download?cid=DBB748EF3BCE8BC9&resid=DBB748EF3BCE8BC9%23105&authkey=AAgv5fTjBlEy0_o
 onedrive.live.com/download?cid=DD84C3FE0759AC22&resid=DD84C3FE0759AC22%21143&authkey=AJXyo0aW6jbiNfw
+onedrive.live.com/download?cid=DDE26285195864B8&resid=DDE26285195864B8%21361&authkey=AEqVkIEs2uV-tMI
 onedrive.live.com/download?cid=DE43D565250F804C&resid=DE43D565250F804C%21105&authkey=AOHZ8uv5m2hud3g
 onedrive.live.com/download?cid=DEB9134C5E8A8C13&resid=DEB9134C5E8A8C13%216620&authkey=AORjVBL9--TfC24
 onedrive.live.com/download?cid=DEB9134C5E8A8C13&resid=DEB9134C5E8A8C13%216621&authkey=ALo3YLlLq3ivKsY
@@ -95438,7 +95547,23 @@ osmiroslavanticbl.org
 osmlogistics.com
 osomdascordas.com.br
 osonastick.com
-osotspa-international.com
+osotspa-international.com/40DKPFILE/ZBIM519113ZXORJ/Aug-13-2018-351388602/POH-VYIN
+osotspa-international.com/40DKPFILE/ZBIM519113ZXORJ/Aug-13-2018-351388602/POH-VYIN/
+osotspa-international.com/Corporation/ATY87799825IYJI/Aug-08-2018-269604/SHK-NFI
+osotspa-international.com/Corporation/ATY87799825IYJI/Aug-08-2018-269604/SHK-NFI/
+osotspa-international.com/DHL-number/US_us/
+osotspa-international.com/LLC/LQQ84594655117QBOXQ/673787716/HH-INN-Aug-03-2018
+osotspa-international.com/LLC/LQQ84594655117QBOXQ/673787716/HH-INN-Aug-03-2018/
+osotspa-international.com/Wellsfargo/Business/Aug-15-2018
+osotspa-international.com/Wellsfargo/Business/Aug-15-2018/
+osotspa-international.com/doc/EN_en/Order/Please-pull-invoice-57254
+osotspa-international.com/doc/EN_en/Order/Please-pull-invoice-57254/
+osotspa-international.com/files/US/INVOICE-STATUS/HRI-Monthly-Invoice/
+osotspa-international.com/hPP
+osotspa-international.com/hPP/
+osotspa-international.com/sites/EN_en/ACCOUNT/Deposit/
+osotspa-international.com/vqNyLx
+osotspa-international.com/vqNyLx/
 osql.ru
 ossandonycia.cl
 osservatore.betacom.it
@@ -96319,6 +96444,7 @@ pastebin.com/raw/0LfEkEjA
 pastebin.com/raw/0Lvb6L5R
 pastebin.com/raw/0MX17Syg
 pastebin.com/raw/0PG7Ts5c
+pastebin.com/raw/0QDBtmYc
 pastebin.com/raw/0RT9mP0V
 pastebin.com/raw/0SNP79GL
 pastebin.com/raw/0TTKrCnT
@@ -98829,8 +98955,10 @@ pastebin.com/raw/wYF5UvHJ
 pastebin.com/raw/wcXKsg14
 pastebin.com/raw/wcanafB2
 pastebin.com/raw/wdthN7yr
+pastebin.com/raw/wf2cNx7z
 pastebin.com/raw/wfiKQEy4
 pastebin.com/raw/wgGbujgv
+pastebin.com/raw/wgKr9arz
 pastebin.com/raw/wm5QTtbj
 pastebin.com/raw/wnQg0Eqx
 pastebin.com/raw/wqCzwuUX
@@ -98918,6 +99046,7 @@ pastebin.com/raw/yVg4rEi6
 pastebin.com/raw/yXC6TW9Z
 pastebin.com/raw/yXZEYpvL
 pastebin.com/raw/yZSaAPJ8
+pastebin.com/raw/ya6DzAx1
 pastebin.com/raw/ya8Dz5aa
 pastebin.com/raw/ybeC4j77
 pastebin.com/raw/ydPBfFLN
@@ -98943,6 +99072,7 @@ pastebin.com/raw/z30jWTDB
 pastebin.com/raw/z6Tq9Beh
 pastebin.com/raw/z752LpYf
 pastebin.com/raw/z7ZfPTmh
+pastebin.com/raw/z86NEqqA
 pastebin.com/raw/zBcbRg0w
 pastebin.com/raw/zDX4jxTK
 pastebin.com/raw/zDYbfFtF
@@ -99603,7 +99733,7 @@ petalsnbones.com
 petanisukses.club
 petcarepass.cz
 peteivs.co.nz
-petendereruk.pro/?cid=b0793433-480e-4f7c-ad66-4dafe4940cac&tid=714041&sid1=2193760523248792889&sid2=&fn=Your%20File%20Is%20Ready%20To%20Download&uid=2193760523248792889&lp=blank
+petendereruk.pro
 peterantennas.bid
 peterbeckundpartner.cporsgrunn.folkbjnrwwww.watchdogdns.duckdns.org
 petercottontailmovie.com
@@ -99901,7 +100031,7 @@ phuongphamngulao.gov.vn
 phuongphan.co
 phusonland.vn
 phutung24h.vn
-phutungotogiare.vn/wp-includes/sendincverif/support/sec/en_EN/032019/
+phutungotogiare.vn
 phy.mbstu.ac.bd
 phylab.ujs.edu.cn
 physicaltracker.com
@@ -104748,7 +104878,7 @@ robpepper.co.uk
 robshop.lt
 robsitbon.net
 robustclarity.com
-robvanderwoude.com
+robvanderwoude.com/updates/caldemo.txt
 robwalls.com
 robwassotdint.ru
 robzandfitness.co.uk
@@ -105473,7 +105603,32 @@ s-vrach.com.ua
 s-zone.uz
 s.51shijuan.com
 s.kk30.com
-s.put.re
+s.put.re/1dQ5f9Yj.jpg
+s.put.re/58o4na3e.exe
+s.put.re/6ge1tsxb.exe
+s.put.re/7QXJMwGu.txt
+s.put.re/AkRd7qVK.txt
+s.put.re/BhfuDm8g.exe
+s.put.re/CdidHjNP.txt
+s.put.re/DFBHMimr.txt
+s.put.re/HboyD62p.txt
+s.put.re/KHbxSCz9.txt
+s.put.re/N3Dnw4mo.txt
+s.put.re/V6Dw8o4w.doc
+s.put.re/VPgyDbTx.txt
+s.put.re/VoLicm9b.txt
+s.put.re/YUH44Wmo.jpg
+s.put.re/Zqczsf5s.exe
+s.put.re/dsLs5o1N.txt
+s.put.re/eDygzXGN.exe
+s.put.re/fJjE7i4c.jpg
+s.put.re/jLb6b73b.txt
+s.put.re/mSpoXyLA.qwe
+s.put.re/mz1f41L8.qwe
+s.put.re/t9FDi5cf.exe
+s.put.re/wCk3SB3x.txt
+s.put.re/wDhamd3P.jpg
+s.put.re/wEujgoau.exe
 s.trade27.ru
 s.vollar.ga
 s01.solidfilesusercontent.com
@@ -106222,6 +106377,7 @@ samplesmag.org
 sampling-group.com
 sampoernagroups.com
 samportal.com
+sampsonrobert.com
 samratindian.com.au
 samruddhinursing.com
 samsadanala.com
@@ -107138,7 +107294,7 @@ securmailbox.it
 securotop.com
 securoworld.co.za
 secursystem.it
-secuser.com
+secuser.com/telechargement/desinfection/fix_myparty.exe
 seda.sk
 sedatalpdoner.com
 sedeconcursal.com
@@ -108949,7 +109105,7 @@ sjgue.com
 sjhoops.com
 sji-new.managedcoder.com
 sjoshke.nl
-sjp.co.uk/files/sjpupdater.exe
+sjp.co.uk
 sjpowersolution.com
 sjssonline.com
 sjulander.com
@@ -109103,7 +109259,7 @@ skylines-tec.com
 skylod.com
 skymast231-001-site1.htempurl.com
 skynetexpress.ml
-skynetstop.com/cloudnet.exe
+skynetstop.com
 skynetx.com.br
 skyonestudios.com
 skyorbittrading.com
@@ -113597,7 +113753,8 @@ sunshinecityq7hcm.com
 sunshinecottageandpottery.com
 sunshineinfosystem.in
 sunshinemarinabay-nhatrang.net
-sunshinemarketing.biz
+sunshinemarketing.biz/.tmb/ssj.jpg
+sunshinemarketing.biz/wp-content/cache/meta/sserv.jpg
 sunshinevn.vn
 sunshinewebsite.club
 sunshinewondervillas.biz
@@ -113713,7 +113870,8 @@ support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.d
 support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/
 support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc
 support.nordenrecycling.com
-support.pubg.com
+support.pubg.com/attachments/token/T6cNO6YwZ3wF4SVnnwt5WEowd/
+support.pubg.com/attachments/token/T6cNO6YwZ3wF4SVnnwt5WEowd/?name=hsjLoader.exe
 support.redbook.aero
 support.revolus.xyz
 support.smartech.sn
@@ -115691,8 +115849,7 @@ tfhvccny.com
 tfile.7to.cn
 tfkam38pqhsh6m.com
 tfmakeup.com
-tfortytimes.com/app/app.exe
-tfortytimes.com/app/watchdog.exe?t=2019-11-28
+tfortytimes.com
 tfsupreme.com
 tftt.dairyaustralia.com.au
 tfu.ae
@@ -115719,7 +115876,7 @@ thaarcoffee.com
 thacci.com.br
 thachastew.com
 thaddeusarmstrong.com
-thadinnoo.co
+thadinnoo.co/wp-includes/paclm/end1pfmm5dj9x84bmha4ntl43_n1kg9ewm3-17387884/
 thagreymatter.com
 thai-pub.com
 thaiascobrake.com
@@ -115808,7 +115965,9 @@ the-wool-inn.com.au
 the.earth.li/~sgtatham/putty/latest/w32/putty.exe
 the1.uz
 the1sissycuckold.com
-the36thavenue.com
+the36thavenue.com/og/7hf/
+the36thavenue.com/og/rpTZZdQ/
+the36thavenue.com/rxdpc/mrrpJmdiUJxuJjSfbiwVkYsiDIQGf/
 theaccessibilityhub.ca
 theaccessiblechurch.com
 theaccurex.com
@@ -116634,6 +116793,7 @@ thumuasatthepphelieu.com
 thund.icu
 thunderheartministries.com
 thungcartonvinatc.com
+thungracmoitruong.com.vn
 thunkablemain.000webhostapp.com
 thunship.fi
 thuocdietcontrung.info
@@ -117168,7 +117328,15 @@ tongdailyson.com
 tongdaive.net
 tongdaotech.com.cn
 tongdogiare.com
-tonghopgia.net
+tonghopgia.net/WEBSERVICES/REDIRECT/RedirectService.exe
+tonghopgia.net/Webservices/Redirect/RedirectAds.exe
+tonghopgia.net/Webservices/RedirectV2/RedirectService.exe
+tonghopgia.net/Webservices/Search/KeywordService.exe
+tonghopgia.net/Webservices/Search/RedirectAds.exe
+tonghopgia.net/Webservices/SearchV2/KeywordService.exe
+tonghopgia.net/webservices/redirect/cswindowsservicerecoveryproperty.exe
+tonghopgia.net/webservices/redirectv2/redirectads.exe
+tonghopgia.net/webservices/searchv2/redirectads.exe
 tongkhobep.uwp.me
 tongkhosoncongnghiep.com
 tongphanphoison.com
@@ -117677,7 +117845,9 @@ transeagleperu.com
 transfer-1.ru
 transfer-factori.ru
 transfer-sirius.ru
-transfer.sh
+transfer.sh/Y4ABB/afopxczkqcl.exe
+transfer.sh/YGgvY/sbaeu.exe
+transfer.sh/YqhxC/invoice_877145.doc
 transferxeber.az
 transforma.de
 transformatinginside.info
@@ -118270,7 +118440,7 @@ tunjihost.ga
 tunnelpros.com
 tunnelview.co.uk
 tuobrasocial.com.ar
-tuoitrethainguyen.vn/moAH-Ky0X_u-t9/INVOICE/EN_en/New-order/
+tuoitrethainguyen.vn
 tup.com.cn
 tupibaje.com
 tur.000webhostapp.com
@@ -119474,9 +119644,7 @@ update-chase.justmoveup.com
 update-prog.com
 update-res.100public.com
 update.5v.pl
-update.7h4uk.com:443/antitrojan.ps1
-update.7h4uk.com:443/cohernece.txt
-update.7h4uk.com:443/logos.png
+update.7h4uk.com
 update.att.tools
 update.bracncet.net
 update.bruss.org.ru
@@ -119703,7 +119871,7 @@ url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmB
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
 url.sg
 url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
-url3.mailanyone.net
+url3.mailanyone.net/v1/?m=1gqjAZ-000BfC-4n&i=57e1b682&c=OZtRQmXF7oN5pbgtjwITGqIFHzseGIPJ778kLq969LDnepRJUFA3m4dqjipi-y6OdeP66fl3GFcG9Mo0uCH8uh_3unyNDLNiJEst871L2nZ8Bt27Et8YRWVkmsFhx001Buq9q_60jxe1ofVPHOxLFN1ol0vyuzUw6cC67geyyV1T0aGD81PMHe6Cu8Qd2qq8-ymIP4qFuRBsKb7Lv1Y00D0SYWjvvMyla6LG_jYhjkcVuQ-nh42o0dILyk44Tc-C/
 url5459.41southbar.com
 url9823.ville.labrecque.qc.ca
 urldefense.proofpoint.com/v2/url?u=http-3A__borinfor.com_newfolde-5Fr_doc_En-5Fus_OVERDUE-2DACCOUNT_Invoice-2D07-2D19-2D18&d=DwIFaQ&c=VQ9hgUuwpNx5qjiyTmR6qQ&r=VWCMrOAZ42xEY7aBeHkCfVC7-GccDQiNerNlJRH5muI&m=JavSUg0f9C2qoCCa7AWt8RM7BRNk5mP_S7hBxPVa8ZU&s=XFGDpuuNz7L0uj6b4PoAfz3lck7VPATlniNQMVv_P6w&e/
@@ -119741,7 +119909,7 @@ us-trans.ru
 us-west-2.protection.sophos.com/?d=fergus.vn&u=aHR0cDovL2Zlcmd1cy52bi9UcmFuc2FjdGlvbl9kZXRhaWxzLzAxMjAxOQ==&e=bGhpY2tleUBtaXNzb3VsYWNvdW50eS51cw==&t=SW9UZyszNFBzSGZwOTZraUtENzJORnc2MWdEMm1ucVVwbUwxTmRVZStyUT0=/
 us-west-2.protection.sophos.com/?d=toools.es&u=aHR0cDovL3Rvb29scy5lcy9iYW5raW50ZXJfL3hEc2EtQzUxU0w4SXpCVGdMN2kxX3RyQllLS1ZqWS1WNS8=&e=c2tvZXBrZUBtaXNzb3VsYWNvdW50eS51cw==&t=QlZHM2FiNzVhbjFld3d5dVJWdnlDMXp6dHpxMU8vVW1FQlhLSTdremUxVT0=/
 us.cdn.persiangig.com
-us.hostiso.cloud/index.php/s/WmptN496jgz6Sjo/download
+us.hostiso.cloud
 us15.campaign-archive.com/pages?u=cd5e2bf0aa684eff0aeb54377&id=030032cee1f0
 us2.campaign-archive.com/pages?u=035496fc182d3cf5353219b28&id=03009ec6e1f0
 us5interclub.cba.pl
@@ -119781,11 +119949,7 @@ user-images.githubusercontent.com/56861392/67261951-83ebf080-f4d5-11e9-9807-d091
 user-images.githubusercontent.com/56861392/67262078-0aa0cd80-f4d6-11e9-8639-63829755ed31.jpg
 useraccount.co
 useradmincloud.gq
-users.atw.hu/fvlmodell/letoltes/files/scalecalc.exe
-users.atw.hu/nykol16/kepek.exe
-users.atw.hu/tekiwanatain/installer.rar
-users.atw.hu/toneraruhaz/wp-admin/network/installer.rar
-users.atw.hu/zoolatogato/xrUHBmzvLAgHfnQCerRv.exe
+users.atw.hu
 users.skynet.be
 users.telenet.be
 users.tpg.com.au
@@ -120661,7 +120825,8 @@ vidaepicaoficial.com
 vidafilm.mx
 vidalaviva.com
 vidalgesso.com.br
-vidalhealth.com
+vidalhealth.com/vh_bkp/MHhZ-6Ef2QZYOQIf0gXj_lzlpwXEdd-X2m/
+vidalhealth.com/vh_bkp/TGlJ-swFrxQKWcFNIcd_LJzzYNRN-NaJ/
 vidardeep4.icu
 vidasalv.com
 vidasuavestore.com.br
@@ -123510,9 +123675,7 @@ x-trade.com.pl
 x-x-team.weebly.com/uploads/7/8/4/0/78404562/tedata.exe
 x-x-team.weebly.com/uploads/7/8/4/0/78404562/windowsapplication1.exe
 x.autistichorse.club
-x.jmxded153.net/y.z?l=http%3a%2f%2fshivmotor.com%2fNMVA-SVa_XGhzimAE-gtc%2f49390%2fSurveyQuestionsUS_us%2fSales-Invoice&r=11943112279&d=271873&p=1&t=h/
-x.jmxded153.net/y.z?l=http%3a%2f%2fshivmotor.com%2fNMVA-SVa_XGhzimAE-gtc%2f49390%2fSurveyQuestionsUS_us%2fSales-Invoice&r=11943113879&d=271873&p=1&t=h/
-x.jmxded153.net/y.z?l=http://thuraya.kz/iVIg-wWj_tCpHue-kR/EXT/PaymentStatus/En/Past-Due-Invoice&r=11940086345&d=271873&p=1&t=h/
+x.jmxded153.net
 x.jmxded184.net
 x.kuai-go.com
 x.ord-id.com
@@ -124857,6 +125020,7 @@ yuanjhua.com
 yuanjie.me
 yuanxing365.com
 yubantu.com
+yubz.net
 yucatan.ws
 yudiartawan.com
 yuechengsteak.com
