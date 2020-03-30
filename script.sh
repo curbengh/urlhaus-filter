@@ -122,4 +122,16 @@ sort | \
 sed '1 i\'"$COMMENT"'' | \
 sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-hosts-online.txt"
 
+## Dnsmasq-compatible blocklist
+cat "../urlhaus-filter-hosts.txt" | \
+# Remove IPv4 address
+grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
+sed "6~1s/^/address=\//g" | \
+sed "6~1s/$/\/127.0.0.1/g" > "../urlhaus-filter-dnsmasq.conf"
+
+cat "../urlhaus-filter-hosts-online.txt" | \
+grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
+sed "6~1s/^/address=\//g" | \
+sed "6~1s/$/\/127.0.0.1/g" > "../urlhaus-filter-dnsmasq-online.conf"
+
 cd ../ && rm -rf "tmp/"
