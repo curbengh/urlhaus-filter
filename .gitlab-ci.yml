@@ -8,7 +8,7 @@ deploy_job:
   stage: deploy_stage
 
   before_script:
-    - 'which ssh-agent || (apk update && apk add openssh-client git grep)'
+    - 'which ssh-agent || (apk update && apk add openssh-client git grep sed)'
 
   script:
     - sh script.sh
@@ -61,7 +61,7 @@ failed_job:
   stage: failed_stage
 
   before_script:
-    - 'which ssh-agent || (apk update && apk add openssh-client git grep)'
+    - 'which ssh-agent || (apk update && apk add openssh-client git grep sed)'
     - eval $(ssh-agent -s)
     - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
     - echo "$GH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
