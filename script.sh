@@ -8,7 +8,7 @@ mkdir -p "tmp/" && cd "tmp/"
 
 ## Prepare datasets
 wget "https://urlhaus.abuse.ch/downloads/csv/" -O "urlhaus.zip"
-wget "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -O "top-1m.csv.zip"
+wget "https://tranco-list.eu/top-1m.csv.zip" -O "top-1m.csv.zip"
 
 cp "../src/exclude.txt" "."
 
@@ -49,7 +49,7 @@ cut -f 1 -d ":" | \
 sort -u > "urlhaus-domains-online.txt"
 
 
-## Parse the Cisco Umbrella 1 Million
+## Parse the Tranco 1 Million
 unzip -p "top-1m.csv.zip" | \
 dos2unix | \
 # Parse domains only
