@@ -7,8 +7,8 @@ mkdir -p "tmp/" && cd "tmp/"
 
 
 ## Prepare datasets
-wget "https://urlhaus.abuse.ch/downloads/csv/" -O "urlhaus.zip"
-wget "https://tranco-list.eu/top-1m.csv.zip" -O "top-1m.csv.zip"
+curl -L "https://urlhaus.abuse.ch/downloads/csv/" -o "urlhaus.zip"
+curl -L "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m.csv.zip"
 
 cp "../src/exclude.txt" "."
 

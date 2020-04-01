@@ -114,14 +114,14 @@ Dnsmasq-compatible blocklist is also available.
 
 ```
 mkdir -p ~/.config/urlhaus-filter/
-wget https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf -O ~/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf
+curl https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf -o ~/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf
 printf "\nconf-file=$HOME/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf\n" >> /etc/dnsmasq.conf
 ```
 
 ### Update
 
 ```
-wget https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf -O ~/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf
+curl https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf -o ~/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf
 ```
 
 <details>
