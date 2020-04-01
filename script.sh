@@ -7,18 +7,20 @@ mkdir -p "tmp/" && cd "tmp/"
 
 
 ## Prepare datasets
-wget "https://urlhaus.abuse.ch/downloads/csv/" -O "../src/URLhaus.csv"
+wget "https://urlhaus.abuse.ch/downloads/csv/" -O "urlhaus.zip"
 wget "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -O "top-1m.csv.zip"
 
 cp "../src/exclude.txt" "."
 
-## Clean up URLhaus.csv
-cat "../src/URLhaus.csv" | \
+## Prepare URLhaus.csv
+unzip -p "urlhaus.zip" | \
 # Convert DOS to Unix line ending
 dos2unix | \
 # Remove comment
-sed "/^#/d" | \
-# Parse URLs
+sed "/^#/d" > "../src/URLhaus.csv"
+
+## Parse URLs
+cat "../src/URLhaus.csv" | \
 cut -f 6 -d '"' | \
 cut -f 3- -d "/" | \
 # Domain must have at least a 'dot'
@@ -33,10 +35,8 @@ cut -f 1 -d "/" | \
 cut -f 1 -d ":" | \
 sort -u > "urlhaus-domains.txt"
 
+## Parse online URLs only
 cat "../src/URLhaus.csv" | \
-dos2unix | \
-sed "/^#/d" | \
-# Parse online URLs only
 grep '"online"' | \
 cut -f 6 -d '"' | \
 cut -f 3- -d "/" | \
