@@ -29,11 +29,13 @@ deploy_job:
     - echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
     - chmod 644 ~/.ssh/known_hosts
 
+    - git checkout master
+    - git config --global user.name "curben-bot"
+    - git config --global user.email "3048979-curben-bot@users.noreply.gitlab.com"
+
     # Generate successful status badge
     - mkdir -p .gitlab/
     - wget https://img.shields.io/badge/pipeline-passed-success.svg -O .gitlab/status.svg
-    - git config --global user.name "curben-bot"
-    - git config --global user.email "3048979-curben-bot@users.noreply.gitlab.com"
     - git add .gitlab/status.svg
     # Only commit when diff exists https://stackoverflow.com/a/8123841
     - git diff-index --quiet HEAD || git commit -m "Success pipeline"
@@ -69,10 +71,12 @@ failed_job:
     - chmod 644 ~/.ssh/known_hosts
 
   script:
-    - mkdir -p .gitlab/
-    - wget https://img.shields.io/badge/pipeline-failed-critical.svg -O .gitlab/status.svg
+    - git checkout master
     - git config --global user.name "curben-bot"
     - git config --global user.email "3048979-curben-bot@users.noreply.gitlab.com"
+
+    - mkdir -p .gitlab/
+    - wget https://img.shields.io/badge/pipeline-failed-critical.svg -O .gitlab/status.svg
     - git add .gitlab/status.svg
     - git diff-index --quiet HEAD || git commit -m "Failed pipeline"
     - ssh -T git@gitlab.com
