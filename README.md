@@ -1,8 +1,14 @@
 # URLhaus Malicious URL Blocklist
 
-A block list of malicious URLs that are being used for malware distribution. This [uBO](https://github.com/gorhill/uBlock/)-compatible filter list is based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/).
+A blocklist of malicious URLs that are being used for malware distribution, based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/).
 
-## Subscribe
+Please refer to the appropriate section according to the program used:
+
+- uBlock Origin (uBO) / NanoAdblocker -> [URL-based](#url-based) section (recommended)
+- Pi-hole -> [Host-based](#host-based) section
+- Dnsmasq DNS server -> [Dnsmasq](#dnsmasq) section
+
+## URL-based
 
 Filter is updated twice a day.
 
@@ -54,7 +60,7 @@ This filter is only tested with uBO. [FilterLists](https://filterlists.com/) sho
 
 Host/DNS-based software uses host-based blocklist instead, see below section.
 
-## Host-based blocklist
+## Host-based
 
 If you're using host-based blockers like one of the following (but not limited to):
 
@@ -68,8 +74,7 @@ If you're using host-based blockers like one of the following (but not limited t
 - [Samsung Knox](https://www.samsungknox.com/)
 - [uMatrix](https://github.com/gorhill/uMatrix)
 
-The filters listed in [Subscribe](#subscribe) section are not compatible.
-Instead, use the following blocklist:
+Download blocklist:
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
 
