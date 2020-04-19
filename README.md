@@ -137,15 +137,17 @@ This blocklist includes domains only.
 ### Install
 
 ```
-mkdir -p ~/.config/urlhaus-filter/
-curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf -o ~/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf
-printf "\nconf-file=$HOME/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf\n" >> /etc/dnsmasq.conf
-```
+# Create a new folder to store the blocklist
+mkdir -p /usr/local/etc/dnsmasq/
 
-### Update
+# Create a new cron job for daily update
+printf '#!/bin/sh\ncurl -L "https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf" -o "/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf"\n' > /etc/cron.daily/urlhaus-filter
 
-```
-curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf -o ~/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf
+# cron job requires execution permission
+chmod 755 /etc/cron.daily/urlhaus-filter
+
+# Configure dnsmasq to use the blocklist
+printf "\nconf-file=/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf\n" >> /etc/dnsmasq.conf
 ```
 
 <details>
@@ -186,9 +188,17 @@ This blocklist includes domains only.
 ### Install
 
 ```
-mkdir -p ~/.config/urlhaus-filter/
-curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf -o ~/.config/urlhaus-filter/urlhaus-filter-bind.conf
-printf '\ninclude "$HOME/.config/urlhaus-filter/urlhaus-filter-bind.conf";\n' >> /etc/bind/named.conf
+# Create a new folder to store the blocklist
+mkdir -p /usr/local/etc/bind/
+
+# Create a new cron job for daily update
+printf '#!/bin/sh\ncurl -L "https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf" -o "/usr/local/etc/bind/urlhaus-filter-bind.conf"\n' > /etc/cron.daily/urlhaus-filter
+
+# cron job requires execution permission
+chmod 755 /etc/cron.daily/urlhaus-filter
+
+# Configure BIND to use the blocklist
+printf '\ninclude "/usr/local/etc/bind/urlhaus-filter-bind.conf";\n' >> /etc/bind/named.conf
 ```
 
 Add this to "/etc/bind/null.zone.file" (skip this step if the file already exists):
@@ -208,12 +218,6 @@ $TTL    86400   ; one day
 ```
 
 Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/master/null.zone.file).
-
-### Update
-
-```
-curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf -o ~/.config/urlhaus-filter/urlhaus-filter-bind.conf
-```
 
 <details>
 <summary>Mirrors</summary>
@@ -253,15 +257,17 @@ This blocklist includes domains only.
 ### Install
 
 ```
-mkdir -p ~/.config/urlhaus-filter/
-curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound.conf -o ~/.config/urlhaus-filter/urlhaus-filter-unbound.conf
-printf '\n  include: "$HOME/.config/urlhaus-filter/urlhaus-filter-unbound.conf"\n' >> /etc/unbound/unbound.conf
-```
+# Create a new folder to store the blocklist
+mkdir -p /usr/local/etc/unbound/
 
-### Update
+# Create a new cron job for daily update
+printf '#!/bin/sh\ncurl -L "https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound.conf" -o "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' > /etc/cron.daily/urlhaus-filter
 
-```
-curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound.conf -o ~/.config/urlhaus-filter/urlhaus-filter-unbound.conf
+# cron job requires execution permission
+chmod 755 /etc/cron.daily/urlhaus-filter
+
+# Configure Unbound to use the blocklist
+printf '\n  include: "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' >> /etc/unbound/unbound.conf
 ```
 
 <details>
