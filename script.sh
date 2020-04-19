@@ -125,26 +125,36 @@ sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-domains-online.txt"
 
 ## Hosts file blocklist
 cat "../urlhaus-filter-domains.txt" | \
+# Exclude comment with #
+grep -vE "^#" | \
 # Remove IPv4 address
 grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
-sed "6~1s/^/0.0.0.0 /g" | \
+sed "s/^/0.0.0.0 /g" | \
+# Re-insert comment
+sed '1 i\'"$COMMENT"'' | \
 sed "1s/Domains/Hosts/" > "../urlhaus-filter-hosts.txt"
 
 cat "../urlhaus-filter-domains-online.txt" | \
+grep -vE "^#" | \
 grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
-sed "6~1s/^/0.0.0.0 /g" | \
+sed "s/^/0.0.0.0 /g" | \
+sed '1 i\'"$COMMENT"'' | \
 sed "1s/Domains/Hosts/" > "../urlhaus-filter-hosts-online.txt"
 
 
 ## Dnsmasq-compatible blocklist
 cat "../urlhaus-filter-hosts.txt" | \
-sed "6~1s/^0.0.0.0 /address=\//g" | \
-sed "6~1s/$/\/0.0.0.0/g" | \
+grep -vE "^#" | \
+sed "s/^0.0.0.0 /address=\//g" | \
+sed "s/$/\/0.0.0.0/g" | \
+sed '1 i\'"$COMMENT"'' | \
 sed "1s/Blocklist/dnsmasq Blocklist/" > "../urlhaus-filter-dnsmasq.conf"
 
 cat "../urlhaus-filter-hosts-online.txt" | \
-sed "6~1s/^0.0.0.0 /address=\//g" | \
-sed "6~1s/$/\/0.0.0.0/g" | \
+grep -vE "^#" | \
+sed "s/^0.0.0.0 /address=\//g" | \
+sed "s/$/\/0.0.0.0/g" | \
+sed '1 i\'"$COMMENT"'' | \
 sed "1s/Blocklist/dnsmasq Blocklist/" > "../urlhaus-filter-dnsmasq-online.conf"
 
 cd ../ && rm -rf "tmp/"
