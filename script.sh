@@ -161,15 +161,15 @@ sed "1s/Blocklist/dnsmasq Blocklist/" > "../urlhaus-filter-dnsmasq-online.conf"
 ## BIND-compatible blocklist
 cat "../urlhaus-filter-hosts.txt" | \
 grep -vE "^#" | \
-sed "s/^0.0.0.0 /zone \"/g" | \
-sed "s/$/\" { type master; notify no; file \"null.zone.file\"; };/g" | \
+sed 's/^0.0.0.0 /zone "/g' | \
+sed 's/$/" { type master; notify no; file "null.zone.file"; };/g' | \
 sed '1 i\'"$COMMENT"'' | \
 sed "1s/Blocklist/BIND Blocklist/" > "../urlhaus-filter-bind.conf"
 
 cat "../urlhaus-filter-hosts-online.txt" | \
 grep -vE "^#" | \
-sed "s/^0.0.0.0 /zone \"/g" | \
-sed "s/$/\" { type master; notify no; file \"null.zone.file\"; };/g" | \
+sed 's/^0.0.0.0 /zone "/g' | \
+sed 's/$/" { type master; notify no; file "null.zone.file"; };/g' | \
 sed '1 i\'"$COMMENT"'' | \
 sed "1s/Blocklist/BIND Blocklist/" > "../urlhaus-filter-bind-online.conf"
 
