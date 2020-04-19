@@ -105,8 +105,8 @@ sed '1 i\'"$COMMENT"'' | \
 sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-online.txt"
 
 
-## Host-only blocklist
-FIRST_LINE="# Title: abuse.ch URLhaus Malicious Hosts Blocklist"
+## Domains-only blocklist
+FIRST_LINE="# Title: abuse.ch URLhaus Malicious Domains Blocklist"
 SECOND_LINE="# Updated: $CURRENT_TIME"
 THIRD_LINE="# Repo: https://gitlab.com/curben/urlhaus-filter"
 FOURTH_LINE="# License: https://creativecommons.org/publicdomain/zero/1.0/"
@@ -115,23 +115,36 @@ COMMENT="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE"
 
 cat "malware-domains.txt" | \
 sort | \
-sed '1 i\'"$COMMENT"'' > "../urlhaus-filter-hosts.txt"
+sed '1 i\'"$COMMENT"'' > "../urlhaus-filter-domains.txt"
 
 cat "malware-domains-online.txt" | \
 sort | \
 sed '1 i\'"$COMMENT"'' | \
-sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-hosts-online.txt"
+sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-domains-online.txt"
+
+
+## Hosts file blocklist
+cat "../urlhaus-filter-domains.txt" | \
+# Remove IPv4 address
+grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
+sed "6~1s/^/0.0.0.0 /g" | \
+sed "1s/Domains/Hosts/" > "../urlhaus-filter-hosts.txt"
+
+cat "../urlhaus-filter-domains-online.txt" | \
+grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
+sed "6~1s/^/0.0.0.0 /g" | \
+sed "1s/Domains/Hosts/" > "../urlhaus-filter-hosts-online.txt"
+
 
 ## Dnsmasq-compatible blocklist
 cat "../urlhaus-filter-hosts.txt" | \
-# Remove IPv4 address
-grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
-sed "6~1s/^/address=\//g" | \
-sed "6~1s/$/\/127.0.0.1/g" > "../urlhaus-filter-dnsmasq.conf"
+sed "6~1s/^0.0.0.0 /address=\//g" | \
+sed "6~1s/$/\/0.0.0.0/g" | \
+sed "1s/Blocklist/dnsmasq Blocklist/" > "../urlhaus-filter-dnsmasq.conf"
 
 cat "../urlhaus-filter-hosts-online.txt" | \
-grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
-sed "6~1s/^/address=\//g" | \
-sed "6~1s/$/\/127.0.0.1/g" > "../urlhaus-filter-dnsmasq-online.conf"
+sed "6~1s/^0.0.0.0 /address=\//g" | \
+sed "6~1s/$/\/0.0.0.0/g" | \
+sed "1s/Blocklist/dnsmasq Blocklist/" > "../urlhaus-filter-dnsmasq-online.conf"
 
 cd ../ && rm -rf "tmp/"
