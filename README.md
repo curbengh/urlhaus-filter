@@ -2,11 +2,14 @@
 
 A blocklist of malicious URLs that are being used for malware distribution, based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/).
 
-Please refer to the appropriate section according to the program used:
+There are multiple formats available, refer to the appropriate section according to the program used:
 
-- uBlock Origin (uBO) / NanoAdblocker -> [URL-based](#url-based) section (recommended)
-- Pi-hole -> [Host-based](#host-based) section
+- uBlock Origin (uBO) -> [URL-based](#url-based) section (recommended)
+- Pi-hole -> [Domain-based](#domain-based) or [Hosts-based](#hosts-based) section
+- Hosts file -> [Hosts-based](#hosts-based) section
 - Dnsmasq DNS server -> [Dnsmasq](#dnsmasq) section
+
+Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/urlhaus-filter/wikis/compatibility) page in the wiki.
 
 ## URL-based
 
@@ -51,30 +54,46 @@ Lite version (online urls only):
 
 *PS: While regular version contains roughly 65K filters, uBO can [easily handle](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-452843669) half a million filters.*
 
-## Compatibility
+## Domain-based
 
-This filter is only tested with uBO. [FilterLists](https://filterlists.com/) shows it is compatible with the following software:
+This blocklist includes domains and IP addresses.
 
-- [AdNauseam](https://github.com/dhowe/AdNauseam/)
-- [NanoAdblocker](https://github.com/NanoAdblocker/NanoCore)
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
 
-Host/DNS-based software uses host-based blocklist instead, see below section.
+<details>
+<summary>Mirrors</summary>
 
-## Host-based
+- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-domains.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-domains.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-domains.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-domains.txt
+- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-domains.txt
 
-If you're using host-based blockers like one of the following (but not limited to):
+</details>
 
-- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
-- [Blokada](https://github.com/blokadaorg/blokada/)
-- [Google Hit Hider](https://www.jeffersonscher.com/gm/google-hit-hider/)
-- [hostsmgr](https://www.henrypp.org/product/hostsmgr)
-- [Personal Blocklist](https://addons.mozilla.org/firefox/addon/personal-blocklist/)
-- [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
-- [Pi-hole](https://pi-hole.net/)
-- [Samsung Knox](https://www.samsungknox.com/)
-- [uMatrix](https://github.com/gorhill/uMatrix)
+<br />
+Lite version (online domains/IPs only):
 
-Download blocklist:
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains-online.txt
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-domains-online.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains-online.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-domains-online.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-domains-online.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-domains-online.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-domains-online.txt
+- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-domains-online.txt
+
+</details>
+
+## Hosts-based
+
+This blocklist includes domains only.
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
 
@@ -92,7 +111,7 @@ Download blocklist:
 </details>
 
 <br />
-Lite version (online hosts only):
+Lite version (online domains only):
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 
@@ -109,11 +128,9 @@ Lite version (online hosts only):
 
 </details>
 
-Note that host-based software does not block malware URLs hosted by well-known domains (e.g. amazonaws.com, docs.google.com, dropbox.com).
-
 ## Dnsmasq
 
-Dnsmasq-compatible blocklist is also available.
+This blocklist includes domains only.
 
 ### Install
 
@@ -143,7 +160,7 @@ curl https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.
 </details>
 
 <br />
-Lite version (online urls only); filename is different, adjust the installation and update instructions appropriately:
+Lite version (online domains only):
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq-online.conf
 
@@ -186,4 +203,4 @@ Use shallow clone to get the recent revisions only. Getting the last five revisi
 
 ## FAQ
 
-See [wiki](https://gitlab.com/curben/urlhaus-filter/wikis/FAQ).
+See [FAQ](https://gitlab.com/curben/urlhaus-filter/wikis/faq).
