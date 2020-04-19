@@ -174,4 +174,20 @@ sed '1 i\'"$COMMENT"'' | \
 sed "1s/Blocklist/BIND Blocklist/" > "../urlhaus-filter-bind-online.conf"
 
 
+## Unbound-compatible blocklist
+cat "../urlhaus-filter-hosts.txt" | \
+grep -vE "^#" | \
+sed 's/^0.0.0.0 /local-zone: "/g' | \
+sed 's/$/" always_nxdomain/g' | \
+sed '1 i\'"$COMMENT"'' | \
+sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound.conf"
+
+cat "../urlhaus-filter-hosts-online.txt" | \
+grep -vE "^#" | \
+sed 's/^0.0.0.0 /local-zone: "/g' | \
+sed 's/$/" always_nxdomain/g' | \
+sed '1 i\'"$COMMENT"'' | \
+sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound-online.conf"
+
+
 cd ../ && rm -rf "tmp/"

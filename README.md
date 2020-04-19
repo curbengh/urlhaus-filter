@@ -7,8 +7,9 @@ There are multiple formats available, refer to the appropriate section according
 - uBlock Origin (uBO) -> [URL-based](#url-based) section (recommended)
 - Pi-hole -> [Domain-based](#domain-based) or [Hosts-based](#hosts-based) section
 - Hosts file -> [Hosts-based](#hosts-based) section
-- Dnsmasq DNS server -> [Dnsmasq](#dnsmasq) section
-- BIND DNS server -> [BIND](#bind) section
+- Dnsmasq -> [Dnsmasq](#dnsmasq) section
+- BIND -> [BIND](#bind) section
+- Unbound -> [Unbound](#unbound) section
 
 Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/urlhaus-filter/wikis/compatibility) page in the wiki.
 
@@ -187,7 +188,7 @@ This blocklist includes domains only.
 ```
 mkdir -p ~/.config/urlhaus-filter/
 curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf -o ~/.config/urlhaus-filter/urlhaus-filter-bind.conf
-printf '\ninclude "$HOME/.config/urlhaus-filter/urlhaus-filter-bind.conf"\n' >> /etc/bind/named.conf
+printf '\ninclude "$HOME/.config/urlhaus-filter/urlhaus-filter-bind.conf";\n' >> /etc/bind/named.conf
 ```
 
 Add this to "/etc/bind/null.zone.file" (skip this step if the file already exists):
@@ -242,6 +243,55 @@ Lite version (online domains only):
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-bind-online.conf
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-bind-online.conf
 - https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-bind-online.conf
+
+</details>
+
+## Unbound
+
+This blocklist includes domains only.
+
+### Install
+
+```
+mkdir -p ~/.config/urlhaus-filter/
+curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound.conf -o ~/.config/urlhaus-filter/urlhaus-filter-unbound.conf
+printf '\n  include: "$HOME/.config/urlhaus-filter/urlhaus-filter-unbound.conf"\n' >> /etc/unbound/unbound.conf
+```
+
+### Update
+
+```
+curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound.conf -o ~/.config/urlhaus-filter/urlhaus-filter-unbound.conf
+```
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound.conf
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound.conf
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-unbound.conf
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-unbound.conf
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-unbound.conf
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-unbound.conf
+- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-unbound.conf
+
+</details>
+
+<br />
+Lite version (online domains only):
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound-online.conf
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound-online.conf
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound-online.conf
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-unbound-online.conf
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-unbound-online.conf
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-unbound-online.conf
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-unbound-online.conf
+- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-unbound-online.conf
 
 </details>
 
