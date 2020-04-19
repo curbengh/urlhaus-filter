@@ -8,6 +8,7 @@ There are multiple formats available, refer to the appropriate section according
 - Pi-hole -> [Domain-based](#domain-based) or [Hosts-based](#hosts-based) section
 - Hosts file -> [Hosts-based](#hosts-based) section
 - Dnsmasq DNS server -> [Dnsmasq](#dnsmasq) section
+- BIND DNS server -> [BIND](#bind) section
 
 Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/urlhaus-filter/wikis/compatibility) page in the wiki.
 
@@ -136,14 +137,14 @@ This blocklist includes domains only.
 
 ```
 mkdir -p ~/.config/urlhaus-filter/
-curl https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf -o ~/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf
+curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf -o ~/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf
 printf "\nconf-file=$HOME/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf\n" >> /etc/dnsmasq.conf
 ```
 
 ### Update
 
 ```
-curl https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf -o ~/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf
+curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf -o ~/.config/urlhaus-filter/urlhaus-filter-dnsmasq.conf
 ```
 
 <details>
@@ -177,7 +178,72 @@ Lite version (online domains only):
 
 </details>
 
-Note that it is not possible for Dnsmasq to block malicious IP address.
+## BIND
+
+This blocklist includes domains only.
+
+### Install
+
+```
+mkdir -p ~/.config/urlhaus-filter/
+curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf -o ~/.config/urlhaus-filter/urlhaus-filter-bind.conf
+printf '\ninclude "$HOME/.config/urlhaus-filter/urlhaus-filter-bind.conf"\n' >> /etc/bind/named.conf
+```
+
+Add this to "/etc/bind/null.zone.file" (skip this step if the file already exists):
+
+```
+$TTL    86400   ; one day
+@       IN      SOA     ns.nullzone.loc. ns.nullzone.loc. (
+               2017102203
+                    28800
+                     7200
+                   864000
+                    86400 )
+                NS      ns.nullzone.loc.
+                A       0.0.0.0
+@       IN      A       0.0.0.0
+*       IN      A       0.0.0.0
+```
+
+Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/master/null.zone.file).
+
+### Update
+
+```
+curl -L https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf -o ~/.config/urlhaus-filter/urlhaus-filter-bind.conf
+```
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-bind.conf
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-bind.conf
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-bind.conf
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-bind.conf
+- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-bind.conf
+
+</details>
+
+<br />
+Lite version (online domains only):
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind-online.conf
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-bind-online.conf
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind-online.conf
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-bind-online.conf
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-bind-online.conf
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-bind-online.conf
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-bind-online.conf
+- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-bind-online.conf
+
+</details>
 
 ## Issues
 
