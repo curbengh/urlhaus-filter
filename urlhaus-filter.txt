@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Mon, 20 Apr 2020 09:11:09 UTC
+! Updated: Mon, 20 Apr 2020 12:09:11 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -5160,6 +5160,7 @@
 115.56.45.88
 115.56.46.15
 115.56.47.119
+115.56.49.53
 115.56.49.76
 115.56.50.120
 115.56.51.177
@@ -7949,6 +7950,7 @@
 123.10.134.19
 123.10.134.207
 123.10.134.209
+123.10.134.239
 123.10.134.48
 123.10.134.49
 123.10.134.63
@@ -9502,6 +9504,7 @@
 125.42.232.74
 125.42.233.105
 125.42.233.115
+125.42.233.117
 125.42.233.199
 125.42.233.21
 125.42.233.31
@@ -12255,6 +12258,7 @@
 162.212.113.119
 162.212.113.121
 162.212.113.122
+162.212.113.124
 162.212.113.134
 162.212.113.135
 162.212.113.145
@@ -27211,6 +27215,7 @@
 36.33.138.57
 36.33.138.7
 36.33.140.130
+36.33.140.209
 36.33.140.232
 36.33.140.248
 36.33.140.96
@@ -28126,6 +28131,7 @@
 42.225.209.37
 42.225.209.95
 42.225.210.1
+42.225.210.203
 42.225.215.207
 42.225.215.30
 42.225.216.184
@@ -28629,9 +28635,11 @@
 42.230.58.204
 42.230.6.232
 42.230.60.110
+42.230.60.74
 42.230.61.17
 42.230.62.207
 42.230.62.91
+42.230.63.129
 42.230.7.111
 42.230.7.151
 42.230.8.34
@@ -28751,6 +28759,7 @@
 42.231.242.69
 42.231.248.123
 42.231.248.126
+42.231.252.215
 42.231.253.214
 42.231.39.26
 42.231.43.77
@@ -31587,6 +31596,7 @@
 49.89.188.196
 49.89.188.229
 49.89.188.254
+49.89.189.170
 49.89.189.205
 49.89.189.26
 49.89.190.130
@@ -33232,6 +33242,7 @@
 60.162.184.125
 60.162.186.81
 60.162.199.115
+60.162.252.89
 60.164.250.170
 60.166.10.153
 60.166.110.70
@@ -35155,6 +35166,7 @@
 76.182.156.147
 76.200.79.33
 76.243.189.77
+76.250.199.133
 76.254.129.227
 76.72.192.104
 76.74.170.118
@@ -36393,6 +36405,7 @@
 85.96.187.127
 85.96.198.83
 85.97.131.5
+85.97.185.220
 85.97.201.214
 85.97.201.58
 85.97.206.161
@@ -37700,6 +37713,7 @@
 98.200.233.150
 98.21.251.169
 98.231.109.153
+98.238.122.130
 98.253.113.227
 98.254.125.18
 98.ip-51-91-254.eu
@@ -43989,6 +44003,7 @@ azul-holiday.pl
 azuraccessoires83.fr
 azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 azure-team.com
+azureautomation.co.uk
 azurein360.com
 azuremoonentertainment.mobi
 azuresys.com
@@ -53085,6 +53100,7 @@ coronadotx.com
 coronaharitasicanli.com
 coronatec.com.br
 coronaviruscovid19-information.com
+coronavirusmaps.pro
 coroneisdavicente.com.br
 coronelsandro.com.br
 corp.austinroofalgaeremoval.com
@@ -60918,6 +60934,7 @@ drive.google.com/uc?export=download&id=1EaSOo06jKxkuuKpLAWMzY-zUf8AB1cIE
 drive.google.com/uc?export=download&id=1EeWhy5AdWd93yhYrYI0Al41oP9ht4XMA
 drive.google.com/uc?export=download&id=1EgNjlw3KEQb-xjF_A45FswAvfCepHW-M
 drive.google.com/uc?export=download&id=1Egcbnvkh_6Og3dzGT0Rv_ShnTDApWU5P
+drive.google.com/uc?export=download&id=1EkgnKae10AB-8OVYiLFRFTWU74dwfDeO
 drive.google.com/uc?export=download&id=1EntibBAlB7rva3TlWHEw1YtvH7WcX1wd
 drive.google.com/uc?export=download&id=1EsSxdQIzey77wjJAwY03EvE--Y3zhX9x
 drive.google.com/uc?export=download&id=1EtqVqVENlzJidRkE5PJucj5lbeiaRlO0
@@ -61307,6 +61324,7 @@ drive.google.com/uc?export=download&id=1TYgpg3kBbA0W0oHvnwitVnHTAH0wKlwr
 drive.google.com/uc?export=download&id=1T_AIVVmVQjJK5xR8F-vCAcLHLv93wmeY
 drive.google.com/uc?export=download&id=1Td63Aps6XGQj5dxdyQKZFJUeg0YOFDQ6
 drive.google.com/uc?export=download&id=1TeJ3TobSCQOlZQE9s354oS9scpn75eKC
+drive.google.com/uc?export=download&id=1Thtbm47ZjIt8mogFwzqT0Uva861yS5KB
 drive.google.com/uc?export=download&id=1TobOvAhgiCOanJB35ZKsw-97PVSDH9d4
 drive.google.com/uc?export=download&id=1TpJdLw4rN0RApt7CiGdW04w8L5XHI2IM
 drive.google.com/uc?export=download&id=1Trzyb2eW-3WLdj4BQQq_kissPU1THWy5
@@ -61341,6 +61359,7 @@ drive.google.com/uc?export=download&id=1UmVy9hLynTo1RqiBjNrpIzchOmkUuNOo
 drive.google.com/uc?export=download&id=1UmyaXonn-i1lgIkvkkaIfMY-FWlfhoaW
 drive.google.com/uc?export=download&id=1UnM5e0QivRQySIMs6YSxkUO014pasY9Y
 drive.google.com/uc?export=download&id=1UnZE1_XDcad5DW8fsVFD8K1ZYDla2tyn
+drive.google.com/uc?export=download&id=1Uq_k1ylh59I1YBSuC72xGL8d2t-B8Ors
 drive.google.com/uc?export=download&id=1UrSVYWQVD5e0ZzOppGXUWH6fw6rygt9h
 drive.google.com/uc?export=download&id=1Us0-Oal6LUYkLpvDrsKFKj48nVNOAvLJ
 drive.google.com/uc?export=download&id=1UwoT0t0y-kMDJqvkTsHD3E5kIplP5m4l
@@ -61384,6 +61403,7 @@ drive.google.com/uc?export=download&id=1W6xoiT5gVBQIxg-dlKskCPUZfPShg24j
 drive.google.com/uc?export=download&id=1W8pXCJhqu0gNmSa0ENb_1Y8j2DsvAlzi
 drive.google.com/uc?export=download&id=1W9hi9QuirE4I1YqccC0v1pzQ2vYOnsIk
 drive.google.com/uc?export=download&id=1WBLY8qfJBciRGNDBs5fLHSBcqk28rKGV
+drive.google.com/uc?export=download&id=1WBX1KqI18tchBVkWdQPJ8JxbBDxrBdaH
 drive.google.com/uc?export=download&id=1WBgKdpa5rsKW-OY1PbT5wEVcwZonxa9b
 drive.google.com/uc?export=download&id=1WGoX4cNxZFMW-1T0N13utArTks59L0hL
 drive.google.com/uc?export=download&id=1WGqMrdWb2-3LDs_Vpn5zVpQXHIB_1nWz
@@ -62112,6 +62132,7 @@ drive.google.com/uc?export=download&id=1uqzpRH90__pYxjmEESt9kIKEkrcyTSBo
 drive.google.com/uc?export=download&id=1usXhLD59IUljCZdD222jP2QYU-GP28tz
 drive.google.com/uc?export=download&id=1usmR35TtBAICNeO88I9bC_efVU8-1ZmP
 drive.google.com/uc?export=download&id=1v0wdQ-GB1j25qomFhTbvL-lzVgST4qOc
+drive.google.com/uc?export=download&id=1v1Ivm-mgUxc-Zg9Erxs-vVUmCEk7sB2c
 drive.google.com/uc?export=download&id=1v2RmbQ0HqvSagGosCYLKle9tJdmMsvQU
 drive.google.com/uc?export=download&id=1v5orVrmODXho7UOpUnoCds7E5CDzMAM_
 drive.google.com/uc?export=download&id=1v78PFto3JJf_8bTs6JiFNPTELOwzYfT0
@@ -62130,6 +62151,7 @@ drive.google.com/uc?export=download&id=1vRTFLLOGY2NzCGQZGNIwjsKzfl5ohxZg
 drive.google.com/uc?export=download&id=1vSIwXX3MLfVE1qZXYO9Ke-GbJF1FaF9E
 drive.google.com/uc?export=download&id=1vVyWcGcArbPY_DrLhMOkKnyWk4XrkKRv
 drive.google.com/uc?export=download&id=1vZC6BIdxegkiUEBWa3TuA3sPXBS7OUhG
+drive.google.com/uc?export=download&id=1vZhuiS_3WrLZ13l0pMtU8lkEBKRAsByN
 drive.google.com/uc?export=download&id=1v_9-OKEuKr23-Pv3uCMyZ3XtPwtBRQlk
 drive.google.com/uc?export=download&id=1vam9why2kKUaQAJUgws9DLvtr4kjOvOc
 drive.google.com/uc?export=download&id=1vav_eKvkZjAybwNO0FB-AxxaeptKPQiB
@@ -62231,6 +62253,7 @@ drive.google.com/uc?export=download&id=1yoJNGBaD3VjjXps1W60viMTJlmbhUd6_
 drive.google.com/uc?export=download&id=1yr4nmtec_uJYZu5tNsqcdO3kJg5brLn0
 drive.google.com/uc?export=download&id=1yunr-WrzsN-ldyYVyZ-k5jPNlO-WfFLL
 drive.google.com/uc?export=download&id=1yvdtbiVdQAtLWdSEpDACWS4WgZIk1kPB
+drive.google.com/uc?export=download&id=1ywnB_49OOzdnIeHaF8tOIPqOaRmpZqil
 drive.google.com/uc?export=download&id=1yxzhBuGoULsJJC7dmY8l7H7ZoaRP3kZ2
 drive.google.com/uc?export=download&id=1z16Ai8gOafC7S8nc0Q6nynZu938iiD4-
 drive.google.com/uc?export=download&id=1z2Ilwy15JZ_Q20AOVdLC6yt9OYp99TbX
@@ -78711,6 +78734,7 @@ grace2hk.com
 grace2hk.designers-platform.com
 gracebaptistsheridan.org
 gracebear.co.uk
+gracegotme.duckdns.org
 graceinfosoft.in
 graceofgodmission.org
 graceschools.sc.tz
@@ -125882,6 +125906,7 @@ uniegypt.com
 unifa.tv
 unifarmer.org
 unifg.edinteractive.cc
+unifiedsecuretrade.com
 uniformes.com.tn
 uniformesgood.cl
 uniformesjab.com
