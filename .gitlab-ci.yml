@@ -44,12 +44,13 @@ deploy_job:
     - git remote add mirror git@github.com:curbengh/urlhaus-filter.git
     - git push mirror master
 
-  only:
-    # Allow CI to be triggered by schedule
-    - schedules
-
-    # Allow CI to be triggered manually
-    - web
+  rules:
+    # Only trigger through schedule job in master branch
+    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "schedule"'
+      when: always
+    # Only trigger through "Run pipeline" in master branch
+    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "web"'
+      when: always
 
 failed_job:
   stage: failed_stage
@@ -83,6 +84,8 @@ failed_job:
   # Run this job only when deploy_job failed
   when: on_failure
 
-  only:
-    - schedules
-    - web
+  rules:
+    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "schedule"'
+      when: always
+    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "web"'
+      when: always
