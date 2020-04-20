@@ -139,7 +139,7 @@ grep -vE "^#" | \
 grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
 sed "s/^/0.0.0.0 /g" | \
 sed '1 i\'"$COMMENT"'' | \
-sed "1s/Domains/Hosts/" > "../urlhaus-filter-hosts-online.txt"
+sed "1s/Domains/Online Hosts/" > "../urlhaus-filter-hosts-online.txt"
 
 
 ## Dnsmasq-compatible blocklist
