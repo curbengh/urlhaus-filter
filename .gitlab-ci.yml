@@ -20,19 +20,6 @@ deploy_job:
     # Commit the changes
     - sh utils/commit.sh
 
-  after_script:
-    - eval $(ssh-agent -s)
-    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
-    - echo "$GH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
-    - mkdir -p ~/.ssh
-    - chmod 700 ~/.ssh
-    - echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
-    - chmod 644 ~/.ssh/known_hosts
-
-    - git checkout master
-    - git config --global user.name "curben-bot"
-    - git config --global user.email "3048979-curben-bot@users.noreply.gitlab.com"
-
     # Generate successful status badge
     - mkdir -p .gitlab/
     - sh utils/badge.sh "success"
