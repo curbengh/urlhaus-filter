@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Wed, 22 Apr 2020 12:09:25 UTC
+# Updated: Thu, 23 Apr 2020 00:09:30 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -893,6 +893,7 @@
 0.0.0.0 4lifeimunologia.com
 0.0.0.0 4maat.com
 0.0.0.0 4marketplacesolutions.org
+0.0.0.0 4mco.com.pk
 0.0.0.0 4mm.it
 0.0.0.0 4mm.site
 0.0.0.0 4mprofitmethod.com
@@ -2609,6 +2610,7 @@
 0.0.0.0 afmaldives.org
 0.0.0.0 afmichicago.org
 0.0.0.0 afmobgne.com
+0.0.0.0 afmogopne.com
 0.0.0.0 afnoasjfn.net
 0.0.0.0 afokoadventure.com
 0.0.0.0 afonertox.com
@@ -3237,6 +3239,7 @@
 0.0.0.0 akdkart.com
 0.0.0.0 akekartela.com
 0.0.0.0 akeswari.org
+0.0.0.0 akfoundationbd.xyz
 0.0.0.0 akg-eng.net
 0.0.0.0 akgemc.com
 0.0.0.0 akgiyimtekstil.com
@@ -5165,6 +5168,7 @@
 0.0.0.0 apexmetalelektrik.com
 0.0.0.0 apexprocess.co.za
 0.0.0.0 apexsme.com
+0.0.0.0 apexsruveyors.com
 0.0.0.0 apf-entreprises80.com
 0.0.0.0 apgneedles.com
 0.0.0.0 apharm.org.ua
@@ -6569,6 +6573,7 @@
 0.0.0.0 atelier.anticrestore.ro
 0.0.0.0 atelierap.cz
 0.0.0.0 atelierbcn.com
+0.0.0.0 atelierdegaia.fr
 0.0.0.0 atelierdellegno.it
 0.0.0.0 atelierdupain.it
 0.0.0.0 atelierexpertbeauty.com
@@ -7714,6 +7719,7 @@
 0.0.0.0 baipopto.org
 0.0.0.0 bairan.net
 0.0.0.0 baires.online
+0.0.0.0 baiseyapian.com
 0.0.0.0 baiventura.000webhostapp.com
 0.0.0.0 baixenoibai24h.com
 0.0.0.0 bajabenedik.com
@@ -7934,6 +7940,7 @@
 0.0.0.0 bankreadyplans.com
 0.0.0.0 bankrot-dfo.ru
 0.0.0.0 banksfinewine.com.au
+0.0.0.0 bankss-71.ml
 0.0.0.0 banne.com.cn
 0.0.0.0 banneuxkes.be
 0.0.0.0 banoshop.eu
@@ -8418,6 +8425,7 @@
 0.0.0.0 beachbumstage2.tkinteractive.com
 0.0.0.0 beachcombermagazine.com
 0.0.0.0 beachcondolife.tk
+0.0.0.0 beachview.co.za
 0.0.0.0 beachvillas.gr
 0.0.0.0 beachwoodproperty.com.au
 0.0.0.0 beaconacademy.net
@@ -13685,6 +13693,7 @@
 0.0.0.0 cherylfairbanks.com
 0.0.0.0 chesaderby.com
 0.0.0.0 cheshirecarr.com
+0.0.0.0 cheshirecheetah.com
 0.0.0.0 cheshiremarshals.co.uk
 0.0.0.0 cheshman.com
 0.0.0.0 chess-board.000webhostapp.com
@@ -13724,6 +13733,7 @@
 0.0.0.0 chicagorawcakes.com
 0.0.0.0 chicagosnapshot.org
 0.0.0.0 chicagotaxi.org
+0.0.0.0 chicare.aguademo.com
 0.0.0.0 chicbakes.com
 0.0.0.0 chichilimxhost.com
 0.0.0.0 chichomify.com
@@ -14154,6 +14164,7 @@
 0.0.0.0 circumstanction.com
 0.0.0.0 cirestudios.com
 0.0.0.0 cirkitelectro.com
+0.0.0.0 cirkuscloudhosting.site
 0.0.0.0 cirocostagliola.it
 0.0.0.0 cirqueampere.fr
 0.0.0.0 cirugiaurologica.com
@@ -14550,6 +14561,7 @@
 0.0.0.0 cloud.hollweck.it
 0.0.0.0 cloud.kryptonia.fr
 0.0.0.0 cloud.patrika.com
+0.0.0.0 cloud.wmsinfo.com.br
 0.0.0.0 cloud.xenoris.fr
 0.0.0.0 cloudaftersales.com
 0.0.0.0 cloudatlas.io
@@ -14577,6 +14589,7 @@
 0.0.0.0 cloudsharesrcsrc-src265754ee097656654654b6.impreac.com
 0.0.0.0 cloudsky.com.br
 0.0.0.0 cloudtech24.site
+0.0.0.0 cloudthrive.co
 0.0.0.0 cloudwala.in
 0.0.0.0 clowndoc.com
 0.0.0.0 clox.es
@@ -15054,6 +15067,7 @@
 0.0.0.0 comdenetfvo.tk
 0.0.0.0 comduoliprudential.com.watchdogdns.duckdns.org
 0.0.0.0 comedyclubacademy.com
+0.0.0.0 comedyticket.nl
 0.0.0.0 comega.nl
 0.0.0.0 comeinitiative.org
 0.0.0.0 comeministry.org
@@ -19790,6 +19804,7 @@
 0.0.0.0 doktersarahterras.be
 0.0.0.0 doktorkuzov70.ru
 0.0.0.0 dokucenter.optitime.de
+0.0.0.0 dokument-9827323724423823.ru
 0.0.0.0 dol-standards.org
 0.0.0.0 dol.dance
 0.0.0.0 dolanmbakboyo.com
@@ -26840,6 +26855,7 @@
 0.0.0.0 gaptech.club
 0.0.0.0 gaptest.com
 0.0.0.0 garage-ucg.com
+0.0.0.0 garage.themebuffets.com
 0.0.0.0 garagebean.com
 0.0.0.0 garagedoorcompanylosgatos.com
 0.0.0.0 garagedoorrepairapex.com
@@ -29813,6 +29829,7 @@
 0.0.0.0 hastecloud.com
 0.0.0.0 hastilyfing.co.kr
 0.0.0.0 hasukovillage.com
+0.0.0.0 hasumvina.nrglobal.top
 0.0.0.0 hasung.vn
 0.0.0.0 hasutera.com
 0.0.0.0 hasznaltgumivetel.hu
@@ -31495,8 +31512,6 @@
 0.0.0.0 http.pc-rekcah.com
 0.0.0.0 http.zombiebears.online
 0.0.0.0 httpron.servegame.com
-0.0.0.0 https-canadapost.top
-0.0.0.0 httpswindowsupdates.com
 0.0.0.0 httpwindows10updatevbcustom.com
 0.0.0.0 httpyiwujiadianweixiu.xyz
 0.0.0.0 httsdomainset.ddns.net
@@ -34926,6 +34941,7 @@
 0.0.0.0 jerimiloh.com
 0.0.0.0 jerko.novi-net.net
 0.0.0.0 jeroenkiers.com
+0.0.0.0 jeromenetpanel.ml
 0.0.0.0 jerrydevries.nl
 0.0.0.0 jerryoshun.com
 0.0.0.0 jerrysfamousdelistudiocity.com
@@ -37704,6 +37720,7 @@
 0.0.0.0 kontaazul.com
 0.0.0.0 kontiki.za.org
 0.0.0.0 kontinentstroi1.ru
+0.0.0.0 kontorpaketyukle.com
 0.0.0.0 konveksikaosseragam.com
 0.0.0.0 konveksitasmurah.net
 0.0.0.0 konzeptprint.com
@@ -40397,6 +40414,7 @@
 0.0.0.0 longbayhideaway.com
 0.0.0.0 longbeachcaseo.com
 0.0.0.0 longevitymatters.com
+0.0.0.0 longform.harker.org
 0.0.0.0 longgroupabq.com
 0.0.0.0 longhaumillenniacity.com
 0.0.0.0 longhauriverside.com.vn
@@ -51686,6 +51704,7 @@
 0.0.0.0 pindnews.com
 0.0.0.0 pine-o.co.jp
 0.0.0.0 pineloautoricambi.com
+0.0.0.0 ping.covid-19.casa
 0.0.0.0 pingarten.site
 0.0.0.0 pinghostwell.info
 0.0.0.0 pingo.id
@@ -53400,6 +53419,7 @@
 0.0.0.0 pruebas.litcel.com
 0.0.0.0 pruebas.sansebastianpalomino.com.co
 0.0.0.0 pruebas.zecaenergia.com
+0.0.0.0 pruebas2.reformasginesta.es
 0.0.0.0 pruebascursodemarketing.server4.demoswp.com
 0.0.0.0 pruvateknik.com
 0.0.0.0 prva-gradanska-posmrtna-pripomoc.hr
@@ -55517,7 +55537,6 @@
 0.0.0.0 renessanss.ru
 0.0.0.0 renewtohoku.org
 0.0.0.0 renhed.kz
-0.0.0.0 renim.https443.net
 0.0.0.0 renimin.mymom.info
 0.0.0.0 renishaht.dsmtp.biz
 0.0.0.0 rennaestruturaeengenharia.com
@@ -56867,6 +56886,7 @@
 0.0.0.0 russchine2specialplumbingwsdymaterialgh3.duckdns.org
 0.0.0.0 russchine2specialstdy1plumbingmaterialsv.duckdns.org
 0.0.0.0 russchine2specialstdy2plumbingmaterialgh.duckdns.org
+0.0.0.0 russchine2specialstdy7plumbingmaterialmk.duckdns.org
 0.0.0.0 russchine2wsdyspecial6plumbingjkmaterial.duckdns.org
 0.0.0.0 russelleggleston.com
 0.0.0.0 russellgracie.co.uk
@@ -60949,6 +60969,7 @@
 0.0.0.0 sofiarebecca.com
 0.0.0.0 sofiaymanuel.website
 0.0.0.0 soficom.ma
+0.0.0.0 sofil-photographe.com
 0.0.0.0 sofitec.fr
 0.0.0.0 sofiyaclub.com
 0.0.0.0 sofizay.com
@@ -61292,6 +61313,7 @@
 0.0.0.0 sorcererguild.com
 0.0.0.0 sorenbam.ir
 0.0.0.0 sorento62.ru
+0.0.0.0 sorgulavtr.net
 0.0.0.0 sorigaming.com
 0.0.0.0 sorimanaon.tapselkab.go.id
 0.0.0.0 sorterup.dk
@@ -61317,6 +61339,7 @@
 0.0.0.0 sosqom.ir
 0.0.0.0 sosseguranca.com.br
 0.0.0.0 sosw.plonsk.pl
+0.0.0.0 sosyaldestekcom.ga
 0.0.0.0 sosyalfenomen.xyz
 0.0.0.0 sosyalfor.xyz
 0.0.0.0 sosyalmedyasatisi.com
@@ -63648,6 +63671,7 @@
 0.0.0.0 swiss-it.space
 0.0.0.0 swiss-medics.ch
 0.0.0.0 swiss4time.com
+0.0.0.0 swissblock.acorn.studio
 0.0.0.0 swisscasinoonline.net
 0.0.0.0 swisscleantechreport.ch
 0.0.0.0 swisscomc.com
@@ -64442,6 +64466,7 @@
 0.0.0.0 tccsat.com
 0.0.0.0 tccsemdrama-inscricao.ml
 0.0.0.0 tcdig.com
+0.0.0.0 tcdrill-71.cf
 0.0.0.0 tcehanoi.edu.vn
 0.0.0.0 tcgroup.com.au
 0.0.0.0 tcherkassky.fr
@@ -64724,6 +64749,7 @@
 0.0.0.0 tedbrengel.com
 0.0.0.0 tededsport.com
 0.0.0.0 tedet.or.th
+0.0.0.0 tedxtest.devbyopeneyes.com
 0.0.0.0 tedzey.info
 0.0.0.0 tee2home.com
 0.0.0.0 teeapitary.com
@@ -66785,6 +66811,7 @@
 0.0.0.0 toldoslorena.com.ar
 0.0.0.0 tolerant-technology.co.uk
 0.0.0.0 tolet.pk
+0.0.0.0 toliku.com
 0.0.0.0 tollfreeservice.in
 0.0.0.0 tollzwork.ru
 0.0.0.0 tolstyakitut.ru
@@ -68811,6 +68838,7 @@
 0.0.0.0 upd.m.dodo52.com
 0.0.0.0 updata.com.br
 0.0.0.0 update-55.waw.pl
+0.0.0.0 update-adobe.dsapq.com
 0.0.0.0 update-chase.justmoveup.com
 0.0.0.0 update-prog.com
 0.0.0.0 update-res.100public.com
