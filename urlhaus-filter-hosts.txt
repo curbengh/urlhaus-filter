@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sat, 02 May 2020 12:09:27 UTC
+# Updated: Sun, 03 May 2020 00:09:32 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -65053,6 +65053,7 @@
 0.0.0.0 teamstorm.site
 0.0.0.0 teamsystem.com.ng
 0.0.0.0 teamtitansjerseys.com
+0.0.0.0 teamtnt.red
 0.0.0.0 teamtusk.com
 0.0.0.0 teamupapp.com.au
 0.0.0.0 teaom-my.sharepoint.com
