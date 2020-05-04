@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sun, 03 May 2020 12:09:36 UTC
+# Updated: Mon, 04 May 2020 00:09:35 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -57692,6 +57692,7 @@
 0.0.0.0 sagestls.com
 0.0.0.0 sageth.net
 0.0.0.0 sagiri.org
+0.0.0.0 saglikbakanli-hediyeinternet.org
 0.0.0.0 saglikbakanligi-destek.org
 0.0.0.0 saglikbakanligi20gbinternet.com
 0.0.0.0 saglikbakanligindanhediye20gb.com
