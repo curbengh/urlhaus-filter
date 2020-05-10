@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Hosts Blocklist
-# Updated: Sun, 10 May 2020 03:34:59 UTC
+# Updated: Sun, 10 May 2020 12:09:34 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -44825,6 +44825,7 @@
 0.0.0.0 minifyurl.net
 0.0.0.0 minihome.com.hk
 0.0.0.0 minihungary.eu
+0.0.0.0 minijuss.sslblindado.com
 0.0.0.0 minikcee.com
 0.0.0.0 minimal-idw.com
 0.0.0.0 minimalisku.com
