@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Online Malicious URL Blocklist
-! Updated: Tue, 12 May 2020 00:09:47 UTC
+! Updated: Tue, 12 May 2020 00:37:43 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -10,6 +10,7 @@
 1.246.222.109
 1.246.222.113
 1.246.222.123
+1.246.222.134
 1.246.222.138
 1.246.222.14
 1.246.222.153
@@ -38,6 +39,7 @@
 1.246.223.126
 1.246.223.127
 1.246.223.130
+1.246.223.151
 1.246.223.18
 1.246.223.223
 1.246.223.3
@@ -108,7 +110,6 @@
 106.104.115.213
 106.105.197.111
 106.105.218.18
-106.110.129.163
 106.110.205.207
 106.110.79.128
 106.110.79.230
@@ -153,8 +154,10 @@
 111.38.26.152
 111.38.26.184
 111.38.26.185
+111.38.26.189
 111.38.27.80
 111.38.9.115
+111.42.102.79
 111.42.103.27
 111.42.66.144
 111.42.66.149
@@ -162,6 +165,7 @@
 111.42.66.4
 111.42.66.43
 111.42.89.137
+111.43.223.129
 111.43.223.198
 111.43.223.82
 111.61.52.53
@@ -177,12 +181,14 @@
 112.167.148.70
 112.167.218.221
 112.17.78.146
+112.17.78.186
 112.17.78.210
 112.17.89.155
 112.170.165.71
 112.170.205.85
 112.170.23.21
 112.184.231.90
+112.185.140.99
 112.187.143.180
 112.187.217.80
 112.187.86.179
@@ -190,6 +196,7 @@
 112.199.76.44
 112.26.160.67
 112.27.124.111
+112.27.88.109
 112.27.91.185
 112.27.91.205
 112.27.91.212
@@ -199,7 +206,6 @@
 112.28.98.61
 112.78.45.158
 113.103.57.113
-113.103.59.88
 113.11.95.254
 113.22.79.166
 113.221.50.64
@@ -208,6 +214,7 @@
 113.98.242.211
 114.226.139.37
 114.226.234.139
+114.226.80.165
 114.226.85.23
 114.227.1.22
 114.228.25.50
@@ -215,6 +222,7 @@
 114.234.104.158
 114.234.141.79
 114.234.162.101
+114.234.195.62
 114.235.153.32
 114.235.197.18
 114.235.202.95
@@ -228,7 +236,6 @@
 115.195.104.210
 115.48.26.192
 115.49.146.133
-115.54.170.36
 115.56.161.84
 115.58.70.222
 115.63.186.148
@@ -276,6 +283,7 @@
 119.194.91.157
 119.198.230.82
 119.2.48.159
+119.206.188.150
 119.206.2.248
 119.212.101.8
 119.28.164.31
@@ -306,6 +314,7 @@
 121.148.72.160
 121.150.77.164
 121.154.107.249
+121.154.43.105
 121.155.233.13
 121.155.233.159
 121.159.208.28
@@ -367,6 +376,7 @@
 13pope.com
 14.141.175.107
 14.161.4.53
+14.204.5.250
 14.221.5.108
 14.34.165.243
 14.37.6.148
@@ -374,6 +384,7 @@
 14.42.229.214
 14.45.167.58
 14.46.209.82
+14.46.51.53
 14.48.245.16
 14.49.212.151
 14.53.20.41
@@ -498,7 +509,6 @@
 178.134.248.74
 178.134.61.94
 178.136.195.90
-178.149.251.22
 178.151.143.2
 178.165.122.141
 178.212.53.57
@@ -532,7 +542,6 @@
 180.124.174.33
 180.124.214.4
 180.124.6.47
-180.176.105.41
 180.176.110.243
 180.176.211.171
 180.177.242.73
@@ -546,6 +555,7 @@
 181.111.233.18
 181.112.138.154
 181.112.218.238
+181.112.218.6
 181.112.33.222
 181.114.101.85
 181.129.45.202
@@ -618,7 +628,6 @@
 187.36.134.227
 187.44.167.14
 187.45.49.101
-187.63.19.112
 187.72.59.113
 187.76.62.90
 188.127.249.210
@@ -682,7 +691,6 @@
 192.236.147.189
 192.236.155.130
 192.248.144.91
-193.228.135.144
 193.228.91.105
 193.38.51.210
 193.53.163.179
@@ -771,6 +779,7 @@
 203.202.246.246
 203.202.248.237
 203.204.217.4
+203.205.137.101
 203.234.151.163
 203.70.166.107
 203.77.80.159
@@ -792,6 +801,7 @@
 210.76.64.46
 211.106.11.193
 211.137.225.128
+211.137.225.39
 211.179.143.199
 211.187.75.220
 211.192.121.74
@@ -877,6 +887,7 @@
 221.160.177.201
 221.166.254.127
 221.167.18.122
+221.210.211.10
 221.210.211.130
 221.210.211.187
 221.226.86.151
@@ -884,6 +895,7 @@
 222.113.184.193
 222.116.70.13
 222.116.73.41
+222.138.185.111
 222.140.162.213
 222.185.161.165
 222.185.199.202
@@ -893,6 +905,7 @@
 222.188.131.220
 222.188.188.39
 222.243.14.67
+222.74.186.180
 222.80.53.81
 222.81.31.124
 223.154.81.219
@@ -959,12 +972,15 @@
 31.179.217.139
 31.202.42.85
 31.210.184.188
+31.211.148.144
 31.211.152.50
 31.211.159.149
 31.27.128.108
 31.30.119.23
 31.44.54.110
 35.141.217.189
+36.105.174.19
+36.105.56.188
 36.107.234.127
 36.25.229.237
 36.26.194.83
@@ -980,6 +996,7 @@
 36.67.52.241
 36.74.74.99
 36.89.133.67
+36.89.18.133
 36.91.90.171
 37.113.131.172
 37.142.118.95
@@ -1005,6 +1022,7 @@
 37.49.230.103
 37.49.230.141
 37.49.230.234
+37.49.230.241
 37.49.230.56
 37.54.14.36
 3ypackaging.com
@@ -1112,7 +1130,6 @@
 49.81.91.113
 49.82.14.191
 49.82.192.122
-49.82.209.198
 49.82.213.188
 49.82.228.87
 49.82.250.152
@@ -1130,6 +1147,7 @@
 5.102.252.178
 5.128.62.127
 5.19.248.85
+5.198.241.29
 5.201.130.125
 5.201.142.118
 5.206.224.216
@@ -1151,6 +1169,7 @@
 58.238.186.91
 58.243.123.161
 58.40.122.158
+59.0.224.88
 59.0.78.18
 59.1.81.1
 59.12.134.224
@@ -1158,6 +1177,7 @@
 59.19.231.31
 59.22.144.136
 59.23.208.62
+59.24.69.58
 59.3.253.82
 59.7.40.82
 61.241.170.204
@@ -1228,7 +1248,6 @@
 72.214.98.188
 72.227.229.129
 72.234.57.0
-72.250.42.191
 72.252.201.135
 72.89.84.172
 73.0.143.64
@@ -1285,7 +1304,6 @@
 80.184.103.90
 80.19.101.218
 80.210.19.69
-80.210.20.94
 80.210.28.73
 80.235.214.123
 80.92.189.70
@@ -1372,7 +1390,6 @@
 87.241.175.89
 87.66.219.63
 87.97.154.37
-87du.vip
 88.102.33.14
 88.107.92.137
 88.201.34.243
@@ -1493,7 +1510,6 @@ algorithmshargh.com
 allloveseries.com
 alohasoftware.net
 alphaconsumer.net
-am-concepts.ca
 amd.alibuf.com
 amemarine.co.th
 americanrange.com/HomeFedEx.jar
@@ -1546,6 +1562,7 @@ bilim-pavlodar.gov.kz
 bingxiong.vip
 bitbucket.org/destek21/3reklam/downloads/20gbhediyesi.apk
 bitbucket.org/destek21/3reklam/downloads/androidsecurity.apk
+bitbucket.org/shobaka420/222333/downloads/usb.exe
 biyexing.cn
 blog.241optical.com
 bocongan113vn.com
@@ -1590,11 +1607,13 @@ codeload.github.com/MeteorAdminz/hidden-tear/zip/master
 codeload.github.com/Visgean/Zeus/zip/translation
 codeload.github.com/beefproject/beef/zip/beef-0.4.6.1
 codeload.github.com/beefproject/beef/zip/master
+colourcreative.co.za
 compesat.com
 complan.hu
 complanbt.hu
 computersblogfromus32.top
 comtechadsl.com
+config.kuaisousou.top
 consultingcy.com
 counciloflight.bravepages.com
 cqjcc.org
@@ -1607,6 +1626,7 @@ czsl.91756.cn
 d3.99ddd.com
 d9.99ddd.com
 da.alibuf.com
+daithanhphung.com
 danielbastos.com
 darco.pk
 data.over-blog-kiwi.com
@@ -1635,6 +1655,7 @@ dfd.zhzy999.net
 dfzm.91756.cn
 dgecolesdepolice.bf
 dgnj.cn
+dhlservices.duckdns.org
 diazavendano.cl
 dichvuvesinhcongnghiep.top
 digilib.dianhusada.ac.id
@@ -1656,6 +1677,7 @@ docs.google.com/uc?authuser=0&id=1423iV9Ze5V1pNpU0omqvp-u46EpKft94&export=downlo
 docs.google.com/uc?id=1R0ybQzfybvmes2v71jwlMHBvFe8-MVMy
 dodsonimaging.com
 don.viameventos.com.br
+dongiln.co
 donmago.com
 doostansocks.ir
 doransky.info
@@ -1664,7 +1686,6 @@ down.ancamera.co.kr
 down.gogominer.com
 down.haote.com
 down.pcclear.com
-down.softlist.tcroot.cn
 down.startools.co.kr
 down.tgjkbx.cn
 down.upzxt.com
@@ -1678,14 +1699,12 @@ download.kaobeitu.com
 download.ktkt.com
 download.ningzhidata.com/download/svminstall.exe
 download.pdf00.cn
-download.rising.com.cn
 download.skycn.com
 download.ttz3.cn
 download.ware.ru
 download.xp666.com/xzqswf/DTPageSet.exe
 download.xp666.com/xzqswf/SerModel.exe
 download.xp666.com/xzqswf/WebConSer.exe
-download.xp666.com/xzqswf/WebConneSer.exe
 download.xp666.com/xzqswf/setpagetools.exe
 download.zjsyawqj.cn
 download301.wanmei.com
@@ -1843,12 +1862,12 @@ e.dangeana.com
 easydown.workday360.cn
 ebook.w3wvg.com
 edicolanazionale.it
+elokshinproperty.co.za
 emadamini.co.za
 emir-elbahr.com
 enc-tech.com
 energisegroup.com
 entre-potes.mon-application.com
-eposar.com.ar
 er-bulisguvenligi.com
 ermekanik.com
 esolvent.pl
@@ -1865,6 +1884,7 @@ fidiag.kymco.com
 figuig.net
 fileco.jobkorea.co.kr
 filen3.utengine.co.kr
+filen5.utengine.co.kr
 files.constantcontact.com/0996938c001/6e8a2a4f-40ac-464f-9a70-7c67f0a0da19.pdf
 files.constantcontact.com/ee304de9001/7e533e73-e272-4a44-9d9e-138cab64bf19.docx
 files.fqapps.com
@@ -1899,7 +1919,6 @@ g0ogle.free.fr
 gainsdirectory.com
 galuhtea.com
 gamee.top
-garage.themebuffets.com
 garenanow.myvnc.com
 garenanow4.myvnc.com
 gateway-heide.de
@@ -1912,6 +1931,7 @@ gimscompany.com
 gist.githubusercontent.com/Zibri/19f9838ffd12349bb2c6c3afddc9388f/raw/01977fd3c7e036c3a38f062f626fd189ba1e1aa3/UEFIVAR.EXE
 glitzygal.net
 globaleuropeans.com
+gmassurance.fr
 gnimelf.net
 go.xsuad.com
 google.ghststr.com
@@ -1934,10 +1954,10 @@ handrush.com
 hanoihub.vn
 hayatevdeguzeltr.com
 hazel-azure.co.th
+hdxa.net
 heavenif.co.za
 hellomessager.com
 hfsoftware.cl
-hi-event.vn
 hingcheong.hk
 hldschool.com
 hmbwgroup.com
@@ -1959,7 +1979,9 @@ ibda.adv.br
 ideadom.pl
 ihpmed.ae
 ikaprama.org
+ileolaherbalcare.com.ng
 imellda.com
+imenizeh.ir
 img1.wsimg.com/blobby/go/716ce6c5-e07c-43a7-a685-6d934b9f51c3/downloads/1cqdpmlgu_930218.doc
 imobiliarianossacasamt.com.br
 impression-gobelet.com
@@ -1967,7 +1989,6 @@ in-sect.com
 inapadvance.com
 incrediblepixels.com
 incredicole.com
-indonesias.me
 ini.egkj.com
 innovation4crisis.org
 instanttechnology.com.au
@@ -2049,6 +2070,7 @@ lebedyn.info
 lecafedesartistes.com
 lfcsghosi.co.in
 lhbfirst.com
+libya-info.com
 lifeapt.biz
 linx.li
 lists.ibiblio.org
@@ -2067,13 +2089,13 @@ m93701t2.beget.tech
 mackleyn.com
 magda.zelentourism.com
 magic-living.com
+makosoft.hu
 malin-akerman.net
 maluna.com.br
 margopassadorestylist.com
 maringareservas.com.br
 marketprice.com.ng
 marksidfgs.ug
-marocaji.com
 matt-e.it
 mazury4x4.pl
 mbgrm.com
@@ -2105,6 +2127,7 @@ mmc.ru.com
 mobiadnews.com
 mobilier-modern.ro
 moha-group.com
+monmariage.info
 moscow11.at
 mountveederwines.com
 mrtool.ir
@@ -2115,8 +2138,8 @@ mueblesjcp.cl
 mutec.jp
 mvb.kz
 mxpiqw.am.files.1drv.com
+mydesign.thinkeraibirds.com
 myexpertca.in
-myhood.cl
 myo.net.au
 myofficeplus.com
 myonlinepokiesblog.com
@@ -2134,9 +2157,11 @@ ndrs.cloud
 nebraskacharters.com.au
 neocity1.free.fr
 nerve.untergrund.net
+news.abfakerman.ir
 news.omumusic.net
 newsun-shop.com
 newxing.com
+nexity.me
 nfbio.com
 nilemixitupd.biz.pl
 nkdhub.com
@@ -2151,6 +2176,7 @@ oa.fnysw.com
 oa.hys.cn
 obnova.zzux.com
 obseques-conseils.com
+odontec.com.br
 ohe.ie
 oknoplastik.sk
 omega.az
@@ -2366,6 +2392,7 @@ onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E!1345&auth
 onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E!1346&authkey=AChrNF5VLoV1GF4
 onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E!1347&authkey=AL-ZGe-TTVr921s
 onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E%211337&authkey=AFNVu1FsUCZHT5E
+onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E%211338&authkey=AJNgAmbOsWs75_c
 onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E%211340&authkey=AL1Ay3FbTUde6D8
 onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E%211342&authkey=ACPr_HTn2jtAXfU
 onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E%211343&authkey=ABODYSRxU9L2xxU
@@ -2375,6 +2402,7 @@ onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E%211346&au
 onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E%211347&authkey=AL-ZGe-TTVr921s
 onedrive.live.com/download?cid=C51087813D29B0B1&resid=C51087813D29B0B1!132&authkey=ADFEybhHaMQXib0
 onedrive.live.com/download?cid=CB64E6E1A6CE15A2&resid=CB64E6E1A6CE15A2!109&authkey=AC4gxWJOoPaFR9A
+onedrive.live.com/download?cid=CB64E6E1A6CE15A2&resid=CB64E6E1A6CE15A2%21109&authkey=AC4gxWJOoPaFR9A
 onedrive.live.com/download?cid=CBFA5209EB41ABF2&resid=CBFA5209EB41ABF2!148&authkey=ADaQmdNndev6D7E
 onedrive.live.com/download?cid=CBFA5209EB41ABF2&resid=CBFA5209EB41ABF2%21148&authkey=ADaQmdNndev6D7E
 onedrive.live.com/download?cid=CF0C6D1A4C15233D&resid=CF0C6D1A4C15233D!742&authkey=AKbXJu17f8g0R2s
@@ -2385,7 +2413,6 @@ onedrive.live.com/download?cid=D06D60404544FB85&resid=D06D60404544FB85!872&authk
 onedrive.live.com/download?cid=D06D60404544FB85&resid=D06D60404544FB85!874&authkey=ALKzCbXZ-dSCGuM
 onedrive.live.com/download?cid=D06D60404544FB85&resid=D06D60404544FB85!875&authkey=AKa55YbDhQNOC6c
 onedrive.live.com/download?cid=D06D60404544FB85&resid=D06D60404544FB85%21872&authkey=AP9HcHZTYWO8ZUo
-onedrive.live.com/download?cid=D06D60404544FB85&resid=D06D60404544FB85%21874&authkey=ALKzCbXZ-dSCGuM
 onedrive.live.com/download?cid=D06D60404544FB85&resid=D06D60404544FB85%21875&authkey=AKa55YbDhQNOC6c
 onedrive.live.com/download?cid=D718E3C8E3BC53C0&resid=D718E3C8E3BC53C0!191&authkey=AJL2UegQunSGC3Q
 onedrive.live.com/download?cid=D718E3C8E3BC53C0&resid=D718E3C8E3BC53C0!192&authkey=ACD_Hx4BkA3z0Nw
@@ -2433,7 +2460,6 @@ onedrive.live.com/download?cid=FF1D187273DFBF73&resid=FF1D187273DFBF73%21694&aut
 onestin.ro
 openclient.sroinfo.com
 operasanpiox.bravepages.com
-ophtalmiccenter.com
 opolis.io
 osdsoft.com
 osheoufhusheoghuesd.ru
@@ -2448,7 +2474,6 @@ p3.zbjimg.com
 p30qom.ir
 p500.mon-application.com
 pack301.bravepages.com
-pakdesighee.com
 palochusvet.szm.com
 pandemidestek-gov.com
 partyflix.net
@@ -2456,6 +2481,7 @@ pastebin.com/raw/0LfEkEjA
 pastebin.com/raw/0YdyRCYf
 pastebin.com/raw/0hNR8dnd
 pastebin.com/raw/33h2UbNu
+pastebin.com/raw/3HyqiDrn
 pastebin.com/raw/4rnJ0dTJ
 pastebin.com/raw/5jG7wnZb
 pastebin.com/raw/65SFhVdG
@@ -2467,6 +2493,7 @@ pastebin.com/raw/Cn0JKKY3
 pastebin.com/raw/DCe3VjwA
 pastebin.com/raw/DawJ5x7m
 pastebin.com/raw/EUHHeGa1
+pastebin.com/raw/JuwPNTWg
 pastebin.com/raw/KFCvJMhW
 pastebin.com/raw/NbtLVnaN
 pastebin.com/raw/PUncVV2C
@@ -2480,7 +2507,9 @@ pastebin.com/raw/cFS3qbdQ
 pastebin.com/raw/e8kSryaf
 pastebin.com/raw/fDpf4JYj
 pastebin.com/raw/fWbdHjTH
+pastebin.com/raw/gkz4HQtF
 pastebin.com/raw/m3Gkz6As
+pastebin.com/raw/mcbGL6zE
 pastebin.com/raw/qsVVM0xt
 pastebin.com/raw/rWWytiGk
 pastebin.com/raw/s1RKBqfy
@@ -2509,6 +2538,7 @@ pollarr.top
 ponto50.com.br
 portal.nfbpc.org
 ppl.ac.id
+prepaenunsoloexamen.academiagalileoac.com
 probost.cz
 prosoc.nl
 prowin.co.th
@@ -2553,7 +2583,6 @@ rkverify.securestudies.com
 robertmcardle.com
 robotrade.com.vn
 rollscar.pk
-rosdal.abouttobeawesome.com
 rossogato.com
 ruisgood.ru
 rusch.nu
@@ -2576,7 +2605,6 @@ sefp-boispro.fr
 selekture.com
 selvikoyunciftligi.com
 sendspace.com/pro/dl/dcvd2q
-senevdekaldiye-hediyeinternet.com
 serpentrising.com
 servicemhkd.myvnc.com
 servicemhkd80.myvnc.com
@@ -2602,6 +2630,7 @@ skyscan.com
 slmconduct.dk
 small.962.net
 smccycles.com
+smits.by
 snapit.solutions
 sncshyamavan.org
 snp2m.poliupg.ac.id
@@ -2641,7 +2670,6 @@ storage.googleapis.com/wzukusers/user-34654398/documents/5c6fd6b4eb1c08aAMus8/go
 storage.googleapis.com/wzukusers/user-34654398/documents/5c7921a2cf26cUnJcGVm/nanocoregomes.txt
 storage.googleapis.com/wzukusers/user-34654398/documents/5c9e24cc08a4dLmV7CJO/CDT.txt
 story-maker.jp
-suaritmafirmalari.com
 support.clz.kr
 sv.pvroe.com
 svkacademy.com
@@ -2652,6 +2680,7 @@ swwbia.com
 symanreni.mysecondarydns.com
 szxypt.com
 t.honker.info
+tandenblekenhoofddorp.nl
 taraward.com
 taxpos.com
 tcy.198424.com
@@ -2668,6 +2697,7 @@ thaibbqculver.com
 thaisell.com
 tharringtonsponsorship.com
 thc-annex.com
+theclinicabarros.com
 theelectronics4u.com
 theislandmen.com
 theprestige.ro
@@ -2691,13 +2721,13 @@ tonyzone.com
 translate.chris-translate.com
 tsd.jxwan.com
 tsredco.telangana.gov.in
-tuckraft.com
 tulli.info
 tumso.org
 tuneup.ibk.me
 tup.com.cn
 tutuler.com
 ucto-id.cz
+ugc.wegame.com.cn
 ukronet.ru
 ultimatelamborghiniexperience.com
 ultimatepointsstore.com
@@ -2725,6 +2755,7 @@ vfocus.net
 videoswebcammsn.free.fr
 vietducbio.com
 vigilar.com.br
+vip.recommendedtoyoo.com
 virustreatments.empeeevents.com
 visagepk.com
 vistanewsite.ir
@@ -2732,9 +2763,9 @@ visualdata.ru
 vitinhvnt.com
 vitromed.ro
 vjhbfxscv.ru
+voyageur.sisnettdesign.com
 vvff.in
 w.zhzy999.net
-wahat-apps.com
 wangtong7.siweidaoxiang.com
 wap.dosame.com
 ware.ru

@@ -1,5 +1,5 @@
 ! Title: abuse.ch URLhaus Malicious URL Blocklist
-! Updated: Tue, 12 May 2020 00:09:47 UTC
+! Updated: Tue, 12 May 2020 00:37:43 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -11559,6 +11559,7 @@
 14.204.43.141
 14.204.5.189
 14.204.5.224
+14.204.5.250
 14.204.5.40
 14.204.5.72
 14.204.53.254
@@ -15951,6 +15952,7 @@
 172.45.28.36
 172.45.29.119
 172.45.29.84
+172.45.32.57
 172.45.35.240
 172.45.39.110
 172.45.4.132
@@ -26622,6 +26624,7 @@
 222.138.183.4
 222.138.184.114
 222.138.184.173
+222.138.185.111
 222.138.185.165
 222.138.185.32
 222.138.186.173
@@ -29020,6 +29023,7 @@
 36.105.44.153
 36.105.44.247
 36.105.56.138
+36.105.56.188
 36.105.56.46
 36.105.57.171
 36.105.57.93
@@ -106146,6 +106150,7 @@ pastebin.com/raw/3EMXSrpK
 pastebin.com/raw/3F458M0X
 pastebin.com/raw/3FDi0bE2
 pastebin.com/raw/3GmJ2C8Z
+pastebin.com/raw/3HyqiDrn
 pastebin.com/raw/3JMEm4jV
 pastebin.com/raw/3JYDjMWr
 pastebin.com/raw/3KA6GMuw
@@ -107222,6 +107227,7 @@ pastebin.com/raw/JpdRdJZb
 pastebin.com/raw/JrfGsfUm
 pastebin.com/raw/JsG2QCDg
 pastebin.com/raw/JsvatdsF
+pastebin.com/raw/JuwPNTWg
 pastebin.com/raw/JvCMxFNt
 pastebin.com/raw/JvRyYp9k
 pastebin.com/raw/JvjWKm5E
@@ -108720,6 +108726,7 @@ pastebin.com/raw/gjCHZREz
 pastebin.com/raw/gjR3vyGJ
 pastebin.com/raw/gjSTARX1
 pastebin.com/raw/gk0EB5vk
+pastebin.com/raw/gkz4HQtF
 pastebin.com/raw/gmmFGFvX
 pastebin.com/raw/gmwwEbJa
 pastebin.com/raw/gmxE81R6
@@ -109057,6 +109064,7 @@ pastebin.com/raw/mbJP5Ksk
 pastebin.com/raw/mbZ3BYgf
 pastebin.com/raw/mcEwteyg
 pastebin.com/raw/mcYWhcJE
+pastebin.com/raw/mcbGL6zE
 pastebin.com/raw/meATFhHS
 pastebin.com/raw/mhzg7FTT
 pastebin.com/raw/mjD6We8b
@@ -119152,7 +119160,10 @@ shembefoundation.com
 shems.capital
 shenashi.com
 shenconsultinginc.com
-shengen.ru
+shengen.ru/sites/default/files/DE/RQTPJZ3882750/gescanntes-Dokument/Rechnungsanschrift/
+shengen.ru/sites/default/files/Documents/01_19/
+shengen.ru/sites/default/files/WeXGe-xTM7d_YDzeG-OO/Southwire/MCI076856304/US/Service-Invoice/
+shengen.ru/sites/default/files/jBkgiodo_Uxnlb4D6_wIX/
 shengxi.co
 sheninterior.com
 shenm.com

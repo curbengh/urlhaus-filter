@@ -1,5 +1,5 @@
 # Title: abuse.ch URLhaus Malicious Domains Blocklist
-# Updated: Tue, 12 May 2020 00:09:47 UTC
+# Updated: Tue, 12 May 2020 00:37:43 UTC
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
@@ -11548,6 +11548,7 @@
 14.204.43.141
 14.204.5.189
 14.204.5.224
+14.204.5.250
 14.204.5.40
 14.204.5.72
 14.204.53.254
@@ -15940,6 +15941,7 @@
 172.45.28.36
 172.45.29.119
 172.45.29.84
+172.45.32.57
 172.45.35.240
 172.45.39.110
 172.45.4.132
@@ -26584,6 +26586,7 @@
 222.138.183.4
 222.138.184.114
 222.138.184.173
+222.138.185.111
 222.138.185.165
 222.138.185.32
 222.138.186.173
@@ -28979,6 +28982,7 @@
 36.105.44.153
 36.105.44.247
 36.105.56.138
+36.105.56.188
 36.105.56.46
 36.105.57.171
 36.105.57.93
@@ -99215,7 +99219,6 @@ shembefoundation.com
 shems.capital
 shenashi.com
 shenconsultinginc.com
-shengen.ru
 shengxi.co
 sheninterior.com
 shenm.com
