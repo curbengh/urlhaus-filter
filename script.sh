@@ -8,7 +8,8 @@ mkdir -p "tmp/" && cd "tmp/"
 
 ## Prepare datasets
 curl -L "https://urlhaus.abuse.ch/downloads/csv/" -o "urlhaus.zip"
-curl -L "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m.csv.zip"
+curl -L "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
+curl -L "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
 
 cp "../src/exclude.txt" "."
 
@@ -50,17 +51,27 @@ sort -u > "urlhaus-domains-online.txt"
 
 
 ## Parse the Umbrella 1 Million
-unzip -p "top-1m.csv.zip" | \
+unzip -p "top-1m-umbrella.zip" | \
 dos2unix | \
 # Parse domains only
 cut -f 2 -d "," | \
 grep -F "." | \
 # Remove www.
 sed "s/^www\.//g" | \
-sort -u > "top-1m.txt"
+sort -u > "top-1m-umbrella.txt"
+
+## Parse the Tranco 1 Million
+unzip -p "top-1m-tranco.zip" | \
+dos2unix | \
+# Parse domains only
+cut -f 2 -d "," | \
+grep -F "." | \
+# Remove www.
+sed "s/^www\.//g" | \
+sort -u > "top-1m-tranco.txt"
 
 # Merge Umbrella and self-maintained top domains
-cat "top-1m.txt" "exclude.txt" | \
+cat "top-1m-umbrella.txt" "top-1m-tranco.txt" "exclude.txt" | \
 sort -u > "top-1m-well-known.txt"
 
 
