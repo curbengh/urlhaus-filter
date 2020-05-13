@@ -117,9 +117,9 @@ sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-online.txt"
 
 
 ## Domains-only blocklist
-# awk + head is a workaround for sed '1 i\'"$COMMENT"''
-COMMENT=$(echo -E "$COMMENT_ABP" | tr "!" "#" | sed "1s/URL/Domains/" | awk '{printf "%s\\n", $0}' | head -c -2)
-COMMENT_ONLINE=$(echo -E "$COMMENT" | sed "1s/Malicious/Online Malicious/" | awk '{printf "%s\\n", $0}' | head -c -2)
+# awk + head is a workaround for sed prepend
+COMMENT=$(printf "$COMMENT_ABP" | sed "s/^!/#/g" | sed "1s/URL/Domains/" | awk '{printf "%s\\n", $0}' | head -c -2)
+COMMENT_ONLINE=$(printf "$COMMENT" | sed "1s/Malicious/Online Malicious/" | awk '{printf "%s\\n", $0}' | head -c -2)
 
 cat "malware-domains.txt" | \
 sort | \
