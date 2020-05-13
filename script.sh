@@ -98,31 +98,28 @@ grep -F -f "urlhaus-top-domains.txt" > "malware-url-top-domains-online.txt"
 
 ## Merge malware domains and URLs
 CURRENT_TIME="$(date -R -u)"
-FIRST_LINE="! Title: abuse.ch URLhaus Malicious URL Blocklist"
+FIRST_LINE="! Title: Malicious URL Blocklist"
 SECOND_LINE="! Updated: $CURRENT_TIME"
 THIRD_LINE="! Expires: 1 day (update frequency)"
 FOURTH_LINE="! Repo: https://gitlab.com/curben/urlhaus-filter"
 FIFTH_LINE="! License: https://creativecommons.org/publicdomain/zero/1.0/"
 SIXTH_LINE="! Source: https://urlhaus.abuse.ch/api/"
-COMMENT="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
+COMMENT_ABP="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
 
 cat "malware-domains.txt" "malware-url-top-domains.txt" | \
 sort | \
-sed '1 i\'"$COMMENT"'' > "../urlhaus-filter.txt"
+sed '1 i\'"$COMMENT_ABP"'' > "../urlhaus-filter.txt"
 
 cat "malware-domains-online.txt" "malware-url-top-domains-online.txt" | \
 sort | \
-sed '1 i\'"$COMMENT"'' | \
+sed '1 i\'"$COMMENT_ABP"'' | \
 sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-online.txt"
 
 
 ## Domains-only blocklist
-FIRST_LINE="# Title: abuse.ch URLhaus Malicious Domains Blocklist"
-SECOND_LINE="# Updated: $CURRENT_TIME"
-THIRD_LINE="# Repo: https://gitlab.com/curben/urlhaus-filter"
-FOURTH_LINE="# License: https://creativecommons.org/publicdomain/zero/1.0/"
-FIFTH_LINE="# Source: https://urlhaus.abuse.ch/api/"
-COMMENT="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE"
+# awk + head is a workaround for sed '1 i\'"$COMMENT"''
+COMMENT=$(echo -E "$COMMENT_ABP" | tr "!" "#" | sed "1s/URL/Domains/" | awk '{printf "%s\\n", $0}' | head -c -2)
+COMMENT_ONLINE=$(echo -E "$COMMENT" | sed "1s/Malicious/Online Malicious/" | awk '{printf "%s\\n", $0}' | head -c -2)
 
 cat "malware-domains.txt" | \
 sort | \
@@ -130,8 +127,7 @@ sed '1 i\'"$COMMENT"'' > "../urlhaus-filter-domains.txt"
 
 cat "malware-domains-online.txt" | \
 sort | \
-sed '1 i\'"$COMMENT"'' | \
-sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-domains-online.txt"
+sed '1 i\'"$COMMENT_ONLINE"'' > "../urlhaus-filter-domains-online.txt"
 
 
 ## Hosts file blocklist
@@ -149,8 +145,8 @@ cat "../urlhaus-filter-domains-online.txt" | \
 grep -vE "^#" | \
 grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
 sed "s/^/0.0.0.0 /g" | \
-sed '1 i\'"$COMMENT"'' | \
-sed "1s/Domains/Online Hosts/" > "../urlhaus-filter-hosts-online.txt"
+sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1s/Domains/Hosts/" > "../urlhaus-filter-hosts-online.txt"
 
 
 ## Dnsmasq-compatible blocklist
@@ -165,7 +161,7 @@ cat "../urlhaus-filter-hosts-online.txt" | \
 grep -vE "^#" | \
 sed "s/^0.0.0.0 /address=\//g" | \
 sed "s/$/\/0.0.0.0/g" | \
-sed '1 i\'"$COMMENT"'' | \
+sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/dnsmasq Blocklist/" > "../urlhaus-filter-dnsmasq-online.conf"
 
 
@@ -181,7 +177,7 @@ cat "../urlhaus-filter-hosts-online.txt" | \
 grep -vE "^#" | \
 sed 's/^0.0.0.0 /zone "/g' | \
 sed 's/$/" { type master; notify no; file "null.zone.file"; };/g' | \
-sed '1 i\'"$COMMENT"'' | \
+sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/BIND Blocklist/" > "../urlhaus-filter-bind-online.conf"
 
 
@@ -197,7 +193,7 @@ cat "../urlhaus-filter-hosts-online.txt" | \
 grep -vE "^#" | \
 sed 's/^0.0.0.0 /local-zone: "/g' | \
 sed 's/$/" always_nxdomain/g' | \
-sed '1 i\'"$COMMENT"'' | \
+sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound-online.conf"
 
 
