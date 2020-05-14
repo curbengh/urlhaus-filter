@@ -52,6 +52,11 @@ deploy_job:
     - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "web"'
       when: always
 
+  # Upload working folder as a job artifact
+  artifacts:
+    paths:
+      - tmp/
+
 failed_job:
   stage: failed_stage
 

@@ -3,7 +3,8 @@
 set -efux -o pipefail
 
 ## Create a temporary working folder
-mkdir -p "tmp/" && cd "tmp/"
+mkdir -p "tmp/"
+cd "tmp/"
 
 
 ## Prepare datasets
@@ -18,10 +19,10 @@ unzip -p "urlhaus.zip" | \
 # Convert DOS to Unix line ending
 dos2unix | \
 # Remove comment
-sed "/^#/d" > "../src/URLhaus.csv"
+sed "/^#/d" > "URLhaus.csv"
 
 ## Parse URLs
-cat "../src/URLhaus.csv" | \
+cat "URLhaus.csv" | \
 cut -f 6 -d '"' | \
 cut -f 3- -d "/" | \
 # Domain must have at least a 'dot'
@@ -37,7 +38,7 @@ cut -f 1 -d ":" | \
 sort -u > "urlhaus-domains.txt"
 
 ## Parse online URLs only
-cat "../src/URLhaus.csv" | \
+cat "URLhaus.csv" | \
 grep '"online"' | \
 cut -f 6 -d '"' | \
 cut -f 3- -d "/" | \
@@ -197,4 +198,4 @@ sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound-online.conf"
 
 
-cd ../ && rm -rf "tmp/"
+cd ../
