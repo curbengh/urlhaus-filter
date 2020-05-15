@@ -35,6 +35,9 @@ sort -u > "urlhaus.txt"
 cat "urlhaus.txt" | \
 cut -f 1 -d "/" | \
 cut -f 1 -d ":" | \
+# Remove invalid query string, see #15
+cut -f 1 -d "?" | \
+grep -vF "?" | \
 sort -u > "urlhaus-domains.txt"
 
 ## Parse online URLs only
@@ -48,6 +51,8 @@ sort -u > "urlhaus-online.txt"
 cat "urlhaus-online.txt" | \
 cut -f 1 -d "/" | \
 cut -f 1 -d ":" | \
+cut -f 1 -d "?" | \
+grep -vF "?" | \
 sort -u > "urlhaus-domains-online.txt"
 
 
