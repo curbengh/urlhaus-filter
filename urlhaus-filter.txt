@@ -1,5 +1,5 @@
 ! Title: Malicious URL Blocklist
-! Updated: Sat, 16 May 2020 12:09:54 UTC
+! Updated: Sun, 17 May 2020 00:09:49 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1600,6 +1600,7 @@
 106.111.46.203
 106.111.46.45
 106.111.47.127
+106.111.47.138
 106.111.47.223
 106.111.47.235
 106.111.48.130
@@ -1888,6 +1889,7 @@
 109.100.112.27
 109.104.197.153
 109.107.249.137
+109.107.88.91
 109.111.134.116
 109.111.145.26
 109.111.152.86
@@ -8342,6 +8344,7 @@
 122.116.242.179
 122.116.44.62
 122.116.48.72
+122.116.5.129
 122.116.50.23
 122.116.71.106
 122.116.79.101
@@ -8770,6 +8773,7 @@
 123.10.43.188
 123.10.43.235
 123.10.44.13
+123.10.44.190
 123.10.44.60
 123.10.45.108
 123.10.45.236
@@ -10501,6 +10505,7 @@
 125.44.232.34
 125.44.234.54
 125.44.234.99
+125.44.236.237
 125.44.237.24
 125.44.238.248
 125.44.239.162
@@ -11212,6 +11217,7 @@
 134.209.93.148
 134.209.93.155
 134.209.93.190
+134.209.94.132
 134.209.95.171
 134.209.96.62
 134.209.99.13
@@ -12280,6 +12286,7 @@
 149.56.84.15
 149.7.219.71
 149.91.88.55
+1498tl-devletdestegi.com
 14ca1s5asc45.com
 14music.gr
 15-y-block-7.icu
@@ -13250,6 +13257,7 @@
 162.212.112.160
 162.212.112.162
 162.212.112.166
+162.212.112.175
 162.212.112.178
 162.212.112.187
 162.212.112.188
@@ -13270,6 +13278,7 @@
 162.212.113.108
 162.212.113.109
 162.212.113.11
+162.212.113.113
 162.212.113.115
 162.212.113.116
 162.212.113.117
@@ -13287,6 +13296,7 @@
 162.212.113.160
 162.212.113.165
 162.212.113.166
+162.212.113.167
 162.212.113.168
 162.212.113.173
 162.212.113.174
@@ -13420,6 +13430,7 @@
 162.212.114.80
 162.212.114.82
 162.212.114.88
+162.212.114.90
 162.212.114.96
 162.212.115.101
 162.212.115.102
@@ -15160,6 +15171,7 @@
 172.36.47.0
 172.36.47.112
 172.36.47.113
+172.36.47.143
 172.36.47.147
 172.36.47.149
 172.36.47.163
@@ -15366,6 +15378,7 @@
 172.36.6.138
 172.36.6.143
 172.36.6.157
+172.36.6.168
 172.36.6.174
 172.36.6.181
 172.36.6.218
@@ -15798,6 +15811,7 @@
 172.39.58.79
 172.39.59.15
 172.39.59.167
+172.39.59.170
 172.39.59.172
 172.39.59.212
 172.39.59.220
@@ -15960,6 +15974,7 @@
 172.39.81.186
 172.39.81.195
 172.39.81.203
+172.39.81.221
 172.39.81.225
 172.39.81.34
 172.39.81.46
@@ -18120,6 +18135,7 @@
 180.123.22.106
 180.123.22.114
 180.123.224.22
+180.123.225.56
 180.123.225.72
 180.123.227.137
 180.123.229.207
@@ -18154,6 +18170,7 @@
 180.123.70.164
 180.123.70.190
 180.123.70.95
+180.123.71.204
 180.123.71.36
 180.123.77.168
 180.123.85.140
@@ -19520,6 +19537,7 @@
 182.126.194.174
 182.126.194.180
 182.126.194.192
+182.126.194.238
 182.126.194.28
 182.126.194.73
 182.126.194.89
@@ -22814,6 +22832,7 @@
 193.37.70.218
 193.38.51.210
 193.38.51.25
+193.38.51.53
 193.39.185.214
 193.41.78.207
 193.53.163.179
@@ -23501,9 +23520,11 @@
 199.83.204.124
 199.83.204.132
 199.83.204.134
+199.83.204.147
 199.83.204.160
 199.83.204.165
 199.83.204.167
+199.83.204.176
 199.83.204.178
 199.83.204.179
 199.83.204.185
@@ -25064,6 +25085,7 @@
 211.221.86.124
 211.223.166.51
 211.223.68.43
+211.224.189.107
 211.224.199.50
 211.224.8.211
 211.225.152.102
@@ -28357,10 +28379,12 @@
 27.41.172.190
 27.41.172.42
 27.41.173.104
+27.41.173.180
 27.41.173.63
 27.41.173.90
 27.41.174.149
 27.41.174.178
+27.41.174.179
 27.41.174.81
 27.41.175.101
 27.41.175.117
@@ -29749,6 +29773,7 @@
 36.85.230.164
 36.85.234.220
 36.85.249.54
+36.85.65.209
 36.88.55.167
 36.89.108.17
 36.89.133.67
@@ -30617,6 +30642,7 @@
 42.225.243.233
 42.225.244.101
 42.225.244.156
+42.225.244.50
 42.225.245.146
 42.225.245.164
 42.225.245.23
@@ -32341,6 +32367,7 @@
 45.14.150.19
 45.14.150.29
 45.14.151.249
+45.14.224.106
 45.14.224.111
 45.14.224.124
 45.14.224.128
@@ -32857,6 +32884,7 @@
 45.95.168.127
 45.95.168.130
 45.95.168.131
+45.95.168.157
 45.95.168.161
 45.95.168.162
 45.95.168.175
@@ -36199,6 +36227,7 @@
 60.186.24.234
 60.186.44.75
 60.186.83.82
+60.186.87.195
 60.186.9.57
 60.187.80.123
 60.187.82.78
@@ -36247,6 +36276,7 @@
 60.250.97.86
 60.250.99.131
 60.251.157.56
+60.251.217.94
 60.251.229.104
 60.251.235.82
 60.251.235.85
@@ -37522,6 +37552,7 @@
 66.38.95.54
 66.38.95.84
 66.38.95.88
+66.41.152.130
 66.42.110.29
 66.42.116.13
 66.42.117.143
@@ -38314,6 +38345,7 @@
 77.43.194.54
 77.43.198.224
 77.43.198.253
+77.43.199.172
 77.43.199.201
 77.43.205.175
 77.43.206.170
@@ -39736,6 +39768,7 @@
 88.247.133.187
 88.247.156.108
 88.247.170.137
+88.247.182.61
 88.247.194.52
 88.247.20.88
 88.247.207.240
@@ -40925,6 +40958,7 @@
 98.21.251.169
 98.231.109.153
 98.238.122.130
+98.243.158.225
 98.253.113.227
 98.254.125.18
 98.ip-51-91-254.eu
@@ -42987,6 +43021,7 @@ akbch.xyz
 akbilgicinsaat.net
 akblog.ru
 akbulutgoldcenter.com
+akbz.top
 akcan-turizm.com
 akcaydedektor.com
 akcer.cz
@@ -46158,10 +46193,7 @@ asianint.info
 asianlakeviewbinhphuoc.com
 asianpacificshippingcompany.com
 asianskysh0p.com
-asiantechnology.com.hk/wp-admin/XtxhgS/
-asiantechnology.com.hk/wp-admin/esp/
-asiantechnology.com.hk/wp-admin/khtv76wvxhll/nbqy94318979953-9938-vge5eykd86nals5gc1/
-asiantechnology.com.hk/wp-admin/lm/phflys/tsszw4d149608-8779-l9po7peag7xy2o/
+asiantechnology.com.hk
 asianway.mn
 asianwok.co.nz
 asiapacts.com
@@ -51173,7 +51205,13 @@ bookmarks.com.ua
 bookmeguide.com
 bookmycars.website
 bookmydiesel.in
-bookmytripping.com
+bookmytripping.com/tgxmxcm/05756348/Buy-Sell_Agreement_05756348_04272020.zip
+bookmytripping.com/tgxmxcm/30307798/Buy-Sell_Agreement_30307798_04272020.zip
+bookmytripping.com/tgxmxcm/49493346/Buy-Sell_Agreement_49493346_04272020.zip
+bookmytripping.com/tgxmxcm/822343/Buy-Sell_Agreement_822343_04272020.zip
+bookmytripping.com/tgxmxcm/Buy-Sell_Agreement_04173399_04272020.zip
+bookmytripping.com/tgxmxcm/Buy-Sell_Agreement_0929_04272020.zip
+bookmytripping.com/tgxmxcm/Buy-Sell_Agreement_781209_04272020.zip
 booknology.com
 bookntravel.pk
 bookoftension.com
@@ -55700,7 +55738,7 @@ clubstavok.ru
 clubtempel.de
 clubvolvoitalia.it
 clubvteme.by
-clubzone.ca//cgi-bin/7843047335_KdAtOCE8EM7GD_disk/LEbm9viV_NWkt5alT1T_258760006_Ipwy5NxK/498647095_ckNbvla/
+clubzone.ca
 clukva.ru
 clurit.com
 clustergriyaagung.com
@@ -56798,7 +56836,7 @@ corazondelcielo.mx/docs_5zp/Buy-Sell%20Agreement_1083_04242020.zip
 corazondelcielo.mx/docs_5zp/Buy-Sell%20Agreement_2623_04242020.zip
 corazondelcielo.mx/docs_5zp/Buy-Sell%20Agreement_4957_04242020.zip
 corazonltd.jp
-corbucrochet.com
+corbucrochet.com/cursors/444444.png
 cordellatuzlasitesi.com
 cordelta-web.cordelta.digital
 cordesafc.com
@@ -59453,9 +59491,7 @@ dentalimplantslondon.info
 dentaline.com.co
 dentalmill.com
 dentalories.com
-dentalotrish.ir/wp-includes/DfIYt/
-dentalotrish.ir/wp-includes/Reporting/77shfiivv/pd4gfz6-1186778435-19164130-uxx2jr-7e460iup/
-dentalotrish.ir/wp-includes/eTrac/q1y9vmqlpq-1196756358-841128276-tnwm8emc0-8wx2a/
+dentalotrish.ir
 dentalradiografias.com
 dentalsearchsolutions.com/wp-admin/AjCJSljig/
 dentaware.com
@@ -62750,7 +62786,7 @@ dqwdqwfgqwg.info
 dqwdqwfqwggqw.info
 dqwqwdqwqwd.info
 dr-ahmedelhusseiny.com
-dr-amira-alkassir.com
+dr-amira-alkassir.com/kaufwrsgkko/LoanAgreement_324798_05132020.zip
 dr-cold.com
 dr-daroo.com
 dr-faraji.com
@@ -75898,7 +75934,7 @@ eismangolfacademy.com
 eismv.org
 eissaalfahim.com
 eitchendie.com
-eitworld.com/backups/ybhih-t5-56/
+eitworld.com
 eiuh9r8fhr98fh.top
 eiuwowqwpeoeirwpei.com
 ejadarabia.com
@@ -88828,7 +88864,7 @@ irequestyoutopleaseadviseonthepayment.duckdns.org
 iresearchledger.com
 ireviewproduct.com
 irfssnormandie.fr
-irgc.org
+irgc.org/stakeholder/wp-content/themes/twentytwelve/js/file.exe
 irib-zx.persiangig.com
 iribx.ir
 iridairk.ru
@@ -107722,12 +107758,14 @@ pastebin.com/raw/25Zkjpdj
 pastebin.com/raw/25ebHZ5W
 pastebin.com/raw/26mMJCuL
 pastebin.com/raw/27xsvVeZ
+pastebin.com/raw/29XtCRTM
 pastebin.com/raw/2BGQMU3s
 pastebin.com/raw/2C7j1iWb
 pastebin.com/raw/2C97Q7SS
 pastebin.com/raw/2Cc1um47
 pastebin.com/raw/2EGEQgWu
 pastebin.com/raw/2Enk8GGe
+pastebin.com/raw/2FqpiUUt
 pastebin.com/raw/2FujfvU2
 pastebin.com/raw/2GseBZZV
 pastebin.com/raw/2Hj38Jmy
@@ -107894,6 +107932,7 @@ pastebin.com/raw/49Gsxywq
 pastebin.com/raw/4A653NFB
 pastebin.com/raw/4Aa2NDW0
 pastebin.com/raw/4An5J2as
+pastebin.com/raw/4BHD6NXe
 pastebin.com/raw/4CNrzdDM
 pastebin.com/raw/4Crsf7Au
 pastebin.com/raw/4Cu1z5Zr
@@ -108421,6 +108460,7 @@ pastebin.com/raw/BxcEzENn
 pastebin.com/raw/ByEbpKpi
 pastebin.com/raw/ByQ2KmNT
 pastebin.com/raw/ByTC8bQH
+pastebin.com/raw/ByhDsiJL
 pastebin.com/raw/BzStKv5Y
 pastebin.com/raw/BzxHfZ5C
 pastebin.com/raw/C0HDGynb
@@ -109129,6 +109169,7 @@ pastebin.com/raw/MjZBFKFB
 pastebin.com/raw/MkWmsbFC
 pastebin.com/raw/Mkxh2i9V
 pastebin.com/raw/MmKW1L9P
+pastebin.com/raw/Mp5ZiUxu
 pastebin.com/raw/Mq3Ah3VH
 pastebin.com/raw/MqVQz80T
 pastebin.com/raw/Msi7TKXe
@@ -109464,6 +109505,7 @@ pastebin.com/raw/SRidfEeW
 pastebin.com/raw/SRuPYCQZ
 pastebin.com/raw/SS09g4Lr
 pastebin.com/raw/ST09efbi
+pastebin.com/raw/SUtwMirJ
 pastebin.com/raw/SV8zB3q7
 pastebin.com/raw/SZpSy2vg
 pastebin.com/raw/SZxfx0qZ
@@ -109481,6 +109523,7 @@ pastebin.com/raw/Se2yrn3H
 pastebin.com/raw/SeBLx5Du
 pastebin.com/raw/SewJGMda
 pastebin.com/raw/SfZX2UAV
+pastebin.com/raw/SgB3a9e3
 pastebin.com/raw/ShCKTwxM
 pastebin.com/raw/ShfZfGVE
 pastebin.com/raw/SiHG993Z
@@ -109604,6 +109647,7 @@ pastebin.com/raw/UF6g0w4y
 pastebin.com/raw/UHSp83dC
 pastebin.com/raw/UJmZe2YP
 pastebin.com/raw/UJvbivju
+pastebin.com/raw/UMfSnRhQ
 pastebin.com/raw/UNW8J6cD
 pastebin.com/raw/UNY6aeq2
 pastebin.com/raw/UNbtakJ0
@@ -110130,6 +110174,7 @@ pastebin.com/raw/c0wnp8kL
 pastebin.com/raw/c1M7bSdB
 pastebin.com/raw/c1eVcssk
 pastebin.com/raw/c1wCreY0
+pastebin.com/raw/c30e5JrF
 pastebin.com/raw/c3iDGrD8
 pastebin.com/raw/c492DUfG
 pastebin.com/raw/c69acEZN
@@ -110150,8 +110195,10 @@ pastebin.com/raw/cFS3qbdQ
 pastebin.com/raw/cH0m9TE6
 pastebin.com/raw/cHtYLPtd
 pastebin.com/raw/cJMnuT5j
+pastebin.com/raw/cKBeM9uN
 pastebin.com/raw/cKmNUcE3
 pastebin.com/raw/cLGxne7W
+pastebin.com/raw/cM0igs3h
 pastebin.com/raw/cNtrqVGM
 pastebin.com/raw/cP6c4Tg6
 pastebin.com/raw/cRTTP4c5
@@ -110233,6 +110280,7 @@ pastebin.com/raw/dSNyAGjr
 pastebin.com/raw/dSt4esBQ
 pastebin.com/raw/dTbZbj5t
 pastebin.com/raw/dU0BKu98
+pastebin.com/raw/dUgZVjXn
 pastebin.com/raw/dVh1V9w7
 pastebin.com/raw/dW57mX4u
 pastebin.com/raw/dWJHCziy
@@ -110271,6 +110319,7 @@ pastebin.com/raw/e3cVxk7B
 pastebin.com/raw/e3kDmkqu
 pastebin.com/raw/e4BDs1sM
 pastebin.com/raw/e4ZYHPt3
+pastebin.com/raw/e5RCcDrc
 pastebin.com/raw/e65AEY8Z
 pastebin.com/raw/e6DYcgz9
 pastebin.com/raw/e6ucXL9e
@@ -110310,6 +110359,7 @@ pastebin.com/raw/eXAxpWCb
 pastebin.com/raw/eXiR5mip
 pastebin.com/raw/eXnA5nqf
 pastebin.com/raw/eYev1SfG
+pastebin.com/raw/eZCRbLDy
 pastebin.com/raw/earnR8r4
 pastebin.com/raw/eart3SHc
 pastebin.com/raw/ebV5xBVm
@@ -110580,6 +110630,7 @@ pastebin.com/raw/i8Nx3ZCg
 pastebin.com/raw/iAJbJ2Kv
 pastebin.com/raw/iAKYvnbd
 pastebin.com/raw/iBGwqaZb
+pastebin.com/raw/iC7AnX9W
 pastebin.com/raw/iCASCQxB
 pastebin.com/raw/iCwguXqy
 pastebin.com/raw/iEBD9W0e
@@ -113595,7 +113646,7 @@ powergen-iscl.com
 powergenetics.pt
 powerhosue.life
 powerinfinity.org
-poweringcommunities.org
+poweringcommunities.org/tr/huz/
 poweringinfluence.com
 powerlinefun.ru
 powerlinkaudio.com
@@ -113735,7 +113786,11 @@ pravprihod.ru
 prawohumanitarne.cba.pl
 prax0zma.ru
 praxis-voldyner.de
-praxismall.com
+praxismall.com/wp-content/015523354-yWw88nIQISOXLmB-module/guarded-ownYMn-Rq97uGaqIWOQO/RFplJ3jyh-7Gh71331Iqu5/
+praxismall.com/wp-content/9104688-3ZnEVGvL8-snwl92xj3t4-rk11ys7/additional-profile/mc4ez9nc-6y65tsy/
+praxismall.com/wp-content/balance/vuwv69ilw/giye6e6-280351-167-d8q9jr7-k2zkzawcn/
+praxismall.com/wp-content/lPWCDbB/
+praxismall.com/wp-content/parts_service/6or86488dt/
 praxismeiler.de
 prayagenterprises.com
 prayagmilk.in
@@ -118126,7 +118181,7 @@ rukurorti.ru
 rulamart.com
 ruleofseventy.com
 rulifer.pw
-ruma.co.id/en1/LLC/7aah1jg4r4_dxjcr-683016813/
+ruma.co.id
 rumah-nginap-pky.com
 rumaharmasta.com
 rumahdijualmalang.com
@@ -126994,7 +127049,8 @@ suzanamira.com
 suzannababyshop.com
 suzannejade.com
 suzannemichaels.com
-suzano.sp.gov.br
+suzano.sp.gov.br/refis/_old/dwns/tf41b.tcb
+suzano.sp.gov.br/web/wp-content/uploads/downloads_DESATIVADO/tf51.doc
 suzhouch.com
 suzman.net
 suzukicibubur.com
@@ -128066,7 +128122,9 @@ teamforyousst.com
 teamgreeting.com
 teamhorrner.com
 teamhungary.hu
-teamie.vn
+teamie.vn/wp-content/themes/calliope/linear/145577319/145577319.zip
+teamie.vn/wp-content/themes/calliope/linear/308748/308748.zip
+teamie.vn/wp-content/themes/calliope/linear/4302513/4302513.zip
 teamincbenefits.com
 teamincubation.org
 teamintune.lk
@@ -132709,7 +132767,7 @@ unifourfamilypractice.com
 unifreiospecas.com.br
 unigrendal.org.uk
 uniimtech.ru
-unik-evenements.fr
+unik-evenements.fr/string/444444.png
 unilevercopabr.mbiz20.net
 unilink.pk
 unimap-cairo.com
@@ -133175,6 +133233,7 @@ urzedniczatv.pl
 us-defense-department.ml
 us-trans.ru
 us-west-2.protection.sophos.com/?d=fergus.vn&u=aHR0cDovL2Zlcmd1cy52bi9UcmFuc2FjdGlvbl9kZXRhaWxzLzAxMjAxOQ==&e=bGhpY2tleUBtaXNzb3VsYWNvdW50eS51cw==&t=SW9UZyszNFBzSGZwOTZraUtENzJORnc2MWdEMm1ucVVwbUwxTmRVZStyUT0=/
+us-west-2.protection.sophos.com/?d=live.com&u=aHR0cHM6Ly9vbmVkcml2ZS5saXZlLmNvbS9kb3dubG9hZD9jaWQ9RkU4NDY0Q0ZBNzk0REEzMSZyZXNpZD1GRTg0NjRDRkE3OTREQTMxJTIxMzkwJmF1dGhrZXk9QVBBRGprZnItbkVNNlk4&e=c2FsZXNAc2VydmljZXRocmVhZC5jb20=&h=1803547f4c89428aa593c931d1c99564&t=c3h2NW1abXdwNnhrcndDRHk5MStRa1krcFQ5N1dlVHlzZVNvNzAzakw5dz0=
 us-west-2.protection.sophos.com/?d=toools.es&u=aHR0cDovL3Rvb29scy5lcy9iYW5raW50ZXJfL3hEc2EtQzUxU0w4SXpCVGdMN2kxX3RyQllLS1ZqWS1WNS8=&e=c2tvZXBrZUBtaXNzb3VsYWNvdW50eS51cw==&t=QlZHM2FiNzVhbjFld3d5dVJWdnlDMXp6dHpxMU8vVW1FQlhLSTdremUxVT0=/
 us.cdn.persiangig.com
 us.gsearch.com.de
@@ -133846,7 +133905,9 @@ venezuelagana.tk
 vengemutfak.com
 venice.archunion.ge
 venicedayspa.it
-veniceshop.ru
+veniceshop.ru/wp-content/uploads/2020/04/xwrxtgh/60233233/Buy-Sell_Agreement_60233233_04272020.zip
+veniceshop.ru/wp-content/uploads/2020/04/xwrxtgh/Buy-Sell_Agreement_624286_04272020.zip
+veniceshop.ru/wp-content/uploads/2020/04/xwrxtgh/Buy-Sell_Agreement_64879608_04272020.zip
 venkindead.zone
 venomco.com
 venomeurope.ro
@@ -134207,7 +134268,7 @@ viettelelecom.com
 viettelquangbinh.vn
 viettelsolutionhcm.vn
 viettinland.com
-viettinlaw.com/xmtuzix/docs/k9zuyya91v/
+viettinlaw.com
 viettrungkhaison.com
 viettrust-vn.net
 vietucgroup.org
@@ -135133,9 +135194,7 @@ wakacyjnyadres.pl
 wakalad.com
 wakandatravel.com
 wakasa-ohi.jp
-wakecar.cn/wp-admin/DcTwr/
-wakecar.cn/wp-admin/Document/f2fbip-1961-97730468-mbhy3epfnr-atrao/
-wakecar.cn/wp-admin/open_0VcBT5m_4ZNiMTyXs/security_warehouse/ydluyc7rxzma0yoa_u0x4y8492v3
+wakecar.cn
 wakejournal.com
 wakfu.cc
 wakokaeae7r.2wwzk3tpin6kc.cf
@@ -138580,6 +138639,7 @@ z19ok.com
 z360marketing.com
 z3bradesign.com
 z4v1qth.com
+z4wj1w.am.files.1drv.com
 z5ov7q.dm.files.1drv.com
 z5seo.com
 z92586zq.beget.tech
