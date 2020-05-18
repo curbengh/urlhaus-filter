@@ -1,5 +1,5 @@
 ! Title: Malicious URL Blocklist
-! Updated: Sun, 17 May 2020 12:10:03 UTC
+! Updated: Mon, 18 May 2020 00:09:49 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -220,6 +220,7 @@
 1.246.223.71
 1.246.223.74
 1.246.223.79
+1.246.223.83
 1.246.223.94
 1.246.245.213
 1.247.157.184
@@ -1663,6 +1664,7 @@
 106.5.74.2
 106.5.74.209
 106.5.75.94
+106.5.83.86
 106.5.86.90
 106.5.93.76
 106.52.208.207
@@ -3364,6 +3366,7 @@
 113.161.224.96
 113.163.187.188
 113.172.155.104.bc.googleusercontent.com
+113.182.110.235
 113.205.135.203
 113.205.149.99
 113.218.222.187
@@ -3413,6 +3416,7 @@
 113.240.185.129
 113.240.185.182
 113.240.186.132
+113.240.186.171
 113.240.186.233
 113.240.187.41
 113.240.216.136
@@ -4249,6 +4253,7 @@
 114.239.172.147
 114.239.172.217
 114.239.172.30
+114.239.174.149
 114.239.174.232
 114.239.174.81
 114.239.174.93
@@ -4372,6 +4377,7 @@
 114.239.72.193
 114.239.72.58
 114.239.72.60
+114.239.73.74
 114.239.73.95
 114.239.74.127
 114.239.74.228
@@ -4615,6 +4621,7 @@
 115.202.90.14
 115.202.92.78
 115.203.108.144
+115.203.110.221
 115.203.110.235
 115.204.110.148
 115.204.154.178
@@ -5841,6 +5848,7 @@
 115.59.80.193
 115.59.83.248
 115.59.84.32
+115.59.84.72
 115.59.87.221
 115.59.9.146
 115.59.9.189
@@ -6006,6 +6014,7 @@
 115.63.26.167
 115.63.27.10
 115.63.29.211
+115.63.32.154
 115.63.33.243
 115.63.34.134
 115.63.34.57
@@ -7203,10 +7212,12 @@
 117.87.169.115
 117.87.169.73
 117.87.169.91
+117.87.170.57
 117.87.178.79
 117.87.209.203
 117.87.209.244
 117.87.216.199
+117.87.216.221
 117.87.218.189
 117.87.218.27
 117.87.22.215
@@ -7224,6 +7235,7 @@
 117.87.239.215
 117.87.239.235
 117.87.44.106
+117.87.44.131
 117.87.52.159
 117.87.55.131
 117.87.55.184
@@ -7264,6 +7276,7 @@
 117.90.86.165
 117.90.88.50
 117.90.89.95
+117.90.91.202
 117.91.156.66
 117.91.172.11
 117.91.172.49
@@ -7391,6 +7404,7 @@
 117.95.227.202
 117.95.227.247
 117.95.227.46
+117.95.227.50
 117.95.228.167
 117.95.228.86
 117.95.230.135
@@ -7723,6 +7737,7 @@
 120.212.222.200
 120.213.208.54
 120.213.213.54
+120.213.214.0
 120.217.141.195
 120.217.15.125
 120.217.29.73
@@ -8004,6 +8019,7 @@
 121.122.87.76
 121.122.92.226
 121.122.99.91
+121.123.189.186
 121.123.37.121
 121.128.160.148
 121.128.189.19
@@ -10107,6 +10123,7 @@
 124.cpanel.realwebsitesite.com
 124958289-439173646360600436.preview.editmysite.com
 125.104.111.51
+125.104.225.82
 125.104.225.86
 125.104.235.12
 125.104.235.135
@@ -11733,6 +11750,7 @@
 14.48.81.108
 14.48.88.250
 14.49.212.151
+14.50.118.32
 14.50.235.236
 14.51.127.79
 14.52.15.248
@@ -13511,6 +13529,7 @@
 162.212.115.46
 162.212.115.49
 162.212.115.5
+162.212.115.54
 162.212.115.55
 162.212.115.58
 162.212.115.64
@@ -14878,6 +14897,7 @@
 172.36.25.134
 172.36.25.160
 172.36.25.161
+172.36.25.166
 172.36.25.174
 172.36.25.185
 172.36.25.197
@@ -14891,6 +14911,7 @@
 172.36.26.168
 172.36.26.170
 172.36.26.21
+172.36.26.229
 172.36.26.246
 172.36.26.254
 172.36.26.44
@@ -15047,6 +15068,7 @@
 172.36.37.247
 172.36.37.253
 172.36.37.54
+172.36.37.96
 172.36.38.100
 172.36.38.101
 172.36.38.103
@@ -15609,6 +15631,7 @@
 172.39.25.127
 172.39.25.163
 172.39.25.247
+172.39.25.248
 172.39.25.29
 172.39.25.8
 172.39.26.103
@@ -16046,6 +16069,7 @@
 172.39.87.161
 172.39.87.190
 172.39.87.2
+172.39.87.22
 172.39.87.233
 172.39.87.245
 172.39.87.36
@@ -16124,6 +16148,7 @@
 172.45.18.33
 172.45.19.251
 172.45.2.115
+172.45.2.143
 172.45.2.191
 172.45.20.164
 172.45.20.220
@@ -16146,9 +16171,11 @@
 172.45.4.132
 172.45.4.69
 172.45.41.31
+172.45.44.8
 172.45.45.155
 172.45.46.168
 172.45.49.214
+172.45.50.77
 172.45.51.138
 172.45.53.11
 172.45.55.158
@@ -16777,6 +16804,7 @@
 176.123.6.81
 176.123.6.98
 176.123.7.119
+176.123.7.238
 176.123.7.44
 176.123.9.171
 176.124.242.16
@@ -18066,6 +18094,7 @@
 180.116.234.30
 180.116.238.136
 180.116.238.199
+180.116.30.197
 180.116.47.28
 180.116.96.229
 180.117.108.134
@@ -19232,6 +19261,7 @@
 182.117.90.60
 182.117.91.255
 182.117.92.75
+182.117.93.186
 182.117.96.14
 182.117.97.174
 182.117.98.253
@@ -22323,6 +22353,7 @@
 190.4.187.143
 190.46.72.186
 190.47.135.142
+190.47.62.44
 190.52.166.145
 190.56.229.181
 190.56.24.26
@@ -24979,6 +25010,7 @@
 20cn.net/download/Oicqpass.zip
 20cn.net/download/passwd/nopassword.exe
 20elektronik.com
+20gb-etkinligi.com
 20gb-internet-kullan.com
 20gbaktiflestirturkiye.com
 20gbhediye.com
@@ -25123,6 +25155,7 @@
 211.221.86.124
 211.222.173.57
 211.223.166.51
+211.223.185.80
 211.223.68.43
 211.224.189.107
 211.224.199.50
@@ -26468,6 +26501,7 @@
 220.95.38.8
 221.11.215.132
 221.121.41.139
+221.124.78.15
 221.13.159.205
 221.13.177.38
 221.13.181.56
@@ -26750,6 +26784,7 @@
 221.5.28.114
 221.5.28.17
 221.5.29.140
+221.5.29.208
 221.5.30.191
 221.5.30.228
 221.5.31.113
@@ -27284,6 +27319,7 @@
 222.142.142.88
 222.142.144.150
 222.142.145.170
+222.142.145.242
 222.142.147.167
 222.142.155.217
 222.142.155.245
@@ -28471,6 +28507,7 @@
 27.41.214.143
 27.41.214.53
 27.41.215.24
+27.41.215.36
 27.41.216.113
 27.41.216.36
 27.41.217.123
@@ -28505,6 +28542,7 @@
 27.64.189.179
 27.64.216.123
 27.64.228.78
+27.64.233.184
 27.64.236.63
 27.64.237.80
 27.64.24.23
@@ -28979,6 +29017,7 @@
 33devici.tech
 33garaj.com
 33nobirolmodelgps.com
+34.107.23.120
 34.196.157.118
 34.196.72.89
 34.197.118.180
@@ -29464,6 +29503,7 @@
 36.107.255.65
 36.107.27.118
 36.107.27.130
+36.107.27.144
 36.107.27.47
 36.107.28.239
 36.107.28.42
@@ -30325,8 +30365,7 @@
 3q9h.timeisletitgo.ru
 3rdperson.ml
 3rdsectorsupportafrica.org
-3rdwtalab.com/wp-content/uploads/2020/05/lpaphqwdr/952116/ServiceContractAgreement_952116_05042020.zip
-3rdwtalab.com/wp-content/uploads/2020/05/lpaphqwdr/ServiceContractAgreement_821197_05042020.zip
+3rdwtalab.com
 3rytghjhkss.cf
 3s16g.club
 3s652.xyz
@@ -36987,6 +37026,7 @@
 61.52.117.203
 61.52.118.136
 61.52.119.228
+61.52.128.100
 61.52.128.79
 61.52.130.67
 61.52.131.32
@@ -37956,6 +37996,7 @@
 68.203.84.46
 68.204.73.133
 68.205.122.33
+68.207.146.249
 68.217.197.205
 68.229.130.39
 68.235.38.157
@@ -38442,6 +38483,7 @@
 77.43.250.205
 77.43.251.196
 77.43.251.81
+77.43.253.135
 77.43.253.98
 77.43.254.163
 77.45.171.168
@@ -45560,7 +45602,7 @@ arcticcat.sk
 arcticprospectus.com
 arctictraction.com
 arculos.com
-arcyten.cl
+arcyten.cl/iulbxki/88888.png
 ard-drive.co.uk
 ardakankala.com
 ardalan.biz
@@ -48295,6 +48337,7 @@ bayonetrobles.com
 bayoufab.com
 bayouregioncareers.com
 bayraktepeetmangal.com
+bayramdadestek20gb.com
 baysidehps.org
 baysoundstudios.com
 baystreetbbs.org
@@ -48888,7 +48931,7 @@ benfey.ciprudential.com.watchdogdns.duckdns.org
 benfieldsbrits.com
 benfilogistics.com
 bengal.pt
-bengalbreeze.com/wp-content/uploads/Orders_details/2019-01/
+bengalbreeze.com
 benhnamgioi.online
 benhviensontra.com.vn
 benimax.com.br
@@ -49121,7 +49164,7 @@ bestmusicafrica.com
 bestnikoncamera.com
 bestnudist.xyz
 bestodesigns.com
-bestofblood.com/cgi-bin/ksg/
+bestofblood.com
 bestofcareer.com
 bestonlinepharm.com
 bestonspices.com
@@ -54573,7 +54616,7 @@ charihome.com
 chariottours.com
 charitasngo.org
 charity.charitypromoted.com
-charity.vexacom.com
+charity.vexacom.com/wp-admin/FILE/
 charitycandy.co.uk
 charitylov.com
 charityshofner.com
@@ -78631,7 +78674,7 @@ fastrackapp.es
 fastrxtransfer.com
 fastsoft.onlinedown.net
 fastsolutions-france.com
-fasttads.com/addons/admin_campaign_helper-0.1.0-fx.xpi
+fasttads.com
 fastter.allsb.ru
 fasttrackorganizing.com
 fasttuning.lt
@@ -80430,11 +80473,7 @@ freecell.id
 freecontactlensesguide.com
 freediving.jworks.io
 freedns.su
-freedoge.info/new.exe
-freedoge.info/putin.exe
-freedoge.info/rec.exe
-freedoge.info/reclip.exe
-freedoge.info/red.exe
+freedoge.info
 freedom-financialllc.com
 freedomate.ga
 freedomsolutionsuk.co.uk
@@ -84987,6 +85026,7 @@ heliospaint.ru
 heliplaya.hotellatortugaspa.com
 helkar.pl
 hellbacksoft.online
+hellbird12.beget.tech
 hellcatshockey.org
 hellenic-fiu.gr
 helleny.com
@@ -86858,7 +86898,7 @@ ibookrides.com
 iboommarketing.com
 ibot.live
 ibot.promo-hub.top
-ibourl.com/3frx
+ibourl.com
 iboutique.vn
 ibpminstitute.org
 ibr-mag.com
@@ -88460,7 +88500,7 @@ interac3688.epssecurity.com.au
 interact-labs.com
 interactivecustomersolutions.com
 interaktifhaberler.net
-interarma.pl
+interarma.pl/wp-thennes/444444.png
 interativus.com.br
 interbanx.co.id
 interbizservices.eu
@@ -89606,7 +89646,9 @@ jaimannpublicschool.com
 jaimeadomicilio.com
 jaimesplace.com
 jaiminishikshansansthan.org
-jaincakes.xyz
+jaincakes.xyz/docs_1o2/108393672/Judgement_04222020_108393672.zip
+jaincakes.xyz/docs_1o2/818263/Judgement_04222020_818263.zip
+jaincakes.xyz/docs_1o2/949025839/Judgement_04222020_949025839.zip
 jainternational.co.in
 jaintigers.com
 jainworldgroup.com
@@ -91275,7 +91317,7 @@ kaiwangdian.com
 kaiz.ru
 kaizenkw.com
 kajastech.com
-kakaocorp.link/data/imgs/deim.gif
+kakaocorp.link
 kakatiyaangels.com
 kakekommisjonen.com/download/KKMHM.exe
 kakhun.ru
@@ -94602,7 +94644,7 @@ lengoctu.com
 lenhydro.ru
 lenigenvlug.eu
 leniomontalverne.com
-lenjeriicopii.ro
+lenjeriicopii.ro/wp-content/uploads/2020/04/branding/3989.zip
 lenk-meinel.de
 lenkinabasta.com
 lenkolodec.ru
@@ -99403,7 +99445,8 @@ meter.gr
 meter.melatkinson.com
 metex.trade
 methodofsolutions.com
-metier-entrepreneur.org
+metier-entrepreneur.org/docs_fhg/56889/Buy-Sell%20Agreement_56889_04232020.zip
+metier-entrepreneur.org/docs_fhg/Buy-Sell%20Agreement_41050_04232020.zip
 metmuseum.ph
 metodoinf.it
 metodosilverfoxx.it
@@ -108867,6 +108910,7 @@ pastebin.com/raw/GqccnG2i
 pastebin.com/raw/Gr0iSgzy
 pastebin.com/raw/Gs3cdK1d
 pastebin.com/raw/GsBPDknx
+pastebin.com/raw/GsjBv7W9
 pastebin.com/raw/GspghiBQ
 pastebin.com/raw/Gt9K0Ypw
 pastebin.com/raw/Gtbf3gM9
@@ -109182,6 +109226,7 @@ pastebin.com/raw/MEjZBYW7
 pastebin.com/raw/MHbgK6Lq
 pastebin.com/raw/MHpXezGw
 pastebin.com/raw/MJKmqfuV
+pastebin.com/raw/MJPwzUN2
 pastebin.com/raw/MKApS80G
 pastebin.com/raw/MKVPfBfJ
 pastebin.com/raw/MLWV5Xwt
@@ -109358,6 +109403,7 @@ pastebin.com/raw/PiVnn4Da
 pastebin.com/raw/Pkm2viv3
 pastebin.com/raw/PkntiPnX
 pastebin.com/raw/Pkr7VQRt
+pastebin.com/raw/PmAag1Ed
 pastebin.com/raw/PpvikUHC
 pastebin.com/raw/Pq2STUhP
 pastebin.com/raw/Pq6wjDDY
@@ -109629,6 +109675,7 @@ pastebin.com/raw/TGEdiyPh
 pastebin.com/raw/TGpyhWeU
 pastebin.com/raw/THdcNh8Z
 pastebin.com/raw/THfjU6z2
+pastebin.com/raw/TKFFqRqy
 pastebin.com/raw/TMHjRGmW
 pastebin.com/raw/TNSsTn1L
 pastebin.com/raw/TNnFtBjw
@@ -109772,6 +109819,7 @@ pastebin.com/raw/VEu2GU6w
 pastebin.com/raw/VFnihgtc
 pastebin.com/raw/VJFZENMa
 pastebin.com/raw/VKsWSkGp
+pastebin.com/raw/VLT1b3qh
 pastebin.com/raw/VPQJshzs
 pastebin.com/raw/VSEX09Bt
 pastebin.com/raw/VSMUcWH9
@@ -110651,6 +110699,7 @@ pastebin.com/raw/hh1E37cN
 pastebin.com/raw/higWG1Di
 pastebin.com/raw/hinKe47j
 pastebin.com/raw/hirFNfui
+pastebin.com/raw/hnh0PWkT
 pastebin.com/raw/hnvgNA9b
 pastebin.com/raw/hpPFFTYi
 pastebin.com/raw/hpV7VJii
@@ -111235,6 +111284,7 @@ pastebin.com/raw/sebYArnx
 pastebin.com/raw/sek4YZxW
 pastebin.com/raw/sgcMfHZQ
 pastebin.com/raw/sguX5cTb
+pastebin.com/raw/sijkg2RV
 pastebin.com/raw/sjA5CXAH
 pastebin.com/raw/sjQJLhAE
 pastebin.com/raw/skitVntV
@@ -111583,6 +111633,7 @@ pastebin.com/raw/xrDwKEdb
 pastebin.com/raw/xrV8R9MT
 pastebin.com/raw/xtSAHQY3
 pastebin.com/raw/xugyp0uK
+pastebin.com/raw/xvz3UQz6
 pastebin.com/raw/xwBi9rip
 pastebin.com/raw/xwRLSPvT
 pastebin.com/raw/xwZXF2wq
@@ -119634,7 +119685,7 @@ sawala.co
 sawasdeethaimassage.com.au
 sawasdeethaimassage.com.au/wp-https/blz.exe
 sawasdeethaimassage.com.au/wp-https/me.exe
-sawda.nl
+sawda.nl/vary/103080512/103080512.zip
 sawf.tk
 sawitandtravel.com
 sawitsukses.com
@@ -127556,7 +127607,7 @@ tacoar.com.br
 tacollective.org
 tacoshermanos.fr
 tact-yl.fr
-tactical-toolbox.com/abcd.fdg
+tactical-toolbox.com
 tacticalcto.com.au
 tacticalintelligence.org
 tacticsco.com
@@ -131482,7 +131533,7 @@ trujilloremodelingservicesinc.com
 trulight.io
 trullsrodshop.com
 trulyhelpful.love
-trulykomal.com/trulykomal.com/76502345306739016/HzQDdtdgnxnADtwpmU/
+trulykomal.com
 trumbullcsb.org
 trumpfalls.com
 trumplegal.com
@@ -134121,7 +134172,8 @@ vetsfest.org
 veucon.sk
 veulalmffyy.company
 vevete22.pw
-vexacom.com
+vexacom.com/wp-content/00zut8ttb/
+vexacom.com/wp-content/dc1-aimc2-001977/
 vexhockey.com
 veyettegroup.com
 vezem.dp.ua
@@ -136069,7 +136121,7 @@ wewewewewesesesesasbacwederffggffddsss.duckdns.org
 wex-notdead.ru
 weyfilms.com
 weyounited.nl
-weyouthorganization.org
+weyouthorganization.org/wp-content/uploads/2020/02/well/08135.zip
 wezeldabgarrett.xyz
 wezenz.com
 wf-hack.com
@@ -136731,7 +136783,7 @@ wordsbyme.hu
 wordsoflove.jp
 wordwave.academy
 work.kromedout.com
-work.vexacom.com
+work.vexacom.com/bootstrap/Document/ektth91-42584-487-zbmucsdbv9f-vqci5qrocfn8/
 work4sales.com
 work707.work
 workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com
@@ -137531,6 +137583,7 @@ xn--20-1b4aw96kpbsw7pflpnd651j.xyz
 xn--2017-94druacfmy0a.xn--p1acf
 xn--20gb-hediyefrsati-nvc.com
 xn--20gb-tanmla-kullan-l0c.com
+xn--20gbnternethedyendowland-tvdk.com
 xn--21-6kctkfm4bkho0k.xn--p1ai
 xn--21-dlc6asabnik.xn--p1ai
 xn--22-xlchp9ao.xn--p1ai
@@ -138617,7 +138670,7 @@ yulitours.com
 yuluobo.com
 yulv.net
 yumewokanaeyou.com
-yumilasheseg.com
+yumilasheseg.com/wp-content/themes/calliope/linear/403681.zip
 yumitel.com
 yummiesbandra.com
 yummybox.uk
