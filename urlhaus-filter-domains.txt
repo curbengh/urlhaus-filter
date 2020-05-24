@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Sat, 23 May 2020 12:09:55 UTC
+# Updated: Sun, 24 May 2020 00:10:16 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -509,6 +509,7 @@
 101.108.174.144
 101.108.184.136
 101.108.202.249
+101.108.207.170
 101.108.29.77
 101.108.30.134
 101.108.63.84
@@ -1146,6 +1147,7 @@
 104.193.252.200
 104.194.11.180
 104.198.17.119
+104.198.19.60
 104.198.70.243
 104.198.73.104
 104.199.129.139
@@ -1599,6 +1601,7 @@
 106.111.35.83
 106.111.36.237
 106.111.36.97
+106.111.38.110
 106.111.38.143
 106.111.38.203
 106.111.41.140
@@ -2318,6 +2321,7 @@
 110.155.2.248
 110.155.216.159
 110.155.216.43
+110.155.218.245
 110.155.218.27
 110.155.219.234
 110.155.3.103
@@ -4258,6 +4262,7 @@
 114.239.123.15
 114.239.123.182
 114.239.124.104
+114.239.124.14
 114.239.124.147
 114.239.124.99
 114.239.126.254
@@ -4518,6 +4523,7 @@
 114.33.253.250
 114.33.46.93
 114.33.53.66
+114.33.55.196
 114.33.70.48
 114.34.105.44
 114.34.109.34
@@ -4810,6 +4816,7 @@
 115.28.162.250
 115.42.32.103
 115.47.117.14
+115.48.101.72
 115.48.102.52
 115.48.102.56
 115.48.103.147
@@ -5868,6 +5875,7 @@
 115.59.55.140
 115.59.59.109
 115.59.59.36
+115.59.6.227
 115.59.68.122
 115.59.7.136
 115.59.70.74
@@ -8514,6 +8522,7 @@
 122.212.124.14
 122.225.138.101
 122.225.139.131
+122.225.139.180
 122.225.139.94
 122.227.120.166
 122.227.120.8
@@ -13597,6 +13606,7 @@
 162.212.115.110
 162.212.115.113
 162.212.115.118
+162.212.115.124
 162.212.115.125
 162.212.115.127
 162.212.115.128
@@ -13633,6 +13643,7 @@
 162.212.115.222
 162.212.115.224
 162.212.115.237
+162.212.115.238
 162.212.115.243
 162.212.115.247
 162.212.115.251
@@ -14780,6 +14791,7 @@
 172.36.1.208
 172.36.1.209
 172.36.1.21
+172.36.1.211
 172.36.1.38
 172.36.1.48
 172.36.1.89
@@ -14807,6 +14819,7 @@
 172.36.11.93
 172.36.12.114
 172.36.12.142
+172.36.12.143
 172.36.12.152
 172.36.12.153
 172.36.12.163
@@ -16307,6 +16320,7 @@
 172.45.18.225
 172.45.18.33
 172.45.19.251
+172.45.19.96
 172.45.2.115
 172.45.2.143
 172.45.2.191
@@ -16337,6 +16351,7 @@
 172.45.4.69
 172.45.40.74
 172.45.41.31
+172.45.44.57
 172.45.44.8
 172.45.45.155
 172.45.46.168
@@ -16665,6 +16680,7 @@
 175.141.239.129
 175.141.99.136
 175.144.166.20
+175.149.94.202
 175.151.123.42
 175.151.51.47
 175.151.60.22
@@ -16692,6 +16708,7 @@
 175.205.63.190
 175.206.117.74
 175.206.44.197
+175.207.55.232
 175.208.203.123
 175.208.254.73
 175.209.148.157
@@ -16871,6 +16888,7 @@
 175.9.248.105
 175.9.41.51
 175.9.42.182
+175.9.43.16
 175.9.43.45
 1758681625.rsc.cdn77.org
 176.10.118.188
@@ -17390,6 +17408,7 @@
 177.86.233.209
 177.86.233.219
 177.86.233.228
+177.86.233.233
 177.86.233.248
 177.86.234.133
 177.86.234.171
@@ -18121,6 +18140,7 @@
 180.104.183.158
 180.104.183.200
 180.104.183.8
+180.104.184.190
 180.104.184.201
 180.104.184.241
 180.104.184.52
@@ -18357,6 +18377,7 @@
 180.123.108.85
 180.123.118.109
 180.123.118.63
+180.123.118.66
 180.123.144.10
 180.123.144.249
 180.123.149.37
@@ -18756,6 +18777,7 @@
 182.112.41.8
 182.112.43.119
 182.112.45.161
+182.112.47.231
 182.112.5.58
 182.112.53.43
 182.112.54.162
@@ -22278,6 +22300,7 @@
 189.129.134.45
 189.132.34.33
 189.133.108.81
+189.133.211.180
 189.133.246.124
 189.135.100.31
 189.135.161.83
@@ -23819,6 +23842,7 @@
 199.83.204.114
 199.83.204.116
 199.83.204.117
+199.83.204.119
 199.83.204.121
 199.83.204.124
 199.83.204.132
@@ -24232,6 +24256,7 @@
 200.196.38.169
 200.196.44.237
 200.2.161.171
+200.20.227.67
 200.207.136.133
 200.207.144.51
 200.207.144.73
@@ -27186,6 +27211,7 @@
 222.138.150.236
 222.138.150.255
 222.138.150.72
+222.138.150.91
 222.138.151.85
 222.138.151.97
 222.138.16.190
@@ -27985,6 +28011,7 @@
 222.87.179.158
 222.87.179.228
 222.87.189.166
+222.87.190.15
 222.87.190.78
 222.87.191.77
 222.87.206.90
@@ -28679,6 +28706,7 @@
 27.41.135.173
 27.41.135.19
 27.41.135.216
+27.41.135.69
 27.41.136.46
 27.41.138.104
 27.41.138.49
@@ -28690,6 +28718,7 @@
 27.41.142.51
 27.41.145.22
 27.41.145.9
+27.41.146.206
 27.41.147.103
 27.41.147.212
 27.41.147.245
@@ -28703,6 +28732,7 @@
 27.41.152.55
 27.41.153.139
 27.41.153.19
+27.41.154.155
 27.41.154.90
 27.41.155.176
 27.41.156.22
@@ -30842,6 +30872,7 @@
 42.116.208.90
 42.116.233.57
 42.116.64.109
+42.117.251.216
 42.117.62.88
 42.119.133.20
 42.119.44.109
@@ -32102,6 +32133,7 @@
 42.235.60.195
 42.235.60.27
 42.235.61.110
+42.235.61.61
 42.235.63.163
 42.235.64.190
 42.235.65.176
@@ -39129,6 +39161,7 @@
 79.132.25.128
 79.133.157.196
 79.134.225.70
+79.135.194.44
 79.136.27.40
 79.137.123.208
 79.137.127.216
@@ -40562,6 +40595,7 @@
 9.mmedium.z8.ru
 90.110.74.95
 90.150.139.203
+90.171.195.136
 90.178.251.152
 90.188.115.198
 90.189.110.200
@@ -40734,6 +40768,7 @@
 91.92.213.37
 91.92.66.124
 91.92.66.87
+91.93.0.8
 91.93.137.77
 91.93.63.19
 91.93.89.170
@@ -40996,6 +41031,7 @@
 94.102.51.22
 94.102.57.241
 94.102.60.146
+94.102.63.52
 94.103.80.231
 94.103.81.161
 94.103.81.24
@@ -43411,7 +43447,6 @@ akdigitalservices.com
 akdkart.com
 akekartela.com
 akeswari.org
-akfoundationbd.xyz
 akg-eng.net
 akgemc.com
 akgiyimtekstil.com
@@ -48299,7 +48334,6 @@ barsoee.dk
 barstowhouse.com
 bartantasdunyasi.com
 barteit.de
-bartesol.org
 bartist.hu
 bartnowak.com
 bartosovic.sk
@@ -54664,6 +54698,7 @@ cleaneatologyblog.com
 cleaner-g.site
 cleaner-ge.hk
 cleaner-software.com
+cleanermost.online
 cleanerorio.com
 cleanfico.com
 cleanfile.in
@@ -55626,6 +55661,7 @@ conejero.com.br
 conestogawaterproofing.com
 conesulbebidas.com
 conetmon.com
+conexa.no
 conexa.org.br
 conexaopremilitar.com.br
 conexuscancer.com
@@ -56098,7 +56134,6 @@ cosi-ilmercatodeisapori.com
 coskunkuyumculuk.com
 cosmatos.org
 cosme.kyawaiiiii.com
-cosmea.pl
 cosmeis.com
 cosmeliti.com
 cosmet-log.com
@@ -58084,7 +58119,6 @@ degree360.net
 deguena.com
 deguia.net
 degustibeer.it
-dehabadi.ir
 deheld100.nl
 dehkadeh-tameshk.ir
 dehkadenovin.com
@@ -58995,7 +59029,6 @@ devwp.socialcloset.com
 devxhub.com
 dewa-kartu.info
 dewa303.com
-dewabarbeque.com
 dewakartu.info
 dewalhoeve.nl
 dewapisang.com
@@ -59907,7 +59940,6 @@ dm.viamedia.ba
 dm.xn----ctbbln2ahbdthck.xn--p1ai
 dmachina.cn
 dmailadvert15dx.world
-dmaldimed.com
 dmamit.com
 dmanistravel.com
 dmas.es
@@ -64459,6 +64491,7 @@ factorydirectcigarbundles.com
 factorydirectmattress.com.au
 factoryoutlets.pk
 factsnap.com
+factsofindonesia.com
 faculdadeintegra.edu.br
 facwebdesigner.com.br
 fad.c21abel.info
@@ -66573,6 +66606,7 @@ frhwqb.loan
 fribola.com
 fricenerhly.ga
 fridabendyg.de
+fridgerepairqatar.com
 fridotest2.de
 fridounkamran.ir
 friendgames.eu
@@ -72475,6 +72509,7 @@ icbasiglio.gov.it
 icbccaps.com
 icbg-iq.com
 icc.com.pe
+icc.org.af
 iccb.money
 icce-2018.org
 iccf-bg.com
@@ -74384,7 +74419,6 @@ irequestyoutopleaseadviseonthepayment.duckdns.org
 iresearchledger.com
 ireviewproduct.com
 irfssnormandie.fr
-irgc.org
 irib-zx.persiangig.com
 iribx.ir
 iridairk.ru
@@ -74978,6 +75012,7 @@ jacketamerica.com
 jacketes.com
 jackevicius.lt
 jackhonky.com
+jackiefreedman.com
 jackiejill.com
 jackistaudemetalwork.com.au
 jacknaut.com
@@ -77141,6 +77176,7 @@ kdc577-sontinh.info
 kdecoventures.com
 kdengenharia.com.br
 kdf77.com
+kdgbxw.db.files.1drv.com
 kdhema.ml
 kdkonline.com
 kdmedia.tk
@@ -78712,6 +78748,7 @@ kungsndyglobalinvestmentgooglednsaddress.duckdns.org
 kungwsdy18eduationaldeveloperinvestmentr.duckdns.org
 kuningapood.ee
 kunkel5.com
+kunnskapsfilm.no
 kunstencultuurprijs.nl
 kunstknaller.nl
 kunstraum.fh-mainz.de
@@ -80725,6 +80762,7 @@ lloopp.net
 lloyd.creative-platform.net
 lloyd.www.creative-platform.net
 lloyds-dl.com
+lloydsbankdocs.com
 lloydsbankonline.co.uk
 lloydsong.com
 lls.usm.md
@@ -82988,6 +83026,7 @@ marcin101.nazwa.pl
 marcinmarciniec.pl
 marcinwadon.cba.pl
 marcjenny.com
+marckapiksa.ug
 marckasgfdvc.ug
 marcmarcel.com
 marcoantoniocasares.com
@@ -84139,7 +84178,6 @@ melander.cc
 melangeemall.com
 melangegreengourmetnyc.com
 melaniaclinic.com
-melaniedandrea.com
 melarkhobor.com
 melbournecitycollegeptyltd-my.sharepoint.com
 melbournecosmetictattoo.com.au
@@ -86829,7 +86867,6 @@ mylistbuildingtraffic.com
 myloanbaazar.com
 mylocal.dk
 mylocal.no
-mylocalfoodie.com.au
 myloglogistica.com.br
 mylokipanel.cf
 mylokipanel.ga
@@ -89570,6 +89607,7 @@ oilrefineryline.com
 oimely.com
 oinfernosaoosoutros.net
 ointy.info
+oipx0q.bn.files.1drv.com
 oiqowuehansee.com
 oirom.ru
 ois.edu.bd
@@ -92696,6 +92734,7 @@ plussizedwomensclothing.com
 plussizeforall.com
 plussocial.ir
 plusvraiquenature.fr
+plututiso.ug
 plvan.com
 plyifodredop.com
 pm-obraz.com
@@ -99037,6 +99076,7 @@ sdwlepus.co.kr
 sdx106.s3.eu-north-1.amazonaws.com
 se-beach-karting.at
 se02.de
+se66ndx04fofu3sqv.com
 sea-tacselfstorage.com
 sea-why.com
 seabird.com.ph
@@ -99066,6 +99106,7 @@ seaots.com.au
 seapodbank.tk
 seaportmovingandstorage.com
 seapp.ir
+seara.com.br
 search-engine-optimization-canada.ca
 search4.ie
 search8756.files.wordpress.com
@@ -99840,6 +99881,7 @@ sgemedia.com
 sgflp.com
 sggenieapplique.com
 sgglobalauto.com
+sggsonline.com
 sgh.com.pk
 sghcx.sakuraweb.com
 sgheg.xyz
@@ -100324,7 +100366,6 @@ shop1.suptgniort.com
 shop123.store
 shop24.work
 shopaholic.world
-shopaletta.com
 shopalldogspoop.com
 shopallessentials.com
 shoparsi.com
@@ -102028,7 +102069,6 @@ sooqxrpm.yjdata.me
 sophiacarta.de
 sophiacollegemumbai.com
 sophiahotel.vn
-sophiasbridalandtux.com
 sophiaskyhotel.vn
 sophiasuites-santorini.com
 sophieguaremas.com
@@ -102433,7 +102473,6 @@ spiritualhealerashish.com
 spiritv2.com
 spiritwarriormama.com
 spirtnoe.org.ua
-spirtualcenteruk.com
 spitbraaihire.co.za
 spitlame.free.fr
 spitzcreativemedia.com
@@ -106170,6 +106209,7 @@ thacci.com.br
 thachastew.com
 thaddeusarmstrong.com
 thagreymatter.com
+thai-chana.asia
 thai-pub.com
 thaiascobrake.com
 thaibbqculver.com
@@ -107127,7 +107167,6 @@ tiagosoares.com.br
 tiagovsky.com
 tial.com.watchdogdns.duckdns.org
 tianangdep.com
-tianmaouae.com
 tianmarket.shop
 tianti1.cn
 tianxindesign.com
@@ -114979,7 +115018,6 @@ yuenkwanlo.nl
 yuexiao.ca
 yufengzx.com
 yufguo.com
-yugendojoec.com
 yuhaike.com
 yuhongcham.com
 yui-clean.hk
