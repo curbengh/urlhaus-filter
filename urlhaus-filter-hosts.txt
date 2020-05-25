@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 24 May 2020 12:10:02 UTC
+# Updated: Mon, 25 May 2020 00:09:49 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -483,6 +483,7 @@
 0.0.0.0 20gbhediye.com
 0.0.0.0 20gbhediyenet.com
 0.0.0.0 20gbhediyetr.com
+0.0.0.0 20gbhediyetr.net
 0.0.0.0 20gbinternet.gratis
 0.0.0.0 20gbkazanmafirsati.com
 0.0.0.0 20gbverdimgitti.com
@@ -7945,7 +7946,6 @@
 0.0.0.0 bancakoi.net
 0.0.0.0 bancanhovinhomes.vn
 0.0.0.0 banchanmeedee.com
-0.0.0.0 bancholiday.com
 0.0.0.0 banchungcuhcm.xyz
 0.0.0.0 banco-itau-cl-wps-portal.gq
 0.0.0.0 bancode.org
@@ -9599,7 +9599,6 @@
 0.0.0.0 binsammar.com
 0.0.0.0 binsuloomgroup.com
 0.0.0.0 binta.xyz
-0.0.0.0 bintangbarutama.co.id
 0.0.0.0 bintec.pe
 0.0.0.0 binupload.com
 0.0.0.0 bio-nerve.co.id
@@ -30803,7 +30802,6 @@
 0.0.0.0 hfye22gy.3b3kb3.com
 0.0.0.0 hg-treinamento04.com.br
 0.0.0.0 hg77709.com
-0.0.0.0 hgcool.com
 0.0.0.0 hgddds.usa.cc
 0.0.0.0 hgebatiment.com
 0.0.0.0 hgerohj.pw
@@ -30859,7 +30857,6 @@
 0.0.0.0 hieber-stgt.de
 0.0.0.0 hiedbooks.vn
 0.0.0.0 hielema.com
-0.0.0.0 hiep.tk
 0.0.0.0 hierba-buena.com
 0.0.0.0 hieuhausua.com
 0.0.0.0 hiexgroup.co.uk
@@ -38529,7 +38526,6 @@
 0.0.0.0 kuihong.cn
 0.0.0.0 kujuaid.net
 0.0.0.0 kukcomerc.com
-0.0.0.0 kukumbara.com
 0.0.0.0 kulalusramag.net
 0.0.0.0 kuligi.wislaa.pl
 0.0.0.0 kulikovonn.ru
@@ -48016,7 +48012,6 @@
 0.0.0.0 ngoctai.com
 0.0.0.0 ngoibitumsinhthai.com.vn
 0.0.0.0 ngoinhadaquy.com
-0.0.0.0 ngoitruonghanhphuc.edu.vn
 0.0.0.0 ngomavibe.co.ke
 0.0.0.0 ngon10.com
 0.0.0.0 ngoshakarpura.online
@@ -50819,6 +50814,7 @@
 0.0.0.0 pandemibasvurumerkez.com
 0.0.0.0 pandemibasvurumerkezi.com
 0.0.0.0 pandemidestek-gov.com
+0.0.0.0 pandemidestekleri.com
 0.0.0.0 pandiona.com
 0.0.0.0 panditpurshotamgaur.in
 0.0.0.0 panditshukla.com
@@ -59241,6 +59237,7 @@
 0.0.0.0 senergysafrica.com
 0.0.0.0 seneta.cloud
 0.0.0.0 senevdeguzelyasa.com
+0.0.0.0 senevdeguzelyasamalisin.com
 0.0.0.0 senevdekaldiye-hediyeinternet.com
 0.0.0.0 senevdekaldiyehediye.com
 0.0.0.0 senevdekaldiyehediyenet.com
@@ -68542,7 +68539,6 @@
 0.0.0.0 tulkot.dev.kebbeit.lv
 0.0.0.0 tulli.info
 0.0.0.0 tullosscapitalmanagement.net
-0.0.0.0 tulmix-beton.ru
 0.0.0.0 tulomontas.com
 0.0.0.0 tulparmotors.com
 0.0.0.0 tulpconsult.nl
@@ -71507,6 +71503,7 @@
 0.0.0.0 vysotnye-raboty.tomsk.ru
 0.0.0.0 vyteatragiamcan.com
 0.0.0.0 vytyejeu.com
+0.0.0.0 vyukle.info
 0.0.0.0 vyzivujemese.cz
 0.0.0.0 vzdp.org
 0.0.0.0 vzlom-vulkan.000webhostapp.com
