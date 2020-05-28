@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Wed, 27 May 2020 12:10:00 UTC
+# Updated: Thu, 28 May 2020 00:09:54 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1499,6 +1499,7 @@
 106.105.197.111
 106.105.218.18
 106.105.233.166
+106.105.83.248
 106.110.100.87
 106.110.101.179
 106.110.101.80
@@ -2676,6 +2677,7 @@
 111.120.82.5
 111.120.94.22
 111.120.95.223
+111.123.179.197
 111.123.185.1
 111.161.150.253
 111.164.87.47
@@ -5947,6 +5949,7 @@
 115.59.8.213
 115.59.80.142
 115.59.80.193
+115.59.82.114
 115.59.83.248
 115.59.84.32
 115.59.84.72
@@ -8658,6 +8661,7 @@
 122980data.danzer.site
 123.0.198.186
 123.0.209.88
+123.0.243.217
 123.10.0.106
 123.10.0.185
 123.10.0.2
@@ -9893,6 +9897,7 @@
 123.5.198.108
 123.5.251.33
 123.5.27.90
+123.5.38.102
 123.51.152.54
 123.52.87.113
 123.54.198.218
@@ -11503,6 +11508,7 @@
 138.197.157.165
 138.197.159.151
 138.197.159.87
+138.197.161.102
 138.197.161.220
 138.197.162.98
 138.197.163.165
@@ -12240,6 +12246,7 @@
 142.93.234.128
 142.93.235.179
 142.93.235.214
+142.93.235.238
 142.93.235.47
 142.93.236.160
 142.93.237.102
@@ -13568,6 +13575,7 @@
 162.212.113.24
 162.212.113.241
 162.212.113.244
+162.212.113.251
 162.212.113.253
 162.212.113.254
 162.212.113.27
@@ -14481,6 +14489,7 @@
 167.99.171.193
 167.99.172.18
 167.99.175.24
+167.99.180.167
 167.99.182.209
 167.99.182.238
 167.99.185.216
@@ -16481,6 +16490,7 @@
 172.45.45.155
 172.45.46.168
 172.45.49.214
+172.45.5.120
 172.45.5.138
 172.45.50.77
 172.45.51.138
@@ -16491,6 +16501,7 @@
 172.45.59.143
 172.45.6.38
 172.45.60.151
+172.45.60.51
 172.45.63.110
 172.45.63.119
 172.45.63.189
@@ -20866,6 +20877,7 @@
 185.101.161.189
 185.101.93.217
 185.102.122.2
+185.103.110.146
 185.103.138.10
 185.103.138.11
 185.103.138.12
@@ -21336,6 +21348,7 @@
 185.208.211.67
 185.208.211.91
 185.209.21.237
+185.212.128.232
 185.212.129.144
 185.212.129.241
 185.212.129.54
@@ -23395,6 +23408,7 @@
 194.15.36.155
 194.15.36.166
 194.15.36.168
+194.15.36.173
 194.15.36.216
 194.15.36.240
 194.15.36.245
@@ -25938,6 +25952,7 @@
 216.180.117.254
 216.180.117.26
 216.180.117.30
+216.180.117.35
 216.180.117.37
 216.180.117.38
 216.180.117.4
@@ -25947,6 +25962,7 @@
 216.180.117.59
 216.180.117.60
 216.180.117.64
+216.180.117.72
 216.180.117.78
 216.180.117.81
 216.180.117.91
@@ -26847,6 +26863,7 @@
 220.134.197.253
 220.134.200.200
 220.134.200.214
+220.134.225.70
 220.134.240.163
 220.134.44.253
 220.134.71.153
@@ -28963,6 +28980,7 @@
 27.41.152.114
 27.41.152.55
 27.41.153.139
+27.41.153.169
 27.41.153.19
 27.41.154.155
 27.41.154.90
@@ -29019,6 +29037,7 @@
 27.41.204.51
 27.41.205.211
 27.41.205.239
+27.41.206.10
 27.41.206.65
 27.41.207.119
 27.41.207.91
@@ -29040,6 +29059,7 @@
 27.41.216.113
 27.41.216.36
 27.41.217.123
+27.41.218.173
 27.41.218.58
 27.41.221.46
 27.41.221.47
@@ -30037,6 +30057,7 @@
 36.107.255.130
 36.107.255.2
 36.107.255.65
+36.107.26.47
 36.107.27.118
 36.107.27.130
 36.107.27.144
@@ -30929,6 +30950,8 @@
 3q9h.timeisletitgo.ru
 3rdperson.ml
 3rdsectorsupportafrica.org
+3rdwtalab.com
+3rrnyw.am.files.1drv.com
 3rytghjhkss.cf
 3s16g.club
 3s652.xyz
@@ -33610,6 +33633,7 @@
 45.95.168.86
 45.95.168.91
 45.95.168.92
+45.95.168.93
 45.95.168.97
 45.95.168.98
 45.95.169.2
@@ -36380,6 +36404,7 @@
 59.125.247.190
 59.126.102.144
 59.126.102.196
+59.126.107.159
 59.126.114.143
 59.126.118.122
 59.126.127.152
@@ -36525,6 +36550,7 @@
 59.55.253.105
 59.55.4.163
 59.55.93.179
+59.60.176.191
 59.60.176.59
 59.62.84.56
 59.7.40.82
@@ -36926,6 +36952,7 @@
 60.162.183.34
 60.162.184.125
 60.162.186.81
+60.162.189.109
 60.162.199.115
 60.162.252.89
 60.164.250.170
@@ -36941,6 +36968,7 @@
 60.176.106.143
 60.176.112.48
 60.176.170.184
+60.176.201.140
 60.176.83.203
 60.177.161.227
 60.177.164.150
@@ -38456,6 +38484,7 @@
 67.245.47.15
 67.48.180.168
 67.58.25.166
+67.59.204.70
 67.8.138.101
 67.85.21.190
 67.ip-167-114-2.net
@@ -41577,6 +41606,7 @@
 95.181.179.75
 95.181.198.153
 95.181.198.188
+95.188.80.21
 95.210.1.42
 95.211.94.234
 95.213.140.210
@@ -41737,6 +41767,7 @@
 97.92.102.106
 97.96.157.170
 97.96.178.75
+97.96.183.101
 97762.prohoster.biz
 9796360.com
 97world.com
@@ -41770,6 +41801,7 @@
 98.159.110.251
 98.159.110.252
 98.159.110.39
+98.159.110.62
 98.159.110.79
 98.159.99.11
 98.159.99.210
@@ -46345,7 +46377,6 @@ arkan.cv.ua
 arkanddove.com
 arkangelpetsitting.co.uk
 arkapub.com
-arkatiss.com
 arkei.foxovsky.ru
 arkgaterp.com
 arkgroup.org
@@ -50411,7 +50442,6 @@ blackphoenixdigital.co
 blackpoolaloud.org.uk
 blackrhinofl.com
 blackriverdistribution.com
-blackrockbible.com
 blackrockgl.com
 blackroseconcepts.co.za
 blackscholar.org
@@ -55487,6 +55517,7 @@ cobanmustafapasavakfi.com
 cobblesoft.com
 cobbshomecare.com
 cobec.cl
+cobhamplasteringservices.co.uk
 cocarda.pl
 coccorese.com
 cocdatstudio.com
@@ -56582,6 +56613,7 @@ coverking.es
 covertropes.com
 covid-19duyurularim.com
 covid-saglikbakanligi.com
+covid19map.digital
 covidinternationalspreadsoomuchtruehead.duckdns.org
 covitourperu.com
 covm.icom.com.br
@@ -59908,7 +59940,6 @@ ding-dong.nu
 dingbangassociates.com
 dingdongdogtraining.com
 dingesgang.com
-dinghaomcc.com
 dingshengjs.com
 dinhdaiphat.com
 dinhlangdieukhac.net
@@ -61667,6 +61698,7 @@ dutchwebspace.com
 dutongaref.com
 dutraspedras.com.br
 duttonandsherman.com
+duulang.com
 duvaldigital.com
 duwon.net
 duwyernsdjfnssla.com
@@ -62704,7 +62736,6 @@ el-behiry.com
 el-safa.com
 elaboratest.com
 elaboro.pl
-elabugablog.ru
 elahris.org
 elaluminio.es
 elancer.me
@@ -65513,6 +65544,7 @@ ferka.com.tr
 ferkatech.com
 fermamakina.com
 fermatainc.com
+ferme-imaan.com
 fermeduvey.fr
 fermo.com.ua
 fernandaeberhardt.com.br
@@ -65576,6 +65608,7 @@ feyeze.5gbfree.com
 ff-hoetting.org
 ff20021002.com
 ff52.ru
+ffacscs.ug
 ffastrans.com
 ffb.awebsiteonline.com
 ffbr.org.ua
@@ -65590,6 +65623,7 @@ fft.cl
 ffupdateloader.com
 ffv322.ru
 ffv32223.ru
+ffvgdsv.ug
 fg24.am
 fgatti.it
 fggfa.us
@@ -65730,6 +65764,7 @@ filehost.su
 filelo04.top
 filelo06.top
 fileloader.netx.host
+fileloads.xyz
 filels04.top
 filemanager.free.fr
 filemanager.ovh.vpsme.ga
@@ -67125,6 +67160,7 @@ fstyline.xyz
 fsuiujosq.cf
 fsx050932.gz01.bdysite.com
 ft.bem.unram.ac.id
+ft23fpcu5yabw2.com
 ftanom.cf
 fte.m.dodo52.com
 fteol-ukit.ac.id
@@ -67866,6 +67902,7 @@ gatineauremorquage.com
 gatorblinds.info
 gatorusa.com
 gatsios-distillery.com
+gattiri.net
 gatubutu.org
 gatyuik.com
 gauashramseva.com
@@ -75392,6 +75429,7 @@ j13.biz
 j19nl66isabella.city
 j2.siv.cc
 j22e.ga
+j5sfioue15kxqs.com
 j610033.myjino.ru
 j9050082.bget.ru
 j92876dn.beget.tech
@@ -82165,6 +82203,7 @@ madametood.com
 madancpa.com
 madangfood.com
 madania.ca
+madarc.com.au
 madarings.com
 madarpoligrafia.pl
 madartracking.com
@@ -89430,6 +89469,7 @@ nrce-saudia.com
 nrff.me
 nrgeotecnia.com
 nrnreklam.com
+nrs2wjke0t2vz9.com
 nrshmnt.com
 nrteam.hu
 ns-hd.co.jp
@@ -91138,7 +91178,6 @@ owxb.com
 ox-gaming.net
 oxaggebrer.com
 oxatools.de
-oxcssa.org.uk
 oxenta.com
 oxfordcouriers.co.nz
 oxfordseniors.in
@@ -91831,7 +91870,6 @@ patriciayork.gq
 patricioungaro.be
 patrickamoy.com
 patrickblay.com
-patrickchan-hk.net
 patrickdhampton.com
 patrickedwardfallon.com
 patrickfranco.com
@@ -92387,6 +92425,7 @@ petercottontailmovie.com
 peterdslaughter.com
 peterducato.com
 peterfabri.co.uk
+peterfunch.com
 petergorog.info
 peterk.ca
 peterlonard.com
@@ -93066,6 +93105,7 @@ plascomcor.com.br
 plascosales.biz
 plascosales.org
 plasdo.com
+plasmacam.com
 plasterambalaj.com
 plastic-wiremesh.com
 plasticdies.net
@@ -93965,7 +94005,6 @@ prihlaska.sagitta.cz
 priintzone.com
 prijzen-dakkapel.nl
 prim.sydneyrobbins.net
-primaart.vn
 primagamahomeschool.com
 primainnaparthotel.com
 primakaryasteel.com
@@ -96483,6 +96522,7 @@ redsnowball.com
 redsseammgt.com
 redtek0.com
 redtv.top
+redvalidator.com
 redvelvetpatisserie.co.uk
 redwing.com.eg
 redwingdemo.dukaafrica.com
@@ -98918,6 +98958,7 @@ sanmuabannhadat.vn
 sannangkythuatgiare.com
 sannarcisozambales.com
 sannicoloimmobiliare.com
+sannyjewelry.ir
 sannyny.com
 sano.ir
 sanperseguros.com.br
@@ -101899,7 +101940,6 @@ smartoria.it
 smartparkinguae.com
 smartpdfreader.com
 smartphonexyz.com
-smartpresence.id
 smartpromo.top
 smartproperty-transpark.com
 smartr.online
@@ -102603,6 +102643,7 @@ sospkarachi.org.pk
 sosqom.ir
 sosseguranca.com.br
 sosw.plonsk.pl
+sosyal-destek.net
 sosyaldestekcom.ga
 sosyaldestekodemesi.com
 sosyalfenomen.xyz
@@ -104411,6 +104452,7 @@ sukaponic.com
 sukhachova.com
 sukhiprasadsatyanarayan.com
 sukhumvithomes.com
+sukids.com.vn
 sukien.aloduhoc.com
 sukienso1.net
 sukienthienduc.com
@@ -107133,6 +107175,7 @@ thelearningspace.com
 thelegalland.com
 thelegobatman.com
 thelendgenuity.com
+thelenspost.com
 thelexingtonclubny.com
 thelingfieldcentre.org.uk
 thelinkprod.fr
@@ -109315,6 +109358,7 @@ turkmega.net
 turkmenulkam.ir
 turksohbet.biz
 turkteknik.kurumsal.shop
+turktelekom-bilgilendirme.com
 turktv2.xyz
 turkuazhavacilik.com
 turmash.ru
@@ -109671,7 +109715,6 @@ ucucaust.com
 ucuzastropay.com.tr
 ucuzbitcoinal.com
 ucuzgezi.info
-ucuztercume.com
 ucuzwebtasarimi.xyz
 udarmozgu.com.pl
 udbay.vn
@@ -109744,6 +109787,7 @@ uicphipsi.com
 uidp.org
 uilomiku.eu
 uimepij.mepi-nigeria.org.ng
+uinames.org
 uincy.cn
 uio.heroherohero.info
 uio.hognoob.se
@@ -114519,6 +114563,7 @@ xn--2017-94druacfmy0a.xn--p1acf
 xn--20gb-hediyefrsati-nvc.com
 xn--20gb-tanmla-kullan-l0c.com
 xn--20gbnternethedyendowland-tvdk.com
+xn--20gbnternetim-69b.com
 xn--21-6kctkfm4bkho0k.xn--p1ai
 xn--21-dlc6asabnik.xn--p1ai
 xn--22-xlchp9ao.xn--p1ai
