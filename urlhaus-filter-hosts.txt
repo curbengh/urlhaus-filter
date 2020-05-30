@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Fri, 29 May 2020 12:10:23 UTC
+# Updated: Sat, 30 May 2020 00:09:52 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -73,6 +73,7 @@
 0.0.0.0 0xbitconnect.co
 0.0.0.0 0xff.pl
 0.0.0.0 1-stomatolog.ru
+0.0.0.0 1-university.com
 0.0.0.0 1.adborod.z8.ru
 0.0.0.0 1.almaz13.z8.ru
 0.0.0.0 1.bwtrans.z8.ru
@@ -9879,7 +9880,6 @@
 0.0.0.0 bjenkins.webview.consulting
 0.0.0.0 bjenzer.com
 0.0.0.0 bjerkeng.net
-0.0.0.0 bjgongyi.com
 0.0.0.0 bjgsm.org.in
 0.0.0.0 bjhfys.com
 0.0.0.0 bjjgo.com
@@ -13069,6 +13069,7 @@
 0.0.0.0 causasdeamor.com
 0.0.0.0 causeandfx.com
 0.0.0.0 causeforalife.org
+0.0.0.0 causticfrida.com
 0.0.0.0 cauumdy.gq
 0.0.0.0 cavallieroficial.life
 0.0.0.0 cavalluindistella.com
@@ -14791,10 +14792,14 @@
 0.0.0.0 clou-ud.com
 0.0.0.0 cloubbo.com
 0.0.0.0 cloud-server-updater10.co.za
+0.0.0.0 cloud-server-updater11.co.za
 0.0.0.0 cloud-server-updater2.co.za
 0.0.0.0 cloud-server-updater3.co.za
 0.0.0.0 cloud-server-updater4.co.za
+0.0.0.0 cloud-server-updater5.co.za
 0.0.0.0 cloud-server-updater7.co.za
+0.0.0.0 cloud-server-updater8.co.za
+0.0.0.0 cloud-server-updater9.co.za
 0.0.0.0 cloud-storage-service.com
 0.0.0.0 cloud-store-cdn.com
 0.0.0.0 cloud.albertgrafica.com.br
@@ -18184,7 +18189,6 @@
 0.0.0.0 delsun.com.tw
 0.0.0.0 delta.com.gt
 0.0.0.0 deltaambulances.fr
-0.0.0.0 deltaconcretos.com.br
 0.0.0.0 deltacontrol.net.pk
 0.0.0.0 deltaenergysystems.co.ke
 0.0.0.0 deltaengineering.users31.interdns.co.uk
@@ -22856,6 +22860,7 @@
 0.0.0.0 emto.eu
 0.0.0.0 emu4ios.biz
 0.0.0.0 emulsiflex.com
+0.0.0.0 emumovies.com
 0.0.0.0 emwizard.com
 0.0.0.0 emyrs-eg.lehmergroup.com
 0.0.0.0 en-cnd.one-drive-ms.com
@@ -24523,7 +24528,6 @@
 0.0.0.0 faizts.com
 0.0.0.0 fajr.com
 0.0.0.0 fakeface.sakura.ne.jp
-0.0.0.0 fakeindustries.org
 0.0.0.0 fakenaeb.ru
 0.0.0.0 fakers.co.jp
 0.0.0.0 fakhria.com
@@ -25223,7 +25227,6 @@
 0.0.0.0 fibonaccistrategicmanagement.com
 0.0.0.0 fibraconisa.com
 0.0.0.0 fibraoptica.ro
-0.0.0.0 fibrassolpiscinas.com.br
 0.0.0.0 fibreteclanka.com
 0.0.0.0 fibromapp.com
 0.0.0.0 fibropaysdaix.fr
@@ -25408,7 +25411,6 @@
 0.0.0.0 finabisope.host
 0.0.0.0 finacore.com
 0.0.0.0 finadev-groupe.com
-0.0.0.0 finagri.it
 0.0.0.0 finalblogger.com
 0.0.0.0 finalchace.com
 0.0.0.0 finallykellys.com
@@ -25575,6 +25577,7 @@
 0.0.0.0 firsthedgecapital.com
 0.0.0.0 firstimpress.dk
 0.0.0.0 firstlunch.ru
+0.0.0.0 firstmathacademy.us
 0.0.0.0 firstmnd.com
 0.0.0.0 firstmutualholdings.com
 0.0.0.0 firstofbanks.com
@@ -26092,6 +26095,7 @@
 0.0.0.0 fopstudios.com
 0.0.0.0 for-rus.ru
 0.0.0.0 for-vill.ru
+0.0.0.0 for.ge
 0.0.0.0 forads.ae
 0.0.0.0 forage.restaurant
 0.0.0.0 forbesriley.net
@@ -28779,6 +28783,7 @@
 0.0.0.0 goodfood.co.jp
 0.0.0.0 goodfoot.net
 0.0.0.0 goodfreightthailand.com
+0.0.0.0 goodhandsappliances.com
 0.0.0.0 goodheadlines.org
 0.0.0.0 goodhealth.tunnlynn.me
 0.0.0.0 goodhealthpharmacy.org
@@ -30647,6 +30652,7 @@
 0.0.0.0 heatherdawn.com
 0.0.0.0 heathmarshallhorsemanship.com
 0.0.0.0 heathrowairport.taxi
+0.0.0.0 heatingcareltd.com
 0.0.0.0 heatingkentucky.com
 0.0.0.0 heatlyt.site
 0.0.0.0 heatsocial.cz
@@ -30892,7 +30898,6 @@
 0.0.0.0 herbliebermancommunityleadershipaward.org
 0.0.0.0 hercaimiran.folivb.com
 0.0.0.0 hercrush.com
-0.0.0.0 herdem.xyz
 0.0.0.0 herdispala.com
 0.0.0.0 hereaboutsbd.com
 0.0.0.0 heredity.cn
@@ -33546,7 +33551,6 @@
 0.0.0.0 inewszona.ru
 0.0.0.0 inexlogistic.com
 0.0.0.0 inexpress.com.vn
-0.0.0.0 ineyes360.com
 0.0.0.0 inf-ka.ru
 0.0.0.0 inf.awwthings.com
 0.0.0.0 inf.ibiruba.ifrs.edu.br
@@ -33833,6 +33837,7 @@
 0.0.0.0 inpart-auto.ru
 0.0.0.0 inpiniti.com
 0.0.0.0 inpolpe.com
+0.0.0.0 inps-it.top
 0.0.0.0 inputmedia.no
 0.0.0.0 inquireexpert.com
 0.0.0.0 inquiry.space
@@ -38916,6 +38921,7 @@
 0.0.0.0 kwiatekmateusz.000webhostapp.com
 0.0.0.0 kwikri.com
 0.0.0.0 kwingaliz.co.ke
+0.0.0.0 kwjqbk2fw9p8q5y.com
 0.0.0.0 kxen.de
 0.0.0.0 kxmgf.cn
 0.0.0.0 ky663.com
@@ -44745,6 +44751,7 @@
 0.0.0.0 michelpascal.tv
 0.0.0.0 michelsoares.com.br
 0.0.0.0 michielbrink.nl
+0.0.0.0 michiganbusiness.us
 0.0.0.0 michiganmastereltiempo.com
 0.0.0.0 michiganpppp.com
 0.0.0.0 michiko.vn
@@ -46158,6 +46165,7 @@
 0.0.0.0 mouaysha.com
 0.0.0.0 mounicmadiraju.com
 0.0.0.0 mountainbike-touren-pfaelzerwald.de
+0.0.0.0 mountaineerhomeinspection.com
 0.0.0.0 mountainfilm.sc4a.org
 0.0.0.0 mountainliondesign-test.website
 0.0.0.0 mountainmcc.com
@@ -47837,6 +47845,7 @@
 0.0.0.0 nepalhiking.com
 0.0.0.0 nepaliglobal.com
 0.0.0.0 nepalimixnews.com
+0.0.0.0 nepalsurvey.com
 0.0.0.0 nepalwave.sagardevkota.com.np
 0.0.0.0 nepaorganic.com
 0.0.0.0 nepapiano.com
@@ -52109,7 +52118,6 @@
 0.0.0.0 peterdslaughter.com
 0.0.0.0 peterducato.com
 0.0.0.0 peterfabri.co.uk
-0.0.0.0 peterfunch.com
 0.0.0.0 petergorog.info
 0.0.0.0 peterk.ca
 0.0.0.0 peterlonard.com
@@ -52576,7 +52584,6 @@
 0.0.0.0 pinkshopeg.com
 0.0.0.0 pinksofa.making-games.net
 0.0.0.0 pinline.site
-0.0.0.0 pinmicro.com
 0.0.0.0 pinmova.xyz
 0.0.0.0 pinnacleclinic.com
 0.0.0.0 pinnacleenergydrink.pinnacleholdingssouthafrica.co.za
@@ -54121,7 +54128,6 @@
 0.0.0.0 promolatinconferences.com
 0.0.0.0 promomitsubishitermurah.net
 0.0.0.0 promonoble.com
-0.0.0.0 promootzie.nl
 0.0.0.0 promoplast.ro
 0.0.0.0 promoruleta.com
 0.0.0.0 promos.cometracingleathers.com
@@ -56710,7 +56716,9 @@
 0.0.0.0 reveocean.org
 0.0.0.0 reveron-one.ru
 0.0.0.0 reversecore.com
+0.0.0.0 reverseforrealtors.com
 0.0.0.0 reversemusicgroup.com
+0.0.0.0 reverserett.org
 0.0.0.0 revesevents.com
 0.0.0.0 revestimientosmac.com
 0.0.0.0 review6.com
@@ -60436,6 +60444,7 @@
 0.0.0.0 shgshgsndynationalindustrialandgoogledns.duckdns.org
 0.0.0.0 shhai.org
 0.0.0.0 shhdoc.com
+0.0.0.0 shi-castfam.com
 0.0.0.0 shibata-pin.com
 0.0.0.0 shibei.pro
 0.0.0.0 shibsazan.com
@@ -61685,7 +61694,6 @@
 0.0.0.0 smartparkinguae.com
 0.0.0.0 smartpdfreader.com
 0.0.0.0 smartphonexyz.com
-0.0.0.0 smartpresence.id
 0.0.0.0 smartpromo.top
 0.0.0.0 smartproperty-transpark.com
 0.0.0.0 smartr.online
@@ -62171,6 +62179,7 @@
 0.0.0.0 solimur.com
 0.0.0.0 solini.bharatbioscience.in
 0.0.0.0 solinklimited.com
+0.0.0.0 solisci.pl
 0.0.0.0 solitudestays.com
 0.0.0.0 solivagantfoodie.com
 0.0.0.0 solklart.fi
@@ -62377,6 +62386,7 @@
 0.0.0.0 sos-debouchage-dumeny.com
 0.0.0.0 sos-micro.net
 0.0.0.0 sos-secretariat.be
+0.0.0.0 sos-sv.com
 0.0.0.0 sos.landmarktest.site
 0.0.0.0 sos03.lt
 0.0.0.0 sosacres.com
@@ -62926,6 +62936,7 @@
 0.0.0.0 sqwdjy.com
 0.0.0.0 sqzin.cindydonovan.com
 0.0.0.0 sr-design.com
+0.0.0.0 sr.km-americanschool.com
 0.0.0.0 sr.majia.pw
 0.0.0.0 sr5.webplanbd.xyz
 0.0.0.0 sraircon.co.za
@@ -65221,7 +65232,6 @@
 0.0.0.0 tampacigarroller.com
 0.0.0.0 tamparoofing.com
 0.0.0.0 tampaseo.com
-0.0.0.0 tampilbeda.id
 0.0.0.0 tamsu.website
 0.0.0.0 tamsuamy.com
 0.0.0.0 tamsys.net
@@ -65893,6 +65903,7 @@
 0.0.0.0 tekky.net
 0.0.0.0 tekmalogy.xyz
 0.0.0.0 tekneturubogaz.com
+0.0.0.0 teknic.cl
 0.0.0.0 teknik-fisika.or.id
 0.0.0.0 teknik.unwiku.ac.id
 0.0.0.0 teknikakuten.com
@@ -66265,6 +66276,7 @@
 0.0.0.0 test.mark-lab.biz
 0.0.0.0 test.mattica.com
 0.0.0.0 test.medic-grand.ru
+0.0.0.0 test.mineralog.com
 0.0.0.0 test.mira-mila.ru
 0.0.0.0 test.mmsu.edu.ph
 0.0.0.0 test.mohamedbenslimen.com
@@ -71618,6 +71630,7 @@
 0.0.0.0 vitalityandlongevitymedicine.com
 0.0.0.0 vitallita.com
 0.0.0.0 vitalmania.eu
+0.0.0.0 vitaltea.co.nz
 0.0.0.0 vitamac.net
 0.0.0.0 vitamia.com.vn
 0.0.0.0 vitamin-mineral.info
@@ -71790,7 +71803,6 @@
 0.0.0.0 vnmax.net
 0.0.0.0 vnpt-telecom.com
 0.0.0.0 vnseiko.com.vn
-0.0.0.0 vnsmat.com
 0.0.0.0 vnsmi.ru
 0.0.0.0 vnswebtech.com
 0.0.0.0 vnt.website
@@ -72321,6 +72333,7 @@
 0.0.0.0 watchdogdns.duckdns.org
 0.0.0.0 watchdogdns.duckdns.orgwatchdogdns.duckdns.org
 0.0.0.0 watchesofswitzerland.eu
+0.0.0.0 watchesprime.com
 0.0.0.0 watchitvson.com
 0.0.0.0 watchlifematters.com
 0.0.0.0 watchlivehdtv24.xyz

@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Fri, 29 May 2020 12:10:23 UTC
+# Updated: Sat, 30 May 2020 00:09:52 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -73,6 +73,7 @@
 0xbitconnect.co
 0xff.pl
 1-stomatolog.ru
+1-university.com
 1.1.150.122
 1.1.226.93
 1.10.133.23
@@ -1506,6 +1507,7 @@
 106.105.83.248
 106.107.222.124
 106.107.222.231
+106.107.222.247
 106.110.100.87
 106.110.101.179
 106.110.101.80
@@ -3141,6 +3143,7 @@
 112.156.36.178
 112.160.193.57
 112.160.56.81
+112.160.86.128
 112.161.58.165
 112.162.239.69
 112.163.142.40
@@ -4025,6 +4028,7 @@
 114.234.146.250
 114.234.148.134
 114.234.149.222
+114.234.150.134
 114.234.150.187
 114.234.150.85
 114.234.151.102
@@ -4070,6 +4074,7 @@
 114.234.252.158
 114.234.252.34
 114.234.255.135
+114.234.26.254
 114.234.27.166
 114.234.30.154
 114.234.33.103
@@ -4830,6 +4835,7 @@
 115.225.222.38
 115.225.23.104
 115.226.178.184
+115.226.76.4
 115.226.94.217
 115.229.141.76
 115.229.200.2
@@ -7272,6 +7278,7 @@
 117.60.21.152
 117.60.21.158
 117.60.24.3
+117.60.25.22
 117.60.26.12
 117.60.26.146
 117.60.26.184
@@ -7757,6 +7764,7 @@
 119.159.224.154
 119.164.174.232
 119.165.179.120
+119.18.38.144
 119.183.55.211
 119.188.246.240
 119.188.246.88
@@ -12003,6 +12011,7 @@
 140.224.61.122
 140.227.27.252
 140.237.249.106
+140.237.249.222
 140.237.255.239
 140.240.138.22
 140.82.24.184
@@ -13112,6 +13121,7 @@
 159.203.169.183
 159.203.17.139
 159.203.170.126
+159.203.176.150
 159.203.178.250
 159.203.18.160
 159.203.181.215
@@ -13784,6 +13794,7 @@
 162.212.115.238
 162.212.115.243
 162.212.115.247
+162.212.115.248
 162.212.115.249
 162.212.115.251
 162.212.115.253
@@ -15252,6 +15263,7 @@
 172.36.28.39
 172.36.28.44
 172.36.28.92
+172.36.29.113
 172.36.29.115
 172.36.29.177
 172.36.29.178
@@ -15373,6 +15385,7 @@
 172.36.37.175
 172.36.37.247
 172.36.37.253
+172.36.37.3
 172.36.37.54
 172.36.37.96
 172.36.38.100
@@ -15601,6 +15614,7 @@
 172.36.50.252
 172.36.50.52
 172.36.50.54
+172.36.50.68
 172.36.50.75
 172.36.51.10
 172.36.51.127
@@ -15635,6 +15649,7 @@
 172.36.53.13
 172.36.53.134
 172.36.53.143
+172.36.53.16
 172.36.53.183
 172.36.53.196
 172.36.53.200
@@ -15843,6 +15858,7 @@
 172.36.9.94
 172.36.9.98
 172.39.0.221
+172.39.0.31
 172.39.0.96
 172.39.1.110
 172.39.1.124
@@ -15938,6 +15954,7 @@
 172.39.22.94
 172.39.23.143
 172.39.23.146
+172.39.23.149
 172.39.23.157
 172.39.23.172
 172.39.23.203
@@ -15964,6 +15981,7 @@
 172.39.26.209
 172.39.26.235
 172.39.26.249
+172.39.26.43
 172.39.26.99
 172.39.27.113
 172.39.27.117
@@ -16799,6 +16817,7 @@
 174.48.14.129
 174.66.84.149
 174.81.209.75
+174.95.205.168
 174.99.206.76
 175.0.105.194
 175.0.122.1
@@ -17901,6 +17920,7 @@
 178.128.91.234
 178.128.91.253
 178.128.92.133
+178.128.96.6
 178.130.185.115
 178.131.32.65
 178.131.61.0
@@ -20711,6 +20731,7 @@
 183.130.5.41
 183.130.63.13
 183.130.71.167
+183.130.77.202
 183.134.150.14
 183.138.227.226
 183.142.125.35
@@ -22254,6 +22275,7 @@
 187.57.192.181
 187.57.74.40
 187.57.90.131
+187.58.28.139
 187.59.210.139
 187.62.179.28
 187.63.19.112
@@ -22970,6 +22992,7 @@
 191.223.149.240
 191.223.54.151
 191.23.102.58
+191.23.105.122
 191.23.48.141
 191.23.49.52
 191.23.63.73
@@ -23421,6 +23444,7 @@
 193.56.28.144
 193.56.28.185
 193.56.28.192
+193.56.28.230
 193.56.28.245
 193.56.28.30
 193.56.28.44
@@ -24049,6 +24073,7 @@
 199.83.203.104
 199.83.203.106
 199.83.203.108
+199.83.203.112
 199.83.203.114
 199.83.203.115
 199.83.203.117
@@ -26940,6 +26965,7 @@
 220.133.79.247
 220.133.82.243
 220.133.89.227
+220.133.96.81
 220.134.122.25
 220.134.131.74
 220.134.138.63
@@ -28113,6 +28139,7 @@
 222.209.214.79
 222.212.158.42
 222.213.221.254
+222.214.157.113
 222.215.50.156
 222.217.65.112
 222.218.212.241
@@ -29131,6 +29158,7 @@
 27.41.186.140
 27.41.187.108
 27.41.187.214
+27.41.187.70
 27.41.204.118
 27.41.204.37
 27.41.204.51
@@ -30364,6 +30392,7 @@
 36.33.141.45
 36.33.141.7
 36.33.173.243
+36.33.248.101
 36.33.248.102
 36.33.248.137
 36.33.248.14
@@ -30386,6 +30415,7 @@
 36.35.160.149
 36.35.160.168
 36.35.160.206
+36.35.160.211
 36.35.160.232
 36.35.160.240
 36.35.160.249
@@ -30787,6 +30817,7 @@
 37.48.125.107
 37.48.127.234
 37.48.92.134
+37.49.224.100
 37.49.224.132
 37.49.224.155
 37.49.225.137
@@ -30845,6 +30876,7 @@
 37.49.226.6
 37.49.226.60
 37.49.226.65
+37.49.226.73
 37.49.226.8
 37.49.226.99
 37.49.227.120
@@ -30936,6 +30968,7 @@
 37p.jp
 38.143.223.216
 38.39.192.14
+38.68.46.110
 38.68.49.16
 38.73.238.138
 38.84.132.162
@@ -34933,6 +34966,7 @@
 49.70.126.95
 49.70.127.10
 49.70.127.31
+49.70.127.96
 49.70.13.224
 49.70.131.189
 49.70.137.78
@@ -34986,6 +35020,7 @@
 49.70.25.73
 49.70.3.181
 49.70.3.75
+49.70.32.143
 49.70.32.182
 49.70.33.178
 49.70.34.12
@@ -36425,6 +36460,7 @@
 58.243.189.145
 58.243.189.248
 58.243.189.49
+58.243.19.196
 58.243.19.233
 58.243.190.117
 58.243.190.127
@@ -36449,6 +36485,7 @@
 58.255.190.204
 58.255.191.141
 58.255.191.220
+58.255.191.6
 58.255.191.91
 58.27.133.164
 58.40.122.158
@@ -36624,6 +36661,7 @@
 59.23.208.62
 59.23.235.149
 59.23.24.160
+59.23.253.228
 59.24.115.81
 59.24.69.58
 59.25.141.169
@@ -36664,6 +36702,7 @@
 59.51.207.113
 59.51.208.26
 59.51.209.44
+59.51.210.155
 59.51.210.69
 59.51.212.242
 59.53.135.53
@@ -37352,6 +37391,7 @@
 61.188.220.239
 61.188.221.147
 61.188.221.212
+61.19.155.181
 61.19.16.38
 61.2.0.170
 61.2.0.201
@@ -38296,6 +38336,7 @@
 64.227.12.136
 64.227.12.139
 64.227.122.45
+64.227.14.200
 64.227.17.38
 64.227.19.251
 64.227.2.168
@@ -40917,6 +40958,7 @@
 89.230.29.78
 89.235.98.60
 89.237.15.72
+89.237.68.128
 89.237.78.123
 89.238.181.79
 89.238.181.82
@@ -41943,6 +41985,7 @@
 98.159.110.39
 98.159.110.62
 98.159.110.69
+98.159.110.72
 98.159.110.79
 98.159.99.11
 98.159.99.210
@@ -50537,7 +50580,6 @@ bjdd.org
 bjenkins.webview.consulting
 bjenzer.com
 bjerkeng.net
-bjgongyi.com
 bjgsm.org.in
 bjhfys.com
 bjjgo.com
@@ -53727,6 +53769,7 @@ cauliflowernation.com
 causasdeamor.com
 causeandfx.com
 causeforalife.org
+causticfrida.com
 cauumdy.gq
 cavallieroficial.life
 cavalluindistella.com
@@ -55449,10 +55492,14 @@ clothingforbaby.com
 clou-ud.com
 cloubbo.com
 cloud-server-updater10.co.za
+cloud-server-updater11.co.za
 cloud-server-updater2.co.za
 cloud-server-updater3.co.za
 cloud-server-updater4.co.za
+cloud-server-updater5.co.za
 cloud-server-updater7.co.za
+cloud-server-updater8.co.za
+cloud-server-updater9.co.za
 cloud-storage-service.com
 cloud-store-cdn.com
 cloud.albertgrafica.com.br
@@ -58842,7 +58889,6 @@ delreyhotel.com.br
 delsun.com.tw
 delta.com.gt
 deltaambulances.fr
-deltaconcretos.com.br
 deltacontrol.net.pk
 deltaenergysystems.co.ke
 deltaengineering.users31.interdns.co.uk
@@ -63514,6 +63560,7 @@ emtlogistic.com
 emto.eu
 emu4ios.biz
 emulsiflex.com
+emumovies.com
 emwizard.com
 emyrs-eg.lehmergroup.com
 en-cnd.one-drive-ms.com
@@ -65181,7 +65228,6 @@ faivini.com
 faizts.com
 fajr.com
 fakeface.sakura.ne.jp
-fakeindustries.org
 fakenaeb.ru
 fakers.co.jp
 fakhria.com
@@ -65881,7 +65927,6 @@ fiberoptictestrentals.net
 fibonaccistrategicmanagement.com
 fibraconisa.com
 fibraoptica.ro
-fibrassolpiscinas.com.br
 fibreteclanka.com
 fibromapp.com
 fibropaysdaix.fr
@@ -66066,7 +66111,6 @@ fin18.org
 finabisope.host
 finacore.com
 finadev-groupe.com
-finagri.it
 finalblogger.com
 finalchace.com
 finallykellys.com
@@ -66233,6 +66277,7 @@ firsthack.pw
 firsthedgecapital.com
 firstimpress.dk
 firstlunch.ru
+firstmathacademy.us
 firstmnd.com
 firstmutualholdings.com
 firstofbanks.com
@@ -66750,6 +66795,7 @@ foozoop.com
 fopstudios.com
 for-rus.ru
 for-vill.ru
+for.ge
 forads.ae
 forage.restaurant
 forbesriley.net
@@ -69437,6 +69483,7 @@ goodearthlink.com
 goodfood.co.jp
 goodfoot.net
 goodfreightthailand.com
+goodhandsappliances.com
 goodheadlines.org
 goodhealth.tunnlynn.me
 goodhealthpharmacy.org
@@ -71305,6 +71352,7 @@ heartware.dk
 heatherdawn.com
 heathmarshallhorsemanship.com
 heathrowairport.taxi
+heatingcareltd.com
 heatingkentucky.com
 heatlyt.site
 heatsocial.cz
@@ -71550,7 +71598,6 @@ herbgardenhealth.com
 herbliebermancommunityleadershipaward.org
 hercaimiran.folivb.com
 hercrush.com
-herdem.xyz
 herdispala.com
 hereaboutsbd.com
 heredity.cn
@@ -74204,7 +74251,6 @@ inewsmvo.com
 inewszona.ru
 inexlogistic.com
 inexpress.com.vn
-ineyes360.com
 inf-ka.ru
 inf.awwthings.com
 inf.ibiruba.ifrs.edu.br
@@ -74491,6 +74537,7 @@ inpakpapier.nl
 inpart-auto.ru
 inpiniti.com
 inpolpe.com
+inps-it.top
 inputmedia.no
 inquireexpert.com
 inquiry.space
@@ -79574,6 +79621,7 @@ kwiaciarniastokrotka.com
 kwiatekmateusz.000webhostapp.com
 kwikri.com
 kwingaliz.co.ke
+kwjqbk2fw9p8q5y.com
 kxen.de
 kxmgf.cn
 ky663.com
@@ -85403,6 +85451,7 @@ michelletran.ca
 michelpascal.tv
 michelsoares.com.br
 michielbrink.nl
+michiganbusiness.us
 michiganmastereltiempo.com
 michiganpppp.com
 michiko.vn
@@ -86816,6 +86865,7 @@ mouas.xyz
 mouaysha.com
 mounicmadiraju.com
 mountainbike-touren-pfaelzerwald.de
+mountaineerhomeinspection.com
 mountainfilm.sc4a.org
 mountainliondesign-test.website
 mountainmcc.com
@@ -88495,6 +88545,7 @@ neovita.com
 nepalhiking.com
 nepaliglobal.com
 nepalimixnews.com
+nepalsurvey.com
 nepalwave.sagardevkota.com.np
 nepaorganic.com
 nepapiano.com
@@ -92767,7 +92818,6 @@ petercottontailmovie.com
 peterdslaughter.com
 peterducato.com
 peterfabri.co.uk
-peterfunch.com
 petergorog.info
 peterk.ca
 peterlonard.com
@@ -93234,7 +93284,6 @@ pinkpanda.pw
 pinkshopeg.com
 pinksofa.making-games.net
 pinline.site
-pinmicro.com
 pinmova.xyz
 pinnacleclinic.com
 pinnacleenergydrink.pinnacleholdingssouthafrica.co.za
@@ -94779,7 +94828,6 @@ promokonyara.ru
 promolatinconferences.com
 promomitsubishitermurah.net
 promonoble.com
-promootzie.nl
 promoplast.ro
 promoruleta.com
 promos.cometracingleathers.com
@@ -97368,7 +97416,9 @@ revenuehotelconsultant.com
 reveocean.org
 reveron-one.ru
 reversecore.com
+reverseforrealtors.com
 reversemusicgroup.com
+reverserett.org
 revesevents.com
 revestimientosmac.com
 review6.com
@@ -101094,6 +101144,7 @@ shgshgsndy6nationalindustrialgoogleklm.duckdns.org
 shgshgsndynationalindustrialandgoogledns.duckdns.org
 shhai.org
 shhdoc.com
+shi-castfam.com
 shibata-pin.com
 shibei.pro
 shibsazan.com
@@ -102343,7 +102394,6 @@ smartoria.it
 smartparkinguae.com
 smartpdfreader.com
 smartphonexyz.com
-smartpresence.id
 smartpromo.top
 smartproperty-transpark.com
 smartr.online
@@ -102829,6 +102879,7 @@ solidupdate.com
 solimur.com
 solini.bharatbioscience.in
 solinklimited.com
+solisci.pl
 solitudestays.com
 solivagantfoodie.com
 solklart.fi
@@ -103035,6 +103086,7 @@ sos-beautycare.com
 sos-debouchage-dumeny.com
 sos-micro.net
 sos-secretariat.be
+sos-sv.com
 sos.landmarktest.site
 sos03.lt
 sosacres.com
@@ -103584,6 +103636,7 @@ squirrelhouse.net
 sqwdjy.com
 sqzin.cindydonovan.com
 sr-design.com
+sr.km-americanschool.com
 sr.majia.pw
 sr5.webplanbd.xyz
 sraircon.co.za
@@ -105882,7 +105935,6 @@ tamoyun.web.tr
 tampacigarroller.com
 tamparoofing.com
 tampaseo.com
-tampilbeda.id
 tamsu.website
 tamsuamy.com
 tamsys.net
@@ -106554,6 +106606,7 @@ tekirmak.com.tr
 tekky.net
 tekmalogy.xyz
 tekneturubogaz.com
+teknic.cl
 teknik-fisika.or.id
 teknik.unwiku.ac.id
 teknikakuten.com
@@ -106926,6 +106979,7 @@ test.marina1.com.au
 test.mark-lab.biz
 test.mattica.com
 test.medic-grand.ru
+test.mineralog.com
 test.mira-mila.ru
 test.mmsu.edu.ph
 test.mohamedbenslimen.com
@@ -112279,6 +112333,7 @@ vitality.equivida.com
 vitalityandlongevitymedicine.com
 vitallita.com
 vitalmania.eu
+vitaltea.co.nz
 vitamac.net
 vitamia.com.vn
 vitamin-mineral.info
@@ -112451,7 +112506,6 @@ vnilla.com
 vnmax.net
 vnpt-telecom.com
 vnseiko.com.vn
-vnsmat.com
 vnsmi.ru
 vnswebtech.com
 vnt.website
@@ -112982,6 +113036,7 @@ watchchurchonline.com
 watchdogdns.duckdns.org
 watchdogdns.duckdns.orgwatchdogdns.duckdns.org
 watchesofswitzerland.eu
+watchesprime.com
 watchitvson.com
 watchlifematters.com
 watchlivehdtv24.xyz
