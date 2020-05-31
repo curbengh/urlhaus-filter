@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 30 May 2020 12:10:03 UTC
+# Updated: Sun, 31 May 2020 00:10:01 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -306,7 +306,6 @@
 0.0.0.0 1h19ga.bn.files.1drv.com
 0.0.0.0 1h1hlw.bn.files.1drv.com
 0.0.0.0 1h5ofqpfubd1b.com
-0.0.0.0 1haowan.cn
 0.0.0.0 1hpgaming.com
 0.0.0.0 1in10jamaica.com
 0.0.0.0 1jpg1host.net16.net
@@ -6635,7 +6634,6 @@
 0.0.0.0 asvadsoft.ru
 0.0.0.0 asvattha.com
 0.0.0.0 asvim.ru
-0.0.0.0 aswebdevelopers.com
 0.0.0.0 asxcs.club
 0.0.0.0 asxzb.xyz
 0.0.0.0 asxzs.club
@@ -8088,6 +8086,7 @@
 0.0.0.0 banquetessantamaria.com
 0.0.0.0 banquetservicesusa.com
 0.0.0.0 banquetshop.hu
+0.0.0.0 bans.nebulamc.org
 0.0.0.0 bansalstudycircle.com
 0.0.0.0 banshik.com
 0.0.0.0 bansuansornphet.com
@@ -9803,6 +9802,7 @@
 0.0.0.0 bitcolife.info
 0.0.0.0 bitcolony.io
 0.0.0.0 bitcomake.com
+0.0.0.0 bitcoroll.in
 0.0.0.0 bite-me.wz.cz
 0.0.0.0 bitefood.in
 0.0.0.0 bitels.uz
@@ -10852,6 +10852,7 @@
 0.0.0.0 bonjour-habitat.bzh
 0.0.0.0 bonjovijonqq.com
 0.0.0.0 bonjurparti.com
+0.0.0.0 bonker.xyz
 0.0.0.0 bonnevielab.com
 0.0.0.0 bonnieanddirk.com
 0.0.0.0 bonnyfashiontex.com
@@ -16174,7 +16175,6 @@
 0.0.0.0 coworking.vn
 0.0.0.0 coworkingaruja.com.br
 0.0.0.0 cowvpen2018.xyz
-0.0.0.0 cox-formenbau.de
 0.0.0.0 coyoshop.com
 0.0.0.0 cozinnta.com
 0.0.0.0 cozuare.cozuare.com
@@ -19105,7 +19105,6 @@
 0.0.0.0 dhm-mhn.com
 0.0.0.0 dhmegavision.com
 0.0.0.0 dhmkanagoza.com
-0.0.0.0 dhnonline.in
 0.0.0.0 dhoffmanfan.chat.ru
 0.0.0.0 dhonlin.5gbfree.com
 0.0.0.0 dhoulabeau.com
@@ -19274,7 +19273,6 @@
 0.0.0.0 dienlanhbachkhoak8.com
 0.0.0.0 dienlanhducthang.com
 0.0.0.0 dienlanhlehai.com
-0.0.0.0 dienlanhminhdang.vn
 0.0.0.0 dienlanhnguyenle.com
 0.0.0.0 dienlanhtayho.vn
 0.0.0.0 dienmaybepviet.com
@@ -30126,7 +30124,6 @@
 0.0.0.0 handaya.co
 0.0.0.0 handbag-heaven.co.uk
 0.0.0.0 handballradom.pl
-0.0.0.0 handballrek.com
 0.0.0.0 handbookforfairygodmothers.com
 0.0.0.0 handbuiltapps.com
 0.0.0.0 handcraftedhardwoodfurniture.com
@@ -32547,7 +32544,6 @@
 0.0.0.0 icbccaps.com
 0.0.0.0 icbg-iq.com
 0.0.0.0 icc.com.pe
-0.0.0.0 icc.org.af
 0.0.0.0 iccb.money
 0.0.0.0 icce-2018.org
 0.0.0.0 iccf-bg.com
@@ -35567,6 +35563,7 @@
 0.0.0.0 jesjaipur.com
 0.0.0.0 jesp.ieconom.kz
 0.0.0.0 jespositobuilders.com
+0.0.0.0 jessarkitchen.com
 0.0.0.0 jessebc.com
 0.0.0.0 jessecloudserver.xyz
 0.0.0.0 jessecom.top
@@ -37352,6 +37349,7 @@
 0.0.0.0 kemahasiswaan.unair.ac.id
 0.0.0.0 kemalerkol.net
 0.0.0.0 kemaster.kz
+0.0.0.0 kemco.or.kr
 0.0.0.0 kemencem.net
 0.0.0.0 kemeri.it
 0.0.0.0 kemilauminang.com
@@ -37635,7 +37633,6 @@
 0.0.0.0 khotanperfume.com
 0.0.0.0 khotawa.com
 0.0.0.0 khothietbivesinh24h.com
-0.0.0.0 khoztrip.ir
 0.0.0.0 khp89wc.com
 0.0.0.0 khpm.ir
 0.0.0.0 khrystyna-verkholiak.com
@@ -45890,7 +45887,6 @@
 0.0.0.0 mononet.lv
 0.0.0.0 monopeets.com
 0.0.0.0 monosite.ru
-0.0.0.0 monowall.com.au
 0.0.0.0 monrottweiler.fr
 0.0.0.0 monset.it
 0.0.0.0 monsieur-cactus.com
@@ -50100,7 +50096,6 @@
 0.0.0.0 onedrivenet.xyz
 0.0.0.0 oneesidegame5.co.uk
 0.0.0.0 oneexpo.ro
-0.0.0.0 onegreen.hk
 0.0.0.0 onehourbids.com
 0.0.0.0 oneilgordonhospitalityconsultant.com
 0.0.0.0 oneindia.biz
@@ -52298,6 +52293,7 @@
 0.0.0.0 phillipjohnson.co.uk
 0.0.0.0 philomenabar.com.br
 0.0.0.0 philpaisley.com
+0.0.0.0 phimhdonline.tv
 0.0.0.0 phimmoinhat.online
 0.0.0.0 phimphot.tk
 0.0.0.0 phjgas.ug
@@ -54466,7 +54462,6 @@
 0.0.0.0 publisam.com
 0.0.0.0 publisex.cl
 0.0.0.0 publixitalia.com
-0.0.0.0 pubpush.com
 0.0.0.0 puchdresult.co.in
 0.0.0.0 puchovsky.sk
 0.0.0.0 pud.de
@@ -56408,7 +56403,6 @@
 0.0.0.0 remas-tr.com
 0.0.0.0 remavto66.ru
 0.0.0.0 remax.talkdrawer.com
-0.0.0.0 remaxrise.com
 0.0.0.0 remaza.5gbfree.com
 0.0.0.0 rembulanautoshow.com
 0.0.0.0 remcogold.com
@@ -62180,7 +62174,6 @@
 0.0.0.0 solimur.com
 0.0.0.0 solini.bharatbioscience.in
 0.0.0.0 solinklimited.com
-0.0.0.0 solisci.pl
 0.0.0.0 solitudestays.com
 0.0.0.0 solivagantfoodie.com
 0.0.0.0 solklart.fi
