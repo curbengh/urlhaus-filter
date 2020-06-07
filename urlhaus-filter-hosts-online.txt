@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sat, 06 Jun 2020 12:10:02 UTC
+# Updated: Sun, 07 Jun 2020 00:09:57 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -22,17 +22,15 @@
 0.0.0.0 acteon.com.ar
 0.0.0.0 activecost.com.au
 0.0.0.0 agenziabalestri.it
-0.0.0.0 agsir.com
 0.0.0.0 aite.me
 0.0.0.0 al-wahd.com
-0.0.0.0 alayoup.net
-0.0.0.0 alaziz.in
 0.0.0.0 alba1004.co.kr
 0.0.0.0 algorithmshargh.com
 0.0.0.0 allloveseries.com
 0.0.0.0 alohasoftware.net
 0.0.0.0 alphaconsumer.net
 0.0.0.0 am-concepts.ca
+0.0.0.0 amatheakids.com
 0.0.0.0 amd.alibuf.com
 0.0.0.0 amemarine.co.th
 0.0.0.0 americanrange.com
@@ -53,7 +51,6 @@
 0.0.0.0 areejquran.com
 0.0.0.0 arhomes2.com
 0.0.0.0 askarindo.or.id
-0.0.0.0 asmc.ugal.ro
 0.0.0.0 atfile.com
 0.0.0.0 attach.66rpg.com
 0.0.0.0 atteuqpotentialunlimited.com
@@ -62,6 +59,7 @@
 0.0.0.0 automarsel.pl
 0.0.0.0 azmeasurement.com
 0.0.0.0 azureautomation.co.uk
+0.0.0.0 azzd.co.kr
 0.0.0.0 babaroadways.in
 0.0.0.0 bamakobleach.free.fr
 0.0.0.0 bangkok-orchids.com
@@ -94,6 +92,7 @@
 0.0.0.0 bpo.correct.go.th
 0.0.0.0 brewmethods.com
 0.0.0.0 bringthemlrd.ru
+0.0.0.0 brokacpferpis.ml
 0.0.0.0 buian.com
 0.0.0.0 buigiaphat.com.vn
 0.0.0.0 c.vvvvvvvvv.ga
@@ -144,10 +143,10 @@
 0.0.0.0 coffeesupplies.com
 0.0.0.0 colegiovirtualonline.com
 0.0.0.0 collegethinking.com
+0.0.0.0 colourcreative.co.za
 0.0.0.0 complan.hu
 0.0.0.0 complanbt.hu
 0.0.0.0 completeshs.com
-0.0.0.0 computersblogfromus32.top
 0.0.0.0 comtechadsl.com
 0.0.0.0 config.kuaisousou.top
 0.0.0.0 constandarod.com
@@ -206,7 +205,6 @@
 0.0.0.0 digitaldog.de
 0.0.0.0 dingowebsites.com
 0.0.0.0 ditec.com.my
-0.0.0.0 divinevacations.in
 0.0.0.0 djmixers.co
 0.0.0.0 dkoo11.com
 0.0.0.0 dkw-engineering.net
@@ -228,10 +226,9 @@
 0.0.0.0 doostansocks.ir
 0.0.0.0 doransky.info
 0.0.0.0 dosame.com
-0.0.0.0 down.ancamera.co.kr
 0.0.0.0 down.haote.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.pdflist.cqhbkjzx.com
+0.0.0.0 down.startools.co.kr
 0.0.0.0 down.upzxt.com
 0.0.0.0 down.webbora.com
 0.0.0.0 down.xrpdf.com
@@ -326,13 +323,14 @@
 0.0.0.0 gardeniabakery.com
 0.0.0.0 garenanow.myvnc.com
 0.0.0.0 garenanow4.myvnc.com
+0.0.0.0 gasfer.ru
 0.0.0.0 gateway-heide.de
 0.0.0.0 geoinformatics.uz
 0.0.0.0 getvideoplay.com
 0.0.0.0 gfc-corp.com
 0.0.0.0 ghislain.dartois.pagesperso-orange.fr
 0.0.0.0 ghwls44.gabia.io
-0.0.0.0 gimscompany.com
+0.0.0.0 gigatechsol.com
 0.0.0.0 glitzygal.net
 0.0.0.0 global.bitmex.com.de
 0.0.0.0 globaleuropeans.com
@@ -386,7 +384,7 @@
 0.0.0.0 instek.no
 0.0.0.0 intersel-idf.org
 0.0.0.0 iremart.es
-0.0.0.0 ishovn.com
+0.0.0.0 irequestyoutopleaseadviseonthepayment.duckdns.org
 0.0.0.0 isso.ps
 0.0.0.0 itd.m.dodo52.com
 0.0.0.0 ittehad-electric.com
@@ -418,6 +416,7 @@
 0.0.0.0 k3.etfiber.net
 0.0.0.0 kachsurf.mylftv.com
 0.0.0.0 kamasu11.cafe24.com
+0.0.0.0 kankalarnetwork.duckdns.org
 0.0.0.0 kanok.co.th
 0.0.0.0 kar.big-pro.com
 0.0.0.0 karavantekstil.com
@@ -433,6 +432,7 @@
 0.0.0.0 kmcgroup.co.in
 0.0.0.0 knightsbridgeenergy.com.ng
 0.0.0.0 koppemotta.com.br
+0.0.0.0 krazyfoxx9.xyz
 0.0.0.0 kronenfelddesigns.com
 0.0.0.0 kuensterei.de
 0.0.0.0 kupaliskohs.sk
@@ -537,7 +537,6 @@
 0.0.0.0 mteng.mmj7.com
 0.0.0.0 mtfelektroteknik.com
 0.0.0.0 mueblesjcp.cl
-0.0.0.0 mutec.jp
 0.0.0.0 mv360.net
 0.0.0.0 mvb.kz
 0.0.0.0 mxpiqw.am.files.1drv.com
@@ -585,7 +584,6 @@
 0.0.0.0 obseques-conseils.com
 0.0.0.0 ogee2020.webredirect.org
 0.0.0.0 ogglededibl.at
-0.0.0.0 ohamburguer.com.br
 0.0.0.0 ohe.ie
 0.0.0.0 ohsewgorgeous.co.uk
 0.0.0.0 oknoplastik.sk
@@ -625,7 +623,6 @@
 0.0.0.0 patpardini.com
 0.0.0.0 pawel-sikora.pl
 0.0.0.0 pcginsure.com
-0.0.0.0 pcsoori.com
 0.0.0.0 pdslhk.com
 0.0.0.0 pedidoslalacteo.com.ar
 0.0.0.0 pedrozaasesores.com
@@ -641,6 +638,7 @@
 0.0.0.0 pinnaclepropertysl.com
 0.0.0.0 piton.tech
 0.0.0.0 plentv.com
+0.0.0.0 ponto50.com.br
 0.0.0.0 ppl.ac.id
 0.0.0.0 pracoo.com
 0.0.0.0 pranaplanet.com
@@ -654,11 +652,11 @@
 0.0.0.0 pwscripts.net
 0.0.0.0 qchms.qcpro.vn
 0.0.0.0 qfjys.com.img.800cdn.com
+0.0.0.0 qianjiangchao.com
 0.0.0.0 qif.ac.ke
 0.0.0.0 qmsled.com
 0.0.0.0 qppl.angiang.gov.vn
 0.0.0.0 quartier-midi.be
-0.0.0.0 raacts.in
 0.0.0.0 rainbowisp.info
 0.0.0.0 rakbot.g3t.ru
 0.0.0.0 ratamodu.ga
@@ -680,18 +678,18 @@
 0.0.0.0 rkverify.securestudies.com
 0.0.0.0 robertmcardle.com
 0.0.0.0 robotrade.com.vn
-0.0.0.0 rochesterlogos.com
 0.0.0.0 rossogato.com
 0.0.0.0 rouss.com.mx
+0.0.0.0 rucperfbaddhod.gq
 0.0.0.0 ruisgood.ru
 0.0.0.0 rusch.nu
 0.0.0.0 s.51shijuan.com
 0.0.0.0 s.kk30.com
 0.0.0.0 s14b.91danji.com
+0.0.0.0 s14b.groundyun.cn
 0.0.0.0 s281106.smrtp.ru
 0.0.0.0 s283509.smrtp.ru
 0.0.0.0 saboorjaam.ir
-0.0.0.0 sahathaikasetpan.com
 0.0.0.0 salvationbd.com
 0.0.0.0 sample-supply.com
 0.0.0.0 sandovalgraphics.com
@@ -701,7 +699,6 @@
 0.0.0.0 securityprotective.com
 0.0.0.0 sedgfinancial.com
 0.0.0.0 sefp-boispro.fr
-0.0.0.0 semeacdemain.fr
 0.0.0.0 seoair.ru
 0.0.0.0 serpentrising.com
 0.0.0.0 service-acer.by
@@ -735,7 +732,6 @@
 0.0.0.0 sochi.095hotel.ru
 0.0.0.0 sodmalwa.pl
 0.0.0.0 softdown.55.la
-0.0.0.0 sono66.com
 0.0.0.0 sonsistemsogutma.com.tr
 0.0.0.0 sonvietmy.com.vn
 0.0.0.0 sopk.kz
@@ -764,7 +760,6 @@
 0.0.0.0 szexbutik.hu
 0.0.0.0 szxypt.com
 0.0.0.0 t.honker.info
-0.0.0.0 tandenblekenhoofddorp.nl
 0.0.0.0 taraward.com
 0.0.0.0 taxpos.com
 0.0.0.0 tcy.198424.com
@@ -781,12 +776,12 @@
 0.0.0.0 test.iyibakkendine.com
 0.0.0.0 test.mineralog.com
 0.0.0.0 testdatabaseforcepoint.com
+0.0.0.0 tezle.com
 0.0.0.0 thaibbqculver.com
 0.0.0.0 thaisell.com
 0.0.0.0 thammyduyphuong.com
 0.0.0.0 tharringtonsponsorship.com
 0.0.0.0 thc-annex.com
-0.0.0.0 theclinicabarros.com
 0.0.0.0 theprestige.ro
 0.0.0.0 theptiendat.com
 0.0.0.0 therecruiter.io
@@ -806,7 +801,6 @@
 0.0.0.0 topserge.com
 0.0.0.0 totebarreto.com.br
 0.0.0.0 training-equipment.net
-0.0.0.0 trakogames.cl
 0.0.0.0 tribunal.ug
 0.0.0.0 trillianfiredesign.com
 0.0.0.0 trilliumindustrialsafety.com
@@ -818,11 +812,9 @@
 0.0.0.0 tuttimattieg.com
 0.0.0.0 tutuler.com
 0.0.0.0 uc-56.ru
-0.0.0.0 ucto-id.cz
 0.0.0.0 ucup.com.tw
 0.0.0.0 ugc.wegame.com.cn
 0.0.0.0 ukaimc.webredirect.org
-0.0.0.0 ukks.net
 0.0.0.0 ukos.at
 0.0.0.0 ulusalofis.com
 0.0.0.0 undantagforlag.se
@@ -870,10 +862,12 @@
 0.0.0.0 webservice99.com
 0.0.0.0 welcometothefuture.com
 0.0.0.0 welshstructures.com
+0.0.0.0 wg-mallestig.at
 0.0.0.0 whgaty.com
 0.0.0.0 whipappeal.com
 0.0.0.0 wiebe-sanitaer.de
 0.0.0.0 wildwoodflowers.nl
+0.0.0.0 windcomtechnologies.com
 0.0.0.0 wmd9e.a3i1vvv.feteboc.com
 0.0.0.0 wmi.1217bye.host
 0.0.0.0 womensvoicesmagazine.com
@@ -917,6 +911,7 @@
 0.0.0.0 zd4b.lonlyfafner.ru
 0.0.0.0 zdy.17110.com
 0.0.0.0 zed2020.webredirect.org
+0.0.0.0 zenkashow.com
 0.0.0.0 zephyrglobal.ae
 0.0.0.0 zeytinyagisabun.com
 0.0.0.0 zhetysu360.kz
