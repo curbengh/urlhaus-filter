@@ -1,6 +1,6 @@
 # URLhaus Malicious URL Blocklist
 
-A blocklist of malicious URLs that are being used for malware distribution, based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/).
+A blocklist of malicious websites that are being used for malware distribution, based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/). Blocklist is updated twice a day.
 
 There are multiple formats available, refer to the appropriate section according to the program used:
 
@@ -15,9 +15,7 @@ Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/u
 
 ## URL-based
 
-Filter is updated twice a day.
-
-Import the following URL into uBO to subscribe:
+Import the following URL into uBO to subscribe (includes online and **offline** malicious websites):
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
 
@@ -35,7 +33,8 @@ Import the following URL into uBO to subscribe:
 </details>
 
 <br />
-Lite version (online urls only):
+
+Lite version (**online** links only):
 
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 
@@ -52,9 +51,9 @@ Lite version (online urls only):
 
 </details>
 
-**Note:** Lite version is ~95% smaller by excluding offline urls. The status of urls is determined by the upstream Abuse.ch. However, the test is not 100% accurate and some malicious urls that are otherwise accessible may be missed. If bandwidth (1.5MB/day) is not a constraint, I recommend the regular version.
+**Note:** Lite version is ~95% smaller by excluding offline urls. The status of urls is determined by the upstream Abuse.ch. However, the test is not 100% accurate and some malicious urls that are otherwise accessible may be missed. If bandwidth (4 MB/day) is not a constraint, I recommend the regular version.
 
-*PS: While regular version contains roughly 65K filters, uBO can [easily handle](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-452843669) half a million filters.*
+*PS: While regular version contains roughly >145K filters, uBO can [easily handle](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-452843669) half a million filters.*
 
 ## Domain-based
 
@@ -303,9 +302,9 @@ Lite version (online domains only):
 
 ## Issues
 
-Report any false positive by creating an [issue](https://gitlab.com/curben/urlhaus-filter/issues) or [merge request](https://gitlab.com/curben/urlhaus-filter/merge_requests)
+The default [URL-based](#url-based) blocklist does include **offline** links and may have false positive. Report any false positive by creating an [issue](https://gitlab.com/curben/urlhaus-filter/issues) or [merge request](https://gitlab.com/curben/urlhaus-filter/merge_requests).
 
-This filter **only** accepts malware URLs from [URLhaus](https://urlhaus.abuse.ch/).
+This filter **only** accepts new malware URLs from [URLhaus](https://urlhaus.abuse.ch/).
 
 Please report new malware URL to the upstream maintainer through https://urlhaus.abuse.ch/api/#submit.
 
