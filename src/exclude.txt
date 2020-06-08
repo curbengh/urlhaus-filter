@@ -1,5 +1,5 @@
-# Malicious URLs of the following domains would be included,
-# to avoid blocking the whole domain.
+# Exclusion list
+# malicious links are still included in "urlhaus-filter.txt" & "urlhaus-filter-online.txt"
 s3-eu-west-1.amazonaws.com
 s3.amazonaws.com
 s3-us-west-2.amazonaws.com
