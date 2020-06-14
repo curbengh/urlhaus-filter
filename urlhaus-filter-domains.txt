@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Sat, 13 Jun 2020 12:09:56 UTC
+# Updated: Sun, 14 Jun 2020 00:09:58 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -292,6 +292,7 @@
 1.34.192.93
 1.34.199.108
 1.34.201.88
+1.34.208.53
 1.34.22.179
 1.34.220.200
 1.34.23.52
@@ -1544,6 +1545,7 @@
 106.105.83.248
 106.107.222.103
 106.107.222.124
+106.107.222.15
 106.107.222.231
 106.107.222.232
 106.107.222.235
@@ -2503,6 +2505,7 @@
 110.156.53.210
 110.156.53.53
 110.156.53.68
+110.156.54.130
 110.156.54.159
 110.156.54.166
 110.156.55.156
@@ -4184,6 +4187,7 @@
 114.234.169.49
 114.234.182.190
 114.234.193.100
+114.234.195.112
 114.234.195.62
 114.234.195.96
 114.234.205.180
@@ -6618,6 +6622,7 @@
 117.11.125.0
 117.123.171.105
 117.13.206.99
+117.14.20.21
 117.14.20.221
 117.14.20.8
 117.149.10.58
@@ -8479,6 +8484,7 @@
 121.184.131.249
 121.185.44.58
 121.186.105.200
+121.186.145.87
 121.186.21.232
 121.186.74.53
 121.189.114.4
@@ -8488,6 +8494,7 @@
 121.208.17.77
 121.224.176.139
 121.224.240.138
+121.226.131.122
 121.226.131.230
 121.226.139.198
 121.226.140.185
@@ -8594,6 +8601,7 @@
 121.231.100.43
 121.231.100.87
 121.231.101.115
+121.231.101.240
 121.231.102.217
 121.231.102.252
 121.231.164.108
@@ -10169,6 +10177,7 @@
 123.7.159.112
 123.7.207.31
 123.8.11.108
+123.8.11.233
 123.8.11.246
 123.8.11.76
 123.8.117.44
@@ -11482,6 +11491,7 @@
 134.122.116.92
 134.122.117.38
 134.122.118.147
+134.122.118.167
 134.122.119.229
 134.122.12.24
 134.122.122.57
@@ -15424,6 +15434,7 @@
 172.36.15.77
 172.36.15.81
 172.36.16.102
+172.36.16.104
 172.36.16.125
 172.36.16.134
 172.36.16.139
@@ -16164,6 +16175,7 @@
 172.36.59.29
 172.36.59.33
 172.36.59.48
+172.36.59.51
 172.36.59.53
 172.36.59.9
 172.36.59.93
@@ -16317,6 +16329,7 @@
 172.39.14.33
 172.39.14.36
 172.39.15.106
+172.39.15.154
 172.39.15.212
 172.39.16.112
 172.39.16.204
@@ -16947,6 +16960,7 @@
 172.39.95.189
 172.39.95.213
 172.39.95.217
+172.45.1.138
 172.45.1.174
 172.45.1.6
 172.45.10.241
@@ -16982,12 +16996,14 @@
 172.45.18.165
 172.45.18.225
 172.45.18.33
+172.45.18.69
 172.45.19.207
 172.45.19.237
 172.45.19.251
 172.45.19.96
 172.45.2.115
 172.45.2.143
+172.45.2.149
 172.45.2.177
 172.45.2.191
 172.45.2.23
@@ -17071,6 +17087,7 @@
 172.45.63.110
 172.45.63.119
 172.45.63.189
+172.45.63.39
 172.45.7.201
 172.45.7.64
 172.45.7.83
@@ -19011,6 +19028,7 @@
 180.116.16.50
 180.116.17.201
 180.116.17.37
+180.116.18.0
 180.116.18.124
 180.116.18.177
 180.116.19.101
@@ -19064,6 +19082,7 @@
 180.116.238.75
 180.116.30.197
 180.116.47.28
+180.116.65.65
 180.116.96.229
 180.117.108.134
 180.117.116.233
@@ -24821,6 +24840,7 @@
 199.83.203.66
 199.83.203.69
 199.83.203.70
+199.83.203.74
 199.83.203.78
 199.83.203.80
 199.83.203.82
@@ -24870,6 +24890,7 @@
 199.83.204.50
 199.83.204.51
 199.83.204.53
+199.83.204.55
 199.83.204.66
 199.83.204.68
 199.83.204.71
@@ -29900,6 +29921,7 @@
 27.41.134.131
 27.41.134.217
 27.41.134.3
+27.41.135.170
 27.41.135.173
 27.41.135.19
 27.41.135.216
@@ -29969,6 +29991,7 @@
 27.41.174.149
 27.41.174.178
 27.41.174.179
+27.41.174.243
 27.41.174.252
 27.41.174.81
 27.41.175.101
@@ -30039,6 +30062,7 @@
 27.41.216.36
 27.41.217.123
 27.41.218.173
+27.41.218.40
 27.41.218.58
 27.41.220.192
 27.41.220.193
@@ -31041,6 +31065,7 @@
 36.107.208.3
 36.107.209.231
 36.107.210.84
+36.107.211.15
 36.107.211.17
 36.107.232.206
 36.107.232.90
@@ -36130,6 +36155,7 @@
 49.81.194.211
 49.81.194.60
 49.81.195.144
+49.81.196.49
 49.81.20.212
 49.81.223.24
 49.81.228.162
@@ -37082,6 +37108,7 @@
 51.38.83.33
 51.38.93.190
 51.38.99.208
+51.6.171.224
 51.68.120.61
 51.68.125.88
 51.68.128.171
@@ -39099,6 +39126,7 @@
 61.53.198.193
 61.53.198.49
 61.53.199.154
+61.53.2.119
 61.53.20.53
 61.53.22.253
 61.53.228.147
@@ -39902,6 +39930,7 @@
 68.183.209.58
 68.183.21.143
 68.183.21.148
+68.183.21.35
 68.183.212.35
 68.183.212.61
 68.183.214.255
@@ -39912,6 +39941,7 @@
 68.183.218.61
 68.183.219.115
 68.183.219.20
+68.183.22.152
 68.183.22.37
 68.183.22.42
 68.183.221.196
@@ -41531,6 +41561,7 @@
 83.250.8.10
 83.253.194.147
 83.33.34.24
+83.35.194.49
 83.4.112.59
 83.4.160.247
 83.40.11.203
@@ -45420,7 +45451,6 @@ alawangroups.com
 alaweercapital.com
 alax.nexxtech.fr
 alaxvong.com
-alayoup.net
 alazhararabiya.com
 alaziz.in
 alb-buildings.com
@@ -49400,7 +49430,6 @@ awesome-shop-kita.000webhostapp.com
 awesomeattorneymarketingtexas.com
 awesomefinishesinc.com
 awesomefolios.com
-awesomefreshng.com
 awesomemancaves.com
 awesomewasems.com
 awess.club
@@ -53482,7 +53511,6 @@ bringinguppippa.com
 bringmeacat.com
 bringmeier.de
 bringthemlrd.ru
-brinkdev.eu
 brinkelstock.com
 brinks.store
 brinquedosclassicoscombr.000webhostapp.com
@@ -56019,6 +56047,7 @@ chefshots.com
 chefuzma.com
 cheheljam.ir
 chekil.com
+chelitos.com.ve
 chelmet.com
 chelseabeautique.co.ke
 chembay.co.in
@@ -56833,7 +56862,6 @@ clicklenderz.com
 clicknaranja.mx
 clickneat.be
 clicknit.com
-clickon.vn
 clickprintnow.com.au
 clickripplesolutions.in
 clicksbyayush.com
@@ -64871,7 +64899,6 @@ elmodular.com
 elmont38.ru
 elmorromid.com
 elmotsan.com.tr
-elmtowncenter.com
 elmundosurdo.com
 elnabakery.com
 elnasrpharma.com
@@ -65148,7 +65175,6 @@ emtlogistic.com
 emto.eu
 emu4ios.biz
 emulsiflex.com
-emumovies.com
 emwizard.com
 emyrs-eg.lehmergroup.com
 en-cnd.one-drive-ms.com
@@ -69276,7 +69302,6 @@ furenzip.com
 furhatsth.net
 furious-styles.com
 furiousfox.in
-furiousgold.com
 furjesporta.hu
 furmann.pl
 furnfeathers.co.uk
@@ -70953,7 +70978,6 @@ gocmuahang.com
 gocnho.vn
 gocongo.cd
 gocreatestudio.com
-god-panel.xyz
 godbuntu.net
 goddoskyfc.com
 godeageaux.com
@@ -75945,7 +75969,6 @@ indonissin.in
 indoorairconditioner.com
 indoorpublicidade.com.br
 indopixel.id
-indoqualitycleaning.com
 indorajawali.com
 indoredigitalinstitute.com
 indoroyalseafood.com
@@ -78005,7 +78028,6 @@ jeligamat.id
 jemimaashton-harris.com
 jenbob88.com
 jenfu.net
-jenishpatel.in
 jenitalaesthetic.com
 jennah.com.tr
 jennanddaniel.com
@@ -79809,7 +79831,6 @@ kefas-bv.nl
 keffesrdf.org.ng
 kefir-event.ru
 kegnat.de
-kehauskitchenrestaurant.com
 kehuduan.in
 keichomaru.jp
 keieffe.com
@@ -89036,7 +89057,6 @@ msdfirstchurch.org
 msdfit-mog.by
 msdfjkhxcv.ug
 msdjkhjcv.ug
-msdolany.cz
 msecurity.ro
 msek.lviv.ua
 msemilieoxford.com
@@ -94550,7 +94570,6 @@ peach-slovenija.si
 peachgirl.ru
 peachtest.com
 peacock.dating
-peak-1asia.com
 peakcleaners.com
 peakperformance.fit
 peakpersonaltraining.fitness
@@ -96650,6 +96669,7 @@ pro-prokat.ru
 pro-rec.event-pro.com.ua
 pro-sealsolutions.com
 pro-structure.ru
+pro-teammt.ru
 pro-tekconsulting.org
 pro-tone.ru
 pro-tvoydom.ru
@@ -99540,7 +99560,6 @@ revenuehotelconsultant.com
 reveocean.org
 reveron-one.ru
 reversecore.com
-reverseforrealtors.com
 reversemusicgroup.com
 reverserett.org
 revesevents.com
@@ -102105,7 +102124,6 @@ scraps.de
 scrapy999.com
 scrawk.tusarranjan.com
 screamy.do.am
-screemnow.com
 screencam.pro
 screendreams.in
 screenplaysouth.com
@@ -105546,7 +105564,6 @@ spastikengellilerfederasyonu.com
 spathucung.info
 spatial.kr
 spatify.com
-spautah.com
 spawps.tk
 spazioads.site
 spaziodanza.net
@@ -108453,7 +108470,6 @@ tavaratv.com
 tavaresmovelaria.com
 tavay.net
 taverna-stuttgart.de
-taviano.com
 tavld.org
 tavrprocedure.com
 tawa-news.com
@@ -109063,7 +109079,6 @@ teo.solutions
 teoriademae.com
 teorija.rs
 tepadi.mx
-tepatitlan.gob.mx
 tepcian.utcc.ac.th
 tepcls.com.br
 tepeas.com
@@ -114725,6 +114740,7 @@ vitality.equivida.com
 vitalityandlongevitymedicine.com
 vitallita.com
 vitalmania.eu
+vitalmed.co.za
 vitaltea.co.nz
 vitamac.net
 vitamia.com.vn
