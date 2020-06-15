@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 14 Jun 2020 12:10:13 UTC
+# Updated: Mon, 15 Jun 2020 00:09:56 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1391,6 +1391,7 @@
 0.0.0.0 9pai5.com
 0.0.0.0 9palheiros.com.br
 0.0.0.0 9qwe8q9w7asqw.com
+0.0.0.0 9scroob.com
 0.0.0.0 9smap.hfdev.uk
 0.0.0.0 9tindia.com
 0.0.0.0 9u7a1o.regardisperfectshild.ru
@@ -4088,7 +4089,6 @@
 0.0.0.0 almatecsrl.it
 0.0.0.0 almayassah.com
 0.0.0.0 almaz-plitka.ru
-0.0.0.0 almaz-truskavets.com.ua
 0.0.0.0 almazart.ru
 0.0.0.0 almemaristone.com
 0.0.0.0 almendraslitral.cl
@@ -8920,7 +8920,6 @@
 0.0.0.0 bejix.cn
 0.0.0.0 bek.by
 0.0.0.0 bekahwagner.com
-0.0.0.0 bekamlegasi.com
 0.0.0.0 bekamp3.com
 0.0.0.0 bekasitoto12.club
 0.0.0.0 bekijkheteven.nu
@@ -13256,6 +13255,7 @@
 0.0.0.0 catercityequipment.com
 0.0.0.0 catering-group.com.pl
 0.0.0.0 catering8.com
+0.0.0.0 cateringbangkok.in.th
 0.0.0.0 cateringbyjkv.com
 0.0.0.0 cateringdeluz.es
 0.0.0.0 cateringevent.ru
@@ -15390,7 +15390,6 @@
 0.0.0.0 codeperformance-my.sharepoint.com
 0.0.0.0 codeproof.com
 0.0.0.0 coderhike.com
-0.0.0.0 coderived.in
 0.0.0.0 codersclan.blueweb.md
 0.0.0.0 codeshare365.com
 0.0.0.0 codestic.net
@@ -17086,7 +17085,6 @@
 0.0.0.0 cubitek.com
 0.0.0.0 cuboprintdfw.com
 0.0.0.0 cubus.at
-0.0.0.0 cuc-bd.com
 0.0.0.0 cuccus.in
 0.0.0.0 cud.by
 0.0.0.0 cudol.com
@@ -20266,7 +20264,6 @@
 0.0.0.0 dm.xn----ctbbln2ahbdthck.xn--p1ai
 0.0.0.0 dmachina.cn
 0.0.0.0 dmailadvert15dx.world
-0.0.0.0 dmaldimed.com
 0.0.0.0 dmamit.com
 0.0.0.0 dmanistravel.com
 0.0.0.0 dmas.es
@@ -21143,7 +21140,6 @@
 0.0.0.0 dreammakerselitefitness.com
 0.0.0.0 dreammaster-uae.com
 0.0.0.0 dreammergeconsult.com
-0.0.0.0 dreammotokolkata.com
 0.0.0.0 dreams-innovations.com
 0.0.0.0 dreamsfashion.com.vn
 0.0.0.0 dreamsfurnishers.com
@@ -33130,6 +33126,7 @@
 0.0.0.0 iccf-bg.com
 0.0.0.0 iccl.club
 0.0.0.0 icclcricketainment.com
+0.0.0.0 icda.edu.do
 0.0.0.0 icdt.unitbv.ro
 0.0.0.0 icebentt.com
 0.0.0.0 icebergillusion.com
@@ -35244,7 +35241,6 @@
 0.0.0.0 ismartcampus.com
 0.0.0.0 ismashednc.com
 0.0.0.0 ismatrix.com
-0.0.0.0 ismesab.com
 0.0.0.0 ismetotokaporta.com
 0.0.0.0 ismsgthvvbvufhp.usa.cc
 0.0.0.0 isn.hk
@@ -36515,6 +36511,7 @@
 0.0.0.0 jobforlawyer.cz
 0.0.0.0 jobgetter.org
 0.0.0.0 jobgreben2.store
+0.0.0.0 jobgreben5.store
 0.0.0.0 jobgroup.it
 0.0.0.0 jobguru.info
 0.0.0.0 jobhunt.world
@@ -42211,13 +42208,13 @@
 0.0.0.0 luigisrestaurantchelsea.com
 0.0.0.0 luilao.com
 0.0.0.0 luisaramazzotti.com
-0.0.0.0 luisaspagnoli.md
 0.0.0.0 luislar68.000webhostapp.com
 0.0.0.0 luismachado.site
 0.0.0.0 luisnacht.com.ar
 0.0.0.0 luisromero.es
 0.0.0.0 luizazan.ro
 0.0.0.0 luizdroidbr.top
+0.0.0.0 lukabrazzi.top
 0.0.0.0 lukahoward.com
 0.0.0.0 lukastudio.vn
 0.0.0.0 lukejohnhall.co.uk
@@ -44942,6 +44939,7 @@
 0.0.0.0 meg-house.ooo
 0.0.0.0 mega-shop.paditech.com
 0.0.0.0 mega360.kiennhay.vn
+0.0.0.0 megabitco.in
 0.0.0.0 megabumper.com
 0.0.0.0 megabyte.pt
 0.0.0.0 megachief.com
@@ -45872,6 +45870,7 @@
 0.0.0.0 minhhai-exim.com
 0.0.0.0 minhphatstone.com
 0.0.0.0 minhphucomputer.com
+0.0.0.0 minhvinh.com
 0.0.0.0 minhvinh.xyz
 0.0.0.0 minhvuongmobile.com
 0.0.0.0 mini-onderdelen.nl
@@ -47650,6 +47649,7 @@
 0.0.0.0 myaccount.dropsend.com
 0.0.0.0 myadmin.59north.com
 0.0.0.0 myafyanow.com
+0.0.0.0 myagentco.com
 0.0.0.0 myairestaurant.com
 0.0.0.0 myanmodamini.es
 0.0.0.0 myantaeus.com
@@ -53799,7 +53799,6 @@
 0.0.0.0 plintakids.com
 0.0.0.0 plitka-kovka1.ru
 0.0.0.0 plitstroy.su
-0.0.0.0 plivao.com
 0.0.0.0 pllu.atkpmedan.ac.id
 0.0.0.0 plmaxvr.com
 0.0.0.0 plocalpeds.com
@@ -54003,6 +54002,7 @@
 0.0.0.0 polibarral.pt
 0.0.0.0 policediarymirchi.com
 0.0.0.0 policereporterplus.com
+0.0.0.0 polifoam.com.py
 0.0.0.0 poliklinika-majnaric.com
 0.0.0.0 polishmenailboutique.com
 0.0.0.0 politcalpr.files.wordpress.com
@@ -54079,7 +54079,6 @@
 0.0.0.0 pontere.it
 0.0.0.0 pontesgestal.sp.leg.br
 0.0.0.0 ponti-int.com
-0.0.0.0 pontic.in
 0.0.0.0 pontida.info
 0.0.0.0 pontili.eu
 0.0.0.0 ponto50.com.br
@@ -55578,6 +55577,7 @@
 0.0.0.0 pwe-china.com
 0.0.0.0 pwp7.ir
 0.0.0.0 pwpami.pl
+0.0.0.0 pws.bz
 0.0.0.0 pwscripts.net
 0.0.0.0 pwss.proactionfluids.net
 0.0.0.0 pwypzambia.org
@@ -56452,7 +56452,6 @@
 0.0.0.0 racheldessinphotography.org
 0.0.0.0 rachelreiman.com
 0.0.0.0 racing-experiences.com
-0.0.0.0 racinganalysis.co.uk
 0.0.0.0 racingturtlesg07.000webhostapp.com
 0.0.0.0 rack04.org.uk
 0.0.0.0 rackbolt.in
@@ -63872,7 +63871,6 @@
 0.0.0.0 spokenwords.com.au
 0.0.0.0 spolarich.com
 0.0.0.0 spolashit.com
-0.0.0.0 spoleto.com.br
 0.0.0.0 spoma.com
 0.0.0.0 spondylasso.fr
 0.0.0.0 sponer.net
@@ -63885,7 +63883,6 @@
 0.0.0.0 spor.advertisetr.com
 0.0.0.0 sporiz.com
 0.0.0.0 sporsel.com
-0.0.0.0 sporsho.org
 0.0.0.0 sport-culture.eu
 0.0.0.0 sport.ose.co.tz
 0.0.0.0 sportboutiqueheleen.nl
@@ -64843,7 +64840,6 @@
 0.0.0.0 stonerholidays.com
 0.0.0.0 stonescrossing.com
 0.0.0.0 stonestruestory.org
-0.0.0.0 stonyhurstfoundation.org
 0.0.0.0 stoobb.nl
 0.0.0.0 stookeware.com
 0.0.0.0 stop-pollution.fr
@@ -65269,7 +65265,6 @@
 0.0.0.0 successtosignificancecoaching.com
 0.0.0.0 successworth.com
 0.0.0.0 succesvollekapper.nl
-0.0.0.0 sucessoempreendedor.com
 0.0.0.0 suchfamily.site
 0.0.0.0 suchydesign.com
 0.0.0.0 suckhoechonang.online
