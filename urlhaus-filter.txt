@@ -1,5 +1,5 @@
 ! Title: Malicious URL Blocklist
-! Updated: Sat, 20 Jun 2020 12:09:54 UTC
+! Updated: Sun, 21 Jun 2020 00:09:51 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1655,6 +1655,7 @@
 106.110.208.244
 106.110.213.109
 106.110.213.40
+106.110.214.186
 106.110.214.217
 106.110.215.178
 106.110.215.93
@@ -4543,6 +4544,7 @@
 114.239.161.114
 114.239.161.188
 114.239.161.20
+114.239.161.27
 114.239.162.250
 114.239.164.32
 114.239.165.168
@@ -4751,6 +4753,7 @@
 114.32.242.166
 114.32.245.198
 114.32.246.196
+114.32.246.233
 114.32.26.159
 114.32.36.141
 114.32.39.100
@@ -6555,6 +6558,7 @@
 116.149.240.247
 116.149.240.250
 116.149.240.29
+116.149.240.59
 116.149.240.73
 116.149.242.234
 116.149.243.235
@@ -8425,6 +8429,7 @@
 120.71.253.176
 120.71.92.74
 120.71.94.159
+120.71.95.10
 120.71.96.145
 120.71.96.219
 120.71.96.90
@@ -10049,6 +10054,7 @@
 123.204.182.234
 123.205.15.130
 123.205.181.80
+123.205.97.87
 123.207.143.211
 123.207.153.77
 123.207.243.91
@@ -12234,6 +12240,7 @@
 14.102.58.66
 14.102.59.41
 14.102.71.10
+14.102.71.230
 14.104.153.23
 14.104.154.3
 14.104.182.89
@@ -14064,6 +14071,7 @@
 162.212.113.146
 162.212.113.149
 162.212.113.156
+162.212.113.157
 162.212.113.16
 162.212.113.160
 162.212.113.165
@@ -14266,6 +14274,7 @@
 162.212.115.167
 162.212.115.168
 162.212.115.170
+162.212.115.171
 162.212.115.175
 162.212.115.183
 162.212.115.186
@@ -14752,6 +14761,7 @@
 165.227.87.220
 165.227.87.242
 165.227.92.132
+165.227.92.243
 165.227.92.245
 165.227.93.168
 165.227.93.227
@@ -15828,6 +15838,7 @@
 172.36.28.44
 172.36.28.91
 172.36.28.92
+172.36.29.107
 172.36.29.113
 172.36.29.115
 172.36.29.159
@@ -15849,6 +15860,7 @@
 172.36.3.182
 172.36.3.194
 172.36.3.195
+172.36.3.201
 172.36.3.205
 172.36.3.213
 172.36.3.239
@@ -16254,6 +16266,7 @@
 172.36.53.61
 172.36.54.13
 172.36.54.166
+172.36.54.180
 172.36.54.186
 172.36.54.191
 172.36.54.194
@@ -16307,6 +16320,7 @@
 172.36.57.173
 172.36.57.181
 172.36.57.182
+172.36.57.195
 172.36.57.198
 172.36.57.210
 172.36.57.226
@@ -17215,7 +17229,9 @@
 172.45.24.42
 172.45.24.49
 172.45.25.108
+172.45.25.160
 172.45.25.197
+172.45.25.77
 172.45.25.80
 172.45.25.91
 172.45.26.108
@@ -17247,6 +17263,7 @@
 172.45.30.64
 172.45.30.69
 172.45.31.183
+172.45.31.246
 172.45.32.186
 172.45.32.57
 172.45.34.188
@@ -17819,6 +17836,7 @@
 175.8.61.198
 175.8.61.214
 175.8.61.254
+175.8.61.45
 175.8.62.177
 175.8.62.184
 175.8.62.196
@@ -19000,6 +19018,7 @@
 179.247.175.55
 179.25.214.240
 179.254.9.168
+179.42.164.194
 179.43.128.199
 179.43.134.190
 179.43.147.77
@@ -19607,6 +19626,7 @@
 180.142.235.70
 180.142.237.196
 180.171.11.235
+180.171.57.160
 180.174.69.130
 180.176.105.41
 180.176.110.243
@@ -21883,6 +21903,7 @@
 185.112.250.75
 185.112.82.89
 185.114.23.99
+185.117.118.34
 185.117.119.32
 185.117.75.111
 185.117.75.201
@@ -22309,6 +22330,7 @@
 185.203.119.211
 185.203.236.46
 185.203.237.15
+185.205.209.100
 185.205.209.166
 185.205.209.205
 185.205.210.160
@@ -24511,6 +24533,7 @@
 194.180.224.113
 194.180.224.124
 194.180.224.13
+194.180.224.134
 194.180.224.137
 194.180.224.249
 194.180.224.251
@@ -26400,6 +26423,7 @@
 206.81.7.240
 206.81.7.249
 206.81.7.71
+206.81.9.22
 2060brackets.com
 2069brackets.com
 207.148.104.57
@@ -27721,6 +27745,7 @@
 219.151.249.194
 219.151.249.243
 219.152.24.242
+219.152.24.74
 219.152.26.135
 219.152.28.252
 219.152.29.77
@@ -28153,6 +28178,7 @@
 220.134.225.70
 220.134.232.238
 220.134.240.163
+220.134.38.70
 220.134.44.253
 220.134.48.252
 220.134.59.191
@@ -30309,6 +30335,7 @@
 27.29.11.6
 27.29.17.43
 27.3.122.71
+27.30.0.22
 27.31.21.65
 27.32.173.136
 27.33.14.201
@@ -30361,6 +30388,7 @@
 27.41.148.241
 27.41.149.148
 27.41.149.53
+27.41.149.96
 27.41.150.134
 27.41.150.15
 27.41.151.166
@@ -30382,6 +30410,7 @@
 27.41.155.176
 27.41.156.22
 27.41.156.97
+27.41.157.19
 27.41.157.5
 27.41.158.204
 27.41.158.227
@@ -30495,6 +30524,7 @@
 27.41.224.135
 27.41.224.145
 27.41.224.202
+27.41.224.48
 27.41.224.81
 27.41.225.253
 27.41.225.5
@@ -32574,6 +32604,7 @@
 41.230.88.187
 41.231.120.138
 41.249.212.33
+41.251.158.142
 41.32.103.202
 41.32.132.218
 41.32.138.70
@@ -36751,6 +36782,7 @@
 49.82.254.166
 49.82.254.221
 49.82.255.155
+49.82.255.29
 49.82.255.36
 49.82.39.28
 49.82.39.61
@@ -36836,6 +36868,7 @@
 49.89.158.115
 49.89.158.79
 49.89.168.189
+49.89.169.189
 49.89.170.185
 49.89.171.80
 49.89.171.81
@@ -38204,6 +38237,7 @@
 59.126.102.144
 59.126.102.196
 59.126.107.159
+59.126.11.185
 59.126.114.143
 59.126.118.122
 59.126.127.152
@@ -38956,6 +38990,7 @@
 61.147.66.239
 61.153.168.8
 61.153.168.81
+61.153.170.61
 61.158.158.81
 61.158.191.158
 61.158.191.17
@@ -40519,6 +40554,7 @@
 68.183.29.175
 68.183.29.187
 68.183.29.245
+68.183.29.78
 68.183.3.175
 68.183.3.98
 68.183.30.184
@@ -41210,6 +41246,7 @@
 78.136.120.240
 78.136.89.124
 78.140.51.74
+78.141.195.165
 78.141.200.172
 78.141.208.13
 78.142.19.171
@@ -45799,8 +45836,7 @@ aigavicenza.it
 aigforms.myap.co.za
 aiglemovies.com
 aihealth.vn
-aiiaiafrzrueuedur.ru/o.exe
-aiiaiafrzrueuedur.ru/t.exe
+aiiaiafrzrueuedur.ru
 aiineh.com
 aiit.ahbys.com
 aijdjy.com
@@ -46991,8 +47027,7 @@ alternativepentrusomaj.ro
 alteroiko.fr
 alterstream.fi
 altfix.ru
-altfixsolutions.com.ph/astean/docs/
-altfixsolutions.com.ph/astean/hDwGZ/
+altfixsolutions.com.ph
 altifort-smfi.com
 altinbronz.com.tr
 altindagelektrikci.gen.tr
@@ -50492,7 +50527,7 @@ axesrus.com
 axialink.com.my
 axies.com.br
 axionapp.mon-application.com
-axis-gps.com/pzdjz/hgpu56/
+axis-gps.com
 axisau.main.jp
 axischile.com
 axiscook.com
@@ -52787,15 +52822,7 @@ bigdaddysparkave.com
 bigdataonlinetraining.us
 bigdataprofile.com
 bigdatastudies.com
-bigdeal.best/12185d4ba3213c019e4ace855fc6e813/app.exe
-bigdeal.best/2e9300177f052dd8a275a13cc7ca89d7/app.exe
-bigdeal.best/391238b3f278e8244ad622fa38c73e0d/app.exe
-bigdeal.best/3b0bd84649a3851153dd383dd295d6ec/app.exe
-bigdeal.best/4750ffbd3e2e90db3e09b5ee1ba1b2f7/app.exe
-bigdeal.best/682400d352096708fe200b332f0413ec/app.exe
-bigdeal.best/72d715c7eec19ca444a560ceb98f35bb/app.exe
-bigdeal.best/91d25acf1f491935f1f3cb130fd8b46e/app.exe
-bigdeal.best/929efa56c81ff7425c7528e2979e6899/app.exe
+bigdeal.best
 bigdealist.com
 bigdev.top
 bigdiamondeals.com
@@ -59965,7 +59992,8 @@ community.neomeric.us
 community.polishingtheprofessional.com
 community.webrender.io
 communitychildren-my.sharepoint.com
-communitymedia.org.in
+communitymedia.org.in/levfobbvjcrm/34840/Darlehensvertrag_34840_19052020.zip
+communitymedia.org.in/levfobbvjcrm/Darlehensvertrag_783188_19052020.zip
 commuters.com.ng
 como-consulting.be
 comobiconnect.com
@@ -60695,7 +60723,7 @@ cosmeticenterprise.webview.consulting
 cosmetichoney.vn
 cosmeticoslindas.com
 cosmeticsadvice.com
-cosmeticsurgeoninkolkata.in
+cosmeticsurgeoninkolkata.in/wp-content/multifunctional-zone/security-space/oG7v7CkLAl-jz0rugqbjvi73/
 cosmetologderugina.ru
 cosmicconsultancy.in
 cosmiccowboytrading.com
@@ -66232,7 +66260,7 @@ dollydivas.co.uk
 dolmetscherbueromueller.de
 dolmosalum01.000webhostapp.com
 doloroff.com/ejk8ru2bmg/7efef70dd5716ec83a56ded89020f1b3.zip
-doloykurit.ru
+doloykurit.ru/skaqfapx/5603786/Darlehensvertrag_5603786_18052020.zip
 dolphin.cash
 dolphinheights.co.za
 dolphininsight.it
@@ -68599,6 +68627,7 @@ drive.google.com/uc?export=download&id=116XOK2yVsRGmyOxhApAxazNKsR0zjHfq
 drive.google.com/uc?export=download&id=119nlcMnXtJW8WClcPQ4H6pG_uidI9Rw5
 drive.google.com/uc?export=download&id=11BTLaS-vR8jtFBoQPziWCPvJjTJwHWIm
 drive.google.com/uc?export=download&id=11Bpfb38GKpcgWR_h-mrZmntnkazB0uHN
+drive.google.com/uc?export=download&id=11HlyMAHuoJfPNO7TMMBv45N8f9VxrLO2
 drive.google.com/uc?export=download&id=11M7M9sK_A6jz-zYNOEbg3_vlLiJ8T9GL
 drive.google.com/uc?export=download&id=11NAZslAWBWkK1b4dFviELvvgWl48QHr6
 drive.google.com/uc?export=download&id=11NLwMCVQgRL6w8IgkWAV5VlAvSHRexSR
@@ -82183,7 +82212,7 @@ ergodontia.com
 ergoment.dk
 ergoners.com
 ergoners.t-onlinde.net
-ergongroup-corsi.it
+ergongroup-corsi.it/wp-content/uploads/2020/05/ipnjznilzuu/Kaufvertrag_338_21052020.zip
 ergonomicscadeiras.com.br
 ergotherapie-gerolstein.de
 ergowag.fr
@@ -84731,7 +84760,8 @@ fischer-itsolutions.de
 fischer.com.br/wp-content/qtkm/
 fischereiverein-dotternhausen.de
 fischfreunde.net
-fiscosaudepe.com.br
+fiscosaudepe.com.br/ftp/4mndj-dofp3u-ougnoyfjl/
+fiscosaudepe.com.br/ftp/scan/Operations/ikmY-H4_P-t9h/
 fish-ua.com
 fish.mywingover.com
 fishbanking.com
@@ -85241,7 +85271,8 @@ foodwaydelivery.com
 foodworks.mu
 foodzonerestaurant.com
 fool-812.tk
-fooladmachine.com
+fooladmachine.com/wagpvyf/82574710/NQAD_82574710_01062020.zip
+fooladmachine.com/wagpvyf/NQAD_85799125_01062020.zip
 fooladshahr.simamanzar.ir
 fooodshooters.com
 fooropetes.com
@@ -89734,7 +89765,7 @@ hamamplus.ru
 hamana.org
 hamanakoen.com
 hamarfoundation.org
-hamayeshbox.com/wp-content/uploads/upgrabe/Darlehensvertrag_5774_14052020.zip
+hamayeshbox.com
 hamayeshgroup.com
 hambike.com.ar
 hamda.alimarket24.website
@@ -92416,7 +92447,7 @@ ibookrides.com
 iboommarketing.com
 ibot.live
 ibot.promo-hub.top
-ibourl.com
+ibourl.com/3frx
 iboutique.vn
 ibpminstitute.org
 ibr-mag.com
@@ -94948,7 +94979,7 @@ itsababygirl.co
 itsallinclusive.com/ar/Xd7OiT/
 itsalongdrivetomichiganbutatleastmynameisnotjohnson.com
 itscorp.eu
-itscrash.com/i2uzriWY4nLhDb_XoB0A/
+itscrash.com
 itseasycv.co.uk
 itservicesphuket.com
 itservs.com
@@ -97417,7 +97448,7 @@ kayseridoor.ir
 kayserimobilyam.com
 kaysmarketing.com
 kaysoccer.com
-kayson.co.in
+kayson.co.in/assets/linearicons/css/in/888888.png
 kaysuniquecreations.com
 kaytiewu.com
 kayzer.yenfikir.com
@@ -117797,6 +117828,7 @@ pastebin.com/raw/fSfjrS3D
 pastebin.com/raw/fShhe9DA
 pastebin.com/raw/fT6CeiS1
 pastebin.com/raw/fTbZ7sPY
+pastebin.com/raw/fUXakfAi
 pastebin.com/raw/fVGngqDv
 pastebin.com/raw/fVzMCkWd
 pastebin.com/raw/fWbdHjTH
@@ -126756,7 +126788,7 @@ safelink.themeson.review
 safelinks-protection.com
 safemedicinaonline.com
 safemoneyamerica.com
-safentrix.com/adlink?cid=0
+safentrix.com
 saferoomreviews.com
 safesalesnembutal.com
 safesandsecurity.co.za
@@ -127909,7 +127941,9 @@ scraps.de
 scrapy999.com
 scrawk.tusarranjan.com
 screamy.do.am
-screemnow.com
+screemnow.com/jxlmxyusgmui/899/NERQ_899_02062020.zip
+screemnow.com/jxlmxyusgmui/NERQ_5729_02062020.zip
+screemnow.com/jxlmxyusgmui/NERQ_98834308_02062020.zip
 screencam.pro
 screendreams.in
 screenplaysouth.com
@@ -135075,7 +135109,7 @@ sundevilstudentwork.com
 sundownbodrum.com
 sunenv.com
 sunerzha.su
-sunflagsteel.com/wp-content/t3aoh315496/
+sunflagsteel.com
 sunfloro.com
 sunflowerschoolandcollege.com
 sunganak.in
@@ -136673,7 +136707,8 @@ techvast-it.com
 techvibe.tech
 techviet24.info
 techwahab.000webhostapp.com
-techwebera.tk
+techwebera.tk/wp-content/uploads/inc/3763314/Darlehensvertrag_3763314_18052020.zip
+techwebera.tk/wp-content/uploads/inc/64545385/Darlehensvertrag_64545385_18052020.zip
 techwhizzer.com
 techwide.net
 techwolk.com
@@ -139183,7 +139218,7 @@ tophrmyanmar.com
 topiarius.ur.edu.pl
 topiblog.toppick.vn
 topicustomjogja.com
-topinarabic.com
+topinarabic.com/oht0878/bz/
 topindira.top
 topinkasso.li
 topjewelrymart.com
@@ -139259,7 +139294,8 @@ torkmotorsports.info
 torneighistorics.cat
 tornelements.com
 torneopollos.000webhostapp.com
-torneosligazero.com
+torneosligazero.com/vhppblip/78053398/Darlehensvertrag_78053398_18052020.zip
+torneosligazero.com/wp-content/uploads/inc/04496486/Darlehensvertrag_04496486_18052020.zip
 torneosnh.com
 toronto-comedians.com
 toronto.rogersupfront.com
@@ -140205,7 +140241,11 @@ tudonghoaamd.com
 tudorlodgeconsultants.com
 tudosobreconcursos.net
 tudosobrepalavras.com
-tudosobreseguros.org.br
+tudosobreseguros.org.br/wp-content/_uploads/339B/ACH/Commercial
+tudosobreseguros.org.br/wp-content/_uploads/4uehh8m
+tudosobreseguros.org.br/wp-content/_uploads/4uehh8m/
+tudosobreseguros.org.br/wp-content/_uploads/EN_US/Attachments/11_18
+tudosobreseguros.org.br/wp-content/_uploads/EN_US/Attachments/11_18/
 tudsak.com
 tuerks-tr.com
 tufacha.com
