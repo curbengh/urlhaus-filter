@@ -1,5 +1,5 @@
 ! Title: Malicious URL Blocklist
-! Updated: Sun, 21 Jun 2020 12:09:57 UTC
+! Updated: Mon, 22 Jun 2020 00:09:55 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2588,6 +2588,7 @@
 110.169.33.220
 110.17.40.136
 110.17.62.58
+110.17.76.190
 110.17.77.131
 110.17.77.178
 110.17.77.212
@@ -3646,6 +3647,7 @@
 113.240.152.205
 113.240.152.28
 113.240.153.18
+113.240.184.183
 113.240.184.209
 113.240.184.228
 113.240.184.237
@@ -4131,6 +4133,7 @@
 114.228.63.106
 114.228.63.168
 114.228.63.182
+114.228.90.156
 114.228.97.35
 114.229.1.126
 114.229.118.119
@@ -4419,6 +4422,7 @@
 114.235.59.82
 114.235.62.228
 114.235.7.118
+114.235.7.56
 114.235.80.211
 114.235.80.54
 114.235.80.78
@@ -4450,6 +4454,7 @@
 114.236.55.197
 114.237.144.241
 114.237.207.75
+114.237.34.197
 114.237.35.187
 114.237.81.168
 114.237.81.8
@@ -5623,6 +5628,7 @@
 115.52.3.177
 115.52.3.2
 115.52.42.245
+115.52.43.23
 115.52.44.238
 115.52.45.204
 115.52.48.211
@@ -5659,6 +5665,7 @@
 115.53.52.233
 115.53.55.137
 115.53.60.152
+115.53.61.56
 115.53.63.184
 115.53.85.87
 115.54.103.113
@@ -7908,6 +7915,7 @@
 118.232.214.72
 118.232.96.150
 118.232.96.207
+118.233.165.213
 118.233.39.25
 118.233.39.9
 118.233.43.29
@@ -11705,6 +11713,7 @@
 134.209.178.98
 134.209.179.97
 134.209.18.110
+134.209.181.222
 134.209.182.141
 134.209.183.245
 134.209.185.46
@@ -13435,6 +13444,7 @@
 157.245.178.107
 157.245.180.97
 157.245.182.105
+157.245.184.138
 157.245.185.193
 157.245.186.45
 157.245.190.144
@@ -13710,6 +13720,7 @@
 159.65.155.139
 159.65.155.17
 159.65.155.170
+159.65.155.229
 159.65.156.139
 159.65.157.109
 159.65.159.83
@@ -16769,6 +16780,7 @@
 172.39.44.248
 172.39.44.29
 172.39.44.48
+172.39.44.76
 172.39.44.8
 172.39.44.80
 172.39.45.10
@@ -16873,6 +16885,7 @@
 172.39.58.201
 172.39.58.39
 172.39.58.79
+172.39.59.106
 172.39.59.15
 172.39.59.167
 172.39.59.170
@@ -17081,6 +17094,7 @@
 172.39.83.250
 172.39.83.50
 172.39.83.70
+172.39.83.99
 172.39.84.103
 172.39.84.136
 172.39.84.151
@@ -17291,6 +17305,7 @@
 172.45.4.67
 172.45.4.69
 172.45.40.253
+172.45.40.36
 172.45.40.74
 172.45.41.31
 172.45.43.183
@@ -21988,6 +22003,7 @@
 185.132.53.149
 185.132.53.151
 185.132.53.159
+185.132.53.166
 185.132.53.185
 185.132.53.186
 185.132.53.210
@@ -24084,6 +24100,7 @@
 192.119.106.9
 192.119.110.222
 192.119.110.44
+192.119.110.49
 192.119.110.80
 192.119.111.12
 192.119.111.122
@@ -24172,6 +24189,7 @@
 192.236.147.100
 192.236.147.162
 192.236.147.189
+192.236.147.231
 192.236.147.67
 192.236.154.112
 192.236.155.130
@@ -24633,6 +24651,7 @@
 194.76.225.10
 194.76.225.12
 194.76.225.51
+194.76.226.158
 194.87.138.0
 194.87.138.118
 194.87.138.156
@@ -25109,6 +25128,7 @@
 199.83.202.147
 199.83.202.148
 199.83.202.163
+199.83.202.174
 199.83.202.176
 199.83.202.182
 199.83.202.219
@@ -25321,6 +25341,7 @@
 199.83.207.225
 199.83.207.230
 199.83.207.240
+199.83.207.245
 199.83.207.249
 199.83.207.30
 199.83.207.35
@@ -25537,6 +25558,7 @@
 2.186.112.113
 2.186.116.33
 2.187.13.231
+2.187.18.252
 2.187.19.249
 2.187.20.233
 2.187.249.232
@@ -27236,6 +27258,7 @@
 216.180.117.254
 216.180.117.26
 216.180.117.30
+216.180.117.32
 216.180.117.35
 216.180.117.37
 216.180.117.38
@@ -27602,6 +27625,7 @@
 218.3.194.192
 218.3.202.145
 218.3.202.163
+218.3.223.27
 218.3.250.35
 218.31.0.133
 218.31.0.57
@@ -27747,6 +27771,7 @@
 21807.xc.iziyo.com
 219.137.92.88
 219.138.80.131
+219.139.237.160
 219.139.237.174
 219.139.93.94
 219.140.202.194
@@ -31784,6 +31809,7 @@
 36.33.248.76
 36.33.248.81
 36.33.248.86
+36.34.148.131
 36.34.148.141
 36.34.150.188
 36.34.150.235
@@ -32038,6 +32064,7 @@
 36.96.183.196
 36.96.183.233
 36.96.184.180
+36.96.184.215
 36.96.184.86
 36.96.185.138
 36.96.185.213
@@ -34516,6 +34543,7 @@
 42.242.103.17
 42.242.106.1
 42.242.92.136
+42.242.98.58
 42.242.98.79
 42.243.14.17
 42.243.151.143
@@ -34936,6 +34964,7 @@
 45.19.201.181
 45.195.84.92
 45.201.175.222
+45.201.177.43
 45.221.78.166
 45.221.78.38
 45.224.57.175
@@ -35461,6 +35490,7 @@
 46.109.79.106
 46.116.26.222
 46.117.176.102
+46.12.230.46
 46.121.26.229
 46.121.82.70
 46.130.127.210
@@ -36675,6 +36705,7 @@
 49.81.134.147
 49.81.134.16
 49.81.134.90
+49.81.141.138
 49.81.143.164
 49.81.143.165
 49.81.143.19
@@ -40103,6 +40134,7 @@
 64.227.65.105
 64.227.69.211
 64.227.72.100
+64.227.75.168
 64.227.8.206
 64.227.96.230
 64.233.154.99
@@ -45389,9 +45421,7 @@ affordsolartech.com
 affpp.ru
 affyboomy.ga
 afgeartechnology.com.mx
-afges.org/onlineservicewellsfargo/closed_h50q3o2y_k3rgxm6jdw0m/091763285906_7finwQSAif35wxB_portal/4bx68_1xux8z8/
-afges.org/wp-admin/Scan/
-afges.org/wp-admin/kXtCXPB/
+afges.org
 afghanbazarrugs.com
 afghanistanpolicy.com
 afgip.org
@@ -45645,7 +45675,7 @@ agnieszkarojek.cba.pl
 agoam.bid
 agodatex.ga
 agogpharrna.com
-agorae.afges.org/private_I3BYH0Tn_Po4f0wn7n/guarded_profile/0910435353922_K4vyaYn0zf3j7/
+agorae.afges.org
 agoralbe.com
 agorapro.com.co
 agorlu02.azurewebsites.net
@@ -85857,7 +85887,7 @@ frhwqb.loan
 fribola.com
 fricenerhly.ga
 fridabendyg.de
-fridgerepairqatar.com
+fridgerepairqatar.com/wp-admin/qcCkBGRgHSDDG/
 fridotest2.de
 fridounkamran.ir
 friendgames.eu
@@ -93783,6 +93813,7 @@ ininox.com
 initiative-aachen.de
 initiative-hpc-pme.org
 initiativesolution.com
+initmc.de
 initsafe.com
 iniwarinta.date
 iniweb.vn
@@ -97099,7 +97130,7 @@ kalyoncular.com.tr
 kalyoncularyapi.com
 kam.vladistart.art
 kamadecor.ru
-kamafirst.online
+kamafirst.online/wp-content/uploads/2020/05/stqpxppwd/42455/Kaufvertrag_42455_21052020.zip
 kamagra-wolf.com
 kamagra.in.rs
 kamagra4uk.com
@@ -100510,13 +100541,7 @@ lendomstroy.com
 leneng.ru
 lengbin.xyz
 lengendryme.com
-lengoctu.com/wp-includes/js/tinymce/plugins/12262/application_to_fill_1182.doc
-lengoctu.com/wp-includes/js/tinymce/plugins/12262/application_to_fill_2943.doc
-lengoctu.com/wp-includes/js/tinymce/plugins/12262/purchase_order_3229.doc
-lengoctu.com/wp-includes/js/tinymce/plugins/12262/purchase_order_4087.doc
-lengoctu.com/wp-includes/js/tinymce/plugins/12262/purchase_order_6648.doc
-lengoctu.com/wp-includes/js/tinymce/plugins/12262/scheldule_0497.doc
-lengoctu.com/wp-includes/js/tinymce/plugins/12262/scheldule_1227.doc
+lengoctu.com
 lenhydro.ru
 lenigenvlug.eu
 leniomontalverne.com
@@ -102432,7 +102457,14 @@ m87770f3jlmmbz.com
 m8life.by
 m93701t2.beget.tech
 m968965p.beget.tech
-m9c.net
+m9c.net/uploads/15614864741.jpg
+m9c.net/uploads/15766847761.jpg
+m9c.net/uploads/15833183801.jpg
+m9c.net/uploads/15836984991.jpg
+m9c.net/uploads/15836984992.jpg
+m9c.net/uploads/15856021931.jpg
+m9c.net/uploads/15861356721.jpg
+m9c.net/uploads/15861356722.jpg
 m9f.oss-cn-beijing.aliyuncs.com
 ma-masalikilhuda.sch.id
 ma-patents.com
@@ -108691,6 +108723,7 @@ nanosys.co.za
 nanotahvieh.com
 nanowash1.com
 nantlab.com
+nanwpw.dm.files.1drv.com
 nanya-tlm.half-straw.com
 nanyangbaobao.com
 naoifotografia.com
@@ -109462,9 +109495,7 @@ newframeworks.condor-group.it
 newgadgets.in
 newgensolutions.net
 newgmp.000webhostapp.com
-newgovtjobcircular.com/5umem/balance/0gzgw2bajre/
-newgovtjobcircular.com/5umem/zx01/
-newgovtjobcircular.com/wp-includes/closed-disk/guarded-cloud/pAdafdT-GoqjHsnp/
+newgovtjobcircular.com
 newgreek.ru
 newgrowth.marketing
 newhavenskiclub.com/xkrnwsu/578686/NQAD_578686_01062020.zip
@@ -110593,7 +110624,7 @@ npmachines.in
 nppaquasell.ru
 npqqt.com
 nprg.ru
-nptalgram.in
+nptalgram.in/wp-includes/FILE/9ioad-78700-87-7yg4gb-s6fg7algaf6u/
 nptvillagepreschool.com
 nq.fastyou.ru
 nqqklc.com.ng
@@ -112075,6 +112106,7 @@ onedrive.live.com/download?cid=5012A067B5DEC1DF&resid=5012A067B5DEC1DF%21366&aut
 onedrive.live.com/download?cid=5012A067B5DEC1DF&resid=5012A067B5DEC1DF%21379&authkey=AIr-bsJj46et47Q
 onedrive.live.com/download?cid=5012A067B5DEC1DF&resid=5012A067B5DEC1DF%21389&authkey=ADUenohuq_RbYhM
 onedrive.live.com/download?cid=5012A067B5DEC1DF&resid=5012A067B5DEC1DF%21391&authkey=AA15Sw51njbN_NA
+onedrive.live.com/download?cid=5012A067B5DEC1DF&resid=5012A067B5DEC1DF%21392&authkey=ABP0hEeg6YbN0Lk
 onedrive.live.com/download?cid=5012A067B5DEC1DF&resid=5012A067B5DEC1DF%21393&authkey=AA1pmur8sy8XtwE
 onedrive.live.com/download?cid=501B63131AB62DD6&resid=501B63131AB62DD6%212718&authkey=AIE0v1d-cuSUabI
 onedrive.live.com/download?cid=501B63131AB62DD6&resid=501B63131AB62DD6%212728&authkey=AHSMBKLtfRWgqjc
@@ -112285,6 +112317,7 @@ onedrive.live.com/download?cid=7366FEFC2190D2E3&resid=7366FEFC2190D2E3%21205&aut
 onedrive.live.com/download?cid=7366FEFC2190D2E3&resid=7366FEFC2190D2E3%21207&authkey=AKdm-uaXR7N96rk
 onedrive.live.com/download?cid=7366FEFC2190D2E3&resid=7366FEFC2190D2E3%21211&authkey=AIUVoiDHh8IFdEI
 onedrive.live.com/download?cid=7366FEFC2190D2E3&resid=7366FEFC2190D2E3%21236&authkey=AP1DYKcffdwb4BA
+onedrive.live.com/download?cid=7366FEFC2190D2E3&resid=7366FEFC2190D2E3%21243&authkey=APIvJMXivoSeK60
 onedrive.live.com/download?cid=7366FEFC2190D2E3&resid=7366FEFC2190D2E3%21256&authkey=ADLJht0ogfQ775k
 onedrive.live.com/download?cid=7366FEFC2190D2E3&resid=7366FEFC2190D2E3%21260&authkey=AIg6CYDR4_e-Qj8
 onedrive.live.com/download?cid=7366FEFC2190D2E3&resid=7366FEFC2190D2E3%21262&authkey=AK4fiZ1-a1ks8rg
@@ -113459,6 +113492,7 @@ orishinecarwash.com
 oriton.ru
 orixinsurance.com.cn
 orixon.org
+orixresources.com
 orjinalbilgisayar.com
 orl05511cn.temp.swtest.ru
 orlandoairportshuttle.co
@@ -115769,6 +115803,7 @@ pastebin.com/raw/DJVtQL1n
 pastebin.com/raw/DNkYdMrz
 pastebin.com/raw/DP55biJ7
 pastebin.com/raw/DPiWB7eL
+pastebin.com/raw/DQ18FpLu
 pastebin.com/raw/DR0R7TRi
 pastebin.com/raw/DR4EjVPn
 pastebin.com/raw/DRxejwps
@@ -118305,6 +118340,7 @@ pastebin.com/raw/mMP6kCjL
 pastebin.com/raw/mMtyKLM5
 pastebin.com/raw/mMxiDZUp
 pastebin.com/raw/mPfCdb96
+pastebin.com/raw/mQ0T9TzV
 pastebin.com/raw/mQyxm6h7
 pastebin.com/raw/mQzH1arj
 pastebin.com/raw/mRPUrz6S
@@ -127979,9 +128015,7 @@ scraps.de
 scrapy999.com
 scrawk.tusarranjan.com
 screamy.do.am
-screemnow.com/jxlmxyusgmui/899/NERQ_899_02062020.zip
-screemnow.com/jxlmxyusgmui/NERQ_5729_02062020.zip
-screemnow.com/jxlmxyusgmui/NERQ_98834308_02062020.zip
+screemnow.com
 screencam.pro
 screendreams.in
 screenplaysouth.com
@@ -132178,8 +132212,7 @@ sslv3.at
 ssmmbed.com
 ssmptgo.ru
 ssmthethwa.co.za
-ssofhoseuegsgrfnj.su/o.exe
-ssofhoseuegsgrfnj.su/t.exe
+ssofhoseuegsgrfnj.su
 ssofhoseuegsgrfnu.ru
 ssoocc.com
 ssosi.ru
@@ -145674,7 +145707,7 @@ worldfocus24.com
 worldgenerator.su
 worldhealthinfo.com.ng
 worldhealthmeds.com
-worldhealthsolution.com/wp-content/sites/aergttncq2im/dbotv4j8714940-1274-kcfwllzdhw6l9073/
+worldhealthsolution.com
 worldhover.com
 worldincome24.com
 worldindiaexpress.com
