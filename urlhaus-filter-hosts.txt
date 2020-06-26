@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 25 Jun 2020 12:09:55 UTC
+# Updated: Fri, 26 Jun 2020 00:09:57 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -65,6 +65,7 @@
 0.0.0.0 0day.ru
 0.0.0.0 0dzs.comicfishing.com
 0.0.0.0 0epetg.db.files.1drv.com
+0.0.0.0 0h4pd.chokun.ru
 0.0.0.0 0kulen.com
 0.0.0.0 0ne.me
 0.0.0.0 0nedrevefile.com
@@ -673,6 +674,7 @@
 0.0.0.0 2winresidency.com
 0.0.0.0 2x2print.com
 0.0.0.0 2xmy.timeisletitgo.ru
+0.0.0.0 2y0jb.frefou.ru
 0.0.0.0 2yb5.andichust.ru
 0.0.0.0 2yf32q.ch.files.1drv.com
 0.0.0.0 2yourwealth.com.au
@@ -702,6 +704,7 @@
 0.0.0.0 31639.xc.mieseng.com
 0.0.0.0 316house.com
 0.0.0.0 31937.ru
+0.0.0.0 31mbu.hanashikoto.ru
 0.0.0.0 31noble.com
 0.0.0.0 31zaojia.com
 0.0.0.0 3200bpm.com
@@ -1236,6 +1239,7 @@
 0.0.0.0 7min.eadmax.com.br
 0.0.0.0 7naturalessences.com
 0.0.0.0 7orus.org
+0.0.0.0 7p22jz.chokun.ru
 0.0.0.0 7pi.de
 0.0.0.0 7qfmzuglr45xs.com
 0.0.0.0 7rb.xyz
@@ -1401,6 +1405,7 @@
 0.0.0.0 9confederatex.ml
 0.0.0.0 9coupons.xyz
 0.0.0.0 9ea6698c-a-62cb3a1a-s-sites.googlegroups.com
+0.0.0.0 9f4la9.zratnob.ru
 0.0.0.0 9fu168.com
 0.0.0.0 9gio.com
 0.0.0.0 9giuih.ho3fty.ru
@@ -3379,6 +3384,7 @@
 0.0.0.0 akademie-im-wonnegau.de
 0.0.0.0 akademik.fteol-ukit.ac.id
 0.0.0.0 akademik.upsi.edu.my
+0.0.0.0 akademikomunitas.id
 0.0.0.0 akademiya-snov.ru
 0.0.0.0 akademskabeba.rs
 0.0.0.0 akademsmile.ru
@@ -7888,6 +7894,7 @@
 0.0.0.0 b.assignmentproff.com
 0.0.0.0 b.catgirlsare.sexy
 0.0.0.0 b.coka.la
+0.0.0.0 b.frefou.ru
 0.0.0.0 b.kitchencabinetryprofessionals.com
 0.0.0.0 b.makswells.com
 0.0.0.0 b.reich.io
@@ -15999,6 +16006,7 @@
 0.0.0.0 computerforensicsasheville.com
 0.0.0.0 computerguy.icu
 0.0.0.0 computerhome24.com
+0.0.0.0 computerhungary.hu
 0.0.0.0 computerland.in
 0.0.0.0 computermegamart.com
 0.0.0.0 computerpete.com
@@ -17595,6 +17603,7 @@
 0.0.0.0 d-va.cz
 0.0.0.0 d-zerone.co.kr
 0.0.0.0 d.23shentu.org
+0.0.0.0 d.chokun.ru
 0.0.0.0 d.coka.la
 0.0.0.0 d.ho3fty.ru
 0.0.0.0 d.ifeelthelife.ru
@@ -17606,6 +17615,7 @@
 0.0.0.0 d04.data39.helldata.com
 0.0.0.0 d1.amobbs.com
 0.0.0.0 d1.dropboxccdn.com
+0.0.0.0 d1.dropboxrcdn.com
 0.0.0.0 d1.dropboxscdn.com
 0.0.0.0 d1.dropboxwcdn.com
 0.0.0.0 d1.udashi.com
@@ -18042,6 +18052,7 @@
 0.0.0.0 darkshark.website
 0.0.0.0 darktowergaming.com
 0.0.0.0 darkware.club
+0.0.0.0 darkwebforum.net
 0.0.0.0 darlantc.com
 0.0.0.0 darmoviesnepal.com
 0.0.0.0 darnellsim.us
@@ -20533,6 +20544,7 @@
 0.0.0.0 dm.xn----ctbbln2ahbdthck.xn--p1ai
 0.0.0.0 dmachina.cn
 0.0.0.0 dmailadvert15dx.world
+0.0.0.0 dmaldimed.com
 0.0.0.0 dmamit.com
 0.0.0.0 dmanistravel.com
 0.0.0.0 dmas.es
@@ -25122,12 +25134,15 @@
 0.0.0.0 f.akk.li
 0.0.0.0 f.chernovik55.ru
 0.0.0.0 f.coka.la
+0.0.0.0 f.hanashikoto.ru
 0.0.0.0 f.imake99.website
 0.0.0.0 f.jump.wtf
 0.0.0.0 f.makswells.com
+0.0.0.0 f.pastdobi.ru
 0.0.0.0 f.regardisperfectshild.ru
 0.0.0.0 f.top4top.io
 0.0.0.0 f.top4top.net
+0.0.0.0 f.tsuyogari.ru
 0.0.0.0 f.zombieled.ru
 0.0.0.0 f0232447.xsph.ru
 0.0.0.0 f0236061.xsph.ru
@@ -29100,6 +29115,7 @@
 0.0.0.0 giraffeadvertising.com.au
 0.0.0.0 girandolegiobas.it
 0.0.0.0 girirajoil.com
+0.0.0.0 giristurkiyemerkezimetr.site
 0.0.0.0 girl4night.com
 0.0.0.0 girlem.site
 0.0.0.0 girlfridaymusic.com
@@ -29159,6 +29175,7 @@
 0.0.0.0 gjvtri.org
 0.0.0.0 gk-innen-test.de
 0.0.0.0 gk-werkstatt.de
+0.0.0.0 gk725.com
 0.0.0.0 gkglobal.in
 0.0.0.0 gkhost.xyz
 0.0.0.0 gkhotel.ir
@@ -29720,6 +29737,7 @@
 0.0.0.0 goodword.pro
 0.0.0.0 goodyearmotors.com
 0.0.0.0 goofdeckers.bid
+0.0.0.0 googieapp.com
 0.0.0.0 google-ads-expert.co.ua
 0.0.0.0 google-tokyo.info
 0.0.0.0 google.ghststr.com
@@ -30771,6 +30789,7 @@
 0.0.0.0 gyperclean.club
 0.0.0.0 gyrocopterexperience.com
 0.0.0.0 gyttgod.com
+0.0.0.0 gz.americanboardofcertificationforjournalseditorsandjournalists.com
 0.0.0.0 gz1088.com
 0.0.0.0 gzbfashion.com
 0.0.0.0 gzftae.com
@@ -31067,6 +31086,7 @@
 0.0.0.0 hanaimchurch.net
 0.0.0.0 hanaphoto.co.kr
 0.0.0.0 hanasan.vn
+0.0.0.0 hanashikoto.ru
 0.0.0.0 hanastudio.tk
 0.0.0.0 hanawater-lb.com
 0.0.0.0 hanbags.co.id
@@ -31926,6 +31946,7 @@
 0.0.0.0 hes32-ctp.trendmicro.com
 0.0.0.0 hesap.hawzentr.com
 0.0.0.0 hesc.ru
+0.0.0.0 hesislemleri.com
 0.0.0.0 hesq.co.za
 0.0.0.0 hestoghundehuset.dk
 0.0.0.0 hestonweddings.com
@@ -35922,6 +35943,7 @@
 0.0.0.0 its.ecnet.jp
 0.0.0.0 its.futminna.edu.ng
 0.0.0.0 itsababygirl.co
+0.0.0.0 itsallinclusive.com
 0.0.0.0 itsalongdrivetomichiganbutatleastmynameisnotjohnson.com
 0.0.0.0 itscorp.eu
 0.0.0.0 itseasycv.co.uk
@@ -40161,6 +40183,7 @@
 0.0.0.0 l-l-l-l-l-l.info
 0.0.0.0 l.com.watchdogdns.duckdns.org
 0.0.0.0 l.top4top.io
+0.0.0.0 l0.lonlydra.ru
 0.0.0.0 l0sr.net
 0.0.0.0 l0st.hldns.ru
 0.0.0.0 l1i11li1li11li1l.codns.com
@@ -41226,6 +41249,7 @@
 0.0.0.0 leplan.mx
 0.0.0.0 leplateau.edu.vn
 0.0.0.0 leprixspecial.fr
+0.0.0.0 leptitgrenier.fr
 0.0.0.0 leptokurtosis.com
 0.0.0.0 leq-my.sharepoint.com
 0.0.0.0 lequie.de
@@ -42056,6 +42080,7 @@
 0.0.0.0 ljrssindy.cf
 0.0.0.0 ljterrace.com
 0.0.0.0 ljyxx.com
+0.0.0.0 lk.frefou.ru
 0.0.0.0 lkqajsajkgbs.co.vu
 0.0.0.0 lkrccmxbv1343315.davidguetta06.xyz
 0.0.0.0 lkrccmxbv6117798.davidguetta06.xyz
@@ -42372,6 +42397,7 @@
 0.0.0.0 lonnielepp.com
 0.0.0.0 lonnieruiz.com
 0.0.0.0 lonoth.com
+0.0.0.0 lont.co.in
 0.0.0.0 lonzectech.com
 0.0.0.0 loocar.xyz
 0.0.0.0 look1988.cn
@@ -42588,6 +42614,7 @@
 0.0.0.0 lpppl.umpalangkaraya.ac.id
 0.0.0.0 lpru.antalogic.com
 0.0.0.0 lpwatches.ru
+0.0.0.0 lq.frefou.ru
 0.0.0.0 lqhnvuoi.lylguys.me
 0.0.0.0 lqmstore.000webhostapp.com
 0.0.0.0 lqo01.pro
@@ -42879,6 +42906,7 @@
 0.0.0.0 lvksdy.cf
 0.0.0.0 lvr.samacomplus.com
 0.0.0.0 lvxingjp.com
+0.0.0.0 lw.chokun.ru
 0.0.0.0 lw.mirkre.com
 0.0.0.0 lwkb.info
 0.0.0.0 lxj.vvn.mybluehost.me
@@ -46899,7 +46927,6 @@
 0.0.0.0 mnpasalubong.com
 0.0.0.0 mnquotes.com
 0.0.0.0 mnrr.space
-0.0.0.0 mns.media
 0.0.0.0 mnsdev.net
 0.0.0.0 mnsoorysoemsystems.com
 0.0.0.0 mntrangan.online
@@ -47381,6 +47408,7 @@
 0.0.0.0 moretojack.com
 0.0.0.0 morewillie.com
 0.0.0.0 morgal.com.ar
+0.0.0.0 morganbanks.com.au
 0.0.0.0 morganbits.com
 0.0.0.0 morganceken.se
 0.0.0.0 morganjeff.com
@@ -52450,6 +52478,7 @@
 0.0.0.0 oxygn.fydoon.com
 0.0.0.0 oxyvin.com
 0.0.0.0 oxyzencsp.com
+0.0.0.0 oy5.frefou.ru
 0.0.0.0 oyesteambuilding.com
 0.0.0.0 oyfk.net
 0.0.0.0 oykadanismanlik.net
@@ -54502,6 +54531,7 @@
 0.0.0.0 plintakids.com
 0.0.0.0 plitka-kovka1.ru
 0.0.0.0 plitstroy.su
+0.0.0.0 plivao.com
 0.0.0.0 pllu.atkpmedan.ac.id
 0.0.0.0 plmaxvr.com
 0.0.0.0 plocalpeds.com
@@ -56298,7 +56328,6 @@
 0.0.0.0 pwe-china.com
 0.0.0.0 pwp7.ir
 0.0.0.0 pwpami.pl
-0.0.0.0 pws.bz
 0.0.0.0 pwscripts.net
 0.0.0.0 pwss.proactionfluids.net
 0.0.0.0 pwypzambia.org
@@ -58867,6 +58896,7 @@
 0.0.0.0 rmntnk.ru
 0.0.0.0 rmpartner.cz
 0.0.0.0 rmpservices.com.co
+0.0.0.0 rmq.tokyofunkowildvaley.ru
 0.0.0.0 rmrenovables.com
 0.0.0.0 rms.uzelbilisim.com.tr
 0.0.0.0 rmubp.chphmu.de
@@ -70193,6 +70223,7 @@
 0.0.0.0 topcoatflorida.com
 0.0.0.0 topcoen-eu.com
 0.0.0.0 topcoinfx.com
+0.0.0.0 topcompanies.news
 0.0.0.0 topcopytrader.000webhostapp.com
 0.0.0.0 topcrackdownload.com
 0.0.0.0 topdalescotty.top
@@ -71020,7 +71051,6 @@
 0.0.0.0 trulight.io
 0.0.0.0 trullsrodshop.com
 0.0.0.0 trulyhelpful.love
-0.0.0.0 trulykomal.com
 0.0.0.0 trumbullcsb.org
 0.0.0.0 trumpfalls.com
 0.0.0.0 trumplegal.com
@@ -71180,6 +71210,7 @@
 0.0.0.0 tudorlodgeconsultants.com
 0.0.0.0 tudosobreconcursos.net
 0.0.0.0 tudosobrepalavras.com
+0.0.0.0 tudosobreseguros.org.br
 0.0.0.0 tudsak.com
 0.0.0.0 tuerks-tr.com
 0.0.0.0 tufacha.com
@@ -77117,6 +77148,7 @@
 0.0.0.0 xvkbse.com.nanjingxinglun.com
 0.0.0.0 xvo.dst.mybluehost.me
 0.0.0.0 xvobvgcssb.com
+0.0.0.0 xw99.chokun.ru
 0.0.0.0 xwai.com
 0.0.0.0 xware.n-x.pw
 0.0.0.0 xwnmt.mjt.lu
