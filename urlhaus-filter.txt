@@ -1,5 +1,5 @@
 ! Title: Malicious URL Blocklist
-! Updated: Fri, 26 Jun 2020 12:10:02 UTC
+! Updated: Sat, 27 Jun 2020 00:10:04 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1557,6 +1557,7 @@
 105.184.243.248
 105.186.105.167
 105.186.184.34
+105.187.32.2
 105.212.91.21
 105.216.14.79
 105.216.26.180
@@ -1926,6 +1927,7 @@
 107.174.14.86
 107.174.14.98
 107.174.203.117
+107.174.206.110
 107.174.221.192
 107.174.228.46
 107.174.24.117
@@ -3368,6 +3370,7 @@
 112.170.205.85
 112.170.23.21
 112.171.203.14
+112.172.135.239
 112.173.51.156
 112.184.100.250
 112.184.221.213
@@ -4045,6 +4048,7 @@
 114.217.145.201
 114.217.208.40
 114.218.207.237
+114.218.228.38
 114.219.126.201
 114.223.238.75
 114.224.195.155
@@ -4482,6 +4486,7 @@
 114.236.23.246
 114.236.24.79
 114.236.27.191
+114.236.27.57
 114.236.29.135
 114.236.30.144
 114.236.30.195
@@ -8716,6 +8721,7 @@
 121.226.224.80
 121.226.225.233
 121.226.226.7
+121.226.227.250
 121.226.228.159
 121.226.228.5
 121.226.229.8
@@ -11695,6 +11701,7 @@
 134.122.122.57
 134.122.123.19
 134.122.125.34
+134.122.126.189
 134.122.126.86
 134.122.13.132
 134.122.16.179
@@ -15407,6 +15414,7 @@
 170.130.172.40
 170.130.172.42
 170.130.205.117
+170.130.55.134
 170.130.55.44
 170.130.55.59
 170.130.55.65
@@ -15535,6 +15543,7 @@
 171.38.145.35
 171.38.147.237
 171.38.150.165
+171.38.150.197
 171.38.216.214
 171.38.220.250
 171.40.182.128
@@ -15975,6 +15984,7 @@
 172.36.28.37
 172.36.28.39
 172.36.28.44
+172.36.28.6
 172.36.28.91
 172.36.28.92
 172.36.29.107
@@ -16357,6 +16367,7 @@
 172.36.50.54
 172.36.50.64
 172.36.50.66
+172.36.50.67
 172.36.50.68
 172.36.50.75
 172.36.51.10
@@ -24877,6 +24888,7 @@
 194.87.138.8
 194.87.138.86
 194.87.144.121
+194.87.18.147
 194.87.190.89
 194.87.238.60
 194.87.93.227
@@ -24907,6 +24919,7 @@
 195.123.237.129
 195.123.237.152
 195.123.238.242
+195.123.240.118
 195.123.240.220
 195.123.240.235
 195.123.240.37
@@ -25179,6 +25192,7 @@
 198.211.102.74
 198.211.103.110
 198.211.104.66
+198.211.105.201
 198.211.105.44
 198.211.105.99
 198.211.106.91
@@ -25515,6 +25529,7 @@
 199.83.205.5
 199.83.205.53
 199.83.205.61
+199.83.205.71
 199.83.205.74
 199.83.205.98
 199.83.206.116
@@ -28927,6 +28942,7 @@
 221.5.29.173
 221.5.29.208
 221.5.29.52
+221.5.29.69
 221.5.30.103
 221.5.30.167
 221.5.30.191
@@ -29152,6 +29168,7 @@
 222.138.183.4
 222.138.184.114
 222.138.184.173
+222.138.184.187
 222.138.185.111
 222.138.185.165
 222.138.185.32
@@ -29922,6 +29939,7 @@
 222.87.190.78
 222.87.191.77
 222.87.206.90
+222.89.57.168
 222.93.98.136
 222.95.50.236
 222.95.63.172
@@ -30769,6 +30787,7 @@
 27.41.178.243
 27.41.178.53
 27.41.179.185
+27.41.179.202
 27.41.179.243
 27.41.179.56
 27.41.181.181
@@ -36260,6 +36279,7 @@
 49.112.92.34
 49.112.92.46
 49.112.92.87
+49.112.93.171
 49.112.93.33
 49.112.94.170
 49.112.96.96
@@ -40317,6 +40337,7 @@
 62.16.36.99
 62.16.37.33
 62.16.38.36
+62.16.39.52
 62.16.41.210
 62.16.44.2
 62.16.45.100
@@ -41054,6 +41075,7 @@
 68.43.184.44
 68.66.233.69
 68.66.241.92
+68.78.33.33
 68.83.20.203
 68h7.com
 69.10.35.44
@@ -43420,6 +43442,7 @@
 9.kamstore.com.ua
 9.mmedium.z8.ru
 90.110.74.95
+90.117.214.36
 90.150.139.203
 90.171.195.136
 90.178.251.152
@@ -43538,6 +43561,7 @@
 91.234.27.27
 91.234.35.8
 91.234.60.94
+91.234.61.94
 91.234.99.177
 91.234.99.193
 91.234.99.234
@@ -43773,6 +43797,7 @@
 92.8.204.13
 92.8.226.20
 92.81.62.68
+92.82.198.253
 92.84.165.203
 9210660313.myjino.ru
 923oak.com
@@ -45383,10 +45408,7 @@ adba0953dd02.sn.mynetname.net
 adbee.tk
 adbord.com
 adcanudosnh.com.br
-adcash.cf/20190118/multishare.exe
-adcash.cf/20190118/ppi02.exe
-adcash.cf/20190118/pushbot.exe
-adcash.cf/20190118/svchost.exe
+adcash.cf
 adcash.ga
 adccenterbd.com/default/En/Summit-Companies-Invoice-3535290
 adcinterior.co.in
@@ -48783,6 +48805,7 @@ app-sunglasses.jackchim.com
 app-utd.nl
 app.45tp.com
 app.bigplan-alex.com
+app.boxrcdn.com
 app.bridgeimpex.org
 app.calag.at
 app.casetabs.com
@@ -49851,9 +49874,7 @@ ashleyrich.me.uk
 ashleywalkerfuns.com
 ashleywolf.tech
 ashmira.in
-ashoakacharya.com/silyrge/pedOc/
-ashoakacharya.com/silyrge/wbS/
-ashoakacharya.com/wp-content/available-module/verifiable-e39tbx5u-gadx7z/l9of3-950uyx69t7z/
+ashoakacharya.com
 ashoka.edu.in/events/wp-content/uploads/sendincverif/legal/verif/en_EN/022019/
 ashokafootwear.in
 ashokjewellers.ca
@@ -51484,6 +51505,7 @@ bairan.net
 baires.online
 baiseyapian.com
 baiventura.000webhostapp.com
+baixar.nexcafe.com.br
 baixenoibai24h.com
 bajabenedik.com
 bajaringan-tegal.com
@@ -53013,7 +53035,8 @@ betactecto.com
 betal-urfo.ru
 betaoptimexfreze.com
 betaqq.ru
-betarg.com
+betarg.com/cms/cashback/pinkash/wp-content/plugins/loginpage/_lkllnshOhk_-UATf.php
+betarg.com/cms/cashback/pinkash/wp-content/plugins/loginpage/_lkllnshOhk_-UATf.php?
 betathermeg.com
 betav1.wylog.com
 betc-photographe-alsace.com
@@ -55657,6 +55680,7 @@ bristter.com
 britan.mx
 britanniasuperior.uk
 briteindonesia.com
+britemanid.cf
 britiannia-worldwide.co.uk
 britica.vn
 british-rainbow.com
@@ -56115,6 +56139,7 @@ buryposs.coralgablesvet.com
 buryposs.rheumatoidarthritispatient.com
 bus-911.com
 bus-way.ru
+bus4rent.ro
 busanopen.org
 buscafitness.cl
 buscarmedico.com
@@ -56393,6 +56418,7 @@ c0.zhehen.com
 c1k-fin.world
 c1vfsbk.com
 c2.c2management.se
+c2.gov.uk.nova.dashki.pw
 c2.howielab.com
 c2autoelectrics.co.uk
 c2c.webprojemiz.com
@@ -68920,6 +68946,7 @@ drive.google.com/u/0/uc?id=1peSVTGREeSX9BuKkacetzsjwDaUozXN5&export=download
 drive.google.com/u/0/uc?id=1r4i7Qf05ozurOhpeqTsSqdws4YlZllwz&export=download
 drive.google.com/u/0/uc?id=1rFX0WSnjWfD_S-CsbnECFidz0FIpqaYm&export=download
 drive.google.com/u/0/uc?id=1rqRYoscKbhvtBWili8tKT1eMInWg7hML&export=download
+drive.google.com/u/0/uc?id=1skIEgeYQkPsP4PFd1i7kKPXY3eciEqnb&export=download
 drive.google.com/u/0/uc?id=1uTP2_E0ajfByVtywDbMuxQ4Xv7O8tELp&export=download
 drive.google.com/u/0/uc?id=1uehWWk5ExGl1FUEhSG3NJ_DDGCgm05c0&export=download
 drive.google.com/u/0/uc?id=1wAzntDYZZyNrU3dkLEIMbP4WjYnUTcUz&export=download
@@ -80504,6 +80531,7 @@ dxiawer39eedk.megagram.tk
 dxncodestrike.review
 dxstat.club
 dxyicvigiza.cn
+dy5x1.com
 dyandeep.mobileaps.in
 dyara.com.ar
 dyarmisr.com
@@ -84051,8 +84079,7 @@ fansipanexpresssapabus.com
 fansofgoodservice.hsmai.no
 fantasia-knabb.at
 fantasiafurs.com
-fantastic.com.ua/config/4063tq6-v0q4-2192276/
-fantastic.com.ua/config/525228-vLLd1PLgdt0-zone/interior-forum/lhya1jj74m2-6t2w/
+fantastic.com.ua
 fantasticbrindes.com.br
 fantastictees.net
 fantastika.in.ua
@@ -85720,7 +85747,10 @@ foozoop.com
 fopstudios.com
 for-rus.ru
 for-vill.ru
-for.ge
+for.ge/doc/mine.doc
+for.ge/file/mine001.exe
+for.ge/jive/mine.exe
+for.ge/live/amb001.exe
 forads.ae
 forage.restaurant
 forbesriley.net
@@ -87735,6 +87765,8 @@ getacom.org
 getaddressclick.com
 getafeite.com
 getagig.com.ua
+getapp.bonanzoro.com
+getapp.bonnapatit.com
 getasupertan.com
 getaudiopress.com
 getawayafrika.com
@@ -90369,7 +90401,7 @@ hanuram.net
 hanviewpacific.com
 hanworthhomes.com
 hanzadetekstil.com
-hao1977.com/sendincverif/support/sec/en_EN/201902/
+hao1977.com
 haornews24.com
 haosanwang.com.tw
 haotika.rs
@@ -94121,7 +94153,7 @@ infogenic.com.ng
 infoges.es
 infogiceleredalog.info
 infographiemt.com
-infogue.id/bznunvrfrue/EmploymentVerification_31024_05052020.zip
+infogue.id
 infoinnovative.com
 infoinstan.000webhostapp.com
 infojv.compteweb.com
@@ -95301,6 +95333,7 @@ istitutobpascalweb.it
 istlain.com/userfiles/Setup.zip
 istmoenergetico.com
 istor.me
+istore.cheap
 istoreinvoice.eu
 istorie.usm.md
 istoselides.zerman.store
@@ -95942,7 +95975,7 @@ jasamebel.com
 jasapembuatanwebsitedibali.web.id
 jasaservicelift.com
 jasaundanganonline.com
-jasaviral.com
+jasaviral.com/wp-admin/maint/878UR/oamo/Business
 jasaweb.biz
 jasawebsite.online
 jasclair.com
@@ -97829,8 +97862,7 @@ kartonaza-hudetz.hr
 kartridzhi-hp.ru
 kartu-rejeki.com
 karyailmiah.stks.ac.id
-karyakreasindo.com/wp-content/9zt/
-karyakreasindo.com/wp-includes/images/PO2.exe
+karyakreasindo.com
 karynellen.com
 kasamia.com.br
 kasara.tk
@@ -101852,6 +101884,8 @@ livedemo00.template-help.com/28736_site/HoeflerText.font.com
 livedownload.in
 livedrumtracks.com
 livefromantigua.com
+liveglamsupport.zendesk.com/attachments/token/5hi6ffymckoobokwxs0oslb96/?name=389238856784.zip
+liveglamsupport.zendesk.com/attachments/token/5hi6ffymckoobokwxs0oslb96?name=389238856784.zip
 livehasa.com
 liveinfiji.net
 liveinmersin.com
@@ -102761,7 +102795,7 @@ luxeradiator.com
 luxjewelleries.com
 luxkarkas53.ru
 luxon.biz
-luxrealhcm.com/wp-admin/attachments/
+luxrealhcm.com
 luxriverviewquan7.website
 luxtrafik.com.ua
 luxur.club
@@ -102843,7 +102877,7 @@ lzarbitrage.com
 lzychina.com
 m-city.by
 m-cna.com
-m-d-concept.com/wp-admin/public/
+m-d-concept.com
 m-d.co.in
 m-driver.net
 m-finance.it
@@ -104774,6 +104808,7 @@ masbelazur.com
 mascalorofertas.xyz
 mascapital.cl
 mascha.it
+mascisz.com
 mascorloja.com
 mascottattoos.in
 masdeco.com.ar
@@ -107276,7 +107311,7 @@ modelshot.net
 modelsofmeerut.com
 modeltfordclubofamerica.com
 modeltruck.eu
-modengzx.com/wp-admin/Documentation/skaukj/xr9f16448342297met3ies3abvx4izbol3y/
+modengzx.com
 modern-autoparts.com
 modern-surveyor.ru
 moderna.big07.pl
@@ -111728,6 +111763,7 @@ ofoq.sa
 ofp-faguss.com
 oftalmovetrp.com.br
 ofwo.website
+ofxvp.com
 og-lb-portfollio.000webhostapp.com
 ogabengineering.com
 ogaindustry.com
@@ -112017,6 +112053,7 @@ omaharefugees.com
 omaint.ml
 omalleyco-my.sharepoint.com
 omalll.com
+omamontaggi.it
 omanfleethtml.neomeric.us
 omarelbalshy.com
 omartinez.com
@@ -112234,6 +112271,7 @@ onedrive.live.com/download?cid=02E98840A4C9FD6C&resid=2E98840A4C9FD6C%211181&aut
 onedrive.live.com/download?cid=02E98840A4C9FD6C&resid=2E98840A4C9FD6C%211183&authkey=ANV33tRMzmI5CKo
 onedrive.live.com/download?cid=030A9BC8FCC283CB&resid=30A9BC8FCC283CB%21482&authkey=ANaLp5wrjF0Yais
 onedrive.live.com/download?cid=030A9BC8FCC283CB&resid=30A9BC8FCC283CB%21485&authkey=ACP2x7beXkzp5BQ
+onedrive.live.com/download?cid=030A9BC8FCC283CB&resid=30A9BC8FCC283CB%21486&authkey=AK3pZ4z-KDchPxw
 onedrive.live.com/download?cid=030A9BC8FCC283CB&resid=30A9BC8FCC283CB%21490&authkey=ALHzwGG8ok18IxQ
 onedrive.live.com/download?cid=0489C74DE4FACB30&resid=489C74DE4FACB30!109&authkey=AJo32arrzl_VWDQ
 onedrive.live.com/download?cid=04B851E0A87117A6&resid=4B851E0A87117A6!729&authkey=AAKncjRMPBQoiIM
@@ -112962,6 +113000,7 @@ onedrive.live.com/download?cid=9A18A311C310BF71&resid=9A18A311C310BF71%21106&aut
 onedrive.live.com/download?cid=9A66832F8F2B6349&resid=9A66832F8F2B6349%21401&authkey=AE1DapVwVnCMq0U
 onedrive.live.com/download?cid=9A8688776FE2DBF4&resid=9A8688776FE2DBF4%21172&authkey=AHhArHCv0fMn5fM
 onedrive.live.com/download?cid=9A8688776FE2DBF4&resid=9A8688776FE2DBF4%21173&authkey=AECb3qcQuacVZhI
+onedrive.live.com/download?cid=9A8688776FE2DBF4&resid=9A8688776FE2DBF4%21174&authkey=AFV7cPRqWXeZGsI
 onedrive.live.com/download?cid=9A8688776FE2DBF4&resid=9A8688776FE2DBF4%21177&authkey=ALS6_be40Lt5jK8
 onedrive.live.com/download?cid=9B42E2C43B8B46AE&resid=9B42E2C43B8B46AE%21136&authkey=AFc7D2EOCWATzUs
 onedrive.live.com/download?cid=9B42E2C43B8B46AE&resid=9B42E2C43B8B46AE%21137&authkey=AHPTB2l--p2AFtE
@@ -121940,9 +121979,7 @@ pr-kuhni.ru
 pr-list.ru
 pr.finet.hk
 pr1mula.nl
-prabhuandsons.com/wp-content/uploads/2020/05/ttmyf/6192421/ServiceContractAgreement_6192421_05012020.zip
-prabhuandsons.com/wp-content/uploads/2020/05/ttmyf/ServiceContractAgreement_034852286_05012020.zip
-prabhuandsons.com/wp-content/uploads/2020/05/ttmyf/ServiceContractAgreement_3343195_05012020.zip
+prabhuandsons.com
 praca.artibau.pl
 prachiwaghofficial.com
 pracoo.com
@@ -126371,6 +126408,7 @@ rossholidays.in
 rossichspb.ru
 rossiodontologia.com.br
 rossmedco.com
+rossofuoco.com
 rossogato.com
 rosstec.net
 rosterfly.com
@@ -128062,7 +128100,7 @@ sarkargar.com
 sarkariaschool.in
 sarkariresultinfo.co.in
 sarkariresultsinhindi.in
-sarkarjewells.com
+sarkarjewells.com/wp-content/themes/calliope/wp_data.php
 sarkodiemusic.com
 sarl-diouane.com
 sarl-globalfoods.com
@@ -131145,6 +131183,7 @@ smake.in
 smaki-natury.eu
 smaknord.no
 smakthomasaquinotangeb.com
+small-business-solutions.biz
 small-yoron-8817.namaste.jp
 small.962.net
 small.bxamp.com
@@ -131542,7 +131581,7 @@ sochi-med.com
 sochi.095hotel.ru
 sochi.cat/bin/ssj.jpg
 sochibeer.ru
-social-gc.com/mynzvnam/889842/NBSA_889842_28052020.zip
+social-gc.com
 social-voucher.com
 social.die-lehrstelle.ch
 social.nia.or.th
@@ -135905,6 +135944,7 @@ support.pubg.com
 support.redbook.aero
 support.revolus.xyz
 support.smartech.sn
+support.textmaster.com
 support.viewpoint.fr
 support.volkerstevin.ca
 support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/
@@ -140810,6 +140850,7 @@ tszh.southtel.ru
 tt-tel.com
 tt2002.com.ua
 ttc-grs.at
+ttcfv.com
 ttdesigns.com.vn
 ttdvl.s3.ca-central-1.amazonaws.com
 ttechpower.com
@@ -140867,7 +140908,11 @@ tudonghoaamd.com
 tudorlodgeconsultants.com
 tudosobreconcursos.net
 tudosobrepalavras.com
-tudosobreseguros.org.br
+tudosobreseguros.org.br/wp-content/_uploads/339B/ACH/Commercial
+tudosobreseguros.org.br/wp-content/_uploads/4uehh8m
+tudosobreseguros.org.br/wp-content/_uploads/4uehh8m/
+tudosobreseguros.org.br/wp-content/_uploads/EN_US/Attachments/11_18
+tudosobreseguros.org.br/wp-content/_uploads/EN_US/Attachments/11_18/
 tudsak.com
 tuerks-tr.com
 tufacha.com
@@ -141301,6 +141346,7 @@ u8225288.ct.sendgrid.net
 u8257759.ct.sendgrid.net
 u8349745.ct.sendgrid.net
 u8421137.ct.sendgrid.net
+u8pmg.com
 u9.udesignvn.com
 u9036497.ct.sendgrid.net
 u906131q.beget.tech
@@ -144236,6 +144282,7 @@ vo.mecmart.com.my
 voapros.com
 voasi.com
 voassistance.co.za
+voaxd.com
 vob-middengroningen.nl
 voc.com.au
 vocabulons.fr
@@ -145954,6 +146001,7 @@ wivup.com
 wiwebdev.com
 wiwi-cloud.htw-saarland.de
 wiwidwinar.com
+wix.anyfileapp.net
 wixterseafood.com
 wiyq.ifeelthelife.ru
 wizard.erabia.io
