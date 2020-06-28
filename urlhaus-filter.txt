@@ -1,5 +1,5 @@
 ! Title: Malicious URL Blocklist
-! Updated: Sat, 27 Jun 2020 12:09:52 UTC
+! Updated: Sun, 28 Jun 2020 00:09:52 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -4099,6 +4099,7 @@
 114.226.71.49
 114.226.80.115
 114.226.80.165
+114.226.80.170
 114.226.80.177
 114.226.81.155
 114.226.81.45
@@ -4116,6 +4117,7 @@
 114.226.86.10
 114.226.86.233
 114.226.86.47
+114.226.86.97
 114.226.87.17
 114.226.9.206
 114.226.90.31
@@ -4188,6 +4190,7 @@
 114.229.205.56
 114.229.206.183
 114.229.219.10
+114.229.220.216
 114.229.221.230
 114.229.223.11
 114.229.227.246
@@ -4261,6 +4264,7 @@
 114.234.150.28
 114.234.150.85
 114.234.151.102
+114.234.151.15
 114.234.151.165
 114.234.151.223
 114.234.16.42
@@ -6628,6 +6632,7 @@
 116.149.240.247
 116.149.240.250
 116.149.240.29
+116.149.240.36
 116.149.240.59
 116.149.240.73
 116.149.242.234
@@ -6773,6 +6778,7 @@
 117.10.194.141
 117.10.46.126
 117.11.125.0
+117.11.4.17
 117.123.171.105
 117.13.206.99
 117.14.20.21
@@ -8999,6 +9005,7 @@
 122.160.113.100
 122.160.196.105
 122.160.60.236
+122.161.125.172
 122.162.161.66
 122.164.205.61
 122.164.205.76
@@ -11103,6 +11110,7 @@
 125.43.238.114
 125.43.25.130
 125.43.32.202
+125.43.36.123
 125.43.37.36
 125.43.38.94
 125.43.66.23
@@ -12648,6 +12656,7 @@
 142.11.232.26
 142.11.236.183
 142.11.237.148
+142.11.237.34
 142.11.237.86
 142.11.238.27
 142.11.238.56
@@ -13620,6 +13629,7 @@
 157.245.88.96
 157.245.89.208
 157.245.90.221
+157.245.92.141
 157.245.94.111
 157.245.94.17
 157.52.151.215
@@ -14134,6 +14144,7 @@
 161.35.52.130
 161.35.52.164
 161.35.52.236
+161.35.53.134
 161.35.53.44
 161.35.54.251
 161.35.57.3
@@ -14479,6 +14490,7 @@
 162.212.115.91
 162.212.115.92
 162.212.115.93
+162.212.115.95
 162.213.249.37
 162.213.255.176
 162.216.0.163
@@ -14893,6 +14905,7 @@
 165.227.5.223
 165.227.56.252
 165.227.60.201
+165.227.63.108
 165.227.63.145
 165.227.63.166
 165.227.68.28
@@ -16626,6 +16639,7 @@
 172.36.8.141
 172.36.8.16
 172.36.8.168
+172.36.8.181
 172.36.8.190
 172.36.8.221
 172.36.8.243
@@ -17468,6 +17482,7 @@
 172.45.31.246
 172.45.32.186
 172.45.32.57
+172.45.32.9
 172.45.34.188
 172.45.35.11
 172.45.35.15
@@ -17803,6 +17818,7 @@
 175.10.49.210
 175.10.50.205
 175.10.50.92
+175.10.51.228
 175.10.51.240
 175.10.51.53
 175.10.72.60
@@ -18184,6 +18200,7 @@
 176.123.6.20
 176.123.6.200
 176.123.6.22
+176.123.6.35
 176.123.6.4
 176.123.6.50
 176.123.6.7
@@ -19183,6 +19200,7 @@
 179.110.40.181
 179.110.53.149
 179.110.57.66
+179.110.65.75
 179.110.70.23
 179.110.81.170
 179.111.129.168
@@ -23425,6 +23443,7 @@
 187.232.214.111
 187.232.90.58
 187.233.134.108
+187.233.68.15
 187.233.92.119
 187.235.198.157
 187.235.218.147
@@ -25389,6 +25408,7 @@
 199.83.200.212
 199.83.200.216
 199.83.200.220
+199.83.202.137
 199.83.202.147
 199.83.202.148
 199.83.202.163
@@ -27227,6 +27247,7 @@
 211.75.5.130
 211.76.32.143
 211.76.32.237
+211.93.102.121
 211queensquaywest.ca
 212.103.61.157
 212.103.61.160
@@ -28613,6 +28634,7 @@
 220.185.195.47
 220.185.198.208
 220.185.204.103
+220.185.213.132
 220.186.168.220
 220.186.171.32
 220.187.68.243
@@ -28837,6 +28859,7 @@
 221.15.99.239
 221.151.209.37
 221.151.80.209
+221.152.34.93
 221.155.176.210
 221.155.253.61
 221.155.30.60
@@ -29479,6 +29502,7 @@
 222.141.130.233
 222.141.132.172
 222.141.134.46
+222.141.136.224
 222.141.137.214
 222.141.137.91
 222.141.138.45
@@ -30644,6 +30668,7 @@
 27.158.250.199
 27.158.250.2
 27.158.250.219
+27.158.250.43
 27.158.250.7
 27.159.82.219
 27.16.218.31
@@ -30751,6 +30776,7 @@
 27.41.150.134
 27.41.150.15
 27.41.150.187
+27.41.150.67
 27.41.151.166
 27.41.151.177
 27.41.151.181
@@ -30920,6 +30946,7 @@
 27.64.189.179
 27.64.206.116
 27.64.21.185
+27.64.212.17
 27.64.216.123
 27.64.228.78
 27.64.233.184
@@ -32412,6 +32439,7 @@
 36.96.183.233
 36.96.184.180
 36.96.184.215
+36.96.184.3
 36.96.184.86
 36.96.185.138
 36.96.185.213
@@ -33024,6 +33052,7 @@
 41.38.51.251
 41.39.182.198
 41.41.131.213
+41.41.249.54
 41.41.86.138
 41.41.99.23
 41.45.17.186
@@ -33570,6 +33599,7 @@
 42.228.245.31
 42.228.75.93
 42.228.79.221
+42.228.80.203
 42.228.82.11
 42.228.82.236
 42.228.83.206
@@ -35203,6 +35233,7 @@
 45.161.255.120
 45.161.255.122
 45.161.255.130
+45.161.255.132
 45.161.255.138
 45.161.255.139
 45.161.255.141
@@ -37187,6 +37218,7 @@
 49.82.200.142
 49.82.200.191
 49.82.200.222
+49.82.200.238
 49.82.206.147
 49.82.206.252
 49.82.207.150
@@ -38522,6 +38554,7 @@
 58.239.96.125
 58.242.59.120
 58.242.59.153
+58.242.59.202
 58.242.59.57
 58.242.62.185
 58.242.62.36
@@ -40014,6 +40047,7 @@
 61.241.169.168
 61.241.169.186
 61.241.169.203
+61.241.169.238
 61.241.169.3
 61.241.170.109
 61.241.170.122
@@ -41405,6 +41439,7 @@
 74.121.190.142
 74.131.133.143
 74.138.33.85
+74.140.237.185
 74.208.200.33
 74.208.225.37
 74.222.1.38
@@ -43067,6 +43102,7 @@
 88.107.84.54
 88.107.92.137
 88.119.174.230
+88.119.174.241
 88.119.208.238
 88.129.235.44
 88.135.117.135
@@ -43116,6 +43152,7 @@
 88.224.213.21
 88.224.26.216
 88.224.79.224
+88.225.209.213
 88.225.222.128
 88.225.223.212
 88.225.225.237
@@ -43646,6 +43683,7 @@
 91.243.83.87
 91.243.83.95
 91.244.114.198
+91.244.128.81
 91.244.169.139
 91.244.171.174
 91.244.73.104
@@ -44246,6 +44284,7 @@
 95.246.44.155
 95.248.255.154
 95.248.31.171
+95.248.4.79
 95.249.158.4
 95.249.250.137
 95.251.28.51
@@ -44429,6 +44468,7 @@
 98.159.99.70
 98.159.99.9
 98.159.99.93
+98.178.203.36
 98.196.79.17
 98.199.230.127
 98.200.233.150
@@ -46884,6 +46924,7 @@ aleksandarnikov.com
 aleksandarsavic.iqdesign.rs
 aleksandr6406.ucoz.ru
 aleksdesignlab.com
+aleksey.com/pipermail/xmlsec/attachments/20040504/67f3d3a9/Alive_condom.exe
 alekstudio.net
 alem.be
 alemanautos.cl
@@ -51273,10 +51314,7 @@ azuraccessoires83.fr
 azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 azure-team.com
 azureautomation.co.uk
-azurein360.com/calendar/Op41693/
-azurein360.com/calendar/paclm/fpacskhgv/
-azurein360.com/calendar/personal-sector/close-portal/963851976099-QFpm0UZMLP/
-azurein360.com/calendar/statement/rohqhevco8f/
+azurein360.com
 azuremoonentertainment.mobi
 azuresys.com
 azuru1.duckdns.org
@@ -65807,6 +65845,7 @@ dnspcs.com
 dntfeed.com
 dnverificationfailedbymicrosoftthanks.duckdns.org
 dnyanshree.edu.in
+do-dear.com
 do.fakesemoca16.com
 doan-xemwebsite.000webhostapp.com
 doan.zingmedia.vn
@@ -85023,14 +85062,7 @@ filmco.org
 filmcompletfr.website
 filmenew.com
 filmeonlinetop.com
-filmesonline.cc/eyygugsmzaye/X/R5Qjw5iDA.zip
-filmesonline.cc/eyygugsmzaye/hQd0jS1bKP.zip
-filmesonline.cc/eyygugsmzaye/n/0PesGzwwW.zip
-filmesonline.cc/okabbygnfnh/1BpbX85kRH.zip
-filmesonline.cc/okabbygnfnh/i/JZV0jmYNy.zip
-filmesonline.cc/okabbygnfnh/wzrZhbi13i.zip
-filmesonline.cc/piyseofhzfv/4D/tL/AJjsC7i6.zip
-filmesonline.cc/piyseofhzfv/ZPixjuYVbp.zip
+filmesonline.cc
 filmfive.com.sg
 filmi365.com
 filmizlecf.000webhostapp.com
@@ -92477,6 +92509,7 @@ hssc.co.uk
 hssco.ir
 hswawuo7c8axfxw3.com
 hsweert.nl
+hsz.tmp.hu
 hsz59c1evs1h30.com
 ht-vn.com
 ht.sarahparkonline.com
@@ -93275,10 +93308,7 @@ idoldvd-news.com
 idonisou.com
 idontknow.moe
 idontspeakfear.com
-idoubi.net/ichggx/FArcflwBbU.zip
-idoubi.net/ichggx/b/rXJuBDD6a.zip
-idoubi.net/ichggx/b2jDWr7CuE.zip
-idoubi.net/lmawvhdard/ZW/gl/A6LnQsxt.zip
+idoubi.net
 idoux-maconnerie.fr
 idox.it
 idriskoylu.com.tr
@@ -96169,7 +96199,7 @@ jbtour.co.id
 jbtrucking.co.uk
 jbutmv0l23iyy.com
 jbwedding.co.za
-jbweld.eu
+jbweld.eu/yrrbvg/StockPurchaseAgreement_666636367_05222020.zip
 jbworker.com
 jbxxvjeud2378717.cavaleira4.fun
 jbxxvjeud6087907.cavaleira4.fun
@@ -97498,7 +97528,7 @@ k1ristri.ru
 k2-hygiene.de
 k2films.com
 k2mobile.net
-k2o.com.vn/fvglxcz/iZ/od/kthGXobc.zip
+k2o.com.vn
 k3.etfiber.net
 k317.org
 k4ci.de
@@ -97938,6 +97968,7 @@ kasolutions-my.sharepoint.com
 kasonthailand.com
 kasparconnection.com
 kaspersky-security.com
+kasperskysecurity.club
 kasrasanatsepahan.com
 kassa.hostsites.ru
 kassconnect.ru
@@ -98822,7 +98853,7 @@ kirov.nurseassist.ru
 kirpich-aktobe.kz
 kirpich-maykop.com/ihxwbtnvftq/X/5yyb9n7lR.zip
 kirpich-servis16.ru
-kirpichikblok.ru
+kirpichikblok.ru/aHuM-AqO6xyG9mx0YUW8_lJLTXnEJ-fW/
 kirsehirhabernet.com
 kirstenbijlsma.com
 kirstenborum.com
@@ -102075,7 +102106,30 @@ lmsazinfody.cf
 lmse.lt
 lmssupportcenter.com
 lmvadvogados.com.br
-lmvus.com
+lmvus.com/apa/12/New%20Order.doc
+lmvus.com/apa/New%20Order.exe
+lmvus.com/baba/23/Revised%20PI.doc
+lmvus.com/baba/Revised%20PI.exe
+lmvus.com/chigo/98/Purchase%20Order.doc
+lmvus.com/chigo/Purchase%20Order.exe
+lmvus.com/cjay/08/New%20Order.doc
+lmvus.com/cjay/New%20Order.exe
+lmvus.com/dax/ECS9522018110619290050_744.exe
+lmvus.com/dax/bff/ECS9522018110619290050_744.doc
+lmvus.com/dean/78/New%20PO.doc
+lmvus.com/dean/New%20PO.exe
+lmvus.com/don-chi/00889_4e6277839.exe
+lmvus.com/don-chi/54/00889_4e6277839.doc
+lmvus.com/obi/11/Purchase%20Order.doc
+lmvus.com/obi/Purchase%20Order.exe
+lmvus.com/omar/$8900.exe
+lmvus.com/omar/90/$8900.doc
+lmvus.com/pak/121/Invoice.doc
+lmvus.com/pak/Invoice.exe
+lmvus.com/seun/67/enquiry.doc
+lmvus.com/seun/enquiry.exe
+lmvus.com/tr/00898426767001.exe
+lmvus.com/tr/21/00898426767001.doc
 ln.ac.th
 lnasjx.cn
 lndgroups.com.au
@@ -108277,8 +108331,7 @@ mudanzasyserviciosayala.com
 mudassarnazir.com
 mudfreaksblog.cubicproject.com
 mudhar.org
-mudita.vn/arsmjdgyacy/1950/EmploymentVerification_1950_05052020.zip
-mudita.vn/arsmjdgyacy/EmploymentVerification_53486_05052020.zip
+mudita.vn
 mudra.vn
 muebles-santiago.com.bo
 mueblesjcp.cl
@@ -120537,7 +120590,7 @@ pestservice.site
 pestxbakersfield.com
 pet-mouse.ru
 pet-salon.co.il
-petah.id/wp-content/themes/calliope/previous/94817.zip
+petah.id
 petalsnbones.com
 petanisukses.club
 petcarepass.cz
@@ -121491,7 +121544,7 @@ pni5.ru
 pnkp.co.id
 pnneuroeducacao.pt
 pnnpartner.com
-pnra.org
+pnra.org/lic_forms/8bmform.doc
 pnronline.in
 pnrts.sg
 pnsolco.com
@@ -129502,11 +129555,7 @@ setbird.space/5165b50e27ede2262e92d09dbe2e4846/cl.exe
 setbird.space/93b8278bd352780f3c74deb905572493/cl.exe
 setbird.space/9c8e353b499d46c4ba96a1d302f1eb9a/cl.exe
 setbird.space/a57ea98d2d1a8cdd110a7e241e02c1e3/cl.exe
-setbird.website/ru53332/-RTMD-ABDkT14RgwAAvhwCAERFFwAGALdjuv4A.exe
-setbird.website/ru53332/-RTMD-AOX8KV6TUwAA6RoCAE1YGQASAOz4-qwA.exe
-setbird.website/ru53332/-RTMD-abjbn162haaavhwcaerfgqasaould6sa.exe
-setbird.website/ru53332/Voicemod%20Pro%201-RTMD-ADo75F64mwAA7xoCAFJVFwAfAORHQ40A.exe
-setbird.website/ru53332/download%3Fnntxgei%3D34-RTMD-ANoS5l6TUwAAjRsCAEJPFwASAL2C7QIA.exe
+setbird.website
 setblok.com/XzEvX-gRg_ZSAKT-tz/Southwire/ISE7275221528/US/Paid-Invoice-Credit-Card-Receipt/
 setblok.com/doc/En_us/Outstanding-Invoices
 setblok.com/doc/En_us/Outstanding-Invoices/
@@ -130560,7 +130609,7 @@ silverduckdesigns.co.uk
 silverexplore.com
 silvergeob.top
 silverlineboatsales.com
-silverliningcoaching.com.au/silverlining/invoice/pt19j7w637036017-69-psqopu3ni2aow80/
+silverliningcoaching.com.au
 silverlinktechnologies.com
 silverlobstergh.com
 silveroks.com.ua
@@ -131639,7 +131688,7 @@ socialogoly.co.uk.cjllcmonthlysub.ga
 socialpostmanager.com
 socialpoweredrouter.com
 socialshaktinews.in
-socialtutors.ru/default/US/INVOICE-STATUS/Payment/
+socialtutors.ru
 socialwifi.rs
 socialworkacademy.in
 socialworksummit4africa.org
@@ -136949,12 +136998,7 @@ tarhanco.ir
 tarhanyapi.com
 tarhrasm.com
 tarikyilmazoffical.com
-tarimevi.com/budxcguvp/K0/J4/vdR2J8ak.zip
-tarimevi.com/budxcguvp/S3/HG/IPteFuLU.zip
-tarimevi.com/budxcguvp/q/ckHeAC0hQ.zip
-tarimevi.com/straapbir/FoSkZ4j6UN.zip
-tarimevi.com/straapbir/t/r6NoYuELE.zip
-tarimevi.com/straapbir/xZNpGnCR80.zip
+tarimevi.com
 tarimsalteknoloji.com
 tarina.davos-development.com
 taringabaptist.org.au
@@ -138628,8 +138672,7 @@ thekingarzel.duckdns.org
 thekingofecom.com
 thekingofsoul.com
 thekingsway.org
-theknowledgeset.com/email_friend/ckjb80-yv6-1873/
-theknowledgeset.com/wp-admin/wlanxcge-kku-89210/
+theknowledgeset.com
 thekrumb.com
 thekubhugja1.xyz
 thekukuaproject.com
@@ -139382,7 +139425,14 @@ timenotbesea.xyz
 timenow.pw
 timenowis1.top
 timeoffer.site
-timeoutshelter.org
+timeoutshelter.org/exgvr/NBSA_183326_28052020.zip
+timeoutshelter.org/exgvr/NBSA_557042942_28052020.zip
+timeoutshelter.org/tlggwdr/Q4/qN/CQgiDSAu.zip
+timeoutshelter.org/tlggwdr/ZFw4ptZpmb.zip
+timeoutshelter.org/tlggwdr/ZY/xs/SGKcwHXW.zip
+timeoutshelter.org/tlggwdr/cI/M8/1tfGmxiO.zip
+timeoutshelter.org/wtbtzy/U/5QlG0UD2T.zip
+timeoutshelter.org/wtbtzy/mb/La/O9qGM6HF.zip
 timepassmasti.com
 timeq.uz
 timeseducationuae.com
@@ -142578,7 +142628,7 @@ url.emailprotection.link/?ayL72bfBub-Dd-Y3yvvPpz8JfYmmIlgEjoSDUuj2vrnTpKguZ2uBjd
 url.emailprotection.link/?bcp_LQdELwbKhxKToIznR8rOuhtt9W4qlFovFOxc0z5zmN6k8ji5zi9v7qbCrvRGePrP065w1sneU27JfM6LqozRkXpWdzWXoQHCUebEUJx-pJ0FN_jIdanzNgIHD_CY1/
 url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmBKpoVHxYkckgjOQoYTV_U0G2UMKhd4MBI9Ms8vO3Vliq2ClOuUAa6nO2a7Ij5lJFsouoEEMeMVmI/
 url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/
-url.sg/RwthO
+url.sg
 url2.mailanyone.net/v1/?m=1hIbcm-0003zV-63&i=57e1b682&c=sb1BLj46bK32u6f729r5T_SLVKX-hEeWXh20_zDn9-3kTcC0-kN35FykIlpydgeYVRBWqWb5H__fK383wTDaKQftjlElxZ06jbAGlRi5jmUjnYDjKaSqXwdTG2Hn-_BE1DzRnThVvhiGYHM_TVBeW342habp8DtiT9jjlIEUc2X-IPGDGiPe7y_c9jhe69532GmnXozB5wiFJfBSTZiCAgMtPg6YXMrEAF0sq2DgO-kSY54HetFhN6GwM4kIw2VvCQx17a9bM6yKN8BWpWDJwg/
 url3.mailanyone.net
 url5459.41southbar.com
