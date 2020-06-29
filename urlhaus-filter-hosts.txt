@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 28 Jun 2020 12:10:01 UTC
+# Updated: Mon, 29 Jun 2020 00:09:51 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -822,6 +822,7 @@
 0.0.0.0 3lectromode.com
 0.0.0.0 3lm-ruhani.com
 0.0.0.0 3log.sk
+0.0.0.0 3mandatesmedia.com
 0.0.0.0 3mbapparel.com
 0.0.0.0 3mchinhhang.com
 0.0.0.0 3mplustrading.com
@@ -3194,6 +3195,7 @@
 0.0.0.0 aifesdespets.fr
 0.0.0.0 aifonu.hi2.ro
 0.0.0.0 aig-com.ga
+0.0.0.0 aiga.it
 0.0.0.0 aigavicenza.it
 0.0.0.0 aigforms.myap.co.za
 0.0.0.0 aiglemovies.com
@@ -21211,6 +21213,7 @@
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.ktkt.com
 0.0.0.0 download.library1.org
+0.0.0.0 download.loginserv.net
 0.0.0.0 download.moldiscovery.com
 0.0.0.0 download.nadns.info
 0.0.0.0 download.novotrac.ch
@@ -23599,6 +23602,7 @@
 0.0.0.0 emto.eu
 0.0.0.0 emu4ios.biz
 0.0.0.0 emulsiflex.com
+0.0.0.0 emumovies.com
 0.0.0.0 emwizard.com
 0.0.0.0 emyrs-eg.lehmergroup.com
 0.0.0.0 en-cnd.one-drive-ms.com
@@ -32388,6 +32392,7 @@
 0.0.0.0 hobbyiobby.com
 0.0.0.0 hobbynonton.com
 0.0.0.0 hobbysalon-tf.com
+0.0.0.0 hobi-sport.ch
 0.0.0.0 hobi.de
 0.0.0.0 hobimsiseyler.com
 0.0.0.0 hobokendoulas.com
@@ -39070,6 +39075,7 @@
 0.0.0.0 kirov.nurseassist.ru
 0.0.0.0 kirpich-aktobe.kz
 0.0.0.0 kirpich-servis16.ru
+0.0.0.0 kirpichikblok.ru
 0.0.0.0 kirsehirhabernet.com
 0.0.0.0 kirstenbijlsma.com
 0.0.0.0 kirstenborum.com
@@ -44329,6 +44335,7 @@
 0.0.0.0 mantra4change.com
 0.0.0.0 mantrad.com.br
 0.0.0.0 mantraproperties.in
+0.0.0.0 manualdareconquista.com
 0.0.0.0 manualportia.com.br
 0.0.0.0 manualquickbooksespanol.com
 0.0.0.0 manualwordpress.vipaweb.es
@@ -52806,6 +52813,7 @@
 0.0.0.0 pandemidestek-gov.com
 0.0.0.0 pandemidestek-sosyalser.com
 0.0.0.0 pandemidestekleri.com
+0.0.0.0 pandemidestekvaktiniz.xyz
 0.0.0.0 pandestek-sosyal.com
 0.0.0.0 pandiona.com
 0.0.0.0 panditpurshotamgaur.in
@@ -54422,6 +54430,7 @@
 0.0.0.0 plancoders.com
 0.0.0.0 planedoengenharia.com.br
 0.0.0.0 planejoassessoria.com.br
+0.0.0.0 planelocations.com
 0.0.0.0 planet-makina.com
 0.0.0.0 planet-sports.zendesk.com
 0.0.0.0 planeta.kierklosebastian.pl
@@ -56350,6 +56359,7 @@
 0.0.0.0 pwe-china.com
 0.0.0.0 pwp7.ir
 0.0.0.0 pwpami.pl
+0.0.0.0 pws.bz
 0.0.0.0 pwscripts.net
 0.0.0.0 pwss.proactionfluids.net
 0.0.0.0 pwypzambia.org
@@ -56735,6 +56745,7 @@
 0.0.0.0 qq.ww2rai.ru
 0.0.0.0 qq546871516.com
 0.0.0.0 qqenglish.com.cn
+0.0.0.0 qqguua.dm.files.1drv.com
 0.0.0.0 qqm9lv.com
 0.0.0.0 qqwqwwwpoasd.com
 0.0.0.0 qqydw.oss-cn-beijing.aliyuncs.com
@@ -58494,6 +58505,7 @@
 0.0.0.0 reversemusicgroup.com
 0.0.0.0 reverserett.org
 0.0.0.0 revesevents.com
+0.0.0.0 revesglobal.com
 0.0.0.0 revestimientosmac.com
 0.0.0.0 review6.com
 0.0.0.0 reviewblock.org
@@ -72434,7 +72446,6 @@
 0.0.0.0 url-validation-clients.com
 0.0.0.0 url.246546.com
 0.0.0.0 url.57569.fr.snd52.ch
-0.0.0.0 url.sg
 0.0.0.0 url2.mailanyone.net
 0.0.0.0 url3.mailanyone.net
 0.0.0.0 url5459.41southbar.com
@@ -74306,6 +74317,7 @@
 0.0.0.0 vtour.pw
 0.0.0.0 vtqpeq.dm.files.1drv.com
 0.0.0.0 vtr.kz
+0.0.0.0 vtrgpromotions.us
 0.0.0.0 vts-folientechnik.de
 0.0.0.0 vtscvn.tk
 0.0.0.0 vttdevelopment.com
@@ -74501,7 +74513,6 @@
 0.0.0.0 walnuthillshome.com
 0.0.0.0 walstan.com
 0.0.0.0 walsworthtg.org.uk
-0.0.0.0 waltermagaya.com
 0.0.0.0 walteromargarcia.es
 0.0.0.0 waltonrowingclub.co.uk
 0.0.0.0 walworthbar.org
@@ -75697,6 +75708,7 @@
 0.0.0.0 wiseware.net
 0.0.0.0 wishinventor.com
 0.0.0.0 wishmanmovie.com
+0.0.0.0 wishngifts.com
 0.0.0.0 wismartrading.com
 0.0.0.0 wispa.chakbelikhan.com
 0.0.0.0 wispy-kusu-6956.hiho.jp
@@ -78260,6 +78272,7 @@
 0.0.0.0 zetalogs.com
 0.0.0.0 zetaspace.tk
 0.0.0.0 zetek.com.ar
+0.0.0.0 zethla.com
 0.0.0.0 zethler.com
 0.0.0.0 zettaizero.com
 0.0.0.0 zetthing-bg.site
