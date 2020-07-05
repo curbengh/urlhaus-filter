@@ -1,5 +1,5 @@
 ! Title: Malicious URL Blocklist
-! Updated: Sat, 04 Jul 2020 12:09:53 UTC
+! Updated: Sun, 05 Jul 2020 00:09:53 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2634,6 +2634,7 @@
 110.168.165.154
 110.168.211.141
 110.168.212.22
+110.169.181.71
 110.169.33.220
 110.17.40.136
 110.17.41.183
@@ -3270,6 +3271,7 @@
 112.123.109.141
 112.123.109.145
 112.123.109.162
+112.123.109.190
 112.123.109.196
 112.123.109.200
 112.123.109.38
@@ -4188,6 +4190,7 @@
 114.228.141.191
 114.228.141.252
 114.228.141.53
+114.228.163.204
 114.228.172.165
 114.228.201.102
 114.228.203.65
@@ -4501,6 +4504,7 @@
 114.235.47.133
 114.235.47.23
 114.235.48.229
+114.235.5.102
 114.235.5.61
 114.235.50.159
 114.235.52.124
@@ -5590,6 +5594,7 @@
 115.49.79.31
 115.49.79.32
 115.49.8.244
+115.49.85.233
 115.49.95.109
 115.49.96.130
 115.49.96.140
@@ -6790,6 +6795,7 @@
 116.232.15.162
 116.232.240.101
 116.233.158.1
+116.241.117.55
 116.241.138.124
 116.241.47.220
 116.241.85.124
@@ -10584,6 +10590,7 @@
 123.97.129.211
 123.97.129.33
 123.97.130.87
+123.97.132.153
 123.97.134.3
 123.97.134.37
 123.97.134.83
@@ -10871,6 +10878,7 @@
 124.com.ua
 124.cpanel.realwebsitesite.com
 124958289-439173646360600436.preview.editmysite.com
+125.104.102.162
 125.104.102.88
 125.104.111.231
 125.104.111.51
@@ -12016,6 +12024,7 @@
 134.209.40.218
 134.209.42.195
 134.209.42.249
+134.209.43.232
 134.209.43.71
 134.209.44.142
 134.209.45.194
@@ -13155,6 +13164,7 @@
 147.135.124.113
 147.135.126.109
 147.135.173.224
+147.135.173.238
 147.135.21.158
 147.135.23.229
 147.135.23.230
@@ -14246,6 +14256,7 @@
 161.35.102.35
 161.35.106.183
 161.35.106.34
+161.35.112.50
 161.35.114.181
 161.35.120.184
 161.35.13.250
@@ -15677,6 +15688,7 @@
 171.221.99.74
 171.222.120.195
 171.222.121.233
+171.222.123.206
 171.226.19.134
 171.226.209.60
 171.227.173.180
@@ -15717,6 +15729,7 @@
 171.255.232.195
 171.38.144.26
 171.38.145.35
+171.38.147.204
 171.38.147.237
 171.38.149.40
 171.38.150.165
@@ -16038,6 +16051,7 @@
 172.36.21.7
 172.36.21.84
 172.36.22.10
+172.36.22.119
 172.36.22.141
 172.36.22.15
 172.36.22.151
@@ -16089,6 +16103,7 @@
 172.36.24.177
 172.36.24.179
 172.36.24.200
+172.36.24.204
 172.36.24.223
 172.36.24.233
 172.36.24.242
@@ -17175,6 +17190,7 @@
 172.39.49.57
 172.39.49.99
 172.39.5.102
+172.39.5.115
 172.39.5.122
 172.39.5.149
 172.39.5.153
@@ -17228,6 +17244,7 @@
 172.39.57.68
 172.39.57.83
 172.39.58.10
+172.39.58.100
 172.39.58.11
 172.39.58.127
 172.39.58.133
@@ -17409,6 +17426,7 @@
 172.39.78.250
 172.39.78.45
 172.39.78.74
+172.39.78.81
 172.39.79.154
 172.39.79.168
 172.39.79.177
@@ -17750,6 +17768,7 @@
 172.45.8.149
 172.45.8.196
 172.45.8.40
+172.45.8.56
 172.45.8.99
 172.45.9.108
 172.45.9.126
@@ -21600,6 +21619,7 @@
 182.127.101.157
 182.127.101.198
 182.127.102.181
+182.127.102.68
 182.127.103.44
 182.127.103.91
 182.127.107.48
@@ -21959,10 +21979,12 @@
 182.142.117.168
 182.142.117.225
 182.142.118.0
+182.142.118.25
 182.142.119.217
 182.142.119.89
 182.142.119.93
 182.143.18.124
+182.148.233.116
 182.149.102.167
 182.150.204.46
 182.150.209.86
@@ -24979,6 +25001,7 @@
 193.228.91.110
 193.228.91.123
 193.228.91.124
+193.228.91.162
 193.233.191.18
 193.238.36.33
 193.238.47.118
@@ -25903,6 +25926,7 @@
 199.83.206.65
 199.83.206.83
 199.83.206.84
+199.83.206.9
 199.83.207.100
 199.83.207.102
 199.83.207.106
@@ -27174,6 +27198,7 @@
 209.141.35.143
 209.141.35.236
 209.141.36.24
+209.141.37.101
 209.141.37.173
 209.141.37.193
 209.141.37.211
@@ -28715,6 +28740,7 @@
 219.157.201.234
 219.157.232.182
 219.157.234.152
+219.157.239.128
 219.157.25.204
 219.157.25.49
 219.157.28.56
@@ -30905,6 +30931,7 @@
 25magnolia.info
 25thcenturytech.com
 25yardscreamer.co.uk
+26.17.240.194
 26.17.247.27
 2605.60s-rock-and-roll-band-chicago.com
 2612.co.uk
@@ -31159,6 +31186,7 @@
 27.41.172.131
 27.41.172.190
 27.41.172.20
+27.41.172.226
 27.41.172.42
 27.41.172.52
 27.41.172.74
@@ -31221,6 +31249,7 @@
 27.41.204.118
 27.41.204.37
 27.41.204.51
+27.41.204.67
 27.41.204.88
 27.41.205.203
 27.41.205.211
@@ -35357,6 +35386,7 @@
 42.63.198.30
 42.7.26.13
 42.82.191.105
+42.82.94.23
 42.97.101.209
 42.97.105.103
 42.97.114.56
@@ -35600,6 +35630,7 @@
 45.154.1.71
 45.156.180.112
 45.156.195.205
+45.156.84.236
 45.161.253.198
 45.161.253.204
 45.161.253.252
@@ -36872,6 +36903,7 @@
 49.115.92.51
 49.115.96.5
 49.115.97.192
+49.115.97.206
 49.115.97.76
 49.115.99.129
 49.116.10.52
@@ -36915,6 +36947,7 @@
 49.116.18.151
 49.116.182.18
 49.116.182.220
+49.116.182.23
 49.116.182.31
 49.116.182.64
 49.116.183.120
@@ -37625,6 +37658,7 @@
 49.81.85.101
 49.81.85.204
 49.81.87.46
+49.81.88.184
 49.81.88.241
 49.81.91.113
 49.81.91.161
@@ -37997,6 +38031,7 @@
 4kmj.com
 4kopmarathon.in
 4kwoz.pl
+4kyoutubedonwload.club
 4lifeimunologia.com
 4maat.com
 4marketplacesolutions.org
@@ -41893,6 +41928,7 @@
 73.70.28.30
 73.71.61.176
 73.73.137.64
+73.76.94.224
 73.84.12.50
 73.91.254.184
 73.92.136.47
@@ -42078,6 +42114,7 @@
 77.43.161.23
 77.43.161.253
 77.43.162.249
+77.43.162.37
 77.43.162.98
 77.43.163.139
 77.43.163.47
@@ -43007,6 +43044,7 @@
 81.23.187.38
 81.249.64.61
 81.26.137.147
+81.30.177.68
 81.30.179.247
 81.30.214.88
 81.31.230.250
@@ -43144,6 +43182,7 @@
 82.81.110.193
 82.81.131.158
 82.81.172.94
+82.81.173.74
 82.81.196.247
 82.81.197.254
 82.81.2.50
@@ -44194,6 +44233,7 @@
 91.67.110.74
 91.72.17.86
 91.83.166.116
+91.83.166.142
 91.83.230.239
 91.89.196.92
 91.92.109.123
@@ -44763,6 +44803,7 @@
 95.214.113.195
 95.214.113.210
 95.214.113.221
+95.215.206.244
 95.215.207.24
 95.215.68.127
 95.215.85.167
@@ -54611,7 +54652,7 @@ bizcodedigital.in
 bizcraftindia.com
 bizertanet.tn
 bizi-ss.com
-bizilocator.com/demo/includes/font_awesome/xzqPtpJUI0E/
+bizilocator.com
 bizimbag.com
 bizimedebiyatimiz.com
 bizindia.co
@@ -59231,7 +59272,7 @@ chaoscopia.com
 chaoswarprivate.000webhostapp.com
 chapada.uefs.br
 chapadaomaquinas.com
-chapaitoday.com
+chapaitoday.com/olsce/2222.png
 chapeauartgallery.com
 chapkonak.ir
 chaplaincy.covenantuniversity.edu.ng
@@ -62765,6 +62806,7 @@ cxacf.ru
 cxlit.com
 cxta.com
 cxzxccv.ru
+cxzxzxzxzzxzx.s3.eu-central-1.amazonaws.com/EvdeKaliyorum.apk
 cy17.ru
 cy24817.tmweb.ru
 cy3.mqego.com
@@ -83043,8 +83085,7 @@ enseta.com
 ensignsconsultants.com
 ensleyortho.com
 enstromstudios.inter-state.com
-ensumak.com/Corrections-09-18
-ensumak.com/administrator/1664UPTBUKCU/biz/Commercial
+ensumak.com
 ent.sci.dusit.ac.th
 entaclass.sotoriagroup.com
 entasiradio.tuc.gr
@@ -86935,7 +86976,7 @@ frhwqb.loan
 fribola.com
 fricenerhly.ga
 fridabendyg.de
-fridgerepairqatar.com
+fridgerepairqatar.com/wp-admin/qcCkBGRgHSDDG/
 fridotest2.de
 fridounkamran.ir
 friendgames.eu
@@ -91196,6 +91237,7 @@ haspeel.be
 hassan-khalaj.ir
 hassanmedia.com
 hastecloud.com
+hasteemart.com
 hastilyfing.co.kr
 hasukovillage.com
 hasumvina.nrglobal.top
@@ -94250,7 +94292,8 @@ ikramcigkofteci.com
 ikravanyhilman.id
 iksirkaucuk.com
 iktprojekt.si
-ikuhentai.net
+ikuhentai.net/cgi-bin/mesg.jpg
+ikuhentai.net/cgi-bin/messg.jpg
 ikumiyoshimatsu.com
 ikumou-densetsu.xyz
 ikumoumax.com
@@ -95444,7 +95487,13 @@ internationaldryerventcouncil.ca
 internationaldryerventcouncil.org
 internationalfestival.pl
 internationalmscareerseminar.com
-internaut.in
+internaut.in/wp-content/uploads/2020/04/docs_kl7/4234531/Buy-Sell%20Agreement_4234531_04242020.zip
+internaut.in/wp-content/uploads/2020/04/docs_kl7/49992772/Buy-Sell%20Agreement_49992772_04242020.zip
+internaut.in/wp-content/uploads/2020/04/docs_kl7/56223/Buy-Sell%20Agreement_56223_04242020.zip
+internaut.in/wp-content/uploads/2020/04/docs_kl7/8184013/Buy-Sell%20Agreement_8184013_04242020.zip
+internaut.in/wp-content/uploads/2020/04/docs_kl7/83448/Buy-Sell%20Agreement_83448_04242020.zip
+internaut.in/wp-content/uploads/2020/04/docs_kl7/Buy-Sell%20Agreement_4849567_04242020.zip
+internaut.in/wp-content/uploads/2020/04/docs_kl7/Buy-Sell%20Agreement_9653057_04242020.zip
 internetcasinoweblog.com
 internetjogasz.hu
 internetlink.com.mx/wp/FILE/rpvni8o8ixy9gf19yk1j0sy6tixd_y4teg7cp-03364579593295/
@@ -97100,7 +97149,7 @@ jfedemo.dubondinfotech.com
 jfogal.com
 jfohgo.bhtaifvu.com
 jfs.novazeo.net
-jftwebmarketing.com/mcc/yrjdo5ui3iuvfcu9e1svri/
+jftwebmarketing.com
 jgarthandassociates.com
 jgc.com.mx
 jgee.co.uk
@@ -109383,11 +109432,7 @@ myanmarseilone.com
 myanmodamini.es
 myantaeus.com
 myapollo.dev
-myartwork.space/ru53332/AAQ63153owAA6RoCAEtSFwASADsNVbwA/SUP10%20Archives%20/
-myartwork.space/ru53332/AJzf4l53owAA6RoCAEtSFwAmAGeclvcA/SPCC,%20Cold%20Rolled%20Sheet,%20Coil,%20Part%201%20/
-myartwork.space/ru53332/ANoS5l6TUwAAjRsCAEJPFwASAL2C7QIA/download%3Fnntxgei%3D34.exe
-myartwork.space/ru53332/afnr317oogaavhwcaelufwasabx_vuia/siti%20crack%20e%20seriali.exe
-myartwork.space/ru53332/aljm3l53owaavhwcaerffwaoam040s8a/neuheiten%20%C2%BB%20berg%20und%20schmid%20s%C3%A4getechnik.exe
+myartwork.space
 myatawwinkalawhotel.com
 myaupairing.org
 myawatuhomes.com
@@ -128207,6 +128252,7 @@ safelinks-protection.com
 safemedicinaonline.com
 safemoneyamerica.com
 safentrix.com
+safepage.cloud
 saferoomreviews.com
 safesalesnembutal.com
 safesandsecurity.co.za
@@ -133317,8 +133363,7 @@ spoorthy.ml
 spor.advertisetr.com
 sporiz.com
 sporsel.com
-sporsho.org/page-not-found/oDpvRlrb/
-sporsho.org/wp-admin/86iuflc/
+sporsho.org
 sport-culture.eu
 sport.ose.co.tz
 sportboutiqueheleen.nl
@@ -133650,13 +133695,7 @@ staff.mezoninn.ru
 staff.pelfberry.com
 staff.www.ltu.se
 staffan.fi
-stafffinancial.com/ACCOUNT/ACCOUNT9864515/
-stafffinancial.com/FILE/Services-06-13-18-New-Customer-IY/
-stafffinancial.com/Facturas/
-stafffinancial.com/Jun2018/Past-Due-invoice
-stafffinancial.com/Jun2018/Past-Due-invoice/
-stafffinancial.com/ups.com/WebTracking/BR-14269083727/
-stafffinancial.com/ups.com/WebTracking/ML-947965129526/
+stafffinancial.com
 staffingandleasing.com
 staffkabattle.ru
 staffline.com.co
@@ -141527,7 +141566,7 @@ trujilloremodelingservicesinc.com
 trulight.io
 trullsrodshop.com
 trulyhelpful.love
-trulykomal.com/trulykomal.com/76502345306739016/HzQDdtdgnxnADtwpmU/
+trulykomal.com
 trumbullcsb.org
 trumpfalls.com
 trumplegal.com
