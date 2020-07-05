@@ -96,10 +96,14 @@ grep -F -vf "urlhaus-top-domains.txt" > "malware-domains-online.txt"
 
 ## Parse malware URLs from popular domains
 cat "urlhaus.txt" | \
-grep -F -f "urlhaus-top-domains.txt" > "malware-url-top-domains.txt"
+grep -F -f "urlhaus-top-domains.txt" | \
+sed "s/^/||/g" | \
+sed "s/$/^\$all/g" > "malware-url-top-domains.txt"
 
 cat "urlhaus-online.txt" | \
-grep -F -f "urlhaus-top-domains.txt" > "malware-url-top-domains-online.txt"
+grep -F -f "urlhaus-top-domains.txt" | \
+sed "s/^/||/g" | \
+sed "s/$/^\$all/g" > "malware-url-top-domains-online.txt"
 
 
 ## Merge malware domains and URLs
