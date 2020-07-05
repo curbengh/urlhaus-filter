@@ -203,4 +203,8 @@ sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound-online.conf"
 
 
+## Clean up artifacts
+rm "URLhaus.csv" "top-1m-umbrella.txt" "top-1m-tranco.txt"
+
+
 cd ../
