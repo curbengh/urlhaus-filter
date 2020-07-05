@@ -208,7 +208,7 @@ sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound-online.conf"
 
 
 ## Clean up artifacts
-rm "URLhaus.csv" "top-1m-umbrella.txt" "top-1m-tranco.txt"
+rm "URLhaus.csv" "top-1m-umbrella.zip" "top-1m-umbrella.txt" "top-1m-tranco.txt"
 
 
 cd ../
