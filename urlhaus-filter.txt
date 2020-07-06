@@ -1,5 +1,5 @@
 ! Title: Malicious URL Blocklist
-! Updated: Mon, 06 Jul 2020 00:09:57 UTC
+! Updated: Mon, 06 Jul 2020 12:10:00 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -29,6 +29,7 @@
 024dna.cn
 024fpv.com
 02aae33.netsolhost.com
+02feb02.com
 03.bd-pcgame.xiazai24.com
 03.by
 0300ssm0300.xyz
@@ -2867,6 +2868,7 @@
 111.172.205.125
 111.172.40.13
 111.173.81.193
+111.174.217.14
 111.174.220.100
 111.176.128.179
 111.176.131.36
@@ -3326,6 +3328,7 @@
 112.123.62.6
 112.123.62.63
 112.126.94.107
+112.132.144.101
 112.132.144.15
 112.132.144.159
 112.132.144.4
@@ -3354,6 +3357,7 @@
 112.163.80.114
 112.164.168.88
 112.164.242.164
+112.164.25.228
 112.164.54.238
 112.164.81.234
 112.164.95.47
@@ -8232,9 +8236,11 @@
 119.188.250.55
 119.192.0.81
 119.193.114.101
+119.193.17.22
 119.193.179.1
 119.193.225.54
 119.193.99.226
+119.194.214.43
 119.194.36.96
 119.194.91.157
 119.198.230.82
@@ -9063,6 +9069,7 @@
 122.117.164.82
 122.117.166.242
 122.117.172.82
+122.117.179.59
 122.117.18.177
 122.117.180.7
 122.117.192.202
@@ -11859,6 +11866,7 @@
 134.122.79.138
 134.122.87.117
 134.122.92.140
+134.122.92.176
 134.122.95.167
 134.122.95.193
 134.175.189.57
@@ -12182,6 +12190,7 @@
 138.197.162.98
 138.197.163.165
 138.197.163.56
+138.197.165.165
 138.197.166.197
 138.197.166.80
 138.197.167.101
@@ -13218,6 +13227,7 @@
 149.255.36.133
 149.255.36.197
 149.255.36.249
+149.28.109.35
 149.28.123.77
 149.28.164.44
 149.28.165.182
@@ -16880,6 +16890,7 @@
 172.39.12.178
 172.39.12.187
 172.39.12.47
+172.39.12.6
 172.39.12.88
 172.39.13.102
 172.39.13.104
@@ -17651,6 +17662,7 @@
 172.45.2.191
 172.45.2.23
 172.45.2.31
+172.45.2.33
 172.45.2.79
 172.45.2.91
 172.45.20.164
@@ -18098,6 +18110,7 @@
 175.11.213.12
 175.11.213.144
 175.11.213.167
+175.11.213.97
 175.11.214.117
 175.11.214.15
 175.11.214.159
@@ -19756,6 +19769,7 @@
 180.115.113.236
 180.115.114.168
 180.115.114.57
+180.115.117.241
 180.115.118.153
 180.115.119.133
 180.115.15.15
@@ -21233,6 +21247,7 @@
 182.122.168.163
 182.122.168.49
 182.122.169.224
+182.122.170.196
 182.122.171.63
 182.122.172.240
 182.122.173.129
@@ -25911,6 +25926,7 @@
 199.83.205.220
 199.83.205.221
 199.83.205.231
+199.83.205.24
 199.83.205.244
 199.83.205.25
 199.83.205.253
@@ -29880,6 +29896,7 @@
 222.141.40.28
 222.141.40.8
 222.141.40.93
+222.141.41.219
 222.141.43.7
 222.141.44.11
 222.141.45.179
@@ -31133,6 +31150,7 @@
 27.41.141.242
 27.41.141.89
 27.41.142.130
+27.41.142.190
 27.41.142.198
 27.41.142.51
 27.41.143.79
@@ -31824,6 +31842,7 @@
 31639.xc.mieseng.com
 316house.com
 31937.ru
+31kungcommunicationtaristdysupliermgjky.duckdns.org
 31mbu.hanashikoto.ru
 31noble.com
 31zaojia.com
@@ -33011,6 +33030,7 @@
 37.252.74.43
 37.252.79.213
 37.252.79.223
+37.254.17.54
 37.254.213.25
 37.254.72.198
 37.254.93.104
@@ -35309,6 +35329,7 @@
 42.239.243.2
 42.239.243.220
 42.239.244.70
+42.239.245.160
 42.239.246.208
 42.239.246.64
 42.239.247.41
@@ -35551,6 +35572,7 @@
 45.140.168.199
 45.140.168.240
 45.140.169.30
+45.140.169.35
 45.141.59.85
 45.141.86.139
 45.141.86.18
@@ -36033,6 +36055,7 @@
 45.82.250.249
 45.84.196.111
 45.84.196.113
+45.84.196.121
 45.84.196.124
 45.84.196.135
 45.84.196.141
@@ -36970,6 +36993,7 @@
 49.116.202.221
 49.116.203.133
 49.116.203.179
+49.116.205.198
 49.116.210.114
 49.116.211.69
 49.116.212.251
@@ -37693,6 +37717,7 @@
 49.82.206.252
 49.82.207.150
 49.82.209.198
+49.82.212.34
 49.82.213.143
 49.82.213.188
 49.82.213.69
@@ -38026,7 +38051,6 @@
 4hourbook.com
 4house.co
 4hsafetyksa.com
-4i7i.com
 4im.us
 4ingroup.com
 4jt4l032ayqiw.com
@@ -38447,6 +38471,7 @@
 5.95.226.79
 5.95.59.66
 5.fjwt1.crsky.com
+5.top4top.io
 5.u0148466.z8.ru
 5.unplugrevolution.com
 50.115.165.107
@@ -38736,6 +38761,7 @@
 518meeker.com
 518td.cn
 518vps.com
+51aiwan.com
 51az.com.cn
 51bairen.com
 51laserclean.com
@@ -39072,6 +39098,7 @@
 58.243.126.248
 58.243.126.44
 58.243.126.93
+58.243.127.114
 58.243.127.150
 58.243.127.163
 58.243.127.176
@@ -42059,6 +42086,7 @@
 77.230.116.99
 77.231.212.217
 77.231.241.204
+77.231.82.99
 77.236.86.128
 77.239.158.104
 77.239.45.24
@@ -42260,6 +42288,7 @@
 77831.prohoster.biz
 77mscco.com
 78.101.24.221
+78.101.30.235
 78.106.133.198
 78.108.245.32
 78.108.94.40
@@ -44545,6 +44574,7 @@
 94.107.120.139
 94.121.193.131
 94.121.21.65
+94.122.250.90
 94.127.219.90
 94.130.174.114
 94.130.186.50
@@ -45199,6 +45229,7 @@ a1bid.co.kr
 a1budgetcarpetcleaners.com
 a1college.ca
 a1commodities.com.sg
+a1enterprise.com
 a1enterprises.com
 a1fleetds.com
 a1gradetutors.com
@@ -45369,7 +45400,6 @@ abakonferans.org
 abakus-biuro.net
 abakus-rks.com
 abandonedplanet.ca
-abandonstudios.com
 abantesabogados.com
 abanti.mygifts.xyz
 abanyanresidence.com
@@ -46088,7 +46118,6 @@ adityebirla.com
 adizventuresgh.com
 adjacentcruise.com
 adjassessoria.com.br
-adjoy.com
 adkhw.net
 adkoc.com
 adl-groups.com
@@ -46598,7 +46627,6 @@ agenza15.ayz.pl
 agenza18.ayz.pl
 agenziabalestri.it
 agenziadiviaggidinozzetorino.it
-agenziainformazioni.icu
 agepsed.org
 agereversalcreamam.com
 agesgreen.com
@@ -46687,7 +46715,6 @@ agroarshan.com
 agrobanaselaras.com
 agroborobudur.com
 agrochimic.com
-agrocoeli.com
 agroconsultancy.ge
 agrodeli.cl
 agrofield.erava.uz
@@ -46876,6 +46903,7 @@ aileshidai.com
 aim.co.tz
 aim2grow.in
 aima.com.tr
+aima.it
 aimaproducoes.com.br
 aimar-travel.com
 aimbiscuits.com
@@ -47001,7 +47029,6 @@ ajflex.com
 ajhmanamlak.com
 aji.mx
 ajibolarilwan.com
-ajil.com
 ajilix.com
 ajilix.consulting
 ajilix.enterprises
@@ -47052,6 +47079,7 @@ akarofis.com
 akarosi.com
 akarsu.de
 akashicinsights.com
+akatanomastos.net
 akawork.io
 akbaara.com
 akbalmermer.com
@@ -47076,7 +47104,6 @@ akdkart.com
 akeeratly.in
 akekartela.com
 akeswari.org
-akg-eng.net
 akgemc.com
 akgiyimtekstil.com
 akh.ge
@@ -48590,7 +48617,6 @@ andrewsleepa.com
 andrewtek.ru
 andrewtlee.net
 andrewtse.ca
-andrewwill.com
 andrewzelaya.com
 andrey-nikolsky.ru
 andreybodrov.ru
@@ -48625,7 +48651,6 @@ anedma.com
 anekakerajinanjogja.com
 anekasambalsambel.com
 anello.it
-aneoeauhiazegfiz.ru
 anepheron.com
 anescu.md.chula.ac.th
 anesthesia.hlogbook.ir
@@ -48955,7 +48980,6 @@ antonesitalianfood.org
 antonevvitya.mcdir.ru
 antonieta.es
 antoninferla.com
-antonini.com.br
 antoniomuhana.com.br
 antoniosanz.com
 antonis-nikolakis.gr
@@ -50450,7 +50474,6 @@ astana-alpamys.kz
 astanaikhtiar.com.my
 astariglobal.com.cn
 astarmar.net
-astatue.com
 astecart.com
 asteitalia.cf
 asti.msk.ru
@@ -50743,7 +50766,6 @@ atta2tata.monster
 attach.66rpg.com
 attach.mail.daum.net
 attach2.mail.daumcdnr.com
-attack.s2lol.com
 attack.ucoz.ae
 attackplanr.com
 attaqwapreneur.com
@@ -51673,7 +51695,6 @@ backhomebail.com
 backlinksale.com
 backofficebids.com
 backon.jp
-backpack-vacuum-cleaners.com
 backpacker.view-indonesia.com
 backpackers.gr
 backpage-inc.com
@@ -52534,6 +52555,7 @@ beadevil.co.uk
 beadsbymk.com
 beadventure.us
 beafricatelevision.com
+beak.net
 beal.co.uk
 beamdream.de
 beanmatrix.com
@@ -52759,7 +52781,6 @@ belgiekanbeter.be
 belgrafica.pt
 belgutcommunity.org
 belgym.mx
-belief-systems.com
 belikejoe.com
 belilustra.cl
 belinpart.website
@@ -53048,6 +53069,7 @@ bestadvprint.ru
 bestapp4u.com
 bestarter.kz
 bestasinsaat.com.tr
+bestautofinder.com
 bestautolenders.com
 bestbestbags.com
 bestbikenatal.com.br
@@ -53246,7 +53268,6 @@ bevoc.nl
 bewbvw.dm.files.1drv.com
 bewebpreneur.com
 bext.com
-bey12.com
 beyazgarage.com
 beyazincienerji.com.tr
 beydagihali.com
@@ -53468,6 +53489,7 @@ bigdealist.com
 bigdev.top
 bigdiamondeals.com
 bigeyes.com.tw
+bigfile.mail.naver.com
 bigfishchain.com
 bigfoothospitality.com
 bigg-live.com
@@ -53648,7 +53670,6 @@ binnayem.com
 binoculars-shop.ru
 binom-perm.cf
 binsammar.com
-binsuloomgroup.com
 binsyukle.com
 binsyukle.net
 binsyukle.org
@@ -56473,7 +56494,6 @@ camisolaamarela.pt
 camiticket.com
 camiworldwide.in
 camlikkamping.com
-cammi.it
 camnangtrithuc.com
 campagnesms.info
 campaigns.actionable-science.com
@@ -56500,6 +56520,7 @@ camposaurobeb.it
 campsparrowhawk.se
 campuccino.de
 campus-colonia.com
+campus-web.com
 campus.capicapi.cr
 campus.meidling.vhs.at
 campusbowling.com.tr
@@ -56805,6 +56826,7 @@ caringrides.com
 caringsoul.org
 carinsurancedirectories.com
 carisga.com
+caritaszambia.org
 carkanatdekorasyon.com
 carkey.neagoeandrei.com
 carkeylockout.com
@@ -57405,7 +57427,6 @@ ceara.es
 ceatnet.com.br
 cebecijant.com
 cebige.net
-cebiro.com
 cebubesthouse.com
 cebuflorists.com
 cebumeditec.com
@@ -58821,7 +58842,6 @@ cleverflame.com
 cleverlearncebu.com
 cleverspain.com
 clgafareaitu.com
-clgsecurities.com
 clhairdesign.com
 clhgoody.xyz
 clic-douaisis.fr
@@ -58977,7 +58997,6 @@ cloud.diminishedvaluecalifornia.com
 cloud.hollweck.it
 cloud.kryptonia.fr
 cloud.patrika.com
-cloud.s2lol.com
 cloud.wmsinfo.com.br
 cloud.xenoris.fr
 cloudacademies.pt
@@ -59085,6 +59104,7 @@ cmdou.com
 cmdtech.com.vn
 cmeaststar.de
 cmessagers.com
+cmg.asia
 cmgroup.com.ua
 cmhighschool.edu.bd
 cmhmfgoutbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
@@ -59330,7 +59350,6 @@ cofqz.com
 cofrex-eg.com
 cofusa.com
 cogeainternational.com
-coges-tn.com
 coghlanhealthcare.ie
 cogiaolamtinh.com
 cogiaooanh.xyz
@@ -59461,7 +59480,6 @@ coloradocare.org
 coloradolandhome.com
 coloradolatinoforum.org
 coloradosyntheticlubricants.com
-coloramacoatings.com
 colorblast.pw.had.su
 colored.mx
 coloresarequipa.fr
@@ -60166,6 +60184,7 @@ corkmademore.com
 corkspeechtherapy.ie
 corm-informatique.fr
 cormetal.eu
+cornejotex.com
 cornelbusiness.co.uk
 cornelia-ernst.de
 cornellekacy.net
@@ -61080,7 +61099,6 @@ curly-bar-8ce5.myloaders.workers.dev
 curly-yoron-0282.sunnyday.jp
 curmudgeonintransit.com
 curranhomecompany.ie
-currantmedia.com
 currax-ne.tk
 currencyavenue.com
 currencyexchanger.com.ng
@@ -61288,7 +61306,6 @@ d.ifeelthelife.ru
 d.makswells.com
 d.teamworx.ph
 d.techmartbd.com
-d.top4top.io
 d.top4top.net
 d04.data39.helldata.com
 d1.amobbs.com
@@ -63356,7 +63373,6 @@ dgfjdxcfgvbxc.ru
 dgkawaichi.com
 dgkhj.ru
 dglass.cl
-dgnet.com.br
 dgnj.cn
 dgpratomo.com
 dgreitkelis.lt
@@ -63640,6 +63656,7 @@ digigm.ir
 digihashtag.com
 digiiital.co.uk
 digikow.000webhostapp.com
+digilander.libero.it
 digileads.ae
 digilib.dianhusada.ac.id
 digim.asia
@@ -64319,6 +64336,8 @@ dobro.co.ua
 dobrojutrodjevojke.com
 dobroviz.com.ua
 dobrovorot.su
+doc-04-7g-docs.googleusercontent.com
+doc-0g-cc-docs.googleusercontent.com
 doc-hub.healthycheapfast.com
 doc-japan.com
 doc.albaspizzaastoria.com
@@ -64862,7 +64881,6 @@ down1.hgkjb.top
 down1.softups.info
 down1.topsadon1.com
 down1.xt70.com
-down10.zol.com.cn
 down10b.zol.com.cn
 down192.wuyunjk.com
 down1loads.site
@@ -64878,7 +64896,6 @@ downfile2019.com
 downfilepro.com
 downinthecountry.com
 download-cdn.com
-download-invoice.site
 download-plugin.co.za
 download-plugins.co.za
 download-serverupdate.eu-gb.cf.appdomain.cloud
@@ -64940,7 +64957,6 @@ downloadrighti.top
 downloads.galaxyrp.xyz
 downloads.medpak.com
 downloads.noaa.network
-downloads.sandisk.com
 downloads.webstartpro.com
 downloads.xchangewallet.com
 downloads44you.shop
@@ -65732,7 +65748,6 @@ dyeek.com
 dyefusion.lesetoilesdelarive.ca
 dyergrimesarchitects.co.uk
 dyingtoachieve.com
-dylanfabrics.com
 dylanraffin.com
 dymardistribuidora.com
 dymoetiketler.com
@@ -66550,6 +66565,7 @@ egophobiamcc.com.cy
 egplms.okmot.kg
 egpodrab.info
 egreenhomesusa.com
+egreetcards942.servehttp.com
 egresswindowsystems.com
 egs.w0rdpresskings.com
 egsa.at
@@ -66774,6 +66790,7 @@ electiveelectronics.com
 electladyproductions.com
 electoraltraining.info
 electrability.com.au
+electric-1.com
 electrica.club
 electricalpm.com
 electricam.by
@@ -67149,6 +67166,7 @@ emdgames.com
 emdisalud.porsgrunn.folkbjnrwwww.watchdogdns.duckdns.org
 emdubai.com
 eme.emeraldsurfvision.com
+emea01.safelinks.protection.outlook.com
 emediworldhealthbank.com
 emedtutor.com
 emelieafgeijerstam.se
@@ -68042,7 +68060,6 @@ essastones.com
 essay.essaytutors.net
 essayeditingservices.com
 essayseller.com
-esscorp.org
 esselsoft.com
 essem.com.tr
 essemengineers.com
@@ -68232,6 +68249,7 @@ etwqsx23.duckdns.org
 etxse.xyz
 eu-easy.com
 eu.wildfire.paloaltonetworks.com
+eu1.salesforce.com
 eu283iwoqodjspqisjdf.com
 eu5-cdn.devid.info
 eubankphoto.com
@@ -68631,7 +68649,6 @@ exhibitionislam.com
 exhicon.ir
 exhilarinfo.com
 exictos.ligaempresarial.pt
-exiledros.net
 eximalert.com
 eximium.pt
 eximme.com
@@ -68839,7 +68856,6 @@ f.jump.wtf
 f.makswells.com
 f.pastdobi.ru
 f.regardisperfectshild.ru
-f.top4top.io
 f.top4top.net
 f.tsuyogari.ru
 f.zombieled.ru
@@ -69079,7 +69095,6 @@ familyservicekent.com
 familysgreen.com
 familytex.ru
 famint-my.sharepoint.com
-famitaa.com
 famiuganda.org
 famostano.com
 famous-quotations.org
@@ -69456,7 +69471,6 @@ fdigitalsolutions.com
 fdistus.com
 fdlsagesse.ga
 fdni.ir
-fdrs-ltd.com
 fdsaaa.igg.biz
 fdsdfgdfgdf.ru
 fdsfddfgdfgdf.ru
@@ -70500,7 +70514,6 @@ fm963.top
 fmaba.com
 fmailadvert15dx.world
 fmaltd.co.uk
-fmam.net
 fmarquisecale.com
 fmazar.ir
 fmdelearning.com
@@ -70525,6 +70538,7 @@ fnem.org
 fnscientific.com
 fnt.landtrip.ru
 fntc-test.xcesslogic.com
+fntcr.com
 fnyah44.email
 fobertinia.com
 fobsun.com
@@ -70925,7 +70939,6 @@ fr.files-downloads.com
 fr.shared-download.com
 fr791969.bget.ru
 frabey.de
-frackit.com
 fractal.vn
 fractalcaravan.com
 fractaldreams.com
@@ -71268,7 +71281,6 @@ fs-advocates.co.za
 fs-ium.com
 fs.deffield.com
 fs.nfdngx.club
-fsastudio.com
 fschgroup.co.uk
 fscxzc.top
 fsdownloads.oss-cn-hangzhou.aliyuncs.com
@@ -71380,6 +71392,7 @@ fulhamdigital.com
 fulhamfit.com
 fulijiaozhu.com
 fulkinews24.com
+full20gb.store
 fullanimals.cl
 fullbright-edu.com
 fullbrookpropertymaintenance.com
@@ -72942,6 +72955,7 @@ glid.jp
 gligoricekofood.com
 glik.acemlnc.com
 glimpse.com.cn
+glip-vault-1.s3-accelerate.amazonaws.com
 glissandobigband.com
 glitchexotika.com
 glitzygal.net
@@ -73132,7 +73146,9 @@ gmtheme.com
 gmvmexico.com
 gn.prometeopro.com
 gn52.cn
+gna1jw.dm.files.1drv.com
 gnb.uz
+gnbrea.dm.files.1drv.com
 gnc.happenizedev.com
 gnesoft.com
 gness.net
@@ -75412,7 +75428,6 @@ heevassify.com
 hefok.com
 hegdesoujanya.shsoujanya.com
 hegelito.de
-heggemeier.com
 hegyhati-altisk.sulinet.hu
 hehe.hitherenoodle.tk
 hehe.suckmyass.gq
@@ -75676,6 +75691,7 @@ hetbeeldenrijk.nl
 hetum.co.il
 hetz.nu
 heuveling.net
+heuzyg.dm.files.1drv.com
 hewaralqalam.com
 hewle.kielsoservice.net
 hexablue.pk
@@ -75854,6 +75870,7 @@ hillmanmaritime.com
 hillmann.ru
 hillringsberg.com
 hillsbed.xyz
+hillsidecandy.com
 hillsidedevelopments.ca
 hillsmp.com
 hilltowerhotelandresort.com
@@ -75951,6 +75968,7 @@ hitapradyo.com
 hitbag.com.ua
 hitdaspot.co.uk
 hitdesignworks.com
+hitech-control.com
 hitechaccessoriesmd.com
 hitechartificiallimbs.com
 hitechkitchenzone.com
@@ -76760,6 +76778,7 @@ hqrendering.com.au
 hqsistemas.com.ar
 hr24.com.ua
 hradisko.cz
+hraxisindia.com
 hrbpsolutions.co.ke
 hrbruncheng.cn
 hrdivx.com
@@ -76834,6 +76853,12 @@ htn13.com
 htnieuw.hazenbergtimmerwerken.nl
 htpinvestment.com.vn
 htt.nu
+http
+http.pc-rekcah.com
+http.zombiebears.online
+httpron.servegame.com
+httpwindows10updatevbcustom.com
+httpyiwujiadianweixiu.xyz
 httsdomainset.ddns.net
 httvic.com.au
 htx08.com
@@ -77147,7 +77172,6 @@ i-sharecloud.com
 i-supportcharity.com
 i-vnsweyu.pl
 i-voda.com
-i.cubeupload.com
 i.fiery.me
 i.fluffy.cc
 i.funtourspt.eu
@@ -77961,6 +77985,7 @@ img.bigbigboy.vn
 img.martatovaglieri.com
 img.martatovaglieri.it
 img.rheovest.com
+img.sobot.com
 img.wanghejun.cn
 img19.vikecn.com
 img54.hbzhan.com
@@ -79705,6 +79730,7 @@ ittj.ir
 itumelengsekhu.co.za
 ituoiviaggi.it
 iturcja.com.pl
+itvision.it
 itvm.pl
 itweurotech.com
 itwinner.net
@@ -79775,6 +79801,7 @@ iwantoutsource.com
 iwantthisandthat2.com
 iwanttodrawapicforyou.com
 iwebhostmasters.com
+iwebvault.com
 iwild.com
 iwilldrinkanybeer.com
 iwillnot.be
@@ -80824,6 +80851,7 @@ johnknoxvillageexplore.com
 johnmccance.com
 johnmedina-001-site1.ftempurl.com
 johnmillsblog.files.wordpress.com
+johnnipe.com
 johnnobab.com
 johnnycrap.com
 johnnydollar.dj
@@ -81363,6 +81391,7 @@ jumdotours.com
 jumesamedina.com
 jumiled.vn
 jumla.biz
+jummm.tk
 jumos.xyz
 jumpcity.dev-holbi.co.uk
 jumperborne.nl
@@ -81675,6 +81704,7 @@ kaligraph.in
 kaliman.net
 kaliningrad-itc.ru
 kalipanthu.com
+kalisti.com
 kalitechat.com
 kalitengah-pancur.situsdesa.id
 kalitukas.lt
@@ -81799,7 +81829,6 @@ kanorkanor23.club
 kanorkanor23.ru
 kansai.com.au
 kansaivn.com
-kantauri.com
 kantei-center.com
 kanther.net
 kanticzkos.bernardinai.lt
@@ -82853,7 +82882,6 @@ kitnalta-pharma.de
 kitnalta-versandapotheke-shop.de
 kitnalta.net
 kitnife.com
-kitokieprojektai.net
 kitroomstore.com
 kitsuneconsulting.com.au
 kittiesplanet.com
@@ -83617,7 +83645,6 @@ krzysztofbienkowski.pl
 ks-werbeservice.de
 ks.od.ua
 ksa.fm
-ksafety.it
 ksc-almaz.ru
 kscco-lighthouse.com
 ksdstat14tp.club
@@ -83669,7 +83696,6 @@ ktml.org
 ktr.kiraneproject.com
 kttech.hu
 ktthompson.net
-ktudu.com
 ktuumc.id
 kty58.com
 ku3rgq4.com
@@ -83794,7 +83820,6 @@ kurt-larsen.dk
 kurt-paulus.photography
 kurt-schwitters.schule
 kurtakibi.com
-kurttasche.com
 kurucztherm.com
 kurukshetraorganics.org
 kurulushenergo.com
@@ -83923,7 +83948,6 @@ l-club.com.ua
 l-jaxx.com
 l-l-l-l-l-l.info
 l.com.watchdogdns.duckdns.org
-l.top4top.io
 l0.lonlydra.ru
 l0sr.net
 l0st.hldns.ru
@@ -84025,7 +84049,6 @@ labulabi.asia
 labuzzance.com
 labvietduc.com
 lacadeau.in
-lacadosmurcia.com
 lacaletadesitges.es
 lacan.vn
 lacancha.pe
@@ -84172,6 +84195,7 @@ lalogarcia.es
 lalolink.com
 lalunafashion.eu
 lalunenoire.net
+lam.cz
 lamacosmetics.com
 lamaddalenacinqueterre.it
 lamaggiora.it
@@ -84836,6 +84860,7 @@ legalservicesplc.org
 legalsurrogacy.kz
 legalth.com
 legaltoplist.us
+legalwatch.com
 legato.gda.pl
 legendboats.my.salesforce.com
 legendceylontea.com
@@ -85513,6 +85538,7 @@ lindgrenfinancial.com
 lindseymayfit.com
 lindumsystems.co.ke
 line.largefamiliesonpurpose.com
+line.winneratlaw.com
 lineageforum.ru
 lineahandy.it
 lineamagica.hu
@@ -85545,7 +85571,6 @@ link.icloudcowboy.com
 link.mx
 link.nocomplaintsday.info
 link.rolandchase.com
-link.zixcentral.com
 link100.cc
 link17.by
 link2bio.ir
@@ -85673,6 +85698,7 @@ litemart.co.uk
 literaryassassins.com
 literateifted.xyz
 litetronix-me.com
+lithe.it
 lithi.io
 lithium.hosmarshallconsulting.ieescolbounces.duoliprudential.com.watchdogdns.duckdns.org
 litjackets.com
@@ -86958,6 +86984,7 @@ madurasa.co.id
 mae.sk
 maedwellresidential.mintbig.com
 maeelisa.com.br
+maelisando.it
 maelkajangcanopy.com
 maellecreations.com
 maeoureath.com
@@ -88575,6 +88602,7 @@ massdev.co
 masseur.es
 masseyatnandina.com
 massimopintus.com
+massiveart.info
 massivedynamicks.com
 massivesales.co.uk
 massivewebtech.com
@@ -89574,7 +89602,6 @@ meriejumaa-co.com
 meriglobal.org
 merikhagency.com
 merisela.ru
-merkez-trading.ga
 merkez.tk
 merkmodeonline.nl
 merkol.com
@@ -90814,7 +90841,6 @@ modasafrica.com
 modbu.xyz
 modcitymom.com
 modcloudserver.eu
-modelgenesis.com
 modelightings.com
 modelistbarnaul.ru
 modellbau-gritsch.at
@@ -91628,7 +91654,6 @@ msshansa.info
 mssltd.ie
 mssolutionspty.com
 msspartners.pl
-mssql.4i7i.com
 mst-net.de
 mstation.jp
 msteam18.com
@@ -91990,6 +92015,7 @@ mvdgeest.nl
 mvdrepair.com
 mvhgjvbn.ug
 mvicente.com.br
+mvid.com
 mvidl.site
 mvmskpd.com
 mvns.railfan.net
@@ -92734,6 +92760,7 @@ nastaranglam.com
 nasuha.shariainstitute.com
 naswaambali.com
 nasytzman.info
+nataliawalthphotography.com
 natalie.makeyourselfelaborate.com
 natalieannsilva.com
 nataliebakery.ca
@@ -92895,6 +92922,7 @@ nbfghreqww.ug
 nbgcpa.net
 nbgcpa.org
 nbhgroup.in
+nbigfile.mail.naver.com
 nbiyan.vn
 nbj.engaged.it
 nbn-nrc.org
@@ -93427,6 +93455,7 @@ newrockchurchconyers.org
 news-it.xyz
 news-portal.polbd.com
 news-week.ru
+news.a1enterprise.com
 news.abfakerman.ir
 news.betoaji.org
 news.dichvugiarenhatban.com
@@ -93655,6 +93684,7 @@ nguyenthanhriori.com
 nguyenthituyet.org
 nguyenthuyhanh.com.vn
 nguyentrongkha.com
+ngyusa.com
 nhacchoquangcao24h.com
 nhadaiphat.com
 nhadatbaria.asia
@@ -93942,6 +93972,7 @@ nitadd.com
 nitawezareality.info
 niteccorp.com
 nitech.mu
+niteshagrico.com
 nitevibe.com
 nitincarcare.com
 nitindhanji.com
@@ -94664,7 +94695,6 @@ nwwgbluv65j6g0xgr-xk.com
 nxbdantri.com.vn
 nxn.one
 nxtcloud.dittmer.at
-nxtfdata.xyz
 nxtgreen.co.in
 ny.libconsult.ca
 ny.yummyeliquid.info
@@ -95178,6 +95208,7 @@ old-hita-2276.babyblue.jp
 old-rr-americas.oie.int
 old-tosu-9221.verse.jp
 old.47-region.ru
+old.a1enterprise.com
 old.agiovlasitishome.com
 old.antenesmenorca.com
 old.beatrixmaxfield.com
@@ -95883,6 +95914,7 @@ originar.com.ar
 origins.hu
 originsmile.newe-card.in
 orik.hu
+orilenkinski.com
 orion-travel.biz
 orion.kim
 orion7144.com
@@ -96565,6 +96597,7 @@ pandemibasvurumerkezi.com
 pandemidestek-gov.com
 pandemidestek-sosyalser.com
 pandemidestekleri.com
+pandemidesteklerim.com
 pandemidestekvaktiniz.xyz
 pandestek-sosyal.com
 pandiona.com
@@ -96676,6 +96709,7 @@ parafia.kaszczorek.com
 parafinadomicilio.cl
 paragonyxgroup.com
 paragptfe.com
+parahttp.tk
 paraisokids.com.mx
 paraitelengria.com
 parakazani.net
@@ -98379,6 +98413,7 @@ pmdutch.nl
 pmg.com.mm
 pmgovg.ch.files.1drv.com
 pmhomeandgarden.co.uk
+pmiec.com
 pmil.org
 pminfocom.com
 pmionline.us
@@ -98770,7 +98805,6 @@ positivechangesok.com
 positiveconvention.co.za
 positiveid.org
 positiverne.dk
-positronicsindia.com
 posizionareunsito.it
 poslovni-oglasi.com
 poslovno-pregovaranje.com
@@ -99261,6 +99295,7 @@ prismware.ml
 pristineglassmirror.com
 pristinequill.com
 prith-hauts-de-france.org
+prithvigroup.net
 pritsep56.ru
 prittworldproperties.co.ke
 privacydesignstudio.com
@@ -99960,7 +99995,6 @@ puglia.ch
 pugliachebonta.it
 puglicarlog.com.br
 pugovkinitki.ru
-pugs-center.org
 pugterx0.s3.eu-west-2.amazonaws.com
 puisatiere.fr
 pujashoppe.in
@@ -100518,7 +100552,6 @@ qsoft.com.uy
 qsongchihotel.com
 qsquareads.com
 qsquid.com
-qst-inc.com
 qsysi.com
 qsyzf.cn
 qt-ab.top
@@ -101031,6 +101064,7 @@ radheenterpriseonline.com
 radheshyamcityhomes.com
 radi.org.ng
 radiantdates.com
+radiantqatar.com
 radiantservices.com
 radiator-prado33.ru
 radicocinas.com.mx
@@ -102660,6 +102694,7 @@ rlinternetcorporation.com
 rlmoscow.ru
 rlpromotion.com
 rlshowalter.com
+rlv7pw.am.files.1drv.com
 rmaier.net
 rmailadvert15dx.xyz
 rmailadvert15dxcv.xyz
@@ -102966,6 +103001,7 @@ rooftechconstruction.com
 rookmaker.eu
 roomserviceq8.com
 rooptelsonic.com
+roostercastle.servehttp.com
 root-project.ru
 rootaxx.org
 rootcellar.us
@@ -103145,7 +103181,6 @@ royaltystore.shop
 royaproduct.ru
 royce.vn
 roycreations.in
-royeagle.com
 roygroup.vn
 roymex.coappinformdoclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 royphotographyke.com
@@ -103611,13 +103646,13 @@ s287-my.sharepoint.com
 s289428.smrtp.ru
 s298myt.storage.yandex.net
 s2chinese2profesionalandhealthwsdyanaly.duckdns.org
-s2lol.com
 s2retail.vn
 s2s-architect.com
 s3-ap-northeast-1.amazonaws.com
 s3-sa-east-1.amazonaws.com
 s3.ap-northeast-2.amazonaws.com
 s3.ca-central-1.amazonaws.com
+s3.didiyunapi.com
 s3.eu-west-2.amazonaws.com
 s3.in.ua
 s3.sovereigncars.org.uk
@@ -103715,7 +103750,6 @@ sachindutta.com
 sachoob.com
 sachs2.millywilly.ch
 sachtrithuc.com
-sacm.net
 sacmsgmgw001a.delta.org
 sacmsgmgw001b.delta.org
 saconets.com
@@ -104300,6 +104334,7 @@ sanicvservice.nl
 sanifil.net
 sanitaco-ge.com
 sanitair4you.nl
+sanitize.nl
 sanitolonline.co.uk
 sanjeevanifoundations.in
 sanjh.tv
@@ -104508,6 +104543,7 @@ sathachlaixebinhthuan.com
 sathnusery.com
 sathyamadvisory.in
 satilik.webprojemiz.com
+satio.com
 satir-social.com
 satisfysupply.com
 satishuppalphotography.com
@@ -105144,7 +105180,6 @@ securoworld.co.za
 secursystem.it
 seda.sk
 sedatalpdoner.com
-sedeconcursal.com
 seder.us
 sedgefinancial.com
 sedgfinancial.com
@@ -105596,7 +105631,6 @@ service-quotidien.com
 service-sbullet.com
 service-updater.hopto.org
 service.atlink.ir
-service.ezsoftwareupdater.com
 service.jumpitairbag.com
 service.pandtelectric.com
 service.raglassalum.com
@@ -106523,7 +106557,6 @@ si-hao.cn
 sia-gmbh.de
 siairport.com
 siakad.brawijaya.ac.id
-siakad.ub.ac.id
 sial-healthcare.co.uk
 sialkotgoods.com
 sialkotmart.net
@@ -108694,7 +108727,6 @@ spy-x-family-manga.com
 spycam-kaufen.de
 spyguys.net
 sqjjdc.com
-sql.4i7i.com
 sql.bonin.home.pl
 sql.merkadetodoa92.com
 sqldefragmanager.xyz
@@ -108768,7 +108800,6 @@ srinivastata.net
 sripalanimalaimurugan.com
 sripalee.srilk.com
 sripipat.com
-srirachaport.com
 sriretail.com
 sriroof.in
 srisaaifarms.com
@@ -109435,7 +109466,6 @@ stijnbiemans.nl
 stikesbanyuwangi.ac.id
 stikesbaptis.ac.id
 stikeshangtuahsby-library.ac.id
-stiksimonida.com
 stile-strano.com
 stiledesignitaliano.com
 stileimmobili.it
@@ -110305,6 +110335,7 @@ support.homemakerideas.com
 support.imaitaly.biz
 support.jbrueggemann.com
 support.m2mservices.com
+support.mdsol.com
 support.nordenrecycling.com
 support.pubg.com
 support.redbook.aero
@@ -110695,7 +110726,6 @@ synergyhumanity.com
 synergypersonalcare.com
 synergytem1.nss-asia.com
 synesius17.com
-synhera.be
 synj.net
 synkad.se
 syntechsecurity.co
@@ -111670,7 +111700,6 @@ tecnificacioimanteniment.com
 tecnimobile.com
 tecniset.cat
 tecno-logic.sci3e.com
-tecno-pack.net
 tecnobau.cl
 tecnocitta.it
 tecnocomitalia.com
@@ -112061,6 +112090,7 @@ test-zwangerschap.nl
 test.38abc.ru
 test.3boxmedia.ro
 test.3dles.com
+test.a1enterprise.com
 test.absurdu.net
 test.acdlec.be
 test.adsaca.org
@@ -112734,7 +112764,6 @@ thefortunatenutrition.com
 thefoxfestival.com
 thefragrancefreeshop.com
 thefranssons.com
-thefrees.com
 thefreewaterfoundation.org.za
 thefront.in
 thefuel.be
@@ -113197,7 +113226,6 @@ thewinningvoice.com
 thewinnowgroup.org
 thewinslowgroup.com
 thewishes4u.com
-thewomentour.com
 thewondercity.com
 thewordrelianceinternational.org
 thewordspoken.org
@@ -113938,6 +113966,7 @@ tongdailyson.com
 tongdaive.net
 tongdaotech.com.cn
 tongdogiare.com
+tonghopgia.net
 tongkhobep.uwp.me
 tongkhosoncongnghiep.com
 tongphanphoison.com
@@ -114200,6 +114229,7 @@ touchupxs.com
 toufighsport.ir
 toughdomain.xyz
 toulousa.com
+tour-talk.com
 tour.antaycasinohotel.cl
 tour.nicestore.co.kr
 tour.vot.by
@@ -114286,6 +114316,7 @@ tpzen.vn
 tqwe651qweqweqw.com
 tr-ailesosyalpandemi-desteklerimiz.net
 tr-alsat.com
+tr-desteklerimiz-ailebireyleri-pandemi.net
 tr-lawyers.com
 tr.capers.co
 tr.fruturca.com
@@ -114321,6 +114352,7 @@ tracker.savefrom.work
 tracker.sematic.ru
 trackerspro.com
 trackfinderpestcontrol.co.uk
+tracking.cirrusinsight.com
 tracking.cmicgto.com.mx
 tracking.geainternacional.com
 tracking.mataharisj.net
@@ -115128,6 +115160,7 @@ turkishlanguagecourse.com
 turkishlifecafe.com
 turkistan-kazigurt.gov.kz
 turkiye-evdekal.com
+turkiyeofizz.com
 turkmega.net
 turkmenulkam.ir
 turksohbet.biz
@@ -115341,7 +115374,6 @@ u0649681.cp.regruhosting.ru
 u0707115.cp.regruhosting.ru
 u0746219.cp.regruhosting.ru
 u0774849.cp.regruhosting.ru
-u1.huatu.com
 u1.innerpeer.com
 u11123p7833.web0104.zxcs.nl
 u1141p8807.web0103.zxcs.nl
@@ -116222,6 +116254,7 @@ url-update.com
 url-validation-clients.com
 url.246546.com
 url.57569.fr.snd52.ch
+url.emailprotection.link
 url.sg
 url2.mailanyone.net
 url3.mailanyone.net
@@ -116251,10 +116284,10 @@ ury8297ridowoury833oe.com
 urzedniczatv.pl
 us-defense-department.ml
 us-trans.ru
+us-west-2.protection.sophos.com
 us.cdn.persiangig.com
 us.gsearch.com.de
 us.hostiso.cloud
-us2.campaign-archive.com
 us5interclub.cba.pl
 usa-lenders.com
 usa-market.org
@@ -116293,7 +116326,6 @@ usemycredit.ml
 usep75.fr
 useraccount.co
 useradmincloud.gq
-users.atw.hu
 users.skynet.be
 users.telenet.be
 users.tpg.com.au
@@ -116383,6 +116415,7 @@ uttarbanglaoverseasltd.com
 uttechsystem.com
 utterstock.in
 utv.sakeronline.se
+uujian.cn
 uumove.com
 uurty87e8rt7rt.com
 uutiset.helppokoti.fi
@@ -117418,6 +117451,7 @@ vinale.nl
 vinalpapel.com
 vinarycard.com
 vinaschool.com.vn
+vinastone.com
 vinatuoi.com
 vinay29.000webhostapp.com
 vinaykhatri.in
@@ -117982,7 +118016,6 @@ vovu.alewifequeenslic.com
 vox.ctf-fce.ca
 voxbal.com
 voxelblog.com
-voxreflex.com
 voyage.co.ua
 voyage.kpym.fr
 voyagesochoix.com
@@ -118447,6 +118480,7 @@ waterstreetinn.us
 watertreatmentbyculligan.com
 waterway.hu
 waterwood.eu
+watkinsarchitect.com
 watkinslanddesign.com
 watonlight.com
 watteimdocht.de
@@ -118526,6 +118560,7 @@ wdq9d5q18wd.com
 wdsonlobo.online
 wdss.top
 wdt.co.il
+we-brothers.com
 we.vlasnasprava.ua
 we9design.com
 weallneedthismoney.ru
@@ -119549,7 +119584,7 @@ wmdcustoms.com
 wmebbiz.co.za
 wmf.desevens.com.ng
 wmg128.com
-wmi.4i7i.com
+wmi.1217bye.host
 wmkatz.com
 wmo-raad.inov.me
 wmpatagonia.cl
@@ -120160,7 +120195,6 @@ wylernissanlouisville.com
 wyloellard.com
 wyndhamatduran.com
 wyomingauthors.org
-wyptk.com
 wyszx.jihaose.cn
 wywoznieczystosci.pomorze.pl
 wyzeheart.com
@@ -121050,6 +121084,7 @@ yachtlifellc.com
 yaclimat.ru
 yadegarebastan.com
 yadep.ru
+yadgarcards.com
 yaelduval.com
 yafotelaviv.com
 yagcioglukayainsaat.com
@@ -121434,6 +121469,7 @@ yohemsworld.com
 yojersey.ru
 yojolife.site
 yokaiart.com
+yokmak.club
 yokocobra.com
 yokosukadoula.com
 yokozuna.ch
@@ -121918,6 +121954,7 @@ zcb.hsdgk.cn
 zcmpompa.com
 zcnet.com
 zcomsolutions.com
+zcop.ru
 zcsmba.org
 zcxe37adonis.top
 zd4b.lonlyfafner.ru
@@ -122455,17 +122492,8 @@ zzv.seeanu.ru
 zzyin.cn
 zzz78.tk
 ||01synergy.com/eventApp/mh79kti8-zefcx8vbrw-2881640262/^$all
-||02feb02.com/INVOICE/IXT-712848456/^$all
-||02feb02.com/d8rOmLBT/^$all
-||02feb02.com/d8rOmLBT^$all
-||02feb02.com/files/En_us/Jul2018/ACCOUNT96148297/^$all
-||02feb02.com/sites/En_us/INVOICE-STATUS/Invoice-65008/^$all
-||02feb02.com/sites/En_us/INVOICE-STATUS/Invoice-65008^$all
-||02feb02.com/tLJxCef1/^$all
-||02feb02.com/tLJxCef1^$all
 ||10gamestop.com/app/watchdog.exe^$all
 ||10gamestop.com/d8f431fd66efae3d8e1a0a40d896ab90/updateprofile.exe^$all
-||115.59.167.11:48812/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1&next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.59.167.11:48812/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1^$all
 ||127yjs.com/9c4AhsAGN/^$all
 ||127yjs.com/ACH/GJHI78527569863W/7776539/WAM-DYCW-Aug-03-2018/^$all
 ||127yjs.com/ACH/GJHI78527569863W/7776539/WAM-DYCW-Aug-03-2018^$all
@@ -122483,9 +122511,6 @@ zzz78.tk
 ||127yjs.com/files/Scan/FORM/Rechnungszahlung-008180/^$all
 ||127yjs.com/lp3wgTh/^$all
 ||150.co.il/AnyDesk.exe^$all
-||159.65.99.169/httpd^$all
-||180.118.139.219:46119/mozi.m%20http://180.118.139.219:46119/mozi.m^$all
-||185.55.218.74/httpd^$all
 ||1drv.ms/u/s!Ah8xHTGsr9L-jGzE4Fa7rqhEc5wd^$all
 ||1drv.ms/u/s!AlAxvhfUHk9ya0fqmv8WS0rgLwo?e=hX9yH5^$all
 ||1drv.ms/u/s!AlAxvhfUHk9ya0fqmv8WS0rgLwo^$all
@@ -122520,7 +122545,6 @@ zzz78.tk
 ||2.top4top.net/p_1319ysdbw1.jpg^$all
 ||2.top4top.net/p_1370in2av1.png^$all
 ||201708.mediafire.com/file/5qifmx5n3y8fm76/RufusPortable_2.14.1086_azo.exe^$all
-||205.185.120.241/MasakiBins/uchttpd.arm^$all
 ||20cn.net/download/Generic/PcShare.rar^$all
 ||20cn.net/download/Generic/WinEggDropShell.rar^$all
 ||20cn.net/download/Generic/pcshare20060514.rar^$all
@@ -122538,19 +122562,11 @@ zzz78.tk
 ||3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_127BIS_Newport_Beach/TdocsByAgenda_2018-05-24_1750.doc^$all
 ||42801.weebly.com/uploads/5/4/0/3/54030203/start.exe^$all
 ||42801.weebly.com/uploads/5/4/0/3/54030203/win32.exe^$all
-||45.76.216.23/rev_http_53.exe^$all
+||4i7i.com/11.exe^$all
 ||4sync.com/web/directDownload/DHSPXwcW/lTur99AA.4935b0b05d06c6a0b801341be02e09ed^$all
 ||4x4maailma.fi/wp-content/uploads/2020/05/xglhrnjpkgt/L/3gf3tL9T4.zip^$all
 ||4x4maailma.fi/wp-content/uploads/2020/05/xglhrnjpkgt/d7/CA/XeEPhxg4.zip^$all
 ||4x4maailma.fi/wp-content/uploads/2020/05/xglhrnjpkgt/p/RUK84oAM4.zip^$all
-||5.top4top.io/p_1407uniqi1.jpg^$all
-||5.top4top.io/p_14113kfwh1.jpg^$all
-||5.top4top.io/p_1419z76nh1.jpg^$all
-||5.top4top.io/p_1422aptvc1.jpg^$all
-||5.top4top.io/p_1446kvcut1.jpg^$all
-||51aiwan.com/wp-content/uploads/2017/12/59GQSCZ/oamo/Commercial/^$all
-||51aiwan.com/wp-content/uploads/2017/12/59GQSCZ/oamo/Commercial^$all
-||58.243.20.165:43481/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1&next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://58.243.20.165:43481/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1^$all
 ||59.80.44.99/indonesias.me:9998/iexplore.exe^$all
 ||7uptheme.com/tjpoawj21/750705090/ZmOfr-hlC_vpPv-fig/^$all
 ||7uptheme.com/tjpoawj21/RzIy-5j_FY-eLQ/^$all
@@ -122564,7 +122580,6 @@ zzz78.tk
 ||7uptheme.com/wordpress/t6k3c-gbdsq57-fgkrn/^$all
 ||7uptheme.com/wordpress/yryuv-ad0rpx-jpjc.view/^$all
 ||7uptheme.com/wordpress/zc0dnv1-srpr2yh-keryl/^$all
-||80.211.139.209/bassbootshttpd^$all
 ||8dx.pc6.com/xjq6/IDM_v6.32.6.zip^$all
 ||8dx.pc6.com/xjq6/WinRAR_5.60_Beta5_x64_SC.exe^$all
 ||8ps.com/vkwum/KeaU-jE73YWQJF1uzX5_VmqwuxHTx-1H/^$all
@@ -122595,10 +122610,10 @@ zzz78.tk
 ||a.uguu.se/bmAeWanfrJmX_2034771.msi^$all
 ||a.uguu.se/mNM3M6zgJcLq_107998322.png^$all
 ||a.uguu.se/rPsgIaXXNXZM_2065774130.png^$all
-||a1enterprise.com/sfg/OCT/wojrh402b/^$all
 ||aa1atghd0uhfffgftyfasdgfjsq20.s3.amazonaws.com/DocumentoOutubro-PT-G256984172H-2019-10_20.zip^$all
 ||aaapot10dsjfgasdasdasdwe38.s3.amazonaws.com/DocumentoOutubro-PT-321578-2019-10_38.zip^$all
 ||aaronfickling.com/Branding/444444.png^$all
+||abandonstudios.com/wp-admin/js/widgets/Document/jal7qtcf2y3cqt1vkacms9s16mulyn_fgzv7a5ftg-37987136856523/^$all
 ||abcptpofmksdsfdjasdksd13.s3.amazonaws.com/DocumentoSetembro-CS-U-65289742019-09_13.zip^$all
 ||abdulwajed.xyz/wp-keys.php^$all
 ||abolitionawards.com/Facturas-12/^$all
@@ -122619,6 +122634,8 @@ zzz78.tk
 ||adazing.com/files/En_us/Jul2018/Invoice-469685754-072318/^$all
 ||adazing.com/xebgo7d/^$all
 ||adccenterbd.com/default/En/Summit-Companies-Invoice-3535290^$all
+||adjoy.com/DHL/US_us/^$all
+||adjoy.com/DHL/US_us^$all
 ||admobs.in/calendar/report/3nw1qwb4ulk/^$all
 ||adnoiiasdnfoinsafopinsodifg16g.s3.us-east-2.amazonaws.com/P-16-5.dll^$all
 ||adnquocte.com/jttlp/277768/servicecontractagreement_277768_04292020.zip^$all
@@ -122655,7 +122672,10 @@ zzz78.tk
 ||afges.org/wp-admin/Scan/^$all
 ||afges.org/wp-admin/kXtCXPB/^$all
 ||agent-14.s3.us-east-2.amazonaws.com/agent_140020000.exe^$all
+||agenziainformazioni.icu/wordupd.tmp^$all
 ||agorae.afges.org/private_I3BYH0Tn_Po4f0wn7n/guarded_profile/0910435353922_K4vyaYn0zf3j7/^$all
+||agrocoeli.com/chfEBi^$all
+||agrocoeli.com/pdf/EN_en/FILE/Invoice-47353/^$all
 ||agromaniaa.com/wp-content/jsc/Darlehensvertrag_128310_15052020.zip^$all
 ||agromaniaa.com/wp-content/jsc/Darlehensvertrag_84906051_15052020.zip^$all
 ||aguardiadanoticia.com.br/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/inc/8888888.png^$all
@@ -122667,13 +122687,16 @@ zzz78.tk
 ||aieov.com/so.gif^$all
 ||aiiaiafrzrueuedur.ru/o.exe^$all
 ||aiiaiafrzrueuedur.ru/t.exe^$all
-||aima.it/9694879ZEISIKR/PAYROLL/US/^$all
-||aima.it/9694879ZEISIKR/PAYROLL/US^$all
 ||aiserimplants.com/cursors/5279/5279.zip^$all
 ||ajansbook.ir/tcsvlscxxn/7390/KTEQ_7390_03062020.zip^$all
 ||ajansbook.ir/tcsvlscxxn/KTEQ_83687908_03062020.zip^$all
 ||ajansbook.ir/tcsvlscxxn/Z7/oV/GF6JSwVU.zip^$all
 ||ajansbook.ir/tcsvlscxxn/kFbiQGH3cM.zip^$all
+||ajil.com/wp-content/uploads/2020/05/njqkubbcgpes/56511453/ServiceContractAgreement_56511453_05042020.zip^$all
+||ajil.com/wp-content/uploads/2020/05/njqkubbcgpes/6543/ServiceContractAgreement_6543_05042020.zip^$all
+||ajil.com/wp-content/uploads/2020/05/njqkubbcgpes/ServiceContractAgreement_13988_05042020.zip^$all
+||ajil.com/wp-content/uploads/2020/05/njqkubbcgpes/ServiceContractAgreement_186050_05042020.zip^$all
+||ajil.com/wp-content/uploads/2020/05/sdolkpajjhlk/Complaint_0889_05042020.zip^$all
 ||ak.imgfarm.com/images/nocache/vicinio/100000417/19562-111117113753/j2ffxtbr-bs@SoccerInferno.com.xpi^$all
 ||ak.imgfarm.com/images/nocache/vicinio/installers/v2/211736991.TTAB02.1/nsis/866801-TTAB02.1/180517201326692/msniHowToSimplified/HowToSimplified.14c929f5d60e4f4ba4351e3ad47f0000.exe^$all
 ||ak.imgfarm.com/images/nocache/vicinio/installers/v2/222010004.TTAB02.1/nsis/867308-TTAB02.1/180518120501399/msniMyTransitGuide/MyTransitGuide.41d84009ed7e4f28a7955460271737a7.exe^$all
@@ -122682,8 +122705,8 @@ zzz78.tk
 ||ak.imgfarm.com/images/nocache/vicinio/installers/v2/224243980.TTAB02.1/nsis/866612-TTAB02.1/180517193159571/msniFreeRadioCast/FreeRadioCast.70f4e70428e244c98440ceeffebaa1f6.exe^$all
 ||ak.imgfarm.com/images/nocache/vicinio/installers/v2/224245005.TTAB02.1/nsis/866643-TTAB02.1/180517193804604/msniFunCustomCreations/FunCustomCreations.e414d339d9fe4f889f91320c82d9ab51.exe^$all
 ||ak.imgfarm.com/images/nocache/vicinio/installers/v2/224301632.TTAB02.1/nsis/866238-TTAB02.1/180517180105190/msniEasyDocMerge/EasyDocMerge.4efd7a96a91b484aa434af40b8ba3f3c.exe^$all
-||akatanomastos.net/newfolde_r/Jul2018/En/INVOICES/Past-Due-invoice/^$all
 ||akfoundationbd.xyz/wp/wp-content/themes/mapro/pump/Judgement_04212020_2373.zip^$all
+||akg-eng.net/dre/SP2.exe^$all
 ||alalam.ma/wp-content/uploads/2019/08/zej/^$all
 ||alannonce.fr/cgi-bin/8b1m6-v5bbir-iycrvob/^$all
 ||alannonce.fr/cgi-bin/h09h-mf54ru-bfqde.view/^$all
@@ -122787,15 +122810,34 @@ zzz78.tk
 ||ams3.digitaloceanspaces.com/paymentref00/PaymentRefS309388282.exe^$all
 ||amzonfun.com/clricns/cvcuu8/^$all
 ||amzonfun.com/clricns/npq12319/^$all
-||andreysharanov.info/app/vc-0122-http.exe^$all
+||andrewwill.com/Documents/1.exe^$all
+||andrewwill.com/Documents/2.exe^$all
+||andrewwill.com/Documents/2fgt.jpg^$all
+||andrewwill.com/Documents/3.exe^$all
+||andrewwill.com/Documents/4.exe^$all
+||andrewwill.com/Documents/5.exe^$all
+||andrewwill.com/Documents/6.exe^$all
+||andrewwill.com/Documents/Annual.PDF.exe^$all
+||andrewwill.com/Documents/IMOSMGFGR.bmp^$all
+||andrewwill.com/Documents/Image.exe^$all
+||andrewwill.com/Print.DOC.exe^$all
+||aneoeauhiazegfiz.ru/m.exe^$all
+||aneoeauhiazegfiz.ru/o.exe^$all
+||aneoeauhiazegfiz.ru/r.exe^$all
+||aneoeauhiazegfiz.ru/s.exe^$all
+||aneoeauhiazegfiz.ru/t.exe^$all
 ||animematsuri.com/ups.com/WebTracking/JX-63349309/^$all
 ||anonfile.com/KcSc1bu5bb/InstagramChecker2019_exe^$all
-||anonupload.net/uploads/ntvitnai/http%3A/anonupload.net/uploads^$all
 ||anonymousfiles.io/f/doc.exe^$all
 ||anonymousfiles.io/f/keygen.exe^$all
 ||anonymousfiles.io/f/text.exe^$all
 ||answer247.com/wp-content/jsc/142834/Darlehensvertrag_142834_15052020.zip^$all
 ||answer247.com/wp-content/jsc/Darlehensvertrag_96950905_15052020.zip^$all
+||antonini.com.br/sxoveipmk/4850/KTEQ_4850_03062020.zip^$all
+||antonini.com.br/sxoveipmk/9237/KTEQ_9237_03062020.zip^$all
+||antonini.com.br/sxoveipmk/KTEQ_0417_03062020.zip^$all
+||antonini.com.br/sxoveipmk/KTEQ_806797_03062020.zip^$all
+||antonini.com.br/sxoveipmk/KTEQ_81545731_03062020.zip^$all
 ||apieceoftoastblog.com/Invoices-attached/^$all
 ||apigeoip.com/cl.exe^$all
 ||appengine.google.com/_ah/logout?continue=https%3A%2F%2Fswptransaction-scan2034.s3.ca-central-1.amazonaws.com%2FDoc102018.doc^$all
@@ -122847,6 +122889,10 @@ zzz78.tk
 ||aspaud.com/OT-509201254/^$all
 ||aspaud.com/WIRE-FORM/NAX-44368708/^$all
 ||aspaud.com/n5XKkx42Cbs/^$all
+||astatue.com/wp-content/themes/seos-video/template-parts/msg.jpg^$all
+||astatue.com/wp-content/themes/seos-video/template-parts/pic.inform.zip^$all
+||astatue.com/wp-content/themes/seos-video/template-parts/pic.zip^$all
+||astatue.com/wp-content/themes/seos-video/template-parts/pik.zip^$all
 ||astrametals.com/wp-content/56nae-yhsiz05yyy-9742/^$all
 ||astrametals.com/wp-content/SFtMqnWIS/^$all
 ||astrametals.com/wp-content/ewhsu4nj-kxd9cd4z-2535853371/^$all
@@ -122856,6 +122902,10 @@ zzz78.tk
 ||atg-us.org/0Hml13l3v^$all
 ||atg-us.org/125653P/PAYMENT/US/^$all
 ||atg-us.org/125653P/PAYMENT/US^$all
+||attack.s2lol.com/free/svchosts.exe^$all
+||attack.s2lol.com/new/dllhosts.exe^$all
+||attack.s2lol.com/svchost.exe^$all
+||attack.s2lol.com/svchosts.exe^$all
 ||auroratd.com/wp-content/uploads/2017/12/0194401XW/oamo/Personal^$all
 ||auroratd.com/wp-content/uploads/2017/12/482TYDOC/SYFP35342846OTS/0254729134/QUQ-GOMRO/^$all
 ||auroratd.com/wp-content/uploads/2017/12/482TYDOC/SYFP35342846OTS/0254729134/QUQ-GOMRO^$all
@@ -122907,6 +122957,7 @@ zzz78.tk
 ||babursahinsaat.com/yeni/sites/pg-17754814-87050936-jel9-7hgoxwi0p/^$all
 ||bac.edu.my/wp-admin/tijNv-w6GM2qA7hkcpFDO_udnPnVoN-tI/^$all
 ||bachelorssociety.com/wp-content/uploads/2020/05/qzyqubptqt/LoanAgreement_7423_05122020.zip^$all
+||backpack-vacuum-cleaners.com/wp-content/themes/enfold/config-events-calendar/views/pro/1c.jpg^$all
 ||backup-new.5kmdeal.my/wp-content/plugins/really-simple-ssl/testssl/serverhttpson/kQPb/^$all
 ||badbonesrecords.com/documentview^$all
 ||badintentionsprod.com/kq/Buy-Sell_Agreement_19484_04272020.zip^$all
@@ -123012,18 +123063,35 @@ zzz78.tk
 ||bbuseruploads.s3.amazonaws.com/ddcd2423-f3e6-4c2b-aac1-a933c1ad8303/downloads/8968bfbf-817f-4429-8973-decbb11db27b/rat10.exe?Signature=dzARHxBjMzUXGGTRLOBdB%2Bk6RGU%3D&Expires=1540255507&AWSAccessKeyId=AKIAIQWXW6WLXMB5QZAQ&versionId=pVAuf2OdvBfdt2NCypUlrcLnmGmA4fna&response-content-disposition=attachment%3B%20filename%3D%22rat10.exe%22^$all
 ||bea74.com/35240/^$all
 ||beachbeaty.com/cawhhlldtbha/2222.png^$all
-||beak.net/DOC/Invoice-717389/^$all
-||beak.net/OMUcft/^$all
-||beak.net/Past-Due-Invoices/^$all
-||beak.net/STATUS/Invoice-411808228-Invoice-date-060618-Order-no-06202979405/^$all
-||beak.net/ups.com/WebTracking/KGM-99569055985/^$all
-||beak.net/ups.com/WebTracking/WUX-89473541246/^$all
 ||beautylifes.xyz/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/images/inc/222222.png^$all
 ||beforeshithappens.com/docs_2re/55555.png^$all
 ||bekamlegasi.com/itpmdexmuoi/Darlehensvertrag_5510_18052020.zip^$all
 ||bekamlegasi.com/itpmdexmuoi/Darlehensvertrag_8730600_18052020.zip^$all
 ||belairinternet.com/wp-includes/9c8gi-fhbzv-xflschcjz/^$all
 ||belboy.in/development/wp-content/themes/busify/hhixalwxvxs/LoanAgreement_318029801_05122020.zip^$all
+||belief-systems.com/00205IHHNQXAY/PAY/Business/^$all
+||belief-systems.com/00205IHHNQXAY/PAY/Business^$all
+||belief-systems.com/4566ZMPAVMP/identity/Commercial/^$all
+||belief-systems.com/4566ZMPAVMP/identity/Commercial^$all
+||belief-systems.com/5477HRV/oamo/US/^$all
+||belief-systems.com/5477HRV/oamo/US^$all
+||belief-systems.com/5KZNPN/WIRE/Commercial/^$all
+||belief-systems.com/5KZNPN/WIRE/Commercial^$all
+||belief-systems.com/6PDOC/GW61191286TAWOK/39208845373/RA-JDV-Aug-08-2018/^$all
+||belief-systems.com/6PDOC/GW61191286TAWOK/39208845373/RA-JDV-Aug-08-2018^$all
+||belief-systems.com/8ZDOC/XMW3107132JPRMP/8271836156/KDRT-HSZ/^$all
+||belief-systems.com/8ZDOC/XMW3107132JPRMP/8271836156/KDRT-HSZ^$all
+||belief-systems.com/INFO/PE66149087HZXEF/1746436/ZXY-XED/^$all
+||belief-systems.com/INFO/PE66149087HZXEF/1746436/ZXY-XED^$all
+||belief-systems.com/LLC/US/236-99-184923-211-236-99-184923-504/^$all
+||belief-systems.com/LLC/US/236-99-184923-211-236-99-184923-504^$all
+||belief-systems.com/QP2iE/^$all
+||belief-systems.com/QP2iE^$all
+||belief-systems.com/Tracking/En/^$all
+||belief-systems.com/YwrYZbQFqE^$all
+||belief-systems.com/kcYK4ftRvEjbh/SEPA/200-Jahre^$all
+||belief-systems.com/newsletter/US/My-current-address-update/^$all
+||belief-systems.com/profile/Tracking/En/^$all
 ||bempire.net/wp-content/themes/rubik/lic.php?p=s&ux=126036774&s=126755^$all
 ||bestappliances.in/wp-content/uploads/2020/04/docs_0mg/3889/Buy-Sell%20Agreement_3889_04242020.zip^$all
 ||bestappliances.in/wp-content/uploads/2020/04/docs_0mg/5220570/Buy-Sell%20Agreement_5220570_04242020.zip^$all
@@ -123036,7 +123104,6 @@ zzz78.tk
 ||bestappliances.in/wp-content/uploads/2020/04/docs_0mg/Buy-Sell%20Agreement_680775_04242020.zip^$all
 ||bestappliances.in/wp-content/uploads/2020/04/docs_0mg/Buy-Sell%20Agreement_79778_04242020.zip^$all
 ||bestappliances.in/wp-content/uploads/2020/04/docs_0mg/Buy-Sell%20Agreement_83730362_04242020.zip^$all
-||bestautofinder.com/.well-known/acme-challenge/sserv.jpg^$all
 ||bestblues.tech/app/app.exe^$all
 ||besthack.co/differ/557687/557687.zip^$all
 ||besthack.co/differ/6053744/6053744.zip^$all
@@ -123048,6 +123115,11 @@ zzz78.tk
 ||betarg.com/cms/cashback/pinkash/wp-content/plugins/loginpage/_lkllnshOhk_-UATf.php^$all
 ||betwext.com/PTa1a1aF/^$all
 ||betwext.com/PTa1a1aF^$all
+||bey12.com/En_us/Transactions/2018-12/^$all
+||bey12.com/THxcF_pe3-W/l8v/Clients_transactions/022019/^$all
+||bey12.com/sircuss/Document/weSFwOcnrd/^$all
+||bey12.com/sircuss/bule-ofrhhv-jgqz.view/^$all
+||bey12.com/sircuss/cvO7/^$all
 ||bienkich.edu.vn/cursors/29778/29778.zip^$all
 ||bienkich.edu.vn/slider/181247/181247.zip^$all
 ||bienkich.edu.vn/slider/379797/379797.zip^$all
@@ -123055,7 +123127,6 @@ zzz78.tk
 ||bienkich.edu.vn/slider/7042158/7042158.zip^$all
 ||bienkich.edu.vn/slider/81828.zip^$all
 ||bienkich.edu.vn/slider/9006606/9006606.zip^$all
-||bigfile.mail.naver.com/bigfileupload/download?fid=V/R91zFlpzEwaAbjK3e5KqUwHqUmKx2maxuXKxMdFoudHqu9KqvXaA2qaxvja6iopoUXKrumKrMqFrKmFxkCK6M/FruqpxIvFrJ4a6U=^$all
 ||biggames.club/app/app.exe^$all
 ||biggames.online/app/app.exe^$all
 ||biggames.online/app/watchdog.exe?t=2020-04-15^$all
@@ -123070,6 +123141,8 @@ zzz78.tk
 ||billrothhospitals.com/wp-includes/ygz3700/^$all
 ||bingo.hi.cn/ru/update.bin^$all
 ||bingo.hi.cn/update.bin^$all
+||binsuloomgroup.com/wp-content/uploads/NefRZe_crlN072r_S/^$all
+||binsuloomgroup.com/wp-content/uploads/TyUg_qOsCOz4O_5uPw9YSbO/^$all
 ||binxx3fi.s3.amazonaws.com/xxx_video.exe^$all
 ||bionixwallpaper.com/downloads/Flickr%20Wallpaper%20Downloader/Flickr%20Mass%20Downloader%20Setup.exe^$all
 ||bit.do/Invoice-for-Payment^$all
@@ -123458,11 +123531,9 @@ zzz78.tk
 ||c9c6.com/wp-content/plugins/apikey/tmvscpygebct/639259/Darlehensvertrag_639259_19052020.zip^$all
 ||c9c6.com/wp-content/plugins/apikey/tmvscpygebct/Darlehensvertrag_3810_19052020.zip^$all
 ||c9c6.com/wp-content/plugins/apikey/tmvscpygebct/Darlehensvertrag_42766_19052020.zip^$all
-||camexpertangkor.com/http/mma.msi^$all
+||cammi.it/components/UPS-View/Mar-13-18-03-33-51/^$all
 ||campdaniel.org/wp-content/themes/calliope/linear/208031.zip^$all
 ||campdaniel.org/wp-content/themes/calliope/linear/34247.zip^$all
-||campus-web.com/nzi/^$all
-||campus-web.com/nzi^$all
 ||camworks.com/wp-content/uploads/LYNX_220A.zip^$all
 ||canaan.io/wp-content/uploads/2020/04/ktndx/408724466/ServiceContractAgreement_408724466_04292020.zip^$all
 ||canaan.io/wp-content/uploads/2020/04/ktndx/90554/ServiceContractAgreement_90554_04292020.zip^$all
@@ -123482,7 +123553,6 @@ zzz78.tk
 ||caribbean360.com/bu40BVNZ/^$all
 ||caribbean360.com/test/XChCw-sav_KomKB-Pe0/COMET/SIGNS/PAYMENT/NOTIFICATION/01/28/2019/En_us/Sales-Invoice/^$all
 ||carinisnc.it/crypt_exe_lite_prj_Eagle_5.exe^$all
-||caritaszambia.org/ACCOUNT/Services-06-12-18-New-Customer-DC/^$all
 ||carlfoggjr.com/CUST.-403482-56116/^$all
 ||carswitch.com/video/kl8uh-hv0m1e1-khut/^$all
 ||caude368.com/wp-content/themes/calliope/wp_data.php^$all
@@ -123915,6 +123985,7 @@ zzz78.tk
 ||cdn.discordapp.com/attachments/724758155267145849/728030623461015622/DHL_DOC_No_SINI0068206497_PDF.gz^$all
 ||cdn.discordapp.com/attachments/725360947778027611/728175284674887700/New_Order.iso^$all
 ||cdn.discordapp.com/attachments/728406337159037052/728409747258343484/AWB_77658697354686687942635489315578925325634793345DHL.pdf.gz^$all
+||cdn.discordapp.com/attachments/729483710017044493/729483751209304144/AWB_77658697354686687942635489315578925325634793345DHL.pdf.gz^$all
 ||cdn.fbsbx.com/v/t59.2708-21/30831868_2001421493263570_988122346738941952_n.zip/71I49N1JH7GG.zip?oh=81f42de9d61696c78f429719277283cc&oe=5AE24EE8&dl=1^$all
 ||cdn.fbsbx.com/v/t59.2708-21/30831923_2004391716299881_1152363085843922944_n.zip/DOC_26-04.zip?oh=3e9b2b1fee016b3085dce0d2d5d106ae&oe=5AE4BDFE&dl=1^$all
 ||cdn.fbsbx.com/v/t59.2708-21/30832004_2009715392434180_358250944510558208_n.zip/Doc_APP-30-04.zip?_nc_cat=0&oh=5b175c1d3b66927fd292f8a5b479e9c2&oe=5AEA15E4&dl=1^$all
@@ -123954,6 +124025,7 @@ zzz78.tk
 ||cds.v2v8s6m2.hwcdn.net/auto/ah_sa.exe^$all
 ||cds.w2w3w6q4.hwcdn.net/auto/ah_sa.exe^$all
 ||cds.w2w3w6q4.hwcdn.net/installer/ext/kun.js^$all
+||cebiro.com/wp-snapshots/paclm/aucDwidPpIdoSULVOHNDpxhI/^$all
 ||cecadesayu.corazondelcielo.mx/docs_ytk/0191867/Buy-Sell%20Agreement_0191867_04242020.zip^$all
 ||cecadesayu.corazondelcielo.mx/docs_ytk/145765/Buy-Sell%20Agreement_145765_04242020.zip^$all
 ||cecadesayu.corazondelcielo.mx/docs_ytk/3746/Buy-Sell%20Agreement_3746_04242020.zip^$all
@@ -123971,7 +124043,6 @@ zzz78.tk
 ||ces-cl.edu.br/conipc/wp-content/multifunctional_giSPQcN7B_vhIJlZPywx/individual_cloud/8bmet_w4y36/^$all
 ||ces-cl.edu.br/conipc/wp-content/public/vafppy/^$all
 ||cfg.cml.ksmobile.com/post^$all
-||cfs8.tistory.com/upload_control/download.blog?fhandle=YmxvZzE3MDMwMUBmczgudGlzdG9yeS5jb206L2F0dGFjaC8wLzExLmV4ZQ%3D%3D&filename=swf-qwerhttp.exe^$all
 ||chaleel-brautmoden.de/default/En/INVOICES/Invoice-52436/^$all
 ||chapaitoday.com/olsce/2222.png^$all
 ||charlemagne.fr/string/8731575/8731575.zip^$all
@@ -124061,6 +124132,7 @@ zzz78.tk
 ||clermontjumps.net/string/985811544.zip^$all
 ||cleversoft.vn/dplbtdsv/71636087/EmploymentVerification_71636087_05052020.zip^$all
 ||cleversoft.vn/dplbtdsv/7825/EmploymentVerification_7825_05052020.zip^$all
+||clgsecurities.com/FORM/Zahlung-bequem-per-Rechnung/^$all
 ||click.pstmrk.it/2/gtminas.com.br/En_us/Clients/10_18/5XZWNgI/k3kx/TGCN8HY9A3^$all
 ||click.pstmrk.it/2/helgaclementino.com.br/novo/US/Payments/10_18/ArqENgI/k3kx/eto0MG6Kul^$all
 ||clickon.vn/4OLLC/SMA85328097TDTRQJ/Aug-09-2018-501831082/QAHH-KYD/^$all
@@ -124070,13 +124142,11 @@ zzz78.tk
 ||clickon.vn/newsletter/US/Statement/ACCOUNT1148735/^$all
 ||clickon.vn/newsletter/US/Statement/ACCOUNT1148735^$all
 ||clippingpathlegend.com/wp-content/themes/calliope/linear/01090017/01090017.zip^$all
+||cloud.s2lol.com/auto/autotrain_vlbisu/AutoTrainJX.exe^$all
 ||cloudme.com/v1/ws2/:dr404/:22cted/22cted.exe^$all
 ||cloudme.com/v1/ws2/:dr404/:MicrosoftOffice/MicrosoftOffice.exe^$all
 ||cmecobrancas.com/wp-content/uploads/2020/05/kxsjxok/929459/EmploymentVerification_929459_05052020.zip^$all
 ||cmecobrancas.com/wp-content/uploads/2020/05/qwedlczbadv/EmploymentVerification_32760_05062020.zip^$all
-||cmg.asia/wp-content/uploads/DOK/bkmrGzXzIEZODqVCVwBTcQiNn/^$all
-||cmg.asia/wp-content/uploads/INC/RVVM3rAgsF/^$all
-||cmg.asia/wp-content/uploads/asIFB-0wxsmXdAVKvdu2_okCqpxAWS-NK/^$all
 ||cmnbbnshgsadrrefasderg05g.s3.us-east-2.amazonaws.com/P-5-16.dll^$all
 ||cn-adb.com/verification/seth(1)(1).zip^$all
 ||coberturasgenerales.pe/wp-content/uploads/2020/04/docs_2hj/11680/Buy-Sell%20Agreement_11680_04242020.zip^$all
@@ -124100,10 +124170,13 @@ zzz78.tk
 ||codeload.github.com/mulprint/demostrativo/zip/master?JJSDGV225450062DJDJ^$all
 ||codeload.github.com/wss-manutencao-ltda/Download_do_Relatorio_em_PDF_09878454/zip/master^$all
 ||codeload.github.com/xxxcocoal222/NotaFiscal05-12/zip/master^$all
+||coges-tn.com/xmenial/glov-7n0-694281/^$all
+||coges-tn.com/xmenial/pEdRj-ghBPhI-81351/^$all
 ||collectif-par-3.org/wp-admin/browse/uy5xkqyit/ruuu-0253-5929-buf1yn-iv8duq8g5il/^$all
 ||coloorad.gq/wp-content/uploads/2020/03/tools/11135.zip^$all
 ||coloorad.gq/wp-content/uploads/2020/03/tools/7724425.zip^$all
 ||coloorad.gq/wp-content/uploads/2020/03/tools/923482/923482.zip^$all
+||coloramacoatings.com/bb/build_output5d85950.msi^$all
 ||comedyticket.nl/wp-2Dcontent/themes/mapro/pump/2231/Judgement-04212020-5F2231.zip^$all
 ||comedyticket.nl/wp-content/themes/mapro/pump/2988/Judgement_04212020_2988.zip^$all
 ||comedyticket.nl/wp-content/themes/mapro/pump/5897/Judgement_04212020_5897.zip^$all
@@ -124145,7 +124218,6 @@ zzz78.tk
 ||corbucrochet.com/cursors/444444.png^$all
 ||core-tech.com/Corporation/En_us/Invoices-attached/^$all
 ||core-tech.com/Corporation/En_us/Invoices-attached^$all
-||cornejotex.com/cgi-bin/ze0730/^$all
 ||cornetresearch.co.uk/wp-content/plugins/boxers-and-swipers/photoswipe/skin/default.php^$all
 ||coronadodirectory.com/Christmas-card/^$all
 ||cosmea.pl/wp-content/uploads/2020/05/lqauk/6666.png^$all
@@ -124176,12 +124248,23 @@ zzz78.tk
 ||culturensk.ru/includes/1^$all
 ||culturensk.ru/includes/2^$all
 ||culturensk.ru/includes/3^$all
+||currantmedia.com/cgi-bin/FILE/lnr87s3ccngq6bmbka_uw7qao37fn-305832618/^$all
+||currantmedia.com/cgi-bin/gVZT-o9kLpxUHFl2v7ju_pERbnoDr-f0/^$all
+||currantmedia.com/cgi-bin/kEtuK-3425SkpKyVGzFk_wdHjXAYMk-hQA/^$all
+||currantmedia.com/cgi-bin/qrct-ubj61b-gbrp/^$all
+||currantmedia.com/cgi-bin/secure.myacc.send.com/^$all
 ||custom-essays-online.co.uk/cgi-bin/8thcj-9us8ky-geep.view/^$all
 ||cxzxzxzxzzxzx.s3.eu-central-1.amazonaws.com/EvdeKaliyorum.apk^$all
 ||cygwin.com/ml/cygwin/2019-04/msg00011/New_April_quotation_%23021103211_doc001.jar^$all
 ||cythia0805.com/wp-content/invoice/7g1gdvyjxe/^$all
 ||cythia0805.com/wp-content/rQi/^$all
-||d-va.cz/ZVjGOE9http^$all
+||d.top4top.io/p_101949r3r1.jpg^$all
+||d.top4top.io/p_12014tn3x1.jpg^$all
+||d.top4top.io/p_1519dkp831.jpg^$all
+||d.top4top.io/p_1567m7an31.png^$all
+||d.top4top.io/p_1638e5yhh1.jpg^$all
+||d.top4top.io/p_1978um31.jpg^$all
+||d.top4top.io/p_794twvdh1.jpg^$all
 ||d2comm.averydennison.com/Runcorn/TimbScanPrint_1_0_0_4/VFScanPrint.exe.deploy^$all
 ||daithanhphung.com/wp-content/uploads/bwwwvc/ServiceContractAgreement_060390_05012020.zip^$all
 ||daithanhphung.com/wp-content/uploads/bwwwvc/ServiceContractAgreement_39744762_05012020.zip^$all
@@ -124276,7 +124359,6 @@ zzz78.tk
 ||deltaconcretos.com.br/wp-content/plugins/apikey/thfowppdabzd/33358977/LoanAgreement_33358977_05132020.zip^$all
 ||deltaconcretos.com.br/wp-content/plugins/apikey/thfowppdabzd/994061591/LoanAgreement_994061591_05132020.zip^$all
 ||deltaconcretos.com.br/wp-content/plugins/apikey/thfowppdabzd/LoanAgreement_0901553_05132020.zip^$all
-||deltaengineering.users31.interdns.co.uk/KepZJXThttp^$all
 ||demicolon.com/dvrguru_revoerror/image/0615694GSH/SEP/Commercial/^$all
 ||demicolon.com/dvrguru_revoerror/image/0615694GSH/SEP/Commercial^$all
 ||demicolon.com/dvrguru_revoerror/image/3930OUOELXK/com/Business/^$all
@@ -124321,7 +124403,6 @@ zzz78.tk
 ||desighiza.com/wp-content/plugins/apikey/xrlhwudjg/983801/EmploymentVerification_983801_05052020.zip^$all
 ||desisti.it/wp-content/themes/danfe/xjjriy/802908/EmploymentVerification_802908_05072020.zip^$all
 ||desisti.it/wp-content/themes/danfe/xjjriy/EmploymentVerification_356927_05072020.zip^$all
-||dev.cscslacouronne.org/reverse_http.exe^$all
 ||developer.api.autodesk.com/oss/v2/signedresources/01c43429-6bfb-4752-9296-b445d21a4c58^$all
 ||developer.api.autodesk.com/oss/v2/signedresources/115be0ac-78f0-4142-b45b-d6c65ba0963d^$all
 ||developer.api.autodesk.com/oss/v2/signedresources/12020b3c-6af4-4231-b240-02a937e74d31^$all
@@ -124365,12 +124446,22 @@ zzz78.tk
 ||devunifinancial.com/cqgi/FILE/7azqr9rr6ok/4p6kux-3886717031-5228-kgwi4g-xflbz6/^$all
 ||dfd.zhzy999.net/images/m.exe^$all
 ||dfscxv2dvxqaaa.s3.eu-central-1.amazonaws.com/EvdeKaliyorum.apk^$all
+||dgnet.com.br/DOC/Rech-00084/^$all
+||dgnet.com.br/FILE/Past-Due-invoice/^$all
+||dgnet.com.br/IRS-Accounts-Transcipts-June-2018-033/0/^$all
+||dgnet.com.br/IRS-Accounts-Transcipts-June-2018-033/0^$all
+||dgnet.com.br/Need-to-send-the-attachment-June/^$all
+||dgnet.com.br/iWuVO/^$all
+||dgnet.com.br/iWuVO^$all
+||dgnet.com.br/t5wb/^$all
+||dgnet.com.br/ups.com/WebTracking/AI-1829048912363/^$all
+||dgnet.com.br/wwvvv/En_us/Transactions/12_18/^$all
+||dgnet.com.br/wwvvv/En_us/Transactions/12_18^$all
 ||dhnonline.in/wp-content/uploads/2020/05/ltoossidfhn/07876/Kaufvertrag_07876_20052020.zip^$all
 ||dhnonline.in/wp-content/uploads/2020/05/rzgxhifysusg/00755/Darlehensvertrag_00755_19052020.zip^$all
 ||dienlanhminhdang.vn/vkbnxj/o/nqOdvH7z8.zip^$all
 ||dienmayminhan.com/iyhomh/89202970/EmploymentVerification_89202970_05052020.zip^$all
 ||dienmayminhan.com/iyhomh/EmploymentVerification_2817182_05052020.zip^$all
-||digilander.libero.it/ricettesiciliane1/ecuoco.exe^$all
 ||digitalprintxpress.co.za/rkgihzxzpq/039061/KTEQ_039061_03062020.zip^$all
 ||digitalprintxpress.co.za/rkgihzxzpq/9088/KTEQ_9088_03062020.zip^$all
 ||digitalprintxpress.co.za/rkgihzxzpq/9593/KTEQ_9593_03062020.zip^$all
@@ -124742,7 +124833,6 @@ zzz78.tk
 ||doc-04-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ptak8rvogv02pc0ivnp6f57vo0e2ppbi/1544090400000/05984462313861663074/*/1hjwBp373fLBahNbV7-Zx0S9ZnHRLrtEl^$all
 ||doc-04-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/sj14nk1827t6mddfekjkhdo41ad1rj1m/1544191200000/05984462313861663074/*/10uDRUJcZKI7xiMr98Ak535xBqUIsOGA1^$all
 ||doc-04-68-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/uh2qjsvba7m0j34l25c32dmudss1vae2/1544436000000/05984462313861663074/*/10uDRUJcZKI7xiMr98Ak535xBqUIsOGA1^$all
-||doc-04-7g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/d9h1dsj9sktssanc354otfsivkdmhfpn/1579593600000/05889947605657987168/*/15T0uAcFQ1Letq3mTAsMuK48ZqVIgW6IK?e=download^$all
 ||doc-04-7k-docs.googleusercontent.com/docs/securesc/4jc3o0kkf5136n14s0obie5i3338237o/fr90bqnoa8ie8lt78eirvg19ja6n2k3a/1582704900000/09333385788892009079/09384270791473589425/1fcZ-JC1QwvC0GcwbFUd9kqdLpQHDZB7v?e=download&authuser=0&nonce=65dhlpeseq3dm&user=09384270791473589425&hash=i9ioamljgbpik2eg70miit0q9lmovova^$all
 ||doc-04-84-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/mt7plb46igd5itkcoe16s5ke3kr9a25f/1579780800000/09032773329713189661/*/1MMXW2cJnpP9erwiNl4kuX4GOFIv-vlPG?e=download^$all
 ||doc-04-8s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/f0od3hpa21ee59uhuum338hrr4sp1kcv/1547208000000/07335649321361492730/*/1KdOpkOMx3n40ae4ipn54yZY-FzXDgYaj?e=download^$all
@@ -124882,8 +124972,6 @@ zzz78.tk
 ||doc-0g-bg-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/i8e8bpefugf14g6cv08o4u9pd1crq4ta/1579672800000/09717453326039192070/*/1i8uzSkJhJMBgbOapt-0VMtJS4nCspzqc?e=download^$all
 ||doc-0g-bg-docs.googleusercontent.com/docs/securesc/s60cf7a63kh45bsq88f3lkstqrqucjrc/ul0nlihptb8mdqtdu718j9diunr2m6hr/1582733700000/09879232076589083237/14581366145295467048Z/1N8-4uNAA5IJNZ9SSS0_AEni1FcGCK-0p?e=download^$all
 ||doc-0g-c8-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/p28531eg742m567e4cl5fogn4eka3oc9/1535112000000/03026271291422084203/*/1CfyPzMhxe_k1oiwMAiXeGvacCmGUJrp6?e=download^$all
-||doc-0g-cc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/3i5utjj3olgt63hiuf6neriq4dq36b1q/1545062400000/17141853213745639104/*/1zAJnLpg7VEOUdbB03bJgq9K7cE8VUFFm?e=download^$all
-||doc-0g-cc-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/aqjb1lgqotiv6ne78l59mlt65a1qim98/1580364000000/14433512525160002600/*/1SVJUbLpUTw1NLUDhLwjokOBmuDawKmqD?e=download^$all
 ||doc-0k-0g-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/300dfd5pdhfj72guaf8imadgga9glpfj/1579586400000/09427745593351172228/*/1pK03wHtkWEiuz4bNYzf7PKTpyF1reKpq?e=download^$all
 ||doc-0k-1k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/2jkhk2k6vaa6qg30jdds41qi8eelq3mu/1538020800000/01121010560865514304/*/1kepf5Mw73KbRGHazpXIxL-S-ZA4vKlUo?e=download^$all
 ||doc-0k-1o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/qv4k97iimtjt0lqaqsd06r7j5f6mh6s1/1580277600000/14953962983961438776/*/1lwSxvhk0YCwQupta1hrZ-qO7jHek9miS?e=download^$all
@@ -125414,6 +125502,8 @@ zzz78.tk
 ||doordu.com/Jul2018/En/INVOICE-STATUS/Invoices/^$all
 ||doryfotografia.com/wordpress_1/valoub/77777.png^$all
 ||dosya.tc/en2.php?a=server25/q0fy97/MZ_Cheats.rar&b=2e243537c258f85b16dcbd6dfb06cde3^$all
+||down10.zol.com.cn/20180926/mp3yinpin0118.zip^$all
+||download-invoice.site/Invoice_29557473.exe^$all
 ||download.2345.com/union_common/2345explorer_35772127382_Y_silence.exe^$all
 ||download.2345.com/unionpic/2345pic_lm_508858_v9.1.1.8346_silent.exe^$all
 ||download.drp.su/DriverPack-17-Online-autoinstall.exe^$all
@@ -125457,6 +125547,7 @@ zzz78.tk
 ||downloads.intercomcdn.com/i/o/66442009/a8df52e4e8a3c64b74858c9b/INV-85237323.doc^$all
 ||downloads.intercomcdn.com/i/o/67089177/f3b57a1b092e9f1b173a2bee/INV-526968.doc/^$all
 ||downloads.intercomcdn.com/i/o/69362562/37c988860b345dbb4264b3c3/case_27627831.doc^$all
+||downloads.sandisk.com/sansa/Application/7za.txt^$all
 ||dpaste.com/2PYZNZK.txt^$all
 ||dpcservizi.it/wp-content/themes/danfe/mojhxsriuysl/01678/EmploymentVerification_01678_05072020.zip^$all
 ||dpcservizi.it/wp-content/themes/danfe/mojhxsriuysl/EmploymentVerification_964803_05072020.zip^$all
@@ -138032,9 +138123,8 @@ zzz78.tk
 ||ductolimpio.com.mx/wp-https/ck.exe^$all
 ||ductolimpio.com.mx/wp-https/fb.exe^$all
 ||dumblaws.com/scripts/messg.jpg^$all
-||dupke.at/rFQAhttp^$all
 ||dvdmg.com/vote/data/0505shtml/extrato.php^$all
-||dveri509.ru/y1http^$all
+||dylanfabrics.com/digital^$all
 ||dynamicproject.biz/diray/Q/V0jzXDtKk.zip^$all
 ||dynamicproject.biz/diray/h/VQcDtijOP.zip^$all
 ||dynamicproject.biz/gdwlqasp/5XHHf0svm6.zip^$all
@@ -138074,7 +138164,6 @@ zzz78.tk
 ||eclo-avocats.com/wp-content/themes/calliope/linear/557026/557026.zip^$all
 ||eclo-avocats.com/wp-content/themes/calliope/linear/8699281/8699281.zip^$all
 ||ecuadorminingnews.com/KIBYUYVH2385409/Rechnungs-Details/Zahlungserinnerung/^$all
-||egreetcards942.servehttp.com/fileCCeW10.exe^$all
 ||egyutthato.eu/5341ZQVPDR/PAY/Smallbusiness^$all
 ||eintracht-verlautenheide.de/wp-content/themes/busify/pyzfzkmxx/1560/LoanAgreement_1560_05122020.zip^$all
 ||eintracht-verlautenheide.de/wp-content/themes/busify/pyzfzkmxx/LoanAgreement_0486556_05122020.zip^$all
@@ -138088,11 +138177,6 @@ zzz78.tk
 ||elcarrocafeny.com/wp-content/plugins/wp-symetrio/1^$all
 ||elcarrocafeny.com/wp-content/plugins/wp-symetrio/3^$all
 ||elcarrocafeny.com/wp-content/plugins/wp-symetrio/art4.exe^$all
-||electric-1.com/bhojozslrwo/bM8MO6izFZ.zip^$all
-||electric-1.com/bhojozslrwo/dPAEKcSSjp.zip^$all
-||electric-1.com/bjfwvbuc/FoF0OxjSZZ.zip^$all
-||electric-1.com/bjfwvbuc/X/ft8A0Cjak.zip^$all
-||electric-1.com/bjfwvbuc/cc/WE/BbILgLL7.zip^$all
 ||elenamag.com/deliverstore.com/MvUA-UCLZq_PADCp-4QS/Ref/031313720US_us/Important-Please-Read/^$all
 ||elhvb.com/mobokive/archive/Diamond/pentium/m5pi/m5pi-09.exe^$all
 ||elhvb.com/mobokive/archive/Micronics/pentium/m5/m5pi_09.exe^$all
@@ -138100,7 +138184,6 @@ zzz78.tk
 ||elmtowncenter.com/tnnwepnval/72441163/Darlehensvertrag_72441163_18052020.zip^$all
 ||elsistemausa.org/wp-content/t2zhjV/^$all
 ||eme-engineering.com/wp-admin/951595364/d37lo4939498-918798214-m0fm2uieqadj0gw/^$all
-||emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fapp.getresponse.com%2Fclick.html%3Fx%3Da62b%26lc%3DByOav2%26mc%3DJB%26s%3DuWNKom%26u%3Dzhhjs%26y%3Dp%26&data=02%7C01%7C%7Ced91706e09e043bf81d408d61cc2fe8e%7C6e51e1adc54b4b39b5980ffe9ae68fef%7C0%7C0%7C636728021147190708&sdata=759CwuGziIQw2zfBXB98W%2FKX3eUDEUoiUN%2Bi2wrbD4U%3D&reserved=0^$all
 ||emiratestravels.net/dfnqrpqebx/8M/HK/pUsb9NG0.zip^$all
 ||emiratestravels.net/dfnqrpqebx/L/U2TMqILPG.zip^$all
 ||emiratestravels.net/dfnqrpqebx/qWJLrSFLCD.zip^$all
@@ -138132,7 +138215,6 @@ zzz78.tk
 ||erveryday.weebly.com/uploads/1/0/6/7/106777557/mstdll.exe^$all
 ||erveryday.weebly.com/uploads/1/0/6/7/106777557/n3.exe^$all
 ||erythromycinethylsuccinate.com/Mar-21-11-22-06/Ship-Notification/^$all
-||escinsaat.com.tr/httpdocs/SXBOw/^$all
 ||esiv.com/INFO/US_us/New-order^$all
 ||eskenazo.cl/wp-content/Transaktion/01_19/^$all
 ||espaceurbain.com/2700838EOGU/PAY/Business/^$all
@@ -138144,6 +138226,7 @@ zzz78.tk
 ||espaceurbain.com/nvW27loez/^$all
 ||espaceurbain.com/nvW27loez^$all
 ||essaystigers.co.uk/INV/FP-6862148037/^$all
+||esscorp.org/withheld.exe^$all
 ||ethdigitalcampus.com/2iC3sFF/^$all
 ||ethecal.com/myargoscard-online.co.uk/rkjef44427/^$all
 ||ethecal.com/wp-admin/sites/pyl6j5aah_eottjcf-539345791934398/^$all
@@ -138154,16 +138237,15 @@ zzz78.tk
 ||etherealms.com/US/Transactions-details/2018-12^$all
 ||etherealms.com/ptFZ-SgtMp3V9tdsrrt_WihXMYeHe-WE/^$all
 ||etkenkalip.com/wp-content/RECHNUNG-61401/G6E14EXU/^$all
-||eu1.salesforce.com/servlet/servlet.ImageServer?id=015D0000001U567&oid=00D20000000LuKU/^$all
 ||evergreenpainters.in/wp-content/plugins/apikey/ohoarwt/16573744/EmploymentVerification_16573744_05052020.zip^$all
 ||evernote.com/shard/s392/sh/47936656-c057-4184-b7b7-0526c7f2b2c0/b6d09aeb71064244/res/be13f536-6f66-41c1-bb88-e605171d5644/^$all
 ||evetdedim.com/15014KIJLU/SWIFT/Smallbusiness^$all
-||evrohros.ru/default/Rech/RECH/Rechnung-022-844/http://stkme.co.uk/files/Rechnung/Hilfestellung/Rechnungs-Details-Nr006299/^$all
 ||ex-bestgroup.com/download/Copy_Invoice/npqH-z6qG_GtpVSp-LqR/^$all
 ||ex-bestgroup.com/scan/mefN-KJ_mKBshDXz-RV/^$all
 ||ex-bestgroup.com/sendincencrypt/service/sec/En_en/02-2019/^$all
 ||exeter.ac.uk/country/US/IP-874-NIN5377/Exeter.ac/88974880_May_06_2019/^$all
 ||exeter.ac.uk/country/US/TJ-527-X1967/Exeter.ac/4753947667_May_06_2019/^$all
+||exiledros.net/V9.531IjRxDpPy/tmpheqK2cCD4k/^$all
 ||exploit-db.com/sploits/19245.exe^$all
 ||exploit-db.com/sploits/19827-1.exe^$all
 ||expressaopopular.com.br/loja/wp-content/themes/busify/wtidipnomyry/LoanAgreement_623048877_05132020.zip^$all
@@ -138175,6 +138257,7 @@ zzz78.tk
 ||f.cl.ly/items/3B2d2A1O3G3c1P1G1N0P/hot.doc^$all
 ||f.cl.ly/items/3C3q3D3d0k2s3W0t3r1u/ADR_Rel_grafico1_mar01.zip^$all
 ||f.cl.ly/items/3U2d2A3k3l2G3z0G2l0o/up.jpg^$all
+||f.top4top.io/p_1520fd8sw1.jpg^$all
 ||f002.backblazeb2.com/file/casefile/adobe.exe^$all
 ||f002.backblazeb2.com/file/cliente22/Or%C3%A7amento%20de%20Maio.msi^$all
 ||facciamobili.it/wp-content/plugins/apikey/qdtmshc/56134/LoanAgreement_56134_05132020.zip^$all
@@ -138189,6 +138272,7 @@ zzz78.tk
 ||fakeindustries.org/xhgjr/23174979/NBSA_23174979_28052020.zip^$all
 ||fakeindustries.org/xhgjr/NBSA_13756_28052020.zip^$all
 ||fakeindustries.org/xhgjr/NBSA_2548459_28052020.zip^$all
+||famitaa.com/vsijmfio/13627971/EmploymentVerification_13627971_05052020.zip^$all
 ||faranians.com/wp-content/themes/calliope/previous/7149405/7149405.zip^$all
 ||fargad.com/OVERDUE-ACCOUNT/tracking-number-and-invoice-of-your-order/^$all
 ||fargad.com/Rech/Zahlung/Rechnung-fur-Dienstleistungen-040-540/^$all
@@ -138200,6 +138284,7 @@ zzz78.tk
 ||fax31.s3.amazonaws.com/UpdateFax-Email.exe^$all
 ||fax31.s3.amazonaws.com/crpxmmmmlnk.exe^$all
 ||fax31.s3.amazonaws.com/out-26564817.hta^$all
+||fdrs-ltd.com/files/US/Payment-and-address/Invoice-457693/^$all
 ||fectrucks.com/QaaXRUq/^$all
 ||fectrucks.com/RECH/Zahlungserinnerung-vom-Mai-0387-6321/^$all
 ||fedomede.com/wp-content/danvv6/^$all
@@ -138317,7 +138402,8 @@ zzz78.tk
 ||flod.it/R20BWuS6uusvKQiMyg/de_DE/Firmenkunden/^$all
 ||flowesie.fr/wp-content/uploads/2020/04/docs_91y/47396/Buy-Sell%20Agreement_47396_04232020.zip^$all
 ||flowesie.fr/wp-content/uploads/2020/04/docs_91y/Buy-Sell%20Agreement_3875935_04232020.zip^$all
-||fntcr.com/payment.exe^$all
+||fmam.net/ghbrasil_news/27009-sYSxDdJLTZKF-AQoqior-YIInER4YKse/security-174080713-PezqAcz5s31/0385956994-WRjaok5AKwa/^$all
+||fmam.net/tropicalunderground/r5vb46977402/^$all
 ||fondazionecasabianca.it/wp-content/uploads/2020/05/efwwfnqgcnzq/0352622/LoanAgreement_0352622_05132020.zip^$all
 ||fooladmachine.com/wagpvyf/82574710/NQAD_82574710_01062020.zip^$all
 ||fooladmachine.com/wagpvyf/NQAD_85799125_01062020.zip^$all
@@ -138360,6 +138446,8 @@ zzz78.tk
 ||forum-rybakov.ru/tmp1/default/En/Open-Past-Due-Orders/^$all
 ||forum-rybakov.ru/tmp1/default/En/Open-Past-Due-Orders^$all
 ||foxfennecs.com/wp-content/themes/calliope/docs_v72/084594017/Judgement_04222020_084594017.zip^$all
+||frackit.com/88132CRLN/ACH/Commercial^$all
+||frackit.com/Document/EN_en/568-97-630505-059-568-97-630505-851^$all
 ||frantisek-cajka.cz/wp-content/plugins/apikey/wnsmbwjlzix/968854/LoanAgreement_968854_05122020.zip^$all
 ||freelancedigitales.com/keo/AZPQar/^$all
 ||freelancedigitales.com/keo/ekb98m90542/^$all
@@ -138438,6 +138526,10 @@ zzz78.tk
 ||fs26.fex.net/get/419239924222/1262866045/1fba7dc8/mmmmm.exe^$all
 ||fs28.fex.net/get/419239924222/1262567377/c0821380/25d.exe^$all
 ||fs28.fex.net/get/710818010416/1214299728/cd8564b2/POEA%20ADVISORY.exe^$all
+||fsastudio.com/FILE/US_us/Past-Due-Invoices/^$all
+||fsastudio.com/FILE/US_us/Past-Due-Invoices^$all
+||fsastudio.com/US/Transaction_details/2018-12/^$all
+||fsastudio.com/US/Transaction_details/2018-12^$all
 ||fsdfdsfdssdsaassa.s3.eu-central-1.amazonaws.com/EvdeKaliyorum.apk^$all
 ||fsk-ees.ru/media/File/customers/Form_tu_750.doc^$all
 ||fstd.com.tw/beex.jpg^$all
@@ -138592,8 +138684,6 @@ zzz78.tk
 ||gjhjhjhgjjj.s3.eu-central-1.amazonaws.com/EvdeKaliyorum.apk^$all
 ||glacial.com.br/wp-admin/multifunctional-module/verifiable-space/75648040832-0WdlxGdg5l5/^$all
 ||glacial.com.br/wp-content/uploads/2020/05/lrwezndof/Kaufvertrag_100980869_20052020.zip^$all
-||glip-vault-1.s3-accelerate.amazonaws.com/web/customer_files/1018812956684/IMAGE_020110333001001.zip?Expires=2075494478&AWSAccessKeyId=AKIAJROPQDFTIHBTLJJQ&Signature=YzxiWz8qYEyE%2FcRW%2FMpzw%2FoMHDg%3D&response-content-disposition=attachment^$all
-||glip-vault-1.s3-accelerate.amazonaws.com/web/customer_files/1019027505164/Outstanding%20Payment%20Copy.zip?Expires=2075494478&AWSAccessKeyId=AKIAJROPQDFTIHBTLJJQ&Signature=7tH4mckzx%2FeV0H5QoM7Yn5hJtuE%3D&response-content-disposition=attachment^$all
 ||glip-vault-1.s3.amazonaws.com/web/customer_files/720950280204/ACH%20PAYMENT%20REMITTANCE.DOC.zip?Expires=2075494478&AWSAccessKeyId=AKIAJROPQDFTIHBTLJJQ&Signature=APQeJXVXqVwwtpv%2FU8BoHV3zWNs%3D&response-content-disposition=attachment^$all
 ||glip-vault-1.s3.amazonaws.com/web/customer_files/720950280204/ACH%20PAYMENT%20REMITTANCE.DOC.zip?Expires=2075494478&AWSAccessKeyId=AKIAJROPQDFTIHBTLJJQ&Signature=APQeJXVXqVwwtpv/U8BoHV3zWNs=&response-content-disposition=attachment^$all
 ||globalpremiere.org/docs_03j/Buy-Sell%20Agreement_137230_04232020.zip^$all
@@ -138726,9 +138816,6 @@ zzz78.tk
 ||harbourpacific.com/tlugqylirvix/e/KrMky2qHS.zip^$all
 ||harbourpacific.com/tlugqylirvix/lm/jY/YzwwVQ57.zip^$all
 ||hardworkingmarketing.com/wp-content/cache/organization/account/secur/read/tYyqu7t3isXPZTGUr/^$all
-||harkemaseboys.nl/httpdocs/2hkvft-mp1-6897/^$all
-||harkemaseboys.nl/httpdocs/Document/3yb2omhz114b/6-0491412-93783540-d3om79lgii-x7868ini/^$all
-||harkemaseboys.nl/httpdocs/dgl7hreodewn/^$all
 ||hasifria.net/wp-content/uploads/2020/04/docs_jsv/Judgement_04222020_65639.zip^$all
 ||hawatransportation.com/wp-content/jsc/06338/Darlehensvertrag_06338_15052020.zip^$all
 ||hawatransportation.com/wp-content/jsc/12140/Darlehensvertrag_12140_15052020.zip^$all
@@ -138754,6 +138841,17 @@ zzz78.tk
 ||healthcaring.xyz/wp-content/uploads/2020/04/tcabb/ServiceContractAgreement_8780_04302020.zip^$all
 ||healthcaring.xyz/wp-content/uploads/2020/04/tcabb/ServiceContractAgreement_9158_04302020.zip^$all
 ||healthylifeprogarcinia.com/cqwduqdvlxd/08797/Darlehensvertrag_08797_18052020.zip^$all
+||heggemeier.com/_dsn/Agreements-July/^$all
+||heggemeier.com/_dsn/DETAILS/Zahlungserinnerung-vom-Juni-067-697/^$all
+||heggemeier.com/_dsn/DETAILS/Zahlungserinnerung-vom-Juni-067-697^$all
+||heggemeier.com/_dsn/DOC/Invoice-3808748/^$all
+||heggemeier.com/_dsn/DOC/tracking-number-and-invoice-of-your-order/^$all
+||heggemeier.com/_dsn/Facturas-24/^$all
+||heggemeier.com/_dsn/Payment-and-address/Services-06-21-18-New-Customer-UH/^$all
+||heggemeier.com/_dsn/Payment-and-address/Services-06-21-18-New-Customer-UH^$all
+||heggemeier.com/ssfm/ACCOUNT/invoice/^$all
+||heggemeier.com/ssfm/Facture-impayee-31/05/2018/^$all
+||heggemeier.com/ssfm/Facture-impayee/^$all
 ||helpcube.net/wp-content/themes/calliope/beads/25247550/25247550.zip^$all
 ||helpcube.net/wp-content/themes/calliope/beads/5292231.zip^$all
 ||helpcube.net:443/wp-content/themes/calliope/beads/003513696.zip^$all
@@ -138764,8 +138862,6 @@ zzz78.tk
 ||herdem.xyz/wp-content/uploads/2020/05/jrcghexwke/l/CIlW6As8g.zip^$all
 ||heritagemfg.com/aaa/sales-reports/images/certificate_3807.exe^$all
 ||herrfischer.me/phsse/8888.png^$all
-||hes32-ctp.trendmicro.com/wis/clicktime/v1/query?url=http%3a%2f%2fbrazenfreight.co.za%2fde%5fDE%2fRERPSNQS6194206%2fgescanntes%2dDokument%2fRECHNUNG&umid=0597875c-971d-4dbb-86d5-d91ca85d7e23&auth=d22983323af54717a7788e8f4dad6cbd2e8e39b4-7ee0da30bd8f3627d703b9cbd3a/^$all
-||hes32-ctp.trendmicro.com/wis/clicktime/v1/query?url=http%3a%2f%2fbrazenfreight.co.za%2fde%5fDE%2fRERPSNQS6194206%2fgescanntes%2dDokument%2fRECHNUNG&umid=0597875c-971d-4dbb-86d5-d91ca85d7e23&auth=d22983323af54717a7788e8f4dad6cbd2e8e39b4-7ee0da30bd8f3627d703b9cbd3a711e6700fa520/^$all
 ||hevizapartments.net/wp-content/plugins/apikey/rcaphcwriz/1126/EmploymentVerification_1126_05052020.zip^$all
 ||hevizapartments.net/wp-content/plugins/apikey/rcaphcwriz/EmploymentVerification_41601806_05052020.zip^$all
 ||hevizapartments.net/wp-content/plugins/apikey/rcaphcwriz/EmploymentVerification_58032421_05052020.zip^$all
@@ -138779,10 +138875,8 @@ zzz78.tk
 ||hillcountryphysicalmedicine.com/gayeh/Ow/fA/Q5qvzCm0.zip^$all
 ||hillcountryphysicalmedicine.com/gayeh/d/xRvQBrkkQ.zip^$all
 ||hillcountryphysicalmedicine.com/osqnevirii/s2/AL/yP8WnPW9.zip^$all
-||hillsidecandy.com/wp-admin/2iq1l/^$all
 ||himamobile.com/wp-content/j8/^$all
 ||himthailand.org/wp-content/themes/calliope/previous/444444.png^$all
-||hitech-control.com/KYGsjZ/^$all
 ||hockeyprospectus.com/EN_US/Clients_Messages/112018/^$all
 ||hockeyprospectus.com/EN_US/Clients_Messages/112018^$all
 ||hombreclothing.com/wp-content/themes/calliope/previous/496539709/496539709.zip^$all
@@ -138821,19 +138915,11 @@ zzz78.tk
 ||hotgifts.online/bc751a3f103b5151e09550385e5e50d3/updateprofile.exe^$all
 ||how.ph/mrb/2579/Buy-Sell_Agreement_2579_04272020.zip^$all
 ||how.ph/mrb/706759/Buy-Sell_Agreement_706759_04272020.zip^$all
-||hraxisindia.com/aspnet_client/q0z96ighij-97lqm-04/^$all
 ||htl.li/gm6y30lvnkN^$all
-||http.pc-rekcah.com/d/hs^$all
-||http.zombiebears.online/zb.exe^$all
-||http/5.206.227.45/33bi/Ares.armebv7^$all
-||httpron.servegame.com:1750/rechnung.PDF.zip^$all
 ||https-canadapost.top/SoftIntera.exe^$all
 ||https:/comedyticket.nl/wp-content/themes/mapro/pump/5897/judgement_04212020_5897.zip^$all
 ||https:/zethla.com/wp-content/themes/calliope/docs_osb/3242815/Buy-Sell%20Agreement_3242815_04232020.zip^$all
 ||httpswindowsupdates.com/AD0V3Upd4t3.exe^$all
-||httpwindows10updatevbcustom.com/Apkwins465.exe^$all
-||httpyiwujiadianweixiu.xyz/Corporation/En/Service-Invoice/^$all
-||httpyiwujiadianweixiu.xyz/Corporation/En/Service-Invoice^$all
 ||hugeturtle.com/wp-content/lm/ClcOLWRvD/^$all
 ||human-algorithm.com/92lvzx/9h148511/^$all
 ||hungerplanet.in/phwmlaegglci/l/fhHeRxNrt.zip^$all
@@ -138852,6 +138938,9 @@ zzz78.tk
 ||huniandijual.com/wp-content/uploads/2020/04/docs_x5r/Buy-Sell%20Agreement_5831416_04242020.zip^$all
 ||huniandijual.com/wp-content/uploads/2020/04/docs_x5r/Buy-Sell%20Agreement_9028_04242020.zip^$all
 ||hwcdn.net/g5k6t6n2/cds/apdata/installers/auto/exe/starter.exe?b^$all
+||i.cubeupload.com/eZ3vpT.jpg^$all
+||i.cubeupload.com/euEv6N.jpg^$all
+||i.cubeupload.com/gmEtap.jpg^$all
 ||i.imgur.com/6WIjvDZ.png^$all
 ||i.imgur.com/6q5qHHD.png^$all
 ||i.imgur.com/96vV0YR.png^$all
@@ -138895,7 +138984,6 @@ zzz78.tk
 ||iberperfil.com/6RS34PRb/^$all
 ||icart.lk/C5YbDhP/^$all
 ||icart.lk/C5YbDhP^$all
-||icmcce.net/factura-recibo/http://#icollc.net/OVERDUE-ACCOUNT/HRI-Monthly-Invoice/^$all
 ||icooltech.in/kzelai/attachments/f0mdnicbyaeb/^$all
 ||icshongkong.com/wp-content/uploads/2020/04/evolving/00984.zip^$all
 ||icshongkong.com/wp-content/uploads/2020/04/evolving/1034048/1034048.zip^$all
@@ -138938,12 +139026,6 @@ zzz78.tk
 ||img.mailinblue.com/2068480/attachments/0204902900.zip^$all
 ||img.mailinblue.com/2098380/attachments/048940030.zip^$all
 ||img.mailinblue.com/2098380/attachments/Quo00289.zip^$all
-||img.sobot.com/chatres/89/msg/20190425/70d8456269fc4824ab94e61b985f4dd0.png^$all
-||img.sobot.com/chatres/89/msg/20190606/35c4e7c12f6e4f7f801acc86af945d9f.png^$all
-||img.sobot.com/chatres/89/msg/20190627/b91559ac5f6d4d2f94f9fba20121170c.png^$all
-||img.sobot.com/chatres/89/msg/20190627/d6dced5199434ee898670f773eaaa069.png^$all
-||img.sobot.com/chatres/89/msg/20191022/2be662ee79084035914e9d6a6d6be10d.png^$all
-||img.sobot.com/chatres/89/msg/20191022/78e3582c42824f17aba17feefb87ea5f.png^$all
 ||img.vim-cn.com/93/0a11acc864b124af1d3de9145eccfc4ebc98f5/^$all
 ||img1.wsimg.com/blobby/go/716ce6c5-e07c-43a7-a685-6d934b9f51c3/downloads/1cqdpmlgu_930218.doc^$all
 ||imrcollege.org/PO.exe^$all
@@ -139021,7 +139103,6 @@ zzz78.tk
 ||itrigger.cn/wp-content/uploads/2020/04/wvcmkcon/ServiceContractAgreement_763721_04292020.zip^$all
 ||its2090.weebly.com/uploads/5/9/7/1/59718903/putty-its2090.exe^$all
 ||itscrash.com/i2uzriWY4nLhDb_XoB0A/^$all
-||itvision.it/templates/protostar/html/xls/^$all
 ||iutai.tec.ve/casicoin/img/adjuntos/2486HRAOD/PAYMENT/Personal^$all
 ||iutai.tec.ve/casicoin/img/adjuntos/27615XMIV/WIRE/Commercial/^$all
 ||iutai.tec.ve/casicoin/img/adjuntos/27615XMIV/WIRE/Commercial^$all
@@ -139042,7 +139123,6 @@ zzz78.tk
 ||iutai.tec.ve/casicoin/img/adjuntos/wTJsDPPix4EySpGBL^$all
 ||ivanvy.com/wp-content/themes/calliope/previous/39372.zip^$all
 ||ivanvy.com/wp-content/themes/calliope/previous/58865/58865.zip^$all
-||iwebvault.com/a/fisherog.exe^$all
 ||izu.co.jp/~saigo/25072019_1120.xls^$all
 ||izu.co.jp/~saigo/C354883.xls^$all
 ||jacobgrier.com/modlogan/DOC/h94tf3jnk_1y68xpk5d1-72633274711507/^$all
@@ -139053,7 +139133,6 @@ zzz78.tk
 ||jajankonten.com/isndfqc/LoanAgreement_2490641_05132020.zip^$all
 ||jajankonten.com/isndfqc/LoanAgreement_3618291_05132020.zip^$all
 ||jak-stik.ac.id/sentik2019/user/proposal/paclm/^$all
-||jameshillsfue.onlyoffice.com/Products/Files/httphandlers/filehandler.ashx?action=download&fileid=6390199&doc=VnQxbVgxVVJkaSs0bGx3Yk5xeHZjRkhQL25wb3JXeENtVGk5cXc5bUxMTT0_IjYzOTAxOTki0/^$all
 ||jan-van-eijck.nl/dmwgzs/41PpjwPdIt.zip^$all
 ||jan-van-eijck.nl/dmwgzs/GO/vw/xxlFbYXG.zip^$all
 ||jan-van-eijck.nl/dmwgzs/ZT/Ma/OSFAjkP3.zip^$all
@@ -139086,17 +139165,6 @@ zzz78.tk
 ||jobzingo.info/wp-content/plugins/thrive-visual-editor/thrive-dashboard/inc/notification-manager/includes/admin/views/backbone/summaries/items/actions/inc/8888888.png^$all
 ||joelazia.com/wp-admin/oZfolIm/^$all
 ||jogise.eu/WIRE-FORM/NWO-2785491/^$all
-||johnnipe.com/1CYCCARD/CTE50482878DK/70567612608/WG-HMFOW/^$all
-||johnnipe.com/1CYCCARD/CTE50482878DK/70567612608/WG-HMFOW^$all
-||johnnipe.com/3XCorporation/KEH1172502677P/Aug-10-2018-3725780/BOP-LRLB/^$all
-||johnnipe.com/3XCorporation/KEH1172502677P/Aug-10-2018-3725780/BOP-LRLB^$all
-||johnnipe.com/DHL-Tracking/US/^$all
-||johnnipe.com/PAY/EFO64780OZCVYE/1869341089/LDY-YKBY/^$all
-||johnnipe.com/PAY/EFO64780OZCVYE/1869341089/LDY-YKBY^$all
-||johnnipe.com/files/US_us/Open-invoices/Invoices/^$all
-||johnnipe.com/files/US_us/Open-invoices/Invoices^$all
-||johnnipe.com/newsletter/EN_en/Statement/HRI-Monthly-Invoice/^$all
-||johnnipe.com/pdf/En_us/Statement/Invoice-79146533-073018/^$all
 ||jointings.org/eng/wp-content/plugins/featurific-for-wordpress/1^$all
 ||jointings.org/eng/wp-content/plugins/featurific-for-wordpress/2^$all
 ||jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3^$all
@@ -139120,7 +139188,6 @@ zzz78.tk
 ||kaikayarestaurante.com/wp-content/uploads/2018/12/031.doc^$all
 ||kailiaoji01.com/wp-content/Document/juks3rhuk86/t-9790677-113799-oxp7p3wgqe-6dlokeo17q/^$all
 ||kakaocorp.link/data/imgs/deim.gif^$all
-||kalisti.com/3R/WIRE/Personal^$all
 ||kamafirst.online/wp-content/uploads/2020/05/stqpxppwd/42455/Kaufvertrag_42455_21052020.zip^$all
 ||kamaldarwish.com/ynqvbw/3N/JY/4VESYc86.zip^$all
 ||kamaldarwish.com/ynqvbw/3w/jH/lIpizccA.zip^$all
@@ -139128,6 +139195,15 @@ zzz78.tk
 ||kamaldarwish.com/ynqvbw/6/yoUmgHA5t.zip^$all
 ||kamaldarwish.com/ynqvbw/s/8JzBCWCHg.zip^$all
 ||kamaldarwish.com/ynqvbw/vqszVHRa60.zip^$all
+||kantauri.com/3180HCL/identity/Commercial/^$all
+||kantauri.com/3180HCL/identity/Commercial^$all
+||kantauri.com/4950102G/PAYROLL/Business^$all
+||kantauri.com/8234698GLD/ACH/Personal/^$all
+||kantauri.com/8234698GLD/ACH/Personal^$all
+||kantauri.com/Document/En/Past-Due-Invoices/^$all
+||kantauri.com/Document/En/Past-Due-Invoices^$all
+||kantauri.com/xerox/EN_en/Invoice/^$all
+||kantauri.com/xerox/EN_en/Invoice^$all
 ||karmah.store/carriers/Document/4nfbn91q8d/^$all
 ||karnatakajwale.com/wp-content/themes/danfe/xtwcjusdar/126982/EmploymentVerification_126982_05072020.zip^$all
 ||karphnandoyesport.com/Order/Auditor-of-State-Notification-of-EFT-Deposit^$all
@@ -139187,6 +139263,7 @@ zzz78.tk
 ||kingdomcarecan.com/nbdvaba/Buy-Sell_Agreement_08047_04272020.zip^$all
 ||kirpich-maykop.com/ihxwbtnvftq/X/5yyb9n7lR.zip^$all
 ||kitapbursa.com/wp-content/themes/danfe/hwmglcr/EmploymentVerification_76946106_05072020.zip^$all
+||kitokieprojektai.net/Invoice-for-w/x-03/09/2018/^$all
 ||kodingeko.com/pjtifw/G/dyPwzBqP4.zip^$all
 ||kodingeko.com/pjtifw/Y/BTNlN1Yse.zip^$all
 ||kolejskilmentari.edu.my/MEFZY-R2eEc_OnxRMTNO-lNB/En/Outstanding-Invoices/^$all
@@ -139204,7 +139281,17 @@ zzz78.tk
 ||kqq.kz/wp-content/plugins/wp-db-ajax-made/4^$all
 ||kr1s.ru/docv8.dat^$all
 ||kr1s.ru/java.dat^$all
+||ksafety.it/awstats-icon/FBSS-6vevfSj1HLcljD_anNdKQCx-GR/^$all
+||ksafety.it/awstats-icon/bhrdd5_52hq89-34/^$all
+||ksafety.it/awstats-icon/nTggn-V6UkwPFNife541Q_VzRUNhOF-Ee/^$all
+||ksafety.it/awstats-icon/verif.myacc.docs.com/^$all
 ||kslanrung.com/evolving/888888.png^$all
+||ktudu.com/wp-content/uploads/128033879/pHln-mJ_wTOwopYzR-sN/^$all
+||ktudu.com/wp-content/uploads/6i1sdkp-1bsieyd-mayhjcg/^$all
+||ktudu.com/wp-content/uploads/8227251500864/Azzb-EW_TKMhiUp-hR/^$all
+||ktudu.com/wp-content/uploads/YLjV-rsBBenTrqNNCXV_GKmyGZhN-xt/^$all
+||ktudu.com/wp-content/uploads/esp/izdqe5tg2d0bmzwriq6vb550ula_6ojur-8467335352073/^$all
+||ktudu.com/wp-content/uploads/jekhY-tPNAbssm26zphEY_VTtqJeMuF-ZbA/^$all
 ||kuaizip.com/down/affiliate/KuaiZip_setup_10029.exe^$all
 ||kuaizip.com/down/hps2.exe^$all
 ||kuponmax.com/wordpress/wp-content/themes/calliope/linear/072481/072481.zip^$all
@@ -139213,16 +139300,23 @@ zzz78.tk
 ||kuponmax.com/wordpress/wp-content/themes/calliope/linear/792901706.zip^$all
 ||kurier.lt/wp-includes/js/jquery/ui/bin/98kksjh.bin^$all
 ||kurier.lt/wp-includes/js/jquery/ui/bin/rwth67.bin^$all
+||kurttasche.com/FdDbnds/^$all
+||kurttasche.com/FdDbnds^$all
 ||kyouei.co.th/2018/wp-content/themes/calliope/floor/444444.png^$all
+||l.top4top.io/p_1535k08701.jpg^$all
+||l.top4top.io/p_1546y86161.jpg^$all
+||l.top4top.io/p_15636fi4d1.jpg^$all
+||l.top4top.io/p_156654nck1.jpg^$all
+||l.top4top.io/p_15703ctcs1.jpg^$all
 ||labo-m.org/pxizernbbhyj/1/hrg5jXF7J.zip^$all
 ||labo-m.org/pxizernbbhyj/UInLw6ua19.zip^$all
 ||labo-m.org/pxizernbbhyj/YeXHIc3nXQ.zip^$all
+||lacadosmurcia.com/ygfxyca.exe^$all
 ||lagreca.it/9PK/identity/Business^$all
 ||lakropack.com/s/Buy-Sell_Agreement_03970_04272020.zip^$all
 ||lakropack.com/s/Buy-Sell_Agreement_3132_04272020.zip^$all
 ||lakropack.com/s/Buy-Sell_Agreement_723121_04272020.zip^$all
 ||lakropack.com/s/Buy-Sell_Agreement_94827816_04272020.zip^$all
-||lam.cz/templates/lam/css/messg.jpg^$all
 ||lambchop.net/audio/kia.zip^$all
 ||lambchop.net/audio/major.zip^$all
 ||lambchop.net/audio/msg.jpg^$all
@@ -139305,11 +139399,6 @@ zzz78.tk
 ||leadsift.com/wp-includes/0qqmm4-uk847qkjw-2272/^$all
 ||leaguenetwork.com/wp-content/themes/calliope/previous/1133158.zip^$all
 ||leaguenetwork.com/wp-content/themes/calliope/previous/55167.zip^$all
-||legalwatch.com/Files/Myjex.exe^$all
-||legalwatch.com/Files/Mylex.exe^$all
-||legalwatch.com/Files/Nazfilx.exe^$all
-||legalwatch.com/Files/Server.exe^$all
-||legalwatch.com/Files/ServerNj.exe^$all
 ||legrand.us/-/media/brands/wattstopper/resources/software/ws-software-download-lmcs100v462xxsetup.ashx^$all
 ||lemingtech.com/wp-content/jsc/91921227/Darlehensvertrag_91921227_15052020.zip^$all
 ||lemingtech.com/wp-content/jsc/Darlehensvertrag_2442973_15052020.zip^$all
@@ -139355,7 +139444,6 @@ zzz78.tk
 ||liquid-investments.com/jdimn/7786/NBAR_7786_29052020.zip^$all
 ||liquid-investments.com/jdimn/NBAR_5230_29052020.zip^$all
 ||lists.infradead.org/pipermail/ath10k/attachments/20200120/96688204/attachment.doc^$all
-||lithe.it/templates/gantry/custom/msg.jpg^$all
 ||livedemo00.template-help.com/28736_site/HoeflerText.font.com^$all
 ||liveglamsupport.zendesk.com/attachments/token/5hi6ffymckoobokwxs0oslb96/?name=389238856784.zip^$all
 ||liveglamsupport.zendesk.com/attachments/token/5hi6ffymckoobokwxs0oslb96?name=389238856784.zip^$all
@@ -139400,7 +139488,6 @@ zzz78.tk
 ||looktravel.ge/wp-content/plugins/nksnow/1^$all
 ||looktravel.ge/wp-content/plugins/nksnow/2^$all
 ||looktravel.ge/wp-content/plugins/nksnow/3^$all
-||louiseyclarke.com/docs/cache/0b632ea269f5847062dd887187209838/http://www.louiseyclarke.com/docs/j1a6bh.php?16a8ee=paid-dating-sites-in-usa^$all
 ||lovelysmiley.com/wp-content/uploads/9wdGFeB0N/^$all
 ||lovelysmiley.com/wp-content/uploads/9wdGFeB0N^$all
 ||loxien2.com/erfuv/ZXseZNJY6g.zip^$all
@@ -139418,10 +139505,8 @@ zzz78.tk
 ||lumina.it/wp-content/plugins/all-in-one-wp-migration/storage/Client/Invoice-978561/^$all
 ||lumina.it/wp-content/plugins/all-in-one-wp-migration/storage/Client/Invoice-978561^$all
 ||lvsenling.net/wp-content/uploads/2020/05/wp-front.php^$all
-||ma-patents.com/ocnpathttp://stesh.it/xijcjod.exen.exe^$all
 ||madeinitalybeach.it/wp-snapshots/FILE/z4yk0wp-39273369-453422-i6pjnvfecy-kbxk7aiz1ukv/^$all
 ||madhavfire.com/ipvnrpdzytbl/En/Ht/lG6BblrF.zip^$all
-||maelisando.it/OVERDUE-ACCOUNT/Customer-Invoice-MU-5751673/^$all
 ||magento-marketplace.ir/wp-content/uploads/inc/Darlehensvertrag_2761389_18052020.zip^$all
 ||mahdavischool.org/int/myp/En_us/Documents/2018-11/^$all
 ||mahdavischool.org/int/myp/En_us/Documents/2018-11^$all
@@ -139528,7 +139613,6 @@ zzz78.tk
 ||marahfarms.com/zkmay/D9469-OmT2h-65415/^$all
 ||marbleentreprise.dk/wp-content/uploads/43-2707086267392376617210761493.php^$all
 ||marocaji.com/string/92174460/92174460.zip^$all
-||massiveart.info/app/app.exe^$all
 ||masterfinance.com.au/product/4MYAXN/^$all
 ||masterfinance.com.au/product/statement/ys-3392-2674-i286tjg3pqg-vik4i5twg9lq/^$all
 ||mastersjarvis.com/7eds52/14/^$all
@@ -139660,6 +139744,7 @@ zzz78.tk
 ||megamediaeg.com/wp-content/uploads/2020/05/oplreel/I5/C5/a4OVAyg5.zip^$all
 ||megawrzuta.pl/files/5b5074af4cf8eebd1f82477fd7aec819.dotm^$all
 ||melaniedandrea.com/calendar/PHvCA-oh3LpNx-jZ5wMJE-xceOMK8USGjX/external-portal/8qjcUrHV6did-rvpi9gHt/^$all
+||merkez-trading.ga/inquiry.exe^$all
 ||merky.de/fdjl8k^$all
 ||messenger.avmaroc.com/update/Install-AVM.exe^$all
 ||mestenergi.se/slider/8403.zip^$all
@@ -139678,7 +139763,6 @@ zzz78.tk
 ||mhdaaikash-dot-yamm-track.appspot.com/Redirect?ukey=1sslm86aJS3is-9swoOGl2979wtRj1U7o7AnakUUnAuc-0&key=YAMMID-98993792&link=https://a.doko.moe/aeiwgt.rar^$all
 ||miamicondoinvestments.com/wp-admin/sec.myaccount.docs.com/^$all
 ||michaelkors-outletonline.co.uk/cgi-bin/sendincverif/support/ios/En/201903/^$all
-||microsoftonlinedocuments.onlyoffice.eu/Products/Files/httphandlers/filehandler.ashx^$all
 ||microwebtechnology.com/agm/1938.jpg^$all
 ||microwebtechnology.com/agm/images/19335.jpg^$all
 ||millennialsberkarya.com/wp-admin/de_DE/WUCHZZ6988312/Scan/Zahlung/^$all
@@ -139733,6 +139817,8 @@ zzz78.tk
 ||mobilize.org.br/acompanhe-a-mobilidade/browse/^$all
 ||mobilize.org.br/acompanhe-a-mobilidade/docs/unz0127392065-7906-8qtep00cgkpfl7wx0rh3/^$all
 ||mobilize.org.br/acompanhe-a-mobilidade/qlvSgT/^$all
+||modelgenesis.com/De/MLAXWYUOMW8123967/de/FORM/^$all
+||modelgenesis.com/De/RGVVPQX2802156/gescanntes-Dokument/DOC/^$all
 ||monbari.com/wp-content/uploads/inc/1592806/Darlehensvertrag_1592806_18052020.zip^$all
 ||monowall.com.au/wp/wp-content/plugins/apikey/rqozpvze/5/iUoUMQWAU.zip^$all
 ||monowall.com.au/wp/wp-content/plugins/apikey/rqozpvze/7G/yv/fGuO4bCz.zip^$all
@@ -139756,6 +139842,8 @@ zzz78.tk
 ||mrwu.at/wp-content/NkeSD-D95uVnWcaqb1XOZ_QQWixLxNB-cHy/^$all
 ||msdolany.cz/wmffjcyl/032756/NBSA_032756_28052020.zip^$all
 ||msdolany.cz/wmffjcyl/NBSA_2684785_28052020.zip^$all
+||mssql.4i7i.com/MS19.exe^$all
+||mssql.4i7i.com/MSSQL.exe^$all
 ||mstr11.s3.us-east-2.amazonaws.com/dc090991001.zip^$all
 ||mtrack.me/tracking/raWzMz50paMkCGD3ZwxkAGV2ZwHzMKWjqzA2pzSaqaR9AGZ2BGL4BQDmWay2LKu2pG0kAmtkBGpjZQp0ZSV^$all
 ||multimedia.getresponse.com/getresponse-SxuiN/documents/743b122c-8162-4d7a-904a-15c08ebd1c61.zip^$all
@@ -139776,7 +139864,6 @@ zzz78.tk
 ||mustafabd.com/vtvunaxhf/UD/4F/qokWyjuI.zip^$all
 ||mustafabd.com/vtvunaxhf/h/snN29Kz3v.zip^$all
 ||mustafabd.com/vtvunaxhf/l/X3scAyaMy.zip^$all
-||mvid.com/index_htm_files/bw5fb_s9rd37p9w-117/^$all
 ||mwebmarketing.com/jsc/Darlehensvertrag_6519_15052020.zip^$all
 ||mwm-eng.ru/wp-content/themes/busify/xfyprerg/505695674/LoanAgreement_505695674_05132020.zip^$all
 ||mwm-eng.ru/wp-content/themes/busify/xfyprerg/673484/LoanAgreement_673484_05132020.zip^$all
@@ -139810,7 +139897,6 @@ zzz78.tk
 ||nanhai.gov.cn/cms/html/files/2014-11/06/20141106144718814148788.doc^$all
 ||nanosynex.com/wp-content/themes/calliope/linear/126959453/126959453.zip^$all
 ||nanosynex.com/wp-content/themes/calliope/linear/87889/87889.zip^$all
-||nataliawalthphotography.com/CiPn/^$all
 ||nathannewman.org/wp-content/themes/boldnews/includes/js/GKPIK.zip^$all
 ||nathannewman.org/wp-content/themes/boldnews/includes/js/msg.jpg^$all
 ||nathannewman.org/wp-content/themes/boldnews/lang/messg.jpg^$all
@@ -139829,8 +139915,6 @@ zzz78.tk
 ||navinplastic.com/qidzffpkb/U/oXeIoQ1Q4.zip^$all
 ||nb-repair.ru/mlarrqy/StockPurchaseAgreement_3495245_05222020.zip^$all
 ||nb-repair.ru/ocbqkfu/Aufhebung_28498_25052020.zip^$all
-||nbigfile.mail.naver.com/bigfileupload/download?fid=9YRcMrkd162jK6J0b4eOK3YwFA2raxUmHqUmKx2maAUZKxuwFqtwHqu9Kqb9FAulaxvjFxbmaztrpxvqKqvXFAUraxtrKqb/MoJvMx3Spx2/M4U=^$all
-||nbigfile.mail.naver.com/bigfileupload/download?fid=VPeqW60cW4KZFovXHqujKoUjKogwaAgXKoMmFqUXKxKjKxEqFxUmaxula3YqKogqKzMwFrU9KxkCM4M/KzJSFqt/KqbXpo2lKoEZat==^$all
 ||ncevecc.com.ng/wp-content/plugins/apikey/tools/1160913/1160913.zip^$all
 ||nch.com.au/components/aacenc.exe^$all
 ||neoflash.com/download/Neo2_Pro_Manager_1.32A_Setup.exe^$all
@@ -139874,7 +139958,6 @@ zzz78.tk
 ||newhavenskiclub.com/xkrnwsu/NQAD_6401755_01062020.zip^$all
 ||newhavenskiclub.com/xkrnwsu/NQAD_81377985_01062020.zip^$all
 ||newlife-health.com/ctzjuysngkq/824667289/NERQ_824667289_02062020.zip^$all
-||news.a1enterprise.com/dkl/nzid3x2ng/^$all
 ||newscommer.com/app/al/latest32.exe^$all
 ||newscommer.com/app/e7.exe^$all
 ||newscommer.com/app/mrt.exe^$all
@@ -139892,37 +139975,17 @@ zzz78.tk
 ||newxing.com/DDB3AC763452/StandardPalette.exe^$all
 ||newxing.com/DE8BD3F2F296/QQ2009.exe^$all
 ||newxing.com/d6c9a8a921847/prjfire.exe^$all
-||ngyusa.com/catalog/htarg2.hta^$all
-||ngyusa.com/catalog/rginvoice.exe^$all
-||ngyusa.com/customer/anyi.exe^$all
-||ngyusa.com/payment/htaallofus.hta^$all
-||ngyusa.com/payment/htanelson.hta^$all
-||ngyusa.com/payment/htazeco.hta^$all
-||ngyusa.com/systems/bukas.exe^$all
-||ngyusa.com/systems/htabukas.hta^$all
-||ngyusa.com/systems/htanelson.hta^$all
-||ngyusa.com/systems/htazeco.hta^$all
-||nhlavuteloholdings.co.za/wp_http/Doc18.doc^$all
-||nhlavuteloholdings.co.za/wp_http/bio.exe^$all
-||nhlavuteloholdings.co.za/wp_http/chk.exe^$all
-||nhlavuteloholdings.co.za/wp_http/ckk.exe^$all
-||nhlavuteloholdings.co.za/wp_http/hj.exe^$all
-||nhlavuteloholdings.co.za/wp_http/uzo.exe^$all
 ||nicheflights.com/branding/2645.zip^$all
 ||nicheflights.com/branding/93134432.zip^$all
 ||nicheflights.com/wp-content/uploads/2020/04/branding/08772/08772.zip^$all
 ||nicheflights.com/wp-content/uploads/2020/04/branding/5218908.zip^$all
 ||nicheflights.com/wp-content/uploads/2020/04/branding/92079095.zip^$all
-||nihaoconsult.com/seafhttp/files/8abbb7a9-030d-4b85-ae0b-31097a024065/IMG_0001+(1).scr^$all
 ||ningzhidata.com/download/IDG-FEILONGV1.0-20200310.exe^$all
 ||ningzhidata.com/download/IDG-MINZONGV1.0-20200310.exe^$all
 ||ningzhidata.com/download/IDG-NINGZHIV1.0-20200310.exe^$all
 ||ningzhidata.com/download/IDG-NJCKV1.0-20200320.exe^$all
 ||ningzhidata.com/download/SVMV1.0-20200310.exe^$all
 ||ningzhidata.com/download/svminstall.exe^$all
-||niteshagrico.com/Amazon/En/Clients_information/012019/^$all
-||niteshagrico.com/z7ISltpB/^$all
-||niteshagrico.com/z7ISltpB^$all
 ||nityantaproductions.com/wp-content/themes/calliope/beads/0965037.zip^$all
 ||njelec.com/wp-content/Invoice-Number-791907/^$all
 ||nlp-the4thlevel.com/wp-content/uploads/2020/05/ekergeexqsas/LoanAgreement_6139567_05122020.zip^$all
@@ -139975,6 +140038,8 @@ zzz78.tk
 ||nwcfood.com/wp-content/uploads/2020/05/xsrawspsqh/Complaint_19304_05042020.zip^$all
 ||nwcfood.com/wp-content/uploads/2020/05/xsrawspsqh/Complaint_8586_05042020.zip^$all
 ||nxcvjksdhiougfhiosdgfsgdfohsoidfhc16c.s3.us-east-2.amazonaws.com/P-16-5.dll^$all
+||nxtfdata.xyz/cl.exe^$all
+||nxtfdata.xyz/cl2.exe^$all
 ||nylag.org/wp-content/upgrade/4ret-1lcji8-bzqj/^$all
 ||nylenaturals.com/nyle/hyh81-1aovw-63/^$all
 ||o-right.co.kr/wp-content/0MJSXWNZ/SWIFT/Personal^$all
@@ -140008,7 +140073,6 @@ zzz78.tk
 ||olavarria.gov.ar/libroolavarria/vrm9-cxviupl-iibwyp/^$all
 ||olavarria.gov.ar/libroolavarria/ybgko-408txdb-pxlgyue/^$all
 ||olawin.com/files/GcafeService_net.zip^$all
-||old.a1enterprise.com/oga/qzxzkd1_j18y2q_resource/open_space/d131n8qu5q4_u3tt5ws6y/^$all
 ||old.honeynet.org/scans/scan33/0x90.exe^$all
 ||omsk-osma.ru/files/2097/Schizophrenia.exe^$all
 ||omsrettifiche.com/wp-content/uploads/2020/04/cursors/12940034/12940034.zip^$all
@@ -140869,6 +140933,7 @@ zzz78.tk
 ||onedrive.live.com/download?cid=9E66CBA544CF11F7&resid=9E66CBA544CF11F7%21138&authkey=AE0GL-SHLMt7SY0^$all
 ||onedrive.live.com/download?cid=9E8FD2D69336489D&resid=9E8FD2D69336489D%21691&authkey=AAPqME9KjtbdYBA^$all
 ||onedrive.live.com/download?cid=9F022321CFEB66CA&resid=9F022321CFEB66CA%21191&authkey=ABUc2Xrb2lo_hew^$all
+||onedrive.live.com/download?cid=9F4D62D917C21D83&resid=9F4D62D917C21D83%21110&authkey=AGTzR2-KMLZI9P0^$all
 ||onedrive.live.com/download?cid=A023FE2D1AC611F2&resid=A023FE2D1AC611F2!497&authkey=ANnphl-4y7qaOUw^$all
 ||onedrive.live.com/download?cid=A023FE2D1AC611F2&resid=A023FE2D1AC611F2!514&authkey=ALaXH02uycquUI4^$all
 ||onedrive.live.com/download?cid=A023FE2D1AC611F2&resid=A023FE2D1AC611F2%21497&authkey=ANnphl-4y7qaOUw^$all
@@ -141371,7 +141436,6 @@ zzz78.tk
 ||orientpaints.info/string/67406.zip^$all
 ||orientpaints.info/string/782402/782402.zip^$all
 ||originaldll.com/download/41397.exe^$all
-||orilenkinski.com/.customer-area/069C3-49373-pack-status^$all
 ||osheoufhusheoghuesd.ru/1.exe^$all
 ||osheoufhusheoghuesd.ru/2.exe^$all
 ||osheoufhusheoghuesd.ru/3.exe^$all
@@ -141452,7 +141516,6 @@ zzz78.tk
 ||pancoupe.com/wp-content/themes/calliope/beads/3626291.zip^$all
 ||pancoupe.com/wp-content/themes/calliope/beads/909171.zip^$all
 ||paradoxsolutionsservices.com/notifications^$all
-||parahttp.tk/payload.exe^$all
 ||parisairportdisneyprestigetransfer.com/wp-includes/OysG/^$all
 ||parlament.biz/kcGiCxVT1EmJEPX/DE/Firmenkunden/^$all
 ||parlament.biz/kcGiCxVT1EmJEPX/DE/Firmenkunden^$all
@@ -146378,8 +146441,6 @@ zzz78.tk
 ||pluralsight-static.s3.amazonaws.com/course-materials/go/CD3141BD2E/20130215014520/go.zip^$all
 ||plushshow.com/US/Payments/12_18/^$all
 ||pmguide.net/docs_bjg/56939/Buy-Sell%20Agreement_56939_04232020.zip^$all
-||pmiec.com/wp-includes/pomo/bun.exe^$all
-||pmiec.com/xlrmp/tue.exe^$all
 ||pmjnews.com/wp-content/pdc88/^$all
 ||pnra.org/lic_forms/8bmform.doc^$all
 ||podisticaavisderuta.it/flags/client.rar^$all
@@ -146392,9 +146453,16 @@ zzz78.tk
 ||portalouse.com.br/docs_jqk/471381/Buy-Sell%20Agreement_471381_04232020.zip^$all
 ||portalouse.com.br/docs_jqk/Buy-Sell%20Agreement_038095375_04232020.zip^$all
 ||portalouse.com.br/docs_jqk/Buy-Sell%20Agreement_3116575_04232020.zip^$all
+||positronicsindia.com/eph/aba/mor.exe^$all
+||positronicsindia.com/eph/ari/oki.exe^$all
+||positronicsindia.com/eph/cok/chi.exe^$all
+||positronicsindia.com/eph/di/aro.exe^$all
+||positronicsindia.com/eph/jo/jeo.exe^$all
+||positronicsindia.com/eph/newg/guy.exe^$all
+||positronicsindia.com/eph/pla/sin.exe^$all
+||positronicsindia.com/eph/uru/oguy.exe^$all
 ||pouladtan.ir/wp-content/uploads/2020/05/pdmbzki/8541374/Darlehensvertrag_8541374_18052020.zip^$all
 ||pouladtan.ir/wp-content/uploads/2020/05/pdmbzki/Darlehensvertrag_08760_18052020.zip^$all
-||poultry.com.ng/6008320X/WIRE/Businesshttp://floridabassconnection.xpartsols.com/INFO/US/0-Past-Due-Invoices/^$all
 ||poweringcommunities.org/tr/huz/^$all
 ||ppwpm.com/branding/326326/326326.zip^$all
 ||pratham.org/wp-admin/s1/^$all
@@ -146406,7 +146474,6 @@ zzz78.tk
 ||preparadoroposicionesinfantil.com/wp-content/themes/danfe/nljaeluuhz/023788/EmploymentVerification_023788_05072020.zip^$all
 ||preparadoroposicionesinfantil.com/wp-content/themes/danfe/nljaeluuhz/22873/EmploymentVerification_22873_05072020.zip^$all
 ||preserved-diesels.co.uk/wp-content/verif.accounts.resourses.biz/^$all
-||prim.sydneyrobbins.net/httpd.lg^$all
 ||primaart.vn/imsyoib/917441/EmploymentVerification_917441_05062020.zip^$all
 ||primaart.vn/imsyoib/EmploymentVerification_65549281_05062020.zip^$all
 ||primefloridavacations.com/ufuocdtjxbq/iM/Ha/ny3VscfB.zip^$all
@@ -146414,8 +146481,6 @@ zzz78.tk
 ||printoholic.com/vbmtljcls/K/BN41DdBrR.zip^$all
 ||printoholic.com/wzemszncmcb/b/RKrA85Gl7.zip^$all
 ||printoholic.com/wzemszncmcb/p/54cP1aMSu.zip^$all
-||prithvigroup.net/QDK/ODK%2016X.exe^$all
-||prithvigroup.net/idn/1x7824632.png^$all
 ||priviteraeventi.com/wp-content/themes/calliope/previous/730167.zip^$all
 ||priviteraeventi.com/wp-content/themes/calliope/previous/75448827/75448827.zip^$all
 ||proa.org/online/file_104_esp.doc^$all
@@ -146439,8 +146504,6 @@ zzz78.tk
 ||protect-us.mimecast.com/s/C27aC0RX9RU80P3fw0bgj^$all
 ||protect-us.mimecast.com/s/qki9C73WXjupXQ5PS8qcm_^$all
 ||protect2.fireeye.com/v1/url?k=59eacb3c-0560e9d5-59ed97de-0cc47ad93e2e-0f5e34e79adab692&q=1&e=e7991bbc-cc93-4814-a8f2-fd6d6950b0d5&u=https%3A%2F%2Fwww.mediafire.com%2Ffile%2Fs2uyxs8t8kbuyye%2FDOCUMENTOS_DE_ENV%25CDO.7z%2Ffile^$all
-||protection.retarus.com/v1?u=http%3A%2F%2Flegits.net%2FDE_de%2FGIIKIZE3061893%2FRechnungskorrektur%2FRECHNUNG&c=3ilYjYY&r=7ZhBifMLeZHn85L8J4oL3g&k=7s1&s=Rdtav3L3f2isDv4KmhWjT4DJcSKbJ5IukNPt5sAQGAl/^$all
-||protection.retarus.com/v1?u=http%3A%2F%2Fstekols.ru%2FWgLKKAQ8uOkMRD&c=4FZ5KW0&r=6LgdlKfBiNk86LoqCLvG9w&k=7s1&s=8TLWvhIzcO7a7w19H9Mp5Pz3AXMItoxTAwmyHCimtHx/^$all
 ||protonambalaj.com/wp-content/uploads/2020/04/cursors/8111.zip^$all
 ||proxy.qualtrics.com/proxy/?url=https%3A%2F%2Fuark.qualtrics.com%2FCP%2FFile.php%3FF%3DF_0ImYT11IuwAOVeZ&token=VaZKFD%2BFsRcUYx5fyuNAX24ZXgk5dXrGqSzM%2BPOz8fw%3D^$all
 ||przemyslowouslugowa.pl/fhchxmoegl/185519/Darlehensvertrag_185519_18052020.zip^$all
@@ -146461,6 +146524,7 @@ zzz78.tk
 ||public.boxcloud.com/d/1/b1!siWxb4emW9kLzPQLuDadOZq9Ynestc36wMu0c6UDyOciewGtgD6kHq8rusogNwqvHphhdE8Rv9f_YNP-kZEgfdbyGbeU8T8lgVcuekq-J0JNUj8YydXiZCUowbtgRKKGQRE4QvIvUZypaf13EYjZzkbCUNh3yq9ynfcXclfm7wL3NI1ILE3_nHb7xvHC5wBxpE4kPF181gS5fon2YJiQq-TT9hyQa8FxTI5qaqa5sbxAlcvbkRoPNpKJt2-dbXIRTlT8hrvOrLLVG1jiRnQP_5p9yce-gl4vVzgSAss5oFsYfw6DGcO90RHTx3t7R-l3FmVhC7ipIBICov3X88-Zp_jdmkv6W0dUoVeWa5tzNHZTCzNdTCK3mFFA5So_mrgRRzJOpe167fK65_iecIUB636GNOeUbaoh2ofAUpYCllbLYuxl5EBxoWNgPJXKnSK-YOss_z-6eJjNtqEUzwAs7eUVEJiYOK-jVqJqvJL6s05qPVMNbRXYEPPIXhEjsRwJNpE38NOpcxOtnsiyr8LAuzCMdsV-NyuLE0lRB-EXr1YbOjxFJIqKDjVYPcubE_vKJlkVoIsPUVvZ_tzUNInYP2ZidET2Jhg2YYOsPRyrBtZI_qYhBW4YBuJPWxMRZNevRg_CglhQhZz-MUN1XlRwS5TRGoCsWgikk7rumsLM6tAT-BZnNLyf5QovsFjPp9WEb6WBNbyPUExQn2OubLJ8yd5Cc8oU4sebnD1PATMUMloM0QkNHiJRNWHlsE0GKCeH95XBn5N9Cu8Ogh4K4GDhcWAHpT5O1vnQJgx7DYjoBj-GsOddIolbrtZaZX3rWAiyfD_W3EcA-OhMMDeeObbBkQ6NGiTDjz8dfuGPzJQc7X1tnZy0dFWJO1PYtkpAKnrH9kqZpf_GJNkEfRgyScr56-TcRA4R7bDOpKFsBXWfVDCZJZIU7kbhfvgrgvx-vDpRUQARDgAaHCNjm5be5WVf-7d8I3QCn7GlKGSKWgC26DyrWj7oy2szCHGYJY_wnd42n_DeNLr6LoH2ATiTjpgACZPNCAcMrNgeihtntGrbiiAsQXmySGGW7gV7F3-bWKsmwmuh7kqvBWOn902Qaxk8JjxzwUE-PmsJLE_i692dKri73MykhZwgOqMuq80LWHrBo47gz4DRFbKnZ^$all
 ||public.ch.files.1drv.com/y4mECzfIhuAigXhZ6oaflQJqy8gOkyiHQPi56Vgp6mxuo-o2X15qzSklBhDalV4Agkt80NRinRlccmuuquYkIfuCBlGQxDsTKsNE25ByaY0SpthigcnezJNbPAk82xoFrRzYIKaV7xW_GParEtUK9BVjf81v3widJvDJNAxm30onD5bri8WOuy8qD7Q68bBkPymtClCRvmg4xHMLqmGkUTQMtLTWY8GOYHdD8JB3kaP-R7MHb31pk7q13_odA2YdCqH^$all
 ||public.dm.files.1drv.com/y4mCql0K-dIL0toLB1vdcPcFecEOMpJTxVgJNGN8tGVuuro2azS5YBrC5eOo7GIwRDLBc8lo1BjBB8k7ZjRZw9zFCyJc5OJKYomCdiU7-56vPB3A_AMxn2lhytS1g0dkIsE67egkzPERdqXFuxNQDSQV8HX5jsom7cPPTLZw76coH2Saa29VqIBvCTIIciwq9UZor78ZswGAtL1fdGMG2wRkzZvHQSAKU44_h3xdg1kmUJ3cDS2pWpxpgfv9igV0XpH^$all
+||pugs-center.org/Informationen/^$all
 ||punktirjournal.ru/wp-content/themes/busify/iahnhsz/4178711/LoanAgreement_4178711_05122020.zip^$all
 ||punktirjournal.ru/wp-content/themes/busify/iahnhsz/LoanAgreement_310206_05122020.zip^$all
 ||punktirjournal.ru/wp-content/themes/busify/iahnhsz/LoanAgreement_765026152_05122020.zip^$all
@@ -146473,6 +146537,7 @@ zzz78.tk
 ||q-value.com/dxwrtpevoc/StockPurchaseAgreement_716406655_05222020.zip^$all
 ||qelie.com/wp-content/docs_q30/19188/Buy-Sell%20Agreement_19188_04232020.zip^$all
 ||qrearpruebas.site/wp-content/uploads/jsc/5401/Darlehensvertrag_5401_15052020.zip^$all
+||qst-inc.com/admin/closed_46183263409_vo1MGx/close_warehouse/nxndkaqb0_uu5t2vutt/^$all
 ||qualityansweringservice.com/icon/204401398950002/GTcdq-u08FF_YCWn-MD/^$all
 ||qualityansweringservice.com/icon/6pdb4-xhsyg-ttclzjitc/^$all
 ||qualityansweringservice.com/icon/En/llc/Inv/vMgpd-4lP9_Gn-XHO/^$all
@@ -146496,8 +146561,6 @@ zzz78.tk
 ||qudaih.com/pzlnkda/NBSA_08350_28052020.zip^$all
 ||r.chaoxin.com/d29889e/2018-10-19_14/9ebbc/7e408/1539931621_225246.exe^$all
 ||r20.rs6.net/tn.jsp?f=001Jyht2t3OMeEtIeI35oQsTjgS_9NZk9SJYLNHtBb0ao4bhaNs77UOLBDrrwaAelcy_XfPwZ_V9kt7buybu0V7bxKhUwLNsFTzi2_8dDIMOIO4S1LnJpWD3Da7cBYOgtmHkF5OBN3yslLiNFtL_GcxAufWXn0BZ8fXjF4YvHJB-3gTb-Da07VPP0qaZEKjWO7a9udmhkoL3PeUL1z7WCZZTKps5TADshTY&c=SDA7VZhezlMYmCpvZHysVdoo2nf8ackI9xwyb_WfZgL7nntihDUZ-A==&ch=HL2vA1psqpOI_uEaNWYGZA8MsUiyRkCQkGYlCFUIIhSZmkx0z2MNgg==^$all
-||radiantqatar.com/uploads/media/f.jpg^$all
-||radiantqatar.com/uploads/media/y.jpg^$all
 ||radiokameleon.ba/wp-includes/cvsky29-prh8p1-157/^$all
 ||radiovisioninc.com/DE/LQPPJZVKR6666234/DE_de/Hilfestellung/^$all
 ||raisinghappy.org/qikocqe/574451/DQOR_574451_27052020.zip^$all
@@ -146670,8 +146733,6 @@ zzz78.tk
 ||rescom.cl/mhsups/9/RSy9q88oc.zip^$all
 ||rescom.cl/mhsups/J/rNfXNt7MP.zip^$all
 ||rescom.cl/mhsups/xd/GL/RD7hclli.zip^$all
-||resenderocha.com.br/Antigo/bkp_resenderocha.com.br/httpdocs-19-09-14/Backup/sstmj3ki3ay3q623mz/^$all
-||resenderocha.com.br/Antigo/bkp_resenderocha.com.br/httpdocs-19-09-14/Data/ccv/^$all
 ||restaurantemexicano.es/string/0830591/0830591.zip^$all
 ||restaurantemexicano.es/string/91554.zip^$all
 ||retroband.uk/wp-content/uploads/2020/04/slider/444444.png^$all
@@ -146696,14 +146757,16 @@ zzz78.tk
 ||rokiatraore.net/aNtC-irS_YIjcdb-skN/En/Invoice/^$all
 ||rollsportss.com/wp-content/themes/danfe/ojqtbmssuk/0697/EmploymentVerification_0697_05072020.zip^$all
 ||rollsportss.com/wp-content/themes/danfe/ojqtbmssuk/EmploymentVerification_31067022_05072020.zip^$all
-||roostercastle.servehttp.com/SjD.exe?sid=pb9hjY^$all
-||roostercastle.servehttp.com/SjD.exe^$all
 ||rootdz16.weebly.com/uploads/8/8/5/9/88595108/hasa.exe^$all
 ||rootdz16.weebly.com/uploads/8/8/5/9/88595108/microsoft.exe^$all
 ||roughridercampground.com/qzqutonedqrg/388968/NBSA_388968_28052020.zip^$all
 ||roughridercampground.com/qzqutonedqrg/NBSA_99721_28052020.zip^$all
 ||royalplusmobile.ir/wp-content/uploads/2020/04/ohzjt/22076/Buy-Sell_Agreement_22076_04272020.zip^$all
 ||royalplusmobile.ir/wp-content/uploads/2020/04/ohzjt/8368/Buy-Sell_Agreement_8368_04272020.zip^$all
+||royeagle.com/_dsn/ACCOUNT/Direct-Deposit-Notice/^$all
+||royeagle.com/_dsn/ups.com/WebTracking/YOC-111041816/^$all
+||royeagle.com/_dsn/ups.com/webtracking/ksd-691968750930/^$all
+||royeagle.com/ssfm/IRS-TRANSCRIPTS-082/47/^$all
 ||rrctech.com.br/testelw/2f428W/^$all
 ||rsantamariadelosangeles.es/wp-content/uploads/2020/04/etakxaxvjyl/6771/ServiceContractAgreement_6771_04302020.zip^$all
 ||rsantamariadelosangeles.es/wp-content/uploads/2020/04/etakxaxvjyl/7440/ServiceContractAgreement_7440_04302020.zip^$all
@@ -146772,6 +146835,15 @@ zzz78.tk
 ||s172.com/wp-content/uploads/2020/04/docs_x1c/Buy-Sell%20Agreement_67685568_04242020.zip^$all
 ||s172.com/wp-content/uploads/2020/04/docs_x1c/Buy-Sell%20Agreement_9412_04242020.zip^$all
 ||s1r.com/wp-content/themes/calliope/beads/44033/44033.zip^$all
+||s2lol.com/update/audition/AutoUpdate.exe^$all
+||s2lol.com/update/botnet/svchosts.exe^$all
+||s2lol.com/update/chinhdo/hostfile/files/vaogame.exe^$all
+||s2lol.com/update/ngay_tro_ve_nd2004/AutoUpdate.exe^$all
+||s2lol.com/update/volam_volamtuyetdinh/AutoUpdate.exe^$all
+||s2lol.com/update/volamhuynhduc/AutoUpdate.exe^$all
+||s2lol.com/update/volamsimple_tinhkiem/AutoUpdate.exe^$all
+||s2lol.com/update/volamtuyenhoang5/AutoUpdate.exe^$all
+||s2lol.com/update/volamvoson1/AutoUpdate.exe^$all
 ||s3-eu-west-1.amazonaws.com/blackhole.customerly.io/attachments/0042cd2c/users/3433332/55018eda627019db1a3482e74d55253e/dati-122019.doc^$all
 ||s3-eu-west-1.amazonaws.com/killino2/gs5tye4fw.png^$all
 ||s3-eu-west-1.amazonaws.com/killino2/image2.png^$all
@@ -146896,7 +146968,6 @@ zzz78.tk
 ||s3.amazonaws.com/workclouidmail02/LAWSUIT_CASE_FILE_72365.hta^$all
 ||s3.amazonaws.com/workmailcloud2/IMG_0191309.JPG.hta^$all
 ||s3.amazonaws.com/workmailcloud2/SCAN_019287.PDF.hta^$all
-||s3.didiyunapi.com/eth/cheats.exe^$all
 ||s3.eu-central-1.amazonaws.com/1qwwq/owerrri.exe^$all
 ||s3.eu-central-1.amazonaws.com/csh-static/test_my_patience/611aae7343c98861c3fe09d76212199e3af91c99e747ca16190b546e46f303f4.exe^$all
 ||s3.eu-central-1.amazonaws.com/csh-static/test_my_patience/e85d45150eae2eda19bd2db7b946bcdebaf424bb3c259308750f11db3fb8dd8e.exe^$all
@@ -146950,6 +147021,7 @@ zzz78.tk
 ||s3.us-east-2.amazonaws.com/victorius/DMNSTRATIV0-20022.jar?BGDFOIU004564DHDJHD063^$all
 ||s3.us-east-2.amazonaws.com/victorius/DMNSTRATIV0-20022.jar?PJDGE005222354DJBDN^$all
 ||s3.us-east-2.amazonaws.com/workmailbox02/SCAN_8392741.PDF.hta^$all
+||sacm.net/6ZCWPCX/PAYMENT/Business^$all
 ||sadeelmedia.com/gfx/wp-content/themes/danfe/ueluiplyqvlc/EmploymentVerification_2252_05072020.zip^$all
 ||sadeelmedia.com/gfx/wp-content/themes/danfe/ueluiplyqvlc/EmploymentVerification_2446_05072020.zip^$all
 ||sadeelmedia.com/gfx/wp-content/themes/danfe/ueluiplyqvlc/EmploymentVerification_2988881_05072020.zip^$all
@@ -146973,12 +147045,10 @@ zzz78.tk
 ||samsclass.info/124/proj14/rsh-192-168-1-89.exe^$all
 ||san-lian.com/wp-admin/En_us/Invoice_Notice/rhqdC-Awl_MqB-s5/^$all
 ||sanarflix.com.br/portal/wp-content/uploads/d3tq5-yw5fd-avymywn/^$all
-||sanitize.nl/INV/XB-93840175214^$all
 ||sanmartino-hotel.it/Outstanding-Invoices/^$all
 ||sanrosoft.co.uk/En/download/ejLPK-WS_TiQTBHaSU-wMK/^$all
 ||sanvale.com/UPS-US/Mar-06-18-01-44-12/^$all
 ||sarkarjewells.com/wp-content/themes/calliope/wp_data.php^$all
-||satio.com/cgi-bin/naf51z-pc2-11/^$all
 ||satishchandraiti.co.in/wp-content/uploads/2020/05/wtukr/25576/Darlehensvertrag_25576_19052020.zip^$all
 ||satishchandraiti.co.in/wp-content/uploads/2020/05/wtukr/342065/Darlehensvertrag_342065_19052020.zip^$all
 ||satishchandraiti.co.in/wp-content/uploads/2020/05/wtukr/87523/Darlehensvertrag_87523_19052020.zip^$all
@@ -147047,6 +147117,7 @@ zzz78.tk
 ||secure-web.cisco.com/11yhM6rmJw5S56yTLbdpHe0ST_-lkMv5MK4VvK8kiqCbhAb20FMG6DCiv2o9PeOADzt6mqBldeikASXBXfnttyo7pVZgkezo_7ukElg5FfwdLlihl0Pz7DX9TXvujpX2wFaVvB49BrcQGENg4SPlhte_xm7ITQkrzbo2EQwHT3kjsjxSUpEGgjIxfafW6k756a_FXe-qAdLIOaXiEJ6LLVQ6VonyMoAcy8WksAY3ThR7dFkHgKWA99PQe0vBs0kgByFvijfs2jw5izO8ws07lcbGjS7ev499uKHkY_AJjqsSNCP-MTZR_ZMvwM6P1FFR9-l7fu9olTBYrsWwPvYPs4T7z2UzJTTkB2AzsQls0uF1pbGDkXBdP22Wc7cJp-lrohywCYuzIZaQDwXs9JndY-9MVFCOZkpgfS2J0XVSPZIZrlA-bp4ml_0wVLZfMlwmdb_r5rmV86Zh-XOhfqDjzL0P6WA-UjMPP5aeKP_gFeUpQDfmwAQRqzYe6Wz_GxY5_/http%3A%2F%2Fwww.vysokepole.eu%2FInvoice%2F27026268%2Fxerox%2FEN_en%2FInvoice-receipt^$all
 ||secure-web.cisco.com/12p009aocmii6iiuiFQWGJpCU-EWGqlH2H4pYcujVQYYJdoHUhRGob5qMrolHcQr9N-pbdoznXvKOPQofjrmcQy3GFWUj1Ncre4mEOCUgZR7UgdrXzjSzl0B6pTEoU6FmdsRu5WkH-QxDED6WnpabJahXL4F4S_3TSq2grWbLNjvlJMbcbD5IbdDPp1gNQsN5l1MIH_hVF4bU54LqUDh2jaPY0nxrDq1uwBhXRm0qUhDEBucbHdPo1LJXUdy-27k2q5K9oU2n4L-gx4yemLBZMLoFUz1df6NBQrLICsbPu5Jr3doPul0ACMfrBB-81lmOMroc3FvVoA3BqPQDbxh3dLilOLz7D7rWdOzhmj8t31iiD32BYxQVsz2A94JsdHh9fcmb14CBi_W87ulQBGIOUoMra-9jQITmH1QEsKZYbV_I2RqadQpqkXnKmUUONVUjbYHea8H3Hgsc1NZSjrkLWBZiEJW9RgppQghinmhxXkY-5zzws52Dx_-dpHrfzLNEslgrOtnWHDuh6y2w9dyrkw/http%3A%2F%2Fsunkids.dp.ua%2Fwp-admin%2Fsecure.accs.docs.com%2F/^$all
 ||secuser.com/telechargement/desinfection/fix_myparty.exe^$all
+||sedeconcursal.com/list^$all
 ||sema-rent.at/wp-content/uploads/2020/04/slider/00883925/00883925.zip^$all
 ||sema-rent.at/wp-content/uploads/2020/04/slider/1570804/1570804.zip^$all
 ||sema-rent.at/wp-content/uploads/2020/04/slider/3817082.zip^$all
@@ -147109,7 +147180,7 @@ zzz78.tk
 ||serenityglobalholidays.co.in/wp-content/themes/twentynineteen/sass/variables-site/bndacrhwua/hm9ZKyrIHP.zip^$all
 ||serenityglobalholidays.co.in/wp-content/themes/twentynineteen/sass/variables-site/elhdpdxytnib/MzEQoG1l2E.zip^$all
 ||serenityglobalholidays.co.in/wp-content/themes/twentynineteen/sass/variables-site/elhdpdxytnib/jcnxd2l02G.zip^$all
-||serkanaygin.com/Paid-Invoice/paid/http://123xyz.xyz/Mar-19-04-48-04/Express-Domestic/^$all
+||service.ezsoftwareupdater.com/updates/2/whsetup.exe^$all
 ||setblok.com/XzEvX-gRg_ZSAKT-tz/Southwire/ISE7275221528/US/Paid-Invoice-Credit-Card-Receipt/^$all
 ||setblok.com/doc/En_us/Outstanding-Invoices/^$all
 ||setblok.com/doc/En_us/Outstanding-Invoices^$all
@@ -147143,6 +147214,7 @@ zzz78.tk
 ||shriramproperties.com/logs/brw54-f60fn-ugpzx/^$all
 ||shuoyu.com.tw/wp-content/themes/calliope/previous/819704.zip^$all
 ||shuoyu.com.tw/wp-content/themes/calliope/previous/86387.zip^$all
+||siakad.ub.ac.id/update/siakad.exe_new^$all
 ||sikh-history.com/forum/ubb/pjoa-VLlchYps8m7JdtF_ySrCNtIK-XCe/^$all
 ||sikhorhsp.com/vos-factures-impayees/^$all
 ||sinacloud.net/yun2016/Bwin732d.rar^$all
@@ -147202,13 +147274,6 @@ zzz78.tk
 ||softhy.net/softhy.net_down/unicodechm.rar^$all
 ||softhy.net/softhy.net_down/vbtestplayer.rar^$all
 ||softproductionafrica.com/css/JIZfCBlDHLNX/^$all
-||software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=%D7%9E%D7%A7%D7%9C%D7%93%D7%AA%20%D7%A2%D7%91%D7%A8%D7%99%D7%AA%20%D7%9E%D7%A9%D7%95%D7%A4%D7%A8%D7%AA&ctid=ct282718&url=http%3A%2F%2Fwww.tau.ac.il%2F~stoledo%2FTools%2FKeyboards%2FSivanToledoHebrewKeyboardLayout10.exe^$all
-||software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=Act%20of%20War:%20Direct%20Action&ctid=ct282718&url=http%3A%2F%2Fsoftwarex-files.download.com%2Fgames%2Fd3%2Fgsc%2Fstrategy%2Factofwardirectaction%2FAOW_DEMO_EURO.EXE^$all
-||software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=Ages%20-%20Family%20Tree%20Database&ctid=ct282718&url=http%3A%2F%2Fwww.daubnet.com%2Fftp%2Fages.exe^$all
-||software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=ICQ&ctid=ct282718&url=http%3a%2f%2fftp.icq.com%2fpub%2fICQ7%2finstall_icq7.exe^$all
-||software.goop.co.il/aspSrc/v2.aspx?locale=he&swname=ICQ&ctid=ct282718&url=http://ftp.icq.com/pub/ICQ7/install_icq7.exe^$all
-||software.goop.co.il/aspsrc/v2.aspx?locale=he&swname=actofwar:directaction&ctid=ct282718&url=http:/softwarex-files.download.com/games/d3/gsc/strategy/actofwardirectaction/aow_demo_euro.exe^$all
-||software.goop.co.il/aspsrc/v2.aspx?locale=he&swname=ages%20-%20family%20tree%20database&ctid=ct282718&url=http:/www.daubnet.com/ftp/ages.exe^$all
 ||softwareandproductsfordownload.s3.amazonaws.com/WCP%202014%20FBC%20%20(version%205%C2%B71)%20%2016-Jul-2015.exe^$all
 ||softwareandproductsfordownload.s3.amazonaws.com/WCP+2014+FBC++(version+5%C2%B71)++16-Jul-2015.exe^$all
 ||softwareworld.co/Rechnungs/^$all
@@ -147271,6 +147336,11 @@ zzz78.tk
 ||spoleto.com.br/wp-content/uploads/EN_US/Transaction_details/11_18/^$all
 ||spoleto.com.br/wp-content/uploads/EN_US/Transaction_details/11_18^$all
 ||spreadsheetpage.com/downloads/xl/time%20sheet.xls^$all
+||sql.4i7i.com/64.exe^$all
+||sql.4i7i.com/MS19.exe^$all
+||sql.4i7i.com/MSSQL.exe^$all
+||sql.4i7i.com/TQ.exe^$all
+||srirachaport.com/admin/2797049532-NIISw-array/corporate-forum/18Aw8-xLfK6o97Npzfh/^$all
 ||srv7.computerkolkata.com/np/upgradeall.exe^$all
 ||srv9.computerkolkata.com/np/virto2.exe^$all
 ||ss7.vzw.com/is/image/VerizonWireless/vz-sig-verizon?$defaultscale$/^$all
@@ -147282,7 +147352,6 @@ zzz78.tk
 ||starbeatdance.com/wp-content/uploads/2020/05/czrqefm/910321/ServiceContractAgreement_910321_05042020.zip^$all
 ||starbeatdance.com/wp-content/uploads/2020/05/czrqefm/ServiceContractAgreement_66591572_05042020.zip^$all
 ||startupinternetmarketing.com/free/cash.exe^$all
-||static.21.101.69.159.clients.your-server.de/find/fa59c682e6df1f50b1beb48d3a1001b6/result-550604149.dl?source=direct&return_url=http%3A%2F%2Fwww.getgosoft.com%2Fgetgodm%2Fthankyou^$all
 ||static.wixstatic.com/ugd/2eb8b2_15a539cf3c2e4cfb8bffd274424f1b42.doc^$all
 ||static.wixstatic.com/ugd/2eb8b2_34062ba9589f4ef594e35f188dbdbde7.doc^$all
 ||static.wixstatic.com/ugd/2eb8b2_6f3240bac37740b6b0e48b703f1c1828.doc^$all
@@ -147294,6 +147363,11 @@ zzz78.tk
 ||stickit.ae/direct/444444.png?uid=TQBpAGMAcgBvAHMAbwBmAHQAIABXAGkAbgBkAG8AdwBzACAANwAgAFAAcgBvAGYAZQBzAHMAaQBvAG4AYQBsACAA^$all
 ||stickit.ae/direct/444444.png?uid=VwBpAG4AZABvAHcAcwAgAEQAZQBmAGUAbgBkAGUAcgAtADYALAAxACwAMAB8AE0AaQBjAHIAbwBzAG8AZgB0ACAAVwBpAG4AZABvAHcAcwAgADEAMAAgAFAAcgBvAA==^$all
 ||stickit.ae/direct/444444.png^$all
+||stiksimonida.com/doc/US/STATUS/New-Invoice-UW88953-TH-7845/^$all
+||stiksimonida.com/doc/US/STATUS/New-Invoice-UW88953-TH-7845^$all
+||stiksimonida.com/files/En_us/Payment-and-address/Invoice-209167^$all
+||stiksimonida.com/sites/En/Bill-address-change/^$all
+||stiksimonida.com/sites/En/Bill-address-change^$all
 ||stint.by/hilsupti/1633/NBSA_1633_28052020.zip^$all
 ||stint.by/hilsupti/36676/NBSA_36676_28052020.zip^$all
 ||stint.by/hilsupti/NBSA_1429_28052020.zip^$all
@@ -148949,7 +149023,6 @@ zzz78.tk
 ||studiogiustini.com/truuqpwwmy/JR/4W/kDifX7lz.zip^$all
 ||studiogiustini.com/truuqpwwmy/hfAQTO7vmd.zip^$all
 ||studiounoabruzzo.it/xlxn1tz/3d639a405b62e70f5bd695455c2a3b04.zip^$all
-||suakhoaotovinhphuc.com/doc/US_us/Client/Invoice-6790678/http://www.dropshipthai.com/cache/files/En_us/Purchase/Auditor-of-State-Notification-of-EFT-Deposit/^$all
 ||sublimart.ge/cgi-bin/714zh-9qoot9w-bnafh/^$all
 ||suhailikasmat.com/differ/57026627/57026627.zip^$all
 ||super-gamezer.com/test.exe^$all
@@ -148957,10 +149030,6 @@ zzz78.tk
 ||superdomain1709.info/c4FXP3OiUoyf.67W^$all
 ||superdomain1709.info/kuYcDSjTE.jdZ^$all
 ||support.indeed.com/attachments/token/RVDXKCofCmEb1PdT1WRikfMxN/^$all
-||support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/?name=WGY-709010.doc^$all
-||support.mdsol.com/attachments/token/H6YLkuGzQ4TB0Eu3WmzZGcwN4/^$all
-||support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/?name=WGY-709010.doc^$all
-||support.mdsol.com/attachments/token/PnCg6A0UiLcjvS1lwsK1RgAXQ/^$all
 ||support.zendesk.com/attachments/token/TW5zUt6d9VybjPh5w71EyZhMs/?name=Dat+3099+698948277.doc/^$all
 ||sutyuighibfgjsbdiusuidgiusdc14c.s3.us-east-2.amazonaws.com/P-14-7.dll^$all
 ||suzano.sp.gov.br/refis/_old/dwns/tf41b.tcb^$all
@@ -148969,11 +149038,6 @@ zzz78.tk
 ||svettenkirch.de/templates/a4joomla-triplex2/css/msg.jpg^$all
 ||svettenkirch.de/templates/a4joomla-triplex2/js/msg.jpg^$all
 ||svettenkirch.de/templates/a4joomla-triplex2/language/en-GB/pikz.zip^$all
-||swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/%3Chttp://swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/^$all
-||swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/%3Chttp:/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/^$all
-||swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/<http://swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/^$all
-||swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/<http:/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/^$all
-||swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/<http:/swernicke.de/cgi-bin/FILE/yeoq4gzjkyu9rsja_zaxxvklc-40471033965045/^$all
 ||sycrystalhk.com/wp-content/uploads/2020/05/duvplawtkw/3960/ServiceContractAgreement_3960_04302020.zip^$all
 ||sycrystalhk.com/wp-content/uploads/2020/05/duvplawtkw/4959/ServiceContractAgreement_4959_04302020.zip^$all
 ||sycrystalhk.com/wp-content/uploads/2020/05/duvplawtkw/ServiceContractAgreement_0038_04302020.zip^$all
@@ -148986,6 +149050,7 @@ zzz78.tk
 ||sycrystalhk.com/wp-content/uploads/2020/05/duvplawtkw/ServiceContractAgreement_9571_04302020.zip^$all
 ||syed-brother.com/wp-content/themes/danfe/wtpjgcfp/EmploymentVerification_193836_05072020.zip^$all
 ||syncrown.com/common/image/https/Doc_SII.php^$all
+||synhera.be/var/storage/packages/open-sector/corporate-cloud/nxi0c3d66-vvsz77z8v29w/^$all
 ||sys321.com/jiaocheng/BbPHtRx/^$all
 ||sys321.com/jiaocheng/ZaMKDU/^$all
 ||szlhtrade.com/Branding/8768/8768.zip^$all
@@ -149030,7 +149095,6 @@ zzz78.tk
 ||taxihochelaga.com/wp-content/jsc/603362/Darlehensvertrag_603362_15052020.zip^$all
 ||taxihochelaga.com/wp-content/jsc/7798600/Darlehensvertrag_7798600_15052020.zip^$all
 ||taxready.in/language/multifunctional-module/special-cloud/6haajb-Kp8agJeine/^$all
-||tdagprinter-dtg.com/wp-content/plugins/really-simple-ssl/testssl/serverhttpxforwardedsslon/parts_service/zarhe019p/^$all
 ||tdmekos.ru/alfacgiapi/EvJMIjoM/^$all
 ||tdmekos.ru/alfacgiapi/closed-module/corporate-area/880530-I7Eh9yif2MWNXfng/^$all
 ||teamie.vn/wp-content/themes/calliope/linear/145577319/145577319.zip^$all
@@ -149044,6 +149108,9 @@ zzz78.tk
 ||technology-bd.com/wp-content/plugins/apikey/yezbv/70100/ServiceContractAgreement_70100_04292020.zip^$all
 ||technology-bd.com/wp-content/plugins/apikey/yezbv/ServiceContractAgreement_48798_04292020.zip^$all
 ||tecnicasreunidas.es/wp-admin/esp/lb6l47/p1ytr7r-0415866-38139-81mi9vu94t-ybhjsng4g/^$all
+||tecno-pack.net/taker.exe^$all
+||tecno-pack.net:443/taker.exe^$all
+||tecno-pack.net:80/taker.exe^$all
 ||tecnobella.cl/docs_dte/Buy-Sell%20Agreement_96341540_04232020.zip^$all
 ||teknic.cl/bjrmq/330194991/NBSA_330194991_28052020.zip^$all
 ||telecomblogs.in/wp-content/themes/twentysixteen/inc/1^$all
@@ -149058,7 +149125,6 @@ zzz78.tk
 ||tepatitlan.gob.mx/cs/wp-content/themes/calliope/docs_tpm/250122449/Judgement_04222020_250122449.zip^$all
 ||tepatitlan.gob.mx/cs/wp-content/themes/calliope/docs_tpm/Judgement_04222020_5460712.zip^$all
 ||termbin.com/ivy4^$all
-||test.a1enterprise.com/jxl/xo/^$all
 ||test.nltu.edu.ua/media/editors/codemirror/mode/gfm/images/aeacf200364da7f5413b6d0c5d656655.zip^$all
 ||thammyroyal.com/wp-content/uploads/2020/04/cursors/5150.zip^$all
 ||thammyroyal.com/wp-content/uploads/2020/04/slider/22071.zip^$all
@@ -149073,6 +149139,7 @@ zzz78.tk
 ||theatresearch.xyz/app/vc.exe^$all
 ||thebarnabasmission.org/wp-admin/available_disk/security_22355761_OkFkqB/oUQdPUg5_G041J2cLxNpt/Christmas-eCard/^$all
 ||thedriver.ca/bwpjifft/W/rOMswzoA6.zip^$all
+||thefrees.com/.docs/jtvrvznswjba/NBAR_6606_29052020.zip^$all
 ||thegallerystore.in/wp-content/plugins/apikey/qfuch/300793/LoanAgreement_300793_05122020.zip^$all
 ||thegallerystore.in/wp-content/plugins/apikey/qfuch/741775156/LoanAgreement_741775156_05122020.zip^$all
 ||thelatimerlawfirm.com/_private/available-resource/security-9841112-f4RwTbJb0e6/CHzXqgKmiP9y-qpz0grxxs/^$all
@@ -149105,6 +149172,7 @@ zzz78.tk
 ||thetshirtblog.com/blog/wp-admin/css/colors/blue/msg.jpg^$all
 ||thevine-organizasyon.com/wp-content/uploads/jsc/0073084/Darlehensvertrag_0073084_15052020.zip^$all
 ||thevine-organizasyon.com/wp-content/uploads/jsc/Darlehensvertrag_1520599_15052020.zip^$all
+||thewomentour.com/wp-includes/f8yezb9/^$all
 ||thietbisontinhdien.vn/wp-content/INC/^$all
 ||thietbisontinhdien.vn/wp-content/lm/aaau42917953-379282-ec0cczp8/^$all
 ||thietbisontinhdien.vn/wp-content/payment/^$all
@@ -149151,25 +149219,12 @@ zzz78.tk
 ||todstudios.com/wp-content/uploads/2020/03/tools/595022/595022.zip^$all
 ||todstudios.com/wp-content/uploads/2020/03/tools/9333394/9333394.zip^$all
 ||tog.org.tr/wp-content/uploads/2018/07/ALTA_Settlement_Statement.zip^$all
-||tonghopgia.net/WEBSERVICES/REDIRECT/RedirectService.exe^$all
-||tonghopgia.net/Webservices/Redirect/RedirectAds.exe^$all
-||tonghopgia.net/Webservices/RedirectV2/RedirectService.exe^$all
-||tonghopgia.net/Webservices/Search/KeywordService.exe^$all
-||tonghopgia.net/Webservices/Search/RedirectAds.exe^$all
-||tonghopgia.net/Webservices/SearchV2/KeywordService.exe^$all
-||tonghopgia.net/webservices/redirect/cswindowsservicerecoveryproperty.exe^$all
-||tonghopgia.net/webservices/redirectv2/redirectads.exe^$all
-||tonghopgia.net/webservices/searchv2/redirectads.exe^$all
 ||tongkhophianam.vn/wp-content/uploads/inc/8982/Darlehensvertrag_8982_18052020.zip^$all
 ||topinarabic.com/oht0878/bz/^$all
 ||toprakenerji.com/wp-includes/images/smilies/s_1039458_0-190610_pdf.jar^$all
 ||totalsystem.co.id/INV/BMQ-035909996015081/^$all
 ||totosdatete.org/cgi-bin/7asi/^$all
 ||toucharger.com/download/media/TC/barre-menu_1_57600.exe^$all
-||tour-talk.com/wp-content/Overdue-payment/^$all
-||tour-talk.com/wp-content/Y45REAF9D80CM9Q/LLC/^$all
-||tracking.cirrusinsight.com/2deed867-4646-4178-9eef-366a2536c746/duanmizukipark-com-nhgx-c14vl0mp8lbbo8f-ovyvagitm-jfx/^$all
-||tracking.cirrusinsight.com/fbacef43-c8b7-48d2-96d5-2bd368d2a98d/itexpress-kz-trust-myacc-docs-net/^$all
 ||tradelaw.com/5tkbl01337/^$all
 ||tradelaw.com/Document/z2yj-j5sak-qrjssz/^$all
 ||tradelaw.com/jlvyikhzvrof242cplcvbjb_az9fhwi0-8135634527/^$all
@@ -149260,6 +149315,19 @@ zzz78.tk
 ||twothinkdesign.com/share^$all
 ||u.cubeupload.com/eZ3vpT.jpg^$all
 ||u.cubeupload.com/gmEtap.jpg^$all
+||u1.huatu.com/fuzhou/2012/6yue/20120626009_hlq.rar^$all
+||u1.huatu.com/guizhou/fujian/wendang/2012071006.rar^$all
+||u1.huatu.com/guizhou/fujian/wendang/2012082801.RAR^$all
+||u1.huatu.com/guizhou/fujian/wendang/2012102205.rar^$all
+||u1.huatu.com/henan/2012-08/2012bishi.rar^$all
+||u1.huatu.com/henan/201211/121127054744.rar^$all
+||u1.huatu.com/jinan/fujian/%E4%B8%B4%E6%9C%90%E6%9A%91%E6%9C%9F%E6%95%99%E5%B8%88%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9.rar^$all
+||u1.huatu.com/jinan/fujian/20130710153845754ba1c09b3695e0.rar^$all
+||u1.huatu.com/nmg/20120716001.rar^$all
+||u1.huatu.com/tianjin/201212/20131218ZWB_TJXDS.rar^$all
+||u1.huatu.com/wuhu/fujian/201205/20120522104242271.rar^$all
+||u1.huatu.com/wuhu/fujian/20120507110444635.rar^$all
+||u1.huatu.com/wuhu/fujian/20120814113927927.rar^$all
 ||u2752257.ct.sendgrid.net/wf/click?upn=4LlWqy7bcWoK6cK4FQ-2FA5lPwfD6y-2B1NVIJ13U8fv2-2FwNPT0Z59t-2B5SB7o2dwemISytjrwS0xqtv5GQYn4UhN9j-2BwJ0xCCIOSN8OMPJUHWio-3D_AbLK4d9y6jXb75fcPuLw9H44zY01oXPdR7YZz-2BPNj-2FlpW054TB8YjrcLR5RzaQJqJIZatzgSFVsoHAXd-2FbjBKShsoLXqO4YCSvt0w-2BEOfU3KtQU2nl-2Fzd9eabmlekg8X-2FvgZFNyfRaYj-2BUjs80oo2iQImkcitEdgdWb6d8EP4ScilQNPhaOB8xu2hMJGbVEDVGSAHKVXYr-2FjcjSOCgcW0Q-3D-3D^$all
 ||u2752257.ct.sendgrid.net/wf/click?upn=4LlWqy7bcWoK6cK4FQ-2FA5lPwfD6y-2B1NVIJ13U8fv2-2FwaeqhRMyO-2FijYbx7MG7qUK2ReUcNz9jBDSueWAZ7sdVBtbgUT7PcZK3AJJ1qg7v6k-3D_4jFiAs-2Fx23byq2x2Lx0Ffs7qczLa5F1BAanDjGpKvv7Wr8hMRe-2FUp91-2BaMksbt92zJnIS3rzXVAa5MwKvUGhBu-2BNJH91zRtlj5ss85JUtkxEQagi9bAtUpUq6-2FC97JE2DfMdfbSXpkRLzJPGXhQPxP-2FF21LHUsCBu26Xs5GarJ3Ov4Pfx0W8TUGRgJSIaQqOJBR4ji7rH9ur7SUXB2-2Fj-2FQ-3D-3D^$all
 ||u2752257.ct.sendgrid.net/wf/click?upn=4LlWqy7bcWoK6cK4FQ-2FA5lPwfD6y-2B1NVIJ13U8fv2-2FwsxWjNoSfhdR9o9p9b-2F0NY6u6YdJkS1SJ0RZg8LTFMEjtoEdRW05vZIU6xbuwCqQY-3D_AbLK4d9y6jXb75fcPuLw9H44zY01oXPdR7YZz-2BPNj-2Fn5BWcdHzIGxnM9Vr61Xt14Dg9EsWSTtaUL0-2FSc1bR-2BosJj0qtrjpLVm8hGrCNaJSPCw429MpbyY6S8-2B3fPHqOHS-2BvdjTz2GoK9WJ5AKZGIyBAo4l6IAEU2C2FtsSso-2BUyaG3iSFIiDAGv7BEjmftC19aaMTLIBJKX51-2F3aOzBsmg-3D-3D^$all
@@ -149632,44 +149700,9 @@ zzz78.tk
 ||update.drp.su/oc/oc.zip^$all
 ||update.id/dtnjynhlgc/5199764/EmploymentVerification_5199764_05062020.zip^$all
 ||update.id/dtnjynhlgc/8205363/EmploymentVerification_8205363_05062020.zip^$all
-||update.joinbr.com/LMUpdate/BRmhttp.exe^$all
 ||update6.satysservs.com/updateto165-1.dat^$all
 ||upviral.world/wp-content/uploads/2020/03/tools/628930/628930.zip^$all
 ||url.edu/premisrecerca/sites/1501.zip^$all
-||url.emailprotection.link/?a38JunaghClvpnP9g_nk5BCP0dpXgp2YMDbWMdcsqwINyloReJV8PI-AA8LsHJPuo_TIgpSm_AA7bxILcF8c9Og~~/^$all
-||url.emailprotection.link/?a6VDSPTGs_vNRYygmJ_By6Bs0LtJpQSKtoPuniiFFxnN9_C6z29MhPxuyuonGhfW7HDPbxyx5QVymuEWH5mWbkg~~/^$all
-||url.emailprotection.link/?a8mF8MfR7KtWOtoxmjxVg5qS1M0GhotqVguxPSuuNKWruv3gqTwc7SI2AH90B2yp2Y8UqEWT1C_CMyHQbdyqF2A~~/^$all
-||url.emailprotection.link/?aB2h9tez77g3NWX83HmBJxHsp-H_TikL7tRGbC8YfZbPBkHXqW-5B7jMGKhnE1fC65Jdx7gqXd6eLkjPjGDIwlg~~/^$all
-||url.emailprotection.link/?aC0XD1Qxcboe-HsovuO5yCROm7_P3oDCc1n38zQzXiJFBHjQ2YRgWy826yrBrLD_c4TRiiC5a5NcGovMRFVyw_w~~/^$all
-||url.emailprotection.link/?aCvATdeSrDotPHoOyDzAUuueQW5HeydzaVDb4G61NRz9TJ4pu3vrdW2gk_UgJJtHJvldoXKokLWlGg2WthfA1I7gDaNtiHGXMiGgKs4uUYb9ZsLTOCUA73Dz_vDgYomoN/^$all
-||url.emailprotection.link/?aES__Vni_U1bkVPJN_U6dR04Bg7Go2sB10PTd73mmnBmjb6an2ZHbq-oZzC7HmLyGD-BSyKSUKUKQskWLsr2yJA~~/^$all
-||url.emailprotection.link/?aG4tYTaIRrdTFkq63z0RSHGagXIWtddvuxePusZmyVYhlAXf3LZDsesU_UVxkoyehkk26m9IOox9QBP_ZxiPzvVS85ufj768CbzP_wVTqoSCvci2UFweirWYFOl68DlYF/^$all
-||url.emailprotection.link/?aGmQLItz4ajoMEkt5Z_P3gtrfPXUFC3dM_qmuboW6TQ-kC7qNlN37BR_eD8YQ3c1KORYOSFpRXilgqhUuh7aOx-yxhBy9pjj9BeqehIfV_7vKmXhQnQZS1BQq67v2XHHQf9DJ4lpzxa51HTntCDzGUuAU8jQ3km-v9xh3iCFm1ok~/^$all
-||url.emailprotection.link/?aKxjvLyoPYXtVGu5Q_D8bZSwDb0hgvnCRiSibN9-CBYq91hpXUmR7ome-mZbzhY1ApieNT8DMH1EdmhS3HItO-A~~/^$all
-||url.emailprotection.link/?aMFrqtZjqBQi5cygI3zCrT_UTvCEntqdfUxiwfrK4tGqi7Pjtbkl48HsUz6c113ALLVCmt_2fimODBEPsC-sjmn9qlKjaXWBjEJ7Jn0BYfr4w3LullZQhOOBOgGWTsHYY/^$all
-||url.emailprotection.link/?aNq1wGX5So370OvUhhADJMiOyCD89r4JkItO2q70L11tl6QUW0c0xFvVCn4mo2YdDpWBhVdDyeJPOIc_5IPeOfw~~/^$all
-||url.emailprotection.link/?aRc1xcsSr90vz8pzIVpsLmURs0ao4lF4VtKVzXo_K3UmYtJy-dJLehG7bxGFMbQQglYNkzAV1X7aFNlI00D4s2bY9JFlDudoLLyoDnOK0Koi64XVUfM2mTK44R3UbdmMr/^$all
-||url.emailprotection.link/?aRrGLSsI454x_jEWfF6W4igTu6X_qbZcAfvVPL3tZBtZtnrrtr5ogrLnDXdLd4eI8jA2pNBd9p8Nut0p5CqIkOg~~/^$all
-||url.emailprotection.link/?aU8L17KIg4R_bPu2ckIjag4eSemQMzF4mDnfj1xnpoKcl30Qr9eaHMzXs-9ezyoPnhA4Rnqbh0Dql_5m5MNVkYg~~/^$all
-||url.emailprotection.link/?aUBwMMpmLx1aCBzai5Pmpk0ANae_FL-JB5Hb5jRUPwJsVHOAz3bmVAuLRd2g6p3GXkrYYhk3Tmq0NRCKUa3DIyA~~/^$all
-||url.emailprotection.link/?aWL699bJIY4FYnW8bQ2VneXoK4EioYVRkPYRfchkQgA7DkP6RXH3rWho_gWPUUaG-Mhohd6U0P-yxAzbnTPMEIA~~/^$all
-||url.emailprotection.link/?a_T4vl4N_PkTfC_HaiVltqsYxCQSE4d98MWYMs1dJHLT4JxwAokMWwXGU9GBTGuKk81fmlPT4rI7S0g07L5_nyCHIo68xfubqhhL-zNMYzakCdud2pPXN_H21n7qT6I4L^$all
-||url.emailprotection.link/?abXcC0b1oLP-BXgTX0Qjajw42MURvcZK6HFKmlInhI7ZHVx_FYv0hOfNNuM9994JKrN-74FpQ3hIg5Qlr0-8p-A~~/^$all
-||url.emailprotection.link/?ajD0FfFYA-Fk3byzjxAPizdBxnpl3upiWuqd3i5vdq0fajSsJxDH-GRAkaX4xsPxT8Hgf2wDJboJu_7iL7QmZpw~~^$all
-||url.emailprotection.link/?ajbo-VhEYM_CfcsByStOYLJVuZELcMGO1OVSMJez0j29BEMhVl1EPEsnDYllXX92wJrsYw1UjOu5gKTwpDV_boQ~~/^$all
-||url.emailprotection.link/?ajd4LPnJg7weUMOwEHQytJc3Z2fdz7Y52O2UKzuaZW9Oa0GlgozUKggS0PY635Ak_L7JlO17Q_LGpynQRmLkANw~~/^$all
-||url.emailprotection.link/?ajzZkb6Opvix4O5BJSFHTDFBLeFb7DXimc0Kbk4VMXjXr94NpBfWnoyaDJEs9aJt41HoporDrYthrC-yI61X1Bw~~/^$all
-||url.emailprotection.link/?aqOhkxxw4kPq8JrFjlaepJ6gxduPC_RTULivDizf81iYK0S2DMDnM4NWSNU0rGfY-U_NRM1_0OY5_eDTsSlB1zQ~~/^$all
-||url.emailprotection.link/?aq_WoppTmnZK204k5Q4mzPka6fjghxUQdiR0WdeJ9rWBnX90C4nQ_WDBnGTnVYv76B8R7pAt0eVciGriVt1VPLw~~/^$all
-||url.emailprotection.link/?atntITzUZKrzlq2yxh4G4S0BQFdZEyF3vmQNnVj37m-zR1c5k8zVdGhrkhC1dorKRElJyG1ggv_ud4UZHQf-AoA~~/^$all
-||url.emailprotection.link/?auN3ZqjjvuBgWjSin2WSxj8NMGM2GFzyvO5cP19V0eXhyemjWr-Oz-t8EPYieXTXUMYM-qZ6Z8xyWJMu9vOwgFGKY1i7rn-1RjxJB_zJseVxzfvEK9dx0BEfUDiQFX-iO/^$all
-||url.emailprotection.link/?awijIQK7hYpp1TbxmFEJIIIZ9Utqx3N-OhfHL-XyvtDbNOIqNDKZxU0dnlHleFgPFSqSgENdGSdEEwdeliLMXifigZzDxem3wjilOymtjMz6hihbnspNc050UEicr0eEr^$all
-||url.emailprotection.link/?awnn8ZPKBm2qScAFs89KftFX4MDYMphJnFSOToD4I9uBPY_5tP3y0p5Rzf61x9JCoPuiVv6bpYxZjHcbiMeBx4g~~/^$all
-||url.emailprotection.link/?awsu1K8aw4qAy7TU6V91StoYzD9XLahm-7litnPmfXlsT1ikNgjZKkQK01RzGj24zs_WlBRkJF4TRCEIoB39lHA~~/^$all
-||url.emailprotection.link/?ayL72bfBub-Dd-Y3yvvPpz8JfYmmIlgEjoSDUuj2vrnTpKguZ2uBjdTXs9T6g67cYRs7ukI8Vce7sFWtjSexgNKXb_oyGrtmjYbQr5a7YYXq9E_f_RB502wFp0zjyO1SG/^$all
-||url.emailprotection.link/?bcp_LQdELwbKhxKToIznR8rOuhtt9W4qlFovFOxc0z5zmN6k8ji5zi9v7qbCrvRGePrP065w1sneU27JfM6LqozRkXpWdzWXoQHCUebEUJx-pJ0FN_jIdanzNgIHD_CY1/^$all
-||url.emailprotection.link/?bgmviCpuhO15c9_q9HIofgnmKACO0q_lUjjCaeOwkfIK_HDtt1UqmBKpoVHxYkckgjOQoYTV_U0G2UMKhd4MBI9Ms8vO3Vliq2ClOuUAa6nO2a7Ij5lJFsouoEEMeMVmI/^$all
-||url.emailprotection.link/?biZyxbw1FdaGSfCC1n6EP1AwPdX9DR0BrNJjqWgYAOFpW98LiMviIPVrszjnZzLUCLpEqqdYWFxWNwUDvWRLjcUFuhL2_nHA0Bs8Wz9JmbaHccIIKBseLJEWayzbE_cnD/^$all
 ||urldefense.proofpoint.com/v2/url?u=http-3A__borinfor.com_newfolde-5Fr_doc_En-5Fus_OVERDUE-2DACCOUNT_Invoice-2D07-2D19-2D18&d=DwIFaQ&c=VQ9hgUuwpNx5qjiyTmR6qQ&r=VWCMrOAZ42xEY7aBeHkCfVC7-GccDQiNerNlJRH5muI&m=JavSUg0f9C2qoCCa7AWt8RM7BRNk5mP_S7hBxPVa8ZU&s=XFGDpuuNz7L0uj6b4PoAfz3lck7VPATlniNQMVv_P6w&e/^$all
 ||urldefense.proofpoint.com/v2/url?u=http-3A__f3distribuicao.com.br_Download_US_Invoice-2Dreceipt&d=DwIGaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=nUjJuG0N1PyUQkZMptKxVwr-9pk_cfGDBwXeMh1cmYfoR9pOx05Dah-cTfWTA_UL&m=_04Q_l-oAHFSVSlL3MABl3KtP8snbDQ5NEGg0rfyNHs&s=UQSMCa_Kr7dYQfKbf5uTUGP2d-dc_QTR9ihLqtxv61M&e=^$all
 ||urldefense.proofpoint.com/v2/url?u=http-3A__fightclubturkey.com_sites_En-5Fus_Invoice-2Dfor-2Dsent_Invoice-2D3584792&d=DwIFaQ&c=xGioxNYD6WIXJpu7zsFQrQ&r=TYxZH-ttwY23thn2y1RlZQ&m=cj9-4ZsZ2pKCHrIcv-QM5QKJWKnWUpd7hnMIUSojYBQ&s=_dILPld2zKpsCW6iUV_5H1G6Pvvdt-CWRxiZWVuhhjg&e=^$all
@@ -149681,10 +149714,15 @@ zzz78.tk
 ||urldefense.proofpoint.com/v2/url?u=http-3A__www.noelportelles.com_Acuerdos-2D07_&d=DwMFaQ&c=-nIDXP95V38wHwNfcoM0HuICxH-zv-kaMxwytub8tKA&r=F0QlnMVt4h0NWhScbkMZEnS5pw6nb16ecTKDmouq3rg&m=h6ONP5VzUJslfRKQ8ULUja-svKxy727Zj0hV6bgi7kg&s=_giUUi9MYtwjmDqu0AojwJ59YcacWqnZLFVb1G055lM&e=/^$all
 ||urldefense.proofpoint.com/v2/url?u=http-3A__www.sindquimsuzano.com.br_PAYMENT_ZZN34252G_Aug-2D07-2D2018-2D4493466_HUL-2DGSMU&d=DwMGaQ&c=ZWY66qCYUTYUcOev9C2GlDEcKuYKzoWDVNR_L93Z9mQ&r=nIwg9Z1dRtcbKwJfYpVHOyQckWxpVCuZnakuZ4s8TQI&m=DvGaU9m2J67NNjVWQltPDWr1seCpeDjmnf6k8TDvHCE&s=bCnIAGjELtT_ln_3Efp3JJgGw-Kxw0a1V5wThm1WYSI&e=^$all
 ||urldefense.proofpoint.com/v2/url?u=http-3A__www.sx-2Dzj.net_default_US-5Fus_DOC_HRI-2DMonthly-2DInvoice_&d=DwIFaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=FtoDw-zJB1U6oMHnvDnv5XPE4nk-1jws78C28VGfoGApKVXV5MLUlNefW3g60a0o&m=qS8iZQf3b77bbBV4CE5xetvb_lJ3d6tP8YC7H7b_J_4&s=hgffFU7pH5QUrVWxahcnJCN8_J3-Kc-VY2U6jAveHTQ&e/^$all
-||us-west-2.protection.sophos.com/?d=live.com&u=aHR0cHM6Ly9vbmVkcml2ZS5saXZlLmNvbS9kb3dubG9hZD9jaWQ9RkU4NDY0Q0ZBNzk0REEzMSZyZXNpZD1GRTg0NjRDRkE3OTREQTMxJTIxMzkwJmF1dGhrZXk9QVBBRGprZnItbkVNNlk4&e=c2FsZXNAc2VydmljZXRocmVhZC5jb20=&h=1803547f4c89428aa593c931d1c99564&t=c3h2NW1abXdwNnhrcndDRHk5MStRa1krcFQ5N1dlVHlzZVNvNzAzakw5dz0=^$all
 ||us15.campaign-archive.com/pages?u=cd5e2bf0aa684eff0aeb54377&id=030032cee1f0^$all
+||us2.campaign-archive.com/pages?u=035496fc182d3cf5353219b28&id=03009ec6e1f0^$all
 ||user-images.githubusercontent.com/56861392/67261951-83ebf080-f4d5-11e9-9807-d0919c3b4b74.jpg^$all
 ||user-images.githubusercontent.com/56861392/67262078-0aa0cd80-f4d6-11e9-8639-63829755ed31.jpg^$all
+||users.atw.hu/fvlmodell/letoltes/files/scalecalc.exe^$all
+||users.atw.hu/nykol16/kepek.exe^$all
+||users.atw.hu/tekiwanatain/installer.rar^$all
+||users.atw.hu/toneraruhaz/wp-admin/network/installer.rar^$all
+||users.atw.hu/zoolatogato/xrUHBmzvLAgHfnQCerRv.exe^$all
 ||usispf.org/wp-admin/vjWaya/^$all
 ||ustahavalandirma.com/wp-content/themes/calliope/linear/037732.zip^$all
 ||ustahavalandirma.com/wp-content/themes/calliope/linear/048176546/048176546.zip^$all
@@ -149729,40 +149767,6 @@ zzz78.tk
 ||viettinlaw.com/xmtuzix/docs/k9zuyya91v/^$all
 ||villadeaux.com/wp-content/themes/danfe/soqehwsn/08805/EmploymentVerification_08805_05072020.zip^$all
 ||villadeaux.com/wp-content/themes/danfe/soqehwsn/156925/EmploymentVerification_156925_05072020.zip^$all
-||vinastone.com/2033798ELGVT/PAYMENT/Smallbusiness/^$all
-||vinastone.com/2033798ELGVT/PAYMENT/Smallbusiness^$all
-||vinastone.com/57qt1/^$all
-||vinastone.com/57qt1^$all
-||vinastone.com/6HMxF0/^$all
-||vinastone.com/994WFILE/4883YJFC/US/Payments/092018^$all
-||vinastone.com/994WFILE/58AKWKTYMF/WIRE/Smallbusiness/^$all
-||vinastone.com/994WFILE/58AKWKTYMF/WIRE/Smallbusiness^$all
-||vinastone.com/994WFILE/9MEPXJYCC/1992V/biz/Business/^$all
-||vinastone.com/994WFILE/9MEPXJYCC/1992V/biz/Business^$all
-||vinastone.com/994WFILE/9MEPXJYCC/PAYMENT/Commercial/^$all
-||vinastone.com/994WFILE/9MEPXJYCC/PAYMENT/Commercial^$all
-||vinastone.com/994WFILE/EN_US/Attachments/092018^$all
-||vinastone.com/994WFILE/En_us/Documents/102018^$all
-||vinastone.com/994WFILE/FB49795S/707998428/LJ-UII/^$all
-||vinastone.com/994WFILE/FB49795S/707998428/LJ-UII^$all
-||vinastone.com/Declaracion-mensual-junio/^$all
-||vinastone.com/Declaracion-mensual-junio^$all
-||vinastone.com/Download/QZMV043472159XFK/348545/WGPR-YDJC/^$all
-||vinastone.com/Download/QZMV043472159XFK/348545/WGPR-YDJC^$all
-||vinastone.com/EN_US/Clients_transactions/112018/^$all
-||vinastone.com/EN_US/Clients_transactions/112018^$all
-||vinastone.com/FILE/Invoice-663900/^$all
-||vinastone.com/Jul2018/US/Invoice-for-sent/Invoice/^$all
-||vinastone.com/KzjAW6/^$all
-||vinastone.com/KzjAW6^$all
-||vinastone.com/LLC/En_us/Outstanding-Invoices/^$all
-||vinastone.com/LLC/En_us/Outstanding-Invoices^$all
-||vinastone.com/New-Order-Upcoming/Invoice-613340/^$all
-||vinastone.com/OVERDUE-ACCOUNT/HRI-Monthly-Invoice/^$all
-||vinastone.com/Rechnungs-docs/^$all
-||vinastone.com/doc/US_us/New-Order-Upcoming/Invoice-07-11-18/^$all
-||vinastone.com/m3qQf5sLVY^$all
-||vinastone.com/sites/de/Zahlung/Rechnung-fur-Dienstleistungen-XZN-14-80540/^$all
 ||vinastory.vn^$all
 ||vinograd72.ru/wp-admin/disponibile_box/close_forum/km9_t5zsu54/^$all
 ||violatrasporti.com/wp-content/themes/danfe/xueglwhxvb/EmploymentVerification_757873_05072020.zip^$all
@@ -149782,6 +149786,8 @@ zzz78.tk
 ||vollediggroen.nl/wp-content/uploads/2020/05/xxtiaemoq/8067389/LoanAgreement_8067389_05122020.zip^$all
 ||vophone.com/portal/cache/LLC/Q1savIN7l/^$all
 ||voxechoeffects.weebly.com/uploads/4/2/4/2/42424725/vox_echo_effect..exe^$all
+||voxreflex.com/corp2018/wp-content/uploads/414XBRQET/PAYROLL/Personal/^$all
+||voxreflex.com/corp2018/wp-content/uploads/414XBRQET/PAYROLL/Personal^$all
 ||vrau-x.s3.us-east-2.amazonaws.com/0.zip^$all
 ||vsmsoftware.com/wp-content/themes/calliope/previous/1635179.zip^$all
 ||vsmsoftware.com/wp-content/themes/calliope/previous/49306282/49306282.zip^$all
@@ -149801,12 +149807,10 @@ zzz78.tk
 ||warwickvalleyliving.com/images/classes/du4yz01294/^$all
 ||warwickvalleyliving.com/images/wmGN/^$all
 ||warwickvalleyliving.com/includes/HrQZWAsb/^$all
-||watkinsarchitect.com/tracklist/tracking_number.pdf.exe^$all
 ||way2admission.in/sclfxo9/sites/nevsekspskcexavmu9acysj_fhn7po-438228592118/^$all
 ||way2admission.in/sclfxo9/zl86ug-5noljj-qizjf/^$all
 ||wcdownloadercdn.lavasoft.com/4.3.1908.3686/WcInstaller.exe^$all
 ||wcmpdemos.com/all-in-one-demo/320488936_GHdyGUbfHGx_disk/security_3364051_oNNAmFNT7/hzsqxrzyn6bl_3twv69/^$all
-||we-brothers.com/Ockd_pHwu-ofpnLFSi/E5J/Messages/022019/^$all
 ||web.mit.edu/kolya/.f/root/net.mit.edu/net/user/chris/WinNT/MIT_Agenda2a.doc^$all
 ||web.mit.edu/kolya/.f/root/net.mit.edu/sipb/user/kolya/afs/root.afs/net/user/chris/WinNT/MIT_Agenda2a.doc^$all
 ||web.opendrive.com/api/v1/download/file.json/MTBfOTc2Mzk3NDNf?inline=0^$all
@@ -149858,8 +149862,7 @@ zzz78.tk
 ||wltrade.nl/wp-includes/epprzkhelp/JTpbRfeZuk.zip^$all
 ||wltrade.nl/wp-includes/epprzkhelp/jI/nx/K2vsL2Fy.zip^$all
 ||wltrade.nl/wp-includes/epprzkhelp/mj/hl/ZlKEUEww.zip^$all
-||wmi.1217bye.host/1.txt^$all
-||wmi.1217bye.host/2.txt^$all
+||wmi.4i7i.com/11.exe^$all
 ||wolflan.com/OSDYO-WLdf9GImUbW9jvL_UuAiCRhJ-bM/^$all
 ||wolflan.com/git/sec.myacc.docs.biz/^$all
 ||wolftain.com/blog/wp-content/themes/danfe/iwyucsavcho/2868/EmploymentVerification_2868_05072020.zip^$all
@@ -149878,13 +149881,11 @@ zzz78.tk
 ||wwealthllc.com/sjokmsq/Buy-Sell_Agreement_594068_04272020.zip^$all
 ||www107.zippyshare.com/d/8OPFupqh/37744/Server.exe^$all
 ||www68.zippyshare.com/d/5Eixpiut/74091/Csgo%20cheat%20updated.exe^$all
+||wyptk.com/openlink/openlink1.exe^$all
 ||wz1688.ltd/wp-content/uploads/2020/05/onoycdlgecc/LoanAgreement_976273202_05122020.zip^$all
 ||x-x-team.weebly.com/uploads/7/8/4/0/78404562/tedata.exe^$all
 ||x-x-team.weebly.com/uploads/7/8/4/0/78404562/windowsapplication1.exe^$all
 ||x.alluniversal.info/wupxarch.exe^$all
-||x.jmxded153.net/y.z?l=http%3a%2f%2fshivmotor.com%2fNMVA-SVa_XGhzimAE-gtc%2f49390%2fSurveyQuestionsUS_us%2fSales-Invoice&r=11943112279&d=271873&p=1&t=h/^$all
-||x.jmxded153.net/y.z?l=http%3a%2f%2fshivmotor.com%2fNMVA-SVa_XGhzimAE-gtc%2f49390%2fSurveyQuestionsUS_us%2fSales-Invoice&r=11943113879&d=271873&p=1&t=h/^$all
-||x.jmxded153.net/y.z?l=http://thuraya.kz/iVIg-wWj_tCpHue-kR/EXT/PaymentStatus/En/Past-Due-Invoice&r=11940086345&d=271873&p=1&t=h/^$all
 ||xa.yimg.com/kq/groups/14713148/147251921/name/INV-UEQ8328875-444.doc^$all
 ||xa.yimg.com/kq/groups/18039257/67004241/name/DFr.zip^$all
 ||xa.yimg.com/kq/groups/18629250/771649578/name/66smedley.zip^$all
@@ -149935,7 +149936,6 @@ zzz78.tk
 ||xposedandroid.com/26-3473871743-96X545730587826940093.zip^$all
 ||xri4pork.s3.amazonaws.com/xxx_video.exe^$all
 ||y-sani.com/docs_bcx/55555.png^$all
-||yadgarcards.com/share^$all
 ||yamisiones.com/cache/98UACH/KFBQ35670INVNT/Aug-10-2018-7288859/EOB-ESKX/^$all
 ||yamisiones.com/cache/98UACH/KFBQ35670INVNT/Aug-10-2018-7288859/EOB-ESKX^$all
 ||ybulb.com/todquntpwc/0121122/Darlehensvertrag_0121122_18052020.zip^$all
@@ -149956,8 +149956,6 @@ zzz78.tk
 ||yupi.md/wp-content/uploads/2020/04/cursors/0495548/0495548.zip^$all
 ||yupi.md/wp-content/uploads/2020/04/slider/3295415.zip^$all
 ||ywhmcs.com/110244.exe^$all
-||zcop.ru/java12.dat^$all
-||zcop.ru/java13r.dat^$all
 ||zerone.jp/about/EN_US/Information/05_19/^$all
 ||zerone.jp/about/LLC/pnl9sbwu4qy_ozzj1wj1w-7564791705247/^$all
 ||zerone.jp/amazon/Pages/JBfDHhRENutVSJxan/^$all
