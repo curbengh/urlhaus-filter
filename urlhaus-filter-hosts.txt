@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 05 Jul 2020 12:09:50 UTC
+# Updated: Mon, 06 Jul 2020 00:09:57 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2146,6 +2146,7 @@
 0.0.0.0 acmalarmes.hostinet.pt
 0.0.0.0 acmao.com
 0.0.0.0 acmestoolsmfg.com
+0.0.0.0 acncompass.ca
 0.0.0.0 acnessempo.com
 0.0.0.0 acnexplained.com
 0.0.0.0 aco-finance.nl
@@ -10889,7 +10890,6 @@
 0.0.0.0 bluebird-developments.com
 0.0.0.0 bluebirdbd.com
 0.0.0.0 bluebirdskychinatown.com
-0.0.0.0 bluebonnetconsulting.com
 0.0.0.0 bluebook-cd.com
 0.0.0.0 blueboxsourcing.com
 0.0.0.0 blueboxxinterior.com
@@ -36669,6 +36669,7 @@
 0.0.0.0 jeepoflouisville.com
 0.0.0.0 jeevanbikas.org.np
 0.0.0.0 jeevandeepayurveda.com
+0.0.0.0 jeevanmate.com
 0.0.0.0 jeevoday.mruda.org
 0.0.0.0 jeewantagroup.org
 0.0.0.0 jefandflorencebabyshower.com
@@ -64094,6 +64095,7 @@
 0.0.0.0 socialpostmanager.com
 0.0.0.0 socialpoweredrouter.com
 0.0.0.0 socialshaktinews.in
+0.0.0.0 socialtutors.ru
 0.0.0.0 socialwifi.rs
 0.0.0.0 socialworkacademy.in
 0.0.0.0 socialworksummit4africa.org
@@ -69746,7 +69748,6 @@
 0.0.0.0 thuysankv1.com
 0.0.0.0 thuysinhlongthanh.com
 0.0.0.0 thuytienacademy.com
-0.0.0.0 thyamasr.com
 0.0.0.0 thymedentalcare.com
 0.0.0.0 thyroidnutritioneducators.com
 0.0.0.0 thyrsi.com
@@ -70416,7 +70417,6 @@
 0.0.0.0 toppret.com
 0.0.0.0 topr.se
 0.0.0.0 toprakcelik.com
-0.0.0.0 toprakenerji.com
 0.0.0.0 topreach.com.br
 0.0.0.0 toprebajas.com
 0.0.0.0 toprecipe.co.uk

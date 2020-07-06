@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sun, 05 Jul 2020 12:09:50 UTC
+# Updated: Mon, 06 Jul 2020 00:09:57 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -10,9 +10,9 @@
 0.0.0.0 3ypackaging.com
 0.0.0.0 42502d2a-e7ed-4a16-9f11-33ffe6c54021.usrfiles.com
 0.0.0.0 49parallel.ca
+0.0.0.0 4kyoutubedonwload.club
 0.0.0.0 7p22jz.chokun.ru
 0.0.0.0 7th-club.com
-0.0.0.0 87du.vip
 0.0.0.0 a-reality.co.uk
 0.0.0.0 abass.ir
 0.0.0.0 abismar.com.mx
@@ -33,12 +33,10 @@
 0.0.0.0 alohasoftware.net
 0.0.0.0 alphaconsumer.net
 0.0.0.0 am-concepts.ca
-0.0.0.0 amd.alibuf.com
 0.0.0.0 amemarine.co.th
 0.0.0.0 andreelapeyre.com
 0.0.0.0 andremaraisbeleggings.co.za
 0.0.0.0 aneoeauhiazegfiz.ru
-0.0.0.0 angthong.nfe.go.th
 0.0.0.0 anvietpro.com
 0.0.0.0 anysbergbiltong.co.za
 0.0.0.0 aoujlift.ir
@@ -66,7 +64,6 @@
 0.0.0.0 bheragreens.com
 0.0.0.0 bildeboks.no
 0.0.0.0 binariomexico.com.mx
-0.0.0.0 biz9holdings.com
 0.0.0.0 blockchains.pk
 0.0.0.0 blog.241optical.com
 0.0.0.0 boasteel.us
@@ -79,12 +76,12 @@
 0.0.0.0 cassovia.sk
 0.0.0.0 cbk.m.dodo52.com
 0.0.0.0 cbup1.cache.wps.cn
+0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 ceie.mx
 0.0.0.0 cellas.sk
 0.0.0.0 cf.uuu9.com
 0.0.0.0 cf0.pw
 0.0.0.0 cfs5.tistory.com
-0.0.0.0 ch.rmu.ac.th
 0.0.0.0 chanvribloc.com
 0.0.0.0 charm.bizfxr.com
 0.0.0.0 chedea.eu
@@ -95,14 +92,13 @@
 0.0.0.0 cjto.top
 0.0.0.0 ckl6767.com
 0.0.0.0 clearwaterriveroutfitting.com
-0.0.0.0 colourcreative.co.za
 0.0.0.0 commaa.com
 0.0.0.0 complan.hu
 0.0.0.0 complanbt.hu
 0.0.0.0 computersblogfromus32.top
 0.0.0.0 comtechadsl.com
+0.0.0.0 config.cqhbkjzx.com
 0.0.0.0 config.kuaisousou.top
-0.0.0.0 config.wwmhdq.com
 0.0.0.0 cqjcc.org
 0.0.0.0 crc2k18.mooo.com
 0.0.0.0 crisalic.fr
@@ -134,6 +130,7 @@
 0.0.0.0 derivativespro.in
 0.0.0.0 destructionachievement.com
 0.0.0.0 dev.sebpo.net
+0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 dfzm.91756.cn
 0.0.0.0 dgecolesdepolice.bf
@@ -146,12 +143,9 @@
 0.0.0.0 dkw-engineering.net
 0.0.0.0 dl-gameplayer.dmm.com
 0.0.0.0 dl.1003b.56a.com
-0.0.0.0 dl.198424.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dlist.iqilie.com
 0.0.0.0 dmresor.se
-0.0.0.0 dnn.alibuf.com
-0.0.0.0 dns.alibuf.com
 0.0.0.0 dodsonimaging.com
 0.0.0.0 donmago.com
 0.0.0.0 doostansocks.ir
@@ -186,6 +180,7 @@
 0.0.0.0 dzinestudio87.co.uk
 0.0.0.0 e.dangeana.com
 0.0.0.0 edicolanazionale.it
+0.0.0.0 elokshinproperty.co.za
 0.0.0.0 emadamini.co.za
 0.0.0.0 enc-tech.com
 0.0.0.0 energisegroup.com
@@ -239,6 +234,7 @@
 0.0.0.0 hingcheong.hk
 0.0.0.0 hldschool.com
 0.0.0.0 hmbwgroup.com
+0.0.0.0 hmpmall.co.kr
 0.0.0.0 hoayeuthuong-my.sharepoint.com
 0.0.0.0 hosseinsoltani.ir
 0.0.0.0 hostzaa.com
@@ -262,7 +258,6 @@
 0.0.0.0 intersel-idf.org
 0.0.0.0 iremart.es
 0.0.0.0 isso.ps
-0.0.0.0 istore.cheap
 0.0.0.0 itd.m.dodo52.com
 0.0.0.0 jamiekaylive.com
 0.0.0.0 jamshed.pk
@@ -288,13 +283,13 @@
 0.0.0.0 kenareh-gostare-aras.ir
 0.0.0.0 kjbm9.mof.gov.cn
 0.0.0.0 kjcpromo.com
+0.0.0.0 kleinendeli.co.za
 0.0.0.0 knightsbridgeenergy.com.ng
 0.0.0.0 koppemotta.com.br
 0.0.0.0 kuznetsov.ca
 0.0.0.0 kwanfromhongkong.com
 0.0.0.0 lameguard.ru
 0.0.0.0 lammaixep.com
-0.0.0.0 landmarktreks.com
 0.0.0.0 lcmsystem.com
 0.0.0.0 ld.mediaget.com
 0.0.0.0 learnbuddy.com
@@ -388,11 +383,9 @@
 0.0.0.0 neocity1.free.fr
 0.0.0.0 nerve.untergrund.net
 0.0.0.0 news.omumusic.net
+0.0.0.0 newsun-shop.com
 0.0.0.0 ngoaingu.garage.com.vn
-0.0.0.0 nlemmy1.ru
-0.0.0.0 nlemmy2.ru
 0.0.0.0 nofound.000webhostapp.com
-0.0.0.0 norperuinge.com.pe
 0.0.0.0 nprg.ru
 0.0.0.0 nwcsvcs.com
 0.0.0.0 obnova.zzux.com
@@ -416,8 +409,6 @@
 0.0.0.0 p500.mon-application.com
 0.0.0.0 p6.zbjimg.com
 0.0.0.0 palochusvet.szm.com
-0.0.0.0 pan-demi-sosyal-des-tek.com
-0.0.0.0 pandemi-sureclerinde-desteklerimizwebtr.net
 0.0.0.0 partyflix.net
 0.0.0.0 pashupatiexports.com
 0.0.0.0 patch2.51lg.com
@@ -430,20 +421,20 @@
 0.0.0.0 phamchilong.com
 0.0.0.0 phudieusongma.com
 0.0.0.0 ponik.fartit.com
-0.0.0.0 ponto50.com.br
 0.0.0.0 ppl.ac.id
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 probost.cz
 0.0.0.0 prosoc.nl
 0.0.0.0 pujashoppe.in
 0.0.0.0 purelondonhyg.com
+0.0.0.0 qianjiangchao.com
+0.0.0.0 qif.ac.ke
 0.0.0.0 qmsled.com
 0.0.0.0 qppl.angiang.gov.vn
 0.0.0.0 quartier-midi.be
 0.0.0.0 r1.targobank.su
 0.0.0.0 rainbowisp.info
 0.0.0.0 rakbot.g3t.ru
-0.0.0.0 ratamodu.ga
 0.0.0.0 raymondjaon.ug
 0.0.0.0 rc.ixiaoyang.cn
 0.0.0.0 readytalk.github.io
@@ -520,6 +511,7 @@
 0.0.0.0 thaisell.com
 0.0.0.0 tharringtonsponsorship.com
 0.0.0.0 thc-annex.com
+0.0.0.0 theclinicabarros.com
 0.0.0.0 theprestige.ro
 0.0.0.0 theptiendat.com
 0.0.0.0 therecruiter.io
@@ -539,6 +531,7 @@
 0.0.0.0 turcomdat.com
 0.0.0.0 tutuler.com
 0.0.0.0 uc-56.ru
+0.0.0.0 ucto-id.cz
 0.0.0.0 ugc.wegame.com.cn
 0.0.0.0 ukks.net
 0.0.0.0 ukronet.ru
@@ -556,13 +549,13 @@
 0.0.0.0 utdifguizdidiz.ru
 0.0.0.0 uytgvhdfsdxc.ug
 0.0.0.0 vadyur.github.io
+0.0.0.0 valedchap.ir
 0.0.0.0 valencaagora.com.br
 0.0.0.0 vaziri.echobit.ir
 0.0.0.0 vfocus.net
 0.0.0.0 videoswebcammsn.free.fr
 0.0.0.0 vigilar.com.br
 0.0.0.0 vitinhvnt.com
-0.0.0.0 wap.dosame.com
 0.0.0.0 warriorllc.com
 0.0.0.0 wbd.5636.com
 0.0.0.0 webarte.com.br
@@ -571,10 +564,10 @@
 0.0.0.0 welcometothefuture.com
 0.0.0.0 whgaty.com
 0.0.0.0 wiebe-sanitaer.de
+0.0.0.0 windcomtechnologies.com
 0.0.0.0 wmd9e.a3i1vvv.feteboc.com
 0.0.0.0 wood-expert.net
 0.0.0.0 woodsytech.com
-0.0.0.0 writesofpassage.co.za
 0.0.0.0 wsg.com.sg
 0.0.0.0 www2.recepty5.com
 0.0.0.0 xantinas.com
@@ -584,6 +577,7 @@
 0.0.0.0 xtremeforumz.com
 0.0.0.0 xxwl.kuaiyunds.com
 0.0.0.0 yeez.net
+0.0.0.0 yesky.51down.org.cn
 0.0.0.0 yesky.xzstatic.com
 0.0.0.0 yy31t.chokun.ru
 0.0.0.0 zagruz.dnset.com
@@ -595,6 +589,7 @@
 0.0.0.0 zdy.17110.com
 0.0.0.0 zenkashow.com
 0.0.0.0 zephyrglobal.ae
+0.0.0.0 zeytinyagisabun.com
 0.0.0.0 zhetysu360.kz
 0.0.0.0 ziliao.yunkaodian.com
 0.0.0.0 zj.9553.com
