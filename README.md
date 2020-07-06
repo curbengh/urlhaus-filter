@@ -308,8 +308,6 @@ This filter **only** accepts new malware URLs from [URLhaus](https://urlhaus.abu
 
 Please report new malware URL to the upstream maintainer through https://urlhaus.abuse.ch/api/#submit.
 
-This repo is not endorsed by Abuse.ch.
-
 ## Cloning
 
 Since the filter is updated frequently, cloning the repo would become slower over time as the revision grows.
@@ -318,10 +316,16 @@ Use shallow clone to get the recent revisions only. Getting the last five revisi
 
 `git clone --depth 5 https://gitlab.com/curben/urlhaus-filter.git`
 
+## FAQ
+
+See [FAQ](https://gitlab.com/curben/urlhaus-filter/wikis/faq).
+
 ## License
 
 [Creative Commons Zero v1.0 Universal](LICENSE.md)
 
-## FAQ
+[Tranco List](https://tranco-list.eu/): MIT License
 
-See [FAQ](https://gitlab.com/curben/urlhaus-filter/wikis/faq).
+[Umbrella Popularity List](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html): Available free of charge by Cisco Umbrella
+
+This repository is not endorsed by Abuse.ch.
