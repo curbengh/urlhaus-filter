@@ -328,7 +328,9 @@ See [FAQ](https://gitlab.com/curben/urlhaus-filter/wikis/faq).
 
 [Creative Commons Zero v1.0 Universal](LICENSE.md)
 
-[Tranco List](https://tranco-list.eu/): MIT License
+[URLhaus](https://urlhaus.abuse.ch/): [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+[Tranco List](https://tranco-list.eu/): [MIT License](https://choosealicense.com/licenses/mit/)
 
 [Umbrella Popularity List](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html): Available free of charge by Cisco Umbrella
 
