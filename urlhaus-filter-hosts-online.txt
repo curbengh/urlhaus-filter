@@ -1,19 +1,16 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Tue, 07 Jul 2020 00:09:57 UTC
+# Updated: Tue, 07 Jul 2020 12:10:05 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
 0.0.0.0 2000kumdo.com
 0.0.0.0 21robo.com
-0.0.0.0 31kungcommunicationtaristdysupliermgjky.duckdns.org
 0.0.0.0 3ypackaging.com
 0.0.0.0 42502d2a-e7ed-4a16-9f11-33ffe6c54021.usrfiles.com
 0.0.0.0 49parallel.ca
-0.0.0.0 4kyoutubedonwload.club
 0.0.0.0 7p22jz.chokun.ru
 0.0.0.0 7th-club.com
-0.0.0.0 87du.vip
 0.0.0.0 a-reality.co.uk
 0.0.0.0 abass.ir
 0.0.0.0 abzyv9.ddns.net
@@ -42,9 +39,9 @@
 0.0.0.0 aoujlift.ir
 0.0.0.0 apoolcondo.com
 0.0.0.0 apware.co.kr
+0.0.0.0 arkdatasolutions.net
 0.0.0.0 askarindo.or.id
 0.0.0.0 atfile.com
-0.0.0.0 attach.66rpg.com
 0.0.0.0 atteuqpotentialunlimited.com
 0.0.0.0 aulist.com
 0.0.0.0 azmeasurement.com
@@ -56,13 +53,13 @@
 0.0.0.0 bamakobleach.free.fr
 0.0.0.0 bangkok-orchids.com
 0.0.0.0 bapo.granudan.cn
-0.0.0.0 bbs.sunwy.org
 0.0.0.0 bbs1.marisfrolg.com
 0.0.0.0 bcmbconsulting.com
 0.0.0.0 belsizehair.co.uk
 0.0.0.0 besserblok-ufa.ru
 0.0.0.0 bheragreens.com
 0.0.0.0 bildeboks.no
+0.0.0.0 biz9holdings.com
 0.0.0.0 blockchains.pk
 0.0.0.0 blog.241optical.com
 0.0.0.0 bolidar.dnset.com
@@ -71,6 +68,7 @@
 0.0.0.0 c.vvvvvvvvv.ga
 0.0.0.0 cameli.vn
 0.0.0.0 caravella.com.br
+0.0.0.0 cassovia.sk
 0.0.0.0 cbk.m.dodo52.com
 0.0.0.0 cbup1.cache.wps.cn
 0.0.0.0 cdn-10049480.file.myqcloud.com
@@ -88,15 +86,13 @@
 0.0.0.0 cjto.top
 0.0.0.0 ckl6767.com
 0.0.0.0 clearwaterriveroutfitting.com
+0.0.0.0 colourcreative.co.za
 0.0.0.0 commaa.com
 0.0.0.0 complan.hu
 0.0.0.0 complanbt.hu
 0.0.0.0 computersblogfromus32.top
 0.0.0.0 comtechadsl.com
-0.0.0.0 config.cqhbkjzx.com
 0.0.0.0 config.kuaisousou.top
-0.0.0.0 config.wwmhdq.com
-0.0.0.0 config.younoteba.top
 0.0.0.0 cqjcc.org
 0.0.0.0 crc2k18.mooo.com
 0.0.0.0 crisalic.fr
@@ -108,7 +104,6 @@
 0.0.0.0 czsl.91756.cn
 0.0.0.0 d2brey8g9iu52b.cloudfront.net
 0.0.0.0 d3.99ddd.com
-0.0.0.0 d9.99ddd.com
 0.0.0.0 da.alibuf.com
 0.0.0.0 danielbastos.com
 0.0.0.0 darco.pk
@@ -124,11 +119,11 @@
 0.0.0.0 debonosu.jp
 0.0.0.0 deltacontrol.net.pk
 0.0.0.0 denkagida.com.tr
-0.0.0.0 dentx.com.tr
 0.0.0.0 depot7.com
 0.0.0.0 derivativespro.in
 0.0.0.0 destructionachievement.com
 0.0.0.0 dev.sebpo.net
+0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 dfzm.91756.cn
 0.0.0.0 dgecolesdepolice.bf
@@ -150,9 +145,7 @@
 0.0.0.0 dodsonimaging.com
 0.0.0.0 donmago.com
 0.0.0.0 doransky.info
-0.0.0.0 dosame.com
 0.0.0.0 down.ancamera.co.kr
-0.0.0.0 down.ci43.com
 0.0.0.0 down.haote.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.startools.co.kr
@@ -163,9 +156,7 @@
 0.0.0.0 download.1ys.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.exrnybuf.cn
-0.0.0.0 download.i-tax.cn
 0.0.0.0 download.kaobeitu.com
-0.0.0.0 download.loginserv.net
 0.0.0.0 download.moffice365.live
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.rising.com.cn
@@ -190,7 +181,6 @@
 0.0.0.0 ermekanik.com
 0.0.0.0 esolvent.pl
 0.0.0.0 esteteam.org
-0.0.0.0 evdekalpandemi.com
 0.0.0.0 ezfintechcorp.com
 0.0.0.0 fatherchildless.com
 0.0.0.0 fazi.pl
@@ -198,11 +188,12 @@
 0.0.0.0 files.fqapps.com
 0.0.0.0 files.rakbot.ru
 0.0.0.0 files6.uludagbilisim.com
+0.0.0.0 firebasecloudystemforfileexchangeonline.duckdns.org
+0.0.0.0 firstclasspostlimited.com
 0.0.0.0 fishingbigstore.com
+0.0.0.0 fitmanacademy.com
 0.0.0.0 fkd.derpcity.ru
-0.0.0.0 fotobooth.at
 0.0.0.0 frin.ng
-0.0.0.0 fstation.dynu.net
 0.0.0.0 fte.m.dodo52.com
 0.0.0.0 ftpftpftp.com
 0.0.0.0 full20gb.store
@@ -218,7 +209,7 @@
 0.0.0.0 gimscompany.com
 0.0.0.0 giuseppev.ug
 0.0.0.0 glitzygal.net
-0.0.0.0 go.xsuad.com
+0.0.0.0 gnimelf.net
 0.0.0.0 gothw.club
 0.0.0.0 grafchekloder.rebatesrule.net
 0.0.0.0 greenpalace.top
@@ -247,6 +238,7 @@
 0.0.0.0 hyadegari.ir
 0.0.0.0 ibda.adv.br
 0.0.0.0 ihpmed.ae
+0.0.0.0 ikaprama.org
 0.0.0.0 imobiliarianossacasamt.com.br
 0.0.0.0 impression-gobelet.com
 0.0.0.0 inapadvance.com
@@ -254,7 +246,6 @@
 0.0.0.0 incredicole.com
 0.0.0.0 inigbiseijfji.ru
 0.0.0.0 intersel-idf.org
-0.0.0.0 iremart.es
 0.0.0.0 isso.ps
 0.0.0.0 itd.m.dodo52.com
 0.0.0.0 jamiekaylive.com
@@ -267,6 +258,7 @@
 0.0.0.0 joule.kpi.ua
 0.0.0.0 jsq.m.dodo52.com
 0.0.0.0 jsya.co.kr
+0.0.0.0 jutvac.com
 0.0.0.0 jvalert.com
 0.0.0.0 k.ludong.tv
 0.0.0.0 kachsurf.mylftv.com
@@ -284,6 +276,7 @@
 0.0.0.0 koppemotta.com.br
 0.0.0.0 kuznetsov.ca
 0.0.0.0 kwanfromhongkong.com
+0.0.0.0 kyrosmaritime.com
 0.0.0.0 lameguard.ru
 0.0.0.0 lammaixep.com
 0.0.0.0 lcmsystem.com
@@ -292,12 +285,14 @@
 0.0.0.0 learningcomputing.org
 0.0.0.0 lebedyn.info
 0.0.0.0 lecafedesartistes.com
+0.0.0.0 lesiga.elaborando.co
 0.0.0.0 lhbfirst.com
 0.0.0.0 libya-info.com
 0.0.0.0 lineahandy.it
 0.0.0.0 lists.ibiblio.org
 0.0.0.0 lists.mplayerhq.hu
 0.0.0.0 livetrack.in
+0.0.0.0 liveways.pk
 0.0.0.0 lodergord.com
 0.0.0.0 log.yundabao.cn
 0.0.0.0 lq.frefou.ru
@@ -314,6 +309,7 @@
 0.0.0.0 marketinfosales.com
 0.0.0.0 marketprice.com.ng
 0.0.0.0 marksidfgs.ug
+0.0.0.0 mattayom31.go.th
 0.0.0.0 mazury4x4.pl
 0.0.0.0 mbgrm.com
 0.0.0.0 medianews.ge
@@ -362,7 +358,6 @@
 0.0.0.0 mteng.mmj7.com
 0.0.0.0 mtfelektroteknik.com
 0.0.0.0 mueblesjcp.cl
-0.0.0.0 mv360.net
 0.0.0.0 mvb.kz
 0.0.0.0 mxpiqw.am.files.1drv.com
 0.0.0.0 mynydd-ednyfed-countryhouse.co.uk
@@ -370,7 +365,6 @@
 0.0.0.0 myofficeplus.com
 0.0.0.0 mytrains.net
 0.0.0.0 mywp.asia
-0.0.0.0 nabudore.top
 0.0.0.0 namuvpn.com
 0.0.0.0 narty.laserteam.pl
 0.0.0.0 ndrs.cloud
@@ -403,7 +397,6 @@
 0.0.0.0 p2.lingpao8.com
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p500.mon-application.com
-0.0.0.0 p6.zbjimg.com
 0.0.0.0 palochusvet.szm.com
 0.0.0.0 partyflix.net
 0.0.0.0 pashupatiexports.com
@@ -423,15 +416,11 @@
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 probost.cz
 0.0.0.0 prosoc.nl
-0.0.0.0 prowin.co.th
 0.0.0.0 pujashoppe.in
 0.0.0.0 purelondonhyg.com
-0.0.0.0 qianjiangchao.com
-0.0.0.0 qif.ac.ke
 0.0.0.0 qmsled.com
 0.0.0.0 qppl.angiang.gov.vn
 0.0.0.0 quartier-midi.be
-0.0.0.0 r1.targobank.su
 0.0.0.0 rainbowisp.info
 0.0.0.0 rakbot.g3t.ru
 0.0.0.0 raymondjaon.ug
@@ -498,7 +487,7 @@
 0.0.0.0 symanreni.mysecondarydns.com
 0.0.0.0 szxypt.com
 0.0.0.0 t.honker.info
-0.0.0.0 tandenblekenhoofddorp.nl
+0.0.0.0 tattooartcreations.com
 0.0.0.0 taxpos.com
 0.0.0.0 tcy.198424.com
 0.0.0.0 tehrenberg.com
@@ -521,7 +510,6 @@
 0.0.0.0 tishreycarmelim.co.il
 0.0.0.0 tonydong.com
 0.0.0.0 tonyzone.com
-0.0.0.0 tool.icafeads.com
 0.0.0.0 totebarreto.com.br
 0.0.0.0 tribunal.ug
 0.0.0.0 tsd.jxwan.com
@@ -529,7 +517,6 @@
 0.0.0.0 tuneup.ibk.me
 0.0.0.0 tutuler.com
 0.0.0.0 uc-56.ru
-0.0.0.0 ucto-id.cz
 0.0.0.0 ugc.wegame.com.cn
 0.0.0.0 ukks.net
 0.0.0.0 ukronet.ru
@@ -545,7 +532,6 @@
 0.0.0.0 uskeba.ca
 0.0.0.0 usmadetshirts.com
 0.0.0.0 utdifguizdidiz.ru
-0.0.0.0 uujian.cn
 0.0.0.0 uytgvhdfsdxc.ug
 0.0.0.0 vadyur.github.io
 0.0.0.0 valedchap.ir
@@ -564,7 +550,6 @@
 0.0.0.0 welcometothefuture.com
 0.0.0.0 whgaty.com
 0.0.0.0 wiebe-sanitaer.de
-0.0.0.0 windcomtechnologies.com
 0.0.0.0 wmd9e.a3i1vvv.feteboc.com
 0.0.0.0 wood-expert.net
 0.0.0.0 woodsytech.com
@@ -574,7 +559,6 @@
 0.0.0.0 x2vn.com
 0.0.0.0 xantinas.com
 0.0.0.0 xfydy.top
-0.0.0.0 xiaoma-10021647.file.myqcloud.com
 0.0.0.0 xiheiufisd.su
 0.0.0.0 xtremeforumz.com
 0.0.0.0 xxwl.kuaiyunds.com
@@ -589,7 +573,6 @@
 0.0.0.0 zaragoza.co.ug
 0.0.0.0 zaragozsa.ug
 0.0.0.0 zd4b.lonlyfafner.ru
-0.0.0.0 zdy.17110.com
 0.0.0.0 zenkashow.com
 0.0.0.0 zeytinyagisabun.com
 0.0.0.0 zhetysu360.kz
