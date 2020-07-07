@@ -22,7 +22,7 @@ Import the following URL into uBO to subscribe (includes online and **offline** 
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter.txt
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter.txt
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter.txt
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter.txt
@@ -41,7 +41,7 @@ Lite version (**online** links only):
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-online.txt
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt
@@ -64,7 +64,7 @@ This blocklist includes domains and IP addresses.
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-domains.txt
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains.txt
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-domains.txt
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-domains.txt
@@ -82,7 +82,7 @@ Lite version (online domains/IPs only):
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-domains-online.txt
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-domains-online.txt
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-domains-online.txt
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-domains-online.txt
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-domains-online.txt
@@ -101,7 +101,7 @@ This blocklist includes domains only.
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-hosts.txt
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-hosts.txt
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-hosts.txt
@@ -119,7 +119,7 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-hosts-online.txt
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts-online.txt
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-hosts-online.txt
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-hosts-online.txt
@@ -152,7 +152,7 @@ printf "\nconf-file=/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf\n" >> /et
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-dnsmasq.conf
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-dnsmasq.conf
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-dnsmasq.conf
@@ -170,7 +170,7 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq-online.conf
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-dnsmasq-online.conf
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq-online.conf
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-dnsmasq-online.conf
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-dnsmasq-online.conf
@@ -221,7 +221,7 @@ Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-bind.conf
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-bind.conf
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-bind.conf
@@ -239,7 +239,7 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-bind-online.conf
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-bind-online.conf
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind-online.conf
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-bind-online.conf
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-bind-online.conf
@@ -272,7 +272,7 @@ printf '\n  include: "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' >> 
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound.conf
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-unbound.conf
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound.conf
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-unbound.conf
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-unbound.conf
@@ -290,7 +290,7 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
-- https://cdn.statically.io/gl/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound-online.conf
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-unbound-online.conf
 - https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound-online.conf
 - https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-unbound-online.conf
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-unbound-online.conf
