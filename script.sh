@@ -116,11 +116,20 @@ FIFTH_LINE="! License: https://creativecommons.org/publicdomain/zero/1.0/"
 SIXTH_LINE="! Source: https://urlhaus.abuse.ch/api/"
 COMMENT_ABP="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
 
-cat "malware-domains.txt" "malware-url-top-domains.txt" | \
+# Compatibility with Adguard Home (#19)
+cat "malware-domains.txt" | \
+sed "s/^/||/g" | \
+sed "s/$/^/g" > "malware-domains-adguard.txt"
+
+cat "malware-domains-online.txt" | \
+sed "s/^/||/g" | \
+sed "s/$/^/g" > "malware-domains-online-adguard.txt"
+
+cat "malware-domains-adguard.txt" "malware-url-top-domains.txt" | \
 sort | \
 sed '1 i\'"$COMMENT_ABP"'' > "../urlhaus-filter.txt"
 
-cat "malware-domains-online.txt" "malware-url-top-domains-online.txt" | \
+cat "malware-domains-online-adguard.txt" "malware-url-top-domains-online.txt" | \
 sort | \
 sed '1 i\'"$COMMENT_ABP"'' | \
 sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-online.txt"
