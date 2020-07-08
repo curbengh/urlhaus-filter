@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Tue, 07 Jul 2020 12:10:05 UTC
+# Updated: Wed, 08 Jul 2020 00:10:01 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -9,11 +9,12 @@
 0.0.0.0 3ypackaging.com
 0.0.0.0 42502d2a-e7ed-4a16-9f11-33ffe6c54021.usrfiles.com
 0.0.0.0 49parallel.ca
+0.0.0.0 4kyoutubedonwload.club
 0.0.0.0 7p22jz.chokun.ru
 0.0.0.0 7th-club.com
+0.0.0.0 87du.vip
 0.0.0.0 a-reality.co.uk
 0.0.0.0 abass.ir
-0.0.0.0 abzyv9.ddns.net
 0.0.0.0 accessyouraudience.com
 0.0.0.0 acteon.com.ar
 0.0.0.0 activecost.com.au
@@ -74,7 +75,6 @@
 0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cellas.sk
 0.0.0.0 cf.uuu9.com
-0.0.0.0 cf0.pw
 0.0.0.0 cfs5.tistory.com
 0.0.0.0 chanvribloc.com
 0.0.0.0 charm.bizfxr.com
@@ -90,9 +90,10 @@
 0.0.0.0 commaa.com
 0.0.0.0 complan.hu
 0.0.0.0 complanbt.hu
-0.0.0.0 computersblogfromus32.top
 0.0.0.0 comtechadsl.com
+0.0.0.0 config.cqhbkjzx.com
 0.0.0.0 config.kuaisousou.top
+0.0.0.0 config.wwmhdq.com
 0.0.0.0 cqjcc.org
 0.0.0.0 crc2k18.mooo.com
 0.0.0.0 crisalic.fr
@@ -104,6 +105,7 @@
 0.0.0.0 czsl.91756.cn
 0.0.0.0 d2brey8g9iu52b.cloudfront.net
 0.0.0.0 d3.99ddd.com
+0.0.0.0 d9.99ddd.com
 0.0.0.0 da.alibuf.com
 0.0.0.0 danielbastos.com
 0.0.0.0 darco.pk
@@ -145,7 +147,9 @@
 0.0.0.0 dodsonimaging.com
 0.0.0.0 donmago.com
 0.0.0.0 doransky.info
+0.0.0.0 dosame.com
 0.0.0.0 down.ancamera.co.kr
+0.0.0.0 down.ci43.com
 0.0.0.0 down.haote.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.startools.co.kr
@@ -172,7 +176,6 @@
 0.0.0.0 dzinestudio87.co.uk
 0.0.0.0 e.dangeana.com
 0.0.0.0 edicolanazionale.it
-0.0.0.0 elokshinproperty.co.za
 0.0.0.0 emadamini.co.za
 0.0.0.0 enc-tech.com
 0.0.0.0 energisegroup.com
@@ -181,15 +184,13 @@
 0.0.0.0 ermekanik.com
 0.0.0.0 esolvent.pl
 0.0.0.0 esteteam.org
+0.0.0.0 excelofficeonline.com
 0.0.0.0 ezfintechcorp.com
 0.0.0.0 fatherchildless.com
 0.0.0.0 fazi.pl
 0.0.0.0 fidiag.kymco.com
-0.0.0.0 files.fqapps.com
 0.0.0.0 files.rakbot.ru
 0.0.0.0 files6.uludagbilisim.com
-0.0.0.0 firebasecloudystemforfileexchangeonline.duckdns.org
-0.0.0.0 firstclasspostlimited.com
 0.0.0.0 fishingbigstore.com
 0.0.0.0 fitmanacademy.com
 0.0.0.0 fkd.derpcity.ru
@@ -226,6 +227,7 @@
 0.0.0.0 hingcheong.hk
 0.0.0.0 hldschool.com
 0.0.0.0 hmbwgroup.com
+0.0.0.0 hmpmall.co.kr
 0.0.0.0 hoayeuthuong-my.sharepoint.com
 0.0.0.0 hostzaa.com
 0.0.0.0 hotart.co.nz
@@ -271,7 +273,6 @@
 0.0.0.0 kejpa.com
 0.0.0.0 kjbm9.mof.gov.cn
 0.0.0.0 kjcpromo.com
-0.0.0.0 kleinendeli.co.za
 0.0.0.0 knightsbridgeenergy.com.ng
 0.0.0.0 koppemotta.com.br
 0.0.0.0 kuznetsov.ca
@@ -285,7 +286,6 @@
 0.0.0.0 learningcomputing.org
 0.0.0.0 lebedyn.info
 0.0.0.0 lecafedesartistes.com
-0.0.0.0 lesiga.elaborando.co
 0.0.0.0 lhbfirst.com
 0.0.0.0 libya-info.com
 0.0.0.0 lineahandy.it
@@ -309,7 +309,6 @@
 0.0.0.0 marketinfosales.com
 0.0.0.0 marketprice.com.ng
 0.0.0.0 marksidfgs.ug
-0.0.0.0 mattayom31.go.th
 0.0.0.0 mazury4x4.pl
 0.0.0.0 mbgrm.com
 0.0.0.0 medianews.ge
@@ -330,16 +329,6 @@
 0.0.0.0 mhkdhotbot80.myvnc.com
 0.0.0.0 micahproducts.com
 0.0.0.0 micalle.com.au
-0.0.0.0 microsoft-cloud1.co.za
-0.0.0.0 microsoft-cloud10.co.za
-0.0.0.0 microsoft-cloud11.co.za
-0.0.0.0 microsoft-cloud12.co.za
-0.0.0.0 microsoft-cloud13.co.za
-0.0.0.0 microsoft-cloud14.co.za
-0.0.0.0 microsoft-cloud15.co.za
-0.0.0.0 microsoft-cloud7.co.za
-0.0.0.0 microsoft-cloud8.co.za
-0.0.0.0 microsoft-cloud9.co.za
 0.0.0.0 mikrokaynakmerkezi.com
 0.0.0.0 minijuss.sslblindado.com
 0.0.0.0 mirror.mypage.sk
@@ -358,6 +347,7 @@
 0.0.0.0 mteng.mmj7.com
 0.0.0.0 mtfelektroteknik.com
 0.0.0.0 mueblesjcp.cl
+0.0.0.0 mv360.net
 0.0.0.0 mvb.kz
 0.0.0.0 mxpiqw.am.files.1drv.com
 0.0.0.0 mynydd-ednyfed-countryhouse.co.uk
@@ -375,6 +365,7 @@
 0.0.0.0 newsun-shop.com
 0.0.0.0 ngoaingu.garage.com.vn
 0.0.0.0 nofound.000webhostapp.com
+0.0.0.0 nolala5stdyhousingdeveloperingovernvbn.duckdns.org
 0.0.0.0 norperuinge.com.pe
 0.0.0.0 nprg.ru
 0.0.0.0 nwcsvcs.com
@@ -418,6 +409,9 @@
 0.0.0.0 prosoc.nl
 0.0.0.0 pujashoppe.in
 0.0.0.0 purelondonhyg.com
+0.0.0.0 pushing.pk
+0.0.0.0 qianjiangchao.com
+0.0.0.0 qif.ac.ke
 0.0.0.0 qmsled.com
 0.0.0.0 qppl.angiang.gov.vn
 0.0.0.0 quartier-midi.be
@@ -487,6 +481,7 @@
 0.0.0.0 symanreni.mysecondarydns.com
 0.0.0.0 szxypt.com
 0.0.0.0 t.honker.info
+0.0.0.0 tandenblekenhoofddorp.nl
 0.0.0.0 tattooartcreations.com
 0.0.0.0 taxpos.com
 0.0.0.0 tcy.198424.com
@@ -499,6 +494,7 @@
 0.0.0.0 thaisell.com
 0.0.0.0 tharringtonsponsorship.com
 0.0.0.0 thc-annex.com
+0.0.0.0 theclinicabarros.com
 0.0.0.0 theprestige.ro
 0.0.0.0 theptiendat.com
 0.0.0.0 therecruiter.io
@@ -531,12 +527,12 @@
 0.0.0.0 users.skynet.be
 0.0.0.0 uskeba.ca
 0.0.0.0 usmadetshirts.com
-0.0.0.0 utdifguizdidiz.ru
 0.0.0.0 uytgvhdfsdxc.ug
 0.0.0.0 vadyur.github.io
 0.0.0.0 valedchap.ir
 0.0.0.0 valencaagora.com.br
 0.0.0.0 vaziri.echobit.ir
+0.0.0.0 veyron.ir
 0.0.0.0 vfocus.net
 0.0.0.0 videoswebcammsn.free.fr
 0.0.0.0 vigilar.com.br
@@ -550,6 +546,7 @@
 0.0.0.0 welcometothefuture.com
 0.0.0.0 whgaty.com
 0.0.0.0 wiebe-sanitaer.de
+0.0.0.0 windcomtechnologies.com
 0.0.0.0 wmd9e.a3i1vvv.feteboc.com
 0.0.0.0 wood-expert.net
 0.0.0.0 woodsytech.com
@@ -559,6 +556,7 @@
 0.0.0.0 x2vn.com
 0.0.0.0 xantinas.com
 0.0.0.0 xfydy.top
+0.0.0.0 xiaoma-10021647.file.myqcloud.com
 0.0.0.0 xiheiufisd.su
 0.0.0.0 xtremeforumz.com
 0.0.0.0 xxwl.kuaiyunds.com
@@ -573,6 +571,7 @@
 0.0.0.0 zaragoza.co.ug
 0.0.0.0 zaragozsa.ug
 0.0.0.0 zd4b.lonlyfafner.ru
+0.0.0.0 zdy.17110.com
 0.0.0.0 zenkashow.com
 0.0.0.0 zeytinyagisabun.com
 0.0.0.0 zhetysu360.kz

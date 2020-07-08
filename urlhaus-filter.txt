@@ -1,5 +1,5 @@
 ! Title: Malicious URL Blocklist
-! Updated: Tue, 07 Jul 2020 12:10:05 UTC
+! Updated: Wed, 08 Jul 2020 00:10:01 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -15,6 +15,7 @@
 00399a4.netsolhost.com
 00filesbox.rookmin.com
 00otg18ixk6o8kows.com
+01.actualself.info
 01.azrj-phone.zuliyego.cn
 01.losbuhosweb.com.mx
 01.ur.cmhaoso.top
@@ -2045,6 +2046,7 @@
 108.174.200.245
 108.177.235.71
 108.185.253.146
+108.188.249.126
 108.190.193.1
 108.190.31.236
 108.21.209.33
@@ -2065,6 +2067,7 @@
 108.61.161.198
 108.61.169.63
 108.61.173.86
+108.61.181.158
 108.61.214.253
 108.61.215.176
 108.61.215.192
@@ -4242,6 +4245,7 @@
 114.229.118.154
 114.229.139.76
 114.229.150.14
+114.229.165.72
 114.229.18.192
 114.229.18.229
 114.229.184.89
@@ -5073,6 +5077,8 @@
 115.201.40.156
 115.201.44.63
 115.201.45.172
+115.201.52.141
+115.201.53.105
 115.201.58.137
 115.202.210.228
 115.202.64.141
@@ -6755,6 +6761,7 @@
 116.17.199.86
 116.177.176.155
 116.177.176.206
+116.177.176.7
 116.177.177.127
 116.177.177.163
 116.177.177.2
@@ -8019,6 +8026,7 @@
 117.95.228.86
 117.95.230.135
 117.95.231.99
+117.95.233.139
 117.95.233.75
 117.95.234.109
 117.95.234.99
@@ -8406,6 +8414,7 @@
 120.50.27.174
 120.52.120.11
 120.52.33.2
+120.53.238.96
 120.55.76.1
 120.68.140.2
 120.68.140.251
@@ -10904,6 +10913,7 @@
 124.67.89.74
 124.67.89.76
 124.67.89.80
+124.79.67.203
 124.80.38.9
 124.81.239.179
 124.89.174.123
@@ -12187,6 +12197,7 @@
 138.197.129.68
 138.197.131.174
 138.197.131.39
+138.197.132.112
 138.197.133.178
 138.197.136.151
 138.197.137.95
@@ -13067,6 +13078,7 @@
 142.93.63.144
 142.93.64.50
 142.93.65.143
+142.93.66.105
 142.93.67.223
 142.93.67.27
 142.93.68.129
@@ -13119,6 +13131,7 @@
 144.202.69.45
 144.202.8.114
 144.202.97.69
+144.208.127.227
 144.217.0.194
 144.217.117.146
 144.217.12.66
@@ -16163,6 +16176,7 @@
 172.36.24.86
 172.36.24.88
 172.36.24.96
+172.36.24.98
 172.36.25.110
 172.36.25.121
 172.36.25.134
@@ -16506,6 +16520,7 @@
 172.36.44.174
 172.36.44.179
 172.36.44.188
+172.36.44.19
 172.36.44.197
 172.36.44.214
 172.36.44.223
@@ -16841,6 +16856,7 @@
 172.36.62.74
 172.36.62.90
 172.36.62.97
+172.36.63.107
 172.36.63.144
 172.36.63.150
 172.36.63.172
@@ -17433,6 +17449,7 @@
 172.39.71.240
 172.39.71.63
 172.39.71.72
+172.39.72.111
 172.39.72.121
 172.39.72.131
 172.39.72.142
@@ -17479,6 +17496,7 @@
 172.39.77.217
 172.39.77.48
 172.39.77.65
+172.39.77.82
 172.39.78.211
 172.39.78.250
 172.39.78.45
@@ -17669,6 +17687,7 @@
 172.45.14.96
 172.45.15.132
 172.45.15.219
+172.45.15.251
 172.45.15.78
 172.45.15.86
 172.45.16.122
@@ -17918,6 +17937,7 @@
 173.234.27.110
 173.234.31.214
 173.234.31.216
+173.235.178.79
 173.235.209.70
 173.242.115.86
 173.242.118.150
@@ -18484,6 +18504,7 @@
 176.119.28.206
 176.119.28.22
 176.119.29.70
+176.119.30.28
 176.119.70.22
 176.12.117.70
 176.120.189.131
@@ -19695,6 +19716,7 @@
 180.104.13.50
 180.104.13.56
 180.104.165.118
+180.104.167.120
 180.104.172.199
 180.104.173.135
 180.104.173.64
@@ -21137,6 +21159,7 @@
 182.117.77.36
 182.117.77.57
 182.117.79.115
+182.117.8.179
 182.117.8.244
 182.117.81.133
 182.117.81.2
@@ -22206,6 +22229,7 @@
 183.130.28.42
 183.130.5.41
 183.130.63.13
+183.130.7.107
 183.130.71.167
 183.130.77.16
 183.130.77.202
@@ -23567,6 +23591,7 @@
 185.97.121.142
 185.98.87.185
 185.99.133.132
+185.99.2.83
 185.99.215.199
 185.99.254.29
 186.10.196.40
@@ -24871,6 +24896,7 @@
 192.236.179.20
 192.236.192.114
 192.236.192.71
+192.236.193.174
 192.236.193.3
 192.236.193.8
 192.236.194.123
@@ -26339,6 +26365,7 @@
 2.56.8.132
 2.56.8.146
 2.56.8.16
+2.57.121.109
 2.57.254.93
 2.59.42.63
 2.82.200.218
@@ -27592,6 +27619,7 @@
 211.199.153.194
 211.20.204.164
 211.204.165.173
+211.21.191.244
 211.21.205.207
 211.21.65.118
 211.216.116.40
@@ -28882,6 +28910,7 @@
 220.121.247.193
 220.121.46.38
 220.122.180.53
+220.122.56.48
 220.124.169.201
 220.124.192.178
 220.124.192.203
@@ -31202,6 +31231,7 @@
 27.41.132.150
 27.41.132.229
 27.41.133.177
+27.41.133.2
 27.41.133.38
 27.41.134.120
 27.41.134.131
@@ -31436,6 +31466,7 @@
 27.54.168.101
 27.54.223.197
 27.64.0.84
+27.64.141.19
 27.64.176.122
 27.64.186.88
 27.64.189.179
@@ -31847,6 +31878,7 @@
 31.211.138.227
 31.211.139.177
 31.211.140.140
+31.211.144.10
 31.211.148.144
 31.211.152.50
 31.211.155.88
@@ -35646,6 +35678,7 @@
 45.14.224.124
 45.14.224.126
 45.14.224.128
+45.14.224.152
 45.14.224.164
 45.14.224.166
 45.14.224.169
@@ -36356,6 +36389,7 @@
 46.101.123.17
 46.101.125.237
 46.101.128.74
+46.101.131.239
 46.101.134.199
 46.101.135.146
 46.101.137.203
@@ -36719,6 +36753,7 @@
 46.29.165.182
 46.29.165.212
 46.29.165.33
+46.29.165.89
 46.29.166.105
 46.29.166.106
 46.29.166.125
@@ -36781,7 +36816,9 @@
 46.39.255.148
 46.39.31.199
 46.4.141.222
+46.4.152.178
 46.4.157.37
+46.4.203.174
 46.4.217.170
 46.4.92.153
 46.40.127.51
@@ -37099,6 +37136,7 @@
 49.116.214.13
 49.116.214.150
 49.116.214.160
+49.116.214.184
 49.116.214.186
 49.116.214.204
 49.116.214.219
@@ -38372,6 +38410,7 @@
 5.206.226.18
 5.206.226.41
 5.206.227.100
+5.206.227.122
 5.206.227.139
 5.206.227.18
 5.206.227.228
@@ -38632,6 +38671,7 @@
 5059365.com
 5072610.ru
 50ladestreet.com.au
+50pm4.com
 50whatnow.com
 51-iblog.com
 51.144.240.219
@@ -39303,6 +39343,7 @@
 588365.net
 58hukou.com
 58oncron.co.nz
+58tiy.com
 58zwp.com
 59.0.105.231
 59.0.212.36
@@ -39352,6 +39393,7 @@
 59.126.218.79
 59.126.220.144
 59.126.221.130
+59.126.221.72
 59.126.242.193
 59.126.245.37
 59.126.30.69
@@ -40032,6 +40074,7 @@
 60.248.89.69
 60.249.90.220
 60.250.1.161
+60.250.203.27
 60.250.231.73
 60.250.242.72
 60.250.97.86
@@ -41010,6 +41053,7 @@
 62.108.34.115
 62.108.34.17
 62.108.34.89
+62.108.35.26
 62.109.17.211
 62.109.18.109
 62.109.5.164
@@ -41024,6 +41068,7 @@
 62.133.171.21
 62.140.224.186
 62.141.55.98
+62.141.73.58
 62.16.34.121
 62.16.34.84
 62.16.36.130
@@ -41535,6 +41580,7 @@
 68.129.32.96
 68.134.186.196
 68.168.123.84
+68.168.213.252
 68.170.93.182
 68.174.119.7
 68.179.130.161
@@ -43561,6 +43607,7 @@
 85.204.116.203
 85.204.116.216
 85.204.116.25
+85.204.116.74
 85.204.124.0
 85.204.213.190
 85.204.214.122
@@ -43766,6 +43813,7 @@
 88.102.33.14
 88.107.84.54
 88.107.92.137
+88.119.174.222
 88.119.174.230
 88.119.174.241
 88.119.208.238
@@ -43796,6 +43844,7 @@
 88.214.17.91
 88.214.56.235
 88.214.58.26
+88.214.59.237
 88.215.133.136
 88.218.16.118
 88.218.16.27
@@ -44256,6 +44305,7 @@
 91.196.149.73
 91.196.36.84
 91.198.220.215
+91.198.220.225
 91.200.100.136
 91.200.100.169
 91.200.100.180
@@ -44929,6 +44979,7 @@
 95.216.22.108
 95.217.10.22
 95.217.147.3
+95.217.185.46
 95.217.187.75
 95.217.190.53
 95.217.49.251
@@ -45190,6 +45241,7 @@
 9a3so.com
 9ab84f43-a-62cb3a1a-s-sites.googlegroups.com
 9adhity.com
+9bgnq.com
 9casino.net
 9coderz.com
 9confederatex.ml
@@ -57308,6 +57360,7 @@ catscream.wpiex.uno
 catsformacion.com
 catslovingcats.com
 cattea.cl
+cattelenitalia.icu
 cattledeal.com
 cattleyadessert.online
 cattuongled.com.vn
@@ -60519,6 +60572,7 @@ covertropes.com
 covid-19duyurularim.com
 covid-saglikbakanligi.com
 covid19-bedavainternet.com
+covid19-pandemidesteklerimiztrweb.com
 covid19map.digital
 covid19quarantin.com
 covidbase.info
@@ -61493,6 +61547,7 @@ d70273bq.beget.tech
 d74yhvickie.band
 d792jssk19usnskdxnsw.com
 d7fb2016c880ffd5.xyz
+d7uap.com
 d8.driver.160.com
 d890342p.beget.tech
 d8m.com.au
@@ -68744,6 +68799,7 @@ excellenceintegration.com
 excellentceramic.com.bd
 excellers.org
 excellumax.co.za
+excelofficeonline.com
 excelparts.com.pk
 excelroofing.avyatech.com
 excelsiorconstructionltd.co.uk
@@ -69148,6 +69204,7 @@ fairfaxtowingandrecovery.com
 fairfieldbizcenter.com
 fairfundskenya.com
 fairtexs.ru
+fairtradegs.com
 fairviewcemetery.org
 fairyandbeauty.com
 fairyhomecare.com
@@ -72212,7 +72269,6 @@ gatewaycentrechurch.org
 gatewayhealth.com.ng
 gatewaylogsitics.com
 gatewaymontessori.edu.gh
-gatewaynews.co.za
 gatineauremorquage.com
 gatorblinds.info
 gatorusa.com
@@ -73375,6 +73431,7 @@ godleyfamilyfoundation.org
 godloveorphanageandngo.com
 gododu.com
 godrej-nurture.site
+godrejsalon-i.in
 godrive.bluebird.pk
 godrivedrop.com
 godsavethecreamdenver.com
@@ -74978,7 +75035,6 @@ handbookforfairygodmothers.com
 handbuiltapps.com
 handcraftedhardwoodfurniture.com
 handehoser.av.tr
-handehotel.com
 handelgirona.cat
 handelintl.com
 handelpand.nl
@@ -78788,7 +78844,6 @@ inovatplus.com
 inovavital.com.br
 inovebras.com
 inovecomunic.com.br
-inoveterceirizacao.com.br
 inovini.com.br
 inovocor.com
 inovscope.pt
@@ -79522,7 +79577,6 @@ irvingbestlocksmith.com
 irwaffle.ir
 iryna.biz
 is-hp.com
-is.net.sa
 is4340.azurewebsites.net
 is45wdsed4455sdfsf.duckdns.org
 isaac.samjoemmy.com
@@ -90185,6 +90239,7 @@ mif.zu.edu.jo
 miff.in
 mifida-myanmar.com
 mifinanciera.info
+mifleshlight.com
 mifreightbd.com
 might.c0.pl
 migoascoran.com
@@ -94244,6 +94299,7 @@ noahwindmill.com
 noakhaliit.com
 noaprojekt.pl
 noass.se
+noavaranedanesh.ir
 noavaranmes.ir
 noazulconsultoria.com.br
 nobelco.ir
@@ -94320,6 +94376,7 @@ nokd.top
 nokia-n900.com
 nokiahuyviyphone.com
 nolaelectric.com
+nolala5stdyhousingdeveloperingovernvbn.duckdns.org
 nolasite.com
 nolife.antonov.ooo
 nolimit.no
@@ -95907,7 +95964,6 @@ opss.info
 opt.minsa.gob.pa
 opt2cloud.com
 opta.net.ua
-opti.co.jp
 optiart.com.br
 optica.co.in
 opticaduran.com
@@ -96523,6 +96579,7 @@ p5p5.cn
 p6.k1ristri.ru
 p6e.regardisperfectshild.ru
 p77.f0.n0.cdn.getcloudapp.com
+p7hne.com
 p9.zdusercontent.com
 p96144qv.bget.ru
 pa-rti.shop
@@ -97015,6 +97072,7 @@ partnership4health.com
 partnersoft.media
 partonobrasil.com.br
 partostudio.ir
+parts.avtosprava.com
 partsmaxus.com
 partstuner.com
 parttimepazarlama.com
@@ -97271,6 +97329,7 @@ pc-troubleshooter.de
 pc.8686dy.com
 pc.onfinders.com
 pc.remote0611.xyz
+pc.shindiristudio.com
 pc.xzstatic.com
 pc6.down.123ch.cn
 pcayahage.com
@@ -98533,6 +98592,7 @@ plum.joburg
 plumbersexpert.us
 plumbersinchristchurch.co.uk
 plumberspro.us
+plumberwarsawindiana.club
 plumbingheating.mkmbs.co.uk
 plumbingnorthampton.uk
 plumeriaapartments.com
@@ -100256,6 +100316,7 @@ pusatacchp.com
 pusatbengkellas.com
 pusatnaturaworld.com
 pusatonline88.com
+pushing.pk
 pushkino-motors.ru
 pushkinplaza.by
 pushmail.presto-solutions.com
@@ -101635,6 +101696,7 @@ rayatech.ir
 rayaxiaomi.com
 raybansunglasses2018.net
 raybo.net
+rayhanad.com
 rayhickeyjr.com
 rayhom.com
 raymieszoo.com
@@ -103492,6 +103554,7 @@ rubind.files.wordpress.com
 rubirosaoficial.com
 rubisanmarino.org
 rubiz.smartsho.ir
+rublemine.com
 rublinetech.com
 rubricontrol.com
 rubthemoneybear.xyz
@@ -106861,6 +106924,7 @@ sikhyatra.com.pk
 sikorskyleze.com
 sikoruiz.es
 sila86.ru
+silalang.go.th
 silantaplace.com
 silantavillage.com
 silaracks.com.mx
@@ -107947,6 +108011,7 @@ socialogoly.co.uk.cjllcmonthlysub.ga
 socialpostmanager.com
 socialpoweredrouter.com
 socialshaktinews.in
+socialtutors.ru
 socialwifi.rs
 socialworkacademy.in
 socialworksummit4africa.org
@@ -109440,6 +109505,7 @@ std-products.com
 std120.ru
 stdy2antipiracydetectorganisationforfilm.duckdns.org
 stdy3frndgreencreamcostmeticsbabystored.duckdns.org
+stdychinese2onlyywalkaloneinlifea7fds.duckdns.org
 stdykungeduationaldeveloper15investmenqg.duckdns.org
 steadyrestmanufacturers.com
 steakhouse.com.ua
@@ -113604,6 +113670,7 @@ thuyluckhinen.com.vn
 thuysankv1.com
 thuysinhlongthanh.com
 thuytienacademy.com
+thyamasr.com
 thymedentalcare.com
 thyroidnutritioneducators.com
 thyrsi.com
@@ -113883,6 +113950,7 @@ tk-pikpg.sch.id
 tk-spectrans.ru
 tkalniaobrazu.pl
 tkaystore.com
+tkb.com.tw
 tkbc.co.za
 tkbhaktimulya.web.id
 tkconcept.vn
@@ -115069,7 +115137,6 @@ trujilloremodelingservicesinc.com
 trulight.io
 trullsrodshop.com
 trulyhelpful.love
-trulykomal.com
 trumbullcsb.org
 trumpfalls.com
 trumplegal.com
@@ -117313,6 +117380,7 @@ vexacom.com
 vexanet.ddns.net
 vexhockey.com
 veyettegroup.com
+veyron.ir
 vezem.dp.ua
 vezeronu.com
 vezhyrmd.com
@@ -117623,6 +117691,7 @@ vinalpapel.com
 vinarycard.com
 vinaschool.com.vn
 vinastone.com
+vinastory.vn
 vinatuoi.com
 vinay29.000webhostapp.com
 vinaykhatri.in
@@ -119500,6 +119569,7 @@ williamenterprisetrading.com
 williamhartley.co.uk
 williamlaneco.com
 williams.gb.net
+williamsburgpaintingservice.com
 williamsonteas.com
 williamsriverholidaypark.com
 williamssminexroad.cf
@@ -122694,6 +122764,7 @@ zzz78.tk
 ||1point2.com.au/wp-https/lk.exe$all
 ||1point2.com.au/wp-https/mo.exe$all
 ||1point2.com.au/wp-https/vc.exe$all
+||2.indexsinas.me:811/86.exe$all
 ||2.indexsinas.me:811/c64.exe$all
 ||201708.mediafire.com/file/5qifmx5n3y8fm76/RufusPortable_2.14.1086_azo.exe$all
 ||205.185.120.241/MasakiBins/uchttpd.arm$all
@@ -124070,6 +124141,8 @@ zzz78.tk
 ||cdn.discordapp.com/attachments/725360947778027611/728175284674887700/New_Order.iso$all
 ||cdn.discordapp.com/attachments/728406337159037052/728409747258343484/AWB_77658697354686687942635489315578925325634793345DHL.pdf.gz$all
 ||cdn.discordapp.com/attachments/729483710017044493/729483751209304144/AWB_77658697354686687942635489315578925325634793345DHL.pdf.gz$all
+||cdn.discordapp.com/attachments/729992470728802357/729992533098233906/DHL_Shipment_Notification_Order_HK2007-0029_SCAN_DOC.gz$all
+||cdn.discordapp.com/attachments/730032300972179481/730032495780954203/RF_DHL_Order_9610771287784911036_scan_DOC.gz$all
 ||cdn.fbsbx.com/v/t59.2708-21/30831868_2001421493263570_988122346738941952_n.zip/71I49N1JH7GG.zip?oh=81f42de9d61696c78f429719277283cc&oe=5AE24EE8&dl=1$all
 ||cdn.fbsbx.com/v/t59.2708-21/30831923_2004391716299881_1152363085843922944_n.zip/DOC_26-04.zip?oh=3e9b2b1fee016b3085dce0d2d5d106ae&oe=5AE4BDFE&dl=1$all
 ||cdn.fbsbx.com/v/t59.2708-21/30832004_2009715392434180_358250944510558208_n.zip/Doc_APP-30-04.zip?_nc_cat=0&oh=5b175c1d3b66927fd292f8a5b479e9c2&oe=5AEA15E4&dl=1$all
@@ -124241,6 +124314,7 @@ zzz78.tk
 ||coberturasgenerales.pe/wp-content/uploads/2020/04/docs_2hj/Buy-Sell%20Agreement_0476691_04242020.zip$all
 ||coberturasgenerales.pe/wp-content/uploads/2020/04/docs_2hj/Buy-Sell%20Agreement_0604_04242020.zip$all
 ||coberturasgenerales.pe/wp-content/uploads/2020/04/docs_2hj/Buy-Sell%20Agreement_28248893_04242020.zip$all
+||cobrancas2020.s3.us-east-2.amazonaws.com/Ekoquimica_cobranca.zip$all
 ||codeload.github.com/MeteorAdminz/hidden-tear/zip/master$all
 ||codeload.github.com/administrativox/FT-BL-NOVEMBROIT/zip/master$all
 ||codeload.github.com/chama1020/30032020/zip/master$all
@@ -138307,8 +138381,6 @@ zzz78.tk
 ||fadu.edu.uy/eduper/inscripciones/archivos/xFNqg-xbeQOB00Wb02DE_laUPxWDN-wz/$all
 ||fago.vn/hoqizkwj4d/673440211_uDU96A9_Aq6cL_VpJcPBGvdxQ/verified_NkJHRLNBSZ_phTZwGoTREu/f2szzee7jh_0885ww2vy02x2/$all
 ||fairlinktrading.com/images/flt.pdf$all
-||fairtradegs.com/recommends/RNUTwehn/$all
-||fairtradegs.com/recommends/available_sector/86002854849_uTaR8k9H_cloud/1L7CttpkXHfp_91g24uzswG/$all
 ||fairytalestorybook.weebly.com/uploads/1/0/2/8/102827364/%E7%8B%80%E6%85%8B%E5%9C%96.exe$all
 ||faithmethodistcheras.org/wp-admin/vttrtc-133-57930/$all
 ||fakeindustries.org/xhgjr/23174979/NBSA_23174979_28052020.zip$all
@@ -138609,6 +138681,7 @@ zzz78.tk
 ||galyonkin.com/wp-content/themes/ink/inc/meta/pikz.zip$all
 ||gamairconditioning.com.au/wp-thennes/444444.png$all
 ||gameaze.com/wp-content/themes/wp_data.php$all
+||gatewaynews.co.za/Nov2018/DE/RECH/Rechnung-LQ-34-96125$all
 ||gather-cloud.s3.amazonaws.com/attachments/2018-06-21/01d2ae65-081e-42a3-b100-20b81c7e28fb/Request.doc$all
 ||gather-cloud.s3.amazonaws.com/attachments/2018-06-28/a1b87906-933b-43b7-a97b-f088cee64c69/INV-890272.doc$all
 ||gather-cloud.s3.amazonaws.com/attachments/2018-07-12/05dd969a-ef8b-48a4-b523-c9af114be1a4/INV-602030.doc$all
@@ -138734,7 +138807,6 @@ zzz78.tk
 ||go.xsuad.com/2019-06-12_com.jjgege.camera3_2.apk$all
 ||god-panel.xyz/wp-content/plugins/apikey/jrzan/R/NsEK5htDe.zip$all
 ||god-panel.xyz/wp-content/plugins/apikey/jrzan/U/4MQ7fJU6x.zip$all
-||godrejsalon-i.in/wp-content/logs/FILE/lRaYcIFhANdNbTKyRvKryJTOhVhc/$all
 ||goguma.xyz/wp-content/uploads/2020/05/xilzrfara/AJ4hn4f0Om.zip$all
 ||goguma.xyz/wp-content/uploads/2020/05/xilzrfara/KJ/iN/94MZIEdt.zip$all
 ||goguma.xyz/wp-content/uploads/2020/05/xilzrfara/gj/QJ/9fcPXbrD.zip$all
@@ -138842,6 +138914,9 @@ zzz78.tk
 ||handballrek.com/wp-content/uploads/2020/05/tipvbwbms/ServiceContractAgreement_7059_04302020.zip$all
 ||handballrek.com/wp-content/uploads/2020/05/tipvbwbms/ServiceContractAgreement_7844_04302020.zip$all
 ||handballrek.com/wp-content/uploads/2020/05/tipvbwbms/ServiceContractAgreement_9838_04302020.zip$all
+||handehotel.com/wp-content/uploads/2020/05/tbgtznq/3035875/LoanAgreement_3035875_05132020.zip$all
+||handehotel.com/wp-content/uploads/2020/05/tbgtznq/3582744/LoanAgreement_3582744_05132020.zip$all
+||handehotel.com/wp-content/uploads/2020/05/tbgtznq/LoanAgreement_598895853_05132020.zip$all
 ||harbourpacific.com/nvapr/IKBvnIpO3S.zip$all
 ||harbourpacific.com/nvapr/My/HQ/yuLqzqst.zip$all
 ||harbourpacific.com/nvapr/O/E8L4gWD6D.zip$all
@@ -139099,6 +139174,9 @@ zzz78.tk
 ||inkatubos.com/wp-content/uploads/2020/05/jkjtsd/75344/LoanAgreement_75344_05132020.zip$all
 ||innews.gr/wp-content/themes/remould/inc/custom-menus-icon/stroi-industr.zip$all
 ||innews.gr/wp-content/themes/remould/inc/custom-menus-icon/tehnikol.zip$all
+||inoveterceirizacao.com.br/wp-content/plugins/apikey/wtjclebbxqz/6368/NERQ_6368_02062020.zip$all
+||inoveterceirizacao.com.br/wp-content/plugins/apikey/wtjclebbxqz/NERQ_22081247_02062020.zip$all
+||inoveterceirizacao.com.br/wp-content/plugins/apikey/wtjclebbxqz/NERQ_8498_02062020.zip$all
 ||inpolitics.ro/66e$all
 ||interarma.pl/wp-thennes/444444.png$all
 ||interbus.cz/templates/jsn_dome_free/js/payments/2c.jpg$all
@@ -139128,6 +139206,12 @@ zzz78.tk
 ||is.gd/ok8rd03e$all
 ||is.gd/our94uej$all
 ||is.gd/owDlk0$all
+||is.net.sa/wp-admin/sfuqjlw/6ZVm4ab0Nk.zip$all
+||is.net.sa/wp-admin/sfuqjlw/Ov/8K/5Bcatso4.zip$all
+||is.net.sa/wp-admin/sfuqjlw/fj1IqR6zQr.zip$all
+||is.net.sa/wp-admin/sfuqjlw/kc/pz/K1dTVDRx.zip$all
+||is.net.sa/wp-admin/sfuqjlw/mtt5xg6oyJ.zip$all
+||is.net.sa/wp-admin/sfuqjlw/s/HVfCtTgvY.zip$all
 ||isolation-a1-euro.fr/wp-content/uploads/tools/444444.png$all
 ||isowrd-co.weebly.com/uploads/5/7/1/6/57163811/full_patch.exe$all
 ||istlain.com/userfiles/Setup.zip$all
@@ -140003,7 +140087,6 @@ zzz78.tk
 ||nmal.info/ntsphsl/Buy-Sell_Agreement_0573515_04272020.zip$all
 ||nmal.info/ntsphsl/Buy-Sell_Agreement_726528_04272020.zip$all
 ||no2politics.com/files/US_us/DOC/Invoice-069345/$all
-||noavaranedanesh.ir/dir/esp/1vw3co8peh/$all
 ||nofile.io/f/ED4pTB5VkUd/purchase+order.zip$all
 ||noithatmocthinhphat.com/wp-content/uploads/2020/05/jsaftdqf/Kaufvertrag_34800_20052020.zip$all
 ||nokriwala.com/qotrqohshmjn/C/9hYnufl2t.zip$all
@@ -141413,6 +141496,7 @@ zzz78.tk
 ||ookul.org/wp-content/uploads/2020/05/tohwlkejpdfe/286944/ServiceContractAgreement_286944_05012020.zip$all
 ||ookul.org/wp-content/uploads/2020/05/tohwlkejpdfe/ServiceContractAgreement_6440560_05012020.zip$all
 ||operonbiotech.com/wp-content/upgrabe/0595/Darlehensvertrag_0595_14052020.zip$all
+||opti.co.jp/ranks/msg.jpg$all
 ||or-iraq.org/adeZG-NvIbd_EStHii-BSb/INVOICE/66893/OVERPAYMENT/US_us/Invoice-for-s/h-01/17/2019/$all
 ||oralloy.com/xyqkbu/13340409/Buy-Sell_Agreement_13340409_04282020.zip$all
 ||oralloy.com/xyqkbu/1564384/Buy-Sell_Agreement_1564384_04282020.zip$all
@@ -146667,7 +146751,6 @@ zzz78.tk
 ||raw.githubusercontent.com/xmoeproject/KrkrExtract/master/OldVersion/1.0.3.1/KrkrExtract.exe$all
 ||rawcdn.githack.com/c9cdxguem39s7f1w/reddit/095f2efb735af838bfb013499b00e4263b5315e6/1808164.jpg$all
 ||rawcdn.githack.com/yM64l6d4ekmHlAzZ/reddit/2a9f5350820457c1b5e76a686f8593ad8f95366c/twitter/1505164.jpg$all
-||rayhanad.com/wp-includes/browse/$all
 ||rdt24.com/wp-content/themes/danfe/mthxwsywn/EmploymentVerification_1155687_05072020.zip$all
 ||realbiz.com.br/wp-admin/wesfcjasx/7RLrR4r8zk.zip$all
 ||realbiz.com.br/wp-admin/wesfcjasx/8/jTmVgmDn8.zip$all
@@ -146762,13 +146845,6 @@ zzz78.tk
 ||rsxedu.com/wp-content/plugins/apikey/slider/66145/66145.zip$all
 ||rsxedu.com/wp-content/plugins/apikey/slider/77902371.zip$all
 ||ru.wikipedia.org/wiki//$all
-||rublemine.com/CryptoMoney.msi$all
-||rublemine.com/DogeTab.exe$all
-||rublemine.com/FreeBot.exe$all
-||rublemine.com/Lisk.exe$all
-||rublemine.com/lisk-win-1.26.0.msi$all
-||rublemine.com/lol.exe$all
-||rublemine.com/lol2.exe$all
 ||rudoy.com.ua/ChromeSoft.exe$all
 ||rudoy.com.ua/OYDRyovMKanRyjIM2q/de_DE/Service-Center$all
 ||rudoy.com.ua/OYDRyovMKanRyjIM2q/de_DE/Service-Center/$all
@@ -147248,7 +147324,6 @@ zzz78.tk
 ||snvlk.nltu.edu.ua/templates/gween/images/images/676537bb76a98d733f6dce5cac7e78e8.zip$all
 ||sochi.cat/bin/ssj.jpg$all
 ||social8.asia/iskj/Telekom/RechnungOnline/022019/$all
-||socialtutors.ru/default/US/INVOICE-STATUS/Payment/$all
 ||sofil-photographe.com/wp-content/themes/mapro/pump/judgement_04212020_2594.zip$all
 ||softcatalog.ru/builds/offers/12.exe$all
 ||softhy.net/softhy.net_down/falshgifv1.4.rar$all
@@ -149184,9 +149259,6 @@ zzz78.tk
 ||thietbisontinhdien.vn/wp-content/payment/$all
 ||thirdmillenniumbuilding.com.au/wp-includes/Ppsah/$all
 ||thumbsnap.com/i/aqiAmg1b.png?0214$all
-||thyamasr.com/wp-content/themes/danfe/cwratmgm/0173087/LoanAgreement_0173087_05122020.zip$all
-||thyamasr.com/wp-content/themes/danfe/cwratmgm/LoanAgreement_000968_05122020.zip$all
-||thyamasr.com/wp-content/themes/danfe/cwratmgm/LoanAgreement_2122066_05122020.zip$all
 ||tianmaouae.com/docs_9qu/55555.png$all
 ||ticketpal.com/jetpack-onboarding/ntq6/$all
 ||timberlake.com/users/eTrac/hvi6dseocqqu/mmc16995026300stk67ttj68ef8qquvaa1hg/$all
@@ -149206,7 +149278,6 @@ zzz78.tk
 ||tinyurl.com/y73s42h6$all
 ||tisdalecpa.com/P43JTG.exe$all
 ||tisdalecpa.com/YKHIBNWC.binary$all
-||tkb.com.tw/tkbNew/images/banner/scan.exe$all
 ||tldrbox.top/1.exe$all
 ||tldrbox.top/11.exe$all
 ||tldrbox.top/2$all
@@ -149259,6 +149330,7 @@ zzz78.tk
 ||trickyguy.com/wp-includes/01-56889677218-6377383240704407401.php/uk/business/https://www.klarna.com/international$all
 ||trickyguy.com/wp-includes/01-56889677218-6377383240704407401.php/uk/business/https://www.klarna.com/international/customer-service/$all
 ||truckturbina.ru/Rechnung/$all
+||trulykomal.com/trulykomal.com/76502345306739016/HzQDdtdgnxnADtwpmU/$all
 ||ts-prod-assets.tripleseat.com.s3.amazonaws.com/assets/006/920/181/Morph_Hospitality_Inquiry.doc?1528110432$all
 ||ts-prod-assets.tripleseat.com.s3.amazonaws.com/assets/006/920/226/Morph_Hospitality_Inquiry.doc?1528110892$all
 ||ts-prod-assets.tripleseat.com.s3.amazonaws.com/assets/006/920/272/Morph_Hospitality_Inquiry.doc?1528111216$all
@@ -149896,7 +149968,6 @@ zzz78.tk
 ||viettinlaw.com/xmtuzix/docs/k9zuyya91v/$all
 ||villadeaux.com/wp-content/themes/danfe/soqehwsn/08805/EmploymentVerification_08805_05072020.zip$all
 ||villadeaux.com/wp-content/themes/danfe/soqehwsn/156925/EmploymentVerification_156925_05072020.zip$all
-||vinastory.vn$all
 ||vinograd72.ru/wp-admin/disponibile_box/close_forum/km9_t5zsu54/$all
 ||violatrasporti.com/wp-content/themes/danfe/xueglwhxvb/EmploymentVerification_757873_05072020.zip$all
 ||violinrepairshop.com/test/protected_box/870293_QsQuEEz_profile/3580674_MPHDbrrxgZVoBCtv/$all
@@ -149972,8 +150043,6 @@ zzz78.tk
 ||wewilltransportit.com/bin_Uy.bin$all
 ||wfaqs.com/wp-content/themes/danfe/okyufmmj/78775443/EmploymentVerification_78775443_05072020.zip$all
 ||wikileaks.org/syria-files/attach/222/222051_instruction.zip$all
-||williamsburgpaintingservice.com/wp-content/themes/danfe/vzfznmvlkid/27669679/EmploymentVerification_27669679_05072020.zip$all
-||williamsburgpaintingservice.com/wp-content/themes/danfe/vzfznmvlkid/579689/EmploymentVerification_579689_05072020.zip$all
 ||windefenderprotectedwindefendergooglegmail.warzonedns.com/maj.......................................................0/svchost.vbs$all
 ||windefenderprotectedwindefendergooglegmail.warzonedns.com/maj.......................................................0/v.vbs$all
 ||windefenderprotectedwindefendergooglegmail.warzonedns.com/maj.......................................................0/vbc.vbs$all
