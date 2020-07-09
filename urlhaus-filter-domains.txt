@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Wed, 08 Jul 2020 12:10:01 UTC
+# Updated: Thu, 09 Jul 2020 00:10:26 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -88,6 +88,7 @@
 1.10.233.230
 1.10.235.2
 1.11.132.252
+1.11.157.111
 1.160.186.25
 1.161.23.221
 1.162.217.224
@@ -352,6 +353,7 @@
 1.36.234.199
 1.4.143.233
 1.4.171.186
+1.4.172.11
 1.48.232.132
 1.48.233.105
 1.48.233.244
@@ -841,6 +843,7 @@
 103.223.12.156
 103.223.120.107
 103.223.121.231
+103.224.185.4
 103.226.7.141
 103.227.118.129
 103.227.118.133
@@ -2529,6 +2532,7 @@
 110.155.48.130
 110.155.49.76
 110.155.49.79
+110.155.50.101
 110.155.51.119
 110.155.51.155
 110.155.51.173
@@ -4361,6 +4365,7 @@
 114.234.169.49
 114.234.182.190
 114.234.193.100
+114.234.194.48
 114.234.195.112
 114.234.195.62
 114.234.195.96
@@ -4430,6 +4435,7 @@
 114.235.110.40
 114.235.114.135
 114.235.114.14
+114.235.114.37
 114.235.122.240
 114.235.122.56
 114.235.136.205
@@ -4690,6 +4696,7 @@
 114.239.172.147
 114.239.172.217
 114.239.172.30
+114.239.173.94
 114.239.174.149
 114.239.174.232
 114.239.174.81
@@ -9026,6 +9033,7 @@
 121.234.239.49
 121.234.24.5
 121.234.245.154
+121.234.64.184
 121.234.65.216
 121.234.66.209
 121.234.66.30
@@ -9085,6 +9093,7 @@
 122.114.246.145
 122.114.6.167
 122.116.124.94
+122.116.146.130
 122.116.160.14
 122.116.175.197
 122.116.188.169
@@ -9207,6 +9216,7 @@
 122.235.139.239
 122.235.144.79
 122.235.172.109
+122.235.243.131
 122.235.247.35
 122.236.11.29
 122.236.15.180
@@ -11081,6 +11091,7 @@
 125.24.224.235
 125.24.64.44
 125.24.64.61
+125.25.125.73
 125.25.89.230
 125.25.89.42
 125.254.53.45
@@ -14462,6 +14473,7 @@
 162.212.113.21
 162.212.113.210
 162.212.113.211
+162.212.113.213
 162.212.113.216
 162.212.113.219
 162.212.113.220
@@ -15762,6 +15774,7 @@
 171.221.99.74
 171.222.120.195
 171.222.121.233
+171.222.122.67
 171.222.123.206
 171.226.19.134
 171.226.209.60
@@ -16484,6 +16497,7 @@
 172.36.41.149
 172.36.41.152
 172.36.41.172
+172.36.41.178
 172.36.41.188
 172.36.41.192
 172.36.41.194
@@ -16744,6 +16758,7 @@
 172.36.55.62
 172.36.55.65
 172.36.55.78
+172.36.55.8
 172.36.55.85
 172.36.56.131
 172.36.56.134
@@ -17055,6 +17070,7 @@
 172.39.24.145
 172.39.24.146
 172.39.24.190
+172.39.24.194
 172.39.24.212
 172.39.24.229
 172.39.24.45
@@ -17654,6 +17670,7 @@
 172.39.93.246
 172.39.94.111
 172.39.94.138
+172.39.94.141
 172.39.94.18
 172.39.94.199
 172.39.94.211
@@ -17776,6 +17793,7 @@
 172.45.27.97
 172.45.28.125
 172.45.28.138
+172.45.28.150
 172.45.28.30
 172.45.28.36
 172.45.28.72
@@ -17790,6 +17808,7 @@
 172.45.3.160
 172.45.3.174
 172.45.3.39
+172.45.30.105
 172.45.30.51
 172.45.30.57
 172.45.30.64
@@ -17845,6 +17864,7 @@
 172.45.54.170
 172.45.55.122
 172.45.55.158
+172.45.55.5
 172.45.56.142
 172.45.57.197
 172.45.58.142
@@ -18197,6 +18217,7 @@
 175.11.214.15
 175.11.214.159
 175.11.214.172
+175.11.214.183
 175.11.214.210
 175.11.214.230
 175.11.214.248
@@ -22179,6 +22200,7 @@
 182.52.137.212
 182.52.161.21
 182.52.164.39
+182.52.175.47
 182.52.177.226
 182.52.183.10
 182.52.183.212
@@ -22893,6 +22915,7 @@
 185.172.110.243
 185.172.110.245
 185.172.110.247
+185.172.110.248
 185.172.110.250
 185.172.111.195
 185.172.111.196
@@ -23564,6 +23587,7 @@
 185.62.190.35
 185.62.190.93
 185.63.253.201
+185.63.253.26
 185.64.51.1
 185.65.230.61
 185.66.15.53
@@ -25930,6 +25954,7 @@
 199.83.203.20
 199.83.203.201
 199.83.203.208
+199.83.203.21
 199.83.203.213
 199.83.203.215
 199.83.203.219
@@ -28900,6 +28925,7 @@
 219.251.34.3
 219.65.109.78
 219.68.1.148
+219.68.1.84
 219.68.171.144
 219.68.230.35
 219.68.242.33
@@ -28940,6 +28966,7 @@
 220.122.180.53
 220.122.56.48
 220.124.169.201
+220.124.184.174
 220.124.192.178
 220.124.192.203
 220.124.192.225
@@ -28975,6 +29002,7 @@
 220.132.202.22
 220.132.202.27
 220.132.203.28
+220.132.21.134
 220.132.211.1
 220.132.234.80
 220.132.237.235
@@ -30016,6 +30044,7 @@
 222.141.142.138
 222.141.142.205
 222.141.143.189
+222.141.143.21
 222.141.171.21
 222.141.172.122
 222.141.175.0
@@ -30069,6 +30098,7 @@
 222.142.156.7
 222.142.157.182
 222.142.157.25
+222.142.185.45
 222.142.185.7
 222.142.188.207
 222.142.189.173
@@ -31398,6 +31428,7 @@
 27.41.182.247
 27.41.182.54
 27.41.182.68
+27.41.184.162
 27.41.184.39
 27.41.184.77
 27.41.186.140
@@ -31424,6 +31455,7 @@
 27.41.208.122
 27.41.208.192
 27.41.208.52
+27.41.208.7
 27.41.209.226
 27.41.209.247
 27.41.209.248
@@ -32706,6 +32738,8 @@
 36.32.69.87
 36.32.69.91
 36.32.71.142
+36.32.71.158
+36.32.71.197
 36.33.128.173
 36.33.128.239
 36.33.128.252
@@ -36438,6 +36472,7 @@
 46.101.158.151
 46.101.159.247
 46.101.159.88
+46.101.164.142
 46.101.166.10
 46.101.173.113
 46.101.176.121
@@ -37779,6 +37814,7 @@
 49.81.134.150
 49.81.134.16
 49.81.134.90
+49.81.137.13
 49.81.141.138
 49.81.143.164
 49.81.143.165
@@ -38123,6 +38159,7 @@
 49.89.243.102
 49.89.243.43
 49.89.243.76
+49.89.244.84
 49.89.245.174
 49.89.245.96
 49.89.249.37
@@ -44991,6 +45028,7 @@
 95.213.140.210
 95.213.140.212
 95.213.159.171
+95.213.165.45
 95.213.167.147
 95.213.217.139
 95.213.217.188
@@ -46030,7 +46068,6 @@ acm.kbtu.kz
 acmalarmes.hostinet.pt
 acmao.com
 acmestoolsmfg.com
-acncompass.ca
 acnessempo.com
 acnexplained.com
 aco-finance.nl
@@ -46996,6 +47033,7 @@ ahger4334.duckdns.org
 ahi0000.de
 ahigherstandardofcare.com
 ahij.biz
+ahimsango.org
 ahiskatv.net
 ahitekniktarti.com
 ahiyangrup.com.tr
@@ -48049,6 +48087,7 @@ almasur.es
 almatecsrl.it
 almayassah.com
 almaz-plitka.ru
+almaz-truskavets.com.ua
 almazart.ru
 almemaristone.com
 almendraslitral.cl
@@ -52729,6 +52768,7 @@ bdlisteners.com
 bdlive24.info
 bdmcash.tk
 bdmp-lvbw.de
+bdpolice.co
 bds-hoalac.com
 bds.youhouse.vn
 bdsdalat.vn
@@ -53119,7 +53159,6 @@ benimax.com.br
 benimdunyamkres.com
 benimeli-motor.com
 benimurun.com
-beninactualite.com
 benirtravel.co.ke
 benistora.com
 benitezcatering.com
@@ -58121,6 +58160,7 @@ charitylov.com
 charityshofner.com
 charlesbaker.co.uk
 charlescuthbertson.com
+charlesengineering.in
 charlesmessa.info
 charlesmessa.net
 charlesremcos.duckdns.org
@@ -62225,6 +62265,7 @@ dayphoihoaphat.org
 days14.com
 dayspringserves.com
 daythietke.com.vn
+dayton.store
 daytona73mock.com
 daytonohseo.com
 dayzend.net
@@ -62330,6 +62371,7 @@ dctrcdd.davaocity.gov.ph
 dctuktarov.ru
 dcupanama.com
 dcvair.com
+dcws-ev.com
 dd-fsa.dk
 dd-installationen.com
 dd.512wojie.cn
@@ -64944,6 +64986,7 @@ doonpreschool.in
 doop.pl
 door-craft.ru
 door-ma.com
+doorbhai.com
 doordam.co.uk
 doordroppers.co.uk
 doorlife.co.in
@@ -65220,6 +65263,7 @@ dpacorp.org
 dparmm1.wci.com.ph
 dpbh.info
 dpbusinessportal.ro
+dpcservizi.it
 dpe.com.tw
 dpeasesummithilltoppers.pbworks.com
 dpersonnel.ru
@@ -74679,6 +74723,7 @@ gurubooks.net
 gurudevar.org
 gurukool.tech
 gurumew.com
+guruofbullet.xyz
 gurupitch.com
 gurusexpo.com.ng
 gurutransfer.com
@@ -75665,6 +75710,7 @@ hediyeler10gb-ramazan.net
 hediyem20gb-internet.org
 hediyenkolay.com
 hediyepaket20gb.com
+hediyetr-web20gb-millidayanisma.com
 hedrasl.com
 hedwise.com
 heebrink.supersnelwordpress.nl
@@ -77703,6 +77749,7 @@ id.launcher.mankintech.com
 id14.good-gid.ru
 id8.com.ph
 idahobpa.org
+idalabs.com
 idayvuelta.nu
 idbriacho.com.br
 idd.com.co
@@ -78039,7 +78086,6 @@ ikramcigkofteci.com
 ikravanyhilman.id
 iksirkaucuk.com
 iktprojekt.si
-ikuhentai.net
 ikumiyoshimatsu.com
 ikumou-densetsu.xyz
 ikumoumax.com
@@ -82160,6 +82206,7 @@ karefori.com
 karelias.art
 karelstumpf.de
 karen-group.com
+karen.store
 karenamme.de
 karenanndesign.com
 karenbsantos.com.br
@@ -87183,6 +87230,7 @@ maddykart.com
 madebyjoanne.com
 madebymusic.dk
 madefour.co.uk
+madeinitalybeach.it
 madeinkano.com.ng
 madeinps.net
 madeireiraecologica.com.br
@@ -88270,6 +88318,7 @@ mangawt.com
 mangchongtham.com.vn
 mangchongtham.vn
 mange-gode-blogs.dk
+manglamorganic.com
 mangledmonkeymedia.com
 mango.anazet.es
 mango.generic.media
@@ -98962,6 +99011,7 @@ porangna.com
 porashonaapp.com
 porat-ins.co.il
 porcelanafriapasoapaso.com
+porceletta-ware.com
 porchestergs.com
 porelaofilme.pt
 poreslugle.com
@@ -100984,6 +101034,7 @@ qubpe.com
 qudratfaisal.com
 queaso.be
 quebrangulo.al.gov.br
+quechardojecde.tk
 quechua-travel.com
 quechuagroup.com
 quecik.com
@@ -103090,6 +103141,7 @@ robzandfitness.co.uk
 rocabarnorth.com
 rocazul.com
 roccopizzaiiinyc.com
+rocesi.com
 rochasecia.com.br
 rochesterlogos.com
 rochestertackle.co.za
@@ -107749,7 +107801,6 @@ smartpdfreader.com
 smartphonexyz.com
 smartpromo.top
 smartproperty-transpark.com
-smartr.online
 smartrankking.com
 smartre.live
 smartrealestateschool.com
@@ -108068,7 +108119,6 @@ socialogoly.co.uk.cjllcmonthlysub.ga
 socialpostmanager.com
 socialpoweredrouter.com
 socialshaktinews.in
-socialtutors.ru
 socialwifi.rs
 socialworkacademy.in
 socialworksummit4africa.org
@@ -108244,6 +108294,7 @@ solelyfurniture.com
 soletec.es
 solettt.com
 soleyab.com
+solfacts.com
 solid-unit.com
 solidaire.apf.asso.fr
 solidar.cl
@@ -108837,6 +108888,7 @@ spifan.xyz
 spiff.5gbfree.com
 spigpro.ru
 spikart.com
+spikesys.com
 spin.mrimaging.com
 spina.pl
 spinagruop.com
@@ -111207,7 +111259,6 @@ tacoar.com.br
 tacollective.org
 tacoshermanos.fr
 tact-yl.fr
-tactical-toolbox.com
 tacticalcto.com.au
 tacticalintelligence.org
 tacticsco.com
@@ -113761,6 +113812,7 @@ tibialogger.freehost.pl
 tibinst.mefound.com
 tibok.lflink.com
 ticfootball.com
+ticformjunclenneo.tk
 tichtac.org
 tickertapeinvestments.com
 ticket-mart.000webhostapp.com
@@ -114012,7 +114064,6 @@ tk-pikpg.sch.id
 tk-spectrans.ru
 tkalniaobrazu.pl
 tkaystore.com
-tkb.com.tw
 tkbc.co.za
 tkbhaktimulya.web.id
 tkconcept.vn
@@ -114405,6 +114456,7 @@ toppprogramming.com
 toppret.com
 topr.se
 toprakcelik.com
+toprakenerji.com
 topreach.com.br
 toprebajas.com
 toprecipe.co.uk
@@ -114463,6 +114515,7 @@ tornelements.com
 torneopollos.000webhostapp.com
 torneosligazero.com
 torneosnh.com
+toroftos.xyz
 toronto-comedians.com
 toronto.rogersupfront.com
 torontoaupair.com
@@ -115198,6 +115251,7 @@ trujilloremodelingservicesinc.com
 trulight.io
 trullsrodshop.com
 trulyhelpful.love
+trulykomal.com
 trumbullcsb.org
 trumpfalls.com
 trumplegal.com
@@ -115522,6 +115576,7 @@ tuvandauthau.net
 tuvandoanhnghiep.org
 tuvanduhocdaiviet.com.vn
 tuvanduhocduc.org
+tuvanduhocmap.com
 tuvangamenet.com
 tuvangioitinh.com
 tuvanluat.vn
@@ -117802,6 +117857,7 @@ vinmeconline.com
 vinnataland.com.vn
 vinnysvinyl.com
 vinoclicks.in
+vinograd72.ru
 vinogradzaoknom.xyz
 vinomag.pw
 vinovertus.com
@@ -118749,6 +118805,7 @@ watchchurchonline.com
 watchdogdns.duckdns.org
 watchdogdns.duckdns.orgwatchdogdns.duckdns.org
 watchesofswitzerland.eu
+watchespower.com
 watchesprime.com
 watchitvson.com
 watchlifematters.com
@@ -121869,6 +121926,7 @@ yourasmus.eu
 yourbikinifigure.com
 yourcbts.com
 yourclubwebsite.com
+yourcontents.xyz
 yourcreative.co.uk
 yourcrypto.life
 yourcure.in
