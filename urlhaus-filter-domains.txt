@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Thu, 09 Jul 2020 12:09:57 UTC
+# Updated: Fri, 10 Jul 2020 00:09:56 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -3282,6 +3282,7 @@
 112.122.61.47
 112.122.62.196
 112.123.109.10
+112.123.109.115
 112.123.109.118
 112.123.109.120
 112.123.109.13
@@ -3357,6 +3358,7 @@
 112.132.144.66
 112.132.144.74
 112.132.145.108
+112.132.145.49
 112.132.147.165
 112.132.147.244
 112.132.147.252
@@ -4113,6 +4115,7 @@
 114.216.159.197
 114.216.205.145
 114.216.205.146
+114.216.227.228
 114.217.112.130
 114.217.127.111
 114.217.145.201
@@ -4892,6 +4895,7 @@
 114.32.137.110
 114.32.141.194
 114.32.164.75
+114.32.177.135
 114.32.181.87
 114.32.197.194
 114.32.204.140
@@ -6015,6 +6019,7 @@
 115.55.46.153
 115.55.48.62
 115.55.50.106
+115.55.51.177
 115.55.53.136
 115.55.53.32
 115.55.56.52
@@ -6759,6 +6764,7 @@
 116.149.243.156
 116.149.243.22
 116.149.243.235
+116.149.243.244
 116.149.246.154
 116.149.247.117
 116.149.247.125
@@ -9271,6 +9277,7 @@
 122.50.6.36
 122.51.164.83
 122.51.81.155
+122.6.226.184
 122.84.207.13
 122.99.100.100
 122980data.danzer.site
@@ -14762,6 +14769,7 @@
 162.243.171.159
 162.243.172.71
 162.243.174.157
+162.243.174.219
 162.243.175.211
 162.243.23.45
 162.243.241.183
@@ -15833,8 +15841,10 @@
 171.38.150.165
 171.38.150.197
 171.38.192.30
+171.38.194.176
 171.38.216.169
 171.38.216.214
+171.38.218.153
 171.38.220.249
 171.38.220.250
 171.38.221.151
@@ -16635,6 +16645,7 @@
 172.36.49.115
 172.36.49.12
 172.36.49.136
+172.36.49.169
 172.36.49.182
 172.36.49.202
 172.36.49.248
@@ -17136,6 +17147,7 @@
 172.39.30.237
 172.39.30.94
 172.39.31.106
+172.39.31.121
 172.39.31.14
 172.39.31.209
 172.39.31.227
@@ -17162,6 +17174,7 @@
 172.39.34.176
 172.39.34.234
 172.39.34.29
+172.39.34.34
 172.39.34.73
 172.39.34.82
 172.39.35.1
@@ -17703,7 +17716,9 @@
 172.45.1.138
 172.45.1.163
 172.45.1.174
+172.45.1.233
 172.45.1.6
+172.45.10.206
 172.45.10.241
 172.45.10.29
 172.45.10.39
@@ -17876,12 +17891,14 @@
 172.45.51.215
 172.45.53.11
 172.45.54.170
+172.45.54.37
 172.45.55.122
 172.45.55.158
 172.45.55.5
 172.45.56.142
 172.45.57.197
 172.45.58.142
+172.45.59.116
 172.45.59.133
 172.45.59.143
 172.45.6.1
@@ -18223,6 +18240,7 @@
 175.11.212.156
 175.11.212.161
 175.11.212.197
+175.11.212.26
 175.11.213.12
 175.11.213.144
 175.11.213.167
@@ -22726,6 +22744,7 @@
 185.14.30.131
 185.14.31.137
 185.14.31.159
+185.14.31.93
 185.140.233.241
 185.140.248.17
 185.141.24.181
@@ -22858,6 +22877,7 @@
 185.163.47.188
 185.163.47.248
 185.163.47.253
+185.164.32.128
 185.164.32.132
 185.164.40.36
 185.164.72.110
@@ -22903,6 +22923,7 @@
 185.171.52.238
 185.171.55.210
 185.172.110.183
+185.172.110.185
 185.172.110.189
 185.172.110.201
 185.172.110.203
@@ -23256,6 +23277,7 @@
 185.236.203.196
 185.236.231.59
 185.238.136.54
+185.239.203.60
 185.239.227.36
 185.24.233.141
 185.24.233.146
@@ -23895,6 +23917,7 @@
 187.217.207.75
 187.218.76.41
 187.22.57.241
+187.220.1.65
 187.220.122.232
 187.220.25.27
 187.221.159.194
@@ -26588,6 +26611,7 @@
 201.131.184.187
 201.137.241.44
 201.142.136.114
+201.142.174.215
 201.143.201.23
 201.143.209.98
 201.143.253.78
@@ -27007,6 +27031,7 @@
 205.185.113.79
 205.185.113.87
 205.185.114.16
+205.185.114.231
 205.185.114.25
 205.185.114.87
 205.185.115.244
@@ -28065,6 +28090,7 @@
 216.180.117.207
 216.180.117.208
 216.180.117.209
+216.180.117.21
 216.180.117.213
 216.180.117.214
 216.180.117.216
@@ -28516,6 +28542,7 @@
 218.67.39.34
 218.70.144.134
 218.70.144.50
+218.70.145.165
 218.70.145.32
 218.70.146.40
 218.70.147.77
@@ -29543,6 +29570,7 @@
 221.5.28.114
 221.5.28.17
 221.5.28.173
+221.5.28.19
 221.5.28.199
 221.5.28.80
 221.5.29.140
@@ -31373,6 +31401,7 @@
 27.41.152.196
 27.41.152.55
 27.41.153.139
+27.41.153.14
 27.41.153.169
 27.41.153.19
 27.41.153.243
@@ -31671,6 +31700,7 @@
 2q1wea3rdsf.000webhostapp.com
 2q3w.com
 2q6lpq.dm.files.1drv.com
+2raweggs.com
 2reis.fr
 2sdgfhjggg.ml
 2secure.co
@@ -32757,6 +32787,7 @@
 36.32.110.40
 36.32.110.7
 36.32.149.73
+36.32.207.227
 36.32.225.212
 36.32.65.105
 36.32.68.143
@@ -32768,6 +32799,7 @@
 36.32.71.142
 36.32.71.158
 36.32.71.197
+36.32.71.33
 36.33.128.173
 36.33.128.239
 36.33.128.252
@@ -34262,6 +34294,7 @@
 42.228.245.31
 42.228.75.93
 42.228.79.221
+42.228.80.137
 42.228.80.203
 42.228.82.11
 42.228.82.236
@@ -38768,6 +38801,7 @@
 50.78.36.243
 50.81.109.60
 50.89.246.247
+50.98.100.191
 50.99.164.3
 5003.arentuspecial.com
 501c3guru.com
@@ -39331,6 +39365,7 @@
 58.243.124.246
 58.243.124.51
 58.243.124.52
+58.243.125.113
 58.243.125.165
 58.243.125.227
 58.243.125.243
@@ -39531,6 +39566,7 @@
 59.127.218.186
 59.127.218.253
 59.127.221.185
+59.127.221.227
 59.127.230.84
 59.127.246.148
 59.127.252.164
@@ -39610,6 +39646,7 @@
 59.29.146.74
 59.29.160.214
 59.29.178.187
+59.29.18.130
 59.3.253.82
 59.3.94.188
 59.3.94.190
@@ -47537,6 +47574,7 @@ alandenz.dk
 alanhkatz.on-rev.com
 alankeef-co.tk
 alankippax.info
+alannonce.fr
 alanvarin2.hopto.org
 alanvarin3.ddns.net
 alanyacilingirbilal.com
@@ -48291,6 +48329,7 @@ altatecnica.com.mx
 altavr.io
 altayusa.com
 altc-com.ga
+altechsolutions.sg
 alteman.com.br
 altepath.000webhostapp.com
 alteredimagesalon.net
@@ -56664,6 +56703,7 @@ cakrabms.com
 cakrawalapajak.com
 cal.com.my
 calabughi-demo.holodemo.it
+calacatta.com
 calacs-laurentides.com
 calagri.cl
 calamusonline.com
@@ -67385,6 +67425,7 @@ elshipping.com.br
 elsi.homepage.t-online.de
 elsiah.com
 elsieboo.us
+elsistemausa.org
 elsoler.cat
 elsoto.org
 elssots.com
@@ -67921,6 +67962,7 @@ envivo-sportshdtv.xyz
 envizix.com
 envosis.com
 envoyagemagazine.com
+envoyemlak.com
 enwps.com
 enyapidekorasyon.com
 enzosystems.com
@@ -68678,6 +68720,7 @@ euskararenetxea.eus
 eutopia.world
 euvolia.znu.edu.ua
 euwinecn.com
+ev0lve.cf
 eva-solutions.com
 eva.namkhang.gq
 evabottling.co
@@ -70164,6 +70207,7 @@ fileco.jobkorea.co.kr
 filedigital.ir
 filedistrserver.pw
 filedownload.gb.net
+fileexchangeserviceformicrosoftsecurity.duckdns.org
 filegotosecureothers.duckdns.org
 filegst.com
 filehhhost.ru
@@ -76215,6 +76259,7 @@ himalayaheaven.com
 himalayancruiser.com
 himalayanridersandtrekkers.com
 himalayansaltexporters.com
+himamobile.com
 himanyaagribs.com
 himappa.feb.unpad.ac.id
 himasta.mipa.uns.ac.id
@@ -76321,6 +76366,7 @@ hive.world
 hivechannel3.com
 hivecloud.com
 hivicze.uk
+hivnd.com
 hivvsa.by.files.1drv.com
 hiwentis.de
 hiworks.vn
@@ -79450,6 +79496,7 @@ iowaaquatics.com
 iowadeafblind.org
 iowafamilyphotography.com
 iowaselectvbc.com
+ioyyf.com
 ip-160-153-249-174.ip.secureserver.net
 ip-kaskad.ru
 ip-tes.com
@@ -80025,7 +80072,6 @@ itsababygirl.co
 itsallinclusive.com
 itsalongdrivetomichiganbutatleastmynameisnotjohnson.com
 itscorp.eu
-itscrash.com
 itseasycv.co.uk
 itservicesphuket.com
 itservs.com
@@ -85589,6 +85635,7 @@ library8.bimvimdan.tk
 libreentreprisemagazine.com
 libroglobale.bid
 librores.press
+librusfan.ru
 libtech.com.au
 libya-info.com
 libyabeach.tk
@@ -89961,6 +90008,7 @@ merrylu.co.il
 mersia.com
 mersin-organizasyon.com
 mersthambaptistchurch.co.uk
+merter.shop
 merthyrvillage.com.au
 merttasarim.com
 mertuyanresmi.com
@@ -94342,6 +94390,7 @@ niveltopografia.com.br
 niveront.com
 nivis.gr
 nivs.westpointng.com
+nix4e.com
 nixtin.us
 nixw00xtr00x.duckdns.org
 nixware.cc
@@ -97248,6 +97297,7 @@ pasb.my
 pasban.co.nz
 pasca-ia.unri.ac.id
 pasca-ip.unri.ac.id
+pasca.fapet.ub.ac.id
 pascalluneau.com
 pascalopol.top
 pascalterjanian.com
@@ -98259,6 +98309,7 @@ picfactory.ro
 picfer.ru
 pichrolpelak.ir
 picinsurancebrokers-my.sharepoint.com
+pick20shop.shop
 pickap.io
 pickbestgunsafe.com
 pickclick.ru
@@ -99197,6 +99248,7 @@ postservises.org
 postureevolution.com
 postvirale.com
 posuda-optovikam.ru
+posviat.ru
 poswieciekuchni.pl
 posycamaras.com
 pot.allensvilleplaningmill.net
@@ -101018,6 +101070,7 @@ qualigifts.com
 qualitatexpertises-my.sharepoint.com
 qualitec.pl
 qualityairpart.com
+qualityansweringservice.com
 qualityautoservices.co.uk
 qualitybeverages.co.za
 qualitycontrol-depratment.belizefoods.tk
@@ -101145,7 +101198,6 @@ quintaldearteseterapia.com.br
 quintoesquerdo.net
 quinuapan.com
 quipuhosting.com
-quirkydogchews.com
 quirkyproductions.com
 quitambounty.com
 quiteinfo.com
@@ -108657,6 +108709,7 @@ southamericaski.com
 southavia.ru
 southeasternamateurchampionships.com
 southeastforklift.com
+southeastint.nl
 southernbrothersmc.co
 southerncalenergysavings.com
 southerngraphicsonline.com
@@ -111297,6 +111350,7 @@ tacoar.com.br
 tacollective.org
 tacoshermanos.fr
 tact-yl.fr
+tactical-toolbox.com
 tacticalcto.com.au
 tacticalintelligence.org
 tacticsco.com
@@ -113335,6 +113389,7 @@ themefolks.com
 thememate.net
 thementalhealthfoundation.meltdesigndev.co.uk
 themenuz.com
+themerail.com
 themes-xzone.me
 themes.kodegeartech.com
 themessageschool.edu.pk
@@ -114495,7 +114550,6 @@ toppprogramming.com
 toppret.com
 topr.se
 toprakcelik.com
-toprakenerji.com
 topreach.com.br
 toprebajas.com
 toprecipe.co.uk
@@ -115613,7 +115667,6 @@ tuvandauthau.net
 tuvandoanhnghiep.org
 tuvanduhocdaiviet.com.vn
 tuvanduhocduc.org
-tuvanduhocmap.com
 tuvangamenet.com
 tuvangioitinh.com
 tuvanluat.vn
