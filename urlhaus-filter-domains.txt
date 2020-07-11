@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Fri, 10 Jul 2020 12:09:54 UTC
+# Updated: Sat, 11 Jul 2020 00:10:21 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1041,6 +1041,7 @@
 103.84.130.111
 103.84.241.134
 103.84.241.167
+103.84.241.174
 103.84.241.184
 103.84.241.54
 103.84.241.76
@@ -1604,6 +1605,7 @@
 106.104.125.55
 106.104.151.157
 106.104.169.44
+106.104.193.155
 106.105.197.111
 106.105.218.18
 106.105.233.166
@@ -3255,6 +3257,7 @@
 111.93.169.90
 111101111.ru
 11122.ru
+112.102.84.9
 112.112.100.211
 112.112.135.207
 112.112.192.161
@@ -4234,6 +4237,7 @@
 114.228.248.59
 114.228.25.10
 114.228.25.197
+114.228.25.27
 114.228.25.5
 114.228.25.50
 114.228.27.34
@@ -5978,6 +5982,7 @@
 115.55.224.12
 115.55.226.197
 115.55.231.183
+115.55.234.229
 115.55.238.213
 115.55.238.82
 115.55.24.138
@@ -8306,6 +8311,7 @@
 119.201.4.249
 119.201.68.12
 119.201.89.136
+119.202.240.13
 119.202.25.191
 119.203.30.165
 119.203.9.192
@@ -8319,6 +8325,7 @@
 119.216.4.155
 119.236.131.47
 119.236.178.151
+119.236.86.236
 119.252.171.222
 119.254.12.142
 119.27.184.136
@@ -12429,6 +12436,7 @@
 139.180.219.208
 139.189.192.24
 139.189.193.100
+139.189.196.168
 139.189.202.157
 139.189.202.228
 139.189.205.111
@@ -12664,6 +12672,7 @@
 14.205.199.8
 14.205.201.134
 14.207.59.223
+14.221.4.94
 14.221.5.108
 14.230.232.48
 14.232.145.161
@@ -14889,6 +14898,7 @@
 164.77.56.101
 164.77.90.149
 164.90.184.0
+164.90.216.114
 165.22.1.6
 165.22.10.119
 165.22.10.225
@@ -15329,6 +15339,7 @@
 167.71.119.44
 167.71.12.242
 167.71.124.4
+167.71.125.237
 167.71.13.86
 167.71.131.218
 167.71.131.238
@@ -15378,6 +15389,7 @@
 167.71.216.150
 167.71.216.201
 167.71.217.232
+167.71.221.128
 167.71.226.71
 167.71.228.11
 167.71.230.34
@@ -17080,6 +17092,7 @@
 172.39.21.252
 172.39.21.253
 172.39.21.6
+172.39.21.78
 172.39.22.1
 172.39.22.155
 172.39.22.178
@@ -17269,6 +17282,7 @@
 172.39.43.125
 172.39.43.15
 172.39.43.17
+172.39.43.192
 172.39.43.210
 172.39.43.230
 172.39.43.238
@@ -17771,6 +17785,7 @@
 172.45.16.90
 172.45.17.237
 172.45.17.238
+172.45.17.77
 172.45.18.130
 172.45.18.135
 172.45.18.165
@@ -17803,12 +17818,14 @@
 172.45.21.165
 172.45.21.194
 172.45.21.76
+172.45.22.172
 172.45.23.154
 172.45.23.241
 172.45.23.7
 172.45.23.86
 172.45.23.94
 172.45.24.211
+172.45.24.38
 172.45.24.42
 172.45.24.49
 172.45.25.108
@@ -19859,6 +19876,7 @@
 180.104.233.251
 180.104.238.125
 180.104.238.2
+180.104.239.184
 180.104.239.212
 180.104.239.246
 180.104.242.246
@@ -22247,6 +22265,7 @@
 182.52.164.39
 182.52.175.47
 182.52.177.226
+182.52.179.37
 182.52.183.10
 182.52.183.212
 182.52.188.53
@@ -24939,6 +24958,7 @@
 192.210.146.35
 192.210.146.45
 192.210.146.54
+192.210.152.100
 192.210.180.163
 192.210.180.166
 192.210.214.166
@@ -25015,6 +25035,7 @@
 192.236.195.212
 192.236.195.248
 192.236.198.174
+192.236.198.54
 192.236.208.231
 192.236.208.238
 192.236.209.28
@@ -25170,6 +25191,7 @@
 192.81.216.165
 192.81.216.68
 192.81.217.59
+192.81.218.233
 192.95.1.179
 192.95.18.197
 192.95.2.166
@@ -26235,6 +26257,7 @@
 199.com.vn
 1990.duckdns.org
 19ce033f.ngrok.io
+19workfineanotherrainbowlomoyentwsdywrk.duckdns.org
 1a-werbeagentur.de
 1arab.net
 1bbot.space
@@ -26438,6 +26461,7 @@
 2.196.200.174
 2.205.184.90
 2.226.200.189
+2.228.113.247
 2.229.41.205
 2.229.49.214
 2.229.89.119
@@ -26715,6 +26739,7 @@
 201.42.47.184
 201.42.64.183
 201.42.74.21
+201.42.81.226
 201.42.96.209
 201.43.105.10
 201.43.122.59
@@ -28106,6 +28131,7 @@
 216.180.117.196
 216.180.117.2
 216.180.117.20
+216.180.117.200
 216.180.117.201
 216.180.117.202
 216.180.117.204
@@ -32822,6 +32848,7 @@
 36.32.69.87
 36.32.69.91
 36.32.71.142
+36.32.71.149
 36.32.71.158
 36.32.71.197
 36.32.71.33
@@ -32899,6 +32926,7 @@
 36.35.160.252
 36.35.160.28
 36.35.160.33
+36.35.160.38
 36.35.160.54
 36.35.160.6
 36.35.160.62
@@ -35768,6 +35796,7 @@
 45.10.88.74
 45.11.180.141
 45.11.183.130
+45.11.183.78
 45.114.182.82
 45.114.68.156
 45.115.253.82
@@ -35866,6 +35895,7 @@
 45.143.222.41
 45.144.2.104
 45.144.2.209
+45.145.185.196
 45.147.200.13
 45.147.200.229
 45.147.200.79
@@ -36481,6 +36511,7 @@
 45.95.168.219
 45.95.168.228
 45.95.168.229
+45.95.168.230
 45.95.168.231
 45.95.168.242
 45.95.168.243
@@ -36963,6 +36994,7 @@
 46.36.37.150
 46.36.37.166
 46.36.37.229
+46.36.37.24
 46.36.37.3
 46.36.37.66
 46.36.38.195
@@ -38489,6 +38521,7 @@
 5.182.211.138
 5.182.211.144
 5.182.211.184
+5.182.211.220
 5.182.211.241
 5.182.211.76
 5.182.39.203
@@ -39356,10 +39389,12 @@
 58.227.54.120
 58.229.194.122
 58.230.89.42
+58.232.98.233
 58.238.185.95
 58.238.186.91
 58.239.96.125
 58.242.59.120
+58.242.59.139
 58.242.59.153
 58.242.59.202
 58.242.59.57
@@ -39429,6 +39464,7 @@
 58.243.189.92
 58.243.19.105
 58.243.19.107
+58.243.19.147
 58.243.19.196
 58.243.19.233
 58.243.19.82
@@ -39610,6 +39646,7 @@
 59.127.33.102
 59.127.38.106
 59.127.4.144
+59.127.4.217
 59.127.40.197
 59.127.60.66
 59.127.67.105
@@ -41232,6 +41269,7 @@
 62.108.34.111
 62.108.34.115
 62.108.34.17
+62.108.34.51
 62.108.34.89
 62.108.35.26
 62.109.17.211
@@ -41648,6 +41686,7 @@
 66.70.172.74
 66.70.193.47
 66.70.202.173
+66.70.218.45
 66.70.225.220
 66.70.238.93
 66.70.246.1
@@ -43457,6 +43496,7 @@
 82.146.49.59
 82.146.50.62
 82.149.115.54
+82.155.22.188
 82.160.123.210
 82.160.19.155
 82.160.53.157
@@ -43483,6 +43523,7 @@
 82.205.75.255
 82.207.26.26
 82.207.61.194
+82.207.87.234
 82.208.149.161
 82.209.211.193
 82.211.156.38
@@ -44165,6 +44206,7 @@
 89.148.197.28
 89.148.197.58
 89.148.198.255
+89.148.199.4
 89.148.204.140
 89.148.204.161
 89.148.204.224
@@ -44491,6 +44533,7 @@
 91.198.220.215
 91.198.220.225
 91.200.100.136
+91.200.100.143
 91.200.100.169
 91.200.100.180
 91.200.100.41
@@ -44931,6 +44974,7 @@
 94.139.114.94
 94.139.175.34
 94.139.204.197
+94.140.115.48
 94.140.125.34
 94.140.125.9
 94.140.244.229
@@ -45459,7 +45503,6 @@
 9palheiros.com.br
 9qwe8q9w7asqw.com
 9rayaa.com
-9scroob.com
 9smap.hfdev.uk
 9tindia.com
 9u7a1o.regardisperfectshild.ru
@@ -47149,7 +47192,6 @@ ahger4334.duckdns.org
 ahi0000.de
 ahigherstandardofcare.com
 ahij.biz
-ahimsango.org
 ahiskatv.net
 ahitekniktarti.com
 ahiyangrup.com.tr
@@ -48205,7 +48247,6 @@ almasur.es
 almatecsrl.it
 almayassah.com
 almaz-plitka.ru
-almaz-truskavets.com.ua
 almazart.ru
 almemaristone.com
 almendraslitral.cl
@@ -64414,7 +64455,6 @@ diversificando.org
 diversifii.com
 diversitycityin.com
 diversityfoodbrands.com
-diversitymbamagazine.com
 diversitywealth.com
 diverzeent.com
 divi.no
@@ -65317,6 +65357,7 @@ download.loginserv.net
 download.moffice365.live
 download.moldiscovery.com
 download.nadns.info
+download.ningzhidata.com
 download.novotrac.ch
 download.pdf00.cn
 download.postnltrackentrace.com
@@ -71074,7 +71115,6 @@ forads.ae
 forage.restaurant
 forbesriley.net
 forbiddenjewels.com.au
-forbika.com
 forcakes.ru
 forcaparaviver.com.br
 forcaperfeita.com.br
@@ -72479,6 +72519,7 @@ gatewaycentrechurch.org
 gatewayhealth.com.ng
 gatewaylogsitics.com
 gatewaymontessori.edu.gh
+gatewaynews.co.za
 gatineauremorquage.com
 gatorblinds.info
 gatorusa.com
@@ -75246,6 +75287,7 @@ handbookforfairygodmothers.com
 handbuiltapps.com
 handcraftedhardwoodfurniture.com
 handehoser.av.tr
+handehotel.com
 handelgirona.cat
 handelintl.com
 handelpand.nl
@@ -75255,6 +75297,7 @@ handmadebynannysam.co.uk
 handofdoom.org
 handom.u1296248.cp.regruhosting.ru
 handpickcart.com
+handrug.com.py
 handrush.com
 hands.ducksstomach.club
 handsfreenetworks.com
@@ -75897,6 +75940,7 @@ hellocode.id
 hellodev.efront-dev.com.au
 hellodocumentary.com
 hellodonuts.com
+helloeu.info
 hellofbi.com
 hellogrid.com
 hellohello-pension.com
@@ -77626,6 +77670,7 @@ iacp-od.org
 iadeca.es
 iadigital.com.br
 iaecconsultants.com
+iain-padangsidimpuan.ac.id
 iais.ac.id
 iakah.pw
 iam-creative.co.id
@@ -88611,6 +88656,7 @@ maramahan.ir
 maramaljidi.com
 maramuresguides.ro
 marasgezikulubu.com
+marashmara.info
 marasisca.com
 marasopel.com
 marathon-boats.com
@@ -89559,6 +89605,7 @@ med.tomsk.ru
 meda-comp.net
 medansecuritysystem.com
 medcomerce.com.br
+medconrx.com
 medeaser.com
 mededsys.com
 medegbetv.com
@@ -90260,6 +90307,7 @@ mgtc.dk
 mguidtw.natursektgirls.live
 mguize.com.br
 mgupta.me
+mguy2934.duckdns.org
 mgvsales.net
 mgxconsultancy.com
 mha.ucddorcas.click
@@ -94350,6 +94398,7 @@ nineti9.com
 ninetygrime.kolegajualan.com
 ninetynine.nl
 nineuniversityreviews.org
+ningzhidata.com
 ninh.xyz
 ninh221.tk
 ninhodosanimais.com.br
@@ -98121,6 +98170,7 @@ phanbonvinathai.com.vn
 phangiunque.com.vn
 phanmemchamcong.net
 phanmemgym.net
+phanmemtinhtiendanang.com
 phanminhhuy.com
 phanphoidienthoai.com
 phanphoidongydungha.com
@@ -111394,7 +111444,6 @@ tacoar.com.br
 tacollective.org
 tacoshermanos.fr
 tact-yl.fr
-tactical-toolbox.com
 tacticalcto.com.au
 tacticalintelligence.org
 tacticsco.com
@@ -116747,7 +116796,6 @@ url-update.com
 url-validation-clients.com
 url.246546.com
 url.57569.fr.snd52.ch
-url.sg
 url2.mailanyone.net
 url3.mailanyone.net
 url5459.41southbar.com
