@@ -36,6 +36,8 @@ Import the following URL into uBO to subscribe (includes online and **offline** 
 
 Lite version (**online** links only):
 
+_enabled by default in uBO >=[1.28.2](https://github.com/gorhill/uBlock/releases/tag/1.28.2)_
+
 - https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt
 
 <details>
@@ -51,9 +53,11 @@ Lite version (**online** links only):
 
 </details>
 
-**Note:** Lite version is ~95% smaller by excluding offline urls. The status of urls is determined by the upstream Abuse.ch. However, the test is not 100% accurate and some malicious urls that are otherwise accessible may be missed. If bandwidth (4 MB/day) is not a constraint, I recommend the regular version.
+**Note:** Lite version is 99% smaller by excluding offline urls. The status of urls is determined by the upstream Abuse.ch. However, the test is not 100% accurate and some malicious urls that are otherwise accessible may be missed. If bandwidth (4 MB/day) is not a constraint, I recommend the regular version.
 
-*PS: While regular version contains roughly >145K filters, uBO can [easily handle](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-452843669) half a million filters.*
+Regular version contains >260K filters, do note that uBO can [easily handle](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-452843669) 500K filters.
+
+If you've installed the lite version but prefer to use the regular version, it's better to remove it beforehand. Having two versions at the same time won't cause any conflict issue, uBO can detect duplicate network filters and adjust accordingly, but it's a waste of your bandwidth.
 
 ## Domain-based
 
