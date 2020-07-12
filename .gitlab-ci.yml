@@ -11,7 +11,6 @@ deploy_job:
     - 'which ssh-agent || (apk update && apk add curl openssh-client git grep)'
     - eval $(ssh-agent -s)
     - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
-    - echo "$GH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
     - mkdir -p ~/.ssh
     - chmod 700 ~/.ssh
     - echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
@@ -38,12 +37,6 @@ deploy_job:
     - git remote set-url origin git@gitlab.com:curben/urlhaus-filter.git
     - git push origin master
 
-    # Push to mirror
-    # Force exit code 0
-    - ssh -T git@github.com || ":"
-    - git remote add mirror git@github.com:curbengh/urlhaus-filter.git
-    - git push mirror master
-
   rules:
     # Only trigger through schedule job in master branch
     - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "schedule"'
@@ -64,7 +57,6 @@ failed_job:
     - 'which ssh-agent || (apk update && apk add curl openssh-client git grep)'
     - eval $(ssh-agent -s)
     - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
-    - echo "$GH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
     - mkdir -p ~/.ssh
     - chmod 700 ~/.ssh
     - echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
@@ -82,9 +74,6 @@ failed_job:
     - ssh -T git@gitlab.com
     - git remote set-url origin git@gitlab.com:curben/urlhaus-filter.git
     - git push origin master
-    - ssh -T git@github.com || ":"
-    - git remote add mirror git@github.com:curbengh/urlhaus-filter.git
-    - git push mirror master
 
   rules:
     - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "schedule"'
