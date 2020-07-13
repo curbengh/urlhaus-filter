@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 12 Jul 2020 12:09:57 UTC
+# Updated: Mon, 13 Jul 2020 00:09:51 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -3752,6 +3752,8 @@
 0.0.0.0 alexgarkavenko.com
 0.0.0.0 alexhhh.chat.ru
 0.0.0.0 alexis.monville.com
+0.0.0.0 alexliasko.co.ug
+0.0.0.0 alexliasko.ug
 0.0.0.0 alexm.co.za
 0.0.0.0 alexovicsattila.com
 0.0.0.0 alexpopow.com
@@ -15204,6 +15206,7 @@
 0.0.0.0 clicknaranja.mx
 0.0.0.0 clickneat.be
 0.0.0.0 clicknit.com
+0.0.0.0 clickon.vn
 0.0.0.0 clickprintnow.com.au
 0.0.0.0 clickripplesolutions.in
 0.0.0.0 clicksbyayush.com
@@ -18223,7 +18226,6 @@
 0.0.0.0 datongsafe-taipei.org.tw
 0.0.0.0 datos.com.tw
 0.0.0.0 datos.com.ua
-0.0.0.0 datphatlocsg.com
 0.0.0.0 datpq.com
 0.0.0.0 datrangsuc.com
 0.0.0.0 datrephuquoc.net
@@ -21346,7 +21348,6 @@
 0.0.0.0 dparmm1.wci.com.ph
 0.0.0.0 dpbh.info
 0.0.0.0 dpbusinessportal.ro
-0.0.0.0 dpcservizi.it
 0.0.0.0 dpe.com.tw
 0.0.0.0 dpeasesummithilltoppers.pbworks.com
 0.0.0.0 dpersonnel.ru
@@ -24343,7 +24344,6 @@
 0.0.0.0 eskaledoor.com
 0.0.0.0 eskandarb.com
 0.0.0.0 eskeleco.ir
-0.0.0.0 eskenazo.cl
 0.0.0.0 eski.elt.com.tr
 0.0.0.0 eskilloo.com
 0.0.0.0 eskimue.de
@@ -41663,7 +41663,6 @@
 0.0.0.0 libreentreprisemagazine.com
 0.0.0.0 libroglobale.bid
 0.0.0.0 librores.press
-0.0.0.0 librusfan.ru
 0.0.0.0 libtech.com.au
 0.0.0.0 libya-info.com
 0.0.0.0 libyabeach.tk
@@ -44363,6 +44362,7 @@
 0.0.0.0 mambilerzonaldistrict.tk
 0.0.0.0 mameradirastislavice.sk
 0.0.0.0 maminsecret.ru
+0.0.0.0 mammalson.com
 0.0.0.0 mammothstraw.com
 0.0.0.0 mamnonmangnondanang.edu.vn
 0.0.0.0 mamnontohienthanh.com
@@ -49093,7 +49093,6 @@
 0.0.0.0 nano40.com
 0.0.0.0 nanobiteuae.com
 0.0.0.0 nanobrain.co.kr
-0.0.0.0 nanodigestmag.com
 0.0.0.0 nanodivulga.ufn.edu.br
 0.0.0.0 nanogagliato.com
 0.0.0.0 nanohair.com.au
@@ -50818,6 +50817,7 @@
 0.0.0.0 novamentemagra.com.br
 0.0.0.0 novametal.cl
 0.0.0.0 novaoptica.pt
+0.0.0.0 novapisa.com
 0.0.0.0 novaplaza.com
 0.0.0.0 novaproductionsomaha.com
 0.0.0.0 novaprotravel.com
@@ -54757,7 +54757,6 @@
 0.0.0.0 playtech.ddnsking.com
 0.0.0.0 playtech.id
 0.0.0.0 playthefinancialgame.com
-0.0.0.0 playvideo.site
 0.0.0.0 plaza-beauty.ru
 0.0.0.0 plazacolibri.com.mx
 0.0.0.0 plazadomino.com
@@ -60538,7 +60537,6 @@
 0.0.0.0 salght.com
 0.0.0.0 salheshthemovie.com
 0.0.0.0 salientbrands.com
-0.0.0.0 salifkeita.net
 0.0.0.0 salimoni.ru
 0.0.0.0 saling-klimatyzacje.pl
 0.0.0.0 salinzada.com
@@ -69900,7 +69898,6 @@
 0.0.0.0 thuysankv1.com
 0.0.0.0 thuysinhlongthanh.com
 0.0.0.0 thuytienacademy.com
-0.0.0.0 thyamasr.com
 0.0.0.0 thymedentalcare.com
 0.0.0.0 thyroidnutritioneducators.com
 0.0.0.0 thyrsi.com
@@ -70181,6 +70178,7 @@
 0.0.0.0 tk-spectrans.ru
 0.0.0.0 tkalniaobrazu.pl
 0.0.0.0 tkaystore.com
+0.0.0.0 tkb.com.tw
 0.0.0.0 tkbc.co.za
 0.0.0.0 tkbhaktimulya.web.id
 0.0.0.0 tkconcept.vn
