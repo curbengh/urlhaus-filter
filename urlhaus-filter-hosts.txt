@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Mon, 13 Jul 2020 12:09:57 UTC
+# Updated: Tue, 14 Jul 2020 00:10:00 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -504,6 +504,7 @@
 0.0.0.0 20gb-kampanya.cf
 0.0.0.0 20gbaktiflestirturkiye.com
 0.0.0.0 20gbcampaings.tk
+0.0.0.0 20gbhediniz.online
 0.0.0.0 20gbhediye.com
 0.0.0.0 20gbhediyenet.com
 0.0.0.0 20gbhediyetr.com
@@ -2157,6 +2158,7 @@
 0.0.0.0 acmalarmes.hostinet.pt
 0.0.0.0 acmao.com
 0.0.0.0 acmestoolsmfg.com
+0.0.0.0 acncompass.ca
 0.0.0.0 acnessempo.com
 0.0.0.0 acnexplained.com
 0.0.0.0 aco-finance.nl
@@ -6722,6 +6724,7 @@
 0.0.0.0 asominas.org
 0.0.0.0 asound.no
 0.0.0.0 asp.pl
+0.0.0.0 aspaud.com
 0.0.0.0 aspazis.com
 0.0.0.0 aspbuero.de
 0.0.0.0 aspcindia.com
@@ -27154,6 +27157,7 @@
 0.0.0.0 fortechnical.ru
 0.0.0.0 fortgrand.com
 0.0.0.0 fortheloveofpod.com
+0.0.0.0 fortifi.com
 0.0.0.0 fortinetoom.top
 0.0.0.0 fortis-india.com
 0.0.0.0 fortisdesigns.com
@@ -27278,6 +27282,7 @@
 0.0.0.0 foxon.site
 0.0.0.0 foxrat123456.000webhostapp.com
 0.0.0.0 foxrpas.com
+0.0.0.0 foxtrade.pw
 0.0.0.0 foxupdate1.me
 0.0.0.0 foxupdate2.me
 0.0.0.0 foxyco.pinkjacketclients.com
@@ -37964,7 +37969,6 @@
 0.0.0.0 k2-hygiene.de
 0.0.0.0 k2films.com
 0.0.0.0 k2mobile.net
-0.0.0.0 k2o.com.vn
 0.0.0.0 k317.org
 0.0.0.0 k4ci.de
 0.0.0.0 k67oo32g76.info
@@ -40560,7 +40564,6 @@
 0.0.0.0 lainteck.ru
 0.0.0.0 lairdlawfirm.com
 0.0.0.0 laixuela.com
-0.0.0.0 lajacintasa.com
 0.0.0.0 lajirafasophie.com
 0.0.0.0 lajmereale.com
 0.0.0.0 lak.com.vn
@@ -43247,6 +43250,7 @@
 0.0.0.0 mabruuk.ridvxn.site
 0.0.0.0 mabtahi.persiangig.com
 0.0.0.0 mabuhayjobs.com
+0.0.0.0 mac-rail.com
 0.0.0.0 mac.mf3x3.com
 0.0.0.0 macabier.com
 0.0.0.0 macademel.com.br
@@ -52225,6 +52229,7 @@
 0.0.0.0 oqni7g.dm.files.1drv.com
 0.0.0.0 oqrola.net
 0.0.0.0 oquefazeremcapetown.com.br
+0.0.0.0 or-iraq.org
 0.0.0.0 or-truuce.tk
 0.0.0.0 orac.link
 0.0.0.0 orac.si
@@ -53908,6 +53913,7 @@
 0.0.0.0 perminas.com.ni
 0.0.0.0 permittedbylaw.com
 0.0.0.0 pernillehojlandronde.dk
+0.0.0.0 peronotis.com
 0.0.0.0 perovaphoto.ru
 0.0.0.0 peroxwpc.com
 0.0.0.0 perpamarketim.com
@@ -56982,7 +56988,6 @@
 0.0.0.0 qq546871516.com
 0.0.0.0 qqenglish.com.cn
 0.0.0.0 qqguua.dm.files.1drv.com
-0.0.0.0 qqhdz.com
 0.0.0.0 qqm9lv.com
 0.0.0.0 qqwqwwwpoasd.com
 0.0.0.0 qqydw.oss-cn-beijing.aliyuncs.com
@@ -63151,6 +63156,7 @@
 0.0.0.0 sijuki.com
 0.0.0.0 sikanino.com
 0.0.0.0 sikhbokichu.com
+0.0.0.0 sikhorhsp.com
 0.0.0.0 sikhyatra.com.pk
 0.0.0.0 sikorskyleze.com
 0.0.0.0 sikoruiz.es
@@ -70178,7 +70184,6 @@
 0.0.0.0 tk-spectrans.ru
 0.0.0.0 tkalniaobrazu.pl
 0.0.0.0 tkaystore.com
-0.0.0.0 tkb.com.tw
 0.0.0.0 tkbc.co.za
 0.0.0.0 tkbhaktimulya.web.id
 0.0.0.0 tkconcept.vn
@@ -71945,6 +71950,7 @@
 0.0.0.0 uavlab.am
 0.0.0.0 uayukle.com
 0.0.0.0 ub1uxd9u4qz46t8y6s.com
+0.0.0.0 ubadrium.com
 0.0.0.0 ubaraweddings.com
 0.0.0.0 ubeinc.com
 0.0.0.0 ubekzmjonw.com
@@ -73125,7 +73131,6 @@
 0.0.0.0 vamdesigns.com
 0.0.0.0 vamos.ssquares.co.in
 0.0.0.0 vamosaway.com
-0.0.0.0 vamoss.com.br
 0.0.0.0 vampwrotesatori.cf
 0.0.0.0 vamshitha.com
 0.0.0.0 van-stratum.co.uk
@@ -75082,6 +75087,7 @@
 0.0.0.0 web.councilbox.com
 0.0.0.0 web.eficiens.cl
 0.0.0.0 web.emsfabrik.de
+0.0.0.0 web.eng.ubu.ac.th
 0.0.0.0 web.gotham.com.au
 0.0.0.0 web.hfsistemas.com
 0.0.0.0 web.ismt.pt
@@ -75807,7 +75813,6 @@
 0.0.0.0 williamhartley.co.uk
 0.0.0.0 williamlaneco.com
 0.0.0.0 williams.gb.net
-0.0.0.0 williamsburgpaintingservice.com
 0.0.0.0 williamsonteas.com
 0.0.0.0 williamsriverholidaypark.com
 0.0.0.0 williamssminexroad.cf
@@ -78191,7 +78196,7 @@
 0.0.0.0 yuluobo.com
 0.0.0.0 yulv.net
 0.0.0.0 yumewokanaeyou.com
-0.0.0.0 yumilasheseg.com
+0.0.0.0 yumicha.xyz
 0.0.0.0 yumitel.com
 0.0.0.0 yummiesbandra.com
 0.0.0.0 yummybox.uk

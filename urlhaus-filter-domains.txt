@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Mon, 13 Jul 2020 12:09:57 UTC
+# Updated: Tue, 14 Jul 2020 00:10:00 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -744,6 +744,7 @@
 103.131.25.47
 103.131.25.53
 103.131.60.52
+103.133.108.6
 103.133.206.220
 103.134.45.80
 103.135.38.113
@@ -973,6 +974,7 @@
 103.68.55.186
 103.70.130.26
 103.70.137.115
+103.70.145.153
 103.70.146.125
 103.70.199.17
 103.71.22.143
@@ -1116,6 +1118,7 @@
 104.140.242.42
 104.140.242.72
 104.140.245.66
+104.143.94.28
 104.148.124.120
 104.148.19.104
 104.148.19.116
@@ -6404,6 +6407,7 @@
 115.59.68.122
 115.59.7.136
 115.59.7.146
+115.59.7.185
 115.59.70.74
 115.59.74.28
 115.59.76.126
@@ -10212,6 +10216,7 @@
 123.12.6.148
 123.12.6.17
 123.12.6.70
+123.12.64.247
 123.12.64.55
 123.12.66.194
 123.12.67.162
@@ -10243,6 +10248,7 @@
 123.13.10.226
 123.13.120.172
 123.13.120.185
+123.13.120.240
 123.13.121.195
 123.13.122.246
 123.13.13.242
@@ -14436,6 +14442,7 @@
 161.35.234.217
 161.35.237.200
 161.35.24.242
+161.35.28.211
 161.35.3.55
 161.35.32.4
 161.35.45.242
@@ -16039,6 +16046,7 @@
 172.36.10.112
 172.36.10.141
 172.36.10.175
+172.36.10.176
 172.36.10.18
 172.36.10.191
 172.36.10.220
@@ -16707,6 +16715,7 @@
 172.36.47.187
 172.36.47.200
 172.36.47.204
+172.36.47.207
 172.36.47.215
 172.36.47.231
 172.36.47.247
@@ -17273,6 +17282,7 @@
 172.39.35.16
 172.39.35.208
 172.39.35.223
+172.39.35.49
 172.39.35.71
 172.39.36.134
 172.39.36.166
@@ -17641,6 +17651,7 @@
 172.39.76.152
 172.39.76.165
 172.39.76.178
+172.39.76.185
 172.39.76.235
 172.39.76.240
 172.39.76.81
@@ -17698,6 +17709,7 @@
 172.39.82.21
 172.39.82.233
 172.39.82.240
+172.39.83.121
 172.39.83.185
 172.39.83.218
 172.39.83.250
@@ -17888,6 +17900,7 @@
 172.45.21.136
 172.45.21.165
 172.45.21.194
+172.45.21.228
 172.45.21.76
 172.45.22.172
 172.45.23.154
@@ -18300,6 +18313,7 @@
 175.10.213.230
 175.10.213.42
 175.10.214.1
+175.10.215.231
 175.10.215.35
 175.10.215.65
 175.10.229.66
@@ -20263,6 +20277,7 @@
 180.123.77.168
 180.123.85.140
 180.123.85.31
+180.123.89.255
 180.123.90.90
 180.123.91.214
 180.123.92.164
@@ -20554,6 +20569,7 @@
 181.197.17.97
 181.199.146.117
 181.199.26.39
+181.206.22.75
 181.21.31.116
 181.210.45.42
 181.210.52.210
@@ -22383,6 +22399,7 @@
 183.100.148.225
 183.100.163.55
 183.100.194.165
+183.100.98.254
 183.101.143.208
 183.101.39.187
 183.102.237.25
@@ -22536,6 +22553,7 @@
 183.2.62.108
 183.2.62.121
 183.2.62.141
+183.203.157.188
 183.215.188.45
 183.215.188.47
 183.215.188.50
@@ -23058,6 +23076,7 @@
 185.172.110.230
 185.172.110.231
 185.172.110.232
+185.172.110.233
 185.172.110.234
 185.172.110.235
 185.172.110.237
@@ -26139,6 +26158,7 @@
 199.83.203.229
 199.83.203.23
 199.83.203.230
+199.83.203.237
 199.83.203.238
 199.83.203.248
 199.83.203.249
@@ -26204,6 +26224,7 @@
 199.83.204.231
 199.83.204.236
 199.83.204.24
+199.83.204.243
 199.83.204.244
 199.83.204.245
 199.83.204.253
@@ -26531,6 +26552,7 @@
 2.187.19.249
 2.187.20.233
 2.187.249.232
+2.187.250.176
 2.187.26.201
 2.187.34.50
 2.187.39.208
@@ -27724,6 +27746,7 @@
 20gb-kampanya.cf
 20gbaktiflestirturkiye.com
 20gbcampaings.tk
+20gbhediniz.online
 20gbhediye.com
 20gbhediyenet.com
 20gbhediyetr.com
@@ -31446,6 +31469,7 @@
 27.159.82.219
 27.16.218.31
 27.184.148.19
+27.184.155.125
 27.188.208.174
 27.188.211.8
 27.188.214.92
@@ -35515,6 +35539,7 @@
 42.238.27.87
 42.238.29.168
 42.238.29.171
+42.238.29.183
 42.238.29.55
 42.238.30.75
 42.238.4.233
@@ -36077,6 +36102,7 @@
 45.148.120.105
 45.148.120.121
 45.148.120.155
+45.148.120.183
 45.148.120.193
 45.148.122.113
 45.148.164.105
@@ -38210,6 +38236,7 @@
 49.82.215.111
 49.82.215.152
 49.82.215.247
+49.82.222.107
 49.82.226.122
 49.82.227.121
 49.82.227.166
@@ -41368,6 +41395,7 @@
 61.58.174.253
 61.58.55.226
 61.6.2.114
+61.6.217.66
 61.6.40.66
 61.60.204.178
 61.63.121.125
@@ -41439,6 +41467,7 @@
 62.122.102.236
 62.122.195.162
 62.133.171.21
+62.138.8.182
 62.140.224.186
 62.141.55.98
 62.141.73.58
@@ -42487,6 +42516,7 @@
 73.73.137.64
 73.76.94.224
 73.84.12.50
+73.9.164.198
 73.91.254.184
 73.92.136.47
 73.96.196.198
@@ -43042,6 +43072,7 @@
 79.107.249.184
 79.107.94.254
 79.108.254.76
+79.11.222.106
 79.11.228.219
 79.111.84.167
 79.116.92.80
@@ -43063,6 +43094,7 @@
 79.124.8.122
 79.124.8.24
 79.127.104.227
+79.127.113.235
 79.127.115.16
 79.132.10.200
 79.132.200.191
@@ -45001,6 +45033,7 @@
 93.104.209.253
 93.104.213.162
 93.107.42.25
+93.108.0.177
 93.109.14.254
 93.113.67.82
 93.114.177.214
@@ -45576,6 +45609,7 @@
 98.159.110.72
 98.159.110.79
 98.159.99.11
+98.159.99.116
 98.159.99.12
 98.159.99.21
 98.159.99.210
@@ -45599,6 +45633,7 @@
 98.159.99.43
 98.159.99.47
 98.159.99.70
+98.159.99.86
 98.159.99.9
 98.159.99.93
 98.178.203.36
@@ -46396,6 +46431,7 @@ acm.kbtu.kz
 acmalarmes.hostinet.pt
 acmao.com
 acmestoolsmfg.com
+acncompass.ca
 acnessempo.com
 acnexplained.com
 aco-finance.nl
@@ -50961,6 +50997,7 @@ asolmex.org
 asominas.org
 asound.no
 asp.pl
+aspaud.com
 aspazis.com
 aspbuero.de
 aspcindia.com
@@ -71393,6 +71430,7 @@ fortdetourneville.com
 fortechnical.ru
 fortgrand.com
 fortheloveofpod.com
+fortifi.com
 fortinetoom.top
 fortis-india.com
 fortisdesigns.com
@@ -71517,6 +71555,7 @@ foxnib.com
 foxon.site
 foxrat123456.000webhostapp.com
 foxrpas.com
+foxtrade.pw
 foxupdate1.me
 foxupdate2.me
 foxyco.pinkjacketclients.com
@@ -82203,7 +82242,6 @@ k1ristri.ru
 k2-hygiene.de
 k2films.com
 k2mobile.net
-k2o.com.vn
 k317.org
 k4ci.de
 k67oo32g76.info
@@ -84799,7 +84837,6 @@ lainocosmetics.ru
 lainteck.ru
 lairdlawfirm.com
 laixuela.com
-lajacintasa.com
 lajirafasophie.com
 lajmereale.com
 lak.com.vn
@@ -87486,6 +87523,7 @@ maboys.co.za
 mabruuk.ridvxn.site
 mabtahi.persiangig.com
 mabuhayjobs.com
+mac-rail.com
 mac.mf3x3.com
 macabier.com
 macademel.com.br
@@ -96464,6 +96502,7 @@ opusjobapp.com
 oqni7g.dm.files.1drv.com
 oqrola.net
 oquefazeremcapetown.com.br
+or-iraq.org
 or-truuce.tk
 orac.link
 orac.si
@@ -98147,6 +98186,7 @@ permiandev.com
 perminas.com.ni
 permittedbylaw.com
 pernillehojlandronde.dk
+peronotis.com
 perovaphoto.ru
 peroxwpc.com
 perpamarketim.com
@@ -101221,7 +101261,6 @@ qq.ww2rai.ru
 qq546871516.com
 qqenglish.com.cn
 qqguua.dm.files.1drv.com
-qqhdz.com
 qqm9lv.com
 qqwqwwwpoasd.com
 qqydw.oss-cn-beijing.aliyuncs.com
@@ -107390,6 +107429,7 @@ sijin-edu.com
 sijuki.com
 sikanino.com
 sikhbokichu.com
+sikhorhsp.com
 sikhyatra.com.pk
 sikorskyleze.com
 sikoruiz.es
@@ -114420,7 +114460,6 @@ tk-pikpg.sch.id
 tk-spectrans.ru
 tkalniaobrazu.pl
 tkaystore.com
-tkb.com.tw
 tkbc.co.za
 tkbhaktimulya.web.id
 tkconcept.vn
@@ -116187,6 +116226,7 @@ uatwebsite.aithent.com
 uavlab.am
 uayukle.com
 ub1uxd9u4qz46t8y6s.com
+ubadrium.com
 ubaraweddings.com
 ubeinc.com
 ubekzmjonw.com
@@ -117367,7 +117407,6 @@ valure-eg.com
 vamdesigns.com
 vamos.ssquares.co.in
 vamosaway.com
-vamoss.com.br
 vampwrotesatori.cf
 vamshitha.com
 van-stratum.co.uk
@@ -119324,6 +119363,7 @@ web.classica-il.cf
 web.councilbox.com
 web.eficiens.cl
 web.emsfabrik.de
+web.eng.ubu.ac.th
 web.gotham.com.au
 web.hfsistemas.com
 web.ismt.pt
@@ -120049,7 +120089,6 @@ williamenterprisetrading.com
 williamhartley.co.uk
 williamlaneco.com
 williams.gb.net
-williamsburgpaintingservice.com
 williamsonteas.com
 williamsriverholidaypark.com
 williamssminexroad.cf
@@ -122433,7 +122472,7 @@ yulitours.com
 yuluobo.com
 yulv.net
 yumewokanaeyou.com
-yumilasheseg.com
+yumicha.xyz
 yumitel.com
 yummiesbandra.com
 yummybox.uk
