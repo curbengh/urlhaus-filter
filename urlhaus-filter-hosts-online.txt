@@ -1,11 +1,12 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Thu, 16 Jul 2020 12:10:02 UTC
+# Updated: Fri, 17 Jul 2020 00:10:04 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
 0.0.0.0 2000kumdo.com
 0.0.0.0 21robo.com
+0.0.0.0 39unitedfrkesokoriorimiwsdystreetsmghg.duckdns.org
 0.0.0.0 3ypackaging.com
 0.0.0.0 42502d2a-e7ed-4a16-9f11-33ffe6c54021.usrfiles.com
 0.0.0.0 49parallel.ca
@@ -21,18 +22,22 @@
 0.0.0.0 admaris.ir
 0.0.0.0 admin.foa.ae
 0.0.0.0 admindepartment.ir
+0.0.0.0 agsir.com
 0.0.0.0 aite.me
 0.0.0.0 al-wahd.com
 0.0.0.0 alacatibisiklet.com
 0.0.0.0 alba1004.co.kr
 0.0.0.0 algorithmshargh.com
 0.0.0.0 allloveseries.com
+0.0.0.0 alohasoftware.net
 0.0.0.0 alphaconsumer.net
 0.0.0.0 am-concepts.ca
 0.0.0.0 amd.alibuf.com
 0.0.0.0 amemarine.co.th
+0.0.0.0 amt.co.in
 0.0.0.0 andreelapeyre.com
 0.0.0.0 andremaraisbeleggings.co.za
+0.0.0.0 angelsdetour.com
 0.0.0.0 angthong.nfe.go.th
 0.0.0.0 anvietpro.com
 0.0.0.0 anysbergbiltong.co.za
@@ -42,7 +47,6 @@
 0.0.0.0 apware.co.kr
 0.0.0.0 arafinmedia.com
 0.0.0.0 askarindo.or.id
-0.0.0.0 atfile.com
 0.0.0.0 atiga01.atciga.ml
 0.0.0.0 attach.66rpg.com
 0.0.0.0 atteuqpotentialunlimited.com
@@ -57,7 +61,6 @@
 0.0.0.0 bapo.granudan.cn
 0.0.0.0 bbs.sunwy.org
 0.0.0.0 bbs1.marisfrolg.com
-0.0.0.0 bcmbconsulting.com
 0.0.0.0 belsizehair.co.uk
 0.0.0.0 bemfisipol.untidar.ac.id
 0.0.0.0 besserblok-ufa.ru
@@ -68,6 +71,7 @@
 0.0.0.0 bloomcareltd.co.uk
 0.0.0.0 bolidar.dnset.com
 0.0.0.0 bpo.correct.go.th
+0.0.0.0 bsskillwsdyemmulatorsdevelovercommunity.duckdns.org
 0.0.0.0 buigiaphat.com.vn
 0.0.0.0 buyuniqueitem.in
 0.0.0.0 c.vvvvvvvvv.ga
@@ -79,6 +83,7 @@
 0.0.0.0 cf0.pw
 0.0.0.0 cfs5.tistory.com
 0.0.0.0 ch.rmu.ac.th
+0.0.0.0 changematterscounselling.com
 0.0.0.0 chanvribloc.com
 0.0.0.0 charm.bizfxr.com
 0.0.0.0 chedea.eu
@@ -93,8 +98,6 @@
 0.0.0.0 complanbt.hu
 0.0.0.0 comtechadsl.com
 0.0.0.0 config.kuaisousou.top
-0.0.0.0 config.wwmhdq.com
-0.0.0.0 config.younoteba.top
 0.0.0.0 cqjcc.org
 0.0.0.0 crisalic.fr
 0.0.0.0 crittersbythebay.com
@@ -103,8 +106,11 @@
 0.0.0.0 cyclomove.com
 0.0.0.0 czsl.91756.cn
 0.0.0.0 d2brey8g9iu52b.cloudfront.net
+0.0.0.0 d3.99ddd.com
+0.0.0.0 d9.99ddd.com
 0.0.0.0 da.alibuf.com
 0.0.0.0 danielbastos.com
+0.0.0.0 data.kaoyany.top
 0.0.0.0 data.over-blog-kiwi.com
 0.0.0.0 datapolish.com
 0.0.0.0 datvensaigon.com
@@ -119,7 +125,6 @@
 0.0.0.0 derivativespro.in
 0.0.0.0 destructionachievement.com
 0.0.0.0 dev.sebpo.net
-0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 dfzm.91756.cn
 0.0.0.0 dgecolesdepolice.bf
@@ -131,13 +136,16 @@
 0.0.0.0 djmixers.co
 0.0.0.0 dkw-engineering.net
 0.0.0.0 dl-gameplayer.dmm.com
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.198424.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dlist.iqilie.com
-0.0.0.0 dmresor.se
+0.0.0.0 dnn.alibuf.com
+0.0.0.0 dns.alibuf.com
 0.0.0.0 dodsonimaging.com
 0.0.0.0 donmago.com
 0.0.0.0 doransky.info
+0.0.0.0 dosame.com
 0.0.0.0 down.ancamera.co.kr
 0.0.0.0 down.ci43.com
 0.0.0.0 down.haote.com
@@ -145,6 +153,7 @@
 0.0.0.0 down.startools.co.kr
 0.0.0.0 down.tgjkbx.cn
 0.0.0.0 down.webbora.com
+0.0.0.0 down.xrpdf.com
 0.0.0.0 down1.arpun.com
 0.0.0.0 download.1ys.com
 0.0.0.0 download.doumaibiji.cn
@@ -158,13 +167,15 @@
 0.0.0.0 download301.wanmei.com
 0.0.0.0 dpeasesummithilltoppers.pbworks.com
 0.0.0.0 drools-moved.46999.n3.nabble.com
-0.0.0.0 dw.58wangdun.com
+0.0.0.0 dudulm.com
 0.0.0.0 dx.qqyewu.com
+0.0.0.0 dx1.qqtn.com
 0.0.0.0 dx2.qqtn.com
 0.0.0.0 dzinestudio87.co.uk
 0.0.0.0 e.dangeana.com
 0.0.0.0 edicolanazionale.it
 0.0.0.0 elokshinproperty.co.za
+0.0.0.0 emadamini.co.za
 0.0.0.0 enc-tech.com
 0.0.0.0 energisegroup.com
 0.0.0.0 entre-potes.mon-application.com
@@ -198,7 +209,6 @@
 0.0.0.0 go.xsuad.com
 0.0.0.0 gothw.club
 0.0.0.0 grafchekloder.rebatesrule.net
-0.0.0.0 greattastesmb.ca
 0.0.0.0 greenpalace.top
 0.0.0.0 gssgroups.com
 0.0.0.0 gvpcdpgc.edu.in
@@ -228,8 +238,6 @@
 0.0.0.0 inapadvance.com
 0.0.0.0 incrediblepixels.com
 0.0.0.0 incredicole.com
-0.0.0.0 ini.egkj.com
-0.0.0.0 inigbiseijfji.ru
 0.0.0.0 interludeeurope.com
 0.0.0.0 intersel-idf.org
 0.0.0.0 isso.ps
@@ -238,6 +246,7 @@
 0.0.0.0 jansen-heesch.nl
 0.0.0.0 janvierassocies.fr
 0.0.0.0 javatank.ru
+0.0.0.0 jdtrusttrading.org
 0.0.0.0 jennydemalaga.es
 0.0.0.0 jmtc.91756.cn
 0.0.0.0 joule.kpi.ua
@@ -265,6 +274,7 @@
 0.0.0.0 learningcomputing.org
 0.0.0.0 lebedyn.info
 0.0.0.0 leonardoenergie.it
+0.0.0.0 levitt.ug
 0.0.0.0 lhbfirst.com
 0.0.0.0 libya-info.com
 0.0.0.0 lifeonboard.pt
@@ -323,7 +333,7 @@
 0.0.0.0 msecurity.ro
 0.0.0.0 mteng.mmj7.com
 0.0.0.0 mueblesjcp.cl
-0.0.0.0 mutec.jp
+0.0.0.0 mv360.net
 0.0.0.0 mvb.kz
 0.0.0.0 mxpiqw.am.files.1drv.com
 0.0.0.0 mynydd-ednyfed-countryhouse.co.uk
@@ -359,6 +369,7 @@
 0.0.0.0 oy5.frefou.ru
 0.0.0.0 ozemag.com
 0.0.0.0 ozkayalar.com
+0.0.0.0 p1.lingpao8.com
 0.0.0.0 p2.lingpao8.com
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p500.mon-application.com
@@ -366,9 +377,9 @@
 0.0.0.0 palochusvet.szm.com
 0.0.0.0 partyflix.net
 0.0.0.0 pashupatiexports.com
+0.0.0.0 patch2.51lg.com
 0.0.0.0 patch2.99ddd.com
 0.0.0.0 patch3.99ddd.com
-0.0.0.0 pcsoori.com
 0.0.0.0 pedidoslalacteo.com.ar
 0.0.0.0 perfectshinehair.co.uk
 0.0.0.0 ph4s.ru
@@ -432,7 +443,7 @@
 0.0.0.0 small-business-solutions.biz
 0.0.0.0 small.962.net
 0.0.0.0 smccycles.com
-0.0.0.0 sodmalwa.pl
+0.0.0.0 snortcnc.duckdns.org
 0.0.0.0 sonsistemsogutma.com.tr
 0.0.0.0 sonvietmy.com.vn
 0.0.0.0 sota-france.fr
@@ -452,9 +463,10 @@
 0.0.0.0 symanreni.mysecondarydns.com
 0.0.0.0 szxypt.com
 0.0.0.0 t.honker.info
+0.0.0.0 tandenblekenhoofddorp.nl
 0.0.0.0 tattooartcreations.com
+0.0.0.0 taxpos.com
 0.0.0.0 tcy.198424.com
-0.0.0.0 techguide4u.com
 0.0.0.0 tehrenberg.com
 0.0.0.0 telescopelms.com
 0.0.0.0 test.iyibakkendine.com
@@ -501,12 +513,14 @@
 0.0.0.0 vfocus.net
 0.0.0.0 victorcalvoarquitecto.es
 0.0.0.0 videoswebcammsn.free.fr
+0.0.0.0 wap.dosame.com
 0.0.0.0 warriorllc.com
 0.0.0.0 wbd.5636.com
-0.0.0.0 web.babycarriersingapore.com
 0.0.0.0 web.emergingsun.com
 0.0.0.0 web.eng.ubu.ac.th
-0.0.0.0 web.heartyian.com
+0.0.0.0 web.golden-goblin.com
+0.0.0.0 web.myfortunekitty.com
+0.0.0.0 web.rpasfoundation.org
 0.0.0.0 webarte.com.br
 0.0.0.0 webq.wikaba.com
 0.0.0.0 webserverthai.com
@@ -516,16 +530,17 @@
 0.0.0.0 wmd9e.a3i1vvv.feteboc.com
 0.0.0.0 wood-expert.net
 0.0.0.0 woodsytech.com
+0.0.0.0 workfineanotherrainbowlomoyentsndybvn20.duckdns.org
 0.0.0.0 writesofpassage.co.za
 0.0.0.0 ws-ebavisapia01-dll.ir
 0.0.0.0 wsg.com.sg
-0.0.0.0 www2.recepty5.com
 0.0.0.0 x2vn.com
 0.0.0.0 xantinas.com
 0.0.0.0 xpodip.ir
 0.0.0.0 xtremeforumz.com
 0.0.0.0 yeez.net
 0.0.0.0 yesky.51down.org.cn
+0.0.0.0 yesky.xzstatic.com
 0.0.0.0 yogeshcycles.com
 0.0.0.0 yokmak.club
 0.0.0.0 yy31t.chokun.ru
