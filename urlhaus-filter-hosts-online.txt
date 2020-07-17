@@ -1,12 +1,11 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Fri, 17 Jul 2020 00:10:04 UTC
+# Updated: Fri, 17 Jul 2020 12:10:02 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
 0.0.0.0 2000kumdo.com
 0.0.0.0 21robo.com
-0.0.0.0 39unitedfrkesokoriorimiwsdystreetsmghg.duckdns.org
 0.0.0.0 3ypackaging.com
 0.0.0.0 42502d2a-e7ed-4a16-9f11-33ffe6c54021.usrfiles.com
 0.0.0.0 49parallel.ca
@@ -14,12 +13,12 @@
 0.0.0.0 7th-club.com
 0.0.0.0 87du.vip
 0.0.0.0 a-reality.co.uk
+0.0.0.0 aaacityremovalist.com
 0.0.0.0 abass.ir
 0.0.0.0 accessyouraudience.com
 0.0.0.0 acep-xploit.tk
 0.0.0.0 acteon.com.ar
 0.0.0.0 activecost.com.au
-0.0.0.0 admaris.ir
 0.0.0.0 admin.foa.ae
 0.0.0.0 admindepartment.ir
 0.0.0.0 agsir.com
@@ -38,7 +37,6 @@
 0.0.0.0 andreelapeyre.com
 0.0.0.0 andremaraisbeleggings.co.za
 0.0.0.0 angelsdetour.com
-0.0.0.0 angthong.nfe.go.th
 0.0.0.0 anvietpro.com
 0.0.0.0 anysbergbiltong.co.za
 0.0.0.0 anythingbilliest.com
@@ -46,7 +44,7 @@
 0.0.0.0 apoolcondo.com
 0.0.0.0 apware.co.kr
 0.0.0.0 arafinmedia.com
-0.0.0.0 askarindo.or.id
+0.0.0.0 atfile.com
 0.0.0.0 atiga01.atciga.ml
 0.0.0.0 attach.66rpg.com
 0.0.0.0 atteuqpotentialunlimited.com
@@ -71,7 +69,6 @@
 0.0.0.0 bloomcareltd.co.uk
 0.0.0.0 bolidar.dnset.com
 0.0.0.0 bpo.correct.go.th
-0.0.0.0 bsskillwsdyemmulatorsdevelovercommunity.duckdns.org
 0.0.0.0 buigiaphat.com.vn
 0.0.0.0 buyuniqueitem.in
 0.0.0.0 c.vvvvvvvvv.ga
@@ -83,7 +80,6 @@
 0.0.0.0 cf0.pw
 0.0.0.0 cfs5.tistory.com
 0.0.0.0 ch.rmu.ac.th
-0.0.0.0 changematterscounselling.com
 0.0.0.0 chanvribloc.com
 0.0.0.0 charm.bizfxr.com
 0.0.0.0 chedea.eu
@@ -125,6 +121,7 @@
 0.0.0.0 derivativespro.in
 0.0.0.0 destructionachievement.com
 0.0.0.0 dev.sebpo.net
+0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 dfzm.91756.cn
 0.0.0.0 dgecolesdepolice.bf
@@ -140,14 +137,13 @@
 0.0.0.0 dl.198424.com
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dlist.iqilie.com
+0.0.0.0 dmresor.se
 0.0.0.0 dnn.alibuf.com
 0.0.0.0 dns.alibuf.com
 0.0.0.0 dodsonimaging.com
 0.0.0.0 donmago.com
 0.0.0.0 doransky.info
-0.0.0.0 dosame.com
 0.0.0.0 down.ancamera.co.kr
-0.0.0.0 down.ci43.com
 0.0.0.0 down.haote.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.startools.co.kr
@@ -270,6 +266,7 @@
 0.0.0.0 lammaixep.com
 0.0.0.0 lcmsystem.com
 0.0.0.0 ld.mediaget.com
+0.0.0.0 ldrtango.casa
 0.0.0.0 learnbuddy.com
 0.0.0.0 learningcomputing.org
 0.0.0.0 lebedyn.info
@@ -277,7 +274,6 @@
 0.0.0.0 levitt.ug
 0.0.0.0 lhbfirst.com
 0.0.0.0 libya-info.com
-0.0.0.0 lifeonboard.pt
 0.0.0.0 lineahandy.it
 0.0.0.0 lists.ibiblio.org
 0.0.0.0 lists.mplayerhq.hu
@@ -297,6 +293,7 @@
 0.0.0.0 marketinfosales.com
 0.0.0.0 marketprice.com.ng
 0.0.0.0 marksidfgs.ug
+0.0.0.0 mattayom31.go.th
 0.0.0.0 mazury4x4.pl
 0.0.0.0 mbgrm.com
 0.0.0.0 medianews.ge
@@ -307,6 +304,7 @@
 0.0.0.0 members.chello.nl
 0.0.0.0 members.westnet.com.au
 0.0.0.0 merbay.ru
+0.0.0.0 merter.shop
 0.0.0.0 metallexs.com
 0.0.0.0 mettaanand.org
 0.0.0.0 mettek.com.tr
@@ -333,7 +331,6 @@
 0.0.0.0 msecurity.ro
 0.0.0.0 mteng.mmj7.com
 0.0.0.0 mueblesjcp.cl
-0.0.0.0 mv360.net
 0.0.0.0 mvb.kz
 0.0.0.0 mxpiqw.am.files.1drv.com
 0.0.0.0 mynydd-ednyfed-countryhouse.co.uk
@@ -380,6 +377,7 @@
 0.0.0.0 patch2.51lg.com
 0.0.0.0 patch2.99ddd.com
 0.0.0.0 patch3.99ddd.com
+0.0.0.0 pcsoori.com
 0.0.0.0 pedidoslalacteo.com.ar
 0.0.0.0 perfectshinehair.co.uk
 0.0.0.0 ph4s.ru
@@ -392,7 +390,6 @@
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 probost.cz
 0.0.0.0 prosoc.nl
-0.0.0.0 prowin.co.th
 0.0.0.0 pujashoppe.in
 0.0.0.0 purelondonhyg.com
 0.0.0.0 pushing.pk
@@ -402,7 +399,6 @@
 0.0.0.0 qppl.angiang.gov.vn
 0.0.0.0 quartier-midi.be
 0.0.0.0 rainbowisp.info
-0.0.0.0 rc.ixiaoyang.cn
 0.0.0.0 readytalk.github.io
 0.0.0.0 real-song.tjmedia.co.kr
 0.0.0.0 recommendservices.com
@@ -410,6 +406,7 @@
 0.0.0.0 remiduser.organiccrap.com
 0.0.0.0 renimin.mymom.info
 0.0.0.0 res.uf1.cn
+0.0.0.0 rigpiquillot.com
 0.0.0.0 rilathome.lv
 0.0.0.0 rinkaisystem-ht.com
 0.0.0.0 rkverify.securestudies.com
@@ -455,6 +452,7 @@
 0.0.0.0 sslv3.at
 0.0.0.0 starcountry.net
 0.0.0.0 static.3001.net
+0.0.0.0 static.topxgun.com
 0.0.0.0 stevewalker.com.au
 0.0.0.0 support.clz.kr
 0.0.0.0 svn.cc.jyu.fi
@@ -463,7 +461,6 @@
 0.0.0.0 symanreni.mysecondarydns.com
 0.0.0.0 szxypt.com
 0.0.0.0 t.honker.info
-0.0.0.0 tandenblekenhoofddorp.nl
 0.0.0.0 tattooartcreations.com
 0.0.0.0 taxpos.com
 0.0.0.0 tcy.198424.com
@@ -509,18 +506,12 @@
 0.0.0.0 valedchap.ir
 0.0.0.0 valencaagora.com.br
 0.0.0.0 vaziri.echobit.ir
-0.0.0.0 veyron.ir
 0.0.0.0 vfocus.net
 0.0.0.0 victorcalvoarquitecto.es
 0.0.0.0 videoswebcammsn.free.fr
-0.0.0.0 wap.dosame.com
 0.0.0.0 warriorllc.com
 0.0.0.0 wbd.5636.com
-0.0.0.0 web.emergingsun.com
 0.0.0.0 web.eng.ubu.ac.th
-0.0.0.0 web.golden-goblin.com
-0.0.0.0 web.myfortunekitty.com
-0.0.0.0 web.rpasfoundation.org
 0.0.0.0 webarte.com.br
 0.0.0.0 webq.wikaba.com
 0.0.0.0 webserverthai.com
@@ -530,13 +521,10 @@
 0.0.0.0 wmd9e.a3i1vvv.feteboc.com
 0.0.0.0 wood-expert.net
 0.0.0.0 woodsytech.com
-0.0.0.0 workfineanotherrainbowlomoyentsndybvn20.duckdns.org
-0.0.0.0 writesofpassage.co.za
-0.0.0.0 ws-ebavisapia01-dll.ir
 0.0.0.0 wsg.com.sg
+0.0.0.0 www2.recepty5.com
 0.0.0.0 x2vn.com
 0.0.0.0 xantinas.com
-0.0.0.0 xpodip.ir
 0.0.0.0 xtremeforumz.com
 0.0.0.0 yeez.net
 0.0.0.0 yesky.51down.org.cn
@@ -554,7 +542,6 @@
 0.0.0.0 zeytinyagisabun.com
 0.0.0.0 zhetysu360.kz
 0.0.0.0 ziliao.yunkaodian.com
-0.0.0.0 zj.9553.com
 0.0.0.0 zmmore.com
 0.0.0.0 zoetermeerov.nl
 0.0.0.0 zsinstrument.com
