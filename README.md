@@ -28,7 +28,6 @@ Import the following URL into uBO to subscribe (includes online and **offline** 
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter.txt
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter.txt
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter.txt
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter.txt
 
 </details>
 
@@ -49,7 +48,6 @@ _enabled by default in uBO >=[1.28.2](https://github.com/gorhill/uBlock/releases
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-online.txt
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-online.txt
 
 </details>
 
@@ -74,7 +72,6 @@ This blocklist includes domains and IP addresses.
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-domains.txt
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-domains.txt
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-domains.txt
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-domains.txt
 
 </details>
 
@@ -92,7 +89,6 @@ Lite version (online domains/IPs only):
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-domains-online.txt
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-domains-online.txt
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-domains-online.txt
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-domains-online.txt
 
 </details>
 
@@ -111,7 +107,6 @@ This blocklist includes domains only.
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-hosts.txt
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-hosts.txt
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-hosts.txt
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-hosts.txt
 
 </details>
 
@@ -129,7 +124,6 @@ Lite version (online domains only):
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-hosts-online.txt
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-hosts-online.txt
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-hosts-online.txt
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-hosts-online.txt
 
 </details>
 
@@ -162,7 +156,6 @@ printf "\nconf-file=/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf\n" >> /et
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-dnsmasq.conf
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-dnsmasq.conf
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-dnsmasq.conf
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-dnsmasq.conf
 
 </details>
 
@@ -180,7 +173,6 @@ Lite version (online domains only):
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-dnsmasq-online.conf
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-dnsmasq-online.conf
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-dnsmasq-online.conf
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-dnsmasq-online.conf
 
 </details>
 
@@ -231,7 +223,6 @@ Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-bind.conf
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-bind.conf
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-bind.conf
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-bind.conf
 
 </details>
 
@@ -249,7 +240,6 @@ Lite version (online domains only):
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-bind-online.conf
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-bind-online.conf
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-bind-online.conf
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-bind-online.conf
 
 </details>
 
@@ -282,7 +272,6 @@ printf '\n  include: "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' >> 
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-unbound.conf
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-unbound.conf
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-unbound.conf
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-unbound.conf
 
 </details>
 
@@ -300,7 +289,6 @@ Lite version (online domains only):
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-unbound-online.conf
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-unbound-online.conf
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-unbound-online.conf
-- https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-unbound-online.conf
 
 </details>
 
