@@ -320,6 +320,8 @@ See [FAQ](https://gitlab.com/curben/urlhaus-filter/wikis/faq).
 
 [Creative Commons Zero v1.0 Universal](LICENSE.md)
 
+[badge.sh](utils/badge.sh) & [.gitlab/](.gitlab/) contain badges that are licensed by [Shield.io](https://shields.io) under [CC0 1.0](LICENSE.md)
+
 [URLhaus](https://urlhaus.abuse.ch/): [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 [Tranco List](https://tranco-list.eu/): [MIT License](https://choosealicense.com/licenses/mit/)
