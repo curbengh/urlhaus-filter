@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 18 Jul 2020 12:09:57 UTC
+# Updated: Sun, 19 Jul 2020 00:09:57 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -5513,6 +5513,7 @@
 0.0.0.0 api.freelagu.org
 0.0.0.0 api.iwangsen.com
 0.0.0.0 api.jarato.at
+0.0.0.0 api.jl-workshop.com
 0.0.0.0 api.kurulu.lk
 0.0.0.0 api.miria.kz
 0.0.0.0 api.noithatshop.vn
@@ -22537,7 +22538,6 @@
 0.0.0.0 ebrightskinnganjuk.com
 0.0.0.0 ebrotasa.com
 0.0.0.0 ebrubozkurt.com
-0.0.0.0 ebs1952.com
 0.0.0.0 ebslaradio.cl
 0.0.0.0 ebtecgulf.com
 0.0.0.0 ebureherly.com
@@ -29905,6 +29905,7 @@
 0.0.0.0 gontrancherrier.com.ar
 0.0.0.0 gonulyayincilik.com
 0.0.0.0 goo-s.mn
+0.0.0.0 goo.kz
 0.0.0.0 good-deal.ml
 0.0.0.0 good-down.org
 0.0.0.0 goodapple.co.uk
@@ -36216,7 +36217,6 @@
 0.0.0.0 itsallinclusive.com
 0.0.0.0 itsalongdrivetomichiganbutatleastmynameisnotjohnson.com
 0.0.0.0 itscorp.eu
-0.0.0.0 itscrash.com
 0.0.0.0 itseasycv.co.uk
 0.0.0.0 itservicesphuket.com
 0.0.0.0 itservs.com
@@ -41801,6 +41801,7 @@
 0.0.0.0 libreentreprisemagazine.com
 0.0.0.0 libroglobale.bid
 0.0.0.0 librores.press
+0.0.0.0 librusfan.ru
 0.0.0.0 libtech.com.au
 0.0.0.0 libya-info.com
 0.0.0.0 libyabeach.tk
@@ -42391,7 +42392,6 @@
 0.0.0.0 lizeyu.ml
 0.0.0.0 lizhongjunbk.com
 0.0.0.0 lizmilano.com
-0.0.0.0 lizmoneyweb.com
 0.0.0.0 lizopassocies.com
 0.0.0.0 lizrotihouse.com
 0.0.0.0 lizvonberg.com
@@ -44773,7 +44773,6 @@
 0.0.0.0 marcelaquilodran.com
 0.0.0.0 marcelasoares.com
 0.0.0.0 marcelboom.com
-0.0.0.0 marcellopera.it
 0.0.0.0 marcelobuarque.com
 0.0.0.0 marcelq.com
 0.0.0.0 marcelsourcing.com
@@ -50672,6 +50671,7 @@
 0.0.0.0 no10thecoffeeshop.co.uk
 0.0.0.0 no1spinningfields.90degrees.digital
 0.0.0.0 no1websitedesigner.com
+0.0.0.0 no2politics.com
 0.0.0.0 no70.fun
 0.0.0.0 noach.nl
 0.0.0.0 noahheck.com
@@ -60266,6 +60266,7 @@
 0.0.0.0 s0n1c.ru
 0.0.0.0 s1059078.instanturl.net
 0.0.0.0 s1099098-26593.home-whs.pl
+0.0.0.0 s115vla.storage.yandex.net
 0.0.0.0 s116338.smrtp.ru
 0.0.0.0 s118775.smrtp.ru
 0.0.0.0 s121923.smrtp.ru
@@ -77595,6 +77596,7 @@
 0.0.0.0 xn--m3ceafca9cn1gc9rcdc0hzdh.news
 0.0.0.0 xn--m3ctl3exa.com
 0.0.0.0 xn--mellanmjlk-lcb.se
+0.0.0.0 xn--mgbaam5axqmf2i.com
 0.0.0.0 xn--mgbuee4h.com
 0.0.0.0 xn--n1b2bxcijc4cd4cfb.xn--h2brj9c
 0.0.0.0 xn--n3chnhjd2hkc0t.net
