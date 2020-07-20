@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Sun, 19 Jul 2020 12:10:08 UTC
+# Updated: Mon, 20 Jul 2020 00:09:54 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1055,6 +1055,7 @@
 103.86.48.111
 103.87.104.203
 103.87.44.73
+103.87.46.214
 103.87.55.180
 103.88.129.153
 103.88.243.155
@@ -1612,6 +1613,7 @@
 105.225.147.157
 105.225.21.46
 105.225.22.122
+105.226.224.194
 105450657-981784191671312113.preview.editmysite.com
 1056.allenbrothersfood.com
 106.0.56.178
@@ -4302,6 +4304,7 @@
 114.228.28.254
 114.228.28.255
 114.228.29.18
+114.228.30.181
 114.228.31.51
 114.228.50.224
 114.228.53.48
@@ -5381,6 +5384,7 @@
 115.48.133.198
 115.48.133.46
 115.48.138.83
+115.48.139.61
 115.48.139.87
 115.48.140.169
 115.48.140.195
@@ -8864,6 +8868,7 @@
 121.149.180.230
 121.149.186.127
 121.149.49.178
+121.149.57.217
 121.15.142.137
 121.150.72.84
 121.150.77.164
@@ -12817,6 +12822,7 @@
 14.205.199.8
 14.205.201.134
 14.207.59.223
+14.221.4.132
 14.221.4.94
 14.221.5.108
 14.230.232.48
@@ -14816,6 +14822,7 @@
 162.212.114.54
 162.212.114.55
 162.212.114.57
+162.212.114.58
 162.212.114.59
 162.212.114.62
 162.212.114.65
@@ -15995,6 +16002,7 @@
 171.222.120.195
 171.222.121.233
 171.222.122.189
+171.222.122.220
 171.222.122.67
 171.222.123.206
 171.226.19.134
@@ -17612,6 +17620,7 @@
 172.39.56.230
 172.39.56.38
 172.39.56.84
+172.39.56.94
 172.39.57.101
 172.39.57.16
 172.39.57.68
@@ -18219,6 +18228,7 @@
 172.45.9.184
 172.45.9.20
 172.45.9.208
+172.45.9.227
 172.45.9.23
 172.45.9.41
 172.81.132.143
@@ -21452,6 +21462,7 @@
 182.117.171.203
 182.117.171.49
 182.117.174.51
+182.117.177.94
 182.117.178.91
 182.117.180.131
 182.117.180.187
@@ -24657,6 +24668,7 @@
 189.132.34.33
 189.133.108.81
 189.133.211.180
+189.133.218.77
 189.133.224.2
 189.133.246.124
 189.135.100.31
@@ -24764,6 +24776,7 @@
 189.237.17.184
 189.238.11.212
 189.238.134.84
+189.238.167.89
 189.238.192.19
 189.238.193.85
 189.243.117.102
@@ -25041,6 +25054,7 @@
 191.13.47.22
 191.13.57.101
 191.13.6.207
+191.13.89.144
 191.13.9.111
 191.132.133.14
 191.17.148.167
@@ -26607,6 +26621,7 @@
 199.83.207.63
 199.83.207.64
 199.83.207.65
+199.83.207.71
 199.83.207.72
 199.83.207.76
 199.83.207.79
@@ -26722,6 +26737,7 @@
 2.179.106.200
 2.179.108.245
 2.179.112.190
+2.179.167.112
 2.179.182.29
 2.179.202.165
 2.179.229.176
@@ -28430,6 +28446,7 @@
 213.8.173.14
 213.81.136.78
 213.81.178.115
+213.87.13.205
 213.87.13.223
 213.91.244.58
 213.92.198.8
@@ -31544,6 +31561,7 @@
 24.133.203.45
 24.135.173.90
 24.135.239.98
+24.135.53.174
 24.137.147.95
 24.138.216.171
 24.14.188.26
@@ -31929,6 +31947,7 @@
 27.41.174.165
 27.41.174.178
 27.41.174.179
+27.41.174.239
 27.41.174.243
 27.41.174.249
 27.41.174.252
@@ -32102,6 +32121,7 @@
 27.72.40.22
 27.74.112.133
 27.74.138.76
+27.74.220.76
 27.74.242.136
 27.74.252.232
 27.74.253.222
@@ -36374,6 +36394,7 @@
 45.143.222.30
 45.143.222.41
 45.143.223.108
+45.143.223.111
 45.143.223.42
 45.144.2.104
 45.144.2.209
@@ -38526,6 +38547,7 @@
 49.81.238.9
 49.81.238.95
 49.81.239.16
+49.81.239.65
 49.81.242.239
 49.81.248.13
 49.81.248.234
@@ -40283,6 +40305,7 @@
 59.24.115.81
 59.24.69.58
 59.25.141.169
+59.25.142.186
 59.25.173.44
 59.25.9.121
 59.27.70.69
@@ -43139,6 +43162,7 @@
 77.43.166.52
 77.43.167.59
 77.43.170.132
+77.43.170.3
 77.43.171.16
 77.43.171.180
 77.43.171.21
@@ -44649,6 +44673,7 @@
 87.66.219.63
 87.70.30.241
 87.70.30.242
+87.71.40.156
 87.74.64.18
 87.76.10.172
 87.76.36.253
@@ -45535,6 +45560,7 @@
 93.171.157.73
 93.171.27.199
 93.171.33.234
+93.172.56.135
 93.172.74.45
 93.173.237.145
 93.174.93.143
@@ -46051,6 +46077,7 @@
 98.159.110.69
 98.159.110.72
 98.159.110.79
+98.159.99.102
 98.159.99.11
 98.159.99.116
 98.159.99.12
@@ -51339,7 +51366,6 @@ ashleywalkerfuns.com
 ashleywolf.tech
 ashmira.in
 ashoakacharya.com
-ashokafootwear.in
 ashokjewellers.ca
 ashokshahdeo.com
 ashoksteelcraft.com
@@ -59065,7 +59091,6 @@ chateaumontagne.com
 chaterji.in
 chatmusic.xyz
 chatnwax.com
-chatonabd.com
 chatours.ru
 chatoursclub.com
 chatpetit.com
@@ -59628,6 +59653,7 @@ cigpcl.com
 ciicpro.com
 cilantrodigital.com
 cild.edu.vn
+cilico.com
 cilingirankara.org
 cilingirusta.com
 cilinka.nl
@@ -80496,6 +80522,7 @@ iranglass.co
 irangoodshop.com
 iranianeconews.com
 iranianjahesh.com
+iraniansc.ir
 iranmadan.com
 iranmelorin.com
 iranmohaseb.ir
@@ -80931,6 +80958,7 @@ itsababygirl.co
 itsallinclusive.com
 itsalongdrivetomichiganbutatleastmynameisnotjohnson.com
 itscorp.eu
+itscrash.com
 itseasycv.co.uk
 itservicesphuket.com
 itservs.com
@@ -83849,7 +83877,6 @@ kiber-soft.net
 kiber-soft.ru
 kiborg.eu
 kibostores.com
-kic.ac.th
 kiccamt.com
 kicensinfa.com
 kicgfgxspfqq6d79.com
@@ -86660,6 +86687,7 @@ lightcraftevents.pl
 lightday.pl
 lighteningmedialabs.com
 lighteningplayer.com
+lightenpdf.com
 lightforthezulunation.org
 lightfromheaven.org
 lighthouse.kz
@@ -88300,6 +88328,7 @@ magconnect.net
 magda.zelentourism.com
 magdailha.com.br
 magdalenapiotrowska.pl
+magdalenatota.pl
 magdoil.com
 magedecorland.mediadevstaging.com
 magehelpers.com
@@ -99790,6 +99819,7 @@ pni5.ru
 pnkp.co.id
 pnneuroeducacao.pt
 pnnpartner.com
+pnra.org
 pnronline.in
 pnrts.sg
 pnsolco.com
@@ -117491,6 +117521,7 @@ update.com.br
 update.covid-19.casa
 update.gk-mtm.ru
 update.hoiucvl.com
+update.id
 update.igra123.com
 update.iwang8.com
 update.jirisancapital.com
@@ -120772,7 +120803,6 @@ williamenterprisetrading.com
 williamhartley.co.uk
 williamlaneco.com
 williams.gb.net
-williamsburgpaintingservice.com
 williamsonteas.com
 williamsriverholidaypark.com
 williamssminexroad.cf
