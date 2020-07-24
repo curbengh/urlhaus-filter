@@ -1,9 +1,10 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Thu, 23 Jul 2020 12:10:00 UTC
+# Updated: Fri, 24 Jul 2020 00:10:00 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
 # Source: https://urlhaus.abuse.ch/api/
+0.0.0.0 1001sb.checkyourprojects.com
 0.0.0.0 2000kumdo.com
 0.0.0.0 21robo.com
 0.0.0.0 224fgbet.com
@@ -31,7 +32,6 @@
 0.0.0.0 admin.foa.ae
 0.0.0.0 admindepartment.ir
 0.0.0.0 adrianamurakami.com
-0.0.0.0 agatec.com.br
 0.0.0.0 agoty.org
 0.0.0.0 agsir.com
 0.0.0.0 aibd.sn
@@ -46,8 +46,8 @@
 0.0.0.0 allloveseries.com
 0.0.0.0 alohasoftware.net
 0.0.0.0 alphaconsumer.net
-0.0.0.0 altwebsite.com.br
 0.0.0.0 am-concepts.ca
+0.0.0.0 amd.alibuf.com
 0.0.0.0 amemarine.co.th
 0.0.0.0 amirthafoundation.com
 0.0.0.0 andreelapeyre.com
@@ -70,11 +70,11 @@
 0.0.0.0 atteuqpotentialunlimited.com
 0.0.0.0 aulist.com
 0.0.0.0 autoblog.gokulnath.me
-0.0.0.0 avantgardechristianschool.com
 0.0.0.0 azmeasurement.com
 0.0.0.0 azzd.co.kr
 0.0.0.0 babaroadways.in
 0.0.0.0 backgrounds.pk
+0.0.0.0 bagraphics.net
 0.0.0.0 bamakobleach.free.fr
 0.0.0.0 bangkok-orchids.com
 0.0.0.0 banhangsivn.com
@@ -83,12 +83,10 @@
 0.0.0.0 bbs.sunwy.org
 0.0.0.0 bbs1.marisfrolg.com
 0.0.0.0 bdvan.com
-0.0.0.0 beadsgem.com
 0.0.0.0 belsizehair.co.uk
 0.0.0.0 bemfisipol.untidar.ac.id
 0.0.0.0 bergama.org.tr
 0.0.0.0 besserblok-ufa.ru
-0.0.0.0 bettiahnews.com
 0.0.0.0 beylerbeyibasketbol.org
 0.0.0.0 bheragreens.com
 0.0.0.0 bigmuscle-bh.com
@@ -96,6 +94,7 @@
 0.0.0.0 biyaofushi.com
 0.0.0.0 blog.241optical.com
 0.0.0.0 bloomcareltd.co.uk
+0.0.0.0 blswlaw.com
 0.0.0.0 bolidar.dnset.com
 0.0.0.0 bpkad.lomboktengahkab.go.id
 0.0.0.0 bpo.correct.go.th
@@ -109,7 +108,6 @@
 0.0.0.0 camocnc.duckdns.org
 0.0.0.0 carbonazin.com
 0.0.0.0 cassovia.sk
-0.0.0.0 cdfairplayusa.com
 0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cellas.sk
 0.0.0.0 cellstore.net.br
@@ -117,15 +115,16 @@
 0.0.0.0 cf0.pw
 0.0.0.0 cfs5.tistory.com
 0.0.0.0 ch.rmu.ac.th
+0.0.0.0 chadcast.com
 0.0.0.0 changematterscounselling.com
 0.0.0.0 chanvribloc.com
 0.0.0.0 charlols.ascjcapstone.com
 0.0.0.0 charm.bizfxr.com
 0.0.0.0 chestersvideobar.com
-0.0.0.0 chiaraberettamazzotta.it
 0.0.0.0 chinhdropfile.myvnc.com
 0.0.0.0 chinhdropfile80.myvnc.com
 0.0.0.0 chiphamspa.com
+0.0.0.0 citirealbinhthuan.com
 0.0.0.0 cjto.top
 0.0.0.0 ckl6767.com
 0.0.0.0 class.britishonline.co
@@ -133,7 +132,6 @@
 0.0.0.0 clearwaterriveroutfitting.com
 0.0.0.0 cnml.com.br
 0.0.0.0 colegioarabe.com
-0.0.0.0 colourcreative.co.za
 0.0.0.0 complan.hu
 0.0.0.0 complanbt.hu
 0.0.0.0 completedigitalmedia.co.uk
@@ -141,15 +139,14 @@
 0.0.0.0 comtechadsl.com
 0.0.0.0 config.cqhbkjzx.com
 0.0.0.0 config.kuaisousou.top
-0.0.0.0 config.younoteba.top
+0.0.0.0 config.wwmhdq.com
 0.0.0.0 construccionesfonseca.com
 0.0.0.0 consultorias.smartdevmx.com
-0.0.0.0 coworkanytime.com
 0.0.0.0 cpnti.com
 0.0.0.0 cqjcc.org
+0.0.0.0 crimsonrealtypoint.com
 0.0.0.0 crisalic.fr
 0.0.0.0 crittersbythebay.com
-0.0.0.0 crogtrt.com
 0.0.0.0 csnserver.com
 0.0.0.0 ctannous.com
 0.0.0.0 current9.com.ng
@@ -158,7 +155,8 @@
 0.0.0.0 czsl.91756.cn
 0.0.0.0 d2brey8g9iu52b.cloudfront.net
 0.0.0.0 d3.99ddd.com
-0.0.0.0 data.kaoyany.top
+0.0.0.0 d9.99ddd.com
+0.0.0.0 da.alibuf.com
 0.0.0.0 data.over-blog-kiwi.com
 0.0.0.0 datapolish.com
 0.0.0.0 datvensaigon.com
@@ -174,7 +172,7 @@
 0.0.0.0 departure.world
 0.0.0.0 derivativespro.in
 0.0.0.0 dev.sebpo.net
-0.0.0.0 devangkamdar21-001-site48.btempurl.com
+0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 dfzm.91756.cn
 0.0.0.0 dgecolesdepolice.bf
@@ -182,7 +180,6 @@
 0.0.0.0 dichvuvesinhcongnghiep.top
 0.0.0.0 die-eickelbaums.de
 0.0.0.0 digilib.dianhusada.ac.id
-0.0.0.0 ditadesign.com.br
 0.0.0.0 ditib-landshut.de
 0.0.0.0 djmixers.co
 0.0.0.0 dl-gameplayer.dmm.com
@@ -191,14 +188,15 @@
 0.0.0.0 dl.dzqzd.com
 0.0.0.0 dlist.iqilie.com
 0.0.0.0 dmresor.se
-0.0.0.0 dnamsolutions.com
 0.0.0.0 dnn.alibuf.com
 0.0.0.0 dns.alibuf.com
 0.0.0.0 dodsonimaging.com
 0.0.0.0 donmago.com
 0.0.0.0 doransky.info
+0.0.0.0 dosame.com
 0.0.0.0 dovberger.com
 0.0.0.0 down.ancamera.co.kr
+0.0.0.0 down.ci43.com
 0.0.0.0 down.haote.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.startools.co.kr
@@ -213,15 +211,15 @@
 0.0.0.0 download.kaobeitu.com
 0.0.0.0 download.rising.com.cn
 0.0.0.0 download.skycn.com
+0.0.0.0 download.ttz3.cn
 0.0.0.0 download301.wanmei.com
 0.0.0.0 dpeasesummithilltoppers.pbworks.com
 0.0.0.0 dr-consulting.de
 0.0.0.0 dr-fehlauer.de
 0.0.0.0 drools-moved.46999.n3.nabble.com
 0.0.0.0 drs-spotter.de
-0.0.0.0 durationpress.com
+0.0.0.0 dudulm.com
 0.0.0.0 duyster.info
-0.0.0.0 dw.58wangdun.com
 0.0.0.0 dx.qqyewu.com
 0.0.0.0 dx1.qqtn.com
 0.0.0.0 dx2.qqtn.com
@@ -244,10 +242,8 @@
 0.0.0.0 erma-systemsoft.de
 0.0.0.0 ermekanik.com
 0.0.0.0 esteteam.org
-0.0.0.0 etherdox.com
 0.0.0.0 ev0lve.cf
 0.0.0.0 evisualsoft-001-site3.atempurl.com
-0.0.0.0 exactlly.com
 0.0.0.0 excelenceimoveis.com.br
 0.0.0.0 exchangecamp.ir
 0.0.0.0 ezfintechcorp.com
@@ -259,9 +255,9 @@
 0.0.0.0 fansida.cn
 0.0.0.0 fantomgl.com
 0.0.0.0 fashionchandani.com
+0.0.0.0 fatosdafe.com
 0.0.0.0 fczcwf.shop
 0.0.0.0 fidiag.kymco.com
-0.0.0.0 fijipiscinas.com
 0.0.0.0 files.fqapps.com
 0.0.0.0 files6.uludagbilisim.com
 0.0.0.0 findusdev.stackk.in
@@ -269,11 +265,9 @@
 0.0.0.0 fitnessanddance.de
 0.0.0.0 fixit.com.my
 0.0.0.0 fkd.derpcity.ru
-0.0.0.0 fmjstorage.com
 0.0.0.0 fotobooth.at
 0.0.0.0 fotros19.ir
 0.0.0.0 frin.ng
-0.0.0.0 frituraslavictoria.com
 0.0.0.0 fstation.dynu.net
 0.0.0.0 ftpftpftp.com
 0.0.0.0 funletters.net
@@ -291,7 +285,6 @@
 0.0.0.0 gnimelf.net
 0.0.0.0 go.xsuad.com
 0.0.0.0 gokulnath.me
-0.0.0.0 govastore.pe
 0.0.0.0 grafchekloder.rebatesrule.net
 0.0.0.0 greeena.com
 0.0.0.0 greenpalace.top
@@ -303,7 +296,6 @@
 0.0.0.0 habbotips.free.fr
 0.0.0.0 hagebakken.no
 0.0.0.0 hanaphoto.co.kr
-0.0.0.0 handesign.vn
 0.0.0.0 handrush.com
 0.0.0.0 heartshapedglasses.ca
 0.0.0.0 hempdoc.us
@@ -321,6 +313,7 @@
 0.0.0.0 hseda.com
 0.0.0.0 hsmwebapp.com
 0.0.0.0 htxl.cn
+0.0.0.0 hugues.ch
 0.0.0.0 hyadegari.ir
 0.0.0.0 hyundailamdong.com.vn
 0.0.0.0 ictmhs.fk.undip.ac.id
@@ -336,18 +329,14 @@
 0.0.0.0 irantrb.com
 0.0.0.0 iremart.es
 0.0.0.0 isso.ps
-0.0.0.0 jacksinspiration.com
 0.0.0.0 jamiafazal.com.pk
 0.0.0.0 jamiekaylive.com
 0.0.0.0 jamshed.pk
 0.0.0.0 jansen-heesch.nl
 0.0.0.0 janvierassocies.fr
-0.0.0.0 javatank.ru
 0.0.0.0 jdtrusttrading.org
 0.0.0.0 jmtc.91756.cn
-0.0.0.0 joshandbrooke.com
 0.0.0.0 joule.kpi.ua
-0.0.0.0 joyville.global9.in
 0.0.0.0 jrmlocks.ir
 0.0.0.0 jygasoft.com
 0.0.0.0 k.ludong.tv
@@ -356,8 +345,8 @@
 0.0.0.0 karavantekstil.com
 0.0.0.0 kasparksy.com
 0.0.0.0 kdsp.co.kr
+0.0.0.0 kdtphumy.com
 0.0.0.0 kejpa.com
-0.0.0.0 kendra.ee
 0.0.0.0 kjbm9.mof.gov.cn
 0.0.0.0 kjcpromo.com
 0.0.0.0 kleinendeli.co.za
@@ -388,8 +377,8 @@
 0.0.0.0 loadprague.casa
 0.0.0.0 lodergord.com
 0.0.0.0 louisettepouliot.com
-0.0.0.0 lovecryst.com
 0.0.0.0 lsyr.net
+0.0.0.0 lt02.datacomspecialists.net
 0.0.0.0 luatminhthuan.com
 0.0.0.0 lucas.hastalavista.com.br
 0.0.0.0 luisnacht.com.ar
@@ -405,7 +394,6 @@
 0.0.0.0 marketevip.com
 0.0.0.0 marketinfosales.com
 0.0.0.0 marketprice.com.ng
-0.0.0.0 mattayom31.go.th
 0.0.0.0 mbgrm.com
 0.0.0.0 medianews.ge
 0.0.0.0 meeweb.com
@@ -422,6 +410,7 @@
 0.0.0.0 mhkdhotbot80.myvnc.com
 0.0.0.0 micalle.com.au
 0.0.0.0 mikrokaynakmerkezi.com
+0.0.0.0 minijuss.sslblindado.com
 0.0.0.0 mirror.mypage.sk
 0.0.0.0 mis.nbcc.ac.th
 0.0.0.0 misterson.com
@@ -438,12 +427,12 @@
 0.0.0.0 mteng.mmj7.com
 0.0.0.0 mtfelektroteknik.com
 0.0.0.0 musei.basilicata.beniculturali.it
+0.0.0.0 mv360.net
 0.0.0.0 mvb.kz
 0.0.0.0 mxpiqw.am.files.1drv.com
 0.0.0.0 mynydd-ednyfed-countryhouse.co.uk
 0.0.0.0 myo.net.au
 0.0.0.0 myofficeplus.com
-0.0.0.0 myprospectjobs.com
 0.0.0.0 mythikall.com
 0.0.0.0 mytrains.net
 0.0.0.0 mywp.asia
@@ -452,6 +441,7 @@
 0.0.0.0 neocity1.free.fr
 0.0.0.0 nerve.untergrund.net
 0.0.0.0 news.omumusic.net
+0.0.0.0 news247.agency
 0.0.0.0 newsun-shop.com
 0.0.0.0 nexwebsolutions.com
 0.0.0.0 ngoaingu.garage.com.vn
@@ -469,8 +459,8 @@
 0.0.0.0 office-supply.top
 0.0.0.0 ohe.ie
 0.0.0.0 ohsewgorgeous.co.uk
-0.0.0.0 okhuizen.com
 0.0.0.0 oknoplastik.sk
+0.0.0.0 olu85.com
 0.0.0.0 omega.az
 0.0.0.0 ooskajoos.com
 0.0.0.0 opolis.io
@@ -478,14 +468,15 @@
 0.0.0.0 osdsoft.com
 0.0.0.0 otanityre.in
 0.0.0.0 ozemag.com
-0.0.0.0 p-andemi-destek-sosyl.com
 0.0.0.0 p1.lingpao8.com
 0.0.0.0 p2.lingpao8.com
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p500.mon-application.com
 0.0.0.0 p6.zbjimg.com
+0.0.0.0 pacific-portals.com
 0.0.0.0 packersmoversmohali.com
 0.0.0.0 palochusvet.szm.com
+0.0.0.0 pampapoint.com
 0.0.0.0 pashupatiexports.com
 0.0.0.0 patch2.51lg.com
 0.0.0.0 patch2.99ddd.com
@@ -494,26 +485,32 @@
 0.0.0.0 paycoinbrokerfx.com
 0.0.0.0 pcsoori.com
 0.0.0.0 pedidoslalacteo.com.ar
-0.0.0.0 penir.net
 0.0.0.0 perfectshinehair.co.uk
 0.0.0.0 petafilm.com
 0.0.0.0 ph4s.ru
 0.0.0.0 phamchilong.com
 0.0.0.0 phudieusongma.com
 0.0.0.0 pink99.com
+0.0.0.0 pinmeiglobal.com
 0.0.0.0 poisss.jhfddd.com
 0.0.0.0 ponik.fartit.com
 0.0.0.0 ponnoshomvar.com
+0.0.0.0 portorangepet911.com
+0.0.0.0 portorangevet911.com
 0.0.0.0 ppl.ac.id
 0.0.0.0 prakritistore.in
+0.0.0.0 preserveworld.com
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 probost.cz
+0.0.0.0 professionalartists.com
 0.0.0.0 prosoc.nl
+0.0.0.0 protocoloevent.com
 0.0.0.0 pto.umpwr.ac.id
 0.0.0.0 pujashoppe.in
 0.0.0.0 pulsethestore.com
 0.0.0.0 purelondonhyg.com
 0.0.0.0 pushing.pk
+0.0.0.0 qianjiangchao.com
 0.0.0.0 qif.ac.ke
 0.0.0.0 qmsled.com
 0.0.0.0 qppl.angiang.gov.vn
@@ -521,6 +518,7 @@
 0.0.0.0 rainbowisp.info
 0.0.0.0 rainmakeradvisor.com
 0.0.0.0 rajratanenterprises.xyz
+0.0.0.0 rantau.us
 0.0.0.0 rc.ixiaoyang.cn
 0.0.0.0 readytalk.github.io
 0.0.0.0 real-song.tjmedia.co.kr
@@ -545,12 +543,10 @@
 0.0.0.0 s.kk30.com
 0.0.0.0 saboorjaam.ir
 0.0.0.0 sadiqgill.com
-0.0.0.0 sahathaikasetpan.com
 0.0.0.0 salesforce-ibmcloud.kozow.com
 0.0.0.0 sandhutengineersandconsultants.in
 0.0.0.0 sandovalgraphics.com
 0.0.0.0 scglobal.co.th
-0.0.0.0 scoutadvisors.com
 0.0.0.0 sefp-boispro.fr
 0.0.0.0 seimeinooka.jp
 0.0.0.0 serpentrising.com
@@ -563,7 +559,6 @@
 0.0.0.0 shawigroup.com
 0.0.0.0 shembefoundation.com
 0.0.0.0 shop.honarsetarehsazan.ir
-0.0.0.0 shreeharisales.org
 0.0.0.0 sinastorage.cn
 0.0.0.0 sindicato1ucm.cl
 0.0.0.0 sinosafety.com
@@ -575,7 +570,6 @@
 0.0.0.0 small.962.net
 0.0.0.0 smccycles.com
 0.0.0.0 snortcnc.duckdns.org
-0.0.0.0 sociallysavvyseo.com
 0.0.0.0 songbadtv.com
 0.0.0.0 sonsistemsogutma.com.tr
 0.0.0.0 sonvietmy.com.vn
@@ -592,7 +586,6 @@
 0.0.0.0 stevewalker.com.au
 0.0.0.0 stylowepodroze.pl
 0.0.0.0 sugarcoatitdev.online
-0.0.0.0 suibe.net
 0.0.0.0 support.clz.kr
 0.0.0.0 svn.cc.jyu.fi
 0.0.0.0 sweaty.dk
@@ -603,10 +596,12 @@
 0.0.0.0 tandenblekenhoofddorp.nl
 0.0.0.0 taobaogame.top
 0.0.0.0 tattooartcreations.com
+0.0.0.0 taxpos.com
 0.0.0.0 tcy.198424.com
 0.0.0.0 tecnea.com
 0.0.0.0 tehrenberg.com
 0.0.0.0 telescopelms.com
+0.0.0.0 terkpecas.com.br
 0.0.0.0 test.iyibakkendine.com
 0.0.0.0 test1.cxyw.net
 0.0.0.0 testdatabaseforcepoint.com
@@ -644,7 +639,6 @@
 0.0.0.0 ukronet.ru
 0.0.0.0 ulusalofis.com
 0.0.0.0 umeedupvanfoundation.com
-0.0.0.0 unagestion.com
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 uniengrisb.com
 0.0.0.0 uniquehall.net
@@ -658,8 +652,6 @@
 0.0.0.0 uxfactory.com.br
 0.0.0.0 uytgvhdfsdxc.ug
 0.0.0.0 vadyur.github.io
-0.0.0.0 valarchihomes.com
-0.0.0.0 valarchihomes.qmarkonline.com
 0.0.0.0 valedchap.ir
 0.0.0.0 valencaagora.com.br
 0.0.0.0 vaobong66.com
@@ -672,7 +664,8 @@
 0.0.0.0 vip-exness.com
 0.0.0.0 visaomz.com
 0.0.0.0 vnitservice.com
-0.0.0.0 voiceofmauritius.co.uk
+0.0.0.0 vontech.com.sg
+0.0.0.0 wap.dosame.com
 0.0.0.0 wbd.5636.com
 0.0.0.0 web.eng.ubu.ac.th
 0.0.0.0 webarte.com.br
@@ -710,7 +703,6 @@
 0.0.0.0 yesky.xzstatic.com
 0.0.0.0 youthindiaassociation.com
 0.0.0.0 yunbang.cn
-0.0.0.0 yunguji.com
 0.0.0.0 yy31t.chokun.ru
 0.0.0.0 zagruz.dnset.com
 0.0.0.0 zagruz.toh.info
