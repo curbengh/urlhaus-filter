@@ -1,5 +1,5 @@
 ! Title: Online Malicious URL Blocklist
-! Updated: Sat, 25 Jul 2020 12:09:54 UTC
+! Updated: Sun, 26 Jul 2020 00:09:54 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -73,7 +73,6 @@
 ||102.141.240.139^
 ||102.141.241.14^
 ||102.182.126.91^
-||102.68.153.66^
 ||103.102.68.27^
 ||103.116.87.130^
 ||103.125.218.107^
@@ -83,21 +82,19 @@
 ||103.204.168.34^
 ||103.210.31.84^
 ||103.221.254.130^
-||103.234.226.133^
 ||103.237.173.218^
 ||103.240.249.121^
 ||103.31.47.214^
 ||103.4.117.26^
 ||103.42.252.130^
 ||103.50.4.235^
-||103.50.7.19^
+||103.59.134.166^
 ||103.79.112.254^
 ||103.80.210.9^
 ||103.89.88.39^
 ||103.92.25.90^
 ||103.92.25.95^
 ||104.11.87.33^
-||104.140.114.103^
 ||104.152.156.22^
 ||104.175.99.243^
 ||104.186.40.115^
@@ -109,6 +106,9 @@
 ||106.105.197.111^
 ||106.105.218.18^
 ||106.110.111.40^
+||106.110.90.181^
+||106.111.155.239^
+||106.86.214.235^
 ||107.142.169.193^
 ||107.144.64.190^
 ||107.174.206.110^
@@ -129,7 +129,6 @@
 ||109.124.90.229^
 ||109.233.196.232^
 ||109.235.7.228^
-||109.248.58.238^
 ||109.95.200.102^
 ||109.96.57.246^
 ||109.97.46.170^
@@ -143,12 +142,14 @@
 ||111.38.107.18^
 ||111.38.25.34^
 ||111.38.26.152^
+||111.38.26.173^
 ||111.38.26.184^
 ||111.38.26.185^
 ||111.38.26.196^
 ||111.38.28.137^
 ||111.42.103.51^
 ||111.42.66.178^
+||111.42.66.31^
 ||111.61.52.53^
 ||111.93.169.90^
 ||112.156.36.178^
@@ -160,6 +161,7 @@
 ||112.167.148.70^
 ||112.170.205.85^
 ||112.170.23.21^
+||112.172.53.150^
 ||112.184.221.124^
 ||112.184.23.112^
 ||112.186.154.28^
@@ -167,13 +169,13 @@
 ||112.186.35.224^
 ||112.197.235.143^
 ||112.199.76.44^
+||112.27.91.185^
 ||112.27.91.212^
 ||112.27.91.234^
 ||112.27.91.236^
 ||112.28.98.61^
 ||112.78.45.158^
 ||113.254.169.251^
-||113.68.224.189^
 ||113.75.20.20^
 ||114.226.232.108^
 ||114.227.0.151^
@@ -183,24 +185,32 @@
 ||114.228.25.27^
 ||114.228.30.181^
 ||114.233.123.152^
+||114.234.195.71^
 ||114.234.38.91^
 ||114.235.24.79^
 ||114.235.3.33^
+||114.235.42.74^
 ||114.239.118.175^
+||114.239.172.155^
 ||114.79.172.42^
 ||115.21.29.160^
-||116.179.31.188^
-||116.206.164.46^
+||116.113.180.183^
+||116.114.95.120^
+||116.114.95.128^
+||116.114.95.201^
+||116.114.95.202^
+||116.114.95.3^
 ||116.241.138.124^
 ||116.241.47.220^
+||117.60.204.195^
 ||117.60.239.70^
 ||117.87.170.82^
 ||117.87.208.98^
 ||117.87.239.145^
 ||117.87.55.187^
 ||117.87.64.134^
+||117.90.162.203^
 ||117.93.177.56^
-||117.95.173.117^
 ||118.232.12.130^
 ||118.232.128.147^
 ||118.232.208.215^
@@ -212,12 +222,14 @@
 ||118.40.201.173^
 ||118.42.204.218^
 ||118.42.208.62^
+||118.42.233.90^
 ||118.46.36.186^
 ||118.46.7.246^
 ||118.99.151.145^
 ||118.99.179.164^
 ||118.99.239.217^
 ||119.14.163.71^
+||119.149.126.79^
 ||119.159.224.154^
 ||119.18.38.144^
 ||119.2.48.159^
@@ -227,7 +239,6 @@
 ||12.178.187.7^
 ||12.178.187.8^
 ||12.178.187.9^
-||12.25.14.44^
 ||12.30.166.150^
 ||120.150.152.201^
 ||120.237.170.27^
@@ -242,14 +253,16 @@
 ||121.159.77.97^
 ||121.169.193.165^
 ||121.170.8.145^
+||121.174.253.229^
 ||121.175.186.86^
 ||121.185.17.241^
 ||121.186.105.200^
+||121.186.33.223^
 ||121.186.74.53^
+||121.226.152.107^
 ||121.226.158.186^
 ||121.226.208.203^
 ||121.233.104.84^
-||121.235.161.94^
 ||121.86.113.254^
 ||122.100.76.205^
 ||122.160.111.68^
@@ -287,6 +300,7 @@
 ||124.6.14.208^
 ||124.67.89.40^
 ||124.67.89.52^
+||125.104.96.109^
 ||125.130.59.163^
 ||125.138.57.208^
 ||125.140.140.218^
@@ -329,15 +343,22 @@
 ||144.64.12.241^
 ||146.71.79.230^
 ||147.91.212.250^
+||149.3.124.112^
+||149.3.124.194^
+||149.3.124.232^
+||149.3.36.171^
+||149.3.36.192^
+||149.3.36.49^
 ||149.3.73.241^
 ||149.3.85.197^
-||149.3.85.207^
+||149.3.85.69^
 ||150.116.206.221^
 ||150.117.232.103^
 ||150.129.151.212^
 ||150.255.220.3^
 ||150.co.il/AnyDesk.exe$all
 ||154.126.178.16^
+||158.222.208.86^
 ||159.224.74.112^
 ||162.0.224.159^
 ||162.194.28.60^
@@ -345,6 +366,8 @@
 ||164.163.238.210^
 ||165.90.16.5^
 ||171.101.45.90^
+||171.38.220.5^
+||171.97.115.18^
 ||172.114.244.127^
 ||172.90.37.142^
 ||173.168.197.166^
@@ -370,10 +393,11 @@
 ||176.108.58.123^
 ||176.113.161.121^
 ||176.113.161.126^
-||176.113.161.128^
 ||176.113.161.129^
+||176.113.161.136^
 ||176.113.161.138^
 ||176.113.161.37^
+||176.113.161.45^
 ||176.113.161.59^
 ||176.113.161.84^
 ||176.113.161.88^
@@ -382,10 +406,12 @@
 ||176.123.7.115^
 ||176.193.6.105^
 ||176.214.78.192^
-||176.221.188.241^
+||176.221.188.141^
+||176.221.188.3^
 ||176.221.188.63^
-||176.221.206.140^
 ||176.221.220.238^
+||176.221.242.107^
+||176.221.242.209^
 ||176.221.242.90^
 ||176.79.181.185^
 ||176.84.68.248^
@@ -400,7 +426,6 @@
 ||177.54.83.22^
 ||177.67.8.11^
 ||177.72.2.186^
-||177.82.175.56^
 ||178.124.182.187^
 ||178.136.195.90^
 ||178.165.122.141^
@@ -425,7 +450,7 @@
 ||180.116.20.52^
 ||180.116.212.252^
 ||180.116.238.144^
-||180.123.171.123^
+||180.123.247.199^
 ||180.123.59.230^
 ||180.123.89.255^
 ||180.124.125.100^
@@ -448,7 +473,6 @@
 ||181.112.218.6^
 ||181.112.33.222^
 ||181.114.101.85^
-||181.129.45.202^
 ||181.129.9.58^
 ||181.143.60.163^
 ||181.143.70.194^
@@ -487,9 +511,8 @@
 ||185.132.53.144^
 ||185.132.53.191^
 ||185.132.53.229^
-||185.132.53.42^
-||185.132.53.81^
 ||185.132.53.98^
+||185.136.193.70^
 ||185.138.123.179^
 ||185.14.250.199^
 ||185.151.242.196^
@@ -498,7 +521,6 @@
 ||185.172.110.186^
 ||185.172.110.208^
 ||185.172.110.216^
-||185.172.110.217^
 ||185.172.110.224^
 ||185.172.110.240^
 ||185.172.110.241^
@@ -510,10 +532,12 @@
 ||185.172.111.196^
 ||185.172.111.198^
 ||185.172.111.199^
+||185.172.111.221^
 ||185.172.111.225^
 ||185.181.10.234^
 ||185.228.141.74^
 ||185.239.203.60^
+||185.249.198.100^
 ||185.34.16.231^
 ||185.43.19.151^
 ||185.63.253.26^
@@ -530,7 +554,6 @@
 ||186.32.80.35^
 ||186.34.4.40^
 ||186.42.255.230^
-||186.73.188.132^
 ||186.75.140.158^
 ||187.12.10.98^
 ||187.171.223.220^
@@ -540,18 +563,25 @@
 ||187.220.25.27^
 ||187.72.59.113^
 ||188.138.200.32^
-||188.169.140.203^
 ||188.169.167.35^
+||188.169.174.78^
 ||188.169.178.50^
-||188.169.179.130^
 ||188.169.179.142^
 ||188.169.179.235^
+||188.169.199.152^
 ||188.169.229.190^
 ||188.169.229.202^
+||188.169.237.44^
+||188.169.30.111^
+||188.169.30.45^
+||188.169.36.252^
 ||188.169.36.98^
-||188.169.64.215^
+||188.169.45.82^
+||188.169.64.122^
+||188.169.64.188^
 ||188.169.64.67^
 ||188.170.177.98^
+||188.227.46.177^
 ||188.242.242.144^
 ||188.83.202.25^
 ||189.126.70.222^
@@ -585,20 +615,18 @@
 ||190.92.4.231^
 ||190.92.46.42^
 ||190.98.36.201^
-||191.102.123.132^
 ||191.103.252.116^
-||191.13.89.144^
 ||191.243.36.240^
 ||191.255.248.220^
 ||191.8.80.207^
 ||192.236.176.44^
+||193.106.57.83^
 ||193.107.96.15^
 ||193.228.135.144^
 ||193.228.91.105^
 ||193.228.91.110^
 ||193.228.91.124^
 ||193.34.21.66^
-||194.15.36.41^
 ||194.180.224.103^
 ||194.87.138.164^
 ||194.87.138.204^
@@ -621,13 +649,15 @@
 ||197.50.27.115^
 ||197.51.182.118^
 ||198.23.213.30^
+||198.27.115.238^
 ||198.46.194.140^
 ||198.46.198.115^
 ||198.46.209.159^
 ||199.168.100.74^
+||199.83.204.53^
 ||2.179.167.112^
+||2.180.18.249^
 ||2.185.150.180^
-||2.187.18.252^
 ||2.187.7.249^
 ||2.228.113.247^
 ||2.229.41.205^
@@ -637,6 +667,7 @@
 ||2.238.18.160^
 ||2.42.255.171^
 ||2.45.111.158^
+||2.55.103.71^
 ||2.55.125.182^
 ||2.82.200.218^
 ||2.87.229.142^
@@ -655,7 +686,6 @@
 ||201.187.102.73^
 ||201.192.136.240^
 ||201.192.165.49^
-||201.203.158.96^
 ||201.203.27.37^
 ||201.234.138.92^
 ||201.95.127.54^
@@ -668,7 +698,6 @@
 ||202.51.176.114^
 ||202.51.191.174^
 ||202.74.236.9^
-||202.79.46.30^
 ||203.129.254.50^
 ||203.146.208.208^
 ||203.163.211.46^
@@ -683,6 +712,7 @@
 ||203.80.171.149^
 ||203.82.36.34^
 ||203.83.174.227^
+||205.185.114.231^
 ||205.185.125.104^
 ||205.201.72.251^
 ||206.195.148.204^
@@ -750,6 +780,7 @@
 ||218.156.41.163^
 ||218.157.214.219^
 ||218.21.170.238^
+||218.21.171.211^
 ||218.255.247.58^
 ||218.32.118.1^
 ||218.32.98.172^
@@ -782,7 +813,9 @@
 ||221.166.143.167^
 ||221.166.254.127^
 ||221.210.211.140^
+||221.226.86.151^
 ||221.229.144.191^
+||221.231.72.66^
 ||222.102.63.41^
 ||222.116.70.13^
 ||222.187.136.132^
@@ -790,9 +823,9 @@
 ||222.188.243.225^
 ||222.217.65.112^
 ||222.239.83.232^
+||222.80.56.3^
 ||222.83.68.37^
 ||222.83.71.235^
-||223.145.120.253^
 ||224fgbet.com^
 ||23.122.183.241^
 ||23.228.143.58^
@@ -825,7 +858,7 @@
 ||27.147.40.128^
 ||27.238.33.39^
 ||27.3.145.79^
-||27.41.175.162^
+||27.41.153.160^
 ||3.234.249.4^
 ||3.6.234.92^
 ||3.zhzy999.net/images/n.exe$all
@@ -837,7 +870,10 @@
 ||31.146.243.128^
 ||31.146.243.239^
 ||31.146.243.7^
+||31.146.249.106^
 ||31.146.249.128^
+||31.146.249.189^
+||31.146.249.88^
 ||31.154.232.106^
 ||31.168.153.60^
 ||31.168.178.71^
@@ -862,13 +898,11 @@
 ||31.211.144.10^
 ||31.211.148.144^
 ||31.211.159.149^
-||31.25.134.209^
 ||31.30.119.23^
 ||31.43.106.88^
 ||31.44.54.110^
 ||35.141.217.189^
 ||36.105.56.161^
-||36.105.59.126^
 ||36.39.50.50^
 ||36.66.105.159^
 ||36.66.111.203^
@@ -879,9 +913,7 @@
 ||36.67.52.241^
 ||36.74.74.99^
 ||36.89.18.133^
-||36.91.89.187^
 ||37.123.201.237^
-||37.142.198.137^
 ||37.218.233.127^
 ||37.222.98.51^
 ||37.233.60.68^
@@ -895,6 +927,7 @@
 ||37.49.224.231^
 ||37.49.224.232^
 ||37.49.224.23^
+||37.49.224.98^
 ||37.49.230.17^
 ||37.49.230.204^
 ||37.49.230.45^
@@ -914,14 +947,12 @@
 ||41.32.170.13^
 ||41.32.211.177^
 ||41.38.51.251^
-||41.41.249.54^
 ||41.72.203.82^
-||41.76.157.2^
 ||41.77.74.146^
+||41.79.234.90^
 ||42.227.122.151^
 ||42.61.176.214^
 ||42.61.99.155^
-||42.82.191.105^
 ||42502d2a-e7ed-4a16-9f11-33ffe6c54021.usrfiles.com^
 ||43.230.159.66^
 ||43.252.8.94^
@@ -943,14 +974,12 @@
 ||45.50.56.90^
 ||45.64.147.4^
 ||45.84.196.100^
-||45.84.196.110^
 ||45.84.196.147^
 ||45.84.196.159^
 ||45.84.196.165^
 ||45.84.196.211^
 ||45.84.196.253^
 ||45.84.196.47^
-||45.95.168.109^
 ||45.95.168.110^
 ||45.95.168.126^
 ||45.95.168.134^
@@ -960,10 +989,8 @@
 ||45.95.168.168^
 ||45.95.168.173^
 ||45.95.168.190^
-||45.95.168.214^
 ||45.95.168.230^
 ||45.95.168.248^
-||45.95.168.90^
 ||45.95.168.91^
 ||46.100.57.58^
 ||46.107.48.22^
@@ -987,8 +1014,6 @@
 ||47.16.131.51^
 ||47.187.120.184^
 ||47.46.231.38^
-||49.115.130.42^
-||49.119.61.78^
 ||49.143.181.221^
 ||49.143.43.93^
 ||49.156.44.134^
@@ -999,6 +1024,7 @@
 ||49.158.201.200^
 ||49.159.21.3^
 ||49.159.60.86^
+||49.174.182.99^
 ||49.176.175.223^
 ||49.213.161.204^
 ||49.213.172.97^
@@ -1007,13 +1033,11 @@
 ||49.213.214.130^
 ||49.236.213.248^
 ||49.246.91.131^
-||49.68.131.194^
+||49.68.205.221^
 ||49.68.207.198^
 ||49.68.248.67^
-||49.68.77.182^
 ||49.70.225.99^
 ||49.81.106.68^
-||49.81.122.202^
 ||49.81.156.134^
 ||49.81.239.65^
 ||49.82.212.34^
@@ -1023,26 +1047,29 @@
 ||49.89.95.219^
 ||49parallel.ca^
 ||5.101.196.90^
+||5.152.0.56^
+||5.152.0.89^
 ||5.187.160.235^
 ||5.19.248.85^
 ||5.201.142.118^
+||5.206.224.138^
 ||5.206.235.90^
+||5.26.149.86^
 ||5.26.90.208^
 ||5.29.175.150^
 ||5.43.104.68^
 ||5.45.164.187^
-||5.94.215.178^
 ||5.95.226.79^
 ||50.121.91.255^
 ||50.193.40.205^
 ||50.198.71.204^
+||50.246.56.243^
 ||50.35.77.32^
 ||50.75.198.219^
 ||50.76.147.249^
 ||50.89.246.247^
 ||50.98.100.191^
 ||52.255.143.183^
-||52.66.142.51^
 ||58.114.246.26^
 ||58.142.166.120^
 ||58.227.101.108^
@@ -1050,6 +1077,7 @@
 ||58.230.89.42^
 ||58.232.98.233^
 ||58.238.186.91^
+||58.243.20.88^
 ||59.10.200.64^
 ||59.102.168.189^
 ||59.13.74.78^
@@ -1062,6 +1090,7 @@
 ||59.31.255.134^
 ||61.147.48.95^
 ||61.19.155.181^
+||61.241.170.117^
 ||61.247.224.66^
 ||61.56.182.218^
 ||61.57.97.188^
@@ -1090,9 +1119,9 @@
 ||62.38.149.66^
 ||62.38.222.98^
 ||62.80.231.196^
-||62.82.172.42^
 ||62.90.165.236^
 ||62.90.219.154^
+||63.245.122.93^
 ||63.78.214.55^
 ||64.233.154.99^
 ||64.53.172.125^
@@ -1150,7 +1179,6 @@
 ||74.101.190.57^
 ||74.108.224.112^
 ||74.113.230.55^
-||74.194.117.165^
 ||74.75.165.81^
 ||75.127.141.52^
 ||75.127.7.198^
@@ -1197,6 +1225,8 @@
 ||78.189.27.157^
 ||78.189.54.150^
 ||78.30.192.125^
+||78.38.19.97^
+||78.39.232.58^
 ||78.39.233.30^
 ||78.8.225.77^
 ||78.96.20.79^
@@ -1210,7 +1240,7 @@
 ||79.2.211.133^
 ||79.41.117.236^
 ||79.58.45.55^
-||79.62.235.37^
+||79.61.191.231^
 ||79.7.170.58^
 ||79.79.58.94^
 ||79.8.136.143^
@@ -1272,6 +1302,7 @@
 ||82.81.28.57^
 ||82.81.39.240^
 ||82.81.44.203^
+||82.81.50.37^
 ||82.81.9.62^
 ||82.90.71.96^
 ||83.199.163.14^
@@ -1313,6 +1344,7 @@
 ||88.247.194.52^
 ||88.247.32.99^
 ||89.116.174.223^
+||89.120.17.179^
 ||89.121.207.186^
 ||89.132.102.142^
 ||89.136.197.170^
@@ -1332,6 +1364,7 @@
 ||91.216.149.130^
 ||91.217.2.120^
 ||91.221.177.94^
+||91.244.114.198^
 ||91.244.169.139^
 ||91.83.166.142^
 ||91.92.129.32^
@@ -1339,7 +1372,9 @@
 ||92.114.191.82^
 ||92.126.201.17^
 ||92.241.78.114^
+||92.27.128.104^
 ||92.54.237.213^
+||92.54.237.26^
 ||92.82.198.253^
 ||92.83.62.139^
 ||93.122.213.217^
@@ -1348,7 +1383,6 @@
 ||93.151.254.53^
 ||93.171.157.73^
 ||93.172.100.9^
-||93.172.74.45^
 ||93.185.10.131^
 ||93.41.182.249^
 ||93.41.206.56^
@@ -1363,8 +1397,9 @@
 ||94.230.152.192^
 ||94.244.113.217^
 ||94.244.25.21^
+||94.43.10.218^
+||94.43.10.222^
 ||94.43.101.161^
-||94.43.101.62^
 ||94.53.120.109^
 ||94.6.158.41^
 ||94.64.246.247^
@@ -1389,6 +1424,7 @@
 ||98.149.40.72^
 ||98.159.110.203^
 ||98.159.110.225^
+||98.159.110.231^
 ||98.159.99.227^
 ||98.159.99.230^
 ||98.178.203.36^
@@ -1404,7 +1440,6 @@
 ||aaacityremovalist.com^
 ||abass.ir^
 ||abcofcricket.com^
-||abuhamzapetstore1.sizzlingmart.com^
 ||accessyouraudience.com^
 ||acep-xploit.tk^
 ||acteon.com.ar^
@@ -1413,7 +1448,6 @@
 ||admaris.ir^
 ||admin.foa.ae^
 ||admindepartment.ir^
-||agarca.donaines.pt^
 ||agsir.com^
 ||aibd.sn^
 ||aite.me^
@@ -1452,6 +1486,7 @@
 ||arafinmedia.com^
 ||ardorasia.com^
 ||arsimiparauniversitar.gov.al^
+||atfile.com^
 ||atiga01.atciga.ml^
 ||attach.66rpg.com^
 ||atteuqpotentialunlimited.com^
@@ -1471,7 +1506,6 @@
 ||bdvan.com^
 ||belsizehair.co.uk^
 ||bemfisipol.untidar.ac.id^
-||bergama.org.tr^
 ||besserblok-ufa.ru^
 ||beylerbeyibasketbol.org^
 ||bheragreens.com^
@@ -1493,13 +1527,13 @@
 ||carbonazin.com^
 ||cassovia.sk^
 ||cbup1.cache.wps.cn/powerword/update/2016.3.3.0332/selfpatch/update.exe$all
-||cdn-10049480.file.myqcloud.com^
 ||cellas.sk^
 ||cellstore.net.br^
 ||cf.uuu9.com^
 ||cf0.pw^
 ||cfs5.tistory.com^
 ||ch.rmu.ac.th^
+||changematterscounselling.com^
 ||chanvribloc.com^
 ||charlols.ascjcapstone.com^
 ||charm.bizfxr.com^
@@ -1518,7 +1552,6 @@
 ||complan.hu^
 ||complanbt.hu^
 ||completedigitalmedia.co.uk^
-||compradesdecasa507.com^
 ||comtechadsl.com^
 ||config.kuaisousou.top^
 ||consultorias.smartdevmx.com^
@@ -1546,7 +1579,6 @@
 ||debonosu.jp^
 ||deltacontrol.net.pk^
 ||demo.mku.edu.vn^
-||demo.yzccit.com^
 ||denkagida.com.tr^
 ||departure.world^
 ||derivativespro.in^
@@ -1569,7 +1601,6 @@
 ||dlist.iqilie.com^
 ||dmresor.se^
 ||dnn.alibuf.com^
-||dns.alibuf.com^
 ||docs.wixstatic.com/ugd/6b1344_4758ba9c88114a2b8705df6b82f64f91.doc$all
 ||dodsonimaging.com^
 ||dongguanjixie.com^
@@ -1594,7 +1625,6 @@
 ||download.pdf00.cn^
 ||download.rising.com.cn^
 ||download.skycn.com^
-||download.ttz3.cn^
 ||download.zjsyawqj.cn^
 ||download301.wanmei.com^
 ||dpeasesummithilltoppers.pbworks.com^
@@ -1605,6 +1635,7 @@
 ||drive.google.com/u/0/uc?id=17MK_rc41hpFJXpVYtF8tkeWaczBfoDTK&export=download$all
 ||drive.google.com/u/0/uc?id=182UviCEflyHpW6qVhhhaE3YFHrHNmRfk&export=download$all
 ||drive.google.com/u/0/uc?id=1NDJqz7YfW9OYWry6SPfWwlmcR2pxFxrf&export=download$all
+||drive.google.com/u/0/uc?id=1lf5uj0OZtEz0Da4uloCglElnO0cqqaJ7&export=download$all
 ||drive.google.com/uc?export=download&id=1pj2uCw8tnouaiQ7cxtxySnCq2lrnpgpF$all
 ||drive.google.com/uc?id=1E3fBq0KE5bRJQWhXpOcRJfH4koP2u2Yt&export=download$all
 ||drive.google.com/uc?id=1F7lZWTsnxJpLeNPWHxjHYrxtq0bb3sKn&export=download$all
@@ -1639,9 +1670,10 @@
 ||drive.google.com/uc?id=1wc4G7ZYZTplMHtG2IkWU57fskmLHy1tf&export=download$all
 ||drools-moved.46999.n3.nabble.com^
 ||drs-spotter.de^
+||dudulm.com^
 ||duyster.info^
-||dw.58wangdun.com^
 ||dx.qqyewu.com^
+||dx1.qqtn.com^
 ||dx2.qqtn.com^
 ||dyrmann.dk^
 ||dzinestudio87.co.uk^
@@ -1655,6 +1687,7 @@
 ||edumep.net^
 ||efis.top^
 ||ellepioffice.com^
+||elokshinproperty.co.za^
 ||enc-tech.com^
 ||enco-software.net^
 ||entre-potes.mon-application.com^
@@ -1664,7 +1697,6 @@
 ||esteteam.org^
 ||ev0lve.cf^
 ||evisualsoft-001-site3.atempurl.com^
-||excelenceimoveis.com.br^
 ||exchangecamp.ir^
 ||ezfintechcorp.com^
 ||ezselika.com^
@@ -1677,6 +1709,7 @@
 ||files.constantcontact.com/ee304de9001/7e533e73-e272-4a44-9d9e-138cab64bf19.docx$all
 ||files.fqapps.com^
 ||files6.uludagbilisim.com^
+||firebasestorage.googleapis.com/v0/b/dksloey-dukun.appspot.com/o/Firehack.apk?alt=media&token=661aeab2-e1cf-4889-869a-930b8860a823$all
 ||firebasestorage.googleapis.com/v0/b/tl-018.appspot.com/o/action-etc.js?alt=media&token=4835fbea-bbed-47d7-b19a-fea2ed417dac$all
 ||fishingbigstore.com^
 ||fitnessanddance.de^
@@ -1747,7 +1780,6 @@
 ||inapadvance.com^
 ||incrediblepixels.com^
 ||incredicole.com^
-||indonesias.me:9998/c64.exe$all
 ||inigbiseijfji.ru^
 ||innveso-digital.com^
 ||interbus.cz/templates/jsn_dome_free/js/payments/2c.jpg$all
@@ -1775,6 +1807,7 @@
 ||kamasu11.cafe24.com^
 ||karavantekstil.com^
 ||kasparksy.com^
+||kdsp.co.kr^
 ||kejpa.com^
 ||kimyen.net/upload/CTCKeoxe2.exe$all
 ||kimyen.net/upload/CTCTanthu.exe$all
@@ -1827,7 +1860,7 @@
 ||marketevip.com^
 ||marketinfosales.com^
 ||marksidfgs.ug^
-||mattayom31.go.th^
+||massages-yoga-paris.fr^
 ||mbgrm.com^
 ||medianews.ge^
 ||meeweb.com^
@@ -1840,7 +1873,6 @@
 ||mexiwoodstudios.com^
 ||mfevr.com^
 ||mffyjcdn.btgame.com^
-||mhkdhotbot.myvnc.com^
 ||mhkdhotbot80.myvnc.com^
 ||micahproducts.com^
 ||micalle.com.au^
@@ -1886,14 +1918,11 @@
 ||ngoaingu.garage.com.vn^
 ||nmcllc.us^
 ||nofound.000webhostapp.com^
-||noithatnhathoang.vn^
 ||note.youdao.com/yws/api/personal/file/WEB3a243b322cf83ca7cae587a92916bac7?method=download&inline=true&shareKey=649ac0bb5d5b13d15cbf50b2609e193a$all
 ||nprg.ru^
 ||nufc.vn^
 ||obnova.zzux.com^
 ||obseques-conseils.com^
-||ocqdzsgv.com^
-||offerhungama.in^
 ||office-supply.top^
 ||offthewall.top^
 ||ohe.ie^
@@ -1933,6 +1962,7 @@
 ||onedrive.live.com/download?cid=030A9BC8FCC283CB&resid=30A9BC8FCC283CB%21485&authkey=ACP2x7beXkzp5BQ$all
 ||onedrive.live.com/download?cid=030A9BC8FCC283CB&resid=30A9BC8FCC283CB%21486&authkey=AK3pZ4z-KDchPxw$all
 ||onedrive.live.com/download?cid=030A9BC8FCC283CB&resid=30A9BC8FCC283CB%21490&authkey=ALHzwGG8ok18IxQ$all
+||onedrive.live.com/download?cid=0489C74DE4FACB30&resid=489C74DE4FACB30!109&authkey=AJo32arrzl_VWDQ$all
 ||onedrive.live.com/download?cid=052BCF630286E980&resid=52BCF630286E980!110&authkey=ANzSd8lJ7P0rj0Q$all
 ||onedrive.live.com/download?cid=052BCF630286E980&resid=52BCF630286E980!113&authkey=AH3RaTLEdBMNuaY$all
 ||onedrive.live.com/download?cid=052BCF630286E980&resid=52BCF630286E980!114&authkey=AHzbIscDx0-2gfk$all
@@ -1957,7 +1987,6 @@
 ||onedrive.live.com/download?cid=165468846F076EE7&resid=165468846F076EE7%21118&authkey=ANTAsh3IG98aQTE$all
 ||onedrive.live.com/download?cid=174A158B69387A7E&resid=174A158B69387A7E!348&authkey=AHnjOxA4uFoxa54$all
 ||onedrive.live.com/download?cid=174A158B69387A7E&resid=174A158B69387A7E%21348&authkey=AHnjOxA4uFoxa54$all
-||onedrive.live.com/download?cid=18418ADACEFED6E2&resid=18418ADACEFED6E2!126&authkey=AD4yflRiSq6d82g$all
 ||onedrive.live.com/download?cid=18418ADACEFED6E2&resid=18418ADACEFED6E2!129&authkey=APQOONsrCe0ArI4$all
 ||onedrive.live.com/download?cid=18418ADACEFED6E2&resid=18418ADACEFED6E2%21126&authkey=AD4yflRiSq6d82g$all
 ||onedrive.live.com/download?cid=18418ADACEFED6E2&resid=18418ADACEFED6E2%21129&authkey=APQOONsrCe0ArI4$all
@@ -2015,7 +2044,6 @@
 ||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256!113&authkey=AEOaNIW0sQpOAcU$all
 ||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256!120&authkey=AJFZZ_HBF2UlaSk$all
 ||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256%21111&authkey=AJZp62LMPZKHUMQ$all
-||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256%21113&authkey=AEOaNIW0sQpOAcU$all
 ||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256%21120&authkey=AJFZZ_HBF2UlaSk$all
 ||onedrive.live.com/download?cid=431C1763BAC3A7ED&resid=431C1763BAC3A7ED!8974&authkey=AP29cMAU3OCkmW4$all
 ||onedrive.live.com/download?cid=45F0213456D899C0&resid=45F0213456D899C0%211133&authkey=ALwgKm79XOD8HpY$all
@@ -2099,7 +2127,6 @@
 ||onedrive.live.com/download?cid=5696478ACB744989&resid=5696478ACB744989%21383&authkey=ADLDpuAYA7Kj1Dk$all
 ||onedrive.live.com/download?cid=5696478ACB744989&resid=5696478ACB744989%21384&authkey=ALSUXvTsOF32VEA$all
 ||onedrive.live.com/download?cid=57C0958DB500FE0B&resid=57C0958DB500FE0B!68197&authkey=AOWPm7Ocl_21-oc$all
-||onedrive.live.com/download?cid=57C0958DB500FE0B&resid=57C0958DB500FE0B%2168197&authkey=AOWPm7Ocl_21-oc$all
 ||onedrive.live.com/download?cid=59389D626D829E8C&resid=59389D626D829E8C%212940&authkey=ANx1Ngd27vQeIWo$all
 ||onedrive.live.com/download?cid=5BF0E9600D9F9DA0&resid=5BF0E9600D9F9DA0%211568&authkey=AEMRNWOi75OfLvA$all
 ||onedrive.live.com/download?cid=5BF0E9600D9F9DA0&resid=5BF0E9600D9F9DA0%211572&authkey=AELz-GxLRxCwtnc$all
@@ -2160,7 +2187,6 @@
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!184&authkey=ACrLgQEORQqW7bE$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!185&authkey=AMm2Fsxi2l-Wa9A$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!187&authkey=ANdGpqQ_ZP8LYr4$all
-||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!188&authkey=AJY07OLs2lCFJ_o$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!190&authkey=AJ-3yQm7eZZ9zmE$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!191&authkey=AOumzH6K1KEmsCU$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!193&authkey=ADq3v72povhBjzQ$all
@@ -2301,8 +2327,6 @@
 ||onedrive.live.com/download?cid=C359B1A8BABC6019&resid=C359B1A8BABC6019%211251&authkey=ACt34EIZpzJUGfA$all
 ||onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E!1337&authkey=AFNVu1FsUCZHT5E$all
 ||onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E!1338&authkey=AJNgAmbOsWs75_c$all
-||onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E!1340&authkey=AL1Ay3FbTUde6D8$all
-||onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E!1342&authkey=ACPr_HTn2jtAXfU$all
 ||onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E!1343&authkey=ABODYSRxU9L2xxU$all
 ||onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E!1344&authkey=AOzErPpD6MnoKwY$all
 ||onedrive.live.com/download?cid=C3D8AD85BA2ADD4E&resid=C3D8AD85BA2ADD4E!1345&authkey=AEVvyhOnxHtcDh0$all
@@ -2377,7 +2401,6 @@
 ||onedrive.live.com/download?cid=E4B1E1072DC91F5C&resid=E4B1E1072DC91F5C!511&authkey=AGfS0Q7DZ7oS1LU$all
 ||onedrive.live.com/download?cid=E4B1E1072DC91F5C&resid=E4B1E1072DC91F5C%21511&authkey=AGfS0Q7DZ7oS1LU$all
 ||onedrive.live.com/download?cid=E54EA4E0368D023B&resid=E54EA4E0368D023B%21106&authkey=AOzaS6g9PM0FZvQ$all
-||onedrive.live.com/download?cid=E859DA0F2C81D5F2&resid=E859DA0F2C81D5F2!142&authkey=AIS88UaD5AOm6qU$all
 ||onedrive.live.com/download?cid=E859DA0F2C81D5F2&resid=E859DA0F2C81D5F2%21142&authkey=AIS88UaD5AOm6qU$all
 ||onedrive.live.com/download?cid=E91A51CC1C3C82D8&resid=E91A51CC1C3C82D8%21118&authkey=AG0aILv-o2k4-yM$all
 ||onedrive.live.com/download?cid=E91A51CC1C3C82D8&resid=E91A51CC1C3C82D8%21119&authkey=AOxlrp6aBg-RHvQ$all
@@ -2453,7 +2476,6 @@
 ||palochusvet.szm.com^
 ||parvatisoftware.in/wp-admin/jeld-jx2-944262/$all
 ||pashupatiexports.com^
-||pastebin.com/raw/e32pSUC7$all
 ||patch2.51lg.com^
 ||patch2.99ddd.com^
 ||patch3.99ddd.com^
@@ -2468,7 +2490,6 @@
 ||phudieusongma.com^
 ||pink99.com^
 ||pinkbroadband.in/images/blog/Thumb.bin$all
-||poisss.jhfddd.com^
 ||ponik.fartit.com^
 ||ponnoshomvar.com^
 ||ppl.ac.id^
@@ -2481,7 +2502,6 @@
 ||purelondonhyg.com^
 ||pushing.pk^
 ||qianjiangchao.com^
-||qif.ac.ke^
 ||qmsled.com^
 ||qppl.angiang.gov.vn^
 ||quartier-midi.be^
@@ -2521,6 +2541,7 @@
 ||s.51shijuan.com^
 ||s.kk30.com^
 ||saboorjaam.ir^
+||sadiqgill.com^
 ||sahathaikasetpan.com^
 ||salesforce-ibmcloud.kozow.com^
 ||sandhutengineersandconsultants.in^
@@ -2595,6 +2616,7 @@
 ||tandenblekenhoofddorp.nl^
 ||taobaogame.top^
 ||tattooartcreations.com^
+||taxpos.com^
 ||tcy.198424.com^
 ||tehrenberg.com^
 ||telescopelms.com^
@@ -2602,11 +2624,10 @@
 ||test.iyibakkendine.com^
 ||test1.cxyw.net^
 ||testdatabaseforcepoint.com^
-||texniko.gr^
 ||thaisell.com^
 ||tharringtonsponsorship.com^
 ||thc-annex.com^
-||thegadgetlord.com/click/etTQxxDQ/$all
+||theclinicabarros.com^
 ||theprizeguys.uk^
 ||thepromostore.events^
 ||theptiendat.com^
@@ -2625,6 +2646,7 @@
 ||totebarreto.com.br^
 ||trendsonlines.com/Trends/wp-content/plugins/wp-file-manager/classes/kXWQG5T/$all
 ||tribunal.ug^
+||tripok.ir^
 ||triptovacations.com^
 ||tsd.jxwan.com^
 ||tulli.info^
@@ -2632,6 +2654,7 @@
 ||tutoriapro.com^
 ||tutuler.com^
 ||uc-56.ru^
+||ucto-id.cz^
 ||ugc.wegame.com.cn^
 ||ukks.net^
 ||ukronet.ru^
@@ -2663,6 +2686,7 @@
 ||vnitservice.com^
 ||vontech.com.sg^
 ||w.zhzy999.net/images/m.exe$all
+||wap.dosame.com^
 ||wbd.5636.com^
 ||web.eng.ubu.ac.th^
 ||web.mit.edu/kolya/.f/root/net.mit.edu/net/user/chris/WinNT/MIT_Agenda2a.doc$all
@@ -2680,6 +2704,7 @@
 ||wikileaks.org/syria-files/attach/222/222051_instruction.zip$all
 ||willingwater.com^
 ||willingwoods.com^
+||windcomtechnologies.com^
 ||wiremeshseller.com^
 ||wkkjf.com^
 ||wmd9e.a3i1vvv.feteboc.com^
@@ -2687,6 +2712,7 @@
 ||wood-expert.net^
 ||woodsytech.com^
 ||workfineanotherrainbowlomoyentsndybvn20.duckdns.org^
+||writesofpassage.co.za^
 ||ws-ebavisapia01-dll.ir^
 ||wsg.com.sg^
 ||wulierji.com^
