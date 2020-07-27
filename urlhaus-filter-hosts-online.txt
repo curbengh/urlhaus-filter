@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sun, 26 Jul 2020 12:09:57 UTC
+# Updated: Mon, 27 Jul 2020 00:09:58 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -39,7 +39,6 @@
 0.0.0.0 alohasoftware.net
 0.0.0.0 alphaconsumer.net
 0.0.0.0 am-concepts.ca
-0.0.0.0 amd.alibuf.com
 0.0.0.0 amemarine.co.th
 0.0.0.0 amirthafoundation.com
 0.0.0.0 andreelapeyre.com
@@ -52,8 +51,8 @@
 0.0.0.0 aoujlift.ir
 0.0.0.0 apoolcondo.com
 0.0.0.0 apware.co.kr
-0.0.0.0 arafinmedia.com
 0.0.0.0 arsimiparauniversitar.gov.al
+0.0.0.0 atfile.com
 0.0.0.0 atiga01.atciga.ml
 0.0.0.0 attach.66rpg.com
 0.0.0.0 atteuqpotentialunlimited.com
@@ -64,9 +63,7 @@
 0.0.0.0 azzd.co.kr
 0.0.0.0 babaroadways.in
 0.0.0.0 backgrounds.pk
-0.0.0.0 bagraphics.net
 0.0.0.0 bamakobleach.free.fr
-0.0.0.0 bangkok-orchids.com
 0.0.0.0 banhangsivn.com
 0.0.0.0 bapo.granudan.cn
 0.0.0.0 bbs.sunwy.org
@@ -93,6 +90,7 @@
 0.0.0.0 camocnc.duckdns.org
 0.0.0.0 carbonazin.com
 0.0.0.0 cassovia.sk
+0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cellas.sk
 0.0.0.0 cellstore.net.br
 0.0.0.0 cf.uuu9.com
@@ -111,12 +109,14 @@
 0.0.0.0 class.britishonline.co
 0.0.0.0 clearwaterriveroutfitting.com
 0.0.0.0 cnml.com.br
-0.0.0.0 colourcreative.co.za
+0.0.0.0 communicationideadedicatedserversystem.duckdns.org
 0.0.0.0 complan.hu
 0.0.0.0 complanbt.hu
 0.0.0.0 completedigitalmedia.co.uk
 0.0.0.0 comtechadsl.com
+0.0.0.0 config.cqhbkjzx.com
 0.0.0.0 config.kuaisousou.top
+0.0.0.0 config.wwmhdq.com
 0.0.0.0 consultorias.smartdevmx.com
 0.0.0.0 cpnti.com
 0.0.0.0 cqjcc.org
@@ -126,7 +126,6 @@
 0.0.0.0 ctannous.com
 0.0.0.0 current9.com.ng
 0.0.0.0 cyclomove.com
-0.0.0.0 cyltestcilindros.com.br
 0.0.0.0 czsl.91756.cn
 0.0.0.0 d3.99ddd.com
 0.0.0.0 d9.99ddd.com
@@ -146,6 +145,7 @@
 0.0.0.0 departure.world
 0.0.0.0 derivativespro.in
 0.0.0.0 dev.sebpo.net
+0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 dfzm.91756.cn
 0.0.0.0 dgecolesdepolice.bf
@@ -167,6 +167,7 @@
 0.0.0.0 dongguanjixie.com
 0.0.0.0 donmago.com
 0.0.0.0 doransky.info
+0.0.0.0 dosame.com
 0.0.0.0 dovberger.com
 0.0.0.0 down.ancamera.co.kr
 0.0.0.0 down.ci43.com
@@ -185,6 +186,7 @@
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.rising.com.cn
 0.0.0.0 download.skycn.com
+0.0.0.0 download.ttz3.cn
 0.0.0.0 download.zjsyawqj.cn
 0.0.0.0 download301.wanmei.com
 0.0.0.0 dpeasesummithilltoppers.pbworks.com
@@ -241,7 +243,6 @@
 0.0.0.0 gabrielinsg-001-site1.htempurl.com
 0.0.0.0 garenanow.myvnc.com
 0.0.0.0 garenanow4.myvnc.com
-0.0.0.0 gasfer.ru
 0.0.0.0 gateway-heide.de
 0.0.0.0 gehua.com.cn
 0.0.0.0 ghislain.dartois.pagesperso-orange.fr
@@ -249,12 +250,10 @@
 0.0.0.0 glitzygal.net
 0.0.0.0 gmjenkins.com
 0.0.0.0 goctoeic.edu.vn
-0.0.0.0 gokulnath.me
 0.0.0.0 grafchekloder.rebatesrule.net
 0.0.0.0 greenpalace.top
 0.0.0.0 gsfhl.com
 0.0.0.0 gssgroups.com
-0.0.0.0 gsx.life
 0.0.0.0 gvpcdpgc.edu.in
 0.0.0.0 h5ym.com
 0.0.0.0 habbotips.free.fr
@@ -292,7 +291,6 @@
 0.0.0.0 intersel-idf.org
 0.0.0.0 iremart.es
 0.0.0.0 isso.ps
-0.0.0.0 jacksinspiration.com
 0.0.0.0 jamiekaylive.com
 0.0.0.0 jamshed.pk
 0.0.0.0 jansen-heesch.nl
@@ -330,8 +328,6 @@
 0.0.0.0 legrace.info
 0.0.0.0 levitt.ug
 0.0.0.0 levitts.ug
-0.0.0.0 libya-info.com
-0.0.0.0 lifechangerministry.worthyofpraise.org
 0.0.0.0 lineahandy.it
 0.0.0.0 lists.mplayerhq.hu
 0.0.0.0 livetrack.in
@@ -347,12 +343,10 @@
 0.0.0.0 m93701t2.beget.tech
 0.0.0.0 mackleyn.com
 0.0.0.0 magnoamericana.edu.mx
-0.0.0.0 mallutechie.com
 0.0.0.0 maringareservas.com.br
 0.0.0.0 marketevip.com
 0.0.0.0 marketinfosales.com
 0.0.0.0 marksidfgs.ug
-0.0.0.0 mattayom31.go.th
 0.0.0.0 mbgrm.com
 0.0.0.0 medianews.ge
 0.0.0.0 meeweb.com
@@ -365,7 +359,6 @@
 0.0.0.0 mexiwoodstudios.com
 0.0.0.0 mfevr.com
 0.0.0.0 mffyjcdn.btgame.com
-0.0.0.0 mhkdhotbot.myvnc.com
 0.0.0.0 mhkdhotbot80.myvnc.com
 0.0.0.0 micahproducts.com
 0.0.0.0 micalle.com.au
@@ -426,12 +419,14 @@
 0.0.0.0 p500.mon-application.com
 0.0.0.0 p6.zbjimg.com
 0.0.0.0 palochusvet.szm.com
+0.0.0.0 parisgranhotels.ga
 0.0.0.0 pashupatiexports.com
 0.0.0.0 patch2.51lg.com
 0.0.0.0 patch2.99ddd.com
 0.0.0.0 patch3.99ddd.com
 0.0.0.0 paula.strategicwebmarketingmd.com
 0.0.0.0 paycoinbrokerfx.com
+0.0.0.0 pcsoori.com
 0.0.0.0 pedidoslalacteo.com.ar
 0.0.0.0 perfectshinehair.co.uk
 0.0.0.0 petafilm.com
@@ -449,12 +444,12 @@
 0.0.0.0 pulsethestore.com
 0.0.0.0 purelondonhyg.com
 0.0.0.0 pushing.pk
+0.0.0.0 qianjiangchao.com
 0.0.0.0 qif.ac.ke
 0.0.0.0 qmsled.com
 0.0.0.0 qppl.angiang.gov.vn
 0.0.0.0 quartier-midi.be
 0.0.0.0 rainbowisp.info
-0.0.0.0 rainmakeradvisor.com
 0.0.0.0 rc.ixiaoyang.cn
 0.0.0.0 readytalk.github.io
 0.0.0.0 real-song.tjmedia.co.kr
@@ -470,7 +465,6 @@
 0.0.0.0 rmq.tokyofunkowildvaley.ru
 0.0.0.0 robertmcardle.com
 0.0.0.0 robotica.cl
-0.0.0.0 roshninoorandassociates.com
 0.0.0.0 rsp-om.com
 0.0.0.0 ruisgood.ru
 0.0.0.0 rusch.nu
@@ -486,8 +480,6 @@
 0.0.0.0 sefp-boispro.fr
 0.0.0.0 seimeinooka.jp
 0.0.0.0 serpentrising.com
-0.0.0.0 servicemhkd.myvnc.com
-0.0.0.0 servicemhkd80.myvnc.com
 0.0.0.0 servinet.co.za
 0.0.0.0 sggsonline.com
 0.0.0.0 shahtoba.faqserv.com
@@ -504,7 +496,6 @@
 0.0.0.0 small-business-solutions.biz
 0.0.0.0 small.962.net
 0.0.0.0 smccycles.com
-0.0.0.0 snortcnc.duckdns.org
 0.0.0.0 songbadtv.com
 0.0.0.0 sonsistemsogutma.com.tr
 0.0.0.0 sonvietmy.com.vn
@@ -528,20 +519,20 @@
 0.0.0.0 symanreni.mysecondarydns.com
 0.0.0.0 szxypt.com
 0.0.0.0 t.honker.info
+0.0.0.0 tandenblekenhoofddorp.nl
 0.0.0.0 taobaogame.top
 0.0.0.0 tattooartcreations.com
 0.0.0.0 taxpos.com
 0.0.0.0 tcy.198424.com
-0.0.0.0 tehrenberg.com
 0.0.0.0 telescopelms.com
 0.0.0.0 terkpecas.com.br
 0.0.0.0 test.iyibakkendine.com
 0.0.0.0 test1.cxyw.net
 0.0.0.0 testdatabaseforcepoint.com
+0.0.0.0 texniko.gr
 0.0.0.0 thaisell.com
 0.0.0.0 tharringtonsponsorship.com
 0.0.0.0 thc-annex.com
-0.0.0.0 theclinicabarros.com
 0.0.0.0 theprizeguys.uk
 0.0.0.0 thepromostore.events
 0.0.0.0 theptiendat.com
@@ -557,14 +548,13 @@
 0.0.0.0 tonyzone.com
 0.0.0.0 totebarreto.com.br
 0.0.0.0 tribunal.ug
-0.0.0.0 triptovacations.com
+0.0.0.0 tripok.ir
 0.0.0.0 tsd.jxwan.com
 0.0.0.0 tulli.info
 0.0.0.0 tuneup.ibk.me
 0.0.0.0 tutoriapro.com
 0.0.0.0 tutuler.com
 0.0.0.0 uc-56.ru
-0.0.0.0 ucto-id.cz
 0.0.0.0 uer.reiykiq.ir
 0.0.0.0 ugc.wegame.com.cn
 0.0.0.0 ukks.net
@@ -603,8 +593,6 @@
 0.0.0.0 webserverthai.com
 0.0.0.0 welcometothefuture.com
 0.0.0.0 whgaty.com
-0.0.0.0 willingwater.com
-0.0.0.0 willingwoods.com
 0.0.0.0 windcomtechnologies.com
 0.0.0.0 wiremeshseller.com
 0.0.0.0 wkkjf.com
@@ -638,7 +626,6 @@
 0.0.0.0 zaragozsa.ug
 0.0.0.0 zdy.17110.com
 0.0.0.0 zhetysu360.kz
-0.0.0.0 zhouhongqing.top
 0.0.0.0 ziliao.yunkaodian.com
 0.0.0.0 zj.9553.com
 0.0.0.0 zmmore.com

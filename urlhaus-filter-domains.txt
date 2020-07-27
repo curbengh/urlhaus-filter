@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Sun, 26 Jul 2020 12:09:57 UTC
+# Updated: Mon, 27 Jul 2020 00:09:58 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -4584,6 +4584,7 @@
 114.235.153.58
 114.235.160.163
 114.235.160.53
+114.235.160.67
 114.235.173.212
 114.235.185.19
 114.235.186.216
@@ -5042,6 +5043,7 @@
 114.32.218.18
 114.32.226.77
 114.32.227.207
+114.32.230.117
 114.32.231.34
 114.32.238.88
 114.32.242.135
@@ -9153,6 +9155,7 @@
 121.230.239.250
 121.230.239.87
 121.230.239.95
+121.230.24.97
 121.230.255.221
 121.231.100.108
 121.231.100.43
@@ -11150,6 +11153,7 @@
 124.230.205.251
 124.230.205.255
 124.230.206.129
+124.230.206.27
 124.230.207.102
 124.230.207.182
 124.230.96.27
@@ -12870,6 +12874,7 @@
 14.113.229.49
 14.113.231.17
 14.113.231.72
+14.117.226.43
 14.117.227.25
 14.118.212.137
 14.118.213.162
@@ -13303,6 +13308,7 @@
 142.93.187.152
 142.93.188.183
 142.93.188.49
+142.93.188.50
 142.93.192.191
 142.93.192.96
 142.93.193.198
@@ -13637,6 +13643,7 @@
 149.3.124.157
 149.3.124.171
 149.3.124.194
+149.3.124.200
 149.3.124.232
 149.3.124.51
 149.3.124.82
@@ -13652,14 +13659,19 @@
 149.3.73.146
 149.3.73.159
 149.3.73.241
+149.3.85.117
 149.3.85.125
 149.3.85.183
+149.3.85.190
 149.3.85.197
 149.3.85.198
 149.3.85.207
 149.3.85.215
 149.3.85.229
+149.3.85.241
+149.3.85.244
 149.3.85.69
+149.3.85.76
 149.3.85.92
 149.34.20.188
 149.34.34.198
@@ -17162,6 +17174,7 @@
 172.36.53.51
 172.36.53.61
 172.36.53.7
+172.36.53.8
 172.36.54.13
 172.36.54.166
 172.36.54.180
@@ -19179,6 +19192,7 @@
 176.217.171.31
 176.218.49.227
 176.221.188.103
+176.221.188.133
 176.221.188.141
 176.221.188.173
 176.221.188.193
@@ -19186,11 +19200,17 @@
 176.221.188.3
 176.221.188.63
 176.221.206.140
+176.221.206.143
 176.221.206.171
+176.221.206.180
 176.221.206.209
 176.221.206.238
 176.221.220.110
+176.221.220.122
 176.221.220.124
+176.221.220.163
+176.221.220.182
+176.221.220.214
 176.221.220.238
 176.221.242.107
 176.221.242.130
@@ -19200,6 +19220,7 @@
 176.221.242.209
 176.221.242.242
 176.221.242.90
+176.221.251.102
 176.223.129.150
 176.223.132.161
 176.223.135.216
@@ -19919,9 +19940,13 @@
 178.132.201.156
 178.134.136.138
 178.134.141.166
+178.134.190.128
+178.134.190.156
 178.134.190.175
 178.134.190.189
 178.134.190.210
+178.134.190.22
+178.134.190.31
 178.134.190.72
 178.134.190.9
 178.134.248.74
@@ -20572,6 +20597,7 @@
 180.116.231.121
 180.116.232.11
 180.116.232.146
+180.116.232.233
 180.116.232.8
 180.116.232.95
 180.116.233.119
@@ -20929,6 +20955,7 @@
 180.178.104.86
 180.178.96.214
 180.180.160.246
+180.180.192.201
 180.180.200.188
 180.180.202.205
 180.189.104.106
@@ -22759,6 +22786,7 @@
 182.127.98.89
 182.127.98.98
 182.127.99.124
+182.128.103.105
 182.128.200.13
 182.130.200.161
 182.130.201.154
@@ -24825,6 +24853,7 @@
 188.166.93.193
 188.166.95.212
 188.169.140.203
+188.169.167.227
 188.169.167.253
 188.169.167.35
 188.169.174.30
@@ -24834,6 +24863,7 @@
 188.169.179.130
 188.169.179.142
 188.169.179.178
+188.169.179.226
 188.169.179.23
 188.169.179.235
 188.169.179.71
@@ -24842,6 +24872,8 @@
 188.169.199.174
 188.169.199.235
 188.169.199.35
+188.169.20.141
+188.169.20.147
 188.169.229.178
 188.169.229.190
 188.169.229.202
@@ -24851,9 +24883,11 @@
 188.169.30.111
 188.169.30.127
 188.169.30.131
+188.169.30.182
 188.169.30.198
 188.169.30.212
 188.169.30.226
+188.169.30.238
 188.169.30.45
 188.169.30.57
 188.169.36.107
@@ -24861,8 +24895,10 @@
 188.169.36.57
 188.169.36.98
 188.169.45.226
+188.169.45.250
 188.169.45.53
 188.169.45.82
+188.169.45.98
 188.169.64.122
 188.169.64.188
 188.169.64.215
@@ -25187,6 +25223,7 @@
 189.68.118.238
 189.68.12.90
 189.68.154.214
+189.68.157.218
 189.68.18.80
 189.68.203.153
 189.68.228.36
@@ -26726,6 +26763,7 @@
 199.83.200.212
 199.83.200.216
 199.83.200.220
+199.83.202.129
 199.83.202.137
 199.83.202.147
 199.83.202.148
@@ -27608,6 +27646,7 @@
 2019voting.com
 202.107.135.193
 202.107.135.9
+202.107.141.187
 202.107.233.41
 202.109.238.86
 202.127.22.38
@@ -31876,6 +31915,7 @@
 23.254.228.86
 23.254.229.145
 23.254.229.222
+23.254.230.105
 23.254.230.120
 23.254.230.141
 23.254.230.197
@@ -32070,6 +32110,7 @@
 26.17.154.47
 26.17.240.194
 26.17.247.27
+26.18.235.60
 2605.60s-rock-and-roll-band-chicago.com
 2612.co.uk
 2612365.com
@@ -34247,6 +34288,7 @@
 37.228.119.107
 37.230.210.84
 37.232.4.134
+37.232.4.190
 37.232.4.36
 37.232.77.124
 37.232.77.193
@@ -34516,6 +34558,7 @@
 38.68.46.56
 38.68.49.16
 38.73.238.138
+38.77.14.237
 38.84.132.162
 382oiso10si8sowppdoiwpc.com
 38seventeen.com
@@ -36943,6 +36986,7 @@
 45.148.120.155
 45.148.120.183
 45.148.120.193
+45.148.122.11
 45.148.122.113
 45.148.164.105
 45.15.253.88
@@ -39571,7 +39615,9 @@
 5.149.255.4
 5.15.31.16
 5.15.33.11
+5.152.0.158
 5.152.0.169
+5.152.0.51
 5.152.0.56
 5.152.0.89
 5.152.0.90
@@ -40359,6 +40405,7 @@
 54.37.62.4
 54.37.77.56
 54.37.90.215
+54.37.93.42
 54.38.127.23
 54.38.127.28
 54.38.137.37
@@ -46069,6 +46116,7 @@
 92.54.237.113
 92.54.237.128
 92.54.237.197
+92.54.237.199
 92.54.237.202
 92.54.237.213
 92.54.237.26
@@ -46376,6 +46424,8 @@
 94.43.10.218
 94.43.10.222
 94.43.10.78
+94.43.10.98
+94.43.101.139
 94.43.101.161
 94.43.101.231
 94.43.101.254
@@ -46680,6 +46730,7 @@
 98.143.63.247
 98.149.40.72
 98.153.220.110
+98.159.110.15
 98.159.110.17
 98.159.110.18
 98.159.110.19
@@ -61585,6 +61636,7 @@ communica.com.mx
 communicateyourjoy.com
 communication-responsable.aacc.fr
 communication4u.de
+communicationideadedicatedserversystem.duckdns.org
 community-growth.org
 community.diygeeks.org
 community.neomeric.us
@@ -63273,7 +63325,6 @@ cyfuss.com
 cygcomputadoras.com
 cygnus.su
 cylialarer.com
-cyltestcilindros.com.br
 cym.pe
 cynanelectrical.co.uk
 cynicalmedia.com
@@ -73758,6 +73809,7 @@ furenzip.com
 furhatsth.net
 furious-styles.com
 furiousfox.in
+furiousgold.com
 furjesporta.hu
 furmann.pl
 furnfeathers.co.uk
@@ -76890,6 +76942,7 @@ h44adrew.company
 h4bb.tk
 h5-152-203-118.host.redstation.co.uk
 h5.qq125.com
+h5s.vn
 h5ym.com
 h5zxsg.dm.files.1drv.com
 h710175922.nichost.ru
@@ -78726,6 +78779,7 @@ honda.vn.ua
 hondablackbird.co.uk
 hondahatinh.vn
 hondajazzclubindonesia.org
+hondaotothaibinh5s.vn
 hondapalembangsumsel.com
 hondaparadise.co.th
 hondasaigon.com.vn
@@ -82182,7 +82236,6 @@ ivansupermining.info
 ivariedades.com
 ivcn.ru
 ivcontent.info
-ivcut.com
 ivedikosgb.com
 iventix.de
 iventurecard.co.uk
@@ -87902,7 +87955,6 @@ lightcraftevents.pl
 lightday.pl
 lighteningmedialabs.com
 lighteningplayer.com
-lightenpdf.com
 lightforthezulunation.org
 lightfromheaven.org
 lighthouse.kz
@@ -101720,7 +101772,6 @@ pramlee.my
 pramodgroup.com
 pramodkumarsingh.000webhostapp.com
 pranammedia.com
-pranaplanet.com
 pranavadvisoryservices.com
 pranay.softcopyautomation.in
 pranazfinance.com
@@ -103994,7 +104045,6 @@ rajmachinery.com
 rajmahalnyc.com
 rajneeshism.com
 rajpututthansangh.com
-rajratanenterprises.xyz
 rajshekarhomehealth.in
 rajshekarhospital.com
 rajshrifood.in
@@ -111426,7 +111476,6 @@ spiritualhealerashish.com
 spiritv2.com
 spiritwarriormama.com
 spirtnoe.org.ua
-spirtualcenteruk.com
 spitbraaihire.co.za
 spitlame.free.fr
 spitzcreativemedia.com
@@ -114579,7 +114628,6 @@ techvast-it.com
 techvibe.tech
 techviet24.info
 techwahab.000webhostapp.com
-techwebera.tk
 techwhizzer.com
 techwide.net
 techwolk.com
@@ -118019,6 +118067,7 @@ tudonghoaamd.com
 tudorlodgeconsultants.com
 tudosobreconcursos.net
 tudosobrepalavras.com
+tudosobreseguros.org.br
 tudsak.com
 tuerks-tr.com
 tufacha.com
@@ -119051,7 +119100,6 @@ update.com.br
 update.covid-19.casa
 update.gk-mtm.ru
 update.hoiucvl.com
-update.id
 update.igra123.com
 update.iwang8.com
 update.jirisancapital.com
@@ -120300,7 +120348,6 @@ videosforwhatsapp.com
 videosonik.com.mk
 videossources.com
 videoswebcammsn.free.fr
-videract.com
 vides.org
 videsrona.com
 vidhamastudios.com
@@ -120524,6 +120571,7 @@ viola-zeig.de
 violet-eg.com
 violet-pilot.de
 violetdecor.net
+violinrepairshop.com
 vionero.de
 vioplanoc.com
 vioprotection.com.co
@@ -125257,7 +125305,6 @@ zhongcaiw.cn
 zhongguo114.net
 zhongke168.com
 zhorau.ru
-zhouhongqing.top
 zhoujiwei.com
 zhouliang.info
 zhoumengmeng.top
