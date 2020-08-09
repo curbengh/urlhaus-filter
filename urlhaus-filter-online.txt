@@ -1,5 +1,5 @@
 ! Title: Online Malicious URL Blocklist
-! Updated: Sat, 08 Aug 2020 12:10:10 UTC
+! Updated: Sun, 09 Aug 2020 00:09:59 UTC
 ! Expires: 1 day (update frequency)
 ! Repo: https://gitlab.com/curben/urlhaus-filter
 ! License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -8,7 +8,7 @@
 ||1.0.132.173^
 ||1.11.132.252^
 ||1.11.157.111^
-||1.176.89.252^
+||1.246.222.105^
 ||1.246.222.107^
 ||1.246.222.109^
 ||1.246.222.123^
@@ -70,7 +70,6 @@
 ||100.12.184.234^
 ||100.12.37.7^
 ||100.8.77.4^
-||101.108.176.50^
 ||101.255.36.146^
 ||101.255.36.154^
 ||101.255.54.38^
@@ -88,11 +87,10 @@
 ||103.204.168.34^
 ||103.210.31.84^
 ||103.221.254.130^
-||103.230.62.146^
-||103.234.226.133^
 ||103.237.173.218^
 ||103.31.47.214^
 ||103.4.117.26^
+||103.47.57.204^
 ||103.50.4.235^
 ||103.79.112.254^
 ||103.80.210.9^
@@ -129,22 +127,21 @@
 ||108.80.60.218^
 ||108.83.164.236^
 ||109.104.197.153^
-||109.107.88.91^
 ||109.124.90.229^
 ||109.233.196.232^
 ||109.235.7.228^
-||109.248.58.238^
 ||109.95.200.102^
 ||109.96.57.246^
 ||109.97.46.170^
 ||110.15.142.90^
 ||110.155.167.245^
+||110.155.217.44^
 ||110.155.50.16^
 ||110.156.50.22^
 ||110.18.194.234^
+||110.34.3.142^
 ||111.125.67.125^
 ||111.185.22.40^
-||111.185.231.198^
 ||111.185.48.248^
 ||111.185.49.223^
 ||111.38.107.18^
@@ -155,7 +152,6 @@
 ||111.38.26.243^
 ||111.38.28.137^
 ||111.61.52.53^
-||111.78.117.85^
 ||111.90.138.208^
 ||111.93.169.90^
 ||112.123.109.137^
@@ -170,7 +166,7 @@
 ||112.166.251.121^
 ||112.167.148.70^
 ||112.17.190.176^
-||112.17.78.178^
+||112.17.78.210^
 ||112.170.205.85^
 ||112.170.23.21^
 ||112.172.135.16^
@@ -188,14 +184,15 @@
 ||112.27.91.236^
 ||112.27.91.241^
 ||113.243.130.13^
-||113.254.169.251^
 ||114.226.129.99^
 ||114.226.23.172^
 ||114.226.232.108^
+||114.226.82.119^
 ||114.228.248.85^
 ||114.228.31.19^
 ||114.229.223.204^
 ||114.233.153.177^
+||114.234.134.238^
 ||114.234.151.7^
 ||114.234.192.49^
 ||114.234.33.224^
@@ -215,11 +212,13 @@
 ||115.49.156.167^
 ||115.79.4.137^
 ||116.149.240.44^
+||116.149.247.233^
 ||116.206.164.46^
 ||116.241.138.124^
 ||116.241.47.220^
 ||117.60.204.195^
 ||117.60.239.70^
+||117.63.159.220^
 ||117.63.247.97^
 ||117.86.212.189^
 ||117.87.135.201^
@@ -241,6 +240,7 @@
 ||118.40.201.173^
 ||118.42.204.218^
 ||118.42.208.62^
+||118.42.233.90^
 ||118.46.36.186^
 ||118.46.7.246^
 ||118.99.151.145^
@@ -306,7 +306,6 @@
 ||123.110.182.187^
 ||123.110.200.98^
 ||123.110.238.188^
-||123.12.76.238^
 ||123.193.190.13^
 ||123.193.229.177^
 ||123.193.53.237^
@@ -327,12 +326,14 @@
 ||124.153.236.6^
 ||124.160.126.238^
 ||124.6.14.208^
+||125.104.242.33^
 ||125.128.163.101^
 ||125.130.59.163^
 ||125.138.57.208^
 ||125.140.140.218^
 ||125.18.28.170^
 ||125.209.71.6^
+||125.26.165.244^
 ||128.116.133.92^
 ||128.116.169.210^
 ||128.65.183.8^
@@ -369,7 +370,6 @@
 ||144.139.130.6^
 ||144.64.12.241^
 ||146.71.79.230^
-||149.3.124.17^
 ||150.116.206.221^
 ||150.117.232.103^
 ||150.129.151.212^
@@ -411,8 +411,9 @@
 ||175.215.226.31^
 ||176.108.12.36^
 ||176.108.58.123^
-||176.113.161.101^
+||176.113.161.104^
 ||176.113.161.121^
+||176.113.161.128^
 ||176.113.161.129^
 ||176.113.161.136^
 ||176.113.161.138^
@@ -421,7 +422,6 @@
 ||176.113.161.59^
 ||176.113.161.66^
 ||176.113.161.67^
-||176.113.161.76^
 ||176.113.161.84^
 ||176.113.161.91^
 ||176.113.161.95^
@@ -439,7 +439,6 @@
 ||177.54.83.22^
 ||177.72.2.186^
 ||178.124.182.187^
-||178.134.185.178^
 ||178.134.185.95^
 ||178.136.195.90^
 ||178.165.122.141^
@@ -458,7 +457,6 @@
 ||180.104.214.249^
 ||180.104.247.126^
 ||180.104.26.157^
-||180.116.102.59^
 ||180.116.187.118^
 ||180.116.212.252^
 ||180.116.22.84^
@@ -467,7 +465,9 @@
 ||180.117.18.244^
 ||180.118.34.100^
 ||180.118.63.206^
+||180.120.79.159^
 ||180.123.151.213^
+||180.123.170.142^
 ||180.123.89.255^
 ||180.124.184.132^
 ||180.176.105.41^
@@ -475,19 +475,23 @@
 ||180.176.165.230^
 ||180.176.208.116^
 ||180.176.34.51^
+||180.177.104.65^
 ||180.177.242.73^
+||180.189.104.106^
 ||180.228.38.207^
 ||180.248.80.38^
 ||180.43.82.186^
 ||180.64.214.48^
 ||181.111.163.169^
 ||181.111.233.18^
+||181.112.138.154^
 ||181.112.218.238^
 ||181.112.218.6^
 ||181.112.33.222^
 ||181.129.9.58^
 ||181.143.60.163^
 ||181.143.70.194^
+||181.177.141.168^
 ||181.193.107.10^
 ||181.196.144.130^
 ||181.199.26.39^
@@ -502,6 +506,7 @@
 ||182.160.101.51^
 ||182.160.125.229^
 ||182.222.167.237^
+||182.225.254.234^
 ||182.233.0.252^
 ||182.235.252.31^
 ||183.100.109.156^
@@ -518,9 +523,7 @@
 ||185.136.193.70^
 ||185.138.123.179^
 ||185.153.196.209^
-||185.172.110.176^
 ||185.172.110.185^
-||185.172.110.186^
 ||185.172.110.208^
 ||185.172.110.216^
 ||185.172.110.217^
@@ -559,6 +562,7 @@
 ||187.72.59.113^
 ||188.138.200.32^
 ||188.169.178.50^
+||188.169.179.216^
 ||188.169.229.190^
 ||188.169.229.202^
 ||188.169.45.140^
@@ -579,7 +583,6 @@
 ||190.141.196.80^
 ||190.159.240.9^
 ||190.163.192.232^
-||190.184.184.211^
 ||190.186.56.84^
 ||190.187.55.150^
 ||190.213.49.207^
@@ -592,6 +595,7 @@
 ||190.92.46.42^
 ||190.98.36.201^
 ||190.98.37.135^
+||191.102.123.132^
 ||191.255.248.220^
 ||191.8.80.207^
 ||192.227.158.103^
@@ -603,7 +607,7 @@
 ||193.34.21.66^
 ||194.15.36.10^
 ||194.15.36.242^
-||194.15.36.78^
+||194.152.35.139^
 ||194.180.224.103^
 ||194.32.79.210^
 ||194.87.138.51^
@@ -626,6 +630,7 @@
 ||197.51.182.118^
 ||198.23.213.30^
 ||198.46.209.159^
+||199.83.200.220^
 ||199.83.203.202^
 ||1home.az^
 ||2.180.33.118^
@@ -647,13 +652,11 @@
 ||2.indexsinas.me:811/86.exe$all
 ||2.indexsinas.me:811/c64.exe$all
 ||200.105.167.98^
-||200.111.189.70^
 ||200.180.159.138^
 ||200.2.161.171^
 ||200.30.132.50^
 ||200.38.79.134^
 ||200.69.74.28^
-||200.85.168.202^
 ||2000kumdo.com^
 ||201.1.126.71^
 ||201.192.136.240^
@@ -770,7 +773,6 @@
 ||219.68.251.32^
 ||219.68.5.140^
 ||219.69.71.186^
-||219.70.238.66^
 ||219.70.63.196^
 ||219.75.89.112^
 ||219.80.217.209^
@@ -785,17 +787,18 @@
 ||221.166.254.127^
 ||221.226.86.151^
 ||221.229.144.191^
+||221.229.199.57^
 ||221.5.30.14^
 ||222.102.63.41^
 ||222.108.213.43^
 ||222.116.70.13^
 ||222.138.191.207^
 ||222.185.19.206^
-||222.187.164.188^
 ||222.188.221.118^
 ||222.188.243.225^
 ||222.239.83.232^
 ||222.243.14.67^
+||222.74.186.176^
 ||224fgbet.com^
 ||23.122.183.241^
 ||23.228.143.58^
@@ -822,7 +825,6 @@
 ||24kitten.com^
 ||26v.cn^
 ||27.105.106.201^
-||27.105.198.65^
 ||27.113.29.218^
 ||27.116.84.57^
 ||27.117.121.89^
@@ -834,9 +836,11 @@
 ||27.157.13.148^
 ||27.234.90.226^
 ||27.238.33.39^
-||27.41.158.167^
 ||27.41.204.165^
-||27.41.208.207^
+||3.zhzy999.net/images/n.exe$all
+||3.zhzy999.net3.zhzy999.net/images/n.exe$all
+||31.128.173.853.zhzy999.net/images/n.exe$all
+||31.128.173.853.zhzy999.net31.128.173.853.zhzy999.net/images/n.exe$all
 ||31.13.23.180^
 ||31.132.152.49^
 ||31.168.153.60^
@@ -858,17 +862,19 @@
 ||31.210.184.188^
 ||31.211.144.10^
 ||31.211.145.67^
-||31.25.134.209^
 ||31.30.119.23^
 ||31.44.54.110^
 ||35.141.217.189^
+||36.25.228.115^
 ||36.39.50.50^
+||36.66.105.159^
 ||36.66.111.203^
-||36.67.152.161^
+||36.66.133.125^
+||36.66.139.36^
 ||36.74.74.99^
 ||36.89.18.133^
-||36.96.12.49^
 ||365dayscoffee.com^
+||37.123.201.237^
 ||37.142.118.244^
 ||37.218.233.127^
 ||37.222.98.51^
@@ -876,7 +882,6 @@
 ||37.29.67.145^
 ||37.34.179.221^
 ||37.49.224.101^
-||37.49.224.153^
 ||37.49.224.209^
 ||37.49.224.224^
 ||37.49.224.231^
@@ -895,6 +900,7 @@
 ||41.190.137.126^
 ||41.190.63.174^
 ||41.190.70.238^
+||41.193.192.100^
 ||41.211.112.82^
 ||41.219.185.171^
 ||41.222.4.146^
@@ -909,6 +915,7 @@
 ||42.115.68.140^
 ||42.61.176.214^
 ||42.61.99.155^
+||42.82.191.105^
 ||42502d2a-e7ed-4a16-9f11-33ffe6c54021.usrfiles.com^
 ||43.252.8.94^
 ||45.10.24.197^
@@ -934,12 +941,10 @@
 ||45.95.168.138^
 ||45.95.168.181^
 ||45.95.168.201^
-||45.95.168.208^
 ||45.95.168.90^
 ||45.95.168.91^
 ||46.100.57.58^
 ||46.102.64.153^
-||46.107.48.22^
 ||46.121.82.70^
 ||46.161.185.15^
 ||46.172.75.231^
@@ -950,6 +955,7 @@
 ||46.241.120.165^
 ||46.25.242.211^
 ||46.36.74.43^
+||46.42.118.86^
 ||46.47.80.188^
 ||46.6.13.61^
 ||46.97.76.242^
@@ -960,6 +966,7 @@
 ||47.187.120.184^
 ||47.46.231.38^
 ||49.115.98.124^
+||49.117.189.23^
 ||49.119.61.14^
 ||49.143.181.221^
 ||49.143.32.92^
@@ -973,6 +980,7 @@
 ||49.158.201.200^
 ||49.159.21.3^
 ||49.159.60.86^
+||49.174.182.99^
 ||49.176.175.223^
 ||49.213.172.97^
 ||49.213.178.183^
@@ -993,19 +1001,19 @@
 ||49parallel.ca^
 ||4seasons.uz^
 ||5.101.196.90^
-||5.152.0.120^
 ||5.187.160.235^
 ||5.19.248.85^
 ||5.198.244.91^
+||5.201.142.118^
 ||5.26.149.86^
 ||5.26.90.208^
 ||5.29.97.84^
 ||5.43.104.68^
 ||5.89.232.197^
-||5.95.226.79^
 ||50.121.91.255^
 ||50.193.40.205^
 ||50.194.237.58^
+||50.198.71.204^
 ||50.246.56.243^
 ||50.35.77.32^
 ||50.75.198.219^
@@ -1018,6 +1026,7 @@
 ||58.230.89.42^
 ||58.232.98.233^
 ||58.238.186.91^
+||58.255.134.175^
 ||59.10.200.64^
 ||59.102.168.189^
 ||59.13.74.78^
@@ -1025,7 +1034,6 @@
 ||59.20.71.26^
 ||59.23.208.62^
 ||59.23.253.228^
-||59.25.142.186^
 ||59.26.12.115^
 ||59.28.148.31^
 ||59.31.255.134^
@@ -1062,6 +1070,7 @@
 ||62.38.222.98^
 ||62.69.241.72^
 ||62.80.231.196^
+||62.82.172.42^
 ||62.90.165.236^
 ||62.90.219.154^
 ||63.245.122.93^
@@ -1128,6 +1137,7 @@
 ||74.108.224.112^
 ||74.113.230.55^
 ||74.140.237.185^
+||74.194.117.165^
 ||74.195.115.176^
 ||75.109.195.22^
 ||75.127.141.52^
@@ -1181,12 +1191,15 @@
 ||79.148.100.106^
 ||79.2.211.133^
 ||79.41.117.236^
+||79.58.45.55^
 ||79.62.235.37^
+||79.7.170.58^
 ||79.79.58.94^
 ||79.8.136.143^
 ||79.8.70.162^
 ||7p22jz.chokun.ru^
 ||7th-club.com^
+||80.107.89.207^
 ||80.13.122.42^
 ||80.183.16.179^
 ||80.184.103.90^
@@ -1204,7 +1217,6 @@
 ||81.218.187.113^
 ||81.218.196.175^
 ||81.246.225.203^
-||81.30.177.68^
 ||81.4.156.174^
 ||82.103.108.72^
 ||82.103.90.10^
@@ -1246,7 +1258,6 @@
 ||82.81.50.37^
 ||82.81.9.62^
 ||82.90.71.96^
-||83.199.163.14^
 ||83.234.147.99^
 ||83.234.218.42^
 ||83.33.143.1^
@@ -1265,8 +1276,10 @@
 ||85.105.165.236^
 ||85.105.180.33^
 ||85.105.208.25^
+||85.114.107.74^
 ||85.222.91.82^
 ||85.247.247.175^
+||85.64.181.50^
 ||85.66.237.14^
 ||86.106.207.202^
 ||86.18.117.139^
@@ -1308,9 +1321,9 @@
 ||91.215.126.208^
 ||91.216.149.130^
 ||91.221.177.94^
+||91.244.114.198^
 ||91.244.169.139^
 ||91.83.166.142^
-||91.92.129.32^
 ||91.92.16.244^
 ||91.93.202.79^
 ||92.114.191.82^
@@ -1318,13 +1331,14 @@
 ||92.241.78.114^
 ||92.27.128.104^
 ||92.82.198.253^
+||92.82.73.194^
 ||92.82.74.71^
 ||92.83.62.139^
 ||93.122.213.217^
+||93.122.215.1^
 ||93.122.225.34^
 ||93.147.142.243^
 ||93.151.254.53^
-||93.157.62.102^
 ||93.41.182.249^
 ||93.41.206.56^
 ||93.49.245.90^
@@ -1339,6 +1353,7 @@
 ||94.159.249.42^
 ||94.230.152.192^
 ||94.244.113.217^
+||94.43.139.49^
 ||94.53.120.109^
 ||94.6.158.41^
 ||94.64.246.247^
@@ -1362,9 +1377,10 @@
 ||98.113.239.207^
 ||98.114.21.206^
 ||98.116.72.119^
+||98.149.40.72^
 ||98.159.110.203^
 ||98.159.110.225^
-||98.159.99.227^
+||98.159.110.23^
 ||98.178.203.36^
 ||98.200.189.189^
 ||98.21.251.169^
@@ -1377,7 +1393,6 @@
 ||a-reality.co.uk^
 ||abass.ir^
 ||abcofcricket.com^
-||abovethemezzanine.com^
 ||accessyouraudience.com^
 ||accounting-qualifications.co.za^
 ||acep-xploit.tk^
@@ -1418,15 +1433,16 @@
 ||alfanargents.com^
 ||algorithmshargh.com^
 ||alidien.com^
-||alirezajanghorban1991.ir^
 ||allloveseries.com^
 ||almid.by^
 ||alobhatechnology.com/cloud/balance/$all
+||alohasoftware.net^
 ||alphaconsumer.net^
 ||alyajhdamir.com^
 ||am-concepts.ca^
 ||amagna.nl^
 ||ambiseg.servsites.com.br^
+||amd.alibuf.com^
 ||amemarine.co.th^
 ||ampos.com.ng^
 ||amyemitchell.com^
@@ -1444,6 +1460,7 @@
 ||anfornet.com^
 ||angel-style.com.ua^
 ||angelsdetour.com^
+||angthong.nfe.go.th^
 ||annabphotography.co.uk^
 ||anninhbamien.com^
 ||anvietpro.com^
@@ -1458,12 +1475,10 @@
 ||arssilim.com^
 ||artabout.gr/signature/YKVB6U/gdy71zmca5/h7wxwaa83008691441id8cu3dsqvh4d3o3/$all
 ||artewebestudio.com^
-||artisan.com.sa^
 ||aruntic.com^
 ||asayil.net^
 ||asholbazar.com^
 ||asikbelajar.com/wp-includes/swift/xawpbmcsjds/$all
-||askdadtoday.com^
 ||astronica.org/occup/foymksa8iuy/uyc27174682618858tucv1ehr2dyp/$all
 ||astronica.org/swipe/7q_tt2k_5drshw/$all
 ||atfile.com^
@@ -1561,7 +1576,6 @@
 ||cameronandswan.co.uk^
 ||camminachetipassa.it^
 ||camocnc.duckdns.org^
-||campanus.cz^
 ||campdevanol.com^
 ||camponovo.it^
 ||campsbayviews.com^
@@ -1583,6 +1597,7 @@
 ||cf.uuu9.com^
 ||cfs5.tistory.com^
 ||ch.rmu.ac.th^
+||changematterscounselling.com^
 ||chanvribloc.com^
 ||charm.bizfxr.com^
 ||chinhdropfile.myvnc.com^
@@ -1604,7 +1619,6 @@
 ||cluster1.be^
 ||cnml.com.br^
 ||cnpcsonline.com^
-||cnwanlian.cn^
 ||codeload.github.com/MeteorAdminz/hidden-tear/zip/master$all
 ||colfincas.com^
 ||colourcreative.co.za^
@@ -1681,6 +1695,7 @@
 ||deltat.us^
 ||deluxemongolia.com^
 ||demo.cnopencart.com^
+||demo.illerarasinakliyat.com^
 ||demonesia.net^
 ||demonpaintball.co.uk^
 ||denizyahci.com^
@@ -1692,6 +1707,7 @@
 ||dewide.com.br^
 ||dezcom.com^
 ||dfcf.91756.cn^
+||dfd.zhzy999.net/images/m.exe$all
 ||dfzm.91756.cn^
 ||dgecolesdepolice.bf^
 ||dichvuvesinhcongnghiep.top^
@@ -1721,7 +1737,6 @@
 ||donmago.com^
 ||doransky.info^
 ||dorukozmetik.com^
-||dosame.com^
 ||dotmarket.rs^
 ||doubledog.nl^
 ||dovberger.com^
@@ -1762,12 +1777,12 @@
 ||drive.google.com/u/0/uc?id=182UviCEflyHpW6qVhhhaE3YFHrHNmRfk&export=download$all
 ||drive.google.com/u/0/uc?id=1b5h0Nm9HFeC4Pb5NQ3JN6D2bpt2qH2OS&export=download$all
 ||drive.google.com/u/0/uc?id=1jRKk-JShiacA9kkZqLsQXTDGMP3fbktq&export=download$all
-||drive.google.com/u/0/uc?id=1lf5uj0OZtEz0Da4uloCglElnO0cqqaJ7&export=download$all
 ||drive.google.com/uc?export=download&id=19Rww40gJ2bgnR4d0kxNPAXOhspVmcojz$all
 ||drive.google.com/uc?export=download&id=1GIykafZbADzbhWZKlE8iE9t-KPHqw54u$all
 ||drive.google.com/uc?export=download&id=1J0yGXoItb8-2VNCrcSnWWQpYZ4TkX8BE$all
 ||drive.google.com/uc?export=download&id=1dlkeUSs1gSs4MVJvE8ktumUT_znIn6bI$all
 ||drive.google.com/uc?export=download&id=1t-9ef30h3Ithh7UY5O2LuiaQuqmci4dy$all
+||drive.google.com/uc?id=1-3kFaMujRY9yLfLp1Lt1nhK9_KO30wAu&export=download$all
 ||drive.google.com/uc?id=1-ChWS7gPh0DGbxuL6tu2KyWbrUuhfErV&export=download$all
 ||drive.google.com/uc?id=10QV8bkFLXt4TVcts3XL6yCCrWcFBfwY_&export=download$all
 ||drive.google.com/uc?id=112jsUltb4w2BnM8N8AKG-q63YaBnYGzc&export=download$all
@@ -1903,6 +1918,7 @@
 ||duyster.info^
 ||dvct.be^
 ||dvct.zephyrgroup.biz^
+||dw.58wangdun.com^
 ||dweixin.cn^
 ||dwz.lefu.run^
 ||dx.qqyewu.com^
@@ -1928,7 +1944,6 @@
 ||ejewelbox.com^
 ||ekramco.ir^
 ||elizandrodesouza.000webhostapp.com^
-||elokshinproperty.co.za^
 ||emiratestravels.net/dfnqrpqebx/8M/HK/pUsb9NG0.zip$all
 ||emiratestravels.net/dfnqrpqebx/L/U2TMqILPG.zip$all
 ||emiratestravels.net/dfnqrpqebx/qWJLrSFLCD.zip$all
@@ -1980,7 +1995,6 @@
 ||fiyo.org^
 ||fkd.derpcity.ru^
 ||flex.ru/files/flex_internet_x64.exe$all
-||flexitravel.com^
 ||flgmedia.nl^
 ||fmcav.com^
 ||fon-gsm.pl^
@@ -2007,6 +2021,7 @@
 ||garenanow4.myvnc.com^
 ||garethjames.co.uk^
 ||gartengestaltung-hoellerer.de^
+||gasfer.ru^
 ||gateway-heide.de^
 ||geekyhillbilly.com^
 ||gehua.com.cn/vrwmg/closed_section/verifiable_cloud/I79wBvJ56pT_Jtycbeyq3M/$all
@@ -2034,7 +2049,6 @@
 ||goldenstatetow.com^
 ||goldilockstraining.com^
 ||grafchekloder.rebatesrule.net^
-||grecoson.com^
 ||green100.cn/wp-admin/sites/4hmwi1hb/8zn7-4791619283-794696702-hdox5rgy8y-yvhfweixygqa/$all
 ||greenpalace.top^
 ||groupchips.com^
@@ -2103,7 +2117,6 @@
 ||incredicole.com^
 ||industrialequip.net^
 ||infohost.net.au^
-||ingelse.net^
 ||inigbiseijfji.ru^
 ||innovertec.com/af/LLC/$all
 ||inspocoach.com^
@@ -2143,7 +2156,6 @@
 ||jointings.org/eng/wp-content/plugins/featurific-for-wordpress/3$all
 ||joswinter.nl^
 ||joule.kpi.ua^
-||jpc.iskandariah.perubatan.org^
 ||jpwoodfordco.com^
 ||jrmlocks.ir^
 ||jsya.co.kr^
@@ -2193,7 +2205,6 @@
 ||kqq.kz/wp-content/plugins/wp-db-ajax-made/4$all
 ||krausen.ee^
 ||kriskate.com^
-||kuaizip.com/down/affiliate/KuaiZip_setup_10029.exe$all
 ||kultfitness.com^
 ||kunsttrip.nl^
 ||kwanfromhongkong.com^
@@ -2307,6 +2318,7 @@
 ||mobialive.com^
 ||mobilbazaar.net^
 ||mobilesbestprice.com^
+||mobiletech.net^
 ||mockienan.com/webstruct/Reporting/d9jwefs91t6b/$all
 ||moha-group.com^
 ||monom.si^
@@ -2379,7 +2391,6 @@
 ||nprg.ru^
 ||nsb.org.uk^
 ||nsheldon.co.uk^
-||nufc.vn^
 ||nutsjuicebar.it^
 ||nuwagi.com^
 ||nvbcdfsvxcs.ug^
@@ -2403,10 +2414,6 @@
 ||onedrive.live.com/download.aspx?authkey=%21AGZmMCN0fitqqSg&cid=B49DE58B11F93798&resid=B49DE58B11F93798%21107&parId=root&o=OneUp$all
 ||onedrive.live.com/download.aspx?authkey=%21ANHBzyBkG3MeKig&cid=21757E11F03B2792&resid=21757E11F03B2792%21109&parId=root&o=OneUp$all
 ||onedrive.live.com/download?&resid=81445407A9F44D37!197&authkey=APuZ15KfTzlRYSA$all
-||onedrive.live.com/download?&resid=B4C15A27928F663B!229&authkey=AIarm61FWmd_NPE$all
-||onedrive.live.com/download?&resid=B4C15A27928F663B!230&authkey=ANCU1EabeTiuBzg$all
-||onedrive.live.com/download?&resid=B4C15A27928F663B!231&authkey=AI9h3Sk_lUxRAN0$all
-||onedrive.live.com/download?&resid=C127F9E0FB7CBBEA!214&authkey=AAt73NvGhhjdr9g$all
 ||onedrive.live.com/download?authkey=!AAsE4MA0-vo_CLs&cid=4DF11EDA676A355F&resid=4DF11EDA676A355F!140$all
 ||onedrive.live.com/download?authkey=!AGZmMCN0fitqqSg&cid=B49DE58B11F93798&resid=B49DE58B11F93798!107$all
 ||onedrive.live.com/download?authkey=!AKd6uxvLjTLVpxU&cid=4DF11EDA676A355F&resid=4DF11EDA676A355F!130$all
@@ -2448,7 +2455,6 @@
 ||onedrive.live.com/download?cid=0D59C202E35694C2&resid=D59C202E35694C2!273&authkey=AE2M69E5NU3RReA$all
 ||onedrive.live.com/download?cid=0D59C202E35694C2&resid=D59C202E35694C2!274&authkey=ACQg0aKuTOXdpgo$all
 ||onedrive.live.com/download?cid=0D59C202E35694C2&resid=D59C202E35694C2%21273&authkey=AE2M69E5NU3RReA$all
-||onedrive.live.com/download?cid=0D59C202E35694C2&resid=D59C202E35694C2%21274&authkey=ACQg0aKuTOXdpgo$all
 ||onedrive.live.com/download?cid=0F0A5AADC4C3C242&resid=F0A5AADC4C3C242!309&authkey=ALFe36DRAi1zmWc$all
 ||onedrive.live.com/download?cid=0F0A5AADC4C3C242&resid=F0A5AADC4C3C242%21309&authkey=ALFe36DRAi1zmWc$all
 ||onedrive.live.com/download?cid=0F51D04C9D556964&resid=F51D04C9D556964%21123&authkey=ACo5hiwPPfQ8VRw$all
@@ -2456,7 +2462,6 @@
 ||onedrive.live.com/download?cid=125290CA4DC682C9&resid=125290CA4DC682C9%21452&authkey=AFdp5ruRqhDqa2A$all
 ||onedrive.live.com/download?cid=165468846F076EE7&resid=165468846F076EE7!118&authkey=ANTAsh3IG98aQTE$all
 ||onedrive.live.com/download?cid=165468846F076EE7&resid=165468846F076EE7%21118&authkey=ANTAsh3IG98aQTE$all
-||onedrive.live.com/download?cid=174A158B69387A7E&resid=174A158B69387A7E!348&authkey=AHnjOxA4uFoxa54$all
 ||onedrive.live.com/download?cid=174A158B69387A7E&resid=174A158B69387A7E%21348&authkey=AHnjOxA4uFoxa54$all
 ||onedrive.live.com/download?cid=18418ADACEFED6E2&resid=18418ADACEFED6E2!126&authkey=AD4yflRiSq6d82g$all
 ||onedrive.live.com/download?cid=18418ADACEFED6E2&resid=18418ADACEFED6E2!129&authkey=APQOONsrCe0ArI4$all
@@ -2502,6 +2507,7 @@
 ||onedrive.live.com/download?cid=34207675F7506D94&resid=34207675F7506D94%21137&authkey=ANGXNhQPE2X5Koc$all
 ||onedrive.live.com/download?cid=3447601AB357F8C1&resid=3447601AB357F8C1!114&authkey=AItWeRXD-t2CXL0$all
 ||onedrive.live.com/download?cid=3892A0364CB5DA65&resid=3892A0364CB5DA65!152&authkey=AM09Sv26NjxZyn0$all
+||onedrive.live.com/download?cid=3892A0364CB5DA65&resid=3892A0364CB5DA65!153&authkey=AJS0JKOEQkqjRZE$all
 ||onedrive.live.com/download?cid=3892A0364CB5DA65&resid=3892A0364CB5DA65%21152&authkey=AM09Sv26NjxZyn0$all
 ||onedrive.live.com/download?cid=3892A0364CB5DA65&resid=3892A0364CB5DA65%21153&authkey=AJS0JKOEQkqjRZE$all
 ||onedrive.live.com/download?cid=3A1715E2CB964F25&resid=3A1715E2CB964F25%213713&authkey=AORTxmfNIbNoQKk$all
@@ -2513,11 +2519,8 @@
 ||onedrive.live.com/download?cid=409B9A5B5F0F876C&resid=409B9A5B5F0F876C!3269&authkey=AOMJLbubQ7aUcvE$all
 ||onedrive.live.com/download?cid=409B9A5B5F0F876C&resid=409B9A5B5F0F876C%213269&authkey=AOMJLbubQ7aUcvE$all
 ||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256!111&authkey=AJZp62LMPZKHUMQ$all
-||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256!113&authkey=AEOaNIW0sQpOAcU$all
 ||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256!120&authkey=AJFZZ_HBF2UlaSk$all
 ||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256%21111&authkey=AJZp62LMPZKHUMQ$all
-||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256%21113&authkey=AEOaNIW0sQpOAcU$all
-||onedrive.live.com/download?cid=41F2978DA9CE0256&resid=41F2978DA9CE0256%21120&authkey=AJFZZ_HBF2UlaSk$all
 ||onedrive.live.com/download?cid=431C1763BAC3A7ED&resid=431C1763BAC3A7ED!8974&authkey=AP29cMAU3OCkmW4$all
 ||onedrive.live.com/download?cid=45F0213456D899C0&resid=45F0213456D899C0%211133&authkey=ALwgKm79XOD8HpY$all
 ||onedrive.live.com/download?cid=470FEBB155BE50FA&resid=470FEBB155BE50FA!450&authkey=AHW0J-CME0jg6pw$all
@@ -2574,15 +2577,11 @@
 ||onedrive.live.com/download?cid=501B63131AB62DD6&resid=501B63131AB62DD6%212728&authkey=AHSMBKLtfRWgqjc$all
 ||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C!398&authkey=ABAA_TJd7OHh4So$all
 ||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C!406&authkey=AARnp48wUMgu6TQ$all
-||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C!415&authkey=AGLZsD6-G0NzJ7s$all
 ||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C!420&authkey=AKk5DROUng_eCWw$all
 ||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C!440&authkey=AI7-dpR11WNzyQ8$all
 ||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C%21395&authkey=ALWvuB_YHtOgJXw$all
 ||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C%21398&authkey=ABAA_TJd7OHh4So$all
 ||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C%21406&authkey=AARnp48wUMgu6TQ$all
-||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C%21415&authkey=AGLZsD6-G0NzJ7s$all
-||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C%21420&authkey=AKk5DROUng_eCWw$all
-||onedrive.live.com/download?cid=505BE76830F4DC4C&resid=505BE76830F4DC4C%21440&authkey=AI7-dpR11WNzyQ8$all
 ||onedrive.live.com/download?cid=53965C96E65F4F6D&resid=53965C96E65F4F6D!109&authkey=ADRIsWRTwDPBuc8$all
 ||onedrive.live.com/download?cid=53965C96E65F4F6D&resid=53965C96E65F4F6D!109&authkey=ADRIsWRTwDPBuc8&em=2$all
 ||onedrive.live.com/download?cid=53965C96E65F4F6D&resid=53965C96E65F4F6D%21109&authkey=ADRIsWRTwDPBuc8&em=2$all
@@ -2612,13 +2611,13 @@
 ||onedrive.live.com/download?cid=5F3A7A50ACB94052&resid=5F3A7A50ACB94052%21407&authkey=ADNH8aF-rvoxLcc$all
 ||onedrive.live.com/download?cid=5FB9958FF55C0123&resid=5FB9958FF55C0123%21892&authkey=APwPhUfzjdtSeDw$all
 ||onedrive.live.com/download?cid=5FB9958FF55C0123&resid=5FB9958FF55C0123%21897&authkey=AOmt6El1av5RUC8$all
+||onedrive.live.com/download?cid=60B647D67EA1EFAD&resid=60B647D67EA1EFAD%21290&authkey=AK2SmEASjkcCDDg$all
 ||onedrive.live.com/download?cid=60B647D67EA1EFAD&resid=60B647D67EA1EFAD%21291&authkey=AOMGUjBEVVVgsww$all
 ||onedrive.live.com/download?cid=60B647D67EA1EFAD&resid=60B647D67EA1EFAD%21292&authkey=AKmb8vMHnc5pHiQ$all
 ||onedrive.live.com/download?cid=6196314C52185EFC&resid=6196314C52185EFC%21106&authkey=APE4rX1hRtMrxXE$all
 ||onedrive.live.com/download?cid=627BE925DFC4B997&resid=627BE925DFC4B997!145&authkey=ABz8d6UsBiJt_lU$all
 ||onedrive.live.com/download?cid=627BE925DFC4B997&resid=627BE925DFC4B997!147&authkey=AM8TY9CXilVSfw4$all
 ||onedrive.live.com/download?cid=627BE925DFC4B997&resid=627BE925DFC4B997!148&authkey=AEmIMqYSwRmEOgQ$all
-||onedrive.live.com/download?cid=627BE925DFC4B997&resid=627BE925DFC4B997%21145&authkey=ABz8d6UsBiJt_lU$all
 ||onedrive.live.com/download?cid=627BE925DFC4B997&resid=627BE925DFC4B997%21147&authkey=AM8TY9CXilVSfw4$all
 ||onedrive.live.com/download?cid=627BE925DFC4B997&resid=627BE925DFC4B997%21148&authkey=AEmIMqYSwRmEOgQ$all
 ||onedrive.live.com/download?cid=65D5E5F1B48C0D94&resid=65D5E5F1B48C0D94!852&authkey=ADZVVmms349gxMI$all
@@ -2637,7 +2636,6 @@
 ||onedrive.live.com/download?cid=6B3EE3B3B5FB10D3&resid=6B3EE3B3B5FB10D3!118&authkey=AEPf8f3mfmLSng0$all
 ||onedrive.live.com/download?cid=6B3EE3B3B5FB10D3&resid=6B3EE3B3B5FB10D3%21118&authkey=AEPf8f3mfmLSng0$all
 ||onedrive.live.com/download?cid=6B71CECFB2F8C8A7&resid=6B71CECFB2F8C8A7!1154&authkey=ACNBDScB8-rBMCU$all
-||onedrive.live.com/download?cid=6B71CECFB2F8C8A7&resid=6B71CECFB2F8C8A7%211154&authkey=ACNBDScB8-rBMCU$all
 ||onedrive.live.com/download?cid=6CD2E7E257C16E46&resid=6CD2E7E257C16E46!126&authkey=AFsQz25GZRFlidA$all
 ||onedrive.live.com/download?cid=6CD2E7E257C16E46&resid=6CD2E7E257C16E46!144&authkey=ACWoeUasuRL8m3M$all
 ||onedrive.live.com/download?cid=6CD2E7E257C16E46&resid=6CD2E7E257C16E46!149&authkey=AGadAevvS4bE6-E$all
@@ -2665,14 +2663,10 @@
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!190&authkey=AJ-3yQm7eZZ9zmE$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!191&authkey=AOumzH6K1KEmsCU$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!193&authkey=ADq3v72povhBjzQ$all
-||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76!196&authkey=AEIZSuDu2mLHlHU$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76%21184&authkey=ACrLgQEORQqW7bE$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76%21185&authkey=AMm2Fsxi2l-Wa9A$all
-||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76%21187&authkey=ANdGpqQ_ZP8LYr4$all
-||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76%21188&authkey=AJY07OLs2lCFJ_o$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76%21190&authkey=AJ-3yQm7eZZ9zmE$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76%21191&authkey=AOumzH6K1KEmsCU$all
-||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76%21193&authkey=ADq3v72povhBjzQ$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76%21196&authkey=AEIZSuDu2mLHlHU$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76%21197&authkey=AHdRHc8ny_A3MjM$all
 ||onedrive.live.com/download?cid=72EF66C14DF86B76&resid=72EF66C14DF86B76%21201&authkey=ADU6Rms-lwllB3s$all
@@ -2692,7 +2686,7 @@
 ||onedrive.live.com/download?cid=78BFB08E0F7BC86F&resid=78BFB08E0F7BC86F%21111&authkey=AGGNhgqj6UhXm2w$all
 ||onedrive.live.com/download?cid=78BFB08E0F7BC86F&resid=78BFB08E0F7BC86F%21112&authkey=ABsER1XtkPb3-tA$all
 ||onedrive.live.com/download?cid=78BFB08E0F7BC86F&resid=78BFB08E0F7BC86F%21117&authkey=AIvf1dDcVVu22eM$all
-||onedrive.live.com/download?cid=7A5E689DD1DC641F&resid=7A5E689DD1DC641F!120&authkey=AJj7uEqJvobgFUM$all
+||onedrive.live.com/download?cid=7A5E689DD1DC641F&resid=7A5E689DD1DC641F!119&authkey=AOzJAi26IzpRqto$all
 ||onedrive.live.com/download?cid=7A5E689DD1DC641F&resid=7A5E689DD1DC641F%21119&authkey=AOzJAi26IzpRqto$all
 ||onedrive.live.com/download?cid=7A5E689DD1DC641F&resid=7A5E689DD1DC641F%21120&authkey=AJj7uEqJvobgFUM$all
 ||onedrive.live.com/download?cid=7C1FC7DA38AB958E&resid=7C1FC7DA38AB958E!146&authkey=AKtMJQz8n4S_SBM$all
@@ -2718,7 +2712,6 @@
 ||onedrive.live.com/download?cid=860A0980486C93FA&resid=860A0980486C93FA!303&authkey=!AGCMLAB4r6SyFvk$all
 ||onedrive.live.com/download?cid=87DC3E587977C459&resid=87DC3E587977C459%21164&authkey=AGbEiInNCF8OK_4$all
 ||onedrive.live.com/download?cid=87DC3E587977C459&resid=87DC3E587977C459%21165&authkey=AIOF8RDVXGLNm-c$all
-||onedrive.live.com/download?cid=88E44E2B23D28589&resid=88E44E2B23D28589!120&authkey=AOQZbXdcSbmYi1I$all
 ||onedrive.live.com/download?cid=88E44E2B23D28589&resid=88E44E2B23D28589%21120&authkey=AOQZbXdcSbmYi1I$all
 ||onedrive.live.com/download?cid=890837B4E4CA07C6&resid=890837B4E4CA07C6%21289&authkey=ABujc0AkMTbsxF4$all
 ||onedrive.live.com/download?cid=8A1574ED0CECD68A&resid=8A1574ED0CECD68A%21395&authkey=ANE01Evt0sz-1Wk$all
@@ -2747,9 +2740,7 @@
 ||onedrive.live.com/download?cid=9A8688776FE2DBF4&resid=9A8688776FE2DBF4%21173&authkey=AECb3qcQuacVZhI$all
 ||onedrive.live.com/download?cid=9A8688776FE2DBF4&resid=9A8688776FE2DBF4%21174&authkey=AFV7cPRqWXeZGsI$all
 ||onedrive.live.com/download?cid=9A8688776FE2DBF4&resid=9A8688776FE2DBF4%21177&authkey=ALS6_be40Lt5jK8$all
-||onedrive.live.com/download?cid=9B6A1F475E249332&resid=9B6A1F475E249332!127&authkey=AO9T3Q_HpEMGGgk$all
 ||onedrive.live.com/download?cid=9B6A1F475E249332&resid=9B6A1F475E249332%21127&authkey=AO9T3Q_HpEMGGgk$all
-||onedrive.live.com/download?cid=9BEF332362F6BCCF&resid=9BEF332362F6BCCF!123&authkey=ADlBqUmBqwu6eHs$all
 ||onedrive.live.com/download?cid=9BEF332362F6BCCF&resid=9BEF332362F6BCCF!124&authkey=APNf1qkXw0SxX50$all
 ||onedrive.live.com/download?cid=9BEF332362F6BCCF&resid=9BEF332362F6BCCF%21123&authkey=ADlBqUmBqwu6eHs$all
 ||onedrive.live.com/download?cid=9BEF332362F6BCCF&resid=9BEF332362F6BCCF%21124&authkey=APNf1qkXw0SxX50$all
@@ -2770,7 +2761,6 @@
 ||onedrive.live.com/download?cid=AA4E252DB942FAEC&resid=AA4E252DB942FAEC%21168&authkey=ANlNJO7XNWTSWuk$all
 ||onedrive.live.com/download?cid=AB8A3EC6FA75627D&resid=AB8A3EC6FA75627D!107&authkey=ALE99zlQrmaN_sk$all
 ||onedrive.live.com/download?cid=AE28961C75435487&resid=AE28961C75435487%21106&authkey=ALPH5aWcis8R9iw$all
-||onedrive.live.com/download?cid=AE80108520D75992&resid=AE80108520D75992!113&authkey=AGH9q_ZzYJjcsPc$all
 ||onedrive.live.com/download?cid=AE80108520D75992&resid=AE80108520D75992%21113&authkey=AGH9q_ZzYJjcsPc$all
 ||onedrive.live.com/download?cid=AF84EBF13DD5499C&resid=AF84EBF13DD5499C!167&authkey=ANqr_YVN_Hdh2_E$all
 ||onedrive.live.com/download?cid=B03EE17D51411308&resid=B03EE17D51411308!2152&authkey=ABuTaAC83l5UTKs$all
@@ -2793,7 +2783,6 @@
 ||onedrive.live.com/download?cid=B5EA8D4249D866E6&resid=B5EA8D4249D866E6%21164&authkey=ADFsfCDAw3bIboY$all
 ||onedrive.live.com/download?cid=B7CB31DB66675EB4&resid=B7CB31DB66675EB4%21922&authkey=AGHAYyUCvWey7Lg$all
 ||onedrive.live.com/download?cid=B8BA73DB68DA7C0B&resid=B8BA73DB68DA7C0B!7521&authkey=ABLT9zDyq2D4rb0$all
-||onedrive.live.com/download?cid=B8BA73DB68DA7C0B&resid=B8BA73DB68DA7C0B%217521&authkey=ABLT9zDyq2D4rb0$all
 ||onedrive.live.com/download?cid=B9E0BF86D3BEE8E7&resid=B9E0BF86D3BEE8E7%21168&authkey=ADzanjIWRstuD6s$all
 ||onedrive.live.com/download?cid=B9E0BF86D3BEE8E7&resid=B9E0BF86D3BEE8E7%21182&authkey=ABo_l9b2wJEWD5w$all
 ||onedrive.live.com/download?cid=B9E0BF86D3BEE8E7&resid=B9E0BF86D3BEE8E7%21189&authkey=AGAoq4oF9yUQXQE$all
@@ -2826,14 +2815,12 @@
 ||onedrive.live.com/download?cid=C71B410673C49A80&resid=C71B410673C49A80%21489&authkey=AKO3ANWFnqfOhnc$all
 ||onedrive.live.com/download?cid=CA308E3D3912D9E7&resid=CA308E3D3912D9E7%21546&authkey=AA6q-ryiiFNeT5M$all
 ||onedrive.live.com/download?cid=CA308E3D3912D9E7&resid=CA308E3D3912D9E7%21547&authkey=AIPM8qnWbGo4YGA$all
-||onedrive.live.com/download?cid=CB64E6E1A6CE15A2&resid=CB64E6E1A6CE15A2!109&authkey=AC4gxWJOoPaFR9A$all
 ||onedrive.live.com/download?cid=CB64E6E1A6CE15A2&resid=CB64E6E1A6CE15A2%21109&authkey=AC4gxWJOoPaFR9A$all
 ||onedrive.live.com/download?cid=CBB66CAC420484BC&resid=CBB66CAC420484BC!10968&authkey=AJ9bjkoBU-rLnaw$all
 ||onedrive.live.com/download?cid=CEA27E82624AB94F&resid=CEA27E82624AB94F%21184&authkey=AKT-Bu-Ud92IrSE$all
 ||onedrive.live.com/download?cid=CEA27E82624AB94F&resid=CEA27E82624AB94F%21186&authkey=AAkzFKf32oT2VbE$all
 ||onedrive.live.com/download?cid=CEA27E82624AB94F&resid=CEA27E82624AB94F%21189&authkey=ALzC8IT3nPNoCqE$all
 ||onedrive.live.com/download?cid=CF0C6D1A4C15233D&resid=CF0C6D1A4C15233D!742&authkey=AKbXJu17f8g0R2s$all
-||onedrive.live.com/download?cid=CF0C6D1A4C15233D&resid=CF0C6D1A4C15233D!744&authkey=ADaK4Zftd0YHHHs$all
 ||onedrive.live.com/download?cid=CF0C6D1A4C15233D&resid=CF0C6D1A4C15233D%21742&authkey=AKbXJu17f8g0R2s$all
 ||onedrive.live.com/download?cid=CF0C6D1A4C15233D&resid=CF0C6D1A4C15233D%21744&authkey=ADaK4Zftd0YHHHs$all
 ||onedrive.live.com/download?cid=D06D60404544FB85&resid=D06D60404544FB85!872&authkey=AP9HcHZTYWO8ZUo$all
@@ -2856,17 +2843,15 @@
 ||onedrive.live.com/download?cid=DB0FC77DF51690E1&resid=DB0FC77DF51690E1%21802&authkey=APefr8w_RdK--PE$all
 ||onedrive.live.com/download?cid=DB5548CD728F142B&resid=DB5548CD728F142B%21187&authkey=AANsxUdbY0o7UWQ$all
 ||onedrive.live.com/download?cid=DC4CBECBD0F5214C&resid=DC4CBECBD0F5214C!151&authkey=AI3VKz6ISjav418$all
-||onedrive.live.com/download?cid=DC4CBECBD0F5214C&resid=DC4CBECBD0F5214C%21151&authkey=AI3VKz6ISjav418$all
 ||onedrive.live.com/download?cid=DC4CBECBD0F5214C&resid=DC4CBECBD0F5214C%21158&authkey=AK4euY4RVGCIckU$all
 ||onedrive.live.com/download?cid=DCD65237FCD1A1A9&resid=DCD65237FCD1A1A9%21162&authkey=APrQs0hUGNfo6UQ$all
 ||onedrive.live.com/download?cid=DD0A0EC58F4AC5F5&resid=DD0A0EC58F4AC5F5!7527&authkey=AIPYBiPwHt56um8$all
-||onedrive.live.com/download?cid=DD0A0EC58F4AC5F5&resid=DD0A0EC58F4AC5F5!7530&authkey=AM9p2ic6ZdKGFmY$all
 ||onedrive.live.com/download?cid=DD0A0EC58F4AC5F5&resid=DD0A0EC58F4AC5F5!7532&authkey=AOnjnUBQUVOn_Uk$all
 ||onedrive.live.com/download?cid=DD0A0EC58F4AC5F5&resid=DD0A0EC58F4AC5F5%217527&authkey=AIPYBiPwHt56um8$all
+||onedrive.live.com/download?cid=DD0A0EC58F4AC5F5&resid=DD0A0EC58F4AC5F5%217530&authkey=AM9p2ic6ZdKGFmY$all
 ||onedrive.live.com/download?cid=DD0A0EC58F4AC5F5&resid=DD0A0EC58F4AC5F5%217532&authkey=AOnjnUBQUVOn_Uk$all
 ||onedrive.live.com/download?cid=DDE26285195864B8&resid=DDE26285195864B8!361&authkey=AEqVkIEs2uV-tMI$all
 ||onedrive.live.com/download?cid=DDE26285195864B8&resid=DDE26285195864B8!366&authkey=ALy44awv_tX2O5M$all
-||onedrive.live.com/download?cid=DDE26285195864B8&resid=DDE26285195864B8!379&authkey=AI9JeFVwfv5qi4M$all
 ||onedrive.live.com/download?cid=DDE26285195864B8&resid=DDE26285195864B8%21361&authkey=AEqVkIEs2uV-tMI$all
 ||onedrive.live.com/download?cid=DDE26285195864B8&resid=DDE26285195864B8%21366&authkey=ALy44awv_tX2O5M$all
 ||onedrive.live.com/download?cid=DDE26285195864B8&resid=DDE26285195864B8%21379&authkey=AI9JeFVwfv5qi4M$all
@@ -2967,7 +2952,6 @@
 ||packexim.vn^
 ||paco.co.th^
 ||pacwebdesigns.com^
-||pajitnov.com^
 ||pakmehrafshar.com^
 ||palestina.gob.ec^
 ||paletas.org^
@@ -3001,6 +2985,7 @@
 ||pinkbroadband.in/images/blog/Thumb.bin$all
 ||piotrowskimusic.pl^
 ||pipesplumbingltd.com^
+||piton.tech^
 ||pixelrock.com.au^
 ||placenpick.com^
 ||planartgrafica.com.br^
@@ -3033,6 +3018,7 @@
 ||pusatunggulan.poltekkesbandung.com^
 ||pushing.pk^
 ||pvcprinting.co.uk^
+||qianjiangchao.com^
 ||qmsled.com^
 ||qppl.angiang.gov.vn^
 ||quartier-midi.be^
@@ -3043,7 +3029,6 @@
 ||rankanddesign.com^
 ||ranking-site.de^
 ||rassow.de^
-||rastarespect.com^
 ||ravenproductionsltd.com^
 ||raw.githubusercontent.com/BeRo1985/berotinypascal/e34bd4164f4b7c27e7cf667dffd9274d33d6dfbe/bin/btpc.exe$all
 ||raw.githubusercontent.com/SecWiki/windows-kernel-exploits/master/MS15-076/Binary/Trebuchet.exe$all
@@ -3100,7 +3085,6 @@
 ||rsconsultants.com^
 ||rtisistemas.com.br^
 ||ruisgood.ru^
-||rukanet.cl^
 ||rusch.nu^
 ||ryetgvteg.gb.net^
 ||s.51shijuan.com^
@@ -3136,8 +3120,8 @@
 ||scootervenlo.nl^
 ||scrafford.com^
 ||scsanwei.cn/wp-content/km5787394599964577y25p6ryhdyutvcpc/$all
-||sculetus.nl^
 ||scyzm.net^
+||seatrade.com.eg^
 ||sebastianehinger.de^
 ||seckiler.az^
 ||secure-risk.namaskara.me^
@@ -3161,6 +3145,7 @@
 ||shengeliya-art.com^
 ||shohadayeazeran.ir^
 ||shopeeinfo.com^
+||shopphongtinh.com^
 ||si-sq.com^
 ||sicsa-co.com^
 ||sidore.com.ua^
@@ -3195,11 +3180,9 @@
 ||smccycles.com^
 ||sociallysavvyseo.com^
 ||sodalite.life^
-||soho.at^
 ||sol-u-ink.com^
 ||solarisenergy.biz^
 ||solfitec.com^
-||solucionespro.cl^
 ||somoychitro.com^
 ||sonoki-family.com^
 ||sonsistemsogutma.com.tr^
@@ -3344,13 +3327,11 @@
 ||tomjoosten.nl^
 ||tonydong.com^
 ||tonyzone.com^
-||tool.icafeads.com^
 ||top-flex.com^
 ||topdiodru.com^
 ||toprakmedia.com^
 ||toweixin.site^
 ||tradetoolsbazaar.com^
-||traditions2010.co.uk^
 ||tranduc.net^
 ||triathlethe.ug^
 ||tribunal.ug^
@@ -3366,7 +3347,6 @@
 ||uberabaplacas.com.br^
 ||ubsall.com^
 ||uc-56.ru^
-||ucto-id.cz^
 ||uer.reiykiq.ir^
 ||ugc.wegame.com.cn^
 ||ukks.net^
@@ -3394,10 +3374,11 @@
 ||vacation-home.biz^
 ||vadyur.github.io^
 ||valarchihomes.com^
+||valarchihomes.qmarkonline.com^
 ||valedchap.ir^
 ||valiance.uk^
 ||valleyinsurancepro.com^
-||vandermade.eu^
+||vandamebuilders.com^
 ||vapeguru.net^
 ||vash-sevastopol.ru^
 ||vasinfo.com.br^
@@ -3423,6 +3404,7 @@
 ||vtff.ca^
 ||vtscomputers.com^
 ||vuzzi.com^
+||w.zhzy999.net/images/m.exe$all
 ||w3art.com^
 ||w7.yoyoteacher.cn^
 ||wap.dosame.com^
@@ -3451,7 +3433,6 @@
 ||welcometothefuture.com^
 ||werkhanden.nl^
 ||whgaty.com^
-||whichworx.com^
 ||whistledownfarm.com^
 ||wikileaks.org/syria-files/attach/222/222051_instruction.zip$all
 ||wildnights.co.uk^
@@ -3508,6 +3489,7 @@
 ||zaragozsa.ug^
 ||zdy.17110.com^
 ||zhetysu360.kz^
+||zhzy999.net/images/m.exe$all
 ||ziliao.yunkaodian.com^
 ||zipatoco.ir^
 ||zj.9553.com^

@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Sat, 08 Aug 2020 12:10:10 UTC
+# Updated: Sun, 09 Aug 2020 00:09:59 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2619,6 +2619,7 @@
 110.155.216.159
 110.155.216.43
 110.155.217.122
+110.155.217.44
 110.155.218.163
 110.155.218.245
 110.155.218.27
@@ -4360,6 +4361,7 @@
 114.226.81.155
 114.226.81.45
 114.226.81.92
+114.226.82.119
 114.226.82.149
 114.226.82.152
 114.226.82.236
@@ -7072,6 +7074,7 @@
 116.149.247.158
 116.149.247.195
 116.149.247.204
+116.149.247.233
 116.149.247.247
 116.149.247.27
 116.149.247.41
@@ -8092,6 +8095,7 @@
 117.63.118.168
 117.63.119.180
 117.63.130.19
+117.63.159.220
 117.63.168.148
 117.63.177.162
 117.63.177.191
@@ -11417,6 +11421,7 @@
 125.104.235.135
 125.104.237.58
 125.104.239.86
+125.104.242.33
 125.104.243.221
 125.104.244.232
 125.104.244.98
@@ -13894,6 +13899,7 @@
 149.3.73.202
 149.3.73.205
 149.3.73.210
+149.3.73.233
 149.3.73.241
 149.3.73.242
 149.3.73.47
@@ -13908,6 +13914,7 @@
 149.3.85.198
 149.3.85.207
 149.3.85.215
+149.3.85.218
 149.3.85.229
 149.3.85.241
 149.3.85.244
@@ -17439,6 +17446,7 @@
 172.36.51.165
 172.36.51.176
 172.36.51.180
+172.36.51.185
 172.36.51.2
 172.36.51.24
 172.36.51.247
@@ -19615,6 +19623,7 @@
 176.221.242.20
 176.221.242.209
 176.221.242.242
+176.221.242.34
 176.221.242.56
 176.221.242.90
 176.221.251.102
@@ -21122,6 +21131,7 @@
 180.120.33.208
 180.120.38.159
 180.120.76.3
+180.120.79.159
 180.120.79.2
 180.120.8.144
 180.120.9.97
@@ -21152,6 +21162,7 @@
 180.123.159.178
 180.123.169.116
 180.123.169.246
+180.123.170.142
 180.123.170.16
 180.123.171.123
 180.123.195.38
@@ -25342,6 +25353,7 @@
 188.169.167.253
 188.169.167.35
 188.169.167.48
+188.169.167.53
 188.169.174.30
 188.169.174.78
 188.169.178.50
@@ -25352,6 +25364,7 @@
 188.169.179.151
 188.169.179.157
 188.169.179.178
+188.169.179.216
 188.169.179.224
 188.169.179.226
 188.169.179.23
@@ -25381,6 +25394,7 @@
 188.169.20.147
 188.169.20.158
 188.169.20.40
+188.169.20.55
 188.169.20.56
 188.169.20.6
 188.169.229.178
@@ -31093,6 +31107,7 @@
 221.229.181.224
 221.229.190.199
 221.229.190.64
+221.229.199.57
 221.229.199.98
 221.229.223.2
 221.229.223.204
@@ -39343,6 +39358,7 @@
 49.117.188.64
 49.117.189.177
 49.117.189.218
+49.117.189.23
 49.117.189.73
 49.117.189.96
 49.117.189.99
@@ -47375,6 +47391,7 @@
 94.43.101.139
 94.43.101.161
 94.43.101.196
+94.43.101.226
 94.43.101.231
 94.43.101.240
 94.43.101.254
@@ -47710,6 +47727,7 @@
 98.159.110.225
 98.159.110.227
 98.159.110.228
+98.159.110.23
 98.159.110.230
 98.159.110.231
 98.159.110.232
@@ -54898,6 +54916,7 @@ balti.com.pl
 balton.ga
 balvidhyamandir.com
 balwelstores.com
+bamaco.ir
 bamakobleach.free.fr
 bamarketing.ru
 bamayad.com
@@ -54929,6 +54948,7 @@ bandai.es
 bandanarciarska.pl
 bandarbola.net
 bandarbolaonline.co
+bandarcctvsurabaya.com
 bandarjudisbobet.city
 bandarschool.com
 bandarwinsbobet.com
@@ -58941,7 +58961,6 @@ bullionexperts.com
 bullisworg.com
 bulltoolsbt.com
 bulsardgroup.com
-bulut.app
 bulutlogistic.com
 bumaga-a4.ru
 bumashana.com
@@ -61293,6 +61312,7 @@ cherinetiles.com
 cheriyilbuilders.com
 cherkassy.info
 chermet-ural.ru
+cheron.co.uk
 cherrett.net
 cherriertechnology.com
 cherrybomb.us
@@ -70977,7 +70997,6 @@ emtlogistic.com
 emto.eu
 emu4ios.biz
 emulsiflex.com
-emumovies.com
 emyrs-eg.lehmergroup.com
 en-cnd.one-drive-ms.com
 en-pld00238.cloud-store-cdn.com
@@ -78943,7 +78962,6 @@ hanviewpacific.com
 hanworthhomes.com
 hanzadetekstil.com
 hao1977.com
-haoqunkong.com
 haornews24.com
 haosanwang.com.tw
 haotika.rs
@@ -79590,6 +79608,7 @@ help2help.info
 help3in1.oss-cn-hangzhou.aliyuncs.com
 helpandinformation.uk
 helparound.in
+helpcube.net
 helpdallas.org
 helpdesk.hellermanntyton.co.uk
 helpdesk.hest.ethz.ch
@@ -105886,7 +105905,6 @@ quintadeparamos.com
 quintadospassaros.com.br
 quintaesencialghero.com
 quintaldearteseterapia.com.br
-quintapavicich.com.ar
 quintoesquerdo.net
 quinuapan.com
 quipuhosting.com
@@ -106604,6 +106622,7 @@ rayamouz.com
 rayanat.com
 rayaniroo.com
 rayatech.ir
+rayaxiaomi.com
 raybansunglasses2018.net
 raybo.net
 rayhanad.com
@@ -111745,6 +111764,7 @@ shopnig.com
 shopnuochoa.vn
 shopocmama.com
 shopopony.pl
+shopphongtinh.com
 shopphotographer.co.za
 shopping.solarforthai.com
 shopping24horas.com.br
@@ -111826,6 +111846,7 @@ showsakamoto.xsrv.jp
 showwheel.com
 shprofessional.ca
 shptoys.com
+shqfab.com
 shqipmedia.com
 shr-0746734.direct-share.com
 shr-9466488.direct-share.com
@@ -120883,7 +120904,6 @@ tutora-z.com
 tutoriaenvivo.estudioovalle.com.ar
 tutorialcc.com
 tutorialsdownload.tk
-tutoriapro.com
 tutoringfairfieldcountyct.com
 tutoriseguranca.com.br
 tutranquilo.com.co
@@ -121720,6 +121740,7 @@ unlimit517.co.jp
 unlimited.nu
 unlimitedbags.club
 unlimitedfreightco.com
+unlimitedimportandexport.com
 unlock2.neagoeandrei.com
 unlockall.neagoeandrei.com
 unlockbulgaria.com
@@ -123068,7 +123089,6 @@ videosforwhatsapp.com
 videosonik.com.mk
 videossources.com
 videoswebcammsn.free.fr
-videract.com
 vides.org
 videsrona.com
 vidhamastudios.com
@@ -125252,7 +125272,6 @@ winbetter.info
 winchance.co.th
 winchestergymnasticsacademy.com
 winchouf.com
-wincoair.com
 wind-dreams.co.uk
 wind0wsactivator.host
 wind7.ru
