@@ -1,5 +1,5 @@
 # Title: Malicious Domains Blocklist
-# Updated: Sun, 09 Aug 2020 12:09:59 UTC
+# Updated: Mon, 10 Aug 2020 00:10:04 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -5381,6 +5381,7 @@
 115.202.76.180
 115.202.77.230
 115.202.77.239
+115.202.78.116
 115.202.80.45
 115.202.81.105
 115.202.81.111
@@ -5712,6 +5713,7 @@
 115.49.210.31
 115.49.210.83
 115.49.211.184
+115.49.211.209
 115.49.211.84
 115.49.213.255
 115.49.217.4
@@ -5938,6 +5940,7 @@
 115.49.96.245
 115.49.96.40
 115.49.96.65
+115.49.96.88
 115.49.96.91
 115.49.97.106
 115.49.97.148
@@ -7059,6 +7062,7 @@
 116.149.240.29
 116.149.240.36
 116.149.240.44
+116.149.240.54
 116.149.240.59
 116.149.240.73
 116.149.242.234
@@ -8917,6 +8921,7 @@
 120.69.15.231
 120.69.15.50
 120.69.168.18
+120.69.168.21
 120.69.169.6
 120.69.170.168
 120.69.170.46
@@ -9454,6 +9459,7 @@
 121.234.71.39
 121.235.161.94
 121.235.225.149
+121.235.46.19
 121.235.47.168
 121.235.74.231
 121.235.91.224
@@ -9621,6 +9627,7 @@
 122.230.137.111
 122.230.196.239
 122.230.200.33
+122.230.201.34
 122.230.218.37
 122.230.219.108
 122.230.241.60
@@ -11423,6 +11430,7 @@
 125.104.224.198
 125.104.225.82
 125.104.225.86
+125.104.229.213
 125.104.230.182
 125.104.231.126
 125.104.231.209
@@ -13928,6 +13936,7 @@
 149.3.85.229
 149.3.85.241
 149.3.85.244
+149.3.85.245
 149.3.85.53
 149.3.85.69
 149.3.85.76
@@ -16998,6 +17007,7 @@
 172.36.27.50
 172.36.27.56
 172.36.27.68
+172.36.27.74
 172.36.27.77
 172.36.27.88
 172.36.27.99
@@ -17267,6 +17277,7 @@
 172.36.41.233
 172.36.41.255
 172.36.41.28
+172.36.41.59
 172.36.41.6
 172.36.41.60
 172.36.41.76
@@ -17490,6 +17501,7 @@
 172.36.53.134
 172.36.53.143
 172.36.53.16
+172.36.53.178
 172.36.53.181
 172.36.53.183
 172.36.53.196
@@ -18164,6 +18176,7 @@
 172.39.53.116
 172.39.53.251
 172.39.53.33
+172.39.53.40
 172.39.54.165
 172.39.54.166
 172.39.54.20
@@ -20367,6 +20380,7 @@
 178.132.201.156
 178.134.136.138
 178.134.141.166
+178.134.185.11
 178.134.185.116
 178.134.185.16
 178.134.185.173
@@ -21230,6 +21244,7 @@
 180.123.36.37
 180.123.40.249
 180.123.42.133
+180.123.47.238
 180.123.47.58
 180.123.47.67
 180.123.58.103
@@ -24276,6 +24291,7 @@
 185.205.210.210
 185.206.145.171
 185.206.145.213
+185.206.93.87
 185.207.207.209
 185.207.4.66
 185.207.57.190
@@ -25414,6 +25430,7 @@
 188.169.20.141
 188.169.20.147
 188.169.20.158
+188.169.20.30
 188.169.20.40
 188.169.20.55
 188.169.20.56
@@ -25476,6 +25493,7 @@
 188.169.45.55
 188.169.45.72
 188.169.45.82
+188.169.45.89
 188.169.45.9
 188.169.45.98
 188.169.61.102
@@ -29586,6 +29604,7 @@
 216.180.117.128
 216.180.117.129
 216.180.117.132
+216.180.117.134
 216.180.117.138
 216.180.117.142
 216.180.117.147
@@ -33045,6 +33064,7 @@
 27.41.148.155
 27.41.148.215
 27.41.148.241
+27.41.148.46
 27.41.149.148
 27.41.149.206
 27.41.149.53
@@ -33147,6 +33167,7 @@
 27.41.176.93
 27.41.177.112
 27.41.177.145
+27.41.177.251
 27.41.177.86
 27.41.178.121
 27.41.178.151
@@ -40009,6 +40030,7 @@
 49.81.96.153
 49.81.96.166
 49.81.96.65
+49.81.96.70
 49.81.97.248
 49.81.97.26
 49.81.98.159
@@ -40107,6 +40129,7 @@
 49.84.93.4
 49.84.97.59
 49.85.205.16
+49.85.54.87
 49.87.117.138
 49.87.124.243
 49.87.175.5
@@ -40433,6 +40456,7 @@
 4trevos.pt
 4u-club.cf
 4uland.com
+4up4.com
 4ushop.cz
 4v4t4r.com
 4vetcbd.com
@@ -41398,6 +41422,7 @@
 58.218.16.154
 58.218.17.186
 58.218.18.150
+58.218.18.156
 58.218.18.38
 58.218.2.76
 58.218.213.74
@@ -41519,6 +41544,7 @@
 58.243.189.131
 58.243.189.145
 58.243.189.218
+58.243.189.236
 58.243.189.247
 58.243.189.248
 58.243.189.49
@@ -49907,7 +49933,6 @@ akademiawandy.pl
 akademie-im-wonnegau.de
 akademik.fteol-ukit.ac.id
 akademik.upsi.edu.my
-akademikomunitas.id
 akademiya-snov.ru
 akademskabeba.rs
 akademsmile.ru
@@ -59926,7 +59951,6 @@ caravaning.si
 caravella.com.br
 carbcoaches.com
 carbonatedcocktails.com
-carbonazin.com
 carbonbyte.com
 carbongreengroupau-my.sharepoint.com
 carbonlooptechnologies.com
@@ -67428,7 +67452,6 @@ dirajrakhbhae.com
 dirc-madagascar.ru
 direccion-estrategica.com
 directdatacorporation.com
-directgoo.com
 directionmagazine.net
 directkitchen.co.nz
 directoneconnect.com
@@ -67592,6 +67615,7 @@ diversificando.org
 diversifii.com
 diversitycityin.com
 diversityfoodbrands.com
+diversitymbamagazine.com
 diversitywealth.com
 diverzeent.com
 divi.no
@@ -72590,7 +72614,6 @@ ezinet.co.za
 eziyuan.net
 eznab.com
 ezoneconnect.com
-ezoterra.com.ua
 ezprofitfx.com
 ezpullonline.com
 ezratisrael.org.il
@@ -73769,7 +73792,6 @@ fin18.org
 finabisope.host
 finacore.com
 finadev-groupe.com
-finagri.it
 finalblogger.com
 finalchace.com
 finaleligure.de
@@ -74306,6 +74328,7 @@ flouimato.ml
 floviobelgium.com
 flow.advtest.lgn.by
 flowca.top
+flowdemusic.net
 flower.hxgtech.com
 flowerbed.cz
 flowerbodysports.com
@@ -77462,6 +77485,7 @@ google.ghststr.com
 google9.duckdns.org
 googleapi.ru
 googleplusmarketpro.com
+googlerank.in
 googletime.ac.ug
 googleultron.com
 googlmail.ml
@@ -80212,7 +80236,6 @@ hoangduongknitwear.com
 hoanggia.tech
 hoanggiaanh.vn
 hoanggiatravel.vn
-hoanggiawedding.com
 hoanghungthinhland.com
 hoanghuyhaiphong.net
 hoanglecompany.vn
@@ -80733,7 +80756,6 @@ hoteheru-soken.com
 hotel-bahnhof-uzwil.ch
 hotel-brisasdelmar.com
 hotel-bristol.lu
-hotel-city.net
 hotel-informations.com
 hotel-krishnainternational.com
 hotel-le-relais-des-moulins.com
@@ -82343,6 +82365,7 @@ in-genium.pl
 in-green.ru
 in-magazine.ast-com.ru
 in-med.pl
+in-motion-events.de
 in-sect.com
 in-spe.pl
 in-uv.vn
@@ -82442,6 +82465,7 @@ indhrigroup.com
 india24bazaar.com
 india24x7.zeecdn.com
 india46.ru
+india9am.com
 indiaautentica.es
 indiagolive.com
 indian-escorts-ajman.com
@@ -85296,6 +85320,7 @@ joseantony.info
 josecvbailey.com
 josefinacerrato.es
 josefingarage.com
+josegene.com
 joseluiscasal.com
 josemoo.com
 josenutricion.com
@@ -87679,6 +87704,7 @@ kometa.mx
 kometpol.cba.pl
 komfort-sk.ru
 komiolaf.com
+komisior.com
 kommunalnik.com
 kommunikationstechnik-kuhl.de
 komoxlaxazj.com
@@ -89795,7 +89821,6 @@ lidagamiro.ga
 lideco.vn
 lider-k.com
 liderlight.ru
-lidermuebles.com.ar
 liderpallet.com.ua
 lidersahtebalik.com.tr
 lidman.tk
@@ -92630,6 +92655,7 @@ mangawt.com
 mangchongtham.com.vn
 mangchongtham.vn
 mange-gode-blogs.dk
+manglamorganic.com
 mangledmonkeymedia.com
 mango.anazet.es
 mango.generic.media
@@ -96277,7 +96303,6 @@ mrdp.net.pl
 mrfones.com
 mrfreshproducts.com
 mrg.ro
-mrgeek.pk
 mrgeeker.com
 mrglobeservices.com
 mrgsoft.ge
@@ -96520,7 +96545,6 @@ mudanzasyserviciosayala.com
 mudassarnazir.com
 mudfreaksblog.cubicproject.com
 mudhar.org
-mudita.vn
 mudra.vn
 muebles-santiago.com.bo
 mueblesjcp.cl
@@ -99345,6 +99369,7 @@ nrce-saudia.com
 nrff.me
 nrgeotecnia.com
 nrnreklam.com
+nrrgarment.com
 nrs2wjke0t2vz9.com
 nrshmnt.com
 nrteam.hu
@@ -103396,7 +103421,6 @@ plintakids.com
 plitka-kovka1.ru
 plitstroy.su
 plitvicer-seen.de
-plivao.com
 pllu.atkpmedan.ac.id
 plmaxvr.com
 plocalpeds.com
@@ -105260,6 +105284,7 @@ pwc-online.org
 pwe-china.com
 pwp7.ir
 pwpami.pl
+pws.bz
 pwscripts.net
 pwss.proactionfluids.net
 pwxadvexmail19mn.xyz
@@ -106621,7 +106646,6 @@ rayamouz.com
 rayanat.com
 rayaniroo.com
 rayatech.ir
-rayaxiaomi.com
 raybansunglasses2018.net
 raybo.net
 rayhanad.com
@@ -111841,7 +111865,6 @@ showsakamoto.xsrv.jp
 showwheel.com
 shprofessional.ca
 shptoys.com
-shqfab.com
 shqipmedia.com
 shr-0746734.direct-share.com
 shr-9466488.direct-share.com
@@ -113170,6 +113193,7 @@ social.die-lehrstelle.ch
 social.nia.or.th
 social.nouass-dev.fr
 social.scottsimard.com
+social8.asia
 socialarticleco.com
 socialbee.me
 socialbuzz.org.in
@@ -125551,7 +125575,6 @@ womeninwealthinc.com
 womenofimpactt.com
 womenofthebibleonline.com
 womensbathingsuit.com
-womenshospital.in
 womenslifestyle.co.za
 womenspridestore.com
 womensvoicesmagazine.com
