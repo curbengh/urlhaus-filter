@@ -147,6 +147,8 @@ chmod 755 /etc/cron.daily/urlhaus-filter
 printf "\nconf-file=/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf\n" >> /etc/dnsmasq.conf
 ```
 
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnsmasq.conf
+
 <details>
 <summary>Mirrors</summary>
 
@@ -214,6 +216,8 @@ $TTL    86400   ; one day
 
 Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/master/null.zone.file).
 
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-bind.conf
+
 <details>
 <summary>Mirrors</summary>
 
@@ -262,6 +266,8 @@ chmod 755 /etc/cron.daily/urlhaus-filter
 # Configure Unbound to use the blocklist
 printf '\n  include: "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' >> /etc/unbound/unbound.conf
 ```
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-unbound.conf
 
 <details>
 <summary>Mirrors</summary>
