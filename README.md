@@ -292,6 +292,26 @@ Lite version (online domains only):
 
 </details>
 
+## Third-party mirrors
+
+<details>
+<summary>iosprivacy/urlhaus-filter-mirror</summary>
+
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-online.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-domains.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-domains-online.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-hosts.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-hosts-online.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-dnsmasq.conf
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-dnsmasq-online.conf
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-bind.conf
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-bind-online.conf
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-unbound.conf
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-unbound-online.conf
+
+</details>
+
 ## Issues
 
 This blocklist operates by blocking the **whole** website, instead of specific webpages; exceptions are made on popular websites (e.g. `https://docs.google.com/`), in which webpages are specified instead (e.g. `https://docs.google.com/malware-page`). Malicious webpages are only listed in the [URL-based](#url-based) filter, popular websites are excluded from other filters.
