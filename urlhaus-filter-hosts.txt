@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 30 Aug 2020 12:09:46 UTC
+# Updated: Mon, 31 Aug 2020 00:10:09 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2321,6 +2321,7 @@
 0.0.0.0 acmao.com
 0.0.0.0 acmegroup.com.bd
 0.0.0.0 acmestoolsmfg.com
+0.0.0.0 acncompass.ca
 0.0.0.0 acnessempo.com
 0.0.0.0 acnexplained.com
 0.0.0.0 aco-finance.nl
@@ -4785,7 +4786,6 @@
 0.0.0.0 amaderchat.com
 0.0.0.0 amadeusfleet.club
 0.0.0.0 amafhha.net
-0.0.0.0 amagna.nl
 0.0.0.0 amai.vn
 0.0.0.0 amaisdesign.com.br
 0.0.0.0 amaiworks.com
@@ -5261,7 +5261,6 @@
 0.0.0.0 andeanrooftopguesthouse.com
 0.0.0.0 andeanwool.solution.pp.ua
 0.0.0.0 andeanwool2.solution.pp.ua
-0.0.0.0 andelsky-dotek.cz
 0.0.0.0 anderkong.com
 0.0.0.0 andersjensen.com
 0.0.0.0 anderts.de
@@ -9654,6 +9653,7 @@
 0.0.0.0 bebasituasyik.com
 0.0.0.0 bebbonline.co.uk
 0.0.0.0 bebechas.com
+0.0.0.0 bebedouro.sp.gov.br
 0.0.0.0 bebendog.com
 0.0.0.0 bebetextures.com
 0.0.0.0 bebispenot.hu
@@ -12394,7 +12394,6 @@
 0.0.0.0 boxford-software.com
 0.0.0.0 boxformen.hu
 0.0.0.0 boxindoro.com
-0.0.0.0 boxinn.lt
 0.0.0.0 boxofgiggles.com
 0.0.0.0 boxon.cn
 0.0.0.0 boxpik.com
@@ -14981,7 +14980,6 @@
 0.0.0.0 cellstore.net.br
 0.0.0.0 cellsytes.com
 0.0.0.0 celltechza.co.za
-0.0.0.0 celltee.xyz
 0.0.0.0 cellularcenter.com.mx
 0.0.0.0 cellulosic.logicalatdemo.co.in
 0.0.0.0 celsoendo.com
@@ -15469,6 +15467,7 @@
 0.0.0.0 chatteriedebalmoral.ch
 0.0.0.0 chattogram.xyz
 0.0.0.0 chattogramtv.com
+0.0.0.0 chattosport.com
 0.0.0.0 chaturaayurved.com
 0.0.0.0 chaudharytour.com
 0.0.0.0 chaudoantown.com
@@ -20491,7 +20490,6 @@
 0.0.0.0 demo.bayuandoro.com
 0.0.0.0 demo.bihongobd.com
 0.0.0.0 demo.bookadventure.in
-0.0.0.0 demo.boxinn.lt
 0.0.0.0 demo.bragma.com
 0.0.0.0 demo.brandconfiance.com
 0.0.0.0 demo.brandshouter.com
@@ -23600,7 +23598,6 @@
 0.0.0.0 dtechgov.com
 0.0.0.0 dthakar.com
 0.0.0.0 dtin0r.com
-0.0.0.0 dtj.com.vn
 0.0.0.0 dtk-ad.co.th
 0.0.0.0 dtlight.fr
 0.0.0.0 dtmre.com
@@ -29298,7 +29295,6 @@
 0.0.0.0 forage.restaurant
 0.0.0.0 forbesriley.net
 0.0.0.0 forbiddenjewels.com.au
-0.0.0.0 forbika.com
 0.0.0.0 forcakes.ru
 0.0.0.0 forcaparaviver.com.br
 0.0.0.0 forcaperfeita.com.br
@@ -32669,7 +32665,6 @@
 0.0.0.0 graveobd.co
 0.0.0.0 graveswilliams.5gbfree.com
 0.0.0.0 gravironallc.icu
-0.0.0.0 gravitee.nl
 0.0.0.0 gravitel.org
 0.0.0.0 gravitychallenge.it
 0.0.0.0 gravservices.com
@@ -32810,6 +32805,7 @@
 0.0.0.0 greenlifeclinics.com
 0.0.0.0 greenlinecovers.com
 0.0.0.0 greenlottus.com
+0.0.0.0 greenmagicbd.com
 0.0.0.0 greenmarathon.by
 0.0.0.0 greenoak.adcoretechnologies.com
 0.0.0.0 greenoak.in
@@ -36788,7 +36784,6 @@
 0.0.0.0 idonisou.com
 0.0.0.0 idontknow.moe
 0.0.0.0 idontspeakfear.com
-0.0.0.0 idoubi.net
 0.0.0.0 idoux-maconnerie.fr
 0.0.0.0 idox.it
 0.0.0.0 idriskoylu.com.tr
@@ -39247,7 +39242,6 @@
 0.0.0.0 iz.owak-kmyt.ru
 0.0.0.0 iz.poznan.pl
 0.0.0.0 izabelatrojanowska.pl
-0.0.0.0 izagamanska.com
 0.0.0.0 izaskunsaez.com
 0.0.0.0 izavu.com
 0.0.0.0 izbetalia.com
@@ -40417,7 +40411,6 @@
 0.0.0.0 jonathandocksey.co.uk
 0.0.0.0 jonathanfun.com
 0.0.0.0 jonathanhawkins.net
-0.0.0.0 jonathanmuir.co.uk
 0.0.0.0 jonathansanson.com
 0.0.0.0 jonathantercero.com
 0.0.0.0 jonchambers.co.uk
@@ -41273,6 +41266,7 @@
 0.0.0.0 kaligraph.in
 0.0.0.0 kaliman.net
 0.0.0.0 kaliningrad-itc.ru
+0.0.0.0 kalipanthu.com
 0.0.0.0 kalisti.com
 0.0.0.0 kalitechat.com
 0.0.0.0 kalitengah-pancur.situsdesa.id
@@ -41453,7 +41447,6 @@
 0.0.0.0 karabukevleniyor.com
 0.0.0.0 karacasmad.com.br
 0.0.0.0 karachicrime.pk
-0.0.0.0 karafarinsho.com
 0.0.0.0 karafutoskincare.com
 0.0.0.0 karagozgumruk.com
 0.0.0.0 karagoztransfer.com
@@ -45536,6 +45529,7 @@
 0.0.0.0 lipnar.co.uk
 0.0.0.0 lipo-lytic.net
 0.0.0.0 liponradio.com
+0.0.0.0 lipraco.cz
 0.0.0.0 lipribhoz.ru
 0.0.0.0 liprudential.com.watchdogdns.duckdns.org
 0.0.0.0 lipsvideo.awardspace.biz
@@ -48841,6 +48835,7 @@
 0.0.0.0 matiz-pombalina.pt
 0.0.0.0 matlanews.ir
 0.0.0.0 matm.uz
+0.0.0.0 matmos.ng
 0.0.0.0 matomo.meerai.eu
 0.0.0.0 matongcaocap.vn
 0.0.0.0 matpincscr.com
@@ -50891,7 +50886,6 @@
 0.0.0.0 mkk09.kr
 0.0.0.0 mkkennedy.com
 0.0.0.0 mkmatsuda.com.br
-0.0.0.0 mkmj021.com
 0.0.0.0 mkolivares.com
 0.0.0.0 mkontakt.az
 0.0.0.0 mkpksb1behindcloseddoormatchisnotgoods.duckdns.org
@@ -51464,7 +51458,6 @@
 0.0.0.0 montinegro.nl
 0.0.0.0 montolla.tk
 0.0.0.0 montravel.ru
-0.0.0.0 montre-connectee-sport.com
 0.0.0.0 montrio.co.za
 0.0.0.0 montrosecounselingcenter.org
 0.0.0.0 montruc.ca
@@ -57297,6 +57290,7 @@
 0.0.0.0 paknavy.gov.pk.ap1-port.net
 0.0.0.0 pakpaw.id
 0.0.0.0 pakpooshtehran.ir
+0.0.0.0 paksat.com.pk
 0.0.0.0 paksoymuhendislik.com
 0.0.0.0 pakspaservices.com
 0.0.0.0 pakstones.com
@@ -57395,6 +57389,7 @@
 0.0.0.0 panchakanyaonlinenews.com
 0.0.0.0 panchavatiayurvedic.com
 0.0.0.0 pancholopez.com
+0.0.0.0 pancoupe.com
 0.0.0.0 pancristal.com.br
 0.0.0.0 panda93.ru
 0.0.0.0 pandacheek.com
@@ -58418,7 +58413,6 @@
 0.0.0.0 peruanademedios.pe
 0.0.0.0 perubakes.ml
 0.0.0.0 peruginoimpianti.com
-0.0.0.0 perugourmetsour.cl
 0.0.0.0 peruintitravel.com.pe
 0.0.0.0 perumahanbaru.com
 0.0.0.0 peruonfilm.com
@@ -59348,7 +59342,6 @@
 0.0.0.0 plumbersexpert.us
 0.0.0.0 plumbersinchristchurch.co.uk
 0.0.0.0 plumberspro.us
-0.0.0.0 plumberwarsawindiana.club
 0.0.0.0 plumbingheating.mkmbs.co.uk
 0.0.0.0 plumbingnorthampton.uk
 0.0.0.0 plumeriaapartments.com
@@ -65464,6 +65457,7 @@
 0.0.0.0 salamat-gostar.com
 0.0.0.0 salamat.live
 0.0.0.0 salamatbanoo.ir
+0.0.0.0 salamdrug.com
 0.0.0.0 salamercado.com.ar
 0.0.0.0 salamon.net
 0.0.0.0 salamouna.cz
@@ -69748,7 +69742,6 @@
 0.0.0.0 solimur.com
 0.0.0.0 solini.bharatbioscience.in
 0.0.0.0 solinklimited.com
-0.0.0.0 solinstituto.com.br
 0.0.0.0 solisci.pl
 0.0.0.0 solitudestays.com
 0.0.0.0 solivagantfoodie.com
@@ -72368,7 +72361,6 @@
 0.0.0.0 suroloka.com
 0.0.0.0 surplussatire.dreamhosters.com
 0.0.0.0 surprise-dj-team.com
-0.0.0.0 surprizmutluluk.com
 0.0.0.0 surreyslopitch.com
 0.0.0.0 surrogateparenting.com
 0.0.0.0 surroundsound.in
@@ -73443,6 +73435,7 @@
 0.0.0.0 taxiapps.ecec-shop.com
 0.0.0.0 taxibreda076.nl
 0.0.0.0 taxicom.net
+0.0.0.0 taxidd.com
 0.0.0.0 taxieinsiedeln.ch
 0.0.0.0 taxifeusisberg.ch
 0.0.0.0 taxiheviz.eu
@@ -74932,7 +74925,6 @@
 0.0.0.0 thefoxfestival.com
 0.0.0.0 thefragrancefreeshop.com
 0.0.0.0 thefranssons.com
-0.0.0.0 thefreelancerschool.com
 0.0.0.0 thefrees.com
 0.0.0.0 thefreewaterfoundation.org.za
 0.0.0.0 thefront.in
@@ -78234,6 +78226,7 @@
 0.0.0.0 umwelt-kirchhof.de
 0.0.0.0 umzdjymq.sha58.me
 0.0.0.0 un-news.kz
+0.0.0.0 un-peace.com
 0.0.0.0 un2.dudulm.com
 0.0.0.0 un6cqq.ch.files.1drv.com
 0.0.0.0 una-studios.com
@@ -78364,6 +78357,7 @@
 0.0.0.0 uniquelesson.com
 0.0.0.0 uniquememoriesbyleann.net
 0.0.0.0 uniqueshop.com.bd
+0.0.0.0 uniquestyle.no
 0.0.0.0 uniquetents.co.ke
 0.0.0.0 uniquewv.com
 0.0.0.0 uniquexpressionsgh.com
@@ -83278,7 +83272,6 @@
 0.0.0.0 xinhkorea.com
 0.0.0.0 xinlou.info
 0.0.0.0 xinning.com.cn
-0.0.0.0 xinwenlook.com
 0.0.0.0 xinwenwang123.cn
 0.0.0.0 xinyemian.com
 0.0.0.0 xinyi11.xyz
