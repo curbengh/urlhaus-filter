@@ -6,6 +6,7 @@ There are multiple formats available, refer to the appropriate section according
 
 - uBlock Origin (uBO) -> [URL-based](#url-based) section (recommended)
 - Pi-hole -> [Domain-based](#domain-based) or [Hosts-based](#hosts-based) section
+- AdGuard Home -> [Domain-based (AdGuard Home)](#domain-based-adguard-home) or [Hosts-based](#hosts-based) section
 - Hosts file -> [Hosts-based](#hosts-based) section
 - Dnsmasq -> [Dnsmasq](#dnsmasq) section
 - BIND -> [BIND](#bind) section
@@ -57,6 +58,8 @@ Regular version contains >260K filters, do note that uBO can [easily handle](htt
 
 If you've installed the lite version but prefer to use the regular version, it's better to remove it beforehand. Having two versions at the same time won't cause any conflict issue, uBO can detect duplicate network filters and adjust accordingly, but it's a waste of your bandwidth.
 
+AdGuard Home is not compatible with the URL filter (`||baddomain.com/bad/page$all`) of this blocklist, although it is still compatible with the domain filter (`||baddomain.com^`) also used in this blocklist, consider using a [smaller blocklist](#domain-based-adguard-home) (it's around half smaller).
+
 ## Domain-based
 
 This blocklist includes domains and IP addresses.
@@ -89,6 +92,41 @@ Lite version (online domains/IPs only):
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-domains-online.txt
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-domains-online.txt
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-domains-online.txt
+
+</details>
+
+## Domain-based (AdGuard Home)
+
+This AdGuard Home-compatible blocklist includes domains and IP addresses.
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-agh.txt
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-agh.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-agh.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-agh.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-agh.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-agh.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-agh.txt
+
+</details>
+
+<br />
+Lite version (online domains/IPs only):
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-agh-online.txt
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-agh-online.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-agh-online.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-agh-online.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-agh-online.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-agh-online.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-agh-online.txt
 
 </details>
 
