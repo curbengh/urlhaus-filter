@@ -119,31 +119,52 @@ COMMENT_ABP="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n
 # Compatibility with Adguard Home (#19, #22)
 cat "malware-domains.txt" | \
 sed "s/^/||/g" | \
-sed "s/$/^/g" > "malware-domains-adguard.txt"
+sed "s/$/^/g" > "malware-domains-adguard-home.txt"
 
 cat "malware-domains-online.txt" | \
 sed "s/^/||/g" | \
-sed "s/$/^/g" > "malware-domains-online-adguard.txt"
+sed "s/$/^/g" > "malware-domains-online-adguard-home.txt"
 
-cat "malware-domains-adguard.txt" | \
+cat "malware-domains-adguard-home.txt" | \
 sort | \
 sed '1 i\'"$COMMENT_ABP"'' | \
 sed "1s/Blocklist/Blocklist (AdGuard Home)/" > "../urlhaus-filter-agh.txt"
 
-cat "malware-domains-online-adguard.txt" | \
+cat "malware-domains-online-adguard-home.txt" | \
 sort | \
 sed '1 i\'"$COMMENT_ABP"'' | \
 sed "1s/Malicious/Online Malicious/" | \
 sed "1s/Blocklist/Blocklist (AdGuard Home)/" > "../urlhaus-filter-agh-online.txt"
 
-cat "malware-domains-adguard.txt" "malware-url-top-domains.txt" | \
+cat "malware-domains-adguard-home.txt" "malware-url-top-domains.txt" | \
 sort | \
 sed '1 i\'"$COMMENT_ABP"'' > "../urlhaus-filter.txt"
+
+cat "malware-domains-online-adguard-home.txt" "malware-url-top-domains-online.txt" | \
+sort | \
+sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-online.txt"
+
+
+# Adguard browser extension compatibility
+cat "malware-domains.txt" | \
+sed "s/^/||/g" | \
+sed "s/$/\$all/g" > "malware-domains-adguard.txt"
+
+cat "malware-domains-online.txt" | \
+sed "s/^/||/g" | \
+sed "s/$/\$all/g" > "malware-domains-online-adguard.txt"
+
+cat "malware-domains-adguard.txt" "malware-url-top-domains.txt" | \
+sort | \
+sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1s/Blocklist/Blocklist (AdGuard)/" > "../urlhaus-filter-ag.txt"
 
 cat "malware-domains-online-adguard.txt" "malware-url-top-domains-online.txt" | \
 sort | \
 sed '1 i\'"$COMMENT_ABP"'' | \
-sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-online.txt"
+sed "1s/Malicious/Online Malicious/" | \
+sed "1s/Blocklist/Blocklist (AdGuard)/" > "../urlhaus-filter-ag-online.txt"
 
 
 ## Domains-only blocklist

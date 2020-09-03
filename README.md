@@ -7,10 +7,11 @@ There are multiple formats available, refer to the appropriate section according
 - uBlock Origin (uBO) -> [URL-based](#url-based) section (recommended)
 - Pi-hole -> [Domain-based](#domain-based) or [Hosts-based](#hosts-based) section
 - AdGuard Home -> [Domain-based (AdGuard Home)](#domain-based-adguard-home) or [Hosts-based](#hosts-based) section
-- Hosts file -> [Hosts-based](#hosts-based) section
-- Dnsmasq -> [Dnsmasq](#dnsmasq) section
-- BIND -> [BIND](#bind) section
-- Unbound -> [Unbound](#unbound) section
+- AdGuard browser extension -> [URL-based (AdGuard)](#url-based-adguard)
+- [Hosts](#hosts-based)
+- [Dnsmasq](#dnsmasq)
+- [BIND](#bind)
+- [Unbound](#unbound)
 
 Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/urlhaus-filter/wikis/compatibility) page in the wiki.
 
@@ -58,7 +59,43 @@ Regular version contains >260K filters, do note that uBO can [easily handle](htt
 
 If you've installed the lite version but prefer to use the regular version, it's better to remove it beforehand. Having two versions at the same time won't cause any conflict issue, uBO can detect duplicate network filters and adjust accordingly, but it's a waste of your bandwidth.
 
-AdGuard Home is not compatible with the URL filter (`||baddomain.com/bad/page$all`) of this blocklist, although it is still compatible with the domain filter (`||baddomain.com^`) also used in this blocklist, consider using a [smaller blocklist](#domain-based-adguard-home) (it's around half smaller).
+**AdGuard Home** users should use [this blocklist](#domain-based-adguard-home), compatibility with URL-based blocklist is retained temporarily until in 30 Sep 2020 (UTC).
+
+## URL-based (AdGuard)
+
+Import the following URL into AdGuard browser extensions to subscribe (includes online and **offline** malicious websites):
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-ag.txt
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-ag.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-ag.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-ag.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-ag.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-ag.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-ag.txt
+
+</details>
+
+<br />
+
+Lite version (**online** links only):
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-ag-online.txt
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-ag-online.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-ag-online.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-ag-online.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-ag-online.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-ag-online.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-ag-online.txt
+
+</details>
 
 ## Domain-based
 
