@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Fri, 11 Sep 2020 12:10:34 UTC
+# Updated: Sat, 12 Sep 2020 00:10:11 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -654,7 +654,6 @@
 0.0.0.0 28publicidad.cl
 0.0.0.0 29061.dcpserver.de
 0.0.0.0 2996316.com
-0.0.0.0 29regularcourse.com
 0.0.0.0 29uwuwousuw8wuwyuwie.com
 0.0.0.0 2aaguinaga.pe
 0.0.0.0 2aide.fr
@@ -1720,6 +1719,7 @@
 0.0.0.0 a4zy33hbmhxx70w9q.com
 0.0.0.0 a5he9s.com
 0.0.0.0 a61.myqnapcloud.com
+0.0.0.0 a66i3j.com
 0.0.0.0 a75ttto.com
 0.0.0.0 a8.netlify.com
 0.0.0.0 a82ecpx9ioi48j0t7jlh.tk
@@ -3545,7 +3545,6 @@
 0.0.0.0 air34.um.la
 0.0.0.0 airbnb.shr.re
 0.0.0.0 airbnbegift.com
-0.0.0.0 airborneconsulting.co
 0.0.0.0 airbornoutlet.com
 0.0.0.0 airbrush-by-kasi.de
 0.0.0.0 airclinic.eu
@@ -4206,7 +4205,6 @@
 0.0.0.0 alianzas.dmotos.cl
 0.0.0.0 aliatmedia.ro
 0.0.0.0 aliattaran.info
-0.0.0.0 aliawisata.com
 0.0.0.0 alibabatreks.com
 0.0.0.0 alibabe.sytes.net
 0.0.0.0 alibaloch.com
@@ -10326,6 +10324,7 @@
 0.0.0.0 bestrip.telkomuniversity.ac.id
 0.0.0.0 bestroadtripever.com
 0.0.0.0 bestrongncourageous.com
+0.0.0.0 bestsaludable.com
 0.0.0.0 bestsearchonweb.com
 0.0.0.0 bestselfchallenges.com
 0.0.0.0 bestseofreetools.com
@@ -16598,6 +16597,7 @@
 0.0.0.0 cleverflame.com
 0.0.0.0 cleverlearncebu.com
 0.0.0.0 cleverpharma.es
+0.0.0.0 cleversoft.vn
 0.0.0.0 cleverspain.com
 0.0.0.0 clevert.pl
 0.0.0.0 clgafareaitu.com
@@ -24767,6 +24767,7 @@
 0.0.0.0 ecotech.wegostation.com
 0.0.0.0 ecoteck24.ru
 0.0.0.0 ecoteplex.ru
+0.0.0.0 ecotonedigital.com
 0.0.0.0 ecotourisme-pourtous.com
 0.0.0.0 ecovi.com.mx
 0.0.0.0 ecovilavaledoeden.com.br
@@ -28663,7 +28664,6 @@
 0.0.0.0 fikima.com
 0.0.0.0 fikirhaber.net
 0.0.0.0 fikirhouse.com
-0.0.0.0 fikra-tec.com
 0.0.0.0 fikraa.net
 0.0.0.0 fikresufia.com
 0.0.0.0 fikretkoc.com
@@ -34528,7 +34528,6 @@
 0.0.0.0 hayatihusada.com
 0.0.0.0 hayatiskele.com
 0.0.0.0 hayatlokma.com
-0.0.0.0 hayatmuratofficial.com
 0.0.0.0 hayattfs.com
 0.0.0.0 hayatverturkiye.com
 0.0.0.0 hayaushiru.com
@@ -36737,7 +36736,6 @@
 0.0.0.0 i-dog.jp
 0.0.0.0 i-dol.net
 0.0.0.0 i-genre.com
-0.0.0.0 i-in.co.il
 0.0.0.0 i-kama.pl
 0.0.0.0 i-life-net.com
 0.0.0.0 i-mueller.de
@@ -39025,6 +39023,7 @@
 0.0.0.0 irangoodshop.com
 0.0.0.0 iranianeconews.com
 0.0.0.0 iranianjahesh.com
+0.0.0.0 iraniansc.ir
 0.0.0.0 iraniansk.com
 0.0.0.0 iranmadan.com
 0.0.0.0 iranmelorin.com
@@ -39144,7 +39143,6 @@
 0.0.0.0 iryna.biz
 0.0.0.0 is-hp.com
 0.0.0.0 is-yap.com
-0.0.0.0 is.net.sa
 0.0.0.0 is4340.azurewebsites.net
 0.0.0.0 is45wdsed4455sdfsf.duckdns.org
 0.0.0.0 isaac.samjoemmy.com
@@ -42872,7 +42870,6 @@
 0.0.0.0 kinoko.pw
 0.0.0.0 kinomakia.com.br
 0.0.0.0 kinomapa.ru
-0.0.0.0 kinomax.vn
 0.0.0.0 kinondonimoravian.org
 0.0.0.0 kinosens.com
 0.0.0.0 kinostanbulfilm.com
@@ -42943,6 +42940,7 @@
 0.0.0.0 kitahamakai-miyoshiiin.com
 0.0.0.0 kitakami-fukushi.ac.jp
 0.0.0.0 kitaooji-kinseiin.jp
+0.0.0.0 kitapbursa.com
 0.0.0.0 kitaplasalim.org
 0.0.0.0 kitaurawa-mensesthe.xyz
 0.0.0.0 kitchen-aid.vn
@@ -44397,6 +44395,7 @@
 0.0.0.0 lakikilla.com
 0.0.0.0 lakinsurancebrokers.com
 0.0.0.0 lakornhot.com
+0.0.0.0 lakropack.com
 0.0.0.0 lakshmichowkusa.com
 0.0.0.0 lakshmicollege.org
 0.0.0.0 lakshmicollege.org.in
@@ -44972,7 +44971,6 @@
 0.0.0.0 leadphorce.com
 0.0.0.0 leads.thevicesolution.com
 0.0.0.0 leadservice.org
-0.0.0.0 leadsift.com
 0.0.0.0 leadtochange.net
 0.0.0.0 leaf.eco.to
 0.0.0.0 leafdesign.jp
@@ -45638,6 +45636,7 @@
 0.0.0.0 life-and-spice.com
 0.0.0.0 life-consulting.org
 0.0.0.0 life-profy.ru
+0.0.0.0 lifeadvicer.com
 0.0.0.0 lifeaidproducts.com
 0.0.0.0 lifeandworkinjapan.info
 0.0.0.0 lifeapt.biz
@@ -45673,6 +45672,7 @@
 0.0.0.0 lifeofnick.com
 0.0.0.0 lifeonboard.pt
 0.0.0.0 lifepartner.hk
+0.0.0.0 lifeprimary.site
 0.0.0.0 liferiskmanagement-my.sharepoint.com
 0.0.0.0 lifesaverbottledirect.com
 0.0.0.0 lifesciencemedia.in
@@ -45810,7 +45810,6 @@
 0.0.0.0 lillethun.com
 0.0.0.0 lillianjamescreative.com
 0.0.0.0 lillipillicatering.com
-0.0.0.0 lillys.nl
 0.0.0.0 lilong.wiki
 0.0.0.0 lilpilito.cf
 0.0.0.0 lily-lena.nl
@@ -48371,6 +48370,7 @@
 0.0.0.0 makeyourbest.com
 0.0.0.0 makeyourinvitepartners.ml
 0.0.0.0 makeyourmarkonline.net
+0.0.0.0 makhmalbaf.com
 0.0.0.0 makhmutov.com
 0.0.0.0 makhsoos.ir
 0.0.0.0 makijaz-permanentny.sax.pl
@@ -49518,6 +49518,7 @@
 0.0.0.0 maymacvietnam.com
 0.0.0.0 maymarproperties.com.au
 0.0.0.0 maymaychihai.com
+0.0.0.0 maynenkhivinhphat.com
 0.0.0.0 mayorista.lequss.com
 0.0.0.0 mayosauces.live
 0.0.0.0 mayphatrasua.com
@@ -50009,7 +50010,6 @@
 0.0.0.0 meetzon.com
 0.0.0.0 meeweb.com
 0.0.0.0 meewis.nl
-0.0.0.0 meeyid.vn
 0.0.0.0 mefun.tv
 0.0.0.0 meg-house.ooo
 0.0.0.0 mega-shop.paditech.com
@@ -51894,6 +51894,7 @@
 0.0.0.0 monelliribelli.it
 0.0.0.0 monetarypyramid.org
 0.0.0.0 monetize.bid
+0.0.0.0 money-crdt.ru
 0.0.0.0 money-makers-uk.com
 0.0.0.0 money-talks.info
 0.0.0.0 money360.brightoak.com
@@ -52386,6 +52387,7 @@
 0.0.0.0 mpkcom.com
 0.0.0.0 mpkglobaltrainingcorp.net
 0.0.0.0 mplmodapk.site
+0.0.0.0 mployme.nl
 0.0.0.0 mpls.foodiecycle.com
 0.0.0.0 mpn.vn
 0.0.0.0 mpo.firstideasolutions.in
@@ -53707,7 +53709,6 @@
 0.0.0.0 napitipp.hu
 0.0.0.0 naplesbestrealestate.com
 0.0.0.0 naplesgolfbestrealestate.com
-0.0.0.0 naplesparkshorebestrealestate.com
 0.0.0.0 napm-india.org
 0.0.0.0 napoleonzoetermeer.nl
 0.0.0.0 napolisun.sism.org
@@ -55425,7 +55426,6 @@
 0.0.0.0 northcarolinaforeclosuresforsale.com
 0.0.0.0 northcityspb.ru
 0.0.0.0 northdent.ir
-0.0.0.0 northeastphiladelphiahomesforsale.com
 0.0.0.0 northeastpiperestoration.com
 0.0.0.0 northerncardinalfarms.com
 0.0.0.0 northerncrosssolutions.com
@@ -62932,7 +62932,6 @@
 0.0.0.0 radiotremp.cat
 0.0.0.0 radiotvappp.online
 0.0.0.0 radiotvappp.ru
-0.0.0.0 radiovisioninc.com
 0.0.0.0 radioviverbem.com.br
 0.0.0.0 radioyachting.com
 0.0.0.0 radiozvuk.com
@@ -65305,6 +65304,7 @@
 0.0.0.0 rs.kiev.ua
 0.0.0.0 rsaavedrawalker.com
 0.0.0.0 rsainfobd.com
+0.0.0.0 rsantamariadelosangeles.es
 0.0.0.0 rsaustria.com
 0.0.0.0 rsb18.rhostbh.com
 0.0.0.0 rsconsultants.com
@@ -66737,6 +66737,7 @@
 0.0.0.0 sauceismoney.com
 0.0.0.0 saudaveldemais.com
 0.0.0.0 saudenatural.ml
+0.0.0.0 saudeventures.com.br
 0.0.0.0 saudi.maksab.co
 0.0.0.0 saudiexmuslims.com
 0.0.0.0 saudigeriatrics.org
@@ -68008,6 +68009,7 @@
 0.0.0.0 setacim.com
 0.0.0.0 setbird.space
 0.0.0.0 setbird.website
+0.0.0.0 setblok.com
 0.0.0.0 setda.pekalongankab.go.id
 0.0.0.0 seteweb.tk
 0.0.0.0 setfalc.com
@@ -76241,7 +76243,6 @@
 0.0.0.0 thieptohong.com
 0.0.0.0 thierry-ginon-avocat.com
 0.0.0.0 thierrytetsu.com
-0.0.0.0 thietbikimson.com
 0.0.0.0 thietbinhapkhau.com.vn
 0.0.0.0 thietbiphutunghd.com
 0.0.0.0 thietbirang.com
@@ -77852,7 +77853,6 @@
 0.0.0.0 triado.ru
 0.0.0.0 trial04.com
 0.0.0.0 trialgrouparquitectos.com
-0.0.0.0 trialloys.com
 0.0.0.0 triangolodelbenessere.it
 0.0.0.0 triani.in
 0.0.0.0 triaptics-berlin.com
@@ -77980,7 +77980,6 @@
 0.0.0.0 trodat.me
 0.0.0.0 troho.ch
 0.0.0.0 troiano.de
-0.0.0.0 trolleycom.co.zw
 0.0.0.0 trollingmotordoctor.com
 0.0.0.0 trololo.com.br
 0.0.0.0 trombleoff.com
@@ -78817,6 +78816,7 @@
 0.0.0.0 uglytheme.com
 0.0.0.0 uglytup.co.uk
 0.0.0.0 ugmoney.com
+0.0.0.0 ugnlgg.com
 0.0.0.0 ugnodon1.com
 0.0.0.0 ugptogo.org
 0.0.0.0 ugra-aquatics.ru
@@ -79695,6 +79695,7 @@
 0.0.0.0 utirierons.com
 0.0.0.0 utit.vn
 0.0.0.0 utk564athtee.com
+0.0.0.0 utkanbostanci.xyz
 0.0.0.0 utkin.space
 0.0.0.0 utmank.bid
 0.0.0.0 utopia-suites.com
@@ -80787,6 +80788,7 @@
 0.0.0.0 villacastello.ch
 0.0.0.0 villacitronella.com
 0.0.0.0 villaconstitucion.gob.ar
+0.0.0.0 villadeaux.com
 0.0.0.0 village-file.com
 0.0.0.0 village-works.co.jp
 0.0.0.0 villagenp.org
@@ -83138,7 +83140,6 @@
 0.0.0.0 wiselove.es
 0.0.0.0 wiseniches.com
 0.0.0.0 wiseon.by
-0.0.0.0 wiseowltutoringservices.com
 0.0.0.0 wiserbeing.com
 0.0.0.0 wiserecruitment.com.au
 0.0.0.0 wiseware.net
@@ -83725,6 +83726,7 @@
 0.0.0.0 wschliemann.de
 0.0.0.0 wsdg.net
 0.0.0.0 wsdshipping.com
+0.0.0.0 wsdy1scmtonhumanrightjusticeorganizatin.duckdns.org
 0.0.0.0 wsdy6pksnpcoperategovernmenttgpdagentx.duckdns.org
 0.0.0.0 wsdybsskillemmulatorsdevelovercomun11pq.duckdns.org
 0.0.0.0 wsdychinese2onlyywalkaloneinlifev24nql.duckdns.org
@@ -85067,7 +85069,6 @@
 0.0.0.0 yelarsan.es
 0.0.0.0 yellow-fellow.pl
 0.0.0.0 yellowfish.biz
-0.0.0.0 yellowstonefitness.com
 0.0.0.0 yellowsubmarine.org.uk
 0.0.0.0 yemeknerde.com
 0.0.0.0 yemekolsa.com
