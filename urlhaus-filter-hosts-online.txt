@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sun, 13 Sep 2020 12:09:51 UTC
+# Updated: Mon, 14 Sep 2020 00:10:10 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -14,7 +14,6 @@
 0.0.0.0 2.17110.com
 0.0.0.0 21robo.com
 0.0.0.0 24kitten.com
-0.0.0.0 2mval.com
 0.0.0.0 33business.com.br
 0.0.0.0 365dayscoffee.com
 0.0.0.0 3j1.cn
@@ -152,8 +151,6 @@
 0.0.0.0 bbgiardinodoriente.it
 0.0.0.0 bbia.co.uk
 0.0.0.0 bbs1.marisfrolg.com
-0.0.0.0 bdvan.com
-0.0.0.0 beautifulday.com.tw
 0.0.0.0 behnasan.com
 0.0.0.0 bekape.co.id
 0.0.0.0 belhao.com
@@ -182,6 +179,7 @@
 0.0.0.0 bnmintl.com
 0.0.0.0 bodenstein.co.za
 0.0.0.0 bokuraga-yell.com
+0.0.0.0 bolidar.dnset.com
 0.0.0.0 bombshellshow.me
 0.0.0.0 bomfuturoadesivos.com
 0.0.0.0 booksearch.com
@@ -320,6 +318,7 @@
 0.0.0.0 dandyair.com
 0.0.0.0 daoisthealing.com
 0.0.0.0 daprofesional.com
+0.0.0.0 data.kaoyany.top
 0.0.0.0 data.over-blog-kiwi.com
 0.0.0.0 databeuro.com
 0.0.0.0 datapolish.com
@@ -349,7 +348,6 @@
 0.0.0.0 detorre.es
 0.0.0.0 dev.omniroom.ru
 0.0.0.0 dewide.com.br
-0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 dfzm.91756.cn
 0.0.0.0 dgecolesdepolice.bf
@@ -365,6 +363,7 @@
 0.0.0.0 disbain.es
 0.0.0.0 djhavoc.net
 0.0.0.0 dkeventmarketing.com
+0.0.0.0 dkt.17110.com
 0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.198424.com
 0.0.0.0 dl.iqilie.com
@@ -396,7 +395,6 @@
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.exrnybuf.cn
 0.0.0.0 download.pdf00.cn
-0.0.0.0 download.rising.com.cn
 0.0.0.0 download.skycn.com
 0.0.0.0 download301.wanmei.com
 0.0.0.0 dpeasesummithilltoppers.pbworks.com
@@ -409,6 +407,7 @@
 0.0.0.0 duhallow.com
 0.0.0.0 dunkingbirdproductions.com
 0.0.0.0 dupmaster.net
+0.0.0.0 dw.58wangdun.com
 0.0.0.0 dx.qqyewu.com
 0.0.0.0 dx1.qqtn.com
 0.0.0.0 dx2.qqtn.com
@@ -417,7 +416,6 @@
 0.0.0.0 dzyne.net
 0.0.0.0 e4notes.com
 0.0.0.0 earthnet.mx
-0.0.0.0 eastexs.com
 0.0.0.0 eastsheen-glaziers.co.uk
 0.0.0.0 eataroundbangkok.com
 0.0.0.0 eb3tly.online
@@ -432,6 +430,7 @@
 0.0.0.0 elcastilloencantado.es
 0.0.0.0 elektro.untirta.ac.id
 0.0.0.0 elektromechanikachlodnicza.pl
+0.0.0.0 elokshinproperty.co.za
 0.0.0.0 eltrafalgar.com
 0.0.0.0 emaids.co.za
 0.0.0.0 emyhope.com
@@ -453,7 +452,6 @@
 0.0.0.0 eventos.alfatravel.com.br
 0.0.0.0 evolucaodigitalconsultoria.com.br
 0.0.0.0 evoter.christbusinessnetwork.org
-0.0.0.0 exagono.com.mx
 0.0.0.0 excelenceimoveis.com.br
 0.0.0.0 excess.web.tr
 0.0.0.0 exilum.com
@@ -468,6 +466,7 @@
 0.0.0.0 farispitbrakes.com
 0.0.0.0 farli.com
 0.0.0.0 fashionchandani.com
+0.0.0.0 faulidi.com
 0.0.0.0 feed-back.com.tr
 0.0.0.0 felicienne.nl
 0.0.0.0 felyroedd.com
@@ -482,7 +481,6 @@
 0.0.0.0 flgmedia.nl
 0.0.0.0 fmcav.com
 0.0.0.0 forestanalytics.net
-0.0.0.0 fotobooth.at
 0.0.0.0 fotoobjetivo.com
 0.0.0.0 foundlity.com
 0.0.0.0 foxeps.com.br
@@ -546,7 +544,6 @@
 0.0.0.0 hakility.com
 0.0.0.0 hanaphoto.co.kr
 0.0.0.0 hapaistanbul.com
-0.0.0.0 happytriangle.org
 0.0.0.0 harddrivedonors.com
 0.0.0.0 hariominvestment.com
 0.0.0.0 hbprivileged.com
@@ -584,7 +581,6 @@
 0.0.0.0 hsmwebapp.com
 0.0.0.0 htownbars.com
 0.0.0.0 huffpuff.com.au
-0.0.0.0 hullsite.com
 0.0.0.0 hxtoutiao.com
 0.0.0.0 hygienicwallcladding.com
 0.0.0.0 ibda.adv.br
@@ -607,6 +603,7 @@
 0.0.0.0 indyoverheaddoors.com
 0.0.0.0 infoestudio.es
 0.0.0.0 infoquick.co.uk
+0.0.0.0 ini.egkj.com
 0.0.0.0 inigbiseijfji.ru
 0.0.0.0 inkrites.com
 0.0.0.0 inso.asia
@@ -668,7 +665,6 @@
 0.0.0.0 kinepremins.cl
 0.0.0.0 king61tours.com
 0.0.0.0 kjcpromo.com
-0.0.0.0 kleinendeli.co.za
 0.0.0.0 knightlycomputing.com
 0.0.0.0 knightsbridgeenergy.com.ng
 0.0.0.0 kollab.blog.br
@@ -682,11 +678,11 @@
 0.0.0.0 kwanfromhongkong.com
 0.0.0.0 kyric.com
 0.0.0.0 labersa.com
-0.0.0.0 laboratbahasa.com
 0.0.0.0 lagera.com
 0.0.0.0 lameguard.ru
 0.0.0.0 laminatedtube.com
 0.0.0.0 lammaixep.com
+0.0.0.0 laninesolution.com
 0.0.0.0 laopermanentmission-jakarta.gov.la
 0.0.0.0 lblcomputacion.com
 0.0.0.0 lcmsystem.com
@@ -848,7 +844,6 @@
 0.0.0.0 nofound.000webhostapp.com
 0.0.0.0 nourishmentjuices.com
 0.0.0.0 novaes.com.br
-0.0.0.0 nozhinteb.com
 0.0.0.0 nsheldon.co.uk
 0.0.0.0 nuwagi.com
 0.0.0.0 nyeh2o.com.au
@@ -866,7 +861,6 @@
 0.0.0.0 omeryener.com.tr
 0.0.0.0 onejmd.com
 0.0.0.0 onex.co.za
-0.0.0.0 onlygodem.com
 0.0.0.0 onourstyle.com
 0.0.0.0 onyourleftracing.com
 0.0.0.0 opolis.io
@@ -975,7 +969,6 @@
 0.0.0.0 remiduser.organiccrap.com
 0.0.0.0 remzclot.ga
 0.0.0.0 renimin.mymom.info
-0.0.0.0 reow-71.tk
 0.0.0.0 res.ieceo.cn
 0.0.0.0 res.uf1.cn
 0.0.0.0 researchchemplus.com
@@ -1012,7 +1005,6 @@
 0.0.0.0 saangberg.com
 0.0.0.0 sacredscentsonline.com
 0.0.0.0 sadiqgill.com
-0.0.0.0 safoss.co.za
 0.0.0.0 sahathaikasetpan.com
 0.0.0.0 salazarbastos.com
 0.0.0.0 saluvite.com
@@ -1065,7 +1057,6 @@
 0.0.0.0 sku-auto.com.my
 0.0.0.0 skullmedia.de
 0.0.0.0 skyscan.com
-0.0.0.0 sl9XA73g7u3EO07WT42n7f4vIn5fZH.biz
 0.0.0.0 slickwebdesign.com
 0.0.0.0 small.962.net
 0.0.0.0 smarthouseforum.ru
@@ -1092,7 +1083,6 @@
 0.0.0.0 speakerpedia.in
 0.0.0.0 speed.myz.info
 0.0.0.0 spent.com.pl
-0.0.0.0 spiel-geh-regen.de
 0.0.0.0 src1.minibai.com
 0.0.0.0 srconsultingsrv.com
 0.0.0.0 sriglobalit.com
@@ -1118,7 +1108,6 @@
 0.0.0.0 support.dogpack.media
 0.0.0.0 surfportable.com
 0.0.0.0 surgaya.com.ua
-0.0.0.0 sutekihome.co.id
 0.0.0.0 sutomoresmestaj.net
 0.0.0.0 swapkit.ie
 0.0.0.0 sweaty.dk
@@ -1139,9 +1128,7 @@
 0.0.0.0 tarynminterlaw.com
 0.0.0.0 taxpos.com
 0.0.0.0 tcpjusticedenied.org
-0.0.0.0 tcy.198424.com
 0.0.0.0 teach2reach.co.za
-0.0.0.0 tech332.synology.me
 0.0.0.0 technoswift.net
 0.0.0.0 teleargentina.com
 0.0.0.0 telescopelms.com
@@ -1207,6 +1194,7 @@
 0.0.0.0 tunamim.com.tr
 0.0.0.0 tuneup.ibk.me
 0.0.0.0 tutuler.com
+0.0.0.0 tz005.com
 0.0.0.0 uc-56.ru
 0.0.0.0 ugc.wegame.com.cn
 0.0.0.0 ugira.lt
@@ -1282,6 +1270,7 @@
 0.0.0.0 wildnights.co.uk
 0.0.0.0 willow-nettica.com
 0.0.0.0 windcomtechnologies.com
+0.0.0.0 wippe13.de
 0.0.0.0 wishesconcierge.com
 0.0.0.0 wizlynxgroup.cn
 0.0.0.0 wkkjf.com
@@ -1290,7 +1279,6 @@
 0.0.0.0 woodsytech.com
 0.0.0.0 wormann.dk
 0.0.0.0 wozata.000webhostapp.com
-0.0.0.0 writesofpassage.co.za
 0.0.0.0 ws-ebavisapia01-dll.ir
 0.0.0.0 wsg.com.sg
 0.0.0.0 www2.recepty5.com
