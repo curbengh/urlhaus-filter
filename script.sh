@@ -116,7 +116,7 @@ FIFTH_LINE="! License: https://creativecommons.org/publicdomain/zero/1.0/"
 SIXTH_LINE="! Source: https://urlhaus.abuse.ch/api/"
 COMMENT_ABP="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
 
-# Compatibility with Adguard Home (#19, #22)
+# Adguard Home (#19, #22)
 cat "malware-domains.txt" | \
 sed "s/^/||/g" | \
 sed "s/$/^/g" > "malware-domains-adguard-home.txt"
@@ -146,7 +146,7 @@ sed '1 i\'"$COMMENT_ABP"'' | \
 sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-online.txt"
 
 
-# Adguard browser extension compatibility
+# Adguard browser extension
 cat "malware-domains.txt" | \
 sed "s/^/||/g" | \
 sed "s/$/\$all/g" > "malware-domains-adguard.txt"
@@ -165,6 +165,31 @@ sort | \
 sed '1 i\'"$COMMENT_ABP"'' | \
 sed "1s/Malicious/Online Malicious/" | \
 sed "1s/Blocklist/Blocklist (AdGuard)/" > "../urlhaus-filter-ag-online.txt"
+
+
+# Vivaldi
+cat "malware-domains.txt" | \
+sed "s/^/||/g" | \
+sed "s/$/\$document/g" > "malware-domains-vivaldi.txt"
+
+cat "malware-domains-online.txt" | \
+sed "s/^/||/g" | \
+sed "s/$/\$document/g" > "malware-domains-online-vivaldi.txt"
+
+cat "malware-domains-vivaldi.txt" "malware-url-top-domains.txt" | \
+## to be removed
+sed "s/\$all$/\$document/g" | \
+sort | \
+sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1s/Blocklist/Blocklist (Vivaldi)/" > "../urlhaus-filter-vivaldi.txt"
+
+cat "malware-domains-online-vivaldi.txt" "malware-url-top-domains-online.txt" | \
+## to be removed
+sed "s/\$all$/\$document/g" | \
+sort | \
+sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1s/Malicious/Online Malicious/" | \
+sed "1s/Blocklist/Blocklist (Vivaldi)/" > "../urlhaus-filter-vivaldi-online.txt"
 
 
 ## Domains-only blocklist

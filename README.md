@@ -7,7 +7,8 @@ There are multiple formats available, refer to the appropriate section according
 - uBlock Origin (uBO) -> [URL-based](#url-based) section (recommended)
 - Pi-hole -> [Domain-based](#domain-based) or [Hosts-based](#hosts-based) section
 - AdGuard Home -> [Domain-based (AdGuard Home)](#domain-based-adguard-home) or [Hosts-based](#hosts-based) section
-- AdGuard browser extension -> [URL-based (AdGuard)](#url-based-adguard)
+- AdGuard (browser extension) -> [URL-based (AdGuard)](#url-based-adguard)
+- Vivaldi -> [URL-based (Vivaldi)](#url-based-vivaldi)
 - [Hosts](#hosts-based)
 - [Dnsmasq](#dnsmasq)
 - [BIND](#bind)
@@ -94,6 +95,44 @@ Lite version (**online** links only):
 - https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-ag-online.txt
 - https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-ag-online.txt
 - https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-ag-online.txt
+
+</details>
+
+## URL-based (Vivaldi)
+
+_Requires Vivaldi Desktop/Android 3.3+, blocking level must be at least "Block Trackers"_
+
+Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscribe (includes online and **offline** malicious websites):
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-vivaldi.txt
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-vivaldi.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-vivaldi.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-vivaldi.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-vivaldi.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-vivaldi.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-vivaldi.txt
+
+</details>
+
+<br />
+
+Lite version (**online** links only):
+
+- https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-vivaldi-online.txt
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-vivaldi-online.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-vivaldi-online.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-vivaldi-online.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-vivaldi-online.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-vivaldi-online.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-vivaldi-online.txt
 
 </details>
 
