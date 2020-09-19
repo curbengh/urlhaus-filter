@@ -138,10 +138,12 @@ sed "1s/Blocklist/Blocklist (AdGuard Home)/" > "../urlhaus-filter-agh-online.txt
 
 cat "malware-domains-adguard-home.txt" "malware-url-top-domains.txt" | \
 sort | \
+sed '1 i\'"\n! BREAKING CHANGE (1 Oct 2020): AdGuard Home should use this blocklist https://gitlab.com/curben/urlhaus-filter#domain-based-adguard-home\n"'' | \
 sed '1 i\'"$COMMENT_ABP"'' > "../urlhaus-filter.txt"
 
 cat "malware-domains-online-adguard-home.txt" "malware-url-top-domains-online.txt" | \
 sort | \
+sed '1 i\'"\n! BREAKING CHANGE (1 Oct 2020): AdGuard Home should use this blocklist https://gitlab.com/curben/urlhaus-filter#domain-based-adguard-home\n"'' | \
 sed '1 i\'"$COMMENT_ABP"'' | \
 sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-online.txt"
 
@@ -177,14 +179,12 @@ sed "s/^/||/g" | \
 sed "s/$/\$document/g" > "malware-domains-online-vivaldi.txt"
 
 cat "malware-domains-vivaldi.txt" "malware-url-top-domains.txt" | \
-## to be removed
 sed "s/\$all$/\$document/g" | \
 sort | \
 sed '1 i\'"$COMMENT_ABP"'' | \
 sed "1s/Blocklist/Blocklist (Vivaldi)/" > "../urlhaus-filter-vivaldi.txt"
 
 cat "malware-domains-online-vivaldi.txt" "malware-url-top-domains-online.txt" | \
-## to be removed
 sed "s/\$all$/\$document/g" | \
 sort | \
 sed '1 i\'"$COMMENT_ABP"'' | \
