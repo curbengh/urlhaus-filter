@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Fri, 02 Oct 2020 12:10:32 UTC
+# Updated: Sat, 03 Oct 2020 00:10:43 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -628,6 +628,7 @@
 0.0.0.0 24hsuckhoe.com
 0.0.0.0 24kitten.com
 0.0.0.0 24linux.com
+0.0.0.0 24masr.com
 0.0.0.0 24mm.site
 0.0.0.0 24mmcsjobs.com
 0.0.0.0 24security.ro
@@ -2927,6 +2928,7 @@
 0.0.0.0 adwords-and-adsense.com
 0.0.0.0 adykurniawan.com
 0.0.0.0 adyxw.com
+0.0.0.0 adzon.in
 0.0.0.0 ae-photonics.ml
 0.0.0.0 ae.8dv.xyz
 0.0.0.0 ae.9vg.xyz
@@ -5408,6 +5410,7 @@
 0.0.0.0 anatoliaconstruction.ca
 0.0.0.0 anatoliadrilling.com
 0.0.0.0 anaviv.ro
+0.0.0.0 anawabighschool.com
 0.0.0.0 anayacontracting.ggbro.club
 0.0.0.0 anayoshida.com.br
 0.0.0.0 anb-product.com
@@ -7650,6 +7653,7 @@
 0.0.0.0 asvim.ru
 0.0.0.0 asw-edu.net
 0.0.0.0 aswad.shop
+0.0.0.0 aswebdevelopers.com
 0.0.0.0 asxcs.club
 0.0.0.0 asxshippingservice.com
 0.0.0.0 asxzb.xyz
@@ -10647,7 +10651,6 @@
 0.0.0.0 betaalbare-website.be
 0.0.0.0 betabangladesh.com
 0.0.0.0 betablanja.com
-0.0.0.0 betaborrachas.com.br
 0.0.0.0 betactecto.com
 0.0.0.0 betal-urfo.ru
 0.0.0.0 betaoptimexfreze.com
@@ -12146,6 +12149,7 @@
 0.0.0.0 bloombrainz.com
 0.0.0.0 bloomcareltd.co.uk
 0.0.0.0 bloomcommunityproject.org
+0.0.0.0 bloomestatelitigation.ca
 0.0.0.0 bloomflores.com
 0.0.0.0 bloomhomes.in
 0.0.0.0 bloomingbridal.com.au
@@ -16185,7 +16189,6 @@
 0.0.0.0 cheshiremarshals.co.uk
 0.0.0.0 cheshman.com
 0.0.0.0 chess-board.000webhostapp.com
-0.0.0.0 chessinslums.com
 0.0.0.0 chestandallergy.co.za
 0.0.0.0 chestersvideobar.com
 0.0.0.0 chestnutplacejp.com
@@ -23527,6 +23530,7 @@
 0.0.0.0 dolls.cayt.com
 0.0.0.0 dollsqueens.com
 0.0.0.0 dollydivas.co.uk
+0.0.0.0 dollyjain.me
 0.0.0.0 dolmetscherbueromueller.de
 0.0.0.0 dolmosalum01.000webhostapp.com
 0.0.0.0 doloroff.com
@@ -23870,6 +23874,7 @@
 0.0.0.0 down.ecepmotor.com
 0.0.0.0 down.ecubefile.com
 0.0.0.0 down.eebbk.net
+0.0.0.0 down.fqssc.com
 0.0.0.0 down.gogominer.com
 0.0.0.0 down.haote.com
 0.0.0.0 down.hognoob.se
@@ -24524,7 +24529,6 @@
 0.0.0.0 dtechgov.com
 0.0.0.0 dthakar.com
 0.0.0.0 dtin0r.com
-0.0.0.0 dtj.com.vn
 0.0.0.0 dtk-ad.co.th
 0.0.0.0 dtlight.fr
 0.0.0.0 dtmre.com
@@ -25474,7 +25478,6 @@
 0.0.0.0 ecotech.wegostation.com
 0.0.0.0 ecoteck24.ru
 0.0.0.0 ecoteplex.ru
-0.0.0.0 ecotonedigital.com
 0.0.0.0 ecotourisme-pourtous.com
 0.0.0.0 ecovi.com.mx
 0.0.0.0 ecovilavaledoeden.com.br
@@ -26123,6 +26126,7 @@
 0.0.0.0 elena-palomnik-tour.com
 0.0.0.0 elena.cursoswordpressmadrid.es
 0.0.0.0 elena.podolinski.com
+0.0.0.0 elenamag.com
 0.0.0.0 elenamagic.com
 0.0.0.0 elenashirshova.ru
 0.0.0.0 elenavon.com
@@ -26725,6 +26729,7 @@
 0.0.0.0 endoukensetsu.co.jp
 0.0.0.0 endresactuarial.com
 0.0.0.0 ends2.ga
+0.0.0.0 endtimeacademy.net
 0.0.0.0 enduringregret.org
 0.0.0.0 endustriyelcelikklavye.com
 0.0.0.0 enduuyyhgeetyasd.com
@@ -26873,6 +26878,7 @@
 0.0.0.0 enotecaviola.vpsrm.com
 0.0.0.0 enouia.com.au
 0.0.0.0 enpress-publisher.com
+0.0.0.0 enpro.com.vn
 0.0.0.0 enproces.cat
 0.0.0.0 enqcua.by.files.1drv.com
 0.0.0.0 enricodoeser.nl
@@ -30363,6 +30369,7 @@
 0.0.0.0 fondakzhol.kz
 0.0.0.0 fondation.itir.fr
 0.0.0.0 fondationsonatel.sn
+0.0.0.0 fondazionecasabianca.it
 0.0.0.0 fonder-salari.com
 0.0.0.0 fonderiemiliane.it
 0.0.0.0 fondtomafound.org
@@ -30427,7 +30434,6 @@
 0.0.0.0 forage.restaurant
 0.0.0.0 forbesriley.net
 0.0.0.0 forbiddenjewels.com.au
-0.0.0.0 forbika.com
 0.0.0.0 forcakes.ru
 0.0.0.0 forcaparaviver.com.br
 0.0.0.0 forcaperfeita.com.br
@@ -32836,6 +32842,7 @@
 0.0.0.0 ginnatic.com
 0.0.0.0 ginnitti.com
 0.0.0.0 ginuntekoa.co.il
+0.0.0.0 gio-kr.com.ua
 0.0.0.0 giocareers.com
 0.0.0.0 giochiinmagnagrecia.com
 0.0.0.0 giochinox.com.br
@@ -40639,6 +40646,7 @@
 0.0.0.0 ittarh.com
 0.0.0.0 ittehad-electric.com
 0.0.0.0 ittj.ir
+0.0.0.0 ittzz.cn
 0.0.0.0 itumelengsekhu.co.za
 0.0.0.0 ituoiviaggi.it
 0.0.0.0 iturcja.com.pl
@@ -41242,6 +41250,7 @@
 0.0.0.0 jbtrucking.co.uk
 0.0.0.0 jbutmv0l23iyy.com
 0.0.0.0 jbwedding.co.za
+0.0.0.0 jbweld.eu
 0.0.0.0 jbworker.com
 0.0.0.0 jbxxvjeud2378717.cavaleira4.fun
 0.0.0.0 jbxxvjeud6087907.cavaleira4.fun
@@ -41830,6 +41839,7 @@
 0.0.0.0 jobstudycf.000webhostapp.com
 0.0.0.0 jobsupdate.in
 0.0.0.0 jobwrite.com
+0.0.0.0 jobzingo.info
 0.0.0.0 jocenterkp.com
 0.0.0.0 jochen-schaefer.eu
 0.0.0.0 jochen.be
@@ -46767,7 +46777,6 @@
 0.0.0.0 lfenjoy.com
 0.0.0.0 lfoweiro129301.pw
 0.0.0.0 lfsm.co.za
-0.0.0.0 lft.orange.fr
 0.0.0.0 lfz5286.com
 0.0.0.0 lg-creacom.fr
 0.0.0.0 lg-signage.kz
@@ -51644,6 +51653,7 @@
 0.0.0.0 meng96.com
 0.0.0.0 mengather.com
 0.0.0.0 mengo.org
+0.0.0.0 mengshuzhai.com
 0.0.0.0 mengxiao7.com
 0.0.0.0 meninmedia.com.au
 0.0.0.0 menisija.si
@@ -53323,6 +53333,7 @@
 0.0.0.0 monarchbiotech.com
 0.0.0.0 monasura.com
 0.0.0.0 monatetour.co.za
+0.0.0.0 monbari.com
 0.0.0.0 monbo.dk
 0.0.0.0 moncheznous.ca
 0.0.0.0 mondainamsterdam.com
@@ -53852,6 +53863,7 @@
 0.0.0.0 mpounta-donuts.gr
 0.0.0.0 mpoweredbarbados.com
 0.0.0.0 mpp.sawchina.cn
+0.0.0.0 mppl.co.nz
 0.0.0.0 mprabin.com
 0.0.0.0 mpressmedia.net
 0.0.0.0 mpsday.la
@@ -59495,6 +59507,7 @@
 0.0.0.0 pakaexpressdeliveryservice.com
 0.0.0.0 pakardobi.co
 0.0.0.0 pakarkonveksi.com
+0.0.0.0 pakatshop.com
 0.0.0.0 pakcountrysecurity.com
 0.0.0.0 pakdeals.store
 0.0.0.0 pakdesighee.com
@@ -60366,6 +60379,7 @@
 0.0.0.0 pedagogika.ndpi.uz
 0.0.0.0 pedalpower.com.au
 0.0.0.0 pedantas.eu
+0.0.0.0 pedcentral.com.br
 0.0.0.0 pedia.uacme.co.in
 0.0.0.0 pediastudios.com
 0.0.0.0 pedicure-anita.nl
@@ -63279,6 +63293,7 @@
 0.0.0.0 przedszkolewbartagu.pl
 0.0.0.0 przedszkolezrodelko.edu.pl
 0.0.0.0 przelewy-24.com
+0.0.0.0 przemyslowouslugowa.pl
 0.0.0.0 przychodniaatut.pl
 0.0.0.0 przychodniajelczlaskowice.pl
 0.0.0.0 ps.com.vu
@@ -65075,6 +65090,7 @@
 0.0.0.0 ravadari.ir
 0.0.0.0 ravandband.com
 0.0.0.0 ravanestan.ir
+0.0.0.0 ravanshenasi007.ir
 0.0.0.0 ravaze.com
 0.0.0.0 ravedad.com
 0.0.0.0 ravefoto.de
@@ -72082,6 +72098,7 @@
 0.0.0.0 smxaduana.ec
 0.0.0.0 sn-ispa.com
 0.0.0.0 sn-technologies.com
+0.0.0.0 sn.thedylanstewart.com
 0.0.0.0 sn2studio.jp
 0.0.0.0 snacks4me.000webhostapp.com
 0.0.0.0 snacksfeed.com
@@ -72157,7 +72174,6 @@
 0.0.0.0 snpconsulting.com.au
 0.0.0.0 snprecords.com
 0.0.0.0 snrazavi.ir
-0.0.0.0 snrgroup.in
 0.0.0.0 snrpizza.com
 0.0.0.0 snrteknoloji.com
 0.0.0.0 snsdriver.com
@@ -73432,7 +73448,6 @@
 0.0.0.0 srt.oacat.com
 0.0.0.0 srt.skyworth.com
 0.0.0.0 srtechno.co.in
-0.0.0.0 srtms.in
 0.0.0.0 srujanovision.com
 0.0.0.0 srv-15.directserver.us
 0.0.0.0 srv-file9.gofile.io
@@ -75999,6 +76014,7 @@
 0.0.0.0 tampacigarroller.com
 0.0.0.0 tamparoofing.com
 0.0.0.0 tampaseo.com
+0.0.0.0 tampilbeda.id
 0.0.0.0 tamsu.website
 0.0.0.0 tamsuamy.com
 0.0.0.0 tamsys.net
@@ -77615,7 +77631,6 @@
 0.0.0.0 thealtilium.com
 0.0.0.0 theamericanaboriginal.com
 0.0.0.0 theamericannik.com
-0.0.0.0 theanalizo.com
 0.0.0.0 theanalysthandbook.com
 0.0.0.0 theantiqueriverside.com
 0.0.0.0 theanwarofficial.com
@@ -78013,6 +78028,7 @@
 0.0.0.0 thelooptravels.com
 0.0.0.0 thelordreignsministries.com
 0.0.0.0 thelotteriesresults.com
+0.0.0.0 thelovertheliar.com
 0.0.0.0 theluggagelady.com
 0.0.0.0 theluxestudio.co.uk
 0.0.0.0 theluxurytrainsofindia.com
@@ -79145,6 +79161,7 @@
 0.0.0.0 tokoagung.web.id
 0.0.0.0 tokobajuaisyah.com
 0.0.0.0 tokodipi.com
+0.0.0.0 tokojayacs.com
 0.0.0.0 tokojeanny.com
 0.0.0.0 tokokacaaluminiummurahjakarta.com
 0.0.0.0 tokokusidrap.com
@@ -82914,7 +82931,6 @@
 0.0.0.0 victoriousperchhotel.com
 0.0.0.0 victormanuelcazareslira.com
 0.0.0.0 victormartinezmoreno.es
-0.0.0.0 victorosolomon.com
 0.0.0.0 victorybed.in
 0.0.0.0 victorybijja.com
 0.0.0.0 victoryoutreachvallejo.com
@@ -83724,6 +83740,7 @@
 0.0.0.0 volcangrais.com
 0.0.0.0 volcanict.com
 0.0.0.0 voldprotekt.com
+0.0.0.0 volero.ca
 0.0.0.0 volgger.net
 0.0.0.0 volissos.gr
 0.0.0.0 volkanakbalik.com
@@ -87246,6 +87263,7 @@
 0.0.0.0 xyxyxyxyxyxyxywkworkforworldwifewide.duckdns.org
 0.0.0.0 xyz-ideas.com
 0.0.0.0 xyz.factshubz.com
+0.0.0.0 xyz.hxarasxg.xyz
 0.0.0.0 xyz123web.com
 0.0.0.0 xyzeee.ml
 0.0.0.0 xyzeeee.ga
