@@ -136,14 +136,12 @@ sed '1 i\'"$COMMENT_ABP"'' | \
 sed "1s/Malicious/Online Malicious/" | \
 sed "1s/Blocklist/Blocklist (AdGuard Home)/" > "../urlhaus-filter-agh-online.txt"
 
-cat "malware-domains-adguard-home.txt" "malware-url-top-domains.txt" | \
+cat "malware-domains.txt" "malware-url-top-domains.txt" | \
 sort | \
-sed '1 i\'"\n! BREAKING CHANGE (1 Oct 2020): AdGuard Home should use this blocklist https://gitlab.com/curben/urlhaus-filter#domain-based-adguard-home\n"'' | \
 sed '1 i\'"$COMMENT_ABP"'' > "../urlhaus-filter.txt"
 
-cat "malware-domains-online-adguard-home.txt" "malware-url-top-domains-online.txt" | \
+cat "malware-domains-online.txt" "malware-url-top-domains-online.txt" | \
 sort | \
-sed '1 i\'"\n! BREAKING CHANGE (1 Oct 2020): AdGuard Home should use this blocklist https://gitlab.com/curben/urlhaus-filter#domain-based-adguard-home\n"'' | \
 sed '1 i\'"$COMMENT_ABP"'' | \
 sed "1s/Malicious/Online Malicious/" > "../urlhaus-filter-online.txt"
 

@@ -60,7 +60,7 @@ Regular version contains >260K filters, do note that uBO can [easily handle](htt
 
 If you've installed the lite version but prefer to use the regular version, it's better to remove it beforehand. Having two versions at the same time won't cause any conflict issue, uBO can detect duplicate network filters and adjust accordingly, but it's a waste of your bandwidth.
 
-**AdGuard Home** users should use [this blocklist](#domain-based-adguard-home), compatibility with URL-based blocklist is retained temporarily until in 30 Sep 2020 (UTC).
+**AdGuard Home** users should use [this blocklist](#domain-based-adguard-home).
 
 ## URL-based (AdGuard)
 
