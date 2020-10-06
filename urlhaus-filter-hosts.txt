@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Mon, 05 Oct 2020 12:10:24 UTC
+# Updated: Tue, 06 Oct 2020 00:10:34 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -628,6 +628,7 @@
 0.0.0.0 24hsuckhoe.com
 0.0.0.0 24kitten.com
 0.0.0.0 24linux.com
+0.0.0.0 24masr.com
 0.0.0.0 24mm.site
 0.0.0.0 24mmcsjobs.com
 0.0.0.0 24security.ro
@@ -2358,7 +2359,6 @@
 0.0.0.0 acht-stuecken.de
 0.0.0.0 achuanchaolihai.cn
 0.0.0.0 aci.serabd.com
-0.0.0.0 aciitaly.com
 0.0.0.0 acilevarkadasi.com
 0.0.0.0 acilisbalon.com
 0.0.0.0 acimd.pt
@@ -3914,7 +3914,6 @@
 0.0.0.0 al-azharinternationalcollege.com
 0.0.0.0 al-bay.com
 0.0.0.0 al-falah.ir
-0.0.0.0 al-falaq.com
 0.0.0.0 al-hader.cf
 0.0.0.0 al-ikhwan.web.id
 0.0.0.0 al-jashore.org.bd
@@ -4485,6 +4484,7 @@
 0.0.0.0 allhomechiangmai.com
 0.0.0.0 allhouseappliances.com
 0.0.0.0 alliance-founex.ch
+0.0.0.0 alliance-oilfield.com
 0.0.0.0 alliance-rnd.com
 0.0.0.0 alliance-vent.ru
 0.0.0.0 alliancedirect.com
@@ -8201,7 +8201,6 @@
 0.0.0.0 autopricep.kz
 0.0.0.0 autopriep.kz
 0.0.0.0 autoprof.es
-0.0.0.0 autoreduc.com
 0.0.0.0 autoregressed.com
 0.0.0.0 autorem.by
 0.0.0.0 autorepairinriorancho.com
@@ -11164,7 +11163,6 @@
 0.0.0.0 binsyukle.org
 0.0.0.0 binta.xyz
 0.0.0.0 bintangbarutama.co.id
-0.0.0.0 bintangremaja.com
 0.0.0.0 bintec.pe
 0.0.0.0 binupload.com
 0.0.0.0 bio-nerve.co.id
@@ -12801,7 +12799,6 @@
 0.0.0.0 bourges.digi-services.fr
 0.0.0.0 boutchou-a-bord.be
 0.0.0.0 boutimslea.com
-0.0.0.0 boutique-amicale-eleves-envt.ovh
 0.0.0.0 boutique-amour.jp
 0.0.0.0 boutique.kenworthmontreal.ca
 0.0.0.0 boutiquebeunique.com
@@ -14423,7 +14420,6 @@
 0.0.0.0 campuscables.com
 0.0.0.0 campuscamarafp.com
 0.0.0.0 campusfinancial.net
-0.0.0.0 campusgate.in
 0.0.0.0 campuslincoln.com.ar
 0.0.0.0 campusthreadph.com
 0.0.0.0 campustunisie.info
@@ -16360,7 +16356,6 @@
 0.0.0.0 chiuwes.com
 0.0.0.0 chivangbavi.com
 0.0.0.0 chivarov.de
-0.0.0.0 chiwextech.com
 0.0.0.0 chixg.com
 0.0.0.0 chiyababu.000webhostapp.com
 0.0.0.0 chizzyworld.eu
@@ -24552,6 +24547,7 @@
 0.0.0.0 duansunshinecitys.com
 0.0.0.0 duantrungnguyen.com
 0.0.0.0 duanvinhomeshanoi.net
+0.0.0.0 duarterufino.com.br
 0.0.0.0 dub-dub.com
 0.0.0.0 dubai-homes.ae
 0.0.0.0 dubaidreamsadventure.com
@@ -26292,6 +26288,7 @@
 0.0.0.0 elmont38.ru
 0.0.0.0 elmorromid.com
 0.0.0.0 elmotsan.com.tr
+0.0.0.0 elmtowncenter.com
 0.0.0.0 elmundodelareposteria.com
 0.0.0.0 elmundosurdo.com
 0.0.0.0 elnabakery.com
@@ -26867,6 +26864,7 @@
 0.0.0.0 ensanoclothing.com
 0.0.0.0 ensanz.com
 0.0.0.0 ensemblearchitects.com
+0.0.0.0 enserve.co.uk
 0.0.0.0 enseta.com
 0.0.0.0 ensignsconsultants.com
 0.0.0.0 ensleyortho.com
@@ -29829,7 +29827,6 @@
 0.0.0.0 fiscaldopovo.online
 0.0.0.0 fischbach-miller.sk
 0.0.0.0 fischer-itsolutions.de
-0.0.0.0 fischer.com.br
 0.0.0.0 fischereiverein-dotternhausen.de
 0.0.0.0 fischfreunde.net
 0.0.0.0 fish-ua.com
@@ -32241,6 +32238,7 @@
 0.0.0.0 gencascilar.com
 0.0.0.0 gencbafralilar.com
 0.0.0.0 gence.com.vn
+0.0.0.0 gencre.com.mx
 0.0.0.0 genctur.az
 0.0.0.0 gencturkiye.net
 0.0.0.0 genealogievanslochteren.nl
@@ -39562,7 +39560,6 @@
 0.0.0.0 institutobiodelta.com.br
 0.0.0.0 institutocesar.com
 0.0.0.0 institutodeidiomas.ulp.edu.ar
-0.0.0.0 institutodocorretor.com.br
 0.0.0.0 institutodrucker.edu.mx
 0.0.0.0 institutohipocrates.com
 0.0.0.0 institutohumanus.org.br
@@ -41930,7 +41927,6 @@
 0.0.0.0 joker4.info
 0.0.0.0 jokercorp.com
 0.0.0.0 jokerjumpers.com
-0.0.0.0 jokersbusiness.com
 0.0.0.0 jokokrimpen.nl
 0.0.0.0 jolange.com.au
 0.0.0.0 jolansoki.site
@@ -44686,6 +44682,7 @@
 0.0.0.0 kore.lk
 0.0.0.0 koreanahaus.com
 0.0.0.0 koreanpronyc.com
+0.0.0.0 koreansmart.ga
 0.0.0.0 korechok.ru
 0.0.0.0 koreclinical-001-site4.itempurl.com
 0.0.0.0 korekortviborg.dk
@@ -49719,6 +49716,7 @@
 0.0.0.0 makeyourbest.com
 0.0.0.0 makeyourinvitepartners.ml
 0.0.0.0 makeyourmarkonline.net
+0.0.0.0 makhmalbaf.com
 0.0.0.0 makhmutov.com
 0.0.0.0 makhsoos.ir
 0.0.0.0 makijaz-permanentny.sax.pl
@@ -52386,6 +52384,7 @@
 0.0.0.0 millenniumsi-news.com
 0.0.0.0 millenniumusic.com
 0.0.0.0 millenoil.com
+0.0.0.0 miller-meats.com
 0.0.0.0 millerscales.com
 0.0.0.0 millerscornermt.com
 0.0.0.0 milliacosmetics.com
@@ -56261,7 +56260,6 @@
 0.0.0.0 nghiadan.com
 0.0.0.0 nghiataman.com
 0.0.0.0 nghiencauca.com
-0.0.0.0 nghienluotweb.com
 0.0.0.0 nginxtest.kaisquare.com
 0.0.0.0 ngitpl.com
 0.0.0.0 ngiveu.com
@@ -62172,6 +62170,7 @@
 0.0.0.0 potrethukum.com
 0.0.0.0 potterspots.com
 0.0.0.0 potuansdqwbe.com
+0.0.0.0 pouladtan.ir
 0.0.0.0 poultry.com.ng
 0.0.0.0 pourcel.eu
 0.0.0.0 pouring.ac.ug
@@ -62722,7 +62721,6 @@
 0.0.0.0 pro-rec.event-pro.com.ua
 0.0.0.0 pro-sealsolutions.com
 0.0.0.0 pro-structure.ru
-0.0.0.0 pro-teammt.ru
 0.0.0.0 pro-tekconsulting.org
 0.0.0.0 pro-tone.ru
 0.0.0.0 pro-tvoydom.ru
@@ -65408,6 +65406,7 @@
 0.0.0.0 redbrickestate.ru
 0.0.0.0 redcarpet.vn
 0.0.0.0 redchillicrackers.com
+0.0.0.0 redciencia.cu
 0.0.0.0 redclean.co.uk
 0.0.0.0 redcourt.net
 0.0.0.0 redcross-donate.org
@@ -78557,6 +78556,7 @@
 0.0.0.0 threewheelbicycles.com
 0.0.0.0 threololic.com
 0.0.0.0 threxng.com
+0.0.0.0 thriftswapapp.tk
 0.0.0.0 thrillentertainmentgroup.com
 0.0.0.0 thrillerhub.sotoriagroup.com
 0.0.0.0 thronesenglishgame.com
@@ -81181,6 +81181,7 @@
 0.0.0.0 uleiuri-motor.ro
 0.0.0.0 ulenit.com
 0.0.0.0 ulikeuploads.ml
+0.0.0.0 ulink.com.tw
 0.0.0.0 ulishome.de
 0.0.0.0 ulisse.dk
 0.0.0.0 uloab.com
@@ -82203,6 +82204,7 @@
 0.0.0.0 valerieheslop.co.uk
 0.0.0.0 valerii.org
 0.0.0.0 valerioolivaforestal.com.ar
+0.0.0.0 valery.ir
 0.0.0.0 valesports.com.br
 0.0.0.0 valesydescuentos.info
 0.0.0.0 valetking.myap.co.za
@@ -82980,7 +82982,6 @@
 0.0.0.0 videosonik.com.mk
 0.0.0.0 videossources.com
 0.0.0.0 videoswebcammsn.free.fr
-0.0.0.0 videract.com
 0.0.0.0 vides.org
 0.0.0.0 videsrona.com
 0.0.0.0 vidhamastudios.com
@@ -83402,6 +83403,7 @@
 0.0.0.0 visitcounter.motoresygeneradores.com
 0.0.0.0 visitcova.com
 0.0.0.0 visite-grece.com
+0.0.0.0 visitelam.com
 0.0.0.0 visithavana.co
 0.0.0.0 visitingangels-bshw.com
 0.0.0.0 visitingangels-cnhy.com
