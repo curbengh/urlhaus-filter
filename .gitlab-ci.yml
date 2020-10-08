@@ -1,5 +1,6 @@
 stages:
   - deploy_stage
+  - pages_stage
   - failed_stage
 
 image: alpine:latest # Use the latest version of Alpine Linux docker image
@@ -81,3 +82,20 @@ failed_job:
       when: on_failure
     - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "web"'
       when: on_failure
+
+pages:
+  stage: pages_stage
+
+  script:
+    - mkdir -p public/
+    - cp urlhaus-filter-* public/
+
+  artifacts:
+    paths:
+      - public
+
+  rules:
+    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "schedule"'
+      when: always
+    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "web"'
+      when: always
