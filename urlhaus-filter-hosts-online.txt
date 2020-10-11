@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sun, 11 Oct 2020 00:10:34 UTC
+# Updated: Sun, 11 Oct 2020 12:10:36 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -20,6 +20,7 @@
 0.0.0.0 58yuesao.top
 0.0.0.0 7p22jz.chokun.ru
 0.0.0.0 7th-club.com
+0.0.0.0 87du.vip
 0.0.0.0 8poieq.bn.files.1drv.com
 0.0.0.0 aahnaturals.net
 0.0.0.0 abass.ir
@@ -47,11 +48,13 @@
 0.0.0.0 agencia.fal.cl
 0.0.0.0 agriex.ca
 0.0.0.0 agsir.com
+0.0.0.0 agv.top
 0.0.0.0 ahansatan.com
 0.0.0.0 ahappydesigner.com
 0.0.0.0 aituetraining.cl
 0.0.0.0 ajantaresort.com
 0.0.0.0 ajstudiollc.com
+0.0.0.0 al-muniir.com
 0.0.0.0 al-wahd.com
 0.0.0.0 alarabiya.com.ly
 0.0.0.0 alemelektronik.com
@@ -134,10 +137,8 @@
 0.0.0.0 blog.hlwen.com
 0.0.0.0 blog.traun.cn
 0.0.0.0 bnmintl.com
-0.0.0.0 bnqzjy.cn
 0.0.0.0 bodenstein.co.za
 0.0.0.0 bokuraga-yell.com
-0.0.0.0 bolidar.dnset.com
 0.0.0.0 bomkazi.co.za
 0.0.0.0 bonyanet.com
 0.0.0.0 booksearch.com
@@ -162,6 +163,7 @@
 0.0.0.0 c0140529.ferozo.com
 0.0.0.0 caballo.com.au
 0.0.0.0 cacapavaonline.sdserver144.com.br
+0.0.0.0 caeliinteriores.com.br
 0.0.0.0 caipa.net.cn
 0.0.0.0 cairocad.com
 0.0.0.0 calledtochange.org
@@ -179,7 +181,6 @@
 0.0.0.0 ccsau.com
 0.0.0.0 cd.textfiles.com
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cebucoolstuff.com
 0.0.0.0 cellas.sk
 0.0.0.0 certrill.top
@@ -200,7 +201,6 @@
 0.0.0.0 cjvabogados.com
 0.0.0.0 cleanbydesignllc.com
 0.0.0.0 clearwaterriveroutfitting.com
-0.0.0.0 cloudeyehosting.000webhostapp.com
 0.0.0.0 codereference.mcssan.com
 0.0.0.0 cognitec.org
 0.0.0.0 cojestgrane.simplicitygames.pl
@@ -227,6 +227,7 @@
 0.0.0.0 crease-resistant-al.000webhostapp.com
 0.0.0.0 creationskateboards.com
 0.0.0.0 creativeworld.in
+0.0.0.0 cricketodds.in
 0.0.0.0 criterianexpress.com
 0.0.0.0 crittersbythebay.com
 0.0.0.0 cse-engineer.com
@@ -338,7 +339,6 @@
 0.0.0.0 earthnet.mx
 0.0.0.0 eataroundbangkok.com
 0.0.0.0 ebcsb.net
-0.0.0.0 edoencuestasnps.com
 0.0.0.0 efeatasoy.com
 0.0.0.0 electronicsvibes.com
 0.0.0.0 elektro.untirta.ac.id
@@ -385,7 +385,6 @@
 0.0.0.0 flowpressurewashing.com
 0.0.0.0 flyingbuddhadesign.com
 0.0.0.0 fmcav.com
-0.0.0.0 fmjstorage.com
 0.0.0.0 forestanalytics.net
 0.0.0.0 fotobooth.at
 0.0.0.0 fotoobjetivo.com
@@ -424,7 +423,6 @@
 0.0.0.0 goldoni.co.uk
 0.0.0.0 gooddns.ir
 0.0.0.0 grafchekloder.rebatesrule.net
-0.0.0.0 gricoat.maderasyopciones.com
 0.0.0.0 grupoinmare.com
 0.0.0.0 gruposelt.000webhostapp.com
 0.0.0.0 grzegorzkucharski.com
@@ -489,9 +487,9 @@
 0.0.0.0 incrediblepixels.com
 0.0.0.0 incredicole.com
 0.0.0.0 indyoverheaddoors.com
+0.0.0.0 infaye.cn
 0.0.0.0 infoquick.co.uk
 0.0.0.0 ingyouth.com
-0.0.0.0 ini.egkj.com
 0.0.0.0 inigbiseijfji.ru
 0.0.0.0 int-stc.com
 0.0.0.0 interbus.cz
@@ -557,6 +555,7 @@
 0.0.0.0 kyric.com
 0.0.0.0 laboratbahasa.com
 0.0.0.0 lagera.com
+0.0.0.0 laiyifaba.com
 0.0.0.0 laladiwanchandmodernwrestlingandyogacentre.com
 0.0.0.0 lameguard.ru
 0.0.0.0 lami-jo.com
@@ -570,6 +569,7 @@
 0.0.0.0 learningcomputing.org
 0.0.0.0 legend.nu
 0.0.0.0 libya-info.com
+0.0.0.0 licoresseven.com
 0.0.0.0 lidoraggiodisole.it
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 line.tdrcoastalhomes.com
@@ -618,6 +618,7 @@
 0.0.0.0 masque.es
 0.0.0.0 master-cert.com
 0.0.0.0 materialescantu.com
+0.0.0.0 matlockareau3a.uk
 0.0.0.0 mattayom31.go.th
 0.0.0.0 mavhengs.co.za
 0.0.0.0 mbgrm.com
@@ -649,7 +650,6 @@
 0.0.0.0 microcomm-group.com
 0.0.0.0 mikrokaynakmerkezi.com
 0.0.0.0 millenium-rj.com
-0.0.0.0 minershallmuseum.com
 0.0.0.0 minhkiet.com.vn
 0.0.0.0 mirror.mypage.sk
 0.0.0.0 mis.nbcc.ac.th
@@ -670,7 +670,6 @@
 0.0.0.0 mozay.dhcp.biz
 0.0.0.0 mteng.mmj7.com
 0.0.0.0 mugexinxi.com
-0.0.0.0 multitiendagc.com
 0.0.0.0 muscleman.co.za
 0.0.0.0 must-in.com
 0.0.0.0 mvb.kz
@@ -779,6 +778,7 @@
 0.0.0.0 pipesplumbingltd.com
 0.0.0.0 pixnbeats.com
 0.0.0.0 planktonik.hu
+0.0.0.0 playwithme.emailonlinemoney.com
 0.0.0.0 ponik.fartit.com
 0.0.0.0 posmicrosystems.com
 0.0.0.0 pramanaartharaharja.com
@@ -795,6 +795,7 @@
 0.0.0.0 psyberhawk.com
 0.0.0.0 publicidad.fal.cl
 0.0.0.0 pujashoppe.in
+0.0.0.0 pumppazh.com
 0.0.0.0 push.qnotice.com
 0.0.0.0 pvcprinting.co.uk
 0.0.0.0 pxid360.com
@@ -848,7 +849,6 @@
 0.0.0.0 rulipin.000webhostapp.com
 0.0.0.0 ryanzaatari-001-site6.btempurl.com
 0.0.0.0 ryner.net.au
-0.0.0.0 s-post.top
 0.0.0.0 s.51shijuan.com
 0.0.0.0 saanj.in
 0.0.0.0 sabeelmedia.in
@@ -859,8 +859,6 @@
 0.0.0.0 saintignatiouscollege.co.za
 0.0.0.0 salazarbastos.com
 0.0.0.0 saluvite.com
-0.0.0.0 samasamak.ir
-0.0.0.0 samimtech.com
 0.0.0.0 sampling-group.com
 0.0.0.0 sandovalgraphics.com
 0.0.0.0 santyago.org
@@ -882,7 +880,6 @@
 0.0.0.0 servicemhkd.myvnc.com
 0.0.0.0 servicemhkd80.myvnc.com
 0.0.0.0 sff3d.com
-0.0.0.0 sh.m.sxhpyy.com
 0.0.0.0 shahrakyar.com
 0.0.0.0 shahtoba.faqserv.com
 0.0.0.0 sharkrigs.com
@@ -903,8 +900,8 @@
 0.0.0.0 sinotes.com
 0.0.0.0 sistaqui.com
 0.0.0.0 sistelligent.com
-0.0.0.0 sittingattheairport.net
 0.0.0.0 siyahkalemresim.com
+0.0.0.0 sjhoops.com
 0.0.0.0 skeptic.za.org
 0.0.0.0 skullmedia.de
 0.0.0.0 skyscan.com
@@ -959,6 +956,7 @@
 0.0.0.0 sysypron.com
 0.0.0.0 szwrs.com
 0.0.0.0 szxypt.com
+0.0.0.0 t-post.top
 0.0.0.0 t.honker.info
 0.0.0.0 talau.com.br
 0.0.0.0 taltus.co.uk
@@ -968,6 +966,7 @@
 0.0.0.0 tarynminterlaw.com
 0.0.0.0 taxpos.com
 0.0.0.0 tcpjusticedenied.org
+0.0.0.0 tcy.198424.com
 0.0.0.0 tech332.synology.me
 0.0.0.0 teleargentina.com
 0.0.0.0 telescopelms.com
@@ -979,7 +978,6 @@
 0.0.0.0 test.qihchina.com
 0.0.0.0 testserver23434443.com
 0.0.0.0 tf.sxhpyy120.com
-0.0.0.0 tgmobile.es
 0.0.0.0 thaisell.com
 0.0.0.0 thammynhp.com
 0.0.0.0 tharringtonsponsorship.com
@@ -991,7 +989,6 @@
 0.0.0.0 theprivatefinance.com
 0.0.0.0 theprizeguys.uk
 0.0.0.0 thestudio-ct.co.uk
-0.0.0.0 theveil.com.my
 0.0.0.0 thoko.co.ke
 0.0.0.0 thosewebbs.com
 0.0.0.0 thulilekhanyile.co.za
@@ -1095,17 +1092,14 @@
 0.0.0.0 xiaowang.work
 0.0.0.0 xiaoxiangkeji.top
 0.0.0.0 xiheiufisd.su
-0.0.0.0 xsdhly.com
 0.0.0.0 xtremeforumz.com
 0.0.0.0 xxa.tamperin.com
 0.0.0.0 yeichner.com
-0.0.0.0 yeumoitruong.vn
 0.0.0.0 ylgchina.com
 0.0.0.0 yolticaxcan.com
 0.0.0.0 youthhub.tk
 0.0.0.0 yp.hnggzyjy.cn
 0.0.0.0 yy31t.chokun.ru
-0.0.0.0 z.mumun.cn
 0.0.0.0 zagruz.dnset.com
 0.0.0.0 zagruz.toh.info
 0.0.0.0 zagruz.zyns.com
