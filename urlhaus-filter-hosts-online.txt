@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sun, 11 Oct 2020 12:10:36 UTC
+# Updated: Mon, 12 Oct 2020 00:10:40 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -26,7 +26,6 @@
 0.0.0.0 abass.ir
 0.0.0.0 abcd.bg
 0.0.0.0 abdzwuazduroowdufa.ru
-0.0.0.0 abosibarni.com
 0.0.0.0 aboveandbelow.com.au
 0.0.0.0 accessyouraudience.com
 0.0.0.0 accmap.cn
@@ -48,7 +47,6 @@
 0.0.0.0 agencia.fal.cl
 0.0.0.0 agriex.ca
 0.0.0.0 agsir.com
-0.0.0.0 agv.top
 0.0.0.0 ahansatan.com
 0.0.0.0 ahappydesigner.com
 0.0.0.0 aituetraining.cl
@@ -77,6 +75,7 @@
 0.0.0.0 angthong.nfe.go.th
 0.0.0.0 ankitagroup.in
 0.0.0.0 annabphotography.co.uk
+0.0.0.0 antecedents.org
 0.0.0.0 anvietpro.com
 0.0.0.0 anysbergbiltong.co.za
 0.0.0.0 apoolcondo.com
@@ -115,7 +114,6 @@
 0.0.0.0 beenakker.eu
 0.0.0.0 bekape.co.id
 0.0.0.0 bendys.com.au
-0.0.0.0 benkussettime.com
 0.0.0.0 best.jayphutt.com
 0.0.0.0 bestarget.in
 0.0.0.0 bestcycleindiaguru.in
@@ -134,11 +132,11 @@
 0.0.0.0 blockme.ug
 0.0.0.0 blog.aiyunwei.top
 0.0.0.0 blog.anseeing.com
-0.0.0.0 blog.hlwen.com
 0.0.0.0 blog.traun.cn
 0.0.0.0 bnmintl.com
 0.0.0.0 bodenstein.co.za
 0.0.0.0 bokuraga-yell.com
+0.0.0.0 bolidar.dnset.com
 0.0.0.0 bomkazi.co.za
 0.0.0.0 bonyanet.com
 0.0.0.0 booksearch.com
@@ -181,6 +179,7 @@
 0.0.0.0 ccsau.com
 0.0.0.0 cd.textfiles.com
 0.0.0.0 cdaonline.com.ar
+0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cebucoolstuff.com
 0.0.0.0 cellas.sk
 0.0.0.0 certrill.top
@@ -233,7 +232,6 @@
 0.0.0.0 cse-engineer.com
 0.0.0.0 csnserver.com
 0.0.0.0 ctr.com.my
-0.0.0.0 cuacuonsieure.com
 0.0.0.0 cuadros.pe
 0.0.0.0 cupgel.com
 0.0.0.0 currantmedia.com
@@ -271,7 +269,6 @@
 0.0.0.0 degisimkalip.com.tr
 0.0.0.0 dekovizyon.com
 0.0.0.0 delfirearms.com
-0.0.0.0 dellenbene.de
 0.0.0.0 demo.leoprim.com
 0.0.0.0 dental.xiaoxiao.media
 0.0.0.0 dentalalliance.se
@@ -282,8 +279,8 @@
 0.0.0.0 dev-diplomatique.primaestudio.com
 0.0.0.0 dev.academiacrcafe.com
 0.0.0.0 dev.sebpo.net
+0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
-0.0.0.0 dg.mumun.cn
 0.0.0.0 dgecolesdepolice.bf
 0.0.0.0 dheeranet.com
 0.0.0.0 diesner.de
@@ -297,6 +294,7 @@
 0.0.0.0 dl.198424.com
 0.0.0.0 dl.iqilie.com
 0.0.0.0 dl.rina-roleplay.com
+0.0.0.0 dl.svcupdate.com
 0.0.0.0 dl.zkytech.com
 0.0.0.0 dlist.iqilie.com
 0.0.0.0 dnn.alibuf.com
@@ -304,7 +302,6 @@
 0.0.0.0 dockerupdate.anondns.net
 0.0.0.0 dodsonimaging.com
 0.0.0.0 doktorlarrehberim.com
-0.0.0.0 domiciliazionelegaleamilano.it
 0.0.0.0 domiciliazionesedelegalerecapitopostalemilano.it
 0.0.0.0 donghobinhminh.com
 0.0.0.0 doodahlabs.com
@@ -315,7 +312,6 @@
 0.0.0.0 down.soft.bbkantu.com
 0.0.0.0 down.webbora.com
 0.0.0.0 down1.arpun.com
-0.0.0.0 downlo.vaixia.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.exrnybuf.cn
 0.0.0.0 download.pdf00.cn
@@ -339,6 +335,7 @@
 0.0.0.0 earthnet.mx
 0.0.0.0 eataroundbangkok.com
 0.0.0.0 ebcsb.net
+0.0.0.0 edoencuestasnps.com
 0.0.0.0 efeatasoy.com
 0.0.0.0 electronicsvibes.com
 0.0.0.0 elektro.untirta.ac.id
@@ -487,9 +484,9 @@
 0.0.0.0 incrediblepixels.com
 0.0.0.0 incredicole.com
 0.0.0.0 indyoverheaddoors.com
-0.0.0.0 infaye.cn
 0.0.0.0 infoquick.co.uk
 0.0.0.0 ingyouth.com
+0.0.0.0 ini.egkj.com
 0.0.0.0 inigbiseijfji.ru
 0.0.0.0 int-stc.com
 0.0.0.0 interbus.cz
@@ -555,11 +552,9 @@
 0.0.0.0 kyric.com
 0.0.0.0 laboratbahasa.com
 0.0.0.0 lagera.com
-0.0.0.0 laiyifaba.com
 0.0.0.0 laladiwanchandmodernwrestlingandyogacentre.com
 0.0.0.0 lameguard.ru
 0.0.0.0 lami-jo.com
-0.0.0.0 lapapeteria.at
 0.0.0.0 laptopsservicecenter.in
 0.0.0.0 lblcomputacion.com
 0.0.0.0 lcmsystem.com
@@ -607,7 +602,6 @@
 0.0.0.0 manhtien.net
 0.0.0.0 mansanz.es
 0.0.0.0 marialzlp.000webhostapp.com
-0.0.0.0 maricarmenporfavor.es
 0.0.0.0 markalsf.ru
 0.0.0.0 markalsk.ru
 0.0.0.0 markbess.com
@@ -650,6 +644,7 @@
 0.0.0.0 microcomm-group.com
 0.0.0.0 mikrokaynakmerkezi.com
 0.0.0.0 millenium-rj.com
+0.0.0.0 minershallmuseum.com
 0.0.0.0 minhkiet.com.vn
 0.0.0.0 mirror.mypage.sk
 0.0.0.0 mis.nbcc.ac.th
@@ -670,6 +665,7 @@
 0.0.0.0 mozay.dhcp.biz
 0.0.0.0 mteng.mmj7.com
 0.0.0.0 mugexinxi.com
+0.0.0.0 multitiendagc.com
 0.0.0.0 muscleman.co.za
 0.0.0.0 must-in.com
 0.0.0.0 mvb.kz
@@ -680,7 +676,6 @@
 0.0.0.0 mynydd-ednyfed-countryhouse.co.uk
 0.0.0.0 mypolymers.cn
 0.0.0.0 mythikall.com
-0.0.0.0 mytrains.net
 0.0.0.0 mywp.asia
 0.0.0.0 n-brake.com
 0.0.0.0 nad-solution.com
@@ -812,7 +807,9 @@
 0.0.0.0 ramec.com.au
 0.0.0.0 rangtreem.net
 0.0.0.0 ranking-site.de
+0.0.0.0 ras.ieeensu.org
 0.0.0.0 ravenproductionsltd.com
+0.0.0.0 raybadenergy.com
 0.0.0.0 rc.ixiaoyang.cn
 0.0.0.0 readytalk.github.io
 0.0.0.0 real-song.tjmedia.co.kr
@@ -966,8 +963,6 @@
 0.0.0.0 tarynminterlaw.com
 0.0.0.0 taxpos.com
 0.0.0.0 tcpjusticedenied.org
-0.0.0.0 tcy.198424.com
-0.0.0.0 tech332.synology.me
 0.0.0.0 teleargentina.com
 0.0.0.0 telescopelms.com
 0.0.0.0 telesys.co.in
@@ -976,7 +971,6 @@
 0.0.0.0 tessaract.be
 0.0.0.0 tessrobins.com
 0.0.0.0 test.qihchina.com
-0.0.0.0 testserver23434443.com
 0.0.0.0 tf.sxhpyy120.com
 0.0.0.0 thaisell.com
 0.0.0.0 thammynhp.com
@@ -989,6 +983,7 @@
 0.0.0.0 theprivatefinance.com
 0.0.0.0 theprizeguys.uk
 0.0.0.0 thestudio-ct.co.uk
+0.0.0.0 theveil.com.my
 0.0.0.0 thoko.co.ke
 0.0.0.0 thosewebbs.com
 0.0.0.0 thulilekhanyile.co.za
@@ -1050,9 +1045,9 @@
 0.0.0.0 vinvent.in
 0.0.0.0 vipi.co.ke
 0.0.0.0 vivationdesign.com
+0.0.0.0 voguefitz.com
 0.0.0.0 voobzfreight.co.za
 0.0.0.0 vqpr.com
-0.0.0.0 vrajlal-ambaliya.com
 0.0.0.0 vrindapublicschool.com
 0.0.0.0 vuatritue.com
 0.0.0.0 wa3idoun.com
@@ -1087,9 +1082,7 @@
 0.0.0.0 ws852.com
 0.0.0.0 wsg.com.sg
 0.0.0.0 wuguo.vip
-0.0.0.0 wwww-1301292677.file.myqcloud.com
 0.0.0.0 xanadudigital.com
-0.0.0.0 xiaowang.work
 0.0.0.0 xiaoxiangkeji.top
 0.0.0.0 xiheiufisd.su
 0.0.0.0 xtremeforumz.com
@@ -1106,7 +1099,6 @@
 0.0.0.0 zedonliuhbcgygycgge7w.webredirect.org
 0.0.0.0 ziliao.1008691.com
 0.0.0.0 zj.9553.com
-0.0.0.0 zoyaz.co.uk
 0.0.0.0 zsinstrument.com
 0.0.0.0 zsstart.com
 0.0.0.0 zucraft.com
