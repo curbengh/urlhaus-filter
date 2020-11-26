@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 26 Nov 2020 00:10:44 UTC
+# Updated: Thu, 26 Nov 2020 12:11:11 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -446,6 +446,7 @@
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
 0.0.0.0 2.toemobra.com.br
+0.0.0.0 2.top4top.io
 0.0.0.0 2.u0135364.z8.ru
 0.0.0.0 2000aviation.com
 0.0.0.0 2000kumdo.com
@@ -1092,6 +1093,7 @@
 0.0.0.0 4hourbook.com
 0.0.0.0 4house.co
 0.0.0.0 4hsafetyksa.com
+0.0.0.0 4i7i.com
 0.0.0.0 4im.us
 0.0.0.0 4ingroup.com
 0.0.0.0 4jt4l032ayqiw.com
@@ -1177,7 +1179,6 @@
 0.0.0.0 518meeker.com
 0.0.0.0 518td.cn
 0.0.0.0 518vps.com
-0.0.0.0 51aiwan.com
 0.0.0.0 51az.com.cn
 0.0.0.0 51bairen.com
 0.0.0.0 51laserclean.com
@@ -2917,7 +2918,6 @@
 0.0.0.0 adroitlyadvertising.com
 0.0.0.0 adrolling.co.uk
 0.0.0.0 ads.actmol.by
-0.0.0.0 ads.hanggiadinh.com
 0.0.0.0 ads.kalabisim.com
 0.0.0.0 ads.live
 0.0.0.0 adsapomg.space
@@ -8227,7 +8227,6 @@
 0.0.0.0 atta2tata.monster
 0.0.0.0 attach.66rpg.com
 0.0.0.0 attach2.mail.daumcdnr.com
-0.0.0.0 attack.s2lol.com
 0.0.0.0 attack.ucoz.ae
 0.0.0.0 attackplanr.com
 0.0.0.0 attaqwapreneur.com
@@ -12510,6 +12509,7 @@
 0.0.0.0 blog.thefurnituremarket.co.uk
 0.0.0.0 blog.thejobstack.com
 0.0.0.0 blog.thelmh.top
+0.0.0.0 blog.theodo.com
 0.0.0.0 blog.thewebcake.com
 0.0.0.0 blog.thoai.vn
 0.0.0.0 blog.threadless.com
@@ -12529,7 +12529,6 @@
 0.0.0.0 blog.ucuracak.com
 0.0.0.0 blog.ulyss.co
 0.0.0.0 blog.undostres.com.mx
-0.0.0.0 blog.upsproutmedia.com
 0.0.0.0 blog.urbanadventures.com
 0.0.0.0 blog.urcours.com
 0.0.0.0 blog.utoohome.in
@@ -17953,7 +17952,6 @@
 0.0.0.0 cloud.hollweck.it
 0.0.0.0 cloud.kryptonia.fr
 0.0.0.0 cloud.patrika.com
-0.0.0.0 cloud.s2lol.com
 0.0.0.0 cloud.wmsinfo.com.br
 0.0.0.0 cloud.xenoris.fr
 0.0.0.0 cloud9bray.com
@@ -20728,7 +20726,6 @@
 0.0.0.0 d.powerofwish.com
 0.0.0.0 d.teamworx.ph
 0.0.0.0 d.techmartbd.com
-0.0.0.0 d.top4top.io
 0.0.0.0 d.top4top.net
 0.0.0.0 d04.data39.helldata.com
 0.0.0.0 d1.amobbs.com
@@ -23153,7 +23150,6 @@
 0.0.0.0 dgkawaichi.com
 0.0.0.0 dgkhj.ru
 0.0.0.0 dglass.cl
-0.0.0.0 dgnet.com.br
 0.0.0.0 dgnj.cn
 0.0.0.0 dgpratomo.com
 0.0.0.0 dgreitkelis.lt
@@ -23489,6 +23485,7 @@
 0.0.0.0 digihop.cyou
 0.0.0.0 digiiital.co.uk
 0.0.0.0 digikow.000webhostapp.com
+0.0.0.0 digilander.libero.it
 0.0.0.0 digileads.ae
 0.0.0.0 digilib.dianhusada.ac.id
 0.0.0.0 digim.asia
@@ -24352,6 +24349,7 @@
 0.0.0.0 doctorbondarenko.urbanhealth.com.ua
 0.0.0.0 doctorcarmax.com
 0.0.0.0 doctorfromhome.in
+0.0.0.0 doctoriva.com
 0.0.0.0 doctorjuliandiaz.com
 0.0.0.0 doctormarioospinaginecologo.com
 0.0.0.0 doctormobilealmere.nl
@@ -24615,7 +24613,6 @@
 0.0.0.0 don-xalat.ru
 0.0.0.0 don.viameventos.com.br
 0.0.0.0 donagracia.com
-0.0.0.0 donaldcity.club
 0.0.0.0 donaldsmithforsheriff.com
 0.0.0.0 donaldtaylor.ca
 0.0.0.0 donamaria-lb.com
@@ -24972,6 +24969,7 @@
 0.0.0.0 downloads.jxtsteel.cn
 0.0.0.0 downloads.medpak.com
 0.0.0.0 downloads.noaa.network
+0.0.0.0 downloads.sandisk.com
 0.0.0.0 downloads.webstartpro.com
 0.0.0.0 downloads.xchangewallet.com
 0.0.0.0 downloads44you.shop
@@ -27511,6 +27509,7 @@
 0.0.0.0 email.rocricambi.com
 0.0.0.0 email.smtp.panamaserver.net
 0.0.0.0 email.undp-fakhoora.ps
+0.0.0.0 email2.indoscreen.com
 0.0.0.0 emaildatabank.com
 0.0.0.0 emailexchange.serveftp.org
 0.0.0.0 emailine.info
@@ -28567,7 +28566,7 @@
 0.0.0.0 espace-douche.com
 0.0.0.0 espace-photo-numerique.fr
 0.0.0.0 espace-vert.sdcrea.fr
-0.0.0.0 espacebusiness.com
+0.0.0.0 espaceprive.enformes.fr
 0.0.0.0 espacerezo.fr
 0.0.0.0 espaces-interieurs.net
 0.0.0.0 espaceurbain.com
@@ -28841,7 +28840,9 @@
 0.0.0.0 etwowsharing.com
 0.0.0.0 etwqsx23.duckdns.org
 0.0.0.0 etxse.xyz
+0.0.0.0 eu-central-1.protection.sophos.com
 0.0.0.0 eu-easy.com
+0.0.0.0 eu.wildfire.paloaltonetworks.com
 0.0.0.0 eu1.salesforce.com
 0.0.0.0 eu283iwoqodjspqisjdf.com
 0.0.0.0 eu5-cdn.devid.info
@@ -30714,6 +30715,7 @@
 0.0.0.0 file.tancyo.blog.shinobi.jp
 0.0.0.0 file.teamengineering.co
 0.0.0.0 file.town
+0.0.0.0 file1.box.com
 0.0.0.0 file2yu.com
 0.0.0.0 file546456.com
 0.0.0.0 filebackupservers22.info
@@ -30748,7 +30750,6 @@
 0.0.0.0 files.dropmybin.me
 0.0.0.0 files.enjin.com
 0.0.0.0 files.gathercdn.com
-0.0.0.0 files.hrloo.com
 0.0.0.0 files.l-d.tech
 0.0.0.0 files.mirai-2viv.vn
 0.0.0.0 files.occarlsongracieteams.com
@@ -33448,7 +33449,6 @@
 0.0.0.0 gcwhoopee.com
 0.0.0.0 gd-consultants.com
 0.0.0.0 gd.lamwebchuanseo.com
-0.0.0.0 gd2.greenxf.com
 0.0.0.0 gd2334d.ru
 0.0.0.0 gda-eksplorasi.co.id
 0.0.0.0 gdai.co.il
@@ -36250,6 +36250,7 @@
 0.0.0.0 h-w-c.net
 0.0.0.0 h.eurotrading.com.pl
 0.0.0.0 h.j990981.ru
+0.0.0.0 h.top4top.io
 0.0.0.0 h.valerana44.ru
 0.0.0.0 h0h.org
 0.0.0.0 h1.iwakalong.ru
@@ -40252,6 +40253,7 @@
 0.0.0.0 imagine8ni.com
 0.0.0.0 imaginedworld.co.za
 0.0.0.0 imaginemix.ru
+0.0.0.0 imaginepic.xyz
 0.0.0.0 imagme.com.br
 0.0.0.0 imagntalentsummit.com
 0.0.0.0 imagyz.com
@@ -43869,7 +43871,6 @@
 0.0.0.0 jpmm3w.bn.files.1drv.com
 0.0.0.0 jpmorganchasse.com
 0.0.0.0 jpmtech.com
-0.0.0.0 jpnc.co.kr
 0.0.0.0 jpnnybacj.ug
 0.0.0.0 jpol.com
 0.0.0.0 jporder.net
@@ -44057,7 +44058,6 @@
 0.0.0.0 jrfamericorps-my.sharepoint.com
 0.0.0.0 jrgadot.ml
 0.0.0.0 jrmachines.com
-0.0.0.0 jrmlocks.ir
 0.0.0.0 jrprosperity-my.sharepoint.com
 0.0.0.0 jrsmarketing.com.br
 0.0.0.0 jrsurveillance.com
@@ -46305,7 +46305,6 @@
 0.0.0.0 kodim0112sabang.com
 0.0.0.0 kodingeko.com
 0.0.0.0 kodip.nfile.net
-0.0.0.0 kodjdsjsdjf.tk
 0.0.0.0 kodlacan.site
 0.0.0.0 kodmuje.com
 0.0.0.0 kodolios.000webhostapp.com
@@ -49192,6 +49191,7 @@
 0.0.0.0 lionestateturkey.com
 0.0.0.0 lionhomesystem.hu
 0.0.0.0 lionkingcourt.com
+0.0.0.0 lionmarketingdev.co.uk
 0.0.0.0 lions.edu.pk
 0.0.0.0 lionsalesinc.com
 0.0.0.0 lionsdistrict3232b.in
@@ -55424,6 +55424,7 @@
 0.0.0.0 moliqdress.ru
 0.0.0.0 mollendo.cl
 0.0.0.0 mollendoequipments.com
+0.0.0.0 mollersverktygsmakeri.se
 0.0.0.0 mollis.webthietke.tk
 0.0.0.0 molloconsulting.co.za
 0.0.0.0 molly-dating.de
@@ -56218,6 +56219,7 @@
 0.0.0.0 mssltd.ie
 0.0.0.0 mssolutionspty.com
 0.0.0.0 msspartners.pl
+0.0.0.0 mssql.4i7i.com
 0.0.0.0 mst-net.de
 0.0.0.0 mstation.jp
 0.0.0.0 msteam18.com
@@ -64205,7 +64207,6 @@
 0.0.0.0 pmtmieke.nl
 0.0.0.0 pmtsdstat14tp197.xyz
 0.0.0.0 pmvc.pt
-0.0.0.0 pmvqurd9qxq2.top
 0.0.0.0 pmvraetsel.newsoftdemo.info
 0.0.0.0 pmvrswsociety.com
 0.0.0.0 pmwbiyori.jp
@@ -66019,7 +66020,6 @@
 0.0.0.0 pubertilodersx.com
 0.0.0.0 pubg.cheat.cx
 0.0.0.0 pubgaz.com
-0.0.0.0 pubgm.vnhax.com
 0.0.0.0 pubgmobilemodapk.com
 0.0.0.0 publica.cz
 0.0.0.0 publicas.com.ar
@@ -68655,7 +68655,6 @@
 0.0.0.0 restauro.istitutisantapaola.com
 0.0.0.0 restedtraveler.com
 0.0.0.0 restejeune.com
-0.0.0.0 restlesz.su
 0.0.0.0 resto-portugais.fr
 0.0.0.0 restofkiuun.com
 0.0.0.0 restoran-almaata.kz
@@ -68672,6 +68671,7 @@
 0.0.0.0 resumestogo.com
 0.0.0.0 resys.pt
 0.0.0.0 ret.space
+0.0.0.0 ret9ga.am.files.1drv.com
 0.0.0.0 retail5.com.ua
 0.0.0.0 retailinjapan.nl
 0.0.0.0 retailtechexpo.cn
@@ -68690,7 +68690,6 @@
 0.0.0.0 retirementprofessional.com
 0.0.0.0 retirementscholarship.com
 0.0.0.0 retirenaloja.sisenor.com.br
-0.0.0.0 retirepedia.upsproutmedia.com
 0.0.0.0 retiro-cesantias.gestoresdefondos.com
 0.0.0.0 retisenzafrontiere.org
 0.0.0.0 retoast.org
@@ -70314,7 +70313,6 @@
 0.0.0.0 s289428.smrtp.ru
 0.0.0.0 s298myt.storage.yandex.net
 0.0.0.0 s2chinese2profesionalandhealthwsdyanaly.duckdns.org
-0.0.0.0 s2lol.com
 0.0.0.0 s2retail.vn
 0.0.0.0 s2s-architect.com
 0.0.0.0 s3.in.ua
@@ -71805,7 +71803,6 @@
 0.0.0.0 scrapcarsforcash.com.au
 0.0.0.0 scrapgoldpile.com
 0.0.0.0 scrapmyvehicles.co.uk
-0.0.0.0 scrappy.upsproutmedia.com
 0.0.0.0 scraps.de
 0.0.0.0 scrapy999.com
 0.0.0.0 scrawk.tusarranjan.com
@@ -71928,6 +71925,7 @@
 0.0.0.0 se-co.me
 0.0.0.0 se02.de
 0.0.0.0 se66ndx04fofu3sqv.com
+0.0.0.0 sea-shared-5.masterns.com
 0.0.0.0 sea-tacselfstorage.com
 0.0.0.0 sea-why.com
 0.0.0.0 seabird.com.ph
@@ -72432,6 +72430,7 @@
 0.0.0.0 seo-powersuite.com
 0.0.0.0 seo-result.co.uk
 0.0.0.0 seo.kohsorkh-sarzamin-man.ir
+0.0.0.0 seo.veberlab.ru
 0.0.0.0 seo.vodai.bid
 0.0.0.0 seo1mexico.com
 0.0.0.0 seo4biz.com
@@ -74169,6 +74168,7 @@
 0.0.0.0 singpost-e.top
 0.0.0.0 singpost-f.top
 0.0.0.0 singpost-h.top
+0.0.0.0 singpost-i.top
 0.0.0.0 singpost.xyz
 0.0.0.0 singularlabs.website
 0.0.0.0 sinhasrestaurant.com
@@ -74318,7 +74318,6 @@
 0.0.0.0 siteradar.com
 0.0.0.0 sites.blueskydigital.com.au
 0.0.0.0 sites.btb.kg
-0.0.0.0 sites.ieee.org
 0.0.0.0 sites.linkysoft.com
 0.0.0.0 sites.webdefy.com
 0.0.0.0 sitesbrgiga.com.br
@@ -76338,6 +76337,7 @@
 0.0.0.0 sqftcompany.com
 0.0.0.0 sqgdzi.com
 0.0.0.0 sqjjdc.com
+0.0.0.0 sql.4i7i.com
 0.0.0.0 sql.bonin.home.pl
 0.0.0.0 sql.merkadetodoa92.com
 0.0.0.0 sql.rahatexltd.com
@@ -79235,6 +79235,7 @@
 0.0.0.0 tapainteriordesigns.co.za
 0.0.0.0 tapchibonbanh.com
 0.0.0.0 tapchicaythuoc.com
+0.0.0.0 tapchidalieu.net
 0.0.0.0 tapchidongy.com.vn
 0.0.0.0 tapchinguoibenh.com
 0.0.0.0 tapchinuochoa.com
@@ -79896,7 +79897,6 @@
 0.0.0.0 tedde.nl
 0.0.0.0 teddy-bum.com
 0.0.0.0 tededsport.com
-0.0.0.0 tedet.or.th
 0.0.0.0 tedxtest.devbyopeneyes.com
 0.0.0.0 tedzey.info
 0.0.0.0 tee2home.com
@@ -80805,6 +80805,7 @@
 0.0.0.0 thayvoiphone.vn
 0.0.0.0 thccamera.com
 0.0.0.0 thctiedye.com
+0.0.0.0 thdidm.zendesk.com
 0.0.0.0 thdyneverwalkachinese2loneinlifekthfnp.ydns.eu
 0.0.0.0 thdyprivatecloudshareandfileprotectgent.duckdns.org
 0.0.0.0 thdyprivatecloudshareandfileprotecthfqm.ydns.eu
@@ -82088,6 +82089,7 @@
 0.0.0.0 timelyrain.top
 0.0.0.0 timenard.top
 0.0.0.0 timenotbesea.xyz
+0.0.0.0 timenow.pw
 0.0.0.0 timenowis1.top
 0.0.0.0 timeoffer.site
 0.0.0.0 timeofvape.tk
@@ -82995,6 +82997,7 @@
 0.0.0.0 track.bestwesternlex.com
 0.0.0.0 track.defatinator.com
 0.0.0.0 track.mailmaster.mobi
+0.0.0.0 track.smtpserver.email
 0.0.0.0 track.wizkidhosting.com
 0.0.0.0 track6.mixtape.moe
 0.0.0.0 track8.mixtape.moe
@@ -84650,6 +84653,7 @@
 0.0.0.0 umadacart.com
 0.0.0.0 umae.org
 0.0.0.0 umainc.in
+0.0.0.0 umak.edu.ph
 0.0.0.0 umakara.com.ua
 0.0.0.0 umankuyen.com.ar
 0.0.0.0 umapreowned.com
@@ -85162,7 +85166,6 @@
 0.0.0.0 upscionline.com
 0.0.0.0 upshatioax.com
 0.0.0.0 upsp-us.top
-0.0.0.0 upsproutmedia.com
 0.0.0.0 upstart.ru.ac.za
 0.0.0.0 upstartknox.com
 0.0.0.0 upstatejiujitsu.com
@@ -86481,6 +86484,7 @@
 0.0.0.0 vienthammynamseoul.com
 0.0.0.0 viento.pro
 0.0.0.0 vieregg.de
+0.0.0.0 vieswablesgrowesr.com
 0.0.0.0 vietanh.tudonghoamaytinh.com
 0.0.0.0 vietaumedical.com
 0.0.0.0 vietbioenergy.com
@@ -89184,6 +89188,7 @@
 0.0.0.0 wmf.desevens.com.ng
 0.0.0.0 wmg128.com
 0.0.0.0 wmi.1217bye.host
+0.0.0.0 wmi.4i7i.com
 0.0.0.0 wmkatz.com
 0.0.0.0 wmkfdu.com
 0.0.0.0 wmo-raad.inov.me
@@ -89425,6 +89430,7 @@
 0.0.0.0 workfinethdysanotherrainbowlomoyentthghf.ydns.eu
 0.0.0.0 workfinetsdyanotherrainbowlomoyenttsfmx.duckdns.org
 0.0.0.0 workfinewsdyanotherrainbowlomoyentwsbmt.duckdns.org
+0.0.0.0 workfinewsdysanotherrainbowlomoyentwsnma.ydns.eu
 0.0.0.0 workforcesolutions.org.uk
 0.0.0.0 workgrace.com
 0.0.0.0 workgroup-production.com
@@ -89750,6 +89756,7 @@
 0.0.0.0 wsdychnesqudusisabadassniggainthe30wmg.duckdns.org
 0.0.0.0 wsdygreenkegheedahatakankeadeshnaa34twm.duckdns.org
 0.0.0.0 wsdykung38communicationtarisupliermgapc.duckdns.org
+0.0.0.0 wsdyneverwalkachinese2loneinlifekwsfnv.ydns.eu
 0.0.0.0 wsdyshgshgnationalindustrialandgoogledns.duckdns.org
 0.0.0.0 wsdyshgshgnationalobjindustrialat23fty.duckdns.org
 0.0.0.0 wsdyshgshgnationalobjindustrialatwsvak.ydns.eu
@@ -92452,7 +92459,6 @@
 0.0.0.0 zoox.com.br
 0.0.0.0 zoparo.nl
 0.0.0.0 zopbxtjiuykhyyp.usa.cc
-0.0.0.0 zopro.duckdns.org
 0.0.0.0 zoracle.com
 0.0.0.0 zorancreative.com
 0.0.0.0 zoratech.ro
