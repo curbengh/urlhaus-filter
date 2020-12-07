@@ -13,6 +13,7 @@ There are multiple formats available, refer to the appropriate section according
 - [Dnsmasq](#dnsmasq)
 - [BIND](#bind)
 - [Unbound](#unbound)
+- Internet Explorer -> [Tracking Protection List (IE)](#tracking-protection-list-ie)
 
 Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/urlhaus-filter/wikis/compatibility) page in the wiki.
 
@@ -412,6 +413,41 @@ Lite version (online domains only):
 
 </details>
 
+## Tracking Protection List (IE)
+
+This blocklist includes domains only. Supported in Internet Explorer 9+.
+
+- https://curben.gitlab.io/malware-filter/urlhaus-filter.tpl
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter.tpl
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter.tpl
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter.tpl
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter.tpl
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter.tpl
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter.tpl
+
+</details>
+
+<br />
+Lite version (online domains only):
+
+- https://curben.gitlab.io/malware-filter/urlhaus-filter-online.tpl
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-online.tpl
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.tpl
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-online.tpl
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-online.tpl
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-online.tpl
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-online.tpl
+
+</details>
+
 ## Third-party mirrors
 
 <details>
@@ -419,8 +455,14 @@ Lite version (online domains only):
 
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter.txt
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-online.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-ag.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-ag-online.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-vivaldi.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-vivaldi-online.txt
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-domains.txt
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-domains-online.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-agh.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-agh-online.txt
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-hosts.txt
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-hosts-online.txt
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-dnsmasq.conf
@@ -429,6 +471,8 @@ Lite version (online domains only):
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-bind-online.conf
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-unbound.conf
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-unbound-online.conf
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter.tpl
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-online.tpl
 
 </details>
 

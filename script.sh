@@ -273,6 +273,23 @@ sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound-online.conf"
 
 
+## IE blocklist
+COMMENT_IE="msFilterList\n$COMMENT\n: Expires=1\n#"
+COMMENT_ONLINE_IE="msFilterList\n$COMMENT_ONLINE\n: Expires=1\n#"
+
+cat "../urlhaus-filter-hosts.txt" | \
+grep -vE "^#" | \
+sed "s/^0\.0\.0\.0/-d/g" | \
+sed '1 i\'"$COMMENT_IE"'' | \
+sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../urlhaus-filter.tpl"
+
+cat "../urlhaus-filter-hosts-online.txt" | \
+grep -vE "^#" | \
+sed "s/^0\.0\.0\.0/-d/g" | \
+sed '1 i\'"$COMMENT_ONLINE_IE"'' | \
+sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../urlhaus-filter-online.tpl"
+
+
 ## Clean up artifacts
 rm "URLhaus.csv" "top-1m-umbrella.zip" "top-1m-umbrella.txt" "top-1m-tranco.txt"
 
