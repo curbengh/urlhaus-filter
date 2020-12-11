@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 10 Dec 2020 12:10:46 UTC
+# Updated: Fri, 11 Dec 2020 00:11:14 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -168,6 +168,7 @@ msFilterList
 -d 11.design4web.biz
 -d 11.gxdx2.crsky.com
 -d 1102sgp.top
+-d 1105355415.rsc.cdn77.org
 -d 110dna.com.cn
 -d 111.cd.gov.mn
 -d 111101111.ru
@@ -5153,6 +5154,7 @@ msFilterList
 -d alya-international.com
 -d alyafchi.ir
 -d alyafei-council.com
+-d alyajhdamir.com
 -d alybazar.com
 -d alyciawells.com
 -d alyeser.com
@@ -7268,6 +7270,7 @@ msFilterList
 -d arrayconsultancy.com
 -d arrc.kaist.ac.kr
 -d arrd.ro
+-d arrecifesciudad.com
 -d arredosocial.it
 -d arreglosyco.com
 -d arresto.it
@@ -8061,7 +8064,6 @@ msFilterList
 -d asyaturknakliyat.com
 -d asyhappy.website
 -d asysac.ir
--d aszcasino.com
 -d asztar.pl
 -d at707.com
 -d at7b.com
@@ -12170,6 +12172,7 @@ msFilterList
 -d blastgossip.com
 -d blastoff-powerwash.com
 -d blastupsms.com
+-d blathata.com
 -d blautech.com.br
 -d blauwpurper.com
 -d blaxkwear.com
@@ -12826,6 +12829,7 @@ msFilterList
 -d blueboxsourcing.com
 -d blueboxxinterior.com
 -d bluebunni.com
+-d bluebunnyevents.com
 -d bluechippropertyexperts.com
 -d blueclutch.com
 -d bluecoach.me
@@ -17932,6 +17936,7 @@ msFilterList
 -d cleeft.nl
 -d clefhotel.com
 -d cleft.med.cmu.ac.th
+-d cleimmo.ma
 -d clelioberti.com
 -d clementine-creation.fr
 -d clemssystems.com.ng
@@ -18423,7 +18428,6 @@ msFilterList
 -d coastmedicalservice.com
 -d coastmotorsupply.com
 -d coastsignworks.com
--d coastwidewaterproofing.com.au
 -d coatforwinter.com
 -d cobam.xyz
 -d cobanmustafapasavakfi.com
@@ -20804,7 +20808,6 @@ msFilterList
 -d cwpfencing.co.uk
 -d cwqeuowxkxkasaljdiw.com
 -d cwsaccounting.co.uk
--d cwsec.cn
 -d cwwhk.org
 -d cx14086.tmweb.ru
 -d cx93835.tmweb.ru
@@ -22242,6 +22245,7 @@ msFilterList
 -d delandy.site
 -d delaneymichaelson.com
 -d delangen.nl
+-d delanore.com
 -d delassociates.com
 -d delawaredata.com
 -d delbertsscalemodels.com
@@ -30578,6 +30582,7 @@ msFilterList
 -d fcserwis.pl
 -d fcshenghui.com
 -d fcsl.com.br
+-d fcsx.ml
 -d fctu.xyz
 -d fcu.ua
 -d fcumebayashi.co
@@ -31277,6 +31282,7 @@ msFilterList
 -d finprowise.com
 -d finpulse.com.ua
 -d finrakshak.com
+-d finsolprinting.it
 -d finspangonline.se
 -d fintechdetails.s3-ap-southeast-1.amazonaws.com
 -d fintechpositions.tk
@@ -31527,7 +31533,6 @@ msFilterList
 -d fixxoo.in
 -d fiyo.org
 -d fizcomgiz.com
--d fiziokinezis.rs
 -d fizion.nl
 -d fizra.pp.ua
 -d fizyodeniz.com
@@ -31760,7 +31765,6 @@ msFilterList
 -d floviobelgium.com
 -d flow.advtest.lgn.by
 -d flowca.top
--d flowdemusic.net
 -d flower.hxgtech.com
 -d flower.webdungsan.com
 -d flowerbed.cz
@@ -32625,6 +32629,7 @@ msFilterList
 -d freshwallet.at
 -d freshwaterpearls.ru
 -d fresjabka.si
+-d fresnocagaragerepair.com
 -d fresnodepositionreporters.com
 -d fresnotxseo.com
 -d fresu.ch
@@ -36981,7 +36986,6 @@ msFilterList
 -d hanayadefi.com
 -d hanbags.co.id
 -d hancho.tk
--d hancockfirm.com
 -d hand.nl
 -d hand2works.com
 -d handantc.com
@@ -41843,6 +41847,7 @@ msFilterList
 -d internetcasinoweblog.com
 -d internetenbellenvergelijken.nl
 -d internetjogasz.hu
+-d internetlink.com.mx
 -d internetmarketing4pros.com
 -d internetofsmell.com
 -d internetordbogen.dk
@@ -42974,6 +42979,7 @@ msFilterList
 -d jabeltranslation.com
 -d jabenitez.com
 -d jaberevents.com
+-d jabiru.net.au
 -d jabmo-development.dev.forci.net
 -d jabrasil.org.br
 -d jabtco.com
@@ -43194,7 +43200,6 @@ msFilterList
 -d jantichy.cz
 -d jantosam.com
 -d janus.com.ve
--d janusblockchain.com
 -d janvanbael.com
 -d janvierassocies.fr
 -d jany.be
@@ -46021,6 +46026,7 @@ msFilterList
 -d khattakdigitals.website
 -d khattv.com
 -d khatwacenter.com
+-d khaugalliindia.com
 -d khautrangboyte.com
 -d khawatmico.com
 -d khbl.com
@@ -48169,6 +48175,7 @@ msFilterList
 -d laparomc.com
 -d laparoscopysales.com
 -d lapartenza-khl.com
+-d lapc.com.pk
 -d lapcentervn.xyz
 -d lapchallenge.co.uk
 -d lapelimmortelle.com.au
@@ -51246,6 +51253,7 @@ msFilterList
 -d madagascarfoment.ru
 -d madagolf.com
 -d madalozzosistemas.com.br
+-d madame-coccinelle.fr
 -d madamemesquita.app4you.app.br
 -d madametood.com
 -d madancpa.com
@@ -54578,7 +54586,6 @@ msFilterList
 -d meyercreative.com.au
 -d meyerstation.com
 -d meyhomes-capitals-phuquoc.com
--d meyragroup.com
 -d mezepera.com
 -d mezes.de
 -d mezokron.hu
@@ -58588,6 +58595,7 @@ msFilterList
 -d netkafem.org
 -d netkia.net
 -d netking.duckdns.org
+-d netlink.com
 -d netlives.in
 -d netlux.in
 -d netm.club
@@ -65831,6 +65839,7 @@ msFilterList
 -d princecolagbedefoundation.com
 -d princessbluepublishing.com
 -d princessofjustice.com
+-d princetonacademy.in
 -d princetonenvelopegroup.com
 -d princetonprofit.com
 -d princetonsuppliers.co.uk
@@ -73887,6 +73896,7 @@ msFilterList
 -d sharjahas.com
 -d sharjahcd.ae
 -d shark.temp-serviceinc.tk
+-d sharkbum.com
 -d sharklake.com
 -d sharkrigs.com
 -d sharksales.com.br
@@ -74396,6 +74406,7 @@ msFilterList
 -d shot.co.kr
 -d shotfarm.com
 -d shoujiushu.cn
+-d shouku.in
 -d shourayinfotech.xyz
 -d shout4music.com
 -d shoutdel.com
@@ -77620,6 +77631,7 @@ msFilterList
 -d startnow.ca
 -d startolete-vn.ug
 -d startrade.iset.ro
+-d startseunegocio.com
 -d startstudio.it
 -d starttomorrow.org
 -d startup-in-asia.com
@@ -78477,7 +78489,6 @@ msFilterList
 -d studycirclekathua.com
 -d studyeuropecenter.com
 -d studyguidewithlakshmi.com
--d studyinassam.com
 -d studyinghealth.com
 -d studymarketreach.xyz
 -d studyosahra.com
@@ -79453,7 +79464,6 @@ msFilterList
 -d synapse-labo.com
 -d synapseyes.de
 -d synapticasoftware.com
--d synature.vn
 -d synccloud.net
 -d syncdatacore.net
 -d synchdigital.com
@@ -79934,7 +79944,6 @@ msFilterList
 -d tamil.hu
 -d tamilgreets.com
 -d tamilhindu.com
--d tamilnadumahalir.org
 -d tamim.pro
 -d tamirgar.com
 -d tamirkhan.ir
@@ -82078,6 +82087,7 @@ msFilterList
 -d thelegalland.com
 -d thelegobatman.com
 -d thelendgenuity.com
+-d thelenspost.com
 -d theleus.com
 -d thelexingtonclubny.com
 -d thelibertyfarm.com
@@ -82314,6 +82324,7 @@ msFilterList
 -d therightcyclingcompany.com
 -d therisingtide.org
 -d thermadorapplianceservice.com
+-d thermageultherabangkok.com
 -d thermalswitchfactory.com
 -d thermo-logos.ro
 -d thermo-trap.org
@@ -89379,6 +89390,7 @@ msFilterList
 -d werdner.com
 -d weresolve.ca
 -d werfcdxv.ru
+-d werfpop.nl
 -d werge21.ru
 -d werkenbij.velthuizenkeukens.nl
 -d werkhanden.nl
@@ -93449,6 +93461,7 @@ msFilterList
 -d zuix.com
 -d zulimovil.com
 -d zulpbjud.ltd
+-d zum-ochsen-wonsheim.de
 -d zumatextile.com
 -d zumbabob.com
 -d zumodelima.com
