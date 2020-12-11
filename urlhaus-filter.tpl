@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 11 Dec 2020 00:11:14 UTC
+# Updated: Fri, 11 Dec 2020 12:11:17 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -265,6 +265,7 @@ msFilterList
 -d 151856.com
 -d 153-128-38-180.compute.jp-e1.cloudn-service.com
 -d 155.ip-51-161-9.net
+-d 155121.prohoster.biz
 -d 15666.online
 -d 1579850.xyz
 -d 159.ip-167-114-144.net
@@ -2538,7 +2539,6 @@ msFilterList
 -d acquaplay.com.br
 -d acquapubblicasabina.it
 -d acquavivahotel.com
--d acqueon.com
 -d acquiring-talent.com
 -d acquistic.space
 -d acrartex.cf
@@ -3438,6 +3438,7 @@ msFilterList
 -d agenza18.ayz.pl
 -d agenziabalestri.it
 -d agenziadiviaggidinozzetorino.it
+-d agenziainformazioni.icu
 -d agepsed.org
 -d agereversalcreamam.com
 -d agernatura.com
@@ -7066,7 +7067,6 @@ msFilterList
 -d arie-industrie.com
 -d ariefsetiawan.com
 -d arielaspa.com
--d arielcarter.com
 -d arielluxhair.com
 -d arieloutdoors.com
 -d arieloutdoors.in
@@ -8048,6 +8048,7 @@ msFilterList
 -d asurahomepg.ru
 -d asurima.com
 -d asuss.rungst.com
+-d asustech.ml
 -d asutoshadhal.in
 -d asuvision.tv
 -d asv-frueh-auf.de
@@ -10659,6 +10660,7 @@ msFilterList
 -d bel-med-tour.ru
 -d belabargelro.com
 -d belair.btwstudio.ch
+-d belairinternet.com
 -d belamater.com.br
 -d belangel.by
 -d belanja-berkah.xyz
@@ -11030,6 +11032,7 @@ msFilterList
 -d bestbestbags.com
 -d bestbikenatal.com.br
 -d bestbloodpressure-monitor.com
+-d bestblues.tech
 -d bestbnbnepal.com
 -d bestbot.somee.com
 -d bestbusinesssoftware.net
@@ -14995,6 +14998,7 @@ msFilterList
 -d cairocad.com
 -d caisff.finances.gouv.ml
 -d caissefamilylaw.com
+-d caissetunisie.com
 -d caitlinfuster.com
 -d caiwuje.cn
 -d caixasacusticasparizotto.com.br
@@ -15490,6 +15494,7 @@ msFilterList
 -d cards.vaults.ga
 -d cardskool.com
 -d cardspets.com
+-d cardvest.ng
 -d cardvf.com
 -d care-4-you.ch
 -d care.bhavdiya.com
@@ -16226,6 +16231,7 @@ msFilterList
 -d cdn.spider.cat
 -d cdn.timebuyer.org
 -d cdn.top4top.net
+-d cdn.truelife.vn
 -d cdn.xiaoduoai.com
 -d cdn.zecast.com
 -d cdn3.msetup.download
@@ -23741,6 +23747,7 @@ msFilterList
 -d digihop.cyou
 -d digiiital.co.uk
 -d digikow.000webhostapp.com
+-d digilander.libero.it
 -d digileads.ae
 -d digilib.dianhusada.ac.id
 -d digim.asia
@@ -25155,7 +25162,6 @@ msFilterList
 -d down1.softups.info
 -d down1.topsadon1.com
 -d down1.xt70.com
--d down10.zol.com.cn
 -d down10b.zol.com.cn
 -d down192.wuyunjk.com
 -d down1loads.site
@@ -25179,6 +25185,7 @@ msFilterList
 -d download.adamas.ai
 -d download.azaleanet.it
 -d download.beveilingsdienst.info
+-d download.bigmail.daum.net
 -d download.bypass.cn
 -d download.cardesales.com
 -d download.conceptndev.fr
@@ -25280,6 +25287,7 @@ msFilterList
 -d dpfnewsletter.org
 -d dph.logistic.pserver.ru
 -d dph.neailia.gr
+-d dpicenter.edu.vn
 -d dpinnovation.tk
 -d dpk.kepriprov.go.id
 -d dplex.net
@@ -39418,7 +39426,6 @@ msFilterList
 -d htownbars.com
 -d htpinvestment.com.vn
 -d htt.nu
--d httPs
 -d httsdomainset.ddns.net
 -d httvic.com.au
 -d htunkhaing.xsrv.jp
@@ -41847,7 +41854,6 @@ msFilterList
 -d internetcasinoweblog.com
 -d internetenbellenvergelijken.nl
 -d internetjogasz.hu
--d internetlink.com.mx
 -d internetmarketing4pros.com
 -d internetofsmell.com
 -d internetordbogen.dk
@@ -45170,6 +45176,7 @@ msFilterList
 -d kanchpurcity.com
 -d kanclartal.com
 -d kandangkelinci.com
+-d kandbproducts.com
 -d kandiandcolor.codeworkscanada.com
 -d kandidat-poprad.sk
 -d kandiieshair.com
@@ -49865,6 +49872,7 @@ msFilterList
 -d livecigarevent.com
 -d livecricketscorecard.info
 -d livedaynews.com
+-d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d livefarma.com
@@ -51253,7 +51261,6 @@ msFilterList
 -d madagascarfoment.ru
 -d madagolf.com
 -d madalozzosistemas.com.br
--d madame-coccinelle.fr
 -d madamemesquita.app4you.app.br
 -d madametood.com
 -d madancpa.com
@@ -53304,6 +53311,7 @@ msFilterList
 -d matesargentinos.com
 -d mateuszzajac.pl
 -d matex.biz
+-d matey-clinic.com
 -d math-elearning.com
 -d math-engineering.co.za
 -d math.pollub.pl
@@ -54327,6 +54335,7 @@ msFilterList
 -d menziesadvisory-my.sharepoint.com
 -d menzway.com
 -d meogiambeo.com
+-d meohaybotui.com
 -d meolamdephay.com
 -d mepsgen.com
 -d mera.ddns.net
@@ -57398,6 +57407,7 @@ msFilterList
 -d myegy.news
 -d myeldi.com
 -d myelectrive.com
+-d myelementor.com.br
 -d myelitesystem.com
 -d myemarket.ir
 -d myengine.xyz
@@ -58595,7 +58605,6 @@ msFilterList
 -d netkafem.org
 -d netkia.net
 -d netking.duckdns.org
--d netlink.com
 -d netlives.in
 -d netlux.in
 -d netm.club
@@ -62613,7 +62622,6 @@ msFilterList
 -d palmspringsresorts.net
 -d palmtipsheet.com
 -d palmyro.com
--d paloca.vn
 -d palochusvet.szm.com
 -d palomamotorbiketours.fr
 -d palometa.hopto.org
@@ -63094,6 +63102,7 @@ msFilterList
 -d patch3.99ddd.com
 -d patch6838.com
 -d patcharee.asclb.ac.th
+-d patchofeden.com.au
 -d patchoguechiropractic.com
 -d patchouliscent.com
 -d patchworkistanbul.com
@@ -66075,7 +66084,6 @@ msFilterList
 -d professionalshop.in
 -d professionalwaiterskollege.org
 -d professionelelit.com
--d profetestruec.net
 -d profexsystem.com
 -d proffessia.ru
 -d proffice.com.pl
@@ -66500,7 +66508,6 @@ msFilterList
 -d proxy-ipv4.com
 -d proxy.2u0apcm6ylhdy7s.com
 -d proxy.hueaudio.com
--d proxy.qualtrics.com
 -d proxygrnd.xyz
 -d proxyholding.com
 -d proxyresume.com
@@ -66581,6 +66588,7 @@ msFilterList
 -d psicologiagrupal.cl
 -d psicologosdemexico.com
 -d psiconegocios.com.br
+-d psicopatologiafundamental.org.br
 -d psig.com.pl
 -d psihologcristinanegrea.ro
 -d psii.net
@@ -70536,7 +70544,6 @@ msFilterList
 -d rrbyupdata.renrenbuyu.com
 -d rrcg.kz
 -d rrcontadores.com
--d rrctech.com.br
 -d rrdm.co.in
 -d rretex.info
 -d rrexkmwi.yjdata.me
@@ -70983,7 +70990,6 @@ msFilterList
 -d s-vrach.com.ua
 -d s-zone.uz
 -d s.51shijuan.com
--d s.put.re
 -d s.trade27.ru
 -d s.vollar.ga
 -d s02.yapfiles.ru
@@ -71029,7 +71035,6 @@ msFilterList
 -d s2lol.com
 -d s2retail.vn
 -d s2s-architect.com
--d s3.didiyunapi.com
 -d s3.in.ua
 -d s3.rokket.space
 -d s3.sovereigncars.org.uk
@@ -73071,6 +73076,7 @@ msFilterList
 -d senaryolarim.com
 -d senasba.gob.bo
 -d senat.polnep.ac.id
+-d send.firefox.com
 -d send.webprojemiz.com
 -d senda.bmt.city
 -d senddocs.icu
@@ -77307,7 +77313,6 @@ msFilterList
 -d ssmmbed.com
 -d ssmptgo.ru
 -d ssmthethwa.co.za
--d ssofhoseuegsgrfnu.ru
 -d ssonear.me
 -d ssoocc.com
 -d ssosi.ru
@@ -77574,6 +77579,7 @@ msFilterList
 -d stariran.com
 -d starjobs.online
 -d stark.co.th
+-d starkdoor.com
 -d starke-bello.de
 -d starkeyhearingtechnologies-my.sharepoint.com
 -d starkov115.cz
@@ -78726,6 +78732,7 @@ msFilterList
 -d sukson.xyz
 -d sukuntextile.com
 -d sukuosenos.lt
+-d sukusenterprises.com
 -d sul.t.12cotacao.us
 -d sulainul.com
 -d sulawan.com
@@ -81835,6 +81842,7 @@ msFilterList
 -d thecreativeronin.com
 -d thecreativeshop.com.au
 -d thecreekpv.com
+-d thecrites.com
 -d thecrookedstraight.com
 -d thecrossfithandbook.com
 -d thecryptocenter.xyz
@@ -82936,6 +82944,7 @@ msFilterList
 -d timelyrain.top
 -d timenard.top
 -d timenotbesea.xyz
+-d timenow.pw
 -d timenowis1.top
 -d timeoffer.site
 -d timeofvape.tk
@@ -83413,7 +83422,6 @@ msFilterList
 -d tongdaive.net
 -d tongdaotech.com.cn
 -d tongdogiare.com
--d tonghopgia.net
 -d tongkhobep.uwp.me
 -d tongkhophianam.vn
 -d tongkhosoncongnghiep.com
@@ -83843,6 +83851,7 @@ msFilterList
 -d tracehagan.com
 -d traceidentified.com
 -d traceray.com
+-d traceymaxfield.com
 -d track-br.com
 -d track-lost-device.co.za
 -d track-systemgo.ru
@@ -84768,6 +84777,7 @@ msFilterList
 -d tunnelpros.com
 -d tunnelview.co.uk
 -d tuobrasocial.com.ar
+-d tuoitrethainguyen.vn
 -d tupibaje.com
 -d tur.000webhostapp.com
 -d turadioestereo.com
@@ -85521,7 +85531,6 @@ msFilterList
 -d umadacart.com
 -d umae.org
 -d umainc.in
--d umak.edu.ph
 -d umakara.com.ua
 -d umang.nciinfotech.in
 -d umankuyen.com.ar
@@ -86207,7 +86216,6 @@ msFilterList
 -d usep75.fr
 -d useraccount.co
 -d useradmincloud.gq
--d users.atw.hu
 -d users.tpg.com.au
 -d userslinks.xyz
 -d useurogren.com
@@ -86278,6 +86286,8 @@ msFilterList
 -d utellshop.tech
 -d utemoblersotenas.se
 -d utemoblerstromstad.se
+-d utenti.info
+-d utenti.live
 -d utenti.online
 -d utf-16.ovh
 -d utilcell.com.cn
@@ -86536,6 +86546,7 @@ msFilterList
 -d valfortecmantenimiento.com
 -d valiance.uk
 -d valiantlogistics.org
+-d validserver.com
 -d validservices.co
 -d valilehto.fi
 -d valimersoft.ru
@@ -87692,6 +87703,7 @@ msFilterList
 -d virreydelperu.cl
 -d virt-it.pl
 -d virt21.net
+-d virtech-bg.com
 -d virton.ru
 -d virtual-power.de
 -d virtual.mv
@@ -90578,6 +90590,7 @@ msFilterList
 -d wpdev.strativ-support.se
 -d wpdev.ted.solutions
 -d wpdev.ztickerz.io
+-d wpengine.zendesk.com
 -d wpgtxdtgifr.ga
 -d wpldjxxxua.ga
 -d wpmagian.com
@@ -90586,6 +90599,7 @@ msFilterList
 -d wppackaging.com
 -d wpprimebox.com
 -d wppunk.com
+-d wprockets.me
 -d wpsites.6flicks.com
 -d wpstride.com
 -d wpsync.marketingmindz.com
@@ -91921,6 +91935,7 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
+-d yamisiones.com
 -d yamnadlan.com
 -d yamotors.net
 -d yamrii4g.com
@@ -93086,7 +93101,6 @@ msFilterList
 -d zf768.com
 -d zfgroup.com.cn
 -d zfsport.demacode.com.br
--d zgc.com.cn
 -d zgo2ze.com
 -d zgpyly.com
 -d zgtaiji.com
