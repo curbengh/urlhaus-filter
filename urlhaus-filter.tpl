@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 11 Dec 2020 12:11:17 UTC
+# Updated: Sat, 12 Dec 2020 00:11:16 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -9315,6 +9315,7 @@ msFilterList
 -d babaloke.woundedwarriorscience.science
 -d babaroadways.in
 -d babaunangdong.com
+-d babawreckers.com.au
 -d babdigital.com.br
 -d babel-minus.com
 -d babelaeui.com
@@ -11974,6 +11975,7 @@ msFilterList
 -d bixbox.vn
 -d bixby1.com
 -d bixton.com
+-d biyaofushi.com
 -d biyexing.cn
 -d biyoistatistikdoktoru.com
 -d biyunhui.com
@@ -13009,6 +13011,7 @@ msFilterList
 -d bnote.novelux.com
 -d bnpartnersweb.com
 -d bnpgrup.com
+-d bnqzjy.cn
 -d bnsddfhjdfgvbxc.ru
 -d bnsgroupbd.com
 -d bnvtfhdfsasd.ug
@@ -13325,6 +13328,7 @@ msFilterList
 -d boontongkee-wp.qnotice.com
 -d boosh.io
 -d boost-it.pt
+-d boostground.com
 -d bootaly.com
 -d bootcampforbabylawyers.com
 -d boothie.gr
@@ -17874,7 +17878,6 @@ msFilterList
 -d claudioespinola.com
 -d claudiofortes.cf
 -d claudiogarcia.es
--d clauguidetti.com
 -d claus-wieben.de
 -d clavirox.ro
 -d claycrete.kz
@@ -18552,7 +18555,6 @@ msFilterList
 -d cof.philanthropyroundtable.org
 -d cofama.com.br
 -d cofancio.com
--d coffee-911.com.ua
 -d coffee.bencoolencoffe.com
 -d coffee.org.mm
 -d coffeeatthejunction.com
@@ -20647,6 +20649,7 @@ msFilterList
 -d cundo.ru
 -d cungnhaudocsach.vn
 -d cungungnhanluc24h.com
+-d cuninanepal.org
 -d cunisoft.com
 -d cunninghams.agentsbydesign.com.au
 -d cunningtonbutchers.co.uk
@@ -20684,6 +20687,7 @@ msFilterList
 -d curiosity.sg
 -d curious-cities.com
 -d curious-njp.com
+-d curious.thewife.in
 -d curiouseli.com
 -d curioussolutions.ro
 -d curiousworks.com.au
@@ -25625,6 +25629,7 @@ msFilterList
 -d droneandroid.cz
 -d dronearound.com.au
 -d dronebcn.cat
+-d droneberger.at
 -d droneinside.com
 -d dronesremote.com
 -d dronesurveyinindia.com
@@ -26529,6 +26534,7 @@ msFilterList
 -d eaziit.com
 -d eazybuyit.com
 -d eazyproperty-bali.id
+-d eb.vokasidev.com
 -d eb3tly.online
 -d eb5an-china.com
 -d ebabi.fun
@@ -28354,6 +28360,7 @@ msFilterList
 -d entusmarcas.com
 -d entuura.com
 -d entuziazem.si
+-d enugeresult.com
 -d enugu042.ru
 -d enunviejolibro.com
 -d envantage.com
@@ -28995,6 +29002,7 @@ msFilterList
 -d estoyadieta.com
 -d estrategias-corporativas.com
 -d estrategiasdeaprovacao.com.br
+-d estreamnetworks.net
 -d estrindesign.com
 -d estrom.es
 -d estrutura.eng.br
@@ -30362,6 +30370,7 @@ msFilterList
 -d fashionattitude.de
 -d fashionbettysam.com
 -d fashionblogandpromo.club
+-d fashionchandani.com
 -d fashiondenver.com
 -d fashionfootprint.leseditextiles.co.za
 -d fashionfootprint.nmco.co.za
@@ -32839,6 +32848,7 @@ msFilterList
 -d ftpftpftp.com
 -d ftpmsa.com
 -d ftpthedocgrp.com
+-d ftrain1.com
 -d fts-stone.com
 -d ftsay.xyz
 -d ftsolutions.info.pl
@@ -35759,6 +35769,7 @@ msFilterList
 -d graziellacintra.com.br
 -d grcklasik.com
 -d grcollins.co.uk
+-d grcpvclinic8.com
 -d gre.jpn.org
 -d great-harvest.biz
 -d great-harvest.info
@@ -38701,6 +38712,7 @@ msFilterList
 -d holzheuer.de
 -d holzsache.ch
 -d holzspeise.at
+-d homa-co.ir
 -d homagetochyort.com
 -d homanjalitimes.com
 -d homatour.com
@@ -38892,6 +38904,7 @@ msFilterList
 -d hookerdeepseafishing.com
 -d hooknest.com
 -d hooksindia.com
+-d hooleys-pub.com
 -d hoomellhic.com
 -d hoookmoney.com
 -d hoorneasterhockeytournament.com
@@ -40362,6 +40375,7 @@ msFilterList
 -d igbopodcast.com
 -d igc.com.sg
 -d igcinc.com
+-d igcs-chennai.org
 -d ige.co.id
 -d igetron.com
 -d iggysicecreamshop.com
@@ -45507,6 +45521,7 @@ msFilterList
 -d kaws.ru
 -d kay-tech.info
 -d kayabacho-mensesthe.com
+-d kayakalpguru.com
 -d kayan-eg.org
 -d kaybork.com
 -d kayeboutique.net
@@ -49677,6 +49692,7 @@ msFilterList
 -d linkvip.top
 -d linkyou.khaledahmed.tk
 -d linkzoo.net
+-d linlimpezas.com
 -d linliqun.tk
 -d linqreative.com
 -d linsinsurance.com
@@ -49751,6 +49767,7 @@ msFilterList
 -d lisisart.com
 -d liskcrypto.top
 -d lispharma.vn
+-d lissinternational.com
 -d list.click2mails.com
 -d lista.al
 -d listadeactividades.com
@@ -53183,6 +53200,7 @@ msFilterList
 -d masozilan.info
 -d masp.pro
 -d maspan.org.ng
+-d maspolice4.com
 -d masputra.site
 -d masque.es
 -d masry-corona.com
@@ -54595,6 +54613,7 @@ msFilterList
 -d meyercreative.com.au
 -d meyerstation.com
 -d meyhomes-capitals-phuquoc.com
+-d meyragroup.com
 -d mezepera.com
 -d mezes.de
 -d mezokron.hu
@@ -57037,6 +57056,7 @@ msFilterList
 -d munalihillscollege.com
 -d mundialbaloes.com.br
 -d mundilacteossas.com
+-d mundoarawak.com
 -d mundocandee.com.br
 -d mundoclima24.cl
 -d mundodosabor.com
@@ -60995,6 +61015,7 @@ msFilterList
 -d olapixels.com
 -d olasen.com
 -d olauyanz.club
+-d olavarria.gov.ar
 -d olawalevender.com
 -d old-book.store
 -d old-console.ir
@@ -63752,7 +63773,6 @@ msFilterList
 -d personalized-weddings.com
 -d personalizedjigsaws.com
 -d personalizzabili.com
--d personalservice.vip
 -d personalshopper-salzburg.com
 -d personaltraining.hannahsolorzano.com
 -d personalups.000webhostapp.com
@@ -70638,6 +70658,7 @@ msFilterList
 -d rtloriginal.lifetek.vn
 -d rtmedical.org
 -d rtnbd24.com
+-d rtnmmail8.com
 -d rtodd.com
 -d rtodealeradsforless.com
 -d rtornow.de
@@ -72005,6 +72026,7 @@ msFilterList
 -d sarekooche.com
 -d sarelo.com
 -d sarenotel.com
+-d saresamagenta.com
 -d sarfutk.000webhostapp.com
 -d saricom-ci.com
 -d sarikent1konutlari.com
@@ -74170,6 +74192,7 @@ msFilterList
 -d shmajik.gq
 -d shmct.org
 -d shmi.ir
+-d shmncbd.com
 -d shmwptravel.azurewebsites.net
 -d shobeonline.ir
 -d shockandaweentertainment.com
@@ -75384,6 +75407,7 @@ msFilterList
 -d slamheads.com
 -d slanacom.si
 -d slappingmodems.stream
+-d slasinfo.com
 -d slastiotnasti.ru
 -d slate23.com
 -d slati.hu
@@ -76020,6 +76044,7 @@ msFilterList
 -d socylmediapc.es
 -d soda8729.com
 -d sodadino.com
+-d sodalite.life
 -d sodalitesolutions.com
 -d sodano.ch
 -d sodantec.com
@@ -79025,6 +79050,7 @@ msFilterList
 -d support.homemakerideas.com
 -d support.imaitaly.biz
 -d support.jbrueggemann.com
+-d support.loungu.com
 -d support.m2mservices.com
 -d support.nordenrecycling.com
 -d support.pubg.com
@@ -79090,6 +79116,7 @@ msFilterList
 -d surgeryoverseas.com
 -d surgestreet.com
 -d surguy.com
+-d suriagrofresh.com
 -d surishoppingexpress.nl
 -d surjacorp.com
 -d surmise.cz
@@ -80177,6 +80204,7 @@ msFilterList
 -d taskforce1.net
 -d taskids.000webhostapp.com
 -d taskmgmt.net
+-d taskmgr.fr
 -d tasksheduler.network
 -d tasksprojectsgoals.com
 -d taskulitbanyuwangi.com
@@ -85800,6 +85828,7 @@ msFilterList
 -d universal-nails.nl
 -d universal-shop.party
 -d universalamity.org
+-d universalbiz.us
 -d universalbtl.com
 -d universalgreentech.co.uk
 -d universaliteds.com
@@ -86817,6 +86846,7 @@ msFilterList
 -d vcamp.vn
 -d vccerramientos.com.ar
 -d vckno.cz
+-d vclfhdetect8.com
 -d vcltest.top
 -d vconley.com
 -d vcontenidos.com
@@ -88805,6 +88835,7 @@ msFilterList
 -d wazzah.com.br
 -d wb0rur.com
 -d wb88indo.win
+-d wbarely6.com
 -d wbauer.com.br
 -d wbclients.com
 -d wbd.5636.com
@@ -89000,7 +89031,6 @@ msFilterList
 -d webcosolution.com
 -d webcrews.net
 -d webcycconsultores.com
--d webdachieu.com
 -d webdain.com
 -d webdav.tfa-secure.tech
 -d webdemo.honeynet.vn
@@ -89016,6 +89046,7 @@ msFilterList
 -d webdigitechs.com
 -d webdigix.com
 -d webdisplay.dk
+-d webdispo.com
 -d webdocumentreview.viewdns.net
 -d webdoktor.at
 -d webecos.dailysirup.nl
@@ -89517,6 +89548,7 @@ msFilterList
 -d wezenz.com
 -d wf-hack.com
 -d wfactory.com
+-d wfaith8.com
 -d wfall.org
 -d wfaqs.com
 -d wfc.internetmarketingtypes.com
@@ -89630,7 +89662,6 @@ msFilterList
 -d whitemoors.co.uk
 -d whitenet.info
 -d whiteraven.org.ua
--d whiteresponse.com
 -d whitesalon.nl
 -d whitespace.ltd
 -d whitmantechnologies.us
@@ -90336,6 +90367,7 @@ msFilterList
 -d workfine7alogorainbowlomoyentonloyevpn.duckdns.org
 -d workfineanotherrainbowlomoyentsndybvn20.duckdns.org
 -d workfineanotherrainstdybowlomoyent32mrw.duckdns.org
+-d workfinefrdysanotherrainbowlomoyentfrnew.ydns.eu
 -d workfinesndy16anotherrainbowlomoyentapl.duckdns.org
 -d workfinestdyanotherrainbowlomoyent26opa.duckdns.org
 -d workfinestdyanotherrainbowlomoyent28grq.duckdns.org
@@ -90360,6 +90392,7 @@ msFilterList
 -d worklinic.com.br
 -d workmate-sien.com
 -d workonmemory.com
+-d workout-stores.com
 -d workoutinsf.com
 -d workpainfree.com
 -d workplaceceo.com.ng
@@ -90615,6 +90648,7 @@ msFilterList
 -d wpwala.net
 -d wpxslavi.ml
 -d wpzsenux.com
+-d wq.bnqzjy.cn
 -d wq.feiniaoai.cn
 -d wqapp.50cms.com
 -d wqdy.top
