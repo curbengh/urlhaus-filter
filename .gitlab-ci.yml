@@ -38,11 +38,8 @@ deploy_job:
     - git push origin master
 
   rules:
-    # Only trigger through schedule job in master branch
-    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "schedule"'
-      when: always
-    # Only trigger through "Run pipeline" in master branch
-    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "web"'
+    # Only trigger through schedule job and "Run pipeline" in master branch
+    - if: '$CI_COMMIT_REF_NAME == "master" && ($CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "web")'
       when: always
 
   # Upload working folder as a job artifact
@@ -76,8 +73,6 @@ failed_job:
     - git push origin master
 
   rules:
-    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "schedule"'
+    - if: '$CI_COMMIT_REF_NAME == "master" && ($CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "web")'
       # Run this job only when deploy_job failed
-      when: on_failure
-    - if: '$CI_COMMIT_REF_NAME == "master" && $CI_PIPELINE_SOURCE == "web"'
       when: on_failure
