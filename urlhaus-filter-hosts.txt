@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 13 Dec 2020 02:21:36 UTC
+# Updated: Sun, 13 Dec 2020 12:10:46 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -24377,6 +24377,7 @@
 0.0.0.0 dl.river-store.com
 0.0.0.0 dl.rp-soft.ir
 0.0.0.0 dl.softservers.net
+0.0.0.0 dl.stunnix.com
 0.0.0.0 dl.svcupdate.com
 0.0.0.0 dl.teeqee.com
 0.0.0.0 dl.x420.me
@@ -29887,6 +29888,7 @@
 0.0.0.0 f0413249.xsph.ru
 0.0.0.0 f0434589.xsph.ru
 0.0.0.0 f0447266.xsph.ru
+0.0.0.0 f0487647.xsph.ru
 0.0.0.0 f0491609.xsph.ru
 0.0.0.0 f0492474.xsph.ru
 0.0.0.0 f0hc7osjnl2vi61g.com
@@ -61276,6 +61278,7 @@
 0.0.0.0 onedollerstore.com
 0.0.0.0 onedrive-live-en.com
 0.0.0.0 onedrive.autotalk.com.ng
+0.0.0.0 onedrive.linkpc.net
 0.0.0.0 onedrive.one
 0.0.0.0 onedrive.outlook.com.thesmallworld-spa.com
 0.0.0.0 onedrivenet.xyz
@@ -65339,6 +65342,7 @@
 0.0.0.0 postit.angryventures.com
 0.0.0.0 postnl-b.top
 0.0.0.0 postnl-letop.com
+0.0.0.0 postnordse.top
 0.0.0.0 postospflug.com.br
 0.0.0.0 postpolicy.it
 0.0.0.0 postpunks.com
@@ -65368,6 +65372,7 @@
 0.0.0.0 pottershousedurban.co.za
 0.0.0.0 potterspots.com
 0.0.0.0 potuansdqwbe.com
+0.0.0.0 pouilap.com
 0.0.0.0 pouladtan.ir
 0.0.0.0 poultry.com.ng
 0.0.0.0 pourcel.eu
@@ -73291,6 +73296,7 @@
 0.0.0.0 serenitypoint.com
 0.0.0.0 serfinansajuridica.com
 0.0.0.0 serfrload05.top
+0.0.0.0 serfrloadg02.top
 0.0.0.0 sergheygrey.com
 0.0.0.0 sergio-doroni.ru
 0.0.0.0 sergioaraujo.com
@@ -77792,6 +77798,7 @@
 0.0.0.0 stdyunitedfrkesokoriorimistreetsmsttyr.ydns.eu
 0.0.0.0 stdyworkfineanotherrainbowlomoyentstbmd.duckdns.org
 0.0.0.0 stdyworkfineanotherrainbowlomoyentwkgls.duckdns.org
+0.0.0.0 stdyworkfinesanotherrainbowlomoyentstgot.ydns.eu
 0.0.0.0 steadyrestmanufacturers.com
 0.0.0.0 steak.wpress.dk
 0.0.0.0 steakhouse.com.ua
@@ -83113,6 +83120,7 @@
 0.0.0.0 tjskills.org
 0.0.0.0 tjstore.ir
 0.0.0.0 tk-598.techcrim.ru
+0.0.0.0 tk-barrel.ru
 0.0.0.0 tk-lovech.org
 0.0.0.0 tk-pikpg.sch.id
 0.0.0.0 tk-spectrans.ru
