@@ -17,6 +17,8 @@ There are multiple formats available, refer to the appropriate section according
 
 Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/urlhaus-filter/wikis/compatibility) page in the wiki.
 
+Use [phishing-filter](https://gitlab.com/curben/phishing-filter) to block phishing websites.
+
 ## URL-based
 
 Import the following URL into uBO to subscribe (includes online and **offline** malicious websites):
