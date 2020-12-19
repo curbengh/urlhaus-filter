@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 19 Dec 2020 00:11:04 UTC
+# Updated: Sat, 19 Dec 2020 12:11:10 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1111,6 +1111,7 @@ msFilterList
 -d 4hourbook.com
 -d 4house.co
 -d 4hsafetyksa.com
+-d 4i7i.com
 -d 4im.us
 -d 4ingroup.com
 -d 4jt4l032ayqiw.com
@@ -1196,7 +1197,6 @@ msFilterList
 -d 518meeker.com
 -d 518td.cn
 -d 518vps.com
--d 51aiwan.com
 -d 51az.com.cn
 -d 51bairen.com
 -d 51laserclean.com
@@ -3454,7 +3454,6 @@ msFilterList
 -d agenza18.ayz.pl
 -d agenziabalestri.it
 -d agenziadiviaggidinozzetorino.it
--d agenziainformazioni.icu
 -d agepsed.org
 -d agereversalcreamam.com
 -d agernatura.com
@@ -5863,6 +5862,7 @@ msFilterList
 -d anekasolusi.info
 -d anello.it
 -d anemonrezidans.com
+-d aneoeauhiazegfiz.ru
 -d anepheron.com
 -d anescu.md.chula.ac.th
 -d anesthesia.hlogbook.ir
@@ -8173,7 +8173,6 @@ msFilterList
 -d atest001.site
 -d atfaexpo.vn
 -d atfalanabeebturkey.com
--d atfile.com
 -d atg-us.org
 -d atgeducation.com
 -d atgmail.net
@@ -16307,6 +16306,7 @@ msFilterList
 -d cdn.spider.cat
 -d cdn.timebuyer.org
 -d cdn.top4top.net
+-d cdn.truelife.vn
 -d cdn.xiaoduoai.com
 -d cdn.zecast.com
 -d cdn3.msetup.download
@@ -19085,7 +19085,6 @@ msFilterList
 -d computerforensicsasheville.com
 -d computerguy.icu
 -d computerhome24.com
--d computerhungary.hu
 -d computerjungle.it
 -d computerland.in
 -d computermegamart.com
@@ -21051,6 +21050,7 @@ msFilterList
 -d d.powerofwish.com
 -d d.teamworx.ph
 -d d.techmartbd.com
+-d d.top4top.io
 -d d.top4top.net
 -d d04.data39.helldata.com
 -d d1.amobbs.com
@@ -22573,7 +22573,6 @@ msFilterList
 -d demo.jjmayurved.com
 -d demo.jrkcompany.com
 -d demo.kanapebudapest.hu
--d demo.kechuahangdidong.com
 -d demo.kzonetechnologies.com
 -d demo.lamppostmedia.in
 -d demo.lapizblanco.com
@@ -23855,6 +23854,7 @@ msFilterList
 -d digihop.cyou
 -d digiiital.co.uk
 -d digikow.000webhostapp.com
+-d digilander.libero.it
 -d digileads.ae
 -d digilib.dianhusada.ac.id
 -d digim.asia
@@ -25299,6 +25299,7 @@ msFilterList
 -d download.adamas.ai
 -d download.azaleanet.it
 -d download.beveilingsdienst.info
+-d download.bigmail.daum.net
 -d download.bypass.cn
 -d download.cardesales.com
 -d download.conceptndev.fr
@@ -25370,7 +25371,6 @@ msFilterList
 -d downsetup0001.com
 -d downviewimaging.com
 -d downwingbuttons.site
--d downza.91speed.com.cn
 -d dowseservices.com
 -d dowsfbtool.com
 -d doxa.ca
@@ -27612,7 +27612,6 @@ msFilterList
 -d elektrotechnikagrimmb.000webhostapp.com
 -d elemanbank.com
 -d elemanyonlendirme.com
--d elemec.com.br
 -d elememory.com
 -d element31.com
 -d elementalburn.com
@@ -30326,7 +30325,6 @@ msFilterList
 -d familysgreen.com
 -d familytex.ru
 -d famint-my.sharepoint.com
--d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -31212,6 +31210,7 @@ msFilterList
 -d filebase.mogelgott.de
 -d filebox.hiworks.com
 -d filebr.com
+-d fileco.jobkorea.co.kr
 -d filedigital.ir
 -d filedistrserver.pw
 -d filedownload.gb.net
@@ -32487,7 +32486,6 @@ msFilterList
 -d fpetraardella.band
 -d fpinstalservices156793.xyz
 -d fpinstalservices698635.xyz
--d fpk.unair.ac.id
 -d fpmakerspace.com
 -d fpmanufactory.art
 -d fpmtmongolia.org
@@ -32581,6 +32579,7 @@ msFilterList
 -d frankincensesupply.com
 -d frankiptv.com
 -d franklincovey.co.ke
+-d franklincoveysuriname.com
 -d franklinsteakhousefairfield.com
 -d frankraffaeleandsons.com
 -d frankroller.de
@@ -33979,7 +33978,6 @@ msFilterList
 -d gcwhoopee.com
 -d gd-consultants.com
 -d gd.lamwebchuanseo.com
--d gd2.greenxf.com
 -d gd2334d.ru
 -d gda-eksplorasi.co.id
 -d gdai.co.il
@@ -34492,6 +34490,7 @@ msFilterList
 -d ggbbetgg.000webhostapp.com
 -d ggbc.com.br
 -d ggbnb.in
+-d ggbot.ru
 -d ggcleaner.tech
 -d gged.nl
 -d gggocambodia.com
@@ -45860,7 +45859,6 @@ msFilterList
 -d kec-cendana.enrekangkab.go.id
 -d kec-wlingi.blitarkab.go.id
 -d kecforging.com
--d kechuahangdidong.com
 -d keciorenkoltukyikama.net
 -d keckarangdadap.pekalongankab.go.id
 -d kecsfila.hu
@@ -45964,7 +45962,6 @@ msFilterList
 -d kemahasiswaan.unair.ac.id
 -d kemalerkol.net
 -d kemaster.kz
--d kemco.or.kr
 -d kemencem.net
 -d kemeri.it
 -d kemilauminang.com
@@ -47082,6 +47079,7 @@ msFilterList
 -d kolkatacleanair.in
 -d koll-partner.tax
 -d kollab-vm.tk
+-d kollab.blog.br
 -d kollymedia.in
 -d kolny.cz
 -d kolobkoproms.ug
@@ -51012,6 +51010,7 @@ msFilterList
 -d luckswatch.com
 -d lucky-goto-6358.boyfriend.jp
 -d lucky-link-design.de
+-d lucky-usa-8248.deci.jp
 -d lucky.scarabstonemovingmethod.com
 -d lucky119.com
 -d lucky7bet.com
@@ -51224,6 +51223,7 @@ msFilterList
 -d luzconsulting.com.br
 -d luzevida.com.br
 -d luzfloral.com
+-d luzy.vn
 -d luzzeri.com
 -d lvajnczdy.cf
 -d lvcfund.org.vn
@@ -51399,6 +51399,7 @@ msFilterList
 -d ma-yar.com
 -d ma.alaziz-jatisawahan.com
 -d ma.jopedu.com
+-d ma.mctv.ne.jp
 -d ma.owwwv.com
 -d maacap.com
 -d maadco.net
@@ -51513,7 +51514,6 @@ msFilterList
 -d madagascarfoment.ru
 -d madagolf.com
 -d madalozzosistemas.com.br
--d madame-coccinelle.fr
 -d madamemesquita.app4you.app.br
 -d madametood.com
 -d madancpa.com
@@ -54058,7 +54058,6 @@ msFilterList
 -d mecgwl.ac.in
 -d mechanicaltools.club
 -d mechanicsthatcometoyou.com
--d mecharnise.ir
 -d mechathrones.com
 -d mechauto.co.za
 -d mechdesign.com
@@ -55848,7 +55847,6 @@ msFilterList
 -d mkw.ba
 -d mkwu.borneo.ac.id
 -d mkwxstarserver17km.xyz
--d mky.com
 -d mkzone.com.ng
 -d ml-moto.biz
 -d ml.com.watchdogdns.duckdns.org
@@ -57085,6 +57083,7 @@ msFilterList
 -d mssltd.ie
 -d mssolutionspty.com
 -d msspartners.pl
+-d mssql.4i7i.com
 -d mst-net.de
 -d mstation.jp
 -d msteam18.com
@@ -60701,6 +60700,7 @@ msFilterList
 -d nxrtts.com
 -d nxsgroup.co
 -d nxtcloud.dittmer.at
+-d nxtfdata.xyz
 -d nxtgreen.co.in
 -d nxyykj.com
 -d ny.libconsult.ca
@@ -62024,7 +62024,6 @@ msFilterList
 -d oqni7g.dm.files.1drv.com
 -d oqrola.net
 -d oquefazeremcapetown.com.br
--d or-iraq.org
 -d or-truuce.tk
 -d or8gucu.com
 -d ora-ks.com
@@ -67039,7 +67038,6 @@ msFilterList
 -d pubertilodersx.com
 -d pubg.cheat.cx
 -d pubgaz.com
--d pubgm.vnhax.com
 -d pubgmobilemodapk.com
 -d publica.cz
 -d publicas.com.ar
@@ -73454,6 +73452,7 @@ msFilterList
 -d senaryolarim.com
 -d senasba.gob.bo
 -d senat.polnep.ac.id
+-d send.firefox.com
 -d send.webprojemiz.com
 -d senda.bmt.city
 -d senddocs.icu
@@ -74576,7 +74575,6 @@ msFilterList
 -d shola.ca
 -d sholite.com
 -d shomronshop.co.il
--d shondoshoes.com
 -d shoogyboom.com.tr
 -d shoopik.pk
 -d shoopizonline.com
@@ -75044,6 +75042,7 @@ msFilterList
 -d signalcomtwo.studiosigel.com.br
 -d signandbadge-my.sharepoint.com
 -d signandshine.lk
+-d signaramanmb.com
 -d signaturedz.com
 -d signaturepointe.ca
 -d signaturestairs.co.uk
@@ -75753,6 +75752,7 @@ msFilterList
 -d skytechretail.co.uk
 -d skytracker.be
 -d skytravel.com.tw
+-d skytv.cc
 -d skyui.com
 -d skyunlimited.net
 -d skyviewprojects.com
@@ -77531,6 +77531,7 @@ msFilterList
 -d sqftcompany.com
 -d sqgdzi.com
 -d sqjjdc.com
+-d sql.4i7i.com
 -d sql.bonin.home.pl
 -d sql.merkadetodoa92.com
 -d sql.rahatexltd.com
@@ -79437,6 +79438,7 @@ msFilterList
 -d support.loungu.com
 -d support.m2mservices.com
 -d support.nordenrecycling.com
+-d support.pubg.com
 -d support.redbook.aero
 -d support.revolus.xyz
 -d support.shopifysalesforcemadeasy.com
@@ -82137,6 +82139,7 @@ msFilterList
 -d theatlantismall.com.pk
 -d theatre-lenkom.ru
 -d theatredeschartreux.fr
+-d theatresearch.xyz
 -d theaustinochuks.com
 -d theawakeningchurch.cl
 -d theayurvedaonline.com
@@ -85347,6 +85350,7 @@ msFilterList
 -d tuvanduhocmap.com
 -d tuvangamenet.com
 -d tuvangioitinh.com
+-d tuvanluat.vn
 -d tuvansinhvien.000webhostapp.com
 -d tuvidaysalud.com
 -d tuwanjiang.com
@@ -87560,6 +87564,7 @@ msFilterList
 -d vervedevelopments.com
 -d very.ruvmp.ru
 -d veryboys.com
+-d verykool.net
 -d veryplushhair.com
 -d verzuimenreintegratie.com
 -d vesa-games.ch
@@ -87764,7 +87769,6 @@ msFilterList
 -d vidafilm.mx
 -d vidalaviva.com
 -d vidalgesso.com.br
--d vidalhealth.com
 -d vidamelhor.online
 -d vidamelhor.shop
 -d vidardeep4.icu
@@ -90573,6 +90577,7 @@ msFilterList
 -d wmf.desevens.com.ng
 -d wmg128.com
 -d wmi.1217bye.host
+-d wmi.4i7i.com
 -d wmkatz.com
 -d wmkfdu.com
 -d wmo-raad.inov.me
@@ -91214,7 +91219,6 @@ msFilterList
 -d wtede.com
 -d wtf.gorillamc.party
 -d wtftube.bid
--d wtgllc.net
 -d wtiaw.vip
 -d wtpotus.com
 -d wtstransit.com.sg
@@ -92656,6 +92660,7 @@ msFilterList
 -d yeu81.com
 -d yeu82.com
 -d yeuhang.tk
+-d yeumoitruong.vn
 -d yeuromndy.cf
 -d yeutocviet.com
 -d yewonder.com
@@ -93015,7 +93020,6 @@ msFilterList
 -d yoyoso.nz
 -d yoyoteacher.cn
 -d yp.dcyazilim.com
--d yp.hnggzyjy.cn
 -d ypbb.or.id
 -d ypddf.org
 -d ypicsdy.cf
@@ -93216,7 +93220,6 @@ msFilterList
 -d z.89fk.top
 -d z.loyaltyaboveall.com
 -d z.mumun.cn
--d z.zz.ht
 -d z0451.net
 -d z0tt3l.de
 -d z1001.net
@@ -93427,6 +93430,7 @@ msFilterList
 -d zcnet.com
 -d zcomsolutions.com
 -d zcomunicacion.com
+-d zcop.ru
 -d zcsmba.org
 -d zcxe37adonis.top
 -d zd4b.lonlyfafner.ru
@@ -93860,7 +93864,6 @@ msFilterList
 -d zonadeseguridad.net
 -d zonamarketingdigital.online
 -d zonamicrostock.com
--d zonamusicex.com
 -d zonaykan.com
 -d zone-812.ml
 -d zone3.de
