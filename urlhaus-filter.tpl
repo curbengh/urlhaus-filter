@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 20 Dec 2020 00:11:02 UTC
+# Updated: Sun, 20 Dec 2020 12:11:02 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1111,7 +1111,6 @@ msFilterList
 -d 4hourbook.com
 -d 4house.co
 -d 4hsafetyksa.com
--d 4i7i.com
 -d 4im.us
 -d 4ingroup.com
 -d 4jt4l032ayqiw.com
@@ -7377,6 +7376,7 @@ msFilterList
 -d art964.com
 -d artaan.ir
 -d artabout.gr
+-d artadvancekid.info
 -d artaghril.com
 -d artalegno.it
 -d artalumin.gr
@@ -10305,6 +10305,7 @@ msFilterList
 -d bbfr.cba.pl
 -d bbgiardinodoriente.it
 -d bbgk.de
+-d bbgroup.com.vn
 -d bbh-design.de
 -d bbhdata.com
 -d bbhs.org.ng
@@ -14957,6 +14958,7 @@ msFilterList
 -d caccng.org
 -d cach.2d73.ru
 -d cachacarianortedeminas.com.br
+-d cachapuz.com
 -d cache.windowsdefenderhost.com
 -d cachechief.com
 -d cachermanetecmatione.info
@@ -16408,6 +16410,7 @@ msFilterList
 -d ceicrim.com.br
 -d ceie.mx
 -d ceifruit.com
+-d ceillinois.com
 -d ceira.cl
 -d ceirecrear.com.br
 -d cej.vtivalves.us
@@ -19038,6 +19041,7 @@ msFilterList
 -d complience.com
 -d compln.net
 -d component.pw
+-d components.technologymindz.com
 -d composecv.com
 -d composite.be
 -d compoundy.com
@@ -24561,7 +24565,6 @@ msFilterList
 -d dmcooper.net
 -d dmcskypaisa.in
 -d dmdap.ait.co.at
--d dmdloopers.com
 -d dmdream.info
 -d dmdsurgeon.com
 -d dmdxna.by.files.1drv.com
@@ -25374,6 +25377,7 @@ msFilterList
 -d downsetup0001.com
 -d downviewimaging.com
 -d downwingbuttons.site
+-d downza.91speed.com.cn
 -d dowseservices.com
 -d dowsfbtool.com
 -d doxa.ca
@@ -26898,7 +26902,6 @@ msFilterList
 -d economiadigital.biz
 -d economika.com.ve
 -d economizei.shop
--d economplast.com
 -d economywindowcleaner.com
 -d econoteen.fea.usp.br
 -d econotel.us
@@ -31245,6 +31248,7 @@ msFilterList
 -d files.dropmybin.me
 -d files.enjin.com
 -d files.gathercdn.com
+-d files.hrloo.com
 -d files.l-d.tech
 -d files.mirai-2viv.vn
 -d files.occarlsongracieteams.com
@@ -32492,6 +32496,7 @@ msFilterList
 -d fpetraardella.band
 -d fpinstalservices156793.xyz
 -d fpinstalservices698635.xyz
+-d fpk.unair.ac.id
 -d fpmakerspace.com
 -d fpmanufactory.art
 -d fpmtmongolia.org
@@ -35197,7 +35202,6 @@ msFilterList
 -d go.sharewilly.de
 -d go.skyyer.com
 -d go2035.ru
--d go2l.ink
 -d go4it24.be
 -d go5bln3.com
 -d go80tokoonline.com
@@ -37415,7 +37419,6 @@ msFilterList
 -d harriscustomcatering.com
 -d harrisheatpumps.nz
 -d harrisnewtech.ir
--d harrisoncarter.com
 -d harrisonlily.co.uk
 -d harryfang.com
 -d harryhiggins.com
@@ -37762,7 +37765,6 @@ msFilterList
 -d healthlinemarketing.com
 -d healthmantri.com
 -d healthnbeautylab.com
--d healthnet.sk
 -d healthnewsletters.org
 -d healthnwellness.in
 -d healthphilic.com
@@ -43124,7 +43126,6 @@ msFilterList
 -d izaskunsaez.com
 -d izavu.com
 -d izbetalia.com
--d izeeker.com
 -d izeres.ml
 -d izerone.com
 -d izeussolutions.com
@@ -45766,7 +45767,6 @@ msFilterList
 -d kaznet.com
 -d kazzuestore.com
 -d kb.bitcoins101.ca
--d kb.in.ua
 -d kb2m5hn6cm6crmcw.4tor.ml
 -d kbbmorissa.com
 -d kbcannabis.ciip-cis.co
@@ -46748,6 +46748,7 @@ msFilterList
 -d kkdas.net
 -d kkeely.pw
 -d kkindonesia.com
+-d kkjgg.yufjgg.com
 -d kkk-2365.com
 -d kkk-3712.com
 -d kkk-3728.com
@@ -47023,7 +47024,6 @@ msFilterList
 -d kodim0112sabang.com
 -d kodingeko.com
 -d kodip.nfile.net
--d kodjdsjsdjf.tk
 -d kodlacan.site
 -d kodmuje.com
 -d kodolios.000webhostapp.com
@@ -47380,6 +47380,7 @@ msFilterList
 -d kpuru.com
 -d kqfkqkf7ma.temp.swtest.ru
 -d kqs.me
+-d kr1s.ru
 -d kr888.top
 -d krabben.no
 -d krabbendamphotography.com
@@ -49473,6 +49474,7 @@ msFilterList
 -d library.cifor.org
 -d library.dhl-xom.com
 -d library.iainbengkulu.ac.id
+-d library.mju.ac.th
 -d library.phibi.my.id
 -d library.strophicmusic.com
 -d library.udom.ac.tz
@@ -50119,7 +50121,6 @@ msFilterList
 -d livecigarevent.com
 -d livecricketscorecard.info
 -d livedaynews.com
--d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d livefarma.com
@@ -51122,7 +51123,6 @@ msFilterList
 -d luminoushomeinspection.com
 -d luminousinvestment.com
 -d lumnus.com.br
--d lumoura.com
 -d lumperpush.com
 -d lumsdancorp.com
 -d lun.otrweb.ru
@@ -54069,6 +54069,7 @@ msFilterList
 -d mecgwl.ac.in
 -d mechanicaltools.club
 -d mechanicsthatcometoyou.com
+-d mecharnise.ir
 -d mechathrones.com
 -d mechauto.co.za
 -d mechdesign.com
@@ -55397,6 +55398,7 @@ msFilterList
 -d mimsite.net
 -d min.addeosriverdalepizzabx.com
 -d minami.com.tw
+-d minanga.co.id
 -d minaset.com.br
 -d minasflorals.com.au
 -d minburiprison.com
@@ -57094,7 +57096,6 @@ msFilterList
 -d mssltd.ie
 -d mssolutionspty.com
 -d msspartners.pl
--d mssql.4i7i.com
 -d mst-net.de
 -d mstation.jp
 -d msteam18.com
@@ -60088,6 +60089,7 @@ msFilterList
 -d nomadshop.ru
 -d nomadztruck.com
 -d nomak.it
+-d nomalware.info
 -d nomark.tw
 -d nomaspload.com
 -d nomatyeinstitute.co.za
@@ -60644,7 +60646,6 @@ msFilterList
 -d nutriglobe.com
 -d nutrihealwellness.com
 -d nutrilatina.com.br
--d nutrinor.com.br
 -d nutriprovitality.es
 -d nutrisci.org
 -d nutrisea.net
@@ -62036,6 +62037,7 @@ msFilterList
 -d oqni7g.dm.files.1drv.com
 -d oqrola.net
 -d oquefazeremcapetown.com.br
+-d or-iraq.org
 -d or-truuce.tk
 -d or8gucu.com
 -d ora-ks.com
@@ -62649,6 +62651,7 @@ msFilterList
 -d ozcamlibel.com.tr
 -d ozcanelektronik.com.tr
 -d ozdemirpolisaj.com
+-d ozdevelopment.com
 -d oze-opole.pl
 -d oze.vn
 -d ozelenenie.pp.ua
@@ -64075,7 +64078,6 @@ msFilterList
 -d personal-loan-consultation.smartsolutionscm.com.my
 -d personal.nwolb.user.log.security.cod.issue.fondue-at-the-fountain.com
 -d personal.support.lookout.com
--d personalcollection.com.ph
 -d personalexperten.webseite-programmierung.de
 -d personalfsbocoach.com
 -d personalized-tee-shirts.com
@@ -64432,6 +64434,7 @@ msFilterList
 -d photo-midorikawa.info
 -d photo.6nationstabletenniscup.com
 -d photo.mikerizzello.com
+-d photo.sohu.com
 -d photo2.nerdtonik.com
 -d photobook-design.de
 -d photobussacramento.com
@@ -64832,7 +64835,6 @@ msFilterList
 -d pivotpower24.com
 -d pivotqari.sk
 -d pixandflix.com
--d pixargentina.com
 -d pixat.eu
 -d pixel.as
 -d pixel.mobycare.website
@@ -65004,7 +65006,6 @@ msFilterList
 -d plasticoilmachinery.com
 -d plasticsheets.ie
 -d plasticsurgeryfamouspeople.com
--d plastiflex.com.py
 -d plastiheat.com
 -d plastimax.com.br
 -d plastsearch.com
@@ -66243,6 +66244,7 @@ msFilterList
 -d pristineglassmirror.com
 -d pristinequill.com
 -d prith-hauts-de-france.org
+-d prithvigroup.net
 -d pritsep56.ru
 -d prittworldproperties.co.ke
 -d privacy-store2020.net
@@ -67050,6 +67052,7 @@ msFilterList
 -d pubertilodersx.com
 -d pubg.cheat.cx
 -d pubgaz.com
+-d pubgm.vnhax.com
 -d pubgmobilemodapk.com
 -d publica.cz
 -d publicas.com.ar
@@ -70685,7 +70688,6 @@ msFilterList
 -d rosecoconsult.ru
 -d rosedeguzman.com
 -d rosegreenstein.com
--d rosehill.hu
 -d rosehitam.com
 -d roseisspecial.com
 -d roselvi.cl
@@ -73464,7 +73466,6 @@ msFilterList
 -d senaryolarim.com
 -d senasba.gob.bo
 -d senat.polnep.ac.id
--d send.firefox.com
 -d send.webprojemiz.com
 -d senda.bmt.city
 -d senddocs.icu
@@ -75707,7 +75708,6 @@ msFilterList
 -d skvely.eu
 -d skvflexandoffset.in
 -d sky-gladenkaya.ru
--d sky.od.ua
 -d skybeetravels.cheapflightso.co.uk
 -d skybest.ir
 -d skybet888.info
@@ -75764,7 +75764,6 @@ msFilterList
 -d skytechretail.co.uk
 -d skytracker.be
 -d skytravel.com.tw
--d skytv.cc
 -d skyui.com
 -d skyunlimited.net
 -d skyviewprojects.com
@@ -75948,6 +75947,7 @@ msFilterList
 -d smart-testsolutions.watchdogdns.duckdns.org
 -d smart-way.su
 -d smart-ways.tn
+-d smart.cloudnetwork.kz
 -d smart360solutions.com
 -d smartacademie.nl
 -d smartad.cloud
@@ -76052,7 +76052,6 @@ msFilterList
 -d smarttiling.co.za
 -d smarttoysbalkans.com
 -d smarttravel.sotoriagroup.com
--d smartwebdns.net
 -d smartwiztech.com
 -d smartxstate.org
 -d smartzedu.com
@@ -77544,7 +77543,6 @@ msFilterList
 -d sqftcompany.com
 -d sqgdzi.com
 -d sqjjdc.com
--d sql.4i7i.com
 -d sql.bonin.home.pl
 -d sql.merkadetodoa92.com
 -d sql.rahatexltd.com
@@ -79337,7 +79335,6 @@ msFilterList
 -d supadom.fr
 -d supamidland-my.sharepoint.com
 -d supcargo.com
--d supdate.mediaweb.co.kr
 -d super-filtr.ru
 -d super-gamezer.com
 -d super-industries.co
@@ -79450,6 +79447,7 @@ msFilterList
 -d support.jbrueggemann.com
 -d support.loungu.com
 -d support.m2mservices.com
+-d support.mdsol.com
 -d support.nordenrecycling.com
 -d support.pubg.com
 -d support.redbook.aero
@@ -79499,6 +79497,7 @@ msFilterList
 -d sureshdangol.com.np
 -d sureshnaturopathy.in
 -d surewaytoheaven.org
+-d surfaceartinc.com
 -d surfcrypto.life
 -d surfel.tk
 -d surfersupport.com
@@ -82153,7 +82152,6 @@ msFilterList
 -d theatlantismall.com.pk
 -d theatre-lenkom.ru
 -d theatredeschartreux.fr
--d theatresearch.xyz
 -d theaustinochuks.com
 -d theawakeningchurch.cl
 -d theayurvedaonline.com
@@ -85236,6 +85234,7 @@ msFilterList
 -d tunnelpros.com
 -d tunnelview.co.uk
 -d tuobrasocial.com.ar
+-d tuoitrethainguyen.vn
 -d tupibaje.com
 -d tur.000webhostapp.com
 -d turadioestereo.com
@@ -85364,7 +85363,6 @@ msFilterList
 -d tuvanduhocmap.com
 -d tuvangamenet.com
 -d tuvangioitinh.com
--d tuvanluat.vn
 -d tuvansinhvien.000webhostapp.com
 -d tuvidaysalud.com
 -d tuwanjiang.com
@@ -86598,7 +86596,6 @@ msFilterList
 -d url-validation-clients.com
 -d url.246546.com
 -d url.57569.fr.snd52.ch
--d url2.mailanyone.net
 -d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
@@ -87006,7 +87003,6 @@ msFilterList
 -d valerialoromilan.com
 -d valeriapernas.com.ar
 -d valerieheslop.co.uk
--d valerii.org
 -d valerioolivaforestal.com.ar
 -d valery.ir
 -d valesports.com.br
@@ -90590,8 +90586,6 @@ msFilterList
 -d wmebbiz.co.za
 -d wmf.desevens.com.ng
 -d wmg128.com
--d wmi.1217bye.host
--d wmi.4i7i.com
 -d wmkatz.com
 -d wmkfdu.com
 -d wmo-raad.inov.me
@@ -93034,6 +93028,7 @@ msFilterList
 -d yoyoso.nz
 -d yoyoteacher.cn
 -d yp.dcyazilim.com
+-d yp.hnggzyjy.cn
 -d ypbb.or.id
 -d ypddf.org
 -d ypicsdy.cf
@@ -93879,6 +93874,7 @@ msFilterList
 -d zonadeseguridad.net
 -d zonamarketingdigital.online
 -d zonamicrostock.com
+-d zonamusicex.com
 -d zonaykan.com
 -d zone-812.ml
 -d zone3.de
