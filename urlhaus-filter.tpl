@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 19 Dec 2020 12:11:10 UTC
+# Updated: Sun, 20 Dec 2020 00:11:02 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2928,6 +2928,7 @@ msFilterList
 -d adonissanat.com
 -d adopt-foster-volunteer.com
 -d adopteememo.com
+-d adopteerightslaw.org
 -d adoqqg.bn.files.1drv.com
 -d adorale.cl
 -d adorar.co.kr
@@ -6199,6 +6200,7 @@ msFilterList
 -d antifurtogtalarm.it
 -d antiga.cinemaencurs.org
 -d antigua.aguilarnoticias.com
+-d antika-ritter.si
 -d antikafikirler.com
 -d antikapikap.com
 -d antikipekhali.com
@@ -10206,6 +10208,7 @@ msFilterList
 -d bautech-nickels.de
 -d bauzeichnung.com
 -d bavaro.cv
+-d bavhome.com
 -d bavinksa.com
 -d bavlcentral.org
 -d bavmed.ru
@@ -11709,6 +11712,7 @@ msFilterList
 -d billing.wpkami.com
 -d billingsupport.ru
 -d billingtonbarristers.com
+-d billingup.com
 -d billink.in
 -d billionaires-indo.com
 -d billiontexting.com
@@ -14268,7 +14272,6 @@ msFilterList
 -d buckmoney.xyz
 -d buckperkins.site
 -d bucksngems.com
--d buckzy.net
 -d bucofaringeo.com
 -d bucuoguo.cc
 -d bucuresti.andreea-escort.com
@@ -15522,7 +15525,6 @@ msFilterList
 -d caranatrium.com
 -d carasaan.com
 -d caratafrica.com
--d caratculture.com
 -d caraterbaik.berita.usm.ac.id
 -d caravaning.si
 -d caravella.com.br
@@ -17171,6 +17173,7 @@ msFilterList
 -d chicagostation.com
 -d chicagostoneremodeling.com
 -d chicagotaxi.org
+-d chicagoyachtguru.com
 -d chicare.aguademo.com
 -d chicbakes.com
 -d chichilimxhost.com
@@ -21301,7 +21304,6 @@ msFilterList
 -d dakwahwisata.net
 -d daladalaproductions.com
 -d dalaideveloper.in
--d daland.info
 -d dalandolan.id
 -d dalao5188.top
 -d dalatmarketing.com
@@ -25065,6 +25067,7 @@ msFilterList
 -d dooball.biz
 -d doobegroup.com
 -d dooch.vn
+-d doodahlabs.com
 -d doodeejewelry.net
 -d doodlebug.club
 -d doodledesign.in
@@ -26085,6 +26088,7 @@ msFilterList
 -d dunyasanitasyon.org
 -d dunysaki.ru
 -d duoclieu247.com
+-d duolife-partner.com
 -d duoliprudential.com.watchdogdns.duckdns.org
 -d duomasters.com
 -d duongcaoky.com
@@ -27871,6 +27875,7 @@ msFilterList
 -d elsiah.com
 -d elsieboo.us
 -d elsiesamson.com
+-d elsistemausa.org
 -d elsoler.cat
 -d elsolivers.com
 -d elsoto.org
@@ -30718,6 +30723,7 @@ msFilterList
 -d fcco1936.com
 -d fcdrealcanavese.com
 -d fce-transport.nl
+-d fce.edu.br
 -d fcelestinerey.com
 -d fcespoo.urheilutekstiilit.fi
 -d fcf.net
@@ -33693,7 +33699,6 @@ msFilterList
 -d gapsystem.com.ar
 -d gaptech.club
 -d gaptest.com
--d gapuragamapersada.com
 -d garage-ucg.com
 -d garage.themebuffets.com
 -d garagebean.com
@@ -34637,6 +34642,7 @@ msFilterList
 -d giave.vn
 -d giaxetoyotahadong.com
 -d giay136.com
+-d giay247.com
 -d giaybespoke.com
 -d giaydankinhchongnang.com
 -d giaydantuong-cantho.com
@@ -36777,7 +36783,6 @@ msFilterList
 -d gxzncd.com
 -d gy.nuecesbend.com
 -d gyadda.com
--d gyandarbar.com
 -d gyanenglishacademy.com
 -d gyankendra.com
 -d gyanmahal.com
@@ -36792,6 +36797,7 @@ msFilterList
 -d gymbolaget.se
 -d gymfa.ir
 -d gymgawd.com
+-d gymmare.com
 -d gymmy.it
 -d gymonindia.com
 -d gymsymmetry.mx
@@ -38395,6 +38401,7 @@ msFilterList
 -d hightea.tk
 -d hightec.cl
 -d hightimes.ge
+-d hightwink.net
 -d highvoltageextracts.ca
 -d higigs.com
 -d higo.net
@@ -40673,6 +40680,7 @@ msFilterList
 -d ik-7.ru
 -d ik-instaling.com
 -d ik.termopanemaramures.ro
+-d ikahotel.com
 -d ikama.cal24.pl
 -d ikamel.com
 -d ikanwa.com
@@ -45754,6 +45762,7 @@ msFilterList
 -d kazemart.com
 -d kazhin.com
 -d kazia.paris.mon-application.com
+-d kaziriad.com
 -d kaznet.com
 -d kazzuestore.com
 -d kb.bitcoins101.ca
@@ -46538,6 +46547,7 @@ msFilterList
 -d kingdomrestoration.co.za
 -d kingdomtaku.xyz
 -d kingefashion.cba.pl
+-d kingfenestra.com
 -d kingfishervideo.com
 -d kinginfogamer.com
 -d kinginternational.co.uk
@@ -53881,6 +53891,7 @@ msFilterList
 -d mcafeeprotect.xyz
 -d mcalbertoxd.000webhostapp.com
 -d mcarelnehr.fr
+-d mcatcher.cn
 -d mcbeth.com.au
 -d mcbusaccel.com
 -d mcc.pe
@@ -58242,6 +58253,7 @@ msFilterList
 -d nancycheng.nl
 -d nancykwok.com
 -d nancymillercoaching.com
+-d nancymthompson.com
 -d nancysartor.com
 -d nancyshairbeauty.nl
 -d nancywhite-realtor.com
@@ -60500,7 +60512,6 @@ msFilterList
 -d ntslab.pl
 -d ntsuporte.com.br
 -d nttdelhi.com
--d nttvbharat.com
 -d ntupdate3.top
 -d ntupdate4.top
 -d ntvfdsf.fr.ht
@@ -60568,6 +60579,7 @@ msFilterList
 -d nuochoavungkin.net
 -d nuomed.com
 -d nuovacredit.com
+-d nuovaitaldent.it
 -d nuovak.com
 -d nuovalo.site
 -d nuoviclienti.net
@@ -67830,7 +67842,6 @@ msFilterList
 -d qualitatexpertises-my.sharepoint.com
 -d qualitec.pl
 -d qualityairpart.com
--d qualityansweringservice.com
 -d qualityautoservices.co.uk
 -d qualitybeverages.co.za
 -d qualitycontaccenter.com
@@ -72053,6 +72064,7 @@ msFilterList
 -d samnpaul.com
 -d samoa.ws
 -d samogonniyapparat.ru
+-d samontime.com
 -d samoprogrammy.ru
 -d samostroy.net
 -d samoticha.de
@@ -76891,6 +76903,7 @@ msFilterList
 -d sosflam.com
 -d sosh47.citycheb.ru
 -d sosofoto.cz
+-d sososothemes.com
 -d sospkarachi.org.pk
 -d sosqom.ir
 -d sosseguranca.com.br
@@ -80125,6 +80138,7 @@ msFilterList
 -d tableau.inycom.es
 -d tableauxargentes.com
 -d tablelightplace.com
+-d tabletalk.cn
 -d tablez.in
 -d tablichnik.shop
 -d tabloid.id
@@ -82315,6 +82329,7 @@ msFilterList
 -d thedndesigngroup.com
 -d thedopplershift.co.uk
 -d thedot.vn
+-d thedp.org
 -d thedressmaker.pk
 -d thedriver.ca
 -d thedunedinsmokehouse.com
@@ -84565,7 +84580,6 @@ msFilterList
 -d travel2njoy.com
 -d travel4y.com
 -d travelakhalkalaki.com
--d travelandbusiness.com.mx
 -d travelandsmile.it
 -d travelblog.rasay.me
 -d travelcentreny.com
@@ -93362,6 +93376,7 @@ msFilterList
 -d zangemeister.de
 -d zanjhrhhyh.cf
 -d zanpress.com
+-d zanxcx.com
 -d zaometallosnab.ru
 -d zaoyinzhili.com
 -d zapatoscr.000webhostapp.com
