@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 20 Dec 2020 12:11:02 UTC
+# Updated: Mon, 21 Dec 2020 00:11:08 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -20268,6 +20268,7 @@ msFilterList
 -d criaresports.com.br
 -d cribmoto.hu
 -d cricbangla.net
+-d cricfc.com
 -d crichardsdesigns.com
 -d crichcreative.com
 -d cricket-info.in
@@ -21335,7 +21336,6 @@ msFilterList
 -d damagedessentialtelecommunications.testmail4.repl.co
 -d damandeepsingh.com
 -d damaniasons.com
--d damayab.com
 -d damcbh.com
 -d damcoservices.com
 -d damernesmagasin.net
@@ -25649,6 +25649,7 @@ msFilterList
 -d drinksevia.nl
 -d drippglobal.com
 -d drischler.de
+-d dritaislame.al
 -d drive.carlsongracieanaheim.com
 -d drive.deescreationstore.com
 -d drive.google-us-cdn.com
@@ -30390,6 +30391,7 @@ msFilterList
 -d fantomhmao.ru
 -d fantucho.info
 -d fanuc-eu.com
+-d fanxiang.gq
 -d fanyaya.cn
 -d fanzi.vn
 -d fanzo.ir
@@ -34321,6 +34323,7 @@ msFilterList
 -d gerdosan.com
 -d gergis.net
 -d gergoayu.tk
+-d gerhardtsauto.com
 -d geriatricdementiaconsulting.com
 -d germafrica.co.za
 -d german.com.br
@@ -34881,7 +34884,6 @@ msFilterList
 -d glambooth.nl
 -d glamoroushairextension.com
 -d glamour.rosolutions.com.mx
--d glamourequipamiento.com
 -d glamourgarden-lb.com
 -d glamourlounge.org
 -d glamox.pl
@@ -39532,7 +39534,6 @@ msFilterList
 -d hrcofindia.co.in
 -d hrdivx.com
 -d hrdwo.org.pk
--d hredoybangladesh.com
 -d hrenergysolutions.co.uk
 -d hrghpyxiqg.com
 -d hrhorizons.co.uk
@@ -41787,6 +41788,7 @@ msFilterList
 -d insidermetric.com
 -d insideworkfurniture.com
 -d insight-analytica-amir.000webhostapp.com
+-d insight-post.tw
 -d insightart.info
 -d insightaxis.ditdev.net
 -d insighteyecarefoundation.com
@@ -47418,6 +47420,7 @@ msFilterList
 -d kravmagail.linuxisrael.co.il
 -d kravmagaireland.com
 -d krawangan.com
+-d krayker.com
 -d krazy-tech.com
 -d krazyfin.com
 -d krazyfoxx9.xyz
@@ -52851,6 +52854,7 @@ msFilterList
 -d mansoursruggallery.com
 -d mantaschule.gr
 -d mantaspesadas.com
+-d mantenanews.com
 -d mantenimientosocana.es
 -d mantis.co.ug
 -d mantoerika.yazdvip.ir
@@ -55007,6 +55011,7 @@ msFilterList
 -d miavvip.com
 -d miazen.ca
 -d mibolamas.com
+-d mibora.fr
 -d mic3412.ir
 -d micahproducts.com
 -d micalle.com.au
@@ -58059,6 +58064,7 @@ msFilterList
 -d na4dr.com
 -d na5rh.com
 -d na6j8eg.com
+-d naachii.com
 -d naact.in
 -d naadeifashioninstitute.com
 -d naama-jewelry.co.il
@@ -61510,7 +61516,6 @@ msFilterList
 -d ominnovators.com
 -d omitkyspisar.cz
 -d omiwnusantara.com
--d omkam.org
 -d omkarcreative.co.in
 -d omlinux.com
 -d ommar.ps
@@ -62532,7 +62537,6 @@ msFilterList
 -d overclock.abcwebclient.com
 -d overcreative.com
 -d overenvy.5gbfree.com
--d overflod-lr.com
 -d overflowinteractive.com
 -d overhax.org
 -d overheaddoorsandlocksmith.com
@@ -64216,6 +64220,7 @@ msFilterList
 -d petsol.com.br
 -d petstores.com
 -d pettsi.org
+-d petvarols.eu
 -d peveyhack.com
 -d pew.angelystor.com
 -d peworks.co.in
@@ -66418,6 +66423,7 @@ msFilterList
 -d profamilin.com
 -d profan.es
 -d profatos.com.br
+-d profblogging.com
 -d profbuh.org
 -d profconveer.ru
 -d profdela.ru
@@ -69215,6 +69221,7 @@ msFilterList
 -d reelectgina.com
 -d reeltorealomaha.com
 -d reeltv.org
+-d reenasbrand.com
 -d reenasfashions.com
 -d reencauchadoraremax.com
 -d reenroomstudio.live
@@ -73158,6 +73165,7 @@ msFilterList
 -d secretbeauty.ge
 -d secretofexistence.com
 -d secretpath.xyz
+-d secrice.com
 -d secscan.oss-cn-hangzhou.aliyuncs.com
 -d sectaway.com
 -d sector26.com
@@ -80051,6 +80059,7 @@ msFilterList
 -d szrsofa.rs
 -d szsett.cn
 -d szwalnia.budniq.com
+-d szwrs.com
 -d szwymall.com
 -d szxypt.com
 -d szymonszyperski.pl
@@ -80576,6 +80585,7 @@ msFilterList
 -d tarj.co.uk
 -d tarjetaenlinea.com.ve
 -d tarjetasas.com
+-d tarkett.com.br
 -d tarksheel.org
 -d tarlow.me
 -d tarmah.com.my
@@ -82642,7 +82652,6 @@ msFilterList
 -d themsc.net
 -d themuertitos.com
 -d themusae.com
--d thenaturehouse.ie
 -d thenatureszest.com
 -d theneews.us
 -d theneonblonde.com
@@ -85774,6 +85783,7 @@ msFilterList
 -d uewizi.com
 -d ufa.planetasvet.ru
 -d ufa165.com
+-d ufa168ss.com
 -d ufaam789.com
 -d ufabet.soccer
 -d ufabet168168.329263.com
@@ -85870,6 +85880,7 @@ msFilterList
 -d ukaimc.webredirect.org
 -d ukamoxil-amoxicillin.com
 -d ukapindism.com
+-d ukasian.com
 -d ukaygram.com
 -d ukaytrades.tk
 -d ukbs-my.sharepoint.com
@@ -87511,6 +87522,7 @@ msFilterList
 -d verdictscatter.com
 -d verdictx.tk
 -d verdient.com
+-d vereadorgilbertomelo.com.br
 -d vereb.com
 -d vereide.no
 -d veremac.cl
@@ -88736,7 +88748,6 @@ msFilterList
 -d vqz8.gotdns.ch
 -d vr.dawang.ink
 -d vr.webdesignhd.nl
--d vr4business.ch
 -d vrajlal-ambaliya.com
 -d vrankendiamant.co.kr
 -d vrcarwash.pt
@@ -91624,7 +91635,6 @@ msFilterList
 -d xiztance.com
 -d xj.sohui.top
 -d xk625lf.com
--d xkeji.cn
 -d xkld-nhatban-infinity.com
 -d xkldtanson.com
 -d xkvm.cn
@@ -93490,6 +93500,7 @@ msFilterList
 -d zeilbeck-metallbau.de
 -d zeilnhofer.com
 -d zeinababbas.com
+-d zeing-kor.com
 -d zeinguitars.com
 -d zeitraisen.com
 -d zekahomestyle.nl
