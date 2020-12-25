@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 24 Dec 2020 12:11:22 UTC
+# Updated: Fri, 25 Dec 2020 00:11:27 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -145,7 +145,6 @@ msFilterList
 -d 1056.allenbrothersfood.com
 -d 106829979-802763948852434700.preview.editmysite.com
 -d 1069thefan.cachevalleymediagroup.com
--d 1069thefan.com
 -d 106b.com
 -d 107.as7x.com
 -d 1080wallpapers.xyz
@@ -1869,6 +1868,7 @@ msFilterList
 -d a8.netlify.com
 -d a82ecpx9ioi48j0t7jlh.tk
 -d a84bl82rni.ru
+-d a85tt.com
 -d a88.bulehero.in
 -d a8ku.cn
 -d a98n98.xyz
@@ -2541,6 +2541,7 @@ msFilterList
 -d acnexplained.com
 -d aco-finance.nl
 -d acoarts.ir
+-d acoauto.es
 -d acolherintegrativo.com.br
 -d aconcaguaultratrail.com.ar
 -d aconchegosdobrasil.com.br
@@ -3135,6 +3136,7 @@ msFilterList
 -d aeii.net
 -d aeil.co.in
 -d aeinehgypsum.com
+-d aeinvest.com.vn
 -d aejosh.com
 -d aejt-ci.org
 -d aela.co
@@ -5389,6 +5391,7 @@ msFilterList
 -d amc.swiss
 -d amcg.org.mx
 -d amcgsr.com.mx
+-d amchealth.com
 -d amcleonardo.ru
 -d amcmckinney.com
 -d amcoitsystems.com
@@ -6360,6 +6363,7 @@ msFilterList
 -d aodeli-my.sharepoint.com
 -d aodisen.us
 -d aoeen.cn
+-d aofortunes.com
 -d aogmt2.com
 -d aoi3.com
 -d aoiap.org
@@ -9953,6 +9957,7 @@ msFilterList
 -d baobikientuong.com
 -d baocangwh.cn
 -d baodong.vn
+-d baoduongdieuhoa365.com
 -d baohanhtulanhsamsung.net
 -d baohiemdaiichi.net
 -d baoho.zweb.xyz
@@ -10173,6 +10178,7 @@ msFilterList
 -d baskinside.com
 -d basland.nl
 -d basmaclinic.com
+-d basmahane.com
 -d basr.sunrisetheme.com
 -d basscoastphotos.com
 -d basse-vision.info
@@ -15319,6 +15325,7 @@ msFilterList
 -d camexpertangkor.com
 -d camexsuriname.sr
 -d camfriendly.com
+-d camhighlight.com
 -d camhpseattle.com
 -d camilacohen.com.br
 -d camiladell.com
@@ -17732,6 +17739,7 @@ msFilterList
 -d cid.ag
 -d cidadeempreendedora.org.br
 -d cidadefm87.com.br
+-d cidadehoje.pt
 -d cidertree.libfoobar.com
 -d cididlawfirm.com
 -d cidoresearch.com
@@ -20058,6 +20066,7 @@ msFilterList
 -d covidbase.info
 -d covidglobalupdate.myftp.biz
 -d covidinternationalspreadsoomuchtruehead.duckdns.org
+-d covidproduct.in
 -d covidsonline.com
 -d covitourperu.com
 -d covm.icom.com.br
@@ -20576,6 +20585,7 @@ msFilterList
 -d crthmed.com
 -d crtvfm.com
 -d crucerohalong.es
+-d crucial.co.jp
 -d crudenergyllc.com
 -d crudtest.srintegrated.com
 -d cruelacid.com
@@ -23802,6 +23812,7 @@ msFilterList
 -d diamondsareforeverband.com
 -d diamondsforlife.com.au
 -d diamondshieldconcrete.youcheckit.ca
+-d diamondsindonesia.com
 -d diamondsonearth.com
 -d diamondsweb.site
 -d diamondtv.net
@@ -24706,6 +24717,7 @@ msFilterList
 -d dltm.edu.vn
 -d dlucca.com
 -d dlwebermanlaw.com
+-d dlwx999.com
 -d dlysxx.cn
 -d dm-info.fr
 -d dm-studios.net
@@ -32263,6 +32275,7 @@ msFilterList
 -d fms.limited
 -d fmshouse.com
 -d fmstudio.cz
+-d fmtc2go.com
 -d fmturls.host
 -d fmvzuasvirtual.com
 -d fmworks.com.tr
@@ -41703,6 +41716,7 @@ msFilterList
 -d infinitec.com
 -d infinitechsolutionsph.com
 -d infinitedivineministry.org
+-d infinitefacade.com
 -d infinitek.fr
 -d infinitemediausa.com
 -d infinitepower.me
@@ -47296,6 +47310,7 @@ msFilterList
 -d knutschmidt.de
 -d knuymon.com
 -d knw.com.br
+-d knzazmrserv194.xyz
 -d ko-racingshop.com
 -d ko.daxuguzhen.cn
 -d koalamedya.com
@@ -49766,6 +49781,7 @@ msFilterList
 -d lgflashtool.info
 -d lgg.adv.br
 -d lggpm.live
+-d lgjmcaz.cn
 -d lglab.co.uk
 -d lgmi.org.uk
 -d lgonlinecenter.com
@@ -50013,7 +50029,6 @@ msFilterList
 -d lightechelectric.com
 -d lighteningmedialabs.com
 -d lighteningplayer.com
--d lightenpdf.com
 -d lightforthezulunation.org
 -d lightfromheaven.org
 -d lighthouse-safety-solutions.co.uk
@@ -50073,6 +50088,7 @@ msFilterList
 -d liketop.tk
 -d likhonosova.dp.ua
 -d likino.com
+-d likipki.com
 -d likonifreighters.com
 -d likssmp.ru
 -d likuto.com
@@ -50090,6 +50106,7 @@ msFilterList
 -d lillethun.com
 -d lillianjamescreative.com
 -d lillipillicatering.com
+-d lillys.nl
 -d lilong.wiki
 -d lilpilito.cf
 -d lily-lena.nl
@@ -50226,6 +50243,7 @@ msFilterList
 -d linhkien36.net.co
 -d linhkienaiot.com
 -d linhkienlaptopcaugiay.com
+-d linhkienmaymay.net
 -d linhkienvanthai.com
 -d linhtumblr.com
 -d linhviet.com.vn
@@ -52022,6 +52040,7 @@ msFilterList
 -d magasen5.es
 -d magashazi.hu
 -d magazin.jobmensa.de
+-d magazine-lib.com
 -d magazine.agripedia.ci
 -d magazine.asifabih.com
 -d magazine.dtac.co.th
@@ -56107,6 +56126,7 @@ msFilterList
 -d misterglobe.org
 -d mistermarble.co.uk
 -d mistermini.com.br
+-d misterpearl.com
 -d mistersanji.com
 -d misterson.com
 -d mistikmarket.com
@@ -63196,6 +63216,7 @@ msFilterList
 -d pacifictrad.com
 -d pacifictrident.com
 -d pacifictridentfunding.com
+-d pacificunitedfootball.ca
 -d paciorkiewicz.pl
 -d pacivilwar.org
 -d pack.1e5.com
@@ -63703,6 +63724,7 @@ msFilterList
 -d parmie.net
 -d parmisco.com
 -d paroquiadamarinhagrande.pt
+-d paroquiasirmas.com.br
 -d parpakitos.ug
 -d parqueberneck.com.br
 -d parquememorialjapi.com.br
@@ -67028,6 +67050,7 @@ msFilterList
 -d projectcoverup.com
 -d projectdoxamw.org
 -d projectexpertise.com.au
+-d projectinternet.com
 -d projectlyttelton-my.sharepoint.com
 -d projectofupdater.narod2.ru
 -d projectolynx.com
@@ -70719,6 +70742,7 @@ msFilterList
 -d riyanshoppingbags.com
 -d riyansolution.com
 -d riyareiki.com
+-d riyazsahaab.com
 -d rize-act-web.net
 -d riziqmalkawi-001-site1.ftempurl.com
 -d rizkitech.com
@@ -77302,6 +77326,7 @@ msFilterList
 -d somuchmore.ws
 -d somudigital.in
 -d son15.com
+-d sonacars.com
 -d sonaedons.com
 -d sonamu-ffm.de
 -d sonamyfan362.ca
@@ -79884,7 +79909,6 @@ msFilterList
 -d supcargo.com
 -d supdate.mediaweb.co.kr
 -d super-filtr.ru
--d super-gamezer.com
 -d super-industries.co
 -d super-plus.pl
 -d supera.com.br
@@ -80148,7 +80172,6 @@ msFilterList
 -d suzannababyshop.com
 -d suzannejade.com
 -d suzannemichaels.com
--d suzano.sp.gov.br
 -d suzhouch.com
 -d suzman.net
 -d suzukicibubur.com
@@ -85342,6 +85365,7 @@ msFilterList
 -d triangolodelbenessere.it
 -d triani.in
 -d triaptics-berlin.com
+-d trias-energy.com
 -d triathlethe.ug
 -d triaxnet.com.br
 -d tribalreg.com
@@ -87117,6 +87141,7 @@ msFilterList
 -d upsabi.ninth.biz
 -d upsaker.no
 -d upscionline.com
+-d upsfrance-download.com
 -d upshatioax.com
 -d upsp-us.top
 -d upsproutmedia.com
@@ -87125,6 +87150,7 @@ msFilterList
 -d upstatejiujitsu.com
 -d upsubnet.ir
 -d upsupp.ru
+-d uptechnology.com.br
 -d uptime.mainstreetcomputing.com
 -d uptondesignbuild.com
 -d uptowndermatologyandaesthetics.com
@@ -88962,6 +88988,7 @@ msFilterList
 -d vitamin-mineral.info
 -d vitamincphotography.co.nz
 -d vitaminda.com
+-d vitamindek.com
 -d vitamine.ch
 -d vitaminlondon.com
 -d vitaminoc.com
@@ -89540,6 +89567,7 @@ msFilterList
 -d w3.153.yhlg.com
 -d w395160.blob2.ge.tt
 -d w3art.com
+-d w3avers.com
 -d w3brasil.com
 -d w3crystalreports.com
 -d w3stdesign.com
@@ -90744,6 +90772,7 @@ msFilterList
 -d whitemoors.co.uk
 -d whitenet.info
 -d whiteraven.org.ua
+-d whiteresponse.com
 -d whitesalon.nl
 -d whitespace.ltd
 -d whitmantechnologies.us
