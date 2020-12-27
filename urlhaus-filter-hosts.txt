@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 26 Dec 2020 12:11:14 UTC
+# Updated: Sun, 27 Dec 2020 00:11:16 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -6481,6 +6481,7 @@
 0.0.0.0 api.thundermods.com
 0.0.0.0 api.wipmania.net
 0.0.0.0 api.xmrbot.com
+0.0.0.0 api.xoweb.cn
 0.0.0.0 api.znods.xyz
 0.0.0.0 apiat.org
 0.0.0.0 apicecon.com.br
@@ -10745,7 +10746,6 @@
 0.0.0.0 behzistnews.ir
 0.0.0.0 beibei.xx007.cc
 0.0.0.0 beicapellipdx.com
-0.0.0.0 beidou.run
 0.0.0.0 beijingacupuncturedubai.com
 0.0.0.0 beijingdaixie.com
 0.0.0.0 beiladesign.com
@@ -15088,6 +15088,7 @@
 0.0.0.0 caducian.com
 0.0.0.0 cadvintech.com
 0.0.0.0 caebrands.ng
+0.0.0.0 caehfa.org.ar
 0.0.0.0 caehkltd-com.tk
 0.0.0.0 caentivage.com
 0.0.0.0 caesarsapp.com
@@ -18304,7 +18305,6 @@
 0.0.0.0 cllinenrentals.com
 0.0.0.0 cloakingtds.xyz
 0.0.0.0 clock.noixun.com
-0.0.0.0 clocktowercommunications.com
 0.0.0.0 clodflarechk.com
 0.0.0.0 clodura.ai
 0.0.0.0 clone.affordable.cm
@@ -22795,6 +22795,7 @@
 0.0.0.0 demo.woo-wa.com
 0.0.0.0 demo.wpscope.tv
 0.0.0.0 demo.xonxen.vn
+0.0.0.0 demo.xoweb.cn
 0.0.0.0 demo.ybisoftech.com
 0.0.0.0 demo.yzccit.com
 0.0.0.0 demo.zashchepkin.ru
@@ -25817,7 +25818,6 @@
 0.0.0.0 drinktinley.com
 0.0.0.0 drippglobal.com
 0.0.0.0 drischler.de
-0.0.0.0 dritaislame.al
 0.0.0.0 drive.carlsongracieanaheim.com
 0.0.0.0 drive.deescreationstore.com
 0.0.0.0 drive.google-us-cdn.com
@@ -26030,6 +26030,7 @@
 0.0.0.0 dryzi.net
 0.0.0.0 drzewadobrejwidawy.pl
 0.0.0.0 drzimin.com
+0.0.0.0 drziq.com
 0.0.0.0 drzwiskladane.pl
 0.0.0.0 ds-al.er42.org
 0.0.0.0 ds-cocoa.com
@@ -26150,6 +26151,7 @@
 0.0.0.0 dubaidreamsadventure.com
 0.0.0.0 dubaiescortsgirl.com
 0.0.0.0 dubaijewellerymegastores.com
+0.0.0.0 dubailuxuryproperties.ae
 0.0.0.0 dubairpsmobipay.rps-dev.com
 0.0.0.0 dubaisparkle.com
 0.0.0.0 dubbeldwars.com
@@ -26442,6 +26444,7 @@
 0.0.0.0 dxbdancers.com
 0.0.0.0 dxc8gomuhcz9w.cloudfront.net
 0.0.0.0 dxiawer39eedk.megagram.tk
+0.0.0.0 dxm99.cc
 0.0.0.0 dxncodestrike.review
 0.0.0.0 dxstat.club
 0.0.0.0 dxyicvigiza.cn
@@ -26607,7 +26610,6 @@
 0.0.0.0 e-zoom.mobi
 0.0.0.0 e.alobuta.net
 0.0.0.0 e.coka.la
-0.0.0.0 e.dangeana.com
 0.0.0.0 e.docarts.id
 0.0.0.0 e.j990981.ru
 0.0.0.0 e.now-connect.net
@@ -31586,6 +31588,7 @@
 0.0.0.0 finbuilding.vn
 0.0.0.0 fincabonanzaquindio.com
 0.0.0.0 fincalahijuela.com
+0.0.0.0 fincamirones.com
 0.0.0.0 fincorpacc.com
 0.0.0.0 find-me-an-english-book.co.uk
 0.0.0.0 find-me-an-english-penpal.find-me-an-english-tutor.co.uk
@@ -32232,7 +32235,6 @@
 0.0.0.0 flytospain.co.il
 0.0.0.0 flytourrio.com.br
 0.0.0.0 flywheelstudios.com
-0.0.0.0 flyzscan.com
 0.0.0.0 flz.keygen.ru
 0.0.0.0 flzssolutions.ch
 0.0.0.0 fm-007.com
@@ -35018,7 +35020,6 @@
 0.0.0.0 girandolegiobas.it
 0.0.0.0 girirajoil.com
 0.0.0.0 giristurkiyemerkezimetr.site
-0.0.0.0 girl18us.xyz
 0.0.0.0 girl4night.com
 0.0.0.0 girlem.site
 0.0.0.0 girlfridaymusic.com
@@ -39189,7 +39190,6 @@
 0.0.0.0 home.isdes.com
 0.0.0.0 home.ktxhome.com
 0.0.0.0 home.kucasino.mobi
-0.0.0.0 home.kumobi.net
 0.0.0.0 home.limkimkeong.com
 0.0.0.0 home.lotr.flaik.com
 0.0.0.0 home.mindspring.com
@@ -39838,6 +39838,7 @@
 0.0.0.0 hs-einrichtungen.com
 0.0.0.0 hsa-microtech.de
 0.0.0.0 hsa.cozy.edc.edu.np
+0.0.0.0 hsayatirim.com.tr
 0.0.0.0 hsb.pw
 0.0.0.0 hsbcdocuments.net
 0.0.0.0 hsbonteheuwel.co.za
@@ -43672,7 +43673,6 @@
 0.0.0.0 jameuro.cl
 0.0.0.0 jamfarmsco.com
 0.0.0.0 jamiafazal.com.pk
-0.0.0.0 jamiaislamiaarabiaimambari.com
 0.0.0.0 jamieatkins.org
 0.0.0.0 jamiekaylive.com
 0.0.0.0 jamilabyraies.com
@@ -44670,6 +44670,7 @@
 0.0.0.0 joker4.info
 0.0.0.0 jokercorp.com
 0.0.0.0 jokerjumpers.com
+0.0.0.0 jokersbusiness.com
 0.0.0.0 jokilink.com
 0.0.0.0 jokokrimpen.nl
 0.0.0.0 jolange.com.au
@@ -45223,6 +45224,7 @@
 0.0.0.0 julien-lacroix.fr
 0.0.0.0 julienbarthez.com
 0.0.0.0 julienboitel.fr
+0.0.0.0 juliendechaumont.fr
 0.0.0.0 julienheon.com
 0.0.0.0 juliga.com.ve
 0.0.0.0 juliorivera.com.pe
@@ -48058,7 +48060,6 @@
 0.0.0.0 kumbrescr.webscript.co.in
 0.0.0.0 kumkmbandung.com
 0.0.0.0 kummer.to
-0.0.0.0 kumobi.net
 0.0.0.0 kumosushieastvillage.com
 0.0.0.0 kunapipi.com.au
 0.0.0.0 kuncidomino.com
@@ -52415,6 +52416,7 @@
 0.0.0.0 mail.feeladria.com
 0.0.0.0 mail.fgentech.net
 0.0.0.0 mail.fillablepdf.store
+0.0.0.0 mail.fincamirones.com
 0.0.0.0 mail.firepitsupplies.com
 0.0.0.0 mail.firstcircledigital.com
 0.0.0.0 mail.firstrain.in.cp-ht-3.bigrockservers.com
@@ -63356,7 +63358,6 @@
 0.0.0.0 paladin5.com
 0.0.0.0 paladinstudio.eu
 0.0.0.0 palafex.com
-0.0.0.0 palanskaotg.org.ua
 0.0.0.0 palashpharrna.co.in
 0.0.0.0 palavrasaovento.com.br
 0.0.0.0 palazzo-mannheim.de
@@ -64387,6 +64388,7 @@
 0.0.0.0 penyejukhati.000webhostapp.com
 0.0.0.0 peoletardi.com
 0.0.0.0 peonamusic.com
+0.0.0.0 peonyonline.in
 0.0.0.0 people4u.eu
 0.0.0.0 peopleize.org
 0.0.0.0 peopleprofilers.vn
@@ -74566,6 +74568,7 @@
 0.0.0.0 sfiromilos.gr
 0.0.0.0 sfjacobs.com
 0.0.0.0 sfmac.biz
+0.0.0.0 sfmdwx.com
 0.0.0.0 sfmover.com
 0.0.0.0 sfoodfeedf.org
 0.0.0.0 sfp.ctrld.site
@@ -76370,6 +76373,7 @@
 0.0.0.0 slimbosahiyke.webredirect.org
 0.0.0.0 slimebash.com
 0.0.0.0 slimes.com.au
+0.0.0.0 slimgenemd.com
 0.0.0.0 slimover55.club
 0.0.0.0 slimplusvitay.com.br
 0.0.0.0 slimskediri.com
@@ -76570,6 +76574,7 @@
 0.0.0.0 smartphonexyz.com
 0.0.0.0 smartpromo.top
 0.0.0.0 smartproperty-transpark.com
+0.0.0.0 smartr.online
 0.0.0.0 smartrankking.com
 0.0.0.0 smartre.live
 0.0.0.0 smartrealestateschool.com
@@ -77133,7 +77138,6 @@
 0.0.0.0 solankifabrics.com
 0.0.0.0 solapurnaturals.com
 0.0.0.0 solaranlage-onlineshop.de
-0.0.0.0 solaraxis.com.au
 0.0.0.0 solarchain.ch
 0.0.0.0 solarcom.com.ar
 0.0.0.0 solardama.ir
@@ -92835,6 +92839,7 @@
 0.0.0.0 xorides.com
 0.0.0.0 xoso.thememanga.com
 0.0.0.0 xosophuonglam.com
+0.0.0.0 xoweb.cn
 0.0.0.0 xoxo88.com
 0.0.0.0 xpe1qhe.com
 0.0.0.0 xpedksbafy.top

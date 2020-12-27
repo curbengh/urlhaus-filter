@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 26 Dec 2020 12:11:14 UTC
+# Updated: Sun, 27 Dec 2020 00:11:16 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -6484,6 +6484,7 @@ msFilterList
 -d api.thundermods.com
 -d api.wipmania.net
 -d api.xmrbot.com
+-d api.xoweb.cn
 -d api.znods.xyz
 -d apiat.org
 -d apicecon.com.br
@@ -10748,7 +10749,6 @@ msFilterList
 -d behzistnews.ir
 -d beibei.xx007.cc
 -d beicapellipdx.com
--d beidou.run
 -d beijingacupuncturedubai.com
 -d beijingdaixie.com
 -d beiladesign.com
@@ -15091,6 +15091,7 @@ msFilterList
 -d caducian.com
 -d cadvintech.com
 -d caebrands.ng
+-d caehfa.org.ar
 -d caehkltd-com.tk
 -d caentivage.com
 -d caesarsapp.com
@@ -18307,7 +18308,6 @@ msFilterList
 -d cllinenrentals.com
 -d cloakingtds.xyz
 -d clock.noixun.com
--d clocktowercommunications.com
 -d clodflarechk.com
 -d clodura.ai
 -d clone.affordable.cm
@@ -22798,6 +22798,7 @@ msFilterList
 -d demo.woo-wa.com
 -d demo.wpscope.tv
 -d demo.xonxen.vn
+-d demo.xoweb.cn
 -d demo.ybisoftech.com
 -d demo.yzccit.com
 -d demo.zashchepkin.ru
@@ -25820,7 +25821,6 @@ msFilterList
 -d drinktinley.com
 -d drippglobal.com
 -d drischler.de
--d dritaislame.al
 -d drive.carlsongracieanaheim.com
 -d drive.deescreationstore.com
 -d drive.google-us-cdn.com
@@ -26033,6 +26033,7 @@ msFilterList
 -d dryzi.net
 -d drzewadobrejwidawy.pl
 -d drzimin.com
+-d drziq.com
 -d drzwiskladane.pl
 -d ds-al.er42.org
 -d ds-cocoa.com
@@ -26153,6 +26154,7 @@ msFilterList
 -d dubaidreamsadventure.com
 -d dubaiescortsgirl.com
 -d dubaijewellerymegastores.com
+-d dubailuxuryproperties.ae
 -d dubairpsmobipay.rps-dev.com
 -d dubaisparkle.com
 -d dubbeldwars.com
@@ -26445,6 +26447,7 @@ msFilterList
 -d dxbdancers.com
 -d dxc8gomuhcz9w.cloudfront.net
 -d dxiawer39eedk.megagram.tk
+-d dxm99.cc
 -d dxncodestrike.review
 -d dxstat.club
 -d dxyicvigiza.cn
@@ -26610,7 +26613,6 @@ msFilterList
 -d e-zoom.mobi
 -d e.alobuta.net
 -d e.coka.la
--d e.dangeana.com
 -d e.docarts.id
 -d e.j990981.ru
 -d e.now-connect.net
@@ -31589,6 +31591,7 @@ msFilterList
 -d finbuilding.vn
 -d fincabonanzaquindio.com
 -d fincalahijuela.com
+-d fincamirones.com
 -d fincorpacc.com
 -d find-me-an-english-book.co.uk
 -d find-me-an-english-penpal.find-me-an-english-tutor.co.uk
@@ -32235,7 +32238,6 @@ msFilterList
 -d flytospain.co.il
 -d flytourrio.com.br
 -d flywheelstudios.com
--d flyzscan.com
 -d flz.keygen.ru
 -d flzssolutions.ch
 -d fm-007.com
@@ -35021,7 +35023,6 @@ msFilterList
 -d girandolegiobas.it
 -d girirajoil.com
 -d giristurkiyemerkezimetr.site
--d girl18us.xyz
 -d girl4night.com
 -d girlem.site
 -d girlfridaymusic.com
@@ -39192,7 +39193,6 @@ msFilterList
 -d home.isdes.com
 -d home.ktxhome.com
 -d home.kucasino.mobi
--d home.kumobi.net
 -d home.limkimkeong.com
 -d home.lotr.flaik.com
 -d home.mindspring.com
@@ -39841,6 +39841,7 @@ msFilterList
 -d hs-einrichtungen.com
 -d hsa-microtech.de
 -d hsa.cozy.edc.edu.np
+-d hsayatirim.com.tr
 -d hsb.pw
 -d hsbcdocuments.net
 -d hsbonteheuwel.co.za
@@ -43675,7 +43676,6 @@ msFilterList
 -d jameuro.cl
 -d jamfarmsco.com
 -d jamiafazal.com.pk
--d jamiaislamiaarabiaimambari.com
 -d jamieatkins.org
 -d jamiekaylive.com
 -d jamilabyraies.com
@@ -44673,6 +44673,7 @@ msFilterList
 -d joker4.info
 -d jokercorp.com
 -d jokerjumpers.com
+-d jokersbusiness.com
 -d jokilink.com
 -d jokokrimpen.nl
 -d jolange.com.au
@@ -45226,6 +45227,7 @@ msFilterList
 -d julien-lacroix.fr
 -d julienbarthez.com
 -d julienboitel.fr
+-d juliendechaumont.fr
 -d julienheon.com
 -d juliga.com.ve
 -d juliorivera.com.pe
@@ -48061,7 +48063,6 @@ msFilterList
 -d kumbrescr.webscript.co.in
 -d kumkmbandung.com
 -d kummer.to
--d kumobi.net
 -d kumosushieastvillage.com
 -d kunapipi.com.au
 -d kuncidomino.com
@@ -52418,6 +52419,7 @@ msFilterList
 -d mail.feeladria.com
 -d mail.fgentech.net
 -d mail.fillablepdf.store
+-d mail.fincamirones.com
 -d mail.firepitsupplies.com
 -d mail.firstcircledigital.com
 -d mail.firstrain.in.cp-ht-3.bigrockservers.com
@@ -63359,7 +63361,6 @@ msFilterList
 -d paladin5.com
 -d paladinstudio.eu
 -d palafex.com
--d palanskaotg.org.ua
 -d palashpharrna.co.in
 -d palavrasaovento.com.br
 -d palazzo-mannheim.de
@@ -64390,6 +64391,7 @@ msFilterList
 -d penyejukhati.000webhostapp.com
 -d peoletardi.com
 -d peonamusic.com
+-d peonyonline.in
 -d people4u.eu
 -d peopleize.org
 -d peopleprofilers.vn
@@ -74569,6 +74571,7 @@ msFilterList
 -d sfiromilos.gr
 -d sfjacobs.com
 -d sfmac.biz
+-d sfmdwx.com
 -d sfmover.com
 -d sfoodfeedf.org
 -d sfp.ctrld.site
@@ -76373,6 +76376,7 @@ msFilterList
 -d slimbosahiyke.webredirect.org
 -d slimebash.com
 -d slimes.com.au
+-d slimgenemd.com
 -d slimover55.club
 -d slimplusvitay.com.br
 -d slimskediri.com
@@ -76573,6 +76577,7 @@ msFilterList
 -d smartphonexyz.com
 -d smartpromo.top
 -d smartproperty-transpark.com
+-d smartr.online
 -d smartrankking.com
 -d smartre.live
 -d smartrealestateschool.com
@@ -77136,7 +77141,6 @@ msFilterList
 -d solankifabrics.com
 -d solapurnaturals.com
 -d solaranlage-onlineshop.de
--d solaraxis.com.au
 -d solarchain.ch
 -d solarcom.com.ar
 -d solardama.ir
@@ -92838,6 +92842,7 @@ msFilterList
 -d xorides.com
 -d xoso.thememanga.com
 -d xosophuonglam.com
+-d xoweb.cn
 -d xoxo88.com
 -d xpe1qhe.com
 -d xpedksbafy.top
