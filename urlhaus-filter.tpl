@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 27 Dec 2020 12:11:13 UTC
+# Updated: Mon, 28 Dec 2020 00:11:23 UTC
 # Expires: 1 day (update frequency)
 # Repo: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1120,7 +1120,6 @@ msFilterList
 -d 4kmatch.net
 -d 4kmj.com
 -d 4kopmarathon.in
--d 4kwallpaperdownload.com
 -d 4kwoz.pl
 -d 4kyoutubedonwload.club
 -d 4life.com.vn
@@ -9655,6 +9654,7 @@ msFilterList
 -d bajoconvierte.website
 -d bajranggzp.org
 -d bajrangsec.com
+-d bajukuindonesia.com
 -d bajwa-kollegen.de
 -d bak-home.com
 -d bak-karbal.com
@@ -10359,7 +10359,6 @@ msFilterList
 -d bb7.ir
 -d bba-es.com
 -d bba4site.com
--d bballbreak.com
 -d bbarchitects.vn
 -d bbb.stage02.obdemo.com
 -d bbbrown.com
@@ -10575,6 +10574,7 @@ msFilterList
 -d beauteediy.com
 -d beautegrity.dweb.in
 -d beautifulbritain.co.uk
+-d beautifulday.com.tw
 -d beautifulfoodmama.com
 -d beautifulgreat.com
 -d beautifulnagtipunan.com
@@ -12986,6 +12986,7 @@ msFilterList
 -d bluecrystalband.com
 -d bluedahab.ga
 -d bluedartexpressshipping.com
+-d bluedemonlodge.com
 -d bluedevilsoftware.com
 -d bluedict.com
 -d bluedog.tw
@@ -13402,7 +13403,6 @@ msFilterList
 -d bonvies.com
 -d bonyamin.com
 -d bonyanet.com
--d bonyanunited.com
 -d bonzi.top
 -d boobadigital.fr
 -d boobfanclub.com
@@ -16287,6 +16287,7 @@ msFilterList
 -d cbt2.smk-alasror.net
 -d cbtdeconsultingllc.com
 -d cbunyil.com
+-d cbusinessgateway.com
 -d cbvgdf.ru
 -d cc-hobbyist.nl
 -d cc.80style.com
@@ -16407,7 +16408,6 @@ msFilterList
 -d cdn.gameupdate.co
 -d cdn.gv-industries.co.uk
 -d cdn.gzprscs.cn
--d cdn.i-xinnuo.com
 -d cdn.investaweb.com
 -d cdn.isoskycn.com
 -d cdn.mistyblade.com
@@ -18390,7 +18390,6 @@ msFilterList
 -d cloudpassreset.ga
 -d cloudphotos.party
 -d cloudpoa.com
--d cloudpossolutions.com
 -d cloudraks.com
 -d cloudresemblao.top
 -d clouds-one.com
@@ -19420,6 +19419,7 @@ msFilterList
 -d conn.elrooted.com
 -d connecre.com
 -d connect-asia.net
+-d connect-plus.co.uk
 -d connect.dianevenzera.com
 -d connect.unityworkforce.net
 -d connect360bd.com
@@ -26248,7 +26248,6 @@ msFilterList
 -d duneartres.com
 -d dunedintapfest.com
 -d duneeventos.com.br
--d dungcubamcos.ga
 -d dungntc.com
 -d dungorm.com
 -d dunhauhay.com
@@ -26722,6 +26721,7 @@ msFilterList
 -d easihacks.com
 -d easilycompared.nl
 -d easleadgen.com
+-d easma.cn
 -d easport.info
 -d easportsx.pcriot.com
 -d eastafricarefugeerelief.com
@@ -26877,6 +26877,7 @@ msFilterList
 -d ebrotasa.com
 -d ebrubozkurt.com
 -d ebrulilife.com
+-d ebs1952.com
 -d ebsite1.codeomega.in
 -d ebslaradio.cl
 -d ebtecgulf.com
@@ -29999,7 +30000,6 @@ msFilterList
 -d expedienteemcasa.com
 -d expedited-freight.com
 -d expeditionabroad.com
--d expeditionquest.com
 -d expeditiontoday.com
 -d expen.cf
 -d expenses.zaytechsolutions.com
@@ -33068,7 +33068,6 @@ msFilterList
 -d frietfun.be
 -d frigolutasima.net
 -d frigoriferivignola.it
--d frigosistem.com.tr
 -d frigotechniek.be
 -d friisweb.dk
 -d frij.gricd.com
@@ -33578,6 +33577,7 @@ msFilterList
 -d fzf.jp
 -d fzpf.uni28.com
 -d fzs.ma
+-d fzweiming.com
 -d g-and-f.co.jp
 -d g-cleaner.info
 -d g-dent.ru
@@ -37315,7 +37315,6 @@ msFilterList
 -d halaarab.com
 -d halairaq.net
 -d halal-expo.my
--d halalactivities.com
 -d halalcosmetics.uz
 -d halalfoodinjapan.com
 -d halalmovies.com
@@ -42902,6 +42901,7 @@ msFilterList
 -d isaacwright.com
 -d isababatur.com
 -d isabco.com
+-d isabelbarreto.com
 -d isabella.makeyourselfelaborate.com
 -d isabellagimenez.isabellatransescort.com
 -d isabelle-depierre.fr
@@ -50452,6 +50452,7 @@ msFilterList
 -d litvinovohouse.ru
 -d liu.nu
 -d liual.by
+-d liubaozi.cn
 -d liuchang.online
 -d liugehan.com
 -d liulian999.top
@@ -57055,6 +57056,7 @@ msFilterList
 -d mosfettech.com
 -d mosgasclub.ru
 -d moshauer.de
+-d moshaveremohtava.com
 -d moshene.co.ke
 -d mosheperes.xyz
 -d moshiresidence.com
@@ -61237,7 +61239,6 @@ msFilterList
 -d oasis-lab.sk
 -d oasis-projects.com
 -d oasis.projects.com
--d oasisafrica.org.au
 -d oasisbartow.com
 -d oasishookahnj.com
 -d oasisimportexport.com
@@ -61952,6 +61953,7 @@ msFilterList
 -d ominnovators.com
 -d omitkyspisar.cz
 -d omiwnusantara.com
+-d omkam.org
 -d omkarcreative.co.in
 -d omlinux.com
 -d ommar.ps
@@ -79710,6 +79712,7 @@ msFilterList
 -d sukienmanhhung.com
 -d sukienso1.net
 -d sukienthienduc.com
+-d sukita.info
 -d sukkargrp.com
 -d sukmagedoan.com
 -d sukra-gmbh.de
@@ -83140,7 +83143,6 @@ msFilterList
 -d thelegalland.com
 -d thelegobatman.com
 -d thelendgenuity.com
--d thelenspost.com
 -d theleus.com
 -d thelexingtonclubny.com
 -d thelibertyfarm.com
@@ -85608,6 +85610,7 @@ msFilterList
 -d trustguarantydelivery.com
 -d trusticar.lt
 -d trustinspect.com
+-d trustlancers.com
 -d trustorbit.com
 -d trustpilot-scam.com
 -d trustpropertyholdings.com
@@ -85859,7 +85862,6 @@ msFilterList
 -d turbinadordemidias.com.br
 -d turbineblog.ir
 -d turbinetoyz.com
--d turbo-services.com
 -d turbobuicks.net
 -d turbocast.com.ua
 -d turbodisel.net
