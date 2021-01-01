@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 31 Dec 2020 12:11:26 UTC
+# Updated: Fri, 01 Jan 2021 00:11:17 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1685,6 +1685,7 @@ msFilterList
 -d 9rayaa.com
 -d 9ryhmsk.com
 -d 9s2s.com
+-d 9scroob.com
 -d 9smap.hfdev.uk
 -d 9tindia.com
 -d 9u7a1o.regardisperfectshild.ru
@@ -5023,6 +5024,7 @@ msFilterList
 -d alpha.intouchreminder.com
 -d alpha.iwp-hydro.ru
 -d alpha.to
+-d alphacentauri.com.br
 -d alphaconsumer.net
 -d alphadecimal.com
 -d alphadev.nl
@@ -9587,6 +9589,7 @@ msFilterList
 -d badabadabingo.com
 -d badabasket.materialszone.com
 -d badabima.com
+-d badacareer.com
 -d badaia.net
 -d badamboom.com
 -d badandboujeehairgallery.com
@@ -10864,6 +10867,7 @@ msFilterList
 -d belgym.mx
 -d belhao.com
 -d belief-systems.com
+-d believe-share.org
 -d belikejoe.com
 -d beliloba.com
 -d belilustra.cl
@@ -14400,6 +14404,7 @@ msFilterList
 -d btworldofcomputer.com
 -d bu-teh-spb.ru
 -d bu9i07f.com
+-d bua-apartment.com
 -d buanahelindo.com
 -d buanderiemoderne.com
 -d bub.drnancycorcoran.com
@@ -17564,6 +17569,7 @@ msFilterList
 -d chocconart.com
 -d chococream.uz
 -d chocodaps.com
+-d chocolady.club
 -d chocolate-from-paris.com
 -d chocolatefountain.co.in
 -d chocolatefountaincreation.com
@@ -23558,6 +23564,7 @@ msFilterList
 -d dev.surreytoyotabodyshop.com
 -d dev.svl.in.ua
 -d dev.terredesienne.com
+-d dev.thegardenhail.com
 -d dev.thememove.com
 -d dev.thetatechnolabs.com
 -d dev.toca.store
@@ -26994,6 +27001,7 @@ msFilterList
 -d ebrotasa.com
 -d ebrubozkurt.com
 -d ebrulilife.com
+-d ebs1952.com
 -d ebsite1.codeomega.in
 -d ebslaradio.cl
 -d ebtecgulf.com
@@ -28667,6 +28675,7 @@ msFilterList
 -d engineering-2s.com
 -d engineering.vtvcab.vn
 -d engineeringchristculture.com
+-d engineeringegypt.com
 -d engineersdesignindia.in
 -d enginesofmischief.com
 -d enginhukuk.org
@@ -38890,6 +38899,7 @@ msFilterList
 -d hillsidedevelopments.ca
 -d hillsmp.com
 -d hilltowerhotelandresort.com
+-d hillzotour.online
 -d hilmagym.com
 -d hilohdesign.com
 -d hiloyo.com
@@ -47325,6 +47335,7 @@ msFilterList
 -d kksbtest3.com
 -d kkservice.cz
 -d kkss536.com
+-d kkstore.it
 -d kkthx.ac.ug
 -d kktoade.pw
 -d kl82.belpravo.by
@@ -51920,6 +51931,7 @@ msFilterList
 -d lysikov.ru
 -d lyubimiy-salon.ru
 -d lyudmilalashkul.com
+-d lyveinc.com
 -d lyvestore.com
 -d lzarbitrage.com
 -d lzychina.com
@@ -56882,6 +56894,7 @@ msFilterList
 -d moeasy.com.mx
 -d moeenkashisaz.ir
 -d moefelt.dk
+-d moegifts.com
 -d moeltenortergilde.de
 -d moes.cl
 -d moes.com.ng
@@ -63644,6 +63657,7 @@ msFilterList
 -d pakakhontos.top
 -d pakardobi.co
 -d pakarkonveksi.com
+-d pakatshop.com
 -d pakcountrysecurity.com
 -d pakdeals.store
 -d pakdesighee.com
@@ -68755,6 +68769,7 @@ msFilterList
 -d quechua-travel.com
 -d quechuagroup.com
 -d quecik.com
+-d quedateencasateziutlan.com
 -d queekebook.com
 -d queenannehair.com
 -d queencoffe.ru
@@ -73145,6 +73160,7 @@ msFilterList
 -d sanpower.com.br
 -d sanritsudeco.com
 -d sanrockcapital.com
+-d sanrosoft.co.uk
 -d sanshe.in
 -d sansorescontabilidade.com.br
 -d sansplomb.be
@@ -73975,7 +73991,6 @@ msFilterList
 -d seapodbank.tk
 -d seaportmovingandstorage.com
 -d seapp.ir
--d seara.com.br
 -d search-engine-optimization-canada.ca
 -d search.savenzer.in
 -d search4.ie
@@ -74018,6 +74033,7 @@ msFilterList
 -d sebastianehinger.de
 -d sebastiansabene.net
 -d sebastien-marot.fr
+-d sebayu.com.my
 -d sebazi.com
 -d sebazicom
 -d sebco.co.ke
@@ -76306,6 +76322,7 @@ msFilterList
 -d sipil.fatek.untad.ac.id
 -d sipmanagement-my.sharepoint.com
 -d siprev.net.br
+-d sipsakkurye.com
 -d siragehad.com
 -d sirajaoloan.com
 -d sirajhummus.com
@@ -77984,6 +78001,7 @@ msFilterList
 -d southwestsystems.co.za
 -d southwindsfineart.com
 -d southwoodpharmacy.com
+-d souvikkarar.com
 -d souwah.com
 -d souzabianco.com.br
 -d souzacruzengenharia.com.br
@@ -79036,6 +79054,7 @@ msFilterList
 -d stat.postame.org
 -d stat.wattsmarketingltd.uk
 -d statebd.com
+-d stateinsuranceonline.com
 -d statemation.com
 -d statesdr.top
 -d stateunico.com
@@ -81390,6 +81409,7 @@ msFilterList
 -d tamta.gr
 -d tamthanhgroup.com
 -d tamxgroup.co.uk
+-d tamymakeup.com
 -d tan-gho.com
 -d tan-shuai.com
 -d tana.net.vn
@@ -81619,6 +81639,7 @@ msFilterList
 -d tastelaspices.in
 -d tastemuskoka.com
 -d tastentasty.com
+-d tastes2plate.com
 -d tastorm.in
 -d tasty-store.online
 -d tasty.website
@@ -83780,6 +83801,7 @@ msFilterList
 -d theraystore.com
 -d therealdrbill.com
 -d therearehumansintheroom.csdconsulting.net
+-d thereceptionathens.eu
 -d therecipe.co
 -d therecruiter.io
 -d thered.in
@@ -89341,6 +89363,7 @@ msFilterList
 -d visionmaker.pt
 -d visionmedia.vn
 -d visionoflifefoundation.com
+-d visionpc.in
 -d visionplusopticians.com
 -d visionrealestatesvs.com
 -d visiontecnologica.cl
@@ -91393,6 +91416,7 @@ msFilterList
 -d williamssminexroad.cf
 -d willie-wong.com
 -d willingwater.com
+-d willingwoods.com
 -d willins.com.br
 -d willipostcopa.com
 -d willmeroth.org
@@ -93947,7 +93971,6 @@ msFilterList
 -d yoder.vkcsites.org
 -d yodmpdy.cf
 -d yoga-ein-lebensweg.de
--d yoga.gift
 -d yogabarnet.dk
 -d yogabeamz.co.uk
 -d yogabukser.no
