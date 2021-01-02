@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 01 Jan 2021 12:11:19 UTC
+# Updated: Sat, 02 Jan 2021 00:11:24 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1126,7 +1126,6 @@ msFilterList
 -d 4kmatch.net
 -d 4kmj.com
 -d 4kopmarathon.in
--d 4kwallpaperdownload.com
 -d 4kwoz.pl
 -d 4kyoutubedonwload.club
 -d 4life.com.vn
@@ -1601,6 +1600,7 @@ msFilterList
 -d 91fhb.com
 -d 91idea.cn
 -d 91luma.cn
+-d 91madou.xyz
 -d 9210660313.myjino.ru
 -d 923oak.com
 -d 926cs.com
@@ -1685,7 +1685,6 @@ msFilterList
 -d 9rayaa.com
 -d 9ryhmsk.com
 -d 9s2s.com
--d 9scroob.com
 -d 9smap.hfdev.uk
 -d 9tindia.com
 -d 9u7a1o.regardisperfectshild.ru
@@ -3362,7 +3361,6 @@ msFilterList
 -d afrovisionministries.org
 -d afs.kz
 -d afsananovel.com
--d afsgames.com
 -d afshari.ch
 -d afshari.yazdvip.ir
 -d afsharzeinali.ir
@@ -3670,6 +3668,7 @@ msFilterList
 -d ahadsharif.com
 -d ahakommunikation.com
 -d ahalam.5gbfree.com
+-d ahallya.in
 -d ahan.cc
 -d ahang-music-download.ir
 -d ahangamalmagate.co.za
@@ -4558,7 +4557,6 @@ msFilterList
 -d algysautos-cyprus.com
 -d algysautosblog.com
 -d alhabib7.com
--d alhabibmarketing.com.pk
 -d alhadafmermer.com
 -d alhaji.top
 -d alhamd.esta-us-application.com
@@ -25550,6 +25548,7 @@ msFilterList
 -d down.pzchao.com
 -d down.qm188.com
 -d down.qqfarmer.com.cn
+-d down.shatangmu.cn
 -d down.soft.flyidea.top
 -d down.soft.qswzayy.com
 -d down.topsadon.com
@@ -25561,6 +25560,7 @@ msFilterList
 -d down.wiremesh-ap.com
 -d down.wlds.net
 -d down.wuqjzc.xyz
+-d down.xihon.cn
 -d down.xunbaoyun.cn
 -d down.zhoumaozhi.cn
 -d down.zynet.pw
@@ -26380,7 +26380,6 @@ msFilterList
 -d duneartres.com
 -d dunedintapfest.com
 -d duneeventos.com.br
--d dungcubamcos.ga
 -d dungntc.com
 -d dungorm.com
 -d dunhauhay.com
@@ -26890,7 +26889,6 @@ msFilterList
 -d eastsidedailynews.com
 -d eastviewcobbs.com.au
 -d eastwelsum.com
--d eastwestsurveyors.com.au
 -d eastwoodoutdoor.com
 -d easy-domus.it
 -d easy-gruppe.de
@@ -26911,6 +26909,7 @@ msFilterList
 -d easydrivershelp.info
 -d easyehome.com
 -d easyelectronicpars.com
+-d easyemail.ai
 -d easyfilter.it
 -d easyforrest.com
 -d easygame.flemart.ru
@@ -27013,7 +27012,6 @@ msFilterList
 -d ebrotasa.com
 -d ebrubozkurt.com
 -d ebrulilife.com
--d ebs1952.com
 -d ebsite1.codeomega.in
 -d ebslaradio.cl
 -d ebtecgulf.com
@@ -27170,6 +27168,7 @@ msFilterList
 -d ecodot.net
 -d ecoenergiacatalana.com
 -d ecoenergie.com.tn
+-d ecoferma23.ru
 -d ecoffest.com
 -d ecofibers.pacifyca.com
 -d ecofinition.ca
@@ -29292,7 +29291,6 @@ msFilterList
 -d esfiles.brothersoft.com
 -d esg.com.tr
 -d esgaming.com.br
--d esgfiltration.com
 -d esgos.com
 -d eshharart.net
 -d eshire.floatbrasil.com.br
@@ -36826,6 +36824,7 @@ msFilterList
 -d grzegorzkucharski.com
 -d grzejniki24.com
 -d gs.jsscxx.com
+-d gs.monerorx.com
 -d gs11fd5.com
 -d gs3d.com
 -d gsa.co.in
@@ -39381,7 +39380,6 @@ msFilterList
 -d home.isdes.com
 -d home.ktxhome.com
 -d home.kucasino.mobi
--d home.kumobi.net
 -d home.limkimkeong.com
 -d home.lotr.flaik.com
 -d home.mindspring.com
@@ -41682,6 +41680,7 @@ msFilterList
 -d inbichngoc.com
 -d inbodyscanmelbourne.com.au
 -d inboundtoolkit.com
+-d inbsolutions.co.za
 -d inbudget.pk
 -d inc.2-5-d.jp
 -d incaltamintepieleieftina.ro
@@ -43893,7 +43892,6 @@ msFilterList
 -d jameuro.cl
 -d jamfarmsco.com
 -d jamiafazal.com.pk
--d jamiaislamiaarabiaimambari.com
 -d jamieatkins.org
 -d jamiekaylive.com
 -d jamieson.ro
@@ -47018,6 +47016,7 @@ msFilterList
 -d kienvangvungtau.com
 -d kiev-elektro.site
 -d kievarttime.com.ua
+-d kievflowerdelivery.com
 -d kifge43.ru
 -d kiflaps.ac.ke
 -d kigegypt.com
@@ -48308,7 +48307,6 @@ msFilterList
 -d kumbrescr.webscript.co.in
 -d kumkmbandung.com
 -d kummer.to
--d kumobi.net
 -d kumosushieastvillage.com
 -d kunapipi.com.au
 -d kuncidomino.com
@@ -54330,6 +54328,7 @@ msFilterList
 -d mauirealestatecareer.com
 -d maujpunjabi.com
 -d maul.hr
+-d maulanarumifoundation.com
 -d maunet.com
 -d maupindah.com
 -d mauriandrade.com
@@ -55172,6 +55171,7 @@ msFilterList
 -d melted.org
 -d meltonairservices.com.au
 -d meltonian.net
+-d melumusic.ir
 -d melusinkiwane.com
 -d melwanilaw.com
 -d melyanna.nl
@@ -58415,7 +58415,6 @@ msFilterList
 -d mydubala.com
 -d mydynamicsale.com
 -d myeb.ir
--d myechemist.com
 -d myegy.club
 -d myegy.news
 -d myeldi.com
@@ -63587,6 +63586,7 @@ msFilterList
 -d padikkoo.com
 -d padkayghosly.com
 -d padlilli.desevens.com.ng
+-d padmagilifastboat.com
 -d padmatech.in
 -d padvexmail19mn.xyz
 -d paellassupremas.com
@@ -67847,6 +67847,7 @@ msFilterList
 -d pt48tir.com
 -d ptb.com.mx
 -d ptbsda.com
+-d ptc-bd.net
 -d ptci-md.org
 -d ptdtech.tk
 -d pte.vn
@@ -72056,6 +72057,7 @@ msFilterList
 -d runz.de
 -d ruoubiaplaza.com
 -d ruoumecungda.vn
+-d ruoungoai.online
 -d rupaq.com
 -d rupbasanbandung.com
 -d rupeefriend.com
@@ -77366,6 +77368,7 @@ msFilterList
 -d socialpostmanager.com
 -d socialpoweredrouter.com
 -d socialshaktinews.in
+-d socialtutors.ru
 -d socialwebsystems.com
 -d socialwifi.rs
 -d socialworkacademy.in
@@ -79207,6 +79210,7 @@ msFilterList
 -d steams.pro
 -d steamunlocked.site
 -d stebriahsa.com
+-d stech.com.np
 -d stechman.com.br
 -d stecit.nl
 -d stecken-pferd.de
@@ -79684,6 +79688,7 @@ msFilterList
 -d streamingvf.cloud
 -d streamlinevalve.com
 -d streammusicgroup.com
+-d streamnew.com
 -d streamsfilms.com
 -d streefkerk.be
 -d street-fashion-guide.ru
@@ -80045,6 +80050,7 @@ msFilterList
 -d suc-khoe.net
 -d suc9898.com
 -d sucargaexpress.com
+-d succasucculents.com
 -d success-life.org
 -d successexpert.pt
 -d successkaadda.com
@@ -80568,6 +80574,7 @@ msFilterList
 -d sushiofgarimidtownwest.com
 -d sushiskhodnya.pizza
 -d sushisto.ru
+-d sushma.co.in
 -d sushmafoundation.in
 -d susirubin.com.br
 -d sussexscaffoldingsupplies.co.uk
@@ -89289,6 +89296,7 @@ msFilterList
 -d viralvideofx.com
 -d viralvidespro.xyz
 -d viralzingz.com
+-d viramagency.com
 -d virap.ir
 -d virapromo.com
 -d viratbharat.com
@@ -91001,6 +91009,8 @@ msFilterList
 -d wellyoumust.ru
 -d welna.com.au
 -d welna.comau
+-d weloadhh03.top
+-d weloady04.top
 -d weloveanimals.net
 -d welovecreative.co.nz
 -d welovetefl.com
@@ -91586,7 +91596,6 @@ msFilterList
 -d winsfordsurveyors.co.uk
 -d winsoftsa.com
 -d winsomeholiday.com
--d wintekelevators.com
 -d wintendery.ru
 -d winterforcing.info
 -d wintergames.lt
@@ -94726,6 +94735,7 @@ msFilterList
 -d zeniaxsolution.com
 -d zenithcampus.com
 -d zenithcreche.com
+-d zenithenergy.com
 -d zenithpedalboards.nl
 -d zenithremit.com
 -d zenixmedia.com
