@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 02 Jan 2021 12:11:24 UTC
+# Updated: Sun, 03 Jan 2021 00:11:20 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -195,7 +195,6 @@ msFilterList
 -d 11vet.com
 -d 11volny.ml
 -d 11wealth.com
--d 11woodwork.com
 -d 12-greatest-today.world
 -d 12.bd-pcgame.xiazai24.com
 -d 12.ossmarcial.com
@@ -2328,7 +2327,6 @@ msFilterList
 -d acasadocarro.com.br
 -d acb-blog.com
 -d acbay.com
--d acboilers.com
 -d acbor.org
 -d acbt.fr
 -d acc-gen.com
@@ -2864,7 +2862,6 @@ msFilterList
 -d adinra.com
 -d adinterix.com
 -d adiplast-bg.com
--d adishpatni.com
 -d adiswesson.com
 -d aditifacilitators.com
 -d aditt.org
@@ -6579,6 +6576,7 @@ msFilterList
 -d apnatarka.com
 -d apneastrip.com
 -d apo-alte-post.de
+-d apobypass.com
 -d apocalypticfail.com
 -d apodospara.com
 -d apofraxisavlonitis.gr
@@ -8340,7 +8338,6 @@ msFilterList
 -d atlantic-news.org
 -d atlanticcity.com
 -d atlanticcity.searchingcities.com
--d atlanticgrupo.com
 -d atlanticlinkz.com
 -d atlanticobs.pt
 -d atlanticorentals.com
@@ -10958,7 +10955,6 @@ msFilterList
 -d bem.fkep.unpad.ac.id
 -d bem.hukum.ub.ac.id
 -d bem.unimal.ac.id
--d bemagazine.club
 -d bemakeup.ru
 -d bemao.com
 -d bemap.eu
@@ -11550,7 +11546,6 @@ msFilterList
 -d bh95.webdungsan.com
 -d bhagateassociates.com
 -d bhagathalwai.org
--d bhagatsangam.com
 -d bhagwatiseva.org
 -d bhainarindersingh.akalitcanada.com
 -d bhaipremfoundation.org
@@ -12933,6 +12928,7 @@ msFilterList
 -d blogentry.cf
 -d blogforgamer.com
 -d blogforlady.com
+-d blogformacionpchj.inces.gob.ve
 -d blogforprofits.com
 -d blogg-d.azurewebsites.net
 -d blogg.postvaxel.se
@@ -12951,6 +12947,7 @@ msFilterList
 -d blogkolorsillas.kolorsillas.com
 -d blogline.net
 -d blogmason.mixh.jp
+-d blogmiranda.inces.gob.ve
 -d blogmydaily.com
 -d blognaz.com
 -d blognhakhoa.vn
@@ -16793,6 +16790,7 @@ msFilterList
 -d cepc.ir
 -d ceperzakopane.pl
 -d cepheanalizi.com
+-d cepingidc.com
 -d cepl.net.in
 -d ceppastorymaria.com
 -d cepral.coop
@@ -17253,7 +17251,6 @@ msFilterList
 -d checksharingfiles.gq
 -d checktime.pk
 -d checktrueworld.xyz
--d checkvisadebitcardbalance.com
 -d checkwp.top
 -d checkz.tk
 -d chedea.eu
@@ -18684,6 +18681,7 @@ msFilterList
 -d cnjlxdy.gq
 -d cnkmovil.com
 -d cnl.nu
+-d cnlanhua.com
 -d cnm.idc3389.top
 -d cnmesh.com
 -d cnml.com.br
@@ -23740,7 +23738,6 @@ msFilterList
 -d dezcom.com
 -d dezenhomes.com
 -d dezicake.com
--d dezineinnovation.com
 -d dezinestar.com
 -d dezireconsultant.com
 -d dezsaude.com
@@ -24140,6 +24137,7 @@ msFilterList
 -d digiflawless.com
 -d digifoto.clipboardmedia.nl
 -d digigm.ir
+-d digigrad.in
 -d digihacks.in
 -d digihashtag.com
 -d digihop.cyou
@@ -24185,6 +24183,7 @@ msFilterList
 -d digital7.com
 -d digitalankur.com
 -d digitalbazar.com
+-d digitalbrit.com
 -d digitalbugs.co.in
 -d digitalcarecorporation.com
 -d digitalcdnpro.com
@@ -24680,7 +24679,6 @@ msFilterList
 -d djisyam38.com
 -d djivi.nl
 -d djjermedia.com
--d djjmeets.com
 -d djkian.co.za
 -d djking.f3322.net
 -d djkuhni.ru
@@ -25957,7 +25955,6 @@ msFilterList
 -d drinktinley.com
 -d drippglobal.com
 -d drischler.de
--d dritaislame.al
 -d drive.carlsongracieanaheim.com
 -d drive.deescreationstore.com
 -d drive.google-us-cdn.com
@@ -27575,6 +27572,7 @@ msFilterList
 -d egemennakliye.com
 -d egepos.com
 -d egesatizmir.com
+-d egfco.cn
 -d egfix4you.co.uk
 -d egg-donor.ru
 -d egger-kirchberg.ch
@@ -30368,7 +30366,6 @@ msFilterList
 -d ezy2tax.com
 -d ezz.com.au
 -d ezzit.com
--d ezzll.com
 -d ezzw.cn
 -d f-1.pl
 -d f-34.jp
@@ -31949,6 +31946,7 @@ msFilterList
 -d firststpauls.org
 -d firstter.com
 -d firstunitedservice.com
+-d firstview.co.kr
 -d firstzone.download
 -d firuz-hotel.tj
 -d firuzblog.ir
@@ -41708,6 +41706,7 @@ msFilterList
 -d inceptionradio.planetparanormal.com
 -d inceptionus.com
 -d incerz.web.id
+-d inces.gob.ve
 -d incgoin.com
 -d inch.net
 -d inci-huidtherapie.nl
@@ -47265,7 +47264,6 @@ msFilterList
 -d kitchen53.com
 -d kitchenclassic.ir
 -d kitchencraftregina.com
--d kitchendecor.in
 -d kitchenlover.site
 -d kitchenofdee.com
 -d kitchenschiefspice.com
@@ -47472,6 +47470,7 @@ msFilterList
 -d kmbautoparts.ro
 -d kmbdiffer6.com
 -d kmborg.com
+-d kmbuzz.com
 -d kmcprotez.com
 -d kmet.us
 -d kmfishing.ru
@@ -49789,6 +49788,7 @@ msFilterList
 -d lensajalanjalan.com
 -d lensakaca21.com
 -d lensdisplay.com
+-d lentkhodro.com
 -d lenvesti.ru
 -d lenzevietnam.vn
 -d leo.jelct.com
@@ -62930,6 +62930,7 @@ msFilterList
 -d orewbobolice.pl
 -d orex-group.net
 -d orfanidis.eu
+-d org-2fa.link
 -d organet.eu
 -d organic-planet.net
 -d organiccalabarzon.site
@@ -63336,7 +63337,6 @@ msFilterList
 -d overclock.abcwebclient.com
 -d overcreative.com
 -d overenvy.5gbfree.com
--d overflod-lr.com
 -d overflowinteractive.com
 -d overhax.org
 -d overheaddoorsandlocksmith.com
@@ -64448,6 +64448,7 @@ msFilterList
 -d pbural.ru
 -d pbxsystems.ae
 -d pby.com.tr
+-d pc-a.co.th
 -d pc-love.com
 -d pc-netix.com
 -d pc-troubleshooter.de
@@ -64705,7 +64706,6 @@ msFilterList
 -d penasemasa.com
 -d pencioneru.ru
 -d penderec.com
--d pendidikanalkindi.com
 -d pendikdireksiyon.com
 -d pendoric.biz
 -d peneirafc.com.br
@@ -67805,7 +67805,6 @@ msFilterList
 -d psikologimarketing.com
 -d psinsuranceservices.com
 -d psipolicia.gestoresdefondos.com
--d psishops.com
 -d psj.dk
 -d pskovhelp.ru
 -d psksalma.ru
@@ -78632,7 +78631,6 @@ msFilterList
 -d srishivashakthiswami.org
 -d srishivavedicyako.com
 -d srishti.saintgits.org
--d srishtiherbs.com
 -d srisribalajisundarkand.com
 -d sristhiagarwal.com
 -d srisurena.com
@@ -79231,7 +79229,6 @@ msFilterList
 -d steams.pro
 -d steamunlocked.site
 -d stebriahsa.com
--d stech.com.np
 -d stechman.com.br
 -d stecit.nl
 -d stecken-pferd.de
@@ -87078,6 +87075,7 @@ msFilterList
 -d ultimatetek.in
 -d ultimatetvl.com
 -d ultimateviel.esy.es
+-d ultimcontents.com
 -d ultrabar.info
 -d ultrabookreviews.com
 -d ultracams12.club
@@ -94991,7 +94989,6 @@ msFilterList
 -d ziplabs.com.au
 -d ziplancer.io
 -d zippe.com.br
--d zippyfitnessplan.com
 -d zippyrooter.com
 -d zipserver.ml
 -d zipshare.blob.core.windows.net
