@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Wed, 06 Jan 2021 00:11:24 UTC
+# Updated: Wed, 06 Jan 2021 12:11:33 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1770,6 +1770,7 @@ msFilterList
 -d a.doko.moe
 -d a.gg.fm
 -d a.heritageandterre.com
+-d a.pomf.cat
 -d a.pomf.se
 -d a.pomf.space
 -d a.pomf.su
@@ -3003,6 +3004,7 @@ msFilterList
 -d adrolling.co.uk
 -d ads.actmol.by
 -d ads.adwords-com.promotion.adwords-fr-en.eu.home.login.peggycross.com
+-d ads.hanggiadinh.com
 -d ads.kalabisim.com
 -d ads.live
 -d adsapomg.space
@@ -4183,6 +4185,7 @@ msFilterList
 -d akvarij.org
 -d akvilhelmova.cz
 -d akwamax.com
+-d akybron.hu
 -d akzharkin.kz
 -d akznqw.com
 -d akzo.in
@@ -4908,6 +4911,7 @@ msFilterList
 -d alltyn.com
 -d allucharitablefoundation.org
 -d allukcarrecovery.com
+-d alluniversal.info
 -d allureinc.co
 -d allurestaffingsolutions.co.uk
 -d alluringpix.com
@@ -6638,6 +6642,7 @@ msFilterList
 -d app.boxrcdn.com
 -d app.bridgeimpex.org
 -d app.calag.at
+-d app.casetabs.com
 -d app.catholicchurch.co.in
 -d app.choiphui.com
 -d app.cloudindustry.net
@@ -8354,6 +8359,7 @@ msFilterList
 -d atlantacomputerrecycling.net
 -d atlantarealcapital.com
 -d atlantaseedsmentoringforgirls.com
+-d atlantasubdivisions.com
 -d atlantecapitalpartners.com
 -d atlantic-news.org
 -d atlanticcity.com
@@ -16549,8 +16555,6 @@ msFilterList
 -d cdn.spider.cat
 -d cdn.timebuyer.org
 -d cdn.top4top.net
--d cdn.truelife.vn
--d cdn.xiaoduoai.com
 -d cdn.zecast.com
 -d cdn3.msetup.download
 -d cdn4.css361.com
@@ -16955,7 +16959,6 @@ msFilterList
 -d cfs13.blog.daum.net
 -d cfs4.tistory.com
 -d cfs5.tistory.com
--d cfs6.blog.daum.net
 -d cfs8.blog.daum.net
 -d cfs8.tistory.com
 -d cfs9.tistory.com
@@ -20223,7 +20226,6 @@ msFilterList
 -d covidinternationalspreadsoomuchtruehead.duckdns.org
 -d covidproduct.in
 -d covidsonline.com
--d covisa.com.br
 -d covitourperu.com
 -d covm.icom.com.br
 -d covorc.com
@@ -22907,6 +22909,7 @@ msFilterList
 -d demo.jjmayurved.com
 -d demo.jrkcompany.com
 -d demo.kanapebudapest.hu
+-d demo.kechuahangdidong.com
 -d demo.kzonetechnologies.com
 -d demo.lamppostmedia.in
 -d demo.lapizblanco.com
@@ -25681,7 +25684,6 @@ msFilterList
 -d download.fsyuran.com
 -d download.glzip.cn
 -d download.hpjy.space
--d download.i-tax.cn
 -d download.instalki.org
 -d download.ipro.de
 -d download.kaobeitu.com
@@ -31050,7 +31052,6 @@ msFilterList
 -d fatemehmahmoudi.com
 -d faternegar.ir
 -d fatfoodfetish.com
--d fathekarim.com
 -d fatherchildless.com
 -d fathershousegf.org
 -d fatimaelectricandsolar.com
@@ -31672,6 +31673,7 @@ msFilterList
 -d filebase.mogelgott.de
 -d filebox.hiworks.com
 -d filebr.com
+-d fileco.jobkorea.co.kr
 -d filedigital.ir
 -d filedistrserver.pw
 -d filedownload.gb.net
@@ -31700,7 +31702,6 @@ msFilterList
 -d files.dropmybin.me
 -d files.enjin.com
 -d files.gathercdn.com
--d files.hrloo.com
 -d files.l-d.tech
 -d files.mirai-2viv.vn
 -d files.occarlsongracieteams.com
@@ -32513,6 +32514,7 @@ msFilterList
 -d fmshouse.com
 -d fmstudio.cz
 -d fmtc2go.com
+-d fmttowing.com
 -d fmturls.host
 -d fmvzuasvirtual.com
 -d fmworks.com.tr
@@ -37198,6 +37200,7 @@ msFilterList
 -d guoble.ru
 -d guojiazui.com
 -d guojibu.hnfms.com.cn
+-d guolanjr.com
 -d guolinv.com
 -d guolyfrederick.club
 -d guomanhotels.todaycouponcode.com
@@ -37363,6 +37366,7 @@ msFilterList
 -d h-w-c.net
 -d h.eurotrading.com.pl
 -d h.j990981.ru
+-d h.top4top.io
 -d h.valerana44.ru
 -d h002295863.nichost.ru
 -d h0h.org
@@ -40587,12 +40591,14 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
+-d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
 -d i.ooxx.ooo
 -d i.paragptfe.com
 -d i.ptfecablemanufacturer.com
 -d i.sfu.edu.ph
+-d i.top4top.io
 -d i.valerana44.ru
 -d i03kf0g2bd9papdx.com
 -d i0avgy.com
@@ -41464,6 +41470,7 @@ msFilterList
 -d imagedecor.info
 -d imagedns.com
 -d imageflex.com.br
+-d imagehosting.biz
 -d imageia.co.il
 -d imagelinetechnologies.com
 -d imagemarketingwest.com
@@ -42051,6 +42058,7 @@ msFilterList
 -d info.cv.ua
 -d info.lovefit.com
 -d info.maitriinfosoft.com
+-d info.tranzpay.com
 -d info2web.biz
 -d infobreakerz.com
 -d infocanadaimmigration.ca
@@ -46552,6 +46560,7 @@ msFilterList
 -d kec-cendana.enrekangkab.go.id
 -d kec-wlingi.blitarkab.go.id
 -d kecforging.com
+-d kechuahangdidong.com
 -d keciorenkoltukyikama.net
 -d keckarangdadap.pekalongankab.go.id
 -d kecsfila.hu
@@ -47728,6 +47737,7 @@ msFilterList
 -d kodim0112sabang.com
 -d kodingeko.com
 -d kodip.nfile.net
+-d kodjdsjsdjf.tk
 -d kodlacan.site
 -d kodmuje.com
 -d kodolios.000webhostapp.com
@@ -50328,6 +50338,7 @@ msFilterList
 -d lifepartner.hk
 -d lifeprimary.site
 -d liferiskmanagement-my.sharepoint.com
+-d lifes-m.com
 -d lifesaverbottledirect.com
 -d lifesciencemedia.in
 -d lifesciencez.com
@@ -52172,7 +52183,6 @@ msFilterList
 -d ma-yar.com
 -d ma.alaziz-jatisawahan.com
 -d ma.jopedu.com
--d ma.mctv.ne.jp
 -d ma.owwwv.com
 -d maacap.com
 -d maadco.net
@@ -52287,6 +52297,7 @@ msFilterList
 -d madagascarfoment.ru
 -d madagolf.com
 -d madalozzosistemas.com.br
+-d madame-coccinelle.fr
 -d madamemesquita.app4you.app.br
 -d madametood.com
 -d madancpa.com
@@ -52367,6 +52378,7 @@ msFilterList
 -d madrascrackers.com
 -d madrastrends.com
 -d madrededeusprime.com.br
+-d madrededios.com.pe
 -d madreseyab.ir
 -d madrhdas.usa.cc
 -d madrid-guide.ru
@@ -54115,7 +54127,6 @@ msFilterList
 -d martinadesign.it
 -d martinamacfarlane.com
 -d martinamasaze.cz
--d martinas-kunsthandwerk.at
 -d martinbaum.com.br
 -d martinburch.com
 -d martinelacasse.ca
@@ -54412,7 +54423,6 @@ msFilterList
 -d mattans.com.sg
 -d mattapanptandhealthcare.com
 -d mattawan.com
--d mattayom31.go.th
 -d mattbordi.com
 -d mattcas.com.hk
 -d matteogiovanetti.com
@@ -56323,6 +56333,7 @@ msFilterList
 -d minimaltemplates.com
 -d minimelafayette.com
 -d minimerino.dk
+-d minimidt.cm
 -d minimocha2u.com
 -d minimots.com
 -d mininfra.kbr.ru
@@ -61627,6 +61638,7 @@ msFilterList
 -d ny.yummyeliquid.info
 -d nyamphande.com
 -d nyansakiacochoocbo.org
+-d nyanxcat.online
 -d nyanya-v-ceti.ru
 -d nyc.rekko.com
 -d nycfpf.com
@@ -67436,6 +67448,7 @@ msFilterList
 -d professionalshop.in
 -d professionalwaiterskollege.org
 -d professionelelit.com
+-d profetestruec.net
 -d profexsystem.com
 -d proffessia.ru
 -d proffice.com.pl
@@ -77627,6 +77640,7 @@ msFilterList
 -d soft.srsroot.com
 -d soft.trm.cn
 -d soft.vishou.net
+-d soft.xiaobaibar.com
 -d soft2.mgyun.com
 -d softandw.it
 -d softart-002-site3.dtempurl.com
@@ -80534,6 +80548,7 @@ msFilterList
 -d supadom.fr
 -d supamidland-my.sharepoint.com
 -d supcargo.com
+-d supdate.mediaweb.co.kr
 -d super-filtr.ru
 -d super-gamezer.com
 -d super-industries.co
@@ -86671,7 +86686,6 @@ msFilterList
 -d tuvanduhocmap.com
 -d tuvangamenet.com
 -d tuvangioitinh.com
--d tuvanluat.vn
 -d tuvansinhvien.000webhostapp.com
 -d tuvidaysalud.com
 -d tuwanjiang.com
@@ -89552,6 +89566,7 @@ msFilterList
 -d virtualplus.eu
 -d virtualrally.eu
 -d virtualrealesate.com
+-d virtualsalud.com
 -d virtualsdj.com
 -d virtualservicospb.com.br
 -d virtualtoursoftware.info
@@ -92491,7 +92506,6 @@ msFilterList
 -d wpdev.strativ-support.se
 -d wpdev.ted.solutions
 -d wpdev.ztickerz.io
--d wpengine.zendesk.com
 -d wpgtxdtgifr.ga
 -d wpldjxxxua.ga
 -d wpmagian.com
@@ -92766,6 +92780,7 @@ msFilterList
 -d wyloellard.com
 -d wyndhamatduran.com
 -d wyomingauthors.org
+-d wyptk.com
 -d wyredsecurity.com
 -d wyszx.jihaose.cn
 -d wywoznieczystosci.pomorze.pl
@@ -92799,6 +92814,7 @@ msFilterList
 -d x-trade.com.pl
 -d x-treme.gr
 -d x-up.ws
+-d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
 -d x.jmxded153.net
@@ -93790,6 +93806,7 @@ msFilterList
 -d y21r11j.com
 -d y2casw.by.files.1drv.com
 -d y2p0xw.db.files.1drv.com
+-d y31uv4ra1.vo.llnwd.net
 -d y4peace.org
 -d y5mart.com
 -d y68sxa.com
@@ -93867,6 +93884,7 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
+-d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net

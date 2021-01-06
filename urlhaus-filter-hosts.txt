@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Wed, 06 Jan 2021 00:11:24 UTC
+# Updated: Wed, 06 Jan 2021 12:11:33 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1767,6 +1767,7 @@
 0.0.0.0 a.doko.moe
 0.0.0.0 a.gg.fm
 0.0.0.0 a.heritageandterre.com
+0.0.0.0 a.pomf.cat
 0.0.0.0 a.pomf.se
 0.0.0.0 a.pomf.space
 0.0.0.0 a.pomf.su
@@ -3000,6 +3001,7 @@
 0.0.0.0 adrolling.co.uk
 0.0.0.0 ads.actmol.by
 0.0.0.0 ads.adwords-com.promotion.adwords-fr-en.eu.home.login.peggycross.com
+0.0.0.0 ads.hanggiadinh.com
 0.0.0.0 ads.kalabisim.com
 0.0.0.0 ads.live
 0.0.0.0 adsapomg.space
@@ -4180,6 +4182,7 @@
 0.0.0.0 akvarij.org
 0.0.0.0 akvilhelmova.cz
 0.0.0.0 akwamax.com
+0.0.0.0 akybron.hu
 0.0.0.0 akzharkin.kz
 0.0.0.0 akznqw.com
 0.0.0.0 akzo.in
@@ -4905,6 +4908,7 @@
 0.0.0.0 alltyn.com
 0.0.0.0 allucharitablefoundation.org
 0.0.0.0 allukcarrecovery.com
+0.0.0.0 alluniversal.info
 0.0.0.0 allureinc.co
 0.0.0.0 allurestaffingsolutions.co.uk
 0.0.0.0 alluringpix.com
@@ -6635,6 +6639,7 @@
 0.0.0.0 app.boxrcdn.com
 0.0.0.0 app.bridgeimpex.org
 0.0.0.0 app.calag.at
+0.0.0.0 app.casetabs.com
 0.0.0.0 app.catholicchurch.co.in
 0.0.0.0 app.choiphui.com
 0.0.0.0 app.cloudindustry.net
@@ -8351,6 +8356,7 @@
 0.0.0.0 atlantacomputerrecycling.net
 0.0.0.0 atlantarealcapital.com
 0.0.0.0 atlantaseedsmentoringforgirls.com
+0.0.0.0 atlantasubdivisions.com
 0.0.0.0 atlantecapitalpartners.com
 0.0.0.0 atlantic-news.org
 0.0.0.0 atlanticcity.com
@@ -16546,8 +16552,6 @@
 0.0.0.0 cdn.spider.cat
 0.0.0.0 cdn.timebuyer.org
 0.0.0.0 cdn.top4top.net
-0.0.0.0 cdn.truelife.vn
-0.0.0.0 cdn.xiaoduoai.com
 0.0.0.0 cdn.zecast.com
 0.0.0.0 cdn3.msetup.download
 0.0.0.0 cdn4.css361.com
@@ -16952,7 +16956,6 @@
 0.0.0.0 cfs13.blog.daum.net
 0.0.0.0 cfs4.tistory.com
 0.0.0.0 cfs5.tistory.com
-0.0.0.0 cfs6.blog.daum.net
 0.0.0.0 cfs8.blog.daum.net
 0.0.0.0 cfs8.tistory.com
 0.0.0.0 cfs9.tistory.com
@@ -20220,7 +20223,6 @@
 0.0.0.0 covidinternationalspreadsoomuchtruehead.duckdns.org
 0.0.0.0 covidproduct.in
 0.0.0.0 covidsonline.com
-0.0.0.0 covisa.com.br
 0.0.0.0 covitourperu.com
 0.0.0.0 covm.icom.com.br
 0.0.0.0 covorc.com
@@ -22904,6 +22906,7 @@
 0.0.0.0 demo.jjmayurved.com
 0.0.0.0 demo.jrkcompany.com
 0.0.0.0 demo.kanapebudapest.hu
+0.0.0.0 demo.kechuahangdidong.com
 0.0.0.0 demo.kzonetechnologies.com
 0.0.0.0 demo.lamppostmedia.in
 0.0.0.0 demo.lapizblanco.com
@@ -25678,7 +25681,6 @@
 0.0.0.0 download.fsyuran.com
 0.0.0.0 download.glzip.cn
 0.0.0.0 download.hpjy.space
-0.0.0.0 download.i-tax.cn
 0.0.0.0 download.instalki.org
 0.0.0.0 download.ipro.de
 0.0.0.0 download.kaobeitu.com
@@ -31047,7 +31049,6 @@
 0.0.0.0 fatemehmahmoudi.com
 0.0.0.0 faternegar.ir
 0.0.0.0 fatfoodfetish.com
-0.0.0.0 fathekarim.com
 0.0.0.0 fatherchildless.com
 0.0.0.0 fathershousegf.org
 0.0.0.0 fatimaelectricandsolar.com
@@ -31669,6 +31670,7 @@
 0.0.0.0 filebase.mogelgott.de
 0.0.0.0 filebox.hiworks.com
 0.0.0.0 filebr.com
+0.0.0.0 fileco.jobkorea.co.kr
 0.0.0.0 filedigital.ir
 0.0.0.0 filedistrserver.pw
 0.0.0.0 filedownload.gb.net
@@ -31697,7 +31699,6 @@
 0.0.0.0 files.dropmybin.me
 0.0.0.0 files.enjin.com
 0.0.0.0 files.gathercdn.com
-0.0.0.0 files.hrloo.com
 0.0.0.0 files.l-d.tech
 0.0.0.0 files.mirai-2viv.vn
 0.0.0.0 files.occarlsongracieteams.com
@@ -32510,6 +32511,7 @@
 0.0.0.0 fmshouse.com
 0.0.0.0 fmstudio.cz
 0.0.0.0 fmtc2go.com
+0.0.0.0 fmttowing.com
 0.0.0.0 fmturls.host
 0.0.0.0 fmvzuasvirtual.com
 0.0.0.0 fmworks.com.tr
@@ -37195,6 +37197,7 @@
 0.0.0.0 guoble.ru
 0.0.0.0 guojiazui.com
 0.0.0.0 guojibu.hnfms.com.cn
+0.0.0.0 guolanjr.com
 0.0.0.0 guolinv.com
 0.0.0.0 guolyfrederick.club
 0.0.0.0 guomanhotels.todaycouponcode.com
@@ -37360,6 +37363,7 @@
 0.0.0.0 h-w-c.net
 0.0.0.0 h.eurotrading.com.pl
 0.0.0.0 h.j990981.ru
+0.0.0.0 h.top4top.io
 0.0.0.0 h.valerana44.ru
 0.0.0.0 h002295863.nichost.ru
 0.0.0.0 h0h.org
@@ -40584,12 +40588,14 @@
 0.0.0.0 i-supportcharity.com
 0.0.0.0 i-vnsweyu.pl
 0.0.0.0 i-voda.com
+0.0.0.0 i.fiery.me
 0.0.0.0 i.fluffy.cc
 0.0.0.0 i.funtourspt.eu
 0.0.0.0 i.ooxx.ooo
 0.0.0.0 i.paragptfe.com
 0.0.0.0 i.ptfecablemanufacturer.com
 0.0.0.0 i.sfu.edu.ph
+0.0.0.0 i.top4top.io
 0.0.0.0 i.valerana44.ru
 0.0.0.0 i03kf0g2bd9papdx.com
 0.0.0.0 i0avgy.com
@@ -41461,6 +41467,7 @@
 0.0.0.0 imagedecor.info
 0.0.0.0 imagedns.com
 0.0.0.0 imageflex.com.br
+0.0.0.0 imagehosting.biz
 0.0.0.0 imageia.co.il
 0.0.0.0 imagelinetechnologies.com
 0.0.0.0 imagemarketingwest.com
@@ -42048,6 +42055,7 @@
 0.0.0.0 info.cv.ua
 0.0.0.0 info.lovefit.com
 0.0.0.0 info.maitriinfosoft.com
+0.0.0.0 info.tranzpay.com
 0.0.0.0 info2web.biz
 0.0.0.0 infobreakerz.com
 0.0.0.0 infocanadaimmigration.ca
@@ -46549,6 +46557,7 @@
 0.0.0.0 kec-cendana.enrekangkab.go.id
 0.0.0.0 kec-wlingi.blitarkab.go.id
 0.0.0.0 kecforging.com
+0.0.0.0 kechuahangdidong.com
 0.0.0.0 keciorenkoltukyikama.net
 0.0.0.0 keckarangdadap.pekalongankab.go.id
 0.0.0.0 kecsfila.hu
@@ -47725,6 +47734,7 @@
 0.0.0.0 kodim0112sabang.com
 0.0.0.0 kodingeko.com
 0.0.0.0 kodip.nfile.net
+0.0.0.0 kodjdsjsdjf.tk
 0.0.0.0 kodlacan.site
 0.0.0.0 kodmuje.com
 0.0.0.0 kodolios.000webhostapp.com
@@ -50325,6 +50335,7 @@
 0.0.0.0 lifepartner.hk
 0.0.0.0 lifeprimary.site
 0.0.0.0 liferiskmanagement-my.sharepoint.com
+0.0.0.0 lifes-m.com
 0.0.0.0 lifesaverbottledirect.com
 0.0.0.0 lifesciencemedia.in
 0.0.0.0 lifesciencez.com
@@ -52169,7 +52180,6 @@
 0.0.0.0 ma-yar.com
 0.0.0.0 ma.alaziz-jatisawahan.com
 0.0.0.0 ma.jopedu.com
-0.0.0.0 ma.mctv.ne.jp
 0.0.0.0 ma.owwwv.com
 0.0.0.0 maacap.com
 0.0.0.0 maadco.net
@@ -52284,6 +52294,7 @@
 0.0.0.0 madagascarfoment.ru
 0.0.0.0 madagolf.com
 0.0.0.0 madalozzosistemas.com.br
+0.0.0.0 madame-coccinelle.fr
 0.0.0.0 madamemesquita.app4you.app.br
 0.0.0.0 madametood.com
 0.0.0.0 madancpa.com
@@ -52364,6 +52375,7 @@
 0.0.0.0 madrascrackers.com
 0.0.0.0 madrastrends.com
 0.0.0.0 madrededeusprime.com.br
+0.0.0.0 madrededios.com.pe
 0.0.0.0 madreseyab.ir
 0.0.0.0 madrhdas.usa.cc
 0.0.0.0 madrid-guide.ru
@@ -54112,7 +54124,6 @@
 0.0.0.0 martinadesign.it
 0.0.0.0 martinamacfarlane.com
 0.0.0.0 martinamasaze.cz
-0.0.0.0 martinas-kunsthandwerk.at
 0.0.0.0 martinbaum.com.br
 0.0.0.0 martinburch.com
 0.0.0.0 martinelacasse.ca
@@ -54409,7 +54420,6 @@
 0.0.0.0 mattans.com.sg
 0.0.0.0 mattapanptandhealthcare.com
 0.0.0.0 mattawan.com
-0.0.0.0 mattayom31.go.th
 0.0.0.0 mattbordi.com
 0.0.0.0 mattcas.com.hk
 0.0.0.0 matteogiovanetti.com
@@ -56320,6 +56330,7 @@
 0.0.0.0 minimaltemplates.com
 0.0.0.0 minimelafayette.com
 0.0.0.0 minimerino.dk
+0.0.0.0 minimidt.cm
 0.0.0.0 minimocha2u.com
 0.0.0.0 minimots.com
 0.0.0.0 mininfra.kbr.ru
@@ -61624,6 +61635,7 @@
 0.0.0.0 ny.yummyeliquid.info
 0.0.0.0 nyamphande.com
 0.0.0.0 nyansakiacochoocbo.org
+0.0.0.0 nyanxcat.online
 0.0.0.0 nyanya-v-ceti.ru
 0.0.0.0 nyc.rekko.com
 0.0.0.0 nycfpf.com
@@ -67433,6 +67445,7 @@
 0.0.0.0 professionalshop.in
 0.0.0.0 professionalwaiterskollege.org
 0.0.0.0 professionelelit.com
+0.0.0.0 profetestruec.net
 0.0.0.0 profexsystem.com
 0.0.0.0 proffessia.ru
 0.0.0.0 proffice.com.pl
@@ -77624,6 +77637,7 @@
 0.0.0.0 soft.srsroot.com
 0.0.0.0 soft.trm.cn
 0.0.0.0 soft.vishou.net
+0.0.0.0 soft.xiaobaibar.com
 0.0.0.0 soft2.mgyun.com
 0.0.0.0 softandw.it
 0.0.0.0 softart-002-site3.dtempurl.com
@@ -80531,6 +80545,7 @@
 0.0.0.0 supadom.fr
 0.0.0.0 supamidland-my.sharepoint.com
 0.0.0.0 supcargo.com
+0.0.0.0 supdate.mediaweb.co.kr
 0.0.0.0 super-filtr.ru
 0.0.0.0 super-gamezer.com
 0.0.0.0 super-industries.co
@@ -86668,7 +86683,6 @@
 0.0.0.0 tuvanduhocmap.com
 0.0.0.0 tuvangamenet.com
 0.0.0.0 tuvangioitinh.com
-0.0.0.0 tuvanluat.vn
 0.0.0.0 tuvansinhvien.000webhostapp.com
 0.0.0.0 tuvidaysalud.com
 0.0.0.0 tuwanjiang.com
@@ -89549,6 +89563,7 @@
 0.0.0.0 virtualplus.eu
 0.0.0.0 virtualrally.eu
 0.0.0.0 virtualrealesate.com
+0.0.0.0 virtualsalud.com
 0.0.0.0 virtualsdj.com
 0.0.0.0 virtualservicospb.com.br
 0.0.0.0 virtualtoursoftware.info
@@ -92488,7 +92503,6 @@
 0.0.0.0 wpdev.strativ-support.se
 0.0.0.0 wpdev.ted.solutions
 0.0.0.0 wpdev.ztickerz.io
-0.0.0.0 wpengine.zendesk.com
 0.0.0.0 wpgtxdtgifr.ga
 0.0.0.0 wpldjxxxua.ga
 0.0.0.0 wpmagian.com
@@ -92763,6 +92777,7 @@
 0.0.0.0 wyloellard.com
 0.0.0.0 wyndhamatduran.com
 0.0.0.0 wyomingauthors.org
+0.0.0.0 wyptk.com
 0.0.0.0 wyredsecurity.com
 0.0.0.0 wyszx.jihaose.cn
 0.0.0.0 wywoznieczystosci.pomorze.pl
@@ -92796,6 +92811,7 @@
 0.0.0.0 x-trade.com.pl
 0.0.0.0 x-treme.gr
 0.0.0.0 x-up.ws
+0.0.0.0 x.alluniversal.info
 0.0.0.0 x.autistichorse.club
 0.0.0.0 x.beginsonline.com
 0.0.0.0 x.jmxded153.net
@@ -93787,6 +93803,7 @@
 0.0.0.0 y21r11j.com
 0.0.0.0 y2casw.by.files.1drv.com
 0.0.0.0 y2p0xw.db.files.1drv.com
+0.0.0.0 y31uv4ra1.vo.llnwd.net
 0.0.0.0 y4peace.org
 0.0.0.0 y5mart.com
 0.0.0.0 y68sxa.com
@@ -93864,6 +93881,7 @@
 0.0.0.0 yamato-ti.com
 0.0.0.0 yamemasesy.com
 0.0.0.0 yamike.com
+0.0.0.0 yamisiones.com
 0.0.0.0 yamm.com.my
 0.0.0.0 yamnadlan.com
 0.0.0.0 yamotors.net
