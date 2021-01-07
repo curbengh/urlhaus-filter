@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 07 Jan 2021 00:11:50 UTC
+# Updated: Thu, 07 Jan 2021 12:11:21 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -10462,7 +10462,6 @@ msFilterList
 -d bbfr.cba.pl
 -d bbgiardinodoriente.it
 -d bbgk.de
--d bbgroup.com.vn
 -d bbh-design.de
 -d bbhdata.com
 -d bbhs.org.ng
@@ -13484,7 +13483,6 @@ msFilterList
 -d bonglu.in
 -d bongoromoni.shop
 -d bonheur-salon.net
--d bonillayunes.com
 -d bonizz.com
 -d bonjour-habitat.bzh
 -d bonjovijonqq.com
@@ -16568,6 +16566,7 @@ msFilterList
 -d cdncomfortgroup.website
 -d cdndownloadlp.club
 -d cdnmultimedia.com
+-d cdnpic.mgyun.com
 -d cdnxh.net
 -d cdoconsult.com.br
 -d cdolechon.com
@@ -16964,6 +16963,7 @@ msFilterList
 -d cfs13.blog.daum.net
 -d cfs4.tistory.com
 -d cfs5.tistory.com
+-d cfs6.blog.daum.net
 -d cfs8.blog.daum.net
 -d cfs8.tistory.com
 -d cfs9.tistory.com
@@ -19126,7 +19126,6 @@ msFilterList
 -d coltec.ga
 -d coltfinanciera.com
 -d coltonlee.net
--d columbia25.aula-web.net
 -d columbiainstitute.org
 -d columbiasaude.com.br
 -d columbiataxis.com
@@ -19383,7 +19382,6 @@ msFilterList
 -d computerhome24.com
 -d computerhungary.hu
 -d computerjungle.it
--d computerkolkata.com
 -d computerland.in
 -d computermegamart.com
 -d computerpete.com
@@ -20231,6 +20229,7 @@ msFilterList
 -d covidinternationalspreadsoomuchtruehead.duckdns.org
 -d covidproduct.in
 -d covidsonline.com
+-d covisa.com.br
 -d covitourperu.com
 -d covm.icom.com.br
 -d covorc.com
@@ -21375,6 +21374,7 @@ msFilterList
 -d d.powerofwish.com
 -d d.teamworx.ph
 -d d.techmartbd.com
+-d d.top4top.io
 -d d.top4top.net
 -d d04.data39.helldata.com
 -d d1.amobbs.com
@@ -21532,7 +21532,6 @@ msFilterList
 -d dage.com
 -d dagensbedste.dk
 -d daggersknivesandswords.com
--d daghes.site
 -d dagindia.com
 -d daglenzen-bestellen.nl
 -d daglezja-wycinkadrzew.pl
@@ -22085,6 +22084,7 @@ msFilterList
 -d datxanhmienbac.info
 -d daubertlawyer.com
 -d dauger.fr
+-d daugia.org
 -d daukhidonga.com
 -d daukhidonga.vn
 -d daukhop.vn
@@ -22915,7 +22915,6 @@ msFilterList
 -d demo.jjmayurved.com
 -d demo.jrkcompany.com
 -d demo.kanapebudapest.hu
--d demo.kechuahangdidong.com
 -d demo.kzonetechnologies.com
 -d demo.lamppostmedia.in
 -d demo.lapizblanco.com
@@ -25737,6 +25736,7 @@ msFilterList
 -d downloads.sandisk.com
 -d downloads.webstartpro.com
 -d downloads.xchangewallet.com
+-d downloads.zhyshuju.cn
 -d downloads44you.shop
 -d downloads4you.shop
 -d downloads4you.uk
@@ -27306,7 +27306,6 @@ msFilterList
 -d economiadigital.biz
 -d economika.com.ve
 -d economizei.shop
--d economplast.com
 -d economywindowcleaner.com
 -d econoteen.fea.usp.br
 -d econotel.us
@@ -30779,6 +30778,7 @@ msFilterList
 -d familysgreen.com
 -d familytex.ru
 -d famint-my.sharepoint.com
+-d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -31665,6 +31665,7 @@ msFilterList
 -d file-server.online
 -d file.botvonline.com
 -d file.buttsdki.ca
+-d file.cdn.xiangtatech.com
 -d file.co.uk.cjllcmonthlysub.ga
 -d file.dpmf.com.pk
 -d file.importantcover.uk
@@ -32325,7 +32326,6 @@ msFilterList
 -d flexperts.com.au
 -d flexsell.ca
 -d flexsport.cz
--d flextimemd.com
 -d flexwebsolution.com
 -d flgmedia.nl
 -d flidot.com
@@ -33854,6 +33854,7 @@ msFilterList
 -d g.makswells.com
 -d g.mysofting.xyz
 -d g.pdofan.ru
+-d g.top4top.io
 -d g0ogle.free.fr
 -d g0zh8lb3.com
 -d g15aocbenedict.com
@@ -34868,7 +34869,6 @@ msFilterList
 -d gestiolegal.com
 -d gestion.earpad.fr
 -d gestiondecorreo.info
--d gestione.co
 -d gestioneinbizzotutto.com
 -d gestiongerencial.com.ar
 -d gestioniso.es
@@ -37208,7 +37208,6 @@ msFilterList
 -d guoble.ru
 -d guojiazui.com
 -d guojibu.hnfms.com.cn
--d guolanjr.com
 -d guolinv.com
 -d guolyfrederick.club
 -d guomanhotels.todaycouponcode.com
@@ -39279,6 +39278,7 @@ msFilterList
 -d hnqy1688.com
 -d hnsdxbbzuk.gq
 -d hnsoft.pt
+-d hnstech.vn
 -d hnsyxf.com
 -d hnuk.net
 -d hnw.midnitehabit.com
@@ -40599,7 +40599,6 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
--d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
 -d i.ooxx.ooo
@@ -42552,6 +42551,7 @@ msFilterList
 -d insumoscerveceros.com.co
 -d insumosesmar.com
 -d insumosviltre.com.ar
+-d insupportofchildren.co.uk
 -d insur-expat.com
 -d insurance-iran.com
 -d insurance-truck.intercom-mail.com
@@ -43832,6 +43832,7 @@ msFilterList
 -d j-stage.jp
 -d j-toputvoutfitters.com
 -d j.kyryl.ru
+-d j.top4top.io
 -d j13.biz
 -d j19nl66isabella.city
 -d j2.siv.cc
@@ -46568,7 +46569,6 @@ msFilterList
 -d kec-cendana.enrekangkab.go.id
 -d kec-wlingi.blitarkab.go.id
 -d kecforging.com
--d kechuahangdidong.com
 -d keciorenkoltukyikama.net
 -d keckarangdadap.pekalongankab.go.id
 -d kecsfila.hu
@@ -50886,6 +50886,7 @@ msFilterList
 -d livecigarevent.com
 -d livecricketscorecard.info
 -d livedaynews.com
+-d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d livefarma.com
@@ -52192,6 +52193,7 @@ msFilterList
 -d ma-yar.com
 -d ma.alaziz-jatisawahan.com
 -d ma.jopedu.com
+-d ma.mctv.ne.jp
 -d ma.owwwv.com
 -d maacap.com
 -d maadco.net
@@ -54136,6 +54138,7 @@ msFilterList
 -d martinadesign.it
 -d martinamacfarlane.com
 -d martinamasaze.cz
+-d martinas-kunsthandwerk.at
 -d martinbaum.com.br
 -d martinburch.com
 -d martinelacasse.ca
@@ -54432,6 +54435,7 @@ msFilterList
 -d mattans.com.sg
 -d mattapanptandhealthcare.com
 -d mattawan.com
+-d mattayom31.go.th
 -d mattbordi.com
 -d mattcas.com.hk
 -d matteogiovanetti.com
@@ -56705,7 +56709,6 @@ msFilterList
 -d mkw.ba
 -d mkwu.borneo.ac.id
 -d mkwxstarserver17km.xyz
--d mky.com
 -d mkzone.com.ng
 -d ml-moto.biz
 -d ml.com.watchdogdns.duckdns.org
@@ -65435,6 +65438,7 @@ msFilterList
 -d photo-midorikawa.info
 -d photo.6nationstabletenniscup.com
 -d photo.mikerizzello.com
+-d photo.sohu.com
 -d photo2.nerdtonik.com
 -d photobook-design.de
 -d photobussacramento.com
@@ -67458,7 +67462,6 @@ msFilterList
 -d professionalshop.in
 -d professionalwaiterskollege.org
 -d professionelelit.com
--d profetestruec.net
 -d profexsystem.com
 -d proffessia.ru
 -d proffice.com.pl
@@ -77048,6 +77051,7 @@ msFilterList
 -d slrpros.com
 -d sls-eg.com
 -d sls-security.ru
+-d slsbearings.com.sg
 -d slservicebd.com
 -d slubnefury.pl
 -d slugard.5gbfree.com
@@ -78868,9 +78872,7 @@ msFilterList
 -d srv-file9.gofile.io
 -d srv-store4.gofile.io
 -d srv-store6.gofile.io
--d srv7.computerkolkata.com
 -d srv77956.ht-test.ru
--d srv9.computerkolkata.com
 -d srv9.corpwebcontrol.com
 -d srvmanos.no-ip.info
 -d ss-setta.com
@@ -83732,7 +83734,6 @@ msFilterList
 -d thehalihans.com
 -d thehangout.com.au
 -d thehansongrp.com
--d thehapz.com
 -d theharf.in
 -d theharshgupta.com
 -d thehealthgardens.com
@@ -84904,7 +84905,6 @@ msFilterList
 -d tlcid.org
 -d tlckids-or.ga
 -d tlcmoto.com
--d tldrbox.top
 -d tldrnet.top
 -d tlextreme.com
 -d tlkcloudem.com
@@ -90884,6 +90884,7 @@ msFilterList
 -d webcamvriendinnen.nl
 -d webchamp.com
 -d webclicks.co.za
+-d webcluetech.com
 -d webcollectionall.com
 -d webcompanypro.com
 -d webcompra.com.br
@@ -92517,6 +92518,7 @@ msFilterList
 -d wpdev.strativ-support.se
 -d wpdev.ted.solutions
 -d wpdev.ztickerz.io
+-d wpengine.zendesk.com
 -d wpgtxdtgifr.ga
 -d wpldjxxxua.ga
 -d wpmagian.com
@@ -94202,6 +94204,7 @@ msFilterList
 -d yinruidong.top
 -d yinyangmedi.ch
 -d yinyinhtun.com
+-d yisankeji.site
 -d yishi3m.com
 -d yitong888.cn
 -d yitongyilian.com
@@ -95395,6 +95398,7 @@ msFilterList
 -d zoox.com.br
 -d zoparo.nl
 -d zopbxtjiuykhyyp.usa.cc
+-d zopro.duckdns.org
 -d zoracle.com
 -d zorancreative.com
 -d zoratech.ro
