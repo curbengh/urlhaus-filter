@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 10 Jan 2021 00:11:32 UTC
+# Updated: Sun, 10 Jan 2021 12:11:30 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -126,7 +126,6 @@ msFilterList
 -d 1001sb.checkyourprojects.com
 -d 1001tur-tver.ru
 -d 10022020newfolder1002-0153251002202035.site
--d 10022020newfolder1002002231-service1002.space
 -d 100alternance.fr
 -d 100kala.ir
 -d 100percentforkids.org
@@ -4855,7 +4854,6 @@ msFilterList
 -d allnewtech.co.uk
 -d allnicolerichie.com
 -d allnightfm.com
--d allnws.com
 -d allo-prono.fr
 -d allocacoc.com.co
 -d allocationcylinder.xyz
@@ -10368,7 +10366,6 @@ msFilterList
 -d bavnhoej.dk
 -d bawalisharif.com
 -d bawalnews.in
--d bawang.allnws.com
 -d bawarchiindian.com
 -d bawaslu.wonosobokab.go.id
 -d bawc.com
@@ -10460,7 +10457,6 @@ msFilterList
 -d bbfr.cba.pl
 -d bbgiardinodoriente.it
 -d bbgk.de
--d bbgroup.com.vn
 -d bbh-design.de
 -d bbhdata.com
 -d bbhs.org.ng
@@ -12485,7 +12481,6 @@ msFilterList
 -d blob.digital
 -d blobfeed.com
 -d blockchain-com.cf
--d blockchain-review.co.th
 -d blockchain-techminers.com
 -d blockchain.beachcondolife.tk
 -d blockchainbitcoins.info
@@ -18648,7 +18643,6 @@ msFilterList
 -d cmeaststar.de
 -d cmecobrancas.com
 -d cmessagers.com
--d cmg.asia
 -d cmgroup.com.ua
 -d cmhighschool.edu.bd
 -d cmhmfgoutbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
@@ -19339,6 +19333,7 @@ msFilterList
 -d complience.com
 -d compln.net
 -d component.pw
+-d components.technologymindz.com
 -d composecv.com
 -d composite.be
 -d compoundy.com
@@ -24231,6 +24226,7 @@ msFilterList
 -d digihop.cyou
 -d digiiital.co.uk
 -d digikow.000webhostapp.com
+-d digilander.libero.it
 -d digileads.ae
 -d digilib.dianhusada.ac.id
 -d digim.asia
@@ -25689,6 +25685,7 @@ msFilterList
 -d download.azaleanet.it
 -d download.beveilingsdienst.info
 -d download.bigmail.daum.net
+-d download.bypass.cn
 -d download.cardesales.com
 -d download.conceptndev.fr
 -d download.doumaibiji.cn
@@ -30788,6 +30785,7 @@ msFilterList
 -d familysgreen.com
 -d familytex.ru
 -d famint-my.sharepoint.com
+-d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -31265,6 +31263,7 @@ msFilterList
 -d fechamentodesacadas.com.br
 -d fechos.org.br
 -d fecoonde.org
+-d fectrucks.com
 -d fed58f43246844b18d00fb0177352546.download
 -d fedaicoskun.com
 -d fedbroker.ru
@@ -34582,7 +34581,6 @@ msFilterList
 -d geestdriftnu.com
 -d geevida.com
 -d geeyun.me
--d gegar.allnws.com
 -d gegemony4you.top
 -d gegnacheckwebtiyclin.tk
 -d gehause.ru
@@ -35728,7 +35726,6 @@ msFilterList
 -d go.skyyer.com
 -d go.xsuad.com
 -d go2035.ru
--d go2l.ink
 -d go4it24.be
 -d go5bln3.com
 -d go80tokoonline.com
@@ -36987,6 +36984,7 @@ msFilterList
 -d gsprogressreport.everywomaneverychild.org
 -d gsr.park.edu
 -d gsraconsulting.com
+-d gss.mof.gov.cn
 -d gsscomputers.co.uk
 -d gssgroups.com
 -d gstat.americansreachingmanyservices.com
@@ -37384,6 +37382,7 @@ msFilterList
 -d h-w-c.net
 -d h.eurotrading.com.pl
 -d h.j990981.ru
+-d h.top4top.io
 -d h.valerana44.ru
 -d h002295863.nichost.ru
 -d h0h.org
@@ -38900,7 +38899,6 @@ msFilterList
 -d hibara-ac.com
 -d hibinc.co
 -d hibridhazak.hu
--d hiburan.allnws.com
 -d hiburanmalam.vip
 -d hicast.tn
 -d hichamesraidi.fr
@@ -43843,7 +43841,6 @@ msFilterList
 -d j-stage.jp
 -d j-toputvoutfitters.com
 -d j.kyryl.ru
--d j.top4top.io
 -d j13.biz
 -d j19nl66isabella.city
 -d j2.siv.cc
@@ -46476,7 +46473,6 @@ msFilterList
 -d kaznet.com
 -d kazzuestore.com
 -d kb.bitcoins101.ca
--d kb.in.ua
 -d kb2m5hn6cm6crmcw.4tor.ml
 -d kbbmorissa.com
 -d kbcannabis.ciip-cis.co
@@ -46683,7 +46679,6 @@ msFilterList
 -d kemahasiswaan.unair.ac.id
 -d kemalerkol.net
 -d kemaster.kz
--d kemco.or.kr
 -d kemencem.net
 -d kemeri.it
 -d kemilauminang.com
@@ -47363,7 +47358,6 @@ msFilterList
 -d kirtifoods.com
 -d kirunak.org
 -d kisagy.hu
--d kisah.allnws.com
 -d kiselev27.ru
 -d kiseong.co.kr
 -d kisfino.com
@@ -47946,7 +47940,6 @@ msFilterList
 -d kopfkorea.com
 -d kopiborneo.id
 -d kopier-chemnitz.de
--d kopihitamputih.com
 -d kopiroticentral.com
 -d kopkar-ipsaguling.com
 -d koppa.ch
@@ -48657,6 +48650,7 @@ msFilterList
 -d kyotoforum.or.jp
 -d kyouei.co.th
 -d kypa.or.ke
+-d kypersab36.top
 -d kypersak06.top
 -d kypersan16.top
 -d kyric.com
@@ -50247,7 +50241,6 @@ msFilterList
 -d library.cifor.org
 -d library.dhl-xom.com
 -d library.iainbengkulu.ac.id
--d library.mju.ac.th
 -d library.phibi.my.id
 -d library.strophicmusic.com
 -d library.udom.ac.tz
@@ -52033,6 +52026,7 @@ msFilterList
 -d luzconsulting.com.br
 -d luzevida.com.br
 -d luzfloral.com
+-d luzy.vn
 -d luzzeri.com
 -d lvajnczdy.cf
 -d lvcfund.org.vn
@@ -52327,7 +52321,6 @@ msFilterList
 -d madagascarfoment.ru
 -d madagolf.com
 -d madalozzosistemas.com.br
--d madame-coccinelle.fr
 -d madamemesquita.app4you.app.br
 -d madametood.com
 -d madancpa.com
@@ -55002,7 +54995,6 @@ msFilterList
 -d mediamoda.ru
 -d mediamouse.com.au
 -d medianabolivia.com
--d medianews.ge
 -d mediaprecies.online
 -d mediarama.ru
 -d mediariser.com
@@ -61671,6 +61663,7 @@ msFilterList
 -d nxrtts.com
 -d nxsgroup.co
 -d nxtcloud.dittmer.at
+-d nxtfdata.xyz
 -d nxtgreen.co.in
 -d nxyykj.com
 -d ny-accounting.co.za
@@ -62156,6 +62149,7 @@ msFilterList
 -d ohters.de
 -d ohyellow.nl
 -d oi65.tinypic.com
+-d oi68.tinypic.com
 -d oiainbtaea38.silverabout.ml
 -d oiasdnqweqasd.com
 -d oidblueprin.at
@@ -65292,6 +65286,7 @@ msFilterList
 -d pgpo.pl
 -d pgpthailand.com
 -d pgqejg.dm.files.1drv.com
+-d pgt.com.hk
 -d pgweb.com.ve
 -d pgwebhost.com
 -d ph.alessandrodelpiero.eu
@@ -65446,7 +65441,6 @@ msFilterList
 -d phongchitt.com
 -d phongduc.com.vn
 -d phonghanh.com
--d phonghoinghi.com
 -d phongkhambenhgan.net
 -d phongkhamdakhoathanhhoa.vn
 -d phongkhamhong.com
@@ -65467,7 +65461,6 @@ msFilterList
 -d photo-midorikawa.info
 -d photo.6nationstabletenniscup.com
 -d photo.mikerizzello.com
--d photo.sohu.com
 -d photo2.nerdtonik.com
 -d photobook-design.de
 -d photobussacramento.com
@@ -67490,7 +67483,6 @@ msFilterList
 -d professionalshop.in
 -d professionalwaiterskollege.org
 -d professionelelit.com
--d profetestruec.net
 -d profexsystem.com
 -d proffessia.ru
 -d proffice.com.pl
@@ -68115,7 +68107,6 @@ msFilterList
 -d pubertilodersx.com
 -d pubg.cheat.cx
 -d pubgaz.com
--d pubgm.vnhax.com
 -d pubgmobilemodapk.com
 -d publica.cz
 -d publicas.com.ar
@@ -72538,7 +72529,6 @@ msFilterList
 -d s2lol.com
 -d s2retail.vn
 -d s2s-architect.com
--d s3.didiyunapi.com
 -d s3.in.ua
 -d s3.rokket.space
 -d s3.sovereigncars.org.uk
@@ -80712,7 +80702,6 @@ msFilterList
 -d support.loungu.com
 -d support.m2mservices.com
 -d support.nordenrecycling.com
--d support.pubg.com
 -d support.redbook.aero
 -d support.revolus.xyz
 -d support.shopifysalesforcemadeasy.com
@@ -84804,7 +84793,6 @@ msFilterList
 -d tintua.org
 -d tintuc.chuyendoisong.info
 -d tintucdanang.net
--d tintuctruyenthong24.com
 -d tintut.smartosc.com
 -d tinxehoi.vn
 -d tiny-ebino-4209.whitesnow.jp
@@ -86600,6 +86588,7 @@ msFilterList
 -d tunnelpros.com
 -d tunnelview.co.uk
 -d tuobrasocial.com.ar
+-d tuoitrethainguyen.vn
 -d tupibaje.com
 -d tur.000webhostapp.com
 -d turadioestereo.com
@@ -87987,6 +87976,7 @@ msFilterList
 -d url.246546.com
 -d url.57569.fr.snd52.ch
 -d url.sg
+-d url2.mailanyone.net
 -d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
@@ -88172,6 +88162,7 @@ msFilterList
 -d utterstock.in
 -d utting.org
 -d utv.sakeronline.se
+-d uujian.cn
 -d uumove.com
 -d uurty87e8rt7rt.com
 -d uutiset.helppokoti.fi
@@ -92479,7 +92470,6 @@ msFilterList
 -d wp.ewa-iot.com
 -d wp.foxsumo.com
 -d wp.galerijamart.lt
--d wp.gensoukyou.org
 -d wp.hashlearn.com
 -d wp.hby23.com
 -d wp.hopure.com
@@ -92823,7 +92813,6 @@ msFilterList
 -d wyloellard.com
 -d wyndhamatduran.com
 -d wyomingauthors.org
--d wyptk.com
 -d wyredsecurity.com
 -d wyszx.jihaose.cn
 -d wywoznieczystosci.pomorze.pl
