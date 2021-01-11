@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 10 Jan 2021 12:11:30 UTC
+# Updated: Mon, 11 Jan 2021 00:11:29 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1127,6 +1127,7 @@ msFilterList
 -d 4kmatch.net
 -d 4kmj.com
 -d 4kopmarathon.in
+-d 4kwallpaperdownload.com
 -d 4kwoz.pl
 -d 4kyoutubedonwload.club
 -d 4life.com.vn
@@ -13574,7 +13575,6 @@ msFilterList
 -d boomertravelers.net
 -d boomfurnishing.xyz
 -d boomgo.xyz
--d boomi-indonesia.com
 -d boompack.com
 -d boompe.com
 -d boomspace.kz
@@ -13698,7 +13698,6 @@ msFilterList
 -d bot.madlabs.com.my
 -d bot.sunless.network
 -d bot.xiaohec.top
--d botalo4ka.store
 -d botamotocross.site
 -d botanicalhenna.com
 -d boteco1.com
@@ -17760,7 +17759,6 @@ msFilterList
 -d chstarkeco.com
 -d chsud.futminna.edu.ng
 -d chthonian-win.000webhostapp.com
--d chtr.ch
 -d chu576f.com
 -d chuabenhbangthuocdongy.com
 -d chuahetdaubungkinh.com
@@ -19162,6 +19160,7 @@ msFilterList
 -d comduoliprudential.com.watchdogdns.duckdns.org
 -d comeandpick.com
 -d comedorangelguardian.com
+-d comedtrabangola.com
 -d comedyclubacademy.com
 -d comedyticket.nl
 -d comega.nl
@@ -22637,6 +22636,7 @@ msFilterList
 -d deguia.net
 -d degustibeer.it
 -d dehabadi.ir
+-d dehaine.com
 -d deheld100.nl
 -d dehkadeh-tameshk.ir
 -d dehkadehzaferan.com
@@ -30789,6 +30789,7 @@ msFilterList
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
+-d famousdiagnosticcenter.com
 -d fampraffer.com
 -d fams.com.au
 -d famtripsandinspectionvisits.com
@@ -31068,7 +31069,6 @@ msFilterList
 -d fatemehmahmoudi.com
 -d faternegar.ir
 -d fatfoodfetish.com
--d fathekarim.com
 -d fatherchildless.com
 -d fathershousegf.org
 -d fatimaelectricandsolar.com
@@ -32680,7 +32680,6 @@ msFilterList
 -d fopstudios.com
 -d for-rus.ru
 -d for-vill.ru
--d for.ge
 -d forads.ae
 -d forage.restaurant
 -d forbesriley.net
@@ -35875,7 +35874,6 @@ msFilterList
 -d goldenb.kz
 -d goldenboyatl.com
 -d goldenbridgeelectrical.in
--d goldenbw.com
 -d goldencommunitycareafh.org
 -d goldencorral.club
 -d goldencorralonthego.net
@@ -37108,6 +37106,7 @@ msFilterList
 -d guestpostoffice.com
 -d gueyprotein.com
 -d gufsms.com
+-d gugu-game.tk
 -d guiacidade360.com.br
 -d guiadecardapios.com
 -d guiadelavida.com
@@ -48571,7 +48570,6 @@ msFilterList
 -d kvartura.vn.ua
 -d kvaser-microsite.tagsom.company
 -d kvav.in
--d kvclasses.com
 -d kvidal.socialgrab.no
 -d kvikz.dk
 -d kvintek.com
@@ -48651,6 +48649,7 @@ msFilterList
 -d kyouei.co.th
 -d kypa.or.ke
 -d kypersab36.top
+-d kypersai26.top
 -d kypersak06.top
 -d kypersan16.top
 -d kyric.com
@@ -59220,6 +59219,7 @@ msFilterList
 -d napilla.com
 -d napitipp.hu
 -d naplesbestrealestate.com
+-d naplesparkshorebestrealestate.com
 -d napm-india.org
 -d napoleonzoetermeer.nl
 -d napolisun.sism.org
@@ -66484,6 +66484,7 @@ msFilterList
 -d pontosat.com.br
 -d pontotocdistrictba.com
 -d pontualpromocoes.com.br
+-d ponturibaschetcristianionut.com
 -d pontus-euxinus.ro
 -d pony.s-p-y.ml
 -d pony.warzonedns.com
@@ -67329,7 +67330,6 @@ msFilterList
 -d priviteraeventi.com
 -d privokzal.com.ua
 -d prixfixeny.com
--d priyabeatus.com
 -d priyainfosys.com
 -d priyamcollection.com
 -d prizma.ch
@@ -68902,7 +68902,6 @@ msFilterList
 -d quailfarm.000webhostapp.com
 -d quakerhills.in
 -d quakerservice.net
--d qualcommmedia.com
 -d qualigifts.com
 -d qualitatexpertises-my.sharepoint.com
 -d qualitec.pl
@@ -71611,6 +71610,7 @@ msFilterList
 -d roem-events.nl
 -d rofa-rps.de
 -d roffers.com
+-d rogahnjones.com
 -d rogamaquinaria.com
 -d rogatech.cf
 -d rogatech.ga
@@ -73341,6 +73341,7 @@ msFilterList
 -d sangkhomwit.ac.th
 -d sangnghiep.com.vn
 -d sangodaiphu.com
+-d sangok.tk
 -d sangokythuat.com.vn
 -d sangorn.ru
 -d sangorod.websaiting.ru
@@ -75989,6 +75990,7 @@ msFilterList
 -d shoshou.mixh.jp
 -d shot-life.ru
 -d shot.co.kr
+-d shotfarm.com
 -d shoujiushu.cn
 -d shouku.in
 -d shourayinfotech.xyz
@@ -78105,7 +78107,6 @@ msFilterList
 -d sos-secretariat.be
 -d sos-sv.com
 -d sos.landmarktest.site
--d sos03.lt
 -d sosacres.com
 -d sosanhapp.com
 -d sosbrasilsoberano.org.br
@@ -79295,7 +79296,6 @@ msFilterList
 -d startupforbusiness.com
 -d startupideas.biz
 -d startupindustrial.com.br
--d startuploans.co.za
 -d startupm.co
 -d startupprofiler.com
 -d startupry.com
@@ -81606,7 +81606,6 @@ msFilterList
 -d talkfeline.com
 -d talkingindoor.com.br
 -d talkingstickfest.ca
--d talkischeap.co.za
 -d talkmeupdev.us-west-2.elasticbeanstalk.com
 -d talkmorecomedy.com
 -d talkonnet.in
@@ -81727,7 +81726,6 @@ msFilterList
 -d tanpaobat.com
 -d tanpeo.com
 -d tanphongtea.com.vn
--d tanphuchung.vn
 -d tanpiupiu.com
 -d tantal.az
 -d tantarantantan23.ru
@@ -87744,6 +87742,7 @@ msFilterList
 -d upbizindia.com
 -d upcbrff.com
 -d upch.mx
+-d upcloudweb.com
 -d upcndg.org
 -d upcom-pro.be
 -d upcomingwiki.com
@@ -90432,6 +90431,7 @@ msFilterList
 -d waksurgical.com.pk
 -d wakujapa-toriniku.com
 -d walburg.pl
+-d walcial.com
 -d walco-me.com
 -d walcouts.com
 -d wald-wild.com
@@ -90913,6 +90913,7 @@ msFilterList
 -d webcycconsultores.com
 -d webdain.com
 -d webdav.tfa-secure.tech
+-d webdemo.cl
 -d webdemo.honeynet.vn
 -d webdemo.mynic.my
 -d webdemo1.nlbmaccelerator.com
@@ -91716,7 +91717,6 @@ msFilterList
 -d williamssminexroad.cf
 -d willie-wong.com
 -d willingwater.com
--d willingwoods.com
 -d willins.com.br
 -d willipostcopa.com
 -d willmeroth.org
@@ -92334,7 +92334,6 @@ msFilterList
 -d worldclasstrans.com
 -d worldclimax.com
 -d worldcoin21.club
--d worldcologistics.co.za
 -d worldcommunitymuseum.org
 -d worldcook.net
 -d worldcrypto.shop
@@ -93094,8 +93093,8 @@ msFilterList
 -d xizanglvyou.org
 -d xiztance.com
 -d xj.sohui.top
--d xk-mx.com
 -d xk625lf.com
+-d xkeji.cn
 -d xkld-nhatban-infinity.com
 -d xkldtanson.com
 -d xkvm.cn
@@ -94059,6 +94058,7 @@ msFilterList
 -d ydone.site
 -d ydrool.me
 -d yds-en.com
+-d ydslin.fun
 -d yduckshop.com
 -d yduocbinhthuan.info
 -d yduoclaocai.info
