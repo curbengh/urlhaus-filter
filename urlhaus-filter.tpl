@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 16 Jan 2021 12:11:57 UTC
+# Updated: Sun, 17 Jan 2021 00:11:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2946,7 +2946,6 @@ msFilterList
 -d admins.lt
 -d adminsoftcorp.com
 -d adminsystemcr.com
--d admintk.com
 -d adminwhiz.ca
 -d admiralfurs.com
 -d admiralkirk.de
@@ -3418,6 +3417,7 @@ msFilterList
 -d afyonfulyacicek.com
 -d afyonsuaritma.com
 -d ag-inveta.com
+-d ag74.com.br
 -d ag777.co
 -d agaazclasses.com
 -d agacenter.ro
@@ -5543,6 +5543,7 @@ msFilterList
 -d americaporn.xyz
 -d americarecovers.com
 -d americaschoicemeats.com
+-d americaslegalchoice.com
 -d americasteaks.com
 -d americataxinsurance.com
 -d amerifencewichita.com
@@ -6496,6 +6497,7 @@ msFilterList
 -d apacino-wire.ga
 -d apaenh.com.br
 -d apaismafra.sytes.net
+-d apaixonadosporcaes.com
 -d apanet.info
 -d apantvbd.com
 -d aparato.in
@@ -19782,6 +19784,7 @@ msFilterList
 -d construindo2016.com
 -d construjac.com.br
 -d construliga.com.br
+-d construtoraaguiar.com.br
 -d construtoragarrah.com.br
 -d construtorahabite.com.br
 -d construtorahabplan.com.br
@@ -21810,6 +21813,7 @@ msFilterList
 -d danangluxury.com
 -d danangshw.com
 -d danaodragonjfarm.com
+-d danaplat.com
 -d danareese.com
 -d danashoes.ro
 -d danataifco.com
@@ -24172,7 +24176,6 @@ msFilterList
 -d diaocvnvietphatgroup.com
 -d diaque.cn
 -d diarea.site
--d diario7lagos.com.ar
 -d diarioprimeraplana.com.mx
 -d diaryofamrs.com
 -d diasdiascontabilidade.com.br
@@ -25885,7 +25888,6 @@ msFilterList
 -d downloads.sandisk.com
 -d downloads.webstartpro.com
 -d downloads.xchangewallet.com
--d downloads.zhyshuju.cn
 -d downloads44you.shop
 -d downloads4you.shop
 -d downloads4you.uk
@@ -33680,6 +33682,7 @@ msFilterList
 -d ftp.heys.info
 -d ftp.homes2see.com
 -d ftp.mcs.anl.gov
+-d ftp.n3twork30cm.ml
 -d ftp.smartcarpool.co.kr
 -d ftp.spbv.org
 -d ftp.vector.co.jp
@@ -37007,6 +37010,7 @@ msFilterList
 -d group404.com
 -d group8.metropolitanculture.net
 -d groupalkor.ru
+-d groupbps.com
 -d groupchips.com
 -d groupe-kpar3.com
 -d groupeayoub.net
@@ -40823,7 +40827,6 @@ msFilterList
 -d i-kama.pl
 -d i-life-net.com
 -d i-mueller.de
--d i-quiz.ir
 -d i-rate.ru
 -d i-razum.ru
 -d i-rewardshop.com
@@ -43511,6 +43514,7 @@ msFilterList
 -d isbr.in
 -d isc-cu.org
 -d iscamenabe.com
+-d iscamode.ca
 -d iscanhome.com
 -d iscelim.com
 -d ischka.com
@@ -44295,6 +44299,7 @@ msFilterList
 -d jana-spreen.de
 -d janakre.com
 -d janalynthirlwall.com
+-d janapadnews.com
 -d janatamicrofoundation.in
 -d janataralo.com
 -d janavenanciomakeup.com.br
@@ -52335,6 +52340,7 @@ msFilterList
 -d lvr.samacomplus.com
 -d lvseka.com
 -d lvsenling.net
+-d lvshouxi.eicp.net
 -d lvxingjp.com
 -d lw.chokun.ru
 -d lw.mirkre.com
@@ -59616,6 +59622,7 @@ msFilterList
 -d narumi.mn
 -d naruznaya-saratov.ru
 -d narwhaldatapartners.com
+-d naryb.ml
 -d nas.heider17.at
 -d nas.svk-telecom.ru
 -d nasa.ekpaideusi.gr
@@ -67416,7 +67423,6 @@ msFilterList
 -d premier-pavers.com
 -d premiera.ca
 -d premiera.ks.ua
--d premierbarsamui.com
 -d premiereacademy.co.in
 -d premiereplasticsurgerylasvegas.com
 -d premierfitness.co.ke
@@ -70304,7 +70310,6 @@ msFilterList
 -d rayhom.com
 -d raymieszoo.com
 -d raymirodriguez.com
--d raymodul.com
 -d raymondjaon.ug
 -d rayne.space
 -d rayofhope.ga
@@ -72591,6 +72596,7 @@ msFilterList
 -d rubthemoneybear.xyz
 -d ruby.barefoot-hosting.com
 -d ruby9mobile.com
+-d rubycityvietnam.com
 -d rubycuve.com
 -d rubylux.vn
 -d rubyredsky.com
@@ -79422,6 +79428,7 @@ msFilterList
 -d ssonear.me
 -d ssoocc.com
 -d ssosi.ru
+-d ssoverseas.co
 -d sspchakri.com
 -d ssprosvcs.com
 -d ssquared.qa
@@ -80347,6 +80354,7 @@ msFilterList
 -d storyikama.xyz
 -d storylife4you.com
 -d storyonmymind.com
+-d storypostar.com
 -d storypower.com
 -d storytimeorlandorental.com
 -d stosb.de
@@ -88221,7 +88229,6 @@ msFilterList
 -d unsafedrugs.com
 -d unsanrohandper.tk
 -d unsb.co.in
--d unsignedonly.com
 -d unstolic.com
 -d unsurmised-pecks.000webhostapp.com
 -d unswerving.org
@@ -89752,6 +89759,7 @@ msFilterList
 -d videossources.com
 -d videoswebcammsn.free.fr
 -d videract.com
+-d vides.org
 -d videsrona.com
 -d vidhamastudios.com
 -d vidiantec.cl
@@ -94673,6 +94681,7 @@ msFilterList
 -d yeniportakalcicegi.com
 -d yeniyildirimkargo.com.tr
 -d yensaogianguyen.com
+-d yensaomiso.com
 -d yepi2eco.ru
 -d yepokjpdy.cf
 -d yequjun.com
