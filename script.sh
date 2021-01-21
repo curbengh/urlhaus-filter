@@ -27,6 +27,8 @@ cut -f 6 -d '"' | \
 cut -f 3- -d "/" | \
 # Domain must have at least a 'dot'
 grep -F "." | \
+# Remove invalid protocol, see #32
+sed -E "s/^(ttps:\/\/|https:\/|http\/)//g" | \
 # Remove www.
 sed "s/^www\.//g" | \
 sort -u > "urlhaus.txt"
