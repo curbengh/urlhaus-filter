@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 31 Jan 2021 12:11:53 UTC
+# Updated: Mon, 01 Feb 2021 00:11:54 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2593,6 +2593,7 @@ msFilterList
 -d acht-stuecken.de
 -d achuanchaolihai.cn
 -d aci.serabd.com
+-d aciitaly.com
 -d acilevarkadasi.com
 -d acilisbalon.com
 -d acimd.pt
@@ -3459,6 +3460,7 @@ msFilterList
 -d afrovisionministries.org
 -d afs.kz
 -d afsananovel.com
+-d afsgames.com
 -d afshari.ch
 -d afshari.yazdvip.ir
 -d afsharzeinali.ir
@@ -3693,6 +3695,7 @@ msFilterList
 -d agricolalusiatreviso.it
 -d agridept.nc.gov.lk
 -d agridron.com
+-d agriex.ca
 -d agrifarm.pk
 -d agrimkartuzy.pl
 -d agrinstyle.com
@@ -7674,7 +7677,6 @@ msFilterList
 -d art3d.org
 -d art964.com
 -d artaan.ir
--d artabout.gr
 -d artadvancekid.info
 -d artaghril.com
 -d artalegno.it
@@ -8499,6 +8501,7 @@ msFilterList
 -d atgmail.net
 -d ath.edu.vn
 -d athagata.ru
+-d atharvgavade.com
 -d athelstan.ninja
 -d atheltree.com
 -d athemmktg.com
@@ -11564,7 +11567,6 @@ msFilterList
 -d bestperformancesystems.com
 -d bestphotographytnj.com
 -d bestphytuition.com
--d bestpopping.com
 -d bestpraguehotels.com
 -d bestpraticenews.com
 -d bestprogrammingbooks.com
@@ -12237,6 +12239,7 @@ msFilterList
 -d binsyukle.org
 -d binta.xyz
 -d bintangbarutama.co.id
+-d bintangremaja.com
 -d bintec.pe
 -d binupload.com
 -d bio-nerve.co.id
@@ -18648,7 +18651,6 @@ msFilterList
 -d clearliferesults.com
 -d clearlighting.icu
 -d clearmedinc.com
--d clearparcel.com
 -d clearrange53.com
 -d clearrochester.com
 -d clearsolutionow.com
@@ -20755,6 +20757,7 @@ msFilterList
 -d crabnet.com
 -d crach.discusllc.org
 -d crack.relaxationcards.com
+-d crackbros.com
 -d crackmiata.com
 -d cradiant.com
 -d cradigital.com
@@ -21435,6 +21438,7 @@ msFilterList
 -d cuboprintdfw.com
 -d cubspreschool.in
 -d cubus.at
+-d cuc-bd.com
 -d cuccus.in
 -d cucdienanh.vn
 -d cuctin.com
@@ -24887,7 +24891,6 @@ msFilterList
 -d dilema.si
 -d diler.zimen.ua
 -d diligentcreators.com
--d dilimil.com
 -d dilis.social
 -d dill10n1.xyz
 -d dillondoes.com
@@ -27484,6 +27487,7 @@ msFilterList
 -d easilycompared.nl
 -d easleadgen.com
 -d easma.cn
+-d easonmusicschool.com
 -d easport.info
 -d easportsx.pcriot.com
 -d eastafricarefugeerelief.com
@@ -28669,6 +28673,7 @@ msFilterList
 -d elievarsen.ru
 -d elifahsapurunleri.xyz
 -d elifehotel.com
+-d elifkaratas.com.tr
 -d elifmakina.net
 -d eligasul.com.br
 -d elijahngaruiya.co.ke
@@ -44036,6 +44041,7 @@ msFilterList
 -d iryna.biz
 -d is-hp.com
 -d is-yap.com
+-d is.net.sa
 -d is4340.azurewebsites.net
 -d is45wdsed4455sdfsf.duckdns.org
 -d isaac.samjoemmy.com
@@ -45190,6 +45196,7 @@ msFilterList
 -d jeantully.com
 -d jearchitectural-barnsley.co.uk
 -d jeast.ir
+-d jebee.vn
 -d jebkhata.com
 -d jecas.edu.sh.cn
 -d jecherchedieu.fr
@@ -48836,6 +48843,7 @@ msFilterList
 -d kordelectric.melanin.media
 -d kore.lk
 -d koreanahaus.com
+-d koreankidsedu.com
 -d koreanpronyc.com
 -d koreansmart.ga
 -d korechok.ru
@@ -48944,7 +48952,6 @@ msFilterList
 -d kovimall.com
 -d kovkaplitka.ru
 -d kowamusicstore.com
--d kowil.com.vn
 -d kowsarpipe.com
 -d koynwool.com
 -d koyoradiator.ru
@@ -59465,6 +59472,7 @@ msFilterList
 -d mvicente.com.br
 -d mvid.com
 -d mvidl.site
+-d mvldesign.ca
 -d mvm368.com
 -d mvmskpd.com
 -d mvns.railfan.net
@@ -63311,7 +63319,6 @@ msFilterList
 -d oisoc.com
 -d oiwerdnferqrwe.com
 -d ojan.amnafzar.net
--d ojodetigremezcal.com
 -d ojoquesecasan.com
 -d ojwiosna.krusznia.org
 -d ojx.co.kr
@@ -72944,7 +72951,6 @@ msFilterList
 -d rogatech.cf
 -d rogatech.ga
 -d rogene.tk
--d rogerbaulenas.com
 -d rogerealtor.com
 -d rogerfleck.com
 -d rogerssteel.net
@@ -77932,7 +77938,6 @@ msFilterList
 -d sinext.net
 -d sinfastener.com
 -d sinfulexp.net
--d singaedental.vn
 -d singaporedreaming.com
 -d singaporefest.ru
 -d singaporeproperty.ournextmarket.com
@@ -82206,6 +82211,7 @@ msFilterList
 -d suportec.pt
 -d suportenaweb.com
 -d supplementcashback.com
+-d supplementhouse.net
 -d supplierslip.com
 -d supply-ex.com
 -d supplynowdent.com
@@ -87606,7 +87612,6 @@ msFilterList
 -d traxvisionindia.com
 -d trayc.online
 -d trayeantir.com
--d trayonlinegh.com
 -d trazo24.com
 -d trb-project.xyz
 -d trb4ui1o7qm4t7mh.com
