@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 04 Feb 2021 00:12:15 UTC
+# Updated: Thu, 04 Feb 2021 12:12:04 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1161,6 +1161,7 @@
 0.0.0.0 4hourbook.com
 0.0.0.0 4house.co
 0.0.0.0 4hsafetyksa.com
+0.0.0.0 4i7i.com
 0.0.0.0 4im.us
 0.0.0.0 4ingroup.com
 0.0.0.0 4jt4l032ayqiw.com
@@ -3617,7 +3618,6 @@
 0.0.0.0 agenza18.ayz.pl
 0.0.0.0 agenziabalestri.it
 0.0.0.0 agenziadiviaggidinozzetorino.it
-0.0.0.0 agenziainformazioni.icu
 0.0.0.0 agepsed.org
 0.0.0.0 agereversalcreamam.com
 0.0.0.0 agernatura.com
@@ -5441,7 +5441,6 @@
 0.0.0.0 am-tex.net
 0.0.0.0 am3web.com.br
 0.0.0.0 am99.com.au
-0.0.0.0 ama-trans.de
 0.0.0.0 amaarhomes.ca
 0.0.0.0 amabai.org
 0.0.0.0 amable.orionpaginasweb.com
@@ -6839,6 +6838,7 @@
 0.0.0.0 app.boxrcdn.com
 0.0.0.0 app.bridgeimpex.org
 0.0.0.0 app.calag.at
+0.0.0.0 app.casetabs.com
 0.0.0.0 app.catholicchurch.co.in
 0.0.0.0 app.choiphui.com
 0.0.0.0 app.cloudindustry.net
@@ -9686,7 +9686,6 @@
 0.0.0.0 b.makswells.com
 0.0.0.0 b.reich.io
 0.0.0.0 b.teamworx.ph
-0.0.0.0 b.top4top.io
 0.0.0.0 b.top4top.net
 0.0.0.0 b.ww2rai.ru
 0.0.0.0 b010.info
@@ -9799,6 +9798,7 @@
 0.0.0.0 babytoys.life
 0.0.0.0 babyvogel.nl
 0.0.0.0 babzon.club
+0.0.0.0 bac.edu.my
 0.0.0.0 bacamanect.com
 0.0.0.0 baccaosutritue.vn
 0.0.0.0 baceldeniz.com
@@ -14818,6 +14818,7 @@
 0.0.0.0 bucketstrong.s3-us-west-1.amazonaws.com
 0.0.0.0 buckeyechartershiltonhead.com
 0.0.0.0 buckeyeoptical.com
+0.0.0.0 buckeyesecurity.net
 0.0.0.0 buckinghamandlloyds.com
 0.0.0.0 buckleman.co.id
 0.0.0.0 bucklindata.net
@@ -16945,7 +16946,6 @@
 0.0.0.0 cdn.timebuyer.org
 0.0.0.0 cdn.top4top.net
 0.0.0.0 cdn.truelife.vn
-0.0.0.0 cdn.xiaoduoai.com
 0.0.0.0 cdn.zecast.com
 0.0.0.0 cdn3.msetup.download
 0.0.0.0 cdn4.css361.com
@@ -18066,7 +18066,6 @@
 0.0.0.0 cholaholidays.com
 0.0.0.0 cholesterol-ache.xyz
 0.0.0.0 chomptruck.com
-0.0.0.0 chongnet.cn
 0.0.0.0 chongoubus.com
 0.0.0.0 chongthamhoanglinh.com
 0.0.0.0 chongziyun.com
@@ -19143,7 +19142,6 @@
 0.0.0.0 cnc.arm7plz.xyz
 0.0.0.0 cnc.ase.md
 0.0.0.0 cnc.botnetrep.xyz
-0.0.0.0 cnc.c25e6559668942.xyz
 0.0.0.0 cnc.cs9ting.xyz
 0.0.0.0 cnc.cyberwex.com
 0.0.0.0 cnc.dontcatch.us
@@ -26300,6 +26298,7 @@
 0.0.0.0 download.adamas.ai
 0.0.0.0 download.azaleanet.it
 0.0.0.0 download.beveilingsdienst.info
+0.0.0.0 download.bigmail.daum.net
 0.0.0.0 download.bypass.cn
 0.0.0.0 download.caihong.com
 0.0.0.0 download.cardesales.com
@@ -26373,6 +26372,7 @@
 0.0.0.0 downsetup0001.com
 0.0.0.0 downviewimaging.com
 0.0.0.0 downwingbuttons.site
+0.0.0.0 downza.91speed.com.cn
 0.0.0.0 dowseservices.com
 0.0.0.0 dowsfbtool.com
 0.0.0.0 doxa.ca
@@ -32425,6 +32425,7 @@
 0.0.0.0 filebase.mogelgott.de
 0.0.0.0 filebox.hiworks.com
 0.0.0.0 filebr.com
+0.0.0.0 fileco.jobkorea.co.kr
 0.0.0.0 filedigital.ir
 0.0.0.0 filedistrserver.pw
 0.0.0.0 filedownload.gb.net
@@ -34643,6 +34644,7 @@
 0.0.0.0 g.makswells.com
 0.0.0.0 g.mysofting.xyz
 0.0.0.0 g.pdofan.ru
+0.0.0.0 g.top4top.io
 0.0.0.0 g0ogle.free.fr
 0.0.0.0 g0zh8lb3.com
 0.0.0.0 g15aocbenedict.com
@@ -41911,7 +41913,6 @@
 0.0.0.0 ideas-more.com.sa
 0.0.0.0 ideaschannel.com
 0.0.0.0 ideasoluzionidigitali.com
-0.0.0.0 ideastraining.com
 0.0.0.0 ideaware.pl
 0.0.0.0 ideccmty.com.mx
 0.0.0.0 idecor.ge
@@ -49544,6 +49545,7 @@
 0.0.0.0 kungwsdycommunicatws.dns.navy
 0.0.0.0 kungwsdycommunicwsgd.dns.army
 0.0.0.0 kungwsdycommunicwsvc.dns.army
+0.0.0.0 kungwsdycommunicwsxv.dns.army
 0.0.0.0 kuningapood.ee
 0.0.0.0 kunkel5.com
 0.0.0.0 kunming666.cn
@@ -51358,7 +51360,6 @@
 0.0.0.0 library.cifor.org
 0.0.0.0 library.dhl-xom.com
 0.0.0.0 library.iainbengkulu.ac.id
-0.0.0.0 library.mju.ac.th
 0.0.0.0 library.phibi.my.id
 0.0.0.0 library.strophicmusic.com
 0.0.0.0 library.udom.ac.tz
@@ -52025,6 +52026,7 @@
 0.0.0.0 livecigarevent.com
 0.0.0.0 livecricketscorecard.info
 0.0.0.0 livedaynews.com
+0.0.0.0 livedemo00.template-help.com
 0.0.0.0 livedownload.in
 0.0.0.0 livedrumtracks.com
 0.0.0.0 livefarma.com
@@ -53062,6 +53064,7 @@
 0.0.0.0 luminousinvestment.com
 0.0.0.0 luminouspla.net
 0.0.0.0 lumnus.com.br
+0.0.0.0 lumoura.com
 0.0.0.0 lumperpush.com
 0.0.0.0 lumsdancorp.com
 0.0.0.0 lun.otrweb.ru
@@ -56551,7 +56554,6 @@
 0.0.0.0 member.irfansangjuara.com
 0.0.0.0 memberlogin.cloud
 0.0.0.0 members.chello.nl
-0.0.0.0 members.iinet.net.au
 0.0.0.0 members.maskeei.id
 0.0.0.0 members.mycowellness.com
 0.0.0.0 members.nlbformula.com
@@ -57957,7 +57959,6 @@
 0.0.0.0 mkw.ba
 0.0.0.0 mkwu.borneo.ac.id
 0.0.0.0 mkwxstarserver17km.xyz
-0.0.0.0 mky.com
 0.0.0.0 mkzone.com.ng
 0.0.0.0 ml-moto.biz
 0.0.0.0 ml.com.watchdogdns.duckdns.org
@@ -59245,6 +59246,7 @@
 0.0.0.0 mssltd.ie
 0.0.0.0 mssolutionspty.com
 0.0.0.0 msspartners.pl
+0.0.0.0 mssql.4i7i.com
 0.0.0.0 mst-net.de
 0.0.0.0 mstation.jp
 0.0.0.0 msteam18.com
@@ -59291,6 +59293,7 @@
 0.0.0.0 mteng.mmj7.com
 0.0.0.0 mteverestnails.com
 0.0.0.0 mtfelektroteknik.com
+0.0.0.0 mthmscholarship.com
 0.0.0.0 mthtek.net
 0.0.0.0 mti.org.in
 0.0.0.0 mti.shipindia.com
@@ -60184,6 +60187,7 @@
 0.0.0.0 mywebexpert.in
 0.0.0.0 mywebnerd.com
 0.0.0.0 mywebsabcd.do.am
+0.0.0.0 mywebscrap.com
 0.0.0.0 mywebsitefortests.tech
 0.0.0.0 mywebtrackrank.com
 0.0.0.0 myweddingring.id
@@ -64780,7 +64784,6 @@
 0.0.0.0 otokepenk.com
 0.0.0.0 otomotifme.com
 0.0.0.0 otonet.nl
-0.0.0.0 otonoc.pl
 0.0.0.0 otonom-ayakkabilar-turkiye-a.com
 0.0.0.0 otorsgroup.co.uk
 0.0.0.0 otosauna.com
@@ -66027,6 +66030,7 @@
 0.0.0.0 paypalservices.bestincommercialmovers.com
 0.0.0.0 paypeted.com
 0.0.0.0 payplus.vn
+0.0.0.0 payportal.me
 0.0.0.0 payraynow.com
 0.0.0.0 paysend.website
 0.0.0.0 paystovacation.com
@@ -66421,6 +66425,7 @@
 0.0.0.0 perevozkicentr.ru
 0.0.0.0 perezdearceycia.cl
 0.0.0.0 perezllopis.com
+0.0.0.0 perezluzwsdycafewsbz.dns.army
 0.0.0.0 perezluzwsdycafeyzmn.dns.navy
 0.0.0.0 perezmyata.ru
 0.0.0.0 perfalawn.com
@@ -66916,7 +66921,6 @@
 0.0.0.0 photo-midorikawa.info
 0.0.0.0 photo.6nationstabletenniscup.com
 0.0.0.0 photo.mikerizzello.com
-0.0.0.0 photo.sohu.com
 0.0.0.0 photo2.nerdtonik.com
 0.0.0.0 photo360.kubooking.com
 0.0.0.0 photobook-design.de
@@ -72679,6 +72683,7 @@
 0.0.0.0 richborngoldenharvest.com
 0.0.0.0 richdad.today
 0.0.0.0 richelleludwig.com
+0.0.0.0 richelon.in
 0.0.0.0 richesfast.com
 0.0.0.0 richhart.com
 0.0.0.0 richhouse.com.vn
@@ -75121,6 +75126,7 @@
 0.0.0.0 sar-taxi.ru
 0.0.0.0 sara-gadalka.com.kg
 0.0.0.0 sara.dhlsupport.in
+0.0.0.0 sara1wsdyinvestvenws.dns.army
 0.0.0.0 sara2wsdyentertainws.dns.army
 0.0.0.0 sara2wsdyentertawsin.dns.army
 0.0.0.0 sarabuschlen.com
@@ -75778,6 +75784,7 @@
 0.0.0.0 scultworld.eu
 0.0.0.0 scupdate.usa.cc
 0.0.0.0 scvarosario.com
+0.0.0.0 scvmedia.ro
 0.0.0.0 scvsr.org
 0.0.0.0 scw8.net
 0.0.0.0 scwashaway.com
@@ -77307,6 +77314,7 @@
 0.0.0.0 shgshgwsdynationalobjindustrialatwsrnv.ydns.eu
 0.0.0.0 shgshgwsdynationalws.dns.navy
 0.0.0.0 shgshgwsdynationwsmh.dns.army
+0.0.0.0 shgshgwsdynationwsmm.dns.army
 0.0.0.0 shgsqfdzin.ru
 0.0.0.0 shhai.org
 0.0.0.0 shhdoc.com
@@ -77825,6 +77833,7 @@
 0.0.0.0 sia-gmbh.de
 0.0.0.0 siairport.com
 0.0.0.0 siakad.brawijaya.ac.id
+0.0.0.0 siakad.ub.ac.id
 0.0.0.0 sial-healthcare.co.uk
 0.0.0.0 sialkotgoods.com
 0.0.0.0 sialkotmart.net
@@ -78637,7 +78646,6 @@
 0.0.0.0 skvflexandoffset.in
 0.0.0.0 sky-gladenkaya.ru
 0.0.0.0 sky.impactmmg.com
-0.0.0.0 sky.od.ua
 0.0.0.0 skybeetravels.cheapflightso.co.uk
 0.0.0.0 skybest.ir
 0.0.0.0 skybet888.info
@@ -80548,6 +80556,7 @@
 0.0.0.0 sqftcompany.com
 0.0.0.0 sqgdzi.com
 0.0.0.0 sqjjdc.com
+0.0.0.0 sql.4i7i.com
 0.0.0.0 sql.bonin.home.pl
 0.0.0.0 sql.merkadetodoa92.com
 0.0.0.0 sql.rahatexltd.com
@@ -82543,7 +82552,6 @@
 0.0.0.0 support.loungu.com
 0.0.0.0 support.m2mservices.com
 0.0.0.0 support.nordenrecycling.com
-0.0.0.0 support.pubg.com
 0.0.0.0 support.redbook.aero
 0.0.0.0 support.revolus.xyz
 0.0.0.0 support.shopifysalesforcemadeasy.com
@@ -83542,6 +83550,7 @@
 0.0.0.0 tamparoofing.com
 0.0.0.0 tampaseo.com
 0.0.0.0 tampilbeda.id
+0.0.0.0 tamsu.website
 0.0.0.0 tamsuamy.com
 0.0.0.0 tamsys.net
 0.0.0.0 tamta.gr
@@ -85791,6 +85800,7 @@
 0.0.0.0 thelordreignsministries.com
 0.0.0.0 thelotteriesresults.com
 0.0.0.0 theluggagelady.com
+0.0.0.0 theluxdowntown.com
 0.0.0.0 theluxestudio.co.uk
 0.0.0.0 theluxurytrainsofindia.com
 0.0.0.0 thelvws.com
@@ -86161,6 +86171,7 @@
 0.0.0.0 thevicesolution.com
 0.0.0.0 theviesndyjupcazsnty.dns.army
 0.0.0.0 theviestdyjupcazfest.dns.navy
+0.0.0.0 theviewsdyjupcazwsgv.dns.army
 0.0.0.0 thevilla46.com
 0.0.0.0 thevine-organizasyon.com
 0.0.0.0 thevision.ro
@@ -87703,6 +87714,7 @@
 0.0.0.0 trahoacuclong.xyz
 0.0.0.0 trailbase.co.za
 0.0.0.0 trailblazersuganda.org
+0.0.0.0 trailerparkboys.ml
 0.0.0.0 trailevolution.co.uk
 0.0.0.0 trailheadcoffee.com
 0.0.0.0 trailsinaminor.com
@@ -89998,6 +90010,7 @@
 0.0.0.0 url675.textilmallorca.com
 0.0.0.0 url9823.ville.labrecque.qc.ca
 0.0.0.0 urlac.de
+0.0.0.0 urldefense.us
 0.0.0.0 urleddrug.at
 0.0.0.0 urlfrance.fr
 0.0.0.0 urlm.ir
@@ -90186,7 +90199,6 @@
 0.0.0.0 utterstock.in
 0.0.0.0 utting.org
 0.0.0.0 utv.sakeronline.se
-0.0.0.0 uujian.cn
 0.0.0.0 uumove.com
 0.0.0.0 uurty87e8rt7rt.com
 0.0.0.0 uutiset.helppokoti.fi
@@ -92192,6 +92204,7 @@
 0.0.0.0 vpm.com.ar
 0.0.0.0 vpme.vn
 0.0.0.0 vpn-dragon.com
+0.0.0.0 vpn-nord-free.com
 0.0.0.0 vpn-safe.pw
 0.0.0.0 vpnet2000.com
 0.0.0.0 vpnetcanada.com
@@ -94144,6 +94157,7 @@
 0.0.0.0 wmf.desevens.com.ng
 0.0.0.0 wmg128.com
 0.0.0.0 wmi.1217bye.host
+0.0.0.0 wmi.4i7i.com
 0.0.0.0 wmkatz.com
 0.0.0.0 wmkfdu.com
 0.0.0.0 wmo-raad.inov.me
@@ -94739,20 +94753,25 @@
 0.0.0.0 wsdshipping.com
 0.0.0.0 wsdy1scmtonhumanrightjusticeorganizatin.duckdns.org
 0.0.0.0 wsdy6pksnpcoperategovernmenttgpdagentx.duckdns.org
+0.0.0.0 wsdyalgreenkeghewsmq.dns.army
 0.0.0.0 wsdyalhjchfonlinedws.dns.navy
+0.0.0.0 wsdyalhjchfonlinwsdf.dns.army
 0.0.0.0 wsdyalhjchfonlinwsed.dns.army
 0.0.0.0 wsdyantipiracydewsqw.dns.army
 0.0.0.0 wsdybsskillemmulatorsdevelovercommwsity.ydns.eu
 0.0.0.0 wsdybsskillemmulatorsdevelovercomun11pq.duckdns.org
 0.0.0.0 wsdychfouranotherwop.dns.army
+0.0.0.0 wsdychfouranothewsdh.dns.army
 0.0.0.0 wsdychinese2onlyywalkaloneinlifev24nql.duckdns.org
 0.0.0.0 wsdychinese2onlyywalkaloneinlifev26mba.duckdns.org
 0.0.0.0 wsdychinese2onlyywalkaloneinlifev30nal.duckdns.org
 0.0.0.0 wsdychise2neverwalka.dns.army
+0.0.0.0 wsdychise2neverwwsaa.dns.army
 0.0.0.0 wsdychnesqudusisabadassniggainthe30wmg.duckdns.org
 0.0.0.0 wsdychnesqudusisabadassniggainthewsbkq.ydns.eu
 0.0.0.0 wsdychnesqudusisabadassniggainthewsbkw.ydns.eu
 0.0.0.0 wsdychthreerecantink.dns.army
+0.0.0.0 wsdychthreerecanwsrq.dns.army
 0.0.0.0 wsdyclntnjkcloudwsgh.dns.army
 0.0.0.0 wsdygreenkegheedahatakankeadeshnaa34twm.duckdns.org
 0.0.0.0 wsdyibgreenkegheedws.dns.navy
@@ -94761,8 +94780,10 @@
 0.0.0.0 wsdykung38communicationtarisupliermgapc.duckdns.org
 0.0.0.0 wsdykungsb2gotchtsub.dns.army
 0.0.0.0 wsdykungsb2gotchtwsp.dns.army
+0.0.0.0 wsdymsloginvestmwsqd.dns.army
 0.0.0.0 wsdyneverwalkachine2.dns.navy
 0.0.0.0 wsdyneverwalkachinese2loneinlifekwsfnv.ydns.eu
+0.0.0.0 wsdynitengylunatwsvg.dns.army
 0.0.0.0 wsdynitengymndynatem.dns.army
 0.0.0.0 wsdynitengymndynatin.dns.army
 0.0.0.0 wsdypmrimelimtdvenws.dns.army
@@ -94959,7 +94980,6 @@
 0.0.0.0 wyloellard.com
 0.0.0.0 wyndhamatduran.com
 0.0.0.0 wyomingauthors.org
-0.0.0.0 wyptk.com
 0.0.0.0 wyredsecurity.com
 0.0.0.0 wyrisnetworks.in
 0.0.0.0 wyszx.jihaose.cn
@@ -94999,7 +95019,6 @@
 0.0.0.0 x.alluniversal.info
 0.0.0.0 x.autistichorse.club
 0.0.0.0 x.beginsonline.com
-0.0.0.0 x.jmxded153.net
 0.0.0.0 x.jmxded184.net
 0.0.0.0 x.norvartic.com
 0.0.0.0 x.ord-id.com
@@ -95581,6 +95600,7 @@
 0.0.0.0 xn--80ajtaabfob8a.xn--p1ai
 0.0.0.0 xn--80akackgdchp7bcf0au.xn--p1ai
 0.0.0.0 xn--80akibfe3bkg5c.xn--p1acf
+0.0.0.0 xn--80akinnkiib6h.xn--90ais
 0.0.0.0 xn--80akivdjfp5ac.xn--p1ai
 0.0.0.0 xn--80akjimbyk2a.dp.ua
 0.0.0.0 xn--80akoamu3c1c.su
@@ -97119,7 +97139,6 @@
 0.0.0.0 zcnet.com
 0.0.0.0 zcomsolutions.com
 0.0.0.0 zcomunicacion.com
-0.0.0.0 zcop.ru
 0.0.0.0 zcsmba.org
 0.0.0.0 zcxe37adonis.top
 0.0.0.0 zd4b.lonlyfafner.ru
