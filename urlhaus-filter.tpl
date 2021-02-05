@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 05 Feb 2021 00:11:54 UTC
+# Updated: Fri, 05 Feb 2021 12:12:09 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1169,7 +1169,6 @@ msFilterList
 -d 4hourbook.com
 -d 4house.co
 -d 4hsafetyksa.com
--d 4i7i.com
 -d 4im.us
 -d 4ingroup.com
 -d 4jt4l032ayqiw.com
@@ -1629,6 +1628,7 @@ msFilterList
 -d 8hqckw.dm.files.1drv.com
 -d 8hu.me
 -d 8i18.com
+-d 8i9.xyz
 -d 8jizea.bn.files.1drv.com
 -d 8m8cm.com
 -d 8medya.org
@@ -5186,7 +5186,6 @@ msFilterList
 -d aloneintheweb.com
 -d aloneskisehir.com
 -d alongthelines.com
--d alongwalker.com
 -d alonhadat24h.vn
 -d alooshop.ir
 -d aloravan.com
@@ -10746,7 +10745,6 @@ msFilterList
 -d bbfr.cba.pl
 -d bbgiardinodoriente.it
 -d bbgk.de
--d bbgroup.com.vn
 -d bbh-design.de
 -d bbhdata.com
 -d bbhs.org.ng
@@ -11545,7 +11543,6 @@ msFilterList
 -d bestbestbags.com
 -d bestbikenatal.com.br
 -d bestbloodpressure-monitor.com
--d bestblues.tech
 -d bestbnbnepal.com
 -d bestbot.somee.com
 -d bestbusinesssoftware.net
@@ -12355,6 +12352,7 @@ msFilterList
 -d bioneex.com
 -d bioners.com
 -d bioneshan.ir
+-d bionet.nsc.ru
 -d bionic-club.com
 -d bionicbiomed.com
 -d bionova.ru
@@ -16967,6 +16965,7 @@ msFilterList
 -d cdn.timebuyer.org
 -d cdn.top4top.net
 -d cdn.truelife.vn
+-d cdn.xiaoduoai.com
 -d cdn.zecast.com
 -d cdn3.msetup.download
 -d cdn4.css361.com
@@ -16974,6 +16973,7 @@ msFilterList
 -d cdncomfortgroup.website
 -d cdndownloadlp.club
 -d cdnmultimedia.com
+-d cdnpic.mgyun.com
 -d cdnxh.net
 -d cdoconsult.com.br
 -d cdolechon.com
@@ -19100,6 +19100,7 @@ msFilterList
 -d cmeaststar.de
 -d cmecobrancas.com
 -d cmessagers.com
+-d cmg.asia
 -d cmg.ma
 -d cmgroup.com.ua
 -d cmhighschool.edu.bd
@@ -31524,6 +31525,7 @@ msFilterList
 -d familysgreen.com
 -d familytex.ru
 -d famint-my.sharepoint.com
+-d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -32481,7 +32483,6 @@ msFilterList
 -d files.dropmybin.me
 -d files.enjin.com
 -d files.gathercdn.com
--d files.hrloo.com
 -d files.l-d.tech
 -d files.mirai-2viv.vn
 -d files.occarlsongracieteams.com
@@ -40809,7 +40810,6 @@ msFilterList
 -d hotaction.online
 -d hotart.co.nz
 -d hotbodyyogafrisco.com
--d hotbooks.tech
 -d hotcode.gr
 -d hotcrypto.com
 -d hotdsk.com
@@ -52062,7 +52062,6 @@ msFilterList
 -d livecigarevent.com
 -d livecricketscorecard.info
 -d livedaynews.com
--d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d livefarma.com
@@ -59285,7 +59284,6 @@ msFilterList
 -d mssltd.ie
 -d mssolutionspty.com
 -d msspartners.pl
--d mssql.4i7i.com
 -d mst-net.de
 -d mstation.jp
 -d msteam18.com
@@ -59323,7 +59321,6 @@ msFilterList
 -d mtcinteriordesign.co.uk
 -d mtcr.co.za
 -d mtcuadrado.com
--d mtdc.com.my
 -d mte1.cn
 -d mtechagency.com
 -d mteestore.com
@@ -63563,7 +63560,6 @@ msFilterList
 -d ohsewgorgeous.co.uk
 -d ohters.de
 -d ohyellow.nl
--d oi65.tinypic.com
 -d oi68.tinypic.com
 -d oiainbtaea38.silverabout.ml
 -d oiasdnqweqasd.com
@@ -65085,7 +65081,6 @@ msFilterList
 -d ozcamlibel.com.tr
 -d ozcanelektronik.com.tr
 -d ozdemirpolisaj.com
--d ozdevelopment.com
 -d ozdomb.elitemarketing.hu
 -d oze-opole.pl
 -d oze.vn
@@ -67766,6 +67761,7 @@ msFilterList
 -d pmtsdstat14tp197.xyz
 -d pmvc.pt
 -d pmvillaluz.com
+-d pmvqurd9qxq2.top
 -d pmvraetsel.newsoftdemo.info
 -d pmvrswsociety.com
 -d pmwbiyori.jp
@@ -69039,6 +69035,7 @@ msFilterList
 -d professionalshop.in
 -d professionalwaiterskollege.org
 -d professionelelit.com
+-d profetestruec.net
 -d profexsystem.com
 -d proffessia.ru
 -d proffice.com.pl
@@ -74404,7 +74401,6 @@ msFilterList
 -d safelinks-protection.com
 -d safemedicinaonline.com
 -d safemoneyamerica.com
--d safentrix.com
 -d safepage.cloud
 -d safer.com.gt
 -d saferoomreviews.com
@@ -80601,7 +80597,6 @@ msFilterList
 -d sqftcompany.com
 -d sqgdzi.com
 -d sqjjdc.com
--d sql.4i7i.com
 -d sql.bonin.home.pl
 -d sql.merkadetodoa92.com
 -d sql.rahatexltd.com
@@ -82598,6 +82593,7 @@ msFilterList
 -d support.loungu.com
 -d support.m2mservices.com
 -d support.nordenrecycling.com
+-d support.pubg.com
 -d support.redbook.aero
 -d support.revolus.xyz
 -d support.shopifysalesforcemadeasy.com
@@ -87657,7 +87653,6 @@ msFilterList
 -d track.bestwesternlex.com
 -d track.defatinator.com
 -d track.mailmaster.mobi
--d track.smtpserver.email
 -d track.standseries.us
 -d track.wizkidhosting.com
 -d track6.mixtape.moe
@@ -88766,6 +88761,7 @@ msFilterList
 -d tuvanduhocmap.com
 -d tuvangamenet.com
 -d tuvangioitinh.com
+-d tuvanluat.vn
 -d tuvansinhvien.000webhostapp.com
 -d tuvidaysalud.com
 -d tuwanjiang.com
@@ -90246,6 +90242,7 @@ msFilterList
 -d utterstock.in
 -d utting.org
 -d utv.sakeronline.se
+-d uujian.cn
 -d uumove.com
 -d uurty87e8rt7rt.com
 -d uutiset.helppokoti.fi
@@ -93922,6 +93919,7 @@ msFilterList
 -d wimpiebarnard.co.za
 -d win-best.com.hk
 -d win-speed.com
+-d win.tue.nl
 -d win1more.com
 -d win32.x10host.com
 -d winactive.host
@@ -94204,7 +94202,6 @@ msFilterList
 -d wmf.desevens.com.ng
 -d wmg128.com
 -d wmi.1217bye.host
--d wmi.4i7i.com
 -d wmkatz.com
 -d wmkfdu.com
 -d wmo-raad.inov.me
@@ -95028,6 +95025,7 @@ msFilterList
 -d wyloellard.com
 -d wyndhamatduran.com
 -d wyomingauthors.org
+-d wyptk.com
 -d wyredsecurity.com
 -d wyrisnetworks.in
 -d wyszx.jihaose.cn
