@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 06 Feb 2021 00:12:08 UTC
+# Updated: Sat, 06 Feb 2021 12:11:54 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -5027,7 +5027,6 @@ msFilterList
 -d allnewtech.co.uk
 -d allnicolerichie.com
 -d allnightfm.com
--d allnws.com
 -d allo-prono.fr
 -d allocacoc.com.co
 -d allocationcylinder.xyz
@@ -5187,6 +5186,7 @@ msFilterList
 -d aloneintheweb.com
 -d aloneskisehir.com
 -d alongthelines.com
+-d alongwalker.com
 -d alonhadat24h.vn
 -d alooshop.ir
 -d aloravan.com
@@ -5456,6 +5456,7 @@ msFilterList
 -d am-tex.net
 -d am3web.com.br
 -d am99.com.au
+-d ama-trans.de
 -d amaarhomes.ca
 -d amabai.org
 -d amable.orionpaginasweb.com
@@ -9820,7 +9821,6 @@ msFilterList
 -d babytoys.life
 -d babyvogel.nl
 -d babzon.club
--d bac.edu.my
 -d bacamanect.com
 -d baccaosutritue.vn
 -d baceldeniz.com
@@ -10659,7 +10659,6 @@ msFilterList
 -d bavnhoej.dk
 -d bawalisharif.com
 -d bawalnews.in
--d bawang.allnws.com
 -d bawarchiindian.com
 -d bawaslu.wonosobokab.go.id
 -d bawc.com
@@ -11551,6 +11550,7 @@ msFilterList
 -d bestbestbags.com
 -d bestbikenatal.com.br
 -d bestbloodpressure-monitor.com
+-d bestblues.tech
 -d bestbnbnepal.com
 -d bestbot.somee.com
 -d bestbusinesssoftware.net
@@ -11797,7 +11797,6 @@ msFilterList
 -d bevoc.nl
 -d bewbvw.dm.files.1drv.com
 -d bewebpreneur.com
--d bewellstyle.com
 -d bewerbungsfotos.hamburg
 -d bext.com
 -d bey12.com
@@ -16848,7 +16847,6 @@ msFilterList
 -d cc14927-wordpress.tw1.ru
 -d cc78.bg
 -d cc8848.xyz
--d ccamatil1-my.sharepoint.com
 -d ccandcbrand.com
 -d ccash.xyz
 -d ccat.biz
@@ -16982,7 +16980,6 @@ msFilterList
 -d cdncomfortgroup.website
 -d cdndownloadlp.club
 -d cdnmultimedia.com
--d cdnpic.mgyun.com
 -d cdnxh.net
 -d cdoconsult.com.br
 -d cdolechon.com
@@ -18095,6 +18092,7 @@ msFilterList
 -d cholaholidays.com
 -d cholesterol-ache.xyz
 -d chomptruck.com
+-d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongziyun.com
@@ -19173,6 +19171,7 @@ msFilterList
 -d cnc.arm7plz.xyz
 -d cnc.ase.md
 -d cnc.botnetrep.xyz
+-d cnc.c541f5d439a359.xyz
 -d cnc.cs9ting.xyz
 -d cnc.cyberwex.com
 -d cnc.dontcatch.us
@@ -31536,7 +31535,6 @@ msFilterList
 -d familysgreen.com
 -d familytex.ru
 -d famint-my.sharepoint.com
--d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -34307,7 +34305,6 @@ msFilterList
 -d ftp.n3twork30cm.ml
 -d ftp.smartcarpool.co.kr
 -d ftp.spbv.org
--d ftp.vector.co.jp
 -d ftpbuzau.hi2.ro
 -d ftpcm.com
 -d ftpcnc-p2sp.pconline.com.cn
@@ -34612,7 +34609,6 @@ msFilterList
 -d fuzzyconcepts.com
 -d fuzzylogic.in
 -d fuzzymiles.com
--d fv1-2.failiem.lv
 -d fv13.failiem.lv
 -d fv15.failiem.lv
 -d fv2-1.failiem.lv
@@ -34687,7 +34683,6 @@ msFilterList
 -d g.makswells.com
 -d g.mysofting.xyz
 -d g.pdofan.ru
--d g.top4top.io
 -d g0ogle.free.fr
 -d g0zh8lb3.com
 -d g15aocbenedict.com
@@ -35233,6 +35228,7 @@ msFilterList
 -d gavinvestments.com
 -d gavioesdocerrado.com.br
 -d gavrelets.ru
+-d gavrilobtcapikey2884238984928.netsons.org
 -d gawaher-services.com
 -d gawefawef114.com
 -d gawpro.pl
@@ -35413,7 +35409,6 @@ msFilterList
 -d geestdriftnu.com
 -d geevida.com
 -d geeyun.me
--d gegar.allnws.com
 -d gegemony4you.top
 -d gegnacheckwebtiyclin.tk
 -d gehause.ru
@@ -35438,7 +35433,6 @@ msFilterList
 -d gelisimcizgisi.com
 -d gella-2000.ru
 -d gelorametalpratama.com
--d gelrstyysayt.net
 -d gelsene.site
 -d geltonojiakacija.lt
 -d gem-importers.com
@@ -36581,7 +36575,6 @@ msFilterList
 -d go.skyyer.com
 -d go.xsuad.com
 -d go2035.ru
--d go2l.ink
 -d go4it24.be
 -d go5bln3.com
 -d go7wallet.com
@@ -37036,7 +37029,6 @@ msFilterList
 -d gothamcrowd.com.au
 -d gothamsoccer.com
 -d gothclocks.com
--d gothiacupchina.com
 -d gothw.club
 -d gotnick.com
 -d goto.stnts.com
@@ -38218,6 +38210,7 @@ msFilterList
 -d gwrkfpmw.net
 -d gwtyt.pw
 -d gx6995.com
+-d gxbrowser.net
 -d gxd3fp7fe7cac6jzn2sac.online
 -d gxqkc.com
 -d gxzncd.com
@@ -39817,7 +39810,6 @@ msFilterList
 -d hibara-ac.com
 -d hibinc.co
 -d hibridhazak.hu
--d hiburan.allnws.com
 -d hiburanmalam.vip
 -d hicast.tn
 -d hichamesraidi.fr
@@ -40427,7 +40419,6 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
--d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -40822,6 +40813,7 @@ msFilterList
 -d hotaction.online
 -d hotart.co.nz
 -d hotbodyyogafrisco.com
+-d hotbooks.tech
 -d hotcode.gr
 -d hotcrypto.com
 -d hotdsk.com
@@ -41955,6 +41947,7 @@ msFilterList
 -d ideas-more.com.sa
 -d ideaschannel.com
 -d ideasoluzionidigitali.com
+-d ideastraining.com
 -d ideaware.pl
 -d ideccmty.com.mx
 -d idecor.ge
@@ -47764,7 +47757,6 @@ msFilterList
 -d kelvingee.hys.cz
 -d kelvinnikkel.com
 -d kelzonestopclothing.website
--d kemahasiswaan.um.ac.id
 -d kemahasiswaan.umsida.ac.id
 -d kemahasiswaan.unair.ac.id
 -d kemalerkol.net
@@ -48462,7 +48454,6 @@ msFilterList
 -d kirtifoods.com
 -d kirunak.org
 -d kisagy.hu
--d kisah.allnws.com
 -d kiselev27.ru
 -d kiseong.co.kr
 -d kisfino.com
@@ -49228,6 +49219,7 @@ msFilterList
 -d kpuru.com
 -d kqfkqkf7ma.temp.swtest.ru
 -d kqs.me
+-d kr1s.ru
 -d kr888.top
 -d krabben.no
 -d krabbendamphotography.com
@@ -53112,7 +53104,6 @@ msFilterList
 -d luminousinvestment.com
 -d luminouspla.net
 -d lumnus.com.br
--d lumoura.com
 -d lumperpush.com
 -d lumsdancorp.com
 -d lun.otrweb.ru
@@ -55584,6 +55575,7 @@ msFilterList
 -d mastermindescapetheroomgame.com
 -d mastermindgroup.co.in
 -d mastermixco.com
+-d mastermysan.com
 -d masternotebooks.com
 -d masteronare.com
 -d masteronline.pl
@@ -56601,6 +56593,7 @@ msFilterList
 -d member.irfansangjuara.com
 -d memberlogin.cloud
 -d members.chello.nl
+-d members.iinet.net.au
 -d members.maskeei.id
 -d members.mycowellness.com
 -d members.nlbformula.com
@@ -61709,7 +61702,6 @@ msFilterList
 -d nfecristalatacados.azurewebsites.net
 -d nfefazendaportalprincipal.com
 -d nfegratuito.myrp.com.br
--d nfis.com
 -d nfj254aim.com
 -d nfog2018.dk
 -d nforsdt.org.np
@@ -64832,6 +64824,7 @@ msFilterList
 -d otokepenk.com
 -d otomotifme.com
 -d otonet.nl
+-d otonoc.pl
 -d otonom-ayakkabilar-turkiye-a.com
 -d otorsgroup.co.uk
 -d otosauna.com
@@ -67772,7 +67765,6 @@ msFilterList
 -d pmtsdstat14tp197.xyz
 -d pmvc.pt
 -d pmvillaluz.com
--d pmvqurd9qxq2.top
 -d pmvraetsel.newsoftdemo.info
 -d pmvrswsociety.com
 -d pmwbiyori.jp
@@ -74411,6 +74403,7 @@ msFilterList
 -d safelinks-protection.com
 -d safemedicinaonline.com
 -d safemoneyamerica.com
+-d safentrix.com
 -d safepage.cloud
 -d safer.com.gt
 -d saferoomreviews.com
@@ -77400,7 +77393,6 @@ msFilterList
 -d shikhakant.com
 -d shikhrouhanii.com
 -d shikkhanewsbd.com
--d shikmobile.com
 -d shikrasport.ru
 -d shikshabarta.com
 -d shikshakhaber.com
@@ -77885,7 +77877,6 @@ msFilterList
 -d sia-gmbh.de
 -d siairport.com
 -d siakad.brawijaya.ac.id
--d siakad.ub.ac.id
 -d sial-healthcare.co.uk
 -d sialkotgoods.com
 -d sialkotmart.net
@@ -78698,6 +78689,7 @@ msFilterList
 -d skvflexandoffset.in
 -d sky-gladenkaya.ru
 -d sky.impactmmg.com
+-d sky.od.ua
 -d skybeetravels.cheapflightso.co.uk
 -d skybest.ir
 -d skybet888.info
@@ -82606,7 +82598,6 @@ msFilterList
 -d support.loungu.com
 -d support.m2mservices.com
 -d support.nordenrecycling.com
--d support.pubg.com
 -d support.redbook.aero
 -d support.revolus.xyz
 -d support.shopifysalesforcemadeasy.com
@@ -87665,6 +87656,7 @@ msFilterList
 -d track.bestwesternlex.com
 -d track.defatinator.com
 -d track.mailmaster.mobi
+-d track.smtpserver.email
 -d track.standseries.us
 -d track.wizkidhosting.com
 -d track6.mixtape.moe
@@ -90783,7 +90775,6 @@ msFilterList
 -d vconley.com
 -d vcontenidos.com
 -d vcoptv.com
--d vcorset.com
 -d vcpesaas.com
 -d vcphsar.com
 -d vcsolution.it
@@ -92176,7 +92167,6 @@ msFilterList
 -d volteco.biz
 -d volume-group.com
 -d volvo-moskva.ru
--d volvo.federalauto.com.my
 -d volvocoupebertoneregister.nl
 -d volvolouisville.com
 -d volvorotterdam.nl
@@ -94609,7 +94599,6 @@ msFilterList
 -d wow.dreyfus.fr
 -d wow.funtasticdeal.com
 -d wowcsc.in
--d woweasily.com
 -d wowepic.net
 -d wowiwa.ch
 -d wowmotions.com
@@ -94729,6 +94718,7 @@ msFilterList
 -d wpdev.strativ-support.se
 -d wpdev.ted.solutions
 -d wpdev.ztickerz.io
+-d wpengine.zendesk.com
 -d wpgtxdtgifr.ga
 -d wphelper.mwpteam.com
 -d wpldjxxxua.ga
