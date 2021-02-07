@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 07 Feb 2021 00:11:55 UTC
+# Updated: Sun, 07 Feb 2021 12:11:57 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1534,6 +1534,7 @@ msFilterList
 -d 7wn.online
 -d 7x3dsqyow.preview.infomaniak.website
 -d 7yueyun.com
+-d 7zip.mobi
 -d 8.laomaotaowinpe.com
 -d 8.u0141023.z8.ru
 -d 80001.me
@@ -1856,7 +1857,6 @@ msFilterList
 -d a.teamworx.ph
 -d a.turnuvam.org
 -d a.uchi.moe
--d a.uguu.se
 -d a.xiazai163.com
 -d a.xsvip.vip
 -d a0.kl.com.ua
@@ -3117,7 +3117,6 @@ msFilterList
 -d adrolling.co.uk
 -d ads.actmol.by
 -d ads.adwords-com.promotion.adwords-fr-en.eu.home.login.peggycross.com
--d ads.hanggiadinh.com
 -d ads.kalabisim.com
 -d ads.live
 -d adsapomg.space
@@ -5185,7 +5184,6 @@ msFilterList
 -d aloneintheweb.com
 -d aloneskisehir.com
 -d alongthelines.com
--d alongwalker.com
 -d alonhadat24h.vn
 -d alooshop.ir
 -d aloravan.com
@@ -6853,7 +6851,6 @@ msFilterList
 -d app.boxrcdn.com
 -d app.bridgeimpex.org
 -d app.calag.at
--d app.casetabs.com
 -d app.catholicchurch.co.in
 -d app.choiphui.com
 -d app.cloudindustry.net
@@ -6881,7 +6878,6 @@ msFilterList
 -d app.mirrorlabelsindia.com
 -d app.mobileslide.top
 -d app.myresource.center
--d app.newinnovationtechnology.com
 -d app.nihaocloud.com
 -d app.numtok.com.br
 -d app.paketchef.de
@@ -11114,7 +11110,6 @@ msFilterList
 -d beguest.xyz
 -d begumazing.com
 -d behan.org.nz
--d behash.com
 -d behboard.ir
 -d behbodsanat.ir
 -d behcosanat.com
@@ -11797,6 +11792,7 @@ msFilterList
 -d bevoc.nl
 -d bewbvw.dm.files.1drv.com
 -d bewebpreneur.com
+-d bewellstyle.com
 -d bewerbungsfotos.hamburg
 -d bext.com
 -d bey12.com
@@ -12359,7 +12355,6 @@ msFilterList
 -d bioneex.com
 -d bioners.com
 -d bioneshan.ir
--d bionet.nsc.ru
 -d bionic-club.com
 -d bionicbiomed.com
 -d bionova.ru
@@ -12814,7 +12809,6 @@ msFilterList
 -d blob.digital
 -d blobfeed.com
 -d blockchain-com.cf
--d blockchain-review.co.th
 -d blockchain-techminers.com
 -d blockchain.beachcondolife.tk
 -d blockchainbitcoins.info
@@ -16970,7 +16964,6 @@ msFilterList
 -d cdn.timebuyer.org
 -d cdn.top4top.net
 -d cdn.truelife.vn
--d cdn.xiaoduoai.com
 -d cdn.zecast.com
 -d cdn3.msetup.download
 -d cdn4.css361.com
@@ -18090,7 +18083,6 @@ msFilterList
 -d cholaholidays.com
 -d cholesterol-ache.xyz
 -d chomptruck.com
--d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongziyun.com
@@ -19816,6 +19808,7 @@ msFilterList
 -d complience.com
 -d compln.net
 -d component.pw
+-d components.technologymindz.com
 -d composecv.com
 -d composite.be
 -d compoundy.com
@@ -22423,6 +22416,7 @@ msFilterList
 -d daralsalam-mall.com
 -d daralsaqi.com
 -d darapartment.com
+-d darasrszs.online
 -d darassalam.ch
 -d darazexpress.pk
 -d darazoffer.com
@@ -26282,6 +26276,7 @@ msFilterList
 -d down.qqfarmer.com.cn
 -d down.sepost-fj.top
 -d down.seriesnow.website
+-d down.singpost-fa.top
 -d down.soft.flyidea.top
 -d down.soft.qswzayy.com
 -d down.topsadon.com
@@ -26370,7 +26365,6 @@ msFilterList
 -d download.ware.ru
 -d download.weihuyun.cn
 -d download.win-test.com
--d download.zjsyawqj.cn
 -d download5.77169.com
 -d download5.bossran2018.com
 -d downloaddd.cf
@@ -26403,7 +26397,6 @@ msFilterList
 -d downsetup0001.com
 -d downviewimaging.com
 -d downwingbuttons.site
--d downza.91speed.com.cn
 -d dowseservices.com
 -d dowsfbtool.com
 -d doxa.ca
@@ -32488,6 +32481,7 @@ msFilterList
 -d files.dropmybin.me
 -d files.enjin.com
 -d files.gathercdn.com
+-d files.hrloo.com
 -d files.l-d.tech
 -d files.mirai-2viv.vn
 -d files.occarlsongracieteams.com
@@ -34605,6 +34599,7 @@ msFilterList
 -d fuzzyconcepts.com
 -d fuzzylogic.in
 -d fuzzymiles.com
+-d fv1-2.failiem.lv
 -d fv13.failiem.lv
 -d fv15.failiem.lv
 -d fv2-1.failiem.lv
@@ -34679,6 +34674,7 @@ msFilterList
 -d g.makswells.com
 -d g.mysofting.xyz
 -d g.pdofan.ru
+-d g.top4top.io
 -d g0ogle.free.fr
 -d g0zh8lb3.com
 -d g15aocbenedict.com
@@ -37851,6 +37847,7 @@ msFilterList
 -d gsprogressreport.everywomaneverychild.org
 -d gsr.park.edu
 -d gsraconsulting.com
+-d gss.mof.gov.cn
 -d gsscomputers.co.uk
 -d gssgroups.com
 -d gstat.americansreachingmanyservices.com
@@ -41549,6 +41546,7 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
+-d i.cubeupload.com
 -d i.fluffy.cc
 -d i.funtourspt.eu
 -d i.ooxx.ooo
@@ -44853,6 +44851,7 @@ msFilterList
 -d j-stage.jp
 -d j-toputvoutfitters.com
 -d j.kyryl.ru
+-d j.top4top.io
 -d j13.biz
 -d j19nl66isabella.city
 -d j2.siv.cc
@@ -47754,6 +47753,7 @@ msFilterList
 -d kelvingee.hys.cz
 -d kelvinnikkel.com
 -d kelzonestopclothing.website
+-d kemahasiswaan.um.ac.id
 -d kemahasiswaan.umsida.ac.id
 -d kemahasiswaan.unair.ac.id
 -d kemalerkol.net
@@ -49216,7 +49216,6 @@ msFilterList
 -d kpuru.com
 -d kqfkqkf7ma.temp.swtest.ru
 -d kqs.me
--d kr1s.ru
 -d kr888.top
 -d krabben.no
 -d krabbendamphotography.com
@@ -56852,7 +56851,6 @@ msFilterList
 -d metalscape.com
 -d metalsos.com
 -d metalstocktrade.com
--d metalsur.cl
 -d metalurgicanunes.com.br
 -d metalux.az
 -d metamorphosisbeauty.co.uk
@@ -57995,6 +57993,7 @@ msFilterList
 -d mkw.ba
 -d mkwu.borneo.ac.id
 -d mkwxstarserver17km.xyz
+-d mky.com
 -d mkzone.com.ng
 -d ml-moto.biz
 -d ml.com.watchdogdns.duckdns.org
@@ -59320,6 +59319,7 @@ msFilterList
 -d mtcinteriordesign.co.uk
 -d mtcr.co.za
 -d mtcuadrado.com
+-d mtdc.com.my
 -d mte1.cn
 -d mtechagency.com
 -d mteestore.com
@@ -63187,7 +63187,6 @@ msFilterList
 -d obmenbtc.ru
 -d obmoz.com
 -d obnova.zzux.com
--d obob.tv
 -d obobettermann.id
 -d obogrev.com.ru
 -d oboi-nn.ru
@@ -63557,6 +63556,7 @@ msFilterList
 -d ohsewgorgeous.co.uk
 -d ohters.de
 -d ohyellow.nl
+-d oi65.tinypic.com
 -d oi68.tinypic.com
 -d oiainbtaea38.silverabout.ml
 -d oiasdnqweqasd.com
@@ -65080,6 +65080,7 @@ msFilterList
 -d ozcamlibel.com.tr
 -d ozcanelektronik.com.tr
 -d ozdemirpolisaj.com
+-d ozdevelopment.com
 -d ozdomb.elitemarketing.hu
 -d oze-opole.pl
 -d oze.vn
@@ -68906,7 +68907,6 @@ msFilterList
 -d pro-scs.com
 -d pro-sealsolutions.com
 -d pro-structure.ru
--d pro-teammt.ru
 -d pro-tekconsulting.org
 -d pro-tone.ru
 -d pro-tvoydom.ru
@@ -69390,6 +69390,7 @@ msFilterList
 -d protech.mn
 -d protechcarpetcare.com
 -d protechgroup1.com
+-d protect.mimecast-offshore.com
 -d protectiadatelor.biz
 -d protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 -d protection.pecol.eu
@@ -74141,7 +74142,6 @@ msFilterList
 -d s-zone.uz
 -d s.51shijuan.com
 -d s.oooooooooo.ga
--d s.put.re
 -d s.trade27.ru
 -d s.vollar.ga
 -d s02.yapfiles.ru
@@ -80723,7 +80723,6 @@ msFilterList
 -d srujanovision.com
 -d srv-15.directserver.us
 -d srv-file9.gofile.io
--d srv-store4.gofile.io
 -d srv-store6.gofile.io
 -d srv77956.ht-test.ru
 -d srv9.corpwebcontrol.com
@@ -83593,7 +83592,6 @@ msFilterList
 -d tamparoofing.com
 -d tampaseo.com
 -d tampilbeda.id
--d tamsu.website
 -d tamsuamy.com
 -d tamsys.net
 -d tamta.gr
@@ -87190,7 +87188,6 @@ msFilterList
 -d tongdaive.net
 -d tongdaotech.com.cn
 -d tongdogiare.com
--d tonghopgia.net
 -d tongkhobep.uwp.me
 -d tongkhophianam.vn
 -d tongkhosoncongnghiep.com
@@ -94000,7 +93997,6 @@ msFilterList
 -d winglux.com
 -d wingmed.com.tr
 -d wingscooling.com
--d wingsingreen.com
 -d winhall.org
 -d wininin.com
 -d wininstantly.info
@@ -96763,6 +96759,7 @@ msFilterList
 -d yoyoso.nz
 -d yoyoteacher.cn
 -d yp.dcyazilim.com
+-d yp.hnggzyjy.cn
 -d ypbb.or.id
 -d ypddf.org
 -d ypicsdy.cf
@@ -97674,6 +97671,7 @@ msFilterList
 -d zoox.com.br
 -d zoparo.nl
 -d zopbxtjiuykhyyp.usa.cc
+-d zopro.duckdns.org
 -d zoracle.com
 -d zorancreative.com
 -d zoratech.ro
