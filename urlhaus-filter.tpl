@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 06 Feb 2021 12:11:54 UTC
+# Updated: Sun, 07 Feb 2021 00:11:55 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2985,7 +2985,6 @@ msFilterList
 -d adityabirlahospital.com
 -d adityamarvi.000webhostapp.com
 -d adityaproduction.com
--d adityaspring.com
 -d adityebirla.com
 -d adizventuresgh.com
 -d adjacentcruise.com
@@ -7096,6 +7095,7 @@ msFilterList
 -d aquarell.spb.ru
 -d aquariumme.com
 -d aquariumservis.club
+-d aquarius.com.br
 -d aquasalar.com
 -d aquasealworld.com
 -d aquaserenehouseboats.com
@@ -15275,7 +15275,6 @@ msFilterList
 -d buyhomecare.net
 -d buyingacarsonline.com
 -d buyinggoldhq.com
--d buyitnowtoday.net
 -d buyitright.in
 -d buyitshop.in
 -d buykaa.com
@@ -16006,7 +16005,6 @@ msFilterList
 -d canmivback.biz
 -d canna.menu
 -d cannabee.club
--d cannabisdiscoverycenter.com
 -d cannabisenglish.com
 -d cannabisglorygirl.com
 -d cannabisgrowadvice.com
@@ -19120,6 +19118,7 @@ msFilterList
 -d cmitik.ru
 -d cmnivaria.com
 -d cmnmember.coachmohdnoor.com
+-d cmpc.org.ar
 -d cmpsolutions.com.br
 -d cmpthai.com
 -d cmro.com.mx
@@ -21546,7 +21545,6 @@ msFilterList
 -d cubino.it
 -d cubitek.com
 -d cuboprintdfw.com
--d cubspreschool.in
 -d cubus.at
 -d cuc-bd.com
 -d cuccus.in
@@ -25089,7 +25087,6 @@ msFilterList
 -d diper.one
 -d dipeshengg.com
 -d diplodocuz.win
--d diplomaciat.org
 -d diplomadosyespecializaciones.org.pe
 -d diplomatcom.repeat.cloud
 -d diplomatic.cherrydemoserver10.com
@@ -31889,7 +31886,6 @@ msFilterList
 -d faydd.com
 -d faye.5gbfree.com
 -d fayedoudak.com
--d fayrewinds.org
 -d fayzi-khurshed.tj
 -d fazartproducoes.com.br
 -d fazautocare.com
@@ -32681,7 +32677,6 @@ msFilterList
 -d finexlogistics.us
 -d finexperty.ru
 -d fingerlooklike.space
--d fingermedia.tw
 -d fingers1.ddns.net
 -d finishtradeexpo.com
 -d finkarma.in
@@ -34149,6 +34144,7 @@ msFilterList
 -d frilansfaktura.com
 -d frilvam.eu
 -d frin.ng
+-d frinkzintl.com
 -d friosolar.cl
 -d frisa.com.br
 -d friscotrailministorage.com
@@ -43938,6 +43934,7 @@ msFilterList
 -d iowadeafblind.org
 -d iowafamilyphotography.com
 -d iowaselectvbc.com
+-d iowawebhosting.com
 -d ioyyf.com
 -d ip-160-153-249-174.ip.secureserver.net
 -d ip-kaskad.ru
@@ -49978,7 +49975,6 @@ msFilterList
 -d ladies-videochat.com
 -d ladiesbazar.in
 -d ladiesincode.com
--d ladinkids.com
 -d ladjou.com
 -d ladoctoracorazon.info
 -d ladonde.xyz
@@ -50611,7 +50607,6 @@ msFilterList
 -d laylalanemusic.com
 -d laylamoussadesign.com
 -d laylandwalker.com
--d laymancoder.com
 -d layout.dubhouse.com.br
 -d layoutd.net
 -d lazell.pl
@@ -51137,6 +51132,7 @@ msFilterList
 -d lerntherapie-alb.de
 -d lersow.com
 -d leruwap.com
+-d les-crocs-du-tigre.fr
 -d les-escales.fr
 -d les-jardins-de-bali.com
 -d les.nyc
@@ -51333,6 +51329,7 @@ msFilterList
 -d lglab.co.uk
 -d lgmi.org.uk
 -d lgonlinecenter.com
+-d lgpass.com
 -d lgrp35.vatelstudents.fr
 -d lgs.ec
 -d lgservis.net
@@ -52216,7 +52213,6 @@ msFilterList
 -d lluismansilla.cat
 -d llumar.moscow
 -d llupa.com
--d lm-shop.fr
 -d lm4w.org
 -d lmbengineering.co.uk
 -d lmdh.gm-computindo.com
@@ -52913,6 +52909,7 @@ msFilterList
 -d lt1.yjxthy.com
 -d lt2.yjxthy.com
 -d lt3.com.br
+-d ltahhya.com
 -d ltava.site
 -d ltbender.eu
 -d ltc-systems.com
@@ -53780,7 +53777,6 @@ msFilterList
 -d maha.co.il
 -d mahaads.ir
 -d mahabtna.com
--d mahaexam.com
 -d mahaka-attraction.com
 -d mahakur.afstudio.web.id
 -d mahala.es
@@ -62051,7 +62047,6 @@ msFilterList
 -d nilvin.in
 -d niman.ru
 -d nimble.press
--d nimbledesign.miami
 -d nimblemachines.beta.webenza.in
 -d nimblix.net
 -d nime.dk
@@ -74966,6 +74961,7 @@ msFilterList
 -d sanctifyfitness.com
 -d sancydubai.com
 -d sandau.biz
+-d sandbotc2.ml
 -d sandbox.empyrion.co.uk
 -d sandbox.iamrobertv.com
 -d sandbox.leadseven.com
@@ -85559,7 +85555,6 @@ msFilterList
 -d thecrystaltrees.com
 -d thectrl24.com
 -d theculture.co.ke
--d theculturetrip.ru
 -d thecurrenthotel.com
 -d thecyberconxion.com
 -d thecyberspace.online
@@ -85777,7 +85772,6 @@ msFilterList
 -d theitaliantrainer.com
 -d theitnconsultant.com
 -d theitvity.com
--d thejanimal.com
 -d thejarfactory.com
 -d thejewelcasino.com
 -d thejewelparadise.com
@@ -86926,6 +86920,7 @@ msFilterList
 -d tm-74.ru
 -d tm-adv.host
 -d tm-adv.site
+-d tm-za.org
 -d tm.punklabs.online
 -d tmailserv19fd.xyz
 -d tmaipo.cl
@@ -91390,6 +91385,7 @@ msFilterList
 -d viettelquangbinh.vn
 -d viettelsolutionhcm.vn
 -d viettinland.com
+-d viettinlaw.com
 -d viettrungkhaison.com
 -d viettrust-vn.net
 -d vietucgroup.org
