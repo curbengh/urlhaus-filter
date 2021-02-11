@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 11 Feb 2021 00:12:21 UTC
+# Updated: Thu, 11 Feb 2021 12:12:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -3082,6 +3082,7 @@ msFilterList
 -d adobepdf-com.uc.r.appspot.com
 -d adobeupdater.mcdir.ru
 -d adobocn.com
+-d adojetson.com
 -d adomestic.com
 -d adomesticworld.com
 -d adonis-negar.com
@@ -3646,7 +3647,6 @@ msFilterList
 -d agenza18.ayz.pl
 -d agenziabalestri.it
 -d agenziadiviaggidinozzetorino.it
--d agenziainformazioni.icu
 -d agepsed.org
 -d agereversalcreamam.com
 -d agernatura.com
@@ -5478,7 +5478,6 @@ msFilterList
 -d am-tex.net
 -d am3web.com.br
 -d am99.com.au
--d ama-trans.de
 -d amaarhomes.ca
 -d amabai.org
 -d amable.orionpaginasweb.com
@@ -10246,6 +10245,7 @@ msFilterList
 -d bandarschool.com
 -d bandarwinsbobet.com
 -d bandashcb.com
+-d banderu.us
 -d bandicapital.com
 -d bandit.godsshopp.com
 -d banditbars.com
@@ -12421,6 +12421,7 @@ msFilterList
 -d bioneex.com
 -d bioners.com
 -d bioneshan.ir
+-d bionet.nsc.ru
 -d bionic-club.com
 -d bionicbiomed.com
 -d bionova.ru
@@ -16926,7 +16927,6 @@ msFilterList
 -d cc14927-wordpress.tw1.ru
 -d cc78.bg
 -d cc8848.xyz
--d ccamatil1-my.sharepoint.com
 -d ccandcbrand.com
 -d ccash.xyz
 -d ccat.biz
@@ -17061,6 +17061,7 @@ msFilterList
 -d cdncomfortgroup.website
 -d cdndownloadlp.club
 -d cdnmultimedia.com
+-d cdnpic.mgyun.com
 -d cdnxh.net
 -d cdoconsult.com.br
 -d cdolechon.com
@@ -17929,7 +17930,6 @@ msFilterList
 -d chialinotaire.com
 -d chianesegroup.com
 -d chiangdegomes.com.br
--d chiangmainightsafari.com
 -d chiantibicycles.it
 -d chiaraberettamazzotta.it
 -d chiarizzimooca-lancamento.com.br
@@ -18178,6 +18178,7 @@ msFilterList
 -d cholaholidays.com
 -d cholesterol-ache.xyz
 -d chomptruck.com
+-d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongziyun.com
@@ -19258,6 +19259,7 @@ msFilterList
 -d cnc.arm7plz.xyz
 -d cnc.ase.md
 -d cnc.botnetrep.xyz
+-d cnc.c25e6559668942.xyz
 -d cnc.c541f5d439a359.xyz
 -d cnc.cs9ting.xyz
 -d cnc.cyberwex.com
@@ -19907,7 +19909,6 @@ msFilterList
 -d complience.com
 -d compln.net
 -d component.pw
--d components.technologymindz.com
 -d composecv.com
 -d composite.be
 -d compoundy.com
@@ -20762,6 +20763,7 @@ msFilterList
 -d cotonwear.co.uk
 -d cotrafina.com
 -d cotraresr04.top
+-d cotraresw03.top
 -d cottagesneardelhi.in
 -d cottercreative.com
 -d cotton-world.net
@@ -27049,6 +27051,7 @@ msFilterList
 -d ds2-teremok.ru
 -d ds415p.com
 -d ds7raduga.ru
+-d dsak-71.gq
 -d dsapremed.in
 -d dsb.com.pl
 -d dsb5vd.com
@@ -31677,6 +31680,7 @@ msFilterList
 -d familysgreen.com
 -d familytex.ru
 -d famint-my.sharepoint.com
+-d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -32607,6 +32611,7 @@ msFilterList
 -d filebase.mogelgott.de
 -d filebox.hiworks.com
 -d filebr.com
+-d fileco.jobkorea.co.kr
 -d filedigital.ir
 -d filedistrserver.pw
 -d filedownload.gb.net
@@ -36734,6 +36739,7 @@ msFilterList
 -d go.skyyer.com
 -d go.xsuad.com
 -d go2035.ru
+-d go2l.ink
 -d go4it24.be
 -d go5bln3.com
 -d go7wallet.com
@@ -37956,6 +37962,7 @@ msFilterList
 -d grupostt.com
 -d grupotandevco.net
 -d grupotaqueando.com
+-d grupotci.com.co
 -d grupotintemusical.com
 -d grupotmd.cl
 -d grupovisionpr.com
@@ -38431,7 +38438,6 @@ msFilterList
 -d h-w-c.net
 -d h.eurotrading.com.pl
 -d h.j990981.ru
--d h.top4top.io
 -d h.valerana44.ru
 -d h002295863.nichost.ru
 -d h0h.org
@@ -38591,6 +38597,7 @@ msFilterList
 -d hagmann.at
 -d hagtex.no
 -d hahahelps.com
+-d hahahokooleresapolandwerderdeeditdoom.myq-see.com
 -d hahawaii.org
 -d hai-almadinah.com
 -d hai8080.com
@@ -40596,7 +40603,6 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
--d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -41076,7 +41082,6 @@ msFilterList
 -d hotelwaldblick.com
 -d hotexpress.co
 -d hotfacts.org
--d hotgifts.online
 -d hotilife.com
 -d hotissue.xyz
 -d hotkine.com
@@ -67264,6 +67269,7 @@ msFilterList
 -d photo-midorikawa.info
 -d photo.6nationstabletenniscup.com
 -d photo.mikerizzello.com
+-d photo.sohu.com
 -d photo2.nerdtonik.com
 -d photo360.kubooking.com
 -d photobook-design.de
@@ -69784,6 +69790,7 @@ msFilterList
 -d proxy-ipv4.com
 -d proxy.2u0apcm6ylhdy7s.com
 -d proxy.hueaudio.com
+-d proxy.qualtrics.com
 -d proxygrnd.xyz
 -d proxyholding.com
 -d proxyresume.com
@@ -72221,6 +72228,7 @@ msFilterList
 -d redyakana.cl
 -d redyman.com
 -d redzoneairsoft.com
+-d reefrentalssamoa.ws
 -d reelcreations.ie
 -d reelectgina.com
 -d reeltorealomaha.com
@@ -74474,6 +74482,7 @@ msFilterList
 -d s.thechinesemuslim.com
 -d s.trade27.ru
 -d s.vollar.ga
+-d s01.solidfilesusercontent.com
 -d s02.yapfiles.ru
 -d s0aprcreditzcards.com
 -d s0n1c.ru
@@ -75199,6 +75208,7 @@ msFilterList
 -d sammash.ru
 -d sammykayfoundation.org
 -d samnpaul.com
+-d samoa.ws
 -d samogonniyapparat.ru
 -d samontime.com
 -d samoprogrammy.ru
@@ -77017,6 +77027,7 @@ msFilterList
 -d service.dawat.fr
 -d service.drnjithendran.com
 -d service.eftformotherissues.com
+-d service.ezsoftwareupdater.com
 -d service.heritageimagingcenter.com
 -d service.hybridhomesteam.com
 -d service.idealfurnitureoutlet.com
@@ -84749,6 +84760,7 @@ msFilterList
 -d teddyburtonburger.com
 -d tededsport.com
 -d tedet.or.th
+-d teduae.com
 -d tedxtest.devbyopeneyes.com
 -d tedzey.info
 -d tee2home.com
@@ -88040,7 +88052,6 @@ msFilterList
 -d track.bestwesternlex.com
 -d track.defatinator.com
 -d track.mailmaster.mobi
--d track.smtpserver.email
 -d track.standseries.us
 -d track.wizkidhosting.com
 -d track6.mixtape.moe
@@ -89342,7 +89353,6 @@ msFilterList
 -d u0707115.cp.regruhosting.ru
 -d u0746219.cp.regruhosting.ru
 -d u0774849.cp.regruhosting.ru
--d u1.huatu.com
 -d u1.innerpeer.com
 -d u11123p7833.web0104.zxcs.nl
 -d u1141p8807.web0103.zxcs.nl
@@ -93272,6 +93282,7 @@ msFilterList
 -d wc3prince.ru
 -d wcare.nl
 -d wcbgroup.co.uk
+-d wcdownloadercdn.lavasoft.com
 -d wcdr.pbas.es
 -d wcf-old.sibcat.info
 -d wcfamlaw.com
@@ -93645,6 +93656,7 @@ msFilterList
 -d webtoaster.ir
 -d webtop.lv
 -d webtrainingindia.com
+-d webturf263.com
 -d webtvset.com
 -d webuycellular-radio-rf-testers.com
 -d webuyhomes.forclientdemo.com
@@ -95235,6 +95247,8 @@ msFilterList
 -d wsdykungsb2gotchtsub.dns.army
 -d wsdykungsb2gotchtwsp.dns.army
 -d wsdymsloginvestmwsqd.dns.army
+-d wsdymsloginvestmwsrw.dns.army
+-d wsdymsnsndyemkemabqa.dns.army
 -d wsdyneverwalkachine2.dns.navy
 -d wsdyneverwalkachinese2loneinlifekwsfnv.ydns.eu
 -d wsdynitengylunatwsvg.dns.army
