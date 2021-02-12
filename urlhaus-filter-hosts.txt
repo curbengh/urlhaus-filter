@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 11 Feb 2021 12:12:03 UTC
+# Updated: Fri, 12 Feb 2021 00:11:56 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -193,6 +193,7 @@
 0.0.0.0 117.ip-193-70-115.eu
 0.0.0.0 1171j.projectsbit.org
 0.0.0.0 11820.com.tr
+0.0.0.0 118travel.net
 0.0.0.0 11bybbsny.com
 0.0.0.0 11degrees.org
 0.0.0.0 11duurzaam.sencwork.nl
@@ -4978,7 +4979,6 @@
 0.0.0.0 allenmarks.se
 0.0.0.0 allens.youcheckit.ca
 0.0.0.0 allenservice.ga
-0.0.0.0 allexampdf.com
 0.0.0.0 allexcursion.com
 0.0.0.0 allexpressstores.com
 0.0.0.0 alley2857.com
@@ -8006,7 +8006,6 @@
 0.0.0.0 asalforum.or.ke
 0.0.0.0 asamboguado.com
 0.0.0.0 asandarou.com
-0.0.0.0 asanpsd.ir
 0.0.0.0 asansor.parsnet.space
 0.0.0.0 asanvisas.com
 0.0.0.0 asaphomeimprovements.com
@@ -11655,6 +11654,7 @@
 0.0.0.0 bestindiandoctors.com
 0.0.0.0 bestinstitutechennai.com
 0.0.0.0 bestintickets.com
+0.0.0.0 bestinvest.si
 0.0.0.0 bestit.biz
 0.0.0.0 bestiuss.com
 0.0.0.0 bestjersey.com
@@ -17024,6 +17024,7 @@
 0.0.0.0 cdn-a1.jumbomail.me
 0.0.0.0 cdn-de-0691.clouds-share.com
 0.0.0.0 cdn-en-0334.clouds-share.com
+0.0.0.0 cdn-manga.online
 0.0.0.0 cdn-server.int-download.com
 0.0.0.0 cdn.app.yourwebdesignguys.com
 0.0.0.0 cdn.applimmo.com
@@ -22045,6 +22046,7 @@
 0.0.0.0 d1fcky27dg382.cloudfront.net
 0.0.0.0 d1g83yf6tseohy.cloudfront.net
 0.0.0.0 d1mension-capitaland.vn
+0.0.0.0 d1zi.com
 0.0.0.0 d2.dropboxccdn.com
 0.0.0.0 d2.dropboxscdn.com
 0.0.0.0 d2.dropboxwcdn.com
@@ -25062,6 +25064,7 @@
 0.0.0.0 digitalpontual.top
 0.0.0.0 digitalprintshop.co.za
 0.0.0.0 digitalsaim.com
+0.0.0.0 digitalscholarbd.com
 0.0.0.0 digitalschoolfaridabad.in
 0.0.0.0 digitalservicecare.in
 0.0.0.0 digitalservicesco.com
@@ -28935,6 +28938,7 @@
 0.0.0.0 elhadyksa.com
 0.0.0.0 elhoumaupload.com
 0.0.0.0 elhuertoartesanal.com
+0.0.0.0 elhvb.com
 0.0.0.0 elialamberto.com
 0.0.0.0 eliantocsp.it
 0.0.0.0 eliasevangelista.com.br
@@ -30689,6 +30693,7 @@
 0.0.0.0 europe-coaches.com
 0.0.0.0 europe-ele.com
 0.0.0.0 europeaengineering.com
+0.0.0.0 european-wood.com
 0.0.0.0 europeanautos.tech
 0.0.0.0 europeanbooksellers.eu
 0.0.0.0 europeanbusinessreview.org
@@ -31157,6 +31162,7 @@
 0.0.0.0 exploreproperti.com
 0.0.0.0 explorer78.ru
 0.0.0.0 explorersx.kz
+0.0.0.0 exploretibet.com
 0.0.0.0 exploretour.in
 0.0.0.0 explorevisa.com
 0.0.0.0 exploringviews.com
@@ -33117,6 +33123,7 @@
 0.0.0.0 fixxoo.in
 0.0.0.0 fiyo.org
 0.0.0.0 fizcomgiz.com
+0.0.0.0 fiziokinezis.rs
 0.0.0.0 fizion.nl
 0.0.0.0 fizjolife.com.pl
 0.0.0.0 fizra.pp.ua
@@ -33258,6 +33265,7 @@
 0.0.0.0 flewer.pl
 0.0.0.0 flex.hamburg
 0.0.0.0 flexiblecow.com
+0.0.0.0 flexilifephysio.in
 0.0.0.0 flexistyle.com.pl
 0.0.0.0 flexitravel.com
 0.0.0.0 flexlegends.ml
@@ -33358,7 +33366,6 @@
 0.0.0.0 flow.advtest.lgn.by
 0.0.0.0 flowca.top
 0.0.0.0 flowconcepts.no
-0.0.0.0 flowdemusic.net
 0.0.0.0 flower.hxgtech.com
 0.0.0.0 flower.webdungsan.com
 0.0.0.0 flowerbed.cz
@@ -33571,6 +33578,7 @@
 0.0.0.0 food.com.au
 0.0.0.0 food.hsh-bh.com
 0.0.0.0 food.jopedu.cn
+0.0.0.0 food.polotshirts.in
 0.0.0.0 foodandcot.com
 0.0.0.0 foodandwoodworks.com
 0.0.0.0 foodbakery.com.bh-in-9.webhostbox.net
@@ -33856,6 +33864,7 @@
 0.0.0.0 fotoground.com
 0.0.0.0 fotojurczak.pl
 0.0.0.0 fotolegko.ru
+0.0.0.0 fotomax.fr
 0.0.0.0 fotomb.com
 0.0.0.0 fotoms.pl
 0.0.0.0 fotonik.com.tr
@@ -34949,6 +34958,7 @@
 0.0.0.0 gafgfagf.co.vu
 0.0.0.0 gafrontke.de
 0.0.0.0 gagandevelopers.com
+0.0.0.0 gagansharmagroup.com
 0.0.0.0 gagat.am
 0.0.0.0 gagmis.webdevcore.com
 0.0.0.0 gagsm.com
@@ -36922,6 +36932,7 @@
 0.0.0.0 goldenstone.com.ng
 0.0.0.0 goldentalentcentre.com
 0.0.0.0 goldentime777.xii.jp
+0.0.0.0 goldentimepattaya.com
 0.0.0.0 goldentour.by
 0.0.0.0 goldentravel.ec
 0.0.0.0 goldentrustdevelopment.com
@@ -45080,6 +45091,7 @@
 0.0.0.0 j996324v.beget.tech
 0.0.0.0 j9b8q8.com
 0.0.0.0 j9designs.co.za
+0.0.0.0 jaaada.com
 0.0.0.0 jaafarattar.com
 0.0.0.0 jaalifestyle.my.id
 0.0.0.0 jaap-online.org
@@ -48395,6 +48407,7 @@
 0.0.0.0 kibrit.com.tr
 0.0.0.0 kic.ac.th
 0.0.0.0 kiccamt.com
+0.0.0.0 kicchennai.com
 0.0.0.0 kicensinfa.com
 0.0.0.0 kicgfgxspfqq6d79.com
 0.0.0.0 kichai.xyz
@@ -53146,6 +53159,7 @@
 0.0.0.0 lt1.yjxthy.com
 0.0.0.0 lt2.yjxthy.com
 0.0.0.0 lt3.com.br
+0.0.0.0 ltahhya.com
 0.0.0.0 ltava.site
 0.0.0.0 ltbender.eu
 0.0.0.0 ltc-systems.com
@@ -57077,6 +57091,7 @@
 0.0.0.0 metaaltech.webrandcreative.nl
 0.0.0.0 metabioresor.eu
 0.0.0.0 metadefenderinternationalsolutionfor.duckdns.org
+0.0.0.0 metadorr.com
 0.0.0.0 metaformeccs.fr
 0.0.0.0 metagro.com.br
 0.0.0.0 metajive.com
@@ -62012,7 +62027,6 @@
 0.0.0.0 ngheve.com
 0.0.0.0 nghiataman.com
 0.0.0.0 nghiencauca.com
-0.0.0.0 nghienluotweb.com
 0.0.0.0 nginawe.ao
 0.0.0.0 nginxtest.kaisquare.com
 0.0.0.0 ngitpl.com
@@ -68256,6 +68270,7 @@
 0.0.0.0 polosatik.site
 0.0.0.0 poloscan.ga
 0.0.0.0 polosi.gr
+0.0.0.0 polotshirts.in
 0.0.0.0 polresjepara.com
 0.0.0.0 polska-pieknieje.eu
 0.0.0.0 polskaprasalondyn.co.uk
@@ -69304,6 +69319,7 @@
 0.0.0.0 producthub.online
 0.0.0.0 productinerserveceamer.ru
 0.0.0.0 production.sparshims.com
+0.0.0.0 productmusics.com
 0.0.0.0 productorad10.cl
 0.0.0.0 productos.opiname.es
 0.0.0.0 productosyserviciosecuador.com
@@ -75190,6 +75206,7 @@
 0.0.0.0 samgyang.com
 0.0.0.0 samierol.com
 0.0.0.0 samifoundation.org.pk
+0.0.0.0 samimtech.com
 0.0.0.0 saminig.com
 0.0.0.0 saminnewgen.com
 0.0.0.0 saminprinter.com
@@ -77866,6 +77883,7 @@
 0.0.0.0 shoogyboom.com.tr
 0.0.0.0 shooka-co.com
 0.0.0.0 shoopik.pk
+0.0.0.0 shoopingmantap.com
 0.0.0.0 shoopizonline.com
 0.0.0.0 shootersaids.com
 0.0.0.0 shootie.de
@@ -78900,6 +78918,7 @@
 0.0.0.0 skanecostad.se
 0.0.0.0 skaneguiden.eu
 0.0.0.0 skantina.nl
+0.0.0.0 skaosclub.com
 0.0.0.0 skap.pp.ua
 0.0.0.0 skare.net
 0.0.0.0 skata.co.id
@@ -82938,6 +82957,7 @@
 0.0.0.0 suportedetv.antenascuritiba.net.br
 0.0.0.0 suportenaweb.com
 0.0.0.0 supplementcashback.com
+0.0.0.0 supplementhouse.net
 0.0.0.0 supplierslip.com
 0.0.0.0 supply-ex.com
 0.0.0.0 supplynowdent.com
@@ -84756,7 +84776,6 @@
 0.0.0.0 teddy-bum.com
 0.0.0.0 teddyburtonburger.com
 0.0.0.0 tededsport.com
-0.0.0.0 tedet.or.th
 0.0.0.0 teduae.com
 0.0.0.0 tedxtest.devbyopeneyes.com
 0.0.0.0 tedzey.info
@@ -84886,6 +84905,7 @@
 0.0.0.0 telechargini.com
 0.0.0.0 telecom-cctv.com
 0.0.0.0 telecomafrica.org
+0.0.0.0 telecomblogs.in
 0.0.0.0 telecomforall.nl
 0.0.0.0 telecomsystems.gr
 0.0.0.0 telecontrolers.it
@@ -87567,6 +87587,7 @@
 0.0.0.0 tomtocemusic.com
 0.0.0.0 tomtomtom.fr
 0.0.0.0 tomusor.md
+0.0.0.0 tomwilsononline.com
 0.0.0.0 tomyustudio.com
 0.0.0.0 tomyw.com
 0.0.0.0 ton-info.wiki
@@ -87606,6 +87627,7 @@
 0.0.0.0 tonsilstonessolution.com
 0.0.0.0 tonsite.ma
 0.0.0.0 tonteatria.com
+0.0.0.0 tontonamazon.com
 0.0.0.0 tontonfilms.com
 0.0.0.0 tony-berthold.de
 0.0.0.0 tony-shoes.com
@@ -88626,7 +88648,6 @@
 0.0.0.0 tritronix.pk
 0.0.0.0 tritsol.dk
 0.0.0.0 trituplas.com
-0.0.0.0 triumfoitsolutions.com
 0.0.0.0 triumph67.ru
 0.0.0.0 triumphservice.com
 0.0.0.0 triune.binarybizz.com
@@ -88808,6 +88829,7 @@
 0.0.0.0 trysh.de
 0.0.0.0 trytuc.com
 0.0.0.0 trytwofor.000webhostapp.com
+0.0.0.0 trytwyne.com
 0.0.0.0 ts-chile.com
 0.0.0.0 ts-deals.me
 0.0.0.0 ts.7rb.xyz
@@ -91833,6 +91855,7 @@
 0.0.0.0 vikasdalvi.com
 0.0.0.0 vikaskanungo.in
 0.0.0.0 vikentours.no
+0.0.0.0 vikinggg.com
 0.0.0.0 vikingsinstitute.org
 0.0.0.0 vikingvapes.com
 0.0.0.0 vikisa.com
@@ -93001,6 +93024,7 @@
 0.0.0.0 walkinaluuki.pl
 0.0.0.0 wall309.com
 0.0.0.0 wallacemonuments.com
+0.0.0.0 wallandwater.nl
 0.0.0.0 wallbenordic.se
 0.0.0.0 wallbruch.com
 0.0.0.0 wallcab.com
@@ -95194,6 +95218,7 @@
 0.0.0.0 writetype.org
 0.0.0.0 writingfromling.live
 0.0.0.0 writingtoefl.com
+0.0.0.0 writtendeer.com
 0.0.0.0 wroclaw1.nazwa.pl
 0.0.0.0 wrogot.online
 0.0.0.0 wromedia.co.uk
@@ -95248,6 +95273,7 @@
 0.0.0.0 wsdymsnsndyemkemabqa.dns.army
 0.0.0.0 wsdyneverwalkachine2.dns.navy
 0.0.0.0 wsdyneverwalkachinese2loneinlifekwsfnv.ydns.eu
+0.0.0.0 wsdynitengylunatwsgh.dns.army
 0.0.0.0 wsdynitengylunatwsvg.dns.army
 0.0.0.0 wsdynitengymndynatem.dns.army
 0.0.0.0 wsdynitengymndynatin.dns.army

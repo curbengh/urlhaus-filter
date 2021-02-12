@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 11 Feb 2021 12:12:03 UTC
+# Updated: Fri, 12 Feb 2021 00:11:56 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -196,6 +196,7 @@ msFilterList
 -d 117.ip-193-70-115.eu
 -d 1171j.projectsbit.org
 -d 11820.com.tr
+-d 118travel.net
 -d 11bybbsny.com
 -d 11degrees.org
 -d 11duurzaam.sencwork.nl
@@ -4981,7 +4982,6 @@ msFilterList
 -d allenmarks.se
 -d allens.youcheckit.ca
 -d allenservice.ga
--d allexampdf.com
 -d allexcursion.com
 -d allexpressstores.com
 -d alley2857.com
@@ -8009,7 +8009,6 @@ msFilterList
 -d asalforum.or.ke
 -d asamboguado.com
 -d asandarou.com
--d asanpsd.ir
 -d asansor.parsnet.space
 -d asanvisas.com
 -d asaphomeimprovements.com
@@ -11658,6 +11657,7 @@ msFilterList
 -d bestindiandoctors.com
 -d bestinstitutechennai.com
 -d bestintickets.com
+-d bestinvest.si
 -d bestit.biz
 -d bestiuss.com
 -d bestjersey.com
@@ -17027,6 +17027,7 @@ msFilterList
 -d cdn-a1.jumbomail.me
 -d cdn-de-0691.clouds-share.com
 -d cdn-en-0334.clouds-share.com
+-d cdn-manga.online
 -d cdn-server.int-download.com
 -d cdn.app.yourwebdesignguys.com
 -d cdn.applimmo.com
@@ -22048,6 +22049,7 @@ msFilterList
 -d d1fcky27dg382.cloudfront.net
 -d d1g83yf6tseohy.cloudfront.net
 -d d1mension-capitaland.vn
+-d d1zi.com
 -d d2.dropboxccdn.com
 -d d2.dropboxscdn.com
 -d d2.dropboxwcdn.com
@@ -25065,6 +25067,7 @@ msFilterList
 -d digitalpontual.top
 -d digitalprintshop.co.za
 -d digitalsaim.com
+-d digitalscholarbd.com
 -d digitalschoolfaridabad.in
 -d digitalservicecare.in
 -d digitalservicesco.com
@@ -28938,6 +28941,7 @@ msFilterList
 -d elhadyksa.com
 -d elhoumaupload.com
 -d elhuertoartesanal.com
+-d elhvb.com
 -d elialamberto.com
 -d eliantocsp.it
 -d eliasevangelista.com.br
@@ -30692,6 +30696,7 @@ msFilterList
 -d europe-coaches.com
 -d europe-ele.com
 -d europeaengineering.com
+-d european-wood.com
 -d europeanautos.tech
 -d europeanbooksellers.eu
 -d europeanbusinessreview.org
@@ -31160,6 +31165,7 @@ msFilterList
 -d exploreproperti.com
 -d explorer78.ru
 -d explorersx.kz
+-d exploretibet.com
 -d exploretour.in
 -d explorevisa.com
 -d exploringviews.com
@@ -33120,6 +33126,7 @@ msFilterList
 -d fixxoo.in
 -d fiyo.org
 -d fizcomgiz.com
+-d fiziokinezis.rs
 -d fizion.nl
 -d fizjolife.com.pl
 -d fizra.pp.ua
@@ -33261,6 +33268,7 @@ msFilterList
 -d flewer.pl
 -d flex.hamburg
 -d flexiblecow.com
+-d flexilifephysio.in
 -d flexistyle.com.pl
 -d flexitravel.com
 -d flexlegends.ml
@@ -33361,7 +33369,6 @@ msFilterList
 -d flow.advtest.lgn.by
 -d flowca.top
 -d flowconcepts.no
--d flowdemusic.net
 -d flower.hxgtech.com
 -d flower.webdungsan.com
 -d flowerbed.cz
@@ -33574,6 +33581,7 @@ msFilterList
 -d food.com.au
 -d food.hsh-bh.com
 -d food.jopedu.cn
+-d food.polotshirts.in
 -d foodandcot.com
 -d foodandwoodworks.com
 -d foodbakery.com.bh-in-9.webhostbox.net
@@ -33859,6 +33867,7 @@ msFilterList
 -d fotoground.com
 -d fotojurczak.pl
 -d fotolegko.ru
+-d fotomax.fr
 -d fotomb.com
 -d fotoms.pl
 -d fotonik.com.tr
@@ -34952,6 +34961,7 @@ msFilterList
 -d gafgfagf.co.vu
 -d gafrontke.de
 -d gagandevelopers.com
+-d gagansharmagroup.com
 -d gagat.am
 -d gagmis.webdevcore.com
 -d gagsm.com
@@ -36925,6 +36935,7 @@ msFilterList
 -d goldenstone.com.ng
 -d goldentalentcentre.com
 -d goldentime777.xii.jp
+-d goldentimepattaya.com
 -d goldentour.by
 -d goldentravel.ec
 -d goldentrustdevelopment.com
@@ -45083,6 +45094,7 @@ msFilterList
 -d j996324v.beget.tech
 -d j9b8q8.com
 -d j9designs.co.za
+-d jaaada.com
 -d jaafarattar.com
 -d jaalifestyle.my.id
 -d jaap-online.org
@@ -48398,6 +48410,7 @@ msFilterList
 -d kibrit.com.tr
 -d kic.ac.th
 -d kiccamt.com
+-d kicchennai.com
 -d kicensinfa.com
 -d kicgfgxspfqq6d79.com
 -d kichai.xyz
@@ -53149,6 +53162,7 @@ msFilterList
 -d lt1.yjxthy.com
 -d lt2.yjxthy.com
 -d lt3.com.br
+-d ltahhya.com
 -d ltava.site
 -d ltbender.eu
 -d ltc-systems.com
@@ -57080,6 +57094,7 @@ msFilterList
 -d metaaltech.webrandcreative.nl
 -d metabioresor.eu
 -d metadefenderinternationalsolutionfor.duckdns.org
+-d metadorr.com
 -d metaformeccs.fr
 -d metagro.com.br
 -d metajive.com
@@ -62015,7 +62030,6 @@ msFilterList
 -d ngheve.com
 -d nghiataman.com
 -d nghiencauca.com
--d nghienluotweb.com
 -d nginawe.ao
 -d nginxtest.kaisquare.com
 -d ngitpl.com
@@ -68259,6 +68273,7 @@ msFilterList
 -d polosatik.site
 -d poloscan.ga
 -d polosi.gr
+-d polotshirts.in
 -d polresjepara.com
 -d polska-pieknieje.eu
 -d polskaprasalondyn.co.uk
@@ -69307,6 +69322,7 @@ msFilterList
 -d producthub.online
 -d productinerserveceamer.ru
 -d production.sparshims.com
+-d productmusics.com
 -d productorad10.cl
 -d productos.opiname.es
 -d productosyserviciosecuador.com
@@ -75193,6 +75209,7 @@ msFilterList
 -d samgyang.com
 -d samierol.com
 -d samifoundation.org.pk
+-d samimtech.com
 -d saminig.com
 -d saminnewgen.com
 -d saminprinter.com
@@ -77869,6 +77886,7 @@ msFilterList
 -d shoogyboom.com.tr
 -d shooka-co.com
 -d shoopik.pk
+-d shoopingmantap.com
 -d shoopizonline.com
 -d shootersaids.com
 -d shootie.de
@@ -78903,6 +78921,7 @@ msFilterList
 -d skanecostad.se
 -d skaneguiden.eu
 -d skantina.nl
+-d skaosclub.com
 -d skap.pp.ua
 -d skare.net
 -d skata.co.id
@@ -82941,6 +82960,7 @@ msFilterList
 -d suportedetv.antenascuritiba.net.br
 -d suportenaweb.com
 -d supplementcashback.com
+-d supplementhouse.net
 -d supplierslip.com
 -d supply-ex.com
 -d supplynowdent.com
@@ -84759,7 +84779,6 @@ msFilterList
 -d teddy-bum.com
 -d teddyburtonburger.com
 -d tededsport.com
--d tedet.or.th
 -d teduae.com
 -d tedxtest.devbyopeneyes.com
 -d tedzey.info
@@ -84889,6 +84908,7 @@ msFilterList
 -d telechargini.com
 -d telecom-cctv.com
 -d telecomafrica.org
+-d telecomblogs.in
 -d telecomforall.nl
 -d telecomsystems.gr
 -d telecontrolers.it
@@ -87570,6 +87590,7 @@ msFilterList
 -d tomtocemusic.com
 -d tomtomtom.fr
 -d tomusor.md
+-d tomwilsononline.com
 -d tomyustudio.com
 -d tomyw.com
 -d ton-info.wiki
@@ -87609,6 +87630,7 @@ msFilterList
 -d tonsilstonessolution.com
 -d tonsite.ma
 -d tonteatria.com
+-d tontonamazon.com
 -d tontonfilms.com
 -d tony-berthold.de
 -d tony-shoes.com
@@ -88629,7 +88651,6 @@ msFilterList
 -d tritronix.pk
 -d tritsol.dk
 -d trituplas.com
--d triumfoitsolutions.com
 -d triumph67.ru
 -d triumphservice.com
 -d triune.binarybizz.com
@@ -88811,6 +88832,7 @@ msFilterList
 -d trysh.de
 -d trytuc.com
 -d trytwofor.000webhostapp.com
+-d trytwyne.com
 -d ts-chile.com
 -d ts-deals.me
 -d ts.7rb.xyz
@@ -91836,6 +91858,7 @@ msFilterList
 -d vikasdalvi.com
 -d vikaskanungo.in
 -d vikentours.no
+-d vikinggg.com
 -d vikingsinstitute.org
 -d vikingvapes.com
 -d vikisa.com
@@ -93004,6 +93027,7 @@ msFilterList
 -d walkinaluuki.pl
 -d wall309.com
 -d wallacemonuments.com
+-d wallandwater.nl
 -d wallbenordic.se
 -d wallbruch.com
 -d wallcab.com
@@ -95197,6 +95221,7 @@ msFilterList
 -d writetype.org
 -d writingfromling.live
 -d writingtoefl.com
+-d writtendeer.com
 -d wroclaw1.nazwa.pl
 -d wrogot.online
 -d wromedia.co.uk
@@ -95251,6 +95276,7 @@ msFilterList
 -d wsdymsnsndyemkemabqa.dns.army
 -d wsdyneverwalkachine2.dns.navy
 -d wsdyneverwalkachinese2loneinlifekwsfnv.ydns.eu
+-d wsdynitengylunatwsgh.dns.army
 -d wsdynitengylunatwsvg.dns.army
 -d wsdynitengymndynatem.dns.army
 -d wsdynitengymndynatin.dns.army
