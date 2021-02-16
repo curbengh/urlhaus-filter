@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Tue, 16 Feb 2021 00:12:15 UTC
+# Updated: Tue, 16 Feb 2021 12:11:51 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -163,6 +163,7 @@ msFilterList
 -d catchperch.com
 -d catchpoolshetlands.co.uk
 -d cateringmuslimcemangi.com
+-d catuexpress.com
 -d cavalcantiparticipacoes.com.br
 -d ccsau.com
 -d cdaonline.com.ar
@@ -171,12 +172,14 @@ msFilterList
 -d cellas.sk
 -d cendekiabinaaksara.com
 -d cfs5.tistory.com
+-d ch.rmu.ac.th
 -d changematterscounselling.com
 -d chanvribloc.com
 -d charutaplus.com
 -d cheap8x10s.com
 -d chemlab.com.my
 -d chezalice.co.za
+-d chfourstdyanothestmw.dns.army
 -d childselect.com
 -d chinhdropfile.myvnc.com
 -d chinhdropfile80.myvnc.com
@@ -307,6 +310,7 @@ msFilterList
 -d download.pdf00.cn
 -d download.rising.com.cn
 -d download.skycn.com
+-d download.zjsyawqj.cn
 -d downloads.jxtsteel.cn
 -d dragonsknot.com
 -d drbaby.com.sa
@@ -399,6 +403,7 @@ msFilterList
 -d gruposelt.000webhostapp.com
 -d gruppodomus.com.br
 -d gs.monerorx.com
+-d guardarunners.pt
 -d gulfac-house.com
 -d gvpcdpgc.edu.in
 -d habbotips.free.fr
@@ -820,6 +825,7 @@ msFilterList
 -d siperb.in
 -d sistelligent.com
 -d siyahkalemresim.com
+-d skyflyfares.com
 -d skyscan.com
 -d smarthouseforum.ru
 -d smarts.tj
@@ -845,6 +851,8 @@ msFilterList
 -d staging.apparelpunch.com
 -d starcountry.net
 -d static.3001.net
+-d stdypycsslwinnerstgk.dns.army
+-d stdyrmtcntlenverstgv.dns.army
 -d stdyrusschinetwomast.dns.army
 -d stevie-m.co.uk
 -d stiepancasetia.ac.id
@@ -983,6 +991,7 @@ msFilterList
 -d vrindapublicschool.com
 -d vstsample.com
 -d vtube.fadlymotivator.com
+-d vuongcode.com
 -d wadsoncables.co.za
 -d wallcab.com
 -d wanderwithyaya.com
@@ -1010,6 +1019,7 @@ msFilterList
 -d woezon.agency
 -d wolfgang-brodte.de
 -d woodsytech.com
+-d workfinestdyrainbost.dns.army
 -d workshop.arceliotivane.com
 -d wozata.000webhostapp.com
 -d wp.osmangony.info

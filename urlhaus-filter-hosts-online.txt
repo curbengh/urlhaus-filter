@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Tue, 16 Feb 2021 00:12:15 UTC
+# Updated: Tue, 16 Feb 2021 12:11:51 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -160,6 +160,7 @@
 0.0.0.0 catchperch.com
 0.0.0.0 catchpoolshetlands.co.uk
 0.0.0.0 cateringmuslimcemangi.com
+0.0.0.0 catuexpress.com
 0.0.0.0 cavalcantiparticipacoes.com.br
 0.0.0.0 ccsau.com
 0.0.0.0 cdaonline.com.ar
@@ -168,12 +169,14 @@
 0.0.0.0 cellas.sk
 0.0.0.0 cendekiabinaaksara.com
 0.0.0.0 cfs5.tistory.com
+0.0.0.0 ch.rmu.ac.th
 0.0.0.0 changematterscounselling.com
 0.0.0.0 chanvribloc.com
 0.0.0.0 charutaplus.com
 0.0.0.0 cheap8x10s.com
 0.0.0.0 chemlab.com.my
 0.0.0.0 chezalice.co.za
+0.0.0.0 chfourstdyanothestmw.dns.army
 0.0.0.0 childselect.com
 0.0.0.0 chinhdropfile.myvnc.com
 0.0.0.0 chinhdropfile80.myvnc.com
@@ -304,6 +307,7 @@
 0.0.0.0 download.pdf00.cn
 0.0.0.0 download.rising.com.cn
 0.0.0.0 download.skycn.com
+0.0.0.0 download.zjsyawqj.cn
 0.0.0.0 downloads.jxtsteel.cn
 0.0.0.0 dragonsknot.com
 0.0.0.0 drbaby.com.sa
@@ -396,6 +400,7 @@
 0.0.0.0 gruposelt.000webhostapp.com
 0.0.0.0 gruppodomus.com.br
 0.0.0.0 gs.monerorx.com
+0.0.0.0 guardarunners.pt
 0.0.0.0 gulfac-house.com
 0.0.0.0 gvpcdpgc.edu.in
 0.0.0.0 habbotips.free.fr
@@ -817,6 +822,7 @@
 0.0.0.0 siperb.in
 0.0.0.0 sistelligent.com
 0.0.0.0 siyahkalemresim.com
+0.0.0.0 skyflyfares.com
 0.0.0.0 skyscan.com
 0.0.0.0 smarthouseforum.ru
 0.0.0.0 smarts.tj
@@ -842,6 +848,8 @@
 0.0.0.0 staging.apparelpunch.com
 0.0.0.0 starcountry.net
 0.0.0.0 static.3001.net
+0.0.0.0 stdypycsslwinnerstgk.dns.army
+0.0.0.0 stdyrmtcntlenverstgv.dns.army
 0.0.0.0 stdyrusschinetwomast.dns.army
 0.0.0.0 stevie-m.co.uk
 0.0.0.0 stiepancasetia.ac.id
@@ -980,6 +988,7 @@
 0.0.0.0 vrindapublicschool.com
 0.0.0.0 vstsample.com
 0.0.0.0 vtube.fadlymotivator.com
+0.0.0.0 vuongcode.com
 0.0.0.0 wadsoncables.co.za
 0.0.0.0 wallcab.com
 0.0.0.0 wanderwithyaya.com
@@ -1007,6 +1016,7 @@
 0.0.0.0 woezon.agency
 0.0.0.0 wolfgang-brodte.de
 0.0.0.0 woodsytech.com
+0.0.0.0 workfinestdyrainbost.dns.army
 0.0.0.0 workshop.arceliotivane.com
 0.0.0.0 wozata.000webhostapp.com
 0.0.0.0 wp.osmangony.info
