@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Tue, 16 Feb 2021 12:11:51 UTC
+# Updated: Wed, 17 Feb 2021 00:12:10 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -2811,6 +2811,7 @@ msFilterList
 -d acutelogisticsltd.com
 -d acvehurmapazari.com
 -d acvila.ml
+-d ad-avenue.net
 -d ad-simple.com
 -d ad-store.online
 -d ad-tectum.hu
@@ -6518,6 +6519,7 @@ msFilterList
 -d anthraxpaintball.com
 -d anthrohub.org
 -d antiaging.org.tw
+-d anticasting.in
 -d anticcolonial.cf
 -d antichisaporishop.it
 -d anticogiardinosiciliano.it
@@ -13563,6 +13565,7 @@ msFilterList
 -d bluestarsgloballlc.com
 -d bluestartransportllc.net
 -d bluestationradio.com
+-d bluesteelenergy.com
 -d bluesteelinfra.com
 -d bluesuntourism.com
 -d bluesw.net
@@ -17515,6 +17518,7 @@ msFilterList
 -d cgysu.online
 -d ch.rmu.ac.th
 -d ch.silynigr.xyz
+-d ch00943.tmweb.ru
 -d ch0wn.org
 -d ch4ck0j.com
 -d ch4energy.co
@@ -21831,6 +21835,7 @@ msFilterList
 -d cuz-art.com
 -d cv51755.tmweb.ru
 -d cv724.net
+-d cv75663.tmweb.ru
 -d cv91340.tmweb.ru
 -d cvasajhsjkls00pro.co.uk
 -d cvbintangjaya.com
@@ -22217,6 +22222,7 @@ msFilterList
 -d daily.truelady.vn
 -d dailybaakhabar.com
 -d dailydemand.in
+-d dailyemploy.com
 -d dailygks.com
 -d dailygoraishobvotha.com
 -d dailygossips.com.ng
@@ -25522,6 +25528,7 @@ msFilterList
 -d djisyam38.com
 -d djivi.nl
 -d djjermedia.com
+-d djjmeets.com
 -d djkian.co.za
 -d djking.f3322.net
 -d djkuhni.ru
@@ -26563,6 +26570,7 @@ msFilterList
 -d dpack365-my.sharepoint.com
 -d dpacorp.org
 -d dparmm1.wci.com.ph
+-d dpbank.com.kh
 -d dpbh.info
 -d dpbusinessportal.ro
 -d dpciindustries.com
@@ -26893,6 +26901,7 @@ msFilterList
 -d drlynettebowden.uk
 -d drm-solutions.com.hr
 -d drmahmoodian.ir
+-d drmariepappas.com
 -d drmarins.com
 -d drmariofresta.net
 -d drmarjanazarshab.ir
@@ -31392,6 +31401,7 @@ msFilterList
 -d f0511508.xsph.ru
 -d f0512634.xsph.ru
 -d f0513899.xsph.ru
+-d f0514395.xsph.ru
 -d f0hc7osjnl2vi61g.com
 -d f0jgqwejaisdqjwnqwe.com
 -d f1.dodve.com
@@ -33373,6 +33383,7 @@ msFilterList
 -d flow.advtest.lgn.by
 -d flowca.top
 -d flowconcepts.no
+-d flowdemusic.net
 -d flower.hxgtech.com
 -d flower.webdungsan.com
 -d flowerbed.cz
@@ -33638,6 +33649,7 @@ msFilterList
 -d for-vill.ru
 -d forads.ae
 -d forage.restaurant
+-d forarskolan.com
 -d forbesriley.net
 -d forbiddenjewels.com.au
 -d forbika.com
@@ -40648,6 +40660,7 @@ msFilterList
 -d home.tith.in
 -d home.webadmin.syscoinc.org
 -d home88.wp-goodies.com
+-d homeabortionpillsrx.com
 -d homeafrica.co.tz
 -d homeairmachine.com
 -d homeandcottagepride.com
@@ -42077,6 +42090,7 @@ msFilterList
 -d icpspa.cl
 -d icreatewebsites.in
 -d icreativ.co.uk
+-d icreon.dothome.co.kr
 -d icrypto.zone
 -d ics.co.id
 -d icserie.org
@@ -45289,6 +45303,7 @@ msFilterList
 -d jamiekaylive.com
 -d jamieson.ro
 -d jamilabyraies.com
+-d jamilsultanli.com
 -d jamimpressions.com
 -d jamirick.com
 -d jamisonplazanews.com.au
@@ -45599,6 +45614,7 @@ msFilterList
 -d jctvlive.in
 -d jcvksdf.ug
 -d jcwintersconsulting.com
+-d jd-natural.com
 -d jd-studio.net
 -d jd.fvs.cn
 -d jdaarchs.com
@@ -45832,6 +45848,7 @@ msFilterList
 -d jfs.novazeo.net
 -d jftwebmarketing.com
 -d jfzlp.com
+-d jg5.5aef.pw
 -d jgarthandassociates.com
 -d jgc.com.mx
 -d jgee.co.uk
@@ -47295,6 +47312,7 @@ msFilterList
 -d kalashakako.com
 -d kalat.com.vn
 -d kalavayoga.com
+-d kalawatihomes.com
 -d kaledineeglute.xyz
 -d kaledinov.ru
 -d kalee.it
@@ -50776,6 +50794,7 @@ msFilterList
 -d laurentbernardaquarelles.com
 -d laurentchipaux.com
 -d laureys.be
+-d laurietalbothall.com
 -d lausinexamenes.com
 -d lautarosanmiguel.com
 -d lautreagence.com
@@ -52525,6 +52544,7 @@ msFilterList
 -d lo12.wroc.pl
 -d loaadkkkk12.top
 -d load-serv-1122.xyz
+-d load-serv-4285.xyz
 -d load.studio
 -d load002.info
 -d load003.info
@@ -57003,6 +57023,7 @@ msFilterList
 -d mercadeoporinternet.com
 -d mercado.tomino.gal
 -d mercadorapido.com
+-d mercados247.com
 -d mercadosaway.com
 -d mercadry.com
 -d mercalzado.com
@@ -60752,6 +60773,7 @@ msFilterList
 -d nakatika.tk
 -d nakedbeancafe.com
 -d nakedhippiesnacks.com
+-d nakhlmarket.com
 -d nakit-majoma.eu
 -d nakkufoodsafetyconsults.org
 -d nakshadekho.com
@@ -61348,6 +61370,7 @@ msFilterList
 -d nemohexmega.com
 -d nemraafrica.org
 -d nemzetiaranyintezet.com
+-d nenesgym.edu.mx
 -d nengchima.com
 -d nengjiankang.com
 -d nenkinsmile.xsrv.jp
@@ -61920,7 +61943,6 @@ msFilterList
 -d newton.co.id
 -d newtoncampbellyoga.com
 -d newtonsoftwares.com
--d newtop.one
 -d newtreedesign.co.uk
 -d newtrendmall.store
 -d newtrierneighbors.org
@@ -66760,6 +66782,7 @@ msFilterList
 -d peos.cn
 -d pep-egypt.com
 -d pep-sico.ml
+-d pepakenhautw.com
 -d pepeaafrica.org
 -d pepesalonspa.com
 -d peponews.tw
@@ -67391,7 +67414,6 @@ msFilterList
 -d phuphamca.com
 -d phusonland.vn
 -d phutung24h.vn
--d phutungotogiare.vn
 -d phy.mbstu.ac.bd
 -d phy.sci.lru.ac.th
 -d phylab.ujs.edu.cn
@@ -67415,6 +67437,7 @@ msFilterList
 -d piajmoric.com
 -d piakuser.com
 -d piano.donjuanbands.com
+-d pianobanan.com
 -d pianobyearsecrets.com
 -d pianogiaretphcm.com
 -d piapendet.com
@@ -69908,6 +69931,7 @@ msFilterList
 -d psi-uae.com
 -d psi.farseasty.com
 -d psi1.ir
+-d psicheaurora.it
 -d psichesalute.com
 -d psicoclin.cl
 -d psicologiagrupal.cl
@@ -72651,6 +72675,7 @@ msFilterList
 -d reogtiket.com
 -d reokayty-71.tk
 -d reow-71.tk
+-d rep.proofhub.com
 -d repabad.com
 -d repair-electrons.com
 -d repair56.ru
@@ -72812,6 +72837,7 @@ msFilterList
 -d restosducoeur-bassinminier.fr
 -d restu.net
 -d restupdate1.xyz
+-d resuco.net
 -d result.com
 -d resultadonaloto.club
 -d resultsbyseo.com
@@ -76319,7 +76345,6 @@ msFilterList
 -d seapodbank.tk
 -d seaportmovingandstorage.com
 -d seapp.ir
--d seara.com.br
 -d search-engine-optimization-canada.ca
 -d search.savenzer.in
 -d search4.ie
@@ -76634,6 +76659,7 @@ msFilterList
 -d selerakampung.com
 -d self-improvement.site
 -d selfbiznes.com
+-d selfcareadvocacy.com
 -d selfcnfmmk.azmain-it.com
 -d selfdefansakademi.com
 -d selffund.co.kr
@@ -78723,6 +78749,7 @@ msFilterList
 -d sinotopoutdoor.com
 -d sinplag.cl
 -d sinqevent.com
+-d sinsenos3.info
 -d sintecofort.online
 -d sintecor.cl
 -d sintergia-nutricion.mx
@@ -81686,6 +81713,7 @@ msFilterList
 -d stdychnesqudusisabcv.dns.army
 -d stdychnesqudusisabst.dns.navy
 -d stdychnesqudusisstds.dns.army
+-d stdyclntnjkcloudstva.dns.army
 -d stdygreenkegheedahatakankeadeshnaa24bax.duckdns.org
 -d stdygreenkegheedahatakankeadeshnaa32fpm.duckdns.org
 -d stdygreenkegheedahatakankeadeshnaastfaw.ydns.eu
@@ -83931,7 +83959,6 @@ msFilterList
 -d talentmatchingeurope.com
 -d talentokate.com
 -d talentscoutz.nl
--d talentvalue.com
 -d talentztech.com
 -d taleotecnoracing.com
 -d taleoudine.com
@@ -85831,6 +85858,7 @@ msFilterList
 -d theaknow.com
 -d thealdertons.us
 -d theallservices.com
+-d thealtbox.co.uk
 -d thealtilium.com
 -d theamericanaboriginal.com
 -d theamericannik.com
@@ -87617,6 +87645,7 @@ msFilterList
 -d tomtocemusic.com
 -d tomtomtom.fr
 -d tomusor.md
+-d tomwilsononline.com
 -d tomyustudio.com
 -d tomyw.com
 -d ton-info.wiki
@@ -88757,7 +88786,6 @@ msFilterList
 -d trudsovet.org
 -d true-today.com
 -d trueadv.ru
--d trueapparels.com
 -d trueblissnovelties.com
 -d truebluevibes.com
 -d truebox-sg.com
@@ -92619,6 +92647,7 @@ msFilterList
 -d vollediggroen.nl
 -d volleyballnt.com.au
 -d volminpetshop.com
+-d volna.top
 -d volork.com
 -d volparts.com.tr
 -d volteco.biz
@@ -93296,6 +93325,7 @@ msFilterList
 -d way2admission.in
 -d waybackwhenbycynthia.com
 -d wayby.com
+-d wayfinancial.ca
 -d wayforward.in
 -d waylogic.pt
 -d waymahikatudor.com
@@ -94691,6 +94721,7 @@ msFilterList
 -d woah90s.com
 -d woaldi2.com
 -d woatinkwoo.com
+-d woclawoffers.fun
 -d wocomm.marketingmindz.com
 -d wodfitapparel.fr
 -d wodmetaldom.pl
@@ -94776,6 +94807,7 @@ msFilterList
 -d wood.toastedweb.net
 -d woodbeei.com
 -d woodchips.com.ua
+-d woodenrestorations.com
 -d woodferniture.com
 -d woodhills.ca
 -d woodhousecnc.com
@@ -94867,6 +94899,7 @@ msFilterList
 -d wordpress.instasio.com
 -d wordpress.khinethazin.me
 -d wordpress.logoinn.me
+-d wordpress.nightingale.com
 -d wordpress.njc-web.info
 -d wordpress.p364918.webspaceconfig.de
 -d wordpress.p485087.webspaceconfig.de
@@ -97925,6 +97958,7 @@ msFilterList
 -d zhubai.kz
 -d zhucd.top
 -d zhuimengren123.com
+-d zhuoxinwei.com
 -d zhuti.freexulai.com
 -d zhwaike.com
 -d zhwq1216.com
