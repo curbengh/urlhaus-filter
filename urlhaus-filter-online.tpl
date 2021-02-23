@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Mon, 22 Feb 2021 12:12:17 UTC
+# Updated: Tue, 23 Feb 2021 00:12:06 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -52,6 +52,7 @@ msFilterList
 -d agemn.co.za
 -d agenciadigitalwdys.com
 -d agile8studio.com
+-d aimnaukri.com
 -d ajpharmaholding.com
 -d ajstudiollc.com
 -d akaunting.redocom.com
@@ -96,6 +97,7 @@ msFilterList
 -d atteuqpotentialunlimited.com
 -d augustair.com
 -d aulist.com
+-d automaticrefreshments.com
 -d avatachi.u0559032.cp.regruhosting.ru
 -d avissrilanka.com
 -d azmeasurement.com
@@ -124,6 +126,7 @@ msFilterList
 -d bencomedy.com
 -d bespokeweddings.ie
 -d bestcarenepal.com
+-d beta.vxinnovations.com
 -d betone.co.kr
 -d betycopaints.com
 -d beveragesmiami.solucioneslink.com
@@ -148,12 +151,14 @@ msFilterList
 -d brightonrooms.co.uk
 -d brightstarshop.com
 -d britishwebmasters.co.uk
+-d brodam.ro
 -d browardinsurancemiami.solucioneslink.com
 -d bt2.elin.co.za
 -d buigiaphat.com.vn
 -d bulksms.xava.co.in
 -d bullseyemedia.in
 -d bumdesnesia.com
+-d bunyaad.pk
 -d bursatezgah.com
 -d busandvanrentalmalaysia.com
 -d buscascolegios.diit.cl
@@ -164,6 +169,7 @@ msFilterList
 -d callbury.in
 -d camminachetipassa.it
 -d cancer.educandome.co
+-d capacitate-enlinea.com
 -d capitalgroup-kw.com
 -d cashyinvestment.org
 -d catchperch.com
@@ -180,6 +186,7 @@ msFilterList
 -d ch.rmu.ac.th
 -d changematterscounselling.com
 -d chanvribloc.com
+-d chardhamdodham.com
 -d charutaplus.com
 -d cheap8x10s.com
 -d chezalice.co.za
@@ -204,12 +211,11 @@ msFilterList
 -d config.cqhbkjzx.com
 -d constructoralyon.com
 -d consulateins.solucioneslink.com
--d consultingevolved.com
 -d content.codencil.com
 -d controleautomacao.com.br
+-d convertsunited.com
 -d copelandscapes.com
 -d corporatevoice.co.za
--d corporeit.com.br
 -d coulsongraphics.com
 -d cqjcc.org
 -d craftnesia.id
@@ -239,6 +245,7 @@ msFilterList
 -d dandyair.com
 -d dannexgh.com
 -d dartoonpictures.com
+-d data.kaoyany.top
 -d data.over-blog-kiwi.com
 -d datapolish.com
 -d dating.khokhas.co.za
@@ -255,6 +262,7 @@ msFilterList
 -d dent-estet.com
 -d dental.xiaoxiao.media
 -d dentalalliance.se
+-d denusa.com.br
 -d depedmakati.ph
 -d designerliving.co.za
 -d desiringhands.com
@@ -268,7 +276,7 @@ msFilterList
 -d dienmayminhhung.com
 -d dieselpower.sysnavtechnologies.mobi.ke
 -d digilib.dianhusada.ac.id
--d digitalaxom.in
+-d digisails.org
 -d digitaldiganta.com
 -d digitalstudiomaster.ro
 -d divisordeantena.antenascuritiba.net.br
@@ -278,6 +286,7 @@ msFilterList
 -d dl.198424.com
 -d dl.zkytech.com
 -d dnn.alibuf.com
+-d dns.alibuf.com
 -d dockerupdate.anondns.net
 -d docman.orientalservices.in
 -d dodsonimaging.com
@@ -305,7 +314,6 @@ msFilterList
 -d drbaby.com.sa
 -d drools-moved.46999.n3.nabble.com
 -d drsha.innovativesolutions.mobi
--d drupal.website2.fr
 -d dsenterprize.co.za
 -d du-wizards.com
 -d dutapp.wisolve.co.za
@@ -325,16 +333,13 @@ msFilterList
 -d enorichie.net
 -d equimination.ee
 -d erp.zilymax.com
--d escuelagarantista.com
 -d esnconsultants.com
 -d eubanks7.com
--d european-wood.com
 -d eventandcasino.com
 -d events.kreativekoncepts-ng.com
 -d exilum.com
 -d extremejoy.live
 -d extrovertoffers.com
--d f1sol.com
 -d f6.com.vn
 -d faks.tuturutu.eu
 -d familydentist.site
@@ -401,6 +406,7 @@ msFilterList
 -d hekahealth.org
 -d hellogorgeous.com.au
 -d help.hizuko.com
+-d helpingcause.com
 -d herchinfitout.com.sg
 -d hercinovic.com
 -d hesa.co.id
@@ -452,7 +458,6 @@ msFilterList
 -d iremart.es
 -d isaac.mikhailmotoringschool.com
 -d iscamenabe.com
--d iscon.com.br
 -d israrulhaq.me
 -d isrorg.com
 -d isso.ps
@@ -461,6 +466,7 @@ msFilterList
 -d izu001.webredirect.org
 -d izu002.casacam.net
 -d jamiekaylive.com
+-d jannathotels.com
 -d jansen-heesch.nl
 -d janvierassocies.fr
 -d jathra.co.uk
@@ -482,6 +488,7 @@ msFilterList
 -d karer.by
 -d katanvetov.co.il
 -d kbdom.com
+-d keonhacai8.net
 -d keywatch.yourpageserver.com
 -d kjcpromo.com
 -d kleinendeli.co.za
@@ -491,8 +498,8 @@ msFilterList
 -d krisbadminton.com
 -d ktb.sch.id
 -d kubatoglubaklava.com.tr
--d kumaralok.in
 -d kwanfromhongkong.com
+-d lab.lesh.vn
 -d lalenga.cl
 -d lameguard.ru
 -d lanos.in
@@ -545,6 +552,7 @@ msFilterList
 -d masjidhabeebiyarazviya.mysunni.com
 -d materialescantu.com
 -d matruchhaya.co.in
+-d mavenconsulting.com.pk
 -d maxiquim.cl
 -d maxtox.com.pk
 -d mbgrm.com
@@ -581,7 +589,6 @@ msFilterList
 -d mmogollon.com.mx
 -d mncarteam.com
 -d mobicraftdev.mincraftquickskineditor.com
--d mobile.illumetechnology.com
 -d modernmanna.org
 -d moninediy.com
 -d mopai.sg
@@ -615,7 +622,6 @@ msFilterList
 -d nhorangtreem.com
 -d nidhi.iexist.in
 -d nikanpolimer.ir
--d nikhorizon.com
 -d nitengystdylunatsthj.dns.army
 -d njtiledesigncenter.com
 -d nobius.org
@@ -634,7 +640,6 @@ msFilterList
 -d obseques-conseils.com
 -d office.horussolution.com
 -d ohsewgorgeous.co.uk
--d oknoplastik.sk
 -d oleholeh.memangbeda.website
 -d olirecords.mixture.ltd
 -d olooom.com
@@ -649,12 +654,9 @@ msFilterList
 -d orientgatewayltd.com
 -d orion445.com
 -d osdsoft.com
--d oserve.pk
 -d osorio.webmarketinggt.com
 -d ottimade.com
 -d ourteam.searchkero.com
--d oxeir.com
--d ozemag.com
 -d p3.zbjimg.com
 -d p6.zbjimg.com
 -d pacificgroup.ws
@@ -700,18 +702,16 @@ msFilterList
 -d power760.com
 -d ppdb.smk-ciptaskill.sch.id
 -d prestasicash.com.ar
+-d presupuestosolar.com
 -d prishaartcreations.com
 -d production.sparshims.com
 -d propertiq.elin.co.za
 -d propertiq2.elin.co.za
 -d prosoc.nl
--d prosyarmakassar.com
--d provence.elin.co.za
 -d prueba.danielluza.com
 -d pujashoppe.in
 -d punchdialogues.com
 -d punjabdevelopersassociation.com.pk
--d pvcprinting.co.uk
 -d qmsled.com
 -d quartier-midi.be
 -d quintadoabacate.com
@@ -729,6 +729,7 @@ msFilterList
 -d reifenquick.de
 -d reioflighthealing.co.uk
 -d relaxindulge.co.nz
+-d reliableclinicallab.com
 -d repair-electrons.com
 -d repatriacioncolombia.com
 -d res.uf1.cn
@@ -738,14 +739,12 @@ msFilterList
 -d richmondminerals.co.zm
 -d rigvedindia.com
 -d rinkaisystem-ht.com
--d rippr.cc
 -d riverfox.co.za
 -d rkverify.securestudies.com
 -d rldatix.pro
 -d robertmcardle.com
 -d robertoconceicao.adv.br
 -d robertsinclair.net
--d roltek.com.br
 -d romanianpoints.com
 -d ronnietucker.co.uk
 -d roomsvc.servegate.kr
@@ -764,6 +763,7 @@ msFilterList
 -d safepodiatry.com
 -d sahandwheelchair.ir
 -d sahathaikasetpan.com
+-d saisoftwareinc.com
 -d salecorner.yourpageserver.com
 -d sandovalgraphics.com
 -d santyago.org
@@ -785,12 +785,12 @@ msFilterList
 -d servicemhkd.myvnc.com
 -d servicemhkd80.myvnc.com
 -d servis.altankarakaya.com
+-d seyranikenger.com.tr
 -d sgkmudder.org.tr
 -d sh.epelcdn.com
 -d shaheentbfoundation.com
 -d sharkrigs.com
 -d sharpelevators.in
--d shembefoundation.com
 -d shiningautospa.in
 -d shivakunwar.com.np
 -d shooka-co.com
@@ -835,6 +835,7 @@ msFilterList
 -d static.3001.net
 -d stdychnesqudusixstgt.dns.army
 -d stdyrmtcntlenverstgt.dns.army
+-d stemschool.net
 -d stevie-m.co.uk
 -d stiepancasetia.ac.id
 -d stott-thompson.co.uk
@@ -864,6 +865,7 @@ msFilterList
 -d tafsantoursandtravels.com
 -d tallyinvoicecustomization.com
 -d taltus.co.uk
+-d tandenblekenhoofddorp.nl
 -d tapalkoedacoffee.com
 -d tarravalleyfoods.com.au
 -d tavo.cl
@@ -884,6 +886,7 @@ msFilterList
 -d temptmag.com
 -d tentandoserfitness.000webhostapp.com
 -d tessrobins.com
+-d test.housetutor.in
 -d test.letraele.es
 -d test.protocsconnectes.eu
 -d test.studecademy.com
@@ -903,6 +906,7 @@ msFilterList
 -d thedesertship.com
 -d thefuturelife.in
 -d theglobalcopyrightregistry.net
+-d thehighlightinterior.com
 -d thekassia.co.uk
 -d themansionkasauli.com
 -d thesummitpc.net
@@ -942,7 +946,6 @@ msFilterList
 -d unisoftcc.com
 -d up.ipts.com
 -d upload.sexy
--d urbanos22.mx
 -d urquilam.com.ar
 -d usastudy.news
 -d usbmagaza.com
@@ -967,7 +970,6 @@ msFilterList
 -d vivationdesign.com
 -d viveirodoiscorregos.com.br
 -d vivid-memoirs.com
--d vjsi.top
 -d vksales.com
 -d vokasi.ub.ac.id
 -d voobzfreight.co.za
@@ -1018,6 +1020,7 @@ msFilterList
 -d xixaoclothing.com
 -d xn--80akinnkiib6h.xn--90ais
 -d xn--polimerbizmimarlk-rvc.com
+-d yasukouchi.jp
 -d yeichner.com
 -d yfca-ye.org
 -d ylfpremium.com
