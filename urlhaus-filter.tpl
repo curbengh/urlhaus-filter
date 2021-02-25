@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 25 Feb 2021 00:12:12 UTC
+# Updated: Thu, 25 Feb 2021 12:12:31 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1643,6 +1643,7 @@ msFilterList
 -d 8daufikrn5860429.davidguetta03.space
 -d 8daufikrn7577595.davidguetta03.space
 -d 8dsuspect8.com
+-d 8dx.pc6.com
 -d 8e3raq.bl.files.1drv.com
 -d 8ez.com
 -d 8hebrew.website
@@ -3082,6 +3083,7 @@ msFilterList
 -d admiralparkway.com
 -d admiris.net
 -d admission.sishyaartscollege.com
+-d admobs.in
 -d admolex.com
 -d admonpc-ayapel.com.co
 -d admotion.ie
@@ -3239,7 +3241,6 @@ msFilterList
 -d adventureexplorer.in
 -d adventurehr.com
 -d adventureitdate.com
--d adventureits.com
 -d adventuremania.com
 -d adventurersafaris.com
 -d adventuresofarchibald.com
@@ -5529,7 +5530,6 @@ msFilterList
 -d am-tex.net
 -d am3web.com.br
 -d am99.com.au
--d ama-trans.de
 -d amaarhomes.ca
 -d amabai.org
 -d amable.orionpaginasweb.com
@@ -6471,6 +6471,7 @@ msFilterList
 -d annevillard.fr
 -d annfil.dev.cogitech.pl
 -d annghien.com
+-d annhienco.com.vn
 -d annhienshop.store
 -d annial.com
 -d anniechase.com
@@ -8471,6 +8472,7 @@ msFilterList
 -d astamvillagelodge.com
 -d astana-alpamys.kz
 -d astanaikhtiar.com.my
+-d astariglobal.com.cn
 -d astarmar.net
 -d astatue.com
 -d astecart.com
@@ -10023,7 +10025,6 @@ msFilterList
 -d badkamer-sanitair.nl
 -d badkamermaker.nl
 -d badmildiou.com
--d badzena.com
 -d baeckerei-strenger.de
 -d baek-laursen.com
 -d baerbl-volz.de
@@ -12174,7 +12175,6 @@ msFilterList
 -d bierne-les-villages.fr
 -d biese.eu
 -d bietthubien.org
--d bietthudep902.com
 -d bietthulambach.com
 -d bietthulienkegamuda.net
 -d bietthumau.com
@@ -12978,6 +12978,7 @@ msFilterList
 -d blob.digital
 -d blobfeed.com
 -d blockchain-com.cf
+-d blockchain-review.co.th
 -d blockchain-techminers.com
 -d blockchain.beachcondolife.tk
 -d blockchainbitcoins.info
@@ -17181,7 +17182,6 @@ msFilterList
 -d cdn.timebuyer.org
 -d cdn.top4top.net
 -d cdn.truelife.vn
--d cdn.xiaoduoai.com
 -d cdn.zecast.com
 -d cdn3.msetup.download
 -d cdn4.css361.com
@@ -20262,6 +20262,7 @@ msFilterList
 -d config.cqmjkjzx.com
 -d config.kuaisousou.top
 -d config.myjhxl.com
+-d config.myloglist.top
 -d config.wulishow.top
 -d config.wwmhdq.com
 -d config.ymw200.com
@@ -22205,8 +22206,8 @@ msFilterList
 -d d.qiluwl.com
 -d d.teamworx.ph
 -d d.techmartbd.com
--d d.top4top.io
 -d d.top4top.net
+-d d.ttr3p.com
 -d d04.data39.helldata.com
 -d d1.amobbs.com
 -d d1.dropboxccdn.com
@@ -24141,7 +24142,6 @@ msFilterList
 -d deposayim.ml
 -d depositoclara.com.br
 -d depot7.com
--d depozituldegeneratoare.ro
 -d depraetere.net
 -d deprealty.ru
 -d depressionted.com
@@ -26673,6 +26673,7 @@ msFilterList
 -d downlfile24.top
 -d downlo.vaixia.com
 -d download-cdn.com
+-d download-invoice.site
 -d download-plugin.co.za
 -d download-plugins.co.za
 -d download-serverupdate.eu-gb.cf.appdomain.cloud
@@ -30842,7 +30843,6 @@ msFilterList
 -d etwowsharing.com
 -d etwqsx23.duckdns.org
 -d etxse.xyz
--d eu-central-1.protection.sophos.com
 -d eu-easy.com
 -d eu.wildfire.paloaltonetworks.com
 -d eu1.salesforce.com
@@ -41275,7 +41275,6 @@ msFilterList
 -d host1725562.hostland.pro
 -d host1727451.hostland.pro
 -d host27.qnop.net
--d host2nepal.com
 -d host4mij.nl
 -d host906189048.s396.pppf.com.cn
 -d hostalcabanavaihere.com
@@ -42091,6 +42090,7 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
+-d i.cubeupload.com
 -d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
@@ -42217,6 +42217,7 @@ msFilterList
 -d ibexexpressint.com
 -d ibfengineering.com
 -d ibgd.org
+-d ibgreenstdyfestivals.dns.army
 -d ibgreenstdykegheedah.dns.army
 -d ibgreenstdykegheedst.dns.navy
 -d ibgreenstdykeghestfg.dns.army
@@ -42430,6 +42431,7 @@ msFilterList
 -d ictsmkn2cibar.org
 -d ictsphere.tv
 -d ictvacaturesachterhoek.nl
+-d ictzj.com
 -d icurse.nl
 -d icv.edu.au
 -d icveritas.pe
@@ -46677,7 +46679,6 @@ msFilterList
 -d jollyemma.com
 -d jolyscortinas.com.br
 -d jomar2020.com.br
--d jomblo.com
 -d jomhermonex.com
 -d jomimport.com
 -d jomjomstudio.com
@@ -48365,7 +48366,6 @@ msFilterList
 -d kemahasiswaan.unair.ac.id
 -d kemalerkol.net
 -d kemaster.kz
--d kemco.or.kr
 -d kemencem.net
 -d kemeri.it
 -d kemilauminang.com
@@ -49469,6 +49469,7 @@ msFilterList
 -d kodim0112sabang.com
 -d kodingeko.com
 -d kodip.nfile.net
+-d kodjdsjsdjf.tk
 -d kodlacan.site
 -d kodmuje.com
 -d kodolios.000webhostapp.com
@@ -49838,7 +49839,6 @@ msFilterList
 -d kpuru.com
 -d kqfkqkf7ma.temp.swtest.ru
 -d kqs.me
--d kr1s.ru
 -d kr888.top
 -d krabben.no
 -d krabbendamphotography.com
@@ -50201,6 +50201,7 @@ msFilterList
 -d kungsb2stdygotchtstf.dns.army
 -d kungsb2stdygotchtstj.dns.army
 -d kungsb2stdygotchtsty.dns.army
+-d kungsb2stdygotmenter.dns.army
 -d kungsb2tsdygotchtsaw.dns.army
 -d kungsb2unlimitedseverfortsdy4epidemicrgb.duckdns.org
 -d kungsndycommunicationtariffsuplier27abj.duckdns.org
@@ -55366,6 +55367,7 @@ msFilterList
 -d malware.secaas.ch
 -d malwarebytes-antiav.club
 -d malwarecleaner.info
+-d malwarecoding.github.io
 -d malwaresandviruses.000webhostapp.com
 -d malwr.host
 -d mama-guide.ru
@@ -56265,7 +56267,6 @@ msFilterList
 -d mastermindescapetheroomgame.com
 -d mastermindgroup.co.in
 -d mastermixco.com
--d mastermysan.com
 -d masternotebooks.com
 -d masteronare.com
 -d masteronline.pl
@@ -58718,7 +58719,6 @@ msFilterList
 -d mkw.ba
 -d mkwu.borneo.ac.id
 -d mkwxstarserver17km.xyz
--d mky.com
 -d mkzone.com.ng
 -d ml-moto.biz
 -d ml.com.watchdogdns.duckdns.org
@@ -58849,6 +58849,7 @@ msFilterList
 -d mndyneverwalkachinese2loneinlifemnkngr.ydns.eu
 -d mndyperezluzcafeyzmn.dns.army
 -d mndyrmtcntlenverstpo.dns.army
+-d mndytheviejupcafgast.dns.army
 -d mndytheviejupcazfeyz.dns.army
 -d mndyunitedfrkesokori.dns.army
 -d mndyworkfinesanotherrainbowlomoyentmntbc.ydns.eu
@@ -59460,6 +59461,7 @@ msFilterList
 -d morawiak.de
 -d morcanports.com
 -d morcmmystnewtalententertamentfor1winner.duckdns.org
+-d morcmmywstdylntwinse.dns.army
 -d morderingportal.com
 -d mordern.asia
 -d mordernvalves.com
@@ -68126,6 +68128,7 @@ msFilterList
 -d pinoy-express.com
 -d pinoy4k.com
 -d pinoyheadhunters.com
+-d pinpoint-shopping.com
 -d pinpointtracker.net
 -d pinquji.com
 -d pinsaved.com
@@ -70492,6 +70495,7 @@ msFilterList
 -d psychologuechampoux.com
 -d psychologyforyou.eu
 -d psychologylibs.ru
+-d psychologynewmind.com
 -d psychologynotepad.com
 -d psychologyunleashed.scienceontheweb.net
 -d psychotherapie-scheuer.de
@@ -77292,6 +77296,7 @@ msFilterList
 -d senat.polnep.ac.id
 -d senbiaojita.com
 -d senboutiquespa.com
+-d send.firefox.com
 -d send.webprojemiz.com
 -d senda.bmt.city
 -d senddocs.icu
@@ -78796,7 +78801,6 @@ msFilterList
 -d shriconstruction.com
 -d shricorporation.online
 -d shriharidyes.com
--d shrihariindia.com
 -d shrihariindia.in
 -d shrikailashlogicity.in
 -d shrimahaveerinfrastate.in
@@ -82301,12 +82305,14 @@ msFilterList
 -d stdychnesqudusisabst.dns.navy
 -d stdychnesqudusisstds.dns.army
 -d stdychnesqudusixstgt.dns.army
+-d stdychnesquduslasisi.dns.army
 -d stdyclntnjkcloudstva.dns.army
 -d stdygreenkegheedahatakankeadeshnaa24bax.duckdns.org
 -d stdygreenkegheedahatakankeadeshnaa32fpm.duckdns.org
 -d stdygreenkegheedahatakankeadeshnaastfaw.ydns.eu
 -d stdygreenkegheedahatakankeadeshnaastfyw.ydns.eu
 -d stdygreenkegheedahatakankeadeshnaasttmz.ydns.eu
+-d stdyjoejoehegrenfont.dns.army
 -d stdykalamikonlinedpk.dns.army
 -d stdykalamikonlinedst.dns.navy
 -d stdykalamikonlinstyv.dns.army
@@ -82318,6 +82324,7 @@ msFilterList
 -d stdyneverwalkachinese2loneinlifekstgqm.ydns.eu
 -d stdyperezluzcafeyzst.dns.navy
 -d stdypycsslwinnersint.dynx.me
+-d stdypycsslwinnersout.dns.army
 -d stdypycsslwinnerstgk.dns.army
 -d stdypycsslwinnerstsd.dns.army
 -d stdyrmtcntlenverstgt.dns.army
@@ -85578,6 +85585,7 @@ msFilterList
 -d telechargement-mail.pro
 -d telechargement-mail.win
 -d telechargement-piece-jointe.pro
+-d telechargini.com
 -d telecom-cctv.com
 -d telecomafrica.org
 -d telecomblogs.in
@@ -86426,7 +86434,6 @@ msFilterList
 -d thatoilchick.com
 -d thats-amazing.com
 -d thaus.to
--d thaus.top
 -d thawani-pay.neomeric.us
 -d thayvoiphone.vn
 -d thccamera.com
@@ -89630,6 +89637,7 @@ msFilterList
 -d tu-farmaweb.com
 -d tualarmasincuotas.cl.ipsoluciones.cl
 -d tuananhhotel.com
+-d tuandecal.net
 -d tuanduongmobile.vn
 -d tuankietkhang.com.vn
 -d tuayudaesoterica.com
@@ -91266,7 +91274,6 @@ msFilterList
 -d usastudy.news
 -d usavisaconsultant.com
 -d usax138.oicp.net
--d usbmagaza.com
 -d usbsearch.000webhostapp.com
 -d uscconquest.com
 -d uscoinsnut.com
@@ -91394,6 +91401,7 @@ msFilterList
 -d utterstock.in
 -d utting.org
 -d utv.sakeronline.se
+-d uujian.cn
 -d uumove.com
 -d uurty87e8rt7rt.com
 -d uutiset.helppokoti.fi
@@ -96222,7 +96230,6 @@ msFilterList
 -d wyndhamatduran.com
 -d wynn838.com
 -d wyomingauthors.org
--d wyptk.com
 -d wyredsecurity.com
 -d wyszx.jihaose.cn
 -d wywoznieczystosci.pomorze.pl
