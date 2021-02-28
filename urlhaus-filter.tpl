@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 27 Feb 2021 12:12:28 UTC
+# Updated: Sun, 28 Feb 2021 00:13:18 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1887,6 +1887,7 @@ msFilterList
 -d a.uchi.moe
 -d a.xiazai163.com
 -d a.xsvip.vip
+-d a.xuezha.cn
 -d a0.kl.com.ua
 -d a0001197.xsph.ru
 -d a02.fgchen.com
@@ -7615,6 +7616,7 @@ msFilterList
 -d arkallsaintsacademy.com
 -d arkamedia.pl
 -d arkamp.ir
+-d arkan-intl.com
 -d arkan-memar.com
 -d arkan.cv.ua
 -d arkanddove.com
@@ -7837,7 +7839,6 @@ msFilterList
 -d art3d.org
 -d art964.com
 -d artaan.ir
--d artabout.gr
 -d artadvancekid.info
 -d artaghril.com
 -d artalegno.it
@@ -8418,6 +8419,7 @@ msFilterList
 -d asr.com.ua
 -d asreklam.az
 -d asresaat.com
+-d asri-no.ir
 -d asria.in
 -d asrijeweler.com
 -d asrr.com.au
@@ -9761,6 +9763,7 @@ msFilterList
 -d aznetsolutions.com
 -d azo.kl.com.ua
 -d azoam.bid
+-d azoresalive.com
 -d azorult.adminpc.ru
 -d azorult.botspy.ml
 -d azov-spetsmash.com.ua
@@ -9943,7 +9946,6 @@ msFilterList
 -d babytoys.life
 -d babyvogel.nl
 -d babzon.club
--d bac.edu.my
 -d bacamanect.com
 -d baccaosutritue.vn
 -d baceldeniz.com
@@ -13460,6 +13462,7 @@ msFilterList
 -d blog.xineasy.com
 -d blog.xiuyayan.com
 -d blog.xn--ntztjanix-q9a.net
+-d blog.xuezha.cn
 -d blog.xumingxiang.com
 -d blog.yanyining.com
 -d blog.yaobinjie.top
@@ -15690,6 +15693,7 @@ msFilterList
 -d c6845.cn
 -d c6photography.com
 -d c6ut9we.com
+-d c70027uc.beget.tech
 -d c7715.nichost.ru
 -d c7paintedparts.com
 -d c8xtt.com
@@ -20602,6 +20606,7 @@ msFilterList
 -d cool-things4u.com
 -d cool-website.de
 -d coolaltitude-cycles.com
+-d coolaspa.co.il
 -d coolbeer.com
 -d coolbion.com
 -d coolcomputers.info
@@ -23166,6 +23171,7 @@ msFilterList
 -d dbwelding.us
 -d dbwsweb.com
 -d dbxss.xyz
+-d dby1230.com
 -d dc-derma.gr
 -d dc-koala.de
 -d dc-liberec.cz
@@ -27562,7 +27568,6 @@ msFilterList
 -d duratransgroup.com
 -d duratryamtrd.com
 -d durax.com.br
--d durbanbusinesscollege.co.za
 -d durganamkeen.com
 -d durgmavala.com
 -d durhamcityrunfestival.com
@@ -30049,6 +30054,7 @@ msFilterList
 -d envirobostad.se
 -d envirochementerprises.com
 -d envirohealth.org
+-d envirohubconsulting.co.za
 -d envirolyteck.hunterville.org
 -d environglobalstaging.co.za
 -d envirotrim.net
@@ -33920,6 +33926,7 @@ msFilterList
 -d fooladshahr.simamanzar.ir
 -d fooodshooters.com
 -d fooropetes.com
+-d football-eg.com
 -d football411.net
 -d footballnowandthan.com
 -d footballstep.com
@@ -34489,6 +34496,7 @@ msFilterList
 -d freephenix.cn
 -d freeprivacytools.site
 -d freeprofessionalwebhosting.com
+-d freeps3game.com
 -d freeselfstoragequote.com
 -d freesellers.snolias.com
 -d freeslits.net
@@ -41573,6 +41581,7 @@ msFilterList
 -d howtobeanangelinvestor.com
 -d howtofx.worldcupdeals.net
 -d howtogetcredit.org
+-d howtoinstallx.com
 -d howtolosecheekfat.net
 -d howtoremovethereimagevirus.info
 -d howtotechs.info
@@ -43137,6 +43146,7 @@ msFilterList
 -d img.oipeirates.pro
 -d img.rheovest.com
 -d img.wanghejun.cn
+-d img.xuezha.cn
 -d img19.vikecn.com
 -d img54.hbzhan.com
 -d imgautham.com
@@ -50978,6 +50988,7 @@ msFilterList
 -d laparoscopysales.com
 -d lapartenza-khl.com
 -d lapc.com.pk
+-d lapcare.com
 -d lapcentervn.xyz
 -d lapchallenge.co.uk
 -d lapelimmortelle.com.au
@@ -58662,6 +58673,7 @@ msFilterList
 -d mitsuoka.co
 -d mittel.sk
 -d mittup.site
+-d mituskicrafts.com
 -d mitvencasa.com
 -d mitwpunwp.mitevents.org
 -d miumilkshop.com
@@ -62045,6 +62057,7 @@ msFilterList
 -d networkdriving.co.uk
 -d networkforcharity.net
 -d networkhardwaresol.com
+-d networkmonitorsoftware.net
 -d networkproductions.de
 -d networkscy.incyprus.net
 -d networkwheels.co.za
@@ -63317,6 +63330,7 @@ msFilterList
 -d noqigxa.com
 -d nor-a.com
 -d norahkhi.com
+-d norailya.com
 -d noraiport.nubeweb24.com
 -d norakayevents.com
 -d norambuena.cl
@@ -72529,6 +72543,7 @@ msFilterList
 -d rcmmanagement.com
 -d rcmodelscience.com
 -d rcnpotbelly.in
+-d rcosportsco.com
 -d rcoutreach.com
 -d rcreciclagem.com.br
 -d rcrenos.com
@@ -74479,6 +74494,7 @@ msFilterList
 -d rossgo.com
 -d rossholidays.in
 -d rossichspb.ru
+-d rossie.in
 -d rossinglish.com
 -d rossiodontologia.com.br
 -d rossmedco.com
@@ -78895,6 +78911,7 @@ msFilterList
 -d shubharatna.com
 -d shubhinfoways.com
 -d shuimulinsen.vip
+-d shuiyin.xuezha.cn
 -d shumat.by
 -d shumbildac.com
 -d shumiao.web32.gufra.cn
@@ -80412,6 +80429,7 @@ msFilterList
 -d so-lonely.fr
 -d so-nettel.ml
 -d so.nevisconsultants.com
+-d so.xuezha.cn
 -d so370.com
 -d so4.seeanu.ru
 -d so766.sohost.pl
@@ -83844,6 +83862,7 @@ msFilterList
 -d susanschoenfeld.com
 -d susansquires.com
 -d susbill.com
+-d susconiq.net
 -d suse-tietjen.com
 -d susham.com
 -d sushi-mixnevo.ru
@@ -84443,6 +84462,7 @@ msFilterList
 -d ta107s3.watchdogdns.duckdns.org
 -d ta3tera.bird-cloud.com
 -d taaagh.com
+-d taabgroup.com
 -d taact.co.in
 -d taadr.com
 -d taaiglobal.com
@@ -89545,7 +89565,6 @@ msFilterList
 -d trullsrodshop.com
 -d trulybrazen.com
 -d trulyhelpful.love
--d trulykomal.com
 -d trumbullcsb.org
 -d trumpcommunity.com
 -d trumpfalls.com
@@ -94031,7 +94050,6 @@ msFilterList
 -d watchdogdns.duckdns.orgwatchdogdns.duckdns.org
 -d watchesofswitzerland.eu
 -d watchespower.com
--d watchesprime.com
 -d watchitvson.com
 -d watchlifematters.com
 -d watchlivehdtv24.xyz
@@ -97259,6 +97277,7 @@ msFilterList
 -d xueshengshi.com
 -d xueshu.haliym.top
 -d xuexishuo.xyz
+-d xuezha.cn
 -d xuezha.net
 -d xufing.myweb.hinet.net
 -d xuhss.com
@@ -98183,6 +98202,7 @@ msFilterList
 -d yumyumhostel.myjino.ru
 -d yun-1.lenku.cn
 -d yun.vishou.net
+-d yun.xuezha.cn
 -d yunbang.cn
 -d yunck.website
 -d yunfuwuqi.org.cn
