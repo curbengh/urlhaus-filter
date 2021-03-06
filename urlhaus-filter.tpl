@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 05 Mar 2021 12:12:19 UTC
+# Updated: Sat, 06 Mar 2021 00:12:43 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -1968,6 +1968,7 @@ msFilterList
 -d a33pzw.bl.files.1drv.com
 -d a352057.mcdir.ru
 -d a353306.mcdir.ru
+-d a3a8cr9sddn45ty.xyz
 -d a3infra.com
 -d a3m-metaal.nl
 -d a3pixels.com
@@ -2962,6 +2963,7 @@ msFilterList
 -d adekua.com.br
 -d adel.com.au
 -d adeladesign.ro
+-d adelantosi.com
 -d adeli-suit.com
 -d adelis.re
 -d ademaj.ch
@@ -6456,6 +6458,7 @@ msFilterList
 -d ankitagroup.in
 -d ankitastarvision.co.in
 -d anklaff.com
+-d anklebreed.xyz
 -d anklexit.online
 -d ankorock.biz
 -d ankpackages.com
@@ -7151,7 +7154,6 @@ msFilterList
 -d apsinternationalcollege.com
 -d apskids.in
 -d apsoluta.com
--d apsolution.work
 -d apsphcl.org
 -d apsportage.fr
 -d apt24tokyo.host
@@ -7857,6 +7859,7 @@ msFilterList
 -d art3d.org
 -d art964.com
 -d artaan.ir
+-d artabout.gr
 -d artadvancekid.info
 -d artaghril.com
 -d artalegno.it
@@ -16939,6 +16942,7 @@ msFilterList
 -d catbatravelblog.com
 -d catbayouthaction.com
 -d catbones.com
+-d catch-laetitia.com
 -d catchment.cpanel01.staging.simplegrationserver.com
 -d catchperch.com
 -d catchpoolshetlands.co.uk
@@ -17225,6 +17229,7 @@ msFilterList
 -d cdn-a1.jumbomail.me
 -d cdn-de-0691.clouds-share.com
 -d cdn-en-0334.clouds-share.com
+-d cdn-manga.online
 -d cdn-server.int-download.com
 -d cdn.app.yourwebdesignguys.com
 -d cdn.applimmo.com
@@ -19688,6 +19693,7 @@ msFilterList
 -d codex.com.py
 -d codexia.axess.fr
 -d codexinfra.com
+-d codexive.xyz
 -d codeyan.stage02.obdemo.com
 -d codeyeti.com
 -d codienlanhnme.vn
@@ -20024,6 +20030,7 @@ msFilterList
 -d commecatunisie.com.tn
 -d commel.cba.pl
 -d commemorare.pullup.tech
+-d commentpassage.com
 -d comments.hmmagic.com
 -d comments.stumbli.com
 -d commercedusud.com
@@ -21219,7 +21226,6 @@ msFilterList
 -d crabnet.com
 -d crach.discusllc.org
 -d crack.relaxationcards.com
--d crackbros.com
 -d crackmiata.com
 -d cradiant.com
 -d cradigital.com
@@ -21585,6 +21591,7 @@ msFilterList
 -d crosscommunications.org
 -d crosscountrysupply.com
 -d crossfit.watchinglivetv.com
+-d crossfitananda.com
 -d crossfitcallisto.com
 -d crossfitchampions.com
 -d crossfitheimdall.com
@@ -22984,6 +22991,7 @@ msFilterList
 -d dataworxsystems.com
 -d datawys.com
 -d datawyse.net
+-d datbanhchungtet.com
 -d datco.vn
 -d datcoinc.com
 -d dateandoando.com
@@ -29993,7 +30001,6 @@ msFilterList
 -d engenhariatb.com.br
 -d engenhodeideias.com.br
 -d engeserv.com.br
--d engetrate.com.br
 -d engfix.com.br
 -d engiesen.com
 -d enginebuildltd.co.uk
@@ -33549,7 +33556,6 @@ msFilterList
 -d fixxoo.in
 -d fiyo.org
 -d fizcomgiz.com
--d fiziokinezis.rs
 -d fizion.nl
 -d fizjolife.com.pl
 -d fizra.pp.ua
@@ -34175,6 +34181,7 @@ msFilterList
 -d forms.mrinnovations.com
 -d formulaire.cecosdaformation.com
 -d formulaonegym.co.uk
+-d formulateaccountant.com
 -d formypimples.com
 -d fornalhadoabencoado.com.br
 -d fornewme.com
@@ -41885,6 +41892,7 @@ msFilterList
 -d htnieuw.hazenbergtimmerwerken.nl
 -d htownbars.com
 -d htpinvestment.com.vn
+-d htrackbrand.com
 -d htrfep.online
 -d htt.nu
 -d http.pc-rekcah.com
@@ -43025,7 +43033,6 @@ msFilterList
 -d ik-7.ru
 -d ik-instaling.com
 -d ik.termopanemaramures.ro
--d ikahotel.com
 -d ikama.cal24.pl
 -d ikamel.com
 -d ikanwa.com
@@ -45105,7 +45112,6 @@ msFilterList
 -d ises.com.pl
 -d isesyoyu.jp
 -d isetegime.eu
--d isginsaat.com.tr
 -d isgno.net
 -d ishbudesign.com
 -d ishita.ga
@@ -48494,6 +48500,7 @@ msFilterList
 -d keanojewelry.com
 -d keasocial.com
 -d keataxes.com
+-d keatonberry.me
 -d kebab-hub.ru
 -d kebabkungen.se
 -d kebaby.ch
@@ -54406,6 +54413,7 @@ msFilterList
 -d macedonrangesvotes.org
 -d maceju.com
 -d macerindia.com
+-d macexpertguide.com
 -d macfi.ch
 -d machadodeeinstein.com.br
 -d machakos-county.com
@@ -55045,6 +55053,7 @@ msFilterList
 -d mail.horsebusinessmedia.com
 -d mail.hotgirlsgames.xyz
 -d mail.houseinspectors.info
+-d mail.htrackbrand.com
 -d mail.humanlypossibletv.com
 -d mail.iancockburn.com
 -d mail.ibrandity.com
@@ -59976,6 +59985,7 @@ msFilterList
 -d motzadministraties.nl
 -d mouas.xyz
 -d mouaysha.com
+-d moufed.com
 -d moulin-de-la-hunelle.be
 -d mouni11.xyz
 -d mounicmadiraju.com
@@ -62839,6 +62849,7 @@ msFilterList
 -d ngheve.com
 -d nghiataman.com
 -d nghiencauca.com
+-d nghienluotweb.com
 -d nginawe.ao
 -d nginxtest.kaisquare.com
 -d ngitpl.com
@@ -63577,6 +63588,7 @@ msFilterList
 -d noons.ru
 -d noopy.alfornopizzerianyc.com
 -d noor.me.ke
+-d noor.school
 -d noorcancerhospital.com
 -d noorda.org
 -d noorderijk.demon.nl
@@ -66149,6 +66161,7 @@ msFilterList
 -d ow.chernovik55.ru
 -d owa.wpmunetwork.com
 -d owaisejaz.com
+-d owapetry-71.tk
 -d owczarnialefevre.com
 -d owedtogreed.com
 -d owensii.com
@@ -68673,6 +68686,7 @@ msFilterList
 -d placemonster.com
 -d placenpick.com
 -d placering.nl
+-d placevirus.com
 -d placi.com.br
 -d placidocn.com
 -d placo.de
@@ -70908,6 +70922,7 @@ msFilterList
 -d ptoffroad.com
 -d ptp.upr.ac.id
 -d ptpjm.co.id
+-d ptpmeccatronica.eu
 -d ptpos.com.vn
 -d ptpro.tk
 -d pts-cabs.in
@@ -72506,7 +72521,6 @@ msFilterList
 -d rakoffshoreic.com
 -d rakordirutbumn2019.com
 -d rakshith.ml
--d raku-yu.jp
 -d rakuten-insight.cowww.watchdogdns.duckdns.orgwatchdogdns.duckdns.org
 -d rakuten.co.jpp.treu-dynamic.com
 -d rakyatgroup.com
@@ -74377,6 +74391,7 @@ msFilterList
 -d rmq.tokyofunkowildvaley.ru
 -d rmrenovables.com
 -d rms.uzelbilisim.com.tr
+-d rmtcntlwsdyenverpote.dns.army
 -d rmubp.chphmu.de
 -d rmw-pulsa.com
 -d rmweyburn.ca
@@ -86063,7 +86078,6 @@ msFilterList
 -d telechargini.com
 -d telecom-cctv.com
 -d telecomafrica.org
--d telecomblogs.in
 -d telecomforall.nl
 -d telecomsystems.gr
 -d telecontrolers.it
@@ -90093,7 +90107,6 @@ msFilterList
 -d tsrj.monster
 -d tst.marineindust.com
 -d tstfrigo.com
--d tsuburaya-prod.co.jp
 -d tsugite.youbi.me
 -d tsukasa.com.br
 -d tsuki.com
@@ -91943,6 +91956,7 @@ msFilterList
 -d uxconfbb.labbs.com.br
 -d uxeqfury6.com
 -d uxfactory.com.br
+-d uxianj.com
 -d uxnew.com
 -d uxqr.boyuberq.ru
 -d uxsahd.com
@@ -93406,6 +93420,7 @@ msFilterList
 -d virustreatments.empeeevents.com
 -d visa.indonesia.nl
 -d visa.org.ua
+-d visaatlantis.com
 -d visadacdinh.com
 -d visadreamsoverseas.com
 -d visafile.vn
