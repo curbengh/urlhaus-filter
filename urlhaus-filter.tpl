@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 06 Mar 2021 12:12:18 UTC
+# Updated: Sun, 07 Mar 2021 00:12:18 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -7860,7 +7860,6 @@ msFilterList
 -d art3d.org
 -d art964.com
 -d artaan.ir
--d artabout.gr
 -d artadvancekid.info
 -d artaghril.com
 -d artalegno.it
@@ -10559,6 +10558,7 @@ msFilterList
 -d barbieblackmore.com
 -d barbiesworld.com
 -d barboard.x10.mx
+-d barbotinlarrieu-architecture.fr
 -d barbudabier.com
 -d barca.md
 -d barcaacademyistanbul.com
@@ -11168,6 +11168,7 @@ msFilterList
 -d beautyeverest.com
 -d beautyfactory.com.pl
 -d beautyformperu.com
+-d beautyhair.by
 -d beautyhealth4you.com
 -d beautyhealthcareclub.com
 -d beautyhealthnav.life
@@ -17279,6 +17280,7 @@ msFilterList
 -d cdrconsultora.com.ar
 -d cdrdf.bsb.br
 -d cds-bd.com
+-d cds.lk
 -d cdsa.tp.crea.pro
 -d cdsanit.fr
 -d cdsolutions.co.uk
@@ -19613,6 +19615,7 @@ msFilterList
 -d cobhamplasteringservices.co.uk
 -d cobotov.com
 -d cobracg.com
+-d cobroagil.com.ec
 -d cobu-inc.co.jp
 -d cocacolaintesystemnewtowrksidfsdficxuivu.mangospot.net
 -d cocarda.pl
@@ -22031,6 +22034,7 @@ msFilterList
 -d curso.domeducacional.com
 -d curso.ssthno.webdesignssw.cl
 -d cursoaphonline.com.br
+-d cursodebarberia.com
 -d cursodehebraico.com
 -d cursodigital.tech
 -d cursoelementor.netweeb.com
@@ -28434,6 +28438,7 @@ msFilterList
 -d ecocolor.pl
 -d ecoconcretos.com
 -d ecoconstrucciones.com.ar
+-d ecocraftplanet.com
 -d ecodea.net
 -d ecodetect.com.br
 -d ecodot.net
@@ -29312,6 +29317,7 @@ msFilterList
 -d elhadyksa.com
 -d elhoumaupload.com
 -d elhuertoartesanal.com
+-d elhuertodelivery.store
 -d elialamberto.com
 -d eliantocsp.it
 -d eliasevangelista.com.br
@@ -32794,7 +32800,6 @@ msFilterList
 -d ferramentariamorais.com.br
 -d ferramentasindustriais.com.br
 -d ferramentasubra.com.br
--d ferranroig-psicoleg.com
 -d ferrari.clabris.se
 -d ferrariferrari.com.br
 -d ferrata.co.id
@@ -33254,6 +33259,7 @@ msFilterList
 -d finefoodsfrozen.com
 -d finehealthonline.com
 -d fineme.ug
+-d finephotos.com.au
 -d fineprintingmart.com
 -d finepropertyuk.co.uk
 -d finepuer.com
@@ -37259,6 +37265,7 @@ msFilterList
 -d goaliesinc.com
 -d goalkeeperstar.com
 -d goanbazzar.com
+-d goaqaba.com
 -d goaribhs.edu.bd
 -d goasexyescorts.com
 -d goasjves.org
@@ -41329,6 +41336,7 @@ msFilterList
 -d honululubag.com
 -d honyomi.info
 -d hoo.gl
+-d hoobiq.com
 -d hoodsboysuccessmanwizzsonbrightdayblesng.ydns.eu
 -d hoofdynamics.com
 -d hoogveld-service.nl
@@ -43049,6 +43057,7 @@ msFilterList
 -d ik-7.ru
 -d ik-instaling.com
 -d ik.termopanemaramures.ro
+-d ikahotel.com
 -d ikama.cal24.pl
 -d ikamel.com
 -d ikanwa.com
@@ -43619,6 +43628,7 @@ msFilterList
 -d incridea.com
 -d inctelanganatelugu.in
 -d incuba.uh.cu
+-d incubatech.mx
 -d incubation.cense.iisc.ac.in
 -d incubeglobal.com
 -d indabol.com.bo
@@ -49971,7 +49981,6 @@ msFilterList
 -d koreankidsedu.com
 -d koreanpronyc.com
 -d koreansmart.ga
--d koreashop24.com
 -d korechok.ru
 -d koreclinical-001-site4.itempurl.com
 -d korekortviborg.dk
@@ -50016,6 +50025,7 @@ msFilterList
 -d kosel.com.tr
 -d kosh.ir
 -d kosheranguilla.com
+-d kosherbansko.com
 -d kosherexpressonthe42.com
 -d koshishmarketing.com
 -d koshtir.ga
@@ -53750,6 +53760,7 @@ msFilterList
 -d lovence.vn
 -d loveps.vip
 -d loveravista.saigoncitylands.com
+-d lovesceneonline.com
 -d loveslap.com
 -d lovesolutionsastrologer.com
 -d lovesouls.ru
@@ -58230,6 +58241,7 @@ msFilterList
 -d microinvest.md
 -d microjobengine.info
 -d microjobsnepal.com
+-d micromacllc.com
 -d micromaxinformatica.com.br
 -d micromex.com
 -d micromidi.net
@@ -58510,7 +58522,6 @@ msFilterList
 -d millionaireheaven.com
 -d milliondollarlawsuit.co
 -d millionsawesomeproducts.com
--d millmarkgroup.com
 -d millsmiltinon.com
 -d milltechrecruitment.co.za
 -d milneintl.com
@@ -61124,6 +61135,7 @@ msFilterList
 -d mymedecc.com
 -d mymemories.wedding
 -d mymendez.com
+-d mymentalcoach.in
 -d mymercedesdirect.com
 -d mymidgette.com
 -d mymilld.com
@@ -62997,7 +63009,6 @@ msFilterList
 -d nhfonline.com.my
 -d nhicf.net
 -d nhinfotech.com
--d nhipcauytevietnhat.com
 -d nhlavuteloholdings.co.za
 -d nhomkinhdongtien.com
 -d nhomkinhthienbinh.com
@@ -66744,6 +66755,7 @@ msFilterList
 -d panteleevphoto.com
 -d panther-ebike.co.uk
 -d panther-hosting.co.uk
+-d pantherlifestyle.com
 -d pantiululalbab.com
 -d pantone-iq.com
 -d pantzies.com
@@ -73266,7 +73278,6 @@ msFilterList
 -d refreshnerer1510.info
 -d refreshnerer1510rb.info
 -d refreshyourteam.hu
--d refrozen.com
 -d refsc.ru
 -d refugeeair.org
 -d refugeetents.co.za
@@ -73661,6 +73672,7 @@ msFilterList
 -d republicplatonic.com
 -d repuestoscall.cl
 -d repuestoshuamani.com
+-d repuscolombia.com
 -d requestforglasswarrantycertificateandlee.duckdns.org
 -d rerereart.id
 -d rerff.info
@@ -75286,6 +75298,7 @@ msFilterList
 -d runmureed.com
 -d runmyweb.com
 -d runnected.kaiman.fr
+-d runnerbd.com
 -d runnerschool.com
 -d running-bike.com
 -d runningcrewteam.com
@@ -75710,6 +75723,7 @@ msFilterList
 -d sadfx235.duckdns.org
 -d sadgad.ru
 -d sadgosp.shop
+-d sadhuimplements.com
 -d sadiahyat.com
 -d sadiaratna.com
 -d sadiqgill.com
@@ -76479,7 +76493,6 @@ msFilterList
 -d santexindustries.com
 -d santexls-ykt.ru
 -d santexnik54.ru
--d santhai.lk
 -d santhoshibitcoinlocalmarketdropdownand.duckdns.org
 -d santiago.elmamamobil.com
 -d santiagodelgado.es
@@ -80091,6 +80104,7 @@ msFilterList
 -d sklthree.in
 -d sknews.ddnsfree.com
 -d sknfaker.com
+-d skoal.co.za
 -d skolaintellekt.ge
 -d skolanovavesnn.cz
 -d skolastudium.com
@@ -80518,6 +80532,7 @@ msFilterList
 -d smc.ps
 -d smcalive.com
 -d smccycles.com
+-d smcfurnitures.com
 -d smclarkservices.com
 -d smconstruction.com.bd
 -d smd.omginteractive.com
@@ -87508,6 +87523,7 @@ msFilterList
 -d themefolks.com
 -d themegabucks.com
 -d thememate.net
+-d thementalaspect.com
 -d thementalhealthfoundation.meltdesigndev.co.uk
 -d themenuz.com
 -d themerail.com
@@ -90066,6 +90082,7 @@ msFilterList
 -d tryonpres.org
 -d tryotium.com
 -d trypar.deve.pt
+-d trysaileggplants.com
 -d trysh.de
 -d trysocio.com
 -d trytuc.com
@@ -93439,7 +93456,6 @@ msFilterList
 -d virustreatments.empeeevents.com
 -d visa.indonesia.nl
 -d visa.org.ua
--d visaatlantis.com
 -d visadacdinh.com
 -d visadreamsoverseas.com
 -d visafile.vn
@@ -94788,6 +94804,7 @@ msFilterList
 -d webcamvriendinnen.nl
 -d webchamp.com
 -d webclicks.co.za
+-d webclientworks.xyz
 -d webcluetech.com
 -d webcollectionall.com
 -d webcompanypro.com
@@ -99106,7 +99123,6 @@ msFilterList
 -d zeroek.com
 -d zerohungerapp.com
 -d zeronde.in
--d zerone.jp
 -d zerones.biz
 -d zerophone.cc
 -d zeroratchet.000webhostapp.com
