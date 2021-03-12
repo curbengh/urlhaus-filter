@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 11 Mar 2021 12:12:53 UTC
+# Updated: Fri, 12 Mar 2021 00:12:43 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://creativecommons.org/publicdomain/zero/1.0/
@@ -6053,6 +6053,7 @@ msFilterList
 -d amyescort.de
 -d amygoldanddiamonds.com
 -d amyu.org
+-d amyzeng.net
 -d amz521.com
 -d amznetworking.com
 -d an-premium.ru
@@ -7160,6 +7161,7 @@ msFilterList
 -d appsville.global
 -d appsvision.mon-application.com
 -d apptecsa.com
+-d apptical.thatsswift.com
 -d appuppanthaadi.com
 -d appurtimart.com
 -d appworkiha.ir
@@ -14791,6 +14793,7 @@ msFilterList
 -d bridgefilmfest.net
 -d bridger.us
 -d bridgesearch.com
+-d bridgestoworkapp.com
 -d bridgeventuresllc.com
 -d briefmarkenpower.de
 -d briffe.com.br
@@ -17364,7 +17367,6 @@ msFilterList
 -d cdrconsultora.com.ar
 -d cdrdf.bsb.br
 -d cds-bd.com
--d cds.lk
 -d cdsa.tp.crea.pro
 -d cdsanit.fr
 -d cdsolutions.co.uk
@@ -21572,6 +21574,7 @@ msFilterList
 -d cricketodds.in
 -d cricketwarriors.net
 -d cricview.in
+-d criee-des-saveurs.com
 -d criesagirl.com
 -d crimea.videonablyudenie.center
 -d crimebranch.in
@@ -24447,6 +24450,7 @@ msFilterList
 -d desatisfier.com
 -d desbloqueosuniversales.com
 -d descapada.com
+-d descargar2021.moedasdigitaisgoias.online
 -d descargatela.webcindario.com
 -d descobriraurora.com.br
 -d descopera-romania.com
@@ -24723,7 +24727,6 @@ msFilterList
 -d dev.dmacourse.com
 -d dev.donclarkphotography.com
 -d dev.dosily.in
--d dev.draup.com
 -d dev.dyfedsuperfast.co.uk
 -d dev.eatvacation.com
 -d dev.edek.org.cy
@@ -25538,6 +25541,7 @@ msFilterList
 -d digitize.aravind.global
 -d digitizedental.co.uk
 -d digitizingdesigner.com
+-d digitleyhosting.com
 -d digiton.pk
 -d digitop.ooo
 -d digitour.top
@@ -27161,7 +27165,6 @@ msFilterList
 -d draprevidencia.com.br
 -d drapriscilamatsuoka.com.br
 -d draqusor.hi2.ro
--d draup.com
 -d draven.ru
 -d drawingfromeverywhere.com
 -d drawme.lakbay.lk
@@ -27400,6 +27403,7 @@ msFilterList
 -d droesepr.com
 -d drogariateixeira.com.br
 -d drohnen.ensenanzainteligente.com
+-d drohnenscout.de
 -d droitt.com
 -d drolhovaya.at
 -d dromehead.com
@@ -28152,8 +28156,10 @@ msFilterList
 -d e.valerana44.ru
 -d e.vouch.pk
 -d e10tv.com
+-d e1s33dy49griwki6.xyz
 -d e1u21kl.com
 -d e24bay.in
+-d e2d1mq13kczc9pa.xyz
 -d e2e-solution.com
 -d e2m-redesign.linuxuatwebspiders.com
 -d e2o4bd6sh2b1sjk56-fv.com
@@ -29984,7 +29990,6 @@ msFilterList
 -d emu4ios.biz
 -d emulatorgame.ir
 -d emulsiflex.com
--d emumovies.com
 -d emyhope.com
 -d emyrs-eg.lehmergroup.com
 -d en-cnd.one-drive-ms.com
@@ -31762,6 +31767,7 @@ msFilterList
 -d expresionesguerrero.com.mx
 -d expresodeportivo.com
 -d express-kleidi.gr
+-d expressaopopular.com.br
 -d expressarsetelagoas.com.br
 -d expressauto.blueweb.md
 -d expresscaralghero.com
@@ -32447,6 +32453,7 @@ msFilterList
 -d farooquie.com
 -d farozyapidenetim.com
 -d farrofresh-my.sharepoint.com
+-d farsanshop.com
 -d farsheazam.com
 -d farshzagros.com
 -d farsinvestco.ir
@@ -34242,6 +34249,7 @@ msFilterList
 -d foodplus.com.vn
 -d foodservicecompany.ru
 -d foodstyle.de
+-d foodstyle.in
 -d foodszo.com
 -d foodtalks.ro
 -d foodtoursinsorrento.com
@@ -34639,6 +34647,7 @@ msFilterList
 -d fragglepictures.de
 -d fragrancewipes.com
 -d fraisedolfi.com
+-d frajamomadrid.com
 -d frame25-dev.co.uk
 -d frameaccess.com
 -d framecraze.com
@@ -41742,6 +41751,7 @@ msFilterList
 -d hosting.tlink.vn
 -d hosting1.nl.hostsailor.com
 -d hosting113979.a2f57.netcup.net
+-d hosting152231.a2e16.netcup.net
 -d hosting2000.it
 -d hosting8493.af94e.netcup.net
 -d hostinganddomain.us
@@ -42054,7 +42064,6 @@ msFilterList
 -d hrp.meerai.eu
 -d hrpm.ca
 -d hrportal.co.il
--d hrprofi.sk
 -d hrroadlines.com
 -d hrrwn.xyz
 -d hrsgkworker.com
@@ -43208,7 +43217,6 @@ msFilterList
 -d ihatecamping.com
 -d ihatehimsomuch.com
 -d ihaveaheart.org
--d ihaveanidea.org
 -d ihax.site
 -d ihbnaoisdnasdasd.com
 -d ihbsystem.com
@@ -43548,6 +43556,7 @@ msFilterList
 -d imenbartariran.com
 -d imenbazr.com
 -d imenergo.com
+-d imenisazan.com
 -d imenizeh.ir
 -d imensanatsi.com
 -d imensandogh.com
@@ -44017,6 +44026,7 @@ msFilterList
 -d ineds.org.br
 -d ineedmoney.loan
 -d inein.mx
+-d inelite.com
 -d inengleza.ro
 -d inerboxbery.site
 -d inerino.ru
@@ -48336,6 +48346,7 @@ msFilterList
 -d kanonaden.com
 -d kanorkanor23.club
 -d kanorkanor23.ru
+-d kanpouyaku.jp
 -d kansai.com.au
 -d kansaivn.com
 -d kantauri.com
@@ -48518,6 +48529,7 @@ msFilterList
 -d kartonaza-hudetz.hr
 -d kartridzh.com
 -d kartridzhi-hp.ru
+-d kartsms.com
 -d karve.ecity.mvmms.in
 -d karyagrafis.com
 -d karyailmiah.stks.ac.id
@@ -54410,6 +54422,7 @@ msFilterList
 -d lutz-nachhilfe.de
 -d luu.li
 -d luvanstore.com
+-d luvasnitrilio.pt
 -d luvener-shop.de
 -d luvunoberyl.co.ke
 -d luvverly.com
@@ -54489,6 +54502,7 @@ msFilterList
 -d lx-666.com
 -d lxj.vvn.mybluehost.me
 -d lxkctawaa3.sindgelcct2020.email
+-d lxoyw10bipu03ilyig.com
 -d lyashko.site
 -d lybibafeliteone.com
 -d lybid-plaza.ua
@@ -54743,6 +54757,7 @@ msFilterList
 -d macleayonmanning.com
 -d macneicefruit.com
 -d macnels-com-sg.tk
+-d macnort.com.br
 -d macolis.fr
 -d macomp.co.il
 -d maconsultingpa.com
@@ -55839,6 +55854,7 @@ msFilterList
 -d makkahlivestockanddairy.com
 -d makkatravel.de
 -d makki-h.com
+-d makkinouz-groupe.com
 -d makkupaiyan.com
 -d maklog.com.br
 -d maklryanb.com
@@ -56193,6 +56209,7 @@ msFilterList
 -d manuyala.com
 -d manvandestad.nl
 -d manvdocs.com
+-d manweikeji.com
 -d manweilongchu.cn
 -d manxen.com
 -d many.abbyservertime.fun
@@ -61862,7 +61879,6 @@ msFilterList
 -d nakatika.tk
 -d nakedbeancafe.com
 -d nakedhippiesnacks.com
--d nakhlmarket.com
 -d nakit-majoma.eu
 -d nakkufoodsafetyconsults.org
 -d nakshadekho.com
@@ -63640,6 +63656,7 @@ msFilterList
 -d nitish4x.xyz
 -d nitrawhite.com.ar
 -d nitridtitana.com
+-d nitriloluvas.pt
 -d nitrixserver.eu
 -d nitrobit.ru
 -d nitronet.net
@@ -65628,7 +65645,6 @@ msFilterList
 -d online234.com
 -d online24h.biz
 -d online2u.biz
--d onlineabortionpillrx.com
 -d onlineaddaforstudy.com
 -d onlineafricaholidays.com
 -d onlinebeautymart.com
@@ -67850,6 +67866,7 @@ msFilterList
 -d pedcentral.com.br
 -d pedia.uacme.co.in
 -d pediastudios.com
+-d pedichiuramedicalaploiesti.ro
 -d pedicure-anita.nl
 -d pedidos.tucovsa.com
 -d pedidoslalacteo.com.ar
@@ -72198,6 +72215,7 @@ msFilterList
 -d quanlytram.weatherplus.vn
 -d quantangs.com
 -d quanticaelectronics.com
+-d quanticemotions.com
 -d quantifi.org
 -d quantominds.com
 -d quantrixglobalservicesltd.com
@@ -74316,6 +74334,7 @@ msFilterList
 -d reyesfitnessclub.com
 -d reyesrealestategroup.com
 -d reymo.com
+-d reynare.com
 -d reyramos.com
 -d reyvencontracting.com
 -d reza-khosravi.com
@@ -76398,6 +76417,7 @@ msFilterList
 -d sakixx.ml
 -d sakonwan.aplatoo.com
 -d sakrobazar.com
+-d sakulaundry.com
 -d sakumall.com
 -d sakura.hostenko.com
 -d sakurabacninh.com
@@ -77712,6 +77732,7 @@ msFilterList
 -d seafoundation.tg
 -d seagames.ilocosnortepnp.net
 -d seagaterecovery.com
+-d seagullsspa.com
 -d sealonbd.com
 -d sealproject.website
 -d sealquip.co.za
@@ -77816,6 +77837,7 @@ msFilterList
 -d secretariaextension.unt.edu.ar
 -d secretariaextension.unt.edu.arwp-content
 -d secretbeauty.ge
+-d secretcashout.com
 -d secretofexistence.com
 -d secretpath.xyz
 -d secrice.com
@@ -78372,6 +78394,7 @@ msFilterList
 -d serenesonny.com
 -d serenity.developmentserver.info
 -d serenityglobalholidays.co.in
+-d serenitykenya.co.ke
 -d serenitymatagorda.com
 -d serenitynailsfranklin.com
 -d serenitypoint.com
@@ -80870,7 +80893,6 @@ msFilterList
 -d smartfriendz.com
 -d smartgal.us
 -d smartglassesdataplans.com
--d smartgrocerysl.com
 -d smartguitar.vn
 -d smartholland.nl
 -d smarthomerewards.com
@@ -84553,8 +84575,8 @@ msFilterList
 -d supermercadosramirez.es
 -d supermercadostia.com
 -d supermercadoyip.com
--d supermodelglobe.com
 -d supermonmyanmar.com
+-d supernova-hostdns.us
 -d supernu.vn
 -d superpipe.ru
 -d superpositionbooks.com
@@ -85801,6 +85823,7 @@ msFilterList
 -d targetcm.net
 -d targetconstructioncompany.com
 -d targetcrm.es
+-d targeted.thatsswift.com
 -d targetin.com
 -d targetmarketing.nl
 -d targetmarketing.nldbxknoh.exe
@@ -87428,6 +87451,7 @@ msFilterList
 -d thatavilellaoficial.com.br
 -d thatoilchick.com
 -d thats-amazing.com
+-d thatsswift.com
 -d thaus.to
 -d thawani-pay.neomeric.us
 -d thayvoiphone.vn
@@ -89072,6 +89096,7 @@ msFilterList
 -d tmpfile.gq
 -d tmpressio.org
 -d tmr.pe
+-d tmrz10fxhy03ntxjf.com
 -d tmsehk2019.com
 -d tmsmedical.net
 -d tmss-ict.com
@@ -92995,6 +93020,7 @@ msFilterList
 -d vdd.c21paul.info
 -d vdhammen.com
 -d vdhwatersystemen.nl
+-d vdk10pfsny03tzfva.com
 -d vdkstatyba.lt
 -d vdmacademy.in
 -d vdnu32a.com
@@ -93565,6 +93591,7 @@ msFilterList
 -d vidrorapido.com.br
 -d vidular.es
 -d vidyabhartiekalvidyalya.com
+-d vidyasadan.com
 -d vidyutmax.com
 -d vieclam.f5mobile.vn
 -d vieclambaove.vn
@@ -93957,6 +93984,7 @@ msFilterList
 -d virustreatments.empeeevents.com
 -d visa.indonesia.nl
 -d visa.org.ua
+-d visaatlantis.com
 -d visadacdinh.com
 -d visadreamsoverseas.com
 -d visafile.vn
@@ -98425,7 +98453,6 @@ msFilterList
 -d yaldizmatbaa.com
 -d yalfinteencontre.com
 -d yalinosgb.com
--d yalla11.com
 -d yallagul.com
 -d yallamango.com
 -d yallasaffar.com
