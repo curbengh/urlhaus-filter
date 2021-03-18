@@ -18,6 +18,7 @@ cp "../src/exclude.txt" "."
 unzip -p "urlhaus.zip" | \
 # Convert DOS to Unix line ending
 dos2unix | \
+tr "[:upper:]" "[:lower:]" | \
 # Remove comment
 sed "/^#/d" > "URLhaus.csv"
 
@@ -61,6 +62,7 @@ sort -u > "urlhaus-domains-online.txt"
 ## Parse the Umbrella 1 Million
 unzip -p "top-1m-umbrella.zip" | \
 dos2unix | \
+tr "[:upper:]" "[:lower:]" | \
 # Parse domains only
 cut -f 2 -d "," | \
 grep -F "." | \
@@ -71,6 +73,7 @@ sort -u > "top-1m-umbrella.txt"
 ## Parse the Tranco 1 Million
 unzip -p "top-1m-tranco.zip" | \
 dos2unix | \
+tr "[:upper:]" "[:lower:]" | \
 # Parse domains only
 cut -f 2 -d "," | \
 grep -F "." | \
@@ -106,6 +109,9 @@ cat "urlhaus-online.txt" | \
 grep -F -f "urlhaus-top-domains.txt" | \
 sed "s/^/||/g" | \
 sed "s/$/\$all/g" > "malware-url-top-domains-online.txt"
+
+cat "urlhaus-online.txt" | \
+grep -F -f "urlhaus-top-domains.txt" > "malware-url-top-domains-raw-online.txt"
 
 
 ## Merge malware domains and URLs
