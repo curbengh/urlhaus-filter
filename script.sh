@@ -302,9 +302,9 @@ done < "malware-domains-online.txt"
 
 while read URL; do
   HOST=$(echo "$URL" | cut -d"/" -f1)
-  URI=$(echo "$URL" | sed "s/^$HOST//")
+  URI=$(echo "$URL" | sed -e "s/^$HOST//" -e "s/;/\\\;/g")
 
-  SN_RULE="alert tcp \$HOME_NET any -> \$EXTERNAL_NET [80,443] (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; content:\"GET\"; http_method; content:\"$URI\"; http_uri; nocase; content:\"$HOST\"; content:\"Host\"; http_header; classtype:trojan-activity; sid:$SID; rev:1;)"
+  SN_RULE="alert tcp \$HOME_NET any -> \$EXTERNAL_NET [80,443] (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; content:\"GET\"; http_method; content:\"$(echo $URI | cut -c -2047)\"; http_uri; nocase; content:\"$HOST\"; content:\"Host\"; http_header; classtype:trojan-activity; sid:$SID; rev:1;)"
 
   SR_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; http.method; content:\"GET\"; http.uri; content:\"$URI\"; endswith; nocase; http.host; content:\"$HOST\"; classtype:trojan-activity; sid:$SID; rev:1;)"
 
