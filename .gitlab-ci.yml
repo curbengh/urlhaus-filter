@@ -47,6 +47,7 @@ build_job:
   artifacts:
     paths:
       - tmp/
+    expire_in: 30 days
 
 deploy_job: # Trigger deploy job on curben/malware-filter
   stage: deploy
