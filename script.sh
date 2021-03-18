@@ -120,7 +120,7 @@ FIRST_LINE="! Title: Malicious URL Blocklist"
 SECOND_LINE="! Updated: $CURRENT_TIME"
 THIRD_LINE="! Expires: 1 day (update frequency)"
 FOURTH_LINE="! Homepage: https://gitlab.com/curben/urlhaus-filter"
-FIFTH_LINE="! License: https://creativecommons.org/publicdomain/zero/1.0/"
+FIFTH_LINE="! License: https://gitlab.com/curben/urlhaus-filter#license"
 SIXTH_LINE="! Source: https://urlhaus.abuse.ch/api/"
 COMMENT_ABP="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
 
