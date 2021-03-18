@@ -281,6 +281,53 @@ sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound-online.conf"
 
 
+## Temporarily disable command print
+set +x
+
+
+# Snort & Suricata
+rm -f "../urlhaus-filter-snort2-online.rules" "../urlhaus-filter-suricata-online.rules"
+
+SID="100000001"
+while read DOMAIN; do
+  SN_RULE="alert tcp \$HOME_NET any -> \$EXTERNAL_NET [80,443] (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; content:\"GET\"; http_method; content:\"$DOMAIN\"; content:\"Host\"; http_header; classtype:trojan-activity; sid:$SID; rev:1;)"
+
+  SR_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; http.method; content:\"GET\"; http.host; content:\"$DOMAIN\"; classtype:trojan-activity; sid:$SID; rev:1;)"
+
+  echo "$SN_RULE" >> "../urlhaus-filter-snort2-online.rules"
+  echo "$SR_RULE" >> "../urlhaus-filter-suricata-online.rules"
+
+  SID=$(( $SID + 1 ))
+done < "malware-domains-online.txt"
+
+while read URL; do
+  HOST=$(echo "$URL" | cut -d"/" -f1)
+  URI=$(echo "$URL" | sed "s/^$HOST//")
+
+  SN_RULE="alert tcp \$HOME_NET any -> \$EXTERNAL_NET [80,443] (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; content:\"GET\"; http_method; content:\"$URI\"; http_uri; nocase; content:\"$HOST\"; content:\"Host\"; http_header; classtype:trojan-activity; sid:$SID; rev:1;)"
+
+  SR_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; http.method; content:\"GET\"; http.uri; content:\"$URI\"; endswith; nocase; http.host; content:\"$HOST\"; classtype:trojan-activity; sid:$SID; rev:1;)"
+
+  echo "$SN_RULE" >> "../urlhaus-filter-snort2-online.rules"
+  echo "$SR_RULE" >> "../urlhaus-filter-suricata-online.rules"
+
+  SID=$(( $SID + 1 ))
+done < "malware-url-top-domains-raw-online.txt"
+
+## Re-enable command print
+set -x
+
+cat "../urlhaus-filter-snort2-online.rules" | \
+sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1s/Domains Blocklist/URL Snort2 Ruleset/" > "../urlhaus-filter-snort2-online.rules.temp"
+mv "../urlhaus-filter-snort2-online.rules.temp" "../urlhaus-filter-snort2-online.rules"
+
+cat "../urlhaus-filter-suricata-online.rules" | \
+sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1s/Domains Blocklist/URL Suricata Ruleset/" > "../urlhaus-filter-suricata-online.rules.temp"
+mv "../urlhaus-filter-suricata-online.rules.temp" "../urlhaus-filter-suricata-online.rules"
+
+
 ## IE blocklist
 COMMENT_IE="msFilterList\n$COMMENT\n: Expires=1\n#"
 COMMENT_ONLINE_IE="msFilterList\n$COMMENT_ONLINE\n: Expires=1\n#"
