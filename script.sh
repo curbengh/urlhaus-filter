@@ -325,20 +325,14 @@ done < "malware-url-top-domains-raw-online.txt"
 ## Re-enable command print
 set -x
 
-cat "../urlhaus-filter-snort2-online.rules" | \
-sed '1 i\'"$COMMENT_ONLINE"'' | \
-sed "1s/Domains Blocklist/URL Snort2 Ruleset/" > "../urlhaus-filter-snort2-online.rules.temp"
-mv "../urlhaus-filter-snort2-online.rules.temp" "../urlhaus-filter-snort2-online.rules"
+sed -i '1 i\'"$COMMENT_ONLINE"'' "../urlhaus-filter-snort2-online.rules"
+sed -i "1s/Domains Blocklist/URL Snort2 Ruleset/" "../urlhaus-filter-snort2-online.rules"
 
-cat "../urlhaus-filter-snort3-online.rules" | \
-sed '1 i\'"$COMMENT_ONLINE"'' | \
-sed "1s/Domains Blocklist/URL Snort3 Ruleset/" > "../urlhaus-filter-snort3-online.rules.temp"
-mv "../urlhaus-filter-snort3-online.rules.temp" "../urlhaus-filter-snort3-online.rules"
+sed -i '1 i\'"$COMMENT_ONLINE"'' "../urlhaus-filter-snort3-online.rules"
+sed -i "1s/Domains Blocklist/URL Snort3 Ruleset/" "../urlhaus-filter-snort3-online.rules"
 
-cat "../urlhaus-filter-suricata-online.rules" | \
-sed '1 i\'"$COMMENT_ONLINE"'' | \
-sed "1s/Domains Blocklist/URL Suricata Ruleset/" > "../urlhaus-filter-suricata-online.rules.temp"
-mv "../urlhaus-filter-suricata-online.rules.temp" "../urlhaus-filter-suricata-online.rules"
+sed -i '1 i\'"$COMMENT_ONLINE"'' "../urlhaus-filter-suricata-online.rules"
+sed -i "1s/Domains Blocklist/URL Suricata Ruleset/" "../urlhaus-filter-suricata-online.rules"
 
 
 ## IE blocklist
