@@ -286,15 +286,20 @@ set +x
 
 
 # Snort & Suricata
-rm -f "../urlhaus-filter-snort2-online.rules" "../urlhaus-filter-suricata-online.rules"
+rm -f "../urlhaus-filter-snort2-online.rules" \
+  "../urlhaus-filter-snort3-online.rules" \
+  "../urlhaus-filter-suricata-online.rules"
 
 SID="100000001"
 while read DOMAIN; do
   SN_RULE="alert tcp \$HOME_NET any -> \$EXTERNAL_NET [80,443] (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; content:\"GET\"; http_method; content:\"$DOMAIN\"; content:\"Host\"; http_header; classtype:trojan-activity; sid:$SID; rev:1;)"
 
+  SN3_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; http_header:field host; content:\"$DOMAIN\",nocase; classtype:trojan-activity; sid:$SID; rev:1;)"
+
   SR_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; http.method; content:\"GET\"; http.host; content:\"$DOMAIN\"; classtype:trojan-activity; sid:$SID; rev:1;)"
 
   echo "$SN_RULE" >> "../urlhaus-filter-snort2-online.rules"
+  echo "$SN3_RULE" >> "../urlhaus-filter-snort3-online.rules"
   echo "$SR_RULE" >> "../urlhaus-filter-suricata-online.rules"
 
   SID=$(( $SID + 1 ))
@@ -306,9 +311,12 @@ while read URL; do
 
   SN_RULE="alert tcp \$HOME_NET any -> \$EXTERNAL_NET [80,443] (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; content:\"GET\"; http_method; content:\"$(echo $URI | cut -c -2047)\"; http_uri; nocase; content:\"$HOST\"; content:\"Host\"; http_header; classtype:trojan-activity; sid:$SID; rev:1;)"
 
+  SN3_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; http_header:field host; content:\"$HOST\",nocase; http_uri; content:\"$URI\",nocase; classtype:trojan-activity; sid:$SID; rev:1;)"
+
   SR_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; http.method; content:\"GET\"; http.uri; content:\"$URI\"; endswith; nocase; http.host; content:\"$HOST\"; classtype:trojan-activity; sid:$SID; rev:1;)"
 
   echo "$SN_RULE" >> "../urlhaus-filter-snort2-online.rules"
+  echo "$SN3_RULE" >> "../urlhaus-filter-snort3-online.rules"
   echo "$SR_RULE" >> "../urlhaus-filter-suricata-online.rules"
 
   SID=$(( $SID + 1 ))
@@ -321,6 +329,11 @@ cat "../urlhaus-filter-snort2-online.rules" | \
 sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Domains Blocklist/URL Snort2 Ruleset/" > "../urlhaus-filter-snort2-online.rules.temp"
 mv "../urlhaus-filter-snort2-online.rules.temp" "../urlhaus-filter-snort2-online.rules"
+
+cat "../urlhaus-filter-snort3-online.rules" | \
+sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1s/Domains Blocklist/URL Snort3 Ruleset/" > "../urlhaus-filter-snort3-online.rules.temp"
+mv "../urlhaus-filter-snort3-online.rules.temp" "../urlhaus-filter-snort3-online.rules"
 
 cat "../urlhaus-filter-suricata-online.rules" | \
 sed '1 i\'"$COMMENT_ONLINE"'' | \
