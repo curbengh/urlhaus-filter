@@ -594,6 +594,9 @@ rule-files:
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-unbound-online.conf
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter.tpl
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-online.tpl
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-snort2-online.rules
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-snort3-online.rules
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-suricata-online.rules
 
 </details>
 
