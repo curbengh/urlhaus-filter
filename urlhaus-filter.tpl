@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 26 Mar 2021 00:12:29 UTC
+# Updated: Fri, 26 Mar 2021 12:12:41 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1363,6 +1363,7 @@ msFilterList
 -d 5amers.com.au
 -d 5brightsiblings.com
 -d 5buckplugin.com
+-d 5byvrw.sn.files.1drv.com
 -d 5ccmyoung.com
 -d 5cde8460-idc.optehazeldean.co.zajcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 -d 5cero2.zinkweb.es
@@ -3257,7 +3258,6 @@ msFilterList
 -d advantagenature.com
 -d advantageplusmedia.com
 -d advantagevideosystems.com
--d advantechnologies.com
 -d advanter.ua
 -d advantiixspa.tk
 -d advavoltiberica.com
@@ -3494,6 +3494,7 @@ msFilterList
 -d afmahsports.com
 -d afmaldives.org
 -d afmichicago.org
+-d afmmtw.am.files.1drv.com
 -d afmobgne.com
 -d afmogopne.com
 -d afnoasjfn.net
@@ -4392,7 +4393,6 @@ msFilterList
 -d akrillart.ru
 -d akrn12.com
 -d akronmasjid.com
--d akrvt04.top
 -d aksamdekorasyon.com
 -d aksaraybelediyesi.tv
 -d aksaraycocukaktivitemerkezi.com
@@ -6411,7 +6411,6 @@ msFilterList
 -d angliainternational.com
 -d anglickapohoda.cz
 -d angloeastern.ga
--d angloteste.bigprime.com.br
 -d angobanguzer.com
 -d angryeggroll.com
 -d angthong.nfe.go.th
@@ -7673,7 +7672,6 @@ msFilterList
 -d arie-industrie.com
 -d ariefsetiawan.com
 -d arielaspa.com
--d arielcarter.com
 -d arielluxhair.com
 -d arieloutdoors.com
 -d arieloutdoors.in
@@ -12412,6 +12410,7 @@ msFilterList
 -d bierne-les-villages.fr
 -d biese.eu
 -d bietthubien.org
+-d bietthudep902.com
 -d bietthulambach.com
 -d bietthulienkegamuda.net
 -d bietthumau.com
@@ -13649,6 +13648,7 @@ msFilterList
 -d blog.thefurnituremarket.co.uk
 -d blog.thejobstack.com
 -d blog.thelmh.top
+-d blog.theodo.com
 -d blog.thewebcake.com
 -d blog.thoai.vn
 -d blog.threadless.com
@@ -16487,6 +16487,7 @@ msFilterList
 -d canexkhalij.com
 -d caneyvalleycorvetteclub.com
 -d canfrec.com.mx
+-d canghaisan.com
 -d cangol.com
 -d canguakho.net
 -d canho-ezland.com
@@ -17518,6 +17519,7 @@ msFilterList
 -d cdn.timebuyer.org
 -d cdn.top4top.net
 -d cdn.truelife.vn
+-d cdn.xiaoduoai.com
 -d cdn.zecast.com
 -d cdn3.msetup.download
 -d cdn4.css361.com
@@ -19725,7 +19727,6 @@ msFilterList
 -d cmecobrancas.com
 -d cmelik.com
 -d cmessagers.com
--d cmg.asia
 -d cmg.ma
 -d cmgroup.com.ua
 -d cmhighschool.edu.bd
@@ -20452,6 +20453,7 @@ msFilterList
 -d complience.com
 -d compln.net
 -d component.pw
+-d components.technologymindz.com
 -d composecv.com
 -d composite.be
 -d compoundy.com
@@ -22274,7 +22276,6 @@ msFilterList
 -d cud.by
 -d cudol.com
 -d cudownyogrod.com
--d cuencadistributions.com
 -d cuentocontigo.net
 -d cuestionspirits.com
 -d cuezo.tk
@@ -27206,6 +27207,7 @@ msFilterList
 -d down.qm188.com
 -d down.qqfarmer.com.cn
 -d down.sepost-fe.top
+-d down.sepost-fgw.top
 -d down.sepost-fj.top
 -d down.sepost-ge.top
 -d down.sepost-jf.top
@@ -27335,6 +27337,7 @@ msFilterList
 -d downsetup0001.com
 -d downviewimaging.com
 -d downwingbuttons.site
+-d downza.91speed.com.cn
 -d dowseservices.com
 -d dowsfbtool.com
 -d doxa.ca
@@ -30737,7 +30740,6 @@ msFilterList
 -d epageqatar.com
 -d epaint-village.com
 -d epalliconsortium.com
--d epalvito.com
 -d epaperbox.com.br
 -d epaviste-marseille.com
 -d epaviste-marseille.fr
@@ -31532,7 +31534,6 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-central-1.protection.sophos.com
 -d eu-easy.com
--d eu.wildfire.paloaltonetworks.com
 -d eu1.salesforce.com
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -32327,7 +32328,6 @@ msFilterList
 -d f.pastdobi.ru
 -d f.regardisperfectshild.ru
 -d f.tolganfor.ru
--d f.top4top.io
 -d f.top4top.net
 -d f.tsuyogari.ru
 -d f.zombieled.ru
@@ -33670,6 +33670,7 @@ msFilterList
 -d files.dropmybin.me
 -d files.enjin.com
 -d files.gathercdn.com
+-d files.hrloo.com
 -d files.l-d.tech
 -d files.martellexpress.us
 -d files.mirai-2viv.vn
@@ -39658,6 +39659,7 @@ msFilterList
 -d h.epelcdn.com
 -d h.eurotrading.com.pl
 -d h.j990981.ru
+-d h.top4top.io
 -d h.valerana44.ru
 -d h002295863.nichost.ru
 -d h0h.org
@@ -43069,7 +43071,6 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
--d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
 -d i.ooxx.ooo
@@ -49109,7 +49110,6 @@ msFilterList
 -d karnatakatoursandtravels.com
 -d karnival.es
 -d karnopark.ir
--d karolinkabulgaria.com
 -d karoobikepackers.co.za
 -d karpa.bounceme.net
 -d karpasbulvar17.com
@@ -50313,6 +50313,7 @@ msFilterList
 -d kizlardunyasi.com
 -d kj.xxxoc.com
 -d kjbm4.mof.gov.cn
+-d kjbm8.mof.gov.cn
 -d kjcpromo.com
 -d kjf-designs.com
 -d kjg-schiefbahn.de
@@ -54744,6 +54745,7 @@ msFilterList
 -d lp-mds.com
 -d lp.anakruslle.com
 -d lp.app4you.app.br
+-d lp.carrduci.com
 -d lp.crossfit4475.pt
 -d lp.definerisco.com
 -d lp.difusodesign.com
@@ -59698,7 +59700,6 @@ msFilterList
 -d minhasaudemaxima.xyz
 -d minhdamhotel.com
 -d minhhai-exim.com
--d minhkiet.com.vn
 -d minhnguyenblog.com
 -d minhphatstone.com
 -d minhphucomputer.com
@@ -60109,6 +60110,7 @@ msFilterList
 -d mkw.ba
 -d mkwu.borneo.ac.id
 -d mkwxstarserver17km.xyz
+-d mky.com
 -d mkzone.com.ng
 -d ml-moto.biz
 -d ml.com.watchdogdns.duckdns.org
@@ -61486,6 +61488,7 @@ msFilterList
 -d mtcinteriordesign.co.uk
 -d mtcr.co.za
 -d mtcuadrado.com
+-d mtdc.com.my
 -d mte1.cn
 -d mtechagency.com
 -d mteestore.com
@@ -64075,6 +64078,7 @@ msFilterList
 -d nhadatquan2.xyz
 -d nhadatthienthoi.com
 -d nhadephungyen.com
+-d nhadepkientruc.net
 -d nhahangdaihung.com
 -d nhahanghaivuong.vn
 -d nhahanglegiang.vn
@@ -67040,6 +67044,7 @@ msFilterList
 -d oryano.us
 -d orygin.co.za
 -d oryktaco.com
+-d orzel.in
 -d orzelconsulting.com
 -d orzessek.de
 -d orzhenikingbudoc.website
@@ -70246,6 +70251,7 @@ msFilterList
 -d pmrimestdylimtdvenst.dns.army
 -d pmrimestdylimtdvests.dns.army
 -d pmrimestdylimtstwork.dns.army
+-d pmrimewsdylimtwswods.dns.army
 -d pms.stercomagento.com
 -d pmsports.de
 -d pmt-chan.com
@@ -74092,6 +74098,7 @@ msFilterList
 -d ravenssus.xyz
 -d ravenswave.com
 -d raveoncorp.com
+-d ravepsychiatry.com
 -d ravesolutions.nl
 -d ravesonline.in
 -d ravi-tools.com
@@ -76739,6 +76746,7 @@ msFilterList
 -d russchine2wsdymapaws.dns.navy
 -d russchine2wsdyspecia20plumbingmaterialnb.duckdns.org
 -d russchine2wsdyspecial6plumbingjkmaterial.duckdns.org
+-d russchinewsdy2opelmn.dns.army
 -d russelleggleston.com
 -d russellgracie.co.uk
 -d russellhoover.com
@@ -79519,7 +79527,6 @@ msFilterList
 -d service.dawat.fr
 -d service.drnjithendran.com
 -d service.eftformotherissues.com
--d service.ezsoftwareupdater.com
 -d service.heritageimagingcenter.com
 -d service.hybridhomesteam.com
 -d service.idealfurnitureoutlet.com
@@ -81796,6 +81803,7 @@ msFilterList
 -d slrpros.com
 -d sls-eg.com
 -d sls-security.ru
+-d slsbearings.com.sg
 -d slservicebd.com
 -d slubnefury.pl
 -d slugard.5gbfree.com
@@ -86509,6 +86517,7 @@ msFilterList
 -d tacefradio.com
 -d tach-longusa.com
 -d tachibana-kikka.xyz
+-d tachira24horas.com
 -d tachyonicecho.com
 -d tacloban.gov.ph
 -d tacnaemprendedora.pe
@@ -91669,6 +91678,7 @@ msFilterList
 -d trucker-hilfe.de
 -d truckerzone.net
 -d truckprt.com
+-d trucks.softwarenecessities.com
 -d truckshops.ir
 -d trucksoxmoor.com
 -d truckturbina.ru
@@ -93239,6 +93249,7 @@ msFilterList
 -d update-prog.com
 -d update-res.100public.com
 -d update.5v.pl
+-d update.7h4uk.com
 -d update.att.tools
 -d update.bracncet.net
 -d update.bruss.org.ru
@@ -93479,12 +93490,10 @@ msFilterList
 -d url.246546.com
 -d url.57569.fr.snd52.ch
 -d url.sg
--d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
 -d url9823.ville.labrecque.qc.ca
 -d urlac.de
--d urldefense.us
 -d urleddrug.at
 -d urlfrance.fr
 -d urlm.ir
@@ -98428,6 +98437,7 @@ msFilterList
 -d wsdypmrimelimtdvewsd.dns.army
 -d wsdyrkkrsuccessmorev.dns.army
 -d wsdyrkkrsuccessmoven.dns.army
+-d wsdyrmtcntlfarmtwsvb.dns.army
 -d wsdyshgshg2induswsjg.dns.army
 -d wsdyshgshgnationalindustrialandgoogledns.duckdns.org
 -d wsdyshgshgnationalobjindustrialat23fty.duckdns.org
@@ -98626,6 +98636,7 @@ msFilterList
 -d wyndhamatduran.com
 -d wynn838.com
 -d wyomingauthors.org
+-d wyptk.com
 -d wyredsecurity.com
 -d wyszx.jihaose.cn
 -d wywoznieczystosci.pomorze.pl
