@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 26 Mar 2021 12:12:41 UTC
+# Updated: Sat, 27 Mar 2021 00:12:29 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3573,6 +3573,7 @@ msFilterList
 -d afrology.com
 -d afromindcs.com
 -d afrominingtz.com
+-d afroozsazan.com
 -d afroozshimi.com
 -d afroperifa.com
 -d afrorelationships.com
@@ -4361,6 +4362,7 @@ msFilterList
 -d akitaugandasafaris.com
 -d akiteksupra.com.my
 -d akito.be
+-d akivj07.top
 -d akktis.com
 -d akkurtmadencilik.com
 -d akleigh.com
@@ -7818,6 +7820,7 @@ msFilterList
 -d arnela.nl
 -d arneteubel.com
 -d arnikomeb.ru
+-d arnolddraft.com
 -d arnoldmodelsearch.com.au
 -d arnoldscreekps.vic.edu.au
 -d arnoldthomasbecker.com.au
@@ -8910,6 +8913,7 @@ msFilterList
 -d atn24live.com
 -d atncare.in
 -d atnea.org
+-d atnetech.com
 -d atnimanvilla.com
 -d atnoinc.com
 -d atoam.bid
@@ -12389,6 +12393,7 @@ msFilterList
 -d biegtkaczy.cba.pl
 -d bieking.cn
 -d bielden.net
+-d bieldruk.pl
 -d bienangel.com
 -d bienbaogiaothong.top
 -d biendaoco.com
@@ -19276,6 +19281,7 @@ msFilterList
 -d classpharma.com
 -d classroom.live
 -d classydiet.com
+-d classyfashionbd.com
 -d classywonders.com
 -d clauberg.tools
 -d claudiacrobatia.com
@@ -23614,7 +23620,6 @@ msFilterList
 -d dbravo.pro
 -d dbs-ebank.com
 -d dbsa-dream.com
--d dbsandbox.ca
 -d dbsenvironmental.co.uk
 -d dbsgear.com
 -d dbsktoporder.yolasite.com
@@ -24196,6 +24201,7 @@ msFilterList
 -d dementedprops.com
 -d demeter.icu
 -d demetrio.pl
+-d demetris9127f.com
 -d demex.ro
 -d demign.com
 -d demirelplastik.com
@@ -25806,6 +25812,7 @@ msFilterList
 -d digitalumesh.tech
 -d digitalvriksh.com
 -d digitalwebber.com.au
+-d digitalwebcreations.com
 -d digitalwebexperts.com
 -d digitalxbd.com
 -d digitalzapping.com
@@ -31906,6 +31913,7 @@ msFilterList
 -d evrosvjaz.ru
 -d evsafir.com
 -d evsaspot.com
+-d evsom.com.br
 -d evta.info
 -d evutt.ee
 -d evytech.co.il
@@ -32971,6 +32979,7 @@ msFilterList
 -d fatassfoodblog.com
 -d fatburningmachine.co
 -d fatcowcoupon.us
+-d fate3.xyz
 -d fatedlove888.com
 -d fatek.untad.ac.id
 -d fatemehmahmoudi.com
@@ -34071,6 +34080,7 @@ msFilterList
 -d fit-school.ru
 -d fit.develab.mx
 -d fit.yazhouxingti.com
+-d fit2sport.in
 -d fitaddictbkk.com
 -d fitbano.com
 -d fitbros.com.au
@@ -40236,6 +40246,7 @@ msFilterList
 -d hardwoodcolor.com
 -d hardwoodquote.net
 -d hardworkingmarketing.com
+-d hardy-parker27ea.com
 -d hareketegecirir.com
 -d haretionrs.club
 -d harga-toyotasemarang.com
@@ -49457,6 +49468,7 @@ msFilterList
 -d keistadweb.nl
 -d keita173.net
 -d keitauniv.keita.ae
+-d keith2004-mortgage.com
 -d keithdaley.co.uk
 -d keithdougherty.com
 -d keithpritchard.co.uk
@@ -50234,6 +50246,7 @@ msFilterList
 -d kirunak.org
 -d kisagy.hu
 -d kisah.allnws.com
+-d kisano.org
 -d kiselev27.ru
 -d kiseong.co.kr
 -d kisfino.com
@@ -54290,6 +54303,7 @@ msFilterList
 -d logeetab-tumes.com
 -d logicalscooters.com
 -d logicaltechsolutions.ca
+-d logicarts.in
 -d logicautomation.eu
 -d logiccode.net
 -d logicielsperrenoud.fr
@@ -59391,6 +59405,7 @@ msFilterList
 -d mifleshlight.com
 -d mifreightbd.com
 -d mifysolutions.com
+-d mig-man.de
 -d migandhi5253.com
 -d might.c0.pl
 -d migmon.club
@@ -60267,6 +60282,7 @@ msFilterList
 -d mnpasalubong.com
 -d mnquotes.com
 -d mnrr.space
+-d mns.media
 -d mnsdev.net
 -d mnsoorysoemsystems.com
 -d mnt.unq.gtranzit.com
@@ -60966,6 +60982,7 @@ msFilterList
 -d moses-kelley.com
 -d mosfettech.com
 -d mosgasclub.ru
+-d moshahin.net
 -d moshauer.de
 -d moshaveremohtava.com
 -d moshene.co.ke
@@ -61913,7 +61930,6 @@ msFilterList
 -d mvid.com
 -d mvidl.site
 -d mvisionproperties.com
--d mvldesign.ca
 -d mvm368.com
 -d mvmskpd.com
 -d mvns.railfan.net
@@ -67011,6 +67027,7 @@ msFilterList
 -d orozel.ch
 -d orpb.fr
 -d orplifestyle.com
+-d orpod.ru
 -d orpon24.com
 -d orquestajoaquinylosbandidos.com
 -d orrellparkcommun.users42.interdns.co.uk
@@ -67727,6 +67744,7 @@ msFilterList
 -d pakakhontos.top
 -d pakardobi.co
 -d pakarkonveksi.com
+-d pakatshop.com
 -d pakcountrysecurity.com
 -d pakdeals.store
 -d pakdesighee.com
@@ -68626,6 +68644,7 @@ msFilterList
 -d pd0rt.nl
 -d pd2iyml.com
 -d pdaindore.com
+-d pdamkarawang.id
 -d pdecorsourcing.in
 -d pdedas.com
 -d pdf-archive.press
@@ -70002,6 +70021,7 @@ msFilterList
 -d planex-001-site5.atempurl.com
 -d planexplanation.com
 -d planexsolution.com
+-d plangosh27a.com
 -d planikafires.gr
 -d planitsolutions.co.nz
 -d planktonik.hu
@@ -70069,6 +70089,7 @@ msFilterList
 -d platinumsystemsinc.com
 -d platinumvas.com
 -d platisher.xyz
+-d platovietnam.com.vn
 -d plaxury.com
 -d play-movie.xyz
 -d play.acousticify.com
@@ -77969,6 +77990,7 @@ msFilterList
 -d sarahleonardteam.com
 -d sarahmpetersonfoundation.org
 -d sarahpardini.com.br
+-d sarai7227dl.com
 -d saraikani.com
 -d sarakem.cl
 -d saralancaster.co.uk
@@ -90940,6 +90962,7 @@ msFilterList
 -d toyter.com
 -d toytips.com
 -d tozcftdl.xyz
+-d toziba.ir
 -d tp-alborz.ir
 -d tp19.cn
 -d tpagentura.lv
@@ -93097,6 +93120,7 @@ msFilterList
 -d unitedwsdy5defenceforgorvermentsocialeme.duckdns.org
 -d unitedwsdykesokowsbv.dns.army
 -d unitedwsdykesokowsgs.dns.army
+-d unitedwsdykesokowsku.dns.army
 -d unitedwsdykesokowsri.dns.navy
 -d unitedyfl.com
 -d unitenrk.com
@@ -95177,6 +95201,7 @@ msFilterList
 -d vircom.cz
 -d virendraitibagari.com
 -d virfx.net
+-d virgie-will27pn.com
 -d virgilss.ml
 -d virginiabuddhisttemple.org
 -d virginie.exstyle.fr
@@ -98424,6 +98449,7 @@ msFilterList
 -d wsdykung38communicationtarisupliermgapc.duckdns.org
 -d wsdykungsb2gotchtsub.dns.army
 -d wsdykungsb2gotchtwsp.dns.army
+-d wsdykungsb2talenwsmz.dns.army
 -d wsdymsloginvestmwsqd.dns.army
 -d wsdymsloginvestmwsrw.dns.army
 -d wsdymsnsndyemkemabqa.dns.army
@@ -98447,6 +98473,7 @@ msFilterList
 -d wsdyshgshgnationalobjindustrialatwsyqw.duckdns.org
 -d wsdysmlfleconsultationlifesecurecen6gla.duckdns.org
 -d wsdysuresb1interwsnt.dns.army
+-d wsdysuresbonescageqa.dns.army
 -d wsdytheviejupcazfews.dns.navy
 -d wsdytheviejupcazwsdf.dns.army
 -d wsdytheviejupcazwspl.dns.army
