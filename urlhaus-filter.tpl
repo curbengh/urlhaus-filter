@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 27 Mar 2021 00:12:29 UTC
+# Updated: Sat, 27 Mar 2021 12:12:22 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -242,6 +242,7 @@ msFilterList
 -d 123moviesfx.com
 -d 123sellfast.com
 -d 123sex.co
+-d 123tadi.com
 -d 123xyz.xyz
 -d 124.com.ua
 -d 124.cpanel.realwebsitesite.com
@@ -1867,7 +1868,6 @@ msFilterList
 -d a.doko.moe
 -d a.gg.fm
 -d a.heritageandterre.com
--d a.pomf.cat
 -d a.pomf.se
 -d a.pomf.space
 -d a.pomf.su
@@ -1878,6 +1878,7 @@ msFilterList
 -d a.seeanu.ru
 -d a.teamworx.ph
 -d a.tolganfor.ru
+-d a.top4top.io
 -d a.turnuvam.org
 -d a.uchi.moe
 -d a.xiazai163.com
@@ -3725,7 +3726,6 @@ msFilterList
 -d agenza18.ayz.pl
 -d agenziabalestri.it
 -d agenziadiviaggidinozzetorino.it
--d agenziainformazioni.icu
 -d agepsed.org
 -d agereversalcreamam.com
 -d agernatura.com
@@ -4395,6 +4395,7 @@ msFilterList
 -d akrillart.ru
 -d akrn12.com
 -d akronmasjid.com
+-d akrvt04.top
 -d aksamdekorasyon.com
 -d aksaraybelediyesi.tv
 -d aksaraycocukaktivitemerkezi.com
@@ -4449,6 +4450,7 @@ msFilterList
 -d akvarij.org
 -d akvilhelmova.cz
 -d akwamax.com
+-d akwer03.top
 -d akybron.hu
 -d akzharkin.kz
 -d akznqw.com
@@ -6413,6 +6415,7 @@ msFilterList
 -d angliainternational.com
 -d anglickapohoda.cz
 -d angloeastern.ga
+-d angloteste.bigprime.com.br
 -d angobanguzer.com
 -d angryeggroll.com
 -d angthong.nfe.go.th
@@ -7060,7 +7063,6 @@ msFilterList
 -d app.boxrcdn.com
 -d app.bridgeimpex.org
 -d app.calag.at
--d app.casetabs.com
 -d app.catholicchurch.co.in
 -d app.choiphui.com
 -d app.cloudindustry.net
@@ -10115,6 +10117,7 @@ msFilterList
 -d babytoys.life
 -d babyvogel.nl
 -d babzon.club
+-d bac.edu.my
 -d bacamanect.com
 -d baccaosutritue.vn
 -d baceldeniz.com
@@ -17524,7 +17527,6 @@ msFilterList
 -d cdn.timebuyer.org
 -d cdn.top4top.net
 -d cdn.truelife.vn
--d cdn.xiaoduoai.com
 -d cdn.zecast.com
 -d cdn3.msetup.download
 -d cdn4.css361.com
@@ -18685,7 +18687,6 @@ msFilterList
 -d cholaholidays.com
 -d cholesterol-ache.xyz
 -d chomptruck.com
--d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongziyun.com
@@ -20459,7 +20460,6 @@ msFilterList
 -d complience.com
 -d compln.net
 -d component.pw
--d components.technologymindz.com
 -d composecv.com
 -d composite.be
 -d compoundy.com
@@ -20517,6 +20517,7 @@ msFilterList
 -d computerhome24.com
 -d computerhungary.hu
 -d computerjungle.it
+-d computerkolkata.com
 -d computerland.in
 -d computermegamart.com
 -d computerpete.com
@@ -22250,7 +22251,6 @@ msFilterList
 -d cuadros.pe
 -d cuahangphongthuy.net
 -d cuahangstore.com
--d cuahangvattu.com
 -d cualtis.com
 -d cuanhomxingfanhapkhau.com
 -d cuasotinhoc.net
@@ -22673,6 +22673,7 @@ msFilterList
 -d d.teamworx.ph
 -d d.techmartbd.com
 -d d.top4top.net
+-d d.ttr3p.com
 -d d04.data39.helldata.com
 -d d0wnl0ads.online
 -d d1.amobbs.com
@@ -24641,6 +24642,7 @@ msFilterList
 -d deposayim.ml
 -d depositoclara.com.br
 -d depot7.com
+-d depozituldegeneratoare.ro
 -d depraetere.net
 -d deprealty.ru
 -d depressionted.com
@@ -25694,7 +25696,6 @@ msFilterList
 -d digihop.cyou
 -d digiiital.co.uk
 -d digikow.000webhostapp.com
--d digilander.libero.it
 -d digileads.ae
 -d digilib.dianhusada.ac.id
 -d digim.asia
@@ -26914,6 +26915,7 @@ msFilterList
 -d don-xalat.ru
 -d don.viameventos.com.br
 -d donagracia.com
+-d donaldcity.club
 -d donaldsmithforsheriff.com
 -d donaldtaylor.ca
 -d donamaria-lb.com
@@ -27314,7 +27316,6 @@ msFilterList
 -d download.zjsyawqj.cn
 -d download5.77169.com
 -d download5.bossran2018.com
--d downloaddd.cf
 -d downloaddd.gq
 -d downloadfileserver.space
 -d downloadforfrees.me
@@ -30747,6 +30748,7 @@ msFilterList
 -d epageqatar.com
 -d epaint-village.com
 -d epalliconsortium.com
+-d epalvito.com
 -d epaperbox.com.br
 -d epaviste-marseille.com
 -d epaviste-marseille.fr
@@ -32336,6 +32338,7 @@ msFilterList
 -d f.pastdobi.ru
 -d f.regardisperfectshild.ru
 -d f.tolganfor.ru
+-d f.top4top.io
 -d f.top4top.net
 -d f.tsuyogari.ru
 -d f.zombieled.ru
@@ -35886,6 +35889,7 @@ msFilterList
 -d fv6.failiem.lv
 -d fv8.failiem.lv
 -d fv9-1.failiem.lv
+-d fv9-2.failiem.lv
 -d fvbrc.com
 -d fvkreklam.com
 -d fvsvendaonline.com.br
@@ -43089,7 +43093,6 @@ msFilterList
 -d i.ptfecablemanufacturer.com
 -d i.sfu.edu.ph
 -d i.thechinesemuslim.com
--d i.top4top.io
 -d i.valerana44.ru
 -d i03kf0g2bd9papdx.com
 -d i0avgy.com
@@ -49528,6 +49531,7 @@ msFilterList
 -d kelvinnikkel.com
 -d kelwinsales.com
 -d kelzonestopclothing.website
+-d kemahasiswaan.um.ac.id
 -d kemahasiswaan.umsida.ac.id
 -d kemahasiswaan.unair.ac.id
 -d kemalerkol.net
@@ -50326,7 +50330,6 @@ msFilterList
 -d kizlardunyasi.com
 -d kj.xxxoc.com
 -d kjbm4.mof.gov.cn
--d kjbm8.mof.gov.cn
 -d kjcpromo.com
 -d kjf-designs.com
 -d kjg-schiefbahn.de
@@ -50655,7 +50658,6 @@ msFilterList
 -d kodim0112sabang.com
 -d kodingeko.com
 -d kodip.nfile.net
--d kodjdsjsdjf.tk
 -d kodlacan.site
 -d kodmuje.com
 -d kodolios.000webhostapp.com
@@ -55491,6 +55493,7 @@ msFilterList
 -d madagascarfoment.ru
 -d madagolf.com
 -d madalozzosistemas.com.br
+-d madame-coccinelle.fr
 -d madamemesquita.app4you.app.br
 -d madametood.com
 -d madancpa.com
@@ -58778,7 +58781,6 @@ msFilterList
 -d menziesadvisory-my.sharepoint.com
 -d menzway.com
 -d meogiambeo.com
--d meohaybotui.com
 -d meolamdephay.com
 -d mepsgen.com
 -d mera.ddns.net
@@ -59715,6 +59717,7 @@ msFilterList
 -d minhasaudemaxima.xyz
 -d minhdamhotel.com
 -d minhhai-exim.com
+-d minhkiet.com.vn
 -d minhnguyenblog.com
 -d minhphatstone.com
 -d minhphucomputer.com
@@ -59767,7 +59770,6 @@ msFilterList
 -d ministryoftransport.gov.gi
 -d minitrium.com
 -d miniyam.com
--d minjusticedh.cf
 -d minmester.no
 -d minmin96.xyz
 -d minmohd.com
@@ -59974,6 +59976,7 @@ msFilterList
 -d misterpearl.com
 -d mistersanji.com
 -d misterson.com
+-d misterysnith.com
 -d mistikmarket.com
 -d mistore.com.au
 -d mistransport.pl
@@ -60125,7 +60128,6 @@ msFilterList
 -d mkw.ba
 -d mkwu.borneo.ac.id
 -d mkwxstarserver17km.xyz
--d mky.com
 -d mkzone.com.ng
 -d ml-moto.biz
 -d ml.com.watchdogdns.duckdns.org
@@ -63623,7 +63625,6 @@ msFilterList
 -d new.mylicense.ca
 -d new.myoc.com.au
 -d new.neudekorieren.com
--d new.newton.co.id
 -d new.odingrad.com
 -d new.outfitsbrand.com
 -d new.pagin.sk
@@ -63881,7 +63882,6 @@ msFilterList
 -d newtemplate.testingao.com
 -d newtestamentbaptistchurch.net
 -d newtogo.airobotheworld.com
--d newton.co.id
 -d newtoncampbellyoga.com
 -d newtonsoftwares.com
 -d newtreedesign.co.uk
@@ -64371,6 +64371,7 @@ msFilterList
 -d ninepenguins.com
 -d ninepoweraudio.com
 -d ninestars.jp
+-d nineteenpints.com
 -d nineti9.com
 -d ninetygrime.kolegajualan.com
 -d ninetynine.nl
@@ -83760,7 +83761,9 @@ msFilterList
 -d srv-file9.gofile.io
 -d srv-store4.gofile.io
 -d srv-store6.gofile.io
+-d srv7.computerkolkata.com
 -d srv77956.ht-test.ru
+-d srv9.computerkolkata.com
 -d srv9.corpwebcontrol.com
 -d srvmanos.no-ip.info
 -d ss-setta.com
@@ -88537,7 +88540,6 @@ msFilterList
 -d thachastew.com
 -d thachvietstone.com
 -d thadathilfarmresort.com
--d thaddeusarmstrong.com
 -d thadinnoo.co
 -d thagreymatter.com
 -d thai-chana.asia
@@ -92182,6 +92184,7 @@ msFilterList
 -d tuvanduhocmap.com
 -d tuvangamenet.com
 -d tuvangioitinh.com
+-d tuvanluat.vn
 -d tuvansinhvien.000webhostapp.com
 -d tuvidaysalud.com
 -d tuwanjiang.com
@@ -93514,6 +93517,7 @@ msFilterList
 -d url.246546.com
 -d url.57569.fr.snd52.ch
 -d url.sg
+-d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
 -d url9823.ville.labrecque.qc.ca
@@ -93642,6 +93646,7 @@ msFilterList
 -d uspslabel.itemdb.com
 -d uss.ac.th
 -d uss21.com
+-d ussbd.net
 -d usselfstoragenetwork.com
 -d ussrback.com
 -d ussrgun.000webhostapp.com
@@ -98663,7 +98668,6 @@ msFilterList
 -d wyndhamatduran.com
 -d wynn838.com
 -d wyomingauthors.org
--d wyptk.com
 -d wyredsecurity.com
 -d wyszx.jihaose.cn
 -d wywoznieczystosci.pomorze.pl
@@ -100057,6 +100061,7 @@ msFilterList
 -d yeu81.com
 -d yeu82.com
 -d yeuhang.tk
+-d yeumoitruong.vn
 -d yeuromndy.cf
 -d yeutocviet.com
 -d yewonder.com
@@ -100443,6 +100448,7 @@ msFilterList
 -d yoyoso.nz
 -d yoyoteacher.cn
 -d yp.dcyazilim.com
+-d yp.hnggzyjy.cn
 -d ypbb.or.id
 -d ypddf.org
 -d ypicsdy.cf
