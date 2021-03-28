@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 27 Mar 2021 12:12:22 UTC
+# Updated: Sun, 28 Mar 2021 00:12:34 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1456,6 +1456,7 @@ msFilterList
 -d 67373.vip
 -d 67lget9865181258.freebackup.fun
 -d 67ms.top
+-d 68468438438.xyz
 -d 68h7.com
 -d 695c0lock1.com
 -d 69market2.com
@@ -1778,6 +1779,7 @@ msFilterList
 -d 999.buzz
 -d 999.co.id
 -d 999.rajaojek.com
+-d 999080321newfolder1002002131-service1002.space
 -d 999102com.cn
 -d 99bkx.com
 -d 99centsdigitals.com
@@ -3275,6 +3277,7 @@ msFilterList
 -d adventureexplorer.in
 -d adventurehr.com
 -d adventureitdate.com
+-d adventureits.com
 -d adventuremania.com
 -d adventurersafaris.com
 -d adventuresofarchibald.com
@@ -4303,6 +4306,7 @@ msFilterList
 -d akatanomastos.net
 -d akatlot.com
 -d akatsolution.net
+-d akauk09.top
 -d akaunting.redocom.com
 -d akawork.io
 -d akbaara.com
@@ -4386,6 +4390,7 @@ msFilterList
 -d akowa.projet-test.com
 -d akowalska.ecrm.pl
 -d akpeugono.com
+-d akpgi08.top
 -d akpp-service.top
 -d akppservis30.ru
 -d akprokonaija.com
@@ -16338,6 +16343,7 @@ msFilterList
 -d camelmorocco.com
 -d camelotbrasil.com
 -d camelotorganics.com
+-d cameltrektours.com
 -d camenisch-software.ch
 -d camera.risami.net
 -d camera88.vn
@@ -26359,6 +26365,7 @@ msFilterList
 -d dl-675423.store-downloads.com
 -d dl-80076342.md-downloads.com
 -d dl-97674424.md-downloads.com
+-d dl-link.link
 -d dl-link.live
 -d dl-link.network
 -d dl-rw.com
@@ -28030,6 +28037,7 @@ msFilterList
 -d duckhouse.org
 -d duckiesplumbing.com.au
 -d duckpvp.xyz
+-d duckrambo.com
 -d ducks.org.tw
 -d ducontcl.esy.es
 -d ducro.nl
@@ -35224,6 +35232,7 @@ msFilterList
 -d freedomsec.com.br
 -d freedomsolutionsuk.co.uk
 -d freedomtoshine.co
+-d freedomwellnesstherapy.com
 -d freedownloadbravebrowser.com
 -d freeeeweb-com.umbler.net
 -d freeezguru.com
@@ -43179,6 +43188,7 @@ msFilterList
 -d iappco.ir
 -d iar.webprojemiz.com
 -d iarpp.ro
+-d iasdcentralbucaramanga.com
 -d iasgoogle.com
 -d iashelpdesk.in
 -d iasira.dm.files.1drv.com
@@ -45483,6 +45493,7 @@ msFilterList
 -d investigadoresforenses-abcjuris.com
 -d investigatorsnorthwest.co.uk
 -d investime.info
+-d investinae.com
 -d investingbazar.com
 -d investingpivot.co.uk
 -d investinscs.com
@@ -47706,6 +47717,7 @@ msFilterList
 -d joeundrosky.com
 -d joezer-online.com
 -d jofox.nl
+-d jofre.eu
 -d jogaae.jfoaigh.com
 -d joghataisalam.ir
 -d joghatay.ir
@@ -52150,7 +52162,6 @@ msFilterList
 -d laparoscopysales.com
 -d lapartenza-khl.com
 -d lapc.com.pk
--d lapcare.com
 -d lapcentervn.xyz
 -d lapchallenge.co.uk
 -d lapelimmortelle.com.au
@@ -53216,7 +53227,6 @@ msFilterList
 -d lglab.co.uk
 -d lgmi.org.uk
 -d lgonlinecenter.com
--d lgpass.com
 -d lgrp35.vatelstudents.fr
 -d lgs.ec
 -d lgservis.net
@@ -60574,7 +60584,6 @@ msFilterList
 -d mojang.com.br
 -d mojehaftom.com
 -d mojewnetrza.pl
--d mojno--vse.ru
 -d mojo-studios.co.uk
 -d mojorockstar.com
 -d mojstudent.net
@@ -61101,7 +61110,6 @@ msFilterList
 -d motzadministraties.nl
 -d mouas.xyz
 -d mouaysha.com
--d moufed.com
 -d moulin-de-la-hunelle.be
 -d mouni11.xyz
 -d mounicmadiraju.com
@@ -62409,6 +62417,7 @@ msFilterList
 -d mytemplate.ro
 -d mytempucheck.com
 -d mytest.alessioatzeni.com
+-d mytestingserver.ml
 -d mytestwp.cf
 -d mytex.pe
 -d mythelxis.gr
@@ -64601,6 +64610,7 @@ msFilterList
 -d no1angelsescort.com
 -d no1spinningfields.90degrees.digital
 -d no1websitedesigner.com
+-d no2politics.com
 -d no70.fun
 -d noabuseshere.top
 -d noach.nl
@@ -66024,6 +66034,7 @@ msFilterList
 -d ol.cognitiononline.in
 -d olacabattachment.com
 -d oladi.sulinet.hu
+-d olafyoutrue.xyz
 -d olahnyomda.hu
 -d olairdryport.com
 -d olalekan419.000webhostapp.com
@@ -67154,6 +67165,7 @@ msFilterList
 -d ostappnp.myjino.ru
 -d ostaz.ml
 -d osteklenie-balkonov.tomsk.ru
+-d ostemeda.lt
 -d osteoliv.com
 -d osteopatasitgesblog.es
 -d osteopathin-husum.de
@@ -69553,6 +69565,7 @@ msFilterList
 -d physicianmedical-legalconsulting.com
 -d physicscafe.com.sg
 -d physio-bo.de
+-d physio-svdh.ch
 -d physio-veda.de
 -d physionize.com
 -d physiotherapeutinnen.at
@@ -73654,6 +73667,7 @@ msFilterList
 -d radiolajee.com
 -d radioland.eu
 -d radiolavariada.net
+-d radiolevi.ro
 -d radiomaismg.com.br
 -d radiomaxima.cl
 -d radiomega-hit.com
@@ -76916,6 +76930,7 @@ msFilterList
 -d s-vrach.com.ua
 -d s-zone.uz
 -d s.51shijuan.com
+-d s.lletlee.com
 -d s.oooooooooo.ga
 -d s.put.re
 -d s.thechinesemuslim.com
@@ -79059,6 +79074,7 @@ msFilterList
 -d seioodsoi.club
 -d seis.me
 -d seismophonic.com
+-d seitaiken.net
 -d seitenstreifen.ch
 -d seivenco.com
 -d seiz-ib.de
@@ -93516,7 +93532,6 @@ msFilterList
 -d url-validation-clients.com
 -d url.246546.com
 -d url.57569.fr.snd52.ch
--d url.sg
 -d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
