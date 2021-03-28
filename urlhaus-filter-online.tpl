@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Sun, 28 Mar 2021 00:12:34 UTC
+# Updated: Sun, 28 Mar 2021 12:12:34 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -19,7 +19,6 @@ msFilterList
 -d 32792.prolocksmithwinterpark.com
 -d 360.lcy2zzx.pw
 -d 360down7.miiyun.cn
--d 68468438438.xyz
 -d 8402d53c-17e9-4250-8011-20f28f5d404f.certbooster.com
 -d 87du.vip
 -d 8poieq.bn.files.1drv.com
@@ -40,13 +39,11 @@ msFilterList
 -d activateyourdiscount.com
 -d activecost.com.au
 -d adamorinmusic.com
--d addahealingmusic.com
 -d adithimedia.com
 -d adithimedia.memengers.com
 -d admin.erapor.smk-alasror.net
 -d admin.gentbcn.org
 -d admin.grandoceanvilla.com
--d adventureexplorer.in
 -d aeropilates.cl
 -d afrimedspecialist.com
 -d agemn.co.za
@@ -60,8 +57,7 @@ msFilterList
 -d ajpharmaholding.com
 -d ajstudiollc.com
 -d akauk09.top
--d akivj07.top
--d akpgi08.top
+-d akshj10.top
 -d al-wahd.com
 -d alasdemariposas.org
 -d alemelektronik.com
@@ -140,7 +136,6 @@ msFilterList
 -d betone.co.kr
 -d betycopaints.com
 -d beveragesmiami.solucioneslink.com
--d bhavaniengineering.com
 -d bigbag.wootraining.certificacion.cl
 -d bilbosaquet.ug
 -d bilhen.co.za
@@ -184,13 +179,11 @@ msFilterList
 -d campusvirtual.cepsanjuanbosco.net.pe
 -d cancer.educandome.co
 -d capitalgroup-kw.com
--d capitalnewsagency.com
 -d capoeiraventrelivre.com
 -d cashyinvestment.org
 -d catchpoolshetlands.co.uk
 -d cazyacustomfurniture.com
 -d ccauthority.net
--d cdaonline.com.ar
 -d cec.asso.ac-amiens.fr
 -d cecra.cl
 -d cellas.sk
@@ -303,6 +296,7 @@ msFilterList
 -d dovberger.com
 -d down.flash-plays.com
 -d down.pcclear.com
+-d down.udashi.com
 -d down.webbora.com
 -d down1.arpun.com
 -d download.caihong.com
@@ -348,6 +342,7 @@ msFilterList
 -d exilum.com
 -d exitoalfaomega.co
 -d extrovertoffers.com
+-d f1sol.com
 -d familydentist.site
 -d farmaciasdrogaminas.com.br
 -d fate3.xyz
@@ -356,9 +351,9 @@ msFilterList
 -d felicienne.nl
 -d fi.bonitastores.com
 -d files.martellexpress.us
+-d filmotainment.com
 -d final.makkahkmcc.com
 -d fineartgallerym.com
--d fixauto.illumetechnology.com
 -d fkd.derpcity.ru
 -d flintspin.com
 -d flyingbuddhadesign.com
@@ -368,6 +363,7 @@ msFilterList
 -d footweardirect.elin.co.za
 -d forum.mdb.nu
 -d fotoobjetivo.com
+-d foundationrepairhoustontx.net
 -d foxeps.com.br
 -d freecnetdownload.com
 -d freedombookshop.tickme.lk
@@ -403,14 +399,13 @@ msFilterList
 -d goldcoastoffice365.com.au
 -d goldcupmortgage.com
 -d golden-memories-funerals.yourpageserver.com
--d goldmen.in
 -d gracejukes.com
 -d grupoinmare.com
 -d gruposelt.000webhostapp.com
--d gs.monerorx.com
 -d gulfac-house.com
 -d gvpcdpgc.edu.in
 -d habbotips.free.fr
+-d hacking101.net
 -d hagebakken.no
 -d harshraval.in
 -d hd11315.com
@@ -477,7 +472,6 @@ msFilterList
 -d iris101.co.uk
 -d isaac.mikhailmotoringschool.com
 -d iscamenabe.com
--d ismf.com.ng
 -d iso-dubai.net
 -d israrulhaq.me
 -d isrorg.com
@@ -508,7 +502,6 @@ msFilterList
 -d jupiter.toxsl.in
 -d justinscott.com.au
 -d kalawatihomes.com
--d kalpataru-elitus-mulund.thakkers.in
 -d karer.by
 -d katanvetov.co.il
 -d kensingtondriving.com
@@ -553,17 +546,15 @@ msFilterList
 -d lm.stagingarea.co.za
 -d lmaancha.co.il
 -d lms.cstdevs.com
--d lms.login2.in
 -d lmvirtualbookkeeping.com
--d lnt-rejuve-360.thakkers.in
 -d location-voitures.ma
 -d login.trezor.com.stockfootagesindia.com
 -d logotypfabriken.se
+-d lorreken.com
 -d lotix.de
 -d lotusanddragonfly.com
 -d lp.definerisco.com
 -d lp.difusodesign.com
--d ltc.typoten.com
 -d luckybrownie.com
 -d luminouspneuma.com
 -d luxomodels.com
@@ -579,7 +570,6 @@ msFilterList
 -d malwarecoding.github.io
 -d managed.oss-cn-beijing.aliyuncs.com
 -d managemysalon.in
--d manantialesdelnorte.uy
 -d manhtien.net
 -d marcapinyo.ru
 -d mario-sunjic.com
@@ -599,10 +589,8 @@ msFilterList
 -d mdasa.elin.co.za
 -d medevlb.org
 -d media-server.skyinternet.com.pk
--d mediamaster.co.za
 -d medianews.ge
 -d medistaffconsulting.com
--d meditreat.itwebservice.in
 -d meeweb.com
 -d megamart.afnan-amc.com
 -d merbay.ru
@@ -656,12 +644,10 @@ msFilterList
 -d nerve.untergrund.net
 -d nettube.com.br
 -d networkwheels.co.za
--d neuromedic.com.br
 -d neverseenshop.com.mx
 -d newinfinitysynergy.com
 -d news.dbstrony.pl
 -d newtreedesign.co.uk
--d newtrendeg.com
 -d newvisionopticallab.com
 -d newxing.com
 -d nextdigitalday.ru
@@ -737,6 +723,7 @@ msFilterList
 -d payments.atifsiddiqui.me
 -d pcsoori.com
 -d pd.oceaniarp.net
+-d perpus.onlineman7-jombang.sch.id
 -d perpustekim.untirta.ac.id
 -d petercollie.com
 -d ph4s.ru
@@ -837,15 +824,14 @@ msFilterList
 -d salecorner.yourpageserver.com
 -d sandovalgraphics.com
 -d santyago.org
--d sarakem.cl
 -d sasystemsuk.com
 -d savasaachi.systems
+-d savingchintu.com
 -d scarfaceindustries.com
 -d scglobal.co.th
 -d schalke04rss.de
 -d scheff.com
 -d schoolbustracker.softgig.co.ke
--d sec-doc-w.com
 -d secure-doc-reader.com
 -d segalsmetals.elin.co.za
 -d sellmyphonela.com
@@ -855,7 +841,6 @@ msFilterList
 -d serendibsourcing.com
 -d servicemhkd.myvnc.com
 -d servicemhkd80.myvnc.com
--d serviciovirtual.com.ar
 -d seyranikenger.com.tr
 -d sgessy.com.br
 -d shaheentbfoundation.com
@@ -914,7 +899,6 @@ msFilterList
 -d sriglobalit.com
 -d srvmanos.no-ip.info
 -d ss.monita.co.id
--d staging.apparelpunch.com
 -d starcountry.net
 -d static.3001.net
 -d statsres.com
@@ -944,7 +928,6 @@ msFilterList
 -d sys.pbmadu.co.id
 -d sytraders.co
 -d t.honker.info
--d t.netcatkit.com
 -d tacticohosting.com
 -d tadoo.ca
 -d tafsantoursandtravels.com
@@ -974,7 +957,6 @@ msFilterList
 -d test.letraele.es
 -d test.typoten.com
 -d test.wanepghana.org
--d test1.asistencia247.com
 -d test1.milenial.id
 -d test1.tenplusone.my
 -d test2.basis-web.com
@@ -1046,7 +1028,6 @@ msFilterList
 -d usmadetshirts.com
 -d uss.ac.th
 -d uzzepay.com.br
--d vbcargo.hu
 -d vcah.co.uk
 -d vegadelcasero.cl
 -d vendas.lidiacarmeli.com.br
