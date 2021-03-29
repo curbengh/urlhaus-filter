@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Sun, 28 Mar 2021 12:12:34 UTC
+# Updated: Mon, 29 Mar 2021 00:12:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -38,7 +38,7 @@ msFilterList
 -d acteon.com.ar
 -d activateyourdiscount.com
 -d activecost.com.au
--d adamorinmusic.com
+-d addahealingmusic.com
 -d adithimedia.com
 -d adithimedia.memengers.com
 -d admin.erapor.smk-alasror.net
@@ -64,7 +64,6 @@ msFilterList
 -d alena1971.es
 -d alexdubai.com.aldiabsteel.com
 -d algreenstdykelveskbg.dns.army
--d alka.institute
 -d allforcreative.com.au
 -d alltheway.travel
 -d alpaylar.com.tr
@@ -88,7 +87,6 @@ msFilterList
 -d anysbergbiltong.co.za
 -d apartamentoscitta.com
 -d api-ms.cobainaja.id
--d api.cstdevs.com
 -d api.quocbao.biz
 -d api.sampy.io
 -d aplicativoparasindicato.com.br
@@ -119,7 +117,6 @@ msFilterList
 -d badeggdesign.com
 -d balealgodon.mx
 -d bangkok-orchids.com
--d barcionstw.eastus.cloudapp.azure.com
 -d bary.sz4h.com
 -d bash.givemexyz.in
 -d basma.com.kw
@@ -218,6 +215,7 @@ msFilterList
 -d covid19.cyberschool.or.id
 -d cr-sq.com
 -d craftnesia.id
+-d crearechile.cl
 -d creationskateboards.com
 -d crecerco.com
 -d crittersbythebay.com
@@ -269,6 +267,7 @@ msFilterList
 -d dev.sebpo.net
 -d dezcom.com
 -d dfcf.91756.cn
+-d dfsfcsfcdsfsdvcfsvcscv.com
 -d diamantenegro.mi-fs.com
 -d dienmayminhhung.com
 -d digilib.dianhusada.ac.id
@@ -316,7 +315,6 @@ msFilterList
 -d dsenterprize.co.za
 -d dsspainting.com
 -d du-wizards.com
--d duckrambo.com
 -d duque.guantanameratravel.com
 -d dutapp.wisolve.co.za
 -d duvalcharter.dekitout.com
@@ -354,6 +352,7 @@ msFilterList
 -d filmotainment.com
 -d final.makkahkmcc.com
 -d fineartgallerym.com
+-d fixauto.illumetechnology.com
 -d fkd.derpcity.ru
 -d flintspin.com
 -d flyingbuddhadesign.com
@@ -399,6 +398,7 @@ msFilterList
 -d goldcoastoffice365.com.au
 -d goldcupmortgage.com
 -d golden-memories-funerals.yourpageserver.com
+-d goldmen.in
 -d gracejukes.com
 -d grupoinmare.com
 -d gruposelt.000webhostapp.com
@@ -449,6 +449,7 @@ msFilterList
 -d iesanjosemonitos.edu.co
 -d ikexpert.com
 -d ilrafrica.com
+-d images.jermiau.com
 -d imbueautoworx.co.za
 -d incodimsa.com
 -d incrediblepixels.com
@@ -545,7 +546,6 @@ msFilterList
 -d lloydsindian.co.uk
 -d lm.stagingarea.co.za
 -d lmaancha.co.il
--d lms.cstdevs.com
 -d lmvirtualbookkeeping.com
 -d location-voitures.ma
 -d login.trezor.com.stockfootagesindia.com
@@ -555,6 +555,7 @@ msFilterList
 -d lotusanddragonfly.com
 -d lp.definerisco.com
 -d lp.difusodesign.com
+-d ltc.typoten.com
 -d luckybrownie.com
 -d luminouspneuma.com
 -d luxomodels.com
@@ -595,7 +596,6 @@ msFilterList
 -d megamart.afnan-amc.com
 -d merbay.ru
 -d merkathink.com
--d mertlog.com
 -d metalin-cr.com
 -d mettaanand.org
 -d meuoculosnanet.com.br
@@ -644,6 +644,7 @@ msFilterList
 -d nerve.untergrund.net
 -d nettube.com.br
 -d networkwheels.co.za
+-d neuromedic.com.br
 -d neverseenshop.com.mx
 -d newinfinitysynergy.com
 -d news.dbstrony.pl
@@ -675,18 +676,15 @@ msFilterList
 -d obseques-conseils.com
 -d ohe.ie
 -d ohsewgorgeous.co.uk
--d oknoplastik.sk
 -d oleholeh.memangbeda.website
 -d olirecords.mixture.ltd
 -d olooom.com
 -d omaia.org
--d omaromatic.com
 -d omega.az
 -d oms.pappai.com
 -d omscoc.pappai.com
 -d onedigitalcard.granvizionnecorp.com
 -d onedrive.listifyapp.co
--d online.creedglobal.in
 -d onlinestatis.bar
 -d ont.proman.id
 -d open.warehousesaas.co.uk
@@ -697,8 +695,6 @@ msFilterList
 -d order.bizpeed.com
 -d orientgatewayltd.com
 -d orion445.com
--d orpod.ru
--d oserve.pk
 -d ottimade.com
 -d ourteam.searchkero.com
 -d ozemag.com
@@ -709,6 +705,7 @@ msFilterList
 -d pacificgroup.ws
 -d pacwebdesigns.com
 -d pagos.krayem.com.mx
+-d palbas.cl
 -d palochusvet.szm.com
 -d parallel.rockvideos.at
 -d parejasfelices.mi-fs.com
@@ -733,7 +730,6 @@ msFilterList
 -d photo360.kubooking.com
 -d photographytipsclub.com
 -d pink99.com
--d pizzabarletta.com.br
 -d plasfan.ind.br
 -d pmglance.startwriteup.com
 -d pokojewewladyslawowie.pl
@@ -761,8 +757,6 @@ msFilterList
 -d pujashoppe.in
 -d punchdialogues.com
 -d punjabdevelopersassociation.com.pk
--d purefoe.top
--d pvcprinting.co.uk
 -d qadir.tickfa.ir
 -d qatarglobalconsulting.com
 -d qmsled.com
@@ -841,10 +835,10 @@ msFilterList
 -d serendibsourcing.com
 -d servicemhkd.myvnc.com
 -d servicemhkd80.myvnc.com
+-d serviciovirtual.com.ar
 -d seyranikenger.com.tr
 -d sgessy.com.br
 -d shaheentbfoundation.com
--d shahikhana.cstdevs.com
 -d sharkrigs.com
 -d sharpelevators.in
 -d shembefoundation.com
@@ -859,7 +853,6 @@ msFilterList
 -d signatureads.co.in
 -d siili.net
 -d simoneporzi.it
--d simplithy.co.uk
 -d sindicato1ucm.cl
 -d sindpol.tiejuris.com.br
 -d sinergidwireka.com
@@ -894,7 +887,6 @@ msFilterList
 -d spititourism.com
 -d spittinfire.com
 -d sports-net.de
--d src1.minibai.com
 -d sreenivasapaintingworks.com
 -d sriglobalit.com
 -d srvmanos.no-ip.info
@@ -902,10 +894,10 @@ msFilterList
 -d starcountry.net
 -d static.3001.net
 -d statsres.com
--d statssound.com
--d statsspot.com
 -d statsvilla.com
+-d stattilion.bar
 -d stemschool.net
+-d sticker.jewsjuice.com
 -d stiepancasetia.ac.id
 -d stott-thompson.co.uk
 -d stratexec.co.za
@@ -950,7 +942,6 @@ msFilterList
 -d teduae.com
 -d teleargentina.com
 -d telescopelms.com
--d telmed.cl
 -d temptmag.com
 -d tentandoserfitness.000webhostapp.com
 -d test.adventser.com
@@ -986,7 +977,6 @@ msFilterList
 -d timegonebuy.com
 -d tksb.net
 -d tlcc.com.gt
--d todoapp.cstdevs.com
 -d tonydong.com
 -d tonyzone.com
 -d tooba.tenplusone.my
@@ -1011,8 +1001,8 @@ msFilterList
 -d tulli.info
 -d tupperware.michaelroberge.ca
 -d turanggaresources.com
+-d tushartyagiji.digitalswagger.in
 -d uat.indianfilmzone.com
--d ublretailerdemo.cstdevs.com
 -d uc-56.ru
 -d udesk.searchkero.com
 -d ugprs-ubih.org
@@ -1028,6 +1018,8 @@ msFilterList
 -d usmadetshirts.com
 -d uss.ac.th
 -d uzzepay.com.br
+-d vastubless.com
+-d vbcargo.hu
 -d vcah.co.uk
 -d vegadelcasero.cl
 -d vendas.lidiacarmeli.com.br
@@ -1056,7 +1048,6 @@ msFilterList
 -d wanepniger.org
 -d weareactum.com
 -d web.eng.ubu.ac.th
--d web.geetle.ga
 -d web.geomegasoft.net
 -d web.newinnovationtechnology.com
 -d web.smarts-works.com
@@ -1066,7 +1057,6 @@ msFilterList
 -d webpresario.com
 -d website-work.com
 -d weinsteincounseling.com
--d wexfashion.com
 -d whcms.yourpageserver.com
 -d whiteglovetailgate.com
 -d whiteresponse.com
@@ -1076,6 +1066,7 @@ msFilterList
 -d wildtrust.mediadevstaging.com
 -d wimbamusica.com
 -d windcomtechnologies.com
+-d winnercircle.it
 -d wishesconcierge.com
 -d woezon.agency
 -d wolfgang-brodte.de
