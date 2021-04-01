@@ -12,7 +12,7 @@ curl -L "https://urlhaus.abuse.ch/downloads/csv/" -o "urlhaus.zip"
 curl -L "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
 curl -L "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
 
-cp "../src/exclude.txt" "."
+cp -f "../src/exclude.txt" "."
 
 ## Prepare URLhaus.csv
 unzip -p "urlhaus.zip" | \
@@ -94,10 +94,13 @@ grep -Fx -f "top-1m-well-known.txt" > "urlhaus-top-domains.txt"
 
 ## Parse domains from URLhaus excluding popular domains
 cat "urlhaus-domains.txt" | \
-grep -F -vf "urlhaus-top-domains.txt" > "malware-domains.txt"
+grep -F -vf "urlhaus-top-domains.txt" | \
+# Remove blank lines
+sed "/^$/d" > "malware-domains.txt"
 
 cat "urlhaus-domains-online.txt" | \
-grep -F -vf "urlhaus-top-domains.txt" > "malware-domains-online.txt"
+grep -F -vf "urlhaus-top-domains.txt" | \
+sed "/^$/d" > "malware-domains-online.txt"
 
 ## Parse malware URLs from popular domains
 cat "urlhaus.txt" | \
@@ -214,68 +217,68 @@ sort | \
 sed '1 i\'"$COMMENT_ONLINE"'' > "../urlhaus-filter-domains-online.txt"
 
 
-## Hosts file blocklist
-cat "../urlhaus-filter-domains.txt" | \
-# Exclude comment with #
-grep -vE "^#" | \
+## Hosts only
+cat "malware-domains.txt" | \
+sort | \
 # Remove IPv4 address
-grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
+grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" > "malware-hosts.txt"
+
+cat "malware-domains-online.txt" | \
+sort | \
+# Remove IPv4 address
+grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" > "malware-hosts-online.txt"
+
+
+## Hosts file blocklist
+cat "malware-hosts.txt" | \
 sed "s/^/0.0.0.0 /g" | \
 # Re-insert comment
 sed '1 i\'"$COMMENT"'' | \
 sed "1s/Domains/Hosts/" > "../urlhaus-filter-hosts.txt"
 
-cat "../urlhaus-filter-domains-online.txt" | \
-grep -vE "^#" | \
-grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" | \
+cat "malware-hosts-online.txt" | \
 sed "s/^/0.0.0.0 /g" | \
 sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Domains/Hosts/" > "../urlhaus-filter-hosts-online.txt"
 
 
 ## Dnsmasq-compatible blocklist
-cat "../urlhaus-filter-hosts.txt" | \
-grep -vE "^#" | \
-sed "s/^0.0.0.0 /address=\//g" | \
+cat "malware-hosts.txt" | \
+sed "s/^/address=\//g" | \
 sed "s/$/\/0.0.0.0/g" | \
 sed '1 i\'"$COMMENT"'' | \
 sed "1s/Blocklist/dnsmasq Blocklist/" > "../urlhaus-filter-dnsmasq.conf"
 
-cat "../urlhaus-filter-hosts-online.txt" | \
-grep -vE "^#" | \
-sed "s/^0.0.0.0 /address=\//g" | \
+cat "malware-hosts-online.txt" | \
+sed "s/^/address=\//g" | \
 sed "s/$/\/0.0.0.0/g" | \
 sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/dnsmasq Blocklist/" > "../urlhaus-filter-dnsmasq-online.conf"
 
 
 ## BIND-compatible blocklist
-cat "../urlhaus-filter-hosts.txt" | \
-grep -vE "^#" | \
-sed 's/^0.0.0.0 /zone "/g' | \
+cat "malware-hosts.txt" | \
+sed 's/^/zone "/g' | \
 sed 's/$/" { type master; notify no; file "null.zone.file"; };/g' | \
 sed '1 i\'"$COMMENT"'' | \
 sed "1s/Blocklist/BIND Blocklist/" > "../urlhaus-filter-bind.conf"
 
-cat "../urlhaus-filter-hosts-online.txt" | \
-grep -vE "^#" | \
-sed 's/^0.0.0.0 /zone "/g' | \
+cat "malware-hosts-online.txt" | \
+sed 's/^/zone "/g' | \
 sed 's/$/" { type master; notify no; file "null.zone.file"; };/g' | \
 sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/BIND Blocklist/" > "../urlhaus-filter-bind-online.conf"
 
 
 ## Unbound-compatible blocklist
-cat "../urlhaus-filter-hosts.txt" | \
-grep -vE "^#" | \
-sed 's/^0.0.0.0 /local-zone: "/g' | \
+cat "malware-hosts.txt" | \
+sed 's/^/local-zone: "/g' | \
 sed 's/$/" always_nxdomain/g' | \
 sed '1 i\'"$COMMENT"'' | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound.conf"
 
-cat "../urlhaus-filter-hosts-online.txt" | \
-grep -vE "^#" | \
-sed 's/^0.0.0.0 /local-zone: "/g' | \
+cat "malware-hosts-online.txt" | \
+sed 's/^/local-zone: "/g' | \
 sed 's/$/" always_nxdomain/g' | \
 sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound-online.conf"
@@ -340,15 +343,13 @@ sed -i "1s/Domains Blocklist/URL Suricata Ruleset/" "../urlhaus-filter-suricata-
 COMMENT_IE="msFilterList\n$COMMENT\n: Expires=1\n#"
 COMMENT_ONLINE_IE="msFilterList\n$COMMENT_ONLINE\n: Expires=1\n#"
 
-cat "../urlhaus-filter-hosts.txt" | \
-grep -vE "^#" | \
-sed "s/^0\.0\.0\.0/-d/g" | \
+cat "malware-hosts.txt" | \
+sed "s/^/-d /g" | \
 sed '1 i\'"$COMMENT_IE"'' | \
 sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../urlhaus-filter.tpl"
 
-cat "../urlhaus-filter-hosts-online.txt" | \
-grep -vE "^#" | \
-sed "s/^0\.0\.0\.0/-d/g" | \
+cat "malware-hosts-online.txt" | \
+sed "s/^/-d /g" | \
 sed '1 i\'"$COMMENT_ONLINE_IE"'' | \
 sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../urlhaus-filter-online.tpl"
 
