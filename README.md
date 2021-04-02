@@ -11,7 +11,7 @@ There are multiple formats available, refer to the appropriate section according
 - Vivaldi -> [URL-based (Vivaldi)](#url-based-vivaldi)
 - [Hosts](#hosts-based)
 - [Dnsmasq](#dnsmasq)
-- [BIND](#bind)
+- BIND -> BIND [zone](#bind) or [RPZ](#response-policy-zone)
 - [Unbound](#unbound)
 - Internet Explorer -> [Tracking Protection List (IE)](#tracking-protection-list-ie)
 - [Snort2](#snort2)
@@ -367,6 +367,41 @@ Lite version (online domains only):
 
 </details>
 
+## Response Policy Zone
+
+This blocklist includes domains only.
+
+- https://curben.gitlab.io/malware-filter/urlhaus-filter-rpz.conf
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-rpz.conf
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-rpz.conf
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-rpz.conf
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-rpz.conf
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-rpz.conf
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-rpz.conf
+
+</details>
+
+<br />
+Lite version (online domains only):
+
+- https://curben.gitlab.io/malware-filter/urlhaus-filter-rpz-online.conf
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-rpz-online.conf
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-rpz-online.conf
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-rpz-online.conf
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-rpz-online.conf
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-rpz-online.conf
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-rpz-online.conf
+
+</details>
+
 ## Unbound
 
 This blocklist includes domains only.
@@ -590,6 +625,8 @@ rule-files:
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-dnsmasq-online.conf
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-bind.conf
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-bind-online.conf
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-rpz.conf
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-rpz-online.conf
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-unbound.conf
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-unbound-online.conf
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter.tpl

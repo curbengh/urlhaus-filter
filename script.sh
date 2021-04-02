@@ -270,6 +270,25 @@ sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/BIND Blocklist/" > "../urlhaus-filter-bind-online.conf"
 
 
+## DNS Response Policy Zone (RPZ)
+CURRENT_UNIX_TIME="$(date +%s)"
+RPZ_SYNTAX="\n\$TTL 30\n@ IN SOA rpz.curben.gitlab.io. hostmaster.rpz.curben.gitlab.io. $CURRENT_UNIX_TIME 86400 3600 604800 30\n NS localhost.\n"
+
+cat "malware-hosts.txt" | \
+sed "s/$/ CNAME ./g" | \
+sed '1 i\'"$RPZ_SYNTAX"'' | \
+sed '1 i\'"$COMMENT"'' | \
+sed "s/^#/;/g" | \
+sed "1s/Blocklist/RPZ Blocklist/" > "../urlhaus-filter-rpz.conf"
+
+cat "malware-hosts-online.txt" | \
+sed "s/$/ CNAME ./g" | \
+sed '1 i\'"$RPZ_SYNTAX"'' | \
+sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "s/^#/;/g" | \
+sed "1s/Blocklist/RPZ Blocklist/" > "../urlhaus-filter-rpz-online.conf"
+
+
 ## Unbound-compatible blocklist
 cat "malware-hosts.txt" | \
 sed 's/^/local-zone: "/g' | \
