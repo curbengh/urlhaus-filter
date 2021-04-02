@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 01 Apr 2021 12:12:38 UTC
+# Updated: Fri, 02 Apr 2021 00:12:36 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2437,6 +2437,7 @@ msFilterList
 -d academiadetenisandreku.com
 -d academiadotrader.net
 -d academiafemeninaw10.com
+-d academiafriedman.com
 -d academiagrandclasse.com.ar
 -d academiaictus.cl
 -d academiainteractiva.com
@@ -3843,6 +3844,7 @@ msFilterList
 -d agri.sci.lru.ac.th
 -d agri2biz.com
 -d agriafrika.co.za
+-d agrichm.com
 -d agriclose.eu
 -d agricolalusiatreviso.it
 -d agridept.nc.gov.lk
@@ -9323,6 +9325,7 @@ msFilterList
 -d autoemocionate.gonzalezdeautomocion.com
 -d autoescolaciganos.com.br
 -d autoescolajavarotti.com.br
+-d autoescolatopsul.com.br
 -d autoescuelacontreras.es
 -d autoescuelas.vip
 -d autoescuelasancarlos.com
@@ -14128,6 +14131,7 @@ msFilterList
 -d bo-beauty.com
 -d bo1v544d.myraidbox.de
 -d bo2.co.id
+-d board3.xyz
 -d boardgamesofold.com
 -d boardshorts.com
 -d boasteel.us
@@ -21871,6 +21875,7 @@ msFilterList
 -d creditoacumuladoicms.com.br
 -d creditocelular.com
 -d creditoenusa.com
+-d creditomaster.online
 -d creditorgroup.com
 -d creditpretinternational.com
 -d creditpuls.com.ua
@@ -29400,6 +29405,7 @@ msFilterList
 -d eed9jqjd4b600bu2b-md.com
 -d eeda.tn
 -d eeddeekk.piwko.pl
+-d eedo.ee
 -d eee4.top
 -d eeflsigns.com
 -d eeig.com.tr
@@ -31532,6 +31538,7 @@ msFilterList
 -d estoyadieta.com
 -d estrategias-corporativas.com
 -d estrategiasdeaprovacao.com.br
+-d estreamnetworks.net
 -d estrelladamm.icu
 -d estrindesign.com
 -d estrom.es
@@ -32457,7 +32464,6 @@ msFilterList
 -d eznab.com
 -d ezola.fr
 -d ezoneconnect.com
--d ezoterra.com.ua
 -d ezprofitfx.com
 -d ezpullonline.com
 -d ezrachile.cl
@@ -38466,7 +38472,6 @@ msFilterList
 -d googleapi.ru
 -d googleglobalbrandsearching.mangospot.net
 -d googlemeta.xyz
--d googleplusmarketpro.com
 -d googlerank.in
 -d googleresult.in
 -d googletime.ac.ug
@@ -46058,6 +46063,7 @@ msFilterList
 -d irisrealestate.gr
 -d irissnuances.com
 -d iristwaica.com
+-d iriti.net
 -d irjan.com
 -d irkgeo.ru
 -d irkmail.xyz
@@ -46214,7 +46220,6 @@ msFilterList
 -d iskro.textronic.info
 -d iskyservice.ru
 -d islaholics.com
--d islamabadtrafficpolice.gov.pk
 -d islamabout.com
 -d islamappen.se
 -d islamforall.tv
@@ -47858,6 +47863,7 @@ msFilterList
 -d jobgroup.it
 -d jobguru.info
 -d jobhunt.world
+-d jobiden.site
 -d jobinspektor.de
 -d jobkings.net
 -d jobmalawi.com
@@ -55012,6 +55018,7 @@ msFilterList
 -d loxien2.com
 -d loy.pt
 -d loyality.alsaqqa.ps
+-d loyalty.kkcoaches.co.ug
 -d loyalundfair.de
 -d loygf-33.ml
 -d loygf-99.gq
@@ -58419,7 +58426,6 @@ msFilterList
 -d me.ft.unri.ac.id
 -d me.kayamalimusavirlik.com
 -d me.mellatholding.com
--d me.swop.cloud
 -d me48.ru
 -d mea.kaisariani.gr
 -d meade.pro
@@ -59871,6 +59877,7 @@ msFilterList
 -d millionaireheaven.com
 -d milliondollarlawsuit.co
 -d millionsawesomeproducts.com
+-d mills2008-delivery.com
 -d millsmiltinon.com
 -d milltechrecruitment.co.za
 -d milneintl.com
@@ -60860,6 +60867,7 @@ msFilterList
 -d mojang.com.br
 -d mojehaftom.com
 -d mojewnetrza.pl
+-d mojno--vse.ru
 -d mojo-studios.co.uk
 -d mojorockstar.com
 -d mojstudent.net
@@ -60971,6 +60979,7 @@ msFilterList
 -d moneycoach.systems
 -d moneycomputing.com
 -d moneyforyou.xyz
+-d moneygain.work
 -d moneyhairparty.com
 -d moneyii.com
 -d moneylang.com
@@ -62227,6 +62236,7 @@ msFilterList
 -d mvid.com
 -d mvidl.site
 -d mvisionproperties.com
+-d mvldesign.ca
 -d mvm368.com
 -d mvmskpd.com
 -d mvns.railfan.net
@@ -68995,7 +69005,6 @@ msFilterList
 -d pdfaide.com
 -d pdfconverter.firewall-gateway.com
 -d pdfdocusign.com
--d pdfdownload.in
 -d pdfescape.su
 -d pdfgrennland.ddns.net
 -d pdfguidance.com
@@ -70167,6 +70176,7 @@ msFilterList
 -d pipezservice.com
 -d pipiym.com
 -d pipizhanzhang.com
+-d pipopetfiu.ru
 -d pippel.nl
 -d pippisvillavillekula.com
 -d pipspeakhypnotherapy.co.uk
@@ -75794,6 +75804,7 @@ msFilterList
 -d ribrart.com
 -d ric1.ru
 -d ric2.ru
+-d rica-karama.ac.rw
 -d ricamificiogea.it
 -d ricamificiolevi-bill.it
 -d ricardob.eti.br
@@ -76409,6 +76420,7 @@ msFilterList
 -d roj-club.ru
 -d rojarex.com
 -d rojasexpertcomptable.ch
+-d rojasgown.com
 -d rojmall.com
 -d rokafashion.ro
 -d roken.com.mx
@@ -81136,6 +81148,7 @@ msFilterList
 -d shreerameshwar.tk
 -d shreerangjewellers.com
 -d shreesaasthatextiles.com
+-d shreetutoring.in
 -d shreeumiyagroup.com
 -d shreeyantraindia.com
 -d shrek.icu
@@ -81451,6 +81464,7 @@ msFilterList
 -d silverstargalaxy.com.silverstartv.website
 -d silverstoltsen.com
 -d silverswiss.com
+-d silverwhipmedia.com
 -d silvesterinmailand.com
 -d silvialamagra.it
 -d silvies.com
@@ -86604,7 +86618,6 @@ msFilterList
 -d swoboda-engineering.com
 -d swonger.com
 -d swoodg.ru
--d swop.cloud
 -d sword.cf
 -d swordandstone.cba.pl
 -d sworden.org
@@ -94782,6 +94795,7 @@ msFilterList
 -d vedanshsoft.com
 -d vedantachildhood.com
 -d vedantavas.com
+-d vedapata.net
 -d vedapeople.com.ua
 -d vedarshnitourism.com
 -d vedavacademy.com
