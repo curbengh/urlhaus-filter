@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 02 Apr 2021 12:12:43 UTC
+# Updated: Sat, 03 Apr 2021 00:13:46 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -9081,6 +9081,7 @@ msFilterList
 -d atyafonline.com
 -d atyarisix.com
 -d atyraucity.com
+-d au-centimetre-pres.fr
 -d au-edu.km01s.net
 -d au.big.goodtimenews.org
 -d au.poster.sportingmen.org
@@ -13424,6 +13425,7 @@ msFilterList
 -d blog.camposuribe.com
 -d blog.canmertdogan.com
 -d blog.carousselcards.ro
+-d blog.cast.re
 -d blog.cebecitekstil.com
 -d blog.cheaphumanhair.com
 -d blog.chefbrunaavila.com.br
@@ -34215,6 +34217,7 @@ msFilterList
 -d fiscon.cnt.br
 -d fisconline.bar
 -d fisconline.casa
+-d fiscosaudepe.com.br
 -d fish-gear.com
 -d fish-ua.com
 -d fish.mywingover.com
@@ -37658,7 +37661,6 @@ msFilterList
 -d girl4night.com
 -d girlem.site
 -d girlfridaymusic.com
--d girlgeekdinners.com
 -d girlhistory.ru
 -d girlhut-my.sharepoint.com
 -d girls-mobile-number.ooo
@@ -38475,6 +38477,7 @@ msFilterList
 -d googleapi.ru
 -d googleglobalbrandsearching.mangospot.net
 -d googlemeta.xyz
+-d googleplusmarketpro.com
 -d googlerank.in
 -d googleresult.in
 -d googletime.ac.ug
@@ -46607,6 +46610,7 @@ msFilterList
 -d iurrc.ir
 -d iut-bethune.univ-artois.fr
 -d iut.ovh
+-d iutai.tec.ve
 -d iuventus.resplandecefest.org
 -d iuwrwcvz.applekid.cn
 -d iuyouth.hcmiu.edu.vn
@@ -46827,6 +46831,7 @@ msFilterList
 -d jacksons.store
 -d jacksonvillewaterdamage.org
 -d jackspatelweb.000webhostapp.com
+-d jacktech.jackindia.com
 -d jackthescribbler.com
 -d jacobites.info
 -d jacobsondevelopers.com
@@ -49127,6 +49132,7 @@ msFilterList
 -d kaminonayami.jp
 -d kaminy-service.ru
 -d kamir.es
+-d kamisecurity.com.my
 -d kamisehat.com
 -d kamlab.fr
 -d kammello.com.br
@@ -52617,6 +52623,7 @@ msFilterList
 -d laundrycucispringbed.com
 -d laundrysolutionprovider.com
 -d laur.be
+-d laura9630fr.com
 -d lauracosmetic.com
 -d lauradmonteiro.com.br
 -d lauraetguillaume.corsica
@@ -59879,6 +59886,7 @@ msFilterList
 -d millionaireheaven.com
 -d milliondollarlawsuit.co
 -d millionsawesomeproducts.com
+-d mills-skyla30ec.com
 -d mills2008-delivery.com
 -d millsmiltinon.com
 -d milltechrecruitment.co.za
@@ -91162,6 +91170,7 @@ msFilterList
 -d topicsnepal.com
 -d topicustomjogja.com
 -d topigra1.ru
+-d topinarabic.com
 -d topindira.top
 -d topinkasso.li
 -d topitovoyages.com
@@ -93997,7 +94006,6 @@ msFilterList
 -d url-validation-clients.com
 -d url.246546.com
 -d url.57569.fr.snd52.ch
--d url.sg
 -d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
@@ -94868,6 +94876,7 @@ msFilterList
 -d velissimilio.site
 -d veljko.id
 -d vellosoft.com
+-d velma-harber30ku.com
 -d velo2.mon-application.com
 -d velo2max.com
 -d velochic.com.vn
