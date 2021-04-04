@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 03 Apr 2021 12:12:28 UTC
+# Updated: Sun, 04 Apr 2021 00:12:30 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -710,7 +710,6 @@
 0.0.0.0 24hsuckhoe.com
 0.0.0.0 24kitten.com
 0.0.0.0 24linux.com
-0.0.0.0 24masr.com
 0.0.0.0 24mm.site
 0.0.0.0 24mmcsjobs.com
 0.0.0.0 24security.ro
@@ -1747,6 +1746,7 @@
 0.0.0.0 94tk.com
 0.0.0.0 954webdesign.com
 0.0.0.0 955dy.tk
+0.0.0.0 95photo.cn
 0.0.0.0 95up.com
 0.0.0.0 96.ip-51-255-193.eu
 0.0.0.0 9600848340.myjino.ru
@@ -18519,6 +18519,7 @@
 0.0.0.0 chfourstdyanothestmw.dns.army
 0.0.0.0 chfourstdyanothestoq.dns.army
 0.0.0.0 chfriendmanufactureglobalbusinessanddns.duckdns.org
+0.0.0.0 chg.org.uk
 0.0.0.0 chhajjaart.com
 0.0.0.0 chi-research.com.au
 0.0.0.0 chiaiamagazine.it
@@ -20641,6 +20642,7 @@
 0.0.0.0 comrade.by
 0.0.0.0 comrepbuchten.com
 0.0.0.0 coms-trans.com
+0.0.0.0 comsefaz.org.br
 0.0.0.0 comservice.org
 0.0.0.0 comsketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 0.0.0.0 comsotaque.com
@@ -25867,7 +25869,6 @@
 0.0.0.0 digitalankur.com
 0.0.0.0 digitalaxom.in
 0.0.0.0 digitalbazar.com
-0.0.0.0 digitalbrit.com
 0.0.0.0 digitalbugs.co.in
 0.0.0.0 digitalcarecorporation.com
 0.0.0.0 digitalcdnpro.com
@@ -31580,6 +31581,7 @@
 0.0.0.0 etavern.ro
 0.0.0.0 etawala.com
 0.0.0.0 etbim.com
+0.0.0.0 etbnaman.com
 0.0.0.0 etc55.ru
 0.0.0.0 etcert.com
 0.0.0.0 etcgroupsrl.com
@@ -32132,6 +32134,7 @@
 0.0.0.0 exams-success.com
 0.0.0.0 exams4sale.com
 0.0.0.0 examsinfo.in
+0.0.0.0 examsnap.io
 0.0.0.0 exbace.com
 0.0.0.0 exbook.mhkzolution.com
 0.0.0.0 excalibursol.com
@@ -32460,6 +32463,7 @@
 0.0.0.0 eznab.com
 0.0.0.0 ezola.fr
 0.0.0.0 ezoneconnect.com
+0.0.0.0 ezoterra.com.ua
 0.0.0.0 ezprofitfx.com
 0.0.0.0 ezpullonline.com
 0.0.0.0 ezrachile.cl
@@ -43488,6 +43492,7 @@
 0.0.0.0 icaremedical.org
 0.0.0.0 icari.org
 0.0.0.0 icariacoop.cat
+0.0.0.0 icart.lk
 0.0.0.0 icaruslearning.cl
 0.0.0.0 icarzone.com
 0.0.0.0 icaservices.net
@@ -50517,6 +50522,7 @@
 0.0.0.0 kishket.ru
 0.0.0.0 kishroyall.com
 0.0.0.0 kiskakisska.xyz
+0.0.0.0 kissanime24.com
 0.0.0.0 kisshorestaurant.vn
 0.0.0.0 kissliv.flu.cc
 0.0.0.0 kisswarm.com
@@ -55280,7 +55286,6 @@
 0.0.0.0 luisromero.es
 0.0.0.0 luizazan.ro
 0.0.0.0 luizdroidbr.top
-0.0.0.0 lujo.store
 0.0.0.0 lujo.world
 0.0.0.0 lukabrazzi.top
 0.0.0.0 lukahoward.com
@@ -56043,6 +56048,7 @@
 0.0.0.0 mahatmagandhiandsardarpateltrust.com
 0.0.0.0 mahayogasana.org
 0.0.0.0 mahboobasif.com
+0.0.0.0 mahdavischool.org
 0.0.0.0 mahdehadis.ir
 0.0.0.0 mahdepardis.com
 0.0.0.0 mahdiabdullahi.ir
@@ -61401,7 +61407,6 @@
 0.0.0.0 motzadministraties.nl
 0.0.0.0 mouas.xyz
 0.0.0.0 mouaysha.com
-0.0.0.0 moufed.com
 0.0.0.0 moulin-de-la-hunelle.be
 0.0.0.0 mouni11.xyz
 0.0.0.0 mounicmadiraju.com
@@ -63484,6 +63489,7 @@
 0.0.0.0 ndrs.cloud
 0.0.0.0 ndzila.com
 0.0.0.0 ne1.apparteworkshop.com
+0.0.0.0 neabot.com
 0.0.0.0 nealhunterhyde.com
 0.0.0.0 neamatflourmills.com
 0.0.0.0 neandermall.com
@@ -72249,6 +72255,7 @@
 0.0.0.0 pronics-reh.com
 0.0.0.0 pronnuaire.fr
 0.0.0.0 pronodujour.fr
+0.0.0.0 pronomina.store
 0.0.0.0 pronosticosdeportivosla.com
 0.0.0.0 pronutrition.gr
 0.0.0.0 proofartist.info
@@ -72435,6 +72442,7 @@
 0.0.0.0 prowidor.com
 0.0.0.0 prowidorcom
 0.0.0.0 prowin.co.th
+0.0.0.0 prox.realunix.cc
 0.0.0.0 proxectomascaras.com
 0.0.0.0 proxima-advertising.com
 0.0.0.0 proxima-solution.com
@@ -74563,7 +74571,6 @@
 0.0.0.0 razorse.in
 0.0.0.0 razprueba.000webhostapp.com
 0.0.0.0 razvivashka.kz
-0.0.0.0 razwerks.com
 0.0.0.0 rb-graphic.com
 0.0.0.0 rb16q6a.com
 0.0.0.0 rbailoni.com.br
@@ -75371,7 +75378,6 @@
 0.0.0.0 renttoowncare.com
 0.0.0.0 renttoownspace.com
 0.0.0.0 rentwithconfidence.com
-0.0.0.0 renu-bansal.com
 0.0.0.0 renukagraphics.com
 0.0.0.0 renzofurniture.ir
 0.0.0.0 reobotealimentos.com.br
@@ -81779,6 +81785,7 @@
 0.0.0.0 sissman.com
 0.0.0.0 sissz.site
 0.0.0.0 sistacweb.com
+0.0.0.0 sistaqui.com
 0.0.0.0 sistecmex.com.mx
 0.0.0.0 sistelligent.com
 0.0.0.0 sistema.eseicanea.com.ar
@@ -82238,7 +82245,6 @@
 0.0.0.0 slotsday.gr
 0.0.0.0 slotshots2.yggdrasilgaming.com
 0.0.0.0 slotworld.in
-0.0.0.0 slotxogameth.com
 0.0.0.0 sloughchessacademy.com
 0.0.0.0 slovak-cts.sk
 0.0.0.0 slowerfants.info
@@ -86993,7 +86999,6 @@
 0.0.0.0 tachibana-kikka.xyz
 0.0.0.0 tachira24horas.com
 0.0.0.0 tachyonicecho.com
-0.0.0.0 tacloban.gov.ph
 0.0.0.0 tacnaemprendedora.pe
 0.0.0.0 tacoar.com.br
 0.0.0.0 tacollective.org
@@ -87502,7 +87507,6 @@
 0.0.0.0 tastelaspices.in
 0.0.0.0 tastemuskoka.com
 0.0.0.0 tastentasty.com
-0.0.0.0 tasteoff.com
 0.0.0.0 tastes2plate.com
 0.0.0.0 tastorm.in
 0.0.0.0 tasty-store.online
@@ -90751,6 +90755,7 @@
 0.0.0.0 tmpartners-gh.com
 0.0.0.0 tmpconsultores.com
 0.0.0.0 tmpfile.gq
+0.0.0.0 tmpfiles.org
 0.0.0.0 tmpressio.org
 0.0.0.0 tmr.pe
 0.0.0.0 tmrz10fxhy03ntxjf.com
@@ -93129,6 +93134,7 @@
 0.0.0.0 ufukturpcan.com
 0.0.0.0 ufwbhrajjsrlkgr.usa.cc
 0.0.0.0 ugajin.net
+0.0.0.0 ugandahotgirls.com
 0.0.0.0 ugateshop.com
 0.0.0.0 ugira.lt
 0.0.0.0 ugl.ch
@@ -95335,6 +95341,7 @@
 0.0.0.0 videosonik.com.mk
 0.0.0.0 videossources.com
 0.0.0.0 videoswebcammsn.free.fr
+0.0.0.0 videract.com
 0.0.0.0 vides.org
 0.0.0.0 videsrona.com
 0.0.0.0 vidhamastudios.com
@@ -98924,7 +98931,6 @@
 0.0.0.0 wrrodrigo.com
 0.0.0.0 wrtech.com.pl
 0.0.0.0 wrusnollet.com
-0.0.0.0 wrzucacz.pl
 0.0.0.0 wrzutka.co
 0.0.0.0 ws-ebavisapia01-dll.ir
 0.0.0.0 ws3lfkm.com
@@ -100830,6 +100836,7 @@
 0.0.0.0 youlife.org
 0.0.0.0 youlya.com
 0.0.0.0 youmeal.io
+0.0.0.0 youmeet.ir
 0.0.0.0 younaidee.com
 0.0.0.0 youneedblue.com
 0.0.0.0 younesalturkey.sa
