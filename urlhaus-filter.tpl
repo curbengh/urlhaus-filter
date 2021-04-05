@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 04 Apr 2021 12:12:37 UTC
+# Updated: Mon, 05 Apr 2021 00:12:33 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -450,7 +450,6 @@ msFilterList
 -d 1p57.com
 -d 1pisoflight.com
 -d 1played.com
--d 1plus-agency.com
 -d 1podcast.best
 -d 1podcast.xyz
 -d 1point2.com.au
@@ -18523,7 +18522,6 @@ msFilterList
 -d chfourstdyanothestmw.dns.army
 -d chfourstdyanothestoq.dns.army
 -d chfriendmanufactureglobalbusinessanddns.duckdns.org
--d chg.org.uk
 -d chhajjaart.com
 -d chi-research.com.au
 -d chiaiamagazine.it
@@ -26304,7 +26302,6 @@ msFilterList
 -d diversifii.com
 -d diversitycityin.com
 -d diversityfoodbrands.com
--d diversitymbamagazine.com
 -d diversitywealth.com
 -d diverzeent.com
 -d divewithluka.com
@@ -29708,6 +29705,7 @@ msFilterList
 -d ekokominki.pl
 -d ekolab.by
 -d ekolaser.ru
+-d ekolfotografcilik.com
 -d ekolog.org
 -d ekomaiko.cl
 -d ekomart.com.ua
@@ -32137,7 +32135,6 @@ msFilterList
 -d exams-success.com
 -d exams4sale.com
 -d examsinfo.in
--d examsnap.io
 -d exbace.com
 -d exbook.mhkzolution.com
 -d excalibursol.com
@@ -34605,7 +34602,6 @@ msFilterList
 -d flow.advtest.lgn.by
 -d flowca.top
 -d flowconcepts.no
--d flowdemusic.net
 -d flower.hxgtech.com
 -d flower.webdungsan.com
 -d flowerbed.cz
@@ -46230,6 +46226,7 @@ msFilterList
 -d iskro.textronic.info
 -d iskyservice.ru
 -d islaholics.com
+-d islamabadtrafficpolice.gov.pk
 -d islamabout.com
 -d islamappen.se
 -d islamforall.tv
@@ -72262,7 +72259,6 @@ msFilterList
 -d pronics-reh.com
 -d pronnuaire.fr
 -d pronodujour.fr
--d pronomina.store
 -d pronosticosdeportivosla.com
 -d pronutrition.gr
 -d proofartist.info
@@ -74678,6 +74674,7 @@ msFilterList
 -d rdkrussia.ru
 -d rdmapperels.com
 -d rdmarmotte.net
+-d rdmsinfotechs.com
 -d rdnetworkdesign.co.uk
 -d rdp.smitiv.email
 -d rdp3.dgsn.fr
@@ -78328,7 +78325,6 @@ msFilterList
 -d santexindustries.com
 -d santexls-ykt.ru
 -d santexnik54.ru
--d santhai.lk
 -d santhoshibitcoinlocalmarketdropdownand.duckdns.org
 -d santiago.elmamamobil.com
 -d santiagodelgado.es
@@ -78569,7 +78565,6 @@ msFilterList
 -d satu.carijasa.co
 -d saturday-school.org
 -d satutitik.com
--d satyagroup.co
 -d satyam.cl
 -d satyammetals.com
 -d satyasumamarketers.in
@@ -86333,7 +86328,6 @@ msFilterList
 -d suryahotelduri.com
 -d suryalife.in
 -d suryanasional.com
--d suryaprimaimplantama.com
 -d suryatelecom.com.br
 -d suryodayfoundations.org.in
 -d sus-4.com
@@ -88939,7 +88933,6 @@ msFilterList
 -d textielacademie.be
 -d textildruck-saar.de
 -d textile.softberg.ro
--d textileanalytics.pk
 -d textileboilerltd.com
 -d textiledb.ir
 -d textilehub.com.pk
@@ -97676,6 +97669,7 @@ msFilterList
 -d wetheelusive.com
 -d wethotpornpussy.com
 -d wetnjoy.in
+-d wetnjoyshirdi.com
 -d wetnosesandwhiskers.com
 -d wetransfer-filesystemdownload.duckdns.org
 -d wetransferdownloads.duckdns.org
