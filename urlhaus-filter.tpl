@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Tue, 06 Apr 2021 12:12:47 UTC
+# Updated: Wed, 07 Apr 2021 00:13:27 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -4958,10 +4958,12 @@ msFilterList
 -d aliefx.my
 -d alien34.duckdns.org
 -d aliena.ee
+-d alienconvenants.duckdns.org
 -d alientec.ch
 -d aliexpress-hot.ru
 -d aliexpressgo.eu
 -d alifahmedbd.com
+-d alifecoffee.xyz
 -d aliff.co.uk
 -d alifgame.com
 -d alifhost.com
@@ -14222,6 +14224,7 @@ msFilterList
 -d bodyforall.nl
 -d bodyhealthbrasil.com
 -d bodyinnovation.co.za
+-d bodylanguage.santulan.co.in
 -d bodymeals.ru
 -d bodymindclinic.pl
 -d bodymindcounselling.ca
@@ -16291,6 +16294,7 @@ msFilterList
 -d cakav.hu
 -d cake-trends.de
 -d cake.pinteresttwo.xyz
+-d cake3.xyz
 -d cakebook.gr
 -d cakejess.vn
 -d cakesbykharis.singlesglow.com
@@ -19982,6 +19986,7 @@ msFilterList
 -d coach-ukraine.com
 -d coach.getfit21latino.com
 -d coach4u.com.au
+-d coachankit.com
 -d coachbagsoutletfactory.net
 -d coachboom.mhtechnologies.us
 -d coachburt.com
@@ -21129,6 +21134,7 @@ msFilterList
 -d cooleco.com.ua
 -d coolershop.in
 -d coolfit.in
+-d coolgadgets.org
 -d coolgamesonline.xyz
 -d coolingsystemcaribe.com
 -d coolior.com
@@ -21389,6 +21395,7 @@ msFilterList
 -d corumtemizlik.com
 -d corumumutotomotiv.com
 -d corvis.co.uk
+-d corwin-tommie06f.ru.com
 -d coryl.usa.cc
 -d coscokorea.services
 -d coscorubber.com
@@ -25368,6 +25375,7 @@ msFilterList
 -d devotionalline.com
 -d devoyage.co
 -d devpro.ro
+-d devrongolf.com
 -d devs.mwpteam.com
 -d devsitemile.xyz
 -d devunifinancial.com
@@ -29584,6 +29592,7 @@ msFilterList
 -d egyptmotours.com
 -d egyptpharaohstours.com
 -d egyshadowmen.com
+-d egyutthato.eu
 -d egyuttkonnyebb.zolitoth.com
 -d egyvision.medicahealthy.net
 -d egywebtest.ml
@@ -31631,6 +31640,7 @@ msFilterList
 -d etherbound.org
 -d etherdox.com
 -d etherealcommunityrecords.com
+-d ethereality.info
 -d etherealms.com
 -d ethereumcashpr0.com
 -d ethernet.ug
@@ -40157,6 +40167,7 @@ msFilterList
 -d haleydevon.com
 -d halffish.co.uk
 -d halfgrown.nl
+-d halibut.site
 -d halimemerdler.com
 -d halimofset.com.tr
 -d haliullov.ru
@@ -43031,6 +43042,7 @@ msFilterList
 -d humas.lomboktengahkab.go.id
 -d humas.unila.ac.id
 -d humbertoavila.com.br
+-d humblebeginnings.in
 -d humblefox.kz
 -d humdes.online
 -d humdingerdesigns.com.au
@@ -44002,6 +44014,7 @@ msFilterList
 -d ihatecamping.com
 -d ihatehimsomuch.com
 -d ihaveaheart.org
+-d ihaveanidea.org
 -d ihax.site
 -d ihbnaoisdnasdasd.com
 -d ihbsystem.com
@@ -44069,6 +44082,7 @@ msFilterList
 -d ik-7.ru
 -d ik-instaling.com
 -d ik.termopanemaramures.ro
+-d ikahotel.com
 -d ikama.cal24.pl
 -d ikamel.com
 -d ikanwa.com
@@ -46243,7 +46257,6 @@ msFilterList
 -d iskro.textronic.info
 -d iskyservice.ru
 -d islaholics.com
--d islamabadtrafficpolice.gov.pk
 -d islamabout.com
 -d islamappen.se
 -d islamforall.tv
@@ -46865,6 +46878,7 @@ msFilterList
 -d jacque.lp18.mmi-nancy.fr
 -d jacquesrougeau.ca
 -d jacquie.cool
+-d jaculus.ru
 -d jada-msag.000webhostapp.com
 -d jada.co.in
 -d jade.com.mx
@@ -49487,6 +49501,7 @@ msFilterList
 -d katavina.vn
 -d katebayless.com
 -d katebeefoundation.org.ng
+-d katelynn9506a.ru.com
 -d katerinaspa.com
 -d katersplugings.tk
 -d katesemernya.ru
@@ -51643,6 +51658,7 @@ msFilterList
 -d kuligi.wislaa.pl
 -d kulikovonn.ru
 -d kuliner.ilmci.com
+-d kullumanalitours.com
 -d kulmala.info
 -d kulshai.com
 -d kultfitness.com
@@ -52125,6 +52141,7 @@ msFilterList
 -d lafabriquedesign.com
 -d laferrugem.com
 -d laffansgranito.com
+-d lafiammasc.com.au
 -d lafiduciastudio.hu
 -d lafiestasd.com
 -d laflamme-heli.com
@@ -65510,7 +65527,6 @@ msFilterList
 -d nt-group.kz
 -d nt-kmv.ru
 -d nta.newtribe.nl
--d ntaabhyasmaster.net
 -d ntad.vn
 -d ntamachlning-my.com
 -d ntan4president.org
@@ -72279,6 +72295,7 @@ msFilterList
 -d pronics-reh.com
 -d pronnuaire.fr
 -d pronodujour.fr
+-d pronomina.store
 -d pronosticosdeportivosla.com
 -d pronutrition.gr
 -d proofartist.info
@@ -75702,6 +75719,7 @@ msFilterList
 -d revmom.com
 -d revneuropsi.com.ar
 -d revol.vn
+-d revolet-sa.com
 -d revoltfootballeducation.com
 -d revolum.hu
 -d revolutionizeselling.com
@@ -84037,6 +84055,7 @@ msFilterList
 -d spress.cl
 -d spring-box.fr
 -d springalumnichile.com
+-d springbedspetroleum.com
 -d springconsultancy.co.in
 -d springcreek-townhomes.com
 -d springcube.com
@@ -89309,6 +89328,7 @@ msFilterList
 -d thecommunitymena.com
 -d thecomputerbusiness.com
 -d thecomputerpart.com
+-d theconcept.am
 -d theconnectionsindia.com
 -d theconsciouslivingguide.com
 -d theconservatives.us
@@ -89405,6 +89425,7 @@ msFilterList
 -d thefacilityhub.com
 -d thefamilyexperts.com
 -d thefamilysquabble.com
+-d thefamouscurrybazaar.co.uk
 -d thefanembassy.com
 -d thefashion.co.in
 -d thefashionchamp.co
@@ -90404,6 +90425,7 @@ msFilterList
 -d tidewatermech.com
 -d tidurterbalik.site
 -d tidyhome.in
+-d tidymasters.com.au
 -d tie281chad2.xyz
 -d tiefquehltruhe.de
 -d tiegy.vip
@@ -91940,6 +91962,7 @@ msFilterList
 -d trellini.it
 -d trellosoft.pro
 -d tremile.com
+-d tren0.ru
 -d trench-trip.jp
 -d trend-studio.art
 -d trendandfollow.com
@@ -94904,6 +94927,7 @@ msFilterList
 -d velimir-grgic.com
 -d velisnackindonesia.com
 -d velissimilio.site
+-d veljko.id
 -d vellosoft.com
 -d velma-harber30ku.com
 -d velo2.mon-application.com
@@ -98960,6 +98984,7 @@ msFilterList
 -d wrrodrigo.com
 -d wrtech.com.pl
 -d wrusnollet.com
+-d wrzucacz.pl
 -d wrzutka.co
 -d ws-ebavisapia01-dll.ir
 -d ws3lfkm.com
