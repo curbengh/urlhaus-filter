@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Wed, 07 Apr 2021 12:24:23 UTC
+# Updated: Thu, 08 Apr 2021 00:12:42 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2065,6 +2065,7 @@ msFilterList
 -d aamnaaya.in
 -d aamra-com.ga
 -d aanarehabcenter.com
+-d aandachtvoormieke.nl
 -d aandatech.com
 -d aandeslagmetpit.nl
 -d aandjcornucopia.com
@@ -5559,6 +5560,7 @@ msFilterList
 -d altinlarinsaat.com
 -d altinoluk-akcay.com
 -d altitudeevents.co.za
+-d altituderh.ma
 -d altitudesurfacesolutions.com
 -d altitudpublicidad.com
 -d altn.com.cn
@@ -8605,7 +8607,6 @@ msFilterList
 -d asr.com.ua
 -d asreklam.az
 -d asresaat.com
--d asri-no.ir
 -d asria.in
 -d asrijeweler.com
 -d asrr.com.au
@@ -10924,6 +10925,7 @@ msFilterList
 -d baskanligagidenyol.com
 -d baskentatameslekegitim.com
 -d baskentfirinmakina.com
+-d basket2.xyz
 -d basket4kids.net
 -d basketbaldenhaag.nl
 -d basketballvalenciachallenge.com
@@ -11097,6 +11099,7 @@ msFilterList
 -d bayseosmm.xyz
 -d baysidehps.org
 -d baysoundstudios.com
+-d baystoneworks.com
 -d baystreetbbs.org
 -d bayswaterfinancial.com.au
 -d baytk-ksa.com
@@ -16946,6 +16949,7 @@ msFilterList
 -d carlovalentemusic.com
 -d carlpalmer.readeranswer.com
 -d carlsagancosmos.fun
+-d carlsbadre.com
 -d carlsonarts.com
 -d carluxshop.com
 -d carlyarts.tk
@@ -17047,6 +17051,7 @@ msFilterList
 -d carservicesltd.com
 -d carshoez.com
 -d carsibazar.com
+-d carsidecor.com
 -d carsiorganizasyon.com
 -d carsitxal.tk
 -d carsonbiz.com
@@ -22528,6 +22533,7 @@ msFilterList
 -d cursodehebraico.com
 -d cursodigital.tech
 -d cursoelementor.netweeb.com
+-d cursoeurobrasileiro.com
 -d cursopadrao.com.br
 -d cursos.academia506.com
 -d cursos.fdce.com.br
@@ -26325,6 +26331,7 @@ msFilterList
 -d diversifii.com
 -d diversitycityin.com
 -d diversityfoodbrands.com
+-d diversitymbamagazine.com
 -d diversitywealth.com
 -d diverzeent.com
 -d divewithluka.com
@@ -30361,6 +30368,7 @@ msFilterList
 -d emeralfgroup.com
 -d emergences.besancon.fr
 -d emergencyacrepair.org
+-d emergencydentistlondonpro.co.uk
 -d emergoproperties.com
 -d emermia.org
 -d emerson-academy.2019.sites.air-rallies.org
@@ -31472,6 +31480,7 @@ msFilterList
 -d esquso.com
 -d esraashaikh.com
 -d esrahanum.com
+-d esrhf04.top
 -d esrmotors.com
 -d esrpower.com
 -d ess.nisupustudio.com
@@ -38392,6 +38401,7 @@ msFilterList
 -d golihi.com
 -d golinveau.be
 -d golmno.ru
+-d golocker.com
 -d goloramltd.com
 -d goloseriesrl.com
 -d golovastiky.ru
@@ -38639,6 +38649,7 @@ msFilterList
 -d gotrungtuan.online
 -d gotshed.com
 -d gottagofishinginkeywest.com
+-d gottalife.net
 -d gotthardtdesigns.com
 -d gottlieb.ru
 -d goturizm.com
@@ -42241,6 +42252,7 @@ msFilterList
 -d homeworldonline.co.uk
 -d homexxl.de
 -d homeydanceschool.com
+-d homful.info
 -d homietv.com
 -d homing.us
 -d homizuxu.myhostpoint.ch
@@ -46168,6 +46180,7 @@ msFilterList
 -d iryna.biz
 -d is-hp.com
 -d is-yap.com
+-d is.net.sa
 -d is4340.azurewebsites.net
 -d is45wdsed4455sdfsf.duckdns.org
 -d isaac.mikhailmotoringschool.com
@@ -46869,6 +46882,7 @@ msFilterList
 -d jacksonedwin247.5gbfree.com
 -d jacksonmatt.ug
 -d jacksons.store
+-d jacksonvilletaxaccountants.com
 -d jacksonvillewaterdamage.org
 -d jackspatelweb.000webhostapp.com
 -d jacktech.jackindia.com
@@ -50133,7 +50147,6 @@ msFilterList
 -d khannen.com.vn
 -d khannen.vn
 -d khanqahebrahimi.com
--d khantil.com
 -d khantipong.com
 -d khaochills.com
 -d khaoden.tech
@@ -50636,6 +50649,7 @@ msFilterList
 -d kiziltepedemirdogramacilareso.org
 -d kiziltepemarangozmobeso.org
 -d kiziltepeototamircilereso.org
+-d kizitox.ga
 -d kizlardunyasi.com
 -d kj.xxxoc.com
 -d kjbm4.mof.gov.cn
@@ -50709,6 +50723,7 @@ msFilterList
 -d klaustrofebia.ru
 -d klavze28.com
 -d klbay.net
+-d kldatabase.com
 -d kleeblatt.gr.jp
 -d kleenarkosmetik.site
 -d klein-direkt.de
@@ -53030,7 +53045,6 @@ msFilterList
 -d leclix.com
 -d lecmess.top
 -d lecoindia.in
--d lecolefacile.org
 -d lecombava.com
 -d lecraic.com
 -d lecreo.se
@@ -57826,6 +57840,7 @@ msFilterList
 -d masertalaamar.com
 -d maservisni.eu
 -d mash-allah.com
+-d masharie.online
 -d mashhadani.com
 -d mashhadkabinet.ir
 -d mashhadskechers.com
@@ -78381,6 +78396,7 @@ msFilterList
 -d santexindustries.com
 -d santexls-ykt.ru
 -d santexnik54.ru
+-d santhai.lk
 -d santhoshibitcoinlocalmarketdropdownand.duckdns.org
 -d santiago.elmamamobil.com
 -d santiagodelgado.es
@@ -79130,6 +79146,7 @@ msFilterList
 -d scultracing.com
 -d scultsport.com
 -d scultworld.eu
+-d scuolascismile.it
 -d scupdate.usa.cc
 -d scvarosario.com
 -d scvmedia.ro
@@ -81404,6 +81421,7 @@ msFilterList
 -d siga.com.pe
 -d sigalas-loukas.gr
 -d sigaoferta.com.br
+-d sigapresschennai.com
 -d sige.brisainformatica.com.br
 -d sigelcorp.com.br
 -d sigelcorp.studiosigel.com.br
@@ -82859,6 +82877,7 @@ msFilterList
 -d sobyso.vn
 -d socaleights.com
 -d socalresearch.org
+-d socalvending.com
 -d soccer-resources.com
 -d soccer4peaceacademy.com
 -d socco.nl
@@ -83918,6 +83937,7 @@ msFilterList
 -d spiritofbeauty.de
 -d spiritsplatform-my.sharepoint.com
 -d spiritualarity.com
+-d spiritualdialogues.com
 -d spiritualfoodshq.com
 -d spiritualhealerashish.com
 -d spiritualisticmastery.com
@@ -84214,6 +84234,7 @@ msFilterList
 -d srinivastata.net
 -d sripalanimalaimurugan.com
 -d sripalee.srilk.com
+-d sripetaling.edu.my
 -d sripipat.com
 -d srirachaport.com
 -d sriretail.com
@@ -88993,7 +89014,6 @@ msFilterList
 -d textielacademie.be
 -d textildruck-saar.de
 -d textile.softberg.ro
--d textileanalytics.pk
 -d textileboilerltd.com
 -d textiledb.ir
 -d textilehub.com.pk
@@ -89670,6 +89690,7 @@ msFilterList
 -d theluggagelady.com
 -d theluxdowntown.com
 -d theluxestudio.co.uk
+-d theluxuryliaisons.com
 -d theluxurytrainsofindia.com
 -d thelvws.com
 -d them3m.com
@@ -93201,7 +93222,6 @@ msFilterList
 -d ufukturpcan.com
 -d ufwbhrajjsrlkgr.usa.cc
 -d ugajin.net
--d ugandahotgirls.com
 -d ugateshop.com
 -d ugira.lt
 -d ugl.ch
@@ -98038,6 +98058,7 @@ msFilterList
 -d wilkinson.digital
 -d wilkopaintinc.com
 -d will-clean.hk
+-d will-tauschen.com
 -d willandeco.fi
 -d willandskillenablement.com
 -d willardmusic.com
@@ -100993,6 +101014,7 @@ msFilterList
 -d yourstrulycosmetics.ca
 -d yoursupin.com
 -d yourtopdog.com.au
+-d yourtrending.com
 -d yourtvonline.cloudaccess.host
 -d yourways.se
 -d yourwebproject.net
@@ -101828,6 +101850,7 @@ msFilterList
 -d ziplabs.com.au
 -d ziplancer.io
 -d zippe.com.br
+-d zippyfitnessplan.com
 -d zippyrooter.com
 -d zippywaytest.toppermaterial.com
 -d zipserver.ml
