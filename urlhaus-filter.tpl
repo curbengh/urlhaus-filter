@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 09 Apr 2021 12:12:55 UTC
+# Updated: Sat, 10 Apr 2021 00:12:41 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -18000,6 +18000,7 @@ msFilterList
 -d cesarmoroy.com
 -d cescaa.com
 -d cesindonesia.com
+-d cesiroinsurance.com
 -d cespol-bote.com.mx
 -d cessionvehicule.fr
 -d cestenelles.jakobson.fr
@@ -21922,6 +21923,7 @@ msFilterList
 -d cremasecosostenibles.com
 -d crematopy.bid
 -d cremerieamattouch.com
+-d cremin-ian07u.ru.com
 -d crempco.com
 -d creoebs.com
 -d crepuscular-blot.000webhostapp.com
@@ -25493,6 +25495,7 @@ msFilterList
 -d dgkawaichi.com
 -d dgkhj.ru
 -d dglass.cl
+-d dgnet.com.br
 -d dgnj.cn
 -d dgnutrition.com
 -d dgpratomo.com
@@ -26338,7 +26341,6 @@ msFilterList
 -d diversifii.com
 -d diversitycityin.com
 -d diversityfoodbrands.com
--d diversitymbamagazine.com
 -d diversitywealth.com
 -d diverzeent.com
 -d divewithluka.com
@@ -31376,6 +31378,7 @@ msFilterList
 -d esenolcum.com
 -d esenyurtevdeneve.net
 -d eserfitness.org
+-d eservices.immigration.gov.lk
 -d esets.club
 -d esf-ltd.com
 -d esfagrup.com
@@ -31393,6 +31396,7 @@ msFilterList
 -d eshraqit.ir
 -d esi.am
 -d esiglass.it
+-d esimu07.top
 -d esinnovacion.es
 -d esinseyrek.com
 -d esinvestmentinc.ezitsolutions.net
@@ -42250,6 +42254,7 @@ msFilterList
 -d homesystems.com.ua
 -d hometecuk.emirhasham.com
 -d hometgarsdev.popcorn-communication.com
+-d hometownchick.com
 -d hometownflooringwf.com
 -d hometrotting.com
 -d homewatchamelia.com
@@ -45174,6 +45179,7 @@ msFilterList
 -d innenmoebel.de
 -d innercitysolutions.net
 -d innerlinkdesign.com
+-d innermetransformation.com
 -d innersmile.ca
 -d innerspace.in
 -d innervation.com
@@ -58603,7 +58609,6 @@ msFilterList
 -d medfetal.org
 -d medfiles.me
 -d medfront.mx
--d medgen.pl
 -d medhairya.com
 -d medhaozone.co.in
 -d medhatzaki.com
@@ -61652,7 +61657,6 @@ msFilterList
 -d mr-log.ru
 -d mr-uka.com
 -d mr-website.ir
--d mra.gov.pg
 -d mracessorios.com
 -d mracinfissi.com
 -d mrafieian.ir
@@ -68121,7 +68125,6 @@ msFilterList
 -d pages.marketingdigitaltop.com.br
 -d pages.suddenlink.net
 -d pages4web.at
--d pageshare.net
 -d pagina.emcascavel.com
 -d pagina20.net
 -d paginapeliculasonline.info
@@ -77189,6 +77192,7 @@ msFilterList
 -d runningcrewteam.com
 -d runningmania.net
 -d runningvillage.com
+-d runolfsson-jayde07s.ru.com
 -d runrunjz.com
 -d runsite.ru
 -d runtah.com
@@ -80487,6 +80491,7 @@ msFilterList
 -d shalimarspice.com
 -d shalinahealthcare.lpipl.com
 -d shalomadonai.com.br
+-d shalombaptistchapel.com
 -d shalome.it
 -d shalomgame.co.il
 -d shalomgame.com
@@ -82545,6 +82550,7 @@ msFilterList
 -d smartwiztech.com
 -d smartxstate.org
 -d smartzedu.com
+-d smartzonuae.com
 -d smarytie.ir
 -d smashboxband.co.nz
 -d smashingcake.com
@@ -89258,6 +89264,7 @@ msFilterList
 -d theawakeningchurch.cl
 -d theayurvedaonline.com
 -d thebabsite.com
+-d thebabybasket.co.uk
 -d thebackslant.com
 -d thebackyardat60nyc.com
 -d thebagforum.com
