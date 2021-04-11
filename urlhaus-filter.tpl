@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 10 Apr 2021 12:12:46 UTC
+# Updated: Sun, 11 Apr 2021 00:12:49 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -5448,7 +5448,6 @@ msFilterList
 -d alpine.kz
 -d alpineapparels.uk
 -d alpinecare.co.uk
--d alpinehandlingsystems.com
 -d alpineinternet.com.au
 -d alpinepaintingandrestoration.com
 -d alpinetrekkers.pk
@@ -13203,7 +13202,6 @@ msFilterList
 -d blackoutthebox.com
 -d blackpearl61.com
 -d blackphoenixdigital.co
--d blackpoolaloud.org.uk
 -d blackrhinofl.com
 -d blackriverdistribution.com
 -d blackrockbible.com
@@ -22916,6 +22914,7 @@ msFilterList
 -d dabal.org
 -d dabcap.com
 -d dabelmarket.com
+-d dabesto.ir
 -d dabestway.com
 -d dabigshop.com
 -d dabrow.com
@@ -27812,6 +27811,7 @@ msFilterList
 -d drikitis.de
 -d drill.tessellagrid2.com
 -d drillcompany-mx.com
+-d drilldown-media.com
 -d drink.ti13.cba.pl
 -d drinkangola.com
 -d drinkdirect.co.uk
@@ -34327,7 +34327,6 @@ msFilterList
 -d fitgirlindia.com
 -d fithealthyliving.net
 -d fitin.health
--d fitin.us
 -d fitingym.nl
 -d fitmanacademy.com
 -d fitmode.vn
@@ -51928,7 +51927,6 @@ msFilterList
 -d kyedoll.com
 -d kyesgroups.com
 -d kyiv.samopomich.ua
--d kyivremont.com
 -d kykeon-eleusis.com
 -d kykywka.xyz
 -d kyla.combinesell.com
@@ -61798,7 +61796,6 @@ msFilterList
 -d msdfit-mog.by
 -d msdfjkhxcv.ug
 -d msdjkhjcv.ug
--d msdolany.cz
 -d msecurity.ro
 -d msek.lviv.ua
 -d msemilieoxford.com
@@ -63246,7 +63243,6 @@ msFilterList
 -d narkology-vikont.ru
 -d narlicita.com
 -d narmada.mykfn.com
--d narmadasamagra.org
 -d narodna-tvorchist.poltava.ua
 -d narranderagolfclub.com.au
 -d narreso.org
@@ -63496,6 +63492,7 @@ msFilterList
 -d nba24x7.com
 -d nbargaincentre.co.za
 -d nbawtsfgiobm.notificacaojuridica2015.net
+-d nbcc.org.ng
 -d nbdservizi.com
 -d nbfcs.club
 -d nbfghreqww.ug
@@ -64957,8 +64954,10 @@ msFilterList
 -d nl.mjndomein.systems
 -d nlab.lk
 -d nlcode.com
+-d nlemmy.ru
 -d nlemmy1.ru
 -d nlemmy2.ru
+-d nlenny.ru
 -d nlfashionbd.biz
 -d nlfgo.com
 -d nlfpakistan.com
@@ -84677,6 +84676,7 @@ msFilterList
 -d starkdoor.com
 -d starke-bello.de
 -d starkeyhearingtechnologies-my.sharepoint.com
+-d starkmotorracing.com
 -d starkov115.cz
 -d starlebanon.net
 -d starlight.cocobay.vn
@@ -91135,6 +91135,7 @@ msFilterList
 -d tongdaiao.net
 -d tongdaifpt.net
 -d tongdaigroup.com
+-d tongdaihanoi.com
 -d tongdailyson.com
 -d tongdaive.net
 -d tongdaotech.com.cn
@@ -100422,6 +100423,7 @@ msFilterList
 -d yaldizmatbaa.com
 -d yalfinteencontre.com
 -d yalinosgb.com
+-d yalla11.com
 -d yallagul.com
 -d yallamango.com
 -d yallasaffar.com
