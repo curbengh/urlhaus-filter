@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 11 Apr 2021 00:12:49 UTC
+# Updated: Sun, 11 Apr 2021 12:12:46 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3748,7 +3748,6 @@ msFilterList
 -d agenza18.ayz.pl
 -d agenziabalestri.it
 -d agenziadiviaggidinozzetorino.it
--d agenziainformazioni.icu
 -d agepsed.org
 -d agereversalcreamam.com
 -d agernatura.com
@@ -11165,7 +11164,6 @@ msFilterList
 -d bbfr.cba.pl
 -d bbgiardinodoriente.it
 -d bbgk.de
--d bbgroup.com.vn
 -d bbh-design.de
 -d bbhdata.com
 -d bbhs.org.ng
@@ -12497,7 +12495,6 @@ msFilterList
 -d bierne-les-villages.fr
 -d biese.eu
 -d bietthubien.org
--d bietthudep902.com
 -d bietthulambach.com
 -d bietthulienkegamuda.net
 -d bietthumau.com
@@ -16058,6 +16055,7 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
+-d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -16604,6 +16602,7 @@ msFilterList
 -d canexkhalij.com
 -d caneyvalleycorvetteclub.com
 -d canfrec.com.mx
+-d canghaisan.com
 -d cangol.com
 -d canguakho.net
 -d canho-ezland.com
@@ -17652,6 +17651,7 @@ msFilterList
 -d cdndownloadlp.club
 -d cdnmultimedia.com
 -d cdnpic.mgyun.com
+-d cdnrep.reimageplus.com
 -d cdnxh.net
 -d cdoconsult.com.br
 -d cdolechon.com
@@ -18245,7 +18245,6 @@ msFilterList
 -d chantdownproster.com
 -d chantellelouiseweddings.com
 -d chanthaonline.com
--d chanthegoat.com
 -d chantsetnotes.net
 -d chantsownpromax.com
 -d chanvribloc.com
@@ -19055,7 +19054,6 @@ msFilterList
 -d cidertree.libfoobar.com
 -d cididlawfirm.com
 -d cidn02mjco03pobx.com
--d cidoresearch.com
 -d cidpe-psicologia.com
 -d cieindia.com
 -d cielecka.pl
@@ -22355,6 +22353,7 @@ msFilterList
 -d ctec.ufal.br
 -d ctet.testlabz.com
 -d ctf-1111.net
+-d ctgame.tk
 -d ctgb-a.portalserver.nl
 -d ctghoteles.com
 -d ctgmasters.com
@@ -25496,7 +25495,6 @@ msFilterList
 -d dgkawaichi.com
 -d dgkhj.ru
 -d dglass.cl
--d dgnet.com.br
 -d dgnj.cn
 -d dgnutrition.com
 -d dgpratomo.com
@@ -27446,7 +27444,6 @@ msFilterList
 -d downlfile24.top
 -d downlo.vaixia.com
 -d download-cdn.com
--d download-invoice.site
 -d download-plugin.co.za
 -d download-plugins.co.za
 -d download-serverupdate.eu-gb.cf.appdomain.cloud
@@ -31449,7 +31446,6 @@ msFilterList
 -d espace-douche.com
 -d espace-photo-numerique.fr
 -d espace-vert.sdcrea.fr
--d espacebusiness.com
 -d espaceprive.enformes.fr
 -d espacerezo.fr
 -d espaces-interieurs.net
@@ -31585,6 +31581,7 @@ msFilterList
 -d estimating.training
 -d estimatorfind.com
 -d estimetercume.com
+-d estjh05.top
 -d estore.qurvex.com
 -d estoyadieta.com
 -d estrategias-corporativas.com
@@ -36119,7 +36116,6 @@ msFilterList
 -d fv1-2.failiem.lv
 -d fv13.failiem.lv
 -d fv15.failiem.lv
--d fv2-2.failiem.lv
 -d fv2-7.failiem.lv
 -d fv3.failiem.lv
 -d fv6.failiem.lv
@@ -42666,6 +42662,7 @@ msFilterList
 -d hotelwaldblick.com
 -d hotexpress.co
 -d hotfacts.org
+-d hotgifts.online
 -d hotilife.com
 -d hotissue.xyz
 -d hotkine.com
@@ -43365,7 +43362,6 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
--d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
 -d i.n.t.e.rloca.l.qs.j.y@jfas.top
@@ -46844,7 +46840,6 @@ msFilterList
 -d j-stage.jp
 -d j-toputvoutfitters.com
 -d j.kyryl.ru
--d j.top4top.io
 -d j11g9xecuxe43xu.xyz
 -d j12z7407gwtzk.xyz
 -d j13.biz
@@ -51005,6 +51000,7 @@ msFilterList
 -d kodim0112sabang.com
 -d kodingeko.com
 -d kodip.nfile.net
+-d kodjdsjsdjf.tk
 -d kodlacan.site
 -d kodmuje.com
 -d kodolios.000webhostapp.com
@@ -51380,6 +51376,7 @@ msFilterList
 -d kpuru.com
 -d kqfkqkf7ma.temp.swtest.ru
 -d kqs.me
+-d kr1s.ru
 -d kr888.top
 -d krabben.no
 -d krabbendamphotography.com
@@ -51523,7 +51520,6 @@ msFilterList
 -d kromlogistic.com
 -d krommaster.ru
 -d kromtour.com
--d kronenfelddesigns.com
 -d krones.000webhostapp.com
 -d kronkoskyplace.org
 -d kronosbrasil.com.br
@@ -54330,6 +54326,7 @@ msFilterList
 -d livecigarevent.com
 -d livecricketscorecard.info
 -d livedaynews.com
+-d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d livefarma.com
@@ -59479,7 +59476,6 @@ msFilterList
 -d mfomjr.com
 -d mfotovideo.ro
 -d mfpburundi.bi
--d mfpc.org.my
 -d mfppanel.xyz
 -d mfpvision.com
 -d mfronza.com.br
@@ -63692,7 +63688,6 @@ msFilterList
 -d nemchamientrung.com
 -d nemelyu871.info
 -d nemetboxer.com
--d nemexis.com
 -d nemnogoza30.ru
 -d nemocadeiras.com.br
 -d nemohexmega.com
@@ -67943,6 +67938,7 @@ msFilterList
 -d ozcamlibel.com.tr
 -d ozcanelektronik.com.tr
 -d ozdemirpolisaj.com
+-d ozdevelopment.com
 -d ozdomb.elitemarketing.hu
 -d oze-opole.pl
 -d oze.vn
@@ -72758,7 +72754,6 @@ msFilterList
 -d pubertilodersx.com
 -d pubg.cheat.cx
 -d pubgaz.com
--d pubgm.vnhax.com
 -d pubgmobilemodapk.com
 -d public.debtpaypro.com
 -d publica.cz
@@ -78719,7 +78714,6 @@ msFilterList
 -d savemyfile.3utilities.com
 -d savemyseatnow.com
 -d saveraahealthcare.com
--d saveserpnow.com
 -d saveserpresults.com
 -d savestudio.com
 -d savetax.idfcmf.com
@@ -81737,7 +81731,6 @@ msFilterList
 -d sindicatoserviestado.cl
 -d sindimetrors.org
 -d sinding.org
--d sindobatam.com
 -d sindpol.tiejuris.com.br
 -d sindquimsuzano.com.br
 -d sindsef-ro.org.br
@@ -82364,8 +82357,8 @@ msFilterList
 -d slppoffice.lk
 -d slrent.com
 -d slrpros.com
--d sls-eg.com
 -d sls-security.ru
+-d slsbearings.com.sg
 -d slservicebd.com
 -d slubnefury.pl
 -d slugard.5gbfree.com
@@ -86336,6 +86329,7 @@ msFilterList
 -d support.jbrueggemann.com
 -d support.loungu.com
 -d support.m2mservices.com
+-d support.mdsol.com
 -d support.nordenrecycling.com
 -d support.nuvemit.com
 -d support.pubg.com
@@ -86808,7 +86802,6 @@ msFilterList
 -d sylheternews24.com
 -d sylhetibeautiespower.com
 -d sylt-wulbrandt.de
--d sylvaclouds.eu
 -d sylvanbrandt.com
 -d sylvester.ca
 -d sylviastratieva.com
@@ -89416,7 +89409,6 @@ msFilterList
 -d thecreativeronin.com
 -d thecreativeshop.com.au
 -d thecreekpv.com
--d thecrites.com
 -d thecrookedstraight.com
 -d thecrossfithandbook.com
 -d thecryptocenter.xyz
@@ -89529,7 +89521,6 @@ msFilterList
 -d thefragrancefreeshop.com
 -d thefranssons.com
 -d thefreelancerschool.com
--d thefrees.com
 -d thefreewaterfoundation.org.za
 -d thefront.in
 -d thefuel.be
@@ -96565,7 +96556,6 @@ msFilterList
 -d vulpineproductions.be
 -d vuminhhuyen.com
 -d vuongauto.vn
--d vuongcode.com
 -d vuonnhatrong.com
 -d vuonorganic.com
 -d vuonsangtao.vn
@@ -99356,6 +99346,7 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
+-d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
@@ -101732,7 +101723,6 @@ msFilterList
 -d zf768.com
 -d zfgroup.com.cn
 -d zfsport.demacode.com.br
--d zgc.com.cn
 -d zgchgwsdycloudgowsaq.dns.army
 -d zgo2ze.com
 -d zgpyly.com
