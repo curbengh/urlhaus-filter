@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 11 Apr 2021 12:12:46 UTC
+# Updated: Mon, 12 Apr 2021 00:12:54 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -17567,7 +17567,6 @@ msFilterList
 -d ccs-moscow.ru
 -d ccs.elitekod.com
 -d ccsau.com
--d ccscanta.com
 -d ccsfw.club
 -d ccshh.org
 -d ccsnyc.kbmbk.com
@@ -23825,6 +23824,7 @@ msFilterList
 -d dcolepolos.or.ke
 -d dcomplices.com
 -d dconnect.com.tr
+-d dcpltech.com
 -d dcpn.projectsmd.in
 -d dcprint.me
 -d dcradicalwellbeing.com
@@ -25332,7 +25332,6 @@ msFilterList
 -d devblog-dofus.org
 -d devbyjr.com
 -d devc.121mk.com
--d devcloudperu.com
 -d devcorder.com
 -d devcore.pw
 -d devdatta.pacenashik.com
@@ -38527,7 +38526,6 @@ msFilterList
 -d googleapi.ru
 -d googleglobalbrandsearching.mangospot.net
 -d googlemeta.xyz
--d googleplusmarketpro.com
 -d googlerank.in
 -d googleresult.in
 -d googletime.ac.ug
@@ -45467,6 +45465,7 @@ msFilterList
 -d insulution.org
 -d insumex.com.mx
 -d insumoscerveceros.com.co
+-d insumosdentales.co
 -d insumosesmar.com
 -d insumosviltre.com.ar
 -d insur-expat.com
@@ -62306,6 +62305,7 @@ msFilterList
 -d muykeff.co.il
 -d muzammelhaq.com
 -d muzeumpodblanicka.cz
+-d muzey.com.ua
 -d muzhiki.brainarts.beget.tech
 -d muzhskoedelo.by
 -d muzhskoizhurnal.ru
@@ -64861,6 +64861,7 @@ msFilterList
 -d nissanquynhon.com.vn
 -d nissansaigon.vn
 -d nissanthanhhoa.vn
+-d nissanvinh.com.vn
 -d nissinedu.com
 -d nit.1darbarnyc.com
 -d nitadd.com
@@ -68805,6 +68806,7 @@ msFilterList
 -d patgon.cl
 -d patgramnews24.com
 -d pathaayamrestaurant.com
+-d pathanhandicrafts.com
 -d pathbio.med.upenn.edu
 -d pathfinderglobaledupubltd.com.ng
 -d pathiltravels.com
@@ -94989,7 +94991,6 @@ msFilterList
 -d velimir-grgic.com
 -d velisnackindonesia.com
 -d velissimilio.site
--d veljko.id
 -d vellosoft.com
 -d velma-harber30ku.com
 -d velo2.mon-application.com
@@ -95506,6 +95507,7 @@ msFilterList
 -d vietnamupr.com
 -d vietnamv1.com
 -d vietnamvisahub.com
+-d vietnhabienhoa.com
 -d vietsex.pro
 -d viettalent.edu.vn
 -d viettapha.vn
@@ -98665,7 +98667,6 @@ msFilterList
 -d wordpressdemo.site
 -d wordpresslearningbangladesh.com
 -d wordpresstemasi.org
--d wordsbyme.hu
 -d wordsoflove.jp
 -d wordswithjennay.com
 -d wordwave.academy
@@ -99896,7 +99897,6 @@ msFilterList
 -d xn--80abdh8aeoadtg.xn--p1ai
 -d xn--80abekbflfvhemhf8aoege0d.xn--p1ai
 -d xn--80abghbpe9aidnhd0a3ntb.xn--p1ai
--d xn--80abghrgkskqdlmb.xn--p1ai
 -d xn--80abhfbusccenm1pyb.xn--p1ai
 -d xn--80abnjbuynel6i.xn--p1ai
 -d xn--80ac1bdfb.com.ua

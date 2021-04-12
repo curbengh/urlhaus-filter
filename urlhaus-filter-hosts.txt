@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 11 Apr 2021 12:12:46 UTC
+# Updated: Mon, 12 Apr 2021 00:12:54 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -17564,7 +17564,6 @@
 0.0.0.0 ccs-moscow.ru
 0.0.0.0 ccs.elitekod.com
 0.0.0.0 ccsau.com
-0.0.0.0 ccscanta.com
 0.0.0.0 ccsfw.club
 0.0.0.0 ccshh.org
 0.0.0.0 ccsnyc.kbmbk.com
@@ -23822,6 +23821,7 @@
 0.0.0.0 dcolepolos.or.ke
 0.0.0.0 dcomplices.com
 0.0.0.0 dconnect.com.tr
+0.0.0.0 dcpltech.com
 0.0.0.0 dcpn.projectsmd.in
 0.0.0.0 dcprint.me
 0.0.0.0 dcradicalwellbeing.com
@@ -25329,7 +25329,6 @@
 0.0.0.0 devblog-dofus.org
 0.0.0.0 devbyjr.com
 0.0.0.0 devc.121mk.com
-0.0.0.0 devcloudperu.com
 0.0.0.0 devcorder.com
 0.0.0.0 devcore.pw
 0.0.0.0 devdatta.pacenashik.com
@@ -38524,7 +38523,6 @@
 0.0.0.0 googleapi.ru
 0.0.0.0 googleglobalbrandsearching.mangospot.net
 0.0.0.0 googlemeta.xyz
-0.0.0.0 googleplusmarketpro.com
 0.0.0.0 googlerank.in
 0.0.0.0 googleresult.in
 0.0.0.0 googletime.ac.ug
@@ -45464,6 +45462,7 @@
 0.0.0.0 insulution.org
 0.0.0.0 insumex.com.mx
 0.0.0.0 insumoscerveceros.com.co
+0.0.0.0 insumosdentales.co
 0.0.0.0 insumosesmar.com
 0.0.0.0 insumosviltre.com.ar
 0.0.0.0 insur-expat.com
@@ -62303,6 +62302,7 @@
 0.0.0.0 muykeff.co.il
 0.0.0.0 muzammelhaq.com
 0.0.0.0 muzeumpodblanicka.cz
+0.0.0.0 muzey.com.ua
 0.0.0.0 muzhiki.brainarts.beget.tech
 0.0.0.0 muzhskoedelo.by
 0.0.0.0 muzhskoizhurnal.ru
@@ -64858,6 +64858,7 @@
 0.0.0.0 nissanquynhon.com.vn
 0.0.0.0 nissansaigon.vn
 0.0.0.0 nissanthanhhoa.vn
+0.0.0.0 nissanvinh.com.vn
 0.0.0.0 nissinedu.com
 0.0.0.0 nit.1darbarnyc.com
 0.0.0.0 nitadd.com
@@ -68802,6 +68803,7 @@
 0.0.0.0 patgon.cl
 0.0.0.0 patgramnews24.com
 0.0.0.0 pathaayamrestaurant.com
+0.0.0.0 pathanhandicrafts.com
 0.0.0.0 pathbio.med.upenn.edu
 0.0.0.0 pathfinderglobaledupubltd.com.ng
 0.0.0.0 pathiltravels.com
@@ -94986,7 +94988,6 @@
 0.0.0.0 velimir-grgic.com
 0.0.0.0 velisnackindonesia.com
 0.0.0.0 velissimilio.site
-0.0.0.0 veljko.id
 0.0.0.0 vellosoft.com
 0.0.0.0 velma-harber30ku.com
 0.0.0.0 velo2.mon-application.com
@@ -95503,6 +95504,7 @@
 0.0.0.0 vietnamupr.com
 0.0.0.0 vietnamv1.com
 0.0.0.0 vietnamvisahub.com
+0.0.0.0 vietnhabienhoa.com
 0.0.0.0 vietsex.pro
 0.0.0.0 viettalent.edu.vn
 0.0.0.0 viettapha.vn
@@ -98662,7 +98664,6 @@
 0.0.0.0 wordpressdemo.site
 0.0.0.0 wordpresslearningbangladesh.com
 0.0.0.0 wordpresstemasi.org
-0.0.0.0 wordsbyme.hu
 0.0.0.0 wordsoflove.jp
 0.0.0.0 wordswithjennay.com
 0.0.0.0 wordwave.academy
@@ -99893,7 +99894,6 @@
 0.0.0.0 xn--80abdh8aeoadtg.xn--p1ai
 0.0.0.0 xn--80abekbflfvhemhf8aoege0d.xn--p1ai
 0.0.0.0 xn--80abghbpe9aidnhd0a3ntb.xn--p1ai
-0.0.0.0 xn--80abghrgkskqdlmb.xn--p1ai
 0.0.0.0 xn--80abhfbusccenm1pyb.xn--p1ai
 0.0.0.0 xn--80abnjbuynel6i.xn--p1ai
 0.0.0.0 xn--80ac1bdfb.com.ua
