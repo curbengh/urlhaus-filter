@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 16 Apr 2021 00:12:56 UTC
+# Updated: Fri, 16 Apr 2021 12:12:44 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -5561,6 +5561,7 @@ msFilterList
 -d altavr.io
 -d altayusa.com
 -d altc-com.ga
+-d altcbs.com
 -d altdigital.co.uk
 -d altecballoni.com.br
 -d altechsolutions.sg
@@ -7137,6 +7138,7 @@ msFilterList
 -d app.boxrcdn.com
 -d app.bridgeimpex.org
 -d app.calag.at
+-d app.casetabs.com
 -d app.catholicchurch.co.in
 -d app.choiphui.com
 -d app.cloudindustry.net
@@ -11217,6 +11219,7 @@ msFilterList
 -d bbfr.cba.pl
 -d bbgiardinodoriente.it
 -d bbgk.de
+-d bbgroup.com.vn
 -d bbh-design.de
 -d bbhdata.com
 -d bbhs.org.ng
@@ -13812,7 +13815,6 @@ msFilterList
 -d blog.theodo.com
 -d blog.thewebcake.com
 -d blog.thoai.vn
--d blog.threadless.com
 -d blog.timejobs.cl
 -d blog.tkaraca.com
 -d blog.tobenum.club
@@ -16127,6 +16129,7 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
+-d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -17719,7 +17722,6 @@ msFilterList
 -d cdn.spider.cat
 -d cdn.timebuyer.org
 -d cdn.top4top.net
--d cdn.truelife.vn
 -d cdn.zecast.com
 -d cdn3.msetup.download
 -d cdn4.css361.com
@@ -22113,6 +22115,7 @@ msFilterList
 -d crm.marck-group.com
 -d crm.maxenius.com
 -d crm.metakom.biz
+-d crm.meyag.org
 -d crm.mindseed.gr
 -d crm.mydealeradvertising.com
 -d crm.niffler.co
@@ -22745,6 +22748,7 @@ msFilterList
 -d cw98523.tmweb.ru
 -d cwa.mx
 -d cwaxgroup.co.uk
+-d cwbbox.com.br
 -d cwbsa.org
 -d cwc.vi-bus.com
 -d cwhrealestate.com
@@ -23025,7 +23029,6 @@ msFilterList
 -d daclim.ro
 -d daco-precision.thomaswebs.net
 -d daco.nyccomputerconsulting.com
--d dacsancaonguyen.vn
 -d dactridaudaday.com
 -d dactyltech.co.za
 -d dacviadokese.com
@@ -26643,7 +26646,6 @@ msFilterList
 -d dl-675423.store-downloads.com
 -d dl-80076342.md-downloads.com
 -d dl-97674424.md-downloads.com
--d dl-gameplayer.dmm.com
 -d dl-link.link
 -d dl-link.live
 -d dl-link.network
@@ -27557,7 +27559,6 @@ msFilterList
 -d downlfile24.top
 -d downlo.vaixia.com
 -d download-cdn.com
--d download-invoice.site
 -d download-plugin.co.za
 -d download-plugins.co.za
 -d download-serverupdate.eu-gb.cf.appdomain.cloud
@@ -31585,7 +31586,6 @@ msFilterList
 -d espace-douche.com
 -d espace-photo-numerique.fr
 -d espace-vert.sdcrea.fr
--d espacebusiness.com
 -d espaceprive.enformes.fr
 -d espacerezo.fr
 -d espaces-interieurs.net
@@ -31898,6 +31898,7 @@ msFilterList
 -d etwqsx23.duckdns.org
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
+-d eu-central-1.protection.sophos.com
 -d eu-easy.com
 -d eu1.salesforce.com
 -d eu283iwoqodjspqisjdf.com
@@ -33053,7 +33054,6 @@ msFilterList
 -d familystory.es
 -d familytex.ru
 -d famint-my.sharepoint.com
--d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -34056,7 +34056,6 @@ msFilterList
 -d files.dropmybin.me
 -d files.enjin.com
 -d files.gathercdn.com
--d files.hrloo.com
 -d files.l-d.tech
 -d files.martellexpress.us
 -d files.mirai-2viv.vn
@@ -34255,7 +34254,6 @@ msFilterList
 -d finevision.in
 -d fineway.in
 -d finewine.ga
--d finewines.com.sg
 -d finewithme.ru
 -d finexlogistics.us
 -d finexperty.ru
@@ -35254,7 +35252,6 @@ msFilterList
 -d fortnitehecks.com
 -d fortnitekey.zzz.com.ua
 -d fortools.ru
--d fortsaude.com.br
 -d fortuna3.myhostpoint.ch
 -d fortuneinfosys.com
 -d fortunelabels.com
@@ -38607,7 +38604,6 @@ msFilterList
 -d gomitra.com
 -d gomovies.cl
 -d gomsubattrangxuatkhau.com
--d gomsuminhlongthainguyen.vn
 -d gomus.com.br
 -d gomyfiles.info
 -d gomypass.com
@@ -40110,7 +40106,6 @@ msFilterList
 -d h.epelcdn.com
 -d h.eurotrading.com.pl
 -d h.j990981.ru
--d h.top4top.io
 -d h.valerana44.ru
 -d h002295863.nichost.ru
 -d h0h.org
@@ -42353,7 +42348,6 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
--d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -43151,7 +43145,6 @@ msFilterList
 -d httvic.com.au
 -d htunkhaing.xsrv.jp
 -d htx08.com
--d htxnnphuoctuyen.vn
 -d htz.securityart.net
 -d huabaogame.cn
 -d huahinbridge.com
@@ -43563,7 +43556,6 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
--d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
 -d i.n.t.e.rloca.l.qs.j.y@jfas.top
@@ -45343,6 +45335,7 @@ msFilterList
 -d injazsupport.org
 -d injuredinacar-lv.com
 -d injuryinfo.com
+-d injurylawyerencino.com
 -d injuryloans911.com
 -d ink-spot.gr
 -d inkai.ub.ac.id
@@ -47677,6 +47670,8 @@ msFilterList
 -d jelajahpulautidung.com
 -d jeligamat.id
 -d jelly-abbott2012.com
+-d jelly.xyz
+-d jelly1.xyz
 -d jemimaashton-harris.com
 -d jemully.com
 -d jenbob88.com
@@ -50102,6 +50097,7 @@ msFilterList
 -d kelvinnikkel.com
 -d kelwinsales.com
 -d kelzonestopclothing.website
+-d kemahasiswaan.um.ac.id
 -d kemahasiswaan.umsida.ac.id
 -d kemahasiswaan.unair.ac.id
 -d kemalerkol.net
@@ -53018,7 +53014,6 @@ msFilterList
 -d law4it.com
 -d lawaaike.nl
 -d lawfirm-int.online
--d lawforall.com
 -d lawforall.edu.lk
 -d lawfordunitedfc.co.uk
 -d lawgic.com
@@ -54581,6 +54576,7 @@ msFilterList
 -d livecigarevent.com
 -d livecricketscorecard.info
 -d livedaynews.com
+-d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d livefarma.com
@@ -60438,7 +60434,6 @@ msFilterList
 -d ministryoftransport.gov.gi
 -d minitrium.com
 -d miniyam.com
--d minjusticedh.cf
 -d minmester.no
 -d minmin96.xyz
 -d minmohd.com
@@ -68601,6 +68596,7 @@ msFilterList
 -d palmspringsresorts.net
 -d palmtipsheet.com
 -d palmyro.com
+-d paloca.vn
 -d palochusvet.szm.com
 -d palomamotorbiketours.fr
 -d palometa.hopto.org
@@ -70231,6 +70227,7 @@ msFilterList
 -d photo-midorikawa.info
 -d photo.6nationstabletenniscup.com
 -d photo.mikerizzello.com
+-d photo.sohu.com
 -d photo2.nerdtonik.com
 -d photo360.kubooking.com
 -d photobook-design.de
@@ -74011,7 +74008,6 @@ msFilterList
 -d quatanghoanglong.com
 -d quatangluuniemhue.com
 -d quatangtaynguyen.com
--d quatangtaynguyen.vn
 -d quatest.sixstarsent.com
 -d quatet365.com
 -d quatram.de
@@ -80106,7 +80102,6 @@ msFilterList
 -d senat.polnep.ac.id
 -d senbiaojita.com
 -d senboutiquespa.com
--d send.firefox.com
 -d send.webprojemiz.com
 -d senda.bmt.city
 -d senddocs.icu
@@ -80961,6 +80956,7 @@ msFilterList
 -d shards.pl
 -d share-oreoo-9.com
 -d share-relations.com
+-d share.dmca.gripe
 -d share.meerai.eu
 -d share.mn
 -d shareallfilesthroughsecureexchangesystem.duckdns.org
@@ -86670,7 +86666,6 @@ msFilterList
 -d supercutscissors.com
 -d superdad.id
 -d superdigitalguy.xyz
--d superdomain1709.info
 -d superdot.rs
 -d superecruiters.com
 -d superfacil.center
@@ -87970,7 +87965,6 @@ msFilterList
 -d targas.de
 -d targat-china.com
 -d target-events.com
--d target-support.online
 -d target2cloud.com
 -d targetbizbd.com
 -d targetcm.net
@@ -93128,7 +93122,6 @@ msFilterList
 -d tunnelview.co.uk
 -d tunuvo.com
 -d tuobrasocial.com.ar
--d tuoitrethainguyen.vn
 -d tupibaje.com
 -d tupperware.michaelroberge.ca
 -d tur.000webhostapp.com
@@ -94853,7 +94846,6 @@ msFilterList
 -d uyaiblog.com
 -d uycqawua.applekid.cn
 -d uydu.antalyaelektrikariza.net
--d uyen.vn
 -d uyencometics.bmt.city
 -d uyencuentra.com
 -d uyf.com.ua
@@ -102237,6 +102229,7 @@ msFilterList
 -d zfgroup.com.cn
 -d zfsport.demacode.com.br
 -d zgc.com.cn
+-d zgchgwsdycloudgostfd.dns.army
 -d zgchgwsdycloudgowsaq.dns.army
 -d zgo2ze.com
 -d zgpyly.com

@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Fri, 16 Apr 2021 00:12:56 UTC
+# Updated: Fri, 16 Apr 2021 12:12:44 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -5558,6 +5558,7 @@
 0.0.0.0 altavr.io
 0.0.0.0 altayusa.com
 0.0.0.0 altc-com.ga
+0.0.0.0 altcbs.com
 0.0.0.0 altdigital.co.uk
 0.0.0.0 altecballoni.com.br
 0.0.0.0 altechsolutions.sg
@@ -7134,6 +7135,7 @@
 0.0.0.0 app.boxrcdn.com
 0.0.0.0 app.bridgeimpex.org
 0.0.0.0 app.calag.at
+0.0.0.0 app.casetabs.com
 0.0.0.0 app.catholicchurch.co.in
 0.0.0.0 app.choiphui.com
 0.0.0.0 app.cloudindustry.net
@@ -11214,6 +11216,7 @@
 0.0.0.0 bbfr.cba.pl
 0.0.0.0 bbgiardinodoriente.it
 0.0.0.0 bbgk.de
+0.0.0.0 bbgroup.com.vn
 0.0.0.0 bbh-design.de
 0.0.0.0 bbhdata.com
 0.0.0.0 bbhs.org.ng
@@ -13809,7 +13812,6 @@
 0.0.0.0 blog.theodo.com
 0.0.0.0 blog.thewebcake.com
 0.0.0.0 blog.thoai.vn
-0.0.0.0 blog.threadless.com
 0.0.0.0 blog.timejobs.cl
 0.0.0.0 blog.tkaraca.com
 0.0.0.0 blog.tobenum.club
@@ -16124,6 +16126,7 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
+0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -17716,7 +17719,6 @@
 0.0.0.0 cdn.spider.cat
 0.0.0.0 cdn.timebuyer.org
 0.0.0.0 cdn.top4top.net
-0.0.0.0 cdn.truelife.vn
 0.0.0.0 cdn.zecast.com
 0.0.0.0 cdn3.msetup.download
 0.0.0.0 cdn4.css361.com
@@ -22110,6 +22112,7 @@
 0.0.0.0 crm.marck-group.com
 0.0.0.0 crm.maxenius.com
 0.0.0.0 crm.metakom.biz
+0.0.0.0 crm.meyag.org
 0.0.0.0 crm.mindseed.gr
 0.0.0.0 crm.mydealeradvertising.com
 0.0.0.0 crm.niffler.co
@@ -22742,6 +22745,7 @@
 0.0.0.0 cw98523.tmweb.ru
 0.0.0.0 cwa.mx
 0.0.0.0 cwaxgroup.co.uk
+0.0.0.0 cwbbox.com.br
 0.0.0.0 cwbsa.org
 0.0.0.0 cwc.vi-bus.com
 0.0.0.0 cwhrealestate.com
@@ -23022,7 +23026,6 @@
 0.0.0.0 daclim.ro
 0.0.0.0 daco-precision.thomaswebs.net
 0.0.0.0 daco.nyccomputerconsulting.com
-0.0.0.0 dacsancaonguyen.vn
 0.0.0.0 dactridaudaday.com
 0.0.0.0 dactyltech.co.za
 0.0.0.0 dacviadokese.com
@@ -26640,7 +26643,6 @@
 0.0.0.0 dl-675423.store-downloads.com
 0.0.0.0 dl-80076342.md-downloads.com
 0.0.0.0 dl-97674424.md-downloads.com
-0.0.0.0 dl-gameplayer.dmm.com
 0.0.0.0 dl-link.link
 0.0.0.0 dl-link.live
 0.0.0.0 dl-link.network
@@ -27554,7 +27556,6 @@
 0.0.0.0 downlfile24.top
 0.0.0.0 downlo.vaixia.com
 0.0.0.0 download-cdn.com
-0.0.0.0 download-invoice.site
 0.0.0.0 download-plugin.co.za
 0.0.0.0 download-plugins.co.za
 0.0.0.0 download-serverupdate.eu-gb.cf.appdomain.cloud
@@ -31582,7 +31583,6 @@
 0.0.0.0 espace-douche.com
 0.0.0.0 espace-photo-numerique.fr
 0.0.0.0 espace-vert.sdcrea.fr
-0.0.0.0 espacebusiness.com
 0.0.0.0 espaceprive.enformes.fr
 0.0.0.0 espacerezo.fr
 0.0.0.0 espaces-interieurs.net
@@ -31895,6 +31895,7 @@
 0.0.0.0 etwqsx23.duckdns.org
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
+0.0.0.0 eu-central-1.protection.sophos.com
 0.0.0.0 eu-easy.com
 0.0.0.0 eu1.salesforce.com
 0.0.0.0 eu283iwoqodjspqisjdf.com
@@ -33050,7 +33051,6 @@
 0.0.0.0 familystory.es
 0.0.0.0 familytex.ru
 0.0.0.0 famint-my.sharepoint.com
-0.0.0.0 famitaa.com
 0.0.0.0 famiuganda.org
 0.0.0.0 famostano.com
 0.0.0.0 famous-quotations.org
@@ -34053,7 +34053,6 @@
 0.0.0.0 files.dropmybin.me
 0.0.0.0 files.enjin.com
 0.0.0.0 files.gathercdn.com
-0.0.0.0 files.hrloo.com
 0.0.0.0 files.l-d.tech
 0.0.0.0 files.martellexpress.us
 0.0.0.0 files.mirai-2viv.vn
@@ -34252,7 +34251,6 @@
 0.0.0.0 finevision.in
 0.0.0.0 fineway.in
 0.0.0.0 finewine.ga
-0.0.0.0 finewines.com.sg
 0.0.0.0 finewithme.ru
 0.0.0.0 finexlogistics.us
 0.0.0.0 finexperty.ru
@@ -35251,7 +35249,6 @@
 0.0.0.0 fortnitehecks.com
 0.0.0.0 fortnitekey.zzz.com.ua
 0.0.0.0 fortools.ru
-0.0.0.0 fortsaude.com.br
 0.0.0.0 fortuna3.myhostpoint.ch
 0.0.0.0 fortuneinfosys.com
 0.0.0.0 fortunelabels.com
@@ -38604,7 +38601,6 @@
 0.0.0.0 gomitra.com
 0.0.0.0 gomovies.cl
 0.0.0.0 gomsubattrangxuatkhau.com
-0.0.0.0 gomsuminhlongthainguyen.vn
 0.0.0.0 gomus.com.br
 0.0.0.0 gomyfiles.info
 0.0.0.0 gomypass.com
@@ -40107,7 +40103,6 @@
 0.0.0.0 h.epelcdn.com
 0.0.0.0 h.eurotrading.com.pl
 0.0.0.0 h.j990981.ru
-0.0.0.0 h.top4top.io
 0.0.0.0 h.valerana44.ru
 0.0.0.0 h002295863.nichost.ru
 0.0.0.0 h0h.org
@@ -42350,7 +42345,6 @@
 0.0.0.0 home.99eurowebsite.ie
 0.0.0.0 home.barley-plus.com
 0.0.0.0 home.dawang.ink
-0.0.0.0 home.earthlink.net
 0.0.0.0 home.evrstudio.com
 0.0.0.0 home.healthiestu.com
 0.0.0.0 home.isdes.com
@@ -43148,7 +43142,6 @@
 0.0.0.0 httvic.com.au
 0.0.0.0 htunkhaing.xsrv.jp
 0.0.0.0 htx08.com
-0.0.0.0 htxnnphuoctuyen.vn
 0.0.0.0 htz.securityart.net
 0.0.0.0 huabaogame.cn
 0.0.0.0 huahinbridge.com
@@ -43560,7 +43553,6 @@
 0.0.0.0 i-supportcharity.com
 0.0.0.0 i-vnsweyu.pl
 0.0.0.0 i-voda.com
-0.0.0.0 i.fiery.me
 0.0.0.0 i.fluffy.cc
 0.0.0.0 i.funtourspt.eu
 0.0.0.0 i.n.t.e.rloca.l.qs.j.y@jfas.top
@@ -45340,6 +45332,7 @@
 0.0.0.0 injazsupport.org
 0.0.0.0 injuredinacar-lv.com
 0.0.0.0 injuryinfo.com
+0.0.0.0 injurylawyerencino.com
 0.0.0.0 injuryloans911.com
 0.0.0.0 ink-spot.gr
 0.0.0.0 inkai.ub.ac.id
@@ -47674,6 +47667,8 @@
 0.0.0.0 jelajahpulautidung.com
 0.0.0.0 jeligamat.id
 0.0.0.0 jelly-abbott2012.com
+0.0.0.0 jelly.xyz
+0.0.0.0 jelly1.xyz
 0.0.0.0 jemimaashton-harris.com
 0.0.0.0 jemully.com
 0.0.0.0 jenbob88.com
@@ -50099,6 +50094,7 @@
 0.0.0.0 kelvinnikkel.com
 0.0.0.0 kelwinsales.com
 0.0.0.0 kelzonestopclothing.website
+0.0.0.0 kemahasiswaan.um.ac.id
 0.0.0.0 kemahasiswaan.umsida.ac.id
 0.0.0.0 kemahasiswaan.unair.ac.id
 0.0.0.0 kemalerkol.net
@@ -53015,7 +53011,6 @@
 0.0.0.0 law4it.com
 0.0.0.0 lawaaike.nl
 0.0.0.0 lawfirm-int.online
-0.0.0.0 lawforall.com
 0.0.0.0 lawforall.edu.lk
 0.0.0.0 lawfordunitedfc.co.uk
 0.0.0.0 lawgic.com
@@ -54578,6 +54573,7 @@
 0.0.0.0 livecigarevent.com
 0.0.0.0 livecricketscorecard.info
 0.0.0.0 livedaynews.com
+0.0.0.0 livedemo00.template-help.com
 0.0.0.0 livedownload.in
 0.0.0.0 livedrumtracks.com
 0.0.0.0 livefarma.com
@@ -60435,7 +60431,6 @@
 0.0.0.0 ministryoftransport.gov.gi
 0.0.0.0 minitrium.com
 0.0.0.0 miniyam.com
-0.0.0.0 minjusticedh.cf
 0.0.0.0 minmester.no
 0.0.0.0 minmin96.xyz
 0.0.0.0 minmohd.com
@@ -68598,6 +68593,7 @@
 0.0.0.0 palmspringsresorts.net
 0.0.0.0 palmtipsheet.com
 0.0.0.0 palmyro.com
+0.0.0.0 paloca.vn
 0.0.0.0 palochusvet.szm.com
 0.0.0.0 palomamotorbiketours.fr
 0.0.0.0 palometa.hopto.org
@@ -70228,6 +70224,7 @@
 0.0.0.0 photo-midorikawa.info
 0.0.0.0 photo.6nationstabletenniscup.com
 0.0.0.0 photo.mikerizzello.com
+0.0.0.0 photo.sohu.com
 0.0.0.0 photo2.nerdtonik.com
 0.0.0.0 photo360.kubooking.com
 0.0.0.0 photobook-design.de
@@ -74008,7 +74005,6 @@
 0.0.0.0 quatanghoanglong.com
 0.0.0.0 quatangluuniemhue.com
 0.0.0.0 quatangtaynguyen.com
-0.0.0.0 quatangtaynguyen.vn
 0.0.0.0 quatest.sixstarsent.com
 0.0.0.0 quatet365.com
 0.0.0.0 quatram.de
@@ -80103,7 +80099,6 @@
 0.0.0.0 senat.polnep.ac.id
 0.0.0.0 senbiaojita.com
 0.0.0.0 senboutiquespa.com
-0.0.0.0 send.firefox.com
 0.0.0.0 send.webprojemiz.com
 0.0.0.0 senda.bmt.city
 0.0.0.0 senddocs.icu
@@ -80958,6 +80953,7 @@
 0.0.0.0 shards.pl
 0.0.0.0 share-oreoo-9.com
 0.0.0.0 share-relations.com
+0.0.0.0 share.dmca.gripe
 0.0.0.0 share.meerai.eu
 0.0.0.0 share.mn
 0.0.0.0 shareallfilesthroughsecureexchangesystem.duckdns.org
@@ -86667,7 +86663,6 @@
 0.0.0.0 supercutscissors.com
 0.0.0.0 superdad.id
 0.0.0.0 superdigitalguy.xyz
-0.0.0.0 superdomain1709.info
 0.0.0.0 superdot.rs
 0.0.0.0 superecruiters.com
 0.0.0.0 superfacil.center
@@ -87967,7 +87962,6 @@
 0.0.0.0 targas.de
 0.0.0.0 targat-china.com
 0.0.0.0 target-events.com
-0.0.0.0 target-support.online
 0.0.0.0 target2cloud.com
 0.0.0.0 targetbizbd.com
 0.0.0.0 targetcm.net
@@ -93125,7 +93119,6 @@
 0.0.0.0 tunnelview.co.uk
 0.0.0.0 tunuvo.com
 0.0.0.0 tuobrasocial.com.ar
-0.0.0.0 tuoitrethainguyen.vn
 0.0.0.0 tupibaje.com
 0.0.0.0 tupperware.michaelroberge.ca
 0.0.0.0 tur.000webhostapp.com
@@ -94850,7 +94843,6 @@
 0.0.0.0 uyaiblog.com
 0.0.0.0 uycqawua.applekid.cn
 0.0.0.0 uydu.antalyaelektrikariza.net
-0.0.0.0 uyen.vn
 0.0.0.0 uyencometics.bmt.city
 0.0.0.0 uyencuentra.com
 0.0.0.0 uyf.com.ua
@@ -102234,6 +102226,7 @@
 0.0.0.0 zfgroup.com.cn
 0.0.0.0 zfsport.demacode.com.br
 0.0.0.0 zgc.com.cn
+0.0.0.0 zgchgwsdycloudgostfd.dns.army
 0.0.0.0 zgchgwsdycloudgowsaq.dns.army
 0.0.0.0 zgo2ze.com
 0.0.0.0 zgpyly.com
