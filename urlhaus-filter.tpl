@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 17 Apr 2021 00:13:04 UTC
+# Updated: Sat, 17 Apr 2021 12:12:55 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -865,6 +865,8 @@ msFilterList
 -d 3.top4top.net
 -d 3.u0135364.z8.ru
 -d 3.unplugrevolution.com
+-d 3.zhzy999.net
+-d 3.zhzy999.net3.zhzy999.net
 -d 30-by-30.com
 -d 3000adaydomainer.com
 -d 3000khoahoc.com
@@ -7142,7 +7144,6 @@ msFilterList
 -d app.boxrcdn.com
 -d app.bridgeimpex.org
 -d app.calag.at
--d app.casetabs.com
 -d app.catholicchurch.co.in
 -d app.choiphui.com
 -d app.cloudindustry.net
@@ -10113,7 +10114,6 @@ msFilterList
 -d b-styles.net
 -d b.adventh.org
 -d b.assignmentproff.com
--d b.catgirlsare.sexy
 -d b.coka.la
 -d b.fherf.com
 -d b.frefou.ru
@@ -10239,6 +10239,7 @@ msFilterList
 -d babytoys.life
 -d babyvogel.nl
 -d babzon.club
+-d bac.edu.my
 -d bacamanect.com
 -d baccaosutritue.vn
 -d baceldeniz.com
@@ -11227,7 +11228,6 @@ msFilterList
 -d bbfr.cba.pl
 -d bbgiardinodoriente.it
 -d bbgk.de
--d bbgroup.com.vn
 -d bbh-design.de
 -d bbhdata.com
 -d bbhs.org.ng
@@ -11670,6 +11670,7 @@ msFilterList
 -d bel-med-tour.ru
 -d belabargelro.com
 -d belair.btwstudio.ch
+-d belairinternet.com
 -d belamater.com.br
 -d belangel.by
 -d belanja-berkah.xyz
@@ -13823,6 +13824,7 @@ msFilterList
 -d blog.theodo.com
 -d blog.thewebcake.com
 -d blog.thoai.vn
+-d blog.threadless.com
 -d blog.timejobs.cl
 -d blog.tkaraca.com
 -d blog.tobenum.club
@@ -17741,7 +17743,6 @@ msFilterList
 -d cdncomfortgroup.website
 -d cdndownloadlp.club
 -d cdnmultimedia.com
--d cdnpic.mgyun.com
 -d cdnxh.net
 -d cdoconsult.com.br
 -d cdolechon.com
@@ -18385,7 +18386,6 @@ msFilterList
 -d charityshofner.com
 -d charlemagne.fr
 -d charleneleeofcitycouncilofcupertino.com
--d charlesbaker.co.uk
 -d charlescuthbertson.com
 -d charlesengineering.in
 -d charlesmessa.info
@@ -20689,6 +20689,7 @@ msFilterList
 -d complience.com
 -d compln.net
 -d component.pw
+-d components.technologymindz.com
 -d composecv.com
 -d composite.be
 -d compoundy.com
@@ -22933,6 +22934,7 @@ msFilterList
 -d d.qiluwl.com
 -d d.teamworx.ph
 -d d.techmartbd.com
+-d d.top4top.io
 -d d.top4top.net
 -d d.ttr3p.com
 -d d04.data39.helldata.com
@@ -25574,6 +25576,7 @@ msFilterList
 -d dfc33.xyz
 -d dfcf.91756.cn
 -d dfcvbrtwe.ug
+-d dfd.zhzy999.net
 -d dfddfg4df.ru
 -d dffdds.club
 -d dffieo8ieo0380ieovsddsdff89r309ieo89334.com
@@ -25991,7 +25994,6 @@ msFilterList
 -d digihop.cyou
 -d digiiital.co.uk
 -d digikow.000webhostapp.com
--d digilander.libero.it
 -d digileads.ae
 -d digilib.dianhusada.ac.id
 -d digim.asia
@@ -27220,7 +27222,6 @@ msFilterList
 -d don-xalat.ru
 -d don.viameventos.com.br
 -d donagracia.com
--d donaldcity.club
 -d donaldsmithforsheriff.com
 -d donaldtaylor.ca
 -d donamaria-lb.com
@@ -31601,6 +31602,7 @@ msFilterList
 -d espace-douche.com
 -d espace-photo-numerique.fr
 -d espace-vert.sdcrea.fr
+-d espacebusiness.com
 -d espaceprive.enformes.fr
 -d espacerezo.fr
 -d espaces-interieurs.net
@@ -33994,6 +33996,7 @@ msFilterList
 -d fightclubturkey.com
 -d fightershopkaunas.lt
 -d fightersu.com
+-d fightfactoryph.com
 -d fightgid.xyz
 -d fightly.info
 -d figs4u.co.uk
@@ -34044,6 +34047,7 @@ msFilterList
 -d filebase.mogelgott.de
 -d filebox.hiworks.com
 -d filebr.com
+-d fileco.jobkorea.co.kr
 -d filedigital.ir
 -d filedistrserver.pw
 -d filedownload.gb.net
@@ -34072,6 +34076,7 @@ msFilterList
 -d files.dropmybin.me
 -d files.enjin.com
 -d files.gathercdn.com
+-d files.hrloo.com
 -d files.l-d.tech
 -d files.martellexpress.us
 -d files.mirai-2viv.vn
@@ -34270,6 +34275,7 @@ msFilterList
 -d finevision.in
 -d fineway.in
 -d finewine.ga
+-d finewines.com.sg
 -d finewithme.ru
 -d finexlogistics.us
 -d finexperty.ru
@@ -36295,7 +36301,6 @@ msFilterList
 -d fv1-2.failiem.lv
 -d fv13.failiem.lv
 -d fv15.failiem.lv
--d fv2-1.failiem.lv
 -d fv2-2.failiem.lv
 -d fv2-7.failiem.lv
 -d fv3.failiem.lv
@@ -40124,6 +40129,7 @@ msFilterList
 -d h.epelcdn.com
 -d h.eurotrading.com.pl
 -d h.j990981.ru
+-d h.top4top.io
 -d h.valerana44.ru
 -d h002295863.nichost.ru
 -d h0h.org
@@ -42874,7 +42880,6 @@ msFilterList
 -d hotelwaldblick.com
 -d hotexpress.co
 -d hotfacts.org
--d hotgifts.online
 -d hotilife.com
 -d hotissue.xyz
 -d hotkine.com
@@ -50126,6 +50131,7 @@ msFilterList
 -d kemalerkol.net
 -d kemard12e.ru.com
 -d kemaster.kz
+-d kemco.or.kr
 -d kemencem.net
 -d kemeri.it
 -d kemilauminang.com
@@ -55695,6 +55701,7 @@ msFilterList
 -d luminouspla.net
 -d luminouspneuma.com
 -d lumnus.com.br
+-d lumoura.com
 -d lumperpush.com
 -d lumsdancorp.com
 -d lun.otrweb.ru
@@ -58971,7 +58978,6 @@ msFilterList
 -d mediamoda.ru
 -d mediamouse.com.au
 -d medianabolivia.com
--d medianews.ge
 -d mediaprecies.online
 -d mediarama.ru
 -d mediariser.com
@@ -60496,6 +60502,7 @@ msFilterList
 -d minyanim.fr
 -d mioei4.adygeya.su
 -d miokon.com
+-d miomail.it
 -d mionpharma.com
 -d mioscentrofisioterapico.it
 -d mioshi.it
@@ -70264,7 +70271,6 @@ msFilterList
 -d photo-midorikawa.info
 -d photo.6nationstabletenniscup.com
 -d photo.mikerizzello.com
--d photo.sohu.com
 -d photo2.nerdtonik.com
 -d photo360.kubooking.com
 -d photobook-design.de
@@ -73021,6 +73027,7 @@ msFilterList
 -d psicoterapiaenpuebla.com
 -d psig.com.pl
 -d psihologcristinanegrea.ro
+-d psihoterapija.ba
 -d psii.net
 -d psikologimarketing.com
 -d psikonet.net
@@ -82778,7 +82785,6 @@ msFilterList
 -d slot-tube.cn
 -d slot0.athakics.com
 -d slot0.fastrek-za.com
--d slot0.gamoruz.com
 -d slot0.manews-relax.com
 -d slot2bet.com
 -d slotenservice-24-7-actief.nl
@@ -82822,7 +82828,6 @@ msFilterList
 -d sm-conference.info
 -d sm-n.ru
 -d sm.fq520000.com
--d sm.myapp.com
 -d sm.rooderoofing.com.au
 -d sm0tl0t.com
 -d sma-drmueller.de
@@ -86813,6 +86818,7 @@ msFilterList
 -d support.m2mservices.com
 -d support.nordenrecycling.com
 -d support.nuvemit.com
+-d support.pubg.com
 -d support.redbook.aero
 -d support.revolus.xyz
 -d support.servu.co.uk
@@ -88010,6 +88016,7 @@ msFilterList
 -d targas.de
 -d targat-china.com
 -d target-events.com
+-d target-support.online
 -d target2cloud.com
 -d targetbizbd.com
 -d targetcm.net
@@ -88575,6 +88582,7 @@ msFilterList
 -d techterms.online
 -d techtimesnow.com
 -d techtiqdemo.co.uk
+-d techtitans.ca
 -d techtools.com.co
 -d techtrainer360.com
 -d techtravel.events
@@ -91119,6 +91127,7 @@ msFilterList
 -d timelyrain.top
 -d timenard.top
 -d timenotbesea.xyz
+-d timenow.pw
 -d timenowis1.top
 -d timeoffer.site
 -d timeofvape.tk
@@ -92112,6 +92121,7 @@ msFilterList
 -d tr.capers.co
 -d tr.fruturca.com
 -d tr.kuai-go.com
+-d tr.zhzy999.net
 -d tr8q4qwe41ewe.com
 -d traanh.vn
 -d trabajocvupdating.com
@@ -92991,6 +93001,7 @@ msFilterList
 -d tsredco.telangana.gov.in
 -d tsrj.monster
 -d tsrv2.top
+-d tsrv4.ws
 -d tst.marineindust.com
 -d tstfrigo.com
 -d tsugite.youbi.me
@@ -94209,6 +94220,7 @@ msFilterList
 -d unitec-systems.de
 -d united-bakeries.cz
 -d united-vision.net
+-d united.5765@panslimiterd.com
 -d united17sndyfokesokoriorimistreetsjxzw.duckdns.org
 -d united31stdyfrkesokoriorimistreetsjmng.duckdns.org
 -d united34wsdyfrkesokoriorimistreetsjjpm.duckdns.org
@@ -94653,6 +94665,7 @@ msFilterList
 -d url675.textilmallorca.com
 -d url9823.ville.labrecque.qc.ca
 -d urlac.de
+-d urldefense.us
 -d urleddrug.at
 -d urlfrance.fr
 -d urlm.ir
@@ -97173,6 +97186,7 @@ msFilterList
 -d w.amendserver.com
 -d w.lazer-n.com
 -d w.outletonline-michaelkors.com
+-d w.zhzy999.net
 -d w04.jujingdao.com
 -d w0725725.idv.tw
 -d w077775.blob2.ge.tt
@@ -97594,6 +97608,7 @@ msFilterList
 -d wc3prince.ru
 -d wcare.nl
 -d wcbgroup.co.uk
+-d wcdownloadercdn.lavasoft.com
 -d wcdr.pbas.es
 -d wcf-old.sibcat.info
 -d wcfamlaw.com
@@ -99898,6 +99913,7 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
+-d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
@@ -101006,6 +101022,7 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
+-d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net
@@ -102368,6 +102385,7 @@ msFilterList
 -d zhwq1216.com
 -d zhycron.com.br
 -d zhzglobal.com
+-d zhzy999.net
 -d ziadonline.com
 -d ziaonlinetutor.com
 -d ziapy.com
