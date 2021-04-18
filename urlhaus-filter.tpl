@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 17 Apr 2021 12:12:55 UTC
+# Updated: Sun, 18 Apr 2021 00:13:04 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -7989,7 +7989,6 @@ msFilterList
 -d arrayconsultancy.com
 -d arrc.kaist.ac.kr
 -d arrd.ro
--d arrecifesciudad.com
 -d arredosocial.it
 -d arreglosyco.com
 -d arresto.it
@@ -9334,6 +9333,7 @@ msFilterList
 -d auto-ate.com
 -d auto-boot-like.com
 -d auto-buro.com
+-d auto-cript-family.ru
 -d auto-dani.at
 -d auto-diagnost.com.ua
 -d auto-family.com
@@ -12428,7 +12428,6 @@ msFilterList
 -d bh8.ir
 -d bh8y.xyz
 -d bh95.webdungsan.com
--d bhagateassociates.com
 -d bhagathalwai.org
 -d bhagatsangam.com
 -d bhagwatiseva.org
@@ -25896,7 +25895,6 @@ msFilterList
 -d dienlanhminhdang.vn
 -d dienlanhnguyenle.com
 -d dienlanhtayho.vn
--d dienmattroimienbac.vn
 -d dienmay.webdungsan.com
 -d dienmaybepviet.com
 -d dienmaycongnghiep.com.vn
@@ -30696,6 +30694,7 @@ msFilterList
 -d emu4ios.biz
 -d emulatorgame.ir
 -d emulsiflex.com
+-d emumovies.com
 -d emyhope.com
 -d emyrs-eg.lehmergroup.com
 -d en-cnd.one-drive-ms.com
@@ -33891,7 +33890,6 @@ msFilterList
 -d fgkstarserver17km.xyz
 -d fglab.com.br
 -d fgm-powerenterprises.com.pk
--d fgmedia.my
 -d fgmotoanguillara.it
 -d fgpshop.com
 -d fgroup.net
@@ -36033,6 +36031,7 @@ msFilterList
 -d fuehrung-kommunikation.de
 -d fuel.co.il
 -d fuel24.pruebaslifeware.mx
+-d fueledutv.com
 -d fuelsolutions.co.zw
 -d fuenca.es
 -d fuerte-sol.es
@@ -41546,6 +41545,7 @@ msFilterList
 -d herbeauty.info
 -d herbgardenhealth.com
 -d herbliebermancommunityleadershipaward.org
+-d herboristerianatura.es
 -d hercaimiran.folivb.com
 -d herchinfitout.com.sg
 -d hercinovic.com
@@ -45762,6 +45762,7 @@ msFilterList
 -d intelligencelive.com
 -d intelligentdm.co.za
 -d intelligintion.com
+-d intellimedianetworksbeta.com
 -d intellisavvy.com
 -d intellivated.com
 -d intellmix.com
@@ -46431,6 +46432,7 @@ msFilterList
 -d iryna.biz
 -d is-hp.com
 -d is-yap.com
+-d is.net.sa
 -d is4340.azurewebsites.net
 -d is45wdsed4455sdfsf.duckdns.org
 -d isaac.mikhailmotoringschool.com
@@ -60339,7 +60341,6 @@ msFilterList
 -d mindbuzz.com.au
 -d mindenamifeeder.hu
 -d minderasemedia.com
--d mindforcehypnosis.com
 -d mindful-eating.ca
 -d mindfulbuildingandliving.com
 -d mindfulenmeer.nl
@@ -74533,6 +74534,7 @@ msFilterList
 -d radiofmlive.com
 -d radiogospelemcristo.com.br
 -d radioinspiraciontv.com
+-d radiokameleon.ba
 -d radiolajee.com
 -d radioland.eu
 -d radiolavariada.net
@@ -83542,6 +83544,7 @@ msFilterList
 -d softwaresultan.com
 -d softwayvn.com
 -d softwork1212.000webhostapp.com
+-d softworkinfo.com
 -d softzone.ro
 -d sogecoenergy.com
 -d sogeima.immo
@@ -89652,7 +89655,6 @@ msFilterList
 -d thamtapyoga.net
 -d thamtuquocte.com.vn
 -d thamvintage.vn
--d thandiphotography.com
 -d thanemagazine.com
 -d thangcode.info
 -d thanglongosc.com.vn
@@ -101983,6 +101985,7 @@ msFilterList
 -d zairarosas.com
 -d zairehair.com.br
 -d zaitalhayee.com
+-d zaitia.com
 -d zaitsevmosad.com
 -d zajcmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 -d zajonc.de
