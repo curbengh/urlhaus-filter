@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 18 Apr 2021 12:12:49 UTC
+# Updated: Mon, 19 Apr 2021 00:12:57 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -9822,6 +9822,7 @@ msFilterList
 -d awumad01.top
 -d awupet08.top
 -d awuqze02.top
+-d awushk10.top
 -d awuwxc03.top
 -d ax-yogado.com
 -d axalize.vn
@@ -19514,6 +19515,7 @@ msFilterList
 -d claudioespinola.com
 -d claudiofortes.cf
 -d claudiogarcia.es
+-d clauguidetti.com
 -d claus-wieben.de
 -d clavirox.ro
 -d claycrete.kz
@@ -31671,6 +31673,7 @@ msFilterList
 -d essemengineers.com
 -d essenceofkaroo.co.za
 -d essenceoflife.ir
+-d essensetech.com
 -d essensualsnepal.com
 -d essentia.org.br
 -d essential.co.nz
@@ -35420,6 +35423,7 @@ msFilterList
 -d foxhallcondos.com
 -d foxknews.com
 -d foxmusic.xyz
+-d foxnib.com
 -d foxon.site
 -d foxrat123456.000webhostapp.com
 -d foxrpas.com
@@ -36030,7 +36034,6 @@ msFilterList
 -d fuehrung-kommunikation.de
 -d fuel.co.il
 -d fuel24.pruebaslifeware.mx
--d fueledutv.com
 -d fuelsolutions.co.zw
 -d fuenca.es
 -d fuerte-sol.es
@@ -38275,6 +38278,7 @@ msFilterList
 -d gmina.barlinek.sisco.info
 -d gminalezajsk.pl
 -d gmjenkins.com
+-d gmlsoftlabs.com
 -d gmlsoftware.com
 -d gmm.org.zw
 -d gmmfuelassist.co.uk
@@ -47562,6 +47566,7 @@ msFilterList
 -d jbpostes.com.br
 -d jbrealestategroups.com
 -d jbsaccounting.co.nz
+-d jbshop.shop
 -d jbskl.com
 -d jbssa.one
 -d jbsurja.com
@@ -57868,7 +57873,6 @@ msFilterList
 -d marinaurikh.ru
 -d marinavinhomes.vn
 -d marinawellnesshub.com
--d marincr.com
 -d marindofacility.co.id
 -d marineboyz.com
 -d marinecommunityclubltd.com
@@ -58583,7 +58587,6 @@ msFilterList
 -d mayfairissexy.com
 -d mayflowerex.com
 -d maygiatla.com
--d mayhutchankhong.tv
 -d mayhutthoilieu.com
 -d mayjensuharno.info
 -d maykop-news.ru
@@ -59547,6 +59550,7 @@ msFilterList
 -d merriaminsurance.com
 -d merricle.com
 -d merrielion.co.uk
+-d merrybmx.dtdns.org
 -d merryjumbomart.com
 -d merrylandsmasjid.org.au
 -d merrylu.co.il
@@ -64466,7 +64470,6 @@ msFilterList
 -d newforestfestival.com
 -d newfoundfriend.xyz
 -d newframeworks.condor-group.it
--d newfuture.fr
 -d newgadgets.in
 -d newgensolutions.net
 -d newgmp.000webhostapp.com
@@ -64780,7 +64783,6 @@ msFilterList
 -d ngheve.com
 -d nghiataman.com
 -d nghiencauca.com
--d nghienluotweb.com
 -d nginawe.ao
 -d nginxtest.kaisquare.com
 -d ngitpl.com
@@ -66722,7 +66724,6 @@ msFilterList
 -d ointy.info
 -d oipx0q.bn.files.1drv.com
 -d oiqowuehansee.com
--d oircjournals.org
 -d oirom.ru
 -d ois.edu.bd
 -d ois.jenszackrisson.se
@@ -67326,6 +67327,7 @@ msFilterList
 -d onlinepreneur.id
 -d onlinepreps.com
 -d onlinepro.si
+-d onlineprojectdemo.net
 -d onlineqeramika.com
 -d onlinequranlearner.com
 -d onlinerouletteinaustralia.com
@@ -72336,6 +72338,7 @@ msFilterList
 -d pro-scs.com
 -d pro-sealsolutions.com
 -d pro-structure.ru
+-d pro-teammt.ru
 -d pro-tekconsulting.org
 -d pro-tone.ru
 -d pro-tvoydom.ru
@@ -84044,7 +84047,6 @@ msFilterList
 -d souqaziz.com
 -d souqchatbot.com
 -d souqelasr.com
--d souqshare.com
 -d souqtajeer.com
 -d source2save.co.uk
 -d sourcebow.com
@@ -87358,6 +87360,7 @@ msFilterList
 -d syntheticincenseonline.com
 -d syntheticviscosecotton.com
 -d synusiaclimbers.com
+-d syokmelaram.com
 -d syonenjump-fun.com
 -d syowakogyo.co.jp
 -d sypeka.gr
@@ -93111,6 +93114,7 @@ msFilterList
 -d tuhishair.com
 -d tuhoctiengduc.asia
 -d tuiliere-a-ciel-ouvert.fr
+-d tuimclean.com
 -d tuinaanlegprovoost.be
 -d tuintrein.nl
 -d tuisumi.info
@@ -100917,6 +100921,7 @@ msFilterList
 -d xz.bxacg.com
 -d xz.etall.cn
 -d xz.gexgz.com
+-d xz.juzirl.com
 -d xz97.top
 -d xzb.198424.com
 -d xzc.197746.com
@@ -101933,7 +101938,6 @@ msFilterList
 -d zacpiqzslt.duckdns.org
 -d zadania.abel.bielsko.pl
 -d zadecu.com
--d zadelm.com
 -d zadentechnologies.com
 -d zadkay.com
 -d zadvexmail19mn.world
