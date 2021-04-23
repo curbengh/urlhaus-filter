@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Fri, 23 Apr 2021 00:13:10 UTC
+# Updated: Fri, 23 Apr 2021 12:13:04 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -505,7 +505,6 @@
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
 0.0.0.0 2.toemobra.com.br
-0.0.0.0 2.top4top.io
 0.0.0.0 2.u0135364.z8.ru
 0.0.0.0 20.c8xtt.com
 0.0.0.0 20.dbstrony.pl
@@ -1290,7 +1289,6 @@
 0.0.0.0 5-shampurov.ru
 0.0.0.0 5.c8xtt.com
 0.0.0.0 5.fjwt1.crsky.com
-0.0.0.0 5.top4top.io
 0.0.0.0 5.u0148466.z8.ru
 0.0.0.0 5.unplugrevolution.com
 0.0.0.0 5003.arentuspecial.com
@@ -1695,7 +1693,6 @@
 0.0.0.0 8daufikrn5860429.davidguetta03.space
 0.0.0.0 8daufikrn7577595.davidguetta03.space
 0.0.0.0 8dsuspect8.com
-0.0.0.0 8dx.pc6.com
 0.0.0.0 8e3raq.bl.files.1drv.com
 0.0.0.0 8edylw.ch.files.1drv.com
 0.0.0.0 8ez.com
@@ -2681,6 +2678,7 @@
 0.0.0.0 acethrass.com
 0.0.0.0 acetnsk.ru
 0.0.0.0 acetraining24.com
+0.0.0.0 acewatch.vn
 0.0.0.0 acewm.org
 0.0.0.0 aceyz.com
 0.0.0.0 acezsensing.com
@@ -3789,7 +3787,6 @@
 0.0.0.0 agenza18.ayz.pl
 0.0.0.0 agenziabalestri.it
 0.0.0.0 agenziadiviaggidinozzetorino.it
-0.0.0.0 agenziainformazioni.icu
 0.0.0.0 agepsed.org
 0.0.0.0 agereversalcreamam.com
 0.0.0.0 agernatura.com
@@ -7955,6 +7952,7 @@
 0.0.0.0 armstrongfieldconsulting.com
 0.0.0.0 army302.engineer302.com
 0.0.0.0 armypostalservice.com
+0.0.0.0 armyscheme.sytes.net
 0.0.0.0 arnavinteriors.in
 0.0.0.0 arnavsoftware.in
 0.0.0.0 arneck-rescue.com
@@ -10174,10 +10172,12 @@
 0.0.0.0 b.assignmentproff.com
 0.0.0.0 b.catgirlsare.sexy
 0.0.0.0 b.coka.la
+0.0.0.0 b.dircgame.live
 0.0.0.0 b.fherf.com
 0.0.0.0 b.frefou.ru
 0.0.0.0 b.kitchencabinetryprofessionals.com
 0.0.0.0 b.makswells.com
+0.0.0.0 b.o.nanz.ajhrw@b.dircgame.live
 0.0.0.0 b.reich.io
 0.0.0.0 b.teamworx.ph
 0.0.0.0 b.top4top.net
@@ -11278,7 +11278,6 @@
 0.0.0.0 bbcescritoriosvirtuais.com.br
 0.0.0.0 bbclube.com
 0.0.0.0 bbcollege.org.in
-0.0.0.0 bbcpl.in
 0.0.0.0 bbcproducts.in
 0.0.0.0 bbctechnologiesllc.com
 0.0.0.0 bbd3.cn
@@ -16993,6 +16992,7 @@
 0.0.0.0 caravella.com.br
 0.0.0.0 caravelleguyane.fr
 0.0.0.0 carbcoaches.com
+0.0.0.0 carbinz.gq
 0.0.0.0 carbonarchitecture.co.uk
 0.0.0.0 carbonatedcocktails.com
 0.0.0.0 carbonazin.com
@@ -17576,6 +17576,7 @@
 0.0.0.0 catswiz.com
 0.0.0.0 cattea.cl
 0.0.0.0 cattelenitalia.icu
+0.0.0.0 cattle-crypto-2005.com
 0.0.0.0 cattledeal.com
 0.0.0.0 cattleyadessert.online
 0.0.0.0 cattskiespina.com
@@ -17850,6 +17851,7 @@
 0.0.0.0 cdncomfortgroup.website
 0.0.0.0 cdndownloadlp.club
 0.0.0.0 cdnmultimedia.com
+0.0.0.0 cdnpic.mgyun.com
 0.0.0.0 cdnxh.net
 0.0.0.0 cdoconsult.com.br
 0.0.0.0 cdolechon.com
@@ -20818,7 +20820,6 @@
 0.0.0.0 complience.com
 0.0.0.0 compln.net
 0.0.0.0 component.pw
-0.0.0.0 components.technologymindz.com
 0.0.0.0 composecv.com
 0.0.0.0 composite.be
 0.0.0.0 compoundy.com
@@ -26822,7 +26823,6 @@
 0.0.0.0 dl-675423.store-downloads.com
 0.0.0.0 dl-80076342.md-downloads.com
 0.0.0.0 dl-97674424.md-downloads.com
-0.0.0.0 dl-gameplayer.dmm.com
 0.0.0.0 dl-link.link
 0.0.0.0 dl-link.live
 0.0.0.0 dl-link.network
@@ -27085,6 +27085,7 @@
 0.0.0.0 docs.majorlinkers.com
 0.0.0.0 docs.qualva.io
 0.0.0.0 docs.sunmi.com
+0.0.0.0 docs.teamkingrealestate.com
 0.0.0.0 docs.tnk.mx
 0.0.0.0 docs.web-x.com.my
 0.0.0.0 docsdetector.xyz
@@ -27652,6 +27653,7 @@
 0.0.0.0 down.hognoob.se
 0.0.0.0 down.icafe8.com
 0.0.0.0 down.klldddiso.xyz
+0.0.0.0 down.kuroneko-yamato-iq.top
 0.0.0.0 down.kuronekoyamato-adag.top
 0.0.0.0 down.kuronekoyamato-adw.top
 0.0.0.0 down.kuronekoyamato-adz.top
@@ -27815,6 +27817,7 @@
 0.0.0.0 downloads4you.shop
 0.0.0.0 downloads4you.uk
 0.0.0.0 downloadslagu.org
+0.0.0.0 downloadsoftfree.info
 0.0.0.0 downloadsub.000webhostapp.com
 0.0.0.0 downloadyourcryptedfilehereforcriptings.duckdns.org
 0.0.0.0 downloditnow.top
@@ -33278,6 +33281,7 @@
 0.0.0.0 familystory.es
 0.0.0.0 familytex.ru
 0.0.0.0 famint-my.sharepoint.com
+0.0.0.0 famitaa.com
 0.0.0.0 famiuganda.org
 0.0.0.0 famostano.com
 0.0.0.0 famous-quotations.org
@@ -34244,7 +34248,6 @@
 0.0.0.0 file.discountmonumentcenter.com
 0.0.0.0 file.dpmf.com.pk
 0.0.0.0 file.ekkggr3.com
-0.0.0.0 file.fm
 0.0.0.0 file.importantcover.uk
 0.0.0.0 file.lauasinh.com
 0.0.0.0 file.mayter.cn
@@ -38585,7 +38588,6 @@
 0.0.0.0 go.skyyer.com
 0.0.0.0 go.xsuad.com
 0.0.0.0 go2035.ru
-0.0.0.0 go2l.ink
 0.0.0.0 go4it24.be
 0.0.0.0 go5bln3.com
 0.0.0.0 go7wallet.com
@@ -39353,6 +39355,7 @@
 0.0.0.0 graphicsbygabby.com
 0.0.0.0 graphicxer.com
 0.0.0.0 graphimport.com.br
+0.0.0.0 graphixagency.com
 0.0.0.0 graphixhosting.co.uk
 0.0.0.0 graphoides.com
 0.0.0.0 graphos.co.ke
@@ -39600,6 +39603,7 @@
 0.0.0.0 gregemmerth.com
 0.0.0.0 greghigh.com
 0.0.0.0 gregladen.com
+0.0.0.0 gregmakroulakis.dxagency.com
 0.0.0.0 gregor-instruments.com
 0.0.0.0 gregorear.com
 0.0.0.0 gregorymk.com
@@ -39944,6 +39948,7 @@
 0.0.0.0 gsprogressreport.everywomaneverychild.org
 0.0.0.0 gsr.park.edu
 0.0.0.0 gsraconsulting.com
+0.0.0.0 gss.mof.gov.cn
 0.0.0.0 gsscomputers.co.uk
 0.0.0.0 gssgroups.com
 0.0.0.0 gst-system.com
@@ -44205,6 +44210,7 @@
 0.0.0.0 ictsmkn2cibar.org
 0.0.0.0 ictsphere.tv
 0.0.0.0 ictvacaturesachterhoek.nl
+0.0.0.0 ictzj.com
 0.0.0.0 icurse.nl
 0.0.0.0 icv.edu.au
 0.0.0.0 icveritas.pe
@@ -47762,6 +47768,8 @@
 0.0.0.0 jaunimopartija.lt
 0.0.0.0 jauxkpjx.yuhong.me
 0.0.0.0 java-gold.com
+0.0.0.0 java.harpereng.com
+0.0.0.0 java.variantto.com
 0.0.0.0 java.wpioys.club
 0.0.0.0 javabike.net
 0.0.0.0 javadesign.apm.pe.kr
@@ -51592,7 +51600,6 @@
 0.0.0.0 kodim0112sabang.com
 0.0.0.0 kodingeko.com
 0.0.0.0 kodip.nfile.net
-0.0.0.0 kodjdsjsdjf.tk
 0.0.0.0 kodlacan.site
 0.0.0.0 kodmuje.com
 0.0.0.0 kodolios.000webhostapp.com
@@ -53344,7 +53351,6 @@
 0.0.0.0 lausinexamenes.com
 0.0.0.0 lautarosanmiguel.com
 0.0.0.0 lautreagence.com
-0.0.0.0 lavagaming.com
 0.0.0.0 lavageeks.ru
 0.0.0.0 lavago.de
 0.0.0.0 lavahotel.vn
@@ -54258,6 +54264,7 @@
 0.0.0.0 library.cifor.org
 0.0.0.0 library.dhl-xom.com
 0.0.0.0 library.iainbengkulu.ac.id
+0.0.0.0 library.mju.ac.th
 0.0.0.0 library.phibi.my.id
 0.0.0.0 library.piet.co.in
 0.0.0.0 library.skscarsrjn.in
@@ -56055,7 +56062,6 @@
 0.0.0.0 luminouspla.net
 0.0.0.0 luminouspneuma.com
 0.0.0.0 lumnus.com.br
-0.0.0.0 lumoura.com
 0.0.0.0 lumperpush.com
 0.0.0.0 lumsdancorp.com
 0.0.0.0 lun.otrweb.ru
@@ -57742,6 +57748,7 @@
 0.0.0.0 mamylining.com
 0.0.0.0 mamymall.ru
 0.0.0.0 man.myanmarfas.com
+0.0.0.0 man70.ru
 0.0.0.0 mana9at.com
 0.0.0.0 manage.bachatshop.pk
 0.0.0.0 manage.morissalakante.com
@@ -59346,7 +59353,6 @@
 0.0.0.0 mediamoda.ru
 0.0.0.0 mediamouse.com.au
 0.0.0.0 medianabolivia.com
-0.0.0.0 medianews.ge
 0.0.0.0 mediaplayerapp.info
 0.0.0.0 mediaprecies.online
 0.0.0.0 mediarama.ru
@@ -60167,6 +60173,7 @@
 0.0.0.0 mfomjr.com
 0.0.0.0 mfotovideo.ro
 0.0.0.0 mfpburundi.bi
+0.0.0.0 mfpc.org.my
 0.0.0.0 mfppanel.xyz
 0.0.0.0 mfpvision.com
 0.0.0.0 mfronza.com.br
@@ -62615,6 +62622,7 @@
 0.0.0.0 mtcinteriordesign.co.uk
 0.0.0.0 mtcr.co.za
 0.0.0.0 mtcuadrado.com
+0.0.0.0 mtdc.com.my
 0.0.0.0 mte1.cn
 0.0.0.0 mtechagency.com
 0.0.0.0 mtechracing.com.au
@@ -70201,6 +70209,7 @@
 0.0.0.0 perezluzstdycafesszb.dns.army
 0.0.0.0 perezluzstdycatmatoy.dns.army
 0.0.0.0 perezluzwsdycafewsbz.dns.army
+0.0.0.0 perezluzwsdycafewstu.dns.army
 0.0.0.0 perezluzwsdycafeyzmn.dns.navy
 0.0.0.0 perezmyata.ru
 0.0.0.0 perfalawn.com
@@ -70720,6 +70729,7 @@
 0.0.0.0 photo-midorikawa.info
 0.0.0.0 photo.6nationstabletenniscup.com
 0.0.0.0 photo.mikerizzello.com
+0.0.0.0 photo.sohu.com
 0.0.0.0 photo2.nerdtonik.com
 0.0.0.0 photo360.kubooking.com
 0.0.0.0 photobook-design.de
@@ -72934,6 +72944,7 @@
 0.0.0.0 professionelelit.com
 0.0.0.0 professoreyesan.com
 0.0.0.0 professorsgallery.com
+0.0.0.0 profetestruec.net
 0.0.0.0 profexsystem.com
 0.0.0.0 proffessia.ru
 0.0.0.0 proffice.com.pl
@@ -74588,6 +74599,7 @@
 0.0.0.0 questxchange.com
 0.0.0.0 quiarremba.com
 0.0.0.0 quickbook.online
+0.0.0.0 quickbooks.thormobilemanagement.com
 0.0.0.0 quickbookstechnicalsupportphonenumber.com
 0.0.0.0 quickboooks.host
 0.0.0.0 quickboooks.space
@@ -81022,6 +81034,7 @@
 0.0.0.0 service.dawat.fr
 0.0.0.0 service.drnjithendran.com
 0.0.0.0 service.eftformotherissues.com
+0.0.0.0 service.ezsoftwareupdater.com
 0.0.0.0 service.heritageimagingcenter.com
 0.0.0.0 service.hybridhomesteam.com
 0.0.0.0 service.idealfurnitureoutlet.com
@@ -83116,6 +83129,7 @@
 0.0.0.0 skolaintellekt.ge
 0.0.0.0 skolanovavesnn.cz
 0.0.0.0 skolastudium.com
+0.0.0.0 skolazmajzemun.edu.rs
 0.0.0.0 skolko-stoit-ajfon.ru
 0.0.0.0 skolkovotop.info
 0.0.0.0 skolnickassoc.com
@@ -87274,6 +87288,7 @@
 0.0.0.0 supercutscissors.com
 0.0.0.0 superdad.id
 0.0.0.0 superdigitalguy.xyz
+0.0.0.0 superdomain1709.info
 0.0.0.0 superdot.rs
 0.0.0.0 superecruiters.com
 0.0.0.0 superfacil.center
@@ -87441,6 +87456,7 @@
 0.0.0.0 sureswsdybonescagehg.dns.army
 0.0.0.0 surewaytoheaven.org
 0.0.0.0 surewin.com.my
+0.0.0.0 surfaceartinc.com
 0.0.0.0 surfcrypto.life
 0.0.0.0 surfe.xyz
 0.0.0.0 surfel.tk
@@ -90611,6 +90627,7 @@
 0.0.0.0 thefragrancefreeshop.com
 0.0.0.0 thefranssons.com
 0.0.0.0 thefreelancerschool.com
+0.0.0.0 thefrees.com
 0.0.0.0 thefreewaterfoundation.org.za
 0.0.0.0 thefront.in
 0.0.0.0 thefuel.be
@@ -93797,6 +93814,7 @@
 0.0.0.0 tunnelview.co.uk
 0.0.0.0 tunuvo.com
 0.0.0.0 tuobrasocial.com.ar
+0.0.0.0 tuoitrethainguyen.vn
 0.0.0.0 tupibaje.com
 0.0.0.0 tupperware.michaelroberge.ca
 0.0.0.0 tur.000webhostapp.com
@@ -93933,7 +93951,6 @@
 0.0.0.0 tuvanduhocmap.com
 0.0.0.0 tuvangamenet.com
 0.0.0.0 tuvangioitinh.com
-0.0.0.0 tuvanluat.vn
 0.0.0.0 tuvansinhvien.000webhostapp.com
 0.0.0.0 tuvidaysalud.com
 0.0.0.0 tuwaiq.delimp.world
@@ -94886,6 +94903,7 @@
 0.0.0.0 unitedwsdy5defenceforgorvermentsocialeme.duckdns.org
 0.0.0.0 unitedwsdykesokowsbv.dns.army
 0.0.0.0 unitedwsdykesokowsgs.dns.army
+0.0.0.0 unitedwsdykesokowshp.dns.army
 0.0.0.0 unitedwsdykesokowskg.dns.army
 0.0.0.0 unitedwsdykesokowsku.dns.army
 0.0.0.0 unitedwsdykesokowsri.dns.navy
@@ -95324,7 +95342,6 @@
 0.0.0.0 us.cdn.persiangig.com
 0.0.0.0 us.gsearch.com.de
 0.0.0.0 us.hostiso.cloud
-0.0.0.0 us15.campaign-archive.com
 0.0.0.0 us5interclub.cba.pl
 0.0.0.0 usa-lenders.com
 0.0.0.0 usa-life-insurance.net
@@ -96070,7 +96087,6 @@
 0.0.0.0 vdvlugt.org
 0.0.0.0 vdyzel.ootw.co.za
 0.0.0.0 ve-ingenieria.tk
-0.0.0.0 veas.com.vn
 0.0.0.0 veatchcommercial.com
 0.0.0.0 vebk1x.com
 0.0.0.0 veblogger.com
@@ -98638,6 +98654,7 @@
 0.0.0.0 webstartsshoppingcart.com
 0.0.0.0 webstels.ru
 0.0.0.0 websteroids.ro
+0.0.0.0 webstersiren.com
 0.0.0.0 webstring.in
 0.0.0.0 websuntangled.co.uk
 0.0.0.0 webszillatechnologies.com
@@ -100301,6 +100318,7 @@
 0.0.0.0 wsdyalhjchfonlinwsed.dns.army
 0.0.0.0 wsdyantipiracydewspv.dns.army
 0.0.0.0 wsdyantipiracydewsqw.dns.army
+0.0.0.0 wsdyblyblycomunicakh.dns.army
 0.0.0.0 wsdybsskillemmulatorsdevelovercommwsity.ydns.eu
 0.0.0.0 wsdybsskillemmulatorsdevelovercomun11pq.duckdns.org
 0.0.0.0 wsdychfouranotherwop.dns.army
@@ -100497,6 +100515,7 @@
 0.0.0.0 www2.wlwv.k12.or.us
 0.0.0.0 www5.ritamartins.pt
 0.0.0.0 www6.hpq0.cn
+0.0.0.0 www68.zippyshare.com
 0.0.0.0 www8.ir
 0.0.0.0 wwwclplonline.000webhostapp.com
 0.0.0.0 wwwdev.whitehat.pt
@@ -100609,6 +100628,7 @@
 0.0.0.0 xact.ma
 0.0.0.0 xadrezgigante.com.br
 0.0.0.0 xaergtcrcd.info
+0.0.0.0 xagency.co
 0.0.0.0 xagos.de
 0.0.0.0 xaidol.com
 0.0.0.0 xajfgz.com
@@ -102341,7 +102361,6 @@
 0.0.0.0 yoyoso.nz
 0.0.0.0 yoyoteacher.cn
 0.0.0.0 yp.dcyazilim.com
-0.0.0.0 yp.hnggzyjy.cn
 0.0.0.0 ypbb.or.id
 0.0.0.0 ypddf.org
 0.0.0.0 ypicsdy.cf

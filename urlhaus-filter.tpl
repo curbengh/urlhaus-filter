@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 23 Apr 2021 00:13:10 UTC
+# Updated: Fri, 23 Apr 2021 12:13:04 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -508,7 +508,6 @@ msFilterList
 -d 2.nvd.by
 -d 2.spacepel.com
 -d 2.toemobra.com.br
--d 2.top4top.io
 -d 2.u0135364.z8.ru
 -d 20.c8xtt.com
 -d 20.dbstrony.pl
@@ -1293,7 +1292,6 @@ msFilterList
 -d 5-shampurov.ru
 -d 5.c8xtt.com
 -d 5.fjwt1.crsky.com
--d 5.top4top.io
 -d 5.u0148466.z8.ru
 -d 5.unplugrevolution.com
 -d 5003.arentuspecial.com
@@ -1698,7 +1696,6 @@ msFilterList
 -d 8daufikrn5860429.davidguetta03.space
 -d 8daufikrn7577595.davidguetta03.space
 -d 8dsuspect8.com
--d 8dx.pc6.com
 -d 8e3raq.bl.files.1drv.com
 -d 8edylw.ch.files.1drv.com
 -d 8ez.com
@@ -2684,6 +2681,7 @@ msFilterList
 -d acethrass.com
 -d acetnsk.ru
 -d acetraining24.com
+-d acewatch.vn
 -d acewm.org
 -d aceyz.com
 -d acezsensing.com
@@ -3792,7 +3790,6 @@ msFilterList
 -d agenza18.ayz.pl
 -d agenziabalestri.it
 -d agenziadiviaggidinozzetorino.it
--d agenziainformazioni.icu
 -d agepsed.org
 -d agereversalcreamam.com
 -d agernatura.com
@@ -7958,6 +7955,7 @@ msFilterList
 -d armstrongfieldconsulting.com
 -d army302.engineer302.com
 -d armypostalservice.com
+-d armyscheme.sytes.net
 -d arnavinteriors.in
 -d arnavsoftware.in
 -d arneck-rescue.com
@@ -10177,10 +10175,12 @@ msFilterList
 -d b.assignmentproff.com
 -d b.catgirlsare.sexy
 -d b.coka.la
+-d b.dircgame.live
 -d b.fherf.com
 -d b.frefou.ru
 -d b.kitchencabinetryprofessionals.com
 -d b.makswells.com
+-d b.o.nanz.ajhrw@b.dircgame.live
 -d b.reich.io
 -d b.teamworx.ph
 -d b.top4top.net
@@ -11281,7 +11281,6 @@ msFilterList
 -d bbcescritoriosvirtuais.com.br
 -d bbclube.com
 -d bbcollege.org.in
--d bbcpl.in
 -d bbcproducts.in
 -d bbctechnologiesllc.com
 -d bbd3.cn
@@ -16996,6 +16995,7 @@ msFilterList
 -d caravella.com.br
 -d caravelleguyane.fr
 -d carbcoaches.com
+-d carbinz.gq
 -d carbonarchitecture.co.uk
 -d carbonatedcocktails.com
 -d carbonazin.com
@@ -17579,6 +17579,7 @@ msFilterList
 -d catswiz.com
 -d cattea.cl
 -d cattelenitalia.icu
+-d cattle-crypto-2005.com
 -d cattledeal.com
 -d cattleyadessert.online
 -d cattskiespina.com
@@ -17853,6 +17854,7 @@ msFilterList
 -d cdncomfortgroup.website
 -d cdndownloadlp.club
 -d cdnmultimedia.com
+-d cdnpic.mgyun.com
 -d cdnxh.net
 -d cdoconsult.com.br
 -d cdolechon.com
@@ -20821,7 +20823,6 @@ msFilterList
 -d complience.com
 -d compln.net
 -d component.pw
--d components.technologymindz.com
 -d composecv.com
 -d composite.be
 -d compoundy.com
@@ -26825,7 +26826,6 @@ msFilterList
 -d dl-675423.store-downloads.com
 -d dl-80076342.md-downloads.com
 -d dl-97674424.md-downloads.com
--d dl-gameplayer.dmm.com
 -d dl-link.link
 -d dl-link.live
 -d dl-link.network
@@ -27088,6 +27088,7 @@ msFilterList
 -d docs.majorlinkers.com
 -d docs.qualva.io
 -d docs.sunmi.com
+-d docs.teamkingrealestate.com
 -d docs.tnk.mx
 -d docs.web-x.com.my
 -d docsdetector.xyz
@@ -27655,6 +27656,7 @@ msFilterList
 -d down.hognoob.se
 -d down.icafe8.com
 -d down.klldddiso.xyz
+-d down.kuroneko-yamato-iq.top
 -d down.kuronekoyamato-adag.top
 -d down.kuronekoyamato-adw.top
 -d down.kuronekoyamato-adz.top
@@ -27818,6 +27820,7 @@ msFilterList
 -d downloads4you.shop
 -d downloads4you.uk
 -d downloadslagu.org
+-d downloadsoftfree.info
 -d downloadsub.000webhostapp.com
 -d downloadyourcryptedfilehereforcriptings.duckdns.org
 -d downloditnow.top
@@ -33281,6 +33284,7 @@ msFilterList
 -d familystory.es
 -d familytex.ru
 -d famint-my.sharepoint.com
+-d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -34247,7 +34251,6 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
--d file.fm
 -d file.importantcover.uk
 -d file.lauasinh.com
 -d file.mayter.cn
@@ -38588,7 +38591,6 @@ msFilterList
 -d go.skyyer.com
 -d go.xsuad.com
 -d go2035.ru
--d go2l.ink
 -d go4it24.be
 -d go5bln3.com
 -d go7wallet.com
@@ -39356,6 +39358,7 @@ msFilterList
 -d graphicsbygabby.com
 -d graphicxer.com
 -d graphimport.com.br
+-d graphixagency.com
 -d graphixhosting.co.uk
 -d graphoides.com
 -d graphos.co.ke
@@ -39603,6 +39606,7 @@ msFilterList
 -d gregemmerth.com
 -d greghigh.com
 -d gregladen.com
+-d gregmakroulakis.dxagency.com
 -d gregor-instruments.com
 -d gregorear.com
 -d gregorymk.com
@@ -39947,6 +39951,7 @@ msFilterList
 -d gsprogressreport.everywomaneverychild.org
 -d gsr.park.edu
 -d gsraconsulting.com
+-d gss.mof.gov.cn
 -d gsscomputers.co.uk
 -d gssgroups.com
 -d gst-system.com
@@ -44208,6 +44213,7 @@ msFilterList
 -d ictsmkn2cibar.org
 -d ictsphere.tv
 -d ictvacaturesachterhoek.nl
+-d ictzj.com
 -d icurse.nl
 -d icv.edu.au
 -d icveritas.pe
@@ -47765,6 +47771,8 @@ msFilterList
 -d jaunimopartija.lt
 -d jauxkpjx.yuhong.me
 -d java-gold.com
+-d java.harpereng.com
+-d java.variantto.com
 -d java.wpioys.club
 -d javabike.net
 -d javadesign.apm.pe.kr
@@ -51595,7 +51603,6 @@ msFilterList
 -d kodim0112sabang.com
 -d kodingeko.com
 -d kodip.nfile.net
--d kodjdsjsdjf.tk
 -d kodlacan.site
 -d kodmuje.com
 -d kodolios.000webhostapp.com
@@ -53347,7 +53354,6 @@ msFilterList
 -d lausinexamenes.com
 -d lautarosanmiguel.com
 -d lautreagence.com
--d lavagaming.com
 -d lavageeks.ru
 -d lavago.de
 -d lavahotel.vn
@@ -54261,6 +54267,7 @@ msFilterList
 -d library.cifor.org
 -d library.dhl-xom.com
 -d library.iainbengkulu.ac.id
+-d library.mju.ac.th
 -d library.phibi.my.id
 -d library.piet.co.in
 -d library.skscarsrjn.in
@@ -56058,7 +56065,6 @@ msFilterList
 -d luminouspla.net
 -d luminouspneuma.com
 -d lumnus.com.br
--d lumoura.com
 -d lumperpush.com
 -d lumsdancorp.com
 -d lun.otrweb.ru
@@ -57745,6 +57751,7 @@ msFilterList
 -d mamylining.com
 -d mamymall.ru
 -d man.myanmarfas.com
+-d man70.ru
 -d mana9at.com
 -d manage.bachatshop.pk
 -d manage.morissalakante.com
@@ -59349,7 +59356,6 @@ msFilterList
 -d mediamoda.ru
 -d mediamouse.com.au
 -d medianabolivia.com
--d medianews.ge
 -d mediaplayerapp.info
 -d mediaprecies.online
 -d mediarama.ru
@@ -60170,6 +60176,7 @@ msFilterList
 -d mfomjr.com
 -d mfotovideo.ro
 -d mfpburundi.bi
+-d mfpc.org.my
 -d mfppanel.xyz
 -d mfpvision.com
 -d mfronza.com.br
@@ -62618,6 +62625,7 @@ msFilterList
 -d mtcinteriordesign.co.uk
 -d mtcr.co.za
 -d mtcuadrado.com
+-d mtdc.com.my
 -d mte1.cn
 -d mtechagency.com
 -d mtechracing.com.au
@@ -70204,6 +70212,7 @@ msFilterList
 -d perezluzstdycafesszb.dns.army
 -d perezluzstdycatmatoy.dns.army
 -d perezluzwsdycafewsbz.dns.army
+-d perezluzwsdycafewstu.dns.army
 -d perezluzwsdycafeyzmn.dns.navy
 -d perezmyata.ru
 -d perfalawn.com
@@ -70723,6 +70732,7 @@ msFilterList
 -d photo-midorikawa.info
 -d photo.6nationstabletenniscup.com
 -d photo.mikerizzello.com
+-d photo.sohu.com
 -d photo2.nerdtonik.com
 -d photo360.kubooking.com
 -d photobook-design.de
@@ -72937,6 +72947,7 @@ msFilterList
 -d professionelelit.com
 -d professoreyesan.com
 -d professorsgallery.com
+-d profetestruec.net
 -d profexsystem.com
 -d proffessia.ru
 -d proffice.com.pl
@@ -74591,6 +74602,7 @@ msFilterList
 -d questxchange.com
 -d quiarremba.com
 -d quickbook.online
+-d quickbooks.thormobilemanagement.com
 -d quickbookstechnicalsupportphonenumber.com
 -d quickboooks.host
 -d quickboooks.space
@@ -81025,6 +81037,7 @@ msFilterList
 -d service.dawat.fr
 -d service.drnjithendran.com
 -d service.eftformotherissues.com
+-d service.ezsoftwareupdater.com
 -d service.heritageimagingcenter.com
 -d service.hybridhomesteam.com
 -d service.idealfurnitureoutlet.com
@@ -83119,6 +83132,7 @@ msFilterList
 -d skolaintellekt.ge
 -d skolanovavesnn.cz
 -d skolastudium.com
+-d skolazmajzemun.edu.rs
 -d skolko-stoit-ajfon.ru
 -d skolkovotop.info
 -d skolnickassoc.com
@@ -87277,6 +87291,7 @@ msFilterList
 -d supercutscissors.com
 -d superdad.id
 -d superdigitalguy.xyz
+-d superdomain1709.info
 -d superdot.rs
 -d superecruiters.com
 -d superfacil.center
@@ -87444,6 +87459,7 @@ msFilterList
 -d sureswsdybonescagehg.dns.army
 -d surewaytoheaven.org
 -d surewin.com.my
+-d surfaceartinc.com
 -d surfcrypto.life
 -d surfe.xyz
 -d surfel.tk
@@ -90614,6 +90630,7 @@ msFilterList
 -d thefragrancefreeshop.com
 -d thefranssons.com
 -d thefreelancerschool.com
+-d thefrees.com
 -d thefreewaterfoundation.org.za
 -d thefront.in
 -d thefuel.be
@@ -93800,6 +93817,7 @@ msFilterList
 -d tunnelview.co.uk
 -d tunuvo.com
 -d tuobrasocial.com.ar
+-d tuoitrethainguyen.vn
 -d tupibaje.com
 -d tupperware.michaelroberge.ca
 -d tur.000webhostapp.com
@@ -93936,7 +93954,6 @@ msFilterList
 -d tuvanduhocmap.com
 -d tuvangamenet.com
 -d tuvangioitinh.com
--d tuvanluat.vn
 -d tuvansinhvien.000webhostapp.com
 -d tuvidaysalud.com
 -d tuwaiq.delimp.world
@@ -94889,6 +94906,7 @@ msFilterList
 -d unitedwsdy5defenceforgorvermentsocialeme.duckdns.org
 -d unitedwsdykesokowsbv.dns.army
 -d unitedwsdykesokowsgs.dns.army
+-d unitedwsdykesokowshp.dns.army
 -d unitedwsdykesokowskg.dns.army
 -d unitedwsdykesokowsku.dns.army
 -d unitedwsdykesokowsri.dns.navy
@@ -95327,7 +95345,6 @@ msFilterList
 -d us.cdn.persiangig.com
 -d us.gsearch.com.de
 -d us.hostiso.cloud
--d us15.campaign-archive.com
 -d us5interclub.cba.pl
 -d usa-lenders.com
 -d usa-life-insurance.net
@@ -96073,7 +96090,6 @@ msFilterList
 -d vdvlugt.org
 -d vdyzel.ootw.co.za
 -d ve-ingenieria.tk
--d veas.com.vn
 -d veatchcommercial.com
 -d vebk1x.com
 -d veblogger.com
@@ -98641,6 +98657,7 @@ msFilterList
 -d webstartsshoppingcart.com
 -d webstels.ru
 -d websteroids.ro
+-d webstersiren.com
 -d webstring.in
 -d websuntangled.co.uk
 -d webszillatechnologies.com
@@ -100304,6 +100321,7 @@ msFilterList
 -d wsdyalhjchfonlinwsed.dns.army
 -d wsdyantipiracydewspv.dns.army
 -d wsdyantipiracydewsqw.dns.army
+-d wsdyblyblycomunicakh.dns.army
 -d wsdybsskillemmulatorsdevelovercommwsity.ydns.eu
 -d wsdybsskillemmulatorsdevelovercomun11pq.duckdns.org
 -d wsdychfouranotherwop.dns.army
@@ -100500,6 +100518,7 @@ msFilterList
 -d www2.wlwv.k12.or.us
 -d www5.ritamartins.pt
 -d www6.hpq0.cn
+-d www68.zippyshare.com
 -d www8.ir
 -d wwwclplonline.000webhostapp.com
 -d wwwdev.whitehat.pt
@@ -100612,6 +100631,7 @@ msFilterList
 -d xact.ma
 -d xadrezgigante.com.br
 -d xaergtcrcd.info
+-d xagency.co
 -d xagos.de
 -d xaidol.com
 -d xajfgz.com
@@ -102344,7 +102364,6 @@ msFilterList
 -d yoyoso.nz
 -d yoyoteacher.cn
 -d yp.dcyazilim.com
--d yp.hnggzyjy.cn
 -d ypbb.or.id
 -d ypddf.org
 -d ypicsdy.cf
