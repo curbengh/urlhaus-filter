@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 24 Apr 2021 00:12:57 UTC
+# Updated: Sat, 24 Apr 2021 12:12:58 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -240,7 +240,6 @@
 0.0.0.0 123moviesfx.com
 0.0.0.0 123sellfast.com
 0.0.0.0 123sex.co
-0.0.0.0 123tadi.com
 0.0.0.0 123xyz.xyz
 0.0.0.0 124.com.ua
 0.0.0.0 124.cpanel.realwebsitesite.com
@@ -7182,6 +7181,7 @@
 0.0.0.0 app.boxrcdn.com
 0.0.0.0 app.bridgeimpex.org
 0.0.0.0 app.calag.at
+0.0.0.0 app.casetabs.com
 0.0.0.0 app.catholicchurch.co.in
 0.0.0.0 app.choiphui.com
 0.0.0.0 app.cloudindustry.net
@@ -16245,7 +16245,6 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
-0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -17854,6 +17853,7 @@
 0.0.0.0 cdn.slty.de
 0.0.0.0 cdn.spider.cat
 0.0.0.0 cdn.timebuyer.org
+0.0.0.0 cdn.tmooc.cn
 0.0.0.0 cdn.top4top.net
 0.0.0.0 cdn.truelife.vn
 0.0.0.0 cdn.zecast.com
@@ -20093,7 +20093,6 @@
 0.0.0.0 cmecobrancas.com
 0.0.0.0 cmelik.com
 0.0.0.0 cmessagers.com
-0.0.0.0 cmg.asia
 0.0.0.0 cmg.ma
 0.0.0.0 cmgroup.com.ua
 0.0.0.0 cmhighschool.edu.bd
@@ -25101,6 +25100,7 @@
 0.0.0.0 deposayim.ml
 0.0.0.0 depositoclara.com.br
 0.0.0.0 depot7.com
+0.0.0.0 depozituldegeneratoare.ro
 0.0.0.0 depraetere.net
 0.0.0.0 deprealty.ru
 0.0.0.0 depressionted.com
@@ -27773,6 +27773,7 @@
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.enativ.com
 0.0.0.0 download.exrnybuf.cn
+0.0.0.0 download.fahpvdxw.cn
 0.0.0.0 download.fixdown.com
 0.0.0.0 download.fsyuran.com
 0.0.0.0 download.glzip.cn
@@ -32945,7 +32946,6 @@
 0.0.0.0 f.pastdobi.ru
 0.0.0.0 f.regardisperfectshild.ru
 0.0.0.0 f.tolganfor.ru
-0.0.0.0 f.top4top.io
 0.0.0.0 f.top4top.net
 0.0.0.0 f.tsuyogari.ru
 0.0.0.0 f.zombieled.ru
@@ -33300,7 +33300,6 @@
 0.0.0.0 familystory.es
 0.0.0.0 familytex.ru
 0.0.0.0 famint-my.sharepoint.com
-0.0.0.0 famitaa.com
 0.0.0.0 famiuganda.org
 0.0.0.0 famostano.com
 0.0.0.0 famous-quotations.org
@@ -36544,6 +36543,8 @@
 0.0.0.0 fv1-2.failiem.lv
 0.0.0.0 fv13.failiem.lv
 0.0.0.0 fv15.failiem.lv
+0.0.0.0 fv2-1.failiem.lv
+0.0.0.0 fv2-2.failiem.lv
 0.0.0.0 fv2-7.failiem.lv
 0.0.0.0 fv3.failiem.lv
 0.0.0.0 fv6.failiem.lv
@@ -42745,7 +42746,6 @@
 0.0.0.0 homerelief.tk
 0.0.0.0 homeremediesforgas.org
 0.0.0.0 homeremodelinghumble.com
-0.0.0.0 homes.co.id
 0.0.0.0 homes.pleromagroup.com
 0.0.0.0 homescout.tk
 0.0.0.0 homesecuredata.com
@@ -43176,7 +43176,6 @@
 0.0.0.0 hotelwaldblick.com
 0.0.0.0 hotexpress.co
 0.0.0.0 hotfacts.org
-0.0.0.0 hotgifts.online
 0.0.0.0 hotilife.com
 0.0.0.0 hotissue.xyz
 0.0.0.0 hotkine.com
@@ -51758,7 +51757,6 @@
 0.0.0.0 konfirmasi.zakato.org
 0.0.0.0 kongchunghing.com
 0.0.0.0 kongendo.com
-0.0.0.0 kongjiantang.com
 0.0.0.0 kongmiao-litang-amalutama-bangka.org
 0.0.0.0 kongmiao-litang-amalutama-bangka.rajaojek.com
 0.0.0.0 kongsirezeki769.com
@@ -54247,6 +54245,7 @@
 0.0.0.0 lhzs.923yx.com
 0.0.0.0 li-jones.co.uk
 0.0.0.0 li1098-118.members.linode.com
+0.0.0.0 li2259-190.members.linode.com
 0.0.0.0 li7x63d.com
 0.0.0.0 liaassociate.com
 0.0.0.0 lialer.com
@@ -54292,7 +54291,6 @@
 0.0.0.0 library.cifor.org
 0.0.0.0 library.dhl-xom.com
 0.0.0.0 library.iainbengkulu.ac.id
-0.0.0.0 library.mju.ac.th
 0.0.0.0 library.phibi.my.id
 0.0.0.0 library.piet.co.in
 0.0.0.0 library.skscarsrjn.in
@@ -60889,6 +60887,7 @@
 0.0.0.0 ministryoftransport.gov.gi
 0.0.0.0 minitrium.com
 0.0.0.0 miniyam.com
+0.0.0.0 minjusticedh.cf
 0.0.0.0 minmester.no
 0.0.0.0 minmin96.xyz
 0.0.0.0 minmohd.com
@@ -72301,7 +72300,6 @@
 0.0.0.0 pr-kuhni.ru
 0.0.0.0 pr-list.ru
 0.0.0.0 pr.finet.hk
-0.0.0.0 pr.o.p.os.alsc.vh@brownfilleds.duckdns.org
 0.0.0.0 pr.o.p.os.alsc.vh@gfold1.webselffiles01.com
 0.0.0.0 pr1mula.nl
 0.0.0.0 prabhatcycles.com
@@ -83114,7 +83112,6 @@
 0.0.0.0 ski-rm.y0.pl
 0.0.0.0 ski-travel.pl
 0.0.0.0 ski.fib.uns.ac.id
-0.0.0.0 ski.net.id
 0.0.0.0 skia.com.ph
 0.0.0.0 skibokshotell.no
 0.0.0.0 skibstegnestuen.dk
@@ -83378,7 +83375,6 @@
 0.0.0.0 slot-tube.cn
 0.0.0.0 slot0.athakics.com
 0.0.0.0 slot0.fastrek-za.com
-0.0.0.0 slot0.gamoruz.com
 0.0.0.0 slot0.manews-relax.com
 0.0.0.0 slot2bet.com
 0.0.0.0 slotenservice-24-7-actief.nl
@@ -87341,7 +87337,6 @@
 0.0.0.0 supercutscissors.com
 0.0.0.0 superdad.id
 0.0.0.0 superdigitalguy.xyz
-0.0.0.0 superdomain1709.info
 0.0.0.0 superdot.rs
 0.0.0.0 superecruiters.com
 0.0.0.0 superfacil.center
@@ -91791,7 +91786,6 @@
 0.0.0.0 timelyrain.top
 0.0.0.0 timenard.top
 0.0.0.0 timenotbesea.xyz
-0.0.0.0 timenow.pw
 0.0.0.0 timenowis1.top
 0.0.0.0 timeoffer.site
 0.0.0.0 timeofvape.tk
@@ -92323,7 +92317,6 @@
 0.0.0.0 tongdaive.net
 0.0.0.0 tongdaotech.com.cn
 0.0.0.0 tongdogiare.com
-0.0.0.0 tonghopgia.net
 0.0.0.0 tongkhobep.uwp.me
 0.0.0.0 tongkhophianam.vn
 0.0.0.0 tongkhosoncongnghiep.com
@@ -94211,6 +94204,7 @@
 0.0.0.0 u0707115.cp.regruhosting.ru
 0.0.0.0 u0746219.cp.regruhosting.ru
 0.0.0.0 u0774849.cp.regruhosting.ru
+0.0.0.0 u1.huatu.com
 0.0.0.0 u1.innerpeer.com
 0.0.0.0 u11123p7833.web0104.zxcs.nl
 0.0.0.0 u1141p8807.web0103.zxcs.nl
@@ -95366,6 +95360,7 @@
 0.0.0.0 url675.textilmallorca.com
 0.0.0.0 url9823.ville.labrecque.qc.ca
 0.0.0.0 urlac.de
+0.0.0.0 urldefense.us
 0.0.0.0 urleddrug.at
 0.0.0.0 urlfrance.fr
 0.0.0.0 urlm.ir
@@ -95457,7 +95452,6 @@
 0.0.0.0 useraccount.co
 0.0.0.0 useradmincloud.gq
 0.0.0.0 useragent20.barloggio.net
-0.0.0.0 users.atw.hu
 0.0.0.0 users.tpg.com.au
 0.0.0.0 userslinks.xyz
 0.0.0.0 useurogren.com
@@ -96551,6 +96545,7 @@
 0.0.0.0 vi.com.cn
 0.0.0.0 vi363suffer.com
 0.0.0.0 via.hypothes.is
+0.0.0.0 via0.com
 0.0.0.0 viable.ec
 0.0.0.0 viablecareers.org
 0.0.0.0 viacarduccilincolnpark.com
@@ -97828,6 +97823,7 @@
 0.0.0.0 vulkan.ikigaichile.cl
 0.0.0.0 vulkan.ohookah2go.com
 0.0.0.0 vulkan.payroll.gadgetoy.com
+0.0.0.0 vulkancasino6461627.payroll.gadgetoy.com
 0.0.0.0 vulkanvegas-de.katchpurcity.com
 0.0.0.0 vulkanvegas-de.veronafoodbd.com
 0.0.0.0 vulkanvegasbonusmb.payroll.gadgetoy.com
@@ -99770,7 +99766,6 @@
 0.0.0.0 woatinkwoo.com
 0.0.0.0 woclawoffers.fun
 0.0.0.0 wocomm.marketingmindz.com
-0.0.0.0 wodfitapparel.fr
 0.0.0.0 wodmetaldom.pl
 0.0.0.0 wodsuit.com
 0.0.0.0 woelf.in
@@ -100578,7 +100573,6 @@
 0.0.0.0 www2.wlwv.k12.or.us
 0.0.0.0 www5.ritamartins.pt
 0.0.0.0 www6.hpq0.cn
-0.0.0.0 www68.zippyshare.com
 0.0.0.0 www8.ir
 0.0.0.0 wwwclplonline.000webhostapp.com
 0.0.0.0 wwwdev.whitehat.pt
@@ -102031,7 +102025,6 @@
 0.0.0.0 yeu81.com
 0.0.0.0 yeu82.com
 0.0.0.0 yeuhang.tk
-0.0.0.0 yeumoitruong.vn
 0.0.0.0 yeuromndy.cf
 0.0.0.0 yeutocviet.com
 0.0.0.0 yewonder.com

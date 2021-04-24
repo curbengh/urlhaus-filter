@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 24 Apr 2021 00:12:57 UTC
+# Updated: Sat, 24 Apr 2021 12:12:58 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -243,7 +243,6 @@ msFilterList
 -d 123moviesfx.com
 -d 123sellfast.com
 -d 123sex.co
--d 123tadi.com
 -d 123xyz.xyz
 -d 124.com.ua
 -d 124.cpanel.realwebsitesite.com
@@ -7185,6 +7184,7 @@ msFilterList
 -d app.boxrcdn.com
 -d app.bridgeimpex.org
 -d app.calag.at
+-d app.casetabs.com
 -d app.catholicchurch.co.in
 -d app.choiphui.com
 -d app.cloudindustry.net
@@ -16248,7 +16248,6 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
--d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -17857,6 +17856,7 @@ msFilterList
 -d cdn.slty.de
 -d cdn.spider.cat
 -d cdn.timebuyer.org
+-d cdn.tmooc.cn
 -d cdn.top4top.net
 -d cdn.truelife.vn
 -d cdn.zecast.com
@@ -20096,7 +20096,6 @@ msFilterList
 -d cmecobrancas.com
 -d cmelik.com
 -d cmessagers.com
--d cmg.asia
 -d cmg.ma
 -d cmgroup.com.ua
 -d cmhighschool.edu.bd
@@ -25104,6 +25103,7 @@ msFilterList
 -d deposayim.ml
 -d depositoclara.com.br
 -d depot7.com
+-d depozituldegeneratoare.ro
 -d depraetere.net
 -d deprealty.ru
 -d depressionted.com
@@ -27776,6 +27776,7 @@ msFilterList
 -d download.doumaibiji.cn
 -d download.enativ.com
 -d download.exrnybuf.cn
+-d download.fahpvdxw.cn
 -d download.fixdown.com
 -d download.fsyuran.com
 -d download.glzip.cn
@@ -32948,7 +32949,6 @@ msFilterList
 -d f.pastdobi.ru
 -d f.regardisperfectshild.ru
 -d f.tolganfor.ru
--d f.top4top.io
 -d f.top4top.net
 -d f.tsuyogari.ru
 -d f.zombieled.ru
@@ -33303,7 +33303,6 @@ msFilterList
 -d familystory.es
 -d familytex.ru
 -d famint-my.sharepoint.com
--d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -36547,6 +36546,8 @@ msFilterList
 -d fv1-2.failiem.lv
 -d fv13.failiem.lv
 -d fv15.failiem.lv
+-d fv2-1.failiem.lv
+-d fv2-2.failiem.lv
 -d fv2-7.failiem.lv
 -d fv3.failiem.lv
 -d fv6.failiem.lv
@@ -42748,7 +42749,6 @@ msFilterList
 -d homerelief.tk
 -d homeremediesforgas.org
 -d homeremodelinghumble.com
--d homes.co.id
 -d homes.pleromagroup.com
 -d homescout.tk
 -d homesecuredata.com
@@ -43179,7 +43179,6 @@ msFilterList
 -d hotelwaldblick.com
 -d hotexpress.co
 -d hotfacts.org
--d hotgifts.online
 -d hotilife.com
 -d hotissue.xyz
 -d hotkine.com
@@ -51761,7 +51760,6 @@ msFilterList
 -d konfirmasi.zakato.org
 -d kongchunghing.com
 -d kongendo.com
--d kongjiantang.com
 -d kongmiao-litang-amalutama-bangka.org
 -d kongmiao-litang-amalutama-bangka.rajaojek.com
 -d kongsirezeki769.com
@@ -54250,6 +54248,7 @@ msFilterList
 -d lhzs.923yx.com
 -d li-jones.co.uk
 -d li1098-118.members.linode.com
+-d li2259-190.members.linode.com
 -d li7x63d.com
 -d liaassociate.com
 -d lialer.com
@@ -54295,7 +54294,6 @@ msFilterList
 -d library.cifor.org
 -d library.dhl-xom.com
 -d library.iainbengkulu.ac.id
--d library.mju.ac.th
 -d library.phibi.my.id
 -d library.piet.co.in
 -d library.skscarsrjn.in
@@ -60892,6 +60890,7 @@ msFilterList
 -d ministryoftransport.gov.gi
 -d minitrium.com
 -d miniyam.com
+-d minjusticedh.cf
 -d minmester.no
 -d minmin96.xyz
 -d minmohd.com
@@ -72304,7 +72303,6 @@ msFilterList
 -d pr-kuhni.ru
 -d pr-list.ru
 -d pr.finet.hk
--d pr.o.p.os.alsc.vh@brownfilleds.duckdns.org
 -d pr.o.p.os.alsc.vh@gfold1.webselffiles01.com
 -d pr1mula.nl
 -d prabhatcycles.com
@@ -83117,7 +83115,6 @@ msFilterList
 -d ski-rm.y0.pl
 -d ski-travel.pl
 -d ski.fib.uns.ac.id
--d ski.net.id
 -d skia.com.ph
 -d skibokshotell.no
 -d skibstegnestuen.dk
@@ -83381,7 +83378,6 @@ msFilterList
 -d slot-tube.cn
 -d slot0.athakics.com
 -d slot0.fastrek-za.com
--d slot0.gamoruz.com
 -d slot0.manews-relax.com
 -d slot2bet.com
 -d slotenservice-24-7-actief.nl
@@ -87344,7 +87340,6 @@ msFilterList
 -d supercutscissors.com
 -d superdad.id
 -d superdigitalguy.xyz
--d superdomain1709.info
 -d superdot.rs
 -d superecruiters.com
 -d superfacil.center
@@ -91794,7 +91789,6 @@ msFilterList
 -d timelyrain.top
 -d timenard.top
 -d timenotbesea.xyz
--d timenow.pw
 -d timenowis1.top
 -d timeoffer.site
 -d timeofvape.tk
@@ -92326,7 +92320,6 @@ msFilterList
 -d tongdaive.net
 -d tongdaotech.com.cn
 -d tongdogiare.com
--d tonghopgia.net
 -d tongkhobep.uwp.me
 -d tongkhophianam.vn
 -d tongkhosoncongnghiep.com
@@ -94214,6 +94207,7 @@ msFilterList
 -d u0707115.cp.regruhosting.ru
 -d u0746219.cp.regruhosting.ru
 -d u0774849.cp.regruhosting.ru
+-d u1.huatu.com
 -d u1.innerpeer.com
 -d u11123p7833.web0104.zxcs.nl
 -d u1141p8807.web0103.zxcs.nl
@@ -95369,6 +95363,7 @@ msFilterList
 -d url675.textilmallorca.com
 -d url9823.ville.labrecque.qc.ca
 -d urlac.de
+-d urldefense.us
 -d urleddrug.at
 -d urlfrance.fr
 -d urlm.ir
@@ -95460,7 +95455,6 @@ msFilterList
 -d useraccount.co
 -d useradmincloud.gq
 -d useragent20.barloggio.net
--d users.atw.hu
 -d users.tpg.com.au
 -d userslinks.xyz
 -d useurogren.com
@@ -96554,6 +96548,7 @@ msFilterList
 -d vi.com.cn
 -d vi363suffer.com
 -d via.hypothes.is
+-d via0.com
 -d viable.ec
 -d viablecareers.org
 -d viacarduccilincolnpark.com
@@ -97831,6 +97826,7 @@ msFilterList
 -d vulkan.ikigaichile.cl
 -d vulkan.ohookah2go.com
 -d vulkan.payroll.gadgetoy.com
+-d vulkancasino6461627.payroll.gadgetoy.com
 -d vulkanvegas-de.katchpurcity.com
 -d vulkanvegas-de.veronafoodbd.com
 -d vulkanvegasbonusmb.payroll.gadgetoy.com
@@ -99773,7 +99769,6 @@ msFilterList
 -d woatinkwoo.com
 -d woclawoffers.fun
 -d wocomm.marketingmindz.com
--d wodfitapparel.fr
 -d wodmetaldom.pl
 -d wodsuit.com
 -d woelf.in
@@ -100581,7 +100576,6 @@ msFilterList
 -d www2.wlwv.k12.or.us
 -d www5.ritamartins.pt
 -d www6.hpq0.cn
--d www68.zippyshare.com
 -d www8.ir
 -d wwwclplonline.000webhostapp.com
 -d wwwdev.whitehat.pt
@@ -102034,7 +102028,6 @@ msFilterList
 -d yeu81.com
 -d yeu82.com
 -d yeuhang.tk
--d yeumoitruong.vn
 -d yeuromndy.cf
 -d yeutocviet.com
 -d yewonder.com
