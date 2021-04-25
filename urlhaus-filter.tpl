@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 24 Apr 2021 12:12:58 UTC
+# Updated: Sun, 25 Apr 2021 00:13:03 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -10308,6 +10308,7 @@ msFilterList
 -d babytoys.life
 -d babyvogel.nl
 -d babzon.club
+-d bac.edu.my
 -d bacamanect.com
 -d baccaosutritue.vn
 -d baceldeniz.com
@@ -13250,7 +13251,6 @@ msFilterList
 -d bj5800.com
 -d bjarndahl.dk
 -d bjbus.net
--d bjconstructions.in
 -d bjdd.org
 -d bjenkins.webview.consulting
 -d bjenzer.com
@@ -16413,6 +16413,7 @@ msFilterList
 -d cafe-sturm.at
 -d cafe.neomgk.me
 -d cafe.tgeeks.co.tz
+-d cafeaffair.com
 -d cafeasemun.ir
 -d cafebelli.com
 -d cafebuenavie.com
@@ -16909,7 +16910,6 @@ msFilterList
 -d capewestcoastaccommodation.com
 -d capgemrni.com
 -d caphephucthinh.com
--d capital360.eu
 -d capitaladm.com.br
 -d capitalbravo.ru
 -d capitalbusinessbrokers.biz
@@ -24056,7 +24056,6 @@ msFilterList
 -d dbravo.pro
 -d dbs-ebank.com
 -d dbsa-dream.com
--d dbsandbox.ca
 -d dbsenvironmental.co.uk
 -d dbsgear.com
 -d dbsktoporder.yolasite.com
@@ -32015,7 +32014,6 @@ msFilterList
 -d etavern.ro
 -d etawala.com
 -d etbim.com
--d etbnaman.com
 -d etc55.ru
 -d etcert.com
 -d etcgroupsrl.com
@@ -34014,7 +34012,6 @@ msFilterList
 -d ferramentariamorais.com.br
 -d ferramentasindustriais.com.br
 -d ferramentasubra.com.br
--d ferranroig-psicoleg.com
 -d ferrari.clabris.se
 -d ferrariferrari.com.br
 -d ferrata.co.id
@@ -38155,7 +38152,6 @@ msFilterList
 -d girl4night.com
 -d girlem.site
 -d girlfridaymusic.com
--d girlgeekdinners.com
 -d girlhistory.ru
 -d girlhut-my.sharepoint.com
 -d girls-mobile-number.ooo
@@ -39093,7 +39089,6 @@ msFilterList
 -d gotanda-clinic.xyz
 -d gotavinica.pt
 -d gotchacoverednw.com
--d gotchamediablog.com
 -d gotechandafricanfountanain.nmco.co.za
 -d gotecheasy.com
 -d gothamcrowd.com.au
@@ -40765,7 +40760,6 @@ msFilterList
 -d hamyarankasbokar.ir
 -d hamzalinternationalbusinessnetworkindustryindepartment.mangospot.net
 -d han-nya.com
--d hana-lebensmittel.de
 -d hanaadmins.com
 -d hanabishi.net
 -d hanadaseason.com
@@ -46621,6 +46615,7 @@ msFilterList
 -d irandeser.ir
 -d irandokhan.com
 -d iranfanavar.com
+-d iranfilme.ir
 -d iranfishspa.ir
 -d irangamelub.ir
 -d iranglass.co
@@ -69118,7 +69113,6 @@ msFilterList
 -d palmnetconsult.com
 -d palmomedia.de
 -d palmspringsresorts.net
--d palmsuayresort.com
 -d palmtipsheet.com
 -d palmyro.com
 -d paloca.vn
@@ -76062,7 +76056,6 @@ msFilterList
 -d refreshnerer1510.info
 -d refreshnerer1510rb.info
 -d refreshyourteam.hu
--d refrozen.com
 -d refsc.ru
 -d refugeeair.org
 -d refugeetents.co.za
@@ -77791,6 +77784,7 @@ msFilterList
 -d roya-accounting.com
 -d roya-j.com
 -d royahotels.com
+-d royal-cat.ru
 -d royal-dnepr.com
 -d royal-granito.com
 -d royal-respect.dk
@@ -82775,7 +82769,6 @@ msFilterList
 -d sinetcol.co
 -d sinext.net
 -d sinfastener.com
--d sinfulexp.net
 -d singaporedreaming.com
 -d singaporefest.ru
 -d singaporeproperty.ournextmarket.com
@@ -93258,7 +93251,6 @@ msFilterList
 -d trendybirdie.it
 -d trendyco.ir
 -d trendygital.peppyemails.com
--d trendyhome.ltd
 -d trendyshoes.co.za
 -d trendytechsolution.com
 -d treneg.com.br
@@ -96235,7 +96227,6 @@ msFilterList
 -d velimir-grgic.com
 -d velisnackindonesia.com
 -d velissimilio.site
--d veljko.id
 -d vellosoft.com
 -d velma-harber30ku.com
 -d velo2.mon-application.com
@@ -98711,6 +98702,7 @@ msFilterList
 -d webspark.de
 -d webspeedtech.com
 -d webspinnermedia.com
+-d webstack.com.au
 -d webstartsshoppingcart.com
 -d webstels.ru
 -d websteroids.ro
@@ -102686,6 +102678,7 @@ msFilterList
 -d zacpiqzslt.duckdns.org
 -d zadania.abel.bielsko.pl
 -d zadecu.com
+-d zadelm.com
 -d zadentechnologies.com
 -d zadkay.com
 -d zadvexmail19mn.world
