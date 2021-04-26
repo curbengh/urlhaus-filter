@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 25 Apr 2021 12:13:04 UTC
+# Updated: Mon, 26 Apr 2021 00:13:08 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2610,6 +2610,7 @@ msFilterList
 -d accountsafehere.ddns.net
 -d accountsinstitute.com
 -d accountupdatertriyal.usa.cc
+-d accoytranslingual.com
 -d accpais.com
 -d acctp.ru
 -d acculogic.info
@@ -2934,6 +2935,7 @@ msFilterList
 -d adafitz.de
 -d adagiocafe.ru
 -d adagioradio.es
+-d adahomemodifications.com
 -d adairsoutfitting.com
 -d adakam.com
 -d adal.cl
@@ -9719,6 +9721,7 @@ msFilterList
 -d avilacare.com
 -d avinash1.free.fr
 -d avinashjadhavmns.com
+-d avinatajhiz.com
 -d avinotab.com.au
 -d avioaircurtain.com
 -d avion-x.com
@@ -11841,7 +11844,6 @@ msFilterList
 -d bellque.com
 -d bellstonehitech.net
 -d belltradinginc.com
--d bellucci.id
 -d belluccikya.com
 -d belman.de
 -d belnagroup.com
@@ -23183,6 +23185,7 @@ msFilterList
 -d daavuu.com
 -d dabadoya.com
 -d dabaghi.5gbfree.com
+-d dabaibai.com
 -d dabal.org
 -d dabcap.com
 -d dabelmarket.com
@@ -23547,6 +23550,7 @@ msFilterList
 -d danishabc-001-site1.itempurl.com
 -d danishloftdesign.com
 -d danisolar.org.ng
+-d daniuniu.ml
 -d danivanoeffelen.nl
 -d danivanov.ru
 -d daniwilkinson.co.uk
@@ -32584,6 +32588,7 @@ msFilterList
 -d exams-success.com
 -d exams4sale.com
 -d examsinfo.in
+-d examsnap.io
 -d exbace.com
 -d exbook.mhkzolution.com
 -d excalibursol.com
@@ -37860,6 +37865,7 @@ msFilterList
 -d ggbot.ru
 -d ggcleaner.tech
 -d gged.nl
+-d ggf1.com
 -d gggocambodia.com
 -d gghacking.cba.pl
 -d gghekking.nl
@@ -43894,6 +43900,7 @@ msFilterList
 -d i.fluffy.cc
 -d i.funtourspt.eu
 -d i.n.t.e.rloca.l.qs.j.y@jfas.top
+-d i.n.t.e.rloca.l.qs.j.y@moreirawag.ac.ug
 -d i.ooxx.ooo
 -d i.paragptfe.com
 -d i.ptfecablemanufacturer.com
@@ -47964,6 +47971,7 @@ msFilterList
 -d jdih.purworejokab.go.id
 -d jdih.sumsel.kemenkumham.go.id
 -d jdiwindows.com
+-d jdkems.com
 -d jdkolledj.kz
 -d jdmsport.com.au
 -d jdmtours.com
@@ -56052,7 +56060,6 @@ msFilterList
 -d luisromero.es
 -d luizazan.ro
 -d luizdroidbr.top
--d lujo.store
 -d lujo.world
 -d lukabrazzi.top
 -d lukahoward.com
@@ -65854,6 +65861,7 @@ msFilterList
 -d nobles-iq.com
 -d noblesproperties.com
 -d noblesteel.com.au
+-d nobletrade.top
 -d noblewarriorenterprises.com
 -d nobodigonto.xyz
 -d nobullbroker.com
@@ -67458,6 +67466,7 @@ msFilterList
 -d omamontaggi.it
 -d omanfleethtml.neomeric.us
 -d omarelbalshy.com
+-d omarisouza.com
 -d omaromatic.com
 -d omartinez.com
 -d ombchardin.com
@@ -69962,6 +69971,7 @@ msFilterList
 -d pdfaide.com
 -d pdfconverter.firewall-gateway.com
 -d pdfdocusign.com
+-d pdfdownload.in
 -d pdfescape.su
 -d pdfgrennland.ddns.net
 -d pdfguidance.com
@@ -70598,7 +70608,6 @@ msFilterList
 -d phaetus.com
 -d phaimanhdanong.com
 -d phamchilong.com
--d phamdungvn.com
 -d phamfruits.com
 -d phamthaifood.com
 -d phamthuan.com
@@ -77791,7 +77800,6 @@ msFilterList
 -d roya-accounting.com
 -d roya-j.com
 -d royahotels.com
--d royal-cat.ru
 -d royal-dnepr.com
 -d royal-granito.com
 -d royal-respect.dk
@@ -84643,6 +84651,7 @@ msFilterList
 -d souqaziz.com
 -d souqchatbot.com
 -d souqelasr.com
+-d souqshare.com
 -d souqtajeer.com
 -d source2save.co.uk
 -d sourcebow.com
@@ -93259,6 +93268,7 @@ msFilterList
 -d trendybirdie.it
 -d trendyco.ir
 -d trendygital.peppyemails.com
+-d trendyhome.ltd
 -d trendyshoes.co.za
 -d trendytechsolution.com
 -d treneg.com.br
@@ -102691,7 +102701,6 @@ msFilterList
 -d zacpiqzslt.duckdns.org
 -d zadania.abel.bielsko.pl
 -d zadecu.com
--d zadelm.com
 -d zadentechnologies.com
 -d zadkay.com
 -d zadvexmail19mn.world
