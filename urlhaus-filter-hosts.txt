@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 29 Apr 2021 00:12:33 UTC
+# Updated: Thu, 29 Apr 2021 12:13:05 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -241,6 +241,7 @@
 0.0.0.0 123moviesfx.com
 0.0.0.0 123sellfast.com
 0.0.0.0 123sex.co
+0.0.0.0 123tadi.com
 0.0.0.0 123xyz.xyz
 0.0.0.0 124.com.ua
 0.0.0.0 124.cpanel.realwebsitesite.com
@@ -1906,6 +1907,7 @@
 0.0.0.0 a.seeanu.ru
 0.0.0.0 a.teamworx.ph
 0.0.0.0 a.tolganfor.ru
+0.0.0.0 a.top4top.io
 0.0.0.0 a.turnuvam.org
 0.0.0.0 a.uchi.moe
 0.0.0.0 a.xiazai163.com
@@ -9437,6 +9439,7 @@
 0.0.0.0 authoritarianism-global.uva.nl
 0.0.0.0 authorsgps.com
 0.0.0.0 authr.com
+0.0.0.0 autic.vn
 0.0.0.0 autismlebanon.org
 0.0.0.0 autmont.com
 0.0.0.0 auto-agent24bounces.duoliprudential.com.watchdogdns.duckdns.org
@@ -11813,7 +11816,6 @@
 0.0.0.0 bel-med-tour.ru
 0.0.0.0 belabargelro.com
 0.0.0.0 belair.btwstudio.ch
-0.0.0.0 belairinternet.com
 0.0.0.0 belamater.com.br
 0.0.0.0 belangel.by
 0.0.0.0 belanja-berkah.xyz
@@ -12213,6 +12215,7 @@
 0.0.0.0 bestbike.id
 0.0.0.0 bestbikenatal.com.br
 0.0.0.0 bestbloodpressure-monitor.com
+0.0.0.0 bestblues.tech
 0.0.0.0 bestbnbnepal.com
 0.0.0.0 bestbot.somee.com
 0.0.0.0 bestbusinesssoftware.net
@@ -16339,6 +16342,7 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
+0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -17970,6 +17974,7 @@
 0.0.0.0 cdndownloadlp.club
 0.0.0.0 cdnmultimedia.com
 0.0.0.0 cdnpic.mgyun.com
+0.0.0.0 cdnrep.reimageplus.com
 0.0.0.0 cdnxh.net
 0.0.0.0 cdoconsult.com.br
 0.0.0.0 cdolechon.com
@@ -18383,13 +18388,17 @@
 0.0.0.0 cfr1xr2ei0u6cn7i.com
 0.0.0.0 cfrancais.files.wordpress.com
 0.0.0.0 cfreimund.files.wordpress.com
+0.0.0.0 cfs10.blog.daum.net
 0.0.0.0 cfs11.planet.daum.net
 0.0.0.0 cfs13.blog.daum.net
+0.0.0.0 cfs13.tistory.com
 0.0.0.0 cfs4.tistory.com
 0.0.0.0 cfs5.tistory.com
 0.0.0.0 cfs6.blog.daum.net
+0.0.0.0 cfs7.blog.daum.net
 0.0.0.0 cfs8.blog.daum.net
 0.0.0.0 cfs8.tistory.com
+0.0.0.0 cfs9.blog.daum.net
 0.0.0.0 cfs9.tistory.com
 0.0.0.0 cfscapitalgroup.co.uk
 0.0.0.0 cfsengenharia.pt
@@ -20206,7 +20215,6 @@
 0.0.0.0 cmecobrancas.com
 0.0.0.0 cmelik.com
 0.0.0.0 cmessagers.com
-0.0.0.0 cmg.asia
 0.0.0.0 cmg.ma
 0.0.0.0 cmgroup.com.ua
 0.0.0.0 cmhighschool.edu.bd
@@ -23214,6 +23222,7 @@
 0.0.0.0 d.qiluwl.com
 0.0.0.0 d.teamworx.ph
 0.0.0.0 d.techmartbd.com
+0.0.0.0 d.top4top.io
 0.0.0.0 d.top4top.net
 0.0.0.0 d.ttr3p.com
 0.0.0.0 d04.data39.helldata.com
@@ -26310,6 +26319,7 @@
 0.0.0.0 digihop.cyou
 0.0.0.0 digiiital.co.uk
 0.0.0.0 digikow.000webhostapp.com
+0.0.0.0 digilander.libero.it
 0.0.0.0 digileads.ae
 0.0.0.0 digilib.dianhusada.ac.id
 0.0.0.0 digim.asia
@@ -32843,6 +32853,7 @@
 0.0.0.0 exodor.com.tr
 0.0.0.0 exordiumsolutions.com
 0.0.0.0 exotechfm.com.au
+0.0.0.0 exoticafurniture.com.np
 0.0.0.0 exoticano.com
 0.0.0.0 exoticasuvarnasamudra.com
 0.0.0.0 exoticbirdsonline.com
@@ -33115,7 +33126,6 @@
 0.0.0.0 f.pastdobi.ru
 0.0.0.0 f.regardisperfectshild.ru
 0.0.0.0 f.tolganfor.ru
-0.0.0.0 f.top4top.io
 0.0.0.0 f.top4top.net
 0.0.0.0 f.tsuyogari.ru
 0.0.0.0 f.zombieled.ru
@@ -38813,7 +38823,6 @@
 0.0.0.0 go.skyyer.com
 0.0.0.0 go.xsuad.com
 0.0.0.0 go2035.ru
-0.0.0.0 go2l.ink
 0.0.0.0 go4it24.be
 0.0.0.0 go5bln3.com
 0.0.0.0 go7wallet.com
@@ -40184,7 +40193,6 @@
 0.0.0.0 gsprogressreport.everywomaneverychild.org
 0.0.0.0 gsr.park.edu
 0.0.0.0 gsraconsulting.com
-0.0.0.0 gss.mof.gov.cn
 0.0.0.0 gsscomputers.co.uk
 0.0.0.0 gssgroups.com
 0.0.0.0 gst-system.com
@@ -41935,7 +41943,6 @@
 0.0.0.0 help.siganet.com.br
 0.0.0.0 help.talisman-sql.ru
 0.0.0.0 help.thetechguyusa.com
-0.0.0.0 help.wework.com
 0.0.0.0 help2help.info
 0.0.0.0 help3in1.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 helpandinformation.uk
@@ -42894,6 +42901,7 @@
 0.0.0.0 home.99eurowebsite.ie
 0.0.0.0 home.barley-plus.com
 0.0.0.0 home.dawang.ink
+0.0.0.0 home.earthlink.net
 0.0.0.0 home.evrstudio.com
 0.0.0.0 home.healthiestu.com
 0.0.0.0 home.isdes.com
@@ -44103,6 +44111,7 @@
 0.0.0.0 i-dol.net
 0.0.0.0 i-genre.com
 0.0.0.0 i-ifitness.com
+0.0.0.0 i-in.co.il
 0.0.0.0 i-k.xyz
 0.0.0.0 i-kama.pl
 0.0.0.0 i-life-net.com
@@ -44115,7 +44124,6 @@
 0.0.0.0 i-supportcharity.com
 0.0.0.0 i-vnsweyu.pl
 0.0.0.0 i-voda.com
-0.0.0.0 i.fiery.me
 0.0.0.0 i.fluffy.cc
 0.0.0.0 i.funtourspt.eu
 0.0.0.0 i.ooxx.ooo
@@ -49020,7 +49028,6 @@
 0.0.0.0 jonpetesharefile.com
 0.0.0.0 jonsonen.com
 0.0.0.0 jontuecooperministries.com
-0.0.0.0 joomla-home.com
 0.0.0.0 joomla3.fauser.edu
 0.0.0.0 joomlaweb.cz
 0.0.0.0 joomliads.in
@@ -51890,7 +51897,6 @@
 0.0.0.0 kodim0112sabang.com
 0.0.0.0 kodingeko.com
 0.0.0.0 kodip.nfile.net
-0.0.0.0 kodjdsjsdjf.tk
 0.0.0.0 kodlacan.site
 0.0.0.0 kodmuje.com
 0.0.0.0 kodolios.000webhostapp.com
@@ -55350,6 +55356,7 @@
 0.0.0.0 liw-in.de
 0.0.0.0 liwax.demo.kompan.pl
 0.0.0.0 lixinyi.vip
+0.0.0.0 lixko.com
 0.0.0.0 liya2002.com
 0.0.0.0 liyingli.best
 0.0.0.0 liyuemachinery.com
@@ -60177,6 +60184,7 @@
 0.0.0.0 menziesadvisory-my.sharepoint.com
 0.0.0.0 menzway.com
 0.0.0.0 meogiambeo.com
+0.0.0.0 meohaybotui.com
 0.0.0.0 meolamdephay.com
 0.0.0.0 mepsgen.com
 0.0.0.0 mera.ddns.net
@@ -61191,6 +61199,7 @@
 0.0.0.0 ministryoftransport.gov.gi
 0.0.0.0 minitrium.com
 0.0.0.0 miniyam.com
+0.0.0.0 minjusticedh.cf
 0.0.0.0 minmester.no
 0.0.0.0 minmin96.xyz
 0.0.0.0 minmohd.com
@@ -65623,7 +65632,6 @@
 0.0.0.0 nhadatquan2.xyz
 0.0.0.0 nhadatthienthoi.com
 0.0.0.0 nhadephungyen.com
-0.0.0.0 nhadepkientruc.net
 0.0.0.0 nhahangdaihung.com
 0.0.0.0 nhahanghaivuong.vn
 0.0.0.0 nhahanglegiang.vn
@@ -70247,7 +70255,6 @@
 0.0.0.0 pcgroups.in
 0.0.0.0 pchelpportal.ru
 0.0.0.0 pchost-aeronet.hu
-0.0.0.0 pchubonline.com
 0.0.0.0 pciholog.ru
 0.0.0.0 pcim-jepang.net
 0.0.0.0 pck.ostrowiec.pl
@@ -70724,6 +70731,7 @@
 0.0.0.0 personalcollection.com.ph
 0.0.0.0 personalexperten.webseite-programmierung.de
 0.0.0.0 personalfsbocoach.com
+0.0.0.0 personalitydray.com
 0.0.0.0 personalized-tee-shirts.com
 0.0.0.0 personalized-weddings.com
 0.0.0.0 personalizedjigsaws.com
@@ -73509,6 +73517,7 @@
 0.0.0.0 projectx.ug
 0.0.0.0 projectz.ug
 0.0.0.0 projekampi.com
+0.0.0.0 projekita.codes
 0.0.0.0 projekt-bulli.de
 0.0.0.0 projektex.com
 0.0.0.0 projekthd.com
@@ -76381,7 +76390,6 @@
 0.0.0.0 redpandazine.com
 0.0.0.0 redpilltaker.com
 0.0.0.0 redpoloska.com
-0.0.0.0 redprocesal.org
 0.0.0.0 redrhinofilms.com
 0.0.0.0 redridgeumc.org
 0.0.0.0 redrockmedical.com
@@ -80576,6 +80584,7 @@
 0.0.0.0 scvarosario.com
 0.0.0.0 scvmedia.ro
 0.0.0.0 scvsr.org
+0.0.0.0 scw8.net
 0.0.0.0 scwashaway.com
 0.0.0.0 scwwne.com
 0.0.0.0 scxugosports.com
@@ -81481,7 +81490,6 @@
 0.0.0.0 service.dawat.fr
 0.0.0.0 service.drnjithendran.com
 0.0.0.0 service.eftformotherissues.com
-0.0.0.0 service.ezsoftwareupdater.com
 0.0.0.0 service.heritageimagingcenter.com
 0.0.0.0 service.hybridhomesteam.com
 0.0.0.0 service.idealfurnitureoutlet.com
@@ -83789,7 +83797,6 @@
 0.0.0.0 slot-tube.cn
 0.0.0.0 slot0.athakics.com
 0.0.0.0 slot0.fastrek-za.com
-0.0.0.0 slot0.gamoruz.com
 0.0.0.0 slot0.manews-relax.com
 0.0.0.0 slot2bet.com
 0.0.0.0 slotenservice-24-7-actief.nl
@@ -83814,7 +83821,6 @@
 0.0.0.0 slrpros.com
 0.0.0.0 sls-eg.com
 0.0.0.0 sls-security.ru
-0.0.0.0 slsbearings.com.sg
 0.0.0.0 slservicebd.com
 0.0.0.0 slubnefury.pl
 0.0.0.0 slugard.5gbfree.com
@@ -88283,6 +88289,7 @@
 0.0.0.0 swisscomsystems.com
 0.0.0.0 swisslogique.ch
 0.0.0.0 swisspixstore.com
+0.0.0.0 swissprocesstointernail.mangospot.net
 0.0.0.0 swissranksdev.000webhostapp.com
 0.0.0.0 swisswatcher.ch
 0.0.0.0 switch2cloud.net
@@ -94492,7 +94499,6 @@
 0.0.0.0 tuvanduhocmap.com
 0.0.0.0 tuvangamenet.com
 0.0.0.0 tuvangioitinh.com
-0.0.0.0 tuvanluat.vn
 0.0.0.0 tuvansinhvien.000webhostapp.com
 0.0.0.0 tuvidaysalud.com
 0.0.0.0 tuwaiq.delimp.world
@@ -94695,7 +94701,6 @@
 0.0.0.0 u0707115.cp.regruhosting.ru
 0.0.0.0 u0746219.cp.regruhosting.ru
 0.0.0.0 u0774849.cp.regruhosting.ru
-0.0.0.0 u1.huatu.com
 0.0.0.0 u1.innerpeer.com
 0.0.0.0 u10814761ft.ha004.t.justns.ru
 0.0.0.0 u11123p7833.web0104.zxcs.nl
@@ -95850,14 +95855,12 @@
 0.0.0.0 url-validation-clients.com
 0.0.0.0 url.246546.com
 0.0.0.0 url.57569.fr.snd52.ch
-0.0.0.0 url.sg
 0.0.0.0 url2.mailanyone.net
 0.0.0.0 url3.mailanyone.net
 0.0.0.0 url5459.41southbar.com
 0.0.0.0 url675.textilmallorca.com
 0.0.0.0 url9823.ville.labrecque.qc.ca
 0.0.0.0 urlac.de
-0.0.0.0 urldefense.us
 0.0.0.0 urleddrug.at
 0.0.0.0 urlfrance.fr
 0.0.0.0 urlm.ir
@@ -96059,7 +96062,6 @@
 0.0.0.0 utting.org
 0.0.0.0 utv.sakeronline.se
 0.0.0.0 utv1.enliden.net
-0.0.0.0 uujian.cn
 0.0.0.0 uumove.com
 0.0.0.0 uurty87e8rt7rt.com
 0.0.0.0 uutiset.helppokoti.fi
@@ -96493,6 +96495,7 @@
 0.0.0.0 variathfamily.in
 0.0.0.0 varietybrandz.com
 0.0.0.0 varietywishes.in
+0.0.0.0 varifsecuripass.duckdns.org
 0.0.0.0 vario-reducer.com
 0.0.0.0 varivoda.com
 0.0.0.0 varnadorefamily.com
@@ -100279,7 +100282,6 @@
 0.0.0.0 woatinkwoo.com
 0.0.0.0 woclawoffers.fun
 0.0.0.0 wocomm.marketingmindz.com
-0.0.0.0 wodfitapparel.fr
 0.0.0.0 wodmetaldom.pl
 0.0.0.0 wodsuit.com
 0.0.0.0 woelf.in
@@ -100793,7 +100795,6 @@
 0.0.0.0 wpdev.strativ-support.se
 0.0.0.0 wpdev.ted.solutions
 0.0.0.0 wpdev.ztickerz.io
-0.0.0.0 wpengine.zendesk.com
 0.0.0.0 wpgtxdtgifr.ga
 0.0.0.0 wphelper.mwpteam.com
 0.0.0.0 wpldjxxxua.ga
@@ -102939,7 +102940,6 @@
 0.0.0.0 yoyoso.nz
 0.0.0.0 yoyoteacher.cn
 0.0.0.0 yp.dcyazilim.com
-0.0.0.0 yp.hnggzyjy.cn
 0.0.0.0 ypbb.or.id
 0.0.0.0 ypddf.org
 0.0.0.0 ypicsdy.cf

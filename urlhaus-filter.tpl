@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 29 Apr 2021 00:12:33 UTC
+# Updated: Thu, 29 Apr 2021 12:13:05 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -244,6 +244,7 @@ msFilterList
 -d 123moviesfx.com
 -d 123sellfast.com
 -d 123sex.co
+-d 123tadi.com
 -d 123xyz.xyz
 -d 124.com.ua
 -d 124.cpanel.realwebsitesite.com
@@ -1909,6 +1910,7 @@ msFilterList
 -d a.seeanu.ru
 -d a.teamworx.ph
 -d a.tolganfor.ru
+-d a.top4top.io
 -d a.turnuvam.org
 -d a.uchi.moe
 -d a.xiazai163.com
@@ -9440,6 +9442,7 @@ msFilterList
 -d authoritarianism-global.uva.nl
 -d authorsgps.com
 -d authr.com
+-d autic.vn
 -d autismlebanon.org
 -d autmont.com
 -d auto-agent24bounces.duoliprudential.com.watchdogdns.duckdns.org
@@ -11816,7 +11819,6 @@ msFilterList
 -d bel-med-tour.ru
 -d belabargelro.com
 -d belair.btwstudio.ch
--d belairinternet.com
 -d belamater.com.br
 -d belangel.by
 -d belanja-berkah.xyz
@@ -12216,6 +12218,7 @@ msFilterList
 -d bestbike.id
 -d bestbikenatal.com.br
 -d bestbloodpressure-monitor.com
+-d bestblues.tech
 -d bestbnbnepal.com
 -d bestbot.somee.com
 -d bestbusinesssoftware.net
@@ -16342,6 +16345,7 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
+-d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -17973,6 +17977,7 @@ msFilterList
 -d cdndownloadlp.club
 -d cdnmultimedia.com
 -d cdnpic.mgyun.com
+-d cdnrep.reimageplus.com
 -d cdnxh.net
 -d cdoconsult.com.br
 -d cdolechon.com
@@ -18386,13 +18391,17 @@ msFilterList
 -d cfr1xr2ei0u6cn7i.com
 -d cfrancais.files.wordpress.com
 -d cfreimund.files.wordpress.com
+-d cfs10.blog.daum.net
 -d cfs11.planet.daum.net
 -d cfs13.blog.daum.net
+-d cfs13.tistory.com
 -d cfs4.tistory.com
 -d cfs5.tistory.com
 -d cfs6.blog.daum.net
+-d cfs7.blog.daum.net
 -d cfs8.blog.daum.net
 -d cfs8.tistory.com
+-d cfs9.blog.daum.net
 -d cfs9.tistory.com
 -d cfscapitalgroup.co.uk
 -d cfsengenharia.pt
@@ -20209,7 +20218,6 @@ msFilterList
 -d cmecobrancas.com
 -d cmelik.com
 -d cmessagers.com
--d cmg.asia
 -d cmg.ma
 -d cmgroup.com.ua
 -d cmhighschool.edu.bd
@@ -23217,6 +23225,7 @@ msFilterList
 -d d.qiluwl.com
 -d d.teamworx.ph
 -d d.techmartbd.com
+-d d.top4top.io
 -d d.top4top.net
 -d d.ttr3p.com
 -d d04.data39.helldata.com
@@ -26313,6 +26322,7 @@ msFilterList
 -d digihop.cyou
 -d digiiital.co.uk
 -d digikow.000webhostapp.com
+-d digilander.libero.it
 -d digileads.ae
 -d digilib.dianhusada.ac.id
 -d digim.asia
@@ -32846,6 +32856,7 @@ msFilterList
 -d exodor.com.tr
 -d exordiumsolutions.com
 -d exotechfm.com.au
+-d exoticafurniture.com.np
 -d exoticano.com
 -d exoticasuvarnasamudra.com
 -d exoticbirdsonline.com
@@ -33118,7 +33129,6 @@ msFilterList
 -d f.pastdobi.ru
 -d f.regardisperfectshild.ru
 -d f.tolganfor.ru
--d f.top4top.io
 -d f.top4top.net
 -d f.tsuyogari.ru
 -d f.zombieled.ru
@@ -38816,7 +38826,6 @@ msFilterList
 -d go.skyyer.com
 -d go.xsuad.com
 -d go2035.ru
--d go2l.ink
 -d go4it24.be
 -d go5bln3.com
 -d go7wallet.com
@@ -40187,7 +40196,6 @@ msFilterList
 -d gsprogressreport.everywomaneverychild.org
 -d gsr.park.edu
 -d gsraconsulting.com
--d gss.mof.gov.cn
 -d gsscomputers.co.uk
 -d gssgroups.com
 -d gst-system.com
@@ -41938,7 +41946,6 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
--d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -42897,6 +42904,7 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
+-d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -44106,6 +44114,7 @@ msFilterList
 -d i-dol.net
 -d i-genre.com
 -d i-ifitness.com
+-d i-in.co.il
 -d i-k.xyz
 -d i-kama.pl
 -d i-life-net.com
@@ -44118,7 +44127,6 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
--d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
 -d i.ooxx.ooo
@@ -49023,7 +49031,6 @@ msFilterList
 -d jonpetesharefile.com
 -d jonsonen.com
 -d jontuecooperministries.com
--d joomla-home.com
 -d joomla3.fauser.edu
 -d joomlaweb.cz
 -d joomliads.in
@@ -51893,7 +51900,6 @@ msFilterList
 -d kodim0112sabang.com
 -d kodingeko.com
 -d kodip.nfile.net
--d kodjdsjsdjf.tk
 -d kodlacan.site
 -d kodmuje.com
 -d kodolios.000webhostapp.com
@@ -55353,6 +55359,7 @@ msFilterList
 -d liw-in.de
 -d liwax.demo.kompan.pl
 -d lixinyi.vip
+-d lixko.com
 -d liya2002.com
 -d liyingli.best
 -d liyuemachinery.com
@@ -60180,6 +60187,7 @@ msFilterList
 -d menziesadvisory-my.sharepoint.com
 -d menzway.com
 -d meogiambeo.com
+-d meohaybotui.com
 -d meolamdephay.com
 -d mepsgen.com
 -d mera.ddns.net
@@ -61194,6 +61202,7 @@ msFilterList
 -d ministryoftransport.gov.gi
 -d minitrium.com
 -d miniyam.com
+-d minjusticedh.cf
 -d minmester.no
 -d minmin96.xyz
 -d minmohd.com
@@ -65626,7 +65635,6 @@ msFilterList
 -d nhadatquan2.xyz
 -d nhadatthienthoi.com
 -d nhadephungyen.com
--d nhadepkientruc.net
 -d nhahangdaihung.com
 -d nhahanghaivuong.vn
 -d nhahanglegiang.vn
@@ -70250,7 +70258,6 @@ msFilterList
 -d pcgroups.in
 -d pchelpportal.ru
 -d pchost-aeronet.hu
--d pchubonline.com
 -d pciholog.ru
 -d pcim-jepang.net
 -d pck.ostrowiec.pl
@@ -70727,6 +70734,7 @@ msFilterList
 -d personalcollection.com.ph
 -d personalexperten.webseite-programmierung.de
 -d personalfsbocoach.com
+-d personalitydray.com
 -d personalized-tee-shirts.com
 -d personalized-weddings.com
 -d personalizedjigsaws.com
@@ -73512,6 +73520,7 @@ msFilterList
 -d projectx.ug
 -d projectz.ug
 -d projekampi.com
+-d projekita.codes
 -d projekt-bulli.de
 -d projektex.com
 -d projekthd.com
@@ -76384,7 +76393,6 @@ msFilterList
 -d redpandazine.com
 -d redpilltaker.com
 -d redpoloska.com
--d redprocesal.org
 -d redrhinofilms.com
 -d redridgeumc.org
 -d redrockmedical.com
@@ -80579,6 +80587,7 @@ msFilterList
 -d scvarosario.com
 -d scvmedia.ro
 -d scvsr.org
+-d scw8.net
 -d scwashaway.com
 -d scwwne.com
 -d scxugosports.com
@@ -81484,7 +81493,6 @@ msFilterList
 -d service.dawat.fr
 -d service.drnjithendran.com
 -d service.eftformotherissues.com
--d service.ezsoftwareupdater.com
 -d service.heritageimagingcenter.com
 -d service.hybridhomesteam.com
 -d service.idealfurnitureoutlet.com
@@ -83792,7 +83800,6 @@ msFilterList
 -d slot-tube.cn
 -d slot0.athakics.com
 -d slot0.fastrek-za.com
--d slot0.gamoruz.com
 -d slot0.manews-relax.com
 -d slot2bet.com
 -d slotenservice-24-7-actief.nl
@@ -83817,7 +83824,6 @@ msFilterList
 -d slrpros.com
 -d sls-eg.com
 -d sls-security.ru
--d slsbearings.com.sg
 -d slservicebd.com
 -d slubnefury.pl
 -d slugard.5gbfree.com
@@ -88286,6 +88292,7 @@ msFilterList
 -d swisscomsystems.com
 -d swisslogique.ch
 -d swisspixstore.com
+-d swissprocesstointernail.mangospot.net
 -d swissranksdev.000webhostapp.com
 -d swisswatcher.ch
 -d switch2cloud.net
@@ -94495,7 +94502,6 @@ msFilterList
 -d tuvanduhocmap.com
 -d tuvangamenet.com
 -d tuvangioitinh.com
--d tuvanluat.vn
 -d tuvansinhvien.000webhostapp.com
 -d tuvidaysalud.com
 -d tuwaiq.delimp.world
@@ -94698,7 +94704,6 @@ msFilterList
 -d u0707115.cp.regruhosting.ru
 -d u0746219.cp.regruhosting.ru
 -d u0774849.cp.regruhosting.ru
--d u1.huatu.com
 -d u1.innerpeer.com
 -d u10814761ft.ha004.t.justns.ru
 -d u11123p7833.web0104.zxcs.nl
@@ -95853,14 +95858,12 @@ msFilterList
 -d url-validation-clients.com
 -d url.246546.com
 -d url.57569.fr.snd52.ch
--d url.sg
 -d url2.mailanyone.net
 -d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
 -d url9823.ville.labrecque.qc.ca
 -d urlac.de
--d urldefense.us
 -d urleddrug.at
 -d urlfrance.fr
 -d urlm.ir
@@ -96062,7 +96065,6 @@ msFilterList
 -d utting.org
 -d utv.sakeronline.se
 -d utv1.enliden.net
--d uujian.cn
 -d uumove.com
 -d uurty87e8rt7rt.com
 -d uutiset.helppokoti.fi
@@ -96496,6 +96498,7 @@ msFilterList
 -d variathfamily.in
 -d varietybrandz.com
 -d varietywishes.in
+-d varifsecuripass.duckdns.org
 -d vario-reducer.com
 -d varivoda.com
 -d varnadorefamily.com
@@ -100282,7 +100285,6 @@ msFilterList
 -d woatinkwoo.com
 -d woclawoffers.fun
 -d wocomm.marketingmindz.com
--d wodfitapparel.fr
 -d wodmetaldom.pl
 -d wodsuit.com
 -d woelf.in
@@ -100796,7 +100798,6 @@ msFilterList
 -d wpdev.strativ-support.se
 -d wpdev.ted.solutions
 -d wpdev.ztickerz.io
--d wpengine.zendesk.com
 -d wpgtxdtgifr.ga
 -d wphelper.mwpteam.com
 -d wpldjxxxua.ga
@@ -102942,7 +102943,6 @@ msFilterList
 -d yoyoso.nz
 -d yoyoteacher.cn
 -d yp.dcyazilim.com
--d yp.hnggzyjy.cn
 -d ypbb.or.id
 -d ypddf.org
 -d ypicsdy.cf
