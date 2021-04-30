@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 30 Apr 2021 00:13:09 UTC
+# Updated: Fri, 30 Apr 2021 12:13:17 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -245,7 +245,6 @@ msFilterList
 -d 123moviesfx.com
 -d 123sellfast.com
 -d 123sex.co
--d 123tadi.com
 -d 123xyz.xyz
 -d 124.com.ua
 -d 124.cpanel.realwebsitesite.com
@@ -14728,6 +14727,7 @@ msFilterList
 -d bookmyrakhi.com
 -d bookmytripping.com
 -d bookmytutor.ga
+-d booknbeauty.com
 -d booknology.com
 -d bookntravel.pk
 -d bookoftension.com
@@ -20240,6 +20240,7 @@ msFilterList
 -d cmecobrancas.com
 -d cmelik.com
 -d cmessagers.com
+-d cmg.asia
 -d cmg.ma
 -d cmgroup.com.ua
 -d cmhighschool.edu.bd
@@ -21574,6 +21575,7 @@ msFilterList
 -d cooltennis.nl
 -d coolwinks.app
 -d coolxengineering.com
+-d coolzcap.com
 -d coomerciacafe.co
 -d coomiponal.com
 -d coop-yeboekon.net
@@ -25278,6 +25280,7 @@ msFilterList
 -d deposayim.ml
 -d depositoclara.com.br
 -d depot7.com
+-d depozituldegeneratoare.ro
 -d depraetere.net
 -d deprealty.ru
 -d depressionted.com
@@ -32353,6 +32356,7 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-central-1.protection.sophos.com
 -d eu-easy.com
+-d eu.wildfire.paloaltonetworks.com
 -d eu1.salesforce.com
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -33526,6 +33530,7 @@ msFilterList
 -d familystory.es
 -d familytex.ru
 -d famint-my.sharepoint.com
+-d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -41992,6 +41997,7 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
+-d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -44181,6 +44187,7 @@ msFilterList
 -d i.ptfecablemanufacturer.com
 -d i.sfu.edu.ph
 -d i.thechinesemuslim.com
+-d i.top4top.io
 -d i.valerana44.ru
 -d i03kf0g2bd9papdx.com
 -d i0avgy.com
@@ -50803,11 +50810,13 @@ msFilterList
 -d kelvinnikkel.com
 -d kelwinsales.com
 -d kelzonestopclothing.website
+-d kemahasiswaan.um.ac.id
 -d kemahasiswaan.umsida.ac.id
 -d kemahasiswaan.unair.ac.id
 -d kemalerkol.net
 -d kemard12e.ru.com
 -d kemaster.kz
+-d kemco.or.kr
 -d kemencem.net
 -d kemeri.it
 -d kemilauminang.com
@@ -51629,7 +51638,6 @@ msFilterList
 -d kjkasdjaksdasdbe.com
 -d kjkpropertysolutions.com
 -d kjmblog.com
--d kjmembran.com
 -d kjndiagnosticcentre.com
 -d kjndnadandwdhnjw.com
 -d kjnk.ee
@@ -52337,6 +52345,7 @@ msFilterList
 -d kqfkqkf7ma.temp.swtest.ru
 -d kqq.kz
 -d kqs.me
+-d kr1s.ru
 -d kr888.top
 -d krabben.no
 -d krabbendamphotography.com
@@ -52720,6 +52729,7 @@ msFilterList
 -d kungsb2stdytalenstej.dns.army
 -d kungsb2stdytalenstkh.dns.army
 -d kungsb2tsdygotchtsaw.dns.army
+-d kungsb2tudytalengvs.dns.army
 -d kungsb2unlimitedseverfortsdy4epidemicrgb.duckdns.org
 -d kungsndycommunicationtariffsuplier27abj.duckdns.org
 -d kungsndyglobalinvestmentgooglednsaddress.duckdns.org
@@ -54631,7 +54641,6 @@ msFilterList
 -d library.cifor.org
 -d library.dhl-xom.com
 -d library.iainbengkulu.ac.id
--d library.mju.ac.th
 -d library.phibi.my.id
 -d library.piet.co.in
 -d library.ptklschrs.in
@@ -56888,6 +56897,7 @@ msFilterList
 -d madagascarfoment.ru
 -d madagolf.com
 -d madalozzosistemas.com.br
+-d madame-coccinelle.fr
 -d madamemesquita.app4you.app.br
 -d madametood.com
 -d madancpa.com
@@ -61265,7 +61275,6 @@ msFilterList
 -d ministryoftransport.gov.gi
 -d minitrium.com
 -d miniyam.com
--d minjusticedh.cf
 -d minmester.no
 -d minmin96.xyz
 -d minmohd.com
@@ -65700,6 +65709,7 @@ msFilterList
 -d nhadatquan2.xyz
 -d nhadatthienthoi.com
 -d nhadephungyen.com
+-d nhadepkientruc.net
 -d nhahangdaihung.com
 -d nhahanghaivuong.vn
 -d nhahanglegiang.vn
@@ -70334,6 +70344,7 @@ msFilterList
 -d pcgroups.in
 -d pchelpportal.ru
 -d pchost-aeronet.hu
+-d pchubonline.com
 -d pciholog.ru
 -d pcim-jepang.net
 -d pck.ostrowiec.pl
@@ -80201,7 +80212,6 @@ msFilterList
 -d savemyfile.3utilities.com
 -d savemyseatnow.com
 -d saveraahealthcare.com
--d saveserpnow.com
 -d saveserpresults.com
 -d savestudio.com
 -d savetax.idfcmf.com
@@ -81220,7 +81230,6 @@ msFilterList
 -d senat.polnep.ac.id
 -d senbiaojita.com
 -d senboutiquespa.com
--d send.firefox.com
 -d send.webprojemiz.com
 -d senda.bmt.city
 -d senddocs.icu
@@ -83913,6 +83922,7 @@ msFilterList
 -d slrpros.com
 -d sls-eg.com
 -d sls-security.ru
+-d slsbearings.com.sg
 -d slservicebd.com
 -d slubnefury.pl
 -d slugard.5gbfree.com
@@ -86216,6 +86226,7 @@ msFilterList
 -d stanleyestatespublishing.com
 -d stanleyfoundatioutbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 -d stansmallz.com
+-d stantiltonconsulting.com
 -d stanvandongen.com
 -d stanzza.es
 -d stanzza.ru
@@ -90902,7 +90913,6 @@ msFilterList
 -d thatsswift.com
 -d thatwinningsmile.com
 -d thaus.to
--d thaus.top
 -d thawani-pay.neomeric.us
 -d thayvoiphone.vn
 -d thccamera.com
@@ -94375,6 +94385,7 @@ msFilterList
 -d tudosobreseguros.org.br
 -d tudsak.com
 -d tudychnesqudusisabadassniggainthetubmx.ydns.eu
+-d tudyperezluzcafetust.dns.army
 -d tudyrusschine2mapanxmenischangednetuicm.ydns.eu
 -d tuerks-tr.com
 -d tuestilotuvida.life
@@ -94464,7 +94475,6 @@ msFilterList
 -d tunnelview.co.uk
 -d tunuvo.com
 -d tuobrasocial.com.ar
--d tuoitrethainguyen.vn
 -d tupibaje.com
 -d tupperware.michaelroberge.ca
 -d tur.000webhostapp.com
@@ -94804,6 +94814,7 @@ msFilterList
 -d u0707115.cp.regruhosting.ru
 -d u0746219.cp.regruhosting.ru
 -d u0774849.cp.regruhosting.ru
+-d u1.huatu.com
 -d u1.innerpeer.com
 -d u10814761ft.ha004.t.justns.ru
 -d u11123p7833.web0104.zxcs.nl
@@ -95716,7 +95727,6 @@ msFilterList
 -d update-prog.com
 -d update-res.100public.com
 -d update.5v.pl
--d update.7h4uk.com
 -d update.att.tools
 -d update.bracncet.net
 -d update.bruss.org.ru
@@ -96167,6 +96177,7 @@ msFilterList
 -d utting.org
 -d utv.sakeronline.se
 -d utv1.enliden.net
+-d uujian.cn
 -d uumove.com
 -d uurty87e8rt7rt.com
 -d uutiset.helppokoti.fi
@@ -102656,6 +102667,7 @@ msFilterList
 -d yeu81.com
 -d yeu82.com
 -d yeuhang.tk
+-d yeumoitruong.vn
 -d yeuromndy.cf
 -d yeutocviet.com
 -d yewonder.com
@@ -103501,6 +103513,7 @@ msFilterList
 -d zcnet.com
 -d zcomsolutions.com
 -d zcomunicacion.com
+-d zcop.ru
 -d zcsmba.org
 -d zcxe37adonis.top
 -d zd4b.lonlyfafner.ru
