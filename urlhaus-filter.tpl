@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 01 May 2021 12:13:04 UTC
+# Updated: Sun, 02 May 2021 00:13:18 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -11425,6 +11425,7 @@ msFilterList
 -d bbods.com
 -d bbonin.de
 -d bbookshelf.org
+-d bborton.com
 -d bbpc.sg
 -d bbpqtf.com
 -d bbpro.ru
@@ -29986,6 +29987,7 @@ msFilterList
 -d eduscore.org
 -d edusenz.com
 -d eduserve.sezibwa.com
+-d eduspiresolutions.org
 -d eduswiss.com
 -d edutt.com.br
 -d eduvalebr1.hospedagemdesites.ws
@@ -36399,7 +36401,6 @@ msFilterList
 -d front.postmaster.services
 -d frontage.se
 -d frontdesk.tk
--d frontechonline.com
 -d frontel.com
 -d frontier-studios.net
 -d frontierdevlimited.com
@@ -38471,6 +38472,7 @@ msFilterList
 -d gite-la-gerbiere.fr
 -d giteletropical.com
 -d gitep.ucpel.edu.br
+-d giteslacolombiere.com
 -d giti38.xyz
 -d gitibsr.com
 -d gitlabtechnologies.com
@@ -39276,7 +39278,6 @@ msFilterList
 -d googleapi.ru
 -d googleglobalbrandsearching.mangospot.net
 -d googlemeta.xyz
--d googleplusmarketpro.com
 -d googlerank.in
 -d googleresult.in
 -d googletime.ac.ug
@@ -42445,6 +42446,7 @@ msFilterList
 -d higo.net
 -d higoec.com
 -d higomanga.info
+-d hihab.co
 -d hii4keenan.com
 -d hiil.arepaladyjacksonheights.com
 -d hiilqaran.org
@@ -42809,6 +42811,7 @@ msFilterList
 -d hoangsong.com
 -d hoangthinhreal.info
 -d hoangtm.work
+-d hoangtuyen.com
 -d hoaphamxaydung.com
 -d hoarafushionline.net
 -d hoardingsuk.com
@@ -44875,7 +44878,6 @@ msFilterList
 -d igloo-formation.fr
 -d igloocwk.com.br
 -d iglow.biz
--d igm.or.kr
 -d igmmotos.com
 -d igna.com.br
 -d ignaciocasado.com
@@ -54491,6 +54493,7 @@ msFilterList
 -d letronghung.tk
 -d lets-go-to-russia.com
 -d lets-stroll.team
+-d letsallter.com
 -d letsbenomads.com
 -d letsbooks.com
 -d letsbringthemhome.org
@@ -61266,7 +61269,6 @@ msFilterList
 -d mingalapa.org
 -d mingco.net
 -d mingenterprises.cz
--d mingguanwms.com
 -d mingjuetech.com
 -d minglebyyou.com
 -d mingo.tv
@@ -70178,6 +70180,7 @@ msFilterList
 -d pathfinderglobaledupubltd.com.ng
 -d pathiltravels.com
 -d pathinanchilearthmovers.com
+-d pathology.world
 -d paths.elin.co.za
 -d pathwaymbs.com
 -d patient7.com
@@ -76149,6 +76152,7 @@ msFilterList
 -d razorse.in
 -d razprueba.000webhostapp.com
 -d razvivashka.kz
+-d razwerks.com
 -d rb-graphic.com
 -d rb16q6a.com
 -d rbailoni.com.br
@@ -76558,7 +76562,6 @@ msFilterList
 -d redpandazine.com
 -d redpilltaker.com
 -d redpoloska.com
--d redprocesal.org
 -d redrhinofilms.com
 -d redridgeumc.org
 -d redrockmedical.com
@@ -88147,6 +88150,7 @@ msFilterList
 -d sureswsdybonescagehg.dns.army
 -d surewaytoheaven.org
 -d surewin.com.my
+-d surfboarddigital.com
 -d surfcrypto.life
 -d surfe.xyz
 -d surfel.tk
@@ -91121,6 +91125,7 @@ msFilterList
 -d thebermanlaw.group
 -d thebert.com
 -d thebestdeals.top
+-d thebestfikrah.com
 -d thebestgourmetsauce.com
 -d thebestkcsmiles.com
 -d thebestoffers.xyz
@@ -101664,6 +101669,7 @@ msFilterList
 -d xiztance.com
 -d xj.sohui.top
 -d xjw10whta03ytgdi.com
+-d xk-mx.com
 -d xk.996is.com
 -d xk625lf.com
 -d xkeji.cn
@@ -103137,6 +103143,7 @@ msFilterList
 -d youthinenergy.org
 -d youthplant.org
 -d youthpromoter.com
+-d youthref.org
 -d youthsexualhealth.org
 -d youthtech.net.np
 -d youthtransformers.com
@@ -104121,6 +104128,7 @@ msFilterList
 -d zoodoxos.gr
 -d zoolandia.boo.pl
 -d zoom-machinery.com
+-d zoomagazin.az
 -d zoomandshootphotography.com
 -d zoomevents.pl
 -d zoomotion.com
