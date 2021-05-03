@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 02 May 2021 12:13:11 UTC
+# Updated: Mon, 03 May 2021 00:13:51 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1845,6 +1845,7 @@ msFilterList
 -d 9ifgtza1ss6paw3t.com
 -d 9jabliss.com
 -d 9jacast.name.ng
+-d 9jacology.com
 -d 9jagateway.com
 -d 9l0-518.com
 -d 9lamp.ru
@@ -3191,6 +3192,7 @@ msFilterList
 -d admins.lt
 -d adminsoftcorp.com
 -d adminsystemcr.com
+-d admintk.com
 -d adminwhiz.ca
 -d admiralfurs.com
 -d admiralkirk.de
@@ -5273,6 +5275,7 @@ msFilterList
 -d alliancelk.com
 -d alliancemovers.com.sg
 -d alliancenh.com
+-d allianceprofessionals.in
 -d alliancerfinanceservices.com
 -d alliancerights.org
 -d alliancesecurity-specials.com
@@ -5833,6 +5836,7 @@ msFilterList
 -d amarresdeamorymaestroshechiceros.com
 -d amarresyretornosdeamor.com
 -d amarristransac.fr
+-d amartaka.net
 -d amarteargentina.com.ar
 -d amaryaconsultancy.com
 -d amarylliscoon.ru
@@ -6898,6 +6902,7 @@ msFilterList
 -d antislumber.com
 -d antisndypiracydesnzm.dns.army
 -d antisocialengineering.com.au
+-d antisocials.in
 -d antispoiler.com
 -d antistdypiracydestgh.dns.army
 -d antistdypiracydestrn.dns.army
@@ -7664,6 +7669,7 @@ msFilterList
 -d archangel72.ru
 -d archard.me
 -d archelons.com
+-d archersrocksafaris.co.za
 -d archeryaddictions.com
 -d archerygamesdc.com
 -d archetronweb.com
@@ -20562,6 +20568,7 @@ msFilterList
 -d cof.philanthropyroundtable.org
 -d cofama.com.br
 -d cofancio.com
+-d coffee-911.com.ua
 -d coffee.bencoolencoffe.com
 -d coffee.org.mm
 -d coffeeatthejunction.com
@@ -27050,6 +27057,7 @@ msFilterList
 -d dl-rw.com
 -d dl-sharefile.com
 -d dl-t1.wmzhe.com
+-d dl-tornj.ir
 -d dl.008.net
 -d dl.1003b.56a.com
 -d dl.198424.com
@@ -28509,6 +28517,7 @@ msFilterList
 -d droversmouser.at
 -d drovus.com
 -d drpadmapriya.in
+-d drpamelageorge.com
 -d drpayalphysiotherapy.in
 -d drpeterhonmd.com
 -d drpfl.com
@@ -34589,6 +34598,7 @@ msFilterList
 -d filesfromoffice365.com
 -d fileshare-cdns.com
 -d fileshare.fitestixi.com
+-d filesharesite.com
 -d filesharess.com
 -d filesharing.life
 -d filessecured-001-site1.htempurl.com
@@ -36328,6 +36338,7 @@ msFilterList
 -d friendsclubsociety.com
 -d friendsengg.co.in
 -d friendsfirst.online
+-d friendsofchrist10.com
 -d friendsofgoldbutte.com
 -d friendsofpolin-usa.org
 -d friendsofstswithuns.org.uk
@@ -38005,6 +38016,7 @@ msFilterList
 -d get-office365.live
 -d get-wellnesshub.com
 -d get.pretsl.com
+-d get.station307.com
 -d getabat.in
 -d getacademicwriters.savmogroup.com
 -d getacc.ca
@@ -44561,7 +44573,6 @@ msFilterList
 -d ict.co.ug
 -d icta.futminna.edu.ng
 -d ictaa.com.au
--d ictd.ae
 -d ictech.es
 -d ictin.net
 -d ictlagos.tk
@@ -45524,6 +45535,7 @@ msFilterList
 -d inanet.xyz
 -d inanhaiminh.com
 -d inanhung.com
+-d inaotheoyeucau.com
 -d inaothoitrangvinhtuoi.com
 -d inapadvance.com
 -d inarplas.com
@@ -55809,6 +55821,7 @@ msFilterList
 -d loja.barano.com.br
 -d loja.bigfisher.com.br
 -d loja.kaebischschokoladen.com.br
+-d loja.marcostrombetta.com.br
 -d loja.newconcept.pub
 -d loja.suportepjfp.com
 -d loja2.cpusistemaseweb.com.br
@@ -58576,6 +58589,7 @@ msFilterList
 -d marcoscarbone.com
 -d marcosdjdhsgvoustgd62020network.com
 -d marcosindiagroup.com
+-d marcostrombetta.com.br
 -d marcosymoldurasaurora.com
 -d marcotesch.de
 -d marcovacca.com
@@ -65977,6 +65991,7 @@ msFilterList
 -d niigata-maruhan-itou-nouen.com
 -d niilesolution.com
 -d niiqata-power.com
+-d niislelaudit.mn
 -d niiticonsulting.com
 -d nijerdesign.com
 -d nijhuishaardhout.nl
@@ -73766,6 +73781,7 @@ msFilterList
 -d promosyonacacak.com
 -d promotapp.com
 -d promote-wie.com
+-d promotedigitally.net
 -d promoterz.com
 -d promotest.zadc.ru
 -d promotex.ziel.com.co
@@ -79576,6 +79592,7 @@ msFilterList
 -d sallyabbeyarts.com
 -d sallyacurtis.biz
 -d sallyrossdesigns.com
+-d sallysnumbers.com
 -d sallywensleypainting.com.au
 -d salma-dental.com
 -d salmaawan.com
@@ -88359,6 +88376,7 @@ msFilterList
 -d swagrockshop.com
 -d swainscaylodge.com
 -d swallow.tdmcdev.co.za
+-d swallowcliff.co.za
 -d swaloordot.com
 -d swamivivekanandcoachingdatia.in
 -d swandecorators.co.uk
@@ -89955,6 +89973,7 @@ msFilterList
 -d tecopsa.backupsupport.es
 -d tecserv.co.za
 -d tecserv.us
+-d tecshop.website
 -d tecsumof.com
 -d tectona-wood.com
 -d tectumhydraulicandbuildingservices.com
@@ -90108,6 +90127,7 @@ msFilterList
 -d telefonrammen.dk
 -d telegrainformatics.com
 -d telegram-tools.ru
+-d teleguru.com.au
 -d telekhab.ir
 -d telekominasyonsirketi-20gb.com
 -d telekunghantaran.com
@@ -103531,7 +103551,6 @@ msFilterList
 -d zanjhrhhyh.cf
 -d zanpress.com
 -d zanuda.info
--d zanxcx.com
 -d zaometallosnab.ru
 -d zaoyinzhili.com
 -d zapatoscr.000webhostapp.com

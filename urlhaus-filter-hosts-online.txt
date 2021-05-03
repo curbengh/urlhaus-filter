@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sun, 02 May 2021 12:13:11 UTC
+# Updated: Mon, 03 May 2021 00:13:51 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -16,6 +16,7 @@
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 77st.net
 0.0.0.0 8402d53c-17e9-4250-8011-20f28f5d404f.certbooster.com
+0.0.0.0 87du.vip
 0.0.0.0 8poieq.bn.files.1drv.com
 0.0.0.0 a3ium.davaohorizon.com
 0.0.0.0 aatreefelling.co.za
@@ -27,7 +28,6 @@
 0.0.0.0 academyshademani.com
 0.0.0.0 acellr.co.uk
 0.0.0.0 acteon.com.ar
-0.0.0.0 activecost.com.au
 0.0.0.0 adamorinmusic.com
 0.0.0.0 addahealingmusic.com
 0.0.0.0 adithimedia.com
@@ -66,6 +66,7 @@
 0.0.0.0 anantam.net.in
 0.0.0.0 andreelapeyre.com
 0.0.0.0 andremaraisbeleggings.co.za
+0.0.0.0 andreonemaia.com
 0.0.0.0 andres.ac.ug
 0.0.0.0 andres.ug
 0.0.0.0 angelsdetour.com
@@ -105,7 +106,6 @@
 0.0.0.0 bash.givemexyz.in
 0.0.0.0 bbia.co.uk
 0.0.0.0 bcrg.co.za
-0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 beautincollagen.rs
 0.0.0.0 bekape.co.id
 0.0.0.0 berlianfoundation.or.id
@@ -162,7 +162,6 @@
 0.0.0.0 cbn.hypervoizd.com
 0.0.0.0 ccauthority.net
 0.0.0.0 cdaonline.com.ar
-0.0.0.0 cdn.tmooc.cn
 0.0.0.0 cec.asso.ac-amiens.fr
 0.0.0.0 cellas.sk
 0.0.0.0 cendekiabinaaksara.com
@@ -173,7 +172,6 @@
 0.0.0.0 cfs9.blog.daum.net
 0.0.0.0 ch.rmu.ac.th
 0.0.0.0 changematterscounselling.com
-0.0.0.0 chardhamdodham.com
 0.0.0.0 checkouts.larealacademiadelmarketing.com
 0.0.0.0 chezalice.co.za
 0.0.0.0 childselect.com
@@ -187,7 +185,6 @@
 0.0.0.0 cm-arquitetos.com
 0.0.0.0 codsambal.com
 0.0.0.0 colinde.pricesne.com
-0.0.0.0 colombecrs.biz
 0.0.0.0 colorpak.pl
 0.0.0.0 community.reimclub.com
 0.0.0.0 config.cqhbkjzx.com
@@ -238,6 +235,7 @@
 0.0.0.0 demo.glassforcars.com.au
 0.0.0.0 demo.sdssoftltd.co.uk
 0.0.0.0 demo6.hiites.com
+0.0.0.0 demodoctor.tdejob.work
 0.0.0.0 dental.xiaoxiao.media
 0.0.0.0 desertlandtrd.com
 0.0.0.0 designerliving.co.za
@@ -246,12 +244,14 @@
 0.0.0.0 detorre.es
 0.0.0.0 dev.sebpo.net
 0.0.0.0 dev.watch-store.eu
+0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 diamantenegro.mi-fs.com
 0.0.0.0 dienmayminhhung.com
 0.0.0.0 digisails.org
 0.0.0.0 disinfection-cleaning.co.za
 0.0.0.0 djking.f3322.net
+0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.198424.com
 0.0.0.0 dl.installcdn-aws.com
 0.0.0.0 dl.packetstormsecurity.net
@@ -286,10 +286,10 @@
 0.0.0.0 download.zjsyawqj.cn
 0.0.0.0 downloads.fdossena.com
 0.0.0.0 dragonsknot.com
-0.0.0.0 draniruddhaghosh.co.in
 0.0.0.0 drbaby.com.sa
 0.0.0.0 drgroup.co.za
 0.0.0.0 drools-moved.46999.n3.nabble.com
+0.0.0.0 drpamelageorge.com
 0.0.0.0 drsha.innovativesolutions.mobi
 0.0.0.0 dsenterprize.co.za
 0.0.0.0 dsspainting.com
@@ -322,12 +322,10 @@
 0.0.0.0 exilum.com
 0.0.0.0 exitoalfaomega.co
 0.0.0.0 extrovertoffers.com
-0.0.0.0 f1sol.com
 0.0.0.0 familydentist.site
 0.0.0.0 faveraprojects.com
 0.0.0.0 fc.co.mz
 0.0.0.0 felicienne.nl
-0.0.0.0 fightfactoryph.com
 0.0.0.0 files6.uludagbilisim.com
 0.0.0.0 final.makkahkmcc.com
 0.0.0.0 fineartgallerym.com
@@ -385,6 +383,7 @@
 0.0.0.0 hagebakken.no
 0.0.0.0 hamptonpartyoffive.com
 0.0.0.0 hassanproduct.com
+0.0.0.0 hchfug.org
 0.0.0.0 hd11315.com
 0.0.0.0 hdkamera2003.hu
 0.0.0.0 hds.sz4h.com
@@ -434,7 +433,6 @@
 0.0.0.0 indrasbikaner.com
 0.0.0.0 infovator.com
 0.0.0.0 inodesthetotaldesigners.com
-0.0.0.0 inrajahmundry.co.in
 0.0.0.0 intersel-idf.org
 0.0.0.0 intuitiveideas.com.my
 0.0.0.0 invest.xpcorporative.com.br
@@ -447,7 +445,6 @@
 0.0.0.0 isso.ps
 0.0.0.0 it123.ru
 0.0.0.0 itc-demo.softgig.co.ke
-0.0.0.0 itelsys.ma
 0.0.0.0 jamiekaylive.com
 0.0.0.0 jamshed.pk
 0.0.0.0 jansen-heesch.nl
@@ -538,7 +535,6 @@
 0.0.0.0 luxomodels.com
 0.0.0.0 m-technics.kz
 0.0.0.0 m.estudiomoros.com.ar
-0.0.0.0 m.softsharks.com
 0.0.0.0 macakslcaq.ug
 0.0.0.0 madicon.co.za
 0.0.0.0 mail.bs-eiendomme.co.za
@@ -588,7 +584,6 @@
 0.0.0.0 minuevavida.org
 0.0.0.0 mirror.mypage.sk
 0.0.0.0 mis.nbcc.ac.th
-0.0.0.0 missaoeducativaestreladoamanha.com
 0.0.0.0 misterson.com
 0.0.0.0 mkontakt.az
 0.0.0.0 mktf.mx
@@ -648,7 +643,6 @@
 0.0.0.0 nyasabigbullets.com
 0.0.0.0 nyc002.hawkhost.com
 0.0.0.0 obseques-conseils.com
-0.0.0.0 ohe.ie
 0.0.0.0 ohsewgorgeous.co.uk
 0.0.0.0 oknoplastik.sk
 0.0.0.0 olebaby.in
@@ -714,6 +708,7 @@
 0.0.0.0 prestigehomeautomation.net
 0.0.0.0 prishaartcreations.com
 0.0.0.0 programaoperadoronline.com.br
+0.0.0.0 project.exquitec.com
 0.0.0.0 promotoradescomplica.com.br
 0.0.0.0 promoversdubai.com
 0.0.0.0 prosoc.nl
@@ -812,6 +807,7 @@
 0.0.0.0 sharpelevators.in
 0.0.0.0 shembefoundation.com
 0.0.0.0 shivakunwar.com.np
+0.0.0.0 shoblasaathitrust.org
 0.0.0.0 shomalhouse.com
 0.0.0.0 shooka-co.com
 0.0.0.0 shopsofe.com
@@ -820,7 +816,6 @@
 0.0.0.0 sibernetix.fr
 0.0.0.0 sige.brisainformatica.com.br
 0.0.0.0 signatureads.co.in
-0.0.0.0 siili.net
 0.0.0.0 simoneporzi.it
 0.0.0.0 simplyballons.wavecotechnologies.co.bw
 0.0.0.0 sindicato1ucm.cl
@@ -869,7 +864,6 @@
 0.0.0.0 streetdemo.yourpageserver.com
 0.0.0.0 suboldesign.com
 0.0.0.0 sumerians.org
-0.0.0.0 sunbrero.com.au
 0.0.0.0 sunmarkholidays.com
 0.0.0.0 support-4-free.com
 0.0.0.0 support.clz.kr
@@ -904,6 +898,7 @@
 0.0.0.0 test.typoten.com
 0.0.0.0 test.wanepghana.org
 0.0.0.0 test1.asistencia247.com
+0.0.0.0 test1.milenial.id
 0.0.0.0 test2.basis-web.com
 0.0.0.0 test2.marrenconstruction.ie
 0.0.0.0 testing-istudiophoto.davaohorizon.com
@@ -912,6 +907,7 @@
 0.0.0.0 teteaffiche.stephanebillon.com
 0.0.0.0 tewoerd.eu
 0.0.0.0 tharringtonsponsorship.com
+0.0.0.0 thecreativecafe.co.uk
 0.0.0.0 thedesertship.com
 0.0.0.0 thefuturelife.in
 0.0.0.0 thehighlightinterior.com
@@ -972,7 +968,6 @@
 0.0.0.0 vegadelcasero.cl
 0.0.0.0 vespang.ga
 0.0.0.0 veterinariadrpopui.com
-0.0.0.0 veythbolay.eastus.cloudapp.azure.com
 0.0.0.0 vfocus.net
 0.0.0.0 vienen.gblix.srv.br
 0.0.0.0 villamarand.com
