@@ -9,7 +9,7 @@ build_job:
   stage: build
 
   before_script:
-    - 'which ssh-agent || (apk update && apk add curl openssh-client git grep)'
+    - apk update && apk add curl openssh-client git grep xmlstarlet
     - eval $(ssh-agent -s)
     - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
     - mkdir -p ~/.ssh

@@ -11,6 +11,7 @@ cd "tmp/"
 curl -L "https://urlhaus.abuse.ch/downloads/csv/" -o "urlhaus.zip"
 curl -L "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
 curl -L "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
+curl -L "https://oisd.nl/excludes.php" -o "oisd-exclude.html"
 
 cp -f "../src/exclude.txt" "."
 
@@ -81,8 +82,16 @@ grep -F "." | \
 sed "s/^www\.//g" | \
 sort -u > "top-1m-tranco.txt"
 
+## Parse oisd exclusion list
+cat "oisd-exclude.html" | \
+# https://stackoverflow.com/a/47600828
+xmlstarlet format --recover --html 2>/dev/null | \
+xmlstarlet select --html --template --value-of '//a' | \
+## Append new line https://unix.stackexchange.com/a/31955
+sed '$a\' > "oisd-exclude.txt"
+
 # Merge Umbrella and self-maintained top domains
-cat "top-1m-umbrella.txt" "top-1m-tranco.txt" "exclude.txt" | \
+cat "top-1m-umbrella.txt" "top-1m-tranco.txt" "exclude.txt" "oisd-exclude.txt" | \
 sort -u > "top-1m-well-known.txt"
 
 
@@ -374,7 +383,7 @@ sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../urlhaus-filter-online.tpl
 
 
 ## Clean up artifacts
-rm "URLhaus.csv" "top-1m-umbrella.zip" "top-1m-umbrella.txt" "top-1m-tranco.txt"
+rm "URLhaus.csv" "top-1m-umbrella.zip" "top-1m-umbrella.txt" "top-1m-tranco.txt" "oisd-exclude.html" "oisd-exclude.txt"
 
 
 cd ../
