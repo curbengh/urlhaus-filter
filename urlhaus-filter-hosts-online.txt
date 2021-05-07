@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Fri, 07 May 2021 11:25:11 UTC
+# Updated: Fri, 07 May 2021 12:13:04 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -16,7 +16,6 @@
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 77st.net
 0.0.0.0 8402d53c-17e9-4250-8011-20f28f5d404f.certbooster.com
-0.0.0.0 87du.vip
 0.0.0.0 8poieq.bn.files.1drv.com
 0.0.0.0 a3ium.davaohorizon.com
 0.0.0.0 aatreefelling.co.za
@@ -28,6 +27,7 @@
 0.0.0.0 academyshademani.com
 0.0.0.0 acellr.co.uk
 0.0.0.0 acteon.com.ar
+0.0.0.0 activecost.com.au
 0.0.0.0 adamorinmusic.com
 0.0.0.0 addahealingmusic.com
 0.0.0.0 adithimedia.com
@@ -48,6 +48,7 @@
 0.0.0.0 ajpharmaholding.com
 0.0.0.0 akdvidyalaya.com
 0.0.0.0 al-wahd.com
+0.0.0.0 alasdemariposas.org
 0.0.0.0 alberts.diamondrelationscrm.us
 0.0.0.0 alemelektronik.com
 0.0.0.0 alena1971.es
@@ -55,6 +56,7 @@
 0.0.0.0 alexian-construction.co.uk
 0.0.0.0 alka.institute
 0.0.0.0 allforcreative.com.au
+0.0.0.0 alltheway.travel
 0.0.0.0 alpaylar.com.tr
 0.0.0.0 alshamaleh-ye.com
 0.0.0.0 am-concepts.ca
@@ -88,6 +90,7 @@
 0.0.0.0 aulist.com
 0.0.0.0 australianpga.com.au
 0.0.0.0 automanic.tdejob.work
+0.0.0.0 automaticrefreshments.com
 0.0.0.0 avadhanagames.com
 0.0.0.0 ayahuascasp.com.br
 0.0.0.0 ayamallah.com
@@ -114,7 +117,6 @@
 0.0.0.0 betone.co.kr
 0.0.0.0 betycopaints.com
 0.0.0.0 bharattimeslive.com
-0.0.0.0 bhavaniengineering.com
 0.0.0.0 bigmikesupplies.co.za
 0.0.0.0 bilbosaquet.ug
 0.0.0.0 bilhen.co.za
@@ -128,6 +130,7 @@
 0.0.0.0 blog.difusodesign.com
 0.0.0.0 blog.grnstore.com
 0.0.0.0 blog.oyinblogs.com
+0.0.0.0 blog.takbelit.com
 0.0.0.0 blogmandala.top
 0.0.0.0 boatpecas.com.br
 0.0.0.0 bodylanguage.santulan.co.in
@@ -149,6 +152,7 @@
 0.0.0.0 bullseyemedia.in
 0.0.0.0 busandvanrentalmalaysia.com
 0.0.0.0 buscascolegios.diit.cl
+0.0.0.0 bwsr.eu
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 caballo.com.au
 0.0.0.0 cacaoprojects.com
@@ -162,6 +166,7 @@
 0.0.0.0 cbn.hypervoizd.com
 0.0.0.0 ccauthority.net
 0.0.0.0 cdaonline.com.ar
+0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cdn.tmooc.cn
 0.0.0.0 cec.asso.ac-amiens.fr
 0.0.0.0 cellas.sk
@@ -185,6 +190,7 @@
 0.0.0.0 cleanbydesignllc.com
 0.0.0.0 cloud.fc.co.mz
 0.0.0.0 codsambal.com
+0.0.0.0 colinde.pricesne.com
 0.0.0.0 colorpak.pl
 0.0.0.0 columbia.aula-web.net
 0.0.0.0 community.reimclub.com
@@ -208,7 +214,6 @@
 0.0.0.0 crscorretordeimoveis.com.br
 0.0.0.0 cse-engineer.com
 0.0.0.0 csnserver.com
-0.0.0.0 ctracknxt.in
 0.0.0.0 cubescargoexpress.com
 0.0.0.0 currantmedia.com
 0.0.0.0 cvinfo.in
@@ -245,14 +250,12 @@
 0.0.0.0 detorre.es
 0.0.0.0 dev.sebpo.net
 0.0.0.0 dev.watch-store.eu
-0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 diamantenegro.mi-fs.com
 0.0.0.0 dienmayminhhung.com
 0.0.0.0 digisails.org
 0.0.0.0 disinfection-cleaning.co.za
 0.0.0.0 djking.f3322.net
-0.0.0.0 dl.1003b.56a.com
 0.0.0.0 dl.198424.com
 0.0.0.0 dl.installcdn-aws.com
 0.0.0.0 dl.packetstormsecurity.net
@@ -298,6 +301,7 @@
 0.0.0.0 drools-moved.46999.n3.nabble.com
 0.0.0.0 drpamelageorge.com
 0.0.0.0 drsha.innovativesolutions.mobi
+0.0.0.0 dsenterprize.co.za
 0.0.0.0 dsspainting.com
 0.0.0.0 du-wizards.com
 0.0.0.0 dutapp.wisolve.co.za
@@ -344,6 +348,7 @@
 0.0.0.0 fineartgallerym.com
 0.0.0.0 firas.alifares.org
 0.0.0.0 fix-america-now.org
+0.0.0.0 fixauto.illumetechnology.com
 0.0.0.0 fkd.derpcity.ru
 0.0.0.0 flexypay.dsquaregroup.com
 0.0.0.0 flintspin.com
@@ -490,7 +495,6 @@
 0.0.0.0 justinscott.com.au
 0.0.0.0 jyk85mxc.z1001.net
 0.0.0.0 kadigital.co.uk
-0.0.0.0 kaizenjanitorial.com
 0.0.0.0 kalawatihomes.com
 0.0.0.0 kalogirosfinance.com
 0.0.0.0 kaptaanchapal.com
@@ -506,7 +510,6 @@
 0.0.0.0 kplmrdentalcare.com
 0.0.0.0 krisbadminton.com
 0.0.0.0 kullumanalitours.com
-0.0.0.0 kumaralok.in
 0.0.0.0 kurtos.eu
 0.0.0.0 kurumsal.avantajbulvari.com
 0.0.0.0 kz.sldov.ru
@@ -517,6 +520,7 @@
 0.0.0.0 laodongnhat.vn
 0.0.0.0 laravel.pointersoftwares.com.br
 0.0.0.0 lasermobilesounds.co.uk
+0.0.0.0 laughtales.com
 0.0.0.0 lauratomismith.com
 0.0.0.0 lautarosanmiguel.com
 0.0.0.0 lawforall.edu.lk
@@ -537,6 +541,7 @@
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 linkintec.cn
 0.0.0.0 livetrack.in
+0.0.0.0 lloydsindian.co.uk
 0.0.0.0 lm.stagingarea.co.za
 0.0.0.0 lms.cstdevs.com
 0.0.0.0 lms.login2.in
@@ -757,6 +762,7 @@
 0.0.0.0 rakeshkhatri.in
 0.0.0.0 rapidoinfo.seutecnico.com
 0.0.0.0 raquelhelena.com.br
+0.0.0.0 rasadbar.ir
 0.0.0.0 rashika.ascarvalho.co.za
 0.0.0.0 ratemyfenancialadvisor.com
 0.0.0.0 ravenproductionsltd.com
@@ -774,6 +780,7 @@
 0.0.0.0 reseller.digimitra.in
 0.0.0.0 reseller.itechbrasil.com
 0.0.0.0 rezkabum.ru
+0.0.0.0 richmondminerals.co.zm
 0.0.0.0 rinaefoundation.org.za
 0.0.0.0 rinkaisystem-ht.com
 0.0.0.0 rkcable.co.in
@@ -837,7 +844,6 @@
 0.0.0.0 shivakunwar.com.np
 0.0.0.0 shoblasaathitrust.org
 0.0.0.0 shomalhouse.com
-0.0.0.0 shooka-co.com
 0.0.0.0 shopsofe.com
 0.0.0.0 shotrry.kozow.com
 0.0.0.0 shrishinfra.com
@@ -917,7 +923,6 @@
 0.0.0.0 tc.snpsresidential.com
 0.0.0.0 tdejob.work
 0.0.0.0 tdsp.yngw518.com
-0.0.0.0 tech332.synology.me
 0.0.0.0 techgms.com
 0.0.0.0 teduae.com
 0.0.0.0 teleargentina.com
@@ -1049,6 +1054,7 @@
 0.0.0.0 woodsytech.com
 0.0.0.0 wordpress.saleensuporte.com.br
 0.0.0.0 wozata.000webhostapp.com
+0.0.0.0 wp.readhere.in
 0.0.0.0 writtendeer.com
 0.0.0.0 ws5588.f3322.net
 0.0.0.0 wsdykungcommunicatdf.dns.army
