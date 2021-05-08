@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 08 May 2021 00:12:52 UTC
+# Updated: Sat, 08 May 2021 12:12:52 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1711,7 +1711,6 @@ msFilterList
 -d 8daufikrn5860429.davidguetta03.space
 -d 8daufikrn7577595.davidguetta03.space
 -d 8dsuspect8.com
--d 8dx.pc6.com
 -d 8e3raq.bl.files.1drv.com
 -d 8edylw.ch.files.1drv.com
 -d 8ez.com
@@ -1922,7 +1921,6 @@ msFilterList
 -d a.seeanu.ru
 -d a.teamworx.ph
 -d a.tolganfor.ru
--d a.top4top.io
 -d a.turnuvam.org
 -d a.uchi.moe
 -d a.xiazai163.com
@@ -11899,6 +11897,7 @@ msFilterList
 -d bel-med-tour.ru
 -d belabargelro.com
 -d belair.btwstudio.ch
+-d belairinternet.com
 -d belamater.com.br
 -d belangel.by
 -d belanja-berkah.xyz
@@ -13260,7 +13259,6 @@ msFilterList
 -d bismarjeparamebel.com
 -d bismillah-sourcing.com
 -d bismillahgoc.com
--d bisnishack.com
 -d bisnismaju.com
 -d bisnisonlineluarbiasa.com
 -d bisolar.ro
@@ -17006,6 +17004,7 @@ msFilterList
 -d canexkhalij.com
 -d caneyvalleycorvetteclub.com
 -d canfrec.com.mx
+-d canghaisan.com
 -d cangol.com
 -d canguakho.net
 -d canho-ezland.com
@@ -18050,6 +18049,7 @@ msFilterList
 -d cdn.examdunia.com
 -d cdn.fanyamedia.net
 -d cdn.file6.goodid.com
+-d cdn.filesend.jp
 -d cdn.fixio.com
 -d cdn.franxx.ml
 -d cdn.fullpccare.com
@@ -18654,6 +18654,7 @@ msFilterList
 -d chandigarhludhianataxiservice.com
 -d chandigarhpacker.com
 -d chandlerfla.net
+-d chandlerwidea.com
 -d chandni.pk
 -d chandnichowktochina.com
 -d chandrima.webhibe.com
@@ -19694,6 +19695,7 @@ msFilterList
 -d citycamp.es
 -d citycapproperty.ru
 -d citycar-altenstadt.de
+-d citycardriving.net
 -d citycarmen.com
 -d cityclosetselfstorage.com
 -d cityclosetstorage.com
@@ -20328,7 +20330,6 @@ msFilterList
 -d cmecobrancas.com
 -d cmelik.com
 -d cmessagers.com
--d cmg.asia
 -d cmg.ma
 -d cmgroup.com.ua
 -d cmhighschool.edu.bd
@@ -21075,7 +21076,6 @@ msFilterList
 -d complience.com
 -d compln.net
 -d component.pw
--d components.technologymindz.com
 -d composecv.com
 -d composite.be
 -d compoundy.com
@@ -27150,7 +27150,6 @@ msFilterList
 -d dl-675423.store-downloads.com
 -d dl-80076342.md-downloads.com
 -d dl-97674424.md-downloads.com
--d dl-gameplayer.dmm.com
 -d dl-link.link
 -d dl-link.live
 -d dl-link.network
@@ -33677,7 +33676,6 @@ msFilterList
 -d familystory.es
 -d familytex.ru
 -d famint-my.sharepoint.com
--d famitaa.com
 -d famiuganda.org
 -d famostano.com
 -d famous-quotations.org
@@ -42224,7 +42222,6 @@ msFilterList
 -d helplog3021.cf
 -d helplog359.gq
 -d helpmebuyavehicle.com
--d helpmegrowutah.org
 -d helpmepayless.com
 -d helpmewithmywebsite.org
 -d helpmpaypalkomexico.co
@@ -44744,7 +44741,6 @@ msFilterList
 -d ictsmkn2cibar.org
 -d ictsphere.tv
 -d ictvacaturesachterhoek.nl
--d ictzj.com
 -d icurse.nl
 -d icv.edu.au
 -d icveritas.pe
@@ -51452,6 +51448,7 @@ msFilterList
 -d khscholand-cad.de
 -d khsecurity.sg
 -d khsportfolio.dk
+-d khtc.hcmut.edu.vn
 -d khtwah.info
 -d khtwteen.com
 -d khudanculongdien.vn
@@ -52340,6 +52337,7 @@ msFilterList
 -d konfirmasi.zakato.org
 -d kongchunghing.com
 -d kongendo.com
+-d kongjiantang.com
 -d kongmiao-litang-amalutama-bangka.org
 -d kongmiao-litang-amalutama-bangka.rajaojek.com
 -d kongsirezeki769.com
@@ -52589,7 +52587,6 @@ msFilterList
 -d kqfkqkf7ma.temp.swtest.ru
 -d kqq.kz
 -d kqs.me
--d kr1s.ru
 -d kr888.top
 -d krabben.no
 -d krabbendamphotography.com
@@ -56719,7 +56716,6 @@ msFilterList
 -d luminouspla.net
 -d luminouspneuma.com
 -d lumnus.com.br
--d lumoura.com
 -d lumperpush.com
 -d lumsdancorp.com
 -d lun.otrweb.ru
@@ -59337,6 +59333,7 @@ msFilterList
 -d mastermindgroup.co.in
 -d masterminus.ru
 -d mastermixco.com
+-d mastermysan.com
 -d masternotebooks.com
 -d masteronare.com
 -d masteronline.pl
@@ -60428,6 +60425,7 @@ msFilterList
 -d member.irfansangjuara.com
 -d memberlogin.cloud
 -d members.chello.nl
+-d members.iinet.net.au
 -d members.maskeei.id
 -d members.murphyshost.net
 -d members.mycowellness.com
@@ -60544,6 +60542,7 @@ msFilterList
 -d menziesadvisory-my.sharepoint.com
 -d menzway.com
 -d meogiambeo.com
+-d meohaybotui.com
 -d meolamdephay.com
 -d mepsgen.com
 -d mera.ddns.net
@@ -61773,6 +61772,7 @@ msFilterList
 -d misterpearl.com
 -d mistersanji.com
 -d misterson.com
+-d misterysnith.com
 -d mistikmarket.com
 -d mistore.com.au
 -d mistransport.pl
@@ -63339,7 +63339,6 @@ msFilterList
 -d mtcr.co.za
 -d mtcuadrado.com
 -d mtd.cl
--d mtdc.com.my
 -d mte1.cn
 -d mtechagency.com
 -d mtechracing.com.au
@@ -69090,7 +69089,6 @@ msFilterList
 -d oryano.us
 -d orygin.co.za
 -d oryktaco.com
--d orzel.in
 -d orzelconsulting.com
 -d orzessek.de
 -d orzhenikingbudoc.website
@@ -69128,7 +69126,6 @@ msFilterList
 -d osezrayonner.ma
 -d osgbforum.com
 -d oshattorney.com
--d osheoufhusheoghuesd.ru
 -d oshi.at
 -d oshodrycleaning.com
 -d oshonafitness.com
@@ -71554,7 +71551,6 @@ msFilterList
 -d photo-midorikawa.info
 -d photo.6nationstabletenniscup.com
 -d photo.mikerizzello.com
--d photo.sohu.com
 -d photo2.nerdtonik.com
 -d photo360.kubooking.com
 -d photobook-design.de
@@ -73804,7 +73800,6 @@ msFilterList
 -d professionelelit.com
 -d professoreyesan.com
 -d professorsgallery.com
--d profetestruec.net
 -d profexsystem.com
 -d proffessia.ru
 -d proffice.com.pl
@@ -74666,7 +74661,6 @@ msFilterList
 -d purplehygiene.uk
 -d purplekushop.com
 -d purpleline.co.uk
--d purpleorangedesign.com
 -d purplewells.com
 -d purposeintopower.com
 -d purrpurr.eu
@@ -84307,7 +84301,6 @@ msFilterList
 -d slot-tube.cn
 -d slot0.athakics.com
 -d slot0.fastrek-za.com
--d slot0.gamoruz.com
 -d slot0.manews-relax.com
 -d slot2bet.com
 -d slotenservice-24-7-actief.nl
@@ -84351,7 +84344,6 @@ msFilterList
 -d sm-conference.info
 -d sm-n.ru
 -d sm.fq520000.com
--d sm.myapp.com
 -d sm.rooderoofing.com.au
 -d sm0tl0t.com
 -d sma-drmueller.de
@@ -91362,6 +91354,7 @@ msFilterList
 -d thatsswift.com
 -d thatwinningsmile.com
 -d thaus.to
+-d thaus.top
 -d thawani-pay.neomeric.us
 -d thayvoiphone.vn
 -d thccamera.com
@@ -94764,7 +94757,6 @@ msFilterList
 -d tsredco.telangana.gov.in
 -d tsrj.monster
 -d tsrv2.top
--d tsrv4.ws
 -d tst.marineindust.com
 -d tstfrigo.com
 -d tsugite.youbi.me
@@ -96204,6 +96196,7 @@ msFilterList
 -d update-prog.com
 -d update-res.100public.com
 -d update.5v.pl
+-d update.7h4uk.com
 -d update.att.tools
 -d update.bracncet.net
 -d update.bruss.org.ru
@@ -99784,6 +99777,7 @@ msFilterList
 -d websayfaniz.com
 -d websazinohost.ir
 -d websedia.com
+-d websender.org
 -d webseographicsit.com
 -d webserv-redir.net
 -d webserverthai.com
@@ -101798,7 +101792,6 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
--d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
@@ -104019,6 +104012,7 @@ msFilterList
 -d zcnet.com
 -d zcomsolutions.com
 -d zcomunicacion.com
+-d zcop.ru
 -d zcsmba.org
 -d zcxe37adonis.top
 -d zd4b.lonlyfafner.ru
