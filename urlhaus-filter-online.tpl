@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Sat, 08 May 2021 12:12:52 UTC
+# Updated: Sun, 09 May 2021 00:13:12 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -94,9 +94,9 @@ msFilterList
 -d aulist.com
 -d australianpga.com.au
 -d automanic.tdejob.work
--d automaticrefreshments.com
 -d avadhanagames.com
 -d ayahuascasp.com.br
+-d ayamallah.com
 -d aycconsultoriaempresarial.com
 -d azmeasurement.com
 -d azraktours.com
@@ -107,10 +107,10 @@ msFilterList
 -d balealgodon.mx
 -d bangkok-orchids.com
 -d bangladeshunbound.com
+-d bary.sz4h.com
 -d bash.givemexyz.in
 -d bbia.co.uk
 -d bcrg.co.za
--d bearcatpumps.com.cn
 -d beatyamerican.com
 -d beautincollagen.rs
 -d bekape.co.id
@@ -173,8 +173,8 @@ msFilterList
 -d ccauthority.net
 -d cdaonline.com.ar
 -d cdn-10049480.file.myqcloud.com
--d cdn.tmooc.cn
 -d cec.asso.ac-amiens.fr
+-d cecra.cl
 -d cellas.sk
 -d cendekiabinaaksara.com
 -d cfs10.blog.daum.net
@@ -196,6 +196,7 @@ msFilterList
 -d cleanbydesignllc.com
 -d cloud.fc.co.mz
 -d codsambal.com
+-d colinde.pricesne.com
 -d colorpak.pl
 -d columbia.aula-web.net
 -d community.reimclub.com
@@ -209,7 +210,6 @@ msFilterList
 -d cpanel.shivay.net
 -d cr-sq.com
 -d craftech.nxtnet.ga
--d crearechile.cl
 -d creationskateboards.com
 -d crecerco.com
 -d crittersbythebay.com
@@ -291,6 +291,7 @@ msFilterList
 -d dosman.pl
 -d dovberger.com
 -d down.pcclear.com
+-d down.udashi.com
 -d down.webbora.com
 -d down1.arpun.com
 -d download.caihong.com
@@ -299,6 +300,7 @@ msFilterList
 -d download.kaobeitu.com
 -d download.pdf00.cn
 -d download.rising.com.cn
+-d download.skycn.com
 -d download.zjsyawqj.cn
 -d downloadsoftfree.info
 -d dragonsknot.com
@@ -309,7 +311,6 @@ msFilterList
 -d drools-moved.46999.n3.nabble.com
 -d drpamelageorge.com
 -d drsha.innovativesolutions.mobi
--d dsenterprize.co.za
 -d dsspainting.com
 -d du-wizards.com
 -d dutapp.wisolve.co.za
@@ -361,7 +362,6 @@ msFilterList
 -d fixauto.illumetechnology.com
 -d fkd.derpcity.ru
 -d flexypay.dsquaregroup.com
--d flintspin.com
 -d flyingbuddhadesign.com
 -d follower.instantcashback.in
 -d foothills.com.br
@@ -392,6 +392,7 @@ msFilterList
 -d goldcoastoffice365.com.au
 -d golden-memories-funerals.yourpageserver.com
 -d goldenasiacapital.com
+-d goldmen.in
 -d gpotecnosystems.com
 -d gracejukes.com
 -d grupoinmare.com
@@ -408,6 +409,8 @@ msFilterList
 -d hassanproduct.com
 -d hchfug.org
 -d hdkamera2003.hu
+-d hds.sz4h.com
+-d heavymaq.cl
 -d hellogorgeous.com.au
 -d help.hizuko.com
 -d helpdeskserver.epelcdn.com
@@ -471,6 +474,7 @@ msFilterList
 -d it123.ru
 -d itc-demo.softgig.co.ke
 -d itcorner.la
+-d itmotasaciones.com
 -d jahthroneafricancrafts.com
 -d jajainfo.net
 -d jamiekaylive.com
@@ -493,7 +497,6 @@ msFilterList
 -d jobs.thebeessolution.com
 -d joelbonissilver.com
 -d join.cl8movement.co.za
--d josefpeters.com
 -d josegene.com
 -d jpcleaningservices2.davaohorizon.com
 -d jpwoodfordco.com
@@ -561,7 +564,6 @@ msFilterList
 -d ltc.typoten.com
 -d luckybrownie.com
 -d luminouspneuma.com
--d lupasgroup.com
 -d luxomodels.com
 -d m-technics.kz
 -d m.estudiomoros.com.ar
@@ -590,6 +592,7 @@ msFilterList
 -d matruchhaya.co.in
 -d maxiquim.cl
 -d maxtox.com.pk
+-d mbgrm.com
 -d mbjtimes.com
 -d mbsolutions.ge
 -d mbx.com.au
@@ -650,7 +653,6 @@ msFilterList
 -d nettube.com.br
 -d networkwheels.co.za
 -d neverless.nl
--d newinfinitysynergy.com
 -d newtreedesign.co.uk
 -d newvisionopticallab.com
 -d newxing.com
@@ -687,9 +689,9 @@ msFilterList
 -d onedigitalcard.granvizionnecorp.com
 -d onedrive.listifyapp.co
 -d online.creedglobal.in
--d onlinesgate.com
 -d open.warehousesaas.co.uk
 -d opolis.io
+-d opticaoptigral.cl
 -d optimus.com.sg
 -d order.bizpeed.com
 -d orientgatewayltd.com
@@ -733,6 +735,7 @@ msFilterList
 -d photo360.kubooking.com
 -d pink99.com
 -d plasfan.ind.br
+-d plataforma.uenf.br
 -d playground2.grupoaliadasca.com
 -d pmglance.startwriteup.com
 -d pokalde.com
@@ -771,6 +774,7 @@ msFilterList
 -d ratemyfenancialadvisor.com
 -d ravenproductionsltd.com
 -d rc.ixiaoyang.cn
+-d rcmesilva.charbelsales.com.br
 -d reacredit.com.br
 -d readymmade.com
 -d redbats.co.in
@@ -779,7 +783,6 @@ msFilterList
 -d relaxindulge.co.nz
 -d renehavis.com.ua
 -d repatriacioncolombia.com
--d res.uf1.cn
 -d reseller.digimitra.in
 -d reseller.itechbrasil.com
 -d rezkabum.ru
@@ -832,13 +835,11 @@ msFilterList
 -d sentierodelviandante.ml
 -d serendibsourcing.com
 -d sericaasia.com
--d serviciovirtual.com.ar
 -d sexologistpakistan.net
 -d seyfertnetworks.com
 -d sgessy.com.br
 -d shaheentbfoundation.com
 -d shahikhana.cstdevs.com
--d shahu66.com
 -d shalombaptistchapel.com
 -d sharkrigs.com
 -d sharpelevators.in
@@ -860,6 +861,7 @@ msFilterList
 -d simoneporzi.it
 -d simplyballons.wavecotechnologies.co.bw
 -d sindicato1ucm.cl
+-d sindpol.tiejuris.com.br
 -d sipahielektrik.com
 -d sistelligent.com
 -d skyscan.com
@@ -926,7 +928,6 @@ msFilterList
 -d tc.snpsresidential.com
 -d tdejob.work
 -d tdsp.yngw518.com
--d tech332.synology.me
 -d techgms.com
 -d teduae.com
 -d teleargentina.com
@@ -950,6 +951,7 @@ msFilterList
 -d teteaffiche.stephanebillon.com
 -d tewoerd.eu
 -d tharringtonsponsorship.com
+-d thecreativecafe.co.uk
 -d thedentalhq.com
 -d thedesertship.com
 -d thefamouscurrybazaar.co.uk
@@ -981,7 +983,6 @@ msFilterList
 -d translaterjemah.com
 -d travelwithmanta.co.za
 -d trendyshoes.co.za
--d trezors.io.mahlongwa.com
 -d troki.com.co
 -d tropics.codeleek.net
 -d trudelfavreau.com
@@ -1053,6 +1054,7 @@ msFilterList
 -d will.kasraz.com
 -d wimbamusica.com
 -d windcomtechnologies.com
+-d winnercircle.it
 -d wishesconcierge.com
 -d wnsetup.net
 -d woezon.agency
