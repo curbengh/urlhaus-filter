@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Mon, 10 May 2021 00:12:43 UTC
+# Updated: Mon, 10 May 2021 12:13:27 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -46,6 +46,7 @@ msFilterList
 -d afrimedspecialist.com
 -d agemn.co.za
 -d agentt.ac.ug
+-d aggiornappmobile.com
 -d aiecons.com
 -d aiiaiafrzrueuedur.ru
 -d aiqtest.com
@@ -62,7 +63,9 @@ msFilterList
 -d alka.institute
 -d allforcreative.com.au
 -d alltheway.travel
+-d almawraqi.com
 -d alpaylar.com.tr
+-d alshamaleh-ye.com
 -d am-concepts.ca
 -d amarteargentina.com.ar
 -d amazgift.klaster.kylos.pl
@@ -81,6 +84,7 @@ msFilterList
 -d api.cstdevs.com
 -d apoolcondo.com
 -d app.explicitsurveys.co.uk
+-d apps.saintsoporte.com
 -d aps-scribe.com
 -d ask-regard.call-save.biz
 -d atfile.com
@@ -94,6 +98,7 @@ msFilterList
 -d automanic.tdejob.work
 -d avadhanagames.com
 -d ayahuascasp.com.br
+-d ayamallah.com
 -d aycconsultoriaempresarial.com
 -d azmeasurement.com
 -d azraktours.com
@@ -118,6 +123,7 @@ msFilterList
 -d betone.co.kr
 -d betycopaints.com
 -d bharattimeslive.com
+-d bhavaniengineering.com
 -d bigmikesupplies.co.za
 -d bilbosaquet.ug
 -d bilhen.co.za
@@ -167,6 +173,8 @@ msFilterList
 -d cbn.hypervoizd.com
 -d ccauthority.net
 -d cdaonline.com.ar
+-d cdn-10049480.file.myqcloud.com
+-d cdn.tmooc.cn
 -d cec.asso.ac-amiens.fr
 -d cellas.sk
 -d cendekiabinaaksara.com
@@ -251,14 +259,12 @@ msFilterList
 -d detorre.es
 -d dev.sebpo.net
 -d dev.watch-store.eu
--d dezcom.com
 -d dfcf.91756.cn
 -d diamantenegro.mi-fs.com
 -d dienmayminhhung.com
 -d digisails.org
 -d disinfection-cleaning.co.za
 -d djking.f3322.net
--d dl.1003b.56a.com
 -d dl.198424.com
 -d dl.installcdn-aws.com
 -d dl.packetstormsecurity.net
@@ -342,7 +348,6 @@ msFilterList
 -d facadecreation.com
 -d familydentist.site
 -d fantasymedia.net
--d farm-finn.com
 -d faveraprojects.com
 -d fc.co.mz
 -d felicienne.nl
@@ -357,7 +362,6 @@ msFilterList
 -d flexypay.dsquaregroup.com
 -d flyingbuddhadesign.com
 -d follower.instantcashback.in
--d foothills.com.br
 -d forum.mdb.nu
 -d fotoobjetivo.com
 -d foundationrepairhoustontx.net
@@ -385,7 +389,6 @@ msFilterList
 -d goldcoastoffice365.com.au
 -d golden-memories-funerals.yourpageserver.com
 -d goldenasiacapital.com
--d goldmen.in
 -d gpotecnosystems.com
 -d gracejukes.com
 -d grupoinmare.com
@@ -460,7 +463,6 @@ msFilterList
 -d iris101.co.uk
 -d isaac.mikhailmotoringschool.com
 -d iscamenabe.com
--d ismf.com.ng
 -d iso-dubai.net
 -d isso.ps
 -d it123.ru
@@ -496,7 +498,7 @@ msFilterList
 -d justinscott.com.au
 -d jyk85mxc.z1001.net
 -d kadigital.co.uk
--d kalawatihomes.com
+-d kaizenjanitorial.com
 -d kalogirosfinance.com
 -d kaptaanchapal.com
 -d karer.by
@@ -516,6 +518,7 @@ msFilterList
 -d kurumsal.avantajbulvari.com
 -d kz.sldov.ru
 -d lacasadelosalebrijes.com
+-d lacasadepapel0x0.s3-ap-southeast-1.amazonaws.com
 -d lameguard.ru
 -d landing.yetiapp.ec
 -d laodongnhat.vn
@@ -577,7 +580,6 @@ msFilterList
 -d mariobrown.net
 -d marketinfosales.com
 -d marketing.enexusgroup.com.au
--d marksidfgs.ug
 -d mastersofclientretention.com.au
 -d materialescantu.com
 -d matruchhaya.co.in
@@ -587,7 +589,6 @@ msFilterList
 -d mbsolutions.ge
 -d mbx.com.au
 -d media-server.skyinternet.com.pk
--d medianews.ge
 -d mediaplayerapp.info
 -d mediawaysnews.com
 -d medistaffconsulting.com
@@ -618,6 +619,7 @@ msFilterList
 -d modem.pw
 -d modernmanna.org
 -d monetization.business
+-d moninediy.com
 -d morrobaydrugandgift.com
 -d motorcomunicacion.com
 -d moumitas.com
@@ -667,7 +669,6 @@ msFilterList
 -d nxtnet.ga
 -d nyasabigbullets.com
 -d obseques-conseils.com
--d ohe.ie
 -d ohsewgorgeous.co.uk
 -d oknoplastik.sk
 -d olebaby.in
@@ -679,7 +680,6 @@ msFilterList
 -d onedigitalcard.granvizionnecorp.com
 -d onedrive.listifyapp.co
 -d online.creedglobal.in
--d onlinesgate.com
 -d open.warehousesaas.co.uk
 -d opolis.io
 -d optimus.com.sg
@@ -704,6 +704,7 @@ msFilterList
 -d parallel.rockvideos.at
 -d parejasfelices.mi-fs.com
 -d parkhussion.com
+-d paroissesaintabraham.com
 -d partsapp.com.br
 -d pastorpaulocosta.com
 -d patch2.51lg.com
@@ -775,6 +776,7 @@ msFilterList
 -d res.uf1.cn
 -d reseller.digimitra.in
 -d reseller.itechbrasil.com
+-d restaurantechezdaniel.com
 -d rezkabum.ru
 -d richmondminerals.co.zm
 -d rinaefoundation.org.za
@@ -821,10 +823,10 @@ msFilterList
 -d secure-doc-reader.com
 -d sellmyphonela.com
 -d selltechtoday.com
--d senbiaojita.com
 -d sentierodelviandante.ml
 -d serendibsourcing.com
 -d sericaasia.com
+-d serviciovirtual.com.ar
 -d sexologistpakistan.net
 -d seyfertnetworks.com
 -d sgessy.com.br
@@ -842,7 +844,6 @@ msFilterList
 -d shooka-co.com
 -d shopsofe.com
 -d shotrry.kozow.com
--d shrishinfra.com
 -d shrushtiinfotech.com
 -d sibernetix.fr
 -d sige.brisainformatica.com.br
@@ -893,6 +894,8 @@ msFilterList
 -d starcountry.net
 -d static.3001.net
 -d statusquobrand.com
+-d steilppm.ac.id
+-d stiau.iuc.ac
 -d sticker.jewsjuice.com
 -d stiepancasetia.ac.id
 -d store.ericalgarin.com
@@ -918,6 +921,7 @@ msFilterList
 -d tc.snpsresidential.com
 -d tdejob.work
 -d tdsp.yngw518.com
+-d tech332.synology.me
 -d techgms.com
 -d teduae.com
 -d teleargentina.com
@@ -930,7 +934,6 @@ msFilterList
 -d test.onefourlab.com
 -d test.protocsconnectes.eu
 -d test.typoten.com
--d test.wanepghana.org
 -d test1.asistencia247.com
 -d test1.milenial.id
 -d test2.basis-web.com
@@ -969,6 +972,7 @@ msFilterList
 -d totebarreto.com.br
 -d toyotacollege.ac.th
 -d tpke.hu
+-d tracker-one.com.au
 -d tradebitxtra.com
 -d translaterjemah.com
 -d travelwithmanta.co.za
@@ -1030,7 +1034,6 @@ msFilterList
 -d web.smarts-works.com
 -d web.thebeessolution.com
 -d webgis.perumdasolo.com
--d website-demo.co.in
 -d weinsteincounseling.com
 -d westvaughandental.ca
 -d wfinance.com.br
