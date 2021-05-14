@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 14 May 2021 00:13:16 UTC
+# Updated: Fri, 14 May 2021 12:13:01 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -82580,6 +82580,7 @@ msFilterList
 -d sexytimesorg
 -d sey-org.com
 -d seyahatperver.com
+-d seychelless.ml
 -d seyfertnetworks.com
 -d seyh9.com
 -d seyidogullaripeyzaj.com
