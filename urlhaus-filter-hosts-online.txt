@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sat, 15 May 2021 00:13:14 UTC
+# Updated: Sat, 15 May 2021 12:13:35 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -9,13 +9,13 @@
 0.0.0.0 1008691.com
 0.0.0.0 14karatvisions.com
 0.0.0.0 1am.co.nz
+0.0.0.0 2.indexsinas.me
 0.0.0.0 32792.prolocksmithwinterpark.com
 0.0.0.0 360.lcy2zzx.pw
 0.0.0.0 360down7.miiyun.cn
 0.0.0.0 3kbspace.com
 0.0.0.0 77st.net
 0.0.0.0 8402d53c-17e9-4250-8011-20f28f5d404f.certbooster.com
-0.0.0.0 87du.vip
 0.0.0.0 8poieq.bn.files.1drv.com
 0.0.0.0 a3ium.davaohorizon.com
 0.0.0.0 aatreefelling.co.za
@@ -97,17 +97,18 @@
 0.0.0.0 ashokargal.in
 0.0.0.0 ask-regard.call-save.biz
 0.0.0.0 askmedpharma.com
+0.0.0.0 atfile.com
 0.0.0.0 athenacapsg.com
 0.0.0.0 atlasconcreteworks.com
 0.0.0.0 attach.66rpg.com
 0.0.0.0 atteuqpotentialunlimited.com
 0.0.0.0 aulist.com
+0.0.0.0 austindentalplusny.com
 0.0.0.0 australianpga.com.au
 0.0.0.0 automanic.tdejob.work
 0.0.0.0 automaticrefreshments.com
 0.0.0.0 autoteam.me
 0.0.0.0 avadhanagames.com
-0.0.0.0 avanartworks.com
 0.0.0.0 avocatozone.com
 0.0.0.0 ayahuascasp.com.br
 0.0.0.0 ayamallah.com
@@ -143,7 +144,6 @@
 0.0.0.0 bilhen.co.za
 0.0.0.0 billing.rahitechnosoft.com
 0.0.0.0 binoy.stalphonsamissionva.org
-0.0.0.0 biometrico.gpotecnosystems.com
 0.0.0.0 bioskey.com
 0.0.0.0 birminghamlink.org
 0.0.0.0 bizztradingbot.nl
@@ -193,7 +193,6 @@
 0.0.0.0 cancer.educandome.co
 0.0.0.0 capitalgroup-kw.com
 0.0.0.0 carbinz.gq
-0.0.0.0 carriepatrick.com
 0.0.0.0 cba.org.in
 0.0.0.0 cbn.hypervoizd.com
 0.0.0.0 ccauthority.net
@@ -238,7 +237,6 @@
 0.0.0.0 cpanel.shivay.net
 0.0.0.0 cr-sq.com
 0.0.0.0 craftech.nxtnet.ga
-0.0.0.0 crearechile.cl
 0.0.0.0 creationskateboards.com
 0.0.0.0 crecerco.com
 0.0.0.0 crittersbythebay.com
@@ -278,7 +276,6 @@
 0.0.0.0 demo.glassforcars.com.au
 0.0.0.0 demo6.hiites.com
 0.0.0.0 dental.xiaoxiao.media
-0.0.0.0 deone.org
 0.0.0.0 desertlandtrd.com
 0.0.0.0 desicharades.com
 0.0.0.0 designerliving.co.za
@@ -288,7 +285,6 @@
 0.0.0.0 detorre.es
 0.0.0.0 dev.sebpo.net
 0.0.0.0 dev.watch-store.eu
-0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 diamantenegro.mi-fs.com
 0.0.0.0 dienmayminhhung.com
@@ -297,6 +293,7 @@
 0.0.0.0 disinfection-cleaning.co.za
 0.0.0.0 djking.f3322.net
 0.0.0.0 dl.1003b.56a.com
+0.0.0.0 dl.198424.com
 0.0.0.0 dl.installcdn-aws.com
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dl.pandasecur.com
@@ -311,7 +308,6 @@
 0.0.0.0 docs.twincitytraveltourism.com
 0.0.0.0 dodsonimaging.com
 0.0.0.0 doitunlimited.com
-0.0.0.0 dokan.blueberrytec.com
 0.0.0.0 dom-chel74.ru
 0.0.0.0 dom.daf.free.fr
 0.0.0.0 donation.nci.cu.edu.eg
@@ -365,7 +361,6 @@
 0.0.0.0 elbauldenora.com
 0.0.0.0 emaids.co.za
 0.0.0.0 emaz.pk
-0.0.0.0 emtracar.com.pe
 0.0.0.0 en.baoend.com
 0.0.0.0 enc-tech.com
 0.0.0.0 endurotanzania.co.tz
@@ -378,11 +373,11 @@
 0.0.0.0 esnconsultants.com
 0.0.0.0 essentia.org.br
 0.0.0.0 estadodaarteacademy.com.br
+0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eubanks7.com
 0.0.0.0 eunarquedayspa.co.za
 0.0.0.0 euro-optik.com
 0.0.0.0 europeanzonexxi.com
-0.0.0.0 eventandconference.com.pk
 0.0.0.0 events.blissona.com
 0.0.0.0 evershinesoftware.com
 0.0.0.0 exilum.com
@@ -391,21 +386,19 @@
 0.0.0.0 exxonabnie.ir
 0.0.0.0 f1sol.com
 0.0.0.0 facadecreation.com
-0.0.0.0 familydentist.site
 0.0.0.0 fanio.com.uy
 0.0.0.0 faveraprojects.com
 0.0.0.0 fc.co.mz
 0.0.0.0 felicienne.nl
 0.0.0.0 femalequran.com
 0.0.0.0 fightfactoryph.com
+0.0.0.0 file.elecfans.com
 0.0.0.0 files6.uludagbilisim.com
 0.0.0.0 final.makkahkmcc.com
 0.0.0.0 fineartgallerym.com
 0.0.0.0 firas.alifares.org
-0.0.0.0 firstflashjanitorialservices.com
 0.0.0.0 fitgrade.com
 0.0.0.0 fix-america-now.org
-0.0.0.0 fixauto.illumetechnology.com
 0.0.0.0 fjarrar.com
 0.0.0.0 fkd.derpcity.ru
 0.0.0.0 flexypay.dsquaregroup.com
@@ -434,7 +427,6 @@
 0.0.0.0 geoenv.du.ac.bd
 0.0.0.0 gestoradecaixa.com.br
 0.0.0.0 getfit4life.com.br
-0.0.0.0 getlovetips.com
 0.0.0.0 gfmodd1.webselffiles01.com
 0.0.0.0 gfold1.webselffiles01.com
 0.0.0.0 ghalie.com
@@ -448,7 +440,6 @@
 0.0.0.0 goldcoastoffice365.com.au
 0.0.0.0 golden-memories-funerals.yourpageserver.com
 0.0.0.0 goldenasiacapital.com
-0.0.0.0 goldmen.in
 0.0.0.0 gpotecnosystems.com
 0.0.0.0 gracejukes.com
 0.0.0.0 grupoinmare.com
@@ -507,7 +498,6 @@
 0.0.0.0 ikexpert.com
 0.0.0.0 ilrafrica.com
 0.0.0.0 images.jermiau.com
-0.0.0.0 imarketingconcept.com
 0.0.0.0 imbueautoworx.co.za
 0.0.0.0 imports-exports-goods.com
 0.0.0.0 ims.huile-indonesia.co.id
@@ -533,7 +523,6 @@
 0.0.0.0 irinjalakudatimes.com
 0.0.0.0 iris101.co.uk
 0.0.0.0 isaac.mikhailmotoringschool.com
-0.0.0.0 iscamenabe.com
 0.0.0.0 ismf.com.ng
 0.0.0.0 iso-dubai.net
 0.0.0.0 isso.ps
@@ -543,7 +532,6 @@
 0.0.0.0 jadeec.in
 0.0.0.0 jamiekaylive.com
 0.0.0.0 jamshed.pk
-0.0.0.0 japgermgarage.com
 0.0.0.0 jathra.co.uk
 0.0.0.0 java.harpereng.com
 0.0.0.0 java.istoredome.com
@@ -552,7 +540,6 @@
 0.0.0.0 jayantapaul.tdejob.work
 0.0.0.0 jdkems.com
 0.0.0.0 jebs.net.au
-0.0.0.0 jeevanmasala.com
 0.0.0.0 jeffdahlke.com
 0.0.0.0 jennwolfemtb.com
 0.0.0.0 jhayesconsulting.com
@@ -705,7 +692,6 @@
 0.0.0.0 microcomm-group.com
 0.0.0.0 mikhailmotoringschool.com
 0.0.0.0 miltonvillagegreen.com.au
-0.0.0.0 minuevavida.org
 0.0.0.0 mirror.mypage.sk
 0.0.0.0 mis.dpu.edu.krd
 0.0.0.0 mis.nbcc.ac.th
@@ -746,6 +732,7 @@
 0.0.0.0 nettube.com.br
 0.0.0.0 networkwheels.co.za
 0.0.0.0 newbeautypalace.com
+0.0.0.0 newrochelle-dental.com
 0.0.0.0 newswani.in
 0.0.0.0 newtreedesign.co.uk
 0.0.0.0 newvisionopticallab.com
@@ -804,7 +791,6 @@
 0.0.0.0 padangeyecenter.com
 0.0.0.0 padgettmtlest.ca
 0.0.0.0 pagos.krayem.com.mx
-0.0.0.0 pakt.rs
 0.0.0.0 pallascapital.katchpurcity.com
 0.0.0.0 palochusvet.szm.com
 0.0.0.0 papelariacopycenter.com.br
@@ -827,11 +813,11 @@
 0.0.0.0 perpustekim.untirta.ac.id
 0.0.0.0 pestoclean.co.uk
 0.0.0.0 petercollie.com
+0.0.0.0 peterlife.today
 0.0.0.0 ph4s.ru
 0.0.0.0 phasdesign.com
 0.0.0.0 phittc.com
 0.0.0.0 photo360.kubooking.com
-0.0.0.0 physio123.org
 0.0.0.0 pink99.com
 0.0.0.0 plasfan.ind.br
 0.0.0.0 plataforma.uenf.br
@@ -885,10 +871,10 @@
 0.0.0.0 redchillicrackers.com
 0.0.0.0 refinhomes.com
 0.0.0.0 reifenquick.de
-0.0.0.0 relatedgrouptest.com
 0.0.0.0 relaxindulge.co.nz
 0.0.0.0 renehavis.com.ua
 0.0.0.0 res.uf1.cn
+0.0.0.0 res.yeshen.com
 0.0.0.0 reseller.digimitra.in
 0.0.0.0 reseller.itechbrasil.com
 0.0.0.0 restaurantechezdaniel.com
@@ -904,6 +890,7 @@
 0.0.0.0 rlvieiraconsult.adv.br
 0.0.0.0 robertmcardle.com
 0.0.0.0 robertsinclair.net
+0.0.0.0 robicomp.com
 0.0.0.0 romanianpoints.com
 0.0.0.0 ronnietucker.co.uk
 0.0.0.0 roomsvc.servegate.kr
@@ -963,7 +950,6 @@
 0.0.0.0 shomalhouse.com
 0.0.0.0 shooka-co.com
 0.0.0.0 shop.ybk001.com
-0.0.0.0 shopmed.ng
 0.0.0.0 shopsofe.com
 0.0.0.0 shotrry.kozow.com
 0.0.0.0 shredderlink.com
@@ -1000,7 +986,6 @@
 0.0.0.0 soft.officelabo.net
 0.0.0.0 sohs.conceptechs.info
 0.0.0.0 solar.amazingtribe.lk
-0.0.0.0 solarplanetsa.co.za
 0.0.0.0 somcorbera.cat
 0.0.0.0 sonambulapizza.com
 0.0.0.0 soru.umre.tc
@@ -1017,6 +1002,7 @@
 0.0.0.0 spititourism.com
 0.0.0.0 spittinfire.com
 0.0.0.0 src1.minibai.com
+0.0.0.0 sreenivasapaintingworks.com
 0.0.0.0 sriglobalit.com
 0.0.0.0 srilankamovies.com
 0.0.0.0 srvmanos.no-ip.info
@@ -1054,7 +1040,6 @@
 0.0.0.0 swwbia.com
 0.0.0.0 syedaftabshahbukhari.com
 0.0.0.0 syracusecoffee.com
-0.0.0.0 systemsat.com.br
 0.0.0.0 sytraders.co
 0.0.0.0 t.honker.info
 0.0.0.0 tafsantoursandtravels.com
@@ -1066,7 +1051,6 @@
 0.0.0.0 tc.snpsresidential.com
 0.0.0.0 tdejob.work
 0.0.0.0 tdsp.yngw518.com
-0.0.0.0 tech332.synology.me
 0.0.0.0 techfestive.com
 0.0.0.0 techgms.com
 0.0.0.0 techno-wear.com
@@ -1110,6 +1094,7 @@
 0.0.0.0 theprofinn.com
 0.0.0.0 thesummitpc.net
 0.0.0.0 theurbantutors.com
+0.0.0.0 theviewsight.com
 0.0.0.0 thosewebbs.com
 0.0.0.0 thriveink.com
 0.0.0.0 tianangdep.com
@@ -1120,6 +1105,7 @@
 0.0.0.0 tonydong.com
 0.0.0.0 tonyzone.com
 0.0.0.0 tools.reimclub.com
+0.0.0.0 topcell9.com
 0.0.0.0 toplevel.com.br
 0.0.0.0 torresquinterocorp.com
 0.0.0.0 totebarreto.com.br
@@ -1136,6 +1122,7 @@
 0.0.0.0 tropics.codeleek.net
 0.0.0.0 trudelfavreau.com
 0.0.0.0 tsd.jxwan.com
+0.0.0.0 tsrv4.ws
 0.0.0.0 tuadica.com.br
 0.0.0.0 tulli.info
 0.0.0.0 tupperware.michaelroberge.ca
@@ -1207,7 +1194,6 @@
 0.0.0.0 wildtrust.mediadevstaging.com
 0.0.0.0 willow-nettica.com
 0.0.0.0 windcomtechnologies.com
-0.0.0.0 winnercircle.it
 0.0.0.0 wishesconcierge.com
 0.0.0.0 wizace.com
 0.0.0.0 wnsetup.net
@@ -1215,11 +1201,11 @@
 0.0.0.0 wolfgang-brodte.de
 0.0.0.0 woodsytech.com
 0.0.0.0 wordpress.saleensuporte.com.br
+0.0.0.0 worm.ws
 0.0.0.0 wozata.000webhostapp.com
 0.0.0.0 wp.readhere.in
 0.0.0.0 writtendeer.com
 0.0.0.0 ws5588.f3322.net
-0.0.0.0 wsdysuresbonescagehp.dns.army
 0.0.0.0 wyklej.pl
 0.0.0.0 x2vn.com
 0.0.0.0 xia.beihaixue.com
@@ -1230,6 +1216,7 @@
 0.0.0.0 xz.juzirl.com
 0.0.0.0 yeichner.com
 0.0.0.0 yoast.yourpageserver.com
+0.0.0.0 yp.hnggzyjy.cn
 0.0.0.0 yummyyogaudaipur.com
 0.0.0.0 yuvasanvad.in
 0.0.0.0 yzkzixun.com
@@ -1237,4 +1224,3 @@
 0.0.0.0 zeuscreationsmfg.com
 0.0.0.0 zmedcoach.com
 0.0.0.0 zssai.oss-cn-beijing.aliyuncs.com
-0.0.0.0 zz.690tx.com
