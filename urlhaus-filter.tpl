@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 14 May 2021 12:13:01 UTC
+# Updated: Sat, 15 May 2021 00:13:14 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -983,6 +983,7 @@ msFilterList
 -d 37e0b7ed.ngrok.io
 -d 37p.jp
 -d 382oiso10si8sowppdoiwpc.com
+-d 38eijy.webmaillsecuritty.review
 -d 38seventeen.com
 -d 394509.com
 -d 39eihr.mhsprodutos.email
@@ -2543,6 +2544,7 @@ msFilterList
 -d acbick.com
 -d acbmodernhose.com
 -d acbmodernhouse.com
+-d acboilers.com
 -d acbor.org
 -d acbt.fr
 -d acc-gen.com
@@ -6968,6 +6970,7 @@ msFilterList
 -d antistresstoys.xyz
 -d antiteza.org
 -d antivirusassists.com
+-d antiviruswale.com
 -d antizan.com
 -d antoine-maubon.fr
 -d antoinegimenez.com
@@ -8512,6 +8515,7 @@ msFilterList
 -d asadairtravel.com
 -d asadpor.ir
 -d asadzamaneh.com
+-d asafina.co
 -d asahalpha.com
 -d asahdesigns.co.uk
 -d asahibrands.cf
@@ -12911,6 +12915,7 @@ msFilterList
 -d bigcatbazaar.com
 -d bigcomics.cf
 -d bigdaddysparkave.com
+-d bigdataonlinetraining.us
 -d bigdataprofile.com
 -d bigdatastudies.com
 -d bigdeal.best
@@ -15729,6 +15734,7 @@ msFilterList
 -d bsaleasing.com
 -d bsangels.com
 -d bsat.com.br
+-d bsazim.com
 -d bsbiszcza.i-bs.pl
 -d bsc.euc.ac.cy
 -d bsc5000.com
@@ -18376,6 +18382,7 @@ msFilterList
 -d centralenergy.com
 -d centralguardfactory.com
 -d centralhost.co
+-d centralipc.com
 -d centralkimia.com
 -d centrallescrowgroup.com
 -d centralparkconveniencia.com.br
@@ -19239,6 +19246,7 @@ msFilterList
 -d chiolacostruzioni.com
 -d chipest.com.ng
 -d chiphamspa.com
+-d chiplinkstech.com
 -d chipmania.it
 -d chipmarkets.com
 -d chiporestaurante.com
@@ -20813,6 +20821,7 @@ msFilterList
 -d colegioadventistadeibague.edu.co
 -d colegioarabe.com
 -d colegioarbitrosargentinos.com.ar
+-d colegioaugustoribeiro.com.br
 -d colegiocasablanca.edu.co
 -d colegiodavinci.pe
 -d colegiodecomunicadoressocialesdelguayas.com
@@ -26837,6 +26846,7 @@ msFilterList
 -d dipeshengg.com
 -d diplodocuz.win
 -d diplofer.com
+-d diplomaciat.org
 -d diplomadosyespecializaciones.org.pe
 -d diplomatcom.repeat.cloud
 -d diplomatic.cherrydemoserver10.com
@@ -30223,6 +30233,7 @@ msFilterList
 -d eduscore.org
 -d edusenz.com
 -d eduserve.sezibwa.com
+-d eduspiresolutions.org
 -d eduswiss.com
 -d edutt.com.br
 -d eduvalebr1.hospedagemdesites.ws
@@ -33970,6 +33981,7 @@ msFilterList
 -d farmlandsinvest.com
 -d farmlyfairng.com
 -d farmnatural.in
+-d farmoxoil.com
 -d farmshop.ro
 -d farmsys.in
 -d farmsys.scketon.com
@@ -35080,6 +35092,7 @@ msFilterList
 -d fiolet.eklektik-style.ru
 -d fionapassey.co.uk
 -d fiordelizadelgado.org
+-d fiorellamacandcheese.com
 -d fioresconcreteremoval.com
 -d fiourbano.com.br
 -d fip.unimed.ac.id
@@ -39297,6 +39310,7 @@ msFilterList
 -d gogaurav.com
 -d gogenieholidays.com
 -d gogicinbre.com
+-d goging.hr
 -d goglobalescrow.com
 -d gogo-lam.xyz
 -d gogobyte.mx
@@ -45964,6 +45978,7 @@ msFilterList
 -d indalimentos.cl
 -d inday.webs.upv.es
 -d inddecore.com
+-d indemnity360.com
 -d indenizza.com.br
 -d indenverarea.com
 -d indep.uz
@@ -48410,6 +48425,7 @@ msFilterList
 -d jandmadventuring.servermaintain.com
 -d jandminfrastructure.com
 -d jandneneet.com
+-d jandootnews.in
 -d janec.nl
 -d janeensart.com
 -d janefreemanfitness.com
@@ -57667,6 +57683,7 @@ msFilterList
 -d magnifiedhealth.co.za
 -d magnitko.eu
 -d magnivacsbeach.com
+-d magnivo.co.id
 -d magnoamericana.edu.mx
 -d magnobrasiladvogados.com.br
 -d magnoliaburbank.com
@@ -59920,6 +59937,7 @@ msFilterList
 -d maypinnoidianhat.daocatdongphuong.com
 -d mayproduction.vn
 -d mayradeleon.net
+-d mayread.com
 -d mayruamatlumispa.com.vn
 -d maytinhdau.vn
 -d maytinhdienthoai.vn
@@ -60073,6 +60091,7 @@ msFilterList
 -d mcp-indonesia.com
 -d mcpaintball.ga
 -d mcpbrasil.org.br
+-d mcpinturaseservicos.com.br
 -d mcppl.in
 -d mcppoa.org
 -d mcqsbunch.com
@@ -60507,7 +60526,6 @@ msFilterList
 -d megacraftrp.ouiweb.eu
 -d megaeditores.com
 -d megaestereocalca.net
--d megafeedbd.com
 -d megafighton.sandboxph.com
 -d megafitsupplements.com
 -d megagemes.info
@@ -61435,6 +61453,7 @@ msFilterList
 -d midesstapropratama.com
 -d midgard.alobarlic.com
 -d midgnighcrypt.com
+-d midlandsquarehoa.com
 -d midlandtexasconstrction.com
 -d midlandtexasconstruction.com
 -d midlothiandentalpractice.co.uk
@@ -62380,6 +62399,7 @@ msFilterList
 -d mo3lmk.com
 -d mo70.fun
 -d mo7o.fun
+-d moagimoakssp.co.za
 -d moarab.icu
 -d moarajaya.com
 -d moasocialcoop.com
@@ -62965,6 +62985,7 @@ msFilterList
 -d moozi.in
 -d mooziq.com
 -d mop.gov.iq
+-d mop.leoitservices.in
 -d mopai.sg
 -d mopg.top
 -d mophp-ye.com
@@ -63373,6 +63394,7 @@ msFilterList
 -d mqeuae.com
 -d mqhealthcare.com
 -d mqlibros.com
+-d mqmtha.sn.files.1drv.com
 -d mqp6p7d.com
 -d mr-ads.ir
 -d mr-asia-restaurant.de
@@ -66575,6 +66597,7 @@ msFilterList
 -d niloiuyrt.info
 -d nilsguzellik.com
 -d nilsnilsgarden.se
+-d niluferozelguvenlik.com
 -d nilufersecimofisi.com
 -d nilvin.in
 -d niman.ru
@@ -78690,6 +78713,7 @@ msFilterList
 -d rogatech.cf
 -d rogatech.ga
 -d rogene.tk
+-d rogerbaulenas.com
 -d rogerealtor.com
 -d rogerfleck.com
 -d rogerssteel.net
@@ -80133,6 +80157,7 @@ msFilterList
 -d sakhaevent.com
 -d sakhifashionhub.net
 -d sakhilalleather.com
+-d sakhisuhaninarijeevika.com
 -d sakhyawgc.org
 -d sakibtd.xyz
 -d sakirzahabi.ps
@@ -80481,7 +80506,6 @@ msFilterList
 -d sananahad.com
 -d sananmusic.com
 -d sanantoniodenia.es
--d sanarflix.com.br
 -d sanat-tarrahan.ir
 -d sanatarti.com
 -d sanatcifiyatlari.net
@@ -81051,6 +81075,7 @@ msFilterList
 -d sbobetplay.online
 -d sboverseasonline.com
 -d sbpupvcwindows.blazewebtech.com
+-d sbriones.lazona.org.mx
 -d sbrt-computing.com
 -d sbrtt.cz
 -d sbs-careers.viewsite.io
@@ -84074,6 +84099,7 @@ msFilterList
 -d sinerginlp.com
 -d sinerjias.com.tr
 -d sinetcol.co
+-d sinewysportsfitness.com
 -d sinext.net
 -d sinfastener.com
 -d singaporedreaming.com
@@ -84156,6 +84182,7 @@ msFilterList
 -d sipdoorphone.com
 -d sipedang.copasset.com
 -d siperb.in
+-d sipersincelejo.com.co
 -d sipesv.org
 -d sipil.fatek.untad.ac.id
 -d siplah.jpmall.intern.mascitra.co.id
@@ -84937,6 +84964,7 @@ msFilterList
 -d smcfurnitures.com
 -d smclarkservices.com
 -d smconstruction.com.bd
+-d smcsme.com
 -d smd.omginteractive.com
 -d smdcomputers.com
 -d smdelectro.com
@@ -85570,6 +85598,7 @@ msFilterList
 -d soleyab.com
 -d solfacts.com
 -d solfitec.com
+-d solicon.us
 -d solicwebaps.azurewebsites.net
 -d solid-unit.com
 -d solidaire.apf.asso.fr
@@ -87126,6 +87155,7 @@ msFilterList
 -d starregistry.srmtechsol.com
 -d starrpromotions.co.uk
 -d stars-castle.ir
+-d starsalesrewards.com
 -d starserver124km.world
 -d starserver1274km.world
 -d starserver45.world
@@ -89643,6 +89673,7 @@ msFilterList
 -d tacticohosting.com
 -d tacticsco.com
 -d tactlessstarbucks.org
+-d tacuanoticias.com
 -d tadafilm.com
 -d tadayoni.ir
 -d tadbirenergy.com
@@ -94244,6 +94275,7 @@ msFilterList
 -d tpagentura.lv
 -d tpbdsrqf.com
 -d tpc.hu
+-d tpcsv.neosj.why3s.tw
 -d tpef.lsoftdemo.com
 -d tpexpress.vn
 -d tpfkipuika.online
@@ -94390,7 +94422,6 @@ msFilterList
 -d traditionsfinegifts.com
 -d tradtron.com
 -d traducerejuridica.ro
--d tradungcazin.com
 -d tradutorgeek.com
 -d traektoria.com
 -d traepillar.alkurnwork.in
@@ -95401,7 +95432,6 @@ msFilterList
 -d turbosonly.com
 -d turbozero.com
 -d turcomdat.com
--d tured.net
 -d turfsiteph.net
 -d turfslayer.com
 -d turgentesdeficcion.org
@@ -98325,6 +98355,7 @@ msFilterList
 -d viettelquangbinh.vn
 -d viettelsolutionhcm.vn
 -d viettinland.com
+-d viettinlaw.com
 -d viettrungkhaison.com
 -d viettrust-vn.net
 -d vietucgroup.org
@@ -99401,6 +99432,7 @@ msFilterList
 -d vulkanvegasonline.katchpurcity.com
 -d vulpineproductions.be
 -d vuminhhuyen.com
+-d vunachiimpex.xyz
 -d vuongauto.vn
 -d vuonnhatrong.com
 -d vuonorganic.com
@@ -102283,6 +102315,7 @@ msFilterList
 -d x717.com
 -d x86tpkujgu1ksoky.com
 -d x8d8r8l8a8b8s.000webhostapp.com
+-d x97vn.mjt.lu
 -d xa.yimg.com
 -d xacrosoft.com
 -d xact.ma
@@ -103620,6 +103653,7 @@ msFilterList
 -d yesemtechnologies.com
 -d yesgt.ir
 -d yesha-art.com
+-d yesilipek.com
 -d yesilmimar.com
 -d yesilyurtgranit.com
 -d yesimsatirli.com
