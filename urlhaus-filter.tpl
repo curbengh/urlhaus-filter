@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 15 May 2021 12:13:35 UTC
+# Updated: Sun, 16 May 2021 00:13:09 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -10882,6 +10882,7 @@ msFilterList
 -d bambabih.com
 -d bambam.me
 -d bambangindarto.com
+-d bambathamobileloans.co.za
 -d bambinoska.ru
 -d bamboog.entrydns.org
 -d bambook-park.com
@@ -13732,6 +13733,7 @@ msFilterList
 -d blizzbauta.com
 -d blizzz.nl
 -d blj.bemediadev.com.au
+-d blkbottom.com
 -d blkgg.org
 -d blledfactory.com
 -d bllphonecases.com
@@ -22387,6 +22389,7 @@ msFilterList
 -d craiglee.biz
 -d craigryan.eu
 -d craigslingsby.com
+-d craku.tech
 -d crampiolo.com
 -d crandellroofinginc.com
 -d crane21.ru
@@ -23064,7 +23067,6 @@ msFilterList
 -d cuahangphongthuy.net
 -d cuahangstore.com
 -d cuahangvattu.com
--d cualtis.com
 -d cuanhomxingfanhapkhau.com
 -d cuasotinhoc.net
 -d cuavietduc.com
@@ -24122,6 +24124,7 @@ msFilterList
 -d dartzeel.com
 -d darul-arqam.org
 -d darularqamtamil.com
+-d darulkautsar.net
 -d darunit.xyz
 -d darupoles.com
 -d darvazehtehran.ir
@@ -27247,6 +27250,7 @@ msFilterList
 -d djsbejaia.com
 -d djshifd.com
 -d djsomali.com
+-d djsrecord.com
 -d djteresa.net
 -d djtosh.co.za
 -d djtubby.com
@@ -28022,6 +28026,7 @@ msFilterList
 -d dormir-pour-agir.com
 -d dornagold.com
 -d dorogobogato.site
+-d dorotheesausset.com
 -d dorothygilstrap.com
 -d dorox.com
 -d dorreensaffron.vn
@@ -36629,6 +36634,7 @@ msFilterList
 -d freshenergy.co.nz
 -d freshers.luminescent.digital
 -d fresherslab.in
+-d freshersnews.co.in
 -d freshersvista.com
 -d freshjobagency.com
 -d freshjobportal.com
@@ -42367,6 +42373,7 @@ msFilterList
 -d helixity-india.com
 -d helixtap.com
 -d helkar.pl
+-d hellas-darmstadt.de
 -d hellbacksoft.online
 -d hellbird12.beget.tech
 -d hellcatshockey.org
@@ -52211,6 +52218,7 @@ msFilterList
 -d kkarakas.com
 -d kkb.com.sg
 -d kkbatteries.com
+-d kkclassvip.com
 -d kkdas.net
 -d kkeely.pw
 -d kkexporthouse.com
@@ -52237,6 +52245,7 @@ msFilterList
 -d kktoade.pw
 -d kl82.belpravo.by
 -d klabava.rokycansko.cz
+-d klaksona2.net
 -d klalong.com
 -d klammer.tirol
 -d klandestinozradio.com
@@ -56443,6 +56452,7 @@ msFilterList
 -d lomaresidencial.com
 -d lomax.com.gt
 -d lombard-kolobrzeg.pl
+-d lombardah.com
 -d lombardz.org
 -d lombardzista.pl
 -d lombokfishandgame.com
@@ -60252,6 +60262,7 @@ msFilterList
 -d me.ft.unri.ac.id
 -d me.kayamalimusavirlik.com
 -d me.mellatholding.com
+-d me.swop.cloud
 -d me48.ru
 -d mea.kaisariani.gr
 -d meaamarelmorshedy.com
@@ -68881,7 +68892,6 @@ msFilterList
 -d onilk.tk
 -d onino.co
 -d onion-mobile.com.tw
--d oniongames.jp
 -d onisadieta.ru
 -d onivallort.com
 -d onivasoft.net
@@ -69022,6 +69032,7 @@ msFilterList
 -d onlyyoursitebest.xyz
 -d onmobile.co.za
 -d onmobileone.co.za
+-d onmovie.pl
 -d onmus.com.tr
 -d onnaz.tv
 -d onnomakor.com
@@ -73832,6 +73843,7 @@ msFilterList
 -d presse.schmutzki.de
 -d pressionism.xyz
 -d pressplay.com.br
+-d presstorms.com
 -d pressuredspeech.com
 -d pressworthy.com
 -d prestaciones-servicios.com
@@ -74163,6 +74175,7 @@ msFilterList
 -d procareinsurance.gr
 -d procasa.imb.br
 -d procast.nl
+-d procboost.com
 -d procedimientos.capressocafe.com
 -d procej-mali.org
 -d procert.gr
@@ -76379,6 +76392,7 @@ msFilterList
 -d radiofmlive.com
 -d radiogospelemcristo.com.br
 -d radioguadalupanalavozcatolica.com
+-d radioiluminacion.djsrecord.com
 -d radioinspiraciontv.com
 -d radiokameleon.ba
 -d radiolajee.com
@@ -77119,6 +77133,7 @@ msFilterList
 -d realestatecurve.com
 -d realestatederivatives.com.ng
 -d realestatehosting.online
+-d realestatelp.it
 -d realestatemarketingseo.com
 -d realestatemediationcenter.org
 -d realestatesalesdirectory.com
@@ -87266,6 +87281,7 @@ msFilterList
 -d starline.com.co
 -d starlineyapi.xyz
 -d starlingroad.com
+-d starlingtechs.com
 -d starlinkz.org.ng
 -d starlite-sporthorses.com
 -d starlitebaby.com
@@ -89414,6 +89430,7 @@ msFilterList
 -d swoboda-engineering.com
 -d swonger.com
 -d swoodg.ru
+-d swop.cloud
 -d sword.cf
 -d swordandstone.cba.pl
 -d sworden.org
@@ -92439,6 +92456,7 @@ msFilterList
 -d thekanecompany.net
 -d thekarisimbiinstitute.rw
 -d thekassia.co.uk
+-d thekays.ca
 -d thekennysmith.co
 -d thekenyaelections2017.com
 -d thekeyfurniture.com
@@ -99986,6 +100004,7 @@ msFilterList
 -d watchlivehdtv24.xyz
 -d watchmoviesfilm.com
 -d watchmoviesonlinehub.com
+-d watchnshirt.com
 -d watchshare.net
 -d watchswissmade.com
 -d watduoliprudential.com.watchdogdns.duckdns.org
@@ -100165,6 +100184,7 @@ msFilterList
 -d web-analysis.live
 -d web-assets.download
 -d web-cude.com
+-d web-de-login.de
 -d web-extend.nl
 -d web-feel.fr
 -d web-host.net
@@ -101762,6 +101782,7 @@ msFilterList
 -d work4sales.com
 -d work707.work
 -d workabilityasia.com
+-d workatone.com
 -d workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com
 -d workbus.online
 -d workbus.ru
@@ -104505,6 +104526,7 @@ msFilterList
 -d zacpiqzslt.duckdns.org
 -d zadania.abel.bielsko.pl
 -d zadecu.com
+-d zadelm.com
 -d zadentechnologies.com
 -d zadkay.com
 -d zadvexmail19mn.world
