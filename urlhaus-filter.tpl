@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 16 May 2021 12:13:04 UTC
+# Updated: Mon, 17 May 2021 00:13:05 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -23655,7 +23655,6 @@ msFilterList
 -d dafnefahur.com
 -d dafogideas.ga
 -d dafranco.fr
--d daftarjudionline.co
 -d daftarmahasantri.uin-antasari.ac.id
 -d daftarmainjudi.com
 -d daftarpokerkita.com
@@ -36629,7 +36628,6 @@ msFilterList
 -d freshenergy.co.nz
 -d freshers.luminescent.digital
 -d fresherslab.in
--d freshersnews.co.in
 -d freshersvista.com
 -d freshjobagency.com
 -d freshjobportal.com
@@ -36904,6 +36902,7 @@ msFilterList
 -d fuehrung-kommunikation.de
 -d fuel.co.il
 -d fuel24.pruebaslifeware.mx
+-d fueledutv.com
 -d fuelgraphics.com
 -d fuelsolutions.co.zw
 -d fuenca.es
@@ -37161,6 +37160,7 @@ msFilterList
 -d futurepath.fi
 -d futureproofsolutions.nl
 -d futurer.co.nz
+-d futurereturn.in
 -d futureskool.com
 -d futureteam.ch
 -d futurodelasciudades.org
@@ -53144,6 +53144,7 @@ msFilterList
 -d kstore.globalhotelsmotels.com
 -d ksuelibary.com
 -d ksuengineering.com
+-d ksulo.com
 -d ksumnole.org
 -d ksun.ca
 -d ksviet.com
@@ -70920,6 +70921,7 @@ msFilterList
 -d pattayastore.com
 -d pattyprado.com.br
 -d patuaquadros.com.br
+-d patvbangla.tv
 -d pau2.trivial.mx
 -d pauamaengineering.com
 -d paufderhar07ol.ru.com
@@ -77060,6 +77062,7 @@ msFilterList
 -d readnow.ml
 -d readtraining.co.uk
 -d readwrite26.nl
+-d readwritecomprehend.com
 -d ready4success.de
 -d readyloans.net
 -d readymmade.com
@@ -83633,6 +83636,7 @@ msFilterList
 -d shourayinfotech.xyz
 -d shout4music.com
 -d shoutdel.com
+-d shoutingimages.com
 -d shoutsonline.com
 -d shoutusreview.com
 -d shovot27-m.uz
