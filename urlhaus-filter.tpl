@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Tue, 18 May 2021 12:13:01 UTC
+# Updated: Wed, 19 May 2021 00:12:59 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -498,6 +498,7 @@ msFilterList
 -d 1w91.com
 -d 1webdesign.com.au
 -d 1win-pro.com
+-d 1win365.com
 -d 1winbig.com
 -d 1world.wang
 -d 1x2taruhan.com
@@ -1253,6 +1254,7 @@ msFilterList
 -d 4kwoz.pl
 -d 4kyoutubedonwload.club
 -d 4life.com.vn
+-d 4lifedashka.com
 -d 4lifeimunologia.com
 -d 4lu.ir
 -d 4maat.com
@@ -1876,7 +1878,6 @@ msFilterList
 -d 9rayaa.com
 -d 9ryhmsk.com
 -d 9s2s.com
--d 9scroob.com
 -d 9smap.hfdev.uk
 -d 9tindia.com
 -d 9u7a1o.regardisperfectshild.ru
@@ -8088,6 +8089,7 @@ msFilterList
 -d arkgaterp.com
 -d arkgroup.org
 -d arkiconstrucciones.com.co
+-d arkidcservices.com
 -d arkifield.com
 -d arkist.ist
 -d arkiv.lillehammerartmuseum.com
@@ -9819,7 +9821,6 @@ msFilterList
 -d av-groupe.by
 -d av-metallbau.de
 -d av-tehno.ru
--d av-voyeur.org
 -d av.zone
 -d av2m.com
 -d ava-group.us
@@ -22983,6 +22984,7 @@ msFilterList
 -d cs.nxacg.xyz
 -d cs.vitalero.com
 -d cs01974.tmweb.ru
+-d cs60komazawa.com
 -d csa.com.uy
 -d csa.cries.ro
 -d csakenya.org
@@ -28556,6 +28558,7 @@ msFilterList
 -d dralpaslan.com
 -d dramabeans.me
 -d dramabus.info
+-d dramacool9.live
 -d dramaupdates.com
 -d dramawuxia.xyz
 -d draminamali.com
@@ -34449,7 +34452,6 @@ msFilterList
 -d fcf.net
 -d fcfribourg.ch
 -d fcg.gxepb.gov.cn
--d fclskincare.com
 -d fcmcambiosautomaticos.com
 -d fcmelli.ir
 -d fcncorp.com
@@ -54256,6 +54258,7 @@ msFilterList
 -d lapartenza-khl.com
 -d lapascala.com
 -d lapc.com.pk
+-d lapcare.com
 -d lapcentervn.xyz
 -d lapchallenge.co.uk
 -d lapelimmortelle.com.au
@@ -54382,6 +54385,7 @@ msFilterList
 -d lasso.vn
 -d last.linkitnet.com
 -d lastfish.co.uk
+-d lastfrontierstrekking.com
 -d lastfuse.com
 -d lastikpark.us
 -d lastikus.com
@@ -68122,6 +68126,7 @@ msFilterList
 -d oasisproject.us
 -d oatendimento.com
 -d oatodecomer.com
+-d oauth-gateway.com
 -d oaxaliscofoods.com
 -d obacold.com
 -d obadescontos.com.br
@@ -69325,6 +69330,7 @@ msFilterList
 -d oooiawneqweasd.com
 -d oooka.biz
 -d oookami.com
+-d oooprog.ru
 -d ooosmart-ekb.ru
 -d oopasdnqwe.com
 -d oopecusior.com
@@ -83826,6 +83832,7 @@ msFilterList
 -d shophousekhaisontowncity.com
 -d shophousephuquoc.top
 -d shophouseprosperplaza.vn
+-d shophousesunshine.com
 -d shopiamproject.com
 -d shopierr.com
 -d shopifir.com
@@ -86363,6 +86370,7 @@ msFilterList
 -d sotaynhadat.com.vn
 -d sotaysongkhoe.site
 -d sotayvang.com
+-d sotcarga.com
 -d sotelo.cl
 -d sotestes.tk
 -d sotinmobiliario.com
@@ -95185,6 +95193,7 @@ msFilterList
 -d traxvisionindia.com
 -d trayc.online
 -d trayeantir.com
+-d trayonlinegh.com
 -d trazo24.com
 -d trb-project.xyz
 -d trb4ui1o7qm4t7mh.com
@@ -100441,6 +100450,7 @@ msFilterList
 -d wcha.in
 -d wciagniki.eu
 -d wcn2020.org
+-d wcpaherrin.net
 -d wcrgrele.com
 -d wcs-group.kz
 -d wcspl.org
