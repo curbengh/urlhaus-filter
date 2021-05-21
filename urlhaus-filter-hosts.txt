@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Fri, 21 May 2021 00:13:00 UTC
+# Updated: Fri, 21 May 2021 12:13:07 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -512,8 +512,6 @@
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
 0.0.0.0 2.toemobra.com.br
-0.0.0.0 2.top4top.io
-0.0.0.0 2.top4top.net
 0.0.0.0 2.u0135364.z8.ru
 0.0.0.0 20.c8xtt.com
 0.0.0.0 20.dbstrony.pl
@@ -1726,6 +1724,7 @@
 0.0.0.0 8daufikrn5860429.davidguetta03.space
 0.0.0.0 8daufikrn7577595.davidguetta03.space
 0.0.0.0 8dsuspect8.com
+0.0.0.0 8dx.pc6.com
 0.0.0.0 8e3raq.bl.files.1drv.com
 0.0.0.0 8edylw.ch.files.1drv.com
 0.0.0.0 8ez.com
@@ -1831,6 +1830,7 @@
 0.0.0.0 999.buzz
 0.0.0.0 999.co.id
 0.0.0.0 999.rajaojek.com
+0.0.0.0 999080321newfolder1002002131-service1002.space
 0.0.0.0 999102com.cn
 0.0.0.0 99bkx.com
 0.0.0.0 99centsdigitals.com
@@ -1924,7 +1924,6 @@
 0.0.0.0 a.doko.moe
 0.0.0.0 a.gg.fm
 0.0.0.0 a.heritageandterre.com
-0.0.0.0 a.pomf.cat
 0.0.0.0 a.pomf.se
 0.0.0.0 a.pomf.space
 0.0.0.0 a.pomf.su
@@ -1935,7 +1934,6 @@
 0.0.0.0 a.seeanu.ru
 0.0.0.0 a.teamworx.ph
 0.0.0.0 a.tolganfor.ru
-0.0.0.0 a.top4top.io
 0.0.0.0 a.turnuvam.org
 0.0.0.0 a.uchi.moe
 0.0.0.0 a.xiazai163.com
@@ -2656,6 +2654,7 @@
 0.0.0.0 accounts.kylespence.com
 0.0.0.0 accounts.mytaphouse.com
 0.0.0.0 accounts.orientbutton.com
+0.0.0.0 accounts.platinumcapitals.ltd
 0.0.0.0 accounts.royalsoft.com.pk
 0.0.0.0 accounts.sorelwriters.com
 0.0.0.0 accounts.thesmarttechhub.com
@@ -3249,6 +3248,7 @@
 0.0.0.0 admiralkirk.de
 0.0.0.0 admiralparkway.com
 0.0.0.0 admiris.net
+0.0.0.0 admisi.undhirabali.ac.id
 0.0.0.0 admission.gvvaghelacollege.org
 0.0.0.0 admission.kmctartskuttippuram.org
 0.0.0.0 admission.sishyaartscollege.com
@@ -3331,7 +3331,6 @@
 0.0.0.0 adrolling.co.uk
 0.0.0.0 ads.actmol.by
 0.0.0.0 ads.adwords-com.promotion.adwords-fr-en.eu.home.login.peggycross.com
-0.0.0.0 ads.hanggiadinh.com
 0.0.0.0 ads.kalabisim.com
 0.0.0.0 ads.live
 0.0.0.0 adsapomg.space
@@ -12760,7 +12759,6 @@
 0.0.0.0 bevoc.nl
 0.0.0.0 bewbvw.dm.files.1drv.com
 0.0.0.0 bewebpreneur.com
-0.0.0.0 bewellstyle.com
 0.0.0.0 bewerbungsfotos.hamburg
 0.0.0.0 bewitchedcracks.com
 0.0.0.0 bext.com
@@ -13059,6 +13057,7 @@
 0.0.0.0 bigfishchain.com
 0.0.0.0 bigfoothospitality.com
 0.0.0.0 bigg-live.com
+0.0.0.0 biggames.club
 0.0.0.0 biggames.online
 0.0.0.0 biggaybrunch.org
 0.0.0.0 biggboss14show.net
@@ -16583,6 +16582,7 @@
 0.0.0.0 bxysteel.com
 0.0.0.0 by-cosmetics.dent-spa.ru
 0.0.0.0 by-referenc.gq
+0.0.0.0 by.bi-force.com
 0.0.0.0 byacademy.fr
 0.0.0.0 byaka.su
 0.0.0.0 byasawritten.com
@@ -24681,6 +24681,7 @@
 0.0.0.0 dbinario.com
 0.0.0.0 dbjane.cz
 0.0.0.0 dbmissions.tfnemag.com
+0.0.0.0 dbo.ca.gov
 0.0.0.0 dboyusa.online
 0.0.0.0 dbravo.pro
 0.0.0.0 dbs-ebank.com
@@ -27531,6 +27532,7 @@
 0.0.0.0 dl-675423.store-downloads.com
 0.0.0.0 dl-80076342.md-downloads.com
 0.0.0.0 dl-97674424.md-downloads.com
+0.0.0.0 dl-gameplayer.dmm.com
 0.0.0.0 dl-link.link
 0.0.0.0 dl-link.live
 0.0.0.0 dl-link.network
@@ -28344,6 +28346,7 @@
 0.0.0.0 dourvanidouchrysa.gr
 0.0.0.0 doustourna.tn
 0.0.0.0 douti.com.br
+0.0.0.0 douwkw02.top
 0.0.0.0 dov-verkauf.de
 0.0.0.0 dovberger.com
 0.0.0.0 dove777.com
@@ -30994,6 +30997,7 @@
 0.0.0.0 elearn.empoweredmw.com
 0.0.0.0 elearn.scholarsmind.in
 0.0.0.0 elearning-avenue.com
+0.0.0.0 elearning.stiatabalong.ac.id
 0.0.0.0 elearning.stkippersada.ac.id
 0.0.0.0 elearningtutor.org
 0.0.0.0 elec-tb.com
@@ -32954,6 +32958,7 @@
 0.0.0.0 etwqsx23.duckdns.org
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
+0.0.0.0 eu-central-1.protection.sophos.com
 0.0.0.0 eu-easy.com
 0.0.0.0 eu1.salesforce.com
 0.0.0.0 eu14.tmd.cloud
@@ -33598,6 +33603,7 @@
 0.0.0.0 expovitrinadelvalle.com
 0.0.0.0 expoze360.com
 0.0.0.0 expresi.club
+0.0.0.0 expresionesguerrero.com.mx
 0.0.0.0 expresodeportivo.com
 0.0.0.0 express-kleidi.gr
 0.0.0.0 expressarsetelagoas.com.br
@@ -35183,6 +35189,7 @@
 0.0.0.0 filemanager2017.000webhostapp.com
 0.0.0.0 filenew.com
 0.0.0.0 files-1.coka.la
+0.0.0.0 files.anjian.com
 0.0.0.0 files.belfort.pw
 0.0.0.0 files.cloud.orange.fr
 0.0.0.0 files.danwin1210.me
@@ -37487,6 +37494,7 @@
 0.0.0.0 fuzzyconcepts.com
 0.0.0.0 fuzzylogic.in
 0.0.0.0 fuzzymiles.com
+0.0.0.0 fv1-2.failiem.lv
 0.0.0.0 fv13.failiem.lv
 0.0.0.0 fv15.failiem.lv
 0.0.0.0 fv2-1.failiem.lv
@@ -43775,6 +43783,7 @@
 0.0.0.0 home.99eurowebsite.ie
 0.0.0.0 home.barley-plus.com
 0.0.0.0 home.dawang.ink
+0.0.0.0 home.earthlink.net
 0.0.0.0 home.evrstudio.com
 0.0.0.0 home.healthiestu.com
 0.0.0.0 home.isdes.com
@@ -45373,7 +45382,6 @@
 0.0.0.0 ictsmkn2cibar.org
 0.0.0.0 ictsphere.tv
 0.0.0.0 ictvacaturesachterhoek.nl
-0.0.0.0 ictzj.com
 0.0.0.0 icurse.nl
 0.0.0.0 icv.edu.au
 0.0.0.0 icveritas.pe
@@ -46928,6 +46936,7 @@
 0.0.0.0 innava.com.mx
 0.0.0.0 inncredel.com
 0.0.0.0 innenmoebel.de
+0.0.0.0 innercalljk.org
 0.0.0.0 innercitysolutions.net
 0.0.0.0 innerlinkdesign.com
 0.0.0.0 innermetransformation.com
@@ -49712,6 +49721,7 @@
 0.0.0.0 jma-go.jp
 0.0.0.0 jma.edu.pe
 0.0.0.0 jma.mcu.ac.th
+0.0.0.0 jmaccountingfirm.com
 0.0.0.0 jmacsmedia.com
 0.0.0.0 jmade.ru
 0.0.0.0 jmahoney.net
@@ -50038,6 +50048,7 @@
 0.0.0.0 jonpetesharefile.com
 0.0.0.0 jonsonen.com
 0.0.0.0 jontuecooperministries.com
+0.0.0.0 joomla-home.com
 0.0.0.0 joomla3.fauser.edu
 0.0.0.0 joomlaweb.cz
 0.0.0.0 joomliads.in
@@ -51781,7 +51792,6 @@
 0.0.0.0 kelvinnikkel.com
 0.0.0.0 kelwinsales.com
 0.0.0.0 kelzonestopclothing.website
-0.0.0.0 kemahasiswaan.um.ac.id
 0.0.0.0 kemahasiswaan.umsida.ac.id
 0.0.0.0 kemahasiswaan.unair.ac.id
 0.0.0.0 kemalerkol.net
@@ -60635,6 +60645,7 @@
 0.0.0.0 mcdevitths.org
 0.0.0.0 mcdgtunis.cf
 0.0.0.0 mcdogsmedia.co.uk
+0.0.0.0 mcdonalds.s3.us-west-000.backblazeb2.com
 0.0.0.0 mcdonaldsgift1000.com
 0.0.0.0 mcdonoughpodiatry.com
 0.0.0.0 mcduck.site
@@ -61969,6 +61980,7 @@
 0.0.0.0 microinvest.md
 0.0.0.0 microjobengine.info
 0.0.0.0 microjobsnepal.com
+0.0.0.0 microlinsmmn.carajasnutricaoanimal.com.br
 0.0.0.0 micromacllc.com
 0.0.0.0 micromaxinformatica.com.br
 0.0.0.0 micromex.com
@@ -62671,7 +62683,6 @@
 0.0.0.0 misterpearl.com
 0.0.0.0 mistersanji.com
 0.0.0.0 misterson.com
-0.0.0.0 misterysnith.com
 0.0.0.0 mistikmarket.com
 0.0.0.0 mistore.com.au
 0.0.0.0 mistransport.pl
@@ -65471,6 +65482,7 @@
 0.0.0.0 najautobaterie.sk
 0.0.0.0 najcosmetics.com
 0.0.0.0 najeeclassroom.com
+0.0.0.0 najihojeily.com
 0.0.0.0 najlepsiebyvanie.webmerc.eu
 0.0.0.0 najmapsico.com.br
 0.0.0.0 najmuddin.com
@@ -70137,6 +70149,7 @@
 0.0.0.0 osezrayonner.ma
 0.0.0.0 osgbforum.com
 0.0.0.0 oshattorney.com
+0.0.0.0 osheoufhusheoghuesd.ru
 0.0.0.0 oshi.at
 0.0.0.0 oshodrycleaning.com
 0.0.0.0 oshonafitness.com
@@ -75290,7 +75303,6 @@
 0.0.0.0 protechgroup1.com
 0.0.0.0 protechmedia.net
 0.0.0.0 protechno.com
-0.0.0.0 protect.mimecast-offshore.com
 0.0.0.0 protectiadatelor.biz
 0.0.0.0 protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 0.0.0.0 protection.pecol.eu
@@ -80427,7 +80439,6 @@
 0.0.0.0 s-gl-048565467.data-downloads.com
 0.0.0.0 s-kart.su
 0.0.0.0 s-kotobuki.co.jp
-0.0.0.0 s-maruay.com
 0.0.0.0 s-menvacation.com
 0.0.0.0 s-my-room.com
 0.0.0.0 s-pl.ru
@@ -80552,6 +80563,7 @@
 0.0.0.0 saastec-servicos.com.br
 0.0.0.0 saazz.xyz
 0.0.0.0 saba.tokyo
+0.0.0.0 sabaadvertising.com
 0.0.0.0 sabada.ir
 0.0.0.0 sabadabe.xyz
 0.0.0.0 sabaeyeg.jp
@@ -83168,7 +83180,6 @@
 0.0.0.0 server3.reversedsec.com
 0.0.0.0 server33.onlineappupdater.com
 0.0.0.0 server540.seedhost.eu
-0.0.0.0 server89.com
 0.0.0.0 serverbot.ru
 0.0.0.0 serverdeals.in
 0.0.0.0 serverever.com
@@ -87191,7 +87202,6 @@
 0.0.0.0 speedtechms.com
 0.0.0.0 speedtransfer.com.br
 0.0.0.0 speedupmanifestation.com
-0.0.0.0 speedvid.net
 0.0.0.0 speedway.pp.ua
 0.0.0.0 speedy-kids.com
 0.0.0.0 speedycompare.site
@@ -89651,6 +89661,7 @@
 0.0.0.0 supercutscissors.com
 0.0.0.0 superdad.id
 0.0.0.0 superdigitalguy.xyz
+0.0.0.0 superdomain1709.info
 0.0.0.0 superdot.rs
 0.0.0.0 supereclinica.com.br
 0.0.0.0 superecruiters.com
@@ -90447,6 +90458,7 @@
 0.0.0.0 szmh-group.cf
 0.0.0.0 szmoldparts.com
 0.0.0.0 szmren.com
+0.0.0.0 szn.services
 0.0.0.0 sznamuip.com
 0.0.0.0 szoboszlorhinos.hu
 0.0.0.0 szptt.co.nz
@@ -96204,7 +96216,6 @@
 0.0.0.0 tsr-mark.xyz
 0.0.0.0 tsredco.telangana.gov.in
 0.0.0.0 tsrj.monster
-0.0.0.0 tsrv2.top
 0.0.0.0 tssolutionsgroup.com
 0.0.0.0 tst.marineindust.com
 0.0.0.0 tstfrigo.com
@@ -96736,6 +96747,7 @@
 0.0.0.0 u0707115.cp.regruhosting.ru
 0.0.0.0 u0746219.cp.regruhosting.ru
 0.0.0.0 u0774849.cp.regruhosting.ru
+0.0.0.0 u1.huatu.com
 0.0.0.0 u1.innerpeer.com
 0.0.0.0 u10814761ft.ha004.t.justns.ru
 0.0.0.0 u11123p7833.web0104.zxcs.nl
@@ -98005,7 +98017,6 @@
 0.0.0.0 useraccount.co
 0.0.0.0 useradmincloud.gq
 0.0.0.0 useragent20.barloggio.net
-0.0.0.0 users.atw.hu
 0.0.0.0 users.tpg.com.au
 0.0.0.0 userslinks.xyz
 0.0.0.0 useurogren.com
@@ -98046,7 +98057,6 @@
 0.0.0.0 usrubber.com
 0.0.0.0 uss.ac.th
 0.0.0.0 uss21.com
-0.0.0.0 ussbd.net
 0.0.0.0 usselfstoragenetwork.com
 0.0.0.0 ussrback.com
 0.0.0.0 ussrgun.000webhostapp.com
@@ -98087,6 +98097,7 @@
 0.0.0.0 utellshop.tech
 0.0.0.0 utemoblersotenas.se
 0.0.0.0 utemoblerstromstad.se
+0.0.0.0 utenti.info
 0.0.0.0 utenti.live
 0.0.0.0 utenti.online
 0.0.0.0 utf-16.ovh
@@ -102952,6 +102963,7 @@
 0.0.0.0 wpdev.strativ-support.se
 0.0.0.0 wpdev.ted.solutions
 0.0.0.0 wpdev.ztickerz.io
+0.0.0.0 wpengine.zendesk.com
 0.0.0.0 wpgtxdtgifr.ga
 0.0.0.0 wphelper.mwpteam.com
 0.0.0.0 wpldjxxxua.ga
@@ -106244,6 +106256,7 @@
 0.0.0.0 zxc123.cc
 0.0.0.0 zxcet.xyz
 0.0.0.0 zxcvb12345.cf
+0.0.0.0 zxcvbnmlkjhgfdsaqwertyuioppoiuytrewqasdg.ydns.eu
 0.0.0.0 zxcvxcfs.ru
 0.0.0.0 zxcxffyttygbbgfgf12121bot.duckdns.org
 0.0.0.0 zxczxf.ru
