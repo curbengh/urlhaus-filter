@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 22 May 2021 00:13:09 UTC
+# Updated: Sat, 22 May 2021 12:14:24 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -512,6 +512,8 @@
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
 0.0.0.0 2.toemobra.com.br
+0.0.0.0 2.top4top.io
+0.0.0.0 2.top4top.net
 0.0.0.0 2.u0135364.z8.ru
 0.0.0.0 20.c8xtt.com
 0.0.0.0 20.dbstrony.pl
@@ -1241,7 +1243,6 @@
 0.0.0.0 4hourbook.com
 0.0.0.0 4house.co
 0.0.0.0 4hsafetyksa.com
-0.0.0.0 4i7i.com
 0.0.0.0 4im.us
 0.0.0.0 4ingroup.com
 0.0.0.0 4jt4l032ayqiw.com
@@ -1926,6 +1927,7 @@
 0.0.0.0 a.doko.moe
 0.0.0.0 a.gg.fm
 0.0.0.0 a.heritageandterre.com
+0.0.0.0 a.pomf.cat
 0.0.0.0 a.pomf.se
 0.0.0.0 a.pomf.space
 0.0.0.0 a.pomf.su
@@ -3338,6 +3340,7 @@
 0.0.0.0 adrolling.co.uk
 0.0.0.0 ads.actmol.by
 0.0.0.0 ads.adwords-com.promotion.adwords-fr-en.eu.home.login.peggycross.com
+0.0.0.0 ads.hanggiadinh.com
 0.0.0.0 ads.kalabisim.com
 0.0.0.0 ads.live
 0.0.0.0 adsapomg.space
@@ -11642,7 +11645,6 @@
 0.0.0.0 bbfr.cba.pl
 0.0.0.0 bbgiardinodoriente.it
 0.0.0.0 bbgk.de
-0.0.0.0 bbgroup.com.vn
 0.0.0.0 bbh-design.de
 0.0.0.0 bbhdata.com
 0.0.0.0 bbhostings.ca
@@ -13078,7 +13080,6 @@
 0.0.0.0 bigfishchain.com
 0.0.0.0 bigfoothospitality.com
 0.0.0.0 bigg-live.com
-0.0.0.0 biggames.club
 0.0.0.0 biggames.online
 0.0.0.0 biggaybrunch.org
 0.0.0.0 biggboss14show.net
@@ -14316,7 +14317,6 @@
 0.0.0.0 blog.thefurnituremarket.co.uk
 0.0.0.0 blog.thejobstack.com
 0.0.0.0 blog.thelmh.top
-0.0.0.0 blog.theodo.com
 0.0.0.0 blog.thewebcake.com
 0.0.0.0 blog.thoai.vn
 0.0.0.0 blog.threadless.com
@@ -18224,7 +18224,6 @@
 0.0.0.0 cc14927-wordpress.tw1.ru
 0.0.0.0 cc78.bg
 0.0.0.0 cc8848.xyz
-0.0.0.0 ccamatil1-my.sharepoint.com
 0.0.0.0 ccandcautos.com.ng
 0.0.0.0 ccandcbrand.com
 0.0.0.0 ccash.xyz
@@ -21409,6 +21408,7 @@
 0.0.0.0 complience.com
 0.0.0.0 compln.net
 0.0.0.0 component.pw
+0.0.0.0 components.technologymindz.com
 0.0.0.0 composecv.com
 0.0.0.0 composite.be
 0.0.0.0 compoundy.com
@@ -27570,7 +27570,6 @@
 0.0.0.0 dl-675423.store-downloads.com
 0.0.0.0 dl-80076342.md-downloads.com
 0.0.0.0 dl-97674424.md-downloads.com
-0.0.0.0 dl-gameplayer.dmm.com
 0.0.0.0 dl-link.link
 0.0.0.0 dl-link.live
 0.0.0.0 dl-link.network
@@ -28153,7 +28152,6 @@
 0.0.0.0 don-xalat.ru
 0.0.0.0 don.viameventos.com.br
 0.0.0.0 donagracia.com
-0.0.0.0 donaldcity.club
 0.0.0.0 donaldsmithforsheriff.com
 0.0.0.0 donaldtaylor.ca
 0.0.0.0 donamaria-lb.com
@@ -28500,6 +28498,7 @@
 0.0.0.0 down1.softups.info
 0.0.0.0 down1.topsadon1.com
 0.0.0.0 down1.xt70.com
+0.0.0.0 down10.zol.com.cn
 0.0.0.0 down10b.zol.com.cn
 0.0.0.0 down192.wuyunjk.com
 0.0.0.0 down1loads.site
@@ -28567,6 +28566,7 @@
 0.0.0.0 download.ware.ru
 0.0.0.0 download.weihuyun.cn
 0.0.0.0 download.win-test.com
+0.0.0.0 download.xp666.com
 0.0.0.0 download.zjsyawqj.cn
 0.0.0.0 download5.77169.com
 0.0.0.0 download5.bossran2018.com
@@ -31374,6 +31374,7 @@
 0.0.0.0 elmatbakh.info
 0.0.0.0 elmatemati.co
 0.0.0.0 elmayoreoenamecameca.com
+0.0.0.0 elmcitymarket.com
 0.0.0.0 elmecontrols.com
 0.0.0.0 elmedicodeldeportista.com
 0.0.0.0 elmedpub.com
@@ -33011,7 +33012,6 @@
 0.0.0.0 etwqsx23.duckdns.org
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
-0.0.0.0 eu-central-1.protection.sophos.com
 0.0.0.0 eu-easy.com
 0.0.0.0 eu1.salesforce.com
 0.0.0.0 eu14.tmd.cloud
@@ -35222,7 +35222,6 @@
 0.0.0.0 filebase.mogelgott.de
 0.0.0.0 filebox.hiworks.com
 0.0.0.0 filebr.com
-0.0.0.0 fileco.jobkorea.co.kr
 0.0.0.0 filedigital.ir
 0.0.0.0 filedistrserver.pw
 0.0.0.0 filedownload.gb.net
@@ -37556,6 +37555,7 @@
 0.0.0.0 fv13.failiem.lv
 0.0.0.0 fv15.failiem.lv
 0.0.0.0 fv2-1.failiem.lv
+0.0.0.0 fv2-2.failiem.lv
 0.0.0.0 fv2-7.failiem.lv
 0.0.0.0 fv3.failiem.lv
 0.0.0.0 fv6.failiem.lv
@@ -45091,6 +45091,7 @@
 0.0.0.0 i-supportcharity.com
 0.0.0.0 i-vnsweyu.pl
 0.0.0.0 i-voda.com
+0.0.0.0 i.fiery.me
 0.0.0.0 i.fluffy.cc
 0.0.0.0 i.funtourspt.eu
 0.0.0.0 i.ooxx.ooo
@@ -46747,7 +46748,6 @@
 0.0.0.0 info-checkus.000webhostapp.com
 0.0.0.0 info-daily.boilerhouse.digital
 0.0.0.0 info-prosol.ch
-0.0.0.0 info-protech.be
 0.0.0.0 info.cgetc.com
 0.0.0.0 info.cisbd.org
 0.0.0.0 info.corp.zergaphonetronic.org
@@ -48909,6 +48909,7 @@
 0.0.0.0 jamesapeh.com.ng
 0.0.0.0 jamesbillingsley.com
 0.0.0.0 jamesbond.camdvr.org
+0.0.0.0 jamesbrownpharma.com
 0.0.0.0 jamescnewton.net
 0.0.0.0 jamesddunn.com
 0.0.0.0 jamesflames.com
@@ -50294,6 +50295,7 @@
 0.0.0.0 jpmm3w.bn.files.1drv.com
 0.0.0.0 jpmorganchasse.com
 0.0.0.0 jpmtech.com
+0.0.0.0 jpnc.co.kr
 0.0.0.0 jpnnybacj.ug
 0.0.0.0 jpol.com
 0.0.0.0 jporder.net
@@ -51869,7 +51871,6 @@
 0.0.0.0 kemalerkol.net
 0.0.0.0 kemard12e.ru.com
 0.0.0.0 kemaster.kz
-0.0.0.0 kemco.or.kr
 0.0.0.0 kemencem.net
 0.0.0.0 kemeri.it
 0.0.0.0 kemilauminang.com
@@ -53037,6 +53038,7 @@
 0.0.0.0 kodim0112sabang.com
 0.0.0.0 kodingeko.com
 0.0.0.0 kodip.nfile.net
+0.0.0.0 kodjdsjsdjf.tk
 0.0.0.0 kodlacan.site
 0.0.0.0 kodmuje.com
 0.0.0.0 kodolios.000webhostapp.com
@@ -53425,7 +53427,6 @@
 0.0.0.0 kqfkqkf7ma.temp.swtest.ru
 0.0.0.0 kqq.kz
 0.0.0.0 kqs.me
-0.0.0.0 kr1s.ru
 0.0.0.0 kr888.top
 0.0.0.0 krabben.no
 0.0.0.0 krabbendamphotography.com
@@ -55784,7 +55785,6 @@
 0.0.0.0 library.cifor.org
 0.0.0.0 library.dhl-xom.com
 0.0.0.0 library.iainbengkulu.ac.id
-0.0.0.0 library.mju.ac.th
 0.0.0.0 library.phibi.my.id
 0.0.0.0 library.piet.co.in
 0.0.0.0 library.ptklschrs.in
@@ -60416,7 +60416,6 @@
 0.0.0.0 mattans.com.sg
 0.0.0.0 mattapanptandhealthcare.com
 0.0.0.0 mattawan.com
-0.0.0.0 mattayom31.go.th
 0.0.0.0 mattbordi.com
 0.0.0.0 mattcas.com.hk
 0.0.0.0 matteogiovanetti.com
@@ -60913,6 +60912,7 @@
 0.0.0.0 mecgwl.ac.in
 0.0.0.0 mechanicaltools.club
 0.0.0.0 mechanicsthatcometoyou.com
+0.0.0.0 mecharnise.ir
 0.0.0.0 mechathrones.com
 0.0.0.0 mechauto.co.za
 0.0.0.0 mechdesign.com
@@ -62774,6 +62774,7 @@
 0.0.0.0 misterpearl.com
 0.0.0.0 mistersanji.com
 0.0.0.0 misterson.com
+0.0.0.0 misterysnith.com
 0.0.0.0 mistikmarket.com
 0.0.0.0 mistore.com.au
 0.0.0.0 mistransport.pl
@@ -64330,7 +64331,6 @@
 0.0.0.0 mssltd.ie
 0.0.0.0 mssolutionspty.com
 0.0.0.0 msspartners.pl
-0.0.0.0 mssql.4i7i.com
 0.0.0.0 mst-net.de
 0.0.0.0 mstation.jp
 0.0.0.0 msteam18.com
@@ -65340,7 +65340,6 @@
 0.0.0.0 mytour.pk
 0.0.0.0 mytradingrobotforex.com
 0.0.0.0 mytrains.net
-0.0.0.0 mytravel-trips.com
 0.0.0.0 mytravesia.com
 0.0.0.0 mytripland.com
 0.0.0.0 mytstrap.com
@@ -68456,6 +68455,7 @@
 0.0.0.0 nxsgroup.co
 0.0.0.0 nxtbase.hashtagvisual.com
 0.0.0.0 nxtcloud.dittmer.at
+0.0.0.0 nxtfdata.xyz
 0.0.0.0 nxtgreen.co.in
 0.0.0.0 nxtnet.ga
 0.0.0.0 nxyykj.com
@@ -69213,6 +69213,7 @@
 0.0.0.0 oldtown.ge
 0.0.0.0 oldtowndelivirginia.com
 0.0.0.0 oldvrv.gdsitetest.com
+0.0.0.0 oldwillysforum.com
 0.0.0.0 oldwizard-hosting.com
 0.0.0.0 ole2.dk
 0.0.0.0 olebaby.in
@@ -70257,7 +70258,6 @@
 0.0.0.0 osgbforum.com
 0.0.0.0 oshattorney.com
 0.0.0.0 osheoufhusheoghuesd.ru
-0.0.0.0 oshi.at
 0.0.0.0 oshodrycleaning.com
 0.0.0.0 oshonafitness.com
 0.0.0.0 oshop.es
@@ -70677,6 +70677,7 @@
 0.0.0.0 ozcanelektronik.com.tr
 0.0.0.0 ozcarremovals.com.au
 0.0.0.0 ozdemirpolisaj.com
+0.0.0.0 ozdevelopment.com
 0.0.0.0 ozdomb.elitemarketing.hu
 0.0.0.0 oze-opole.pl
 0.0.0.0 oze.vn
@@ -83308,6 +83309,7 @@
 0.0.0.0 server3.reversedsec.com
 0.0.0.0 server33.onlineappupdater.com
 0.0.0.0 server540.seedhost.eu
+0.0.0.0 server89.com
 0.0.0.0 serverbot.ru
 0.0.0.0 serverdeals.in
 0.0.0.0 serverever.com
@@ -84247,7 +84249,6 @@
 0.0.0.0 sholite.com
 0.0.0.0 shomalhouse.com
 0.0.0.0 shomronshop.co.il
-0.0.0.0 shondoshoes.com
 0.0.0.0 shoogyboom.com.tr
 0.0.0.0 shooka-co.com
 0.0.0.0 shoopik.pk
@@ -85713,6 +85714,7 @@
 0.0.0.0 slot-tube.cn
 0.0.0.0 slot0.athakics.com
 0.0.0.0 slot0.fastrek-za.com
+0.0.0.0 slot0.gamoruz.com
 0.0.0.0 slot0.manews-relax.com
 0.0.0.0 slot2bet.com
 0.0.0.0 slotenservice-24-7-actief.nl
@@ -87637,7 +87639,6 @@
 0.0.0.0 sqftcompany.com
 0.0.0.0 sqgdzi.com
 0.0.0.0 sqjjdc.com
-0.0.0.0 sql.4i7i.com
 0.0.0.0 sql.bonin.home.pl
 0.0.0.0 sql.merkadetodoa92.com
 0.0.0.0 sql.rahatexltd.com
@@ -96362,6 +96363,7 @@
 0.0.0.0 tsr-mark.xyz
 0.0.0.0 tsredco.telangana.gov.in
 0.0.0.0 tsrj.monster
+0.0.0.0 tsrv4.ws
 0.0.0.0 tssolutionsgroup.com
 0.0.0.0 tst.marineindust.com
 0.0.0.0 tstfrigo.com
@@ -97817,7 +97819,6 @@
 0.0.0.0 update-prog.com
 0.0.0.0 update-res.100public.com
 0.0.0.0 update.5v.pl
-0.0.0.0 update.7h4uk.com
 0.0.0.0 update.att.tools
 0.0.0.0 update.bracncet.net
 0.0.0.0 update.bruss.org.ru
@@ -98204,6 +98205,7 @@
 0.0.0.0 usrubber.com
 0.0.0.0 uss.ac.th
 0.0.0.0 uss21.com
+0.0.0.0 ussbd.net
 0.0.0.0 usselfstoragenetwork.com
 0.0.0.0 ussrback.com
 0.0.0.0 ussrgun.000webhostapp.com
@@ -100606,6 +100608,7 @@
 0.0.0.0 vuminhhuyen.com
 0.0.0.0 vunachiimpex.xyz
 0.0.0.0 vuongauto.vn
+0.0.0.0 vuongcode.com
 0.0.0.0 vuonnhatrong.com
 0.0.0.0 vuonorganic.com
 0.0.0.0 vuonsangtao.vn
@@ -102558,7 +102561,6 @@
 0.0.0.0 wmf.desevens.com.ng
 0.0.0.0 wmg128.com
 0.0.0.0 wmi.1217bye.host
-0.0.0.0 wmi.4i7i.com
 0.0.0.0 wmkatz.com
 0.0.0.0 wmkfdu.com
 0.0.0.0 wmlite.informatic-os.com
