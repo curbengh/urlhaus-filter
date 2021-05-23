@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 22 May 2021 12:14:24 UTC
+# Updated: Sun, 23 May 2021 00:12:39 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3210,6 +3210,7 @@ msFilterList
 -d admaris.ir
 -d admaxindia.com
 -d admedus.stg01.snapagency.net
+-d admegmbh.com
 -d admexcels.farmaclub.com.ec
 -d admiaf.com.br
 -d admimm.cl
@@ -13487,6 +13488,7 @@ msFilterList
 -d bismillahbd.com
 -d bismillahgoc.com
 -d bisnishack.com
+-d bisnislintas.com
 -d bisnismaju.com
 -d bisnisonlineluarbiasa.com
 -d bisolar.ro
@@ -22443,6 +22445,7 @@ msFilterList
 -d covidsonline.com
 -d covidstorecr.com
 -d covidvictims2020.com
+-d covisa.com.br
 -d covisiononeness.org
 -d covitourperu.com
 -d covm.icom.com.br
@@ -24108,6 +24111,7 @@ msFilterList
 -d danchoitv.com
 -d dancod.com
 -d danconia1.com
+-d dandandjecventures.com
 -d dandavner.com
 -d dandbtrucking.com
 -d dandelieco.com
@@ -24386,6 +24390,7 @@ msFilterList
 -d dasheriemagazine.com
 -d dashfiles.tk
 -d dashkevichseo.ru
+-d dashonweb.com
 -d dashudance.com
 -d dashvaanjil.mn
 -d dasin-obchudek.cz
@@ -27664,6 +27669,7 @@ msFilterList
 -d dmachina.cn
 -d dmagicdigital.com
 -d dmailadvert15dx.world
+-d dmalogin.com
 -d dmamit.com
 -d dmanistravel.com
 -d dmarketics.com
@@ -27882,6 +27888,7 @@ msFilterList
 -d doctorsimon.ru
 -d doctortea.org
 -d doctorvet.co.il
+-d doctorww.com
 -d doctoryadak.com
 -d docu-vue.com
 -d docu918.top
@@ -28374,6 +28381,7 @@ msFilterList
 -d doubscoton.fr
 -d doubtandtest.com
 -d doucevale.com
+-d doucsy08.top
 -d doufside.com
 -d doufvh04.top
 -d doughal.tk
@@ -28391,6 +28399,7 @@ msFilterList
 -d doustourna.tn
 -d douti.com.br
 -d douwkw02.top
+-d douwma09.top
 -d douzny06.top
 -d dov-verkauf.de
 -d dovberger.com
@@ -28660,6 +28669,7 @@ msFilterList
 -d dpsbanarpal.in
 -d dpsborhan.com
 -d dpsklimkowka.cba.pl
+-d dpslubliniec.pl
 -d dpsolutions.com.my
 -d dpsoma.com
 -d dptcosmetic.com.vn
@@ -33785,6 +33795,7 @@ msFilterList
 -d ezbk.co.uk
 -d ezcheats.pro
 -d ezcookingtoday.com
+-d ezdesigns.net
 -d ezdig.me
 -d ezdixane.ru
 -d ezeat.online
@@ -60086,6 +60097,7 @@ msFilterList
 -d martinadesign.it
 -d martinamacfarlane.com
 -d martinamasaze.cz
+-d martinas-kunsthandwerk.at
 -d martinbaum.com.br
 -d martinburch.com
 -d martinelacasse.ca
@@ -61254,6 +61266,7 @@ msFilterList
 -d megatasktechnologies.com
 -d megataskweb.com
 -d megatech-trackers.com
+-d megatechcuttingtool.com
 -d megatelelectronica.com.ar
 -d megatramtg.com
 -d megaupload.free.fr
@@ -61479,6 +61492,7 @@ msFilterList
 -d menjelangpagi.com
 -d menjivarconstruction.com
 -d menne.be
+-d menol.eu
 -d menonfleek.com
 -d menricus.eu
 -d menromenglobaltravels.com.ng
@@ -64035,6 +64049,7 @@ msFilterList
 -d movin.cloud
 -d moving-dubai.com
 -d movingimagesmultimedia.com
+-d movingmountainsfoods.com
 -d movingsolutionsus.com
 -d movix.net.br
 -d mowbaza.chat.ru
@@ -67894,6 +67909,7 @@ msFilterList
 -d northernnavajonationfair.org
 -d northernoceanmarine.com
 -d northernpost.in
+-d northernprepsquad.uk
 -d northmaint.se
 -d northmkt.xyz
 -d northnodegroup.com.au
@@ -68654,6 +68670,7 @@ msFilterList
 -d oc.webexpertsonline.org
 -d ocab.simongustafsson.com
 -d ocaf.in
+-d ocblife-group.com
 -d occasionalshop.com
 -d occn-asecna.org
 -d occulu.com
@@ -72811,6 +72828,7 @@ msFilterList
 -d phunu21.com
 -d phunukinhdoanh.net
 -d phunutoiyeu.com
+-d phuongapple.com
 -d phuongart.000webhostapp.com
 -d phuongnamtc.com.vn
 -d phuongnguyencutrinh.gov.vn
@@ -75302,7 +75320,6 @@ msFilterList
 -d pronimo.com
 -d pronnuaire.fr
 -d pronodujour.fr
--d pronomina.store
 -d pronosticosdeportivosla.com
 -d pronutrition.gr
 -d proofartist.info
@@ -77675,6 +77692,7 @@ msFilterList
 -d rayanat.com
 -d rayaniroo.com
 -d rayatech.ir
+-d rayaxiaomi.com
 -d raybadenergy.com
 -d raybals.com
 -d raybansunglasses2018.net
@@ -79419,6 +79437,7 @@ msFilterList
 -d rnbkorae.com
 -d rncmvvrhj3181123.vendasplus.pw
 -d rncnica.net
+-d rnecentre.ru
 -d rnetwork.com.br
 -d rnexpress.ir
 -d rng064.serversur.net
@@ -81676,6 +81695,7 @@ msFilterList
 -d sapelelive.com
 -d saphir-bruxelles.be
 -d saphonzee.com
+-d sapiba.com
 -d sapibook.com
 -d sapidestraining.com
 -d sapin-rema.ch
@@ -82669,6 +82689,7 @@ msFilterList
 -d securecc.ru
 -d securechile.org
 -d securecon.top
+-d secured-overview.serveirc.com
 -d secured-panel-verification.gq
 -d secured.erlivia.ltd
 -d secured.eroea.com
@@ -93555,6 +93576,7 @@ msFilterList
 -d theneews.us
 -d theneonblonde.com
 -d thenesthomestay.com
+-d thenetworker.ca
 -d thenetworkingshow.com
 -d thenewerabeauty.com
 -d thenews4views.com
@@ -97798,6 +97820,7 @@ msFilterList
 -d upaajtak.com
 -d upabovenewyork.com
 -d upademi.com
+-d upafrique.com
 -d upajmeter.com
 -d upandatom.biz
 -d upandloadmanager.com
@@ -99829,6 +99852,7 @@ msFilterList
 -d viraloptions.com
 -d viralstyle.shop
 -d viraltalking.com
+-d viraltoday.eu
 -d viralvideofx.com
 -d viralvidespro.xyz
 -d viralzingz.com
@@ -99875,6 +99899,7 @@ msFilterList
 -d virtualplus.eu
 -d virtualrally.eu
 -d virtualrealesate.com
+-d virtualsalud.com
 -d virtualsdj.com
 -d virtualservicospb.com.br
 -d virtualtoursoftware.info
@@ -105487,6 +105512,7 @@ msFilterList
 -d yvd765.com
 -d yvonnekersten.nl
 -d yvsguchdy.cf
+-d yw.contact
 -d yw11i7292ieuowpeu29.com
 -d ywgiu10zmnwcx03vpnyp.com
 -d ywlsxx.com
