@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 23 May 2021 00:12:39 UTC
+# Updated: Sun, 23 May 2021 12:12:56 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -515,8 +515,6 @@ msFilterList
 -d 2.nvd.by
 -d 2.spacepel.com
 -d 2.toemobra.com.br
--d 2.top4top.io
--d 2.top4top.net
 -d 2.u0135364.z8.ru
 -d 20.c8xtt.com
 -d 20.dbstrony.pl
@@ -6584,7 +6582,6 @@ msFilterList
 -d andreidizain.ru
 -d andreizach.com
 -d andremaraisbeleggings.co.za
--d andremassaro.com.br
 -d andreonemaia.com
 -d andreortega.com
 -d andrepitre.com
@@ -6655,7 +6652,6 @@ msFilterList
 -d anekasolusi.info
 -d anello.it
 -d anemonrezidans.com
--d aneoeauhiazegfiz.ru
 -d anepheron.com
 -d anescu.md.chula.ac.th
 -d anesthesia.hlogbook.ir
@@ -9446,7 +9442,6 @@ msFilterList
 -d atta2tata.monster
 -d attach.66rpg.com
 -d attach2.mail.daumcdnr.com
--d attack.s2lol.com
 -d attack.ucoz.ae
 -d attackplanr.com
 -d attaqwapreneur.com
@@ -12786,6 +12781,7 @@ msFilterList
 -d bevoc.nl
 -d bewbvw.dm.files.1drv.com
 -d bewebpreneur.com
+-d bewellstyle.com
 -d bewerbungsfotos.hamburg
 -d bewitchedcracks.com
 -d bext.com
@@ -13084,6 +13080,7 @@ msFilterList
 -d bigfishchain.com
 -d bigfoothospitality.com
 -d bigg-live.com
+-d biggames.club
 -d biggames.online
 -d biggaybrunch.org
 -d biggboss14show.net
@@ -17059,7 +17056,6 @@ msFilterList
 -d callpetercatering.com
 -d callrealtyaz.com
 -d callshaal.com
--d callsmaster.com
 -d calltoprimus.ru
 -d calltorepair.com
 -d callumstokes.com
@@ -17425,6 +17421,7 @@ msFilterList
 -d caplem.com
 -d capmusic.ru
 -d capnensensejoguina.com
+-d capnhatkienthuc.com
 -d capoeiraventrelivre.com
 -d capolytecch.com
 -d capony.000webhostapp.com
@@ -18362,7 +18359,6 @@ msFilterList
 -d cdn.timebuyer.org
 -d cdn.tmooc.cn
 -d cdn.top4top.net
--d cdn.truelife.vn
 -d cdn.xiaoduoai.com
 -d cdn.zecast.com
 -d cdn3.msetup.download
@@ -20512,7 +20508,6 @@ msFilterList
 -d cloud.kryptonia.fr
 -d cloud.patrika.com
 -d cloud.rawntech.com
--d cloud.s2lol.com
 -d cloud.sofal.com.my
 -d cloud.wmsinfo.com.br
 -d cloud.xenoris.fr
@@ -22241,6 +22236,7 @@ msFilterList
 -d correiosbr.r1-it.storage.cloud.it
 -d correlation.ca
 -d correo.kable.cl
+-d correolimpio.telefonica.es
 -d correspondenterio.com.br
 -d corretordejoanete.site
 -d corrheating.ie
@@ -28510,7 +28506,6 @@ msFilterList
 -d down1.softups.info
 -d down1.topsadon1.com
 -d down1.xt70.com
--d down10.zol.com.cn
 -d down10b.zol.com.cn
 -d down192.wuyunjk.com
 -d down1loads.site
@@ -28567,6 +28562,7 @@ msFilterList
 -d download.publicmutual.net
 -d download.qiangxm.com
 -d download.rising.com.cn
+-d download.security.baidu.co.th
 -d download.skycn.com
 -d download.sosej.cz
 -d download.tikishop.top
@@ -31392,6 +31388,7 @@ msFilterList
 -d elmedicodeldeportista.com
 -d elmedpub.com
 -d elmejor.org
+-d elmerfloyd.com
 -d elmes.de
 -d elmleblanc-prescription.fr
 -d elmodir.ir
@@ -37173,7 +37170,6 @@ msFilterList
 -d frutosdiaz.cl
 -d frutpol.kalisz.pl
 -d fruttikaa.com
--d fruttyfood.by
 -d frydays.narjangurung.com
 -d fryktis.ru
 -d fryzjer.zsp6tom.pl
@@ -37569,7 +37565,6 @@ msFilterList
 -d fv13.failiem.lv
 -d fv15.failiem.lv
 -d fv2-1.failiem.lv
--d fv2-2.failiem.lv
 -d fv2-7.failiem.lv
 -d fv3.failiem.lv
 -d fv6.failiem.lv
@@ -44570,7 +44565,6 @@ msFilterList
 -d hrghpyxiqg.com
 -d hrhorizons.co.uk
 -d hrigeneva.com
--d hrinsightsllc.com
 -d hrinternationalbd.com
 -d hrirsatellite.net
 -d hrklub-nop.hr
@@ -45105,6 +45099,7 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
+-d i.cubeupload.com
 -d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
@@ -55799,6 +55794,7 @@ msFilterList
 -d library.cifor.org
 -d library.dhl-xom.com
 -d library.iainbengkulu.ac.id
+-d library.mju.ac.th
 -d library.phibi.my.id
 -d library.piet.co.in
 -d library.ptklschrs.in
@@ -60049,6 +60045,7 @@ msFilterList
 -d marquedafrique.com
 -d marquemedia.pro
 -d marquesimoveis.imb.br
+-d marquesvogt.com
 -d marquillasmariluz.com
 -d marquisediamondengagementring.com
 -d marquitosgoa.com
@@ -60501,7 +60498,6 @@ msFilterList
 -d mawidaspa.cl
 -d mawpumpcomau-my.sharepoint.com
 -d mawqi3.com
--d mawrid.net
 -d mawrmarketing.co.uk
 -d max-alarm.pl
 -d max-clean.com
@@ -60927,7 +60923,6 @@ msFilterList
 -d mecgwl.ac.in
 -d mechanicaltools.club
 -d mechanicsthatcometoyou.com
--d mecharnise.ir
 -d mechathrones.com
 -d mechauto.co.za
 -d mechdesign.com
@@ -70278,6 +70273,7 @@ msFilterList
 -d osgbforum.com
 -d oshattorney.com
 -d osheoufhusheoghuesd.ru
+-d oshi.at
 -d oshodrycleaning.com
 -d oshonafitness.com
 -d oshop.es
@@ -72737,7 +72733,6 @@ msFilterList
 -d photo-midorikawa.info
 -d photo.6nationstabletenniscup.com
 -d photo.mikerizzello.com
--d photo.sohu.com
 -d photo2.nerdtonik.com
 -d photo360.kubooking.com
 -d photobook-design.de
@@ -74138,7 +74133,6 @@ msFilterList
 -d posmicrosystems.com
 -d posnxqmp.ru
 -d pospeeps.com
--d posqit.net
 -d possessionnow.com
 -d possible.re
 -d possopagar.com.br
@@ -80583,6 +80577,7 @@ msFilterList
 -d s-gl-048565467.data-downloads.com
 -d s-kart.su
 -d s-kotobuki.co.jp
+-d s-maruay.com
 -d s-menvacation.com
 -d s-my-room.com
 -d s-pl.ru
@@ -80644,7 +80639,6 @@ msFilterList
 -d s289428.smrtp.ru
 -d s298myt.storage.yandex.net
 -d s2chinese2profesionalandhealthwsdyanaly.duckdns.org
--d s2lol.com
 -d s2mmarketing.co.uk
 -d s2retail.vn
 -d s2s-architect.com
@@ -87362,6 +87356,7 @@ msFilterList
 -d speedtechms.com
 -d speedtransfer.com.br
 -d speedupmanifestation.com
+-d speedvid.net
 -d speedway.pp.ua
 -d speedy-kids.com
 -d speedycompare.site
@@ -90300,7 +90295,6 @@ msFilterList
 -d swicoservers.co.uk
 -d swieradowbiega.pl
 -d swifck.xmr.ac
--d swift-cloud.com
 -d swiftbusinesspay.com
 -d swiftee.co.uk
 -d swiftender.com
@@ -90435,7 +90429,6 @@ msFilterList
 -d sylheternews24.com
 -d sylhetibeautiespower.com
 -d sylt-wulbrandt.de
--d sylvaclouds.eu
 -d sylvanbrandt.com
 -d sylvester.ca
 -d sylviastratieva.com
@@ -94980,7 +94973,6 @@ msFilterList
 -d tongdaive.net
 -d tongdaotech.com.cn
 -d tongdogiare.com
--d tonghopgia.net
 -d tongkhobep.uwp.me
 -d tongkhophianam.vn
 -d tongkhosoncongnghiep.com
@@ -96388,6 +96380,7 @@ msFilterList
 -d tsr-mark.xyz
 -d tsredco.telangana.gov.in
 -d tsrj.monster
+-d tsrv2.top
 -d tsrv4.ws
 -d tssolutionsgroup.com
 -d tst.marineindust.com
@@ -96715,6 +96708,7 @@ msFilterList
 -d tuvanduhocmap.com
 -d tuvangamenet.com
 -d tuvangioitinh.com
+-d tuvanluat.vn
 -d tuvansinhvien.000webhostapp.com
 -d tuvidaysalud.com
 -d tuwaiq.delimp.world
@@ -100480,6 +100474,7 @@ msFilterList
 -d vpm.com.ar
 -d vpme.vn
 -d vpn-dragon.com
+-d vpn-guiden.com
 -d vpn-nord-free.com
 -d vpn-safe.pw
 -d vpnet2000.com
@@ -101224,7 +101219,6 @@ msFilterList
 -d weatherwindows.pk
 -d weaver.5gbfree.com
 -d weaversbrand.com
--d web-analysis.live
 -d web-assets.download
 -d web-cude.com
 -d web-de-login.de
@@ -105789,7 +105783,6 @@ msFilterList
 -d zcnet.com
 -d zcomsolutions.com
 -d zcomunicacion.com
--d zcop.ru
 -d zcsmba.org
 -d zcxe37adonis.top
 -d zd4b.lonlyfafner.ru
@@ -106315,7 +106308,6 @@ msFilterList
 -d zoox.com.br
 -d zoparo.nl
 -d zopbxtjiuykhyyp.usa.cc
--d zopro.duckdns.org
 -d zoracle.com
 -d zorancreative.com
 -d zoratech.ro
