@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 28 May 2021 12:12:58 UTC
+# Updated: Sat, 29 May 2021 00:13:01 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -168,6 +168,7 @@ msFilterList
 -d 1056.allenbrothersfood.com
 -d 106829979-802763948852434700.preview.editmysite.com
 -d 1069thefan.cachevalleymediagroup.com
+-d 1069thefan.com
 -d 106b.com
 -d 107.as7x.com
 -d 1075terrabella.com
@@ -4488,7 +4489,6 @@ msFilterList
 -d ajuba.com.br
 -d ajudah-lynchcoxlaw.com
 -d ajw-groups.com
--d ajwaalmosafer.com
 -d ajwebsites.com.br
 -d ajx3.com
 -d ak-fotografie.eu
@@ -5767,6 +5767,7 @@ msFilterList
 -d alsyedaudit.com
 -d alsyedmachinery.com
 -d alt-jabel.de
+-d alt-ltd.co.uk
 -d alt-pravo.com
 -d alt-security.ru
 -d alta.al
@@ -8461,7 +8462,6 @@ msFilterList
 -d artedibujoyarquitectura.com
 -d arteelectronics.cl
 -d artelillo.cl
--d artemed.cl
 -d artemidakrsk.ru
 -d artemispk.com
 -d artemisteial.club
@@ -11613,6 +11613,7 @@ msFilterList
 -d bayaneabrishami.ir
 -d bayanejazzab.com
 -d bayanhushuo.com
+-d bayareagrownandsexygetaways.com
 -d baybars.xyz
 -d bayboratek.com
 -d bayborn.com
@@ -13553,6 +13554,7 @@ msFilterList
 -d bismillah-sourcing.com
 -d bismillahbd.com
 -d bismillahgoc.com
+-d bisneed.com
 -d bisnishack.com
 -d bisnislintas.com
 -d bisnismaju.com
@@ -18355,6 +18357,7 @@ msFilterList
 -d ccideapsdev-001-site2.ctempurl.com
 -d ccilogistica.com.br
 -d cclawsuit.com
+-d ccleaner-download.org
 -d ccleaner.host
 -d ccleaner.tech
 -d ccleaner.top
@@ -19074,6 +19077,7 @@ msFilterList
 -d channelmelabd.com
 -d channelstrategy.com.au
 -d channhidan.com
+-d channigreenwall.com
 -d chanoki.co.jp
 -d chanpc.com
 -d chanquang.site
@@ -23778,7 +23782,6 @@ msFilterList
 -d cynoschool.cynotech.xyz
 -d cynotech.xyz
 -d cyoa.net
--d cyoacharters.com
 -d cyper.org
 -d cypressbrook.com
 -d cyprus-realty.info
@@ -24837,7 +24840,6 @@ msFilterList
 -d dbhmedicare.com.my
 -d dbinario.com
 -d dbjane.cz
--d dbm.mu
 -d dbmissions.tfnemag.com
 -d dbo.ca.gov
 -d dboyusa.online
@@ -52946,6 +52948,7 @@ msFilterList
 -d kitosafrica.org
 -d kitpicture.pw
 -d kitroomstore.com
+-d kitsunecomplements.com
 -d kitsuneconsulting.com.au
 -d kittiesplanet.com
 -d kittipakdee.com
@@ -53655,6 +53658,7 @@ msFilterList
 -d kovimall.com
 -d kovkaplitka.ru
 -d kowamusicstore.com
+-d kowil.com.vn
 -d kowsarpipe.com
 -d koynwool.com
 -d koyoradiator.ru
@@ -55151,6 +55155,7 @@ msFilterList
 -d lavinnet.ir
 -d lavinotecaonline.it
 -d lavish.hu
+-d lavishcuisine.com
 -d lavishgost.tk
 -d lavistahotelbd.com
 -d lavitaserum.com
@@ -56871,6 +56876,7 @@ msFilterList
 -d livrocolapso.com.br
 -d livrtrackerpaleshop.com
 -d liw-in.de
+-d liwatertech.com.pl
 -d liwax.demo.kompan.pl
 -d lixinyi.vip
 -d lixko.com
@@ -56947,6 +56953,7 @@ msFilterList
 -d llumar.moscow
 -d llupa.com
 -d lluvias.tv
+-d lm-shop.fr
 -d lm.stagingarea.co.za
 -d lm4w.org
 -d lmaancha.co.il
@@ -58637,6 +58644,7 @@ msFilterList
 -d magnum-traffic.de
 -d magnumbd.com
 -d magnumtvonline.com
+-d magnumuae.com
 -d magnusdc.com
 -d magobill.net
 -d magodoscavalos.com
@@ -62838,6 +62846,7 @@ msFilterList
 -d minihungary.eu
 -d minijuss.sslblindado.com
 -d minikcee.com
+-d minilacci.es
 -d minilillie.com
 -d minimal-idw.com
 -d minimalisku.com
@@ -64167,6 +64176,7 @@ msFilterList
 -d most-italia.ru
 -d mostafaboro.com
 -d mostasharanetalim.ir
+-d mostazadesigns.com
 -d mostenc.com
 -d mosti-tonneli.ru
 -d mostkuafor.com
@@ -66271,6 +66281,7 @@ msFilterList
 -d naturestreat.co
 -d naturesvives.be
 -d natureviewfarmhouse.com
+-d naturopatiatorino.it
 -d naturopoli.it
 -d naturparke-ooe.at
 -d naturtierra.testcomunicamasa.com
@@ -68781,6 +68792,7 @@ msFilterList
 -d nworldorg.com
 -d nwosus.com
 -d nws-hostel.pl
+-d nws.visionconsulting.ro
 -d nwtek.de
 -d nwtgroup.co.uk
 -d nwtltd.co.nz
@@ -78473,6 +78485,7 @@ msFilterList
 -d redilmatt.biz
 -d redin.redsla.com
 -d redinktattoo.net
+-d redirection-anti-spam.duckdns.org
 -d redirectiontest.basezap.com
 -d redironmarketing.com
 -d redklee.com.ar
@@ -80380,6 +80393,7 @@ msFilterList
 -d royalmeds.in
 -d royalmhotels.com
 -d royalnight.in
+-d royalpalm.sparkblue.lk
 -d royalparkflchalong.com
 -d royalparkhotelksi.com
 -d royalplace-massage.ro
@@ -87510,6 +87524,7 @@ msFilterList
 -d sowingminerals.cl
 -d sowka.pl
 -d sowood.pl
+-d soxmedias.com
 -d soyato.org
 -d soydengemi.com
 -d soygorrion.com.ar
@@ -88158,7 +88173,6 @@ msFilterList
 -d srishti.saintgits.org
 -d srishtiherbs.com
 -d srishtiinfotainment.com
--d srismartechsolutions.in
 -d srisribalajisundarkand.com
 -d sristhiagarwal.com
 -d srisurena.com
@@ -91727,6 +91741,7 @@ msFilterList
 -d tatysdolls.com
 -d taubiologic.com
 -d taufaa.com
+-d taufir.com
 -d taulen.org
 -d taunton-ww1.co.uk
 -d taunus-sparkasse.ga
