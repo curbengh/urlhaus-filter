@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 29 May 2021 12:13:06 UTC
+# Updated: Sun, 30 May 2021 00:13:05 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -16113,6 +16113,7 @@ msFilterList
 -d bua-apartment.com
 -d buanahelindo.com
 -d buanderiemoderne.com
+-d buarf.com
 -d bub.drnancycorcoran.com
 -d bubam.org
 -d bubbadms.com
@@ -61176,7 +61177,6 @@ msFilterList
 -d me.ft.unri.ac.id
 -d me.kayamalimusavirlik.com
 -d me.mellatholding.com
--d me.swop.cloud
 -d me48.ru
 -d mea.kaisariani.gr
 -d meaamarelmorshedy.com
@@ -67232,6 +67232,7 @@ msFilterList
 -d newton.co.id
 -d newtoncampbellyoga.com
 -d newtonsoftwares.com
+-d newtop.one
 -d newtreedesign.co.uk
 -d newtrendeg.com
 -d newtrendmall.store
@@ -69034,6 +69035,7 @@ msFilterList
 -d oceanavenue.it
 -d oceanbaynantasket.com
 -d oceanbm.ca
+-d oceanfrogs.com
 -d oceangate.parkhomes.vn
 -d oceanicclearwater.echoes.co.in
 -d oceanicintl.com
@@ -70034,6 +70036,7 @@ msFilterList
 -d onlinepreneur.id
 -d onlinepreps.com
 -d onlinepro.si
+-d onlineprojectdemo.net
 -d onlineqeramika.com
 -d onlinequranlearner.com
 -d onlinerouletteinaustralia.com
@@ -72832,6 +72835,7 @@ msFilterList
 -d petranightshotel.com
 -d petrefinancials.co.ke
 -d petrina.com.br
+-d petrinettechnologies.com
 -d petriotics.com
 -d petris.ro
 -d petro-bulk.com
@@ -81306,6 +81310,7 @@ msFilterList
 -d safihns.xyz
 -d safirambalaj.com.tr
 -d safiryapi.net
+-d safiullah.com
 -d safiyaansari.com
 -d saflairtravel.co.za
 -d saflooring.co.za
@@ -90792,7 +90797,6 @@ msFilterList
 -d swoboda-engineering.com
 -d swonger.com
 -d swoodg.ru
--d swop.cloud
 -d sword.cf
 -d swordandstone.cba.pl
 -d sworden.org
@@ -91529,6 +91533,7 @@ msFilterList
 -d tanujatatkephotography.com
 -d tanushthakor.com
 -d tanveerkhaira.org
+-d tanvinhdn.com
 -d tanvipackaging.logicalatdemo.co.in
 -d tanweb.site
 -d tanyu.qnotice.com
@@ -98249,6 +98254,7 @@ msFilterList
 -d unsafedrugs.com
 -d unsanrohandper.tk
 -d unsb.co.in
+-d unsimpleclic.com
 -d unstolic.com
 -d unsuiting-week.000webhostapp.com
 -d unsurmised-pecks.000webhostapp.com
@@ -106889,6 +106895,7 @@ msFilterList
 -d ztarx.com
 -d ztbearing68.com
 -d ztbrw.cn
+-d ztds.online
 -d ztds2.online
 -d zteandroid.com
 -d ztecom.cn
