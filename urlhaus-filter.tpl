@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Mon, 31 May 2021 12:13:10 UTC
+# Updated: Tue, 01 Jun 2021 00:13:11 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -5241,7 +5241,6 @@ msFilterList
 -d alittleaboutshrestha-bharti.com
 -d alittlebitdeeper.co.ke
 -d aliu-rdc.org
--d alive24news.com
 -d aliveatchrist.org
 -d alivechannel.com
 -d alivechannel.org
@@ -9023,6 +9022,7 @@ msFilterList
 -d asr.com.ua
 -d asreklam.az
 -d asresaat.com
+-d asri-no.ir
 -d asria.in
 -d asrijeweler.com
 -d asrr.com.au
@@ -11902,7 +11902,6 @@ msFilterList
 -d beautech.com.sg
 -d beauteediy.com
 -d beautegrity.dweb.in
--d beautifulbritain.co.uk
 -d beautifulcelebrations.ca
 -d beautifulday.com.tw
 -d beautifulfoodmama.com
@@ -24925,6 +24924,7 @@ msFilterList
 -d ddl2.data.hu
 -d ddl3.data.hu
 -d ddl7.data.hu
+-d ddl8.data.hu
 -d ddmadrasah.com
 -d ddns.cyberium.cc
 -d ddpl.igstudio.in
@@ -34778,6 +34778,7 @@ msFilterList
 -d fayedoudak.com
 -d fayemi.ennov8.com.ng
 -d fayezart.mohaseb.net
+-d fayrewinds.org
 -d fayzi-khurshed.tj
 -d fazartproducoes.com.br
 -d fazautocare.com
@@ -44629,6 +44630,7 @@ msFilterList
 -d housek.info
 -d houselight.com.br
 -d houseloverz.de
+-d houseluxury-re.ch
 -d housemarksales.duckdns.org
 -d housemart-my.sharepoint.com
 -d housemedia.sk
@@ -46207,6 +46209,7 @@ msFilterList
 -d ilmahqpainting.com.au
 -d ilmazon.com
 -d ilmeteo.dev.keyformat.it
+-d ilmistaan.com
 -d ilmnutrition.com
 -d ilmondovecchio.com
 -d ilmubaru.site
@@ -49627,6 +49630,7 @@ msFilterList
 -d jenrylandscape.com
 -d jens-freiberg.de
 -d jensbutz.eu
+-d jensen.technology
 -d jensnet.se
 -d jensweightloss.com
 -d jenszackrisson.se
@@ -64265,6 +64269,7 @@ msFilterList
 -d mouthmunchersfoods.com
 -d mouthshut.app
 -d movaarquitectos1.000webhostapp.com
+-d movartemusic.com
 -d movco.net
 -d move-kh.net
 -d movebelgradeagent.com
@@ -80695,7 +80700,6 @@ msFilterList
 -d runmureed.com
 -d runmyweb.com
 -d runnected.kaiman.fr
--d runnerbd.com
 -d runnerschool.com
 -d running-bike.com
 -d runningcrewteam.com
@@ -80978,6 +80982,7 @@ msFilterList
 -d s2chinese2profesionalandhealthwsdyanaly.duckdns.org
 -d s2lol.com
 -d s2mmarketing.co.uk
+-d s2retail.vn
 -d s2s-architect.com
 -d s3.didiyunapi.com
 -d s3.in.ua
@@ -93143,6 +93148,7 @@ msFilterList
 -d textielacademie.be
 -d textildruck-saar.de
 -d textile.softberg.ro
+-d textileanalytics.pk
 -d textileboilerltd.com
 -d textiledb.ir
 -d textilehub.com.pk
