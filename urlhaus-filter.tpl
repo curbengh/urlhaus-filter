@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 03 Jun 2021 00:13:11 UTC
+# Updated: Thu, 03 Jun 2021 12:13:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -93,6 +93,7 @@ msFilterList
 -d 0pa.chernovik55.ru
 -d 0qe.pdofan.ru
 -d 0qixri.thule.su
+-d 0rbefa.am.files.1drv.com
 -d 0rdp.com
 -d 0uso87.com
 -d 0win365.com
@@ -510,6 +511,7 @@ msFilterList
 -d 2.c8xtt.com
 -d 2.clcshop.online
 -d 2.globalengine.ru
+-d 2.indexsinas.me
 -d 2.moulding.z8.ru
 -d 2.nvd.by
 -d 2.spacepel.com
@@ -1596,6 +1598,7 @@ msFilterList
 -d 7bsnake1.com
 -d 7bwh.com
 -d 7c2918ca.ngrok.io
+-d 7cats.ch
 -d 7clock.ir
 -d 7continents7lawns.com
 -d 7cut.extroliving.com
@@ -1945,7 +1948,6 @@ msFilterList
 -d a.seeanu.ru
 -d a.teamworx.ph
 -d a.tolganfor.ru
--d a.top4top.io
 -d a.turnuvam.org
 -d a.uchi.moe
 -d a.xiazai163.com
@@ -3603,7 +3605,6 @@ msFilterList
 -d aethoscorp.com
 -d aetruckmaint.com
 -d aetstranslation.com.au
--d aeve.com
 -d aeverydayhealth.com
 -d aevion.net
 -d aexis-symposium.com
@@ -4577,6 +4578,7 @@ msFilterList
 -d akdvidyalaya.com
 -d akeeratly.in
 -d akekartela.com
+-d akenkraken.com
 -d akersblog.top
 -d akeswari.org
 -d akfoundationbd.xyz
@@ -10048,6 +10050,7 @@ msFilterList
 -d aventyrskrocket.se
 -d avenue5.co.in.cp-in-10.webhostbox.net
 -d avenueleaseandrentals.com
+-d avenuesports.pk
 -d avenzis.nl
 -d averdadedavida.com.br
 -d averechts-architecten.com
@@ -18489,6 +18492,7 @@ msFilterList
 -d cdn.isoskycn.com
 -d cdn.lewd.host
 -d cdn.mistyblade.com
+-d cdn.mycfg.site
 -d cdn.ofifinancial.com
 -d cdn.prominertools.com
 -d cdn.siv.cc
@@ -24526,6 +24530,7 @@ msFilterList
 -d darsplan.com
 -d darsser-ort.de
 -d darswood.com
+-d dartagnan.com.au
 -d darthgoat.com
 -d dartoonpictures.com
 -d dartzeel.com
@@ -26628,6 +26633,7 @@ msFilterList
 -d dexado.com
 -d dexiagroups.com
 -d dextermack.com
+-d dextonid.info
 -d dextraderspost.com
 -d dextro-energy.com.mx
 -d deymoncosta.agenciahpm.com.br
@@ -28785,6 +28791,7 @@ msFilterList
 -d download.win-test.com
 -d download.xp666.com
 -d download.zjsyawqj.cn
+-d download3.xyz
 -d download5.77169.com
 -d download5.bossran2018.com
 -d downloaddd.cf
@@ -29384,7 +29391,6 @@ msFilterList
 -d ds.obmenvsemfiles.com
 -d ds.veedence.co.uk
 -d ds04.projectstatus.co.uk
--d ds05.infourok.ru
 -d ds2-teremok.ru
 -d ds415p.com
 -d ds7raduga.ru
@@ -33258,7 +33264,7 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-central-1.protection.sophos.com
 -d eu-easy.com
--d eu1.salesforce.com
+-d eu.wildfire.paloaltonetworks.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -41160,6 +41166,7 @@ msFilterList
 -d groupegps.com
 -d groupeicaetudes.com
 -d groupejpr.com
+-d grouper.ieee.org
 -d groupesival.com
 -d groupevl.ca
 -d grouphk.xyz
@@ -41821,7 +41828,6 @@ msFilterList
 -d h.epelcdn.com
 -d h.eurotrading.com.pl
 -d h.j990981.ru
--d h.top4top.io
 -d h.valerana44.ru
 -d h002295863.nichost.ru
 -d h0h.org
@@ -44156,7 +44162,6 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
--d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -44712,6 +44717,7 @@ msFilterList
 -d hottest-viral.com
 -d hottestxxxvideo.com
 -d hottnews.tk
+-d hotwell.at
 -d hotxm90.com
 -d hotyoutuber.com
 -d houara.com
@@ -47061,6 +47067,7 @@ msFilterList
 -d infinityowl.com
 -d infinityresort.com.np
 -d infinityshop.xyz
+-d infinityvine.co
 -d infinityxbmc.com
 -d infipix.com
 -d infirmierepariscentre.com
@@ -48455,6 +48462,7 @@ msFilterList
 -d isdemos.tk
 -d isds.com.mx
 -d isdtindia.com
+-d iseekdata.in
 -d iseler.net
 -d iselfcaremassager.com
 -d isella.edu.uir.ac.id
@@ -50428,6 +50436,7 @@ msFilterList
 -d jollyemma.com
 -d jollygul.com
 -d jolyscortinas.com.br
+-d jom.diregame.live
 -d jomansea.com
 -d jomar2020.com.br
 -d jomblo.com
@@ -56517,6 +56526,7 @@ msFilterList
 -d linaris.amazyne.com
 -d linbeckcontractors-my.sharepoint.com
 -d linchcapital.com
+-d linchospitality.com
 -d lincolnaward.org
 -d lincolnlogenterprises.com
 -d lincolnlouisville.com
@@ -62564,6 +62574,7 @@ msFilterList
 -d microvpn.info
 -d microwebtechnology.com
 -d micrrosoft.net
+-d micrsoft365.live
 -d mictronicx.com
 -d mid.appsolute-preprod.fr
 -d midami.site
@@ -64113,6 +64124,7 @@ msFilterList
 -d moonclub.asia
 -d moonday-v54.tk
 -d moonflor.com
+-d moonlabmediacompany.com
 -d moonlight-ent.com
 -d moonlightcar.ma
 -d moonlightshimla.com
@@ -65352,7 +65364,6 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
--d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -71212,7 +71223,6 @@ msFilterList
 -d p-clone.net
 -d p-d.com.ua
 -d p-h-s-t.persiangig.com
--d p-lux4.pcloud.com
 -d p.baozy.com
 -d p.dropmy.nl
 -d p.owwwa.com
@@ -73197,7 +73207,6 @@ msFilterList
 -d phoneexpertxl.nl
 -d phonelocaltoday.com
 -d phonerepaircentre.com.au
--d phoneringtones.info
 -d phones.pmrspain.com
 -d phonestore-telephonie.fr
 -d phonestore.vn
@@ -78294,7 +78303,6 @@ msFilterList
 -d rcdombivlidiamond.com
 -d rce.trade
 -d rcfatburger.com
--d rcgint.com
 -d rchbch.com
 -d rchingenieria.com
 -d rcj16whwaqg03pmrp.com
@@ -79156,6 +79164,7 @@ msFilterList
 -d res.entercenter.net
 -d res.qaqgame.cn
 -d res.uf1.cn
+-d res.yeshen.com
 -d resadiyehaber.com
 -d resaltodigital.com
 -d resamarkham.info
@@ -90522,7 +90531,6 @@ msFilterList
 -d support.jbrueggemann.com
 -d support.loungu.com
 -d support.m2mservices.com
--d support.mdsol.com
 -d support.nordenrecycling.com
 -d support.nuvemit.com
 -d support.pubg.com
@@ -91771,6 +91779,7 @@ msFilterList
 -d tardigradeventures.com
 -d tareeqaltawasul.com
 -d tareqmuhith.com
+-d tares.nl
 -d tarexfinal.trade
 -d targas.de
 -d targat-china.com
@@ -98943,6 +98952,7 @@ msFilterList
 -d utopiapavingandpools.co.za
 -d utopiaroad.com
 -d utopiasporcenter.com
+-d utorrent-servers.xyz
 -d utorrentpro.com
 -d utransilvania.ro
 -d utrechtbeerguide.com
@@ -99866,6 +99876,7 @@ msFilterList
 -d vesonat.online
 -d vespang.ga
 -d vespang.gq
+-d vespang.ml
 -d vespang.tk
 -d vespepadane.com
 -d vesperia.id
@@ -103214,7 +103225,6 @@ msFilterList
 -d wiwi-cloud.htw-saarland.de
 -d wiwidwinar.com
 -d wiwildcare.org
--d wix.anyfileapp.net
 -d wixterseafood.com
 -d wiyq.ifeelthelife.ru
 -d wizace.com

@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 03 Jun 2021 00:13:11 UTC
+# Updated: Thu, 03 Jun 2021 12:13:45 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -90,6 +90,7 @@
 0.0.0.0 0pa.chernovik55.ru
 0.0.0.0 0qe.pdofan.ru
 0.0.0.0 0qixri.thule.su
+0.0.0.0 0rbefa.am.files.1drv.com
 0.0.0.0 0rdp.com
 0.0.0.0 0uso87.com
 0.0.0.0 0win365.com
@@ -507,6 +508,7 @@
 0.0.0.0 2.c8xtt.com
 0.0.0.0 2.clcshop.online
 0.0.0.0 2.globalengine.ru
+0.0.0.0 2.indexsinas.me
 0.0.0.0 2.moulding.z8.ru
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
@@ -1593,6 +1595,7 @@
 0.0.0.0 7bsnake1.com
 0.0.0.0 7bwh.com
 0.0.0.0 7c2918ca.ngrok.io
+0.0.0.0 7cats.ch
 0.0.0.0 7clock.ir
 0.0.0.0 7continents7lawns.com
 0.0.0.0 7cut.extroliving.com
@@ -1942,7 +1945,6 @@
 0.0.0.0 a.seeanu.ru
 0.0.0.0 a.teamworx.ph
 0.0.0.0 a.tolganfor.ru
-0.0.0.0 a.top4top.io
 0.0.0.0 a.turnuvam.org
 0.0.0.0 a.uchi.moe
 0.0.0.0 a.xiazai163.com
@@ -3600,7 +3602,6 @@
 0.0.0.0 aethoscorp.com
 0.0.0.0 aetruckmaint.com
 0.0.0.0 aetstranslation.com.au
-0.0.0.0 aeve.com
 0.0.0.0 aeverydayhealth.com
 0.0.0.0 aevion.net
 0.0.0.0 aexis-symposium.com
@@ -4574,6 +4575,7 @@
 0.0.0.0 akdvidyalaya.com
 0.0.0.0 akeeratly.in
 0.0.0.0 akekartela.com
+0.0.0.0 akenkraken.com
 0.0.0.0 akersblog.top
 0.0.0.0 akeswari.org
 0.0.0.0 akfoundationbd.xyz
@@ -10045,6 +10047,7 @@
 0.0.0.0 aventyrskrocket.se
 0.0.0.0 avenue5.co.in.cp-in-10.webhostbox.net
 0.0.0.0 avenueleaseandrentals.com
+0.0.0.0 avenuesports.pk
 0.0.0.0 avenzis.nl
 0.0.0.0 averdadedavida.com.br
 0.0.0.0 averechts-architecten.com
@@ -18486,6 +18489,7 @@
 0.0.0.0 cdn.isoskycn.com
 0.0.0.0 cdn.lewd.host
 0.0.0.0 cdn.mistyblade.com
+0.0.0.0 cdn.mycfg.site
 0.0.0.0 cdn.ofifinancial.com
 0.0.0.0 cdn.prominertools.com
 0.0.0.0 cdn.siv.cc
@@ -24523,6 +24527,7 @@
 0.0.0.0 darsplan.com
 0.0.0.0 darsser-ort.de
 0.0.0.0 darswood.com
+0.0.0.0 dartagnan.com.au
 0.0.0.0 darthgoat.com
 0.0.0.0 dartoonpictures.com
 0.0.0.0 dartzeel.com
@@ -26625,6 +26630,7 @@
 0.0.0.0 dexado.com
 0.0.0.0 dexiagroups.com
 0.0.0.0 dextermack.com
+0.0.0.0 dextonid.info
 0.0.0.0 dextraderspost.com
 0.0.0.0 dextro-energy.com.mx
 0.0.0.0 deymoncosta.agenciahpm.com.br
@@ -28782,6 +28788,7 @@
 0.0.0.0 download.win-test.com
 0.0.0.0 download.xp666.com
 0.0.0.0 download.zjsyawqj.cn
+0.0.0.0 download3.xyz
 0.0.0.0 download5.77169.com
 0.0.0.0 download5.bossran2018.com
 0.0.0.0 downloaddd.cf
@@ -29381,7 +29388,6 @@
 0.0.0.0 ds.obmenvsemfiles.com
 0.0.0.0 ds.veedence.co.uk
 0.0.0.0 ds04.projectstatus.co.uk
-0.0.0.0 ds05.infourok.ru
 0.0.0.0 ds2-teremok.ru
 0.0.0.0 ds415p.com
 0.0.0.0 ds7raduga.ru
@@ -33255,7 +33261,7 @@
 0.0.0.0 etysu02scnabr03wzaxue.com
 0.0.0.0 eu-central-1.protection.sophos.com
 0.0.0.0 eu-easy.com
-0.0.0.0 eu1.salesforce.com
+0.0.0.0 eu.wildfire.paloaltonetworks.com
 0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eu283iwoqodjspqisjdf.com
 0.0.0.0 eu5-cdn.devid.info
@@ -41157,6 +41163,7 @@
 0.0.0.0 groupegps.com
 0.0.0.0 groupeicaetudes.com
 0.0.0.0 groupejpr.com
+0.0.0.0 grouper.ieee.org
 0.0.0.0 groupesival.com
 0.0.0.0 groupevl.ca
 0.0.0.0 grouphk.xyz
@@ -41818,7 +41825,6 @@
 0.0.0.0 h.epelcdn.com
 0.0.0.0 h.eurotrading.com.pl
 0.0.0.0 h.j990981.ru
-0.0.0.0 h.top4top.io
 0.0.0.0 h.valerana44.ru
 0.0.0.0 h002295863.nichost.ru
 0.0.0.0 h0h.org
@@ -44153,7 +44159,6 @@
 0.0.0.0 home.99eurowebsite.ie
 0.0.0.0 home.barley-plus.com
 0.0.0.0 home.dawang.ink
-0.0.0.0 home.earthlink.net
 0.0.0.0 home.evrstudio.com
 0.0.0.0 home.healthiestu.com
 0.0.0.0 home.isdes.com
@@ -44709,6 +44714,7 @@
 0.0.0.0 hottest-viral.com
 0.0.0.0 hottestxxxvideo.com
 0.0.0.0 hottnews.tk
+0.0.0.0 hotwell.at
 0.0.0.0 hotxm90.com
 0.0.0.0 hotyoutuber.com
 0.0.0.0 houara.com
@@ -47058,6 +47064,7 @@
 0.0.0.0 infinityowl.com
 0.0.0.0 infinityresort.com.np
 0.0.0.0 infinityshop.xyz
+0.0.0.0 infinityvine.co
 0.0.0.0 infinityxbmc.com
 0.0.0.0 infipix.com
 0.0.0.0 infirmierepariscentre.com
@@ -48452,6 +48459,7 @@
 0.0.0.0 isdemos.tk
 0.0.0.0 isds.com.mx
 0.0.0.0 isdtindia.com
+0.0.0.0 iseekdata.in
 0.0.0.0 iseler.net
 0.0.0.0 iselfcaremassager.com
 0.0.0.0 isella.edu.uir.ac.id
@@ -50425,6 +50433,7 @@
 0.0.0.0 jollyemma.com
 0.0.0.0 jollygul.com
 0.0.0.0 jolyscortinas.com.br
+0.0.0.0 jom.diregame.live
 0.0.0.0 jomansea.com
 0.0.0.0 jomar2020.com.br
 0.0.0.0 jomblo.com
@@ -56514,6 +56523,7 @@
 0.0.0.0 linaris.amazyne.com
 0.0.0.0 linbeckcontractors-my.sharepoint.com
 0.0.0.0 linchcapital.com
+0.0.0.0 linchospitality.com
 0.0.0.0 lincolnaward.org
 0.0.0.0 lincolnlogenterprises.com
 0.0.0.0 lincolnlouisville.com
@@ -62561,6 +62571,7 @@
 0.0.0.0 microvpn.info
 0.0.0.0 microwebtechnology.com
 0.0.0.0 micrrosoft.net
+0.0.0.0 micrsoft365.live
 0.0.0.0 mictronicx.com
 0.0.0.0 mid.appsolute-preprod.fr
 0.0.0.0 midami.site
@@ -64110,6 +64121,7 @@
 0.0.0.0 moonclub.asia
 0.0.0.0 moonday-v54.tk
 0.0.0.0 moonflor.com
+0.0.0.0 moonlabmediacompany.com
 0.0.0.0 moonlight-ent.com
 0.0.0.0 moonlightcar.ma
 0.0.0.0 moonlightshimla.com
@@ -65349,7 +65361,6 @@
 0.0.0.0 my.findsr.co
 0.0.0.0 my.jiwa-nala.org
 0.0.0.0 my.loungu.com
-0.0.0.0 my.mail.de
 0.0.0.0 my.mixtape.moe
 0.0.0.0 my.pop9ja.com.ng
 0.0.0.0 my.zhaopin.com
@@ -71209,7 +71220,6 @@
 0.0.0.0 p-clone.net
 0.0.0.0 p-d.com.ua
 0.0.0.0 p-h-s-t.persiangig.com
-0.0.0.0 p-lux4.pcloud.com
 0.0.0.0 p.baozy.com
 0.0.0.0 p.dropmy.nl
 0.0.0.0 p.owwwa.com
@@ -73194,7 +73204,6 @@
 0.0.0.0 phoneexpertxl.nl
 0.0.0.0 phonelocaltoday.com
 0.0.0.0 phonerepaircentre.com.au
-0.0.0.0 phoneringtones.info
 0.0.0.0 phones.pmrspain.com
 0.0.0.0 phonestore-telephonie.fr
 0.0.0.0 phonestore.vn
@@ -78291,7 +78300,6 @@
 0.0.0.0 rcdombivlidiamond.com
 0.0.0.0 rce.trade
 0.0.0.0 rcfatburger.com
-0.0.0.0 rcgint.com
 0.0.0.0 rchbch.com
 0.0.0.0 rchingenieria.com
 0.0.0.0 rcj16whwaqg03pmrp.com
@@ -79153,6 +79161,7 @@
 0.0.0.0 res.entercenter.net
 0.0.0.0 res.qaqgame.cn
 0.0.0.0 res.uf1.cn
+0.0.0.0 res.yeshen.com
 0.0.0.0 resadiyehaber.com
 0.0.0.0 resaltodigital.com
 0.0.0.0 resamarkham.info
@@ -90519,7 +90528,6 @@
 0.0.0.0 support.jbrueggemann.com
 0.0.0.0 support.loungu.com
 0.0.0.0 support.m2mservices.com
-0.0.0.0 support.mdsol.com
 0.0.0.0 support.nordenrecycling.com
 0.0.0.0 support.nuvemit.com
 0.0.0.0 support.pubg.com
@@ -91768,6 +91776,7 @@
 0.0.0.0 tardigradeventures.com
 0.0.0.0 tareeqaltawasul.com
 0.0.0.0 tareqmuhith.com
+0.0.0.0 tares.nl
 0.0.0.0 tarexfinal.trade
 0.0.0.0 targas.de
 0.0.0.0 targat-china.com
@@ -98940,6 +98949,7 @@
 0.0.0.0 utopiapavingandpools.co.za
 0.0.0.0 utopiaroad.com
 0.0.0.0 utopiasporcenter.com
+0.0.0.0 utorrent-servers.xyz
 0.0.0.0 utorrentpro.com
 0.0.0.0 utransilvania.ro
 0.0.0.0 utrechtbeerguide.com
@@ -99863,6 +99873,7 @@
 0.0.0.0 vesonat.online
 0.0.0.0 vespang.ga
 0.0.0.0 vespang.gq
+0.0.0.0 vespang.ml
 0.0.0.0 vespang.tk
 0.0.0.0 vespepadane.com
 0.0.0.0 vesperia.id
@@ -103211,7 +103222,6 @@
 0.0.0.0 wiwi-cloud.htw-saarland.de
 0.0.0.0 wiwidwinar.com
 0.0.0.0 wiwildcare.org
-0.0.0.0 wix.anyfileapp.net
 0.0.0.0 wixterseafood.com
 0.0.0.0 wiyq.ifeelthelife.ru
 0.0.0.0 wizace.com
