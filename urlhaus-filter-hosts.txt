@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 03 Jun 2021 12:13:45 UTC
+# Updated: Fri, 04 Jun 2021 00:13:15 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -5387,7 +5387,6 @@
 0.0.0.0 allenmarks.se
 0.0.0.0 allens.youcheckit.ca
 0.0.0.0 allenservice.ga
-0.0.0.0 allexampdf.com
 0.0.0.0 allexcursion.com
 0.0.0.0 allexpressstores.com
 0.0.0.0 alley2857.com
@@ -6105,6 +6104,7 @@
 0.0.0.0 amc.swiss
 0.0.0.0 amcg.org.mx
 0.0.0.0 amcgsr.com.mx
+0.0.0.0 amchealth.com
 0.0.0.0 amcleonardo.ru
 0.0.0.0 amcmckinney.com
 0.0.0.0 amcmusic.net
@@ -8092,6 +8092,7 @@
 0.0.0.0 argentinadanza.com
 0.0.0.0 arggroup.kz
 0.0.0.0 arghaa.com
+0.0.0.0 arghakhanchibulletin.com
 0.0.0.0 arghusk.com
 0.0.0.0 argilasantana.com.br
 0.0.0.0 argiletz.com
@@ -17342,6 +17343,7 @@
 0.0.0.0 canaccordgenuity.bluematrix.com
 0.0.0.0 canacofactura.com.mx
 0.0.0.0 canadabestonline.com
+0.0.0.0 canadabrightway.com
 0.0.0.0 canadacigarsupplies.com
 0.0.0.0 canadanepalevents.com
 0.0.0.0 canadapost.com.co
@@ -28737,6 +28739,7 @@
 0.0.0.0 downlfile24.top
 0.0.0.0 downlo.vaixia.com
 0.0.0.0 download-cdn.com
+0.0.0.0 download-invoice.site
 0.0.0.0 download-plugin.co.za
 0.0.0.0 download-plugins.co.za
 0.0.0.0 download-serverupdate.eu-gb.cf.appdomain.cloud
@@ -33709,6 +33712,7 @@
 0.0.0.0 exams-success.com
 0.0.0.0 exams4sale.com
 0.0.0.0 examsinfo.in
+0.0.0.0 examsnap.io
 0.0.0.0 exarcadomaronitadecolombia.org
 0.0.0.0 exbace.com
 0.0.0.0 exbook.mhkzolution.com
@@ -34933,7 +34937,6 @@
 0.0.0.0 fcdhost.github.io
 0.0.0.0 fcdrealcanavese.com
 0.0.0.0 fce-transport.nl
-0.0.0.0 fce.edu.br
 0.0.0.0 fcee10.forumeniso.com
 0.0.0.0 fcelestinerey.com
 0.0.0.0 fcespoo.urheilutekstiilit.fi
@@ -42539,6 +42542,7 @@
 0.0.0.0 haselkhiz.com
 0.0.0.0 hasem.app
 0.0.0.0 hashaszade.com
+0.0.0.0 hashclean.info
 0.0.0.0 hashd.iq
 0.0.0.0 hashem.co.id
 0.0.0.0 hashgsga.usa.cc
@@ -44846,6 +44850,7 @@
 0.0.0.0 hq3ll.com
 0.0.0.0 hqcaz02egeq03bvmhm.com
 0.0.0.0 hqchiropractor.com
+0.0.0.0 hqdecig.com
 0.0.0.0 hqn27dyhvwp02wznv.com
 0.0.0.0 hqomesters.com
 0.0.0.0 hqrendering.com.au
@@ -48407,7 +48412,6 @@
 0.0.0.0 iryna.biz
 0.0.0.0 is-hp.com
 0.0.0.0 is-yap.com
-0.0.0.0 is.net.sa
 0.0.0.0 is4340.azurewebsites.net
 0.0.0.0 is45wdsed4455sdfsf.duckdns.org
 0.0.0.0 isaac.mikhailmotoringschool.com
@@ -50598,6 +50602,7 @@
 0.0.0.0 journee.bien-etre.du.printemps.eriged.fr
 0.0.0.0 journey.pixated.co
 0.0.0.0 journeyoncall.com
+0.0.0.0 journeyonline.pk
 0.0.0.0 jourssa.ru
 0.0.0.0 jovanaobradovic.com
 0.0.0.0 jovanidistribuidora.com.br
@@ -54901,7 +54906,6 @@
 0.0.0.0 landskronaloppis.se
 0.0.0.0 landskronamatguide.se
 0.0.0.0 landskronaportalen.se
-0.0.0.0 landspa.ir
 0.0.0.0 landvietnam.org
 0.0.0.0 landycabs.co.za
 0.0.0.0 landzoom.com
@@ -54987,6 +54991,7 @@
 0.0.0.0 lapartenza-khl.com
 0.0.0.0 lapascala.com
 0.0.0.0 lapc.com.pk
+0.0.0.0 lapcare.com
 0.0.0.0 lapcentervn.xyz
 0.0.0.0 lapchallenge.co.uk
 0.0.0.0 lapelimmortelle.com.au
@@ -54995,6 +55000,7 @@
 0.0.0.0 lapiadinadellacioza.it
 0.0.0.0 lapiazzettabk.com
 0.0.0.0 lapinoz.pizza
+0.0.0.0 lapiramideopticas.com
 0.0.0.0 lapisvia.com.br
 0.0.0.0 lapit.de
 0.0.0.0 lapizarraproduce.es
@@ -55283,7 +55289,6 @@
 0.0.0.0 lawncareslayer.com
 0.0.0.0 lawndi.com
 0.0.0.0 lawnmarket.parachute.digital
-0.0.0.0 lawnsk.ru
 0.0.0.0 lawofattraction.work
 0.0.0.0 lawrenceclasses.com
 0.0.0.0 lawrenceduncan.com
@@ -56486,6 +56491,7 @@
 0.0.0.0 limeliteodisa.com
 0.0.0.0 limepure.com
 0.0.0.0 limerakitchen.com
+0.0.0.0 limesfile.com
 0.0.0.0 limestudios.tv
 0.0.0.0 limisolr.com
 0.0.0.0 limitededitionphotos.nl
@@ -61227,6 +61233,7 @@
 0.0.0.0 mcvisconteo.it
 0.0.0.0 mcxlxad.ug
 0.0.0.0 md-trucks.nl
+0.0.0.0 md1.1eaf.pw
 0.0.0.0 md4.8yntbds.pw
 0.0.0.0 md5.5ofj.pw
 0.0.0.0 md7.7dfj.pw
@@ -68170,7 +68177,11 @@
 0.0.0.0 noidabakery.com
 0.0.0.0 noiloan.net
 0.0.0.0 noingoaithatthanhnam.com
+0.0.0.0 noirok06.top
 0.0.0.0 noirrealtysolution.com
+0.0.0.0 noirsb05.top
+0.0.0.0 noirsy04.top
+0.0.0.0 noirvy03.top
 0.0.0.0 noise1.xyz
 0.0.0.0 noithat-fami.com.vn
 0.0.0.0 noithat.sctuts.com
@@ -69153,7 +69164,6 @@
 0.0.0.0 oceanavenue.it
 0.0.0.0 oceanbaynantasket.com
 0.0.0.0 oceanbm.ca
-0.0.0.0 oceanfrogs.com
 0.0.0.0 oceangate.parkhomes.vn
 0.0.0.0 oceanicclearwater.echoes.co.in
 0.0.0.0 oceanicintl.com
@@ -73969,6 +73979,7 @@
 0.0.0.0 pleaseyoursoul.com
 0.0.0.0 pleasure-club.ru
 0.0.0.0 pleasureingold.de
+0.0.0.0 pleckj.com
 0.0.0.0 plegrugh.info
 0.0.0.0 pleijers.nl
 0.0.0.0 pleikutour.com
@@ -78475,6 +78486,7 @@
 0.0.0.0 realmist.com
 0.0.0.0 realmobiletech.com
 0.0.0.0 realog.space
+0.0.0.0 realpolar.com
 0.0.0.0 realprevention.org
 0.0.0.0 realrstudios.com
 0.0.0.0 realshow-privat.com
@@ -89545,6 +89557,7 @@
 0.0.0.0 store.ariessoftweb.com
 0.0.0.0 store.bmag.vn
 0.0.0.0 store.damatag.com
+0.0.0.0 store.delivery2home.in
 0.0.0.0 store.dhl-pdf.com
 0.0.0.0 store.digitsector.com
 0.0.0.0 store.drzwinet.pl
@@ -98434,7 +98447,6 @@
 0.0.0.0 unsafedrugs.com
 0.0.0.0 unsanrohandper.tk
 0.0.0.0 unsb.co.in
-0.0.0.0 unsimpleclic.com
 0.0.0.0 unstolic.com
 0.0.0.0 unsuiting-week.000webhostapp.com
 0.0.0.0 unsurmised-pecks.000webhostapp.com
@@ -106657,6 +106669,7 @@
 0.0.0.0 zestevents.co
 0.0.0.0 zestfit.co.uk
 0.0.0.0 zestonapparel.com
+0.0.0.0 zestra.me
 0.0.0.0 zetadataclub.xyz
 0.0.0.0 zetafoto-eventi.com
 0.0.0.0 zetalogs.com
