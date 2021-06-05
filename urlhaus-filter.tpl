@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 05 Jun 2021 00:22:21 UTC
+# Updated: Sat, 05 Jun 2021 12:13:19 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -489,6 +489,7 @@ msFilterList
 -d 1stgroupco.mn
 -d 1stniag.com
 -d 1stophr.com
+-d 1stopservice.com.my
 -d 1stpubs.com
 -d 1sym.net
 -d 1sync-wp.x.opencrm.eu
@@ -516,6 +517,8 @@ msFilterList
 -d 2.nvd.by
 -d 2.spacepel.com
 -d 2.toemobra.com.br
+-d 2.top4top.io
+-d 2.top4top.net
 -d 2.u0135364.z8.ru
 -d 20.c8xtt.com
 -d 20.dbstrony.pl
@@ -1317,6 +1320,8 @@ msFilterList
 -d 5-shampurov.ru
 -d 5.c8xtt.com
 -d 5.fjwt1.crsky.com
+-d 5.top4top.io
+-d 5.top4top.net
 -d 5.u0148466.z8.ru
 -d 5.unplugrevolution.com
 -d 5003.arentuspecial.com
@@ -16827,6 +16832,7 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
+-d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -23905,7 +23911,6 @@ msFilterList
 -d d.qiluwl.com
 -d d.teamworx.ph
 -d d.techmartbd.com
--d d.top4top.io
 -d d.top4top.net
 -d d.ttr3p.com
 -d d04.data39.helldata.com
@@ -28859,7 +28864,6 @@ msFilterList
 -d dp4kb.magelangkota.go.id
 -d dp5a.surabaya.go.id
 -d dpa-industries.com
--d dpa.atos-nao.net
 -d dpack365-my.sharepoint.com
 -d dpacorp.org
 -d dparmm1.wci.com.ph
@@ -44177,7 +44181,6 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
--d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -45426,6 +45429,7 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
+-d i.cubeupload.com
 -d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
@@ -47491,6 +47495,7 @@ msFilterList
 -d insaanisansar.in
 -d insaatkurutma.xyz
 -d insaatmuhendisligi.ismailtorlak.com
+-d insaforp.org.sv
 -d insainfitness.com
 -d insameyer.com
 -d insaniyatkiawaz.in
@@ -50564,6 +50569,7 @@ msFilterList
 -d josenutricion.com
 -d joseph.gergis.net
 -d josephalavi.com
+-d josephdutton.com
 -d josephinebland.com
 -d josephreynolds.net
 -d josephsaadeh.me
@@ -53156,7 +53162,6 @@ msFilterList
 -d klaryus.com.br
 -d klaschusnet.de
 -d klasisgk.or.id
--d klassapp.com
 -d klassik.com.br
 -d klassniydom.ru
 -d klasterpolskanatura.pl
@@ -54530,6 +54535,7 @@ msFilterList
 -d labaremn.ufba.br
 -d labasedespatriotes.net
 -d labastide-cezeracq.fr
+-d labbair.net
 -d labbaykstore.ir
 -d labbemontagnana.com.br
 -d labclini.com
@@ -68200,6 +68206,7 @@ msFilterList
 -d noidabakery.com
 -d noiloan.net
 -d noingoaithatthanhnam.com
+-d noiriz07.top
 -d noirok06.top
 -d noirrealtysolution.com
 -d noirsb05.top
@@ -71256,6 +71263,7 @@ msFilterList
 -d p-clone.net
 -d p-d.com.ua
 -d p-h-s-t.persiangig.com
+-d p-lux4.pcloud.com
 -d p.baozy.com
 -d p.dropmy.nl
 -d p.owwwa.com
@@ -78564,6 +78572,7 @@ msFilterList
 -d rebuildaid.dk
 -d rebuildkerala.info
 -d rebuneae.com
+-d reby.co
 -d recambiospastor.com
 -d receitasmamae.com
 -d receitasmix.online
@@ -90535,6 +90544,7 @@ msFilterList
 -d support.jbrueggemann.com
 -d support.loungu.com
 -d support.m2mservices.com
+-d support.mdsol.com
 -d support.nordenrecycling.com
 -d support.nuvemit.com
 -d support.pubg.com

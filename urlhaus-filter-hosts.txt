@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 05 Jun 2021 00:22:21 UTC
+# Updated: Sat, 05 Jun 2021 12:13:19 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -486,6 +486,7 @@
 0.0.0.0 1stgroupco.mn
 0.0.0.0 1stniag.com
 0.0.0.0 1stophr.com
+0.0.0.0 1stopservice.com.my
 0.0.0.0 1stpubs.com
 0.0.0.0 1sym.net
 0.0.0.0 1sync-wp.x.opencrm.eu
@@ -513,6 +514,8 @@
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
 0.0.0.0 2.toemobra.com.br
+0.0.0.0 2.top4top.io
+0.0.0.0 2.top4top.net
 0.0.0.0 2.u0135364.z8.ru
 0.0.0.0 20.c8xtt.com
 0.0.0.0 20.dbstrony.pl
@@ -1314,6 +1317,8 @@
 0.0.0.0 5-shampurov.ru
 0.0.0.0 5.c8xtt.com
 0.0.0.0 5.fjwt1.crsky.com
+0.0.0.0 5.top4top.io
+0.0.0.0 5.top4top.net
 0.0.0.0 5.u0148466.z8.ru
 0.0.0.0 5.unplugrevolution.com
 0.0.0.0 5003.arentuspecial.com
@@ -16824,6 +16829,7 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
+0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -23902,7 +23908,6 @@
 0.0.0.0 d.qiluwl.com
 0.0.0.0 d.teamworx.ph
 0.0.0.0 d.techmartbd.com
-0.0.0.0 d.top4top.io
 0.0.0.0 d.top4top.net
 0.0.0.0 d.ttr3p.com
 0.0.0.0 d04.data39.helldata.com
@@ -28856,7 +28861,6 @@
 0.0.0.0 dp4kb.magelangkota.go.id
 0.0.0.0 dp5a.surabaya.go.id
 0.0.0.0 dpa-industries.com
-0.0.0.0 dpa.atos-nao.net
 0.0.0.0 dpack365-my.sharepoint.com
 0.0.0.0 dpacorp.org
 0.0.0.0 dparmm1.wci.com.ph
@@ -44174,7 +44178,6 @@
 0.0.0.0 home.99eurowebsite.ie
 0.0.0.0 home.barley-plus.com
 0.0.0.0 home.dawang.ink
-0.0.0.0 home.earthlink.net
 0.0.0.0 home.evrstudio.com
 0.0.0.0 home.healthiestu.com
 0.0.0.0 home.isdes.com
@@ -45423,6 +45426,7 @@
 0.0.0.0 i-supportcharity.com
 0.0.0.0 i-vnsweyu.pl
 0.0.0.0 i-voda.com
+0.0.0.0 i.cubeupload.com
 0.0.0.0 i.fiery.me
 0.0.0.0 i.fluffy.cc
 0.0.0.0 i.funtourspt.eu
@@ -47488,6 +47492,7 @@
 0.0.0.0 insaanisansar.in
 0.0.0.0 insaatkurutma.xyz
 0.0.0.0 insaatmuhendisligi.ismailtorlak.com
+0.0.0.0 insaforp.org.sv
 0.0.0.0 insainfitness.com
 0.0.0.0 insameyer.com
 0.0.0.0 insaniyatkiawaz.in
@@ -50561,6 +50566,7 @@
 0.0.0.0 josenutricion.com
 0.0.0.0 joseph.gergis.net
 0.0.0.0 josephalavi.com
+0.0.0.0 josephdutton.com
 0.0.0.0 josephinebland.com
 0.0.0.0 josephreynolds.net
 0.0.0.0 josephsaadeh.me
@@ -53153,7 +53159,6 @@
 0.0.0.0 klaryus.com.br
 0.0.0.0 klaschusnet.de
 0.0.0.0 klasisgk.or.id
-0.0.0.0 klassapp.com
 0.0.0.0 klassik.com.br
 0.0.0.0 klassniydom.ru
 0.0.0.0 klasterpolskanatura.pl
@@ -54527,6 +54532,7 @@
 0.0.0.0 labaremn.ufba.br
 0.0.0.0 labasedespatriotes.net
 0.0.0.0 labastide-cezeracq.fr
+0.0.0.0 labbair.net
 0.0.0.0 labbaykstore.ir
 0.0.0.0 labbemontagnana.com.br
 0.0.0.0 labclini.com
@@ -68197,6 +68203,7 @@
 0.0.0.0 noidabakery.com
 0.0.0.0 noiloan.net
 0.0.0.0 noingoaithatthanhnam.com
+0.0.0.0 noiriz07.top
 0.0.0.0 noirok06.top
 0.0.0.0 noirrealtysolution.com
 0.0.0.0 noirsb05.top
@@ -71253,6 +71260,7 @@
 0.0.0.0 p-clone.net
 0.0.0.0 p-d.com.ua
 0.0.0.0 p-h-s-t.persiangig.com
+0.0.0.0 p-lux4.pcloud.com
 0.0.0.0 p.baozy.com
 0.0.0.0 p.dropmy.nl
 0.0.0.0 p.owwwa.com
@@ -78561,6 +78569,7 @@
 0.0.0.0 rebuildaid.dk
 0.0.0.0 rebuildkerala.info
 0.0.0.0 rebuneae.com
+0.0.0.0 reby.co
 0.0.0.0 recambiospastor.com
 0.0.0.0 receitasmamae.com
 0.0.0.0 receitasmix.online
@@ -90532,6 +90541,7 @@
 0.0.0.0 support.jbrueggemann.com
 0.0.0.0 support.loungu.com
 0.0.0.0 support.m2mservices.com
+0.0.0.0 support.mdsol.com
 0.0.0.0 support.nordenrecycling.com
 0.0.0.0 support.nuvemit.com
 0.0.0.0 support.pubg.com
