@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 04 Jun 2021 12:13:58 UTC
+# Updated: Sat, 05 Jun 2021 00:22:21 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1890,6 +1890,7 @@ msFilterList
 -d 9rayaa.com
 -d 9ryhmsk.com
 -d 9s2s.com
+-d 9scroob.com
 -d 9smap.hfdev.uk
 -d 9tindia.com
 -d 9u7a1o.regardisperfectshild.ru
@@ -9097,6 +9098,7 @@ msFilterList
 -d assoaresadvocacia.com.br
 -d assoc.cinepu.com
 -d associacao.outsys.net
+-d associacaomda.org
 -d association-bts-clim-souillac.shop
 -d association.charityteq.net
 -d associationfredericfellay.ch
@@ -18119,6 +18121,7 @@ msFilterList
 -d cassismodafeminina.com.br
 -d cassone.ro
 -d cassoulet.barons.fr
+-d cassovia.sk
 -d castalv.com.mx
 -d castelsucchi.com
 -d castentagescoterpay.info
@@ -21395,6 +21398,7 @@ msFilterList
 -d comeswithplaylists.com
 -d cometa.by
 -d cometadistribuzioneshop.com
+-d cometarabian.com
 -d cometprint.net
 -d comeuroconcept.fr
 -d comevincerealcasinoonline.com
@@ -22002,7 +22006,6 @@ msFilterList
 -d consultingireland.org
 -d consultingro.com
 -d consultitfl.com
--d consultmyadvo.com
 -d consultor100.es
 -d consultora-mj.pe
 -d consultordeviagens.com
@@ -29121,6 +29124,7 @@ msFilterList
 -d drguilhermemeyer.com.br
 -d drhaghighat.info
 -d drhaiderchaudhry.com
+-d drhalaelsaid.com
 -d drhamraah.ir
 -d drhassanshospital.com
 -d drhenryward.com
@@ -37966,6 +37970,7 @@ msFilterList
 -d ga2.neomeric.us
 -d gaa-werbetechnik.de
 -d gaa.edu.vn
+-d gaag.ddns.net
 -d gaanda.com
 -d gaardhaverne.dk
 -d gaashaan.com
@@ -47262,6 +47267,7 @@ msFilterList
 -d ingvardson.dk
 -d ingyouth.com
 -d inhairentstrands.com
+-d inhaustyle.com
 -d inherent-solutions.net
 -d inheridas.cl
 -d inhindi.co.in
@@ -48308,6 +48314,7 @@ msFilterList
 -d irashares.prodigygroupindia.com
 -d irbf.com
 -d irc.hoaxcalls.pw
+-d irc.service-exec.net
 -d ircqfrum.com
 -d irdiamondapp.com
 -d ire22wndw03opoq.xyz
@@ -50442,6 +50449,7 @@ msFilterList
 -d jolapa.com
 -d joleen.milfoy.net
 -d jolietlocalmover.com
+-d jolifm.com
 -d joliroomlides.tk
 -d jolly-saito-4993.sub.jp
 -d jollycharm.com
@@ -63560,6 +63568,7 @@ msFilterList
 -d mnpasalubong.com
 -d mnquotes.com
 -d mnrr.space
+-d mns.media
 -d mnsdev.net
 -d mnsoorysoemsystems.com
 -d mnt.unq.gtranzit.com
@@ -70093,6 +70102,7 @@ msFilterList
 -d onilk.tk
 -d onino.co
 -d onion-mobile.com.tw
+-d oniongames.jp
 -d onisadieta.ru
 -d onivallort.com
 -d onivasoft.net
@@ -70280,6 +70290,7 @@ msFilterList
 -d onyx-it.fr
 -d onyx-tools.com
 -d onyx.co.za
+-d onyxmedia.in
 -d oo00mika84.website
 -d ooaisdjqiweqwe.com
 -d oobfigh0bnuwvbfigh0bnuwv.belchem.com
@@ -70784,6 +70795,7 @@ msFilterList
 -d oshattorney.com
 -d osheoufhusheoghuesd.ru
 -d oshi.at
+-d oshiscafe.com
 -d oshodrycleaning.com
 -d oshonafitness.com
 -d oshop.es
@@ -89573,6 +89585,7 @@ msFilterList
 -d storm-shop.ir
 -d stormbooter.com
 -d stormcrm.com
+-d stormhansen.com
 -d stormny.com
 -d storrsestateplanning.com
 -d story-aqua.com
@@ -94050,6 +94063,7 @@ msFilterList
 -d thekubhugja1.xyz
 -d thekukuaproject.com
 -d thekurers.com
+-d thelambertagency.com
 -d thelandrygroup.com
 -d thelastcandy.com
 -d thelastdropbottleshop.com
@@ -99334,7 +99348,6 @@ msFilterList
 -d vanlengen.de
 -d vanlizza-chau.com
 -d vanlokaq-monics.gq
--d vanloonvlees.nl
 -d vanmanrunner.com
 -d vanmaysedenvoitoinhahi.com
 -d vanminhhotel.com
@@ -99436,6 +99449,7 @@ msFilterList
 -d vasoccernews.com
 -d vasprogramer.com
 -d vassakta-y71.cf
+-d vassanaservices.com
 -d vastenhovenmode.nl
 -d vastintegrated.com
 -d vastraindia.com
@@ -99815,6 +99829,7 @@ msFilterList
 -d verona.com.bo
 -d veronicajames.com
 -d veronika.ac.ug
+-d veronikac.ac.ug
 -d veronord.co
 -d verrueckte-flaschen.de
 -d versacecommunity.com
@@ -105178,6 +105193,7 @@ msFilterList
 -d xulong.net
 -d xulynguonnuoc.vn
 -d xumevas.com
+-d xunhong.net
 -d xunikapay.net
 -d xunzhuanmao.com
 -d xuongmaybinhduong.com
@@ -105360,6 +105376,7 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
+-d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net
@@ -105620,6 +105637,7 @@ msFilterList
 -d yeu81.com
 -d yeu82.com
 -d yeuhang.tk
+-d yeumoitruong.vn
 -d yeuromndy.cf
 -d yeutocviet.com
 -d yewonder.com
@@ -106098,6 +106116,7 @@ msFilterList
 -d yucatanentiemporeal.com
 -d yucelambalaj.com
 -d yudaobath.com
+-d yudi-cn.com
 -d yudiartawan.com
 -d yuechengsteak.com
 -d yueduge.cn
