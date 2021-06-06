@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 05 Jun 2021 12:13:19 UTC
+# Updated: Sun, 06 Jun 2021 00:13:35 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3394,7 +3394,6 @@ msFilterList
 -d adsnearme.com
 -d adsofonline.com
 -d adspioneer.com
--d adspritz.com
 -d adspromosyon.com
 -d adsprout.co
 -d adsqat.com
@@ -16044,6 +16043,7 @@ msFilterList
 -d bsdxz.xyz
 -d bsedilizia.it
 -d bsf-kayros.com.ua
+-d bsgmuhendislik.com
 -d bsgrus.ru
 -d bsh-bauservice.de
 -d bshifa.com
@@ -17651,6 +17651,7 @@ msFilterList
 -d carcounsel.com
 -d cardandev.com
 -d cardapioideal.com
+-d cardbankph.com
 -d cardboardspaceshiptoys.com
 -d cardclean.asia
 -d cardea-immobilien.de
@@ -26302,6 +26303,7 @@ msFilterList
 -d deurenbaron.nl
 -d deus-ruiz.com
 -d deusnoster.com
+-d deussalveobrasil.com.br
 -d deutschcabrio.de
 -d dev-015.shushlabs.com
 -d dev-advice.resumenerd.com
@@ -37295,6 +37297,7 @@ msFilterList
 -d freshenergy.co.nz
 -d freshers.luminescent.digital
 -d fresherslab.in
+-d freshersnews.co.in
 -d freshersvista.com
 -d freshjobagency.com
 -d freshjobportal.com
@@ -38448,7 +38451,6 @@ msFilterList
 -d gastrojaipur.com
 -d gastromatic.pl
 -d gastronauts.asia
--d gastronomeet.com
 -d gastronomiebeleving.nl
 -d gastronomieberatung-duesseldorf.de
 -d gastrotec.cl
@@ -45965,6 +45967,7 @@ msFilterList
 -d ie.kbu.ac.th
 -d ieasydeal.com
 -d ieatghana.com
+-d iebest.org
 -d iebf.org.uk
 -d iec56w4ibovnb4wc.onion.si
 -d iecgroup.com.vn
@@ -46963,6 +46966,7 @@ msFilterList
 -d indonesiaexp.com
 -d indonesiafte.com
 -d indonesiakompeten.com
+-d indonesias.me
 -d indonesiaumroh.com
 -d indonissin.in
 -d indoorairconditioner.com
@@ -48540,6 +48544,7 @@ msFilterList
 -d islamabout.com
 -d islamappen.se
 -d islamforall.tv
+-d islamiadsk.com
 -d islamibankab.com
 -d islamicpa.com
 -d islandbaybar.co.nz
@@ -50498,6 +50503,7 @@ msFilterList
 -d jongewolf.nl
 -d jongondernemersgroep.nl
 -d jongtang.com
+-d jonguitdeuken.nl
 -d joni.goobernet.org
 -d jonkingdesign.com
 -d jonlow.com
@@ -51512,6 +51518,7 @@ msFilterList
 -d kaliman.net
 -d kalinchowkdarshan.com.np
 -d kalingakhabar.org
+-d kalinina-art.com
 -d kaliningrad-itc.ru
 -d kalisti.com
 -d kalitechat.com
@@ -55017,7 +55024,6 @@ msFilterList
 -d lapartenza-khl.com
 -d lapascala.com
 -d lapc.com.pk
--d lapcare.com
 -d lapcentervn.xyz
 -d lapchallenge.co.uk
 -d lapelimmortelle.com.au
@@ -64183,6 +64189,7 @@ msFilterList
 -d moosesports.com
 -d moosvi.com
 -d moosyazilim.com
+-d mootree.net
 -d moovito98.xyz
 -d moozi.in
 -d mooziq.com
@@ -65435,6 +65442,7 @@ msFilterList
 -d mybaboo.co.uk
 -d mybabyandi.com
 -d mybathroomfitters.com
+-d mybazarnandail.com
 -d mybest.or2.cloud
 -d mybestgiftsfor.com
 -d mybestlifestyle.com
@@ -68474,6 +68482,7 @@ msFilterList
 -d notas.colegiomontemar.cl
 -d note.donhuvy.com
 -d note.tubnd.tk
+-d notebook03.com
 -d notehashtom.ir
 -d notequeen.com
 -d noterecognizer.com
@@ -68608,6 +68617,7 @@ msFilterList
 -d novo.famalicaotaxis.com
 -d novo.gnextz.com
 -d novo.skelt.com.br
+-d novo2.deussalveobrasil.com.br
 -d novoaroma.pt
 -d novocal.com.vn
 -d novochem.net
@@ -69194,6 +69204,7 @@ msFilterList
 -d oceanavenue.it
 -d oceanbaynantasket.com
 -d oceanbm.ca
+-d oceanfrogs.com
 -d oceangate.parkhomes.vn
 -d oceanicclearwater.echoes.co.in
 -d oceanicintl.com
@@ -69347,6 +69358,7 @@ msFilterList
 -d oetvonline.com
 -d ofb.milbaymedya.com
 -d ofek-bar.co.il
+-d ofert-al.com
 -d oferta.watra.com.pl
 -d ofertas-verano.info
 -d ofertas.comparadentistas.com
@@ -75185,6 +75197,7 @@ msFilterList
 -d prettyyellowroses.com
 -d prev.likeable.com.mx
 -d prevacytools.ru
+-d prevelo.com
 -d prevencionplus.com
 -d prevenmais.com.br
 -d preventis.fr
@@ -79260,6 +79273,7 @@ msFilterList
 -d resilientfutures.com
 -d resilientmagic.mapc.org
 -d resim.mp3hazinesi.club
+-d resioleo.com.br
 -d resisterma.com.br
 -d resmacsites.com
 -d resnichka.info
@@ -85720,6 +85734,7 @@ msFilterList
 -d singleparentaustralia.com.au
 -d singleshotespresso.com
 -d singlesunlimited.net
+-d singleworld-online.com
 -d singnetsinahinet.com
 -d singohotel.com
 -d singpost-a.me
@@ -86227,6 +86242,7 @@ msFilterList
 -d skytracker.be
 -d skytradingfzc.com
 -d skytravel.com.tw
+-d skytv.cc
 -d skyui.com
 -d skyunlimited.net
 -d skyviewprojects.com
@@ -94130,7 +94146,6 @@ msFilterList
 -d them3m.com
 -d themagic-box.net
 -d themagicalfortress.com
--d themagicstreet.com
 -d themagnifytech.com
 -d themaiergroup.com
 -d themaiergroup.com.au
@@ -95913,6 +95928,7 @@ msFilterList
 -d torradinhas.com
 -d torrecid.ml
 -d torrent-win8.net
+-d torreonlibrary.org
 -d torresdebarcelona1.com
 -d torresquinterocorp.com
 -d torreurbanismo.com
@@ -96340,6 +96356,7 @@ msFilterList
 -d transactionportal.co
 -d transagep.com
 -d transahara-hub-services.com
+-d transal.eu
 -d transamerica.simpleupdate.net
 -d transatlantictravel.xyz
 -d transbayrealestate.com
@@ -100166,6 +100183,7 @@ msFilterList
 -d videosonik.com.mk
 -d videossources.com
 -d videoswebcammsn.free.fr
+-d videract.com
 -d vides.org
 -d videsrona.com
 -d vidhamastudios.com
@@ -103101,6 +103119,7 @@ msFilterList
 -d winnebayouthchoir.com
 -d winner-kj.gq
 -d winnercircle.it
+-d winnerengenharia.com
 -d winners33.com
 -d winnersinvest.com.br
 -d winnerswin.us
@@ -106663,7 +106682,6 @@ msFilterList
 -d zerohourtransit.com
 -d zerohungerapp.com
 -d zeronde.in
--d zerone.jp
 -d zerones.biz
 -d zerophone.cc
 -d zeroratchet.000webhostapp.com
