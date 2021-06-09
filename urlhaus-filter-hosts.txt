@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Wed, 09 Jun 2021 00:13:27 UTC
+# Updated: Wed, 09 Jun 2021 12:13:36 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1320,6 +1320,8 @@
 0.0.0.0 5-shampurov.ru
 0.0.0.0 5.c8xtt.com
 0.0.0.0 5.fjwt1.crsky.com
+0.0.0.0 5.top4top.io
+0.0.0.0 5.top4top.net
 0.0.0.0 5.u0148466.z8.ru
 0.0.0.0 5.unplugrevolution.com
 0.0.0.0 5003.arentuspecial.com
@@ -2204,8 +2206,10 @@
 0.0.0.0 aayanbd.com
 0.0.0.0 aaykaydetergents.com
 0.0.0.0 aayoba.com
+0.0.0.0 aayushivfraipur.com
 0.0.0.0 aayushjyotirmaan.com
 0.0.0.0 aayushmedication.com
+0.0.0.0 aayushsurrogacyindia.com
 0.0.0.0 aayushtechnologies.com
 0.0.0.0 aazpp.com.my
 0.0.0.0 ab-platinum.kz
@@ -4919,6 +4923,7 @@
 0.0.0.0 alcorio.ro
 0.0.0.0 alcos-schweiz.ch
 0.0.0.0 aldahabengineering.com
+0.0.0.0 aldahwiprivatehospital.com
 0.0.0.0 aldama.com
 0.0.0.0 aldarizreadymix.cf
 0.0.0.0 aldawliatires.com
@@ -9689,6 +9694,7 @@
 0.0.0.0 auroom24.ru
 0.0.0.0 aurora.nl
 0.0.0.0 auroracommunitycare.com
+0.0.0.0 auroradx.com
 0.0.0.0 auroragaming.nn.pe
 0.0.0.0 aurorahurricane.net.au
 0.0.0.0 auroralatinohomecare.com
@@ -10490,6 +10496,7 @@
 0.0.0.0 azedizayn.com
 0.0.0.0 azeevatech.in
 0.0.0.0 azenzatowers.com
+0.0.0.0 azerbaijanvisa.stagingwebsite.link
 0.0.0.0 azeritibb.pe.hu
 0.0.0.0 azerothland.com
 0.0.0.0 azeta.xyz
@@ -17754,7 +17761,6 @@
 0.0.0.0 carforcashhamilton.com
 0.0.0.0 carforcome.com
 0.0.0.0 cargacontrol.com.co
-0.0.0.0 cargasipot.plataformadetransparencia.org.mx
 0.0.0.0 cargo11.000webhostapp.com
 0.0.0.0 cargofast.net
 0.0.0.0 cargoglobe-ltd.com
@@ -18926,6 +18932,7 @@
 0.0.0.0 cetprokotosh.com
 0.0.0.0 cetpromanuelsuarez.com
 0.0.0.0 cetrab.org.br
+0.0.0.0 cetus.in
 0.0.0.0 cetzi.ru
 0.0.0.0 ceuecandido.pt
 0.0.0.0 cevahirogludoner.com
@@ -20880,6 +20887,7 @@
 0.0.0.0 cms.maybanksandbox.com
 0.0.0.0 cms.namfai-hk.com
 0.0.0.0 cms.ngrok.club
+0.0.0.0 cms.pesenaja.com
 0.0.0.0 cms.pokeralliance.com
 0.0.0.0 cms.surplusudyog.com
 0.0.0.0 cmsaus.com.au
@@ -23353,6 +23361,7 @@
 0.0.0.0 cs60komazawa.com
 0.0.0.0 csa.com.uy
 0.0.0.0 csa.cries.ro
+0.0.0.0 csakcserep.hu
 0.0.0.0 csakenya.org
 0.0.0.0 csanford13i.ru.com
 0.0.0.0 csarad.com
@@ -26371,6 +26380,7 @@
 0.0.0.0 dev-tech.eu
 0.0.0.0 dev-testmystore.my
 0.0.0.0 dev-visionsharp.co.uk
+0.0.0.0 dev-wbs1.pantheonsite.io
 0.0.0.0 dev-wp.eduthrill.com
 0.0.0.0 dev.3smotors.com
 0.0.0.0 dev.454mediahouse.com
@@ -26519,6 +26529,7 @@
 0.0.0.0 dev.slamals.org
 0.0.0.0 dev.smartshopmanager.com
 0.0.0.0 dev.soiltech.net
+0.0.0.0 dev.splus.iag.usp.br
 0.0.0.0 dev.springbreaklife.com
 0.0.0.0 dev.stgss.se-solves.com
 0.0.0.0 dev.strkdesign.nl
@@ -27891,7 +27902,6 @@
 0.0.0.0 dl2.onedrive-eu.com
 0.0.0.0 dl2.onedrive-us-en.com
 0.0.0.0 dl2.storeandshare.singtel.com
-0.0.0.0 dl3.joxi.net
 0.0.0.0 dl4.joxi.net
 0.0.0.0 dl4435.ex-downloads.com
 0.0.0.0 dl63964725.dyn-downloads.com
@@ -28912,7 +28922,6 @@
 0.0.0.0 dp4kb.magelangkota.go.id
 0.0.0.0 dp5a.surabaya.go.id
 0.0.0.0 dpa-industries.com
-0.0.0.0 dpa.atos-nao.net
 0.0.0.0 dpack365-my.sharepoint.com
 0.0.0.0 dpacorp.org
 0.0.0.0 dparmm1.wci.com.ph
@@ -29458,6 +29467,7 @@
 0.0.0.0 ds.obmenvsemfiles.com
 0.0.0.0 ds.veedence.co.uk
 0.0.0.0 ds04.projectstatus.co.uk
+0.0.0.0 ds05.infourok.ru
 0.0.0.0 ds2-teremok.ru
 0.0.0.0 ds415p.com
 0.0.0.0 ds7raduga.ru
@@ -32685,6 +32695,7 @@
 0.0.0.0 ergongroup-corsi.it
 0.0.0.0 ergonomicscadeiras.com.br
 0.0.0.0 ergosnooze.com
+0.0.0.0 ergotherapeia-kalamata.gr
 0.0.0.0 ergotherapie-gerolstein.de
 0.0.0.0 ergowag.fr
 0.0.0.0 ergunhks.com
@@ -33334,9 +33345,8 @@
 0.0.0.0 etwqsx23.duckdns.org
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
-0.0.0.0 eu-central-1.protection.sophos.com
 0.0.0.0 eu-easy.com
-0.0.0.0 eu1.salesforce.com
+0.0.0.0 eu.wildfire.paloaltonetworks.com
 0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eu283iwoqodjspqisjdf.com
 0.0.0.0 eu5-cdn.devid.info
@@ -36119,6 +36129,7 @@
 0.0.0.0 fixshinellc.com
 0.0.0.0 fixtipp.hu
 0.0.0.0 fixturegovernment.com
+0.0.0.0 fixturesdesign.com
 0.0.0.0 fixusgroup.com
 0.0.0.0 fixxo.nl
 0.0.0.0 fixxoo.in
@@ -36695,6 +36706,7 @@
 0.0.0.0 forceempiregh.com
 0.0.0.0 forceop.net
 0.0.0.0 forcesight.in
+0.0.0.0 forchettacafe.altawakalcomp.com
 0.0.0.0 forconfirmation.gq
 0.0.0.0 ford-capital.com
 0.0.0.0 ford-cortina.co.uk
@@ -43254,6 +43266,7 @@
 0.0.0.0 help-pass-vet-boards.com
 0.0.0.0 help-roro.gq
 0.0.0.0 help-section.gq
+0.0.0.0 help-service.support
 0.0.0.0 help-win.ru
 0.0.0.0 help.fieldservicecrm.com
 0.0.0.0 help.flutterlashstudios.com
@@ -44809,6 +44822,7 @@
 0.0.0.0 hottest-viral.com
 0.0.0.0 hottestxxxvideo.com
 0.0.0.0 hottnews.tk
+0.0.0.0 hotwell.at
 0.0.0.0 hotxm90.com
 0.0.0.0 hotyoutuber.com
 0.0.0.0 houara.com
@@ -45501,7 +45515,6 @@
 0.0.0.0 i-supportcharity.com
 0.0.0.0 i-vnsweyu.pl
 0.0.0.0 i-voda.com
-0.0.0.0 i.cubeupload.com
 0.0.0.0 i.fiery.me
 0.0.0.0 i.fluffy.cc
 0.0.0.0 i.funtourspt.eu
@@ -45510,6 +45523,7 @@
 0.0.0.0 i.ptfecablemanufacturer.com
 0.0.0.0 i.sfu.edu.ph
 0.0.0.0 i.thechinesemuslim.com
+0.0.0.0 i.top4top.io
 0.0.0.0 i.valerana44.ru
 0.0.0.0 i03kf0g2bd9papdx.com
 0.0.0.0 i0avgy.com
@@ -47573,6 +47587,7 @@
 0.0.0.0 insaanisansar.in
 0.0.0.0 insaatkurutma.xyz
 0.0.0.0 insaatmuhendisligi.ismailtorlak.com
+0.0.0.0 insaforp.org.sv
 0.0.0.0 insainfitness.com
 0.0.0.0 insameyer.com
 0.0.0.0 insaniyatkiawaz.in
@@ -54586,6 +54601,7 @@
 0.0.0.0 l9watch.com
 0.0.0.0 la-beautystudio.ru
 0.0.0.0 la-caravane.de
+0.0.0.0 la-michna.com
 0.0.0.0 la-michna.doublet.biz
 0.0.0.0 la-reparation-galaxy.fr
 0.0.0.0 laa.loyaltyaboveall.com
@@ -59218,6 +59234,7 @@
 0.0.0.0 mail.gotomydaddy.com
 0.0.0.0 mail.grandprixweekends.com
 0.0.0.0 mail.growmatrics.com
+0.0.0.0 mail.gryph.com.au
 0.0.0.0 mail.haikuapp.com
 0.0.0.0 mail.halifaxgazette.co.uk
 0.0.0.0 mail.hamiltont.com
@@ -59976,6 +59993,7 @@
 0.0.0.0 mangalyamithra.com
 0.0.0.0 mangaml.com
 0.0.0.0 mangatun.com
+0.0.0.0 mangawt.com
 0.0.0.0 mangchongtham.com.vn
 0.0.0.0 mangchongtham.vn
 0.0.0.0 mange-gode-blogs.dk
@@ -61503,7 +61521,6 @@
 0.0.0.0 medcureorganics.com
 0.0.0.0 meddaughs.com
 0.0.0.0 medeaser.com
-0.0.0.0 mededsys.com
 0.0.0.0 medegbetv.com
 0.0.0.0 medel.it
 0.0.0.0 medenblik.net
@@ -62985,6 +63002,7 @@
 0.0.0.0 mimsite.net
 0.0.0.0 min.addeosriverdalepizzabx.com
 0.0.0.0 minami.com.tw
+0.0.0.0 minanga.co.id
 0.0.0.0 minaset.com.br
 0.0.0.0 minasflorals.com.au
 0.0.0.0 minasidhom.com
@@ -64021,6 +64039,7 @@
 0.0.0.0 molie.chat
 0.0.0.0 molinaservice.com
 0.0.0.0 moliqdress.ru
+0.0.0.0 mollendo.cl
 0.0.0.0 mollendoequipments.com
 0.0.0.0 mollersverktygsmakeri.se
 0.0.0.0 mollis.webthietke.tk
@@ -71804,6 +71823,7 @@
 0.0.0.0 panel.devilsden.net
 0.0.0.0 panel.gradeonemart.pk
 0.0.0.0 panel.iplay-community.co.il
+0.0.0.0 panel.ppsa.in
 0.0.0.0 panel.seltikpro.site
 0.0.0.0 panel3195.prohoster.biz
 0.0.0.0 panelapreta.com.br
@@ -73619,6 +73639,7 @@
 0.0.0.0 pieinternational.co.in
 0.0.0.0 pielagodelmoro.es
 0.0.0.0 piemonteitinera.net
+0.0.0.0 piemontesasaffitti.e-bill.it
 0.0.0.0 pieprzwanilia.com.pl
 0.0.0.0 pierangeliadvogados.com.br
 0.0.0.0 piercing.si
@@ -74785,9 +74806,11 @@
 0.0.0.0 portugal.scyla.com.br
 0.0.0.0 portugalbyheart.com
 0.0.0.0 portugalmypassion.com
+0.0.0.0 porvootransitioncare.com
 0.0.0.0 pos-egypt.com
 0.0.0.0 pos.iclickdigishop.com
 0.0.0.0 pos.kmb.hk
+0.0.0.0 pos.nittosupport.ca
 0.0.0.0 pos.rumen8.com
 0.0.0.0 pos.staysafe.pk
 0.0.0.0 pos.sumatosolutions.com
@@ -76335,6 +76358,7 @@
 0.0.0.0 psikologicorner.site.co.id
 0.0.0.0 psikologimarketing.com
 0.0.0.0 psikonet.net
+0.0.0.0 psikoteknik.ist
 0.0.0.0 psinsuranceservices.com
 0.0.0.0 psipolicia.gestoresdefondos.com
 0.0.0.0 psj.dk
@@ -77744,6 +77768,7 @@
 0.0.0.0 r5e4za.ch.files.1drv.com
 0.0.0.0 r63.info
 0.0.0.0 r69ioaylabrooklyn.com
+0.0.0.0 r6uturu.ru
 0.0.0.0 r9.valerana44.ru
 0.0.0.0 r9qweq19w1dq.com
 0.0.0.0 ra-design-bad.de
@@ -83514,6 +83539,7 @@
 0.0.0.0 sedmtecek.cz
 0.0.0.0 sednanatural.com
 0.0.0.0 sednya.info
+0.0.0.0 sedonanewearthrealized.com
 0.0.0.0 sedotwcdadilancar.com
 0.0.0.0 sedotwcsejakarta.com
 0.0.0.0 seductivestrands.com
@@ -84903,6 +84929,7 @@
 0.0.0.0 shikrasport.ru
 0.0.0.0 shikshabarta.com
 0.0.0.0 shikshakhaber.com
+0.0.0.0 shiksharatna.com
 0.0.0.0 shilmanmed.co.il
 0.0.0.0 shilpkarmedia.com
 0.0.0.0 shimadzu72.hoobool.co.kr
@@ -89109,6 +89136,7 @@
 0.0.0.0 static.solidbasewebschool.nl
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.tweerwy.com
+0.0.0.0 static.xyimg.net
 0.0.0.0 staticholidaysuk.co.uk
 0.0.0.0 staticonline.bar
 0.0.0.0 statieheli.com
@@ -89580,6 +89608,7 @@
 0.0.0.0 stikesbanyuwangi.ac.id
 0.0.0.0 stikesbaptis.ac.id
 0.0.0.0 stikeshangtuahsby-library.ac.id
+0.0.0.0 stikked.ch
 0.0.0.0 stiksimonida.com
 0.0.0.0 stile-strano.com
 0.0.0.0 stiledesignitaliano.com
@@ -90938,6 +90967,7 @@
 0.0.0.0 suviajeaunclick.com
 0.0.0.0 suvin.vn
 0.0.0.0 suxin.run
+0.0.0.0 suyashhospitalraipur.com
 0.0.0.0 suyogbhalero.xyz
 0.0.0.0 suyx.net
 0.0.0.0 suzanamira.com
@@ -94282,6 +94312,7 @@
 0.0.0.0 thekingsway.org
 0.0.0.0 thekiranastore.co.in
 0.0.0.0 theknowledgeset.com
+0.0.0.0 thekrishnagroup.com
 0.0.0.0 thekrumb.com
 0.0.0.0 thekubhugja1.xyz
 0.0.0.0 thekukuaproject.com
@@ -96202,6 +96233,7 @@
 0.0.0.0 touchuphouse.com
 0.0.0.0 touchupxs.com
 0.0.0.0 toufighsport.ir
+0.0.0.0 tough-guy.xyz
 0.0.0.0 toughdomain.xyz
 0.0.0.0 touka.parsysit.com
 0.0.0.0 toulousa.com
@@ -99090,6 +99122,7 @@
 0.0.0.0 useraccount.co
 0.0.0.0 useradmincloud.gq
 0.0.0.0 useragent20.barloggio.net
+0.0.0.0 users.atw.hu
 0.0.0.0 users.tpg.com.au
 0.0.0.0 userslinks.xyz
 0.0.0.0 useurogren.com
@@ -101296,7 +101329,6 @@
 0.0.0.0 volkswagen-renta.ru
 0.0.0.0 volkswagensto.kiev.ua
 0.0.0.0 volkvangrada.mda20.staging.rapide.software
-0.0.0.0 vollediggroen.nl
 0.0.0.0 volleyballnt.com.au
 0.0.0.0 volminpetshop.com
 0.0.0.0 volna.top
@@ -104394,6 +104426,7 @@
 0.0.0.0 www.smart-eg.com
 0.0.0.0 www022284.com
 0.0.0.0 www1.bheringadvogados.com.br
+0.0.0.0 www107.zippyshare.com
 0.0.0.0 www11.thinkproject.com
 0.0.0.0 www2.cj53.cn
 0.0.0.0 www2.gamingsupport.com
@@ -105538,6 +105571,7 @@
 0.0.0.0 xzylacorp.com
 0.0.0.0 xzyy5.cn
 0.0.0.0 y-bet365.com
+0.0.0.0 y-hb.co.il
 0.0.0.0 y-post.top
 0.0.0.0 y-sani.com
 0.0.0.0 y-std.ru
