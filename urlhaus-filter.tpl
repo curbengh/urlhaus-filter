@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 11 Jun 2021 00:13:40 UTC
+# Updated: Fri, 11 Jun 2021 12:13:23 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1325,7 +1325,6 @@ msFilterList
 -d 5.c8xtt.com
 -d 5.fjwt1.crsky.com
 -d 5.top4top.io
--d 5.top4top.net
 -d 5.u0148466.z8.ru
 -d 5.unplugrevolution.com
 -d 5003.arentuspecial.com
@@ -1604,6 +1603,7 @@ msFilterList
 -d 7bsnake1.com
 -d 7bwh.com
 -d 7c2918ca.ngrok.io
+-d 7cats.ch
 -d 7clock.ir
 -d 7continents7lawns.com
 -d 7cut.extroliving.com
@@ -8133,7 +8133,6 @@ msFilterList
 -d argentina.ganar-dinero-hoy.com
 -d argentinadanza.com
 -d arggroup.kz
--d arghaa.com
 -d arghakhanchibulletin.com
 -d arghusk.com
 -d argilasantana.com.br
@@ -11328,6 +11327,7 @@ msFilterList
 -d bar-t.ru
 -d bar-tenderly.com
 -d bar.horizonvape.pro
+-d bara-seck.com
 -d baraabaru.com
 -d barabaghhanumanji.com
 -d barabonbonsxm.fr
@@ -15823,6 +15823,7 @@ msFilterList
 -d brideofmessiah.com
 -d bridesmaiddesigners.net
 -d bridesofmaldives.com
+-d bridge-pomoja.org
 -d bridgearchitects.com
 -d bridgecareinc.com
 -d bridgefilmfest.net
@@ -22626,6 +22627,7 @@ msFilterList
 -d count.mail.163.com.sinofoodz.com
 -d countdown2chaos.com
 -d countercon.com.br
+-d counterpros.online
 -d counterstrikerecords.com
 -d countingtheapples.com
 -d countrygroup.nl
@@ -27940,7 +27942,6 @@ msFilterList
 -d dl2.onedrive-eu.com
 -d dl2.onedrive-us-en.com
 -d dl2.storeandshare.singtel.com
--d dl3.joxi.net
 -d dl4.joxi.net
 -d dl4435.ex-downloads.com
 -d dl63964725.dyn-downloads.com
@@ -29896,7 +29897,6 @@ msFilterList
 -d dwahomework.biz
 -d dwallo.com
 -d dwarikadhishyadav.in
--d dwarikesh.com
 -d dwater.com.au
 -d dwaynejohnson.co.in
 -d dwclub.top
@@ -33394,7 +33394,7 @@ msFilterList
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
 -d eu-easy.com
--d eu.wildfire.paloaltonetworks.com
+-d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -36254,6 +36254,7 @@ msFilterList
 -d flancalfaltd10.com
 -d flaneur.pk
 -d flanneldistribuidora.online
+-d flantrontrading.com
 -d flapcon.com
 -d flapperswing.com
 -d flarevm.com
@@ -37003,6 +37004,7 @@ msFilterList
 -d fotografiarnia.pl
 -d fotoground.com
 -d fotojurczak.pl
+-d fotokubin.big07.pl
 -d fotolegko.ru
 -d fotomax.fr
 -d fotomb.com
@@ -43344,7 +43346,6 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
--d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -43686,7 +43687,6 @@ msFilterList
 -d hidenlove.jobpreneurship.com
 -d hidge.net
 -d hidranco.com
--d hidrive.ionos.com
 -d hidrofire.greenstudio.co
 -d hidrogadget.com
 -d hidroilles.com
@@ -43753,6 +43753,7 @@ msFilterList
 -d highschools.creationlife.com
 -d highschoolscienceambassadors.com
 -d highskyairways.com
+-d highsocietyhair.com
 -d hightea.tk
 -d hightec-dz.com
 -d hightec.cl
@@ -45577,6 +45578,7 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
+-d i.cubeupload.com
 -d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
@@ -45585,7 +45587,6 @@ msFilterList
 -d i.ptfecablemanufacturer.com
 -d i.sfu.edu.ph
 -d i.thechinesemuslim.com
--d i.top4top.io
 -d i.valerana44.ru
 -d i03kf0g2bd9papdx.com
 -d i0avgy.com
@@ -89726,6 +89727,7 @@ msFilterList
 -d stiefkind.art
 -d stiepancasetia.ac.id
 -d stiga.nvd.by
+-d stigram.lv
 -d stiha.nl
 -d stihiproigrushki.ru
 -d stijnbiemans.nl
@@ -93304,6 +93306,7 @@ msFilterList
 -d tesli.ge
 -d tesmtn.000webhostapp.com
 -d tesonisitma.com
+-d tesorak.ru
 -d tesoro-japan.jp
 -d tessaract.be
 -d tessblomportfolio.nl
@@ -96720,6 +96723,7 @@ msFilterList
 -d tranmedia.vn
 -d trannhukhanh.com
 -d tranquilitycamping.net
+-d trans4mtech.co.uk
 -d transaccion.ga
 -d transactionmodeling.com
 -d transactionportal.co
@@ -97284,7 +97288,6 @@ msFilterList
 -d truenatural.com.vn
 -d truenorthtimber.com
 -d trueperz.com
--d trueshare.com
 -d trueskills.in
 -d trueteeshirt.com
 -d trueterroir.co.uk
@@ -97438,7 +97441,6 @@ msFilterList
 -d tsredco.telangana.gov.in
 -d tsrj.monster
 -d tsrv2.top
--d tsrv4.ws
 -d tssolutionsgroup.com
 -d tst.marineindust.com
 -d tstfrigo.com
@@ -99259,7 +99261,6 @@ msFilterList
 -d useraccount.co
 -d useradmincloud.gq
 -d useragent20.barloggio.net
--d users.atw.hu
 -d users.tpg.com.au
 -d userslinks.xyz
 -d useurogren.com
@@ -101470,6 +101471,7 @@ msFilterList
 -d volkswagen-renta.ru
 -d volkswagensto.kiev.ua
 -d volkvangrada.mda20.staging.rapide.software
+-d vollediggroen.nl
 -d volleyballnt.com.au
 -d volminpetshop.com
 -d volna.top
@@ -104814,6 +104816,7 @@ msFilterList
 -d xerrrload03.top
 -d xerrrload04.top
 -d xetaimt.com
+-d xetaithanhhungvn.com
 -d xethugomrac.com.vn
 -d xework.com
 -d xfactorguide.com
