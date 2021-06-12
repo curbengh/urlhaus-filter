@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 12 Jun 2021 00:14:02 UTC
+# Updated: Sat, 12 Jun 2021 12:13:24 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -519,7 +519,6 @@ msFilterList
 -d 2.spacepel.com
 -d 2.toemobra.com.br
 -d 2.top4top.io
--d 2.top4top.net
 -d 2.u0135364.z8.ru
 -d 20.c8xtt.com
 -d 20.dbstrony.pl
@@ -1325,7 +1324,6 @@ msFilterList
 -d 5-shampurov.ru
 -d 5.c8xtt.com
 -d 5.fjwt1.crsky.com
--d 5.top4top.io
 -d 5.u0148466.z8.ru
 -d 5.unplugrevolution.com
 -d 5003.arentuspecial.com
@@ -3059,7 +3057,6 @@ msFilterList
 -d adamestone.com
 -d adamhyland.co.uk
 -d adamjaneomir.kz
--d adamjeelife.com
 -d adamjeerealestate.com
 -d adammark2009.com
 -d adammusic.vn
@@ -25291,7 +25288,6 @@ msFilterList
 -d decoronthemove.co.za
 -d decorsfantasmo.com
 -d decorstoff.com
--d decorstyle.ig.com.br
 -d decortez.com
 -d decortie.top
 -d decosa.co.hu
@@ -26574,7 +26570,6 @@ msFilterList
 -d dev.slamals.org
 -d dev.smartshopmanager.com
 -d dev.soiltech.net
--d dev.splus.iag.usp.br
 -d dev.springbreaklife.com
 -d dev.stgss.se-solves.com
 -d dev.strkdesign.nl
@@ -28970,6 +28965,7 @@ msFilterList
 -d dp4kb.magelangkota.go.id
 -d dp5a.surabaya.go.id
 -d dpa-industries.com
+-d dpa.atos-nao.net
 -d dpack365-my.sharepoint.com
 -d dpacorp.org
 -d dparmm1.wci.com.ph
@@ -29903,6 +29899,7 @@ msFilterList
 -d dwahomework.biz
 -d dwallo.com
 -d dwarikadhishyadav.in
+-d dwarikesh.com
 -d dwater.com.au
 -d dwaynejohnson.co.in
 -d dwclub.top
@@ -41336,7 +41333,6 @@ msFilterList
 -d groupegps.com
 -d groupeicaetudes.com
 -d groupejpr.com
--d grouper.ieee.org
 -d groupesival.com
 -d groupevl.ca
 -d groupfeaab.com
@@ -43355,6 +43351,7 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
+-d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -53345,7 +53342,6 @@ msFilterList
 -d klaryus.com.br
 -d klaschusnet.de
 -d klasisgk.or.id
--d klassapp.com
 -d klassik.com.br
 -d klassniydom.ru
 -d klasterpolskanatura.pl
@@ -53970,6 +53966,7 @@ msFilterList
 -d kovimall.com
 -d kovkaplitka.ru
 -d kowamusicstore.com
+-d kowashitekata.ru
 -d kowil.com.vn
 -d kowsarpipe.com
 -d koynwool.com
@@ -57122,6 +57119,7 @@ msFilterList
 -d liveclass.tisibogra.com
 -d livecricketscorecard.info
 -d livedaynews.com
+-d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d livefarma.com
@@ -61154,6 +61152,7 @@ msFilterList
 -d mawidaspa.cl
 -d mawpumpcomau-my.sharepoint.com
 -d mawqi3.com
+-d mawrid.net
 -d mawrmarketing.co.uk
 -d max-alarm.pl
 -d max-clean.com
@@ -66325,6 +66324,7 @@ msFilterList
 -d nakatika.tk
 -d nakedbeancafe.com
 -d nakedhippiesnacks.com
+-d nakilengetours.com
 -d nakispiko.com
 -d nakit-majoma.eu
 -d nakkufoodsafetyconsults.org
@@ -79684,6 +79684,7 @@ msFilterList
 -d retos-enformaherbal.com
 -d retouchway.com
 -d retoverano.nacionsaludable.com
+-d retracker.host
 -d retreatsmaui.com
 -d retro-cinema.ru
 -d retro-jordans-for-sale.com
@@ -97477,6 +97478,7 @@ msFilterList
 -d tsredco.telangana.gov.in
 -d tsrj.monster
 -d tsrv2.top
+-d tsrv4.ws
 -d tssolutionsgroup.com
 -d tst.marineindust.com
 -d tstfrigo.com
@@ -99716,6 +99718,7 @@ msFilterList
 -d valure-eg.com
 -d vamdesigns.com
 -d vamgha01.top
+-d vamhgx07.top
 -d vamos.ssquares.co.in
 -d vamosaway.com
 -d vamoss.com.br
