@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 12 Jun 2021 12:13:24 UTC
+# Updated: Sun, 13 Jun 2021 00:14:12 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -170,6 +170,7 @@ msFilterList
 -d 1056.allenbrothersfood.com
 -d 106829979-802763948852434700.preview.editmysite.com
 -d 1069thefan.cachevalleymediagroup.com
+-d 1069thefan.com
 -d 106b.com
 -d 107.as7x.com
 -d 1075terrabella.com
@@ -4435,6 +4436,7 @@ msFilterList
 -d aisect.org
 -d aiserimplants.com
 -d aishanghaofang.com
+-d aishic.com
 -d aisi2000.com.ua
 -d aisioy.xyz
 -d aisis.co.uk
@@ -5370,6 +5372,7 @@ msFilterList
 -d allainesconsultancyinc.com
 -d allamanolibrary.com
 -d allan-it.com
+-d allanabolicsteam.net
 -d allanelect.co.uk
 -d allangillphotography.com
 -d allanhollowell.com
@@ -6467,6 +6470,7 @@ msFilterList
 -d amyzeng.net
 -d amz521.com
 -d amznetworking.com
+-d amzonfun.com
 -d an-premium.ru
 -d an9news.com
 -d ana.aulasdigitais.site
@@ -6474,6 +6478,7 @@ msFilterList
 -d anaaj.pk
 -d anabellas.com
 -d anabim.com
+-d anabolicsteroidsbuy.info
 -d anaceb.com
 -d anadearmas.net
 -d anadelgbt.org
@@ -10805,6 +10810,7 @@ msFilterList
 -d backup.xn----8sba7bmrlhv0a.xn--p1ai
 -d backup2.robinandelaine.com
 -d backupcom.e-twow.uk
+-d backupez.com
 -d backupfashions.com
 -d backupsitedev.flywheelsites.com
 -d backupsql.datasiswebcontable.com
@@ -12242,6 +12248,7 @@ msFilterList
 -d belaythakayni.com
 -d belboks.com
 -d belboy.in
+-d belcineloweek.ru
 -d belconger.com
 -d belcorpisl.com
 -d belcvet.com
@@ -14918,6 +14925,7 @@ msFilterList
 -d bobbyworld.top
 -d bobcar.com.my
 -d bobcatofchico.com
+-d bobcatofredding.com
 -d bobcook.ca
 -d bobdolph.com
 -d bobenstetter.net
@@ -16233,6 +16241,7 @@ msFilterList
 -d bucketstrong.s3-us-west-1.amazonaws.com
 -d buckeyechartershiltonhead.com
 -d buckeyeoptical.com
+-d buckeyesecurity.net
 -d buckinghamandlloyds.com
 -d buckleman.co.id
 -d bucklindata.net
@@ -28689,6 +28698,7 @@ msFilterList
 -d dotpay.id
 -d dotpos.in
 -d dotproject.org
+-d dotshop.gr
 -d dotshopify.com
 -d dottoressapatriziazamproni.it
 -d dotval.com
@@ -53288,6 +53298,7 @@ msFilterList
 -d kjkasdjaksdasdbe.com
 -d kjkpropertysolutions.com
 -d kjmblog.com
+-d kjmembran.com
 -d kjndiagnosticcentre.com
 -d kjndnadandwdhnjw.com
 -d kjnk.ee
@@ -61052,6 +61063,7 @@ msFilterList
 -d matinal-nominal.pt
 -d matinba.com
 -d matiplas.ma
+-d matix.cf
 -d matixx.xyz
 -d matiz-pombalina.pt
 -d matlanews.ir
@@ -70574,6 +70586,7 @@ msFilterList
 -d ooc.pw
 -d ooch.co.uk
 -d oochechersk.gov.by
+-d oodda.com
 -d oodfloristry.com
 -d oohbox.pl
 -d oohrdg.by.files.1drv.com
@@ -81274,6 +81287,7 @@ msFilterList
 -d runmureed.com
 -d runmyweb.com
 -d runnected.kaiman.fr
+-d runnerbd.com
 -d runnerschool.com
 -d running-bike.com
 -d runningcrewteam.com
@@ -90717,6 +90731,7 @@ msFilterList
 -d sunflowerschoolandcollege.com
 -d sunfruit.com.tn
 -d sunganak.in
+-d sungardspo.com
 -d sungazer.com.au
 -d sunglasses2020.com
 -d sungvalopkhongsam.com
@@ -93163,6 +93178,7 @@ msFilterList
 -d tendep.com
 -d tenderheartfoundation.org
 -d tenderind.com
+-d tenders-dz.com
 -d tendwalk.com
 -d tenedromhouses.com
 -d tenelevendirectsales.com
@@ -97376,6 +97392,7 @@ msFilterList
 -d trustinspect.com
 -d trustlancers.com
 -d trustorbit.com
+-d trustpilot-scam.com
 -d trustpropertyholdings.com
 -d trustrambusinesssolutions.com
 -d trustrobins.info
@@ -105253,6 +105270,7 @@ msFilterList
 -d xn--80aaahdmwpe7cya1j.xn--p1ai
 -d xn--80aaak0aikealhb2b4eue9a.xn--p1ai
 -d xn--80aaaqrdil7a5afj.xn--p1ai
+-d xn--80aaarcad8akdntyciv3d.xn--p1ai
 -d xn--80aaauzhcpqcjjh5j.xn--p1ai
 -d xn--80aabndlg5bc6aganf.xn--p1ai
 -d xn--80aacbmgyemxi2a.xn--p1ai
