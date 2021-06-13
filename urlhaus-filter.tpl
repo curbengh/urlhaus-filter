@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 13 Jun 2021 00:14:12 UTC
+# Updated: Sun, 13 Jun 2021 12:13:59 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -519,7 +519,6 @@ msFilterList
 -d 2.nvd.by
 -d 2.spacepel.com
 -d 2.toemobra.com.br
--d 2.top4top.io
 -d 2.u0135364.z8.ru
 -d 20.c8xtt.com
 -d 20.dbstrony.pl
@@ -1353,7 +1352,6 @@ msFilterList
 -d 518meeker.com
 -d 518td.cn
 -d 518vps.com
--d 51aiwan.com
 -d 51az.com.cn
 -d 51bairen.com
 -d 51gua.vip
@@ -1603,7 +1601,6 @@ msFilterList
 -d 7bsnake1.com
 -d 7bwh.com
 -d 7c2918ca.ngrok.io
--d 7cats.ch
 -d 7clock.ir
 -d 7continents7lawns.com
 -d 7cut.extroliving.com
@@ -8135,6 +8132,7 @@ msFilterList
 -d argentina.ganar-dinero-hoy.com
 -d argentinadanza.com
 -d arggroup.kz
+-d arghaa.com
 -d arghakhanchibulletin.com
 -d arghusk.com
 -d argilasantana.com.br
@@ -10850,7 +10848,6 @@ msFilterList
 -d badkamer-sanitair.nl
 -d badkamermaker.nl
 -d badmildiou.com
--d badzena.com
 -d baeckerei-strenger.de
 -d baedekker.com
 -d baek-laursen.com
@@ -16896,7 +16893,6 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
--d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -21724,7 +21720,6 @@ msFilterList
 -d computerhome24.com
 -d computerhungary.hu
 -d computerjungle.it
--d computerkolkata.com
 -d computerland.in
 -d computermegamart.com
 -d computerpete.com
@@ -25297,6 +25292,7 @@ msFilterList
 -d decoronthemove.co.za
 -d decorsfantasmo.com
 -d decorstoff.com
+-d decorstyle.ig.com.br
 -d decortez.com
 -d decortie.top
 -d decosa.co.hu
@@ -28867,6 +28863,7 @@ msFilterList
 -d download-invoice.site
 -d download-plugin.co.za
 -d download-plugins.co.za
+-d download-serv-124473.xyz
 -d download-serverupdate.eu-gb.cf.appdomain.cloud
 -d download.adamas.ai
 -d download.azaleanet.it
@@ -28975,7 +28972,6 @@ msFilterList
 -d dp4kb.magelangkota.go.id
 -d dp5a.surabaya.go.id
 -d dpa-industries.com
--d dpa.atos-nao.net
 -d dpack365-my.sharepoint.com
 -d dpacorp.org
 -d dparmm1.wci.com.ph
@@ -29909,7 +29905,6 @@ msFilterList
 -d dwahomework.biz
 -d dwallo.com
 -d dwarikadhishyadav.in
--d dwarikesh.com
 -d dwater.com.au
 -d dwaynejohnson.co.in
 -d dwclub.top
@@ -33406,6 +33401,7 @@ msFilterList
 -d etwqsx23.duckdns.org
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
+-d eu-central-1.protection.sophos.com
 -d eu-easy.com
 -d eu1.salesforce.com
 -d eu14.tmd.cloud
@@ -35626,6 +35622,7 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
+-d file.elecfans.com
 -d file.fm
 -d file.hackingfor.fun
 -d file.importantcover.uk
@@ -43703,6 +43700,7 @@ msFilterList
 -d hidenlove.jobpreneurship.com
 -d hidge.net
 -d hidranco.com
+-d hidrive.ionos.com
 -d hidrofire.greenstudio.co
 -d hidrogadget.com
 -d hidroilles.com
@@ -44901,7 +44899,6 @@ msFilterList
 -d hottest-viral.com
 -d hottestxxxvideo.com
 -d hottnews.tk
--d hotwell.at
 -d hotxm90.com
 -d hotyoutuber.com
 -d houara.com
@@ -45594,7 +45591,6 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
--d i.cubeupload.com
 -d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
@@ -47609,6 +47605,7 @@ msFilterList
 -d inochi.bettercre.com
 -d inodesthetotaldesigners.com
 -d inoffice.lt
+-d inoglink.com
 -d inok.rs
 -d inokim.kz
 -d inomi.com
@@ -47666,7 +47663,6 @@ msFilterList
 -d insaanisansar.in
 -d insaatkurutma.xyz
 -d insaatmuhendisligi.ismailtorlak.com
--d insaforp.org.sv
 -d insainfitness.com
 -d insameyer.com
 -d insaniyatkiawaz.in
@@ -49206,7 +49202,6 @@ msFilterList
 -d ixlarge.net
 -d ixlonbcc.com
 -d ixmoradadosol.com
--d ixploreuniversities.com
 -d ixrbph.com
 -d ixsis.com
 -d ixtosg.am.files.1drv.com
@@ -58404,7 +58399,6 @@ msFilterList
 -d luzana.sk
 -d luzbarbosa.com.br
 -d luzconsulting.com.br
--d luzevida.com.br
 -d luzfloral.com
 -d luzy.vn
 -d luzzeri.com
@@ -60095,7 +60089,6 @@ msFilterList
 -d mangalyamithra.com
 -d mangaml.com
 -d mangatun.com
--d mangawt.com
 -d mangchongtham.com.vn
 -d mangchongtham.vn
 -d mange-gode-blogs.dk
@@ -61630,6 +61623,7 @@ msFilterList
 -d medcureorganics.com
 -d meddaughs.com
 -d medeaser.com
+-d mededsys.com
 -d medegbetv.com
 -d medel.it
 -d medenblik.net
@@ -71548,6 +71542,7 @@ msFilterList
 -d p-clone.net
 -d p-d.com.ua
 -d p-h-s-t.persiangig.com
+-d p-lux4.pcloud.com
 -d p.baozy.com
 -d p.dropmy.nl
 -d p.owwwa.com
@@ -78978,7 +78973,6 @@ msFilterList
 -d reddeertowingservice.com
 -d reddevil.xyz
 -d reddingsbrigade-hellevoetsluis.nl
--d reddoak.com
 -d reddogtransport.co.uk
 -d reddogzone.com
 -d redebioclinica.med.br
@@ -88809,9 +88803,7 @@ msFilterList
 -d srtms.in
 -d srujanovision.com
 -d srv-15.directserver.us
--d srv7.computerkolkata.com
 -d srv77956.ht-test.ru
--d srv9.computerkolkata.com
 -d srv9.corpwebcontrol.com
 -d srvmanos.no-ip.info
 -d ss-setta.com
@@ -95745,7 +95737,6 @@ msFilterList
 -d tldrnet.top
 -d tlextreme.com
 -d tlfthelifefactory.com.au
--d tlgur.com
 -d tlkcloudem.com
 -d tlktdsfj.sha58.me
 -d tlpclient.site
@@ -97271,6 +97262,7 @@ msFilterList
 -d trontik.ru
 -d troodonmedia.com
 -d troopchalkkids.com
+-d troopwebhost.blob.core.windows.net
 -d tropicalhawaii.com
 -d tropicalhomesofcostarica.com
 -d tropicalislandrealtyofflorida.com
@@ -103536,6 +103528,7 @@ msFilterList
 -d windowtreatmentswesthollywood.com
 -d windrvs.com
 -d windrvs.ru
+-d windshield-replacement-surprise.com
 -d windup.net.br
 -d windwardwake.com
 -d windybio.vn

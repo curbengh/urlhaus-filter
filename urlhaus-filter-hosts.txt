@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 13 Jun 2021 00:14:12 UTC
+# Updated: Sun, 13 Jun 2021 12:13:59 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -516,7 +516,6 @@
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
 0.0.0.0 2.toemobra.com.br
-0.0.0.0 2.top4top.io
 0.0.0.0 2.u0135364.z8.ru
 0.0.0.0 20.c8xtt.com
 0.0.0.0 20.dbstrony.pl
@@ -1350,7 +1349,6 @@
 0.0.0.0 518meeker.com
 0.0.0.0 518td.cn
 0.0.0.0 518vps.com
-0.0.0.0 51aiwan.com
 0.0.0.0 51az.com.cn
 0.0.0.0 51bairen.com
 0.0.0.0 51gua.vip
@@ -1600,7 +1598,6 @@
 0.0.0.0 7bsnake1.com
 0.0.0.0 7bwh.com
 0.0.0.0 7c2918ca.ngrok.io
-0.0.0.0 7cats.ch
 0.0.0.0 7clock.ir
 0.0.0.0 7continents7lawns.com
 0.0.0.0 7cut.extroliving.com
@@ -8132,6 +8129,7 @@
 0.0.0.0 argentina.ganar-dinero-hoy.com
 0.0.0.0 argentinadanza.com
 0.0.0.0 arggroup.kz
+0.0.0.0 arghaa.com
 0.0.0.0 arghakhanchibulletin.com
 0.0.0.0 arghusk.com
 0.0.0.0 argilasantana.com.br
@@ -10847,7 +10845,6 @@
 0.0.0.0 badkamer-sanitair.nl
 0.0.0.0 badkamermaker.nl
 0.0.0.0 badmildiou.com
-0.0.0.0 badzena.com
 0.0.0.0 baeckerei-strenger.de
 0.0.0.0 baedekker.com
 0.0.0.0 baek-laursen.com
@@ -16893,7 +16890,6 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
-0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -21721,7 +21717,6 @@
 0.0.0.0 computerhome24.com
 0.0.0.0 computerhungary.hu
 0.0.0.0 computerjungle.it
-0.0.0.0 computerkolkata.com
 0.0.0.0 computerland.in
 0.0.0.0 computermegamart.com
 0.0.0.0 computerpete.com
@@ -25294,6 +25289,7 @@
 0.0.0.0 decoronthemove.co.za
 0.0.0.0 decorsfantasmo.com
 0.0.0.0 decorstoff.com
+0.0.0.0 decorstyle.ig.com.br
 0.0.0.0 decortez.com
 0.0.0.0 decortie.top
 0.0.0.0 decosa.co.hu
@@ -28864,6 +28860,7 @@
 0.0.0.0 download-invoice.site
 0.0.0.0 download-plugin.co.za
 0.0.0.0 download-plugins.co.za
+0.0.0.0 download-serv-124473.xyz
 0.0.0.0 download-serverupdate.eu-gb.cf.appdomain.cloud
 0.0.0.0 download.adamas.ai
 0.0.0.0 download.azaleanet.it
@@ -28972,7 +28969,6 @@
 0.0.0.0 dp4kb.magelangkota.go.id
 0.0.0.0 dp5a.surabaya.go.id
 0.0.0.0 dpa-industries.com
-0.0.0.0 dpa.atos-nao.net
 0.0.0.0 dpack365-my.sharepoint.com
 0.0.0.0 dpacorp.org
 0.0.0.0 dparmm1.wci.com.ph
@@ -29906,7 +29902,6 @@
 0.0.0.0 dwahomework.biz
 0.0.0.0 dwallo.com
 0.0.0.0 dwarikadhishyadav.in
-0.0.0.0 dwarikesh.com
 0.0.0.0 dwater.com.au
 0.0.0.0 dwaynejohnson.co.in
 0.0.0.0 dwclub.top
@@ -33403,6 +33398,7 @@
 0.0.0.0 etwqsx23.duckdns.org
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
+0.0.0.0 eu-central-1.protection.sophos.com
 0.0.0.0 eu-easy.com
 0.0.0.0 eu1.salesforce.com
 0.0.0.0 eu14.tmd.cloud
@@ -35623,6 +35619,7 @@
 0.0.0.0 file.discountmonumentcenter.com
 0.0.0.0 file.dpmf.com.pk
 0.0.0.0 file.ekkggr3.com
+0.0.0.0 file.elecfans.com
 0.0.0.0 file.fm
 0.0.0.0 file.hackingfor.fun
 0.0.0.0 file.importantcover.uk
@@ -43700,6 +43697,7 @@
 0.0.0.0 hidenlove.jobpreneurship.com
 0.0.0.0 hidge.net
 0.0.0.0 hidranco.com
+0.0.0.0 hidrive.ionos.com
 0.0.0.0 hidrofire.greenstudio.co
 0.0.0.0 hidrogadget.com
 0.0.0.0 hidroilles.com
@@ -44898,7 +44896,6 @@
 0.0.0.0 hottest-viral.com
 0.0.0.0 hottestxxxvideo.com
 0.0.0.0 hottnews.tk
-0.0.0.0 hotwell.at
 0.0.0.0 hotxm90.com
 0.0.0.0 hotyoutuber.com
 0.0.0.0 houara.com
@@ -45591,7 +45588,6 @@
 0.0.0.0 i-supportcharity.com
 0.0.0.0 i-vnsweyu.pl
 0.0.0.0 i-voda.com
-0.0.0.0 i.cubeupload.com
 0.0.0.0 i.fiery.me
 0.0.0.0 i.fluffy.cc
 0.0.0.0 i.funtourspt.eu
@@ -47606,6 +47602,7 @@
 0.0.0.0 inochi.bettercre.com
 0.0.0.0 inodesthetotaldesigners.com
 0.0.0.0 inoffice.lt
+0.0.0.0 inoglink.com
 0.0.0.0 inok.rs
 0.0.0.0 inokim.kz
 0.0.0.0 inomi.com
@@ -47663,7 +47660,6 @@
 0.0.0.0 insaanisansar.in
 0.0.0.0 insaatkurutma.xyz
 0.0.0.0 insaatmuhendisligi.ismailtorlak.com
-0.0.0.0 insaforp.org.sv
 0.0.0.0 insainfitness.com
 0.0.0.0 insameyer.com
 0.0.0.0 insaniyatkiawaz.in
@@ -49203,7 +49199,6 @@
 0.0.0.0 ixlarge.net
 0.0.0.0 ixlonbcc.com
 0.0.0.0 ixmoradadosol.com
-0.0.0.0 ixploreuniversities.com
 0.0.0.0 ixrbph.com
 0.0.0.0 ixsis.com
 0.0.0.0 ixtosg.am.files.1drv.com
@@ -58401,7 +58396,6 @@
 0.0.0.0 luzana.sk
 0.0.0.0 luzbarbosa.com.br
 0.0.0.0 luzconsulting.com.br
-0.0.0.0 luzevida.com.br
 0.0.0.0 luzfloral.com
 0.0.0.0 luzy.vn
 0.0.0.0 luzzeri.com
@@ -60092,7 +60086,6 @@
 0.0.0.0 mangalyamithra.com
 0.0.0.0 mangaml.com
 0.0.0.0 mangatun.com
-0.0.0.0 mangawt.com
 0.0.0.0 mangchongtham.com.vn
 0.0.0.0 mangchongtham.vn
 0.0.0.0 mange-gode-blogs.dk
@@ -61627,6 +61620,7 @@
 0.0.0.0 medcureorganics.com
 0.0.0.0 meddaughs.com
 0.0.0.0 medeaser.com
+0.0.0.0 mededsys.com
 0.0.0.0 medegbetv.com
 0.0.0.0 medel.it
 0.0.0.0 medenblik.net
@@ -71545,6 +71539,7 @@
 0.0.0.0 p-clone.net
 0.0.0.0 p-d.com.ua
 0.0.0.0 p-h-s-t.persiangig.com
+0.0.0.0 p-lux4.pcloud.com
 0.0.0.0 p.baozy.com
 0.0.0.0 p.dropmy.nl
 0.0.0.0 p.owwwa.com
@@ -78975,7 +78970,6 @@
 0.0.0.0 reddeertowingservice.com
 0.0.0.0 reddevil.xyz
 0.0.0.0 reddingsbrigade-hellevoetsluis.nl
-0.0.0.0 reddoak.com
 0.0.0.0 reddogtransport.co.uk
 0.0.0.0 reddogzone.com
 0.0.0.0 redebioclinica.med.br
@@ -88806,9 +88800,7 @@
 0.0.0.0 srtms.in
 0.0.0.0 srujanovision.com
 0.0.0.0 srv-15.directserver.us
-0.0.0.0 srv7.computerkolkata.com
 0.0.0.0 srv77956.ht-test.ru
-0.0.0.0 srv9.computerkolkata.com
 0.0.0.0 srv9.corpwebcontrol.com
 0.0.0.0 srvmanos.no-ip.info
 0.0.0.0 ss-setta.com
@@ -95742,7 +95734,6 @@
 0.0.0.0 tldrnet.top
 0.0.0.0 tlextreme.com
 0.0.0.0 tlfthelifefactory.com.au
-0.0.0.0 tlgur.com
 0.0.0.0 tlkcloudem.com
 0.0.0.0 tlktdsfj.sha58.me
 0.0.0.0 tlpclient.site
@@ -97268,6 +97259,7 @@
 0.0.0.0 trontik.ru
 0.0.0.0 troodonmedia.com
 0.0.0.0 troopchalkkids.com
+0.0.0.0 troopwebhost.blob.core.windows.net
 0.0.0.0 tropicalhawaii.com
 0.0.0.0 tropicalhomesofcostarica.com
 0.0.0.0 tropicalislandrealtyofflorida.com
@@ -103533,6 +103525,7 @@
 0.0.0.0 windowtreatmentswesthollywood.com
 0.0.0.0 windrvs.com
 0.0.0.0 windrvs.ru
+0.0.0.0 windshield-replacement-surprise.com
 0.0.0.0 windup.net.br
 0.0.0.0 windwardwake.com
 0.0.0.0 windybio.vn
