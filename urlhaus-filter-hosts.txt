@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 13 Jun 2021 12:13:59 UTC
+# Updated: Mon, 14 Jun 2021 00:13:51 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1843,6 +1843,7 @@
 0.0.0.0 999.co.id
 0.0.0.0 999.rajaojek.com
 0.0.0.0 999080321newfolder1002-01342599908032135.site
+0.0.0.0 999080321newfolder1002-01362599908032135.site
 0.0.0.0 999080321newfolder1002002131-service1002.space
 0.0.0.0 999102com.cn
 0.0.0.0 99bkx.com
@@ -6575,7 +6576,6 @@
 0.0.0.0 anchr.com.ng
 0.0.0.0 ancientalienartifacts.com
 0.0.0.0 anconaeventos.com.br
-0.0.0.0 ancoprecision.com
 0.0.0.0 ancorals.com
 0.0.0.0 ancrib-cf.umbler.net
 0.0.0.0 ancs.top
@@ -9025,7 +9025,6 @@
 0.0.0.0 asmm.ro
 0.0.0.0 asmnutrition.ru
 0.0.0.0 asmo-rus.org
-0.0.0.0 asmo.media
 0.0.0.0 asmobilus.lt
 0.0.0.0 asmobilya.com.tr
 0.0.0.0 asmrporn.org
@@ -13851,6 +13850,7 @@
 0.0.0.0 bkpsdm.parigimoutongkab.go.id
 0.0.0.0 bkpublication.in
 0.0.0.0 bkr.al
+0.0.0.0 bks.tv
 0.0.0.0 bksantosh.cf
 0.0.0.0 bksecurity.sk
 0.0.0.0 bkup.melodiehayes.com
@@ -23436,6 +23436,7 @@
 0.0.0.0 csgcargo.com
 0.0.0.0 csgoamy.net
 0.0.0.0 csgobober.ru
+0.0.0.0 csgonews112.000webhostapp.com
 0.0.0.0 csgs4x4.com
 0.0.0.0 csharpassociates.com
 0.0.0.0 csheon.com
@@ -24207,7 +24208,6 @@
 0.0.0.0 daily.newspaperspk.com
 0.0.0.0 daily.truelady.vn
 0.0.0.0 dailybaakhabar.com
-0.0.0.0 dailydealsfromanerdmom.com
 0.0.0.0 dailydemand.in
 0.0.0.0 dailydosegh.com
 0.0.0.0 dailyemploy.com
@@ -35063,6 +35063,7 @@
 0.0.0.0 fbsleads.com
 0.0.0.0 fbsupermarket.com.wtchevalier.com
 0.0.0.0 fbufz.xyz
+0.0.0.0 fbvn.work
 0.0.0.0 fbz7fl.com
 0.0.0.0 fc-novin-mashal.ir
 0.0.0.0 fc.co.mz
@@ -44002,7 +44003,6 @@
 0.0.0.0 hiwentis.de
 0.0.0.0 hiwi.ch
 0.0.0.0 hiworks.vn
-0.0.0.0 hiyang.com.tw
 0.0.0.0 hizlihipnoz.com
 0.0.0.0 hizmar.com
 0.0.0.0 hizmet-turkiye.com
@@ -45996,7 +45996,6 @@
 0.0.0.0 ideagold.by
 0.0.0.0 ideahub.guru
 0.0.0.0 ideaintl.net
-0.0.0.0 idealadvertising.net
 0.0.0.0 idealbalance.hu
 0.0.0.0 idealcontrol.online
 0.0.0.0 idealcuisine.com.tn
@@ -60514,6 +60513,7 @@
 0.0.0.0 marinaurikh.ru
 0.0.0.0 marinavinhomes.vn
 0.0.0.0 marinawellnesshub.com
+0.0.0.0 marincr.com
 0.0.0.0 marindofacility.co.id
 0.0.0.0 marineboyz.com
 0.0.0.0 marinecollagenelixir.com
@@ -61498,6 +61498,7 @@
 0.0.0.0 mdk-physio.info
 0.0.0.0 mdlab.ru
 0.0.0.0 mdmexecutives.com
+0.0.0.0 mdmfashionbrand.com
 0.0.0.0 mdmiraz.tk
 0.0.0.0 mdmlc.com
 0.0.0.0 mdmshipping.org
@@ -63706,6 +63707,7 @@
 0.0.0.0 mmdx.com
 0.0.0.0 mmedia.network
 0.0.0.0 mmedicinaonline.rjsrwaco.watchdogdns.duckdns.org
+0.0.0.0 mmeetalss.000webhostapp.com
 0.0.0.0 mmefoundation.org
 0.0.0.0 mmela1977-001-site3.ctempurl.com
 0.0.0.0 mmelite.ir
@@ -67968,7 +67970,6 @@
 0.0.0.0 nickseth.com
 0.0.0.0 nickycooperhomes.co.nz
 0.0.0.0 nico40.se
-0.0.0.0 nicoblogroms.com
 0.0.0.0 nicolaisen.de
 0.0.0.0 nicolas.greta.drosalys-web.fr
 0.0.0.0 nicolas.ug
@@ -75670,6 +75671,7 @@
 0.0.0.0 privacytools.xyz
 0.0.0.0 privacytools1.site
 0.0.0.0 privacytoolsforyou.site
+0.0.0.0 privacytoolsforyou.xyz
 0.0.0.0 privacytoolsstore.website
 0.0.0.0 privat-cyprian.sk
 0.0.0.0 private-accounting.com
@@ -78388,6 +78390,7 @@
 0.0.0.0 randysino.com
 0.0.0.0 ranerfootcarenursing.com
 0.0.0.0 ranernursingfootcare.com
+0.0.0.0 range.com.sa
 0.0.0.0 rangebroadcasting.com
 0.0.0.0 rangehouse.net
 0.0.0.0 rangpurbarassociation.com
@@ -83314,6 +83317,7 @@
 0.0.0.0 scraps.de
 0.0.0.0 scrapy999.com
 0.0.0.0 scrawk.tusarranjan.com
+0.0.0.0 screamsploitt.000webhostapp.com
 0.0.0.0 screamy.do.am
 0.0.0.0 screemnow.com
 0.0.0.0 screencam.pro
@@ -87981,6 +87985,7 @@
 0.0.0.0 soucy.devwebunik.ca
 0.0.0.0 soudb.com
 0.0.0.0 souferramentasipiranga.com.br
+0.0.0.0 souffity.com
 0.0.0.0 sougataedai.com.br
 0.0.0.0 sougyou-shien.net
 0.0.0.0 soul-bg.com
@@ -89408,6 +89413,7 @@
 0.0.0.0 stc-0039.one-drive-storage.com
 0.0.0.0 stca.tn
 0.0.0.0 stcasablanca.com
+0.0.0.0 stcourier.com
 0.0.0.0 stcswim.com
 0.0.0.0 stctradeshow.com
 0.0.0.0 std-products.com
@@ -94549,6 +94555,7 @@
 0.0.0.0 them3m.com
 0.0.0.0 themagic-box.net
 0.0.0.0 themagicalfortress.com
+0.0.0.0 themagicstreet.com
 0.0.0.0 themagnifytech.com
 0.0.0.0 themaiergroup.com
 0.0.0.0 themaiergroup.com.au
@@ -97341,7 +97348,6 @@
 0.0.0.0 trulogics.co.in
 0.0.0.0 trulybrazen.com
 0.0.0.0 trulyhelpful.love
-0.0.0.0 trulykomal.com
 0.0.0.0 trumbullcsb.org
 0.0.0.0 trumpcommunity.com
 0.0.0.0 trumpfalls.com

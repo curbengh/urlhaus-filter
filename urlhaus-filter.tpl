@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 13 Jun 2021 12:13:59 UTC
+# Updated: Mon, 14 Jun 2021 00:13:51 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1846,6 +1846,7 @@ msFilterList
 -d 999.co.id
 -d 999.rajaojek.com
 -d 999080321newfolder1002-01342599908032135.site
+-d 999080321newfolder1002-01362599908032135.site
 -d 999080321newfolder1002002131-service1002.space
 -d 999102com.cn
 -d 99bkx.com
@@ -6578,7 +6579,6 @@ msFilterList
 -d anchr.com.ng
 -d ancientalienartifacts.com
 -d anconaeventos.com.br
--d ancoprecision.com
 -d ancorals.com
 -d ancrib-cf.umbler.net
 -d ancs.top
@@ -9028,7 +9028,6 @@ msFilterList
 -d asmm.ro
 -d asmnutrition.ru
 -d asmo-rus.org
--d asmo.media
 -d asmobilus.lt
 -d asmobilya.com.tr
 -d asmrporn.org
@@ -13854,6 +13853,7 @@ msFilterList
 -d bkpsdm.parigimoutongkab.go.id
 -d bkpublication.in
 -d bkr.al
+-d bks.tv
 -d bksantosh.cf
 -d bksecurity.sk
 -d bkup.melodiehayes.com
@@ -23439,6 +23439,7 @@ msFilterList
 -d csgcargo.com
 -d csgoamy.net
 -d csgobober.ru
+-d csgonews112.000webhostapp.com
 -d csgs4x4.com
 -d csharpassociates.com
 -d csheon.com
@@ -24210,7 +24211,6 @@ msFilterList
 -d daily.newspaperspk.com
 -d daily.truelady.vn
 -d dailybaakhabar.com
--d dailydealsfromanerdmom.com
 -d dailydemand.in
 -d dailydosegh.com
 -d dailyemploy.com
@@ -35066,6 +35066,7 @@ msFilterList
 -d fbsleads.com
 -d fbsupermarket.com.wtchevalier.com
 -d fbufz.xyz
+-d fbvn.work
 -d fbz7fl.com
 -d fc-novin-mashal.ir
 -d fc.co.mz
@@ -44005,7 +44006,6 @@ msFilterList
 -d hiwentis.de
 -d hiwi.ch
 -d hiworks.vn
--d hiyang.com.tw
 -d hizlihipnoz.com
 -d hizmar.com
 -d hizmet-turkiye.com
@@ -45999,7 +45999,6 @@ msFilterList
 -d ideagold.by
 -d ideahub.guru
 -d ideaintl.net
--d idealadvertising.net
 -d idealbalance.hu
 -d idealcontrol.online
 -d idealcuisine.com.tn
@@ -60517,6 +60516,7 @@ msFilterList
 -d marinaurikh.ru
 -d marinavinhomes.vn
 -d marinawellnesshub.com
+-d marincr.com
 -d marindofacility.co.id
 -d marineboyz.com
 -d marinecollagenelixir.com
@@ -61501,6 +61501,7 @@ msFilterList
 -d mdk-physio.info
 -d mdlab.ru
 -d mdmexecutives.com
+-d mdmfashionbrand.com
 -d mdmiraz.tk
 -d mdmlc.com
 -d mdmshipping.org
@@ -63709,6 +63710,7 @@ msFilterList
 -d mmdx.com
 -d mmedia.network
 -d mmedicinaonline.rjsrwaco.watchdogdns.duckdns.org
+-d mmeetalss.000webhostapp.com
 -d mmefoundation.org
 -d mmela1977-001-site3.ctempurl.com
 -d mmelite.ir
@@ -67971,7 +67973,6 @@ msFilterList
 -d nickseth.com
 -d nickycooperhomes.co.nz
 -d nico40.se
--d nicoblogroms.com
 -d nicolaisen.de
 -d nicolas.greta.drosalys-web.fr
 -d nicolas.ug
@@ -75673,6 +75674,7 @@ msFilterList
 -d privacytools.xyz
 -d privacytools1.site
 -d privacytoolsforyou.site
+-d privacytoolsforyou.xyz
 -d privacytoolsstore.website
 -d privat-cyprian.sk
 -d private-accounting.com
@@ -78391,6 +78393,7 @@ msFilterList
 -d randysino.com
 -d ranerfootcarenursing.com
 -d ranernursingfootcare.com
+-d range.com.sa
 -d rangebroadcasting.com
 -d rangehouse.net
 -d rangpurbarassociation.com
@@ -83317,6 +83320,7 @@ msFilterList
 -d scraps.de
 -d scrapy999.com
 -d scrawk.tusarranjan.com
+-d screamsploitt.000webhostapp.com
 -d screamy.do.am
 -d screemnow.com
 -d screencam.pro
@@ -87984,6 +87988,7 @@ msFilterList
 -d soucy.devwebunik.ca
 -d soudb.com
 -d souferramentasipiranga.com.br
+-d souffity.com
 -d sougataedai.com.br
 -d sougyou-shien.net
 -d soul-bg.com
@@ -89411,6 +89416,7 @@ msFilterList
 -d stc-0039.one-drive-storage.com
 -d stca.tn
 -d stcasablanca.com
+-d stcourier.com
 -d stcswim.com
 -d stctradeshow.com
 -d std-products.com
@@ -94552,6 +94558,7 @@ msFilterList
 -d them3m.com
 -d themagic-box.net
 -d themagicalfortress.com
+-d themagicstreet.com
 -d themagnifytech.com
 -d themaiergroup.com
 -d themaiergroup.com.au
@@ -97344,7 +97351,6 @@ msFilterList
 -d trulogics.co.in
 -d trulybrazen.com
 -d trulyhelpful.love
--d trulykomal.com
 -d trumbullcsb.org
 -d trumpcommunity.com
 -d trumpfalls.com
