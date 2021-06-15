@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Mon, 14 Jun 2021 12:14:21 UTC
+# Updated: Tue, 15 Jun 2021 00:13:58 UTC
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -9027,6 +9027,7 @@ msFilterList
 -d asmm.ro
 -d asmnutrition.ru
 -d asmo-rus.org
+-d asmo.media
 -d asmobilus.lt
 -d asmobilya.com.tr
 -d asmrporn.org
@@ -11969,6 +11970,7 @@ msFilterList
 -d bearriverhealth.org
 -d bearsselection.xyz
 -d beaskyshanoi.com
+-d beastdelta.com
 -d beastmas.club
 -d beat.vision
 -d beatdepression.abselfhelp.com
@@ -20461,6 +20463,7 @@ msFilterList
 -d cleanerforyou.pw
 -d cleanermost.online
 -d cleanerorio.com
+-d cleanevolution.com.br
 -d cleanfico.com
 -d cleanfile.in
 -d cleaning.technologycastle.com
@@ -22345,6 +22348,7 @@ msFilterList
 -d copytak.ir
 -d coqianlong.watchdogdns.duckdns.org
 -d coqueirospraiahotel.com.br
+-d cor-tips.com
 -d cor.sehablae.com
 -d corado-servis.com
 -d coralia.mx
@@ -23236,6 +23240,7 @@ msFilterList
 -d croodly.com
 -d crookedchristicraddick.com
 -d crooks-cooper24g.xyz
+-d crooks-taylor.com
 -d croos.org
 -d crope.shop
 -d cropfoods.com
@@ -23567,6 +23572,7 @@ msFilterList
 -d cuahangphongthuy.net
 -d cuahangstore.com
 -d cuahangvattu.com
+-d cualtis.com
 -d cuanhomxingfanhapkhau.com
 -d cuasotinhoc.net
 -d cuavietduc.com
@@ -23963,7 +23969,6 @@ msFilterList
 -d cz920926.xyz
 -d czabk.com
 -d czajkowski.dk
--d czardas.com.co
 -d czarstvo-sumok.dn.ua
 -d czartransporte.com.br
 -d czas.dbstrony.pl
@@ -24509,6 +24514,7 @@ msFilterList
 -d dansofconsultancy.com
 -d dansorensen.com
 -d dantist.org.ua
+-d dantokpa-market.org
 -d danvtra.web.id
 -d danweb.co.uk
 -d danxehoichongnong.com
@@ -30810,6 +30816,7 @@ msFilterList
 -d ed-pharma.co
 -d ed-tv.nl
 -d ed9fb4.com
+-d edacapulco.com.br
 -d edacentre.com
 -d edalatiranian.com
 -d edana-tours.ru
@@ -45146,6 +45153,7 @@ msFilterList
 -d hseda.com
 -d hsermansndy4chemicalknowledgeeducationtf.duckdns.org
 -d hsgbio.com
+-d hshekhar.com
 -d hshhdgdg.usa.cc
 -d hshjiopklmsacnzbcjuewahfdsnvmlazbcuewqjh.ydns.eu
 -d hshub.org
@@ -46314,6 +46322,7 @@ msFilterList
 -d igloo-formation.fr
 -d igloocwk.com.br
 -d iglow.biz
+-d igm.or.kr
 -d igmmotos.com
 -d igna.com.br
 -d ignaciocasado.com
@@ -47084,6 +47093,7 @@ msFilterList
 -d indexgo.ru
 -d indh.mihanatours.com
 -d indhrigroup.com
+-d india.anagenhairtransplantclinics.com
 -d india24bazaar.com
 -d india24x7.zeecdn.com
 -d india46.ru
@@ -47947,6 +47957,7 @@ msFilterList
 -d inteinno.com
 -d intekfarm.ru
 -d intelact.biz
+-d intelcameroun.net
 -d intelengage.com
 -d intelerp.com
 -d intelfast.com
@@ -49532,6 +49543,7 @@ msFilterList
 -d jamessilva.com.br
 -d jamessmithgraphics.com
 -d jamessweet.com
+-d jamestown.psychwebmd.com
 -d jamestowngolfclub.co.za
 -d jameswong.hk
 -d jameuro.cl
@@ -53221,6 +53233,7 @@ msFilterList
 -d kirakima.sakura.ne.jp
 -d kiralikbahissitesii.com
 -d kiramarch.com
+-d kiranfoundationtrust.com
 -d kiratamericakcoa.org
 -d kirikata.tk
 -d kirikkalemuhendislik.com
@@ -63731,6 +63744,7 @@ msFilterList
 -d mlx8.com
 -d mlzange.com
 -d mm-overseas.com
+-d mm-style.eu
 -d mm.beahh.com
 -d mm.krystalclearlogics.com
 -d mm2017mmm.com
@@ -67495,6 +67509,7 @@ msFilterList
 -d newfaith.iprojectlab.com
 -d newfashiontalents.it
 -d newfetterplace.co.uk
+-d newfiletopia.000webhostapp.com
 -d newforestfestival.com
 -d newfoundfriend.xyz
 -d newframeworks.condor-group.it
@@ -68027,6 +68042,7 @@ msFilterList
 -d nickseth.com
 -d nickycooperhomes.co.nz
 -d nico40.se
+-d nicoblogroms.com
 -d nicolaisen.de
 -d nicolas.greta.drosalys-web.fr
 -d nicolas.ug
@@ -71085,6 +71101,7 @@ msFilterList
 -d ortomez.mx
 -d ortopedachirurgkrakow.pl
 -d ortopediabolognese.com
+-d ortopedicaiguassu.com.br
 -d ortopedicanovaiguacu.com.br
 -d ortopediuzmanlari.com
 -d ortotomsk.ru
@@ -72431,6 +72448,7 @@ msFilterList
 -d pastabassi.com.br
 -d pastaciyiz.biz
 -d pastavadese.com
+-d paste-bin.xyz
 -d paste.makomk.com
 -d pastelcolors.in
 -d pastex.pro
@@ -74897,6 +74915,7 @@ msFilterList
 -d portal-cultura.apps.cultura.gov.br
 -d portal-ms.info
 -d portal.ademi-ma.org.br
+-d portal.aladhwa-sch.com
 -d portal.arti70.com
 -d portal.audioseminglesonline.com.br
 -d portal.brumadinho.mg.gov.br
@@ -81342,7 +81361,6 @@ msFilterList
 -d runmureed.com
 -d runmyweb.com
 -d runnected.kaiman.fr
--d runnerbd.com
 -d runnerschool.com
 -d running-bike.com
 -d runningcrewteam.com
@@ -88087,6 +88105,7 @@ msFilterList
 -d soundsforsouls.com
 -d soundshock.com
 -d soundsofalgol.com
+-d soundsolutionsaudio.com
 -d soundstorage.000webhostapp.com
 -d soundtel.com
 -d soupburgnyc.com
@@ -88712,6 +88731,7 @@ msFilterList
 -d spurstogo.com
 -d spurtogo.com
 -d sputnik-sarja.de
+-d sputnikshowcase.com
 -d spvgas.com
 -d spy-x-family-manga.com
 -d spy88.com
@@ -93238,7 +93258,6 @@ msFilterList
 -d tendep.com
 -d tenderheartfoundation.org
 -d tenderind.com
--d tenders-dz.com
 -d tendwalk.com
 -d tenedromhouses.com
 -d tenelevendirectsales.com
@@ -94072,6 +94091,7 @@ msFilterList
 -d the-tshirtgame.com
 -d the-union-inn.com
 -d the-wool-inn.com.au
+-d the.choptopcougar.com
 -d the1.uz
 -d the1sissycuckold.com
 -d the3ofme.com
@@ -94752,6 +94772,7 @@ msFilterList
 -d theordinaryhousewife.com
 -d theoriekort.nl
 -d theorienthotel.co.ke
+-d theoriginalhotdogfactory.com
 -d theorpingroup.com
 -d theory-nation.com
 -d theoryofseasons.com
@@ -98373,6 +98394,7 @@ msFilterList
 -d ufukturpcan.com
 -d ufwbhrajjsrlkgr.usa.cc
 -d ugajin.net
+-d ugandahotgirls.com
 -d ugateshop.com
 -d ugira.lt
 -d ugl.ch
@@ -101308,6 +101330,7 @@ msFilterList
 -d vitinhvnt.com
 -d vitinhvnt.vn
 -d vito.rockflow.ch
+-d vitoptaxi.com
 -d vitoriamodaintima.com.br
 -d vitorianosgusta.com
 -d vitoriaregiagarden.com.br
@@ -105916,6 +105939,7 @@ msFilterList
 -d yam-editor-hmg.doc88.com.br
 -d yama-wonderfull-blog.com
 -d yamacoffee.com
+-d yamadaondonto.precocalculado.com.br
 -d yamaha-fast.com
 -d yamak.net
 -d yamamenosato.com
@@ -105947,6 +105971,7 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
+-d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net
