@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Wed, 16 Jun 2021 00:13:44 +0000
+# Updated: Wed, 16 Jun 2021 12:13:40 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -490,6 +490,7 @@ msFilterList
 -d 1stgroupco.mn
 -d 1stniag.com
 -d 1stophr.com
+-d 1stopservice.com.my
 -d 1stpubs.com
 -d 1sym.net
 -d 1sync-wp.x.opencrm.eu
@@ -517,6 +518,8 @@ msFilterList
 -d 2.nvd.by
 -d 2.spacepel.com
 -d 2.toemobra.com.br
+-d 2.top4top.io
+-d 2.top4top.net
 -d 2.u0135364.z8.ru
 -d 20.c8xtt.com
 -d 20.dbstrony.pl
@@ -1322,6 +1325,8 @@ msFilterList
 -d 5-shampurov.ru
 -d 5.c8xtt.com
 -d 5.fjwt1.crsky.com
+-d 5.top4top.io
+-d 5.top4top.net
 -d 5.u0148466.z8.ru
 -d 5.unplugrevolution.com
 -d 5003.arentuspecial.com
@@ -1600,6 +1605,7 @@ msFilterList
 -d 7bsnake1.com
 -d 7bwh.com
 -d 7c2918ca.ngrok.io
+-d 7cats.ch
 -d 7clock.ir
 -d 7continents7lawns.com
 -d 7cut.extroliving.com
@@ -2089,6 +2095,7 @@ msFilterList
 -d aaaplating.com
 -d aaasolution.co.th
 -d aaatree.biz
+-d aaawallet.com
 -d aabacustraining.com
 -d aabad21.com
 -d aabbcc.gq
@@ -4454,6 +4461,7 @@ msFilterList
 -d aitomation.com
 -d aitorocio.com
 -d aituetraining.cl
+-d aitype.com
 -d aiupwa.com
 -d aivaelectric.com
 -d aivnews.com
@@ -7455,6 +7463,7 @@ msFilterList
 -d apolloncruises.000webhostapp.com
 -d apollontheagency.com
 -d apolo-ro.servidorturbo.net
+-d apologizeswap.tk
 -d apolu.com.br
 -d apoolcondo.com
 -d aporanie.com
@@ -11384,6 +11393,7 @@ msFilterList
 -d barcode.iclickdigishop.com
 -d barcodia.co
 -d barcoofoods.ir
+-d barcosparana.com.br
 -d barcounterstools.info
 -d barcsikhus.hu
 -d bardenpumps.com.au
@@ -14353,6 +14363,7 @@ msFilterList
 -d blog.misteroid.com
 -d blog.mobidevthai.com
 -d blog.modelmillionaire.com
+-d blog.mojovideomarketing.com
 -d blog.momnjo.com
 -d blog.moonlightortho.com
 -d blog.multisystems.gr
@@ -21362,6 +21373,7 @@ msFilterList
 -d collected.photo
 -d collectif-par-3.org
 -d collectionagencyservce.com
+-d collectionsdpt.me
 -d collectivedigitalmarketing.com
 -d collectivetheory.com
 -d collectorsmatrix.com
@@ -28999,6 +29011,7 @@ msFilterList
 -d dp4kb.magelangkota.go.id
 -d dp5a.surabaya.go.id
 -d dpa-industries.com
+-d dpa.atos-nao.net
 -d dpack365-my.sharepoint.com
 -d dpacorp.org
 -d dparmm1.wci.com.ph
@@ -31249,6 +31262,7 @@ msFilterList
 -d eilatsmanor.com
 -d eilifglobal.com
 -d eilonstrategy.florencesoftwares.com
+-d eimathsuae.com
 -d eimpact.al
 -d einfach-text.de
 -d eingenetzt.com
@@ -33436,7 +33450,6 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-central-1.protection.sophos.com
 -d eu-easy.com
--d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -35732,6 +35745,7 @@ msFilterList
 -d filfak-online.su
 -d fili.es
 -d filiereorkid.com
+-d filingdeadline.info
 -d filipesantos.com.br
 -d fillanosproductions.co.uk
 -d fillbwyz.site
@@ -36297,6 +36311,7 @@ msFilterList
 -d flamingo-park.com
 -d flamingohonuicoc.com
 -d flamingonightstreet.xyz
+-d flamkravmaga.com
 -d flanaganlaw.com
 -d flancalfaltd10.com
 -d flaneur.pk
@@ -43395,7 +43410,6 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
--d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -44860,6 +44874,7 @@ msFilterList
 -d hotelgashta.ir
 -d hotelgeogrande.in
 -d hotelgobbi.it
+-d hotelhadieh.ir
 -d hotelikswidwin.pl
 -d hotelinone.net
 -d hoteliracematravel.com.br
@@ -45632,6 +45647,7 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
+-d i.cubeupload.com
 -d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
@@ -45640,6 +45656,7 @@ msFilterList
 -d i.ptfecablemanufacturer.com
 -d i.sfu.edu.ph
 -d i.thechinesemuslim.com
+-d i.top4top.io
 -d i.valerana44.ru
 -d i03kf0g2bd9papdx.com
 -d i0avgy.com
@@ -52713,6 +52730,7 @@ msFilterList
 -d kezenelectric.ca
 -d kf-nutrifoods.com
 -d kf.50cms.com
+-d kf.carthage2s.com
 -d kf.kfpstore.org
 -d kf.ocbc.cc
 -d kfcbuenisimo.punto99.website
@@ -53394,6 +53412,7 @@ msFilterList
 -d klaryus.com.br
 -d klaschusnet.de
 -d klasisgk.or.id
+-d klassapp.com
 -d klassik.com.br
 -d klassniydom.ru
 -d klasterpolskanatura.pl
@@ -59464,6 +59483,7 @@ msFilterList
 -d mail.loansboat.com.au
 -d mail.lonetreebooks.com
 -d mail.longtermbudgeting.com
+-d mail.lopezmontellano.com
 -d mail.loscabosfestivalinternacionaldecine.com
 -d mail.lotus-h.id
 -d mail.lowtek-studios.com
@@ -60144,6 +60164,7 @@ msFilterList
 -d mangalyamithra.com
 -d mangaml.com
 -d mangatun.com
+-d mangawt.com
 -d mangchongtham.com.vn
 -d mangchongtham.vn
 -d mange-gode-blogs.dk
@@ -61377,6 +61398,7 @@ msFilterList
 -d mb2brasil.com
 -d mb3.zamhub.com
 -d mb4chg.dm.files.1drv.com
+-d mba.gecgudlavalleru.ac.in
 -d mbacolleges.org
 -d mbaedx.com
 -d mbag.ir
@@ -61681,7 +61703,6 @@ msFilterList
 -d medcureorganics.com
 -d meddaughs.com
 -d medeaser.com
--d mededsys.com
 -d medegbetv.com
 -d medel.it
 -d medenblik.net
@@ -63984,6 +64005,7 @@ msFilterList
 -d mobomart.in
 -d moborom.com
 -d mobosim.com
+-d mobradio.com.br
 -d mobshop.schmutzki.de
 -d mobsouk.com
 -d mobsterljud.se
@@ -65103,6 +65125,7 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
+-d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -67454,6 +67477,7 @@ msFilterList
 -d newagesl.com
 -d newalfastar.com
 -d newamsterdam.pl
+-d newappsland.ru
 -d newarchidea.com
 -d newarkcomputers.co.uk
 -d newarkpdmonitor.com
@@ -69734,6 +69758,7 @@ msFilterList
 -d office.erlivia.ltd
 -d office.horussolution.com
 -d office.loopweb.lk
+-d office.orangewebdev.com
 -d office.velahotel.store
 -d office187.com
 -d office365-cloud5.com
@@ -69787,6 +69812,7 @@ msFilterList
 -d officiency.co.uk
 -d officinemadoc.com
 -d offisepost.info
+-d offlineclubz.com
 -d offlinepage.com
 -d offmaxindia.com
 -d offonourown.com
@@ -70818,6 +70844,7 @@ msFilterList
 -d optikalbloc.com.au
 -d optikamv.cz
 -d optima.easiere.com
+-d optimail.com.au
 -d optimainsaat.com.tr
 -d optimal-estate.com
 -d optimalpartner.hu
@@ -72652,6 +72679,7 @@ msFilterList
 -d paymate.co.za
 -d payment.fashion
 -d payment.fashiont
+-d payment.pumpkinu.com
 -d payment.smartbuy4u.com
 -d payment.unior.club
 -d paymentcopy.tk
@@ -90296,6 +90324,7 @@ msFilterList
 -d studentlife.cbs.dk
 -d studentloananalyzer.com
 -d studentloans.credezen.com
+-d studentpreneurchallenge.com
 -d students.allstardentalacademy.com
 -d students.vlevski.eu
 -d students.washington.edu
@@ -91039,7 +91068,6 @@ msFilterList
 -d support.jbrueggemann.com
 -d support.loungu.com
 -d support.m2mservices.com
--d support.mdsol.com
 -d support.nordenrecycling.com
 -d support.nuvemit.com
 -d support.pubg.com
@@ -93596,6 +93624,7 @@ msFilterList
 -d test.mmsu.edu.ph
 -d test.mobileslide.top
 -d test.mohamedbenslimen.com
+-d test.mojovideomarketing.com
 -d test.moser-spritzguss.at
 -d test.mrliempo.com
 -d test.mrshears.in
@@ -96968,6 +96997,7 @@ msFilterList
 -d travel-lounge24.de
 -d travel-turkey.net
 -d travel.1pls1.com
+-d travel.akastudio.ge
 -d travel.barkas22.ru
 -d travel.enterhello.com
 -d travel.rezeptebow.com
@@ -99579,6 +99609,7 @@ msFilterList
 -d uyohwedus.site
 -d uytgvhdfsdxc.ug
 -d uytr5e.imtbreds.com
+-d uyu9ew.dm.files.1drv.com
 -d uyukle.com
 -d uyukle.info
 -d uywork.com
@@ -101723,6 +101754,7 @@ msFilterList
 -d vpdv.cn
 -d vpentimex.com
 -d vpggc.org
+-d vpgxgq.sn.files.1drv.com
 -d vpinversiones.cl
 -d vpixel.net
 -d vplast.com.br
@@ -101964,6 +101996,7 @@ msFilterList
 -d vzonet.com
 -d vzw-reinaert.be
 -d w-dana.com
+-d w-gypsum.net
 -d w-maassltd.co.uk
 -d w-p-test.ru
 -d w-post.top
@@ -102716,6 +102749,7 @@ msFilterList
 -d webmailer.website
 -d webmailwindstreamnetmessagesecureapp1rqr.ga
 -d webman2udesign.com
+-d webmaster.smkn1bengkalis.sch.id
 -d webmaster1.ddns.net
 -d webmauri.com
 -d webmazterz.com
@@ -103824,6 +103858,7 @@ msFilterList
 -d wizbongre.co.uk
 -d wizcapture.com
 -d wizcraftagencies.com
+-d wizesales.com
 -d wizlynxgroup.cn
 -d wizonbeauty.com
 -d wizzdomhub.com
@@ -104831,7 +104866,6 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
--d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
@@ -104851,7 +104885,6 @@ msFilterList
 -d x86tpkujgu1ksoky.com
 -d x8d8r8l8a8b8s.000webhostapp.com
 -d x97vn.mjt.lu
--d xa.yimg.com
 -d xacrosoft.com
 -d xact.ma
 -d xadrezgigante.com.br
