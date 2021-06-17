@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 17 Jun 2021 00:09:14 +0000
+# Updated: Thu, 17 Jun 2021 12:10:29 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1607,7 +1607,6 @@ msFilterList
 -d 7bsnake1.com
 -d 7bwh.com
 -d 7c2918ca.ngrok.io
--d 7cats.ch
 -d 7clock.ir
 -d 7continents7lawns.com
 -d 7cut.extroliving.com
@@ -2593,6 +2592,7 @@ msFilterList
 -d acainacumbuca.com.br
 -d acameraandakayak.com
 -d acampamentodosjovens.com.br
+-d acanaceous-tripling-cayuga.cc
 -d acantara.ml
 -d acapela.cl
 -d acaraberita.me
@@ -7371,6 +7371,7 @@ msFilterList
 -d api.cstdevs.com
 -d api.freelagu.org
 -d api.ftcontrols.v4.ftplus.website
+-d api.hindikhabar.com
 -d api.iwangsen.com
 -d api.jarato.at
 -d api.jczhaopin.com
@@ -10549,6 +10550,7 @@ msFilterList
 -d azienda.vincenzoerrante.com
 -d aziendaagricolamazzola.it
 -d azimed.nl
+-d azimetry.com
 -d azimut-industries.com
 -d azimut-volga.com
 -d azimuthrenovaveis.com.br
@@ -13459,6 +13461,7 @@ msFilterList
 -d binatones.ga
 -d binatones.gq
 -d binatonezx.gq
+-d binatonezx.ml
 -d binayikimisi.com
 -d binbios.com
 -d binc.nu
@@ -14097,7 +14100,6 @@ msFilterList
 -d blog.3fy.com.br
 -d blog.50cms.com
 -d blog.51cool.club
--d blog.51cto.com
 -d blog.52senior.com
 -d blog.5smile.com
 -d blog.6b47.com
@@ -21280,6 +21282,7 @@ msFilterList
 -d coimbragarcia.adv.br
 -d coin-base.tk
 -d coin-blocker.com
+-d coin-hodl.com
 -d coin.ambigain.com
 -d coinbase-us1.info
 -d coinbidders.com
@@ -22690,6 +22693,7 @@ msFilterList
 -d courantsetbien-etre.fr
 -d courchevel-chalet.ovh
 -d courier.burnnotice.co.za
+-d courieradmin.phebsoft-team.com
 -d courierms.mymraxx.com
 -d courierx.pk
 -d cours-theatre-anglais.com
@@ -29328,7 +29332,6 @@ msFilterList
 -d driveformiles.org
 -d drivejet.ru
 -d driveless.pt
--d drivemotorsport.ca
 -d drivenpool.com
 -d driventodaypodcast.com
 -d driver-job.ru
@@ -32180,6 +32183,7 @@ msFilterList
 -d emulatorgame.ir
 -d emulsiflex.com
 -d emumovies.com
+-d emvigseg.com
 -d emyhope.com
 -d emyrs-eg.lehmergroup.com
 -d en-cnd.one-drive-ms.com
@@ -33378,6 +33382,7 @@ msFilterList
 -d ethicsenriquezz.com
 -d ethicsgirls.co.uk
 -d ethiofidel.com
+-d ethioshare.com
 -d ethnicityun.at
 -d ethnika.noiaa.com
 -d ethno.fm
@@ -33458,6 +33463,8 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-central-1.protection.sophos.com
 -d eu-easy.com
+-d eu.wildfire.paloaltonetworks.com
+-d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -34296,6 +34303,7 @@ msFilterList
 -d f.pastdobi.ru
 -d f.regardisperfectshild.ru
 -d f.tolganfor.ru
+-d f.top4top.io
 -d f.top4top.net
 -d f.tsuyogari.ru
 -d f.zombieled.ru
@@ -34886,6 +34894,7 @@ msFilterList
 -d fashion1.bozkurtfurkan.com
 -d fashionandhomestyle.com
 -d fashionandme.ru
+-d fashionasmodest.com
 -d fashionatingworld.cn
 -d fashionattitude.de
 -d fashionbettysam.com
@@ -35681,7 +35690,6 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
--d file.elecfans.com
 -d file.fm
 -d file.hackingfor.fun
 -d file.importantcover.uk
@@ -41749,6 +41757,7 @@ msFilterList
 -d guerillashibari.com
 -d guerrillashibari.com
 -d guerxw.dm.files.1drv.com
+-d guestmandu.com
 -d guestmasteronline.com
 -d guestpostoffice.com
 -d gueyprotein.com
@@ -43422,6 +43431,7 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
+-d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -44404,7 +44414,6 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
--d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -45659,7 +45668,6 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
--d i.cubeupload.com
 -d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
@@ -45668,7 +45676,6 @@ msFilterList
 -d i.ptfecablemanufacturer.com
 -d i.sfu.edu.ph
 -d i.thechinesemuslim.com
--d i.top4top.io
 -d i.valerana44.ru
 -d i03kf0g2bd9papdx.com
 -d i0avgy.com
@@ -48315,6 +48322,7 @@ msFilterList
 -d iocservices.com
 -d iodigitalweb.com
 -d ioe-learning.com
+-d ioe.aaua.edu.ng
 -d ioea.christtower.com
 -d ioffe-soft.ru
 -d ioffexpert.com
@@ -52525,6 +52533,7 @@ msFilterList
 -d kelvinnikkel.com
 -d kelwinsales.com
 -d kelzonestopclothing.website
+-d kemahasiswaan.um.ac.id
 -d kemahasiswaan.umsida.ac.id
 -d kemahasiswaan.unair.ac.id
 -d kemalerkol.net
@@ -64642,7 +64651,6 @@ msFilterList
 -d moscow11.at
 -d moscow11.host
 -d moscow11.icu
--d moscow33.online
 -d moscow44.online
 -d moscow55.online
 -d moscow66.online
@@ -64738,6 +64746,7 @@ msFilterList
 -d motomako.com
 -d moton-toner.com
 -d motonauticaangerese.it
+-d motopartsmerchandise.com
 -d motoprimerj.com.br
 -d motor-service.by
 -d motor.real-web.pro
@@ -65738,7 +65747,6 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
--d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -72822,6 +72830,7 @@ msFilterList
 -d pcsaha.com
 -d pcservice.slask.pl
 -d pcsoft.down.123ch.cn
+-d pcsoftpedia.com
 -d pcsolitare.com
 -d pcsolutioncenter.com.ar
 -d pcsoori.com
@@ -73110,7 +73119,9 @@ msFilterList
 -d peoplesseoservice.com
 -d peopleweb.com.ec
 -d peoplewithai.com
+-d peoqba05.top
 -d peos.cn
+-d peozsg06.top
 -d peozut04.top
 -d pep-egypt.com
 -d pep-sico.ml
@@ -76556,6 +76567,7 @@ msFilterList
 -d prueba.danielluza.com
 -d prueba.daviniadediego.com
 -d prueba.erpx.com.mx
+-d prueba.geja.mx
 -d prueba.go-appsi.com
 -d prueba.medysalud.com
 -d prueba2.adivertirse.com.mx
@@ -79476,6 +79488,7 @@ msFilterList
 -d remontrvd.com
 -d remontstiralnikhmashin.ru
 -d remortgagecalculator.info
+-d remotefacilities.com
 -d remove-minecraft.cba.pl
 -d removeblackmold.info
 -d removeoppossums.com
@@ -88118,6 +88131,7 @@ msFilterList
 -d sotestes.tk
 -d sotinmobiliario.com
 -d sotograndecomputers.com
+-d sotoholdingsltd.com
 -d soton-avocat.com
 -d sotoriagroup.com
 -d sototasupershop.com
@@ -90098,6 +90112,7 @@ msFilterList
 -d storage.lv
 -d storage.sgp1.cloud.ovh.net
 -d storage.syd1.cloud.ovh.net
+-d storage.waw.cloud.ovh.net
 -d storage.waw1.cloud.ovh.net
 -d storageadda.com
 -d storagelookup.com
@@ -92498,6 +92513,7 @@ msFilterList
 -d tattersall-maquinarias.cl
 -d tatto.bozkurtfurkan.com
 -d tattomakeup.ru
+-d tattoo-thailand.com
 -d tattoo-times.ru
 -d tattooartcreations.com
 -d tattoocum.online
@@ -92996,6 +93012,7 @@ msFilterList
 -d teclabel.com.br
 -d tecleweb.com.br
 -d tecmicromg.com.br
+-d tecmon.hr
 -d tecnauto.com
 -d tecnea.com
 -d tecneworleans.com
@@ -97275,6 +97292,7 @@ msFilterList
 -d tricktotrip.com
 -d trickybiz-my.sharepoint.com
 -d trickyguy.com
+-d tricommanagement.org
 -d triconsnow.com
 -d tricountydentalsociety.com
 -d trident-design.net
@@ -97496,6 +97514,7 @@ msFilterList
 -d truenatural.com.vn
 -d truenorthtimber.com
 -d trueperz.com
+-d trueshare.com
 -d trueskills.in
 -d trueteeshirt.com
 -d trueterroir.co.uk
@@ -101139,7 +101158,6 @@ msFilterList
 -d vipmas15.beget.tech
 -d vipmein.com
 -d vipmerchantclub.com
--d viportal.co
 -d vipre.at
 -d vipro.life
 -d viproducciones.com
@@ -104929,6 +104947,7 @@ msFilterList
 -d x86tpkujgu1ksoky.com
 -d x8d8r8l8a8b8s.000webhostapp.com
 -d x97vn.mjt.lu
+-d xa.yimg.com
 -d xacrosoft.com
 -d xact.ma
 -d xadrezgigante.com.br
@@ -106049,7 +106068,6 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
--d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net
