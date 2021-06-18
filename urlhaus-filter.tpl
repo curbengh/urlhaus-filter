@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 18 Jun 2021 00:08:45 +0000
+# Updated: Fri, 18 Jun 2021 12:14:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3631,6 +3631,7 @@ msFilterList
 -d aethoscorp.com
 -d aetruckmaint.com
 -d aetstranslation.com.au
+-d aeve.com
 -d aeverydayhealth.com
 -d aevion.net
 -d aexis-symposium.com
@@ -16935,6 +16936,7 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
+-d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -25352,7 +25354,6 @@ msFilterList
 -d decoronthemove.co.za
 -d decorsfantasmo.com
 -d decorstoff.com
--d decorstyle.ig.com.br
 -d decortez.com
 -d decortie.top
 -d decosa.co.hu
@@ -29323,6 +29324,7 @@ msFilterList
 -d drinkopolykopen.nl
 -d drinksangola.com
 -d drinksevia.nl
+-d drinksomewhere.com
 -d drinktinley.com
 -d drippglobal.com
 -d dripsweet.com
@@ -33477,10 +33479,8 @@ msFilterList
 -d etwqsx23.duckdns.org
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
--d eu-central-1.protection.sophos.com
 -d eu-easy.com
 -d eu.wildfire.paloaltonetworks.com
--d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -34360,6 +34360,7 @@ msFilterList
 -d f0519917.xsph.ru
 -d f0520387.xsph.ru
 -d f0520728.xsph.ru
+-d f0550246.xsph.ru
 -d f0hc7osjnl2vi61g.com
 -d f0jgqwejaisdqjwnqwe.com
 -d f1.dodve.com
@@ -40280,6 +40281,7 @@ msFilterList
 -d godloveorphanageandngo.com
 -d godmissionchurch.com
 -d gododu.com
+-d godofservice.com
 -d godrej-nurture.site
 -d godrejsalon-i.in
 -d godricwealthsecretsnow.com
@@ -40483,6 +40485,7 @@ msFilterList
 -d golfcorporativo.cl
 -d golfdust.com
 -d golfer.de
+-d golfien.com
 -d golfingtrail.com
 -d golfkildare.com
 -d golfmd.com
@@ -42517,6 +42520,7 @@ msFilterList
 -d handsofhopemalaysia.com
 -d handsome247.5gbfree.com
 -d handsomebook.com
+-d handsonptr.com
 -d handstage.com
 -d handstandbuffer.com
 -d handsurgeonkatytx.com
@@ -45689,6 +45693,7 @@ msFilterList
 -d i-supportcharity.com
 -d i-vnsweyu.pl
 -d i-voda.com
+-d i.cubeupload.com
 -d i.fiery.me
 -d i.fluffy.cc
 -d i.funtourspt.eu
@@ -57762,6 +57767,7 @@ msFilterList
 -d lombardzista.pl
 -d lombokfishandgame.com
 -d lombroso.com.br
+-d lombrozo.org
 -d lomejordetodaslascosas.com
 -d lomicon.es
 -d lomidze.info
@@ -67891,6 +67897,7 @@ msFilterList
 -d nfefazendaportalprincipal.com
 -d nfegratuito.myrp.com.br
 -d nfgmedia.com
+-d nfis.com
 -d nfj254aim.com
 -d nfog2018.dk
 -d nforsdt.org.np
@@ -77415,6 +77422,7 @@ msFilterList
 -d qfruitsas.com
 -d qfsswg.ch.files.1drv.com
 -d qfzy.cn
+-d qgam.top
 -d qgks2q.by.files.1drv.com
 -d qgproducoes.com.br
 -d qh6ohq.am.files.1drv.com
@@ -84666,6 +84674,7 @@ msFilterList
 -d setuprootme.com
 -d setwan.purworejokab.go.id
 -d setwebsolutions.com
+-d seudebito-online.eastus.cloudapp.azure.com
 -d seudestino.tur.br
 -d seukhai.com
 -d sevashrammithali.com
@@ -95962,6 +95971,7 @@ msFilterList
 -d tldrnet.top
 -d tlextreme.com
 -d tlfthelifefactory.com.au
+-d tlgur.com
 -d tlkcloudem.com
 -d tlktdsfj.sha58.me
 -d tlpclient.site
@@ -97489,6 +97499,7 @@ msFilterList
 -d trontik.ru
 -d troodonmedia.com
 -d troopchalkkids.com
+-d troopwebhost.blob.core.windows.net
 -d tropicalhawaii.com
 -d tropicalhomesofcostarica.com
 -d tropicalislandrealtyofflorida.com
@@ -97558,7 +97569,6 @@ msFilterList
 -d truenatural.com.vn
 -d truenorthtimber.com
 -d trueperz.com
--d trueshare.com
 -d trueskills.in
 -d trueteeshirt.com
 -d trueterroir.co.uk
@@ -101931,6 +101941,7 @@ msFilterList
 -d vrsypcmli07.top
 -d vrsypcmlp08.top
 -d vrsypcmlw03.top
+-d vrta.top
 -d vrte462.com
 -d vrtxx64uo.com
 -d vrum.lt
@@ -106119,6 +106130,7 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
+-d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net

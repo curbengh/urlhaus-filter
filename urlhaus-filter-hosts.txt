@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Fri, 18 Jun 2021 00:08:45 +0000
+# Updated: Fri, 18 Jun 2021 12:14:21 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3628,6 +3628,7 @@
 0.0.0.0 aethoscorp.com
 0.0.0.0 aetruckmaint.com
 0.0.0.0 aetstranslation.com.au
+0.0.0.0 aeve.com
 0.0.0.0 aeverydayhealth.com
 0.0.0.0 aevion.net
 0.0.0.0 aexis-symposium.com
@@ -16932,6 +16933,7 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
+0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -25349,7 +25351,6 @@
 0.0.0.0 decoronthemove.co.za
 0.0.0.0 decorsfantasmo.com
 0.0.0.0 decorstoff.com
-0.0.0.0 decorstyle.ig.com.br
 0.0.0.0 decortez.com
 0.0.0.0 decortie.top
 0.0.0.0 decosa.co.hu
@@ -29320,6 +29321,7 @@
 0.0.0.0 drinkopolykopen.nl
 0.0.0.0 drinksangola.com
 0.0.0.0 drinksevia.nl
+0.0.0.0 drinksomewhere.com
 0.0.0.0 drinktinley.com
 0.0.0.0 drippglobal.com
 0.0.0.0 dripsweet.com
@@ -33474,10 +33476,8 @@
 0.0.0.0 etwqsx23.duckdns.org
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
-0.0.0.0 eu-central-1.protection.sophos.com
 0.0.0.0 eu-easy.com
 0.0.0.0 eu.wildfire.paloaltonetworks.com
-0.0.0.0 eu1.salesforce.com
 0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eu283iwoqodjspqisjdf.com
 0.0.0.0 eu5-cdn.devid.info
@@ -34357,6 +34357,7 @@
 0.0.0.0 f0519917.xsph.ru
 0.0.0.0 f0520387.xsph.ru
 0.0.0.0 f0520728.xsph.ru
+0.0.0.0 f0550246.xsph.ru
 0.0.0.0 f0hc7osjnl2vi61g.com
 0.0.0.0 f0jgqwejaisdqjwnqwe.com
 0.0.0.0 f1.dodve.com
@@ -40277,6 +40278,7 @@
 0.0.0.0 godloveorphanageandngo.com
 0.0.0.0 godmissionchurch.com
 0.0.0.0 gododu.com
+0.0.0.0 godofservice.com
 0.0.0.0 godrej-nurture.site
 0.0.0.0 godrejsalon-i.in
 0.0.0.0 godricwealthsecretsnow.com
@@ -40480,6 +40482,7 @@
 0.0.0.0 golfcorporativo.cl
 0.0.0.0 golfdust.com
 0.0.0.0 golfer.de
+0.0.0.0 golfien.com
 0.0.0.0 golfingtrail.com
 0.0.0.0 golfkildare.com
 0.0.0.0 golfmd.com
@@ -42514,6 +42517,7 @@
 0.0.0.0 handsofhopemalaysia.com
 0.0.0.0 handsome247.5gbfree.com
 0.0.0.0 handsomebook.com
+0.0.0.0 handsonptr.com
 0.0.0.0 handstage.com
 0.0.0.0 handstandbuffer.com
 0.0.0.0 handsurgeonkatytx.com
@@ -45686,6 +45690,7 @@
 0.0.0.0 i-supportcharity.com
 0.0.0.0 i-vnsweyu.pl
 0.0.0.0 i-voda.com
+0.0.0.0 i.cubeupload.com
 0.0.0.0 i.fiery.me
 0.0.0.0 i.fluffy.cc
 0.0.0.0 i.funtourspt.eu
@@ -57759,6 +57764,7 @@
 0.0.0.0 lombardzista.pl
 0.0.0.0 lombokfishandgame.com
 0.0.0.0 lombroso.com.br
+0.0.0.0 lombrozo.org
 0.0.0.0 lomejordetodaslascosas.com
 0.0.0.0 lomicon.es
 0.0.0.0 lomidze.info
@@ -67888,6 +67894,7 @@
 0.0.0.0 nfefazendaportalprincipal.com
 0.0.0.0 nfegratuito.myrp.com.br
 0.0.0.0 nfgmedia.com
+0.0.0.0 nfis.com
 0.0.0.0 nfj254aim.com
 0.0.0.0 nfog2018.dk
 0.0.0.0 nforsdt.org.np
@@ -77412,6 +77419,7 @@
 0.0.0.0 qfruitsas.com
 0.0.0.0 qfsswg.ch.files.1drv.com
 0.0.0.0 qfzy.cn
+0.0.0.0 qgam.top
 0.0.0.0 qgks2q.by.files.1drv.com
 0.0.0.0 qgproducoes.com.br
 0.0.0.0 qh6ohq.am.files.1drv.com
@@ -84663,6 +84671,7 @@
 0.0.0.0 setuprootme.com
 0.0.0.0 setwan.purworejokab.go.id
 0.0.0.0 setwebsolutions.com
+0.0.0.0 seudebito-online.eastus.cloudapp.azure.com
 0.0.0.0 seudestino.tur.br
 0.0.0.0 seukhai.com
 0.0.0.0 sevashrammithali.com
@@ -95959,6 +95968,7 @@
 0.0.0.0 tldrnet.top
 0.0.0.0 tlextreme.com
 0.0.0.0 tlfthelifefactory.com.au
+0.0.0.0 tlgur.com
 0.0.0.0 tlkcloudem.com
 0.0.0.0 tlktdsfj.sha58.me
 0.0.0.0 tlpclient.site
@@ -97486,6 +97496,7 @@
 0.0.0.0 trontik.ru
 0.0.0.0 troodonmedia.com
 0.0.0.0 troopchalkkids.com
+0.0.0.0 troopwebhost.blob.core.windows.net
 0.0.0.0 tropicalhawaii.com
 0.0.0.0 tropicalhomesofcostarica.com
 0.0.0.0 tropicalislandrealtyofflorida.com
@@ -97555,7 +97566,6 @@
 0.0.0.0 truenatural.com.vn
 0.0.0.0 truenorthtimber.com
 0.0.0.0 trueperz.com
-0.0.0.0 trueshare.com
 0.0.0.0 trueskills.in
 0.0.0.0 trueteeshirt.com
 0.0.0.0 trueterroir.co.uk
@@ -101928,6 +101938,7 @@
 0.0.0.0 vrsypcmli07.top
 0.0.0.0 vrsypcmlp08.top
 0.0.0.0 vrsypcmlw03.top
+0.0.0.0 vrta.top
 0.0.0.0 vrte462.com
 0.0.0.0 vrtxx64uo.com
 0.0.0.0 vrum.lt
@@ -106116,6 +106127,7 @@
 0.0.0.0 yamato-ti.com
 0.0.0.0 yamemasesy.com
 0.0.0.0 yamike.com
+0.0.0.0 yamisiones.com
 0.0.0.0 yamm.com.my
 0.0.0.0 yamnadlan.com
 0.0.0.0 yamotors.net
