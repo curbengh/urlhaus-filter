@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Sat, 19 Jun 2021 00:13:55 +0000
+# Updated: Sat, 19 Jun 2021 12:13:56 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -34,13 +34,11 @@ msFilterList
 -d abcd.bg
 -d abissnet.net
 -d aboveandbelow.com.au
--d absentregulation.com
 -d abyssos.eu
 -d acellr.co.uk
 -d acm-icces.net
 -d acteon.com.ar
 -d activecost.com.au
--d acuinitiative.org
 -d adamorinmusic.com
 -d adanaberkoto.com
 -d addahealingmusic.com
@@ -102,7 +100,6 @@ msFilterList
 -d atfile.com
 -d athenacapsg.com
 -d atlantareads.org
--d atlasconcreteworks.com
 -d attach.66rpg.com
 -d atteuqpotentialunlimited.com
 -d audioboomerang.com
@@ -202,12 +199,12 @@ msFilterList
 -d cfs9.blog.daum.net
 -d ch.rmu.ac.th
 -d changematterscounselling.com
+-d chardhamdodham.com
 -d checkininfo.com
 -d chezalice.co.za
 -d childselect.com
 -d cifeer.net
 -d cisco-ccna-ccnp-ccie.com
--d citihits.lk
 -d civi.istmejia.com
 -d cleanevolution.com.br
 -d cloud.fc.co.mz
@@ -238,7 +235,6 @@ msFilterList
 -d cpanel.shivay.net
 -d craftech.nxtnet.ga
 -d craiglindstrom.com
--d crearechile.cl
 -d creationskateboards.com
 -d crecerco.com
 -d crittersbythebay.com
@@ -271,7 +267,6 @@ msFilterList
 -d datapolish.com
 -d dating.khokhas.co.za
 -d davethompson.me.uk
--d davidmcguinness.info
 -d ddl8.data.hu
 -d de.gsearch.com.de
 -d deccanextrusions.com
@@ -288,7 +283,6 @@ msFilterList
 -d dev.nswtests.com
 -d dev.sebpo.net
 -d dev.watch-store.eu
--d dezcom.com
 -d dfcf.91756.cn
 -d diamantenegro.mi-fs.com
 -d dienmayminhhung.com
@@ -302,6 +296,7 @@ msFilterList
 -d dl.pandasecur.com
 -d dl.rina-roleplay.com
 -d dl.zkytech.com
+-d dns.alibuf.com
 -d dockerupdate.anondns.net
 -d docs.indianexpress.org
 -d docs.teamkingrealestate.com
@@ -328,7 +323,6 @@ msFilterList
 -d dragonruttien.com
 -d dragonsknot.com
 -d drbaby.com.sa
--d drgroup.co.za
 -d drinksomewhere.com
 -d drools-moved.46999.n3.nabble.com
 -d drsha.innovativesolutions.mobi
@@ -337,13 +331,16 @@ msFilterList
 -d du-wizards.com
 -d dutapp.wisolve.co.za
 -d dx.qqyewu.com
+-d dzinestudio87.co.uk
 -d e-commerce.saleensuporte.com.br
 -d e.sldov.ru
+-d e.tool007.cn
 -d e8rj.oss-cn-beijing.aliyuncs.com
 -d ecology-japan.com
 -d eddiesajjad.com
 -d efeatasoy.com
 -d efficientegroup.com
+-d eikongaming.com
 -d elbauldenora.com
 -d elianthony.com
 -d emaids.co.za
@@ -415,7 +412,7 @@ msFilterList
 -d goldcake.co.id
 -d golden-memories-funerals.yourpageserver.com
 -d goldenasiacapital.com
--d goldenstarricemill.com
+-d goldmen.in
 -d goodsproutarchitects.com
 -d gpotecnosystems.com
 -d gracelandrnc.com
@@ -444,7 +441,6 @@ msFilterList
 -d herchinfitout.com.sg
 -d hhaward.org
 -d highlandroadcoc.com
--d highlandslasvegas.atakdev.com
 -d hiptool.net
 -d hitpe.com
 -d hitstation.nl
@@ -460,11 +456,11 @@ msFilterList
 -d hr2019.vrcom7.com
 -d hseda.com
 -d htownbars.com
--d hubtech.co.za
 -d hunggiang.vn
 -d hyprothermcoalfurnace.com
 -d icon.shatangmu.cn
 -d idea-secure-login.com
+-d ideamaster.com.my
 -d idilsoft.com
 -d idj.no
 -d idvindia.com
@@ -490,8 +486,6 @@ msFilterList
 -d intranet.injasclaro.com
 -d intuitiveideas.com.my
 -d invest.xpcorporative.com.br
--d invotyx.co.uk
--d invotyx.com
 -d iocservices.com
 -d ipmes.ma
 -d iremart.es
@@ -525,7 +519,6 @@ msFilterList
 -d jpwoodfordco.com
 -d jupiter.toxsl.in
 -d justinscott.com.au
--d jyk85mxc.z1001.net
 -d kadigital.co.uk
 -d kaizenjanitorial.com
 -d kalogirosfinance.com
@@ -552,6 +545,7 @@ msFilterList
 -d kowashitekata.ru
 -d kplmrdentalcare.com
 -d krisbadminton.com
+-d kumaralok.in
 -d kurumsal.avantajbulvari.com
 -d kz.sldov.ru
 -d lafondadeaurora.com
@@ -602,7 +596,7 @@ msFilterList
 -d m-morsi.com
 -d m-technics.kz
 -d m.hindikhabar.com
--d m.softsharks.com
+-d madicon.co.za
 -d mail.aladhwa-sch.com
 -d mail.golimoapp.com
 -d mail.lopezmontellano.com
@@ -651,6 +645,7 @@ msFilterList
 -d microgestao.com.br
 -d migandhi5253.com
 -d mikhailmotoringschool.com
+-d milanautomotores.com.ar
 -d minuevavida.org
 -d mirpurceramic.com
 -d mirror.mypage.sk
@@ -672,7 +667,6 @@ msFilterList
 -d motorcomunicacion.com
 -d mottrieudola.com
 -d mrcreativedemo.com
--d ms.philmcgi.in
 -d mscdn.nuonuo.com
 -d musicnote.soundcast.me
 -d muzimbiti.xigubo.co.mz
@@ -773,7 +767,7 @@ msFilterList
 -d pelicanfl.com
 -d pelicansinks.com
 -d pencubanoexilio.com
--d peolqh03.top
+-d peonuo08.top
 -d peoqba05.top
 -d peozsg06.top
 -d peozut04.top
@@ -799,7 +793,6 @@ msFilterList
 -d promoversdubai.com
 -d prosoc.nl
 -d prueba.geja.mx
--d psicheaurora.it
 -d psikologi.undhirabali.ac.id
 -d pujashoppe.in
 -d punchdialogues.com
@@ -851,7 +844,6 @@ msFilterList
 -d roadtopassiveincomeonline.com
 -d robertmcardle.com
 -d robertsinclair.net
--d robicomp.com
 -d romanianpoints.com
 -d roomsvc.servegate.kr
 -d roshnijewellery.com
@@ -891,6 +883,7 @@ msFilterList
 -d sendizarlogistics.com
 -d serendibsourcing.com
 -d sericaasia.com
+-d serviciovirtual.com.ar
 -d servis.altankarakaya.com
 -d sesummit.in
 -d seukhai.com
@@ -909,11 +902,11 @@ msFilterList
 -d shophousesunshine.com
 -d shopsofe.com
 -d shribharatvatika.com
+-d shrishinfra.com
 -d shrushtiinfotech.com
 -d sibernetix.fr
 -d sibisa.indramayukab.go.id
 -d sige.brisainformatica.com.br
--d signatureads.co.in
 -d siili.net
 -d silatama.com
 -d simoneporzi.it
@@ -935,7 +928,6 @@ msFilterList
 -d somcorbera.cat
 -d sota-france.fr
 -d sotoholdingsltd.com
--d soundfrancisco.com
 -d space.proactint.org
 -d spaceframe.mobi.space-frame.co.za
 -d spainblogmandala.org.za
@@ -983,7 +975,6 @@ msFilterList
 -d tattoo-thailand.com
 -d taurus.ug
 -d tc.snpsresidential.com
--d tdejob.work
 -d tdsp.yngw518.com
 -d tebogodigital.co.za
 -d techgms.com
@@ -1012,7 +1003,6 @@ msFilterList
 -d thedentalhq.com
 -d thefuturelife.in
 -d thekassia.co.uk
--d thekissilent.net
 -d thekrishnagroup.com
 -d themansionkasauli.com
 -d theprofinn.com
@@ -1116,7 +1106,6 @@ msFilterList
 -d windcomtechnologies.com
 -d windshield-replacement-surprise.com
 -d wishesconcierge.com
--d withthestarz.com
 -d wizesales.com
 -d wj8pgg.am.files.1drv.com
 -d wjq63w.am.files.1drv.com
