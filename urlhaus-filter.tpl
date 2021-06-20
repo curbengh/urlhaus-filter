@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 19 Jun 2021 12:13:56 +0000
+# Updated: Sun, 20 Jun 2021 00:13:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3131,6 +3131,7 @@ msFilterList
 -d adcoops.ga
 -d add-power.com.ua
 -d add3565office.com
+-d adda.net.in
 -d addahealingmusic.com
 -d addai.or.id
 -d addictionleadgen.com
@@ -12218,6 +12219,7 @@ msFilterList
 -d begiland.com
 -d beginnenmetbitcoin.nl
 -d beginningspublishing.true.industries
+-d beginnis.info
 -d beginrighthere.com
 -d begood.pw
 -d beguest.xyz
@@ -22160,6 +22162,7 @@ msFilterList
 -d consulateins.solucioneslink.com
 -d consulfines.com.co
 -d consulinfo.net
+-d consulpanamar.com
 -d consultantglobalinternational.com
 -d consultapro.org
 -d consultasinternational.com
@@ -24600,7 +24603,6 @@ msFilterList
 -d dansofconsultancy.com
 -d dansorensen.com
 -d dantist.org.ua
--d dantokpa-market.org
 -d danvtra.web.id
 -d danweb.co.uk
 -d danxehoichongnong.com
@@ -30850,7 +30852,6 @@ msFilterList
 -d ecsn.biz
 -d ecstay.website
 -d ectagono.com
--d ectcnepal.org
 -d ecu.edu.rs
 -d ecuadoresort.com
 -d ecuadorminingnews.com
@@ -32283,6 +32284,7 @@ msFilterList
 -d en.onedrive.live-msr.com
 -d en.sign-group.ru
 -d en.sun-sen.com
+-d en.tag.ir
 -d en.vapingtime.com.mx
 -d en.whatsappgrupbul.com
 -d en.worthfind.com
@@ -34599,6 +34601,7 @@ msFilterList
 -d fai.umb.ac.id
 -d faibra.ra.srv.br
 -d faid.sadv.sa
+-d failspace.xyz
 -d faine.itcluster.te.ua
 -d fair-watduoliprudential.com.watchdogdns.duckdns.org
 -d fairchildconsultants.kindnesswrites.com
@@ -47448,6 +47451,7 @@ msFilterList
 -d infocanadaimmigration.ca
 -d infocentertour.ru
 -d infocentro.com.ec
+-d infochannel.be
 -d infochemistry.ru
 -d infocs.rio.br
 -d infodayclubhai.com
@@ -49491,6 +49495,7 @@ msFilterList
 -d jabenitez.com
 -d jaberevents.com
 -d jabmo-development.dev.forci.net
+-d jabrasil.org.br
 -d jabtco.com
 -d jaburrey.com
 -d jac.sa
@@ -56808,6 +56813,7 @@ msFilterList
 -d lightechelectric.com
 -d lighteningmedialabs.com
 -d lighteningplayer.com
+-d lightenpdf.com
 -d lightforthezulunation.org
 -d lightfromheaven.org
 -d lighthouse-safety-solutions.co.uk
@@ -61324,6 +61330,7 @@ msFilterList
 -d matthewhuntington.com
 -d matthewraycarta.com
 -d matthewvincent.ca
+-d matthieu-tranvan.fr
 -d matthieubroquardfilm.com
 -d matthrivnak.com
 -d mattimoorman.nl
@@ -62453,7 +62460,6 @@ msFilterList
 -d mera.ddns.net
 -d meragullabgirls.gq
 -d meranaturaleza.com.ar
--d meranti.vn
 -d meraqsa.com
 -d meraustaad.com
 -d meravilla.it
@@ -68654,7 +68660,6 @@ msFilterList
 -d noakhaliit.com
 -d noaprojekt.pl
 -d noass.se
--d noatec.co
 -d noavaranedanesh.ir
 -d noavaranfloor.com
 -d noavaranmes.ir
@@ -71210,6 +71215,7 @@ msFilterList
 -d originador.com
 -d originadr-001-site17.gtempurl.com
 -d original-only.com
+-d originaldll.com
 -d originalhands.ru
 -d originalone.ma
 -d originalsalonqatar.com
@@ -73262,6 +73268,7 @@ msFilterList
 -d peoplewithai.com
 -d peoqba05.top
 -d peos.cn
+-d peovon09.top
 -d peozsg06.top
 -d peozut04.top
 -d pep-egypt.com
@@ -87245,7 +87252,6 @@ msFilterList
 -d smartphonexyz.com
 -d smartpromo.top
 -d smartproperty-transpark.com
--d smartr.online
 -d smartrankking.com
 -d smartre.live
 -d smartrealestateschool.com
@@ -89914,7 +89920,6 @@ msFilterList
 -d stefancgv.eu
 -d stefangellweiler.fwglorch.de
 -d stefangraf.at
--d stefaniabrunori.com
 -d stefanobaldini.net
 -d stefanova.club
 -d stefanovic.me
@@ -92156,6 +92161,7 @@ msFilterList
 -d tafftanzania.or.tz
 -d tafol.es
 -d tafsantoursandtravels.com
+-d tag.ir
 -d tag520.com
 -d tagamoga.de
 -d tagamol.com
@@ -100996,6 +101002,7 @@ msFilterList
 -d videosonik.com.mk
 -d videossources.com
 -d videoswebcammsn.free.fr
+-d videract.com
 -d vides.org
 -d videsrona.com
 -d vidhamastudios.com
