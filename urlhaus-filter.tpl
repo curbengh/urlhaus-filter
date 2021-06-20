@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 20 Jun 2021 00:13:53 +0000
+# Updated: Sun, 20 Jun 2021 12:13:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -523,8 +523,6 @@ msFilterList
 -d 2.nvd.by
 -d 2.spacepel.com
 -d 2.toemobra.com.br
--d 2.top4top.io
--d 2.top4top.net
 -d 2.u0135364.z8.ru
 -d 20.c8xtt.com
 -d 20.dbstrony.pl
@@ -5812,7 +5810,6 @@ msFilterList
 -d alshahame.com
 -d alshalahiglobal.com
 -d alshamaleh-ye.com
--d alshamstech.ae
 -d alshehabalabaydh.com
 -d alsheralaraby.com
 -d alshorouk-export.com
@@ -6023,7 +6020,6 @@ msFilterList
 -d amandadecardy.com
 -d amandaduquenoy.com
 -d amandafarough.com
--d amandarife.com
 -d amandavanderpool.com
 -d amandreymedispa.com
 -d amangola-dgp.org
@@ -7423,6 +7419,7 @@ msFilterList
 -d apicforme.com
 -d apicosto.misco-furniture.com
 -d apidava.tk
+-d apidocs.dcdial.com
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
@@ -13887,7 +13884,6 @@ msFilterList
 -d bk.umsu.ac.id
 -d bk18.vn
 -d bkad.gunungkidulkab.go.id
--d bkarakas.ztml.k12.tr
 -d bkash.biz
 -d bkbrske.gleeze.com
 -d bkceviri.com
@@ -16964,7 +16960,6 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
--d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -20123,7 +20118,6 @@ msFilterList
 -d cididlawfirm.com
 -d cidn02mjco03pobx.com
 -d cidooliveira.com.br
--d cidoresearch.com
 -d cidpe-psicologia.com
 -d cieindia.com
 -d cielecka.pl
@@ -20446,6 +20440,7 @@ msFilterList
 -d clareiamente.clareiamente.com
 -d claremontpoolservice-my.sharepoint.com
 -d clareplueckhahn.com.au
+-d clariann.info
 -d clarindo.de
 -d clario.biz
 -d clarionindiaventures.in
@@ -22586,7 +22581,6 @@ msFilterList
 -d correiosbr.r1-it.storage.cloud.it
 -d correlation.ca
 -d correo.kable.cl
--d correolimpio.telefonica.es
 -d correspondenterio.com.br
 -d corretordejoanete.site
 -d corrheating.ie
@@ -24105,7 +24099,6 @@ msFilterList
 -d d0wnl0ads.site
 -d d1.amobbs.com
 -d d1.dropboxccdn.com
--d d1.dropboxrcdn.com
 -d d1.dropboxscdn.com
 -d d1.dropboxwcdn.com
 -d d1.udashi.com
@@ -24848,6 +24841,7 @@ msFilterList
 -d datco.vn
 -d datcoinc.com
 -d datcomn.com
+-d date-flash.com
 -d dateandoando.com
 -d datecamp.tv
 -d dateintrentaminuti.it
@@ -25141,6 +25135,7 @@ msFilterList
 -d dcd.cl
 -d dcdb.fr
 -d dcdi.biz
+-d dcdial.com
 -d dcee.net
 -d dcfit.co.zw
 -d dcfloraldecor.lt
@@ -29205,7 +29200,6 @@ msFilterList
 -d dramitinos.gr
 -d dramulo.net
 -d drandres.co.il
--d draniruddhaghosh.co.in
 -d drapac.com
 -d drapacific-my.sharepoint.com
 -d drapart.org
@@ -30880,6 +30874,7 @@ msFilterList
 -d edb.tk.krakow.pl
 -d edc-studio.com
 -d edc-uofk.com
+-d edc.com.ly
 -d edc.network
 -d edcampwateachlead.org
 -d edcentric.org
@@ -33522,8 +33517,9 @@ msFilterList
 -d etwqsx23.duckdns.org
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
+-d eu-central-1.protection.sophos.com
 -d eu-easy.com
--d eu.wildfire.paloaltonetworks.com
+-d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -34366,6 +34362,7 @@ msFilterList
 -d f.tolganfor.ru
 -d f.top4top.net
 -d f.tsuyogari.ru
+-d f.uaalgee33.com
 -d f.zombieled.ru
 -d f0232447.xsph.ru
 -d f0236061.xsph.ru
@@ -35755,6 +35752,7 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
+-d file.elecfans.com
 -d file.fm
 -d file.hackingfor.fun
 -d file.importantcover.uk
@@ -35799,6 +35797,7 @@ msFilterList
 -d files.danwin1210.me
 -d files.dropmybin.me
 -d files.enjin.com
+-d files.gathercdn.com
 -d files.hrloo.com
 -d files.l-d.tech
 -d files.martellexpress.us
@@ -35852,7 +35851,6 @@ msFilterList
 -d filmecrestinehd.com
 -d filmenew.com
 -d filmeonlinetop.com
--d filmesonline.cc
 -d filmfest.jewishfilm.org
 -d filmfive.com.sg
 -d filmgeo.com
@@ -44496,6 +44494,7 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
+-d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -45056,7 +45055,6 @@ msFilterList
 -d hottest-viral.com
 -d hottestxxxvideo.com
 -d hottnews.tk
--d hotwell.at
 -d hotxm90.com
 -d hotyoutuber.com
 -d houara.com
@@ -65286,7 +65284,6 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
--d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -65877,6 +65874,7 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
+-d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -67996,7 +67994,6 @@ msFilterList
 -d nfefazendaportalprincipal.com
 -d nfegratuito.myrp.com.br
 -d nfgmedia.com
--d nfis.com
 -d nfj254aim.com
 -d nfog2018.dk
 -d nforsdt.org.np
@@ -72732,7 +72729,6 @@ msFilterList
 -d patriclonghi.com
 -d patriot.duna.it4u.ua
 -d patriotes.gr
--d patriotjerky.com
 -d patriotmedicalapp.com
 -d patriotpath.am
 -d patriotsupremehemp.com
@@ -74664,7 +74660,6 @@ msFilterList
 -d plumconsultant.com
 -d plumeriaapartments.com
 -d plumley-dj.com
--d plumtheme.ir
 -d plunatavan.com
 -d plurais.pt
 -d plurallider.com.br
@@ -80996,7 +80991,6 @@ msFilterList
 -d ronkonkomadisccenter.flywheelsites.com
 -d ronly.cc
 -d ronmadisonbooks.com
--d ronnietucker.co.uk
 -d ronsaltmarsh.com
 -d ronsonpainting.com
 -d rontonsoup.com
@@ -83337,6 +83331,7 @@ msFilterList
 -d scaleingltda.com
 -d scallatur.com.br
 -d scalyze.com
+-d scamanje.stresserit.pro
 -d scambiofans.it
 -d scampoligolosi.it
 -d scan.alexr00t3d.com
@@ -86360,6 +86355,7 @@ msFilterList
 -d simulasi.kredittoyotabandung.com
 -d simulations.org
 -d simurgkusyuvasi.org
+-d sinacloud.net
 -d sinagogart.org
 -d sinaiinformatica.com.br
 -d sinakhoessentials.co.za
@@ -91244,6 +91240,7 @@ msFilterList
 -d supersnacks.rocks
 -d supersopro.com.br
 -d superstart.qnotice.com
+-d superstationcity.com
 -d superstone.in
 -d superstores18.ru
 -d supertiendadomicilios.com
@@ -91299,6 +91296,7 @@ msFilterList
 -d support.jbrueggemann.com
 -d support.loungu.com
 -d support.m2mservices.com
+-d support.mdsol.com
 -d support.nordenrecycling.com
 -d support.nuvemit.com
 -d support.pubg.com
@@ -94748,7 +94746,6 @@ msFilterList
 -d thegovtupdates.com
 -d thegracecollection.uk
 -d thegrandchemical.com
--d thegraphicsonline.com
 -d thegraysweb.com
 -d thegreektaxi.com
 -d thegreenlady.org
@@ -95871,7 +95868,6 @@ msFilterList
 -d timelyrain.top
 -d timenard.top
 -d timenotbesea.xyz
--d timenow.pw
 -d timenowis1.top
 -d timeoffer.site
 -d timeofvape.tk
@@ -96610,7 +96606,6 @@ msFilterList
 -d toprakcelik.com
 -d toprakenerji.com
 -d toprakmedia.com
--d toprakmedia.net
 -d topreach.com.br
 -d toprebajas.com
 -d toprecipe.co.uk
@@ -97516,7 +97511,6 @@ msFilterList
 -d trimestre.bar
 -d trimestre.casa
 -d trimkings.com.au
--d trimonks.in
 -d trimsalonhandsome.nl
 -d trimunlexuan.vn
 -d trinadi.my
@@ -101353,6 +101347,7 @@ msFilterList
 -d vipmas15.beget.tech
 -d vipmein.com
 -d vipmerchantclub.com
+-d viportal.co
 -d vipre.at
 -d vipro.life
 -d viproducciones.com
@@ -103528,6 +103523,7 @@ msFilterList
 -d wgsystems.lt
 -d wh.2.bxacg.com
 -d wh.didiwl.com
+-d wh890850.ispot.cc
 -d whalefinance.io
 -d whambambodyslam.com
 -d wharfhotelbassam.com
@@ -105027,7 +105023,6 @@ msFilterList
 -d www.smart-eg.com
 -d www022284.com
 -d www1.bheringadvogados.com.br
--d www107.zippyshare.com
 -d www11.thinkproject.com
 -d www2.cj53.cn
 -d www2.gamingsupport.com
@@ -105131,6 +105126,7 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
+-d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
@@ -105150,7 +105146,6 @@ msFilterList
 -d x86tpkujgu1ksoky.com
 -d x8d8r8l8a8b8s.000webhostapp.com
 -d x97vn.mjt.lu
--d xa.yimg.com
 -d xacrosoft.com
 -d xact.ma
 -d xadrezgigante.com.br
@@ -106274,7 +106269,6 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
--d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net
