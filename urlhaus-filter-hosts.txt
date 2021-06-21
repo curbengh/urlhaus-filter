@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 20 Jun 2021 12:13:03 +0000
+# Updated: Mon, 21 Jun 2021 00:13:44 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -4181,7 +4181,6 @@
 0.0.0.0 aharoun.tj
 0.0.0.0 ahatourstravels.com
 0.0.0.0 ahavatil.com
-0.0.0.0 ahavietnam.com.vn
 0.0.0.0 ahbro.com
 0.0.0.0 ahc.mrbdev.com
 0.0.0.0 ahcomunicacao.com
@@ -6158,6 +6157,7 @@
 0.0.0.0 amc.swiss
 0.0.0.0 amcg.org.mx
 0.0.0.0 amcgsr.com.mx
+0.0.0.0 amchealth.com
 0.0.0.0 amcleonardo.ru
 0.0.0.0 amcmckinney.com
 0.0.0.0 amcmusic.net
@@ -27100,6 +27100,7 @@
 0.0.0.0 diarioprimeraplana.com.mx
 0.0.0.0 diaryofamrs.com
 0.0.0.0 diasdiascontabilidade.com.br
+0.0.0.0 diaspocare.com
 0.0.0.0 diaspotv.info
 0.0.0.0 diatisa.com
 0.0.0.0 diavlos6.gr
@@ -27951,6 +27952,7 @@
 0.0.0.0 djz313iks60bk4.com
 0.0.0.0 djzmo.com
 0.0.0.0 dk-elbrus.ru
+0.0.0.0 dk-rc.com
 0.0.0.0 dk.beccaestradaphotography.com
 0.0.0.0 dk.hpjav.cn
 0.0.0.0 dk.sa
@@ -53849,7 +53851,6 @@
 0.0.0.0 kohnrath.com
 0.0.0.0 kohsorkh-sarzamin-man.ir
 0.0.0.0 koibhidoma.com
-0.0.0.0 koifamily.jp
 0.0.0.0 koinasd.icu
 0.0.0.0 koirado.com
 0.0.0.0 koiujhnsd.co.kr
@@ -55021,7 +55022,6 @@
 0.0.0.0 lacompania.org
 0.0.0.0 lacompaniahb.com
 0.0.0.0 laconcernedparents.com
-0.0.0.0 laconicent.com
 0.0.0.0 laconversation-spectacle.fr
 0.0.0.0 lacordemtl.com
 0.0.0.0 lacoserendas.com.br
@@ -64910,6 +64910,7 @@
 0.0.0.0 motzadministraties.nl
 0.0.0.0 mouas.xyz
 0.0.0.0 mouaysha.com
+0.0.0.0 moufed.com
 0.0.0.0 moulin-de-la-hunelle.be
 0.0.0.0 moumitas.com
 0.0.0.0 mouni11.xyz
@@ -80395,7 +80396,6 @@
 0.0.0.0 rinkuglobalcare.com
 0.0.0.0 rinnaikompetisiblog.com
 0.0.0.0 rinnocreations.com
-0.0.0.0 rinnovopatentecaserta.com
 0.0.0.0 rinolfrecruitment.com
 0.0.0.0 rinyr.club
 0.0.0.0 rio-music.dk

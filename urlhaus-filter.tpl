@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 20 Jun 2021 12:13:03 +0000
+# Updated: Mon, 21 Jun 2021 00:13:44 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -4184,7 +4184,6 @@ msFilterList
 -d aharoun.tj
 -d ahatourstravels.com
 -d ahavatil.com
--d ahavietnam.com.vn
 -d ahbro.com
 -d ahc.mrbdev.com
 -d ahcomunicacao.com
@@ -6161,6 +6160,7 @@ msFilterList
 -d amc.swiss
 -d amcg.org.mx
 -d amcgsr.com.mx
+-d amchealth.com
 -d amcleonardo.ru
 -d amcmckinney.com
 -d amcmusic.net
@@ -27103,6 +27103,7 @@ msFilterList
 -d diarioprimeraplana.com.mx
 -d diaryofamrs.com
 -d diasdiascontabilidade.com.br
+-d diaspocare.com
 -d diaspotv.info
 -d diatisa.com
 -d diavlos6.gr
@@ -27954,6 +27955,7 @@ msFilterList
 -d djz313iks60bk4.com
 -d djzmo.com
 -d dk-elbrus.ru
+-d dk-rc.com
 -d dk.beccaestradaphotography.com
 -d dk.hpjav.cn
 -d dk.sa
@@ -53852,7 +53854,6 @@ msFilterList
 -d kohnrath.com
 -d kohsorkh-sarzamin-man.ir
 -d koibhidoma.com
--d koifamily.jp
 -d koinasd.icu
 -d koirado.com
 -d koiujhnsd.co.kr
@@ -55024,7 +55025,6 @@ msFilterList
 -d lacompania.org
 -d lacompaniahb.com
 -d laconcernedparents.com
--d laconicent.com
 -d laconversation-spectacle.fr
 -d lacordemtl.com
 -d lacoserendas.com.br
@@ -64913,6 +64913,7 @@ msFilterList
 -d motzadministraties.nl
 -d mouas.xyz
 -d mouaysha.com
+-d moufed.com
 -d moulin-de-la-hunelle.be
 -d moumitas.com
 -d mouni11.xyz
@@ -80398,7 +80399,6 @@ msFilterList
 -d rinkuglobalcare.com
 -d rinnaikompetisiblog.com
 -d rinnocreations.com
--d rinnovopatentecaserta.com
 -d rinolfrecruitment.com
 -d rinyr.club
 -d rio-music.dk
