@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 25 Jun 2021 12:08:52 +0000
+# Updated: Sat, 26 Jun 2021 00:08:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2654,6 +2654,7 @@ msFilterList
 -d accesseducationllc.com
 -d accessequipmentcapital.ca
 -d accessfze.com
+-d accessgrant.ydns.eu
 -d accessheler.com
 -d accessilife.org
 -d accesslinksgroup.com
@@ -2786,7 +2787,6 @@ msFilterList
 -d acessogospel.com.br
 -d acessoithcweb.com
 -d acessoriodasorveteria.com.br
--d acessoseguronet4.000webhostapp.com
 -d aceswilddesign.com
 -d acetaldehydetoxicity.com
 -d acetechpng.com
@@ -24363,7 +24363,6 @@ msFilterList
 -d dabal.org
 -d dabcap.com
 -d dabelmarket.com
--d dabesto.ir
 -d dabestway.com
 -d dabigshop.com
 -d dabrow.com
@@ -29718,6 +29717,7 @@ msFilterList
 -d drope.com.br
 -d dropimagestudio.com
 -d dropincor.com
+-d dropmb.com
 -d dropmyb.in
 -d dropnshop.co.id
 -d dropshipbay.co.uk
@@ -29893,6 +29893,7 @@ msFilterList
 -d dsulum.anonymous-sec.com
 -d dsupay.com
 -d dsuw5jbqe7xdzi.com
+-d dswa.1337.cx
 -d dswsngo.org
 -d dtbcreation.com.my
 -d dtechgov.com
@@ -38442,6 +38443,7 @@ msFilterList
 -d fxmeblog.ru
 -d fxmindshift.com
 -d fxqrg.xyz
+-d fxqy.my.to
 -d fxriver.com
 -d fxsignalreviews.com
 -d fxtak.com
@@ -45482,6 +45484,7 @@ msFilterList
 -d howwevacation.sheltonpropertiesllc.com
 -d howzatmedia.co.za
 -d howze-khansar.ir
+-d hox.hopto.org
 -d hoxen.net
 -d hoyamu.tellwhom.com
 -d hoz.69.mu
@@ -51128,6 +51131,7 @@ msFilterList
 -d johnnipe.com
 -d johnnobab.com
 -d johnnreviews.net
+-d johnny596.zapto.org
 -d johnnycrap.com
 -d johnnydollar.dj
 -d johnnyjankovich.com
@@ -53688,6 +53692,7 @@ msFilterList
 -d kingrich.sopanselalu.com
 -d kings.jesseworld.eu
 -d kings.vtivalves.us
+-d kings.ydns.eu
 -d kingsalmanquran.com
 -d kingsband.lk
 -d kingscargogroup.com
@@ -70317,6 +70322,7 @@ msFilterList
 -d odigital.ru
 -d odigy.com
 -d odina-logistic.com
+-d odiseaintima.com
 -d odishaculture.in
 -d odishahost.com
 -d odishahr.xyz
@@ -74199,6 +74205,7 @@ msFilterList
 -d ph.alessandrodelpiero.eu
 -d ph.sci.lru.ac.th
 -d ph4s.ru
+-d phacdochuabenh.com
 -d phacheminhquan.com
 -d phack.pw
 -d phadishago.co.za
@@ -82996,6 +83003,7 @@ msFilterList
 -d sales.istorebd.net
 -d sales.shahityaprakash.com
 -d sales2polarregion.co
+-d sales3.org
 -d salescenter.azura.my.id
 -d salesclub.in
 -d salesforce-ibmcloud.kozow.com
@@ -88977,7 +88985,6 @@ msFilterList
 -d souqaziz.com
 -d souqchatbot.com
 -d souqelasr.com
--d souqshare.com
 -d souqtajeer.com
 -d soura.in
 -d source2save.co.uk
@@ -96622,7 +96629,6 @@ msFilterList
 -d tinytotshighschool.com
 -d tinytowntees.com
 -d tiocabelinho.com.br
--d tipa.asia
 -d tipack.co.kr
 -d tipjar.id
 -d tiplabor.com
@@ -105720,7 +105726,6 @@ msFilterList
 -d wws.emeraldsurfsciences.org
 -d wws.no-shirt-no-shoes.com
 -d wws.tkgventures.com
--d wwv.regeditvn.com
 -d www-88xyxy-com.info
 -d www-afc.chrom3.net
 -d www-bsac.eecs.berkeley.edu
@@ -106307,6 +106312,7 @@ msFilterList
 -d xn--1ck9b7cx18spc2d.com
 -d xn--2-7sbooormjecd5c.xn--p1ai
 -d xn--20-1b4aw96kpbsw7pflpnd651j.xyz
+-d xn--2000-f4dm3ea0a4b.xn--p1ai
 -d xn--2017-94druacfmy0a.xn--p1acf
 -d xn--20gb-hediyefrsati-nvc.com
 -d xn--20gb-tanmla-kullan-l0c.com
@@ -107720,6 +107726,7 @@ msFilterList
 -d ytteedy.cf
 -d ytuetinh.com
 -d ytuongviet.com.vn
+-d ytvnews.info
 -d ytycard.co.uk
 -d ytytdywlwy.ga
 -d yu-niversity.com

@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Fri, 25 Jun 2021 12:08:52 +0000
+# Updated: Sat, 26 Jun 2021 00:08:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2651,6 +2651,7 @@
 0.0.0.0 accesseducationllc.com
 0.0.0.0 accessequipmentcapital.ca
 0.0.0.0 accessfze.com
+0.0.0.0 accessgrant.ydns.eu
 0.0.0.0 accessheler.com
 0.0.0.0 accessilife.org
 0.0.0.0 accesslinksgroup.com
@@ -2783,7 +2784,6 @@
 0.0.0.0 acessogospel.com.br
 0.0.0.0 acessoithcweb.com
 0.0.0.0 acessoriodasorveteria.com.br
-0.0.0.0 acessoseguronet4.000webhostapp.com
 0.0.0.0 aceswilddesign.com
 0.0.0.0 acetaldehydetoxicity.com
 0.0.0.0 acetechpng.com
@@ -24360,7 +24360,6 @@
 0.0.0.0 dabal.org
 0.0.0.0 dabcap.com
 0.0.0.0 dabelmarket.com
-0.0.0.0 dabesto.ir
 0.0.0.0 dabestway.com
 0.0.0.0 dabigshop.com
 0.0.0.0 dabrow.com
@@ -29715,6 +29714,7 @@
 0.0.0.0 drope.com.br
 0.0.0.0 dropimagestudio.com
 0.0.0.0 dropincor.com
+0.0.0.0 dropmb.com
 0.0.0.0 dropmyb.in
 0.0.0.0 dropnshop.co.id
 0.0.0.0 dropshipbay.co.uk
@@ -29890,6 +29890,7 @@
 0.0.0.0 dsulum.anonymous-sec.com
 0.0.0.0 dsupay.com
 0.0.0.0 dsuw5jbqe7xdzi.com
+0.0.0.0 dswa.1337.cx
 0.0.0.0 dswsngo.org
 0.0.0.0 dtbcreation.com.my
 0.0.0.0 dtechgov.com
@@ -38439,6 +38440,7 @@
 0.0.0.0 fxmeblog.ru
 0.0.0.0 fxmindshift.com
 0.0.0.0 fxqrg.xyz
+0.0.0.0 fxqy.my.to
 0.0.0.0 fxriver.com
 0.0.0.0 fxsignalreviews.com
 0.0.0.0 fxtak.com
@@ -45479,6 +45481,7 @@
 0.0.0.0 howwevacation.sheltonpropertiesllc.com
 0.0.0.0 howzatmedia.co.za
 0.0.0.0 howze-khansar.ir
+0.0.0.0 hox.hopto.org
 0.0.0.0 hoxen.net
 0.0.0.0 hoyamu.tellwhom.com
 0.0.0.0 hoz.69.mu
@@ -51125,6 +51128,7 @@
 0.0.0.0 johnnipe.com
 0.0.0.0 johnnobab.com
 0.0.0.0 johnnreviews.net
+0.0.0.0 johnny596.zapto.org
 0.0.0.0 johnnycrap.com
 0.0.0.0 johnnydollar.dj
 0.0.0.0 johnnyjankovich.com
@@ -53685,6 +53689,7 @@
 0.0.0.0 kingrich.sopanselalu.com
 0.0.0.0 kings.jesseworld.eu
 0.0.0.0 kings.vtivalves.us
+0.0.0.0 kings.ydns.eu
 0.0.0.0 kingsalmanquran.com
 0.0.0.0 kingsband.lk
 0.0.0.0 kingscargogroup.com
@@ -70314,6 +70319,7 @@
 0.0.0.0 odigital.ru
 0.0.0.0 odigy.com
 0.0.0.0 odina-logistic.com
+0.0.0.0 odiseaintima.com
 0.0.0.0 odishaculture.in
 0.0.0.0 odishahost.com
 0.0.0.0 odishahr.xyz
@@ -74196,6 +74202,7 @@
 0.0.0.0 ph.alessandrodelpiero.eu
 0.0.0.0 ph.sci.lru.ac.th
 0.0.0.0 ph4s.ru
+0.0.0.0 phacdochuabenh.com
 0.0.0.0 phacheminhquan.com
 0.0.0.0 phack.pw
 0.0.0.0 phadishago.co.za
@@ -82993,6 +83000,7 @@
 0.0.0.0 sales.istorebd.net
 0.0.0.0 sales.shahityaprakash.com
 0.0.0.0 sales2polarregion.co
+0.0.0.0 sales3.org
 0.0.0.0 salescenter.azura.my.id
 0.0.0.0 salesclub.in
 0.0.0.0 salesforce-ibmcloud.kozow.com
@@ -88974,7 +88982,6 @@
 0.0.0.0 souqaziz.com
 0.0.0.0 souqchatbot.com
 0.0.0.0 souqelasr.com
-0.0.0.0 souqshare.com
 0.0.0.0 souqtajeer.com
 0.0.0.0 soura.in
 0.0.0.0 source2save.co.uk
@@ -96619,7 +96626,6 @@
 0.0.0.0 tinytotshighschool.com
 0.0.0.0 tinytowntees.com
 0.0.0.0 tiocabelinho.com.br
-0.0.0.0 tipa.asia
 0.0.0.0 tipack.co.kr
 0.0.0.0 tipjar.id
 0.0.0.0 tiplabor.com
@@ -105717,7 +105723,6 @@
 0.0.0.0 wws.emeraldsurfsciences.org
 0.0.0.0 wws.no-shirt-no-shoes.com
 0.0.0.0 wws.tkgventures.com
-0.0.0.0 wwv.regeditvn.com
 0.0.0.0 www-88xyxy-com.info
 0.0.0.0 www-afc.chrom3.net
 0.0.0.0 www-bsac.eecs.berkeley.edu
@@ -106304,6 +106309,7 @@
 0.0.0.0 xn--1ck9b7cx18spc2d.com
 0.0.0.0 xn--2-7sbooormjecd5c.xn--p1ai
 0.0.0.0 xn--20-1b4aw96kpbsw7pflpnd651j.xyz
+0.0.0.0 xn--2000-f4dm3ea0a4b.xn--p1ai
 0.0.0.0 xn--2017-94druacfmy0a.xn--p1acf
 0.0.0.0 xn--20gb-hediyefrsati-nvc.com
 0.0.0.0 xn--20gb-tanmla-kullan-l0c.com
@@ -107717,6 +107723,7 @@
 0.0.0.0 ytteedy.cf
 0.0.0.0 ytuetinh.com
 0.0.0.0 ytuongviet.com.vn
+0.0.0.0 ytvnews.info
 0.0.0.0 ytycard.co.uk
 0.0.0.0 ytytdywlwy.ga
 0.0.0.0 yu-niversity.com
