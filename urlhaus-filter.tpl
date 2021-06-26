@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 26 Jun 2021 00:08:53 +0000
+# Updated: Sat, 26 Jun 2021 12:08:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -7465,7 +7465,6 @@ msFilterList
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
--d apigeoip.com
 -d apihomes.us
 -d apiperjuangan.com
 -d apipro.com.br
@@ -22745,6 +22744,7 @@ msFilterList
 -d correiosbr.r1-it.storage.cloud.it
 -d correlation.ca
 -d correo.kable.cl
+-d correolimpio.telefonica.es
 -d correspondenterio.com.br
 -d corretordejoanete.site
 -d corrheating.ie
@@ -31261,7 +31261,6 @@ msFilterList
 -d eduprecaro.com
 -d eduquebrincando.com.br
 -d edurecruit.idevs.site
--d eduroam.stou.ac.th
 -d edurotations.com
 -d eduscore.org
 -d edusenz.com
@@ -33756,6 +33755,7 @@ msFilterList
 -d etwqsx23.duckdns.org
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
+-d eu-central-1.protection.sophos.com
 -d eu-easy.com
 -d eu.wildfire.paloaltonetworks.com
 -d eu1.salesforce.com
@@ -34217,7 +34217,6 @@ msFilterList
 -d exams-success.com
 -d exams4sale.com
 -d examsinfo.in
--d examsnap.io
 -d exarcadomaronitadecolombia.org
 -d exbace.com
 -d exbook.mhkzolution.com
@@ -41799,7 +41798,6 @@ msFilterList
 -d groupegps.com
 -d groupeicaetudes.com
 -d groupejpr.com
--d grouper.ieee.org
 -d groupesival.com
 -d groupevl.ca
 -d groupfeaab.com
@@ -44822,6 +44820,7 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
+-d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -57651,7 +57650,6 @@ msFilterList
 -d liswear.es
 -d liszkaokna.pl
 -d lit-botanica.com
--d lit-it.ru
 -d litbau.com
 -d lite.suprabt.com
 -d litebulb.nl
@@ -57782,6 +57780,7 @@ msFilterList
 -d livelovereiki.co.uk
 -d livemag.co.za
 -d livemail.ga
+-d livenetworks.com.br
 -d livenia.com
 -d liveoakartcenter.org
 -d liveoakmeadow.com
@@ -60838,6 +60837,7 @@ msFilterList
 -d manolab.in
 -d manolidis.kaisariani.gr
 -d manomayproperty.com
+-d manomir.ro
 -d manoratha.org
 -d manorialtitles.co.uk
 -d manorviews.co.nz
@@ -68649,7 +68649,6 @@ msFilterList
 -d nhipcauytevietnhat.com
 -d nhlavuteloholdings.co.za
 -d nhomkinhdongtien.com
--d nhomkinhthienbinh.com
 -d nhorangtreem.com
 -d nhp-i.com
 -d nhpetsave.com
@@ -74724,6 +74723,7 @@ msFilterList
 -d pink-tomato.de
 -d pink99.com
 -d pinkafricafoundation.org
+-d pinkandbluetinytots.com
 -d pinkbabies.net
 -d pinkconnext.com
 -d pinkesocken.de
@@ -80410,6 +80410,7 @@ msFilterList
 -d res.entercenter.net
 -d res.qaqgame.cn
 -d res.uf1.cn
+-d res.yeshen.com
 -d resadiyehaber.com
 -d resaltodigital.com
 -d resamarkham.info
@@ -98300,7 +98301,6 @@ msFilterList
 -d trontik.ru
 -d troodonmedia.com
 -d troopchalkkids.com
--d troopwebhost.blob.core.windows.net
 -d tropicalhawaii.com
 -d tropicalhomesofcostarica.com
 -d tropicalislandrealtyofflorida.com

@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 26 Jun 2021 00:08:53 +0000
+# Updated: Sat, 26 Jun 2021 12:08:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -7462,7 +7462,6 @@
 0.0.0.0 apiesteso.com
 0.0.0.0 apifile.xyz
 0.0.0.0 apifm.in
-0.0.0.0 apigeoip.com
 0.0.0.0 apihomes.us
 0.0.0.0 apiperjuangan.com
 0.0.0.0 apipro.com.br
@@ -22742,6 +22741,7 @@
 0.0.0.0 correiosbr.r1-it.storage.cloud.it
 0.0.0.0 correlation.ca
 0.0.0.0 correo.kable.cl
+0.0.0.0 correolimpio.telefonica.es
 0.0.0.0 correspondenterio.com.br
 0.0.0.0 corretordejoanete.site
 0.0.0.0 corrheating.ie
@@ -31258,7 +31258,6 @@
 0.0.0.0 eduprecaro.com
 0.0.0.0 eduquebrincando.com.br
 0.0.0.0 edurecruit.idevs.site
-0.0.0.0 eduroam.stou.ac.th
 0.0.0.0 edurotations.com
 0.0.0.0 eduscore.org
 0.0.0.0 edusenz.com
@@ -33753,6 +33752,7 @@
 0.0.0.0 etwqsx23.duckdns.org
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
+0.0.0.0 eu-central-1.protection.sophos.com
 0.0.0.0 eu-easy.com
 0.0.0.0 eu.wildfire.paloaltonetworks.com
 0.0.0.0 eu1.salesforce.com
@@ -34214,7 +34214,6 @@
 0.0.0.0 exams-success.com
 0.0.0.0 exams4sale.com
 0.0.0.0 examsinfo.in
-0.0.0.0 examsnap.io
 0.0.0.0 exarcadomaronitadecolombia.org
 0.0.0.0 exbace.com
 0.0.0.0 exbook.mhkzolution.com
@@ -41796,7 +41795,6 @@
 0.0.0.0 groupegps.com
 0.0.0.0 groupeicaetudes.com
 0.0.0.0 groupejpr.com
-0.0.0.0 grouper.ieee.org
 0.0.0.0 groupesival.com
 0.0.0.0 groupevl.ca
 0.0.0.0 groupfeaab.com
@@ -44819,6 +44817,7 @@
 0.0.0.0 home.99eurowebsite.ie
 0.0.0.0 home.barley-plus.com
 0.0.0.0 home.dawang.ink
+0.0.0.0 home.earthlink.net
 0.0.0.0 home.evrstudio.com
 0.0.0.0 home.healthiestu.com
 0.0.0.0 home.isdes.com
@@ -57648,7 +57647,6 @@
 0.0.0.0 liswear.es
 0.0.0.0 liszkaokna.pl
 0.0.0.0 lit-botanica.com
-0.0.0.0 lit-it.ru
 0.0.0.0 litbau.com
 0.0.0.0 lite.suprabt.com
 0.0.0.0 litebulb.nl
@@ -57779,6 +57777,7 @@
 0.0.0.0 livelovereiki.co.uk
 0.0.0.0 livemag.co.za
 0.0.0.0 livemail.ga
+0.0.0.0 livenetworks.com.br
 0.0.0.0 livenia.com
 0.0.0.0 liveoakartcenter.org
 0.0.0.0 liveoakmeadow.com
@@ -60835,6 +60834,7 @@
 0.0.0.0 manolab.in
 0.0.0.0 manolidis.kaisariani.gr
 0.0.0.0 manomayproperty.com
+0.0.0.0 manomir.ro
 0.0.0.0 manoratha.org
 0.0.0.0 manorialtitles.co.uk
 0.0.0.0 manorviews.co.nz
@@ -68646,7 +68646,6 @@
 0.0.0.0 nhipcauytevietnhat.com
 0.0.0.0 nhlavuteloholdings.co.za
 0.0.0.0 nhomkinhdongtien.com
-0.0.0.0 nhomkinhthienbinh.com
 0.0.0.0 nhorangtreem.com
 0.0.0.0 nhp-i.com
 0.0.0.0 nhpetsave.com
@@ -74721,6 +74720,7 @@
 0.0.0.0 pink-tomato.de
 0.0.0.0 pink99.com
 0.0.0.0 pinkafricafoundation.org
+0.0.0.0 pinkandbluetinytots.com
 0.0.0.0 pinkbabies.net
 0.0.0.0 pinkconnext.com
 0.0.0.0 pinkesocken.de
@@ -80407,6 +80407,7 @@
 0.0.0.0 res.entercenter.net
 0.0.0.0 res.qaqgame.cn
 0.0.0.0 res.uf1.cn
+0.0.0.0 res.yeshen.com
 0.0.0.0 resadiyehaber.com
 0.0.0.0 resaltodigital.com
 0.0.0.0 resamarkham.info
@@ -98297,7 +98298,6 @@
 0.0.0.0 trontik.ru
 0.0.0.0 troodonmedia.com
 0.0.0.0 troopchalkkids.com
-0.0.0.0 troopwebhost.blob.core.windows.net
 0.0.0.0 tropicalhawaii.com
 0.0.0.0 tropicalhomesofcostarica.com
 0.0.0.0 tropicalislandrealtyofflorida.com
