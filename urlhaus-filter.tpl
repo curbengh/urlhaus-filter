@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 26 Jun 2021 12:08:20 +0000
+# Updated: Sun, 27 Jun 2021 00:08:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -20008,7 +20008,6 @@ msFilterList
 -d chongthamhoanglinh.com
 -d chongziyun.com
 -d chonhangchuan.net
--d chonmua.com
 -d chonreneedanceacademy.com
 -d choobica.com
 -d choobika.com
@@ -53800,7 +53799,6 @@ msFilterList
 -d kishket.ru
 -d kishroyall.com
 -d kiskakisska.xyz
--d kissanime24.com
 -d kisshorestaurant.vn
 -d kissliv.flu.cc
 -d kisswarm.com
@@ -77381,6 +77379,7 @@ msFilterList
 -d pssd-ltdgroup.com
 -d psselection.com
 -d pssh2.ru
+-d psspine.org
 -d pssquared.com
 -d pssuvlacajan.ru
 -d pstanford.co.uk
@@ -82326,7 +82325,6 @@ msFilterList
 -d rwv667t9al.usa.cc
 -d rxanatomy.com
 -d rxcvslqwai.com
--d rxmedic.co
 -d rxmvps.top
 -d rxrhorseriding.net
 -d rxvarbtf.sha58.me
@@ -90932,7 +90930,6 @@ msFilterList
 -d store.anniebags.com
 -d store.ariessoftweb.com
 -d store.bmag.vn
--d store.chonmua.com
 -d store.damatag.com
 -d store.delivery2home.in
 -d store.dhl-pdf.com
@@ -102977,6 +102974,7 @@ msFilterList
 -d w2wfaithwear.com
 -d w3.153.yhlg.com
 -d w395160.blob2.ge.tt
+-d w3art.com
 -d w3avers.com
 -d w3brasil.com
 -d w3crystalreports.com
