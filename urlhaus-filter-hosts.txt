@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 27 Jun 2021 00:08:25 +0000
+# Updated: Sun, 27 Jun 2021 12:09:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -113,6 +113,8 @@
 0.0.0.0 1.qqtv.biz
 0.0.0.0 1.solutions
 0.0.0.0 1.spacepel.com
+0.0.0.0 1.top4top.io
+0.0.0.0 1.top4top.net
 0.0.0.0 1.velta.z8.ru
 0.0.0.0 1.z9ls.com
 0.0.0.0 10-10.com
@@ -1141,6 +1143,8 @@
 0.0.0.0 4.c8xtt.com
 0.0.0.0 4.nikita86.z8.ru
 0.0.0.0 4.program-iq.com
+0.0.0.0 4.top4top.io
+0.0.0.0 4.top4top.net
 0.0.0.0 4.u0135364.z8.ru
 0.0.0.0 4.unplugrevolution.com
 0.0.0.0 4001999.com
@@ -1458,6 +1462,8 @@
 0.0.0.0 6-milescoast.vn
 0.0.0.0 6-shifoxona.uz
 0.0.0.0 6.adborod.z8.ru
+0.0.0.0 6.top4top.io
+0.0.0.0 6.top4top.net
 0.0.0.0 6.u0135364.z8.ru
 0.0.0.0 6.u0141023.z8.ru
 0.0.0.0 601elevate.com
@@ -3593,7 +3599,6 @@
 0.0.0.0 aelmas.5gbfree.com
 0.0.0.0 aelogica.com
 0.0.0.0 aemgrup.com.tr
-0.0.0.0 aemine.vn
 0.0.0.0 aemo-mecanique-usinage.fr
 0.0.0.0 aengineeringltd.com
 0.0.0.0 aeondor.com
@@ -8211,6 +8216,7 @@
 0.0.0.0 argentina.ganar-dinero-hoy.com
 0.0.0.0 argentinadanza.com
 0.0.0.0 arggroup.kz
+0.0.0.0 arghaa.com
 0.0.0.0 arghakhanchibulletin.com
 0.0.0.0 arghusk.com
 0.0.0.0 argilasantana.com.br
@@ -20000,7 +20006,6 @@
 0.0.0.0 cholesterol-ache.xyz
 0.0.0.0 chomoka.com
 0.0.0.0 chomptruck.com
-0.0.0.0 chongnet.cn
 0.0.0.0 chongoubus.com
 0.0.0.0 chongthamhoanglinh.com
 0.0.0.0 chongziyun.com
@@ -26364,6 +26369,7 @@
 0.0.0.0 depcosmetics.vn
 0.0.0.0 depedmakati.ph
 0.0.0.0 deperfectemens.be
+0.0.0.0 depgrup.com
 0.0.0.0 dephotoshoppers.nl
 0.0.0.0 depierresenpierres-maconnerie.com
 0.0.0.0 depilation38.ru
@@ -28238,6 +28244,7 @@
 0.0.0.0 dl2.onedrive-eu.com
 0.0.0.0 dl2.onedrive-us-en.com
 0.0.0.0 dl2.storeandshare.singtel.com
+0.0.0.0 dl3.joxi.net
 0.0.0.0 dl4.joxi.net
 0.0.0.0 dl4435.ex-downloads.com
 0.0.0.0 dl63964725.dyn-downloads.com
@@ -29268,7 +29275,6 @@
 0.0.0.0 doyoulovequotes.com
 0.0.0.0 doypack.net.pl
 0.0.0.0 dp-partners.net
-0.0.0.0 dp-womenbasket.com
 0.0.0.0 dp4kb.magelangkota.go.id
 0.0.0.0 dp5a.surabaya.go.id
 0.0.0.0 dpa-industries.com
@@ -31257,6 +31263,7 @@
 0.0.0.0 eduprecaro.com
 0.0.0.0 eduquebrincando.com.br
 0.0.0.0 edurecruit.idevs.site
+0.0.0.0 eduroam.stou.ac.th
 0.0.0.0 edurotations.com
 0.0.0.0 eduscore.org
 0.0.0.0 edusenz.com
@@ -33753,7 +33760,6 @@
 0.0.0.0 etysu02scnabr03wzaxue.com
 0.0.0.0 eu-central-1.protection.sophos.com
 0.0.0.0 eu-easy.com
-0.0.0.0 eu.wildfire.paloaltonetworks.com
 0.0.0.0 eu1.salesforce.com
 0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eu283iwoqodjspqisjdf.com
@@ -36005,6 +36011,7 @@
 0.0.0.0 file.discountmonumentcenter.com
 0.0.0.0 file.dpmf.com.pk
 0.0.0.0 file.ekkggr3.com
+0.0.0.0 file.elecfans.com
 0.0.0.0 file.fm
 0.0.0.0 file.hackingfor.fun
 0.0.0.0 file.importantcover.uk
@@ -41794,6 +41801,7 @@
 0.0.0.0 groupegps.com
 0.0.0.0 groupeicaetudes.com
 0.0.0.0 groupejpr.com
+0.0.0.0 grouper.ieee.org
 0.0.0.0 groupesival.com
 0.0.0.0 groupevl.ca
 0.0.0.0 groupfeaab.com
@@ -43823,6 +43831,7 @@
 0.0.0.0 help.siganet.com.br
 0.0.0.0 help.talisman-sql.ru
 0.0.0.0 help.thetechguyusa.com
+0.0.0.0 help.wework.com
 0.0.0.0 help2help.info
 0.0.0.0 help3in1.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 helpandinformation.uk
@@ -46402,7 +46411,6 @@
 0.0.0.0 iconiceventsuae.com
 0.0.0.0 iconickidz.in
 0.0.0.0 iconnectedintelligence.com
-0.0.0.0 iconoeditorial.com
 0.0.0.0 iconosgroup.com.co
 0.0.0.0 iconovirtual.com
 0.0.0.0 iconpartners.com
@@ -49215,6 +49223,7 @@
 0.0.0.0 ishouldhavebeenaunicorn.com
 0.0.0.0 ishovn.com
 0.0.0.0 ishqekamil.com
+0.0.0.0 ishr.co.in
 0.0.0.0 ishsports.com
 0.0.0.0 ishtera.net
 0.0.0.0 ishwarkumarbhattarai.com.np
@@ -56282,6 +56291,7 @@
 0.0.0.0 leads.afrus.app
 0.0.0.0 leads.bizbrio.com
 0.0.0.0 leads.thevicesolution.com
+0.0.0.0 leadscloud.com
 0.0.0.0 leadservice.org
 0.0.0.0 leadsmonthly.com
 0.0.0.0 leadstream.ng
@@ -57775,7 +57785,6 @@
 0.0.0.0 livelovereiki.co.uk
 0.0.0.0 livemag.co.za
 0.0.0.0 livemail.ga
-0.0.0.0 livenetworks.com.br
 0.0.0.0 livenia.com
 0.0.0.0 liveoakartcenter.org
 0.0.0.0 liveoakmeadow.com
@@ -60747,6 +60756,7 @@
 0.0.0.0 mangaml.com
 0.0.0.0 mangatbazar.com
 0.0.0.0 mangatun.com
+0.0.0.0 mangawt.com
 0.0.0.0 mangchongtham.com.vn
 0.0.0.0 mangchongtham.vn
 0.0.0.0 mange-gode-blogs.dk
@@ -62299,6 +62309,7 @@
 0.0.0.0 medcureorganics.com
 0.0.0.0 meddaughs.com
 0.0.0.0 medeaser.com
+0.0.0.0 mededsys.com
 0.0.0.0 medegbetv.com
 0.0.0.0 medel.it
 0.0.0.0 medenblik.net
@@ -64540,6 +64551,7 @@
 0.0.0.0 mobilaok.ro
 0.0.0.0 mobilbazaar.net
 0.0.0.0 mobile-fueldrain.co.uk
+0.0.0.0 mobile-landing.ishr.co.in
 0.0.0.0 mobile.dradioimagem.com.br
 0.0.0.0 mobile.illumetechnology.com
 0.0.0.0 mobile.payzug.com
@@ -65747,7 +65759,6 @@
 0.0.0.0 msofficeinternatiinalfilecloudtransfer.duckdns.org
 0.0.0.0 msofficesecuredfiletransferinfocloud.duckdns.org
 0.0.0.0 msofficewordfiletransfertotheadmintrue.duckdns.org
-0.0.0.0 msoftwares.info
 0.0.0.0 msograteful.com
 0.0.0.0 mspcville.com
 0.0.0.0 mspn.com.au
@@ -66342,6 +66353,7 @@
 0.0.0.0 my.findsr.co
 0.0.0.0 my.jiwa-nala.org
 0.0.0.0 my.loungu.com
+0.0.0.0 my.mail.de
 0.0.0.0 my.mixtape.moe
 0.0.0.0 my.pop9ja.com.ng
 0.0.0.0 my.zhaopin.com
@@ -68068,6 +68080,7 @@
 0.0.0.0 new.igluonline.com
 0.0.0.0 new.ime-consultants.com
 0.0.0.0 new.invisiblecreations.nl
+0.0.0.0 new.ishr.co.in
 0.0.0.0 new.k-y.in.ua
 0.0.0.0 new.kgc.ac.bd
 0.0.0.0 new.komp-air.lt
@@ -86961,7 +86974,6 @@
 0.0.0.0 simulasi.kredittoyotabandung.com
 0.0.0.0 simulations.org
 0.0.0.0 simurgkusyuvasi.org
-0.0.0.0 sinacloud.net
 0.0.0.0 sinagogart.org
 0.0.0.0 sinaiinformatica.com.br
 0.0.0.0 sinakhoessentials.co.za
@@ -91930,6 +91942,7 @@
 0.0.0.0 support.jbrueggemann.com
 0.0.0.0 support.loungu.com
 0.0.0.0 support.m2mservices.com
+0.0.0.0 support.mdsol.com
 0.0.0.0 support.nordenrecycling.com
 0.0.0.0 support.nuvemit.com
 0.0.0.0 support.pubg.com
@@ -98295,6 +98308,7 @@
 0.0.0.0 trontik.ru
 0.0.0.0 troodonmedia.com
 0.0.0.0 troopchalkkids.com
+0.0.0.0 troopwebhost.blob.core.windows.net
 0.0.0.0 tropicalhawaii.com
 0.0.0.0 tropicalhomesofcostarica.com
 0.0.0.0 tropicalislandrealtyofflorida.com
@@ -103401,7 +103415,6 @@
 0.0.0.0 wcare.nl
 0.0.0.0 wcbgroup.co.uk
 0.0.0.0 wccb.co.zw
-0.0.0.0 wcdownloadercdn.lavasoft.com
 0.0.0.0 wcdr.pbas.es
 0.0.0.0 wcf-old.sibcat.info
 0.0.0.0 wcfamlaw.com
@@ -105839,6 +105852,7 @@
 0.0.0.0 x.alluniversal.info
 0.0.0.0 x.autistichorse.club
 0.0.0.0 x.beginsonline.com
+0.0.0.0 x.jmxded153.net
 0.0.0.0 x.jmxded184.net
 0.0.0.0 x.norvartic.com
 0.0.0.0 x.ord-id.com
@@ -105934,6 +105948,7 @@
 0.0.0.0 xcvjhfs.ru
 0.0.0.0 xcvzxf.ru
 0.0.0.0 xcwuyu.zlygu.com
+0.0.0.0 xcx.leadscloud.com
 0.0.0.0 xcx.yngw518.com
 0.0.0.0 xcx.zhuang123.cn
 0.0.0.0 xcxcd.360aiyi.com

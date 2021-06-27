@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sun, 27 Jun 2021 00:08:25 +0000
+# Updated: Sun, 27 Jun 2021 12:09:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -54,7 +54,6 @@
 0.0.0.0 admin.erapor.smk-alasror.net
 0.0.0.0 admin.gentbcn.org
 0.0.0.0 aebeinc.com
-0.0.0.0 aerociel.net
 0.0.0.0 afnan-amc.com
 0.0.0.0 afrimedspecialist.com
 0.0.0.0 afriqanlimited.com
@@ -109,7 +108,6 @@
 0.0.0.0 artas.biz
 0.0.0.0 article.abqarie.com
 0.0.0.0 ask-regard.call-save.biz
-0.0.0.0 assistenciadeaquecedores.com
 0.0.0.0 atfile.com
 0.0.0.0 athenacapsg.com
 0.0.0.0 atlantareads.org
@@ -137,9 +135,9 @@
 0.0.0.0 bangladeshunbound.com
 0.0.0.0 bash.givemexyz.in
 0.0.0.0 basquetbol.negotech.com.mx
-0.0.0.0 bbia.co.uk
 0.0.0.0 bccegy.com
 0.0.0.0 bcrg.co.za
+0.0.0.0 bearcatpumps.com.cn
 0.0.0.0 beautiful-gatherings.com
 0.0.0.0 beautincollagen.rs
 0.0.0.0 belgross.github.io
@@ -154,7 +152,6 @@
 0.0.0.0 betycopaints.com
 0.0.0.0 bg-kuwo.com
 0.0.0.0 bharattimeslive.com
-0.0.0.0 bhavaniengineering.com
 0.0.0.0 biankadesmarais.com
 0.0.0.0 bigpms.in
 0.0.0.0 bigs.bikershop.biz
@@ -179,7 +176,6 @@
 0.0.0.0 braco.com.co
 0.0.0.0 brand-village.com
 0.0.0.0 brandtrust.com.pk
-0.0.0.0 breakingbread.modelacademy.co.in
 0.0.0.0 brendanquine.com
 0.0.0.0 brideofmessiah.com
 0.0.0.0 bridgerock.in
@@ -213,6 +209,7 @@
 0.0.0.0 cdn.tmooc.cn
 0.0.0.0 cellas.sk
 0.0.0.0 cendekiabinaaksara.com
+0.0.0.0 centrodeesteticapopular.com.br
 0.0.0.0 certificadoraglp-gnvhersa.com
 0.0.0.0 cfs10.blog.daum.net
 0.0.0.0 cfs13.tistory.com
@@ -230,7 +227,6 @@
 0.0.0.0 cisco-ccna-ccnp-ccie.com
 0.0.0.0 citihits.lk
 0.0.0.0 civi.istmejia.com
-0.0.0.0 ck-t-hr.com
 0.0.0.0 classic4545.github.io
 0.0.0.0 cleanevolution.com.br
 0.0.0.0 cloud.fc.co.mz
@@ -244,7 +240,6 @@
 0.0.0.0 competitiveedgepsx.com
 0.0.0.0 config.cqhbkjzx.com
 0.0.0.0 connect.rio.br
-0.0.0.0 connectcapital.com.br
 0.0.0.0 consciouslycreative.ca
 0.0.0.0 construrack.cl
 0.0.0.0 coopearrieros.com.co
@@ -252,12 +247,14 @@
 0.0.0.0 corporateclasshotels.com
 0.0.0.0 coulsongraphics.com
 0.0.0.0 count.mail.163.com.impactmedfoundation.com
+0.0.0.0 counterpros.online
 0.0.0.0 courtneyjones.ac.ug
 0.0.0.0 covid19.cyberschool.or.id
 0.0.0.0 cp-saofacundo.pt
 0.0.0.0 cpanel.shivay.net
 0.0.0.0 cprdevelopers.com
 0.0.0.0 craiglindstrom.com
+0.0.0.0 crearechile.cl
 0.0.0.0 creationskateboards.com
 0.0.0.0 crecerco.com
 0.0.0.0 crittersbythebay.com
@@ -324,7 +321,6 @@
 0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dl.pandasecur.com
 0.0.0.0 dl.rina-roleplay.com
-0.0.0.0 dl.zkytech.com
 0.0.0.0 dmequest.com
 0.0.0.0 dnn.alibuf.com
 0.0.0.0 dns.alibuf.com
@@ -376,6 +372,7 @@
 0.0.0.0 edu.pmvanini.rs.gov.br
 0.0.0.0 efeatasoy.com
 0.0.0.0 efficientegroup.com
+0.0.0.0 eikongaming.com
 0.0.0.0 elbauldenora.com
 0.0.0.0 elianthony.com
 0.0.0.0 ellejazairia.com
@@ -393,7 +390,6 @@
 0.0.0.0 erp.stannsschoolpanagudi.edu.in
 0.0.0.0 esnconsultants.com
 0.0.0.0 esportesht.com.br
-0.0.0.0 ethereality.info
 0.0.0.0 ethnika.noiaa.com
 0.0.0.0 eubanks7.com
 0.0.0.0 euroacademia.co.uk
@@ -416,6 +412,7 @@
 0.0.0.0 felicienne.nl
 0.0.0.0 fianto.com.br
 0.0.0.0 fightfactoryph.com
+0.0.0.0 file.elecfans.com
 0.0.0.0 file.hackingfor.fun
 0.0.0.0 files6.uludagbilisim.com
 0.0.0.0 filtpro.com
@@ -452,7 +449,6 @@
 0.0.0.0 goldcake.co.id
 0.0.0.0 golden-memories-funerals.yourpageserver.com
 0.0.0.0 goldenasiacapital.com
-0.0.0.0 goldmen.in
 0.0.0.0 goodsproutarchitects.com
 0.0.0.0 gpotecnosystems.com
 0.0.0.0 granreserva.co
@@ -492,7 +488,6 @@
 0.0.0.0 hongluosi.com
 0.0.0.0 hookedupboatclub.com
 0.0.0.0 horamedical.in
-0.0.0.0 hospital.fecom.in
 0.0.0.0 hostzaa.com
 0.0.0.0 hotelhadieh.ir
 0.0.0.0 houstonshutters.site
@@ -508,7 +503,6 @@
 0.0.0.0 ideamaster.com.my
 0.0.0.0 idilsoft.com
 0.0.0.0 idj.no
-0.0.0.0 ieronymou.com
 0.0.0.0 ikizhavuz.com
 0.0.0.0 iliknaturals.com
 0.0.0.0 illegalbytes.com
@@ -529,7 +523,6 @@
 0.0.0.0 innagro.com.br
 0.0.0.0 inodesthetotaldesigners.com
 0.0.0.0 inoglink.com
-0.0.0.0 insurancebrokerssingapore.com
 0.0.0.0 intech.com.pk
 0.0.0.0 intersel-idf.org
 0.0.0.0 intranet.injasclaro.com
@@ -569,7 +562,6 @@
 0.0.0.0 justinscott.com.au
 0.0.0.0 jyk85mxc.z1001.net
 0.0.0.0 jyothishmathi.in
-0.0.0.0 kadigital.co.uk
 0.0.0.0 kalogirosfinance.com
 0.0.0.0 karer.by
 0.0.0.0 karunaelnido.com
@@ -594,6 +586,7 @@
 0.0.0.0 krisbadminton.com
 0.0.0.0 ks.cn
 0.0.0.0 kumaralok.in
+0.0.0.0 kurumsal.avantajbulvari.com
 0.0.0.0 kz.sldov.ru
 0.0.0.0 lafondadeaurora.com
 0.0.0.0 lameguard.ru
@@ -644,6 +637,7 @@
 0.0.0.0 m-technics.kz
 0.0.0.0 madicon.co.za
 0.0.0.0 mail.aladhwa-sch.com
+0.0.0.0 mail.bs-eiendomme.co.za
 0.0.0.0 mail.golimoapp.com
 0.0.0.0 mail1.hacachurch.org
 0.0.0.0 mail1.mycollege.com.my
@@ -738,6 +732,7 @@
 0.0.0.0 nerve.untergrund.net
 0.0.0.0 nestlex.tk
 0.0.0.0 nettube.com.br
+0.0.0.0 networkwheels.co.za
 0.0.0.0 neverless.nl
 0.0.0.0 newsdataworld.com
 0.0.0.0 newsite.noiaa.com
@@ -771,9 +766,9 @@
 0.0.0.0 odeshop.be
 0.0.0.0 odiafilms.com
 0.0.0.0 offlineclubz.com
-0.0.0.0 ohe.ie
 0.0.0.0 ohsewgorgeous.co.uk
 0.0.0.0 okcupid.ydns.eu
+0.0.0.0 oknoplastik.sk
 0.0.0.0 old.cybers.com.ua
 0.0.0.0 old.fishbowlinventory.com
 0.0.0.0 old.mktgsandbox.com
@@ -849,10 +844,10 @@
 0.0.0.0 productoslaesperanza.co
 0.0.0.0 promoversdubai.com
 0.0.0.0 prosoc.nl
-0.0.0.0 psicheaurora.it
 0.0.0.0 psikologi.undhirabali.ac.id
 0.0.0.0 punchdialogues.com
 0.0.0.0 punjabdevelopersassociation.com.pk
+0.0.0.0 pvcprinting.co.uk
 0.0.0.0 pvsportz.com
 0.0.0.0 qa5whq.db.files.1drv.com
 0.0.0.0 qatarglobalconsulting.com
@@ -880,7 +875,6 @@
 0.0.0.0 redchillicrackers.com
 0.0.0.0 reifenquick.de
 0.0.0.0 reime.dk
-0.0.0.0 relaxindulge.co.nz
 0.0.0.0 relianceconsultinggroup.com
 0.0.0.0 renegocia.pe
 0.0.0.0 renehavis.com.ua
@@ -1000,7 +994,6 @@
 0.0.0.0 streetdemo.yourpageserver.com
 0.0.0.0 streetstarstudiosuk.com
 0.0.0.0 ststephenskisugu.church
-0.0.0.0 studentpreneurchallenge.com
 0.0.0.0 students.acst.edu.sd
 0.0.0.0 submissions.tentcityrecords.net
 0.0.0.0 sunbrero.com.au
@@ -1021,6 +1014,7 @@
 0.0.0.0 tc.snpsresidential.com
 0.0.0.0 tdsp.yngw518.com
 0.0.0.0 tebogodigital.co.za
+0.0.0.0 tech332.synology.me
 0.0.0.0 techgms.com
 0.0.0.0 technikatronix.com
 0.0.0.0 teduae.com
@@ -1159,11 +1153,11 @@
 0.0.0.0 wolfgang-brodte.de
 0.0.0.0 wordpress.saleensuporte.com.br
 0.0.0.0 worldexpressdelivery.click
-0.0.0.0 worldexpresstracking.com
 0.0.0.0 wozata.000webhostapp.com
 0.0.0.0 wp.readhere.in
 0.0.0.0 writtendeer.com
 0.0.0.0 wrpcbg.am.files.1drv.com
+0.0.0.0 ws5588.f3322.net
 0.0.0.0 wyklej.pl
 0.0.0.0 x2vn.com
 0.0.0.0 xia.beihaixue.com
@@ -1182,6 +1176,7 @@
 0.0.0.0 ysbaojia.com
 0.0.0.0 ytvnews.info
 0.0.0.0 yummyyogaudaipur.com
+0.0.0.0 yz.4399fz.com
 0.0.0.0 yzkzixun.com
 0.0.0.0 zakat.abqarie.com
 0.0.0.0 zensoft.vn

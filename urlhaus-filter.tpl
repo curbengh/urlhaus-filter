@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 27 Jun 2021 00:08:25 +0000
+# Updated: Sun, 27 Jun 2021 12:09:22 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -116,6 +116,8 @@ msFilterList
 -d 1.qqtv.biz
 -d 1.solutions
 -d 1.spacepel.com
+-d 1.top4top.io
+-d 1.top4top.net
 -d 1.velta.z8.ru
 -d 1.z9ls.com
 -d 10-10.com
@@ -1144,6 +1146,8 @@ msFilterList
 -d 4.c8xtt.com
 -d 4.nikita86.z8.ru
 -d 4.program-iq.com
+-d 4.top4top.io
+-d 4.top4top.net
 -d 4.u0135364.z8.ru
 -d 4.unplugrevolution.com
 -d 4001999.com
@@ -1461,6 +1465,8 @@ msFilterList
 -d 6-milescoast.vn
 -d 6-shifoxona.uz
 -d 6.adborod.z8.ru
+-d 6.top4top.io
+-d 6.top4top.net
 -d 6.u0135364.z8.ru
 -d 6.u0141023.z8.ru
 -d 601elevate.com
@@ -3596,7 +3602,6 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
--d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -8214,6 +8219,7 @@ msFilterList
 -d argentina.ganar-dinero-hoy.com
 -d argentinadanza.com
 -d arggroup.kz
+-d arghaa.com
 -d arghakhanchibulletin.com
 -d arghusk.com
 -d argilasantana.com.br
@@ -20003,7 +20009,6 @@ msFilterList
 -d cholesterol-ache.xyz
 -d chomoka.com
 -d chomptruck.com
--d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongziyun.com
@@ -26367,6 +26372,7 @@ msFilterList
 -d depcosmetics.vn
 -d depedmakati.ph
 -d deperfectemens.be
+-d depgrup.com
 -d dephotoshoppers.nl
 -d depierresenpierres-maconnerie.com
 -d depilation38.ru
@@ -28241,6 +28247,7 @@ msFilterList
 -d dl2.onedrive-eu.com
 -d dl2.onedrive-us-en.com
 -d dl2.storeandshare.singtel.com
+-d dl3.joxi.net
 -d dl4.joxi.net
 -d dl4435.ex-downloads.com
 -d dl63964725.dyn-downloads.com
@@ -29271,7 +29278,6 @@ msFilterList
 -d doyoulovequotes.com
 -d doypack.net.pl
 -d dp-partners.net
--d dp-womenbasket.com
 -d dp4kb.magelangkota.go.id
 -d dp5a.surabaya.go.id
 -d dpa-industries.com
@@ -31260,6 +31266,7 @@ msFilterList
 -d eduprecaro.com
 -d eduquebrincando.com.br
 -d edurecruit.idevs.site
+-d eduroam.stou.ac.th
 -d edurotations.com
 -d eduscore.org
 -d edusenz.com
@@ -33756,7 +33763,6 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-central-1.protection.sophos.com
 -d eu-easy.com
--d eu.wildfire.paloaltonetworks.com
 -d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
@@ -36008,6 +36014,7 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
+-d file.elecfans.com
 -d file.fm
 -d file.hackingfor.fun
 -d file.importantcover.uk
@@ -41797,6 +41804,7 @@ msFilterList
 -d groupegps.com
 -d groupeicaetudes.com
 -d groupejpr.com
+-d grouper.ieee.org
 -d groupesival.com
 -d groupevl.ca
 -d groupfeaab.com
@@ -43826,6 +43834,7 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
+-d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -46405,7 +46414,6 @@ msFilterList
 -d iconiceventsuae.com
 -d iconickidz.in
 -d iconnectedintelligence.com
--d iconoeditorial.com
 -d iconosgroup.com.co
 -d iconovirtual.com
 -d iconpartners.com
@@ -49218,6 +49226,7 @@ msFilterList
 -d ishouldhavebeenaunicorn.com
 -d ishovn.com
 -d ishqekamil.com
+-d ishr.co.in
 -d ishsports.com
 -d ishtera.net
 -d ishwarkumarbhattarai.com.np
@@ -56285,6 +56294,7 @@ msFilterList
 -d leads.afrus.app
 -d leads.bizbrio.com
 -d leads.thevicesolution.com
+-d leadscloud.com
 -d leadservice.org
 -d leadsmonthly.com
 -d leadstream.ng
@@ -57778,7 +57788,6 @@ msFilterList
 -d livelovereiki.co.uk
 -d livemag.co.za
 -d livemail.ga
--d livenetworks.com.br
 -d livenia.com
 -d liveoakartcenter.org
 -d liveoakmeadow.com
@@ -60750,6 +60759,7 @@ msFilterList
 -d mangaml.com
 -d mangatbazar.com
 -d mangatun.com
+-d mangawt.com
 -d mangchongtham.com.vn
 -d mangchongtham.vn
 -d mange-gode-blogs.dk
@@ -62302,6 +62312,7 @@ msFilterList
 -d medcureorganics.com
 -d meddaughs.com
 -d medeaser.com
+-d mededsys.com
 -d medegbetv.com
 -d medel.it
 -d medenblik.net
@@ -64543,6 +64554,7 @@ msFilterList
 -d mobilaok.ro
 -d mobilbazaar.net
 -d mobile-fueldrain.co.uk
+-d mobile-landing.ishr.co.in
 -d mobile.dradioimagem.com.br
 -d mobile.illumetechnology.com
 -d mobile.payzug.com
@@ -65750,7 +65762,6 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
--d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -66345,6 +66356,7 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
+-d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -68071,6 +68083,7 @@ msFilterList
 -d new.igluonline.com
 -d new.ime-consultants.com
 -d new.invisiblecreations.nl
+-d new.ishr.co.in
 -d new.k-y.in.ua
 -d new.kgc.ac.bd
 -d new.komp-air.lt
@@ -86964,7 +86977,6 @@ msFilterList
 -d simulasi.kredittoyotabandung.com
 -d simulations.org
 -d simurgkusyuvasi.org
--d sinacloud.net
 -d sinagogart.org
 -d sinaiinformatica.com.br
 -d sinakhoessentials.co.za
@@ -91933,6 +91945,7 @@ msFilterList
 -d support.jbrueggemann.com
 -d support.loungu.com
 -d support.m2mservices.com
+-d support.mdsol.com
 -d support.nordenrecycling.com
 -d support.nuvemit.com
 -d support.pubg.com
@@ -98298,6 +98311,7 @@ msFilterList
 -d trontik.ru
 -d troodonmedia.com
 -d troopchalkkids.com
+-d troopwebhost.blob.core.windows.net
 -d tropicalhawaii.com
 -d tropicalhomesofcostarica.com
 -d tropicalislandrealtyofflorida.com
@@ -103404,7 +103418,6 @@ msFilterList
 -d wcare.nl
 -d wcbgroup.co.uk
 -d wccb.co.zw
--d wcdownloadercdn.lavasoft.com
 -d wcdr.pbas.es
 -d wcf-old.sibcat.info
 -d wcfamlaw.com
@@ -105842,6 +105855,7 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
+-d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
@@ -105937,6 +105951,7 @@ msFilterList
 -d xcvjhfs.ru
 -d xcvzxf.ru
 -d xcwuyu.zlygu.com
+-d xcx.leadscloud.com
 -d xcx.yngw518.com
 -d xcx.zhuang123.cn
 -d xcxcd.360aiyi.com
