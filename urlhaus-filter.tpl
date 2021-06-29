@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Mon, 28 Jun 2021 12:08:37 +0000
+# Updated: Tue, 29 Jun 2021 00:09:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -5271,6 +5271,7 @@ msFilterList
 -d aliceandesther.co.nz
 -d alicebrandstudio.com
 -d alicecaracciolo.it
+-d alicef.dz
 -d aliceincode.com
 -d alicellimports.com.br
 -d alicemorey.com
@@ -7170,6 +7171,7 @@ msFilterList
 -d anthouse.company
 -d anthraxpaintball.com
 -d anthrohub.org
+-d anti-spiderveins.com.tw
 -d antiaging.org.tw
 -d anticasting.in
 -d anticcolonial.cf
@@ -8235,6 +8237,7 @@ msFilterList
 -d argtango.dancecouncil.gr
 -d argunpuzhkh.ru
 -d argusds.ru
+-d arham.co.uk
 -d arhipropub.ro
 -d arhivskoposlovanje.com
 -d arhomes2.com
@@ -10595,6 +10598,7 @@ msFilterList
 -d azademomeni.com
 -d azadindjeyan.com
 -d azaelindia.com
+-d azagroup.com
 -d azahgroup.eu
 -d azaleasacademy.com
 -d azaliya95.ru
@@ -12045,6 +12049,7 @@ msFilterList
 -d bdsnhontrach.vn
 -d bdsomoynews24.com
 -d bdsportstime.com
+-d bdt.org.br
 -d bdtbev.com
 -d bdtips.xyz
 -d bdtrainers.net
@@ -12504,6 +12509,7 @@ msFilterList
 -d bemao.com
 -d bemap.eu
 -d bembelbrigade.de
+-d bemcasadossoniacosta.com.br
 -d bemcorretora.com.br
 -d bemfisipol.untidar.ac.id
 -d bemk.nl
@@ -14211,6 +14217,7 @@ msFilterList
 -d blob.digital
 -d blobfeed.com
 -d blockchain-com.cf
+-d blockchain-review.co.th
 -d blockchain-techminers.com
 -d blockchain.beachcondolife.tk
 -d blockchainbitcoins.info
@@ -15402,6 +15409,7 @@ msFilterList
 -d bookoftension.com
 -d books-library.blueweb.md
 -d books-world.de
+-d books.srivishnuyamaha.in
 -d booksadminandmore.com
 -d booksbydiane.org
 -d booksearch.com
@@ -16106,6 +16114,7 @@ msFilterList
 -d brisaproducciones.com
 -d brisbaneair.com
 -d brisbanelife.com
+-d brisbanemove.com
 -d brisbanepoolbuilders.com.au
 -d brisson-taxidermiste.fr
 -d bristel.de
@@ -21478,6 +21487,7 @@ msFilterList
 -d cogitosoftware.in
 -d cognerium.com
 -d cognitec.org
+-d cognitechsystems.com
 -d cognitiontraining.com
 -d cognitivedissident.org
 -d cographix.com
@@ -23136,6 +23146,7 @@ msFilterList
 -d craigbeyer.com
 -d craigcostello.com
 -d craigdphotography.com
+-d craigihdeconstruction.com
 -d craiglee.biz
 -d craiglindstrom.com
 -d craigryan.eu
@@ -44378,6 +44389,7 @@ msFilterList
 -d hikangaroo5.com
 -d hikarifurniture.com
 -d hikarini.com
+-d hikartech.com
 -d hikeforsudan.org
 -d hikichi.vn
 -d hikinguru.com
@@ -46921,7 +46933,6 @@ msFilterList
 -d ihatecamping.com
 -d ihatehimsomuch.com
 -d ihaveaheart.org
--d ihaveanidea.org
 -d ihax.site
 -d ihbnaoisdnasdasd.com
 -d ihbsystem.com
@@ -49551,6 +49562,7 @@ msFilterList
 -d ita-trans.com.vn
 -d itaalabama.org
 -d itac2.com
+-d itacsa.com.co
 -d itafoam.com
 -d itai-ziv.com
 -d itake1.com
@@ -50953,6 +50965,7 @@ msFilterList
 -d jjcwcorp.com
 -d jjescadasorocaba.com.br
 -d jjjexx.329263.com
+-d jjjk.mebonix.in
 -d jjmarinosmt.com
 -d jjrae.com
 -d jjsdesignandbuild.com
@@ -63078,6 +63091,7 @@ msFilterList
 -d mermaidwave.com
 -d mermermarketim.com
 -d merodeshonline.com
+-d merogyan.pokharamarathon.org
 -d merreleydonohue.com
 -d merriam.ml
 -d merriaminsurance.com
@@ -65003,6 +65017,7 @@ msFilterList
 -d monaland.com.au
 -d monalisacabeleireiros.com.br
 -d monarchbiotech.com
+-d monarchmedical.co.uk
 -d monaskuliner.ac.id
 -d monasura.com
 -d monatetour.co.za
@@ -65263,6 +65278,7 @@ msFilterList
 -d moredarom.ru
 -d moredetey.com
 -d morefacil.poa.br
+-d morefitness.com.ng
 -d moreirawag.ac.ug
 -d morelakov.ru
 -d moremony.ru
@@ -83407,7 +83423,6 @@ msFilterList
 -d sananahad.com
 -d sananmusic.com
 -d sanantoniodenia.es
--d sanarflix.com.br
 -d sanat-tarrahan.ir
 -d sanatarti.com
 -d sanatcifiyatlari.net
@@ -83468,6 +83483,7 @@ msFilterList
 -d sandtonson.com
 -d sandtooll.com
 -d sanduskybayinspections.com
+-d sanduskyohioliving.com
 -d sandwichpicker.com
 -d sandy-shopping.com
 -d sandycreative.sk
@@ -86457,6 +86473,7 @@ msFilterList
 -d shopnig.com
 -d shopnuochoa.vn
 -d shopocmama.com
+-d shoponline.com.pk
 -d shopopony.pl
 -d shopother.ir
 -d shoppernepal.com
@@ -88154,6 +88171,7 @@ msFilterList
 -d smpit.assyifa-boardingschool.sch.id
 -d smpleisure.co.uk
 -d smplmods-ru.1gb.ru
+-d smpmu.ansoftindo.com
 -d smpn1bubulan.sch.id
 -d smpn1kunjangkediri.sch.id
 -d smpn2balen.sch.id
@@ -92841,6 +92859,7 @@ msFilterList
 -d taaiglobal.com
 -d taandemo.tvstartup.com
 -d taarefeahlalbaitam.com
+-d tabacariadubai.com.br
 -d tabanirou.com
 -d tabanway.com.tr
 -d tabara-general.com
@@ -93853,6 +93872,7 @@ msFilterList
 -d technocorp.vn
 -d technoedupreneur.itb.ac.id
 -d technogamma.ru
+-d technogest.com.br
 -d technogreen.crmmanivela.com
 -d technohub.searchkero.com
 -d technoites.com
@@ -95080,6 +95100,7 @@ msFilterList
 -d thanhviet.com.vn
 -d thanhvinh.info
 -d thanhvujsc.vn
+-d thanima.info
 -d thankg1.org
 -d thanksfitness.com
 -d thankyoucraig.com
@@ -95289,6 +95310,7 @@ msFilterList
 -d thechichannel.tv
 -d thechiro.za.net
 -d thechurchinplano.org
+-d thecitizensforum.org
 -d thecityclub.co.in
 -d thecityglobal.com
 -d thecityvisit.com
@@ -97861,6 +97883,7 @@ msFilterList
 -d trainingcleaningservice.com
 -d trainingenterprise.com.mx
 -d traininginstituteahmedabad.com
+-d trainings.guzo.in
 -d trainings.nickcerygroup.com
 -d trainings.smartscape.eu
 -d trainings.tvetjobs.com
@@ -98500,6 +98523,7 @@ msFilterList
 -d trulogics.co.in
 -d trulybrazen.com
 -d trulyhelpful.love
+-d trulykomal.com
 -d trumbullcsb.org
 -d trumpcommunity.com
 -d trumpfalls.com
@@ -102158,7 +102182,6 @@ msFilterList
 -d vipmas15.beget.tech
 -d vipmein.com
 -d vipmerchantclub.com
--d viportal.co
 -d vipre.at
 -d vipro.life
 -d viproducciones.com
