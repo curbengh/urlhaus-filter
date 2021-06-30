@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Wed, 30 Jun 2021 00:09:06 +0000
+# Updated: Wed, 30 Jun 2021 12:09:03 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -519,6 +519,7 @@ msFilterList
 -d 2.c8xtt.com
 -d 2.clcshop.online
 -d 2.globalengine.ru
+-d 2.indexsinas.me
 -d 2.moulding.z8.ru
 -d 2.nvd.by
 -d 2.spacepel.com
@@ -1338,6 +1339,8 @@ msFilterList
 -d 5-shampurov.ru
 -d 5.c8xtt.com
 -d 5.fjwt1.crsky.com
+-d 5.top4top.io
+-d 5.top4top.net
 -d 5.u0148466.z8.ru
 -d 5.unplugrevolution.com
 -d 5003.arentuspecial.com
@@ -3611,6 +3614,7 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
+-d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -7659,6 +7663,7 @@ msFilterList
 -d apparatbolivia.com
 -d apparel-connect.co.uk
 -d apparelgallerybd.com
+-d apparelsden.pk
 -d apparelshub.com
 -d appareluea.com
 -d apparorestaurant.com
@@ -20085,6 +20090,7 @@ msFilterList
 -d cholesterol-ache.xyz
 -d chomoka.com
 -d chomptruck.com
+-d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongthamsontay.vn
@@ -29403,6 +29409,7 @@ msFilterList
 -d doyoulovequotes.com
 -d doypack.net.pl
 -d dp-partners.net
+-d dp-womenbasket.com
 -d dp4kb.magelangkota.go.id
 -d dp5a.surabaya.go.id
 -d dpa-industries.com
@@ -33577,7 +33584,6 @@ msFilterList
 -d espace-douche.com
 -d espace-photo-numerique.fr
 -d espace-vert.sdcrea.fr
--d espacebusiness.com
 -d espaceprive.enformes.fr
 -d espacerezo.fr
 -d espaces-interieurs.net
@@ -33912,7 +33918,6 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-central-1.protection.sophos.com
 -d eu-easy.com
--d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -36174,7 +36179,6 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
--d file.elecfans.com
 -d file.fm
 -d file.hackingfor.fun
 -d file.importantcover.uk
@@ -44020,7 +44024,6 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
--d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -47402,6 +47405,7 @@ msFilterList
 -d img.oipeirates.pro
 -d img.rheovest.com
 -d img.sobot.com
+-d img.vim-cn.com
 -d img.wanghejun.cn
 -d img.xuezha.cn
 -d img19.vikecn.com
@@ -58024,6 +58028,7 @@ msFilterList
 -d liveclass.tisibogra.com
 -d livecricketscorecard.info
 -d livedaynews.com
+-d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d liveexport-indefensible.com
@@ -58044,6 +58049,7 @@ msFilterList
 -d livelovereiki.co.uk
 -d livemag.co.za
 -d livemail.ga
+-d livenetworks.com.br
 -d livenia.com
 -d liveoakartcenter.org
 -d liveoakmeadow.com
@@ -64973,6 +64979,7 @@ msFilterList
 -d modcloudserver.eu
 -d moddulo.com.br
 -d model-ing.hr
+-d model.boy.jp
 -d modeladoresisabellaflorentino.com
 -d modelaw.devkind.com.au
 -d modelgenesis.com
@@ -66062,6 +66069,7 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
+-d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -84389,7 +84397,6 @@ msFilterList
 -d schaafconsult.de
 -d schade-wangen.de
 -d schaefer-frank.de
--d schaefer-konzepte.de
 -d schaefersteigerbouw.nl
 -d schaferandschaferlaw.com
 -d schaidl.de
@@ -86671,6 +86678,7 @@ msFilterList
 -d shop.ttentionenergy.com
 -d shop.upga.ir
 -d shop.urban-gro.com
+-d shop.voovoosound.com
 -d shop.wot.vn
 -d shop.ybk001.com
 -d shop.ziskejtelo.cz
@@ -92376,7 +92384,6 @@ msFilterList
 -d support.jbrueggemann.com
 -d support.loungu.com
 -d support.m2mservices.com
--d support.mdsol.com
 -d support.nordenrecycling.com
 -d support.nuvemit.com
 -d support.pubg.com
@@ -94423,6 +94430,7 @@ msFilterList
 -d teinenjoy.com
 -d teinvito.vip
 -d teising.de
+-d tejanomusicawards.com
 -d tejasviprabhulkar.com
 -d tejclinic.com
 -d tejk.online
@@ -106269,6 +106277,7 @@ msFilterList
 -d www.smart-eg.com
 -d www022284.com
 -d www1.bheringadvogados.com.br
+-d www107.zippyshare.com
 -d www11.thinkproject.com
 -d www2.cj53.cn
 -d www2.gamingsupport.com
@@ -107529,6 +107538,7 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
+-d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net
