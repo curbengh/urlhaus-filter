@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Tue, 29 Jun 2021 12:09:14 +0000
+# Updated: Wed, 30 Jun 2021 00:09:06 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3853,7 +3853,6 @@ msFilterList
 -d afrovisionministries.org
 -d afs.kz
 -d afsananovel.com
--d afsgames.com
 -d afshari.ch
 -d afshari.yazdvip.ir
 -d afsharzeinali.ir
@@ -16747,6 +16746,7 @@ msFilterList
 -d burilesyherradaim.com
 -d burinf.es
 -d burkebrotherscomics.com
+-d burkesphereg.com
 -d burkinavenir.com
 -d burlingtonadvertising.com
 -d burman.es
@@ -19447,6 +19447,7 @@ msFilterList
 -d champamusic.000webhostapp.com
 -d championnews.com.ng
 -d championretrievers.com
+-d championriced.com
 -d champions-stadium.com
 -d championsifm.com
 -d championsportspune.com
@@ -24098,6 +24099,7 @@ msFilterList
 -d curtisaikens.com
 -d curtisjnr.com
 -d curupy.uy
+-d curvecraft2003b.com
 -d cus-vpstest.info
 -d cushionsandumbrellas.com
 -d cushman.net
@@ -24886,6 +24888,7 @@ msFilterList
 -d dansofconsultancy.com
 -d dansorensen.com
 -d dantist.org.ua
+-d dantokpa-market.org
 -d danvtra.web.id
 -d danweb.co.uk
 -d danxehoichongnong.com
@@ -32881,6 +32884,7 @@ msFilterList
 -d enlightened-education.com
 -d enlightinternational.com
 -d enlightivebm.com
+-d enliststorage2016b.com
 -d enmutlukare.com
 -d ennaturismo.info
 -d ennessehospitality.id
@@ -37856,6 +37860,7 @@ msFilterList
 -d freeanimation.org
 -d freearticledirectory.co.uk
 -d freeartist.name
+-d freebeeskatobi.ydns.eu
 -d freebiano.com
 -d freebies.myfastfreebies.com
 -d freebiesfairy.com
@@ -46079,6 +46084,7 @@ msFilterList
 -d hutfles.de
 -d hutmo.info
 -d hutogepszerviz.info
+-d hutyrtit.ydns.eu
 -d huurwoningdirect.nl
 -d huuthomobile.com
 -d huvudstadsguiden.eu
@@ -47017,6 +47023,7 @@ msFilterList
 -d ihatecamping.com
 -d ihatehimsomuch.com
 -d ihaveaheart.org
+-d ihaveanidea.org
 -d ihax.site
 -d ihbnaoisdnasdasd.com
 -d ihbsystem.com
@@ -52476,6 +52483,7 @@ msFilterList
 -d kalingakhabar.org
 -d kalinina-art.com
 -d kaliningrad-itc.ru
+-d kalipanthu.com
 -d kalisti.com
 -d kalitechat.com
 -d kalitengah-pancur.situsdesa.id
@@ -61069,7 +61077,6 @@ msFilterList
 -d manikmeyah.com
 -d manikmeyah.net
 -d manikratan.com
--d manilaharborpilots.com
 -d manimanihong.top
 -d manioca.es
 -d maniot.com
@@ -72868,6 +72875,7 @@ msFilterList
 -d paintomar.com
 -d paintwny.com
 -d paipaisdvzxc.ru
+-d pairmayerd.com
 -d pais.realizartesublimacao.com.br
 -d paisefilhossm.com.br
 -d paisocial.org
@@ -92939,6 +92947,7 @@ msFilterList
 -d synkad.se
 -d synlitigators.com
 -d synologlogin.com
+-d synoviz.com
 -d synsol.eu
 -d syntaxive.tech
 -d syntechsecurity.co
@@ -102112,6 +102121,7 @@ msFilterList
 -d victoriousperchhotel.com
 -d victormanuelcazareslira.com
 -d victormartinezmoreno.es
+-d victorosolomon.com
 -d victoryautospares.com
 -d victorybed.in
 -d victorybijja.com
@@ -106618,6 +106628,7 @@ msFilterList
 -d xinhecun.cn
 -d xinhkorea.com
 -d xinlou.info
+-d xinning.com.cn
 -d xinquwei.club
 -d xinwenlook.com
 -d xinwenwang123.cn
@@ -108578,6 +108589,7 @@ msFilterList
 -d zanatika.com
 -d zandj-pk.com
 -d zandrosgranito.com
+-d zanella.com.ar
 -d zanga.bounceme.net
 -d zangemeister.de
 -d zanjhrhhyh.cf
