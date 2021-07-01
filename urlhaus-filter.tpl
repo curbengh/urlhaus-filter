@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Wed, 30 Jun 2021 12:09:03 +0000
+# Updated: Thu, 01 Jul 2021 00:09:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -856,6 +856,7 @@ msFilterList
 -d 2ndpub.com
 -d 2ndscreensociety.com
 -d 2nell.com
+-d 2no.co
 -d 2nong.vn
 -d 2nub.es
 -d 2p-raum.com
@@ -4310,7 +4311,6 @@ msFilterList
 -d ahundredviral.online
 -d ahuproduction.com
 -d ahurasolutions.com
--d ahuratech.com
 -d ahusenturk.com
 -d ahut.ahbys.com
 -d ahwahneeheating.com
@@ -7493,6 +7493,7 @@ msFilterList
 -d apicforme.com
 -d apicosto.misco-furniture.com
 -d apidava.tk
+-d apieceoftoastblog.com
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
@@ -39683,6 +39684,7 @@ msFilterList
 -d geologimarche.it
 -d geolysis.org
 -d geomagstudio.pl
+-d geomatich.it
 -d geomecanicaavanzada.com
 -d geometrai.com
 -d geometria.nyc
@@ -47098,6 +47100,7 @@ msFilterList
 -d ik-7.ru
 -d ik-instaling.com
 -d ik.termopanemaramures.ro
+-d ikahotel.com
 -d ikama.cal24.pl
 -d ikamautoindustrie.com
 -d ikamel.com
@@ -53416,6 +53419,7 @@ msFilterList
 -d kettler.cc
 -d keuhne-negal.com
 -d keukentafelgesprekken.nu
+-d keuranta.com
 -d keurigcoffeemaker.org
 -d kev.si
 -d kevin.netdati.com
@@ -57023,6 +57027,7 @@ msFilterList
 -d lescandy.com
 -d lescarresbiodegarance.com
 -d lescelebrites.fr
+-d lesch.com
 -d leschiensdelabistade.fr
 -d leschikaugen.de
 -d lesclefsdor.sg
@@ -80872,6 +80877,7 @@ msFilterList
 -d responsitivity.com
 -d responsivepixels.co.uk
 -d responsivo.andresmarin.com
+-d resq-today.com
 -d ressamatos.com
 -d ressourcesetassurances.fr
 -d rest-tv.top
@@ -89064,7 +89070,6 @@ msFilterList
 -d solucionesdisc.com
 -d solucioneselectronicasghm.com
 -d solucioneslogisticasdelcaribe.com
--d solucionesortopedia.com
 -d solucionespro.cl
 -d solucionestecnicom.com
 -d solucoesead.com
@@ -93684,6 +93689,7 @@ msFilterList
 -d taringabaptist.org.au
 -d tariqul.info
 -d tariquna.net
+-d tarisfotografi.com
 -d tariu.gogloba.com
 -d tarj.co.uk
 -d tarjetaenlinea.com.ve
@@ -98877,7 +98883,6 @@ msFilterList
 -d trulogics.co.in
 -d trulybrazen.com
 -d trulyhelpful.love
--d trulykomal.com
 -d trumbullcsb.org
 -d trumpcommunity.com
 -d trumpfalls.com
@@ -103821,7 +103826,6 @@ msFilterList
 -d watchdogdns.duckdns.orgwatchdogdns.duckdns.org
 -d watchesofswitzerland.eu
 -d watchespower.com
--d watchesprime.com
 -d watchitvson.com
 -d watchlifematters.com
 -d watchlivehdtv24.xyz
@@ -106536,6 +106540,7 @@ msFilterList
 -d xfgcs120.com
 -d xfinitytechnologies.com
 -d xfit.kz
+-d xfitacademia.com
 -d xfithannah.com
 -d xfredo.com
 -d xfundzonline.com
