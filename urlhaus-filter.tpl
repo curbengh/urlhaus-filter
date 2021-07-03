@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 03 Jul 2021 00:09:13 +0000
+# Updated: Sat, 03 Jul 2021 12:08:39 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -7527,7 +7527,6 @@ msFilterList
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
--d apigeoip.com
 -d apihomes.us
 -d apiperjuangan.com
 -d apipro.com.br
@@ -8286,6 +8285,7 @@ msFilterList
 -d argentina.ganar-dinero-hoy.com
 -d argentinadanza.com
 -d arggroup.kz
+-d arghaa.com
 -d arghakhanchibulletin.com
 -d arghusk.com
 -d argilasantana.com.br
@@ -8699,6 +8699,7 @@ msFilterList
 -d arterihealth.id
 -d arterra.com.tr
 -d artesaniahuichol.mx
+-d artesdacasa.art.br
 -d artesianwater-540.com.ua
 -d artesucarta.it
 -d arteusvitavky.cz
@@ -9895,7 +9896,6 @@ msFilterList
 -d auroom24.ru
 -d aurora.nl
 -d auroracommunitycare.com
--d auroradx.com
 -d auroragaming.nn.pe
 -d aurorahurricane.net.au
 -d auroralatinohomecare.com
@@ -17246,7 +17246,6 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
--d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -19927,7 +19926,6 @@ msFilterList
 -d chfourstdyanothestmw.dns.army
 -d chfourstdyanothestoq.dns.army
 -d chfriendmanufactureglobalbusinessanddns.duckdns.org
--d chg.org.uk
 -d chhajjaart.com
 -d chi-research.com.au
 -d chiaiamagazine.it
@@ -28533,6 +28531,7 @@ msFilterList
 -d dl2.onedrive-eu.com
 -d dl2.onedrive-us-en.com
 -d dl2.storeandshare.singtel.com
+-d dl3.joxi.net
 -d dl4.joxi.net
 -d dl4435.ex-downloads.com
 -d dl63964725.dyn-downloads.com
@@ -33776,6 +33775,7 @@ msFilterList
 -d espace-douche.com
 -d espace-photo-numerique.fr
 -d espace-vert.sdcrea.fr
+-d espacebusiness.com
 -d espaceprive.enformes.fr
 -d espacerezo.fr
 -d espaces-interieurs.net
@@ -34114,7 +34114,6 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-easy.com
 -d eu.wildfire.paloaltonetworks.com
--d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -34578,6 +34577,7 @@ msFilterList
 -d exams-success.com
 -d exams4sale.com
 -d examsinfo.in
+-d examsnap.io
 -d exarcadomaronitadecolombia.org
 -d exbace.com
 -d exbook.mhkzolution.com
@@ -35017,6 +35017,7 @@ msFilterList
 -d f0550246.xsph.ru
 -d f0554933.xsph.ru
 -d f0558049.xsph.ru
+-d f0558277.xsph.ru
 -d f0hc7osjnl2vi61g.com
 -d f0jgqwejaisdqjwnqwe.com
 -d f1.dodve.com
@@ -35157,6 +35158,7 @@ msFilterList
 -d facingthechallenge.org
 -d facirc.pt
 -d faciusa.com
+-d fackerty.info
 -d faconex.ma
 -d faconsultoriadeviagens.com.br
 -d facoplast.com
@@ -48598,7 +48600,6 @@ msFilterList
 -d innoventures.klhgroups.com
 -d innovertec.com
 -d innovice.eu
--d innovision.com.np
 -d innovision.reach.no
 -d innovomkt.info
 -d innovotechnologies.com
@@ -62962,6 +62963,7 @@ msFilterList
 -d medcureorganics.com
 -d meddaughs.com
 -d medeaser.com
+-d mededsys.com
 -d medegbetv.com
 -d medel.it
 -d medenblik.net
@@ -66456,7 +66458,6 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
--d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -77980,7 +77981,6 @@ msFilterList
 -d protectiadatelor.biz
 -d protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 -d protection.pecol.eu
--d protection.retarus.com
 -d protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 -d protection.sytes.net
 -d protection1llc-my.sharepoint.com
@@ -79853,6 +79853,7 @@ msFilterList
 -d raggazine.com
 -d raggedrobin.info
 -d raggiodisoleonlus.it
+-d raghvienterprises.com
 -d ragnar.net
 -d ragulars.com
 -d rahantoeknam.nl
@@ -93961,7 +93962,6 @@ msFilterList
 -d talkaboutyouth.co.uk
 -d talkactivespeechtherapy.com
 -d talkbook.live
--d talkceltic.net
 -d talkeasy.in
 -d talkfeline.com
 -d talkingindoor.com.br
@@ -104909,7 +104909,6 @@ msFilterList
 -d websitebesttobest.com
 -d websitebuilderdp.com
 -d websitedesigngarden.com
--d websitedukkani.com
 -d websitedzn.com
 -d websiteforyourbiz.co
 -d websiteoptimizationcanada.ca
@@ -105165,7 +105164,6 @@ msFilterList
 -d wellnesshospital.com.np
 -d wellnessredifined.com
 -d wellnesssaga.com
--d wellnessscientific.com
 -d wellnessway.co.za
 -d wellnessworkshop.ie
 -d wellnursesmartnurse.co.za
