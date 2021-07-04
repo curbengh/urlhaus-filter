@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 04 Jul 2021 00:09:15 +0000
+# Updated: Sun, 04 Jul 2021 12:09:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -521,8 +521,6 @@
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
 0.0.0.0 2.toemobra.com.br
-0.0.0.0 2.top4top.io
-0.0.0.0 2.top4top.net
 0.0.0.0 2.u0135364.z8.ru
 0.0.0.0 20.c8xtt.com
 0.0.0.0 20.dbstrony.pl
@@ -1338,8 +1336,6 @@
 0.0.0.0 5-shampurov.ru
 0.0.0.0 5.c8xtt.com
 0.0.0.0 5.fjwt1.crsky.com
-0.0.0.0 5.top4top.io
-0.0.0.0 5.top4top.net
 0.0.0.0 5.u0148466.z8.ru
 0.0.0.0 5.unplugrevolution.com
 0.0.0.0 5003.arentuspecial.com
@@ -3626,7 +3622,6 @@
 0.0.0.0 aelmas.5gbfree.com
 0.0.0.0 aelogica.com
 0.0.0.0 aemgrup.com.tr
-0.0.0.0 aemine.vn
 0.0.0.0 aemo-mecanique-usinage.fr
 0.0.0.0 aengineeringltd.com
 0.0.0.0 aeondor.com
@@ -6661,7 +6656,6 @@
 0.0.0.0 ananthamshop.com
 0.0.0.0 ananyafashion.com
 0.0.0.0 anaokulumarket.com
-0.0.0.0 anaokulupark.com
 0.0.0.0 anapa-2013.ru
 0.0.0.0 anapa-novosel.ru
 0.0.0.0 anapapoliv.ru
@@ -9872,6 +9866,7 @@
 0.0.0.0 aupa.xyz
 0.0.0.0 aupairtoronto.com
 0.0.0.0 aupperience.com
+0.0.0.0 aupw.pw
 0.0.0.0 aur.bid
 0.0.0.0 auraco.ca
 0.0.0.0 aurainside.bid
@@ -10072,6 +10067,7 @@
 0.0.0.0 autokosmetykicartec.pl
 0.0.0.0 autokuzov.site
 0.0.0.0 autolikely.com
+0.0.0.0 autolilienfeld.de
 0.0.0.0 automagas.lt
 0.0.0.0 automanic.tdejob.work
 0.0.0.0 automarsel.pl
@@ -10990,6 +10986,7 @@
 0.0.0.0 backpackers.gr
 0.0.0.0 backpage-inc.com
 0.0.0.0 backpinging.com
+0.0.0.0 backproxyzz.ug
 0.0.0.0 backroom.co.nz
 0.0.0.0 backselfconfidence.xyz
 0.0.0.0 backstage-secrets.com
@@ -20189,7 +20186,6 @@
 0.0.0.0 cholesterol-ache.xyz
 0.0.0.0 chomoka.com
 0.0.0.0 chomptruck.com
-0.0.0.0 chongnet.cn
 0.0.0.0 chongoubus.com
 0.0.0.0 chongthamhoanglinh.com
 0.0.0.0 chongthamsontay.vn
@@ -22955,7 +22951,6 @@
 0.0.0.0 correiosbr.r1-it.storage.cloud.it
 0.0.0.0 correlation.ca
 0.0.0.0 correo.kable.cl
-0.0.0.0 correolimpio.telefonica.es
 0.0.0.0 correspondenterio.com.br
 0.0.0.0 corretordejoanete.site
 0.0.0.0 corrheating.ie
@@ -25706,6 +25701,7 @@
 0.0.0.0 dealsmedia.in
 0.0.0.0 dealsnow.com.ng
 0.0.0.0 dealspotservices.com
+0.0.0.0 dealtimer.com
 0.0.0.0 deam.cl
 0.0.0.0 deam.com.vn
 0.0.0.0 deambulations-nomades.eu
@@ -29567,7 +29563,6 @@
 0.0.0.0 doyoulovequotes.com
 0.0.0.0 doypack.net.pl
 0.0.0.0 dp-partners.net
-0.0.0.0 dp-womenbasket.com
 0.0.0.0 dp4kb.magelangkota.go.id
 0.0.0.0 dp5a.surabaya.go.id
 0.0.0.0 dpa-industries.com
@@ -34111,7 +34106,6 @@
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
 0.0.0.0 eu-easy.com
-0.0.0.0 eu.wildfire.paloaltonetworks.com
 0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eu283iwoqodjspqisjdf.com
 0.0.0.0 eu5-cdn.devid.info
@@ -36390,6 +36384,7 @@
 0.0.0.0 file.discountmonumentcenter.com
 0.0.0.0 file.dpmf.com.pk
 0.0.0.0 file.ekkggr3.com
+0.0.0.0 file.elecfans.com
 0.0.0.0 file.fm
 0.0.0.0 file.hackingfor.fun
 0.0.0.0 file.importantcover.uk
@@ -44274,6 +44269,7 @@
 0.0.0.0 help.siganet.com.br
 0.0.0.0 help.talisman-sql.ru
 0.0.0.0 help.thetechguyusa.com
+0.0.0.0 help.wework.com
 0.0.0.0 help2help.info
 0.0.0.0 help3in1.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 helpandinformation.uk
@@ -56861,7 +56857,6 @@
 0.0.0.0 leads.afrus.app
 0.0.0.0 leads.bizbrio.com
 0.0.0.0 leads.thevicesolution.com
-0.0.0.0 leadscloud.com
 0.0.0.0 leadservice.org
 0.0.0.0 leadsmonthly.com
 0.0.0.0 leadstream.ng
@@ -58986,6 +58981,7 @@
 0.0.0.0 lootdealer.com
 0.0.0.0 lootototic.com
 0.0.0.0 lopd.nath.es
+0.0.0.0 lopevh09.top
 0.0.0.0 lopezadri.com
 0.0.0.0 lopezcoinz.com
 0.0.0.0 lopezgas.com.ar
@@ -58999,6 +58995,7 @@
 0.0.0.0 lopuio01.top
 0.0.0.0 lopxe.itvina.co
 0.0.0.0 lopy.net
+0.0.0.0 lopywn08.top
 0.0.0.0 loraer.com
 0.0.0.0 lorax.mx
 0.0.0.0 lorbiotec.com
@@ -67274,6 +67271,7 @@
 0.0.0.0 myjmcedu-my.sharepoint.com
 0.0.0.0 myjnia-samochodowa.com
 0.0.0.0 myjobscentre.com
+0.0.0.0 mykanpai.com
 0.0.0.0 myked.com
 0.0.0.0 mykedai.com.my
 0.0.0.0 myklecks.com
@@ -75150,7 +75148,6 @@
 0.0.0.0 phoneexpertxl.nl
 0.0.0.0 phonelocaltoday.com
 0.0.0.0 phonerepaircentre.com.au
-0.0.0.0 phoneringtones.info
 0.0.0.0 phones.pmrspain.com
 0.0.0.0 phonestore-telephonie.fr
 0.0.0.0 phonestore.vn
@@ -77979,6 +77976,7 @@
 0.0.0.0 protectiadatelor.biz
 0.0.0.0 protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 0.0.0.0 protection.pecol.eu
+0.0.0.0 protection.retarus.com
 0.0.0.0 protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 0.0.0.0 protection.sytes.net
 0.0.0.0 protection1llc-my.sharepoint.com
@@ -99436,6 +99434,7 @@
 0.0.0.0 truenatural.com.vn
 0.0.0.0 truenorthtimber.com
 0.0.0.0 trueperz.com
+0.0.0.0 trueshare.com
 0.0.0.0 trueskills.in
 0.0.0.0 trueteeshirt.com
 0.0.0.0 trueterroir.co.uk
@@ -105165,6 +105164,7 @@
 0.0.0.0 wellnesshospital.com.np
 0.0.0.0 wellnessredifined.com
 0.0.0.0 wellnesssaga.com
+0.0.0.0 wellnessscientific.com
 0.0.0.0 wellnessway.co.za
 0.0.0.0 wellnessworkshop.ie
 0.0.0.0 wellnursesmartnurse.co.za
@@ -107092,7 +107092,6 @@
 0.0.0.0 xcvjhfs.ru
 0.0.0.0 xcvzxf.ru
 0.0.0.0 xcwuyu.zlygu.com
-0.0.0.0 xcx.leadscloud.com
 0.0.0.0 xcx.yngw518.com
 0.0.0.0 xcx.zhuang123.cn
 0.0.0.0 xcxcd.360aiyi.com

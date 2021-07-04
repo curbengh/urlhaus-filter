@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 04 Jul 2021 00:09:15 +0000
+# Updated: Sun, 04 Jul 2021 12:09:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -524,8 +524,6 @@ msFilterList
 -d 2.nvd.by
 -d 2.spacepel.com
 -d 2.toemobra.com.br
--d 2.top4top.io
--d 2.top4top.net
 -d 2.u0135364.z8.ru
 -d 20.c8xtt.com
 -d 20.dbstrony.pl
@@ -1341,8 +1339,6 @@ msFilterList
 -d 5-shampurov.ru
 -d 5.c8xtt.com
 -d 5.fjwt1.crsky.com
--d 5.top4top.io
--d 5.top4top.net
 -d 5.u0148466.z8.ru
 -d 5.unplugrevolution.com
 -d 5003.arentuspecial.com
@@ -3629,7 +3625,6 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
--d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -6664,7 +6659,6 @@ msFilterList
 -d ananthamshop.com
 -d ananyafashion.com
 -d anaokulumarket.com
--d anaokulupark.com
 -d anapa-2013.ru
 -d anapa-novosel.ru
 -d anapapoliv.ru
@@ -9875,6 +9869,7 @@ msFilterList
 -d aupa.xyz
 -d aupairtoronto.com
 -d aupperience.com
+-d aupw.pw
 -d aur.bid
 -d auraco.ca
 -d aurainside.bid
@@ -10075,6 +10070,7 @@ msFilterList
 -d autokosmetykicartec.pl
 -d autokuzov.site
 -d autolikely.com
+-d autolilienfeld.de
 -d automagas.lt
 -d automanic.tdejob.work
 -d automarsel.pl
@@ -10993,6 +10989,7 @@ msFilterList
 -d backpackers.gr
 -d backpage-inc.com
 -d backpinging.com
+-d backproxyzz.ug
 -d backroom.co.nz
 -d backselfconfidence.xyz
 -d backstage-secrets.com
@@ -20192,7 +20189,6 @@ msFilterList
 -d cholesterol-ache.xyz
 -d chomoka.com
 -d chomptruck.com
--d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongthamsontay.vn
@@ -22958,7 +22954,6 @@ msFilterList
 -d correiosbr.r1-it.storage.cloud.it
 -d correlation.ca
 -d correo.kable.cl
--d correolimpio.telefonica.es
 -d correspondenterio.com.br
 -d corretordejoanete.site
 -d corrheating.ie
@@ -25709,6 +25704,7 @@ msFilterList
 -d dealsmedia.in
 -d dealsnow.com.ng
 -d dealspotservices.com
+-d dealtimer.com
 -d deam.cl
 -d deam.com.vn
 -d deambulations-nomades.eu
@@ -29570,7 +29566,6 @@ msFilterList
 -d doyoulovequotes.com
 -d doypack.net.pl
 -d dp-partners.net
--d dp-womenbasket.com
 -d dp4kb.magelangkota.go.id
 -d dp5a.surabaya.go.id
 -d dpa-industries.com
@@ -34114,7 +34109,6 @@ msFilterList
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
 -d eu-easy.com
--d eu.wildfire.paloaltonetworks.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -36393,6 +36387,7 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
+-d file.elecfans.com
 -d file.fm
 -d file.hackingfor.fun
 -d file.importantcover.uk
@@ -44277,6 +44272,7 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
+-d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -56864,7 +56860,6 @@ msFilterList
 -d leads.afrus.app
 -d leads.bizbrio.com
 -d leads.thevicesolution.com
--d leadscloud.com
 -d leadservice.org
 -d leadsmonthly.com
 -d leadstream.ng
@@ -58989,6 +58984,7 @@ msFilterList
 -d lootdealer.com
 -d lootototic.com
 -d lopd.nath.es
+-d lopevh09.top
 -d lopezadri.com
 -d lopezcoinz.com
 -d lopezgas.com.ar
@@ -59002,6 +58998,7 @@ msFilterList
 -d lopuio01.top
 -d lopxe.itvina.co
 -d lopy.net
+-d lopywn08.top
 -d loraer.com
 -d lorax.mx
 -d lorbiotec.com
@@ -67277,6 +67274,7 @@ msFilterList
 -d myjmcedu-my.sharepoint.com
 -d myjnia-samochodowa.com
 -d myjobscentre.com
+-d mykanpai.com
 -d myked.com
 -d mykedai.com.my
 -d myklecks.com
@@ -75153,7 +75151,6 @@ msFilterList
 -d phoneexpertxl.nl
 -d phonelocaltoday.com
 -d phonerepaircentre.com.au
--d phoneringtones.info
 -d phones.pmrspain.com
 -d phonestore-telephonie.fr
 -d phonestore.vn
@@ -77982,6 +77979,7 @@ msFilterList
 -d protectiadatelor.biz
 -d protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 -d protection.pecol.eu
+-d protection.retarus.com
 -d protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 -d protection.sytes.net
 -d protection1llc-my.sharepoint.com
@@ -99439,6 +99437,7 @@ msFilterList
 -d truenatural.com.vn
 -d truenorthtimber.com
 -d trueperz.com
+-d trueshare.com
 -d trueskills.in
 -d trueteeshirt.com
 -d trueterroir.co.uk
@@ -105168,6 +105167,7 @@ msFilterList
 -d wellnesshospital.com.np
 -d wellnessredifined.com
 -d wellnesssaga.com
+-d wellnessscientific.com
 -d wellnessway.co.za
 -d wellnessworkshop.ie
 -d wellnursesmartnurse.co.za
@@ -107095,7 +107095,6 @@ msFilterList
 -d xcvjhfs.ru
 -d xcvzxf.ru
 -d xcwuyu.zlygu.com
--d xcx.leadscloud.com
 -d xcx.yngw518.com
 -d xcx.zhuang123.cn
 -d xcxcd.360aiyi.com
