@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 03 Jul 2021 12:08:39 +0000
+# Updated: Sun, 04 Jul 2021 00:09:15 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3772,7 +3772,6 @@ msFilterList
 -d afjv-my.sharepoint.com
 -d afkar-tech.com
 -d afkar.today
--d afkarbz.com
 -d aflah.se
 -d aflim.org.ng
 -d aflora.com.ve
@@ -7505,7 +7504,6 @@ msFilterList
 -d api.photopassexcursions.com
 -d api.quocbao.biz
 -d api.sampy.io
--d api.sellix.io
 -d api.shizheke.com
 -d api.siayu.indramayukab.go.id
 -d api.staging.clip.cc
@@ -8565,6 +8563,7 @@ msFilterList
 -d arrayconsultancy.com
 -d arrc.kaist.ac.kr
 -d arrd.ro
+-d arrecifesciudad.com
 -d arredosocial.it
 -d arreglosyco.com
 -d arresto.it
@@ -27399,6 +27398,7 @@ msFilterList
 -d dgnet.com.br
 -d dgnj.cn
 -d dgnutrition.com
+-d dgos.top
 -d dgpratomo.com
 -d dgreitkelis.lt
 -d dgroup.rs
@@ -30814,6 +30814,7 @@ msFilterList
 -d e3consulting.co.me
 -d e3dai.com
 -d e3immigration.com
+-d e3raf.net
 -d e3sports.com
 -d e456t09139.space
 -d e48cereal4.com
@@ -47367,6 +47368,7 @@ msFilterList
 -d ik-7.ru
 -d ik-instaling.com
 -d ik.termopanemaramures.ro
+-d ikahotel.com
 -d ikama.cal24.pl
 -d ikamautoindustrie.com
 -d ikamel.com
@@ -50036,6 +50038,7 @@ msFilterList
 -d itkossi.com
 -d itlanguage.co.uk
 -d itleadz.com
+-d itlworld.com
 -d itmade.tech
 -d itmall.com.ph
 -d itmall.id
@@ -51040,6 +51043,7 @@ msFilterList
 -d jerko.novi-net.net
 -d jerkywings.com
 -d jermandigitalstations.web.id
+-d jeroenisonline.nl
 -d jeroenkiers.com
 -d jeromenetpanel.ml
 -d jerry-dibbert16ih.ru.com
@@ -56640,7 +56644,6 @@ msFilterList
 -d lausinexamenes.com
 -d lautarosanmiguel.com
 -d lautreagence.com
--d lavagaming.com
 -d lavageeks.ru
 -d lavago.de
 -d lavahotel.vn
@@ -65651,7 +65654,6 @@ msFilterList
 -d monhadep.com
 -d monicaestrazulas.com
 -d monicagranitesandmarbles.com
--d monicasharma.info
 -d moniekkuijpers.com
 -d monikagraphics.in
 -d monikaimpex.com
@@ -71383,7 +71385,6 @@ msFilterList
 -d okaoxon.pl
 -d okaseo.com
 -d okay4sure.top
--d okaybaby.ie
 -d okayboru.com.tr
 -d okaychill.com
 -d okaylatest.com
@@ -89585,6 +89586,7 @@ msFilterList
 -d solucionesdisc.com
 -d solucioneselectronicasghm.com
 -d solucioneslogisticasdelcaribe.com
+-d solucionesortopedia.com
 -d solucionespro.cl
 -d solucionestecnicom.com
 -d solucoesead.com
@@ -91949,6 +91951,7 @@ msFilterList
 -d storrsestateplanning.com
 -d story-aqua.com
 -d story-corner.co.uk
+-d story-life.net
 -d story-maker.jp
 -d storyblock.de
 -d storyikama.xyz
@@ -101034,6 +101037,7 @@ msFilterList
 -d unsafedrugs.com
 -d unsanrohandper.tk
 -d unsb.co.in
+-d unsimpleclic.com
 -d unstolic.com
 -d unsuiting-week.000webhostapp.com
 -d unsurmised-pecks.000webhostapp.com
