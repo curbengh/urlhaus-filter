@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 04 Jul 2021 12:09:10 +0000
+# Updated: Mon, 05 Jul 2021 00:09:26 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -15245,7 +15245,6 @@ msFilterList
 -d bobvr.com
 -d boby.ancorarestaurantnyc.com
 -d boca-capital.com
--d bocahmlaku.com
 -d bocaratongaragedoorrepair.net
 -d bocaskewers.com
 -d bocazul.com.br
@@ -24719,6 +24718,7 @@ msFilterList
 -d daily.truelady.vn
 -d dailybaakhabar.com
 -d dailybdlive24.com
+-d dailydealsfromanerdmom.com
 -d dailydemand.in
 -d dailydosegh.com
 -d dailyemploy.com
@@ -28606,6 +28606,7 @@ msFilterList
 -d dmjteak.com
 -d dmknott.com
 -d dmldrivers.co.uk
+-d dmlinks.bid
 -d dmn-co.com
 -d dmni.ru
 -d dmo-app.ir
@@ -30809,7 +30810,6 @@ msFilterList
 -d e3consulting.co.me
 -d e3dai.com
 -d e3immigration.com
--d e3raf.net
 -d e3sports.com
 -d e456t09139.space
 -d e48cereal4.com
@@ -57341,7 +57341,6 @@ msFilterList
 -d lescandy.com
 -d lescarresbiodegarance.com
 -d lescelebrites.fr
--d lesch.com
 -d leschiensdelabistade.fr
 -d leschikaugen.de
 -d lesclefsdor.sg
@@ -60076,7 +60075,6 @@ msFilterList
 -d madisonhousethailand.com
 -d madisonmichaels.com
 -d madisonpackerbackers.com
--d madivarealty.com
 -d madivi.de
 -d madkim.com
 -d madlabs.com.my
@@ -72263,6 +72261,7 @@ msFilterList
 -d opt.minsa.gob.pa
 -d opt2cloud.com
 -d opta.net.ua
+-d opti.co.jp
 -d optiart.com.br
 -d optiboard.de
 -d optica.co.in
@@ -99422,6 +99421,7 @@ msFilterList
 -d trudsovet.org
 -d true-today.com
 -d trueadv.ru
+-d trueapparels.com
 -d trueblissnovelties.com
 -d truebluevibes.com
 -d truebox-sg.com
@@ -99450,6 +99450,7 @@ msFilterList
 -d trulogics.co.in
 -d trulybrazen.com
 -d trulyhelpful.love
+-d trulykomal.com
 -d trumbullcsb.org
 -d trumpcommunity.com
 -d trumpfalls.com
