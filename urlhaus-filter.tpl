@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Mon, 05 Jul 2021 12:09:08 +0000
+# Updated: Tue, 06 Jul 2021 00:09:11 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -17963,7 +17963,6 @@ msFilterList
 -d capgemrni.com
 -d caphephucthinh.com
 -d capinha.com.br
--d capital360.eu
 -d capitaladm.com.br
 -d capitalavepharmacy.com
 -d capitalbravo.ru
@@ -18941,6 +18940,7 @@ msFilterList
 -d cdn.app.yourwebdesignguys.com
 -d cdn.applimmo.com
 -d cdn.atsh.co
+-d cdn.cryptservice.xyz
 -d cdn.eventexposer.com
 -d cdn.examdunia.com
 -d cdn.fanyamedia.net
@@ -20788,7 +20788,6 @@ msFilterList
 -d clariann.info
 -d clarindo.de
 -d clario.biz
--d clarionindiaventures.in
 -d clarisse-hervouet.fr
 -d clarityit.com
 -d clarityupstate.com
@@ -21732,7 +21731,6 @@ msFilterList
 -d coldstorm.org
 -d coldstreamlandscape.ca
 -d coldwarrior.com.tr
--d colectivarecords.com
 -d colectivocienpies.cl
 -d colegioadventistadeibague.edu.co
 -d colegioarabe.com
@@ -46524,6 +46522,7 @@ msFilterList
 -d hwsrv-719848.hostwindsdns.com
 -d hwsrv-720737.hostwindsdns.com
 -d hwsrv-732321.hostwindsdns.com
+-d hwsrv-810567.hostwindsdns.com
 -d hwtholiday.com
 -d hwturk.com
 -d hwu.edu.gl
@@ -69459,7 +69458,6 @@ msFilterList
 -d nhakhoavieta.com
 -d nhakhoaxuanhuong.com.vn
 -d nhakhoaxuanhuong.vn
--d nhakinh.net
 -d nhamatphohanoi.com
 -d nhanhoamotor.vn
 -d nhanmien.com
