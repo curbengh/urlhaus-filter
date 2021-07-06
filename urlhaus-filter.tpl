@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Tue, 06 Jul 2021 00:09:11 +0000
+# Updated: Tue, 06 Jul 2021 12:09:50 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -524,6 +524,8 @@ msFilterList
 -d 2.nvd.by
 -d 2.spacepel.com
 -d 2.toemobra.com.br
+-d 2.top4top.io
+-d 2.top4top.net
 -d 2.u0135364.z8.ru
 -d 20.c8xtt.com
 -d 20.dbstrony.pl
@@ -1339,6 +1341,7 @@ msFilterList
 -d 5-shampurov.ru
 -d 5.c8xtt.com
 -d 5.fjwt1.crsky.com
+-d 5.top4top.io
 -d 5.u0148466.z8.ru
 -d 5.unplugrevolution.com
 -d 5003.arentuspecial.com
@@ -4024,6 +4027,7 @@ msFilterList
 -d agenza18.ayz.pl
 -d agenziabalestri.it
 -d agenziadiviaggidinozzetorino.it
+-d agenziainformazioni.icu
 -d agepsed.org
 -d agereversalcreamam.com
 -d agernatura.com
@@ -5664,6 +5668,7 @@ msFilterList
 -d allycommercialcapital.com
 -d allyglobe.com
 -d almac.academy.static.dev.whitehat.gr
+-d almacigoschile.cl
 -d almada.net.sa
 -d almadeeschool.com
 -d almadeportiva.com.ar
@@ -6304,7 +6309,6 @@ msFilterList
 -d americanmicrosoftclouddepartment.duckdns.org
 -d americanmusclecar.site
 -d americanpatriotlife.com
--d americanrange.com
 -d americanrelieffundingagent.org
 -d americanreliefhub.com
 -d americanspecialtyinsurancegroup.com
@@ -6571,7 +6575,6 @@ msFilterList
 -d amwebz.com
 -d amy-sandbox.paulhugh.es
 -d amyconsultant.com
--d amyemitchell.com
 -d amyescort.de
 -d amygoldanddiamonds.com
 -d amystuff.in
@@ -6733,6 +6736,7 @@ msFilterList
 -d andishwaran.ir
 -d andiyoutubehoroscopes.com
 -d andma.gov.af
+-d andmaindance.art
 -d andmak.pl
 -d andmouse.top
 -d andonis.co.uk
@@ -7519,7 +7523,6 @@ msFilterList
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
--d apigeoip.com
 -d apihomes.us
 -d apiperjuangan.com
 -d apipro.com.br
@@ -8398,6 +8401,7 @@ msFilterList
 -d arkatootak.ir
 -d arkdealss.com
 -d arkei.foxovsky.ru
+-d arkemagrup.com
 -d arkestate.al
 -d arkevents.in
 -d arkgaterp.com
@@ -13485,7 +13489,6 @@ msFilterList
 -d bigdiamondeals.com
 -d bigeyes.com.tw
 -d bigfesta.app4you.app.br
--d bigfile.mail.naver.com
 -d bigfishchain.com
 -d bigfoothospitality.com
 -d bigg-live.com
@@ -13557,6 +13560,7 @@ msFilterList
 -d bike.gokulnath.me
 -d bikediscounts.store
 -d bikelovers.blog.br
+-d bikemandu.com
 -d bikemyday.se
 -d bikepointtenerife.com
 -d bikers-dream.jp
@@ -18167,7 +18171,6 @@ msFilterList
 -d carforcashhamilton.com
 -d carforcome.com
 -d cargacontrol.com.co
--d cargasipot.plataformadetransparencia.org.mx
 -d cargo11.000webhostapp.com
 -d cargofast.net
 -d cargoglobe-ltd.com
@@ -18964,7 +18967,6 @@ msFilterList
 -d cdn.prominertools.com
 -d cdn.siv.cc
 -d cdn.slty.de
--d cdn.speedof.me
 -d cdn.spider.cat
 -d cdn.timebuyer.org
 -d cdn.tmooc.cn
@@ -19062,7 +19064,6 @@ msFilterList
 -d ceee.mn6.net
 -d ceeetwh.org
 -d ceejaylinks.ml
--d ceelect.com.sg
 -d ceelen.nl
 -d ceelya.com
 -d ceemeelol.ddns.net
@@ -28535,7 +28536,6 @@ msFilterList
 -d dl2.onedrive-eu.com
 -d dl2.onedrive-us-en.com
 -d dl2.storeandshare.singtel.com
--d dl3.joxi.net
 -d dl4.joxi.net
 -d dl4435.ex-downloads.com
 -d dl63964725.dyn-downloads.com
@@ -28703,114 +28703,6 @@ msFilterList
 -d dobroviz.com.ua
 -d dobrovorot.su
 -d dobsoncentral.com
--d doc-00-0o-docs.googleusercontent.com
--d doc-00-18-docs.googleusercontent.com
--d doc-00-30-docs.googleusercontent.com
--d doc-00-3s-docs.googleusercontent.com
--d doc-00-40-docs.googleusercontent.com
--d doc-00-5k-docs.googleusercontent.com
--d doc-00-68-docs.googleusercontent.com
--d doc-00-80-docs.googleusercontent.com
--d doc-00-9g-docs.googleusercontent.com
--d doc-00-ao-docs.googleusercontent.com
--d doc-00-b4-docs.googleusercontent.com
--d doc-04-0o-docs.googleusercontent.com
--d doc-04-1g-docs.googleusercontent.com
--d doc-04-1k-docs.googleusercontent.com
--d doc-04-1s-docs.googleusercontent.com
--d doc-04-20-docs.googleusercontent.com
--d doc-04-2g-docs.googleusercontent.com
--d doc-04-40-docs.googleusercontent.com
--d doc-04-7k-docs.googleusercontent.com
--d doc-04-a0-docs.googleusercontent.com
--d doc-04-a8-docs.googleusercontent.com
--d doc-04-ag-docs.googleusercontent.com
--d doc-04-ak-docs.googleusercontent.com
--d doc-04-as-docs.googleusercontent.com
--d doc-04-b0-docs.googleusercontent.com
--d doc-04-bo-docs.googleusercontent.com
--d doc-04-cc-docs.googleusercontent.com
--d doc-08-1g-docs.googleusercontent.com
--d doc-08-1s-docs.googleusercontent.com
--d doc-08-34-docs.googleusercontent.com
--d doc-08-3c-docs.googleusercontent.com
--d doc-08-4g-docs.googleusercontent.com
--d doc-08-4o-docs.googleusercontent.com
--d doc-08-5k-docs.googleusercontent.com
--d doc-08-5o-docs.googleusercontent.com
--d doc-08-68-docs.googleusercontent.com
--d doc-08-94-docs.googleusercontent.com
--d doc-08-b4-docs.googleusercontent.com
--d doc-08-bc-docs.googleusercontent.com
--d doc-0c-00-docs.googleusercontent.com
--d doc-0c-0c-docs.googleusercontent.com
--d doc-0c-0o-docs.googleusercontent.com
--d doc-0c-0s-docs.googleusercontent.com
--d doc-0c-28-docs.googleusercontent.com
--d doc-0c-40-docs.googleusercontent.com
--d doc-0c-5k-docs.googleusercontent.com
--d doc-0c-ag-docs.googleusercontent.com
--d doc-0c-b0-docs.googleusercontent.com
--d doc-0g-2k-docs.googleusercontent.com
--d doc-0g-68-docs.googleusercontent.com
--d doc-0g-94-docs.googleusercontent.com
--d doc-0g-cc-docs.googleusercontent.com
--d doc-0k-1k-docs.googleusercontent.com
--d doc-0k-1o-docs.googleusercontent.com
--d doc-0k-1s-docs.googleusercontent.com
--d doc-0k-28-docs.googleusercontent.com
--d doc-0k-40-docs.googleusercontent.com
--d doc-0k-5k-docs.googleusercontent.com
--d doc-0k-6g-docs.googleusercontent.com
--d doc-0k-6s-docs.googleusercontent.com
--d doc-0k-7c-docs.googleusercontent.com
--d doc-0k-7s-docs.googleusercontent.com
--d doc-0k-8s-docs.googleusercontent.com
--d doc-0k-9g-docs.googleusercontent.com
--d doc-0k-as-docs.googleusercontent.com
--d doc-0k-c0-docs.googleusercontent.com
--d doc-0k-cc-docs.googleusercontent.com
--d doc-0o-0c-docs.googleusercontent.com
--d doc-0o-1c-docs.googleusercontent.com
--d doc-0o-1s-docs.googleusercontent.com
--d doc-0o-24-docs.googleusercontent.com
--d doc-0o-2g-docs.googleusercontent.com
--d doc-0o-2o-docs.googleusercontent.com
--d doc-0o-30-docs.googleusercontent.com
--d doc-0o-40-docs.googleusercontent.com
--d doc-0o-54-docs.googleusercontent.com
--d doc-0o-64-docs.googleusercontent.com
--d doc-0o-7g-docs.googleusercontent.com
--d doc-0o-7s-docs.googleusercontent.com
--d doc-0o-94-docs.googleusercontent.com
--d doc-0o-a0-docs.googleusercontent.com
--d doc-0o-as-docs.googleusercontent.com
--d doc-0o-bc-docs.googleusercontent.com
--d doc-0s-0o-docs.googleusercontent.com
--d doc-0s-1k-docs.googleusercontent.com
--d doc-0s-1o-docs.googleusercontent.com
--d doc-0s-20-docs.googleusercontent.com
--d doc-0s-3k-docs.googleusercontent.com
--d doc-0s-40-docs.googleusercontent.com
--d doc-0s-4o-docs.googleusercontent.com
--d doc-0s-5k-docs.googleusercontent.com
--d doc-0s-7c-docs.googleusercontent.com
--d doc-0s-a0-docs.googleusercontent.com
--d doc-0s-ag-docs.googleusercontent.com
--d doc-0s-b4-docs.googleusercontent.com
--d doc-10-7c-docs.googleusercontent.com
--d doc-10-8o-docs.googleusercontent.com
--d doc-10-8s-docs.googleusercontent.com
--d doc-10-bc-docs.googleusercontent.com
--d doc-14-0c-docs.googleusercontent.com
--d doc-14-64-docs.googleusercontent.com
--d doc-14-78-docs.googleusercontent.com
--d doc-14-7c-docs.googleusercontent.com
--d doc-14-7k-docs.googleusercontent.com
--d doc-14-80-docs.googleusercontent.com
--d doc-14-9k-docs.googleusercontent.com
--d doc-14-as-docs.googleusercontent.com
--d doc-14-bc-docs.googleusercontent.com
 -d doc-hub.healthycheapfast.com
 -d doc-japan.com
 -d doc.albaspizzaastoria.com
@@ -29573,6 +29465,7 @@ msFilterList
 -d downlfile24.top
 -d downlo.vaixia.com
 -d download-cdn.com
+-d download-invoice.site
 -d download-plugin.co.za
 -d download-plugins.co.za
 -d download-serv-124473.xyz
@@ -31268,7 +31161,6 @@ msFilterList
 -d ec2-54-207-92-161.sa-east-1.compute.amazonaws.com
 -d ec2-54-212-231-68.us-west-2.compute.amazonaws.com
 -d ec2-54-94-215-87.sa-east-1.compute.amazonaws.com
--d ec2euc1.boxcloud.com
 -d ec2test.ga
 -d ec3-design.com
 -d ecadigital.com
@@ -34225,7 +34117,6 @@ msFilterList
 -d etwqsx23.duckdns.org
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
--d eu-central-1.protection.sophos.com
 -d eu-easy.com
 -d eu1.salesforce.com
 -d eu14.tmd.cloud
@@ -36506,7 +36397,6 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
--d file.elecfans.com
 -d file.fm
 -d file.hackingfor.fun
 -d file.importantcover.uk
@@ -36607,6 +36497,7 @@ msFilterList
 -d filmecrestinehd.com
 -d filmenew.com
 -d filmeonlinetop.com
+-d filmesonline.cc
 -d filmfest.jewishfilm.org
 -d filmfive.com.sg
 -d filmgeo.com
@@ -47789,7 +47680,6 @@ msFilterList
 -d img.oipeirates.pro
 -d img.rheovest.com
 -d img.sobot.com
--d img.vim-cn.com
 -d img.wanghejun.cn
 -d img.xuezha.cn
 -d img19.vikecn.com
@@ -49438,6 +49328,7 @@ msFilterList
 -d ip168.ip-164-132-92.eu
 -d ip180.ip-164-132-92.eu
 -d ip194.ip-51-89-171.eu
+-d ip21.ip-142-44-224.net
 -d ip227.ip-51-254-23.eu
 -d ip27.ip-139-99-37.net
 -d ip31.ip-51-38-106.eu
@@ -51690,7 +51581,6 @@ msFilterList
 -d joegie.nl
 -d joeing.duckdns.org
 -d joeing.rapiddns.ru
--d joeing.warzonedns.com
 -d joeing2.duckdns.org
 -d joejoestdyhegrenfxcj.dns.army
 -d joejoestdyhegrenfxyz.dns.army
@@ -58470,6 +58360,7 @@ msFilterList
 -d liveclass.tisibogra.com
 -d livecricketscorecard.info
 -d livedaynews.com
+-d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d liveexport-indefensible.com
@@ -63858,6 +63749,7 @@ msFilterList
 -d metalran.cl
 -d metalrecycling.com.co
 -d metalscape.com
+-d metalshoopp.000webhostapp.com
 -d metalsos.com
 -d metalstocktrade.com
 -d metalsur.cl
@@ -64253,7 +64145,6 @@ msFilterList
 -d micros0ft1.ddns.net
 -d microservicesmonitor.com
 -d microservicesmonitor.com.cp-uk-2.webhostbox.net
--d microsfotgooglegmailoutlook365mailallaregoodformailing.warzonedns.com
 -d microsfotinternetsecurefiletransferserve.duckdns.org
 -d microsite.buniyad.co.in
 -d microsite.buniyad.info
@@ -65795,7 +65686,6 @@ msFilterList
 -d monkeyspawcreative.com
 -d monkx.club
 -d monmariage.info
--d monmotors.com
 -d monnam.com
 -d monnaomotona.co.bw
 -d monnarozaresidence.com
@@ -67176,7 +67066,6 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
--d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -68360,7 +68249,6 @@ msFilterList
 -d nbhgroup.in
 -d nbi.org.au
 -d nbiao.cool
--d nbigfile.mail.naver.com
 -d nbis.in
 -d nbiyan.vn
 -d nbiz.tk
@@ -70923,6 +70811,7 @@ msFilterList
 -d nyuscape.xyz
 -d nyx236bicycle.com
 -d nyxpromo.com
+-d nz-prosthodontists.org.nz
 -d nz.com.ar
 -d nz.dilmah.com
 -d nz1555.com
@@ -72462,6 +72351,7 @@ msFilterList
 -d oracaopratudo.com
 -d oracle-business.com
 -d oracle-fx.com
+-d oracle.zzhreceive.top
 -d oracleinfo24.com
 -d oracletraining.online
 -d oraclevirtualboxupdate.resploit.ml
@@ -72857,6 +72747,7 @@ msFilterList
 -d otgservices.com
 -d othoy.com
 -d otiaki.com
+-d otiasc01.top
 -d oticamega.com.br
 -d oticasvitoria.net
 -d otilor-russia.ru
@@ -74819,7 +74710,6 @@ msFilterList
 -d periview-ao.com
 -d perkasa.ddns.net
 -d perkasa.undiksha.ac.id
--d perkasa.warzonedns.com
 -d perkasacrane.com
 -d perkfix.com
 -d perkim.bondowosokab.go.id
@@ -76489,7 +76379,6 @@ msFilterList
 -d ponturibaschetcristianionut.com
 -d pontus-euxinus.ro
 -d pony.s-p-y.ml
--d pony.warzonedns.com
 -d ponytales.nostalgicbookshelf.com
 -d poo-logix.com
 -d poojasingh.me
@@ -78096,7 +77985,6 @@ msFilterList
 -d protechgroup1.com
 -d protechmedia.net
 -d protechno.com
--d protect.mimecast-offshore.com
 -d protectiadatelor.biz
 -d protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 -d protection.pecol.eu
@@ -79035,7 +78923,6 @@ msFilterList
 -d qe-zz.top
 -d qeba.win
 -d qeducacional.com.br
--d qeeeeewwswsweerwwerwerwrwerwerwerwere.warzonedns.com
 -d qelie.com
 -d qemy.com
 -d qeoficial.es
@@ -85206,7 +85093,6 @@ msFilterList
 -d scopo.in
 -d scopoeidid.com
 -d scopriteistanbul.com
--d score-group.com
 -d scores247.online
 -d scorlogy.com
 -d scorpiocomunicaciones.com
@@ -85697,7 +85583,6 @@ msFilterList
 -d seferisrael.co.il
 -d sefidesign.com
 -d sefinancer.fr
--d sefp-boispro.fr
 -d seftil.com
 -d seftonclc.co.uk
 -d seftonplaycouncil.org.uk
@@ -86650,6 +86535,7 @@ msFilterList
 -d shadiaojie.com
 -d shadilos.fun
 -d shadkhodro.com
+-d shadow-vpn.com
 -d shadowbright.co.uk
 -d shadowdetectores.com.br
 -d shadowgamer.vip
@@ -86799,6 +86685,7 @@ msFilterList
 -d shards.pl
 -d share-oreoo-9.com
 -d share-relations.com
+-d share.dmca.gripe
 -d share.meerai.eu
 -d share.mn
 -d share2careph.com
@@ -88182,7 +88069,6 @@ msFilterList
 -d sirenas-spa.com
 -d sirenasystem.es
 -d sirfyogi.com
--d sirihandcrafts.com
 -d sirijayareddypsychologist.com
 -d sirikase.com
 -d sirinadas.com
@@ -93040,7 +92926,6 @@ msFilterList
 -d support.jbrueggemann.com
 -d support.loungu.com
 -d support.m2mservices.com
--d support.mdsol.com
 -d support.nordenrecycling.com
 -d support.nuvemit.com
 -d support.pubg.com
@@ -93674,7 +93559,6 @@ msFilterList
 -d systematm.com
 -d systemcreative.com.br
 -d systemfindedgoodfilefortrn.mangospot.net
--d systemgooglegooglegooglegooglegooglegoole.warzonedns.com
 -d systemic.casa
 -d systemidentifytheprotocolwindowsserverse.duckdns.org
 -d systemintergrafileexchangeserverprotocol.duckdns.org
@@ -97695,6 +97579,7 @@ msFilterList
 -d timelyrain.top
 -d timenard.top
 -d timenotbesea.xyz
+-d timenow.pw
 -d timenowis1.top
 -d timeoffer.site
 -d timeofvape.tk
@@ -100304,7 +100189,6 @@ msFilterList
 -d u2493681.ct.sendgrid.net
 -d u255864177.hostingerapp.com
 -d u2730173.ct.sendgrid.net
--d u2752257.ct.sendgrid.net
 -d u28565.s1.radisol.org
 -d u28811p23597.web0080.zxcs.nl
 -d u2888669.ct.sendgrid.net
@@ -101480,6 +101364,7 @@ msFilterList
 -d url.246546.com
 -d url.57569.fr.snd52.ch
 -d url.sg
+-d url2.mailanyone.net
 -d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
@@ -101524,7 +101409,6 @@ msFilterList
 -d us.cdn.persiangig.com
 -d us.gsearch.com.de
 -d us.hostiso.cloud
--d us15.campaign-archive.com
 -d us5interclub.cba.pl
 -d usa-lenders.com
 -d usa-life-insurance.net
@@ -104508,7 +104392,6 @@ msFilterList
 -d warung.ndrotech.com
 -d warunknasakita.co.id
 -d warwickvalleyliving.com
--d warzonedns.com
 -d warzonesecure.com
 -d was-studio.com
 -d wasaibnews.tirra.org
@@ -105241,6 +105124,7 @@ msFilterList
 -d wekiddoos.com
 -d welawultrading.com
 -d welb1da48a82hp.com
+-d welcombiz.com
 -d welcome-service-japan.com
 -d welcome-to-totsukawa.com
 -d welcome.dappnode.host
@@ -105865,7 +105749,6 @@ msFilterList
 -d wind7.ru
 -d windailygh.com
 -d windcomtechnologies.com
--d windefenderprotectedwindefendergooglegmail.warzonedns.com
 -d winder.ua
 -d windfarmdevelopments.co.nz
 -d windmedbiolife.com
@@ -106413,7 +106296,6 @@ msFilterList
 -d work707.work
 -d workabilityasia.com
 -d workatone.com
--d workbigfinetonychuckgoodallarefinezynovaexploitgood.warzonedns.com
 -d workbus.online
 -d workbus.ru
 -d workcompoptions.com
@@ -109354,7 +109236,6 @@ msFilterList
 -d zanatika.com
 -d zandj-pk.com
 -d zandrosgranito.com
--d zanella.com.ar
 -d zanga.bounceme.net
 -d zangemeister.de
 -d zanjhrhhyh.cf
@@ -110136,7 +110017,6 @@ msFilterList
 -d zylko.com
 -d zylokk.000webhostapp.com
 -d zymogen.net
--d zyncxxcciidiiudfisuifsiufusdfisdisifidfisuifisfisifisu.warzonedns.com
 -d zypeujun.ru
 -d zyr.co.jp
 -d zyrstststzzxccxccddfgdd.duckdns.org
