@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Wed, 07 Jul 2021 00:09:27 +0000
+# Updated: Wed, 07 Jul 2021 12:09:14 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1338,7 +1338,6 @@
 0.0.0.0 5-shampurov.ru
 0.0.0.0 5.c8xtt.com
 0.0.0.0 5.fjwt1.crsky.com
-0.0.0.0 5.top4top.io
 0.0.0.0 5.u0148466.z8.ru
 0.0.0.0 5.unplugrevolution.com
 0.0.0.0 5003.arentuspecial.com
@@ -3625,6 +3624,7 @@
 0.0.0.0 aelmas.5gbfree.com
 0.0.0.0 aelogica.com
 0.0.0.0 aemgrup.com.tr
+0.0.0.0 aemine.vn
 0.0.0.0 aemo-mecanique-usinage.fr
 0.0.0.0 aengineeringltd.com
 0.0.0.0 aeondor.com
@@ -6258,6 +6258,7 @@
 0.0.0.0 amddesignonline.com
 0.0.0.0 amde.in
 0.0.0.0 amdimpressions.com
+0.0.0.0 amdipltd.com
 0.0.0.0 ameco.mail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 0.0.0.0 amedeoscognamiglio.329263.com
 0.0.0.0 amediaukraine.com
@@ -7516,7 +7517,6 @@
 0.0.0.0 apicforme.com
 0.0.0.0 apicosto.misco-furniture.com
 0.0.0.0 apidava.tk
-0.0.0.0 apidocs.dcdial.com
 0.0.0.0 apieceoftoastblog.com
 0.0.0.0 apiesteso.com
 0.0.0.0 apifile.xyz
@@ -7624,7 +7624,6 @@
 0.0.0.0 app.boxrcdn.com
 0.0.0.0 app.bridgeimpex.org
 0.0.0.0 app.calag.at
-0.0.0.0 app.casetabs.com
 0.0.0.0 app.catholicchurch.co.in
 0.0.0.0 app.choiphui.com
 0.0.0.0 app.cloudindustry.net
@@ -9895,7 +9894,6 @@
 0.0.0.0 auroom24.ru
 0.0.0.0 aurora.nl
 0.0.0.0 auroracommunitycare.com
-0.0.0.0 auroradx.com
 0.0.0.0 auroragaming.nn.pe
 0.0.0.0 aurorahurricane.net.au
 0.0.0.0 auroralatinohomecare.com
@@ -13491,7 +13489,6 @@
 0.0.0.0 bigfishchain.com
 0.0.0.0 bigfoothospitality.com
 0.0.0.0 bigg-live.com
-0.0.0.0 biggames.club
 0.0.0.0 biggames.online
 0.0.0.0 biggaybrunch.org
 0.0.0.0 biggboss14show.net
@@ -20197,6 +20194,7 @@
 0.0.0.0 cholesterol-ache.xyz
 0.0.0.0 chomoka.com
 0.0.0.0 chomptruck.com
+0.0.0.0 chongnet.cn
 0.0.0.0 chongoubus.com
 0.0.0.0 chongthamhoanglinh.com
 0.0.0.0 chongthamsontay.vn
@@ -21477,6 +21475,7 @@
 0.0.0.0 coachankit.com
 0.0.0.0 coachbagsoutletfactory.net
 0.0.0.0 coachboom.mhtechnologies.us
+0.0.0.0 coachburt.com
 0.0.0.0 coachhire-miltonkeynes.co.uk
 0.0.0.0 coachhire-oxford.co.uk
 0.0.0.0 coaching.idees-decora.tn
@@ -23417,6 +23416,7 @@
 0.0.0.0 crease-resistant-al.000webhostapp.com
 0.0.0.0 creasign.ma
 0.0.0.0 creasyscr.com
+0.0.0.0 creatainc.in
 0.0.0.0 creatalca.cl
 0.0.0.0 creatarsis.com
 0.0.0.0 creatdev.com
@@ -25576,7 +25576,6 @@
 0.0.0.0 dcd.cl
 0.0.0.0 dcdb.fr
 0.0.0.0 dcdi.biz
-0.0.0.0 dcdial.com
 0.0.0.0 dcee.net
 0.0.0.0 dcfit.co.zw
 0.0.0.0 dcfloraldecor.lt
@@ -29572,6 +29571,7 @@
 0.0.0.0 doyoulovequotes.com
 0.0.0.0 doypack.net.pl
 0.0.0.0 dp-partners.net
+0.0.0.0 dp-womenbasket.com
 0.0.0.0 dp4kb.magelangkota.go.id
 0.0.0.0 dp5a.surabaya.go.id
 0.0.0.0 dpa-industries.com
@@ -31698,7 +31698,6 @@
 0.0.0.0 effluxmedia.com
 0.0.0.0 efforts.srdivinetouch.org
 0.0.0.0 efgpokc.net
-0.0.0.0 efh.com.mx
 0.0.0.0 efhum.com
 0.0.0.0 eficadgdl.com
 0.0.0.0 eficazcomunicacao.net
@@ -32536,7 +32535,6 @@
 0.0.0.0 emagusa.tech
 0.0.0.0 emaids.co.za
 0.0.0.0 email-template.webview.consulting
-0.0.0.0 email.accliverpool.com
 0.0.0.0 email.binainsani.com
 0.0.0.0 email.colloquis.com
 0.0.0.0 email.givemeinsurance.com
@@ -34116,6 +34114,7 @@
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
 0.0.0.0 eu-easy.com
+0.0.0.0 eu.wildfire.paloaltonetworks.com
 0.0.0.0 eu1.salesforce.com
 0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eu283iwoqodjspqisjdf.com
@@ -35537,6 +35536,7 @@
 0.0.0.0 farmlyfairng.com
 0.0.0.0 farmnatural.in
 0.0.0.0 farmoxoil.com
+0.0.0.0 farmranch.mx
 0.0.0.0 farmshop.ro
 0.0.0.0 farmsys.in
 0.0.0.0 farmsys.scketon.com
@@ -36442,7 +36442,6 @@
 0.0.0.0 files.danwin1210.me
 0.0.0.0 files.dropmybin.me
 0.0.0.0 files.enjin.com
-0.0.0.0 files.gathercdn.com
 0.0.0.0 files.hrloo.com
 0.0.0.0 files.l-d.tech
 0.0.0.0 files.martellexpress.us
@@ -36833,6 +36832,7 @@
 0.0.0.0 fiscaldopovo.online
 0.0.0.0 fischbach-miller.sk
 0.0.0.0 fischer-itsolutions.de
+0.0.0.0 fischer.com.br
 0.0.0.0 fischereiverein-dotternhausen.de
 0.0.0.0 fischfreunde.net
 0.0.0.0 fiscon.cnt.br
@@ -39895,6 +39895,7 @@
 0.0.0.0 geodynamics.com.pk
 0.0.0.0 geoefarmogi.gr
 0.0.0.0 geoenergia.gr
+0.0.0.0 geoenv.du.ac.bd
 0.0.0.0 geoexpert.gr
 0.0.0.0 geoffcasson.com
 0.0.0.0 geoffoglemusic.com
@@ -44280,7 +44281,6 @@
 0.0.0.0 help.siganet.com.br
 0.0.0.0 help.talisman-sql.ru
 0.0.0.0 help.thetechguyusa.com
-0.0.0.0 help.wework.com
 0.0.0.0 help2help.info
 0.0.0.0 help3in1.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 helpandinformation.uk
@@ -44629,7 +44629,6 @@
 0.0.0.0 hidenlove.jobpreneurship.com
 0.0.0.0 hidge.net
 0.0.0.0 hidranco.com
-0.0.0.0 hidrive.ionos.com
 0.0.0.0 hidrofire.greenstudio.co
 0.0.0.0 hidrogadget.com
 0.0.0.0 hidroilles.com
@@ -44649,6 +44648,7 @@
 0.0.0.0 hierba-buena.com
 0.0.0.0 hieuhausua.com
 0.0.0.0 hieujhfbnbxgasjd.dynv6.net
+0.0.0.0 hievescits.ru
 0.0.0.0 hiexgroup.co.uk
 0.0.0.0 hiexsgroup.co.uk
 0.0.0.0 hifen.dmo-app.ir
@@ -45576,6 +45576,7 @@
 0.0.0.0 hosannafamily.org.ng
 0.0.0.0 hoschtonhomesforless.com
 0.0.0.0 hosmarshallconsulting.ieescolbounces.duoliprudential.com.watchdogdns.duckdns.org
+0.0.0.0 hosouggs.com
 0.0.0.0 hospedagem.pro
 0.0.0.0 hospedamos.site
 0.0.0.0 hospitaisipiranga.com.br
@@ -45867,7 +45868,6 @@
 0.0.0.0 hourleaf.co.uk
 0.0.0.0 hourliapp.com
 0.0.0.0 hourofcode.cn
-0.0.0.0 housandsyears.download
 0.0.0.0 house-dresser.com
 0.0.0.0 house.testmonday.com
 0.0.0.0 house2.gg12.ne
@@ -46562,6 +46562,7 @@
 0.0.0.0 i-supportcharity.com
 0.0.0.0 i-vnsweyu.pl
 0.0.0.0 i-voda.com
+0.0.0.0 i.cubeupload.com
 0.0.0.0 i.fiery.me
 0.0.0.0 i.fluffy.cc
 0.0.0.0 i.funtourspt.eu
@@ -47679,6 +47680,7 @@
 0.0.0.0 img.oipeirates.pro
 0.0.0.0 img.rheovest.com
 0.0.0.0 img.sobot.com
+0.0.0.0 img.vim-cn.com
 0.0.0.0 img.wanghejun.cn
 0.0.0.0 img.xuezha.cn
 0.0.0.0 img19.vikecn.com
@@ -58381,7 +58383,6 @@
 0.0.0.0 livelovereiki.co.uk
 0.0.0.0 livemag.co.za
 0.0.0.0 livemail.ga
-0.0.0.0 livenetworks.com.br
 0.0.0.0 livenia.com
 0.0.0.0 liveoakartcenter.org
 0.0.0.0 liveoakmeadow.com
@@ -61355,6 +61356,7 @@
 0.0.0.0 manatour.cl
 0.0.0.0 manatwork.ru
 0.0.0.0 manayradio.com
+0.0.0.0 mancause.ru
 0.0.0.0 mancavedudes.net
 0.0.0.0 mance.me
 0.0.0.0 manchesterconferencecentre.com
@@ -65686,6 +65688,7 @@
 0.0.0.0 monkeyspawcreative.com
 0.0.0.0 monkx.club
 0.0.0.0 monmariage.info
+0.0.0.0 monmotors.com
 0.0.0.0 monnam.com
 0.0.0.0 monnaomotona.co.bw
 0.0.0.0 monnarozaresidence.com
@@ -74227,6 +74230,7 @@
 0.0.0.0 pc-love.com
 0.0.0.0 pc-netix.com
 0.0.0.0 pc-troubleshooter.de
+0.0.0.0 pc-updating.su
 0.0.0.0 pc.8686dy.com
 0.0.0.0 pc.defiweb.cn
 0.0.0.0 pc.onfinders.com
@@ -78075,7 +78079,6 @@
 0.0.0.0 proxy-ipv4.com
 0.0.0.0 proxy.2u0apcm6ylhdy7s.com
 0.0.0.0 proxy.hueaudio.com
-0.0.0.0 proxy.qualtrics.com
 0.0.0.0 proxygrnd.xyz
 0.0.0.0 proxyholding.com
 0.0.0.0 proxyresume.com
@@ -85583,6 +85586,7 @@
 0.0.0.0 seferisrael.co.il
 0.0.0.0 sefidesign.com
 0.0.0.0 sefinancer.fr
+0.0.0.0 sefp-boispro.fr
 0.0.0.0 seftil.com
 0.0.0.0 seftonclc.co.uk
 0.0.0.0 seftonplaycouncil.org.uk
@@ -87906,7 +87910,6 @@
 0.0.0.0 simulasi.kredittoyotabandung.com
 0.0.0.0 simulations.org
 0.0.0.0 simurgkusyuvasi.org
-0.0.0.0 sinacloud.net
 0.0.0.0 sinagogart.org
 0.0.0.0 sinaiinformatica.com.br
 0.0.0.0 sinakhoessentials.co.za
@@ -88067,6 +88070,7 @@
 0.0.0.0 sirenas-spa.com
 0.0.0.0 sirenasystem.es
 0.0.0.0 sirfyogi.com
+0.0.0.0 sirihandcrafts.com
 0.0.0.0 sirijayareddypsychologist.com
 0.0.0.0 sirikase.com
 0.0.0.0 sirinadas.com
@@ -89134,7 +89138,6 @@
 0.0.0.0 snits.com
 0.0.0.0 snjwellers.com
 0.0.0.0 snki.ekon.go.id
-0.0.0.0 snkpk.fkip.uns.ac.id
 0.0.0.0 snlifesciences.com
 0.0.0.0 snoeker.com
 0.0.0.0 snomoln.se
@@ -96009,7 +96012,6 @@
 0.0.0.0 thayvoiphone.vn
 0.0.0.0 thccamera.com
 0.0.0.0 thctiedye.com
-0.0.0.0 thdidm.zendesk.com
 0.0.0.0 thdyneverwalkachinese2loneinlifekthfnp.ydns.eu
 0.0.0.0 thdyprivatecloudshareandfileprotectgent.duckdns.org
 0.0.0.0 thdyprivatecloudshareandfileprotecthfqm.ydns.eu
@@ -99365,7 +99367,6 @@
 0.0.0.0 trontik.ru
 0.0.0.0 troodonmedia.com
 0.0.0.0 troopchalkkids.com
-0.0.0.0 troopwebhost.blob.core.windows.net
 0.0.0.0 tropfor.com
 0.0.0.0 tropicalhawaii.com
 0.0.0.0 tropicalhomesofcostarica.com
@@ -99440,7 +99441,6 @@
 0.0.0.0 truenatural.com.vn
 0.0.0.0 truenorthtimber.com
 0.0.0.0 trueperz.com
-0.0.0.0 trueshare.com
 0.0.0.0 trueskills.in
 0.0.0.0 trueteeshirt.com
 0.0.0.0 trueterroir.co.uk
@@ -99701,6 +99701,7 @@
 0.0.0.0 tuevy.com
 0.0.0.0 tufacha.com
 0.0.0.0 tuffgreenlawn.com
+0.0.0.0 tuffstuffsoap.com.au
 0.0.0.0 tuffwrapfranchise.com
 0.0.0.0 tuflemca.com.mx
 0.0.0.0 tufleteya.com
@@ -100141,7 +100142,6 @@
 0.0.0.0 u-post.top
 0.0.0.0 u-uploads.com
 0.0.0.0 u.coka.la
-0.0.0.0 u.jimdo.com
 0.0.0.0 u.lewd.se
 0.0.0.0 u0005132m0005jp.u023jp9938.info
 0.0.0.0 u0039435.cp.regruhosting.ru
@@ -101362,8 +101362,6 @@
 0.0.0.0 url.246546.com
 0.0.0.0 url.57569.fr.snd52.ch
 0.0.0.0 url.sg
-0.0.0.0 url2.mailanyone.net
-0.0.0.0 url3.mailanyone.net
 0.0.0.0 url5459.41southbar.com
 0.0.0.0 url675.textilmallorca.com
 0.0.0.0 url9823.ville.labrecque.qc.ca
@@ -106606,7 +106604,6 @@
 0.0.0.0 wpdev.ted.solutions
 0.0.0.0 wpdev.ztickerz.io
 0.0.0.0 wpeasycartdev2.com
-0.0.0.0 wpengine.zendesk.com
 0.0.0.0 wpgtxdtgifr.ga
 0.0.0.0 wphelper.mwpteam.com
 0.0.0.0 wpldjxxxua.ga
@@ -107007,7 +107004,6 @@
 0.0.0.0 x.alluniversal.info
 0.0.0.0 x.autistichorse.club
 0.0.0.0 x.beginsonline.com
-0.0.0.0 x.jmxded153.net
 0.0.0.0 x.jmxded184.net
 0.0.0.0 x.norvartic.com
 0.0.0.0 x.ord-id.com
@@ -109235,6 +109231,7 @@
 0.0.0.0 zanatika.com
 0.0.0.0 zandj-pk.com
 0.0.0.0 zandrosgranito.com
+0.0.0.0 zanella.com.ar
 0.0.0.0 zanga.bounceme.net
 0.0.0.0 zangemeister.de
 0.0.0.0 zanjhrhhyh.cf
