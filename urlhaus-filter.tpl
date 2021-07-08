@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 08 Jul 2021 00:09:32 +0000
+# Updated: Thu, 08 Jul 2021 12:09:45 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3627,7 +3627,6 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
--d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -6576,6 +6575,7 @@ msFilterList
 -d amwebz.com
 -d amy-sandbox.paulhugh.es
 -d amyconsultant.com
+-d amyemitchell.com
 -d amyescort.de
 -d amygoldanddiamonds.com
 -d amystuff.in
@@ -11384,6 +11384,7 @@ msFilterList
 -d bandarschool.com
 -d bandarwinsbobet.com
 -d bandashcb.com
+-d bandersajtebrauch.club
 -d banderu.us
 -d bandicapital.com
 -d bandit.godsshopp.com
@@ -34118,7 +34119,6 @@ msFilterList
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
 -d eu-easy.com
--d eu.wildfire.paloaltonetworks.com
 -d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
@@ -44581,6 +44581,7 @@ msFilterList
 -d hgkhjguruytruyts2543.info
 -d hgkjb.top
 -d hgklighting.com
+-d hgoz.12v.si
 -d hgperformance.com.mx
 -d hgrmsf.com.ng
 -d hgrp.net
@@ -44942,6 +44943,7 @@ msFilterList
 -d hivechannel3.com
 -d hivecloud.com
 -d hivicze.uk
+-d hivnd.com
 -d hivvsa.by.files.1drv.com
 -d hiwentis.de
 -d hiwi.ch
@@ -45286,7 +45288,6 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
--d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -61885,6 +61886,7 @@ msFilterList
 -d maritimelaunch.com
 -d maritimelawyers.us
 -d maritimesurveyandservices.com
+-d maritradeshipplng.com
 -d mariusaffolter.com
 -d marjaexports.com
 -d marjanschonenberg.nl
@@ -66474,6 +66476,7 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
+-d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -68076,6 +68079,7 @@ msFilterList
 -d nationalboilermaking.com.au
 -d nationalcashmere-silk.com
 -d nationalcivilrightsnews.com
+-d nationalcollege.edu.np
 -d nationaldismantlers.com.au
 -d nationaldismantlers.prospareparts.com.au
 -d nationalgeneralquotes.com
@@ -75171,6 +75175,7 @@ msFilterList
 -d phoneexpertxl.nl
 -d phonelocaltoday.com
 -d phonerepaircentre.com.au
+-d phoneringtones.info
 -d phones.pmrspain.com
 -d phonestore-telephonie.fr
 -d phonestore.vn
@@ -75538,6 +75543,7 @@ msFilterList
 -d pinkafricafoundation.org
 -d pinkandbluetinytots.com
 -d pinkbabies.net
+-d pinkbroadband.in
 -d pinkconnext.com
 -d pinkesocken.de
 -d pinkflame.chsweb.org
@@ -76477,6 +76483,7 @@ msFilterList
 -d porn.justin.ooo
 -d porn.taiclip.co
 -d pornbeam.com
+-d porncamsworld.com
 -d pornhaven.me
 -d pornman.com
 -d pornmusic.com
@@ -87916,6 +87923,7 @@ msFilterList
 -d simulasi.kredittoyotabandung.com
 -d simulations.org
 -d simurgkusyuvasi.org
+-d sinacloud.net
 -d sinagogart.org
 -d sinaiinformatica.com.br
 -d sinakhoessentials.co.za
@@ -100149,6 +100157,7 @@ msFilterList
 -d u-post.top
 -d u-uploads.com
 -d u.coka.la
+-d u.jimdo.com
 -d u.lewd.se
 -d u0005132m0005jp.u023jp9938.info
 -d u0039435.cp.regruhosting.ru
@@ -103596,6 +103605,7 @@ msFilterList
 -d vmi363834.contaboserver.net
 -d vmi367745.contaboserver.net
 -d vmi372959.contaboserver.net
+-d vmi593683.contaboserver.net
 -d vmillennium.com
 -d vmindpower.com
 -d vmkconsultants.com
@@ -104288,6 +104298,7 @@ msFilterList
 -d walworthbar.org
 -d walycorp.com
 -d wama.hopto.org
+-d wamak.duckdns.org
 -d wamambotrading.com
 -d wamasmarket.com
 -d wambatees.com
@@ -108172,6 +108183,7 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
+-d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net
