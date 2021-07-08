@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Wed, 07 Jul 2021 12:09:14 +0000
+# Updated: Thu, 08 Jul 2021 00:09:32 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -4622,6 +4622,7 @@ msFilterList
 -d akademiya-snov.ru
 -d akademskabeba.rs
 -d akademsmile.ru
+-d akademus.es
 -d akaliresources.com
 -d akaltourtravel.com
 -d akam-decor.com
@@ -9535,7 +9536,6 @@ msFilterList
 -d atest001.site
 -d atfaexpo.vn
 -d atfalanabeebturkey.com
--d atfile.com
 -d atg-us.org
 -d atgeducation.com
 -d atgmail.net
@@ -15913,6 +15913,7 @@ msFilterList
 -d braincase.lechicprix.com
 -d brainchildmultimediagroup.com
 -d braincloud.com.co
+-d brainemainekleine.art
 -d brainflings.net
 -d braingine.net
 -d brainlab.hk
@@ -18866,7 +18867,6 @@ msFilterList
 -d ccliberia.com
 -d cclrbbt.com
 -d ccm-ural.com
--d ccm.ma
 -d ccmlongueuil.ca
 -d ccmmeireles.com.br
 -d ccmprojetos.com
@@ -20404,6 +20404,7 @@ msFilterList
 -d chwilowy-kredyt.pl
 -d chxsndy3manufacturingandinsurancebusines.duckdns.org
 -d chycinversiones.com
+-d chyler-leigh.org
 -d chymeochy.com
 -d chzhfdy.gq
 -d ci.witwan.com
@@ -23403,6 +23404,7 @@ msFilterList
 -d creaception.com
 -d creacesstudio.com
 -d creactive.ch
+-d creadevents.us
 -d creaenlacocina.tk
 -d creagrafica.com.ve
 -d crealodigital.com
@@ -28841,6 +28843,7 @@ msFilterList
 -d docupguru.com
 -d docuserver1.com
 -d docusign-filemkais.ml
+-d docusign-online.download-docusign-inc-online.greenponys.com
 -d docusign.delivery
 -d docusignatures.co.uk
 -d docusignatures.info
@@ -29481,7 +29484,6 @@ msFilterList
 -d download.conceptndev.fr
 -d download.doumaibiji.cn
 -d download.enativ.com
--d download.exrnybuf.cn
 -d download.fahpvdxw.cn
 -d download.fixdown.com
 -d download.fsyuran.com
@@ -29542,7 +29544,6 @@ msFilterList
 -d downloads.rawntech.com
 -d downloads.sandisk.com
 -d downloads.webstartpro.com
--d downloads.woyaojob.com.cn
 -d downloads.xchangewallet.com
 -d downloads44you.shop
 -d downloads4you.shop
@@ -39550,6 +39551,7 @@ msFilterList
 -d gbeep.org
 -d gbf.com
 -d gbforum.online
+-d gbggruop.com
 -d gbhomehealth.org
 -d gbhtrade.com.br
 -d gblackburn.com
@@ -45067,7 +45069,6 @@ msFilterList
 -d hoabinhland.vn
 -d hoabmt.com
 -d hoadaklak.com
--d hoadley.net
 -d hoagietesting10.com
 -d hoagtechhydroponics.com
 -d hoahong.info
@@ -57215,7 +57216,6 @@ msFilterList
 -d lemongrass.ir
 -d lemongrasshostel.net
 -d lemonlavie.com
--d lemonremodeling.com
 -d lemosoutdoor.com.br
 -d lemp.johntool.com
 -d lemskunkuri.com
@@ -57777,6 +57777,7 @@ msFilterList
 -d lifestylebean.com
 -d lifestylebizopps.com
 -d lifestylebycaroline.com
+-d lifestyledrinks.hu
 -d lifestyleholidayclubvacation.com
 -d lifestylemedicinephilippines.org
 -d lifestylescape.com
@@ -63751,6 +63752,7 @@ msFilterList
 -d metaloteka.eu
 -d metalpink.serveftp.org
 -d metalprinter.com.br
+-d metalpro.com.ng
 -d metalran.cl
 -d metalrecycling.com.co
 -d metalscape.com
@@ -77821,6 +77823,7 @@ msFilterList
 -d promocion-verano.info
 -d promociones-y-ofertas.info
 -d promocionessostenibles.es
+-d promocioninmobiliaria.cl
 -d promocja.iwnirz.pl
 -d promoclass.it
 -d promodigital.tk
@@ -96056,6 +96059,7 @@ msFilterList
 -d the84hotel.com
 -d theabigailbloomcakecompany.co.uk
 -d theabundanceshow.com
+-d theacademicneeds.com
 -d theaccentchairs.com
 -d theaccessibilityhub.ca
 -d theaccessiblechurch.com
@@ -106300,7 +106304,6 @@ msFilterList
 -d workbus.online
 -d workbus.ru
 -d workcompoptions.com
--d workd.ru
 -d workedgames.com
 -d workedhome.com
 -d workerorganizing.org
