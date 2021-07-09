@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 08 Jul 2021 12:09:45 +0000
+# Updated: Fri, 09 Jul 2021 00:09:33 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -22693,6 +22693,7 @@ msFilterList
 -d cooke.im
 -d cookecityalpine.live
 -d cookecitysinclair.com
+-d cookie.com.br
 -d cookiebyte.in
 -d cookiejar.be
 -d cookienotti.ru
@@ -28850,6 +28851,7 @@ msFilterList
 -d docusignatures.info
 -d docusignatures.live
 -d docusignatures.online
+-d docusignsecpro.com
 -d docusiqn.ml
 -d docwordfilemicrosoftinterenationalexchan.duckdns.org
 -d docxuploads.com
@@ -33535,7 +33537,9 @@ msFilterList
 -d erodoujin-ninja.com
 -d eroes.nl
 -d eroi.xyz
+-d erolasa.ac.ug
 -d erolatak.com
+-d erolbasa.ac.ug
 -d erolciftci.com
 -d erollar.com.tr
 -d erome.in
@@ -36667,6 +36671,7 @@ msFilterList
 -d finexlogistics.us
 -d finexperty.ru
 -d fingerlooklike.space
+-d fingermedia.tw
 -d fingers1.ddns.net
 -d finishtradeexpo.com
 -d finkarma.in
@@ -41453,6 +41458,7 @@ msFilterList
 -d gorakhpurexpressnews.com
 -d gorcomrep.ru
 -d gordana.mycpanel.rs
+-d gordon-and-son.com
 -d gordondeen.net
 -d gordonmilktransport.com
 -d gordonruss.com
@@ -53899,7 +53905,6 @@ msFilterList
 -d khannen.com.vn
 -d khannen.vn
 -d khanqahebrahimi.com
--d khantil.com
 -d khantipong.com
 -d khaochills.com
 -d khaoden.tech
@@ -55297,7 +55302,6 @@ msFilterList
 -d krishisamachar.com
 -d krishna-graphics.com
 -d krishna.benchmark.company
--d krishnacontrols.com
 -d krishnaoilindustries.com
 -d krishnendutest.website
 -d kriskate.com
@@ -69777,7 +69781,6 @@ msFilterList
 -d nizhalgalsociety.com
 -d nizhny-novgorod.telemagazin24.ru
 -d nj-prom-limo-rentals.com
--d njb-gmbh.com
 -d njbehesht.ir
 -d njcifd.ueuo.com
 -d njeas.futminna.edu.ng
@@ -72762,6 +72765,9 @@ msFilterList
 -d otiasc01.top
 -d oticamega.com.br
 -d oticasvitoria.net
+-d otidhe04.top
+-d otifyb02.top
+-d otiguo03.top
 -d otilor-russia.ru
 -d otismaxwell.com
 -d otkachka.novosibirsk.ru
@@ -83644,7 +83650,6 @@ msFilterList
 -d safoss.co.za
 -d safraprime.com.br
 -d safunctionalfitness.com
--d safwetalex.com
 -d sag.ceo
 -d sagalada.shop
 -d sagami-suisan.com
@@ -89288,6 +89293,7 @@ msFilterList
 -d socialshaktinews.in
 -d socialstream.it
 -d socialtravel.ro
+-d socialtutors.ru
 -d socialwebsystems.com
 -d socialworkacademy.in
 -d socialworksummit4africa.org
@@ -89461,7 +89467,6 @@ msFilterList
 -d sohui.top
 -d soicau188.com
 -d soicau88.net
--d soicaumb.top
 -d soicautailoc.net
 -d soil-stabilization.ir
 -d soilab.com.mx
@@ -93418,6 +93423,7 @@ msFilterList
 -d sxwftool.com
 -d sxyige.com
 -d sxypcs.info
+-d sxzn.a4t.in
 -d sxzunjh.com
 -d sxzxgsi.com
 -d sy.aggewebhost.com
@@ -99748,6 +99754,7 @@ msFilterList
 -d tula.nurseassist.ru
 -d tulabharam.com
 -d tulapahatere.club
+-d tulgerosp.us
 -d tulieucuocsong.com
 -d tulip-remodeling.com
 -d tulipremodeling.com
