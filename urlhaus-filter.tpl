@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 09 Jul 2021 12:09:29 +0000
+# Updated: Sat, 10 Jul 2021 00:09:47 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1983,6 +1983,7 @@ msFilterList
 -d a.xiazai163.com
 -d a.xsvip.vip
 -d a.xuezha.cn
+-d a.xyzgame.vip
 -d a0.kl.com.ua
 -d a0001197.xsph.ru
 -d a02.fgchen.com
@@ -10277,7 +10278,6 @@ msFilterList
 -d avemeadows.com
 -d avena-biuro.com
 -d avena.com.vn
--d avendtla.com
 -d avent.xyz
 -d aventuramotorhome.com
 -d aventuras-picantes.com
@@ -28532,7 +28532,6 @@ msFilterList
 -d dl.svcupdate.com
 -d dl.teeqee.com
 -d dl.x420.me
--d dl.zkytech.com
 -d dl046634.downloads-links.com
 -d dl04668564.dyn-downloads.com
 -d dl1.mqego.com
@@ -29448,7 +29447,6 @@ msFilterList
 -d down0db76c1ffb9cee51.xyz
 -d down1.arpun.com
 -d down1.baopu.cc
--d down1.equdong.net
 -d down1.hgkjb.top
 -d down1.softups.info
 -d down1.topsadon1.com
@@ -35858,6 +35856,7 @@ msFilterList
 -d fcdhost.github.io
 -d fcdrealcanavese.com
 -d fce-transport.nl
+-d fce.edu.br
 -d fcee10.forumeniso.com
 -d fcelestinerey.com
 -d fcespoo.urheilutekstiilit.fi
@@ -36410,7 +36409,6 @@ msFilterList
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
 -d file.fm
--d file.hackingfor.fun
 -d file.importantcover.uk
 -d file.lauasinh.com
 -d file.mayter.cn
@@ -40875,7 +40873,6 @@ msFilterList
 -d glorialoring.com
 -d gloriamnostram.nl
 -d gloriapionproperties.com
--d gloriousbrideofchrist.org
 -d glorymall.ma
 -d gloryschools.ps
 -d gloryuscosmetics.com
@@ -44859,7 +44856,6 @@ msFilterList
 -d hippbeta.000webhostapp.com
 -d hippotrain.co.uk
 -d hippyy.com
--d hiptool.net
 -d hiqpropertysolutions.co.uk
 -d hiqugo.com
 -d hiraanyatours.com
@@ -45620,6 +45616,7 @@ msFilterList
 -d host.gomencom.website
 -d host.justin.ooo
 -d host.minekraft.club
+-d host.mm-online.ga
 -d host.workskillsweb.net
 -d host03.wnetwork.com.my
 -d host1.easterncarryoutdc.com
@@ -47808,7 +47805,6 @@ msFilterList
 -d imoveisfacil.com.br
 -d imp.nfile.net
 -d impact-hosting.co.uk
--d impactboltandnut.co.za
 -d impactclub.ml
 -d impacthomes-my.sharepoint.com
 -d impactinkubator.hr
@@ -62461,7 +62457,6 @@ msFilterList
 -d matthewhuntington.com
 -d matthewraycarta.com
 -d matthewvincent.ca
--d matthieu-tranvan.fr
 -d matthieubroquardfilm.com
 -d matthrivnak.com
 -d mattimoorman.nl
@@ -68643,6 +68638,7 @@ msFilterList
 -d netdesign.co.jp
 -d netdobrasil.net
 -d neteclair.ch
+-d netedu.ir
 -d netfeed.club
 -d netfletdriold.com
 -d netflick4u.com
@@ -79801,6 +79797,7 @@ msFilterList
 -d radioguadalupanalavozcatolica.com
 -d radioiluminacion.djsrecord.com
 -d radioinspiraciontv.com
+-d radiokameleon.ba
 -d radiolajee.com
 -d radiolalded.com
 -d radioland.eu
@@ -80402,7 +80399,6 @@ msFilterList
 -d rbym.cc
 -d rc-models.gr
 -d rc-motorradshop.de
--d rc.ixiaoyang.cn
 -d rc.tc
 -d rc2benpyetaatbdt.onion
 -d rca-auditores.cl
@@ -96607,6 +96603,7 @@ msFilterList
 -d thelegobatman.com
 -d thelekhak.com
 -d thelendgenuity.com
+-d thelenspost.com
 -d theleus.com
 -d thelexingtonclubny.com
 -d thelibertyfarm.com
@@ -109967,7 +109964,6 @@ msFilterList
 -d zspnowa.cba.pl
 -d zsr7pln56d2ovr85.com
 -d zss22.com
--d zssai.oss-cn-beijing.aliyuncs.com
 -d zsstart.com
 -d zstar.top
 -d zsxzfgg.com
