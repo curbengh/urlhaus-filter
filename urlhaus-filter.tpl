@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 10 Jul 2021 00:09:47 +0000
+# Updated: Sat, 10 Jul 2021 12:08:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -519,7 +519,6 @@ msFilterList
 -d 2.c8xtt.com
 -d 2.clcshop.online
 -d 2.globalengine.ru
--d 2.indexsinas.me
 -d 2.moulding.z8.ru
 -d 2.nvd.by
 -d 2.spacepel.com
@@ -908,7 +907,6 @@ msFilterList
 -d 3000adaydomainer.com
 -d 3000khoahoc.com
 -d 3000obreros.manforew.com
--d 300box.oss-cn-beijing.aliyuncs.com
 -d 300miliardialberi.eu
 -d 303esplanade.oceaniadigital.com.au
 -d 304.60s-rock-and-roll-band-chicago.com
@@ -1369,7 +1367,6 @@ msFilterList
 -d 518meeker.com
 -d 518td.cn
 -d 518vps.com
--d 51aiwan.com
 -d 51az.com.cn
 -d 51bairen.com
 -d 51gua.vip
@@ -6311,6 +6308,7 @@ msFilterList
 -d americanmicrosoftclouddepartment.duckdns.org
 -d americanmusclecar.site
 -d americanpatriotlife.com
+-d americanrange.com
 -d americanrelieffundingagent.org
 -d americanreliefhub.com
 -d americanspecialtyinsurancegroup.com
@@ -6406,6 +6404,7 @@ msFilterList
 -d amismuseedreux.com
 -d amisolation.fr
 -d amistalabs.org
+-d amit.quadzero.in
 -d amitai5.net
 -d amitay.co.il
 -d amitchaudhary.in
@@ -9899,6 +9898,7 @@ msFilterList
 -d auroom24.ru
 -d aurora.nl
 -d auroracommunitycare.com
+-d auroradx.com
 -d auroragaming.nn.pe
 -d aurorahurricane.net.au
 -d auroralatinohomecare.com
@@ -12267,7 +12267,6 @@ msFilterList
 -d beautyhealth4you.com
 -d beautyhealthcareclub.com
 -d beautyhealthnav.life
--d beautyiconltd.cn
 -d beautylifes.xyz
 -d beautymaker.dk
 -d beautymakeup.ca
@@ -16035,6 +16034,7 @@ msFilterList
 -d braveablutions.my
 -d braveshq.com
 -d bravestking.borsodchern.us
+-d bravestone.ru
 -d bravewill.org
 -d braveworks.de
 -d bravoapparel.com.br
@@ -21402,6 +21402,7 @@ msFilterList
 -d cnc.botnetrep.xyz
 -d cnc.c25e6559668942.xyz
 -d cnc.c541f5d439a359.xyz
+-d cnc.chase-zelle.com
 -d cnc.cs9ting.xyz
 -d cnc.cyberwex.com
 -d cnc.dontcatch.us
@@ -34126,7 +34127,7 @@ msFilterList
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
 -d eu-easy.com
--d eu1.salesforce.com
+-d eu.wildfire.paloaltonetworks.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -44297,6 +44298,7 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
+-d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -44646,7 +44648,6 @@ msFilterList
 -d hidenlove.jobpreneurship.com
 -d hidge.net
 -d hidranco.com
--d hidrive.ionos.com
 -d hidrofire.greenstudio.co
 -d hidrogadget.com
 -d hidroilles.com
@@ -46602,6 +46603,7 @@ msFilterList
 -d i4c.com.br
 -d i4mi.com
 -d i4y2du8rr6npqvhv.com
+-d i55fundraising.com
 -d i5t.ir
 -d i6a.org
 -d i70.com
@@ -47378,6 +47380,7 @@ msFilterList
 -d iiuctower.com
 -d ij-consultants.com
 -d ijabr.futminna.edu.ng
+-d ijcr7a.bl.files.1drv.com
 -d ijdema.net
 -d ijdqwoujnhdqwd.com
 -d ijincuodao.com
@@ -61415,6 +61418,7 @@ msFilterList
 -d mangaml.com
 -d mangatbazar.com
 -d mangatun.com
+-d mangawt.com
 -d mangchongtham.com.vn
 -d mangchongtham.vn
 -d mange-gode-blogs.dk
@@ -61962,6 +61966,7 @@ msFilterList
 -d marketingdigitalmacae.com.br
 -d marketingempresario.com
 -d marketinginsights.lk
+-d marketingintelligence.tech
 -d marketingmeformer.com
 -d marketingnawebonline9.com
 -d marketingo.info
@@ -75192,7 +75197,6 @@ msFilterList
 -d phoneexpertxl.nl
 -d phonelocaltoday.com
 -d phonerepaircentre.com.au
--d phoneringtones.info
 -d phones.pmrspain.com
 -d phonestore-telephonie.fr
 -d phonestore.vn
@@ -90604,6 +90608,7 @@ msFilterList
 -d spudindia.com
 -d spunflex.com.br
 -d spurblog.com
+-d spuredge.com
 -d spurpromo.com
 -d spurs.dd0515.com
 -d spurstogo.com
@@ -99403,6 +99408,7 @@ msFilterList
 -d trontik.ru
 -d troodonmedia.com
 -d troopchalkkids.com
+-d troopwebhost.blob.core.windows.net
 -d tropfor.com
 -d tropicalhawaii.com
 -d tropicalhomesofcostarica.com
@@ -104137,7 +104143,6 @@ msFilterList
 -d w.amendserver.com
 -d w.lazer-n.com
 -d w.outletonline-michaelkors.com
--d w.wrhnx.com
 -d w.xnlyr.cn
 -d w.zhzy999.net
 -d w04.jujingdao.com
@@ -109701,6 +109706,7 @@ msFilterList
 -d zimolimo.com
 -d zimshop.co.za
 -d zin.com.vn
+-d zina-boutique.com
 -d zina.h-ide.pl
 -d zincae.com
 -d zindagicreation.online
