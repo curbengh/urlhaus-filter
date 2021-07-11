@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 10 Jul 2021 12:08:53 +0000
+# Updated: Sun, 11 Jul 2021 00:09:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -20855,7 +20855,6 @@ msFilterList
 -d clauguidetti.com
 -d claus-wieben.de
 -d claustore.com.co
--d clavirox.ro
 -d claycrete.kz
 -d clayservices.co.za
 -d claytonjohnston.com
@@ -33976,6 +33975,7 @@ msFilterList
 -d esxense.com
 -d esxzt.xyz
 -d esya.mu
+-d esydownloader.space
 -d esyshare.com
 -d esystechs.com
 -d esytzx.com
@@ -46676,6 +46676,7 @@ msFilterList
 -d iantdbrasil.com.br
 -d iantech.xyz
 -d iantronik.com
+-d iapajus.com.br
 -d iapamtc.com
 -d iapaperitos.com.br
 -d iapjalisco.org.mx
@@ -56466,6 +56467,7 @@ msFilterList
 -d laravel.gallamoda.com
 -d laravel.pointersoftwares.com.br
 -d laraveli.com
+-d larayochoaclinicadental.com
 -d larbi.dgsn.fr
 -d larcab.org.br
 -d lareinedragons.fr
@@ -59260,6 +59262,7 @@ msFilterList
 -d lp.funilpro.com.br
 -d lp.gigaspaces.com
 -d lp.gil-digital.co.il
+-d lp.iapajus.com.br
 -d lp.ipbsas.co
 -d lp.itadmit.co.il
 -d lp.jancamilogarciareyes.com
@@ -60357,7 +60360,6 @@ msFilterList
 -d mahfilprakashon.com
 -d mahfuzur32785.com
 -d mahibiotech.in
--d mahiinfotech.co.in
 -d mahikhoshk.com
 -d mahimamedia.com
 -d mahin-news.ir
@@ -69481,7 +69483,6 @@ msFilterList
 -d nickseth.com
 -d nickycooperhomes.co.nz
 -d nico40.se
--d nicoblogroms.com
 -d nicolaisen.de
 -d nicolas.greta.drosalys-web.fr
 -d nicolas.ug
@@ -72301,7 +72302,6 @@ msFilterList
 -d opt.minsa.gob.pa
 -d opt2cloud.com
 -d opta.net.ua
--d opti.co.jp
 -d optiart.com.br
 -d optiboard.de
 -d optica.co.in
@@ -72784,6 +72784,7 @@ msFilterList
 -d otifyb02.top
 -d otiguo03.top
 -d otilor-russia.ru
+-d otiryu08.top
 -d otismaxwell.com
 -d otkachka.novosibirsk.ru
 -d otkritki-den-rozhdeniya.ru
@@ -76536,6 +76537,7 @@ msFilterList
 -d portal.gamehivepk.com
 -d portal.gbeyehospital.com
 -d portal.guru
+-d portal.iapajus.com.br
 -d portal.igp.gob.pe
 -d portal.iranfarsoodeh.ir
 -d portal.macopema.com.br
@@ -80734,6 +80736,7 @@ msFilterList
 -d redbeat.club
 -d redber.store
 -d redblock.surispot.biz
+-d redblur.top
 -d redboxfinanceiracontabil.com
 -d redboxmultimedia.com
 -d redbranchmarketing.com
