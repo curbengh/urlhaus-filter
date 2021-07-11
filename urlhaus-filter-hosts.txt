@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 11 Jul 2021 00:09:00 +0000
+# Updated: Sun, 11 Jul 2021 12:09:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -516,6 +516,7 @@
 0.0.0.0 2.c8xtt.com
 0.0.0.0 2.clcshop.online
 0.0.0.0 2.globalengine.ru
+0.0.0.0 2.indexsinas.me
 0.0.0.0 2.moulding.z8.ru
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
@@ -1616,7 +1617,6 @@
 0.0.0.0 7bsnake1.com
 0.0.0.0 7bwh.com
 0.0.0.0 7c2918ca.ngrok.io
-0.0.0.0 7cats.ch
 0.0.0.0 7clock.ir
 0.0.0.0 7continents7lawns.com
 0.0.0.0 7cut.extroliving.com
@@ -2905,6 +2905,7 @@
 0.0.0.0 acomainternational.com
 0.0.0.0 aconcaguaultratrail.com.ar
 0.0.0.0 aconchegosdobrasil.com.br
+0.0.0.0 acone.com.br
 0.0.0.0 aconiaformation.fr
 0.0.0.0 aconsultancy.com
 0.0.0.0 acontarborreguitos.com
@@ -3622,7 +3623,6 @@
 0.0.0.0 aelmas.5gbfree.com
 0.0.0.0 aelogica.com
 0.0.0.0 aemgrup.com.tr
-0.0.0.0 aemine.vn
 0.0.0.0 aemo-mecanique-usinage.fr
 0.0.0.0 aengineeringltd.com
 0.0.0.0 aeondor.com
@@ -7519,6 +7519,7 @@
 0.0.0.0 apicforme.com
 0.0.0.0 apicosto.misco-furniture.com
 0.0.0.0 apidava.tk
+0.0.0.0 apidocs.dcdial.com
 0.0.0.0 apieceoftoastblog.com
 0.0.0.0 apiesteso.com
 0.0.0.0 apifile.xyz
@@ -17786,6 +17787,7 @@
 0.0.0.0 can-do-property.co.uk
 0.0.0.0 can-doelectric.com
 0.0.0.0 can-media.de
+0.0.0.0 canaccordgenuity.bluematrix.com
 0.0.0.0 canacofactura.com.mx
 0.0.0.0 canadabestonline.com
 0.0.0.0 canadabrightway.com
@@ -20199,7 +20201,6 @@
 0.0.0.0 cholesterol-ache.xyz
 0.0.0.0 chomoka.com
 0.0.0.0 chomptruck.com
-0.0.0.0 chongnet.cn
 0.0.0.0 chongoubus.com
 0.0.0.0 chongthamhoanglinh.com
 0.0.0.0 chongthamsontay.vn
@@ -22170,7 +22171,6 @@
 0.0.0.0 computerhome24.com
 0.0.0.0 computerhungary.hu
 0.0.0.0 computerjungle.it
-0.0.0.0 computerkolkata.com
 0.0.0.0 computerland.in
 0.0.0.0 computermegamart.com
 0.0.0.0 computerpete.com
@@ -25584,6 +25584,7 @@
 0.0.0.0 dcd.cl
 0.0.0.0 dcdb.fr
 0.0.0.0 dcdi.biz
+0.0.0.0 dcdial.com
 0.0.0.0 dcee.net
 0.0.0.0 dcfit.co.zw
 0.0.0.0 dcfloraldecor.lt
@@ -25718,6 +25719,7 @@
 0.0.0.0 dealsmedia.in
 0.0.0.0 dealsnow.com.ng
 0.0.0.0 dealspotservices.com
+0.0.0.0 dealtimer.com
 0.0.0.0 deam.cl
 0.0.0.0 deam.com.vn
 0.0.0.0 deambulations-nomades.eu
@@ -33785,6 +33787,7 @@
 0.0.0.0 espace-douche.com
 0.0.0.0 espace-photo-numerique.fr
 0.0.0.0 espace-vert.sdcrea.fr
+0.0.0.0 espacebusiness.com
 0.0.0.0 espaceprive.enformes.fr
 0.0.0.0 espacerezo.fr
 0.0.0.0 espaces-interieurs.net
@@ -34014,7 +34017,6 @@
 0.0.0.0 eternalbeauty.co.uk
 0.0.0.0 eternalengineers.com
 0.0.0.0 eternalsea.cn
-0.0.0.0 eternalstarculture.com
 0.0.0.0 eternesseuae.com
 0.0.0.0 etesx.xyz
 0.0.0.0 etete.eu
@@ -34124,7 +34126,6 @@
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
 0.0.0.0 eu-easy.com
-0.0.0.0 eu.wildfire.paloaltonetworks.com
 0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eu283iwoqodjspqisjdf.com
 0.0.0.0 eu5-cdn.devid.info
@@ -56195,7 +56196,6 @@
 0.0.0.0 laloorna.com
 0.0.0.0 lalunafashion.eu
 0.0.0.0 lalunenoire.net
-0.0.0.0 lam.cz
 0.0.0.0 lamacosmetics.com
 0.0.0.0 lamaddalenacinqueterre.it
 0.0.0.0 lamaggiora.it
@@ -63476,7 +63476,6 @@
 0.0.0.0 memberlogin.cloud
 0.0.0.0 members.chello.nl
 0.0.0.0 members.estelagalorport.com
-0.0.0.0 members.iinet.net.au
 0.0.0.0 members.maskeei.id
 0.0.0.0 members.murphyshost.net
 0.0.0.0 members.mycowellness.com
@@ -64068,7 +64067,6 @@
 0.0.0.0 micanproject.org
 0.0.0.0 miceeventsint.com
 0.0.0.0 micgoldintegrated.com
-0.0.0.0 michael-jordan-shoes.com
 0.0.0.0 michael-rodd.com
 0.0.0.0 michael.xyphoid.com
 0.0.0.0 michaelachia.com
@@ -66492,7 +66490,6 @@
 0.0.0.0 msofficeinternatiinalfilecloudtransfer.duckdns.org
 0.0.0.0 msofficesecuredfiletransferinfocloud.duckdns.org
 0.0.0.0 msofficewordfiletransfertotheadmintrue.duckdns.org
-0.0.0.0 msoftwares.info
 0.0.0.0 msograteful.com
 0.0.0.0 mspcville.com
 0.0.0.0 mspn.com.au
@@ -67093,6 +67090,7 @@
 0.0.0.0 my.findsr.co
 0.0.0.0 my.jiwa-nala.org
 0.0.0.0 my.loungu.com
+0.0.0.0 my.mail.de
 0.0.0.0 my.mixtape.moe
 0.0.0.0 my.pop9ja.com.ng
 0.0.0.0 my.zhaopin.com
@@ -81124,6 +81122,7 @@
 0.0.0.0 remontrvd.com
 0.0.0.0 remontstiralnikhmashin.ru
 0.0.0.0 remortgagecalculator.info
+0.0.0.0 remotefacilities.com
 0.0.0.0 remove-minecraft.cba.pl
 0.0.0.0 removeblackmold.info
 0.0.0.0 removeoppossums.com
@@ -82847,7 +82846,6 @@
 0.0.0.0 rrppdigital.com.ve
 0.0.0.0 rrrload01.top
 0.0.0.0 rrrload02.top
-0.0.0.0 rrrload04.top
 0.0.0.0 rrrload05.top
 0.0.0.0 rrrload06.top
 0.0.0.0 rrrload07.top
@@ -84239,6 +84237,7 @@
 0.0.0.0 sanathanjewellers.com
 0.0.0.0 sanayate.com
 0.0.0.0 sanazfeizi.com
+0.0.0.0 sanbartolo.edu.co
 0.0.0.0 sanbatdongsanhud.vn
 0.0.0.0 sanbdshungthinh.com
 0.0.0.0 sancakcati.com
@@ -90774,9 +90773,7 @@
 0.0.0.0 srtms.in
 0.0.0.0 srujanovision.com
 0.0.0.0 srv-15.directserver.us
-0.0.0.0 srv7.computerkolkata.com
 0.0.0.0 srv77956.ht-test.ru
-0.0.0.0 srv9.computerkolkata.com
 0.0.0.0 srv9.corpwebcontrol.com
 0.0.0.0 srvmanos.no-ip.info
 0.0.0.0 ss-setta.com
@@ -107051,6 +107048,7 @@
 0.0.0.0 x.alluniversal.info
 0.0.0.0 x.autistichorse.club
 0.0.0.0 x.beginsonline.com
+0.0.0.0 x.jmxded153.net
 0.0.0.0 x.jmxded184.net
 0.0.0.0 x.norvartic.com
 0.0.0.0 x.ord-id.com
@@ -107192,7 +107190,6 @@
 0.0.0.0 xerpsoftware.com
 0.0.0.0 xerrrload02.top
 0.0.0.0 xerrrload03.top
-0.0.0.0 xerrrload04.top
 0.0.0.0 xetaiisuzu.vn
 0.0.0.0 xetaijac.vn
 0.0.0.0 xetaimt.com
@@ -108212,7 +108209,6 @@
 0.0.0.0 yamato-ti.com
 0.0.0.0 yamemasesy.com
 0.0.0.0 yamike.com
-0.0.0.0 yamisiones.com
 0.0.0.0 yamm.com.my
 0.0.0.0 yamnadlan.com
 0.0.0.0 yamotors.net

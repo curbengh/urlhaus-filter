@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 11 Jul 2021 00:09:00 +0000
+# Updated: Sun, 11 Jul 2021 12:09:10 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -519,6 +519,7 @@ msFilterList
 -d 2.c8xtt.com
 -d 2.clcshop.online
 -d 2.globalengine.ru
+-d 2.indexsinas.me
 -d 2.moulding.z8.ru
 -d 2.nvd.by
 -d 2.spacepel.com
@@ -1619,7 +1620,6 @@ msFilterList
 -d 7bsnake1.com
 -d 7bwh.com
 -d 7c2918ca.ngrok.io
--d 7cats.ch
 -d 7clock.ir
 -d 7continents7lawns.com
 -d 7cut.extroliving.com
@@ -2908,6 +2908,7 @@ msFilterList
 -d acomainternational.com
 -d aconcaguaultratrail.com.ar
 -d aconchegosdobrasil.com.br
+-d acone.com.br
 -d aconiaformation.fr
 -d aconsultancy.com
 -d acontarborreguitos.com
@@ -3625,7 +3626,6 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
--d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -7522,6 +7522,7 @@ msFilterList
 -d apicforme.com
 -d apicosto.misco-furniture.com
 -d apidava.tk
+-d apidocs.dcdial.com
 -d apieceoftoastblog.com
 -d apiesteso.com
 -d apifile.xyz
@@ -17789,6 +17790,7 @@ msFilterList
 -d can-do-property.co.uk
 -d can-doelectric.com
 -d can-media.de
+-d canaccordgenuity.bluematrix.com
 -d canacofactura.com.mx
 -d canadabestonline.com
 -d canadabrightway.com
@@ -20202,7 +20204,6 @@ msFilterList
 -d cholesterol-ache.xyz
 -d chomoka.com
 -d chomptruck.com
--d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongthamsontay.vn
@@ -22173,7 +22174,6 @@ msFilterList
 -d computerhome24.com
 -d computerhungary.hu
 -d computerjungle.it
--d computerkolkata.com
 -d computerland.in
 -d computermegamart.com
 -d computerpete.com
@@ -25587,6 +25587,7 @@ msFilterList
 -d dcd.cl
 -d dcdb.fr
 -d dcdi.biz
+-d dcdial.com
 -d dcee.net
 -d dcfit.co.zw
 -d dcfloraldecor.lt
@@ -25721,6 +25722,7 @@ msFilterList
 -d dealsmedia.in
 -d dealsnow.com.ng
 -d dealspotservices.com
+-d dealtimer.com
 -d deam.cl
 -d deam.com.vn
 -d deambulations-nomades.eu
@@ -33788,6 +33790,7 @@ msFilterList
 -d espace-douche.com
 -d espace-photo-numerique.fr
 -d espace-vert.sdcrea.fr
+-d espacebusiness.com
 -d espaceprive.enformes.fr
 -d espacerezo.fr
 -d espaces-interieurs.net
@@ -34017,7 +34020,6 @@ msFilterList
 -d eternalbeauty.co.uk
 -d eternalengineers.com
 -d eternalsea.cn
--d eternalstarculture.com
 -d eternesseuae.com
 -d etesx.xyz
 -d etete.eu
@@ -34127,7 +34129,6 @@ msFilterList
 -d etxse.xyz
 -d etysu02scnabr03wzaxue.com
 -d eu-easy.com
--d eu.wildfire.paloaltonetworks.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -56198,7 +56199,6 @@ msFilterList
 -d laloorna.com
 -d lalunafashion.eu
 -d lalunenoire.net
--d lam.cz
 -d lamacosmetics.com
 -d lamaddalenacinqueterre.it
 -d lamaggiora.it
@@ -63479,7 +63479,6 @@ msFilterList
 -d memberlogin.cloud
 -d members.chello.nl
 -d members.estelagalorport.com
--d members.iinet.net.au
 -d members.maskeei.id
 -d members.murphyshost.net
 -d members.mycowellness.com
@@ -64071,7 +64070,6 @@ msFilterList
 -d micanproject.org
 -d miceeventsint.com
 -d micgoldintegrated.com
--d michael-jordan-shoes.com
 -d michael-rodd.com
 -d michael.xyphoid.com
 -d michaelachia.com
@@ -66495,7 +66493,6 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
--d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -67096,6 +67093,7 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
+-d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -81127,6 +81125,7 @@ msFilterList
 -d remontrvd.com
 -d remontstiralnikhmashin.ru
 -d remortgagecalculator.info
+-d remotefacilities.com
 -d remove-minecraft.cba.pl
 -d removeblackmold.info
 -d removeoppossums.com
@@ -82850,7 +82849,6 @@ msFilterList
 -d rrppdigital.com.ve
 -d rrrload01.top
 -d rrrload02.top
--d rrrload04.top
 -d rrrload05.top
 -d rrrload06.top
 -d rrrload07.top
@@ -84242,6 +84240,7 @@ msFilterList
 -d sanathanjewellers.com
 -d sanayate.com
 -d sanazfeizi.com
+-d sanbartolo.edu.co
 -d sanbatdongsanhud.vn
 -d sanbdshungthinh.com
 -d sancakcati.com
@@ -90777,9 +90776,7 @@ msFilterList
 -d srtms.in
 -d srujanovision.com
 -d srv-15.directserver.us
--d srv7.computerkolkata.com
 -d srv77956.ht-test.ru
--d srv9.computerkolkata.com
 -d srv9.corpwebcontrol.com
 -d srvmanos.no-ip.info
 -d ss-setta.com
@@ -107054,6 +107051,7 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
+-d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
@@ -107195,7 +107193,6 @@ msFilterList
 -d xerpsoftware.com
 -d xerrrload02.top
 -d xerrrload03.top
--d xerrrload04.top
 -d xetaiisuzu.vn
 -d xetaijac.vn
 -d xetaimt.com
@@ -108215,7 +108212,6 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
--d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net
