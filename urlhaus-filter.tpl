@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 11 Jul 2021 12:09:10 +0000
+# Updated: Mon, 12 Jul 2021 00:09:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -24836,7 +24836,6 @@ msFilterList
 -d dallaswebserv.com
 -d dallefratte.it
 -d dalmatiaaeterna.hr
--d dalmiahealth.com
 -d dalmo.cz
 -d dalmo.win
 -d dalood.com
@@ -69700,6 +69699,7 @@ msFilterList
 -d nirogayurvedic.in
 -d nirr.xyz
 -d nirvana-memorial.co.th
+-d nirvanaeyehospital.com
 -d nirvanapk.com
 -d nirwanacareer.com
 -d nirwanagroup.co.id
@@ -80800,6 +80800,7 @@ msFilterList
 -d redlotusevents.com
 -d redm1az1.000webhostapp.com
 -d redmag.by
+-d redmanns-way.com
 -d redmarcial.ossmarcial.com
 -d redmediasigns.com
 -d redmeteordigitalseo.com
@@ -92835,6 +92836,7 @@ msFilterList
 -d superacionpobreza.cl
 -d superadmin.creciendoconelarcoiris.com
 -d superamazingaccessories.com
+-d superbeaute.ca
 -d superbeli.com
 -d superbetprediction.com
 -d superbirkin.com
@@ -100475,7 +100477,6 @@ msFilterList
 -d ufukturpcan.com
 -d ufwbhrajjsrlkgr.usa.cc
 -d ugajin.net
--d ugandahotgirls.com
 -d ugateshop.com
 -d ugira.lt
 -d ugl.ch
@@ -109899,7 +109900,6 @@ msFilterList
 -d zoodoxos.gr
 -d zoolandia.boo.pl
 -d zoom-machinery.com
--d zoomagazin.az
 -d zoomandshootphotography.com
 -d zoomevents.pl
 -d zoomotion.com
