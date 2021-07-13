@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Mon, 12 Jul 2021 12:09:21 +0000
+# Updated: Tue, 13 Jul 2021 00:09:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -239,6 +239,7 @@ msFilterList
 -d cloud.fc.co.mz
 -d cm-arquitetos.com
 -d cnc.chase-zelle.com
+-d cnc.mycloudforensics.com
 -d cnc.mydigitalcloud.ddns.net
 -d codingmonster.me
 -d colinde.pricesne.com
@@ -437,6 +438,7 @@ msFilterList
 -d filtpro.com
 -d fineartgallerym.com
 -d finewoodframes.com
+-d firstdigitalscope.gotdns.ch
 -d fittedtoatee.com
 -d fixauto.illumetechnology.com
 -d fkd.derpcity.ru
@@ -449,6 +451,7 @@ msFilterList
 -d foundationrepairhoustontx.net
 -d fourleafsocial.com
 -d foxeps.com.br
+-d frankfinn.com
 -d free.mynowministries.com
 -d freeanimation.org
 -d freebeeskatobi.ydns.eu
@@ -565,6 +568,7 @@ msFilterList
 -d intranet.injasclaro.com
 -d intuitiveideas.com.my
 -d invest.xpcorporative.com.br
+-d invoice-acc.com
 -d iocservices.com
 -d ip201.ip-141-95-28.eu
 -d ipmes.ma
@@ -746,6 +750,7 @@ msFilterList
 -d modernajandek.hu
 -d modernmanna.org
 -d moe.xiaomitq.com
+-d molgruop.com
 -d monetization.business
 -d moneyheistseason4.com
 -d moninediy.com
@@ -874,6 +879,7 @@ msFilterList
 -d phacdochuabenh.com
 -d photo360.kubooking.com
 -d pink99.com
+-d pirocont70l.ru
 -d plasfan.ind.br
 -d platinumxtrade.com
 -d playground2.grupoaliadasca.com

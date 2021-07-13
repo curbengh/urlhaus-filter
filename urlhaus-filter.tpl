@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Mon, 12 Jul 2021 12:09:21 +0000
+# Updated: Tue, 13 Jul 2021 00:09:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -18590,7 +18590,6 @@ msFilterList
 -d cassismodafeminina.com.br
 -d cassone.ro
 -d cassoulet.barons.fr
--d cassovia.sk
 -d castalv.com.mx
 -d castelsucchi.com
 -d castentagescoterpay.info
@@ -21415,6 +21414,7 @@ msFilterList
 -d cnc.junoland.xyz
 -d cnc.luxstresser.xyz
 -d cnc.methaddict.xyz
+-d cnc.mycloudforensics.com
 -d cnc.mydigitalcloud.ddns.net
 -d cnc.nahhbruh.info
 -d cnc.notabotnet.tk
@@ -38112,6 +38112,7 @@ msFilterList
 -d frankcahill.com
 -d frankcoin.thememove.com
 -d frankdeleeuw.com
+-d frankfinn.com
 -d frankfurtelfarolillo.com
 -d frankfurter-blumenbote.de
 -d frankgross.com
@@ -41077,7 +41078,6 @@ msFilterList
 -d gness.net
 -d gnexwp.travelbangla.org
 -d gnezdino71.ru
--d gnf.fi
 -d gng.vision
 -d gngtur.com
 -d gnh.mx
@@ -49353,6 +49353,7 @@ msFilterList
 -d invision-me.com
 -d invite.viamedia.ba
 -d invizza.com
+-d invoice-acc.com
 -d invoice.ae
 -d invoice.name
 -d invoice.open-ns.ru
@@ -61259,7 +61260,6 @@ msFilterList
 -d makeyourbest.com
 -d makeyourinvitepartners.ml
 -d makeyourmarkonline.net
--d makhmalbaf.com
 -d makhmutov.com
 -d makhsoos.ir
 -d makijaz-permanentny.sax.pl
@@ -65671,6 +65671,7 @@ msFilterList
 -d moldremovaldir.com
 -d moleculelabs.co.in
 -d moletta.hu
+-d molgruop.com
 -d molholm.net
 -d molie.chat
 -d molinaservice.com
@@ -75749,6 +75750,7 @@ msFilterList
 -d pirilax.su
 -d piripiriveiculos.com
 -d pirkimubirza.lt
+-d pirocont70l.ru
 -d piros85.hu
 -d pirotecniazaragozana.live
 -d pirrelli.e-bill.it
