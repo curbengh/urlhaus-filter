@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Tue, 13 Jul 2021 12:09:26 +0000
+# Updated: Wed, 14 Jul 2021 00:10:37 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -6582,6 +6582,7 @@
 0.0.0.0 amznetworking.com
 0.0.0.0 amzonfun.com
 0.0.0.0 an-premium.ru
+0.0.0.0 an.nastena.lv
 0.0.0.0 an9news.com
 0.0.0.0 ana.aulasdigitais.site
 0.0.0.0 ana.plecko.eu
@@ -7518,7 +7519,6 @@
 0.0.0.0 apicforme.com
 0.0.0.0 apicosto.misco-furniture.com
 0.0.0.0 apidava.tk
-0.0.0.0 apieceoftoastblog.com
 0.0.0.0 apiesteso.com
 0.0.0.0 apifile.xyz
 0.0.0.0 apifm.in
@@ -10142,6 +10142,7 @@
 0.0.0.0 autosarir.ir
 0.0.0.0 autoschile.net
 0.0.0.0 autoscostarica.cr
+0.0.0.0 autoscrapforcash.com
 0.0.0.0 autoscuoleallegra.it
 0.0.0.0 autoservey.com
 0.0.0.0 autoseven.ro
@@ -17204,6 +17205,7 @@
 0.0.0.0 bytime.ru
 0.0.0.0 bytosti.cz
 0.0.0.0 byttd.com.cn
+0.0.0.0 byttletechnologies.com
 0.0.0.0 byukattie.top
 0.0.0.0 byuro-perevodov.su
 0.0.0.0 byvejen.dk
@@ -18584,6 +18586,7 @@
 0.0.0.0 cassismodafeminina.com.br
 0.0.0.0 cassone.ro
 0.0.0.0 cassoulet.barons.fr
+0.0.0.0 cassovia.sk
 0.0.0.0 castalv.com.mx
 0.0.0.0 castelsucchi.com
 0.0.0.0 castentagescoterpay.info
@@ -19109,6 +19112,7 @@
 0.0.0.0 celebritycruises.pl
 0.0.0.0 celebrityfreesextape.com
 0.0.0.0 celebritytoo.com
+0.0.0.0 celebsandgossip.com
 0.0.0.0 celebtravelandevents.co.za
 0.0.0.0 celen.unap.edu.pe
 0.0.0.0 celestecerezo.com
@@ -22954,6 +22958,7 @@
 0.0.0.0 corporatlon.com
 0.0.0.0 corporeit.com.br
 0.0.0.0 corpsaude.com.br
+0.0.0.0 corpsdetexte.com
 0.0.0.0 corpsure.in
 0.0.0.0 corpsynergies.com.au
 0.0.0.0 corpus-delicti.com
@@ -27254,6 +27259,7 @@
 0.0.0.0 developingleaders.com.au
 0.0.0.0 development.code-art.ro
 0.0.0.0 development.fibonaccitradinginstitute.com
+0.0.0.0 development.goipcloud.co.ke
 0.0.0.0 development.sudburywebdesign.com
 0.0.0.0 development2.8scope.com
 0.0.0.0 developpementrd.com
@@ -28296,6 +28302,7 @@
 0.0.0.0 diversifii.com
 0.0.0.0 diversitycityin.com
 0.0.0.0 diversityfoodbrands.com
+0.0.0.0 diversitymbamagazine.com
 0.0.0.0 diversitywealth.com
 0.0.0.0 diverzeent.com
 0.0.0.0 divewise-equipment.shop
@@ -30809,7 +30816,6 @@
 0.0.0.0 e.rainboweventandmarketing.com
 0.0.0.0 e.sherkaonline.net
 0.0.0.0 e.sldov.ru
-0.0.0.0 e.tool007.cn
 0.0.0.0 e.valerana44.ru
 0.0.0.0 e.vouch.pk
 0.0.0.0 e10tv.com
@@ -31153,6 +31159,7 @@
 0.0.0.0 ec2-18-222-212-154.us-east-2.compute.amazonaws.com
 0.0.0.0 ec2-18-223-1-182.us-east-2.compute.amazonaws.com
 0.0.0.0 ec2-18-231-188-208.sa-east-1.compute.amazonaws.com
+0.0.0.0 ec2-3-127-222-135.eu-central-1.compute.amazonaws.com
 0.0.0.0 ec2-3-15-176-174.us-east-2.compute.amazonaws.com
 0.0.0.0 ec2-3-17-134-200.us-east-2.compute.amazonaws.com
 0.0.0.0 ec2-3-83-64-249.azurewebsites.net
@@ -33735,7 +33742,6 @@
 0.0.0.0 eshopist.ir
 0.0.0.0 eshrahly.net
 0.0.0.0 eshraqit.ir
-0.0.0.0 eshu.100xuexi.com
 0.0.0.0 esi.am
 0.0.0.0 esiglass.it
 0.0.0.0 esimu07.top
@@ -34935,6 +34941,7 @@
 0.0.0.0 ezeebags.co
 0.0.0.0 ezelleproperties.com
 0.0.0.0 ezequielferramagia.com.ar
+0.0.0.0 ezer.foundation
 0.0.0.0 ezerangyal.hu
 0.0.0.0 ezfastcashpersonalloans.com
 0.0.0.0 ezfintechcorp.com
@@ -39561,6 +39568,7 @@
 0.0.0.0 gbazar.com.br
 0.0.0.0 gbbulls.co.uk
 0.0.0.0 gbcbb.org
+0.0.0.0 gbcce.com
 0.0.0.0 gbconnection.vn
 0.0.0.0 gbdou130.ru
 0.0.0.0 gbe.cd
@@ -45245,7 +45253,6 @@
 0.0.0.0 hollywoodmovielegends.com
 0.0.0.0 hollywoodmusic.de
 0.0.0.0 hollywoodremix.com
-0.0.0.0 hollywoodsmileeg.com
 0.0.0.0 holmdalehouse.co.uk
 0.0.0.0 holmesgroup-com.azurewebsites.net
 0.0.0.0 holmesprpmgmt.com
@@ -50235,6 +50242,7 @@
 0.0.0.0 ivorycocoa.ci
 0.0.0.0 ivoryescapes.com
 0.0.0.0 ivpnsymposium.org
+0.0.0.0 ivrvirtualsolutions.com
 0.0.0.0 ivsnet.org
 0.0.0.0 ivv.btwstudio.ch
 0.0.0.0 ivydeimtal.vim
@@ -53997,6 +54005,7 @@
 0.0.0.0 khonapana.com
 0.0.0.0 khonggiantre.vn
 0.0.0.0 khopreset.online
+0.0.0.0 khorakfoods.com
 0.0.0.0 khorasandetector.com
 0.0.0.0 khoshpash.com
 0.0.0.0 khoshrougallery.com
@@ -61165,6 +61174,7 @@
 0.0.0.0 makeyourbest.com
 0.0.0.0 makeyourinvitepartners.ml
 0.0.0.0 makeyourmarkonline.net
+0.0.0.0 makhmalbaf.com
 0.0.0.0 makhmutov.com
 0.0.0.0 makhsoos.ir
 0.0.0.0 makijaz-permanentny.sax.pl
@@ -61697,6 +61707,7 @@
 0.0.0.0 marc.my
 0.0.0.0 marc.optimroute.com
 0.0.0.0 marcabets.in
+0.0.0.0 marcamsrl.com
 0.0.0.0 marcapinyo.ru
 0.0.0.0 marcapslsa.ug
 0.0.0.0 marcbollinger.com
@@ -63512,6 +63523,7 @@
 0.0.0.0 memoria.od.ua
 0.0.0.0 memorial-center.com.ua
 0.0.0.0 memorial.evoltdevelopment.com
+0.0.0.0 memorial.stars.bz
 0.0.0.0 memorialdelcoronavirus.pe
 0.0.0.0 memorialpremiersleepcenter.com
 0.0.0.0 memorie.live
@@ -64469,6 +64481,7 @@
 0.0.0.0 millionaireheaven.com
 0.0.0.0 milliondollarlawsuit.co
 0.0.0.0 millionsawesomeproducts.com
+0.0.0.0 millmarkgroup.com
 0.0.0.0 mills-skyla30ec.com
 0.0.0.0 mills2008-delivery.com
 0.0.0.0 millsmiltinon.com
@@ -64684,6 +64697,7 @@
 0.0.0.0 mint05.ph
 0.0.0.0 mintaluxury.com
 0.0.0.0 mintbinlone.com
+0.0.0.0 mintechindia.com
 0.0.0.0 minterburn.co.uk
 0.0.0.0 mintexapparel.com
 0.0.0.0 mintronick.com
@@ -69487,6 +69501,7 @@
 0.0.0.0 nickseth.com
 0.0.0.0 nickycooperhomes.co.nz
 0.0.0.0 nico40.se
+0.0.0.0 nicoblogroms.com
 0.0.0.0 nicolaisen.de
 0.0.0.0 nicolas.greta.drosalys-web.fr
 0.0.0.0 nicolas.ug
@@ -72307,6 +72322,7 @@
 0.0.0.0 opt.minsa.gob.pa
 0.0.0.0 opt2cloud.com
 0.0.0.0 opta.net.ua
+0.0.0.0 opti.co.jp
 0.0.0.0 optiart.com.br
 0.0.0.0 optiboard.de
 0.0.0.0 optica.co.in
@@ -76844,6 +76860,7 @@
 0.0.0.0 ppghealthcare.com
 0.0.0.0 ppgl.uk
 0.0.0.0 ppgroup.by
+0.0.0.0 pphc.welkinfortprojects.com
 0.0.0.0 ppid.bandung.go.id
 0.0.0.0 ppid.bandungbaratkab.go.id
 0.0.0.0 ppid.barrukab.go.id
@@ -85277,6 +85294,7 @@
 0.0.0.0 sdf5wer4wer.com
 0.0.0.0 sdfdgsgdg.ml
 0.0.0.0 sdfgdsf.ru
+0.0.0.0 sdfgikjuhgfdqwertyuiokjhgfd.tk
 0.0.0.0 sdfher3457.duckdns.org
 0.0.0.0 sdfjke.net
 0.0.0.0 sdfsd14as2334d.ru
@@ -87457,6 +87475,7 @@
 0.0.0.0 shrabon.xyz
 0.0.0.0 shraddhacarrentalindore.com
 0.0.0.0 shradhajewellers.com
+0.0.0.0 shranimasko.si
 0.0.0.0 shravanpatil.com
 0.0.0.0 shreaddyspmix.id.ai
 0.0.0.0 shredderlink.com
@@ -93040,6 +93059,7 @@
 0.0.0.0 sureoptimize.com
 0.0.0.0 suresb1sndyintercont.dns.army
 0.0.0.0 suresb1stdyinterstpm.dns.army
+0.0.0.0 sureshcaterers.com
 0.0.0.0 sureshdangol.com.np
 0.0.0.0 sureshnaturopathy.in
 0.0.0.0 suresstdybonescagefk.dns.army
@@ -99214,6 +99234,7 @@
 0.0.0.0 tresguerras.alumnostrazos.com
 0.0.0.0 tresillosmunoz.com
 0.0.0.0 tresjoliejewellery.com
+0.0.0.0 tresmariasdocu.com
 0.0.0.0 tresnexus.com
 0.0.0.0 tresvalesagro.com.br
 0.0.0.0 treterhef.download
@@ -99580,6 +99601,7 @@
 0.0.0.0 tryathletelife.com
 0.0.0.0 trybeforeyoubuy.xyz
 0.0.0.0 tryfast-v52.cf
+0.0.0.0 tryffeltinor.ru
 0.0.0.0 tryfull.jp
 0.0.0.0 trynda.xyz
 0.0.0.0 tryogallc.com
@@ -102402,6 +102424,7 @@
 0.0.0.0 vendigge.com
 0.0.0.0 vendingdeco.pl
 0.0.0.0 vendmaison.info
+0.0.0.0 vendorcreditglobal.online
 0.0.0.0 vendormurah.com
 0.0.0.0 vendurkraft.com
 0.0.0.0 veneberg.ru
@@ -104528,6 +104551,7 @@
 0.0.0.0 waterski.sk
 0.0.0.0 watersondevelopments.com
 0.0.0.0 waterstreetinn.us
+0.0.0.0 watertankcleaner.com
 0.0.0.0 watertreatmentbyculligan.com
 0.0.0.0 waterway.hu
 0.0.0.0 waterwood.eu
@@ -108566,7 +108590,6 @@
 0.0.0.0 yiqixue.site
 0.0.0.0 yisankeji.site
 0.0.0.0 yishi3m.com
-0.0.0.0 yishuhuoban.com
 0.0.0.0 yitong888.cn
 0.0.0.0 yitongyilian.com
 0.0.0.0 yiwu88.com
