@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Wed, 14 Jul 2021 00:10:37 +0000
+# Updated: Wed, 14 Jul 2021 12:09:30 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1365,6 +1365,7 @@
 0.0.0.0 518meeker.com
 0.0.0.0 518td.cn
 0.0.0.0 518vps.com
+0.0.0.0 51aiwan.com
 0.0.0.0 51az.com.cn
 0.0.0.0 51bairen.com
 0.0.0.0 51gua.vip
@@ -1617,6 +1618,7 @@
 0.0.0.0 7bsnake1.com
 0.0.0.0 7bwh.com
 0.0.0.0 7c2918ca.ngrok.io
+0.0.0.0 7cats.ch
 0.0.0.0 7clock.ir
 0.0.0.0 7continents7lawns.com
 0.0.0.0 7cut.extroliving.com
@@ -3622,6 +3624,7 @@
 0.0.0.0 aelmas.5gbfree.com
 0.0.0.0 aelogica.com
 0.0.0.0 aemgrup.com.tr
+0.0.0.0 aemine.vn
 0.0.0.0 aemo-mecanique-usinage.fr
 0.0.0.0 aengineeringltd.com
 0.0.0.0 aeondor.com
@@ -3683,6 +3686,7 @@
 0.0.0.0 aethoscorp.com
 0.0.0.0 aetruckmaint.com
 0.0.0.0 aetstranslation.com.au
+0.0.0.0 aeve.com
 0.0.0.0 aeverydayhealth.com
 0.0.0.0 aevion.net
 0.0.0.0 aexis-symposium.com
@@ -5339,6 +5343,7 @@
 0.0.0.0 alimar.com.ar
 0.0.0.0 alimchina.cf
 0.0.0.0 alimegastores.com
+0.0.0.0 alimentacionlasarte.com
 0.0.0.0 alimentechnician.com
 0.0.0.0 alimgercel.com.tr
 0.0.0.0 alimohammed.me
@@ -15893,7 +15898,6 @@
 0.0.0.0 brado.alfacode.com.br
 0.0.0.0 bradshawtits.xyz
 0.0.0.0 braecarautos.com
-0.0.0.0 braemar.com
 0.0.0.0 braeswoodfarmersmarket.com
 0.0.0.0 bragaredes.pt
 0.0.0.0 bragarover.com.br
@@ -20204,6 +20208,7 @@
 0.0.0.0 cholesterol-ache.xyz
 0.0.0.0 chomoka.com
 0.0.0.0 chomptruck.com
+0.0.0.0 chongnet.cn
 0.0.0.0 chongoubus.com
 0.0.0.0 chongthamhoanglinh.com
 0.0.0.0 chongthamsontay.vn
@@ -28550,6 +28555,7 @@
 0.0.0.0 dl2.onedrive-eu.com
 0.0.0.0 dl2.onedrive-us-en.com
 0.0.0.0 dl2.storeandshare.singtel.com
+0.0.0.0 dl3.joxi.net
 0.0.0.0 dl4.joxi.net
 0.0.0.0 dl4435.ex-downloads.com
 0.0.0.0 dl63964725.dyn-downloads.com
@@ -29592,6 +29598,7 @@
 0.0.0.0 dp4kb.magelangkota.go.id
 0.0.0.0 dp5a.surabaya.go.id
 0.0.0.0 dpa-industries.com
+0.0.0.0 dpa.atos-nao.net
 0.0.0.0 dpack365-my.sharepoint.com
 0.0.0.0 dpacorp.org
 0.0.0.0 dparmm1.wci.com.ph
@@ -33796,7 +33803,6 @@
 0.0.0.0 espace-douche.com
 0.0.0.0 espace-photo-numerique.fr
 0.0.0.0 espace-vert.sdcrea.fr
-0.0.0.0 espacebusiness.com
 0.0.0.0 espaceprive.enformes.fr
 0.0.0.0 espacerezo.fr
 0.0.0.0 espaces-interieurs.net
@@ -34136,7 +34142,7 @@
 0.0.0.0 etxse.xyz
 0.0.0.0 etysu02scnabr03wzaxue.com
 0.0.0.0 eu-easy.com
-0.0.0.0 eu1.salesforce.com
+0.0.0.0 eu.wildfire.paloaltonetworks.com
 0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eu283iwoqodjspqisjdf.com
 0.0.0.0 eu5-cdn.devid.info
@@ -40281,6 +40287,7 @@
 0.0.0.0 ghiendocbao.com
 0.0.0.0 ghigalal.com
 0.0.0.0 ghillsus.com
+0.0.0.0 ghisep.org
 0.0.0.0 ghislain.dartois.pagesperso-orange.fr
 0.0.0.0 ghisleni.net
 0.0.0.0 ghjccv.ru
@@ -44309,7 +44316,6 @@
 0.0.0.0 help.siganet.com.br
 0.0.0.0 help.talisman-sql.ru
 0.0.0.0 help.thetechguyusa.com
-0.0.0.0 help.wework.com
 0.0.0.0 help2help.info
 0.0.0.0 help3in1.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 helpandinformation.uk
@@ -44659,6 +44665,7 @@
 0.0.0.0 hidenlove.jobpreneurship.com
 0.0.0.0 hidge.net
 0.0.0.0 hidranco.com
+0.0.0.0 hidrive.ionos.com
 0.0.0.0 hidrofire.greenstudio.co
 0.0.0.0 hidrogadget.com
 0.0.0.0 hidroilles.com
@@ -50076,7 +50083,6 @@
 0.0.0.0 itkossi.com
 0.0.0.0 itlanguage.co.uk
 0.0.0.0 itleadz.com
-0.0.0.0 itlworld.com
 0.0.0.0 itmade.tech
 0.0.0.0 itmall.com.ph
 0.0.0.0 itmall.id
@@ -61434,6 +61440,7 @@
 0.0.0.0 mangaml.com
 0.0.0.0 mangatbazar.com
 0.0.0.0 mangatun.com
+0.0.0.0 mangawt.com
 0.0.0.0 mangchongtham.com.vn
 0.0.0.0 mangchongtham.vn
 0.0.0.0 mange-gode-blogs.dk
@@ -62389,6 +62396,7 @@
 0.0.0.0 mateada.com.br
 0.0.0.0 matebizbeta.com
 0.0.0.0 matecx.com
+0.0.0.0 mated.info
 0.0.0.0 matefactor.com
 0.0.0.0 matel.p.lodz.pl
 0.0.0.0 matelly.com
@@ -63012,7 +63020,6 @@
 0.0.0.0 medcureorganics.com
 0.0.0.0 meddaughs.com
 0.0.0.0 medeaser.com
-0.0.0.0 mededsys.com
 0.0.0.0 medegbetv.com
 0.0.0.0 medel.it
 0.0.0.0 medenblik.net
@@ -66514,6 +66521,7 @@
 0.0.0.0 msofficeinternatiinalfilecloudtransfer.duckdns.org
 0.0.0.0 msofficesecuredfiletransferinfocloud.duckdns.org
 0.0.0.0 msofficewordfiletransfertotheadmintrue.duckdns.org
+0.0.0.0 msoftwares.info
 0.0.0.0 msograteful.com
 0.0.0.0 mspcville.com
 0.0.0.0 mspn.com.au
@@ -70256,6 +70264,7 @@
 0.0.0.0 nosoktravel.com
 0.0.0.0 nosolodeejays.com
 0.0.0.0 nosomosgenios.com
+0.0.0.0 nospamproxywebp.beckhoff.com
 0.0.0.0 nosportugal.com
 0.0.0.0 nossasenhora.casa
 0.0.0.0 nossocentrogamek.com
@@ -75220,6 +75229,7 @@
 0.0.0.0 phoneexpertxl.nl
 0.0.0.0 phonelocaltoday.com
 0.0.0.0 phonerepaircentre.com.au
+0.0.0.0 phoneringtones.info
 0.0.0.0 phones.pmrspain.com
 0.0.0.0 phonestore-telephonie.fr
 0.0.0.0 phonestore.vn
@@ -81152,7 +81162,6 @@
 0.0.0.0 remontrvd.com
 0.0.0.0 remontstiralnikhmashin.ru
 0.0.0.0 remortgagecalculator.info
-0.0.0.0 remotefacilities.com
 0.0.0.0 remove-minecraft.cba.pl
 0.0.0.0 removeblackmold.info
 0.0.0.0 removeoppossums.com
@@ -84269,7 +84278,6 @@
 0.0.0.0 sanathanjewellers.com
 0.0.0.0 sanayate.com
 0.0.0.0 sanazfeizi.com
-0.0.0.0 sanbartolo.edu.co
 0.0.0.0 sanbatdongsanhud.vn
 0.0.0.0 sanbdshungthinh.com
 0.0.0.0 sancakcati.com
@@ -85081,6 +85089,7 @@
 0.0.0.0 schuhversand-mueller.de
 0.0.0.0 schulekoelliken.ch
 0.0.0.0 schulenburgprinting.com
+0.0.0.0 schulenburgrvpark.com
 0.0.0.0 schuler-vt.de
 0.0.0.0 schulich.org
 0.0.0.0 schulmanattys.com
@@ -108250,6 +108259,7 @@
 0.0.0.0 yamato-ti.com
 0.0.0.0 yamemasesy.com
 0.0.0.0 yamike.com
+0.0.0.0 yamisiones.com
 0.0.0.0 yamm.com.my
 0.0.0.0 yamnadlan.com
 0.0.0.0 yamotors.net
@@ -109314,7 +109324,6 @@
 0.0.0.0 zanatika.com
 0.0.0.0 zandj-pk.com
 0.0.0.0 zandrosgranito.com
-0.0.0.0 zanella.com.ar
 0.0.0.0 zanga.bounceme.net
 0.0.0.0 zangemeister.de
 0.0.0.0 zanjhrhhyh.cf
