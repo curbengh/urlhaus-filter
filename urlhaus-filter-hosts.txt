@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 15 Jul 2021 12:09:08 +0000
+# Updated: Fri, 16 Jul 2021 00:09:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -4476,6 +4476,7 @@
 0.0.0.0 airlineproxy.com
 0.0.0.0 airliness.info
 0.0.0.0 airlinkcpl.net
+0.0.0.0 airloweryd.com
 0.0.0.0 airma.uz
 0.0.0.0 airmaildata.com
 0.0.0.0 airmanship.nl
@@ -11138,7 +11139,6 @@
 0.0.0.0 bak-karbal.com
 0.0.0.0 bakakft.hu
 0.0.0.0 bakalanpule.co.id
-0.0.0.0 bakamla.go.id
 0.0.0.0 bakariart.com
 0.0.0.0 bakbo.dk
 0.0.0.0 bakcaci.de
@@ -22671,7 +22671,6 @@
 0.0.0.0 cooke.im
 0.0.0.0 cookecityalpine.live
 0.0.0.0 cookecitysinclair.com
-0.0.0.0 cookie.com.br
 0.0.0.0 cookiebyte.in
 0.0.0.0 cookiejar.be
 0.0.0.0 cookienotti.ru
@@ -42974,7 +42973,6 @@
 0.0.0.0 haag-iob.de
 0.0.0.0 haag.sebastian-busshardt.de
 0.0.0.0 haamin360.ir
-0.0.0.0 haarazim.co.il
 0.0.0.0 haarfrei24.de
 0.0.0.0 haari.net
 0.0.0.0 haarwelten.com
@@ -44187,6 +44185,7 @@
 0.0.0.0 heizung-fink.de
 0.0.0.0 heizungsnotdienst-sofort.at
 0.0.0.0 heizungsnotdienst-sofort.de
+0.0.0.0 hejoysa.com
 0.0.0.0 hekahealth.org
 0.0.0.0 heke.net
 0.0.0.0 hekimcenter.com
@@ -44963,6 +44962,7 @@
 0.0.0.0 hiwentis.de
 0.0.0.0 hiwi.ch
 0.0.0.0 hiworks.vn
+0.0.0.0 hiyang.com.tw
 0.0.0.0 hizlihipnoz.com
 0.0.0.0 hizmar.com
 0.0.0.0 hizmet-turkiye.com
@@ -64527,6 +64527,7 @@
 0.0.0.0 mimreklam.site
 0.0.0.0 mimsite.net
 0.0.0.0 min.addeosriverdalepizzabx.com
+0.0.0.0 min0sra.ru
 0.0.0.0 minami.com.tw
 0.0.0.0 minanga.co.id
 0.0.0.0 minareklam.com.tr
@@ -69512,7 +69513,6 @@
 0.0.0.0 nickseth.com
 0.0.0.0 nickycooperhomes.co.nz
 0.0.0.0 nico40.se
-0.0.0.0 nicoblogroms.com
 0.0.0.0 nicolaisen.de
 0.0.0.0 nicolas.greta.drosalys-web.fr
 0.0.0.0 nicolas.ug
@@ -72337,7 +72337,6 @@
 0.0.0.0 opt.minsa.gob.pa
 0.0.0.0 opt2cloud.com
 0.0.0.0 opta.net.ua
-0.0.0.0 opti.co.jp
 0.0.0.0 optiart.com.br
 0.0.0.0 optiboard.de
 0.0.0.0 optica.co.in
@@ -76862,7 +76861,6 @@
 0.0.0.0 ppa-rb.kemenpppa.go.id
 0.0.0.0 ppa.fsm.undip.ac.id
 0.0.0.0 ppaauditores.com
-0.0.0.0 ppat.or.th
 0.0.0.0 ppayinc.com
 0.0.0.0 ppca.org.pk
 0.0.0.0 ppclean.com.tw
@@ -77566,6 +77564,7 @@
 0.0.0.0 prodescsaude.com.br
 0.0.0.0 prodesignerslabo.com
 0.0.0.0 prodetail-liberec.cz
+0.0.0.0 prodg.com
 0.0.0.0 prodiant.in
 0.0.0.0 prodifarm.abinsula.com
 0.0.0.0 prodigitalize.com
@@ -78644,6 +78643,7 @@
 0.0.0.0 pw3r.org
 0.0.0.0 pwa.businessquest.com.my
 0.0.0.0 pwa.fr
+0.0.0.0 pwanroyale.com
 0.0.0.0 pwc-online.org
 0.0.0.0 pwe-china.com
 0.0.0.0 pwiic.com
@@ -87398,6 +87398,7 @@
 0.0.0.0 shoppinstores.com
 0.0.0.0 shoppnaweb.com
 0.0.0.0 shoppnonclin.com
+0.0.0.0 shopproperty.info
 0.0.0.0 shoppworld.com
 0.0.0.0 shopquaonline.vn
 0.0.0.0 shopquotes.com.au
@@ -90035,7 +90036,6 @@
 0.0.0.0 soundsforsouls.com
 0.0.0.0 soundshock.com
 0.0.0.0 soundsofalgol.com
-0.0.0.0 soundsolutionsaudio.com
 0.0.0.0 soundstorage.000webhostapp.com
 0.0.0.0 soundtel.com
 0.0.0.0 soupburgnyc.com
@@ -106099,6 +106099,7 @@
 0.0.0.0 witzell.dk
 0.0.0.0 wiu.fxxxxxxk.me
 0.0.0.0 wivup.com
+0.0.0.0 wiwa-lokal.de
 0.0.0.0 wiwebdev.com
 0.0.0.0 wiwi-cloud.htw-saarland.de
 0.0.0.0 wiwidwinar.com

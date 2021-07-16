@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 15 Jul 2021 12:09:08 +0000
+# Updated: Fri, 16 Jul 2021 00:09:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -4479,6 +4479,7 @@ msFilterList
 -d airlineproxy.com
 -d airliness.info
 -d airlinkcpl.net
+-d airloweryd.com
 -d airma.uz
 -d airmaildata.com
 -d airmanship.nl
@@ -11141,7 +11142,6 @@ msFilterList
 -d bak-karbal.com
 -d bakakft.hu
 -d bakalanpule.co.id
--d bakamla.go.id
 -d bakariart.com
 -d bakbo.dk
 -d bakcaci.de
@@ -22674,7 +22674,6 @@ msFilterList
 -d cooke.im
 -d cookecityalpine.live
 -d cookecitysinclair.com
--d cookie.com.br
 -d cookiebyte.in
 -d cookiejar.be
 -d cookienotti.ru
@@ -42977,7 +42976,6 @@ msFilterList
 -d haag-iob.de
 -d haag.sebastian-busshardt.de
 -d haamin360.ir
--d haarazim.co.il
 -d haarfrei24.de
 -d haari.net
 -d haarwelten.com
@@ -44190,6 +44188,7 @@ msFilterList
 -d heizung-fink.de
 -d heizungsnotdienst-sofort.at
 -d heizungsnotdienst-sofort.de
+-d hejoysa.com
 -d hekahealth.org
 -d heke.net
 -d hekimcenter.com
@@ -44966,6 +44965,7 @@ msFilterList
 -d hiwentis.de
 -d hiwi.ch
 -d hiworks.vn
+-d hiyang.com.tw
 -d hizlihipnoz.com
 -d hizmar.com
 -d hizmet-turkiye.com
@@ -64530,6 +64530,7 @@ msFilterList
 -d mimreklam.site
 -d mimsite.net
 -d min.addeosriverdalepizzabx.com
+-d min0sra.ru
 -d minami.com.tw
 -d minanga.co.id
 -d minareklam.com.tr
@@ -69515,7 +69516,6 @@ msFilterList
 -d nickseth.com
 -d nickycooperhomes.co.nz
 -d nico40.se
--d nicoblogroms.com
 -d nicolaisen.de
 -d nicolas.greta.drosalys-web.fr
 -d nicolas.ug
@@ -72340,7 +72340,6 @@ msFilterList
 -d opt.minsa.gob.pa
 -d opt2cloud.com
 -d opta.net.ua
--d opti.co.jp
 -d optiart.com.br
 -d optiboard.de
 -d optica.co.in
@@ -76865,7 +76864,6 @@ msFilterList
 -d ppa-rb.kemenpppa.go.id
 -d ppa.fsm.undip.ac.id
 -d ppaauditores.com
--d ppat.or.th
 -d ppayinc.com
 -d ppca.org.pk
 -d ppclean.com.tw
@@ -77569,6 +77567,7 @@ msFilterList
 -d prodescsaude.com.br
 -d prodesignerslabo.com
 -d prodetail-liberec.cz
+-d prodg.com
 -d prodiant.in
 -d prodifarm.abinsula.com
 -d prodigitalize.com
@@ -78647,6 +78646,7 @@ msFilterList
 -d pw3r.org
 -d pwa.businessquest.com.my
 -d pwa.fr
+-d pwanroyale.com
 -d pwc-online.org
 -d pwe-china.com
 -d pwiic.com
@@ -87401,6 +87401,7 @@ msFilterList
 -d shoppinstores.com
 -d shoppnaweb.com
 -d shoppnonclin.com
+-d shopproperty.info
 -d shoppworld.com
 -d shopquaonline.vn
 -d shopquotes.com.au
@@ -90038,7 +90039,6 @@ msFilterList
 -d soundsforsouls.com
 -d soundshock.com
 -d soundsofalgol.com
--d soundsolutionsaudio.com
 -d soundstorage.000webhostapp.com
 -d soundtel.com
 -d soupburgnyc.com
@@ -106102,6 +106102,7 @@ msFilterList
 -d witzell.dk
 -d wiu.fxxxxxxk.me
 -d wivup.com
+-d wiwa-lokal.de
 -d wiwebdev.com
 -d wiwi-cloud.htw-saarland.de
 -d wiwidwinar.com
