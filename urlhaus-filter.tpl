@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 16 Jul 2021 12:09:21 +0000
+# Updated: Sat, 17 Jul 2021 00:09:20 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -18643,6 +18643,7 @@ msFilterList
 -d caterinacongi.ch
 -d catering-group.com.pl
 -d catering8.com
+-d cateringbangkok.in.th
 -d cateringbyjkv.com
 -d cateringdeluz.es
 -d cateringevent.ru
@@ -21140,6 +21141,7 @@ msFilterList
 -d closedetermine.com
 -d closeharmonies.com
 -d closer-coal.000webhostapp.com
+-d closestep.top
 -d closhlab.com
 -d closingwire.com
 -d closmaq.com.br
@@ -33932,7 +33934,6 @@ msFilterList
 -d estoyadieta.com
 -d estrategias-corporativas.com
 -d estrategiasdeaprovacao.com.br
--d estreamnetworks.net
 -d estrelladamm.icu
 -d estrindesign.com
 -d estrom.es
@@ -37803,6 +37804,7 @@ msFilterList
 -d fosterscomp.com
 -d foston.qc-care.com
 -d fostr.tv
+-d fotamene.com
 -d fotisinfotech.com
 -d fotistax.com
 -d fotistax.delosvacations.com
@@ -43538,6 +43540,7 @@ msFilterList
 -d hard-athlete.ru
 -d hard-grooves.com
 -d hard-web.ru
+-d hardbotz.cc
 -d hardcordgarden.com
 -d hardcorelives.co.uk
 -d harddrivedonors.com
@@ -46197,6 +46200,7 @@ msFilterList
 -d hubcub.com
 -d hubed.my.id
 -d hubertpascal.org
+-d hubertrapg.com
 -d hubgeorgia.com
 -d hubinfo.co.za
 -d hubitafrica.com
@@ -62563,6 +62567,7 @@ msFilterList
 -d max-hoffmann-webdesign.de
 -d max-v.online
 -d max.bazovskiy.ru
+-d max.dirfgame.com
 -d max.wndz.hk
 -d maxacerna.org
 -d maxad.vn
@@ -72580,6 +72585,7 @@ msFilterList
 -d originadr-001-site17.gtempurl.com
 -d original-only.com
 -d originaldll.com
+-d originalfoodconcepts.com
 -d originalhands.ru
 -d originalone.ma
 -d originalsalonqatar.com
@@ -78082,6 +78088,7 @@ msFilterList
 -d protecguvenlik.com.tr
 -d protech.binarybizz.com
 -d protech.mn
+-d protechasia.com
 -d protechcarpetcare.com
 -d protechgroup1.com
 -d protechmedia.net
@@ -90067,6 +90074,7 @@ msFilterList
 -d souqaziz.com
 -d souqchatbot.com
 -d souqelasr.com
+-d souqshare.com
 -d souqtajeer.com
 -d soura.in
 -d source2save.co.uk
