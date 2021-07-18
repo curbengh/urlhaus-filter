@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 17 Jul 2021 12:09:21 +0000
+# Updated: Sun, 18 Jul 2021 00:09:23 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2440,6 +2440,7 @@ msFilterList
 -d ablogabouticeland.com
 -d abm-it.com
 -d abm-jsc.ru
+-d abmaxdigital.com
 -d abmtrust.org
 -d abmvs.org
 -d abnormalpresentation.com
@@ -18615,7 +18616,6 @@ msFilterList
 -d cassismodafeminina.com.br
 -d cassone.ro
 -d cassoulet.barons.fr
--d cassovia.sk
 -d castalv.com.mx
 -d castelsucchi.com
 -d castentagescoterpay.info
@@ -38048,7 +38048,6 @@ msFilterList
 -d frankcahill.com
 -d frankcoin.thememove.com
 -d frankdeleeuw.com
--d frankfinn.com
 -d frankfurtelfarolillo.com
 -d frankfurter-blumenbote.de
 -d frankgross.com
@@ -76435,6 +76434,7 @@ msFilterList
 -d polmaraton.plock.eu
 -d polmastv.com
 -d poloagencia.com.br
+-d poloainstall.com
 -d polodemo.com
 -d polokwanemotorspares.co.za
 -d poloprint.hr
@@ -90105,6 +90105,7 @@ msFilterList
 -d soundsforsouls.com
 -d soundshock.com
 -d soundsofalgol.com
+-d soundsolutionsaudio.com
 -d soundstorage.000webhostapp.com
 -d soundtel.com
 -d soupburgnyc.com
@@ -93293,7 +93294,6 @@ msFilterList
 -d suzannababyshop.com
 -d suzannejade.com
 -d suzannemichaels.com
--d suzano.sp.gov.br
 -d suzhouch.com
 -d suzman.net
 -d suzukicibubur.com
@@ -104820,6 +104820,7 @@ msFilterList
 -d weaver.5gbfree.com
 -d weaversbrand.com
 -d weavinghearts.org
+-d web-analysis.live
 -d web-assets.download
 -d web-cude.com
 -d web-de-login.de

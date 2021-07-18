@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 17 Jul 2021 12:09:21 +0000
+# Updated: Sun, 18 Jul 2021 00:09:23 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2437,6 +2437,7 @@
 0.0.0.0 ablogabouticeland.com
 0.0.0.0 abm-it.com
 0.0.0.0 abm-jsc.ru
+0.0.0.0 abmaxdigital.com
 0.0.0.0 abmtrust.org
 0.0.0.0 abmvs.org
 0.0.0.0 abnormalpresentation.com
@@ -18612,7 +18613,6 @@
 0.0.0.0 cassismodafeminina.com.br
 0.0.0.0 cassone.ro
 0.0.0.0 cassoulet.barons.fr
-0.0.0.0 cassovia.sk
 0.0.0.0 castalv.com.mx
 0.0.0.0 castelsucchi.com
 0.0.0.0 castentagescoterpay.info
@@ -38045,7 +38045,6 @@
 0.0.0.0 frankcahill.com
 0.0.0.0 frankcoin.thememove.com
 0.0.0.0 frankdeleeuw.com
-0.0.0.0 frankfinn.com
 0.0.0.0 frankfurtelfarolillo.com
 0.0.0.0 frankfurter-blumenbote.de
 0.0.0.0 frankgross.com
@@ -76432,6 +76431,7 @@
 0.0.0.0 polmaraton.plock.eu
 0.0.0.0 polmastv.com
 0.0.0.0 poloagencia.com.br
+0.0.0.0 poloainstall.com
 0.0.0.0 polodemo.com
 0.0.0.0 polokwanemotorspares.co.za
 0.0.0.0 poloprint.hr
@@ -90102,6 +90102,7 @@
 0.0.0.0 soundsforsouls.com
 0.0.0.0 soundshock.com
 0.0.0.0 soundsofalgol.com
+0.0.0.0 soundsolutionsaudio.com
 0.0.0.0 soundstorage.000webhostapp.com
 0.0.0.0 soundtel.com
 0.0.0.0 soupburgnyc.com
@@ -93290,7 +93291,6 @@
 0.0.0.0 suzannababyshop.com
 0.0.0.0 suzannejade.com
 0.0.0.0 suzannemichaels.com
-0.0.0.0 suzano.sp.gov.br
 0.0.0.0 suzhouch.com
 0.0.0.0 suzman.net
 0.0.0.0 suzukicibubur.com
@@ -104817,6 +104817,7 @@
 0.0.0.0 weaver.5gbfree.com
 0.0.0.0 weaversbrand.com
 0.0.0.0 weavinghearts.org
+0.0.0.0 web-analysis.live
 0.0.0.0 web-assets.download
 0.0.0.0 web-cude.com
 0.0.0.0 web-de-login.de
