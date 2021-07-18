@@ -221,12 +221,12 @@ sed '1 i\'"$COMMENT_ONLINE"'' > "../urlhaus-filter-domains-online.txt"
 cat "malware-domains.txt" | \
 sort | \
 # Remove IPv4 address
-grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" > "malware-hosts.txt"
+grep -vE "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" > "malware-hosts.txt"
 
 cat "malware-domains-online.txt" | \
 sort | \
 # Remove IPv4 address
-grep -vE "([0-9]{1,3}[\.]){3}[0-9]{1,3}" > "malware-hosts-online.txt"
+grep -vE "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" > "malware-hosts-online.txt"
 
 
 ## Hosts file blocklist
