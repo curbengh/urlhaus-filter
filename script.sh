@@ -303,6 +303,30 @@ sed '1 i\'"$COMMENT_ONLINE"'' | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../urlhaus-filter-unbound-online.conf"
 
 
+## dnscrypt-proxy blocklists
+# name-based
+cat "malware-hosts.txt" | \
+sed '1 i\'"$COMMENT"'' | \
+sed "1s/Domains/Names/" > "../urlhaus-filter-dnscrypt-blocked-names.txt"
+
+cat "malware-hosts-online.txt" | \
+sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1s/Domains/Names/" > "../urlhaus-filter-dnscrypt-blocked-names-online.txt"
+
+## IPv4-based
+cat "malware-domains.txt" | \
+sort | \
+grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
+sed '1 i\'"$COMMENT"'' | \
+sed "1s/Domains/IPs/" > "../urlhaus-filter-dnscrypt-blocked-ips.txt"
+
+cat "malware-domains-online.txt" | \
+sort | \
+grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
+sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1s/Domains/IPs/" > "../urlhaus-filter-dnscrypt-blocked-ips-online.txt"
+
+
 ## Temporarily disable command print
 set +x
 

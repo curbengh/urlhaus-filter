@@ -13,6 +13,7 @@ There are multiple formats available, refer to the appropriate section according
 - [Dnsmasq](#dnsmasq)
 - BIND -> BIND [zone](#bind) or [RPZ](#response-policy-zone)
 - [Unbound](#unbound)
+- [dnscrypt-proxy](#dnscrypt-proxy)
 - Internet Explorer -> [Tracking Protection List (IE)](#tracking-protection-list-ie)
 - [Snort2](#snort2)
 - [Snort3](#snort3)
@@ -457,6 +458,78 @@ Lite version (online domains only):
 
 </details>
 
+## dnscrypt-proxy
+
+### Install
+
+```
+# Create a new folder to store the blocklist
+mkdir -p /etc/dnscrypt-proxy/
+
+# Create a new cron job for daily update
+printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt" -o "/etc/dnscrypt-proxy/urlhaus-filter-dnscrypt-blocked-names.txt"\n' > /etc/cron.daily/urlhaus-filter
+printf '\ncurl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt" -o "/etc/dnscrypt-proxy/urlhaus-filter-dnscrypt-blocked-ips.txt"\n' >> /etc/cron.daily/urlhaus-filter
+
+# cron job requires execution permission
+chmod 755 /etc/cron.daily/urlhaus-filter
+```
+
+Configure dnscrypt-proxy to use the blocklist:
+
+``` diff
+[blocked_names]
++  blocked_names_file = '/etc/dnscrypt-proxy/urlhaus-filter-dnscrypt-blocked-names.txt'
+
+[blocked_ips]
++  blocked_ips_file = '/etc/dnscrypt-proxy/urlhaus-filter-dnscrypt-blocked-ips.txt'
+```
+
+- https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
+</details>
+
+<br />
+Lite version (online domains only):
+
+- https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+
+<details>
+<summary>Mirrors</summary>
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
+
+- https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://raw.githubusercontent.com/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://cdn.statically.io/gh/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+</details>
+
+
 ## Tracking Protection List (IE)
 
 This blocklist includes domains only. Supported in Internet Explorer 9+.
@@ -633,6 +706,10 @@ rule-files:
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-rpz-online.conf
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-unbound.conf
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-unbound-online.conf
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-dnscrypt-blocked-ips-online.txt
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter.tpl
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-online.tpl
 - https://gitlab.com/iosprivacy/urlhaus-filter-mirror/raw/master/urlhaus-filter-snort2-online.rules
