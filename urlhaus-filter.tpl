@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 18 Jul 2021 12:09:24 +0000
+# Updated: Mon, 19 Jul 2021 00:09:32 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1890,6 +1890,7 @@ msFilterList
 -d 999.rajaojek.com
 -d 999080321newfolder1002-01342599908032135.site
 -d 999080321newfolder1002-01362599908032135.site
+-d 999080321newfolder1002-01462599908032135.site
 -d 999080321newfolder1002002131-service1002.space
 -d 999102com.cn
 -d 99bkx.com
@@ -24349,6 +24350,7 @@ msFilterList
 -d cv724.net
 -d cv75663.tmweb.ru
 -d cv91340.tmweb.ru
+-d cvae.ac.ug
 -d cvasajhsjkls00pro.co.uk
 -d cvbintangjaya.com
 -d cvbt.ml
@@ -33994,6 +33996,7 @@ msFilterList
 -d estoyadieta.com
 -d estrategias-corporativas.com
 -d estrategiasdeaprovacao.com.br
+-d estreamnetworks.net
 -d estrelladamm.icu
 -d estrindesign.com
 -d estrom.es
@@ -38310,7 +38313,6 @@ msFilterList
 -d freshenergy.co.nz
 -d freshers.luminescent.digital
 -d fresherslab.in
--d freshersnews.co.in
 -d freshersvista.com
 -d freshjobagency.com
 -d freshjobportal.com
@@ -67935,6 +67937,7 @@ msFilterList
 -d namc18.com
 -d namcancode.ml
 -d namdeinvest.com
+-d name-usa.info
 -d namecard.hu
 -d namecheap-webmail.com
 -d namecheaptest.websteach.info
@@ -69646,6 +69649,7 @@ msFilterList
 -d nigeriatoday.live
 -d nigeventindustry.org
 -d niggalife.5gbfree.com
+-d niggavpn.cf
 -d night-zoo.com
 -d nightcheats.org
 -d nightcreepers-official.com
@@ -79333,7 +79337,6 @@ msFilterList
 -d qualitec.pl
 -d qualitechsarl.com
 -d qualityairpart.com
--d qualityansweringservice.com
 -d qualityautoservices.co.uk
 -d qualitybeverages.co.za
 -d qualitychildcarepreschool.com
@@ -79919,7 +79922,6 @@ msFilterList
 -d radioguadalupanalavozcatolica.com
 -d radioiluminacion.djsrecord.com
 -d radioinspiraciontv.com
--d radiokameleon.ba
 -d radiolajee.com
 -d radiolalded.com
 -d radioland.eu
@@ -90108,7 +90110,6 @@ msFilterList
 -d soundsforsouls.com
 -d soundshock.com
 -d soundsofalgol.com
--d soundsolutionsaudio.com
 -d soundstorage.000webhostapp.com
 -d soundtel.com
 -d soupburgnyc.com
@@ -99637,7 +99638,6 @@ msFilterList
 -d trulogics.co.in
 -d trulybrazen.com
 -d trulyhelpful.love
--d trulykomal.com
 -d trumbullcsb.org
 -d trumpcommunity.com
 -d trumpfalls.com
@@ -101689,6 +101689,7 @@ msFilterList
 -d usomed.com
 -d uspeshnybusiness.ru
 -d uspslabel.itemdb.com
+-d usrubber.com
 -d uss.ac.th
 -d uss21.com
 -d ussbd.net
@@ -105942,6 +105943,7 @@ msFilterList
 -d wind0wsactivator.host
 -d wind7.ru
 -d windailygh.com
+-d windarm.xyz
 -d windcomtechnologies.com
 -d windefenderprotectedwindefendergooglegmail.warzonedns.com
 -d winder.ua
@@ -107200,6 +107202,7 @@ msFilterList
 -d x-trade.com.pl
 -d x-treme.gr
 -d x-up.ws
+-d x-vpn.ug
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
