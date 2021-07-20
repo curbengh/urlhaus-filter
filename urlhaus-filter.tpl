@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Mon, 19 Jul 2021 12:09:39 +0000
+# Updated: Tue, 20 Jul 2021 00:09:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1891,6 +1891,7 @@ msFilterList
 -d 999.rajaojek.com
 -d 999080321newfolder1002-01342599908032135.site
 -d 999080321newfolder1002-01362599908032135.site
+-d 999080321newfolder1002-01432599908032135.site
 -d 999080321newfolder1002-01462599908032135.site
 -d 999080321newfolder1002002131-service1002.space
 -d 999102com.cn
@@ -8833,6 +8834,7 @@ msFilterList
 -d artprintgard.ro
 -d artpsikoloji.net
 -d artquimia.co
+-d artreflex.ru
 -d artrenewal.pl
 -d artrosmed.de
 -d artroute.capetown
@@ -18990,6 +18992,7 @@ msFilterList
 -d cdn.applimmo.com
 -d cdn.atsh.co
 -d cdn.cryptservice.xyz
+-d cdn.doxbin.org
 -d cdn.eventexposer.com
 -d cdn.examdunia.com
 -d cdn.fanyamedia.net
@@ -22483,6 +22486,7 @@ msFilterList
 -d connectjob.com.br
 -d connectltdd.com
 -d connectnews24.com
+-d connecto-secure-payment.com
 -d connectrajasthan.com
 -d connectstats.bar
 -d connectstats.casa
@@ -25314,6 +25318,7 @@ msFilterList
 -d datapdks.com
 -d datapolish.com
 -d datapscanner.stream
+-d datarcha.ga
 -d datarecoverservice.com
 -d datarecovery.chat.ru
 -d datasavvydesign.com
@@ -37403,6 +37408,7 @@ msFilterList
 -d fleuve.tk
 -d flewer.pl
 -d flex.hamburg
+-d flex.ru
 -d flexiblecow.com
 -d flexilifephysio.in
 -d flexisales.com
@@ -37816,7 +37822,6 @@ msFilterList
 -d for-rus.ru
 -d for-test3.club
 -d for-vill.ru
--d for.ge
 -d forads.ae
 -d forage.restaurant
 -d forarskolan.com
@@ -37987,6 +37992,7 @@ msFilterList
 -d fortools.ru
 -d fortsaude.com.br
 -d fortuna3.myhostpoint.ch
+-d fortuneinfosys.com
 -d fortunelabels.com
 -d fortunespsychics.co.uk
 -d fortwaynegunbroker.com
@@ -43018,8 +43024,10 @@ msFilterList
 -d gurmakmakina.com.tr
 -d gurmeetramrahim.com
 -d gurmekan.net
+-d gurokv02.top
 -d gurshanlogistics.com
 -d gurstore.in
+-d gurstp01.top
 -d gurtekinler.com
 -d guru-kripa.designerscafe.in
 -d guru-sale-today.desi
@@ -43540,6 +43548,7 @@ msFilterList
 -d hammondbeyerhealthcenter.com
 -d hamoabay.com
 -d hamobik.com
+-d hampaweb.com
 -d hamptonpartyoffive.com
 -d hamrahkar.com
 -d hamriadhurai1.com
@@ -44575,6 +44584,7 @@ msFilterList
 -d helpdeskserver.epelcdn.com
 -d helpdxb.com
 -d helpeducateachild.com
+-d helpersgroup.co.ug
 -d helpfeedthetroll.com
 -d helpforhealth.co.nz
 -d helpfortravellers.com
@@ -44738,7 +44748,6 @@ msFilterList
 -d hero-sport.ir
 -d heroes-center.ru
 -d heroin-addiction.net
--d herojo.nl
 -d heron3d.ir
 -d heronicon.com
 -d heropoulos.gr
@@ -55477,6 +55486,7 @@ msFilterList
 -d kpstore.unicloud.in
 -d kpu.dinkeskabminsel.com
 -d kpuru.com
+-d kqc.co.nz
 -d kqfkqkf7ma.temp.swtest.ru
 -d kqq.kz
 -d kqs.me
@@ -65263,7 +65273,6 @@ msFilterList
 -d mixxedstyles.com
 -d miyabiballet.jp
 -d miyahashi.jp
--d miyakeissey.net
 -d miyakojima-unit.com
 -d miyno.com
 -d mizez-dev.uzor.group
@@ -69717,6 +69726,7 @@ msFilterList
 -d nickseth.com
 -d nickycooperhomes.co.nz
 -d nico40.se
+-d nicoblogroms.com
 -d nicolaisen.de
 -d nicolas.greta.drosalys-web.fr
 -d nicolas.ug
@@ -76450,6 +76460,7 @@ msFilterList
 -d pod.siaraya.com
 -d pod2.xn----8sbaclce7cppf8b0i.xn--p1ai
 -d podarkisosmislom.ru
+-d podarkivsemu.ru
 -d podarok.yuyustyle.com
 -d podatki-zakopane.pl
 -d podbormotocikla.ru
@@ -85528,6 +85539,7 @@ msFilterList
 -d sdfdgsgdg.ml
 -d sdfgdsf.ru
 -d sdfgikjuhgfdqwertyuiokjhgfd.tk
+-d sdfhdw34gr2wdq2d2r567s.tk
 -d sdfher3457.duckdns.org
 -d sdfjke.net
 -d sdfsd14as2334d.ru
@@ -92858,6 +92870,7 @@ msFilterList
 -d suisuncitystorage.com
 -d suite.kpechios.gr
 -d suitsforseniors.com
+-d suitweeksd.com
 -d sujalamcropcare.com
 -d sujalaropurifiers.com
 -d sujest.com
@@ -99774,6 +99787,7 @@ msFilterList
 -d trulogics.co.in
 -d trulybrazen.com
 -d trulyhelpful.love
+-d trulykomal.com
 -d trumbullcsb.org
 -d trumpcommunity.com
 -d trumpfalls.com
@@ -108983,6 +108997,7 @@ msFilterList
 -d yonetim.yonpf.com
 -d yongcaibao.com
 -d yonghonqfurniture.com
+-d yongian.com
 -d yongrupresidence.com
 -d yongtai.cn
 -d yonisteamstore.com

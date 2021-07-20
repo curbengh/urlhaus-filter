@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Mon, 19 Jul 2021 12:09:39 +0000
+# Updated: Tue, 20 Jul 2021 00:09:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1888,6 +1888,7 @@
 0.0.0.0 999.rajaojek.com
 0.0.0.0 999080321newfolder1002-01342599908032135.site
 0.0.0.0 999080321newfolder1002-01362599908032135.site
+0.0.0.0 999080321newfolder1002-01432599908032135.site
 0.0.0.0 999080321newfolder1002-01462599908032135.site
 0.0.0.0 999080321newfolder1002002131-service1002.space
 0.0.0.0 999102com.cn
@@ -8830,6 +8831,7 @@
 0.0.0.0 artprintgard.ro
 0.0.0.0 artpsikoloji.net
 0.0.0.0 artquimia.co
+0.0.0.0 artreflex.ru
 0.0.0.0 artrenewal.pl
 0.0.0.0 artrosmed.de
 0.0.0.0 artroute.capetown
@@ -18987,6 +18989,7 @@
 0.0.0.0 cdn.applimmo.com
 0.0.0.0 cdn.atsh.co
 0.0.0.0 cdn.cryptservice.xyz
+0.0.0.0 cdn.doxbin.org
 0.0.0.0 cdn.eventexposer.com
 0.0.0.0 cdn.examdunia.com
 0.0.0.0 cdn.fanyamedia.net
@@ -22480,6 +22483,7 @@
 0.0.0.0 connectjob.com.br
 0.0.0.0 connectltdd.com
 0.0.0.0 connectnews24.com
+0.0.0.0 connecto-secure-payment.com
 0.0.0.0 connectrajasthan.com
 0.0.0.0 connectstats.bar
 0.0.0.0 connectstats.casa
@@ -25311,6 +25315,7 @@
 0.0.0.0 datapdks.com
 0.0.0.0 datapolish.com
 0.0.0.0 datapscanner.stream
+0.0.0.0 datarcha.ga
 0.0.0.0 datarecoverservice.com
 0.0.0.0 datarecovery.chat.ru
 0.0.0.0 datasavvydesign.com
@@ -37400,6 +37405,7 @@
 0.0.0.0 fleuve.tk
 0.0.0.0 flewer.pl
 0.0.0.0 flex.hamburg
+0.0.0.0 flex.ru
 0.0.0.0 flexiblecow.com
 0.0.0.0 flexilifephysio.in
 0.0.0.0 flexisales.com
@@ -37813,7 +37819,6 @@
 0.0.0.0 for-rus.ru
 0.0.0.0 for-test3.club
 0.0.0.0 for-vill.ru
-0.0.0.0 for.ge
 0.0.0.0 forads.ae
 0.0.0.0 forage.restaurant
 0.0.0.0 forarskolan.com
@@ -37984,6 +37989,7 @@
 0.0.0.0 fortools.ru
 0.0.0.0 fortsaude.com.br
 0.0.0.0 fortuna3.myhostpoint.ch
+0.0.0.0 fortuneinfosys.com
 0.0.0.0 fortunelabels.com
 0.0.0.0 fortunespsychics.co.uk
 0.0.0.0 fortwaynegunbroker.com
@@ -43015,8 +43021,10 @@
 0.0.0.0 gurmakmakina.com.tr
 0.0.0.0 gurmeetramrahim.com
 0.0.0.0 gurmekan.net
+0.0.0.0 gurokv02.top
 0.0.0.0 gurshanlogistics.com
 0.0.0.0 gurstore.in
+0.0.0.0 gurstp01.top
 0.0.0.0 gurtekinler.com
 0.0.0.0 guru-kripa.designerscafe.in
 0.0.0.0 guru-sale-today.desi
@@ -43537,6 +43545,7 @@
 0.0.0.0 hammondbeyerhealthcenter.com
 0.0.0.0 hamoabay.com
 0.0.0.0 hamobik.com
+0.0.0.0 hampaweb.com
 0.0.0.0 hamptonpartyoffive.com
 0.0.0.0 hamrahkar.com
 0.0.0.0 hamriadhurai1.com
@@ -44572,6 +44581,7 @@
 0.0.0.0 helpdeskserver.epelcdn.com
 0.0.0.0 helpdxb.com
 0.0.0.0 helpeducateachild.com
+0.0.0.0 helpersgroup.co.ug
 0.0.0.0 helpfeedthetroll.com
 0.0.0.0 helpforhealth.co.nz
 0.0.0.0 helpfortravellers.com
@@ -44735,7 +44745,6 @@
 0.0.0.0 hero-sport.ir
 0.0.0.0 heroes-center.ru
 0.0.0.0 heroin-addiction.net
-0.0.0.0 herojo.nl
 0.0.0.0 heron3d.ir
 0.0.0.0 heronicon.com
 0.0.0.0 heropoulos.gr
@@ -55474,6 +55483,7 @@
 0.0.0.0 kpstore.unicloud.in
 0.0.0.0 kpu.dinkeskabminsel.com
 0.0.0.0 kpuru.com
+0.0.0.0 kqc.co.nz
 0.0.0.0 kqfkqkf7ma.temp.swtest.ru
 0.0.0.0 kqq.kz
 0.0.0.0 kqs.me
@@ -65260,7 +65270,6 @@
 0.0.0.0 mixxedstyles.com
 0.0.0.0 miyabiballet.jp
 0.0.0.0 miyahashi.jp
-0.0.0.0 miyakeissey.net
 0.0.0.0 miyakojima-unit.com
 0.0.0.0 miyno.com
 0.0.0.0 mizez-dev.uzor.group
@@ -69714,6 +69723,7 @@
 0.0.0.0 nickseth.com
 0.0.0.0 nickycooperhomes.co.nz
 0.0.0.0 nico40.se
+0.0.0.0 nicoblogroms.com
 0.0.0.0 nicolaisen.de
 0.0.0.0 nicolas.greta.drosalys-web.fr
 0.0.0.0 nicolas.ug
@@ -76447,6 +76457,7 @@
 0.0.0.0 pod.siaraya.com
 0.0.0.0 pod2.xn----8sbaclce7cppf8b0i.xn--p1ai
 0.0.0.0 podarkisosmislom.ru
+0.0.0.0 podarkivsemu.ru
 0.0.0.0 podarok.yuyustyle.com
 0.0.0.0 podatki-zakopane.pl
 0.0.0.0 podbormotocikla.ru
@@ -85525,6 +85536,7 @@
 0.0.0.0 sdfdgsgdg.ml
 0.0.0.0 sdfgdsf.ru
 0.0.0.0 sdfgikjuhgfdqwertyuiokjhgfd.tk
+0.0.0.0 sdfhdw34gr2wdq2d2r567s.tk
 0.0.0.0 sdfher3457.duckdns.org
 0.0.0.0 sdfjke.net
 0.0.0.0 sdfsd14as2334d.ru
@@ -92855,6 +92867,7 @@
 0.0.0.0 suisuncitystorage.com
 0.0.0.0 suite.kpechios.gr
 0.0.0.0 suitsforseniors.com
+0.0.0.0 suitweeksd.com
 0.0.0.0 sujalamcropcare.com
 0.0.0.0 sujalaropurifiers.com
 0.0.0.0 sujest.com
@@ -99771,6 +99784,7 @@
 0.0.0.0 trulogics.co.in
 0.0.0.0 trulybrazen.com
 0.0.0.0 trulyhelpful.love
+0.0.0.0 trulykomal.com
 0.0.0.0 trumbullcsb.org
 0.0.0.0 trumpcommunity.com
 0.0.0.0 trumpfalls.com
@@ -108980,6 +108994,7 @@
 0.0.0.0 yonetim.yonpf.com
 0.0.0.0 yongcaibao.com
 0.0.0.0 yonghonqfurniture.com
+0.0.0.0 yongian.com
 0.0.0.0 yongrupresidence.com
 0.0.0.0 yongtai.cn
 0.0.0.0 yonisteamstore.com
