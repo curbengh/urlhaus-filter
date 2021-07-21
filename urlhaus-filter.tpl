@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Tue, 20 Jul 2021 12:09:32 +0000
+# Updated: Wed, 21 Jul 2021 00:09:29 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -10980,6 +10980,7 @@ msFilterList
 -d babycoolclothes.com
 -d babycute.thats.im
 -d babydiario.it
+-d babydressout.com
 -d babyfriendlyworld.com
 -d babyg-vietnam.vn
 -d babyh.co.uk
@@ -18775,7 +18776,6 @@ msFilterList
 -d cavallarigutters.com
 -d cavallieroficial.life
 -d cavalluindistella.com
--d cavalry.vn
 -d cavanasipontum.ru
 -d cavancameroon.com
 -d cavancart.com
@@ -20268,6 +20268,7 @@ msFilterList
 -d chongthamsontay.vn
 -d chongziyun.com
 -d chonhangchuan.net
+-d chonmua.com
 -d chonreneedanceacademy.com
 -d choobica.com
 -d choobika.com
@@ -49664,6 +49665,7 @@ msFilterList
 -d iranmadan.com
 -d iranmelorin.com
 -d iranmohaseb.ir
+-d iranoca.com
 -d iranolemdad.com
 -d iranparaffirnwax.com
 -d iranpharmexams.com
@@ -61571,6 +61573,7 @@ msFilterList
 -d mangaml.com
 -d mangatbazar.com
 -d mangatun.com
+-d mangawt.com
 -d mangchongtham.com.vn
 -d mangchongtham.vn
 -d mange-gode-blogs.dk
@@ -68990,6 +68993,7 @@ msFilterList
 -d new.surfcampghana.com
 -d new.sustenancefood.com
 -d new.tiyendesafari.com
+-d new.tristatehs.com
 -d new.umeonline.it
 -d new.v-bazaar.com
 -d new.vidasheffield.org.uk
@@ -72653,7 +72657,6 @@ msFilterList
 -d originador.com
 -d originadr-001-site17.gtempurl.com
 -d original-only.com
--d originaldll.com
 -d originalfoodconcepts.com
 -d originalhands.ru
 -d originalone.ma
@@ -76954,6 +76957,7 @@ msFilterList
 -d ppa-rb.kemenpppa.go.id
 -d ppa.fsm.undip.ac.id
 -d ppaauditores.com
+-d ppat.or.th
 -d ppayinc.com
 -d ppca.org.pk
 -d ppclean.com.tw
@@ -80516,6 +80520,7 @@ msFilterList
 -d razorse.in
 -d razprueba.000webhostapp.com
 -d razvivashka.kz
+-d razwerks.com
 -d rb-blinds.co.uk
 -d rb-graphic.com
 -d rb.forlifehome.net
@@ -84382,6 +84387,7 @@ msFilterList
 -d sananahad.com
 -d sananmusic.com
 -d sanantoniodenia.es
+-d sanarflix.com.br
 -d sanat-tarrahan.ir
 -d sanatarti.com
 -d sanatcifiyatlari.net
@@ -87600,6 +87606,7 @@ msFilterList
 -d shr-links.com
 -d shrabon.xyz
 -d shraddhacarrentalindore.com
+-d shraddhatrans.nepa.co.in
 -d shradhajewellers.com
 -d shranimasko.si
 -d shravanpatil.com
@@ -92113,6 +92120,7 @@ msFilterList
 -d store.anniebags.com
 -d store.ariessoftweb.com
 -d store.bmag.vn
+-d store.chonmua.com
 -d store.damatag.com
 -d store.delivery2home.in
 -d store.dhl-pdf.com
@@ -97929,6 +97937,7 @@ msFilterList
 -d tittel-sound.de
 -d tittgen.eu
 -d tittibox.com
+-d tittot-a8505.web.app
 -d titusrealestate.com.fj
 -d tiuylioner.gq
 -d tiviturk.de
@@ -98522,6 +98531,7 @@ msFilterList
 -d toprakmedia.net
 -d topreach.com.br
 -d toprebajas.com
+-d toprecetas.eu
 -d toprecipe.co.uk
 -d toprehstdyonesrosigw.dns.army
 -d toprehstdyonesrosikh.dns.army
@@ -99506,6 +99516,7 @@ msFilterList
 -d tristanrineer.com
 -d tristatecrating.b2bdd.net
 -d tristatehf.org
+-d tristatehs.com
 -d tritechfirm.com
 -d triton.fi
 -d tritonbridge.dk
@@ -101018,7 +101029,6 @@ msFilterList
 -d unik.trexa.id
 -d unikaryapools.com
 -d unikdom.30seo.ru
--d uniko.co
 -d unilaksu.rw
 -d unilevercopabr.mbiz20.net
 -d unileverutourph.com
