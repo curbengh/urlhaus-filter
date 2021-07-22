@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 22 Jul 2021 00:10:30 +0000
+# Updated: Thu, 22 Jul 2021 12:10:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -535,8 +535,6 @@
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
 0.0.0.0 2.toemobra.com.br
-0.0.0.0 2.top4top.io
-0.0.0.0 2.top4top.net
 0.0.0.0 2.u0135364.z8.ru
 0.0.0.0 20.c8xtt.com
 0.0.0.0 20.dbstrony.pl
@@ -1357,8 +1355,6 @@
 0.0.0.0 5-shampurov.ru
 0.0.0.0 5.c8xtt.com
 0.0.0.0 5.fjwt1.crsky.com
-0.0.0.0 5.top4top.io
-0.0.0.0 5.top4top.net
 0.0.0.0 5.u0148466.z8.ru
 0.0.0.0 5.unplugrevolution.com
 0.0.0.0 5003.arentuspecial.com
@@ -1642,7 +1638,6 @@
 0.0.0.0 7bsnake1.com
 0.0.0.0 7bwh.com
 0.0.0.0 7c2918ca.ngrok.io
-0.0.0.0 7cats.ch
 0.0.0.0 7clock.ir
 0.0.0.0 7continents7lawns.com
 0.0.0.0 7cut.extroliving.com
@@ -1893,6 +1888,7 @@
 0.0.0.0 999080321newfolder1002-01362599908032135.site
 0.0.0.0 999080321newfolder1002-01432599908032135.site
 0.0.0.0 999080321newfolder1002-01462599908032135.site
+0.0.0.0 999080321newfolder1002-01552599908032135.site
 0.0.0.0 999080321newfolder1002002131-service1002.space
 0.0.0.0 999102com.cn
 0.0.0.0 99bkx.com
@@ -3655,7 +3651,6 @@
 0.0.0.0 aelmas.5gbfree.com
 0.0.0.0 aelogica.com
 0.0.0.0 aemgrup.com.tr
-0.0.0.0 aemine.vn
 0.0.0.0 aemo-mecanique-usinage.fr
 0.0.0.0 aengineeringltd.com
 0.0.0.0 aeondor.com
@@ -15077,6 +15072,7 @@
 0.0.0.0 bluehill-group.com
 0.0.0.0 bluehost.theoceanweb.com
 0.0.0.0 bluehost.tv
+0.0.0.0 bluehouseid.net
 0.0.0.0 bluehutdoors.in
 0.0.0.0 blueit04ec.com
 0.0.0.0 blueit08ec.com
@@ -17315,7 +17311,6 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
-0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -19044,6 +19039,7 @@
 0.0.0.0 cdndownloadlp.club
 0.0.0.0 cdnmultimedia.com
 0.0.0.0 cdnpic.mgyun.com
+0.0.0.0 cdnrep.reimageplus.com
 0.0.0.0 cdnxh.net
 0.0.0.0 cdoconsult.com.br
 0.0.0.0 cdolechon.com
@@ -20268,7 +20264,6 @@
 0.0.0.0 cholesterol-ache.xyz
 0.0.0.0 chomoka.com
 0.0.0.0 chomptruck.com
-0.0.0.0 chongnet.cn
 0.0.0.0 chongoubus.com
 0.0.0.0 chongthamhoanglinh.com
 0.0.0.0 chongthamsontay.vn
@@ -24598,11 +24593,11 @@
 0.0.0.0 d.qiluwl.com
 0.0.0.0 d.teamworx.ph
 0.0.0.0 d.techmartbd.com
-0.0.0.0 d.top4top.io
 0.0.0.0 d.top4top.net
 0.0.0.0 d.torreblancamusica.com
 0.0.0.0 d.ttr3p.com
 0.0.0.0 d04.data39.helldata.com
+0.0.0.0 d0iiinl0ads.online
 0.0.0.0 d0wnl0ads.online
 0.0.0.0 d0wnl0ads.site
 0.0.0.0 d1.amobbs.com
@@ -32387,6 +32382,7 @@
 0.0.0.0 elisalopezphotography.com
 0.0.0.0 elisawill.com
 0.0.0.0 elise-beaucousin.com
+0.0.0.0 elisehouses.com
 0.0.0.0 elisenda.lv
 0.0.0.0 elisent.com
 0.0.0.0 elissaplumbing.com
@@ -33884,6 +33880,7 @@
 0.0.0.0 espace-douche.com
 0.0.0.0 espace-photo-numerique.fr
 0.0.0.0 espace-vert.sdcrea.fr
+0.0.0.0 espacebusiness.com
 0.0.0.0 espaceprive.enformes.fr
 0.0.0.0 espacerezo.fr
 0.0.0.0 espaces-interieurs.net
@@ -34096,6 +34093,7 @@
 0.0.0.0 etchbusters.com
 0.0.0.0 etcnbusiness.com
 0.0.0.0 etcnursery.com
+0.0.0.0 etcom-ks.com
 0.0.0.0 etdog.com
 0.0.0.0 etebofoundation.org
 0.0.0.0 etechcomputers.online
@@ -35091,7 +35089,6 @@
 0.0.0.0 f.pastdobi.ru
 0.0.0.0 f.regardisperfectshild.ru
 0.0.0.0 f.tolganfor.ru
-0.0.0.0 f.top4top.io
 0.0.0.0 f.top4top.net
 0.0.0.0 f.tsuyogari.ru
 0.0.0.0 f.uaalgee33.com
@@ -35401,6 +35398,7 @@
 0.0.0.0 fal.cl
 0.0.0.0 fal6qo3f68.com
 0.0.0.0 faladon.com
+0.0.0.0 falan4zadron.ru
 0.0.0.0 falasbotbtc.fun
 0.0.0.0 falcannew1.nncdev.com
 0.0.0.0 falconna.com
@@ -41510,6 +41508,7 @@
 0.0.0.0 goodplacejeep.ru
 0.0.0.0 goodpriceshoes.com
 0.0.0.0 goodrestafh.com
+0.0.0.0 goods247.work
 0.0.0.0 goodsalers.com
 0.0.0.0 goodsherpherd.com
 0.0.0.0 goodshoes.org
@@ -42878,6 +42877,7 @@
 0.0.0.0 guptapipe.com
 0.0.0.0 guptasfoundation.org
 0.0.0.0 gurdan.de
+0.0.0.0 gurdgo06.top
 0.0.0.0 guremd03.top
 0.0.0.0 gurgaonaffordablehousing.com
 0.0.0.0 gurkansogutma.com
@@ -45439,6 +45439,7 @@
 0.0.0.0 home.99eurowebsite.ie
 0.0.0.0 home.barley-plus.com
 0.0.0.0 home.dawang.ink
+0.0.0.0 home.earthlink.net
 0.0.0.0 home.evrstudio.com
 0.0.0.0 home.healthiestu.com
 0.0.0.0 home.isdes.com
@@ -45843,6 +45844,7 @@
 0.0.0.0 hosting.mybestheme.com
 0.0.0.0 hosting.tigersystems.com.au
 0.0.0.0 hosting.tlink.vn
+0.0.0.0 hosting1.nl.hostsailor.com
 0.0.0.0 hosting113979.a2f57.netcup.net
 0.0.0.0 hosting152231.a2e16.netcup.net
 0.0.0.0 hosting2000.it
@@ -48939,6 +48941,7 @@
 0.0.0.0 install.apiway.org
 0.0.0.0 install.avensys.fr
 0.0.0.0 installatiebedrijfroosendaal.nl
+0.0.0.0 installcube.online
 0.0.0.0 installeco.com
 0.0.0.0 installer-vpn.ru
 0.0.0.0 installerflas89908.xyz
@@ -50210,6 +50213,7 @@
 0.0.0.0 itkossi.com
 0.0.0.0 itlanguage.co.uk
 0.0.0.0 itleadz.com
+0.0.0.0 itlworld.com
 0.0.0.0 itmade.tech
 0.0.0.0 itmall.com.ph
 0.0.0.0 itmall.id
@@ -59550,6 +59554,7 @@
 0.0.0.0 luattruongthanh.com
 0.0.0.0 luaviettours.com
 0.0.0.0 luawebsite1.alwaysdata.net
+0.0.0.0 lubagalord.duckdns.org
 0.0.0.0 lubancx.ug
 0.0.0.0 lubbocksss.com
 0.0.0.0 lubdeco.com
@@ -61915,6 +61920,7 @@
 0.0.0.0 marcoolacoolumplumber.com.au
 0.0.0.0 marcopardini.com
 0.0.0.0 marcoperulli.com
+0.0.0.0 marcos10pc.tk
 0.0.0.0 marcoscarbone.com
 0.0.0.0 marcosdjdhsgvoustgd62020network.com
 0.0.0.0 marcosindiagroup.com
@@ -63169,7 +63175,6 @@
 0.0.0.0 medcureorganics.com
 0.0.0.0 meddaughs.com
 0.0.0.0 medeaser.com
-0.0.0.0 mededsys.com
 0.0.0.0 medegbetv.com
 0.0.0.0 medel.it
 0.0.0.0 medenblik.net
@@ -66679,7 +66684,6 @@
 0.0.0.0 msofficeinternatiinalfilecloudtransfer.duckdns.org
 0.0.0.0 msofficesecuredfiletransferinfocloud.duckdns.org
 0.0.0.0 msofficewordfiletransfertotheadmintrue.duckdns.org
-0.0.0.0 msoftwares.info
 0.0.0.0 msograteful.com
 0.0.0.0 mspcville.com
 0.0.0.0 mspn.com.au
@@ -72966,6 +72970,7 @@
 0.0.0.0 otdih-sevastopol.com
 0.0.0.0 otdubonnevalais.com
 0.0.0.0 oteam.io
+0.0.0.0 otecorporation.com
 0.0.0.0 otedehea.accountant
 0.0.0.0 oteea-land.com
 0.0.0.0 otegopost1555.org
@@ -79912,6 +79917,7 @@
 0.0.0.0 rabaco.vn
 0.0.0.0 rabbimaan.org
 0.0.0.0 rabblenetwork.com
+0.0.0.0 rabean.com
 0.0.0.0 rabhomes.com
 0.0.0.0 rabia.info
 0.0.0.0 rabiei.fun
@@ -83694,6 +83700,7 @@
 0.0.0.0 sabafilter.com
 0.0.0.0 sabai-massage-thai-nc.com
 0.0.0.0 sabaihome.net
+0.0.0.0 sabaint.me
 0.0.0.0 sabal.com
 0.0.0.0 sabarasourcing.com
 0.0.0.0 sabath.bdcollegepa.com
@@ -84931,7 +84938,6 @@
 0.0.0.0 satyammetals.com
 0.0.0.0 satyasumamarketers.in
 0.0.0.0 satyrodesign.com.br
-0.0.0.0 satysservs.com
 0.0.0.0 sauamg.manivelasst.com
 0.0.0.0 sauber.lat
 0.0.0.0 sauceismoney.com
@@ -85374,7 +85380,6 @@
 0.0.0.0 scopo.in
 0.0.0.0 scopoeidid.com
 0.0.0.0 scopriteistanbul.com
-0.0.0.0 score-group.com
 0.0.0.0 scores247.online
 0.0.0.0 scorlogy.com
 0.0.0.0 scorpiocomunicaciones.com
@@ -94717,6 +94722,7 @@
 0.0.0.0 taxisieradz.pl
 0.0.0.0 taxismaroc.com
 0.0.0.0 taxismart.ro
+0.0.0.0 taxispalamos.es
 0.0.0.0 taxispals.com
 0.0.0.0 taxiswaterloo.com
 0.0.0.0 taxivinhphuc.vn
@@ -94741,6 +94747,7 @@
 0.0.0.0 taylordbackups.com
 0.0.0.0 tayloredsites.com
 0.0.0.0 taylorgolob.com
+0.0.0.0 taylorip.com
 0.0.0.0 taylornewgenerations.com
 0.0.0.0 taylorpemberton.com
 0.0.0.0 taynguyen.dulichvietnam.com.vn
@@ -94791,6 +94798,7 @@
 0.0.0.0 tcdig.com
 0.0.0.0 tcdrill-71.cf
 0.0.0.0 tcehanoi.edu.vn
+0.0.0.0 tcenteronline.com
 0.0.0.0 tcesingur.com
 0.0.0.0 tcet-talk.info
 0.0.0.0 tcgroup.com.au
@@ -94808,6 +94816,7 @@
 0.0.0.0 tclc.co.uk
 0.0.0.0 tcm.web1126.kinghost.net
 0.0.0.0 tcmachinery.com
+0.0.0.0 tcmnow.com
 0.0.0.0 tconline.trescolumnae.com
 0.0.0.0 tcopdreef.nl
 0.0.0.0 tcoqianlong.watchdogdns.duckdns.org
@@ -94934,7 +94943,9 @@
 0.0.0.0 tecal.co
 0.0.0.0 teccenter.xyz
 0.0.0.0 tecdiaverum.hasu.com.ar
+0.0.0.0 tecelagemsaogeraldo.com.br
 0.0.0.0 tecerato.com
+0.0.0.0 tecgraf.com.br
 0.0.0.0 tech-arte.com
 0.0.0.0 tech-complex.fr
 0.0.0.0 tech-factoz.com
@@ -94948,6 +94959,7 @@
 0.0.0.0 techablog.com
 0.0.0.0 techadgroup.com
 0.0.0.0 techaheadcorp.ca
+0.0.0.0 techaids.in
 0.0.0.0 techarpit.xyz
 0.0.0.0 techassist24.com
 0.0.0.0 techbaj.xyz
@@ -95026,6 +95038,7 @@
 0.0.0.0 technicalj.in
 0.0.0.0 technicalriaz.xyz
 0.0.0.0 technicalservices247.com
+0.0.0.0 technik.com.hk
 0.0.0.0 technikatronix.com
 0.0.0.0 techniksconsultants.com
 0.0.0.0 technilab.nl
@@ -95063,10 +95076,12 @@
 0.0.0.0 technoproinfo.ca
 0.0.0.0 technoraill-india.com
 0.0.0.0 technoraill-india.in
+0.0.0.0 technoraill.com
 0.0.0.0 technoraill.in
 0.0.0.0 technorash.com
 0.0.0.0 technoring.de
 0.0.0.0 technorio.com.np
+0.0.0.0 technoscatter.com
 0.0.0.0 technoscienceacademy.com
 0.0.0.0 technosoftservicess.com
 0.0.0.0 technosolarenergy.com
@@ -95100,6 +95115,7 @@
 0.0.0.0 techserve4u.com
 0.0.0.0 techshahin.info
 0.0.0.0 techsimple.us
+0.0.0.0 techsistsolution.com
 0.0.0.0 techsmez.com
 0.0.0.0 techsolution.support
 0.0.0.0 techsolutionit.com
@@ -95109,6 +95125,7 @@
 0.0.0.0 techstarpetro.com
 0.0.0.0 techstatic.top
 0.0.0.0 techsyslife.com
+0.0.0.0 techsysplus.com
 0.0.0.0 techterms.online
 0.0.0.0 techtimesnow.com
 0.0.0.0 techtiqdemo.co.uk
@@ -95143,6 +95160,7 @@
 0.0.0.0 teci.pk
 0.0.0.0 tecjofer.com
 0.0.0.0 teclabel.com.br
+0.0.0.0 tecleweb.com.br
 0.0.0.0 tecmicromg.com.br
 0.0.0.0 tecmon.hr
 0.0.0.0 tecnauto.com
@@ -95156,13 +95174,16 @@
 0.0.0.0 tecnicoadomicilio.com.mx
 0.0.0.0 tecnicopconline.com
 0.0.0.0 tecnificacioimanteniment.com
+0.0.0.0 tecnimobile.com
 0.0.0.0 tecnireca.com
+0.0.0.0 tecniset.cat
 0.0.0.0 tecno-logic.sci3e.com
 0.0.0.0 tecno-pack.net
 0.0.0.0 tecnobau.cl
 0.0.0.0 tecnobella.cl
 0.0.0.0 tecnocitta.it
 0.0.0.0 tecnocomitalia.com
+0.0.0.0 tecnocomputacion.com
 0.0.0.0 tecnocrimp.com
 0.0.0.0 tecnoelectrica.cl
 0.0.0.0 tecnofanaticos.com
@@ -95187,6 +95208,7 @@
 0.0.0.0 tecnosystem2000.net
 0.0.0.0 tecnotop.cl
 0.0.0.0 tecnovalores.cl
+0.0.0.0 tecnovas.cl
 0.0.0.0 tecnovision.com.mx
 0.0.0.0 tecnovisual.com.pe
 0.0.0.0 tecnozam.cl
@@ -95235,6 +95257,7 @@
 0.0.0.0 teeonion.com
 0.0.0.0 teestok.com
 0.0.0.0 teestube-luetzel.de
+0.0.0.0 teesvalleyinnovation.com
 0.0.0.0 teesvalleywashrooms.co.uk
 0.0.0.0 teevo.lpipl.com
 0.0.0.0 tefologistics.co.za
@@ -95287,6 +95310,7 @@
 0.0.0.0 tekirmak.com.tr
 0.0.0.0 tekky.net
 0.0.0.0 tekkys.repair
+0.0.0.0 tekleaders.com
 0.0.0.0 tekmalogy.xyz
 0.0.0.0 tekneturubogaz.com
 0.0.0.0 teknic.cl
@@ -95307,6 +95331,7 @@
 0.0.0.0 teknotown.com
 0.0.0.0 teknovia.com.tr
 0.0.0.0 tekom.kd-cibiru.upi.edu
+0.0.0.0 tekom.ru
 0.0.0.0 tekompass.com
 0.0.0.0 tekra.cz
 0.0.0.0 teksend.com.tr
@@ -95341,6 +95366,7 @@
 0.0.0.0 telechargini.com
 0.0.0.0 telecodepa.es
 0.0.0.0 telecom-cctv.com
+0.0.0.0 telecomafrica.org
 0.0.0.0 telecomforall.nl
 0.0.0.0 telecomservices.com.ec
 0.0.0.0 telecomsystems.gr
@@ -95406,6 +95432,7 @@
 0.0.0.0 telugoda.net
 0.0.0.0 telugubhaktibooks.com
 0.0.0.0 teluguspicynews.com
+0.0.0.0 telvill.hu
 0.0.0.0 telvisxchange.com
 0.0.0.0 tem2.belocal.today
 0.0.0.0 tema.marasyurtdernegi.org
@@ -95471,7 +95498,9 @@
 0.0.0.0 tendancekart.com
 0.0.0.0 tendenciasv.com
 0.0.0.0 tendep.com
+0.0.0.0 tenderheartfoundation.org
 0.0.0.0 tenderind.com
+0.0.0.0 tenders-dz.com
 0.0.0.0 tendwalk.com
 0.0.0.0 tenedromhouses.com
 0.0.0.0 tenelevendirectsales.com
@@ -95505,6 +95534,7 @@
 0.0.0.0 tentandoserfitness.000webhostapp.com
 0.0.0.0 tentoepiskevi.gr
 0.0.0.0 tentostack.com
+0.0.0.0 tentpoletechnologies.com
 0.0.0.0 tentransportes.com
 0.0.0.0 tentsntrails.in
 0.0.0.0 tenusitidi.com
@@ -95573,6 +95603,7 @@
 0.0.0.0 termijninschrijven.nlmath.nl
 0.0.0.0 terminal-heaven.com
 0.0.0.0 terminal.digital-link.ch
+0.0.0.0 terminalsystems.eu
 0.0.0.0 terminator.tk
 0.0.0.0 terminussports.com
 0.0.0.0 termocentro.cl
@@ -95602,13 +95633,16 @@
 0.0.0.0 terragrain.eu
 0.0.0.0 terrain.com.my
 0.0.0.0 terraini.com
+0.0.0.0 terraislandica.com
 0.0.0.0 terrakulturegallery.com
 0.0.0.0 terraland.crmmanivela.host
+0.0.0.0 terramagica.es
 0.0.0.0 terramar.xyz
 0.0.0.0 terramosa.com
 0.0.0.0 terranovaoutdoorliving.com
 0.0.0.0 terranowwa.org
 0.0.0.0 terraoferta.club
+0.0.0.0 terrapersonas.com
 0.0.0.0 terrapharm.vn
 0.0.0.0 terraplant.com.br
 0.0.0.0 terrasol.cl
@@ -95645,6 +95679,7 @@
 0.0.0.0 tesla.rec.br
 0.0.0.0 teslabobini.org
 0.0.0.0 teslaofcincinnati.com
+0.0.0.0 teslaw.org
 0.0.0.0 tesli.ge
 0.0.0.0 tesmtn.000webhostapp.com
 0.0.0.0 tesonisitma.com
@@ -95653,6 +95688,7 @@
 0.0.0.0 tessaract.be
 0.0.0.0 tessblomportfolio.nl
 0.0.0.0 tesser.com.br
+0.0.0.0 tesson.in
 0.0.0.0 tessrobins.com
 0.0.0.0 test-10.webart-media.ru
 0.0.0.0 test-adidas-id.acommercedev.com
@@ -96080,6 +96116,7 @@
 0.0.0.0 testypolicja.pl
 0.0.0.0 tesusinga.tk
 0.0.0.0 teszt.szauna-epites.hu
+0.0.0.0 teta-co.com
 0.0.0.0 tete-leblog.tv
 0.0.0.0 teteaffiche.stephanebillon.com
 0.0.0.0 tetek.ru
@@ -98670,6 +98707,7 @@
 0.0.0.0 topuogodo.gq
 0.0.0.0 topupez.info
 0.0.0.0 topupmyanmar.com
+0.0.0.0 topv.xyz
 0.0.0.0 topvip.vn
 0.0.0.0 topwarenhub.top
 0.0.0.0 topwebappdevelopmentcompanies.com
@@ -99727,6 +99765,7 @@
 0.0.0.0 truenatural.com.vn
 0.0.0.0 truenorthtimber.com
 0.0.0.0 trueperz.com
+0.0.0.0 trueshare.com
 0.0.0.0 trueskills.in
 0.0.0.0 trueteeshirt.com
 0.0.0.0 trueterroir.co.uk
@@ -101429,7 +101468,6 @@
 0.0.0.0 update15.hospedagemdesites.ws
 0.0.0.0 update24.ch
 0.0.0.0 update365office.com
-0.0.0.0 update6.satysservs.com
 0.0.0.0 update9.cte.99.com
 0.0.0.0 updateadovesettings.io
 0.0.0.0 updatedaily.in
@@ -103632,6 +103670,8 @@
 0.0.0.0 visitkalamaria.com
 0.0.0.0 visitmanizales.com
 0.0.0.0 visitoralohasocietyofhawaiiy.xyz
+0.0.0.0 visitoranalyticsy.xyz
+0.0.0.0 visitorapplicationy.xyz
 0.0.0.0 visitorarrivalshawaiiy.xyz
 0.0.0.0 visitorattractionsy.xyz
 0.0.0.0 visitpakistan360.com
@@ -108481,7 +108521,6 @@
 0.0.0.0 yamato-ti.com
 0.0.0.0 yamemasesy.com
 0.0.0.0 yamike.com
-0.0.0.0 yamisiones.com
 0.0.0.0 yamm.com.my
 0.0.0.0 yamnadlan.com
 0.0.0.0 yamotors.net
