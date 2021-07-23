@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 22 Jul 2021 12:10:16 +0000
+# Updated: Fri, 23 Jul 2021 00:09:38 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -871,6 +871,7 @@ msFilterList
 -d 2ndpub.com
 -d 2ndscreensociety.com
 -d 2nell.com
+-d 2nf.me
 -d 2no.co
 -d 2nong.vn
 -d 2nub.es
@@ -7092,7 +7093,6 @@ msFilterList
 -d anket.bluemon.mn
 -d anket.kalthefest.org
 -d anketa.orenmis.ru
--d ankhflora.com
 -d ankhop.xyz
 -d ankitagroup.in
 -d ankitastarvision.co.in
@@ -11712,6 +11712,7 @@ msFilterList
 -d barometrs.com
 -d barondigital.com
 -d barquestest9.uk
+-d barracagiordano.com
 -d barradesalinas.com
 -d barraljissah.net
 -d barreirofreddy.tv
@@ -18561,6 +18562,7 @@ msFilterList
 -d casebkk.com.10771880-82-20181018162907.webstarterz.com
 -d casebycasecomic.com
 -d casefinity.com
+-d casefrank.com
 -d casefunk.com
 -d casejur.com
 -d casellamoving.com
@@ -19740,6 +19742,7 @@ msFilterList
 -d charlieboles.net
 -d charliechan.it
 -d charliefox.com.br
+-d charliehospital.com
 -d charliekao-com.tk
 -d charliemoney.com.br
 -d charlim.net
@@ -24366,6 +24369,7 @@ msFilterList
 -d cutm.illumine.in
 -d cutncurls.com
 -d cutox.info
+-d cutting-edge.in
 -d cuttingboardjunction.com
 -d cuttingedge.co.zm
 -d cuttiygbn.com
@@ -24694,6 +24698,7 @@ msFilterList
 -d dabal.org
 -d dabcap.com
 -d dabelmarket.com
+-d dabesto.ir
 -d dabestway.com
 -d dabigshop.com
 -d dabrow.com
@@ -43920,6 +43925,7 @@ msFilterList
 -d hayhaytv.biz
 -d hayjayoffer.com
 -d hayleyatwell.org
+-d haymall.com
 -d haymetetrading.com
 -d hayphet.net
 -d hayright.com
@@ -46106,6 +46112,7 @@ msFilterList
 -d howtobeanangelinvestor.com
 -d howtofx.worldcupdeals.net
 -d howtogetcredit.org
+-d howtogethimbackpermanently.com
 -d howtoinstallx.com
 -d howtolosecheekfat.net
 -d howtoremovethereimagevirus.info
@@ -49680,7 +49687,6 @@ msFilterList
 -d iranmadan.com
 -d iranmelorin.com
 -d iranmohaseb.ir
--d iranoca.com
 -d iranolemdad.com
 -d iranparaffirnwax.com
 -d iranpharmexams.com
@@ -51042,6 +51048,7 @@ msFilterList
 -d jcci-card.vn
 -d jcci.xyz
 -d jccontabilmt.com.br
+-d jcedu.org
 -d jcef.dk
 -d jceo.lembs.com
 -d jchostinger.us
@@ -52925,6 +52932,7 @@ msFilterList
 -d kaktussurucukursu.com
 -d kal20gb.site
 -d kala3sot.ir
+-d kalaaag.000webhostapp.com
 -d kalaakars.com
 -d kalacola.ir
 -d kalafgulf.com
@@ -54562,6 +54570,7 @@ msFilterList
 -d kitchenofdee.com
 -d kitchenschiefspice.com
 -d kitchensetwismita.com
+-d kitchenup.de
 -d kitchenwareadvisor.com
 -d kitchipizzamexicali.com
 -d kitcross.ca
@@ -56534,7 +56543,6 @@ msFilterList
 -d lanhoo.com
 -d lanhuinet.cn
 -d lanhuo6.top
--d laninagolla.org
 -d laninesolution.com
 -d lanitida.net
 -d lanjar.seriesnow.website
@@ -57715,6 +57723,7 @@ msFilterList
 -d lfz5286.com
 -d lg-creacom.fr
 -d lg-signage.kz
+-d lg-tv.tk
 -d lg.icf-fx.kz
 -d lg4square.com
 -d lgbg.org
@@ -58076,8 +58085,10 @@ msFilterList
 -d likhonosova.dp.ua
 -d likino.com
 -d likipki.com
+-d likizoa-dumaszak.jornadatrabalho.com.br
 -d likizoa-gabkar.jornadatrabalho.com.br
 -d likizoa-mge.jornadatrabalho.com.br
+-d likizoa-pedrotc.jornadatrabalho.com.br
 -d likizoa-tac.jornadatrabalho.com.br
 -d likizoa-werner.jornadatrabalho.com.br
 -d likonifreighters.com
@@ -59827,7 +59838,6 @@ msFilterList
 -d luxedollz.com
 -d luxeestateslifestyles.com
 -d luxelillie.com
--d luxelistreviews.com
 -d luxepipe.com
 -d luxepsyche.com
 -d luxeradiator.com
@@ -61159,6 +61169,7 @@ msFilterList
 -d mailbox.sevenverbs.com
 -d mailer.cjionlinetrading.com.kz
 -d mailer.icare.org.za
+-d mailer.srkcommunication.biz
 -d mailernotices.pw
 -d mailerphp.jaescompany.ga
 -d mailfueler.com
@@ -66488,7 +66499,6 @@ msFilterList
 -d mr-log.ru
 -d mr-uka.com
 -d mr-website.ir
--d mra.gov.pg
 -d mracessorios.com
 -d mracinfissi.com
 -d mrafieian.ir
@@ -68560,6 +68570,7 @@ msFilterList
 -d ndm-services.co.uk
 -d ndnail.co.il
 -d ndoki.org
+-d ndot.touchmediahost.com
 -d ndpfaxbexq.xyz
 -d ndpvn.com
 -d ndrs.cloud
@@ -72351,6 +72362,7 @@ msFilterList
 -d onyourmind.net
 -d onyx-food.com
 -d onyx-it.fr
+-d onyx-medical.com
 -d onyx-tools.com
 -d onyx.co.za
 -d onyxmedia.in
@@ -78462,6 +78474,7 @@ msFilterList
 -d psikoteknik.ist
 -d psinsuranceservices.com
 -d psipolicia.gestoresdefondos.com
+-d psishops.com
 -d psj.dk
 -d pskh888.com
 -d pskovhelp.ru
@@ -79450,7 +79463,6 @@ msFilterList
 -d qualitec.pl
 -d qualitechsarl.com
 -d qualityairpart.com
--d qualityansweringservice.com
 -d qualityautoservices.co.uk
 -d qualitybeverages.co.za
 -d qualitychildcarepreschool.com
@@ -83592,6 +83604,7 @@ msFilterList
 -d s.vollar.ga
 -d s0aprcreditzcards.com
 -d s0farem.com
+-d s0lom0n.ru
 -d s0n1c.ru
 -d s1.finmsb.com
 -d s1.zoombaflys.com
@@ -85098,6 +85111,7 @@ msFilterList
 -d sbs.ipeary.com
 -d sbsbe.co.uk
 -d sbsdance.in
+-d sbsec.org
 -d sbspro.in
 -d sbtabank.in
 -d sbtasimacilik.com
@@ -86093,6 +86107,7 @@ msFilterList
 -d sendgrid.invoteqleads.com
 -d sendizarlogistics.com
 -d sendlogprm.b
+-d sendmehere.site
 -d sendmyreports.com
 -d sendsharkreview.com
 -d senehenryinc.ru
@@ -87090,7 +87105,6 @@ msFilterList
 -d shayariecoresort.com
 -d shaykhibrahim.com
 -d shaynamccullough.com
--d shaysave.com
 -d shazaamwebsites.com
 -d shbaoju.com
 -d shbiochem.com
@@ -99781,6 +99795,7 @@ msFilterList
 -d trulogics.co.in
 -d trulybrazen.com
 -d trulyhelpful.love
+-d trulykomal.com
 -d trumbullcsb.org
 -d trumpcommunity.com
 -d trumpfalls.com
@@ -102723,6 +102738,7 @@ msFilterList
 -d venturatechnologies.in
 -d venturecollective.co
 -d venturelendingllc.com
+-d venturemap.de
 -d venturemeets.com
 -d venturepharma.com.pk
 -d venturewithvi.com
@@ -106494,7 +106510,6 @@ msFilterList
 -d wonderful1minute.com
 -d wonderfulbrandss.com
 -d wonderfuldavid.com
--d wonderfulgov.com
 -d wonderfulwishes.online
 -d wonderhawaii.com
 -d wondersofgeorgia.com
