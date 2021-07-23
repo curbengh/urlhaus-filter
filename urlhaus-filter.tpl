@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 23 Jul 2021 00:09:38 +0000
+# Updated: Fri, 23 Jul 2021 12:09:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1491,7 +1491,6 @@ msFilterList
 -d 6-milescoast.vn
 -d 6-shifoxona.uz
 -d 6.adborod.z8.ru
--d 6.top4top.io
 -d 6.top4top.net
 -d 6.u0135364.z8.ru
 -d 6.u0141023.z8.ru
@@ -7565,7 +7564,6 @@ msFilterList
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
--d apigeoip.com
 -d apihomes.us
 -d apiperjuangan.com
 -d apipro.com.br
@@ -20270,6 +20268,7 @@ msFilterList
 -d cholesterol-ache.xyz
 -d chomoka.com
 -d chomptruck.com
+-d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongthamsontay.vn
@@ -25925,7 +25924,6 @@ msFilterList
 -d decoronthemove.co.za
 -d decorsfantasmo.com
 -d decorstoff.com
--d decorstyle.ig.com.br
 -d decortez.com
 -d decortie.top
 -d decosa.co.hu
@@ -28633,7 +28631,6 @@ msFilterList
 -d dl2.onedrive-eu.com
 -d dl2.onedrive-us-en.com
 -d dl2.storeandshare.singtel.com
--d dl3.joxi.net
 -d dl4.joxi.net
 -d dl4435.ex-downloads.com
 -d dl63964725.dyn-downloads.com
@@ -29678,6 +29675,7 @@ msFilterList
 -d dp4kb.magelangkota.go.id
 -d dp5a.surabaya.go.id
 -d dpa-industries.com
+-d dpa.atos-nao.net
 -d dpack365-my.sharepoint.com
 -d dpacorp.org
 -d dparmm1.wci.com.ph
@@ -31130,6 +31128,7 @@ msFilterList
 -d easytogets.com
 -d easytradeservices.com
 -d easytradeteam.co.in
+-d easyviettravel.vn
 -d easyvisaoverseas.com
 -d easyweber.net
 -d easywork.com.br
@@ -33888,7 +33887,6 @@ msFilterList
 -d espace-douche.com
 -d espace-photo-numerique.fr
 -d espace-vert.sdcrea.fr
--d espacebusiness.com
 -d espaceprive.enformes.fr
 -d espacerezo.fr
 -d espaces-interieurs.net
@@ -37196,6 +37194,7 @@ msFilterList
 -d flasharts.de
 -d flashback.cl
 -d flashbackfest.id
+-d flashdowns.net
 -d flashhospedagem.com.br
 -d flashpackers.com
 -d flashphoto.com.au
@@ -41433,6 +41432,7 @@ msFilterList
 -d gomakeyourtrip.ru
 -d gomaui.co
 -d gombui.net
+-d gomersly.info
 -d gomezloaizarealty.com
 -d gomezymorillo.com
 -d gomiles.vn
@@ -45448,7 +45448,6 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
--d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -58302,6 +58301,7 @@ msFilterList
 -d linkbio.net
 -d linkcomkw.pw
 -d linkcomputers.co.in
+-d linkd.duckdns.org
 -d linkedincloud.usa.cc
 -d linkedinprofilepictures.com
 -d linkedliqht.com
@@ -58325,6 +58325,7 @@ msFilterList
 -d links.tonyswainey.com
 -d links2life.nl
 -d linkservers.duckdns.org
+-d linkso.duckdns.org
 -d linksplayers.com
 -d linksysdatakeys.se
 -d linksystems.bar
@@ -58563,7 +58564,6 @@ msFilterList
 -d liveclass.tisibogra.com
 -d livecricketscorecard.info
 -d livedaynews.com
--d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d liveexport-indefensible.com
@@ -63189,6 +63189,7 @@ msFilterList
 -d medcureorganics.com
 -d meddaughs.com
 -d medeaser.com
+-d mededsys.com
 -d medegbetv.com
 -d medel.it
 -d medenblik.net
@@ -75427,6 +75428,7 @@ msFilterList
 -d phoneexpertxl.nl
 -d phonelocaltoday.com
 -d phonerepaircentre.com.au
+-d phoneringtones.info
 -d phones.pmrspain.com
 -d phonestore-telephonie.fr
 -d phonestore.vn
@@ -93966,6 +93968,7 @@ msFilterList
 -d szrsofa.rs
 -d szsett.cn
 -d szwalnia.budniq.com
+-d szwbjs.com
 -d szwrs.com
 -d szwymall.com
 -d szxypt.com
@@ -98523,6 +98526,7 @@ msFilterList
 -d tonyzone.com
 -d too1way.com
 -d tooba.tenplusone.my
+-d toobalhost.publicvm.com
 -d toobig.kz
 -d toofancom.com.np
 -d tool-api.elpix.de
@@ -99782,7 +99786,6 @@ msFilterList
 -d truenatural.com.vn
 -d truenorthtimber.com
 -d trueperz.com
--d trueshare.com
 -d trueskills.in
 -d trueteeshirt.com
 -d trueterroir.co.uk
@@ -107399,6 +107402,7 @@ msFilterList
 -d x86tpkujgu1ksoky.com
 -d x8d8r8l8a8b8s.000webhostapp.com
 -d x97vn.mjt.lu
+-d xa.yimg.com
 -d xacrosoft.com
 -d xact.ma
 -d xadrezgigante.com.br
