@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 23 Jul 2021 12:09:41 +0000
+# Updated: Sat, 24 Jul 2021 00:09:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -436,6 +436,7 @@ msFilterList
 -d 1flchier.com
 -d 1flower.by
 -d 1forexsignal.club
+-d 1freeprivacytoolsforyou.xyz
 -d 1friend.org
 -d 1gamescon.com
 -d 1godays2.barloggio.net
@@ -6179,7 +6180,6 @@ msFilterList
 -d amasa.be
 -d amatasolar.com
 -d amateen.slashinnovate.com
--d amathanhhoa.edu.vn
 -d amatheakids.com
 -d amatiran.online
 -d amatis.in
@@ -25062,6 +25062,7 @@ msFilterList
 -d daniellanzablog.com
 -d daniellefernandes.tk
 -d daniellopezauctioneer.com
+-d danielmi.ac.ug
 -d danielneto.com.br
 -d danielnotexist.com
 -d danieloliveira.eti.br
@@ -40006,7 +40007,6 @@ msFilterList
 -d genue.com.cn
 -d genuineandgorgeous.com
 -d genuinelicensekeys.com
--d genuskinusa.com
 -d genxclinic.vn
 -d genxindia.com
 -d genxphones.com
@@ -41539,6 +41539,7 @@ msFilterList
 -d googieapp.com
 -d googlchrm.online
 -d google-ads-expert.co.ua
+-d google-analitics91.com
 -d google-document.co.za
 -d google-penalty-recovery.services
 -d google-play.contact-email-support.net
@@ -41911,6 +41912,7 @@ msFilterList
 -d grandesophia.com
 -d grandester.com.br
 -d grandevest.com
+-d grandfathertriangle.xyz
 -d grandfortuneclub.in
 -d grandholidayvacations.in
 -d grandmetropolitan.co.id
@@ -42896,6 +42898,7 @@ msFilterList
 -d gurmekan.net
 -d gurokv02.top
 -d gurqew05.top
+-d gurqfo07.top
 -d gurshanlogistics.com
 -d gurstore.in
 -d gurstp01.top
@@ -42918,6 +42921,7 @@ msFilterList
 -d gurutransfer.com
 -d guruvayoorsportsacademy.com
 -d guruz.com
+-d gurvox08.top
 -d gurwitz.com
 -d gurztac.wtchevalier.com
 -d guselceva.ru
@@ -43362,7 +43366,6 @@ msFilterList
 -d halloweenglowsticks.com
 -d halloweeninformation2018.online
 -d hallowgate.com
--d hallsen.com
 -d hallullujah.pw
 -d halmstadmoderaterna.se
 -d halmstadorienthall.se
@@ -49686,6 +49689,7 @@ msFilterList
 -d iranmadan.com
 -d iranmelorin.com
 -d iranmohaseb.ir
+-d iranoca.com
 -d iranolemdad.com
 -d iranparaffirnwax.com
 -d iranpharmexams.com
@@ -57054,6 +57058,7 @@ msFilterList
 -d leadersta.com
 -d leadertask.tk
 -d leadgagmedia.com
+-d leadiasjunior.com
 -d leadingpips.com
 -d leadlinemedia.com
 -d leadonstaffing.com
@@ -58817,6 +58822,7 @@ msFilterList
 -d loansnow.tk
 -d loansprocessing.com.au
 -d loansupports.com
+-d loat.info
 -d loavesandfishessoupkitchen.com
 -d lobafoods.com
 -d lobalmart.com
@@ -72639,6 +72645,7 @@ msFilterList
 -d orawskiewyrko.pl
 -d orbeaduana.com
 -d orbibakuriani.ge
+-d orbiia.com
 -d orbisinc.com
 -d orbit1news.com
 -d orbit99.co.id
@@ -79847,6 +79854,7 @@ msFilterList
 -d qwerty-client.co.za
 -d qwerty123456.space
 -d qwertynet.hupeterbeckundpartner.cporsgrunn.folkbjnrwwww.watchdogdns.duckdns.org
+-d qwertys.info
 -d qwest-co.com
 -d qwiejasewqeeqw.com
 -d qwiewowo2920eirurw.com
@@ -81516,6 +81524,7 @@ msFilterList
 -d reokayty-71.tk
 -d reow-71.tk
 -d rep.proofhub.com
+-d repabad.com
 -d repair-electrons.com
 -d repair56.ru
 -d repairmycredit.in
@@ -85113,7 +85122,6 @@ msFilterList
 -d sbs.ipeary.com
 -d sbsbe.co.uk
 -d sbsdance.in
--d sbsec.org
 -d sbspro.in
 -d sbtabank.in
 -d sbtasimacilik.com
@@ -94372,7 +94380,6 @@ msFilterList
 -d tampacigarroller.com
 -d tamparoofing.com
 -d tampaseo.com
--d tampilbeda.id
 -d tamsu.website
 -d tamsuamy.com
 -d tamsys.net
@@ -99034,6 +99041,7 @@ msFilterList
 -d tracking.outsourceinpakistan.com
 -d trackingthemarkets.com
 -d trackingvehicles.com.au
+-d trackinstall.xyz
 -d trackit.gr
 -d trackledsystems.com
 -d trackoutfods.com
