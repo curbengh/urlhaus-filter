@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 24 Jul 2021 00:09:52 +0000
+# Updated: Sat, 24 Jul 2021 12:10:36 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -539,6 +539,8 @@ msFilterList
 -d 2.nvd.by
 -d 2.spacepel.com
 -d 2.toemobra.com.br
+-d 2.top4top.io
+-d 2.top4top.net
 -d 2.u0135364.z8.ru
 -d 20.c8xtt.com
 -d 20.dbstrony.pl
@@ -1360,6 +1362,8 @@ msFilterList
 -d 5-shampurov.ru
 -d 5.c8xtt.com
 -d 5.fjwt1.crsky.com
+-d 5.top4top.io
+-d 5.top4top.net
 -d 5.u0148466.z8.ru
 -d 5.unplugrevolution.com
 -d 5003.arentuspecial.com
@@ -1492,6 +1496,7 @@ msFilterList
 -d 6-milescoast.vn
 -d 6-shifoxona.uz
 -d 6.adborod.z8.ru
+-d 6.top4top.io
 -d 6.top4top.net
 -d 6.u0135364.z8.ru
 -d 6.u0141023.z8.ru
@@ -3655,6 +3660,7 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
+-d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -7794,6 +7800,7 @@ msFilterList
 -d appliedlogisticalconcepts.com
 -d appliedoptical.in
 -d applikarte.com
+-d apployal.fmf.com.fj
 -d applystuff.com
 -d appmc.servertrack.co
 -d appnetonline.com
@@ -17313,6 +17320,7 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
+-d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -19042,7 +19050,6 @@ msFilterList
 -d cdndownloadlp.club
 -d cdnmultimedia.com
 -d cdnpic.mgyun.com
--d cdnrep.reimageplus.com
 -d cdnxh.net
 -d cdoconsult.com.br
 -d cdolechon.com
@@ -23041,7 +23048,6 @@ msFilterList
 -d correiosbr.r1-it.storage.cloud.it
 -d correlation.ca
 -d correo.kable.cl
--d correolimpio.telefonica.es
 -d correspondenterio.com.br
 -d corretordejoanete.site
 -d corrheating.ie
@@ -28688,7 +28694,6 @@ msFilterList
 -d dmcfund.lu
 -d dmcg.sg
 -d dmcgroup.com.vn
--d dmclinicalresearch.com
 -d dmcmax.com
 -d dmcooper.net
 -d dmcrafting.com
@@ -28865,6 +28870,7 @@ msFilterList
 -d docs.twincitytraveltourism.com
 -d docs.web-x.com.my
 -d docs.xcelvations.com
+-d docs.zohopublic.com
 -d docsdetector.xyz
 -d docsdownloads.com
 -d docsearchhtl.club
@@ -33888,6 +33894,7 @@ msFilterList
 -d espace-douche.com
 -d espace-photo-numerique.fr
 -d espace-vert.sdcrea.fr
+-d espacebusiness.com
 -d espaceprive.enformes.fr
 -d espacerezo.fr
 -d espaces-interieurs.net
@@ -50517,6 +50524,7 @@ msFilterList
 -d j-stage.jp
 -d j-toputvoutfitters.com
 -d j.kyryl.ru
+-d j.top4top.io
 -d j11g9xecuxe43xu.xyz
 -d j12z7407gwtzk.xyz
 -d j13.biz
@@ -66704,6 +66712,7 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
+-d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -84515,7 +84524,6 @@ msFilterList
 -d sanathanjewellers.com
 -d sanayate.com
 -d sanazfeizi.com
--d sanbartolo.edu.co
 -d sanbatdongsanhud.vn
 -d sanbdshungthinh.com
 -d sancakcati.com
@@ -90898,7 +90906,6 @@ msFilterList
 -d spudindia.com
 -d spunflex.com.br
 -d spurblog.com
--d spuredge.com
 -d spurpromo.com
 -d spurs.dd0515.com
 -d spurstogo.com
@@ -93605,7 +93612,6 @@ msFilterList
 -d sweet-diet.com
 -d sweetassboat.com
 -d sweetbakerygroceryvannuys.com
--d sweetbakes.co.uk
 -d sweetcgi.com
 -d sweetcotton.com.br
 -d sweetestshop.ca
@@ -99719,7 +99725,6 @@ msFilterList
 -d trontik.ru
 -d troodonmedia.com
 -d troopchalkkids.com
--d troopwebhost.blob.core.windows.net
 -d tropfor.com
 -d tropicalhawaii.com
 -d tropicalhomesofcostarica.com
@@ -106830,7 +106835,6 @@ msFilterList
 -d worldwideinterationalwidewordsystem.duckdns.org
 -d worldwidetechsecurity.com
 -d worldz.neklodev.com
--d worm.ws
 -d wormaldfj.com
 -d wormann.dk
 -d wormixbets.ru
@@ -107410,7 +107414,6 @@ msFilterList
 -d x86tpkujgu1ksoky.com
 -d x8d8r8l8a8b8s.000webhostapp.com
 -d x97vn.mjt.lu
--d xa.yimg.com
 -d xacrosoft.com
 -d xact.ma
 -d xadrezgigante.com.br
@@ -108551,6 +108554,7 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
+-d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net
@@ -109193,7 +109197,6 @@ msFilterList
 -d yousufbaloch.yousufbaloch.com
 -d youtabart.com
 -d youth.africa-union.org
--d youth.gov.cn
 -d youthclubmahad.org
 -d youthgraphic.com
 -d youthhub.tk

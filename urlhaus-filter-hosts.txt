@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 24 Jul 2021 00:09:52 +0000
+# Updated: Sat, 24 Jul 2021 12:10:36 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -536,6 +536,8 @@
 0.0.0.0 2.nvd.by
 0.0.0.0 2.spacepel.com
 0.0.0.0 2.toemobra.com.br
+0.0.0.0 2.top4top.io
+0.0.0.0 2.top4top.net
 0.0.0.0 2.u0135364.z8.ru
 0.0.0.0 20.c8xtt.com
 0.0.0.0 20.dbstrony.pl
@@ -1357,6 +1359,8 @@
 0.0.0.0 5-shampurov.ru
 0.0.0.0 5.c8xtt.com
 0.0.0.0 5.fjwt1.crsky.com
+0.0.0.0 5.top4top.io
+0.0.0.0 5.top4top.net
 0.0.0.0 5.u0148466.z8.ru
 0.0.0.0 5.unplugrevolution.com
 0.0.0.0 5003.arentuspecial.com
@@ -1489,6 +1493,7 @@
 0.0.0.0 6-milescoast.vn
 0.0.0.0 6-shifoxona.uz
 0.0.0.0 6.adborod.z8.ru
+0.0.0.0 6.top4top.io
 0.0.0.0 6.top4top.net
 0.0.0.0 6.u0135364.z8.ru
 0.0.0.0 6.u0141023.z8.ru
@@ -3652,6 +3657,7 @@
 0.0.0.0 aelmas.5gbfree.com
 0.0.0.0 aelogica.com
 0.0.0.0 aemgrup.com.tr
+0.0.0.0 aemine.vn
 0.0.0.0 aemo-mecanique-usinage.fr
 0.0.0.0 aengineeringltd.com
 0.0.0.0 aeondor.com
@@ -7791,6 +7797,7 @@
 0.0.0.0 appliedlogisticalconcepts.com
 0.0.0.0 appliedoptical.in
 0.0.0.0 applikarte.com
+0.0.0.0 apployal.fmf.com.fj
 0.0.0.0 applystuff.com
 0.0.0.0 appmc.servertrack.co
 0.0.0.0 appnetonline.com
@@ -17310,6 +17317,7 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
+0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -19039,7 +19047,6 @@
 0.0.0.0 cdndownloadlp.club
 0.0.0.0 cdnmultimedia.com
 0.0.0.0 cdnpic.mgyun.com
-0.0.0.0 cdnrep.reimageplus.com
 0.0.0.0 cdnxh.net
 0.0.0.0 cdoconsult.com.br
 0.0.0.0 cdolechon.com
@@ -23038,7 +23045,6 @@
 0.0.0.0 correiosbr.r1-it.storage.cloud.it
 0.0.0.0 correlation.ca
 0.0.0.0 correo.kable.cl
-0.0.0.0 correolimpio.telefonica.es
 0.0.0.0 correspondenterio.com.br
 0.0.0.0 corretordejoanete.site
 0.0.0.0 corrheating.ie
@@ -28685,7 +28691,6 @@
 0.0.0.0 dmcfund.lu
 0.0.0.0 dmcg.sg
 0.0.0.0 dmcgroup.com.vn
-0.0.0.0 dmclinicalresearch.com
 0.0.0.0 dmcmax.com
 0.0.0.0 dmcooper.net
 0.0.0.0 dmcrafting.com
@@ -28862,6 +28867,7 @@
 0.0.0.0 docs.twincitytraveltourism.com
 0.0.0.0 docs.web-x.com.my
 0.0.0.0 docs.xcelvations.com
+0.0.0.0 docs.zohopublic.com
 0.0.0.0 docsdetector.xyz
 0.0.0.0 docsdownloads.com
 0.0.0.0 docsearchhtl.club
@@ -33885,6 +33891,7 @@
 0.0.0.0 espace-douche.com
 0.0.0.0 espace-photo-numerique.fr
 0.0.0.0 espace-vert.sdcrea.fr
+0.0.0.0 espacebusiness.com
 0.0.0.0 espaceprive.enformes.fr
 0.0.0.0 espacerezo.fr
 0.0.0.0 espaces-interieurs.net
@@ -50514,6 +50521,7 @@
 0.0.0.0 j-stage.jp
 0.0.0.0 j-toputvoutfitters.com
 0.0.0.0 j.kyryl.ru
+0.0.0.0 j.top4top.io
 0.0.0.0 j11g9xecuxe43xu.xyz
 0.0.0.0 j12z7407gwtzk.xyz
 0.0.0.0 j13.biz
@@ -66701,6 +66709,7 @@
 0.0.0.0 msofficeinternatiinalfilecloudtransfer.duckdns.org
 0.0.0.0 msofficesecuredfiletransferinfocloud.duckdns.org
 0.0.0.0 msofficewordfiletransfertotheadmintrue.duckdns.org
+0.0.0.0 msoftwares.info
 0.0.0.0 msograteful.com
 0.0.0.0 mspcville.com
 0.0.0.0 mspn.com.au
@@ -84512,7 +84521,6 @@
 0.0.0.0 sanathanjewellers.com
 0.0.0.0 sanayate.com
 0.0.0.0 sanazfeizi.com
-0.0.0.0 sanbartolo.edu.co
 0.0.0.0 sanbatdongsanhud.vn
 0.0.0.0 sanbdshungthinh.com
 0.0.0.0 sancakcati.com
@@ -90895,7 +90903,6 @@
 0.0.0.0 spudindia.com
 0.0.0.0 spunflex.com.br
 0.0.0.0 spurblog.com
-0.0.0.0 spuredge.com
 0.0.0.0 spurpromo.com
 0.0.0.0 spurs.dd0515.com
 0.0.0.0 spurstogo.com
@@ -93602,7 +93609,6 @@
 0.0.0.0 sweet-diet.com
 0.0.0.0 sweetassboat.com
 0.0.0.0 sweetbakerygroceryvannuys.com
-0.0.0.0 sweetbakes.co.uk
 0.0.0.0 sweetcgi.com
 0.0.0.0 sweetcotton.com.br
 0.0.0.0 sweetestshop.ca
@@ -99716,7 +99722,6 @@
 0.0.0.0 trontik.ru
 0.0.0.0 troodonmedia.com
 0.0.0.0 troopchalkkids.com
-0.0.0.0 troopwebhost.blob.core.windows.net
 0.0.0.0 tropfor.com
 0.0.0.0 tropicalhawaii.com
 0.0.0.0 tropicalhomesofcostarica.com
@@ -106827,7 +106832,6 @@
 0.0.0.0 worldwideinterationalwidewordsystem.duckdns.org
 0.0.0.0 worldwidetechsecurity.com
 0.0.0.0 worldz.neklodev.com
-0.0.0.0 worm.ws
 0.0.0.0 wormaldfj.com
 0.0.0.0 wormann.dk
 0.0.0.0 wormixbets.ru
@@ -107407,7 +107411,6 @@
 0.0.0.0 x86tpkujgu1ksoky.com
 0.0.0.0 x8d8r8l8a8b8s.000webhostapp.com
 0.0.0.0 x97vn.mjt.lu
-0.0.0.0 xa.yimg.com
 0.0.0.0 xacrosoft.com
 0.0.0.0 xact.ma
 0.0.0.0 xadrezgigante.com.br
@@ -108548,6 +108551,7 @@
 0.0.0.0 yamato-ti.com
 0.0.0.0 yamemasesy.com
 0.0.0.0 yamike.com
+0.0.0.0 yamisiones.com
 0.0.0.0 yamm.com.my
 0.0.0.0 yamnadlan.com
 0.0.0.0 yamotors.net
@@ -109190,7 +109194,6 @@
 0.0.0.0 yousufbaloch.yousufbaloch.com
 0.0.0.0 youtabart.com
 0.0.0.0 youth.africa-union.org
-0.0.0.0 youth.gov.cn
 0.0.0.0 youthclubmahad.org
 0.0.0.0 youthgraphic.com
 0.0.0.0 youthhub.tk
