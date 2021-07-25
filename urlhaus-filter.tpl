@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 24 Jul 2021 12:10:36 +0000
+# Updated: Sun, 25 Jul 2021 00:10:30 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -8845,7 +8845,6 @@ msFilterList
 -d artprintgard.ro
 -d artpsikoloji.net
 -d artquimia.co
--d artreflex.ru
 -d artrenewal.pl
 -d artrosmed.de
 -d artroute.capetown
@@ -23698,6 +23697,7 @@ msFilterList
 -d criscon.com.au
 -d crismarti360.com
 -d crismello.com
+-d cristal5.com
 -d cristalandia.to.gov.br
 -d cristalizacaodepintura.com.br
 -d cristees.net
@@ -24924,6 +24924,7 @@ msFilterList
 -d dallaswebserv.com
 -d dallefratte.it
 -d dalmatiaaeterna.hr
+-d dalmiahealth.com
 -d dalmo.cz
 -d dalmo.win
 -d dalood.com
@@ -26670,6 +26671,7 @@ msFilterList
 -d dentalories.com
 -d dentalotrish.ir
 -d dentalradiografias.com
+-d dentalsearchsolutions.com
 -d dentart.elitemarketing.hu
 -d dentaware.com
 -d dentcell.com.mx
@@ -30213,6 +30215,7 @@ msFilterList
 -d drvhk.net
 -d drvickyjolliffe.com
 -d drvictormarques.com.br
+-d drwalidabdelgaffar.com
 -d drwalidabdelgaffar.ryt.ecg.mybluehost.me
 -d drwava.com
 -d drweb.be
@@ -32073,6 +32076,7 @@ msFilterList
 -d ekolab.by
 -d ekolaser.ru
 -d ekolfotografcilik.com
+-d ekolog.org
 -d ekomaiko.cl
 -d ekomart.com.ua
 -d ekomoss.com
@@ -34136,6 +34140,7 @@ msFilterList
 -d ethclick.icu
 -d ethclick.live
 -d ethclicks.live
+-d ethdigitalcampus.com
 -d ethecae.com
 -d etherbound.org
 -d ethercredit.li
@@ -37274,7 +37279,6 @@ msFilterList
 -d fleuve.tk
 -d flewer.pl
 -d flex.hamburg
--d flex.ru
 -d flexiblecow.com
 -d flexilifephysio.in
 -d flexisales.com
@@ -43446,7 +43450,6 @@ msFilterList
 -d hana-lebensmittel.de
 -d hanaadmins.com
 -d hanabishi.net
--d hanacompanioncare.com
 -d hanadaseason.com
 -d hanahotel.vn
 -d hanaikoi.jp
@@ -55147,6 +55150,7 @@ msFilterList
 -d konoplja.shop
 -d konopna.sk
 -d konsagrada.com
+-d konsalter.ru
 -d konselingmahasiswa.undip.ac.id
 -d konsepmedya.net
 -d konsor.ru
@@ -57417,6 +57421,7 @@ msFilterList
 -d lemongrass.ir
 -d lemongrasshostel.net
 -d lemonlavie.com
+-d lemonremodeling.com
 -d lemosoutdoor.com.br
 -d lemp.johntool.com
 -d lemskunkuri.com
@@ -73822,7 +73827,6 @@ msFilterList
 -d panet.com.br
 -d panganobat.lipi.go.id
 -d pange.cz
--d pangeamt.com
 -d pangtoutuo.vip
 -d pangzl.cn
 -d panic-studios.dk
@@ -77281,6 +77285,7 @@ msFilterList
 -d precounterbrand.com
 -d predator-security.ro
 -d predatorachievement.com
+-d predatorcarry.xyz
 -d predeinas.lt
 -d predialnews.top
 -d predict.geftsoft.com
@@ -79481,6 +79486,7 @@ msFilterList
 -d qualitec.pl
 -d qualitechsarl.com
 -d qualityairpart.com
+-d qualityansweringservice.com
 -d qualityautoservices.co.uk
 -d qualitybeverages.co.za
 -d qualitychildcarepreschool.com
@@ -85130,6 +85136,7 @@ msFilterList
 -d sbs.ipeary.com
 -d sbsbe.co.uk
 -d sbsdance.in
+-d sbsec.org
 -d sbspro.in
 -d sbtabank.in
 -d sbtasimacilik.com
@@ -91571,6 +91578,7 @@ msFilterList
 -d static-4matic.club
 -d static.21.101.69.159.clients.your-server.de
 -d static.219.53.55.162.clients.your-server.de
+-d static.222.99.99.88.clients.your-server.de
 -d static.3001.net
 -d static.43.47.69.159.clients.your-server.de
 -d static.76.102.69.159.clients.your-server.de
@@ -93868,6 +93876,7 @@ msFilterList
 -d sys.iclickdigishop.com
 -d sys.pbmadu.co.id
 -d sys04.icu
+-d sys321.com
 -d sysaty.space
 -d syscomopen.it
 -d sysconmyanmar.com
@@ -94110,7 +94119,6 @@ msFilterList
 -d tacoshermanos.fr
 -d tact-yl.fr
 -d tact9.in
--d tactical-toolbox.com
 -d tacticalcto.com.au
 -d tacticalintelligence.org
 -d tacticohosting.com
@@ -98211,6 +98219,7 @@ msFilterList
 -d tmpartners-gh.com
 -d tmpconsultores.com
 -d tmpfile.gq
+-d tmpfiles.org
 -d tmpressio.org
 -d tmr.pe
 -d tmrz10fxhy03ntxjf.com
@@ -100131,6 +100140,7 @@ msFilterList
 -d tundefowe.org
 -d tundemmalimusavirlik.com
 -d tuneclick.co.uk
+-d tunedinblog.com
 -d tuneldeviento.es
 -d tunerg.com
 -d tunerl.cn
@@ -100177,6 +100187,7 @@ msFilterList
 -d turbosonly.com
 -d turbozero.com
 -d turcomdat.com
+-d tured.net
 -d turfsiteph.net
 -d turfslayer.com
 -d turgentesdeficcion.org
@@ -110245,6 +110256,7 @@ msFilterList
 -d zoolandia.boo.pl
 -d zoom-machinery.com
 -d zoomandshootphotography.com
+-d zoomdrive.com.au
 -d zoomevents.pl
 -d zoomotion.com
 -d zoomphoto.ir
