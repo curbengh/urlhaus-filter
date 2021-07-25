@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 25 Jul 2021 00:10:30 +0000
+# Updated: Sun, 25 Jul 2021 12:10:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3657,7 +3657,6 @@
 0.0.0.0 aelmas.5gbfree.com
 0.0.0.0 aelogica.com
 0.0.0.0 aemgrup.com.tr
-0.0.0.0 aemine.vn
 0.0.0.0 aemo-mecanique-usinage.fr
 0.0.0.0 aengineeringltd.com
 0.0.0.0 aeondor.com
@@ -6347,7 +6346,6 @@
 0.0.0.0 americanmicrosoftclouddepartment.duckdns.org
 0.0.0.0 americanmusclecar.site
 0.0.0.0 americanpatriotlife.com
-0.0.0.0 americanrange.com
 0.0.0.0 americanrelieffundingagent.org
 0.0.0.0 americanreliefhub.com
 0.0.0.0 americanspecialtyinsurancegroup.com
@@ -11112,7 +11110,6 @@
 0.0.0.0 badkamer-sanitair.nl
 0.0.0.0 badkamermaker.nl
 0.0.0.0 badmildiou.com
-0.0.0.0 badzena.com
 0.0.0.0 baeckerei-strenger.de
 0.0.0.0 baedekker.com
 0.0.0.0 baek-laursen.com
@@ -13545,6 +13542,7 @@
 0.0.0.0 bigdiamondeals.com
 0.0.0.0 bigeyes.com.tw
 0.0.0.0 bigfesta.app4you.app.br
+0.0.0.0 bigfile.mail.naver.com
 0.0.0.0 bigfishchain.com
 0.0.0.0 bigfoothospitality.com
 0.0.0.0 bigg-live.com
@@ -17316,7 +17314,6 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
-0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -17852,6 +17849,7 @@
 0.0.0.0 can-do-property.co.uk
 0.0.0.0 can-doelectric.com
 0.0.0.0 can-media.de
+0.0.0.0 canaccordgenuity.bluematrix.com
 0.0.0.0 canacofactura.com.mx
 0.0.0.0 canadabestonline.com
 0.0.0.0 canadabrightway.com
@@ -18237,6 +18235,7 @@
 0.0.0.0 carforcashhamilton.com
 0.0.0.0 carforcome.com
 0.0.0.0 cargacontrol.com.co
+0.0.0.0 cargasipot.plataformadetransparencia.org.mx
 0.0.0.0 cargo11.000webhostapp.com
 0.0.0.0 cargofast.net
 0.0.0.0 cargoglobe-ltd.com
@@ -19046,6 +19045,7 @@
 0.0.0.0 cdndownloadlp.club
 0.0.0.0 cdnmultimedia.com
 0.0.0.0 cdnpic.mgyun.com
+0.0.0.0 cdnrep.reimageplus.com
 0.0.0.0 cdnxh.net
 0.0.0.0 cdoconsult.com.br
 0.0.0.0 cdolechon.com
@@ -20271,7 +20271,6 @@
 0.0.0.0 cholesterol-ache.xyz
 0.0.0.0 chomoka.com
 0.0.0.0 chomptruck.com
-0.0.0.0 chongnet.cn
 0.0.0.0 chongoubus.com
 0.0.0.0 chongthamhoanglinh.com
 0.0.0.0 chongthamsontay.vn
@@ -20531,7 +20530,6 @@
 0.0.0.0 cid.ag
 0.0.0.0 cidadeempreendedora.org.br
 0.0.0.0 cidadefm87.com.br
-0.0.0.0 cidadehoje.pt
 0.0.0.0 cidertree.libfoobar.com
 0.0.0.0 cididlawfirm.com
 0.0.0.0 cidn02mjco03pobx.com
@@ -28637,6 +28635,7 @@
 0.0.0.0 dl2.onedrive-eu.com
 0.0.0.0 dl2.onedrive-us-en.com
 0.0.0.0 dl2.storeandshare.singtel.com
+0.0.0.0 dl3.joxi.net
 0.0.0.0 dl4.joxi.net
 0.0.0.0 dl4435.ex-downloads.com
 0.0.0.0 dl63964725.dyn-downloads.com
@@ -35293,7 +35292,6 @@
 0.0.0.0 fackerty.info
 0.0.0.0 faconex.ma
 0.0.0.0 faconsultoriadeviagens.com.br
-0.0.0.0 facoplast.com
 0.0.0.0 factmw.org
 0.0.0.0 factorialk.pp.ua
 0.0.0.0 factornet.pl
@@ -42910,7 +42908,9 @@
 0.0.0.0 gurshanlogistics.com
 0.0.0.0 gurstore.in
 0.0.0.0 gurstp01.top
+0.0.0.0 gurswi09.top
 0.0.0.0 gurtekinler.com
+0.0.0.0 gurtuq11.top
 0.0.0.0 guru-kripa.designerscafe.in
 0.0.0.0 guru-sale-today.desi
 0.0.0.0 guru.ga
@@ -44449,6 +44449,7 @@
 0.0.0.0 help.siganet.com.br
 0.0.0.0 help.talisman-sql.ru
 0.0.0.0 help.thetechguyusa.com
+0.0.0.0 help.wework.com
 0.0.0.0 help2help.info
 0.0.0.0 help3in1.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 helpandinformation.uk
@@ -45458,6 +45459,7 @@
 0.0.0.0 home.99eurowebsite.ie
 0.0.0.0 home.barley-plus.com
 0.0.0.0 home.dawang.ink
+0.0.0.0 home.earthlink.net
 0.0.0.0 home.evrstudio.com
 0.0.0.0 home.healthiestu.com
 0.0.0.0 home.isdes.com
@@ -45916,7 +45918,6 @@
 0.0.0.0 hotel-informations.com
 0.0.0.0 hotel-krishnainternational.com
 0.0.0.0 hotel-le-relais-des-moulins.com
-0.0.0.0 hotel-montfebe.com
 0.0.0.0 hotel-nostos.com
 0.0.0.0 hotel-sangiorgio.com
 0.0.0.0 hotel-tekstil.com
@@ -50524,7 +50525,6 @@
 0.0.0.0 j-stage.jp
 0.0.0.0 j-toputvoutfitters.com
 0.0.0.0 j.kyryl.ru
-0.0.0.0 j.top4top.io
 0.0.0.0 j11g9xecuxe43xu.xyz
 0.0.0.0 j12z7407gwtzk.xyz
 0.0.0.0 j13.biz
@@ -61622,7 +61622,6 @@
 0.0.0.0 mangaml.com
 0.0.0.0 mangatbazar.com
 0.0.0.0 mangatun.com
-0.0.0.0 mangawt.com
 0.0.0.0 mangchongtham.com.vn
 0.0.0.0 mangchongtham.vn
 0.0.0.0 mange-gode-blogs.dk
@@ -66714,7 +66713,6 @@
 0.0.0.0 msofficeinternatiinalfilecloudtransfer.duckdns.org
 0.0.0.0 msofficesecuredfiletransferinfocloud.duckdns.org
 0.0.0.0 msofficewordfiletransfertotheadmintrue.duckdns.org
-0.0.0.0 msoftwares.info
 0.0.0.0 msograteful.com
 0.0.0.0 mspcville.com
 0.0.0.0 mspn.com.au
@@ -68505,6 +68503,7 @@
 0.0.0.0 nbhgroup.in
 0.0.0.0 nbi.org.au
 0.0.0.0 nbiao.cool
+0.0.0.0 nbigfile.mail.naver.com
 0.0.0.0 nbis.in
 0.0.0.0 nbiyan.vn
 0.0.0.0 nbiz.tk
@@ -72314,7 +72313,6 @@
 0.0.0.0 only4atalg.ml
 0.0.0.0 onlyapteka.ru
 0.0.0.0 onlyart.in
-0.0.0.0 onlybamboofabrics.com
 0.0.0.0 onlycane.in
 0.0.0.0 onlychild.org
 0.0.0.0 onlycocktaildresses.com
@@ -75445,7 +75443,6 @@
 0.0.0.0 phoneexpertxl.nl
 0.0.0.0 phonelocaltoday.com
 0.0.0.0 phonerepaircentre.com.au
-0.0.0.0 phoneringtones.info
 0.0.0.0 phones.pmrspain.com
 0.0.0.0 phonestore-telephonie.fr
 0.0.0.0 phonestore.vn
@@ -81399,7 +81396,6 @@
 0.0.0.0 remontrvd.com
 0.0.0.0 remontstiralnikhmashin.ru
 0.0.0.0 remortgagecalculator.info
-0.0.0.0 remotefacilities.com
 0.0.0.0 remove-minecraft.cba.pl
 0.0.0.0 removeblackmold.info
 0.0.0.0 removeoppossums.com
@@ -85914,7 +85910,6 @@
 0.0.0.0 seferisrael.co.il
 0.0.0.0 sefidesign.com
 0.0.0.0 sefinancer.fr
-0.0.0.0 sefp-boispro.fr
 0.0.0.0 seftil.com
 0.0.0.0 seftonclc.co.uk
 0.0.0.0 seftonplaycouncil.org.uk
@@ -92059,7 +92054,6 @@
 0.0.0.0 stiebumiputera.ac.id
 0.0.0.0 stiedemann-alvah30hq.ru.com
 0.0.0.0 stiefkind.art
-0.0.0.0 stiepancasetia.ac.id
 0.0.0.0 stiga.nvd.by
 0.0.0.0 stigram.lv
 0.0.0.0 stiha.nl
@@ -101781,7 +101775,6 @@
 0.0.0.0 usa-market.org
 0.0.0.0 usa.artillery.cf
 0.0.0.0 usa.slackart.ch
-0.0.0.0 usa1services.com
 0.0.0.0 usa24i3.duckdns.org
 0.0.0.0 usaacrylic.com
 0.0.0.0 usabilitychefs.com
@@ -107403,6 +107396,7 @@
 0.0.0.0 x.alluniversal.info
 0.0.0.0 x.autistichorse.club
 0.0.0.0 x.beginsonline.com
+0.0.0.0 x.jmxded153.net
 0.0.0.0 x.jmxded184.net
 0.0.0.0 x.norvartic.com
 0.0.0.0 x.ord-id.com
@@ -108562,7 +108556,6 @@
 0.0.0.0 yamato-ti.com
 0.0.0.0 yamemasesy.com
 0.0.0.0 yamike.com
-0.0.0.0 yamisiones.com
 0.0.0.0 yamm.com.my
 0.0.0.0 yamnadlan.com
 0.0.0.0 yamotors.net
@@ -109630,7 +109623,6 @@
 0.0.0.0 zanatika.com
 0.0.0.0 zandj-pk.com
 0.0.0.0 zandrosgranito.com
-0.0.0.0 zanella.com.ar
 0.0.0.0 zanga.bounceme.net
 0.0.0.0 zangemeister.de
 0.0.0.0 zanjhrhhyh.cf
@@ -109826,7 +109818,6 @@
 0.0.0.0 zenmart.in
 0.0.0.0 zenmonkey.com
 0.0.0.0 zennasteel.com
-0.0.0.0 zenonthai.com
 0.0.0.0 zenonz.eu
 0.0.0.0 zenosys.net
 0.0.0.0 zenrp.net

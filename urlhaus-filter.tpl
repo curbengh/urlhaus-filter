@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 25 Jul 2021 00:10:30 +0000
+# Updated: Sun, 25 Jul 2021 12:10:27 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3660,7 +3660,6 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
--d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -6350,7 +6349,6 @@ msFilterList
 -d americanmicrosoftclouddepartment.duckdns.org
 -d americanmusclecar.site
 -d americanpatriotlife.com
--d americanrange.com
 -d americanrelieffundingagent.org
 -d americanreliefhub.com
 -d americanspecialtyinsurancegroup.com
@@ -11115,7 +11113,6 @@ msFilterList
 -d badkamer-sanitair.nl
 -d badkamermaker.nl
 -d badmildiou.com
--d badzena.com
 -d baeckerei-strenger.de
 -d baedekker.com
 -d baek-laursen.com
@@ -13548,6 +13545,7 @@ msFilterList
 -d bigdiamondeals.com
 -d bigeyes.com.tw
 -d bigfesta.app4you.app.br
+-d bigfile.mail.naver.com
 -d bigfishchain.com
 -d bigfoothospitality.com
 -d bigg-live.com
@@ -17319,7 +17317,6 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
--d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -17855,6 +17852,7 @@ msFilterList
 -d can-do-property.co.uk
 -d can-doelectric.com
 -d can-media.de
+-d canaccordgenuity.bluematrix.com
 -d canacofactura.com.mx
 -d canadabestonline.com
 -d canadabrightway.com
@@ -18240,6 +18238,7 @@ msFilterList
 -d carforcashhamilton.com
 -d carforcome.com
 -d cargacontrol.com.co
+-d cargasipot.plataformadetransparencia.org.mx
 -d cargo11.000webhostapp.com
 -d cargofast.net
 -d cargoglobe-ltd.com
@@ -19049,6 +19048,7 @@ msFilterList
 -d cdndownloadlp.club
 -d cdnmultimedia.com
 -d cdnpic.mgyun.com
+-d cdnrep.reimageplus.com
 -d cdnxh.net
 -d cdoconsult.com.br
 -d cdolechon.com
@@ -20274,7 +20274,6 @@ msFilterList
 -d cholesterol-ache.xyz
 -d chomoka.com
 -d chomptruck.com
--d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongthamsontay.vn
@@ -20534,7 +20533,6 @@ msFilterList
 -d cid.ag
 -d cidadeempreendedora.org.br
 -d cidadefm87.com.br
--d cidadehoje.pt
 -d cidertree.libfoobar.com
 -d cididlawfirm.com
 -d cidn02mjco03pobx.com
@@ -28640,6 +28638,7 @@ msFilterList
 -d dl2.onedrive-eu.com
 -d dl2.onedrive-us-en.com
 -d dl2.storeandshare.singtel.com
+-d dl3.joxi.net
 -d dl4.joxi.net
 -d dl4435.ex-downloads.com
 -d dl63964725.dyn-downloads.com
@@ -35296,7 +35295,6 @@ msFilterList
 -d fackerty.info
 -d faconex.ma
 -d faconsultoriadeviagens.com.br
--d facoplast.com
 -d factmw.org
 -d factorialk.pp.ua
 -d factornet.pl
@@ -42913,7 +42911,9 @@ msFilterList
 -d gurshanlogistics.com
 -d gurstore.in
 -d gurstp01.top
+-d gurswi09.top
 -d gurtekinler.com
+-d gurtuq11.top
 -d guru-kripa.designerscafe.in
 -d guru-sale-today.desi
 -d guru.ga
@@ -44452,6 +44452,7 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
+-d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -45461,6 +45462,7 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
+-d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -45919,7 +45921,6 @@ msFilterList
 -d hotel-informations.com
 -d hotel-krishnainternational.com
 -d hotel-le-relais-des-moulins.com
--d hotel-montfebe.com
 -d hotel-nostos.com
 -d hotel-sangiorgio.com
 -d hotel-tekstil.com
@@ -50527,7 +50528,6 @@ msFilterList
 -d j-stage.jp
 -d j-toputvoutfitters.com
 -d j.kyryl.ru
--d j.top4top.io
 -d j11g9xecuxe43xu.xyz
 -d j12z7407gwtzk.xyz
 -d j13.biz
@@ -61625,7 +61625,6 @@ msFilterList
 -d mangaml.com
 -d mangatbazar.com
 -d mangatun.com
--d mangawt.com
 -d mangchongtham.com.vn
 -d mangchongtham.vn
 -d mange-gode-blogs.dk
@@ -66717,7 +66716,6 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
--d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -68508,6 +68506,7 @@ msFilterList
 -d nbhgroup.in
 -d nbi.org.au
 -d nbiao.cool
+-d nbigfile.mail.naver.com
 -d nbis.in
 -d nbiyan.vn
 -d nbiz.tk
@@ -72317,7 +72316,6 @@ msFilterList
 -d only4atalg.ml
 -d onlyapteka.ru
 -d onlyart.in
--d onlybamboofabrics.com
 -d onlycane.in
 -d onlychild.org
 -d onlycocktaildresses.com
@@ -75448,7 +75446,6 @@ msFilterList
 -d phoneexpertxl.nl
 -d phonelocaltoday.com
 -d phonerepaircentre.com.au
--d phoneringtones.info
 -d phones.pmrspain.com
 -d phonestore-telephonie.fr
 -d phonestore.vn
@@ -81402,7 +81399,6 @@ msFilterList
 -d remontrvd.com
 -d remontstiralnikhmashin.ru
 -d remortgagecalculator.info
--d remotefacilities.com
 -d remove-minecraft.cba.pl
 -d removeblackmold.info
 -d removeoppossums.com
@@ -85917,7 +85913,6 @@ msFilterList
 -d seferisrael.co.il
 -d sefidesign.com
 -d sefinancer.fr
--d sefp-boispro.fr
 -d seftil.com
 -d seftonclc.co.uk
 -d seftonplaycouncil.org.uk
@@ -92062,7 +92057,6 @@ msFilterList
 -d stiebumiputera.ac.id
 -d stiedemann-alvah30hq.ru.com
 -d stiefkind.art
--d stiepancasetia.ac.id
 -d stiga.nvd.by
 -d stigram.lv
 -d stiha.nl
@@ -101784,7 +101778,6 @@ msFilterList
 -d usa-market.org
 -d usa.artillery.cf
 -d usa.slackart.ch
--d usa1services.com
 -d usa24i3.duckdns.org
 -d usaacrylic.com
 -d usabilitychefs.com
@@ -107406,6 +107399,7 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
+-d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
@@ -108565,7 +108559,6 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
--d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net
@@ -109633,7 +109626,6 @@ msFilterList
 -d zanatika.com
 -d zandj-pk.com
 -d zandrosgranito.com
--d zanella.com.ar
 -d zanga.bounceme.net
 -d zangemeister.de
 -d zanjhrhhyh.cf
@@ -109829,7 +109821,6 @@ msFilterList
 -d zenmart.in
 -d zenmonkey.com
 -d zennasteel.com
--d zenonthai.com
 -d zenonz.eu
 -d zenosys.net
 -d zenrp.net
