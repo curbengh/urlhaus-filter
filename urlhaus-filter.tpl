@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 25 Jul 2021 12:10:27 +0000
+# Updated: Mon, 26 Jul 2021 00:10:01 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -9166,6 +9166,7 @@ msFilterList
 -d asifapparels.com
 -d asiffidatanoli.com
 -d asight.com.au
+-d asikbelajar.com
 -d asikk.id
 -d asiloalpago.it
 -d asiltorna.com
@@ -18953,6 +18954,7 @@ msFilterList
 -d ccs-moscow.ru
 -d ccs.elitekod.com
 -d ccsau.com
+-d ccscanta.com
 -d ccsfw.club
 -d ccshh.org
 -d ccsnyc.kbmbk.com
@@ -24799,6 +24801,7 @@ msFilterList
 -d dagprodukt05.ru
 -d dagrafic.com
 -d dahasa.danaweb.vn
+-d dahgarq.top
 -d dahgdigital.com
 -d dahil.net
 -d dahouse.pl
@@ -36951,7 +36954,6 @@ msFilterList
 -d firstofbanks.com
 -d firston.group
 -d firstoptionstrading.com
--d firstpage.com.au
 -d firstreport.com
 -d firstresponsecpr.com
 -d firstroofingpros.com
@@ -42932,6 +42934,7 @@ msFilterList
 -d gurutransfer.com
 -d guruvayoorsportsacademy.com
 -d guruz.com
+-d guruzo10.top
 -d gurvox08.top
 -d gurwitz.com
 -d gurztac.wtchevalier.com
@@ -49835,6 +49838,7 @@ msFilterList
 -d iryna.biz
 -d is-hp.com
 -d is-yap.com
+-d is.net.sa
 -d is4340.azurewebsites.net
 -d is45wdsed4455sdfsf.duckdns.org
 -d isaac.mikhailmotoringschool.com
@@ -101195,6 +101199,7 @@ msFilterList
 -d unik.trexa.id
 -d unikaryapools.com
 -d unikdom.30seo.ru
+-d uniko.co
 -d unilaksu.rw
 -d unilevercopabr.mbiz20.net
 -d unileverutourph.com
