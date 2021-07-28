@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Tue, 27 Jul 2021 12:10:49 +0000
+# Updated: Wed, 28 Jul 2021 00:10:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3569,6 +3569,7 @@
 0.0.0.0 adventureitdate.com
 0.0.0.0 adventureits.com
 0.0.0.0 adventuremania.com
+0.0.0.0 adventureracen.nl
 0.0.0.0 adventurersafaris.com
 0.0.0.0 adventuresofarchibald.com
 0.0.0.0 adventuretext.com
@@ -3802,7 +3803,6 @@
 0.0.0.0 afjv-my.sharepoint.com
 0.0.0.0 afkar-tech.com
 0.0.0.0 afkar.today
-0.0.0.0 afkarbz.com
 0.0.0.0 aflah.se
 0.0.0.0 aflim.org.ng
 0.0.0.0 aflora.com.ve
@@ -5209,7 +5209,6 @@
 0.0.0.0 alfajrclean.com
 0.0.0.0 alfalah-ent.com
 0.0.0.0 alfalahchemicals.com
-0.0.0.0 alfalahmarketing.com
 0.0.0.0 alfalahpelerinage.com
 0.0.0.0 alfaltda.cl
 0.0.0.0 alfalub.com.br
@@ -6077,6 +6076,7 @@
 0.0.0.0 alwaysonq.com
 0.0.0.0 alwaysprofitablerobot.com
 0.0.0.0 alwayssmiledentalny.com
+0.0.0.0 alwaysupdatedsoft.com
 0.0.0.0 alwetengroup.com
 0.0.0.0 alwoawiroz.com
 0.0.0.0 alxa.ca
@@ -18954,7 +18954,6 @@
 0.0.0.0 ccs-moscow.ru
 0.0.0.0 ccs.elitekod.com
 0.0.0.0 ccsau.com
-0.0.0.0 ccscanta.com
 0.0.0.0 ccsfw.club
 0.0.0.0 ccshh.org
 0.0.0.0 ccsnyc.kbmbk.com
@@ -29776,6 +29775,7 @@
 0.0.0.0 draanallelimanguilarleon.com
 0.0.0.0 drabeys.com
 0.0.0.0 dracarolasanchez.com
+0.0.0.0 dracmastore.uy
 0.0.0.0 dracogalaxy.com
 0.0.0.0 dracore.com
 0.0.0.0 dracos.fr
@@ -34150,6 +34150,7 @@
 0.0.0.0 ethclicks.live
 0.0.0.0 ethdigitalcampus.com
 0.0.0.0 ethecae.com
+0.0.0.0 ethecal.com
 0.0.0.0 etherbound.org
 0.0.0.0 ethercredit.li
 0.0.0.0 etherdox.com
@@ -36102,6 +36103,7 @@
 0.0.0.0 feed-boosterblogger.com
 0.0.0.0 feed.tetratechsol.com
 0.0.0.0 feedback.handcraftedrealty.com
+0.0.0.0 feedbackdownload.download
 0.0.0.0 feedbackportal.download
 0.0.0.0 feedingyourhealth.com
 0.0.0.0 feednerd.com
@@ -37017,6 +37019,7 @@
 0.0.0.0 fisiobianchini.com.br
 0.0.0.0 fisiocenter.al
 0.0.0.0 fisioklinik.es
+0.0.0.0 fisiosonno.com.br
 0.0.0.0 fisioterapeutadc.com.br
 0.0.0.0 fisipedia.com
 0.0.0.0 fispobau.cz
@@ -38392,7 +38395,6 @@
 0.0.0.0 freshenergy.co.nz
 0.0.0.0 freshers.luminescent.digital
 0.0.0.0 fresherslab.in
-0.0.0.0 freshersnews.co.in
 0.0.0.0 freshersvista.com
 0.0.0.0 freshjobagency.com
 0.0.0.0 freshjobportal.com
@@ -39358,6 +39360,7 @@
 0.0.0.0 gameskout.com
 0.0.0.0 gameslotmesin.com
 0.0.0.0 gamesmanga.com
+0.0.0.0 gamesplus24.info
 0.0.0.0 gamesportal-gp.tk
 0.0.0.0 gamestrefa.com
 0.0.0.0 gamesuk.com
@@ -75478,6 +75481,7 @@
 0.0.0.0 phongchitt.com
 0.0.0.0 phongduc.com.vn
 0.0.0.0 phonghanh.com
+0.0.0.0 phonghoinghi.com
 0.0.0.0 phongkhambenhgan.net
 0.0.0.0 phongkhamdakhoathanhhoa.vn
 0.0.0.0 phongkhamhong.com
@@ -85301,6 +85305,7 @@
 0.0.0.0 schneifelwetter.de
 0.0.0.0 schnell7.com
 0.0.0.0 schnellbacher.net
+0.0.0.0 schnellservicios.com
 0.0.0.0 schockenhoff.net
 0.0.0.0 schockverlag.de
 0.0.0.0 schody.szczecin.pl
@@ -93897,6 +93902,7 @@
 0.0.0.0 sys.iclickdigishop.com
 0.0.0.0 sys.pbmadu.co.id
 0.0.0.0 sys04.icu
+0.0.0.0 sys321.com
 0.0.0.0 sysaty.space
 0.0.0.0 syscomopen.it
 0.0.0.0 sysconmyanmar.com
@@ -95428,6 +95434,7 @@
 0.0.0.0 telecodepa.es
 0.0.0.0 telecom-cctv.com
 0.0.0.0 telecomafrica.org
+0.0.0.0 telecomblogs.in
 0.0.0.0 telecomforall.nl
 0.0.0.0 telecomservices.com.ec
 0.0.0.0 telecomsystems.gr
@@ -106296,6 +106303,7 @@
 0.0.0.0 winwordpress.tri-core.net
 0.0.0.0 winx-cheat.com
 0.0.0.0 winx64update.com
+0.0.0.0 winyon03.top
 0.0.0.0 winz.in
 0.0.0.0 winzdaylove.com
 0.0.0.0 winzerhof-kridlo.com

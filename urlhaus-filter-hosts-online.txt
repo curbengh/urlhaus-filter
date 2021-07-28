@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Tue, 27 Jul 2021 12:10:49 +0000
+# Updated: Wed, 28 Jul 2021 00:10:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -36,7 +36,6 @@
 0.0.0.0 adamorinmusic.com
 0.0.0.0 adanaberkoto.com
 0.0.0.0 addahealingmusic.com
-0.0.0.0 adfddws.ftp.sh
 0.0.0.0 adithimedia.com
 0.0.0.0 adithimedia.memengers.com
 0.0.0.0 admin.amspec.ph
@@ -66,7 +65,6 @@
 0.0.0.0 amcpublications.net
 0.0.0.0 amit.quadzero.in
 0.0.0.0 amordeparede.com
-0.0.0.0 amos524.org
 0.0.0.0 andremaraisbeleggings.co.za
 0.0.0.0 andres.ug
 0.0.0.0 anysbergbiltong.co.za
@@ -81,7 +79,6 @@
 0.0.0.0 apponline957.ir
 0.0.0.0 apps.saintsoporte.com
 0.0.0.0 arkemagrup.com
-0.0.0.0 artas.biz
 0.0.0.0 artmid.net
 0.0.0.0 ask-regard.call-save.biz
 0.0.0.0 astrapisecurity.gr
@@ -110,7 +107,6 @@
 0.0.0.0 ball191.com
 0.0.0.0 ballatstone.com
 0.0.0.0 bangkok-orchids.com
-0.0.0.0 barracagiordano.com
 0.0.0.0 bash.givemexyz.in
 0.0.0.0 basquetbol.negotech.com.mx
 0.0.0.0 bbia.co.uk
@@ -196,6 +192,7 @@
 0.0.0.0 childselect.com
 0.0.0.0 cifeer.net
 0.0.0.0 ciidental.com.ec
+0.0.0.0 cimcpatna.com
 0.0.0.0 cisco-ccna-ccnp-ccie.com
 0.0.0.0 citihits.lk
 0.0.0.0 classic4545.github.io
@@ -221,15 +218,16 @@
 0.0.0.0 cp-saofacundo.pt
 0.0.0.0 cpanel.shivay.net
 0.0.0.0 craiglindstrom.com
+0.0.0.0 crearechile.cl
 0.0.0.0 creationskateboards.com
 0.0.0.0 crecerco.com
 0.0.0.0 crittersbythebay.com
+0.0.0.0 crm.notariavieitoyvelamazan.com
 0.0.0.0 crm.powereng.in
 0.0.0.0 crmfarko.manivelasst.com
 0.0.0.0 crmroche.manivelasst.com
 0.0.0.0 cryptoforextrading56.com
 0.0.0.0 csnserver.com
-0.0.0.0 ctracknxt.in
 0.0.0.0 cubescargoexpress.com
 0.0.0.0 currantmedia.com
 0.0.0.0 cutting-edge.in
@@ -250,8 +248,6 @@
 0.0.0.0 data.cdevelop.org
 0.0.0.0 data.over-blog-kiwi.com
 0.0.0.0 datapolish.com
-0.0.0.0 datarcha.ga
-0.0.0.0 date-flash.com
 0.0.0.0 davethompson.me.uk
 0.0.0.0 davidmcguinness.info
 0.0.0.0 ddl8.data.hu
@@ -268,7 +264,6 @@
 0.0.0.0 designerliving.co.za
 0.0.0.0 desk.hasu.com.ar
 0.0.0.0 despertaresi.com.br
-0.0.0.0 destinymc.co.za
 0.0.0.0 detorre.es
 0.0.0.0 dev.favterest.com
 0.0.0.0 dev.sebpo.net
@@ -288,7 +283,6 @@
 0.0.0.0 docs.indianexpress.org
 0.0.0.0 docs.twincitytraveltourism.com
 0.0.0.0 docs.zohopublic.eu
-0.0.0.0 docuserver1.com
 0.0.0.0 dodsonimaging.com
 0.0.0.0 dom.daf.free.fr
 0.0.0.0 doncedyhall.com
@@ -302,11 +296,16 @@
 0.0.0.0 down1.arpun.com
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
+0.0.0.0 download.pdf00.cn
+0.0.0.0 download.rising.com.cn
 0.0.0.0 download.skycn.com
 0.0.0.0 dragonsknot.com
 0.0.0.0 drbaby.com.sa
+0.0.0.0 drgroup.co.za
 0.0.0.0 dropimagestudio.com
 0.0.0.0 drsha.innovativesolutions.mobi
+0.0.0.0 dsenterprize.co.za
+0.0.0.0 dsmsystem.com.py
 0.0.0.0 du-wizards.com
 0.0.0.0 dutapp.wisolve.co.za
 0.0.0.0 dx.qqyewu.com
@@ -322,7 +321,6 @@
 0.0.0.0 emaids.co.za
 0.0.0.0 emaz.pk
 0.0.0.0 emegablog.com
-0.0.0.0 emergentonlinesolutions.com
 0.0.0.0 en.baoend.com
 0.0.0.0 enc-tech.com
 0.0.0.0 endurotanzania.co.tz
@@ -344,12 +342,12 @@
 0.0.0.0 expatbh.com
 0.0.0.0 expresolv.com
 0.0.0.0 ezps.co.uk
+0.0.0.0 f1sol.com
 0.0.0.0 fabienpique.com
 0.0.0.0 facebook.commit.capitaluniversity.net
 0.0.0.0 fam144.com
 0.0.0.0 familydentist.site
 0.0.0.0 fanosethiopiatours.com
-0.0.0.0 fastfreeupdates.com
 0.0.0.0 faveraprojects.com
 0.0.0.0 fbvn.work
 0.0.0.0 fc.co.mz
@@ -357,12 +355,14 @@
 0.0.0.0 felicienne.nl
 0.0.0.0 ferstappen.com
 0.0.0.0 fianto.com.br
+0.0.0.0 file.elecfans.com
 0.0.0.0 files.drivers-logitech.com
 0.0.0.0 files6.uludagbilisim.com
 0.0.0.0 fineartgallerym.com
 0.0.0.0 fixauto.illumetechnology.com
 0.0.0.0 fkd.derpcity.ru
 0.0.0.0 flashdowns.net
+0.0.0.0 flexypay.dsquaregroup.com
 0.0.0.0 flyingbuddhadesign.com
 0.0.0.0 fordlongbien5s.vn
 0.0.0.0 forum.mdb.nu
@@ -449,13 +449,11 @@
 0.0.0.0 ideamaster.com.my
 0.0.0.0 idilsoft.com
 0.0.0.0 idj.no
+0.0.0.0 idvindia.com
 0.0.0.0 igrejanovavida.net.br
 0.0.0.0 ikizhavuz.com
 0.0.0.0 ilrafrica.com
 0.0.0.0 images.jermiau.com
-0.0.0.0 immidiateupdates.com
-0.0.0.0 immidiateupdatesolutions.com
-0.0.0.0 immidiateupdatesolutions.one
 0.0.0.0 ims.huile-indonesia.co.id
 0.0.0.0 incrediblepixels.com
 0.0.0.0 incredicole.com
@@ -599,7 +597,6 @@
 0.0.0.0 megagynreformas.com.br
 0.0.0.0 megahijauasri.co.id
 0.0.0.0 megamart.afnan-amc.com
-0.0.0.0 mehainteriors.com
 0.0.0.0 metalin-cr.com
 0.0.0.0 meuoculosnanet.com.br
 0.0.0.0 mfevr.com
@@ -648,7 +645,6 @@
 0.0.0.0 naeemacademy.com
 0.0.0.0 namnyak.co.ke
 0.0.0.0 nap.mgsservers.com
-0.0.0.0 narayanhitihomestay.com
 0.0.0.0 ndlala.com
 0.0.0.0 nelitrianggraeni.000webhostapp.com
 0.0.0.0 nellaimasthanbiryani.com
@@ -690,7 +686,7 @@
 0.0.0.0 omscoc.pappai.com
 0.0.0.0 onedigitalcard.granvizionnecorp.com
 0.0.0.0 onedrive.listifyapp.co
-0.0.0.0 online.creedglobal.in
+0.0.0.0 onyx-food.com
 0.0.0.0 open.warehousesaas.co.uk
 0.0.0.0 opolis.io
 0.0.0.0 opticaoptigral.cl
@@ -703,6 +699,7 @@
 0.0.0.0 p2.d9media.cn
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p6.zbjimg.com
+0.0.0.0 pablobrothel.com.ar
 0.0.0.0 package-dispatching-centre.bazaarsewa.com
 0.0.0.0 pacwebdesigns.com
 0.0.0.0 pallascapital.katchpurcity.com
@@ -752,7 +749,6 @@
 0.0.0.0 psikologi.undhirabali.ac.id
 0.0.0.0 punchdialogues.com
 0.0.0.0 punjabdevelopersassociation.com.pk
-0.0.0.0 pvcprinting.co.uk
 0.0.0.0 qa5whq.db.files.1drv.com
 0.0.0.0 qatarglobalconsulting.com
 0.0.0.0 qmsled.com
@@ -776,7 +772,6 @@
 0.0.0.0 redbats.co.in
 0.0.0.0 registeredwind.com
 0.0.0.0 reifenquick.de
-0.0.0.0 reime.dk
 0.0.0.0 relatedgrouptest.com
 0.0.0.0 relaxindulge.co.nz
 0.0.0.0 renegocia.pe
@@ -785,7 +780,6 @@
 0.0.0.0 reseller.itechbrasil.com
 0.0.0.0 restaurantechezdaniel.com
 0.0.0.0 rezkabum.ru
-0.0.0.0 ri.ios.exe.webs.vc
 0.0.0.0 ricambi.fixtofix.it
 0.0.0.0 rinaefoundation.org.za
 0.0.0.0 rinkaisystem-ht.com
@@ -806,6 +800,7 @@
 0.0.0.0 sacredscentsonline.com
 0.0.0.0 safcol-colors.com
 0.0.0.0 safehubsecurity.ca
+0.0.0.0 safety.nanotechproautocare.com
 0.0.0.0 sahathaikasetpan.com
 0.0.0.0 sainzim.co.za
 0.0.0.0 sangariri.github.io
@@ -820,10 +815,12 @@
 0.0.0.0 schalke04rss.de
 0.0.0.0 sculetus.nl
 0.0.0.0 secure-doc-reader.com
+0.0.0.0 securemail.axiomworld.net
 0.0.0.0 senbiaojita.com
 0.0.0.0 sendizarlogistics.com
 0.0.0.0 sericaasia.com
 0.0.0.0 service.easytrace.mn
+0.0.0.0 serviciovirtual.com.ar
 0.0.0.0 servis.altankarakaya.com
 0.0.0.0 seryzpiekielnika.pl
 0.0.0.0 sexologistpakistan.net
@@ -840,7 +837,6 @@
 0.0.0.0 shivsoftwaresolutions.com
 0.0.0.0 shop.voovoosound.com
 0.0.0.0 shopellium.com
-0.0.0.0 shopsofe.com
 0.0.0.0 shribharatvatika.com
 0.0.0.0 shrushtiinfotech.com
 0.0.0.0 sibernetix.fr
@@ -850,7 +846,6 @@
 0.0.0.0 siili.net
 0.0.0.0 silatama.com
 0.0.0.0 simoneporzi.it
-0.0.0.0 sindpol.tiejuris.com.br
 0.0.0.0 singlebridal.com
 0.0.0.0 sipahielektrik.com
 0.0.0.0 sistelligent.com
@@ -879,7 +874,6 @@
 0.0.0.0 starcountry.net
 0.0.0.0 static.3001.net
 0.0.0.0 static.cz01.cn
-0.0.0.0 stiau.iuc.ac
 0.0.0.0 sticker.jewsjuice.com
 0.0.0.0 stiepancasetia.ac.id
 0.0.0.0 store.selectandwin.com
@@ -987,6 +981,7 @@
 0.0.0.0 vectarts.com
 0.0.0.0 vecvietnam.com.vn
 0.0.0.0 vegclub.in
+0.0.0.0 vente.net-transact.fr
 0.0.0.0 version8.newlinestudios.com
 0.0.0.0 vfocus.net
 0.0.0.0 vienen.gblix.srv.br
@@ -1023,7 +1018,9 @@
 0.0.0.0 wi522012.ferozo.com
 0.0.0.0 wildnights.co.uk
 0.0.0.0 wildtrust.mediadevstaging.com
+0.0.0.0 willow-nettica.com
 0.0.0.0 windcomtechnologies.com
+0.0.0.0 winyon03.top
 0.0.0.0 wishesconcierge.com
 0.0.0.0 wizesales.com
 0.0.0.0 wj8pgg.am.files.1drv.com

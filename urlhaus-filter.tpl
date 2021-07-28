@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Tue, 27 Jul 2021 12:10:49 +0000
+# Updated: Wed, 28 Jul 2021 00:10:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3572,6 +3572,7 @@ msFilterList
 -d adventureitdate.com
 -d adventureits.com
 -d adventuremania.com
+-d adventureracen.nl
 -d adventurersafaris.com
 -d adventuresofarchibald.com
 -d adventuretext.com
@@ -3805,7 +3806,6 @@ msFilterList
 -d afjv-my.sharepoint.com
 -d afkar-tech.com
 -d afkar.today
--d afkarbz.com
 -d aflah.se
 -d aflim.org.ng
 -d aflora.com.ve
@@ -5212,7 +5212,6 @@ msFilterList
 -d alfajrclean.com
 -d alfalah-ent.com
 -d alfalahchemicals.com
--d alfalahmarketing.com
 -d alfalahpelerinage.com
 -d alfaltda.cl
 -d alfalub.com.br
@@ -6080,6 +6079,7 @@ msFilterList
 -d alwaysonq.com
 -d alwaysprofitablerobot.com
 -d alwayssmiledentalny.com
+-d alwaysupdatedsoft.com
 -d alwetengroup.com
 -d alwoawiroz.com
 -d alxa.ca
@@ -18957,7 +18957,6 @@ msFilterList
 -d ccs-moscow.ru
 -d ccs.elitekod.com
 -d ccsau.com
--d ccscanta.com
 -d ccsfw.club
 -d ccshh.org
 -d ccsnyc.kbmbk.com
@@ -29779,6 +29778,7 @@ msFilterList
 -d draanallelimanguilarleon.com
 -d drabeys.com
 -d dracarolasanchez.com
+-d dracmastore.uy
 -d dracogalaxy.com
 -d dracore.com
 -d dracos.fr
@@ -34153,6 +34153,7 @@ msFilterList
 -d ethclicks.live
 -d ethdigitalcampus.com
 -d ethecae.com
+-d ethecal.com
 -d etherbound.org
 -d ethercredit.li
 -d etherdox.com
@@ -36105,6 +36106,7 @@ msFilterList
 -d feed-boosterblogger.com
 -d feed.tetratechsol.com
 -d feedback.handcraftedrealty.com
+-d feedbackdownload.download
 -d feedbackportal.download
 -d feedingyourhealth.com
 -d feednerd.com
@@ -37020,6 +37022,7 @@ msFilterList
 -d fisiobianchini.com.br
 -d fisiocenter.al
 -d fisioklinik.es
+-d fisiosonno.com.br
 -d fisioterapeutadc.com.br
 -d fisipedia.com
 -d fispobau.cz
@@ -38395,7 +38398,6 @@ msFilterList
 -d freshenergy.co.nz
 -d freshers.luminescent.digital
 -d fresherslab.in
--d freshersnews.co.in
 -d freshersvista.com
 -d freshjobagency.com
 -d freshjobportal.com
@@ -39361,6 +39363,7 @@ msFilterList
 -d gameskout.com
 -d gameslotmesin.com
 -d gamesmanga.com
+-d gamesplus24.info
 -d gamesportal-gp.tk
 -d gamestrefa.com
 -d gamesuk.com
@@ -75481,6 +75484,7 @@ msFilterList
 -d phongchitt.com
 -d phongduc.com.vn
 -d phonghanh.com
+-d phonghoinghi.com
 -d phongkhambenhgan.net
 -d phongkhamdakhoathanhhoa.vn
 -d phongkhamhong.com
@@ -85304,6 +85308,7 @@ msFilterList
 -d schneifelwetter.de
 -d schnell7.com
 -d schnellbacher.net
+-d schnellservicios.com
 -d schockenhoff.net
 -d schockverlag.de
 -d schody.szczecin.pl
@@ -93900,6 +93905,7 @@ msFilterList
 -d sys.iclickdigishop.com
 -d sys.pbmadu.co.id
 -d sys04.icu
+-d sys321.com
 -d sysaty.space
 -d syscomopen.it
 -d sysconmyanmar.com
@@ -95431,6 +95437,7 @@ msFilterList
 -d telecodepa.es
 -d telecom-cctv.com
 -d telecomafrica.org
+-d telecomblogs.in
 -d telecomforall.nl
 -d telecomservices.com.ec
 -d telecomsystems.gr
@@ -106299,6 +106306,7 @@ msFilterList
 -d winwordpress.tri-core.net
 -d winx-cheat.com
 -d winx64update.com
+-d winyon03.top
 -d winz.in
 -d winzdaylove.com
 -d winzerhof-kridlo.com
