@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Wed, 28 Jul 2021 00:10:07 +0000
+# Updated: Wed, 28 Jul 2021 12:10:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -6366,7 +6366,6 @@ msFilterList
 -d americaslegalchoice.com
 -d americasteaks.com
 -d americataxinsurance.com
--d amerident.com.do
 -d amerifencewichita.com
 -d amerigau.com
 -d amerikadafinans.com
@@ -7376,6 +7375,7 @@ msFilterList
 -d anweka.de
 -d anyantivirus.hopto.org
 -d anyaresorts.umali.hotelzimmie.com
+-d anybiznes.com
 -d anydefender.zapto.org
 -d anydeporakc.com
 -d anydesk.eu-gb.mybluemix.net
@@ -20278,6 +20278,7 @@ msFilterList
 -d cholesterol-ache.xyz
 -d chomoka.com
 -d chomptruck.com
+-d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongthamsontay.vn
@@ -22293,6 +22294,7 @@ msFilterList
 -d comune.perosaargentina.to.it
 -d comunicaagencia.com
 -d comunicacaovertical.com.br
+-d comunicare-relatiipublice.ro
 -d comunicaresoltions.com.br
 -d comunicativafm.com.br
 -d comunicaz.bar
@@ -25937,7 +25939,6 @@ msFilterList
 -d decoronthemove.co.za
 -d decorsfantasmo.com
 -d decorstoff.com
--d decorstyle.ig.com.br
 -d decortez.com
 -d decortie.top
 -d decosa.co.hu
@@ -27165,6 +27166,7 @@ msFilterList
 -d dev.favterest.com
 -d dev.firecom.pro
 -d dev.futurefast.co
+-d dev.g5plus.net
 -d dev.gentleman.kz
 -d dev.ginekio.com
 -d dev.git6.com
@@ -32664,7 +32666,6 @@ msFilterList
 -d emagusa.tech
 -d emaids.co.za
 -d email-template.webview.consulting
--d email.accliverpool.com
 -d email.binainsani.com
 -d email.colloquis.com
 -d email.givemeinsurance.com
@@ -36547,7 +36548,6 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
--d file.elecfans.com
 -d file.fm
 -d file.importantcover.uk
 -d file.lauasinh.com
@@ -46598,6 +46598,7 @@ msFilterList
 -d hvyiasubeqweqw.com
 -d hvyyda.by.files.1drv.com
 -d hw.lanbaba666.cn
+-d hw2sss.xyz
 -d hwalek.com
 -d hwang88.com
 -d hwasungchem.co.kr
@@ -49308,6 +49309,7 @@ msFilterList
 -d inthemood.ltd
 -d inthenhuagiatot.com
 -d inthetech.co.kr
+-d inthisplase.com
 -d inthistogether.online
 -d intideares.ru
 -d intimateimagery.com
@@ -52375,6 +52377,7 @@ msFilterList
 -d js-assets.download
 -d js-forum.de
 -d js-home.de
+-d js-hurling.com
 -d js.5b6b7b.ru
 -d js.abscollege.ac.in
 -d js.mys2016.info
@@ -66355,7 +66358,6 @@ msFilterList
 -d mototorg.com
 -d motov8d.com
 -d motoyazd.ir
--d mottanet.com.br
 -d mottau.co.bw
 -d mottau.co.bw.md-14.webhostbox.net
 -d motto.com.tr
@@ -66745,6 +66747,7 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
+-d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -69508,6 +69511,7 @@ msFilterList
 -d nfefazendaportalprincipal.com
 -d nfegratuito.myrp.com.br
 -d nfgmedia.com
+-d nfis.com
 -d nfj254aim.com
 -d nfog2018.dk
 -d nforsdt.org.np
@@ -81197,6 +81201,7 @@ msFilterList
 -d regalosdemaria.com.br
 -d regalosypremiosdirectos.com
 -d regalscoin.co
+-d regandren.com
 -d regatta2223.com
 -d rege316.com
 -d regenag.co.uk
@@ -83810,7 +83815,6 @@ msFilterList
 -d sabzamoz.ir
 -d sabzgame.ir
 -d sabzoabi.ir
--d sac-qa.com
 -d sac-serv.com
 -d sac-sofom.com
 -d sac2.11xii.com
@@ -85006,6 +85010,7 @@ msFilterList
 -d satyammetals.com
 -d satyasumamarketers.in
 -d satyrodesign.com.br
+-d satysservs.com
 -d sauamg.manivelasst.com
 -d sauber.lat
 -d sauceismoney.com
@@ -89831,7 +89836,6 @@ msFilterList
 -d sokkenkraam.nl
 -d sokodigital.co.ke
 -d sokolbedrichov.cz
--d sokouganda.net
 -d sokrethandpiphear.com
 -d sokrit-mb-app.freelancekh.com
 -d soksanhotels.com
@@ -91379,6 +91383,7 @@ msFilterList
 -d staiacasabar.com
 -d staialakbarsurabaya.ac.id
 -d staida.ac.id
+-d stainless.fun
 -d stainlesssupply.com
 -d stairnaheireann.ie
 -d stajer.eu
@@ -92090,7 +92095,6 @@ msFilterList
 -d stiebumiputera.ac.id
 -d stiedemann-alvah30hq.ru.com
 -d stiefkind.art
--d stiepancasetia.ac.id
 -d stiga.nvd.by
 -d stigram.lv
 -d stiha.nl
@@ -98103,7 +98107,6 @@ msFilterList
 -d tischer.ro
 -d tischlereigrund.de
 -d tischlerkueche.at
--d tisdalecpa.com
 -d tise.me
 -d tishbullard.com
 -d tishreycarmelim.co.il
@@ -101546,6 +101549,7 @@ msFilterList
 -d update15.hospedagemdesites.ws
 -d update24.ch
 -d update365office.com
+-d update6.satysservs.com
 -d update9.cte.99.com
 -d updateadovesettings.io
 -d updatedaily.in
@@ -101769,7 +101773,6 @@ msFilterList
 -d url.246546.com
 -d url.57569.fr.snd52.ch
 -d url.sg
--d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
 -d url9823.ville.labrecque.qc.ca
@@ -101819,6 +101822,7 @@ msFilterList
 -d usa-market.org
 -d usa.artillery.cf
 -d usa.slackart.ch
+-d usa1services.com
 -d usa24i3.duckdns.org
 -d usaacrylic.com
 -d usabilitychefs.com

@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Wed, 28 Jul 2021 00:10:07 +0000
+# Updated: Wed, 28 Jul 2021 12:10:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -6363,7 +6363,6 @@
 0.0.0.0 americaslegalchoice.com
 0.0.0.0 americasteaks.com
 0.0.0.0 americataxinsurance.com
-0.0.0.0 amerident.com.do
 0.0.0.0 amerifencewichita.com
 0.0.0.0 amerigau.com
 0.0.0.0 amerikadafinans.com
@@ -7373,6 +7372,7 @@
 0.0.0.0 anweka.de
 0.0.0.0 anyantivirus.hopto.org
 0.0.0.0 anyaresorts.umali.hotelzimmie.com
+0.0.0.0 anybiznes.com
 0.0.0.0 anydefender.zapto.org
 0.0.0.0 anydeporakc.com
 0.0.0.0 anydesk.eu-gb.mybluemix.net
@@ -20275,6 +20275,7 @@
 0.0.0.0 cholesterol-ache.xyz
 0.0.0.0 chomoka.com
 0.0.0.0 chomptruck.com
+0.0.0.0 chongnet.cn
 0.0.0.0 chongoubus.com
 0.0.0.0 chongthamhoanglinh.com
 0.0.0.0 chongthamsontay.vn
@@ -22290,6 +22291,7 @@
 0.0.0.0 comune.perosaargentina.to.it
 0.0.0.0 comunicaagencia.com
 0.0.0.0 comunicacaovertical.com.br
+0.0.0.0 comunicare-relatiipublice.ro
 0.0.0.0 comunicaresoltions.com.br
 0.0.0.0 comunicativafm.com.br
 0.0.0.0 comunicaz.bar
@@ -25934,7 +25936,6 @@
 0.0.0.0 decoronthemove.co.za
 0.0.0.0 decorsfantasmo.com
 0.0.0.0 decorstoff.com
-0.0.0.0 decorstyle.ig.com.br
 0.0.0.0 decortez.com
 0.0.0.0 decortie.top
 0.0.0.0 decosa.co.hu
@@ -27162,6 +27163,7 @@
 0.0.0.0 dev.favterest.com
 0.0.0.0 dev.firecom.pro
 0.0.0.0 dev.futurefast.co
+0.0.0.0 dev.g5plus.net
 0.0.0.0 dev.gentleman.kz
 0.0.0.0 dev.ginekio.com
 0.0.0.0 dev.git6.com
@@ -32661,7 +32663,6 @@
 0.0.0.0 emagusa.tech
 0.0.0.0 emaids.co.za
 0.0.0.0 email-template.webview.consulting
-0.0.0.0 email.accliverpool.com
 0.0.0.0 email.binainsani.com
 0.0.0.0 email.colloquis.com
 0.0.0.0 email.givemeinsurance.com
@@ -36544,7 +36545,6 @@
 0.0.0.0 file.discountmonumentcenter.com
 0.0.0.0 file.dpmf.com.pk
 0.0.0.0 file.ekkggr3.com
-0.0.0.0 file.elecfans.com
 0.0.0.0 file.fm
 0.0.0.0 file.importantcover.uk
 0.0.0.0 file.lauasinh.com
@@ -46595,6 +46595,7 @@
 0.0.0.0 hvyiasubeqweqw.com
 0.0.0.0 hvyyda.by.files.1drv.com
 0.0.0.0 hw.lanbaba666.cn
+0.0.0.0 hw2sss.xyz
 0.0.0.0 hwalek.com
 0.0.0.0 hwang88.com
 0.0.0.0 hwasungchem.co.kr
@@ -49305,6 +49306,7 @@
 0.0.0.0 inthemood.ltd
 0.0.0.0 inthenhuagiatot.com
 0.0.0.0 inthetech.co.kr
+0.0.0.0 inthisplase.com
 0.0.0.0 inthistogether.online
 0.0.0.0 intideares.ru
 0.0.0.0 intimateimagery.com
@@ -52372,6 +52374,7 @@
 0.0.0.0 js-assets.download
 0.0.0.0 js-forum.de
 0.0.0.0 js-home.de
+0.0.0.0 js-hurling.com
 0.0.0.0 js.5b6b7b.ru
 0.0.0.0 js.abscollege.ac.in
 0.0.0.0 js.mys2016.info
@@ -66352,7 +66355,6 @@
 0.0.0.0 mototorg.com
 0.0.0.0 motov8d.com
 0.0.0.0 motoyazd.ir
-0.0.0.0 mottanet.com.br
 0.0.0.0 mottau.co.bw
 0.0.0.0 mottau.co.bw.md-14.webhostbox.net
 0.0.0.0 motto.com.tr
@@ -66742,6 +66744,7 @@
 0.0.0.0 msofficeinternatiinalfilecloudtransfer.duckdns.org
 0.0.0.0 msofficesecuredfiletransferinfocloud.duckdns.org
 0.0.0.0 msofficewordfiletransfertotheadmintrue.duckdns.org
+0.0.0.0 msoftwares.info
 0.0.0.0 msograteful.com
 0.0.0.0 mspcville.com
 0.0.0.0 mspn.com.au
@@ -69505,6 +69508,7 @@
 0.0.0.0 nfefazendaportalprincipal.com
 0.0.0.0 nfegratuito.myrp.com.br
 0.0.0.0 nfgmedia.com
+0.0.0.0 nfis.com
 0.0.0.0 nfj254aim.com
 0.0.0.0 nfog2018.dk
 0.0.0.0 nforsdt.org.np
@@ -81194,6 +81198,7 @@
 0.0.0.0 regalosdemaria.com.br
 0.0.0.0 regalosypremiosdirectos.com
 0.0.0.0 regalscoin.co
+0.0.0.0 regandren.com
 0.0.0.0 regatta2223.com
 0.0.0.0 rege316.com
 0.0.0.0 regenag.co.uk
@@ -83807,7 +83812,6 @@
 0.0.0.0 sabzamoz.ir
 0.0.0.0 sabzgame.ir
 0.0.0.0 sabzoabi.ir
-0.0.0.0 sac-qa.com
 0.0.0.0 sac-serv.com
 0.0.0.0 sac-sofom.com
 0.0.0.0 sac2.11xii.com
@@ -85003,6 +85007,7 @@
 0.0.0.0 satyammetals.com
 0.0.0.0 satyasumamarketers.in
 0.0.0.0 satyrodesign.com.br
+0.0.0.0 satysservs.com
 0.0.0.0 sauamg.manivelasst.com
 0.0.0.0 sauber.lat
 0.0.0.0 sauceismoney.com
@@ -89828,7 +89833,6 @@
 0.0.0.0 sokkenkraam.nl
 0.0.0.0 sokodigital.co.ke
 0.0.0.0 sokolbedrichov.cz
-0.0.0.0 sokouganda.net
 0.0.0.0 sokrethandpiphear.com
 0.0.0.0 sokrit-mb-app.freelancekh.com
 0.0.0.0 soksanhotels.com
@@ -91376,6 +91380,7 @@
 0.0.0.0 staiacasabar.com
 0.0.0.0 staialakbarsurabaya.ac.id
 0.0.0.0 staida.ac.id
+0.0.0.0 stainless.fun
 0.0.0.0 stainlesssupply.com
 0.0.0.0 stairnaheireann.ie
 0.0.0.0 stajer.eu
@@ -92087,7 +92092,6 @@
 0.0.0.0 stiebumiputera.ac.id
 0.0.0.0 stiedemann-alvah30hq.ru.com
 0.0.0.0 stiefkind.art
-0.0.0.0 stiepancasetia.ac.id
 0.0.0.0 stiga.nvd.by
 0.0.0.0 stigram.lv
 0.0.0.0 stiha.nl
@@ -98100,7 +98104,6 @@
 0.0.0.0 tischer.ro
 0.0.0.0 tischlereigrund.de
 0.0.0.0 tischlerkueche.at
-0.0.0.0 tisdalecpa.com
 0.0.0.0 tise.me
 0.0.0.0 tishbullard.com
 0.0.0.0 tishreycarmelim.co.il
@@ -101543,6 +101546,7 @@
 0.0.0.0 update15.hospedagemdesites.ws
 0.0.0.0 update24.ch
 0.0.0.0 update365office.com
+0.0.0.0 update6.satysservs.com
 0.0.0.0 update9.cte.99.com
 0.0.0.0 updateadovesettings.io
 0.0.0.0 updatedaily.in
@@ -101766,7 +101770,6 @@
 0.0.0.0 url.246546.com
 0.0.0.0 url.57569.fr.snd52.ch
 0.0.0.0 url.sg
-0.0.0.0 url3.mailanyone.net
 0.0.0.0 url5459.41southbar.com
 0.0.0.0 url675.textilmallorca.com
 0.0.0.0 url9823.ville.labrecque.qc.ca
@@ -101816,6 +101819,7 @@
 0.0.0.0 usa-market.org
 0.0.0.0 usa.artillery.cf
 0.0.0.0 usa.slackart.ch
+0.0.0.0 usa1services.com
 0.0.0.0 usa24i3.duckdns.org
 0.0.0.0 usaacrylic.com
 0.0.0.0 usabilitychefs.com
