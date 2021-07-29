@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 29 Jul 2021 00:10:32 +0000
+# Updated: Thu, 29 Jul 2021 12:10:39 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3660,6 +3660,7 @@
 0.0.0.0 aelmas.5gbfree.com
 0.0.0.0 aelogica.com
 0.0.0.0 aemgrup.com.tr
+0.0.0.0 aemine.vn
 0.0.0.0 aemo-mecanique-usinage.fr
 0.0.0.0 aengineeringltd.com
 0.0.0.0 aeondor.com
@@ -7570,6 +7571,7 @@
 0.0.0.0 apiesteso.com
 0.0.0.0 apifile.xyz
 0.0.0.0 apifm.in
+0.0.0.0 apigeoip.com
 0.0.0.0 apihomes.us
 0.0.0.0 apiperjuangan.com
 0.0.0.0 apipro.com.br
@@ -17323,7 +17325,6 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
-0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -25821,6 +25822,7 @@
 0.0.0.0 dealsmedia.in
 0.0.0.0 dealsnow.com.ng
 0.0.0.0 dealspotservices.com
+0.0.0.0 dealtimer.com
 0.0.0.0 deam.cl
 0.0.0.0 deam.com.vn
 0.0.0.0 deambulations-nomades.eu
@@ -25941,6 +25943,7 @@
 0.0.0.0 decoronthemove.co.za
 0.0.0.0 decorsfantasmo.com
 0.0.0.0 decorstoff.com
+0.0.0.0 decorstyle.ig.com.br
 0.0.0.0 decortez.com
 0.0.0.0 decortie.top
 0.0.0.0 decosa.co.hu
@@ -34259,7 +34262,6 @@
 0.0.0.0 etysu02scnabr03wzaxue.com
 0.0.0.0 eu-easy.com
 0.0.0.0 eu.wildfire.paloaltonetworks.com
-0.0.0.0 eu1.salesforce.com
 0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eu283iwoqodjspqisjdf.com
 0.0.0.0 eu5-cdn.devid.info
@@ -35125,6 +35127,7 @@
 0.0.0.0 f.pastdobi.ru
 0.0.0.0 f.regardisperfectshild.ru
 0.0.0.0 f.tolganfor.ru
+0.0.0.0 f.top4top.io
 0.0.0.0 f.top4top.net
 0.0.0.0 f.tsuyogari.ru
 0.0.0.0 f.uaalgee33.com
@@ -40613,7 +40616,6 @@
 0.0.0.0 gileadappbackoffice.com
 0.0.0.0 gilesrichardsonphoto.com
 0.0.0.0 gilgaluganda.org
-0.0.0.0 gilhb.com
 0.0.0.0 gilhotras.alwarfoodies.com
 0.0.0.0 gilio.com.mx
 0.0.0.0 gill-holiday-2013.gillfoundation.org
@@ -44482,7 +44484,6 @@
 0.0.0.0 help.siganet.com.br
 0.0.0.0 help.talisman-sql.ru
 0.0.0.0 help.thetechguyusa.com
-0.0.0.0 help.wework.com
 0.0.0.0 help2help.info
 0.0.0.0 help3in1.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 helpandinformation.uk
@@ -67362,6 +67363,7 @@
 0.0.0.0 my.findsr.co
 0.0.0.0 my.jiwa-nala.org
 0.0.0.0 my.loungu.com
+0.0.0.0 my.mail.de
 0.0.0.0 my.mixtape.moe
 0.0.0.0 my.pop9ja.com.ng
 0.0.0.0 my.zhaopin.com
@@ -67490,6 +67492,7 @@
 0.0.0.0 mydogpath.com
 0.0.0.0 mydogtraining.us
 0.0.0.0 mydomainstp.info
+0.0.0.0 mydownloads.myftp.org
 0.0.0.0 mydreft.com
 0.0.0.0 mydress.com.br
 0.0.0.0 mydreve.com
@@ -74281,7 +74284,6 @@
 0.0.0.0 pastabassi.com.br
 0.0.0.0 pastaciyiz.biz
 0.0.0.0 pastavadese.com
-0.0.0.0 paste-bin.xyz
 0.0.0.0 paste.makomk.com
 0.0.0.0 pastelcolors.in
 0.0.0.0 pastex.pro
@@ -75495,6 +75497,7 @@
 0.0.0.0 phoneexpertxl.nl
 0.0.0.0 phonelocaltoday.com
 0.0.0.0 phonerepaircentre.com.au
+0.0.0.0 phoneringtones.info
 0.0.0.0 phones.pmrspain.com
 0.0.0.0 phonestore-telephonie.fr
 0.0.0.0 phonestore.vn
@@ -75865,7 +75868,6 @@
 0.0.0.0 pinkafricafoundation.org
 0.0.0.0 pinkandbluetinytots.com
 0.0.0.0 pinkbabies.net
-0.0.0.0 pinkbroadband.in
 0.0.0.0 pinkconnext.com
 0.0.0.0 pinkesocken.de
 0.0.0.0 pinkflame.chsweb.org
@@ -85027,7 +85029,6 @@
 0.0.0.0 satyammetals.com
 0.0.0.0 satyasumamarketers.in
 0.0.0.0 satyrodesign.com.br
-0.0.0.0 satysservs.com
 0.0.0.0 sauamg.manivelasst.com
 0.0.0.0 sauber.lat
 0.0.0.0 sauceismoney.com
@@ -85967,6 +85968,7 @@
 0.0.0.0 seferisrael.co.il
 0.0.0.0 sefidesign.com
 0.0.0.0 sefinancer.fr
+0.0.0.0 sefp-boispro.fr
 0.0.0.0 seftil.com
 0.0.0.0 seftonclc.co.uk
 0.0.0.0 seftonplaycouncil.org.uk
@@ -101568,7 +101570,6 @@
 0.0.0.0 update15.hospedagemdesites.ws
 0.0.0.0 update24.ch
 0.0.0.0 update365office.com
-0.0.0.0 update6.satysservs.com
 0.0.0.0 update9.cte.99.com
 0.0.0.0 updateadovesettings.io
 0.0.0.0 updatedaily.in
@@ -103183,7 +103184,6 @@
 0.0.0.0 vidafilm.mx
 0.0.0.0 vidalaviva.com
 0.0.0.0 vidalgesso.com.br
-0.0.0.0 vidalhealth.com
 0.0.0.0 vidamelhor.online
 0.0.0.0 vidamelhor.shop
 0.0.0.0 vidardeep4.icu
@@ -106274,6 +106274,7 @@
 0.0.0.0 wingscart.in
 0.0.0.0 wingscooling.com
 0.0.0.0 wingsingreen.com
+0.0.0.0 winhaf05.top
 0.0.0.0 winhall.org
 0.0.0.0 wininin.com
 0.0.0.0 wininstantly.info
@@ -106298,6 +106299,7 @@
 0.0.0.0 winningmindssolutions.com
 0.0.0.0 winningsem.com
 0.0.0.0 winningstocktrades.com
+0.0.0.0 winolb06.top
 0.0.0.0 winqits.com
 0.0.0.0 winqoz02.top
 0.0.0.0 winquest.ru

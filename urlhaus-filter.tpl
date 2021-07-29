@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 29 Jul 2021 00:10:32 +0000
+# Updated: Thu, 29 Jul 2021 12:10:39 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3663,6 +3663,7 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
+-d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -7573,6 +7574,7 @@ msFilterList
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
+-d apigeoip.com
 -d apihomes.us
 -d apiperjuangan.com
 -d apipro.com.br
@@ -17326,7 +17328,6 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
--d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -25824,6 +25825,7 @@ msFilterList
 -d dealsmedia.in
 -d dealsnow.com.ng
 -d dealspotservices.com
+-d dealtimer.com
 -d deam.cl
 -d deam.com.vn
 -d deambulations-nomades.eu
@@ -25944,6 +25946,7 @@ msFilterList
 -d decoronthemove.co.za
 -d decorsfantasmo.com
 -d decorstoff.com
+-d decorstyle.ig.com.br
 -d decortez.com
 -d decortie.top
 -d decosa.co.hu
@@ -34262,7 +34265,6 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-easy.com
 -d eu.wildfire.paloaltonetworks.com
--d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -35128,6 +35130,7 @@ msFilterList
 -d f.pastdobi.ru
 -d f.regardisperfectshild.ru
 -d f.tolganfor.ru
+-d f.top4top.io
 -d f.top4top.net
 -d f.tsuyogari.ru
 -d f.uaalgee33.com
@@ -40616,7 +40619,6 @@ msFilterList
 -d gileadappbackoffice.com
 -d gilesrichardsonphoto.com
 -d gilgaluganda.org
--d gilhb.com
 -d gilhotras.alwarfoodies.com
 -d gilio.com.mx
 -d gill-holiday-2013.gillfoundation.org
@@ -44485,7 +44487,6 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
--d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -67365,6 +67366,7 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
+-d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -67493,6 +67495,7 @@ msFilterList
 -d mydogpath.com
 -d mydogtraining.us
 -d mydomainstp.info
+-d mydownloads.myftp.org
 -d mydreft.com
 -d mydress.com.br
 -d mydreve.com
@@ -74284,7 +74287,6 @@ msFilterList
 -d pastabassi.com.br
 -d pastaciyiz.biz
 -d pastavadese.com
--d paste-bin.xyz
 -d paste.makomk.com
 -d pastelcolors.in
 -d pastex.pro
@@ -75498,6 +75500,7 @@ msFilterList
 -d phoneexpertxl.nl
 -d phonelocaltoday.com
 -d phonerepaircentre.com.au
+-d phoneringtones.info
 -d phones.pmrspain.com
 -d phonestore-telephonie.fr
 -d phonestore.vn
@@ -75868,7 +75871,6 @@ msFilterList
 -d pinkafricafoundation.org
 -d pinkandbluetinytots.com
 -d pinkbabies.net
--d pinkbroadband.in
 -d pinkconnext.com
 -d pinkesocken.de
 -d pinkflame.chsweb.org
@@ -85030,7 +85032,6 @@ msFilterList
 -d satyammetals.com
 -d satyasumamarketers.in
 -d satyrodesign.com.br
--d satysservs.com
 -d sauamg.manivelasst.com
 -d sauber.lat
 -d sauceismoney.com
@@ -85970,6 +85971,7 @@ msFilterList
 -d seferisrael.co.il
 -d sefidesign.com
 -d sefinancer.fr
+-d sefp-boispro.fr
 -d seftil.com
 -d seftonclc.co.uk
 -d seftonplaycouncil.org.uk
@@ -101571,7 +101573,6 @@ msFilterList
 -d update15.hospedagemdesites.ws
 -d update24.ch
 -d update365office.com
--d update6.satysservs.com
 -d update9.cte.99.com
 -d updateadovesettings.io
 -d updatedaily.in
@@ -103186,7 +103187,6 @@ msFilterList
 -d vidafilm.mx
 -d vidalaviva.com
 -d vidalgesso.com.br
--d vidalhealth.com
 -d vidamelhor.online
 -d vidamelhor.shop
 -d vidardeep4.icu
@@ -106277,6 +106277,7 @@ msFilterList
 -d wingscart.in
 -d wingscooling.com
 -d wingsingreen.com
+-d winhaf05.top
 -d winhall.org
 -d wininin.com
 -d wininstantly.info
@@ -106301,6 +106302,7 @@ msFilterList
 -d winningmindssolutions.com
 -d winningsem.com
 -d winningstocktrades.com
+-d winolb06.top
 -d winqits.com
 -d winqoz02.top
 -d winquest.ru

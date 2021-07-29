@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Thu, 29 Jul 2021 00:10:32 +0000
+# Updated: Thu, 29 Jul 2021 12:10:39 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -50,6 +50,7 @@
 0.0.0.0 ag-grupfinanza.com
 0.0.0.0 agemn.co.za
 0.0.0.0 agewsage.com
+0.0.0.0 aiecons.com
 0.0.0.0 ajpharmaholding.com
 0.0.0.0 akdvidyalaya.com
 0.0.0.0 al-wahd.com
@@ -68,7 +69,6 @@
 0.0.0.0 amordeparede.com
 0.0.0.0 andremaraisbeleggings.co.za
 0.0.0.0 andres.ug
-0.0.0.0 androidmedallo.duckdns.org
 0.0.0.0 anysbergbiltong.co.za
 0.0.0.0 apartamentoscitta.com
 0.0.0.0 api-ms.cobainaja.id
@@ -108,7 +108,6 @@
 0.0.0.0 balbinop.github.io
 0.0.0.0 ball191.com
 0.0.0.0 ballatstone.com
-0.0.0.0 bangkok-orchids.com
 0.0.0.0 bash.givemexyz.in
 0.0.0.0 basquetbol.negotech.com.mx
 0.0.0.0 bbia.co.uk
@@ -177,6 +176,7 @@
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cdn.doxbin.org
+0.0.0.0 cdn.tmooc.cn
 0.0.0.0 cellas.sk
 0.0.0.0 cendekiabinaaksara.com
 0.0.0.0 centrodeesteticapopular.com.br
@@ -186,7 +186,6 @@
 0.0.0.0 cfs7.blog.daum.net
 0.0.0.0 cfs9.blog.daum.net
 0.0.0.0 changematterscounselling.com
-0.0.0.0 chardhamdodham.com
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 chezalice.co.za
 0.0.0.0 childselect.com
@@ -229,6 +228,7 @@
 0.0.0.0 crmroche.manivelasst.com
 0.0.0.0 cryptoforextrading56.com
 0.0.0.0 csnserver.com
+0.0.0.0 ctracknxt.in
 0.0.0.0 cubescargoexpress.com
 0.0.0.0 currantmedia.com
 0.0.0.0 cutting-edge.in
@@ -302,12 +302,13 @@
 0.0.0.0 download.caihong.com
 0.0.0.0 download.doumaibiji.cn
 0.0.0.0 download.pdf00.cn
-0.0.0.0 download.rising.com.cn
 0.0.0.0 download.skycn.com
 0.0.0.0 dragonsknot.com
 0.0.0.0 drbaby.com.sa
+0.0.0.0 drgroup.co.za
 0.0.0.0 dropimagestudio.com
 0.0.0.0 drsha.innovativesolutions.mobi
+0.0.0.0 dsenterprize.co.za
 0.0.0.0 dsmsystem.com.py
 0.0.0.0 du-wizards.com
 0.0.0.0 dutapp.wisolve.co.za
@@ -403,7 +404,6 @@
 0.0.0.0 growupmedia.pk
 0.0.0.0 grupoinmare.com
 0.0.0.0 gruposelt.000webhostapp.com
-0.0.0.0 gs.monerorx.com
 0.0.0.0 guillermomanrique.com.mx
 0.0.0.0 guongnoithat.com
 0.0.0.0 h.epelcdn.com
@@ -467,7 +467,6 @@
 0.0.0.0 infopoint20.com
 0.0.0.0 informatika.undhirabali.ac.id
 0.0.0.0 infovator.com
-0.0.0.0 inkedmicrobladingparlor.com
 0.0.0.0 innagro.com.br
 0.0.0.0 inodesthetotaldesigners.com
 0.0.0.0 inoglink.com
@@ -502,7 +501,6 @@
 0.0.0.0 jomtenet.com
 0.0.0.0 jpcleaningservices2.davaohorizon.com
 0.0.0.0 jpwoodfordco.com
-0.0.0.0 js-hurling.com
 0.0.0.0 jupiter.toxsl.in
 0.0.0.0 justinscott.com.au
 0.0.0.0 jyk85mxc.z1001.net
@@ -530,7 +528,6 @@
 0.0.0.0 krishnapowers.com
 0.0.0.0 ks.cn
 0.0.0.0 ktkbeauty.com.sg
-0.0.0.0 kumaralok.in
 0.0.0.0 kurumsal.avantajbulvari.com
 0.0.0.0 lameguard.ru
 0.0.0.0 landing.yetiapp.ec
@@ -573,8 +570,8 @@
 0.0.0.0 lupasgroup.com
 0.0.0.0 m-technics.kz
 0.0.0.0 m.hindikhabar.com
-0.0.0.0 madicon.co.za
 0.0.0.0 mail.aladhwa-sch.com
+0.0.0.0 mail.bs-eiendomme.co.za
 0.0.0.0 mail1.hacachurch.org
 0.0.0.0 mailer.srkcommunication.biz
 0.0.0.0 maioakinspires.com
@@ -595,8 +592,6 @@
 0.0.0.0 maxiquim.cl
 0.0.0.0 mbgrm.com
 0.0.0.0 mbsolutions.ge
-0.0.0.0 media-server.skyinternet.com.pk
-0.0.0.0 medianews.ge
 0.0.0.0 meeweb.com
 0.0.0.0 megagynreformas.com.br
 0.0.0.0 megahijauasri.co.id
@@ -643,6 +638,7 @@
 0.0.0.0 mxpiqw.am.files.1drv.com
 0.0.0.0 mydocumentscloud.com
 0.0.0.0 mydocumentscloud.xyz
+0.0.0.0 mydownloads.myftp.org
 0.0.0.0 mymlql.com
 0.0.0.0 myreferrals.net
 0.0.0.0 myritz.vettickal.com
@@ -801,12 +797,12 @@
 0.0.0.0 ruisgood.ru
 0.0.0.0 ruwadalkuwait.com
 0.0.0.0 s.51shijuan.com
+0.0.0.0 sabaint.me
 0.0.0.0 sacredscentsonline.com
 0.0.0.0 safcol-colors.com
 0.0.0.0 safehubsecurity.ca
 0.0.0.0 safety.nanotechproautocare.com
 0.0.0.0 sahathaikasetpan.com
-0.0.0.0 sainzim.co.za
 0.0.0.0 sangariri.github.io
 0.0.0.0 santyago.org
 0.0.0.0 sarl-entrain.fr
@@ -823,15 +819,12 @@
 0.0.0.0 senbiaojita.com
 0.0.0.0 sendizarlogistics.com
 0.0.0.0 sericaasia.com
-0.0.0.0 service.easytrace.mn
-0.0.0.0 serviciovirtual.com.ar
 0.0.0.0 servis.altankarakaya.com
 0.0.0.0 seryzpiekielnika.pl
 0.0.0.0 sexologistpakistan.net
 0.0.0.0 sgessy.com.br
 0.0.0.0 shaheentbfoundation.com
 0.0.0.0 shahikhana.cstdevs.com
-0.0.0.0 shahrakyar.com
 0.0.0.0 shahu66.com
 0.0.0.0 shalombaptistchapel.com
 0.0.0.0 shareunlimited.net
@@ -852,7 +845,6 @@
 0.0.0.0 simoneporzi.it
 0.0.0.0 sindpol.tiejuris.com.br
 0.0.0.0 singlebridal.com
-0.0.0.0 sipahielektrik.com
 0.0.0.0 sistelligent.com
 0.0.0.0 skyscan.com
 0.0.0.0 sman1paguyaman.sch.id
@@ -864,7 +856,6 @@
 0.0.0.0 solucoesead.com
 0.0.0.0 somcorbera.cat
 0.0.0.0 sota-france.fr
-0.0.0.0 space.proactint.org
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spent.com.pl
 0.0.0.0 spetsesyachtcharter.gr
@@ -976,7 +967,6 @@
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 uniengrisb.com
 0.0.0.0 unisoftcc.com
-0.0.0.0 uniyos.ac.id
 0.0.0.0 up.llw0.com
 0.0.0.0 upcbpta.com
 0.0.0.0 urologiaportugues.com.br
@@ -1012,7 +1002,6 @@
 0.0.0.0 vpinversiones.cl
 0.0.0.0 vpts.co.za
 0.0.0.0 vulkanvegas-de.katchpurcity.com
-0.0.0.0 vulkanvegasonline.katchpurcity.com
 0.0.0.0 vvsskmodinationalschool.com
 0.0.0.0 w.xnlyr.cn
 0.0.0.0 walletwasabi.io
@@ -1028,9 +1017,9 @@
 0.0.0.0 wi522012.ferozo.com
 0.0.0.0 wildnights.co.uk
 0.0.0.0 wildtrust.mediadevstaging.com
-0.0.0.0 wildwoodex.com
-0.0.0.0 willow-nettica.com
 0.0.0.0 windcomtechnologies.com
+0.0.0.0 winhaf05.top
+0.0.0.0 winolb06.top
 0.0.0.0 winqoz02.top
 0.0.0.0 winxob04.top
 0.0.0.0 winyon03.top
@@ -1038,14 +1027,12 @@
 0.0.0.0 wizesales.com
 0.0.0.0 wj8pgg.am.files.1drv.com
 0.0.0.0 wjq63w.am.files.1drv.com
-0.0.0.0 wnsetup.net
 0.0.0.0 woezon.agency
 0.0.0.0 wolfgang-brodte.de
 0.0.0.0 wordpress.saleensuporte.com.br
 0.0.0.0 wozata.000webhostapp.com
 0.0.0.0 wp.readhere.in
 0.0.0.0 wrpcbg.am.files.1drv.com
-0.0.0.0 ws5588.f3322.net
 0.0.0.0 wyklej.pl
 0.0.0.0 x2vn.com
 0.0.0.0 xispoli.eu
