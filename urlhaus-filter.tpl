@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Wed, 28 Jul 2021 12:10:53 +0000
+# Updated: Thu, 29 Jul 2021 00:10:32 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3721,6 +3721,7 @@ msFilterList
 -d aestheticsurgery.vn
 -d aesthetix.in
 -d aetastropicana.com
+-d aetheriss.com.cn
 -d aethoscorp.com
 -d aetruckmaint.com
 -d aetstranslation.com.au
@@ -5599,6 +5600,7 @@ msFilterList
 -d alliedglobetech.com
 -d alliedhealthmoh.gov.my
 -d alliedlibertyfinancial.com
+-d alliedpanama.com
 -d alliedpipelinesconstructions.com
 -d alliedschoolsuperiorbahria.com
 -d alliedtaxpoint.com
@@ -8846,6 +8848,7 @@ msFilterList
 -d artprintgard.ro
 -d artpsikoloji.net
 -d artquimia.co
+-d artreflex.ru
 -d artrenewal.pl
 -d artrosmed.de
 -d artroute.capetown
@@ -10836,6 +10839,8 @@ msFilterList
 -d azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 -d azure-team.com
 -d azureautomation.co.uk
+-d azuredocs.one
+-d azuredocs.org
 -d azurein360.com
 -d azuremoonentertainment.mobi
 -d azuresys.com
@@ -28953,6 +28958,7 @@ msFilterList
 -d documents.total-cloud.biz
 -d documentshareil.com
 -d documentsignatures.live
+-d documentupdates.com
 -d docupguru.com
 -d docuserver1.com
 -d docusign-filemkais.ml
@@ -28963,6 +28969,7 @@ msFilterList
 -d docusignatures.live
 -d docusignatures.online
 -d docusignsecpro.com
+-d docusignupdates.com
 -d docusiqn.ml
 -d docwordfilemicrosoftinterenationalexchan.duckdns.org
 -d docxuploads.com
@@ -35606,6 +35613,7 @@ msFilterList
 -d farabiit.xyz
 -d farabioffplotproetrack.lthe.com
 -d farabtrade.com
+-d farago-aveyron.com
 -d farahcarpets.co.id
 -d farahni.com
 -d farahoor.com
@@ -35783,6 +35791,8 @@ msFilterList
 -d fastcj.com
 -d fastdelivery8v.com
 -d fastdns1.com
+-d fastdocusign.one
+-d fastdocusign.org
 -d fastdrama.live
 -d fasteasyupdates.com
 -d fastech.com.tr
@@ -36108,6 +36118,7 @@ msFilterList
 -d feed.tetratechsol.com
 -d feedback.handcraftedrealty.com
 -d feedbackdownload.download
+-d feedbackdownload.today
 -d feedbackportal.download
 -d feedingyourhealth.com
 -d feednerd.com
@@ -37294,6 +37305,7 @@ msFilterList
 -d fleuve.tk
 -d flewer.pl
 -d flex.hamburg
+-d flex.ru
 -d flexiblecow.com
 -d flexilifephysio.in
 -d flexisales.com
@@ -38398,6 +38410,7 @@ msFilterList
 -d freshenergy.co.nz
 -d freshers.luminescent.digital
 -d fresherslab.in
+-d freshersnews.co.in
 -d freshersvista.com
 -d freshjobagency.com
 -d freshjobportal.com
@@ -46235,6 +46248,7 @@ msFilterList
 -d hrp.meerai.eu
 -d hrpm.ca
 -d hrportal.co.il
+-d hrprofi.sk
 -d hrroadlines.com
 -d hrrwn.xyz
 -d hrsgkworker.com
@@ -49030,6 +49044,7 @@ msFilterList
 -d institutefordevelopmentalcoaching.com
 -d instituthypnos.com
 -d institutionalknowledgemanagement.com
+-d institutionclose.com
 -d institutits.rs
 -d institutmestres.com
 -d instituto.romonever.com
@@ -50913,6 +50928,7 @@ msFilterList
 -d jaservicioscontables.casteviajes.com
 -d jasesoi.com
 -d jaset.com.mx
+-d jashmusic.com
 -d jashneadab.org
 -d jasminbet.me
 -d jasminblanche.com
@@ -67471,6 +67487,8 @@ msFilterList
 -d mydocumentpdf.com
 -d mydocuments.cc
 -d mydocuments1.is
+-d mydocumentscloud.com
+-d mydocumentscloud.xyz
 -d mydogmybuddy.com
 -d mydogpath.com
 -d mydogtraining.us
@@ -74862,6 +74880,7 @@ msFilterList
 -d pennasports.com
 -d penneytrail.org
 -d penniesforsense.com
+-d pennjil.com
 -d pennoscan.com.au
 -d pennyboldbridal.com
 -d penochao.resultaweb.com.br
@@ -80831,6 +80850,7 @@ msFilterList
 -d readersareleader.com
 -d readersforum.tk
 -d reading-parkerms-yrbs-2017.rothenbach-research.com
+-d readinglistforjuly10.xyz
 -d readnlead.de
 -d readnow.ml
 -d readtraining.co.uk
@@ -93759,6 +93779,7 @@ msFilterList
 -d swqatesting4.com
 -d swradio.co.uk
 -d swrego.able.com.pg
+-d swsaseguranca.com.br
 -d swscripts.com
 -d swselectivesearch.com
 -d swsgroup.sws-group.net
@@ -101413,6 +101434,7 @@ msFilterList
 -d uniworldstudios.com
 -d unixboxes.com
 -d unixfit.moscow
+-d uniyos.ac.id
 -d unizonahealthcare.org
 -d unkk.top
 -d unknown-soft.com
@@ -106280,6 +106302,7 @@ msFilterList
 -d winningsem.com
 -d winningstocktrades.com
 -d winqits.com
+-d winqoz02.top
 -d winquest.ru
 -d wins-power.com
 -d winsecure2020.com
@@ -106310,6 +106333,7 @@ msFilterList
 -d winwordpress.tri-core.net
 -d winx-cheat.com
 -d winx64update.com
+-d winxob04.top
 -d winyon03.top
 -d winz.in
 -d winzdaylove.com
@@ -110295,6 +110319,7 @@ msFilterList
 -d zoodoxos.gr
 -d zoolandia.boo.pl
 -d zoom-machinery.com
+-d zoomagazin.az
 -d zoomandshootphotography.com
 -d zoomdrive.com.au
 -d zoomevents.pl
