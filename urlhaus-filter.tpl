@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 29 Jul 2021 12:10:39 +0000
+# Updated: Fri, 30 Jul 2021 00:10:41 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -875,7 +875,6 @@ msFilterList
 -d 2ndscreensociety.com
 -d 2nell.com
 -d 2nf.me
--d 2no.co
 -d 2nong.vn
 -d 2nub.es
 -d 2p-raum.com
@@ -7081,7 +7080,6 @@ msFilterList
 -d anjomanisargaran.ir
 -d anjomanmodaresin.ir
 -d anjosapp.com.br
--d anjosdaesperanca.com
 -d anjoue.jp
 -d anjsolution.com
 -d anjumanclick.com
@@ -8850,7 +8848,6 @@ msFilterList
 -d artprintgard.ro
 -d artpsikoloji.net
 -d artquimia.co
--d artreflex.ru
 -d artrenewal.pl
 -d artrosmed.de
 -d artroute.capetown
@@ -37308,7 +37305,6 @@ msFilterList
 -d fleuve.tk
 -d flewer.pl
 -d flex.hamburg
--d flex.ru
 -d flexiblecow.com
 -d flexilifephysio.in
 -d flexisales.com
@@ -61895,6 +61891,7 @@ msFilterList
 -d maquiagemnaweb.vivendoeempreendendoonline.com
 -d maquinaconcurso.com
 -d maquinadefalaringles.info
+-d maquinadosgutierrez.com
 -d maquinariablack.com
 -d maquinascgm.cl
 -d maquinasisensee.com.br
@@ -66566,6 +66563,7 @@ msFilterList
 -d mr-log.ru
 -d mr-uka.com
 -d mr-website.ir
+-d mra.gov.pg
 -d mracessorios.com
 -d mracinfissi.com
 -d mrafieian.ir
@@ -67732,6 +67730,7 @@ msFilterList
 -d mypromo.online
 -d myprospectjobs.com
 -d mypuppysitter.com
+-d myqbd.com
 -d myquotes.club
 -d myracc.com
 -d myradar.rawntech.com
@@ -81586,6 +81585,7 @@ msFilterList
 -d rentwithconfidence.com
 -d renu-bansal.com
 -d renukagraphics.com
+-d renximy.com
 -d renzofurniture.ir
 -d reobotealimentos.com.br
 -d reogtiket.com
@@ -95085,6 +95085,7 @@ msFilterList
 -d techgroup.com.ar
 -d techguide4u.com
 -d techguyassist.com
+-d techgym.jp
 -d techhampton.com
 -d techhiedunia.com
 -d techhubsol.com
@@ -95598,7 +95599,6 @@ msFilterList
 -d tendep.com
 -d tenderheartfoundation.org
 -d tenderind.com
--d tenders-dz.com
 -d tendwalk.com
 -d tenedromhouses.com
 -d tenelevendirectsales.com
@@ -106437,7 +106437,6 @@ msFilterList
 -d witzell.dk
 -d wiu.fxxxxxxk.me
 -d wivup.com
--d wiwa-lokal.de
 -d wiwebdev.com
 -d wiwi-cloud.htw-saarland.de
 -d wiwidwinar.com
@@ -107756,6 +107755,7 @@ msFilterList
 -d xjw10whta03ytgdi.com
 -d xk-mx.com
 -d xk.996is.com
+-d xk1.996is.com
 -d xk625lf.com
 -d xkeji.cn
 -d xkld-nhatban-infinity.com
