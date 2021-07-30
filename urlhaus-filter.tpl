@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 30 Jul 2021 00:10:41 +0000
+# Updated: Fri, 30 Jul 2021 12:10:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1995,6 +1995,7 @@ msFilterList
 -d a.deadnig.ga
 -d a.doko.moe
 -d a.gg.fm
+-d a.goatgame.co
 -d a.heritageandterre.com
 -d a.pomf.cat
 -d a.pomf.se
@@ -6354,6 +6355,7 @@ msFilterList
 -d americanmicrosoftclouddepartment.duckdns.org
 -d americanmusclecar.site
 -d americanpatriotlife.com
+-d americanrange.com
 -d americanrelieffundingagent.org
 -d americanreliefhub.com
 -d americanspecialtyinsurancegroup.com
@@ -7572,7 +7574,6 @@ msFilterList
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
--d apigeoip.com
 -d apihomes.us
 -d apiperjuangan.com
 -d apipro.com.br
@@ -17325,6 +17326,7 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
+-d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -19399,6 +19401,7 @@ msFilterList
 -d certifica.app.infoweb.boatcover.org
 -d certificadoenergeticourgente.es
 -d certificadoraglp-gnvhersa.com
+-d certificamayor.com
 -d certificate.hrcofindia.co.in
 -d certifice.com
 -d certifiedbuilders-my.sharepoint.com
@@ -24622,7 +24625,6 @@ msFilterList
 -d d0iiinl0ads.online
 -d d0wnl0ads.online
 -d d0wnl0ads.site
--d d1.amobbs.com
 -d d1.dropboxccdn.com
 -d d1.dropboxrcdn.com
 -d d1.dropboxscdn.com
@@ -32673,6 +32675,7 @@ msFilterList
 -d emagusa.tech
 -d emaids.co.za
 -d email-template.webview.consulting
+-d email.accliverpool.com
 -d email.binainsani.com
 -d email.colloquis.com
 -d email.givemeinsurance.com
@@ -34262,6 +34265,7 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-easy.com
 -d eu.wildfire.paloaltonetworks.com
+-d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -40615,6 +40619,7 @@ msFilterList
 -d gileadappbackoffice.com
 -d gilesrichardsonphoto.com
 -d gilgaluganda.org
+-d gilhb.com
 -d gilhotras.alwarfoodies.com
 -d gilio.com.mx
 -d gill-holiday-2013.gillfoundation.org
@@ -42422,6 +42427,7 @@ msFilterList
 -d groupegps.com
 -d groupeicaetudes.com
 -d groupejpr.com
+-d grouper.ieee.org
 -d groupesival.com
 -d groupevl.ca
 -d groupfeaab.com
@@ -44483,6 +44489,7 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
+-d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -45492,7 +45499,6 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
--d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -52065,7 +52071,6 @@ msFilterList
 -d josenutricion.com
 -d joseph.gergis.net
 -d josephalavi.com
--d josephdutton.com
 -d josephinebland.com
 -d josephreynolds.net
 -d josephsaadeh.me
@@ -63253,7 +63258,6 @@ msFilterList
 -d medcureorganics.com
 -d meddaughs.com
 -d medeaser.com
--d mededsys.com
 -d medegbetv.com
 -d medel.it
 -d medenblik.net
@@ -66372,6 +66376,7 @@ msFilterList
 -d mototorg.com
 -d motov8d.com
 -d motoyazd.ir
+-d mottanet.com.br
 -d mottau.co.bw
 -d mottau.co.bw.md-14.webhostbox.net
 -d motto.com.tr
@@ -67364,7 +67369,6 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
--d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -83837,6 +83841,7 @@ msFilterList
 -d sabzamoz.ir
 -d sabzgame.ir
 -d sabzoabi.ir
+-d sac-qa.com
 -d sac-serv.com
 -d sac-sofom.com
 -d sac2.11xii.com
@@ -85971,7 +85976,6 @@ msFilterList
 -d seferisrael.co.il
 -d sefidesign.com
 -d sefinancer.fr
--d sefp-boispro.fr
 -d seftil.com
 -d seftonclc.co.uk
 -d seftonplaycouncil.org.uk
@@ -89858,6 +89862,7 @@ msFilterList
 -d sokkenkraam.nl
 -d sokodigital.co.ke
 -d sokolbedrichov.cz
+-d sokouganda.net
 -d sokrethandpiphear.com
 -d sokrit-mb-app.freelancekh.com
 -d soksanhotels.com
@@ -93875,7 +93880,6 @@ msFilterList
 -d synccloud.net
 -d syncdatacore.net
 -d synchdigital.com
--d synchrnzr.com
 -d synchro.brittanyamanda.com
 -d synchronicsmedia.com
 -d synchronus.de
@@ -98130,6 +98134,7 @@ msFilterList
 -d tischer.ro
 -d tischlereigrund.de
 -d tischlerkueche.at
+-d tisdalecpa.com
 -d tise.me
 -d tishbullard.com
 -d tishreycarmelim.co.il
@@ -106223,6 +106228,7 @@ msFilterList
 -d windowlock.com
 -d windows-framework.com
 -d windows.firewall-gateway.de
+-d windows10cleaner.com
 -d windowsdefender.000webhostapp.com
 -d windowsdefender.eu
 -d windowsdefendergateway.duckdns.org
@@ -106303,6 +106309,7 @@ msFilterList
 -d winningsem.com
 -d winningstocktrades.com
 -d winolb06.top
+-d winorm07.top
 -d winqits.com
 -d winqoz02.top
 -d winquest.ru
@@ -107513,6 +107520,7 @@ msFilterList
 -d xarebi.com
 -d xarebi.org
 -d xarismatrading.co.uk
+-d xarm.top
 -d xastsblopia.us
 -d xatangfc.com
 -d xaveon.com

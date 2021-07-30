@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Fri, 30 Jul 2021 00:10:41 +0000
+# Updated: Fri, 30 Jul 2021 12:10:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1992,6 +1992,7 @@
 0.0.0.0 a.deadnig.ga
 0.0.0.0 a.doko.moe
 0.0.0.0 a.gg.fm
+0.0.0.0 a.goatgame.co
 0.0.0.0 a.heritageandterre.com
 0.0.0.0 a.pomf.cat
 0.0.0.0 a.pomf.se
@@ -6351,6 +6352,7 @@
 0.0.0.0 americanmicrosoftclouddepartment.duckdns.org
 0.0.0.0 americanmusclecar.site
 0.0.0.0 americanpatriotlife.com
+0.0.0.0 americanrange.com
 0.0.0.0 americanrelieffundingagent.org
 0.0.0.0 americanreliefhub.com
 0.0.0.0 americanspecialtyinsurancegroup.com
@@ -7569,7 +7571,6 @@
 0.0.0.0 apiesteso.com
 0.0.0.0 apifile.xyz
 0.0.0.0 apifm.in
-0.0.0.0 apigeoip.com
 0.0.0.0 apihomes.us
 0.0.0.0 apiperjuangan.com
 0.0.0.0 apipro.com.br
@@ -17322,6 +17323,7 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
+0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -19396,6 +19398,7 @@
 0.0.0.0 certifica.app.infoweb.boatcover.org
 0.0.0.0 certificadoenergeticourgente.es
 0.0.0.0 certificadoraglp-gnvhersa.com
+0.0.0.0 certificamayor.com
 0.0.0.0 certificate.hrcofindia.co.in
 0.0.0.0 certifice.com
 0.0.0.0 certifiedbuilders-my.sharepoint.com
@@ -24619,7 +24622,6 @@
 0.0.0.0 d0iiinl0ads.online
 0.0.0.0 d0wnl0ads.online
 0.0.0.0 d0wnl0ads.site
-0.0.0.0 d1.amobbs.com
 0.0.0.0 d1.dropboxccdn.com
 0.0.0.0 d1.dropboxrcdn.com
 0.0.0.0 d1.dropboxscdn.com
@@ -32670,6 +32672,7 @@
 0.0.0.0 emagusa.tech
 0.0.0.0 emaids.co.za
 0.0.0.0 email-template.webview.consulting
+0.0.0.0 email.accliverpool.com
 0.0.0.0 email.binainsani.com
 0.0.0.0 email.colloquis.com
 0.0.0.0 email.givemeinsurance.com
@@ -34259,6 +34262,7 @@
 0.0.0.0 etysu02scnabr03wzaxue.com
 0.0.0.0 eu-easy.com
 0.0.0.0 eu.wildfire.paloaltonetworks.com
+0.0.0.0 eu1.salesforce.com
 0.0.0.0 eu14.tmd.cloud
 0.0.0.0 eu283iwoqodjspqisjdf.com
 0.0.0.0 eu5-cdn.devid.info
@@ -40612,6 +40616,7 @@
 0.0.0.0 gileadappbackoffice.com
 0.0.0.0 gilesrichardsonphoto.com
 0.0.0.0 gilgaluganda.org
+0.0.0.0 gilhb.com
 0.0.0.0 gilhotras.alwarfoodies.com
 0.0.0.0 gilio.com.mx
 0.0.0.0 gill-holiday-2013.gillfoundation.org
@@ -42419,6 +42424,7 @@
 0.0.0.0 groupegps.com
 0.0.0.0 groupeicaetudes.com
 0.0.0.0 groupejpr.com
+0.0.0.0 grouper.ieee.org
 0.0.0.0 groupesival.com
 0.0.0.0 groupevl.ca
 0.0.0.0 groupfeaab.com
@@ -44480,6 +44486,7 @@
 0.0.0.0 help.siganet.com.br
 0.0.0.0 help.talisman-sql.ru
 0.0.0.0 help.thetechguyusa.com
+0.0.0.0 help.wework.com
 0.0.0.0 help2help.info
 0.0.0.0 help3in1.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 helpandinformation.uk
@@ -45489,7 +45496,6 @@
 0.0.0.0 home.99eurowebsite.ie
 0.0.0.0 home.barley-plus.com
 0.0.0.0 home.dawang.ink
-0.0.0.0 home.earthlink.net
 0.0.0.0 home.evrstudio.com
 0.0.0.0 home.healthiestu.com
 0.0.0.0 home.isdes.com
@@ -52062,7 +52068,6 @@
 0.0.0.0 josenutricion.com
 0.0.0.0 joseph.gergis.net
 0.0.0.0 josephalavi.com
-0.0.0.0 josephdutton.com
 0.0.0.0 josephinebland.com
 0.0.0.0 josephreynolds.net
 0.0.0.0 josephsaadeh.me
@@ -63250,7 +63255,6 @@
 0.0.0.0 medcureorganics.com
 0.0.0.0 meddaughs.com
 0.0.0.0 medeaser.com
-0.0.0.0 mededsys.com
 0.0.0.0 medegbetv.com
 0.0.0.0 medel.it
 0.0.0.0 medenblik.net
@@ -66369,6 +66373,7 @@
 0.0.0.0 mototorg.com
 0.0.0.0 motov8d.com
 0.0.0.0 motoyazd.ir
+0.0.0.0 mottanet.com.br
 0.0.0.0 mottau.co.bw
 0.0.0.0 mottau.co.bw.md-14.webhostbox.net
 0.0.0.0 motto.com.tr
@@ -67361,7 +67366,6 @@
 0.0.0.0 my.findsr.co
 0.0.0.0 my.jiwa-nala.org
 0.0.0.0 my.loungu.com
-0.0.0.0 my.mail.de
 0.0.0.0 my.mixtape.moe
 0.0.0.0 my.pop9ja.com.ng
 0.0.0.0 my.zhaopin.com
@@ -83834,6 +83838,7 @@
 0.0.0.0 sabzamoz.ir
 0.0.0.0 sabzgame.ir
 0.0.0.0 sabzoabi.ir
+0.0.0.0 sac-qa.com
 0.0.0.0 sac-serv.com
 0.0.0.0 sac-sofom.com
 0.0.0.0 sac2.11xii.com
@@ -85968,7 +85973,6 @@
 0.0.0.0 seferisrael.co.il
 0.0.0.0 sefidesign.com
 0.0.0.0 sefinancer.fr
-0.0.0.0 sefp-boispro.fr
 0.0.0.0 seftil.com
 0.0.0.0 seftonclc.co.uk
 0.0.0.0 seftonplaycouncil.org.uk
@@ -89855,6 +89859,7 @@
 0.0.0.0 sokkenkraam.nl
 0.0.0.0 sokodigital.co.ke
 0.0.0.0 sokolbedrichov.cz
+0.0.0.0 sokouganda.net
 0.0.0.0 sokrethandpiphear.com
 0.0.0.0 sokrit-mb-app.freelancekh.com
 0.0.0.0 soksanhotels.com
@@ -93872,7 +93877,6 @@
 0.0.0.0 synccloud.net
 0.0.0.0 syncdatacore.net
 0.0.0.0 synchdigital.com
-0.0.0.0 synchrnzr.com
 0.0.0.0 synchro.brittanyamanda.com
 0.0.0.0 synchronicsmedia.com
 0.0.0.0 synchronus.de
@@ -98127,6 +98131,7 @@
 0.0.0.0 tischer.ro
 0.0.0.0 tischlereigrund.de
 0.0.0.0 tischlerkueche.at
+0.0.0.0 tisdalecpa.com
 0.0.0.0 tise.me
 0.0.0.0 tishbullard.com
 0.0.0.0 tishreycarmelim.co.il
@@ -106220,6 +106225,7 @@
 0.0.0.0 windowlock.com
 0.0.0.0 windows-framework.com
 0.0.0.0 windows.firewall-gateway.de
+0.0.0.0 windows10cleaner.com
 0.0.0.0 windowsdefender.000webhostapp.com
 0.0.0.0 windowsdefender.eu
 0.0.0.0 windowsdefendergateway.duckdns.org
@@ -106300,6 +106306,7 @@
 0.0.0.0 winningsem.com
 0.0.0.0 winningstocktrades.com
 0.0.0.0 winolb06.top
+0.0.0.0 winorm07.top
 0.0.0.0 winqits.com
 0.0.0.0 winqoz02.top
 0.0.0.0 winquest.ru
@@ -107510,6 +107517,7 @@
 0.0.0.0 xarebi.com
 0.0.0.0 xarebi.org
 0.0.0.0 xarismatrading.co.uk
+0.0.0.0 xarm.top
 0.0.0.0 xastsblopia.us
 0.0.0.0 xatangfc.com
 0.0.0.0 xaveon.com
