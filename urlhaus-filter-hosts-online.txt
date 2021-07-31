@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sat, 31 Jul 2021 00:11:14 +0000
+# Updated: Sat, 31 Jul 2021 12:10:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -13,7 +13,6 @@
 0.0.0.0 4cd3420d-ac31-4d3d-96a8-b014e2cd527a.usrfiles.com
 0.0.0.0 52nv.hiterima.ru
 0.0.0.0 5a1e.miraimibun.ru
-0.0.0.0 5thelement.diamondjewelleryb2b.in
 0.0.0.0 77st.net
 0.0.0.0 8kplza.am.files.1drv.com
 0.0.0.0 8poieq.bn.files.1drv.com
@@ -79,6 +78,7 @@
 0.0.0.0 apoolcondo.com
 0.0.0.0 app.microgent.ru
 0.0.0.0 apployal.fmf.com.fj
+0.0.0.0 apponline957.ir
 0.0.0.0 apps.saintsoporte.com
 0.0.0.0 aravindanavada.com
 0.0.0.0 arkemagrup.com
@@ -130,6 +130,7 @@
 0.0.0.0 biometrico.gpotecnosystems.com
 0.0.0.0 biopaten.no
 0.0.0.0 biplabbiprodas.com
+0.0.0.0 bitmex-trade.com
 0.0.0.0 bkkdowntown.com
 0.0.0.0 blackcirclesfuelpromotion.com
 0.0.0.0 blanche.gr
@@ -177,6 +178,7 @@
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cdn.doxbin.org
+0.0.0.0 cdn.tmooc.cn
 0.0.0.0 cellas.sk
 0.0.0.0 cendekiabinaaksara.com
 0.0.0.0 centrodeesteticapopular.com.br
@@ -187,7 +189,6 @@
 0.0.0.0 cfs7.blog.daum.net
 0.0.0.0 cfs9.blog.daum.net
 0.0.0.0 changematterscounselling.com
-0.0.0.0 chardhamdodham.com
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 chezalice.co.za
 0.0.0.0 childselect.com
@@ -202,11 +203,13 @@
 0.0.0.0 cleanevolution.com.br
 0.0.0.0 cloud.fc.co.mz
 0.0.0.0 cm-arquitetos.com
+0.0.0.0 codehotelandsuites.com
 0.0.0.0 codingmonster.me
 0.0.0.0 colinde.pricesne.com
 0.0.0.0 community.gen.in
 0.0.0.0 community.reimclub.com
 0.0.0.0 comunicare-relatiipublice.ro
+0.0.0.0 config.cqhbkjzx.com
 0.0.0.0 connect.rio.br
 0.0.0.0 connectcapital.com.br
 0.0.0.0 consciouslycreative.ca
@@ -228,6 +231,7 @@
 0.0.0.0 crmroche.manivelasst.com
 0.0.0.0 cryptoforextrading56.com
 0.0.0.0 csnserver.com
+0.0.0.0 ctracknxt.in
 0.0.0.0 cubescargoexpress.com
 0.0.0.0 currantmedia.com
 0.0.0.0 cutting-edge.in
@@ -268,6 +272,7 @@
 0.0.0.0 dev.favterest.com
 0.0.0.0 dev.sebpo.net
 0.0.0.0 dev.watch-store.eu
+0.0.0.0 dezcom.com
 0.0.0.0 dfcf.91756.cn
 0.0.0.0 diamantenegro.mi-fs.com
 0.0.0.0 dienmayminhhung.com
@@ -281,6 +286,7 @@
 0.0.0.0 dockerupdate.anondns.net
 0.0.0.0 docs.indianexpress.org
 0.0.0.0 docs.twincitytraveltourism.com
+0.0.0.0 docs.zohopublic.com
 0.0.0.0 docs.zohopublic.eu
 0.0.0.0 dodsonimaging.com
 0.0.0.0 dom.daf.free.fr
@@ -299,9 +305,9 @@
 0.0.0.0 download.skycn.com
 0.0.0.0 dragonsknot.com
 0.0.0.0 drbaby.com.sa
+0.0.0.0 drgroup.co.za
 0.0.0.0 dropimagestudio.com
 0.0.0.0 drsha.innovativesolutions.mobi
-0.0.0.0 dsenterprize.co.za
 0.0.0.0 dsmsystem.com.py
 0.0.0.0 dsspainting.com
 0.0.0.0 du-wizards.com
@@ -320,13 +326,13 @@
 0.0.0.0 emaids.co.za
 0.0.0.0 emaz.pk
 0.0.0.0 emegablog.com
+0.0.0.0 en.baoend.com
 0.0.0.0 enc-tech.com
 0.0.0.0 endurotanzania.co.tz
 0.0.0.0 enrollclouds.com
 0.0.0.0 enweddingdress.com
 0.0.0.0 ergotherapeia-kalamata.gr
 0.0.0.0 erikaeggleston.com
-0.0.0.0 erp.nanotechproautocare.com
 0.0.0.0 erp.spectrummhss.ac.in
 0.0.0.0 erp.stannsschoolpanagudi.edu.in
 0.0.0.0 esnconsultants.com
@@ -394,7 +400,6 @@
 0.0.0.0 goldenmilesbd.com
 0.0.0.0 goodsproutarchitects.com
 0.0.0.0 gpotecnosystems.com
-0.0.0.0 growupmedia.pk
 0.0.0.0 grupoinmare.com
 0.0.0.0 gruposelt.000webhostapp.com
 0.0.0.0 guillermomanrique.com.mx
@@ -437,7 +442,6 @@
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hseda.com
 0.0.0.0 htownbars.com
-0.0.0.0 hunggiang.vn
 0.0.0.0 hutyrtit.ydns.eu
 0.0.0.0 hw2sss.xyz
 0.0.0.0 hyprothermcoalfurnace.com
@@ -447,6 +451,7 @@
 0.0.0.0 ideamaster.com.my
 0.0.0.0 idilsoft.com
 0.0.0.0 idj.no
+0.0.0.0 idvindia.com
 0.0.0.0 igrejanovavida.net.br
 0.0.0.0 ikizhavuz.com
 0.0.0.0 ilrafrica.com
@@ -474,7 +479,6 @@
 0.0.0.0 iocservices.com
 0.0.0.0 ipmes.ma
 0.0.0.0 iremart.es
-0.0.0.0 isaac.mikhailmotoringschool.com
 0.0.0.0 isatechnology.com
 0.0.0.0 islamicinterior.com
 0.0.0.0 it123.ru
@@ -498,6 +502,7 @@
 0.0.0.0 justinscott.com.au
 0.0.0.0 jyk85mxc.z1001.net
 0.0.0.0 kadigital.co.uk
+0.0.0.0 kaizenjanitorial.com
 0.0.0.0 kalogirosfinance.com
 0.0.0.0 karer.by
 0.0.0.0 karunaelnido.com
@@ -509,7 +514,6 @@
 0.0.0.0 kgswitchgear.com
 0.0.0.0 kidsangelcards.com
 0.0.0.0 kieuphong.vn
-0.0.0.0 kiff.store
 0.0.0.0 kitamen.my
 0.0.0.0 kjcpromo.com
 0.0.0.0 kleinendeli.co.za
@@ -598,6 +602,7 @@
 0.0.0.0 megahijauasri.co.id
 0.0.0.0 megamart.afnan-amc.com
 0.0.0.0 mehainteriors.com
+0.0.0.0 members.murphyshost.net
 0.0.0.0 metalin-cr.com
 0.0.0.0 meuoculosnanet.com.br
 0.0.0.0 mfevr.com
@@ -606,7 +611,6 @@
 0.0.0.0 michimal2.000webhostapp.com
 0.0.0.0 microblading.mirliandias.com.br
 0.0.0.0 migandhi5253.com
-0.0.0.0 mikhailmotoringschool.com
 0.0.0.0 milanautomotores.com.ar
 0.0.0.0 minuevavida.org
 0.0.0.0 mirror.mypage.sk
@@ -632,6 +636,7 @@
 0.0.0.0 motorcomunicacion.com
 0.0.0.0 mrcreativedemo.com
 0.0.0.0 mscdn.nuonuo.com
+0.0.0.0 mumgee.co.za
 0.0.0.0 muradvietnam.vn
 0.0.0.0 muzimbiti.xigubo.co.mz
 0.0.0.0 mvb.kz
@@ -655,7 +660,6 @@
 0.0.0.0 nextdigitalday.ru
 0.0.0.0 ngdaycare.co.za
 0.0.0.0 ngkawai.com
-0.0.0.0 nhorangtreem.com
 0.0.0.0 nicelyeg.com
 0.0.0.0 nilinkeji.com
 0.0.0.0 nimboohomes.com
@@ -695,7 +699,6 @@
 0.0.0.0 oracle.zzhreceive.top
 0.0.0.0 order.bizpeed.com
 0.0.0.0 orientgatewayltd.com
-0.0.0.0 orion445.com
 0.0.0.0 orsan.gruporhynous.com
 0.0.0.0 overtaste.usemono.com
 0.0.0.0 ozemag.com
@@ -747,7 +750,6 @@
 0.0.0.0 prosoc.nl
 0.0.0.0 prosupport.cl
 0.0.0.0 protechasia.com
-0.0.0.0 psicheaurora.it
 0.0.0.0 psikologi.undhirabali.ac.id
 0.0.0.0 punchdialogues.com
 0.0.0.0 punjabdevelopersassociation.com.pk
@@ -791,6 +793,7 @@
 0.0.0.0 robertmcardle.com
 0.0.0.0 robertsinclair.net
 0.0.0.0 romanianpoints.com
+0.0.0.0 romegay.duckdns.org
 0.0.0.0 roomsvc.servegate.kr
 0.0.0.0 royalppa.org
 0.0.0.0 rs-toolkit.mikestclair.org
@@ -825,7 +828,6 @@
 0.0.0.0 seryzpiekielnika.pl
 0.0.0.0 sexologistpakistan.net
 0.0.0.0 sgessy.com.br
-0.0.0.0 shaheentbfoundation.com
 0.0.0.0 shahikhana.cstdevs.com
 0.0.0.0 shahu66.com
 0.0.0.0 shalombaptistchapel.com
@@ -872,14 +874,12 @@
 0.0.0.0 starcountry.net
 0.0.0.0 static.3001.net
 0.0.0.0 static.cz01.cn
-0.0.0.0 stiau.iuc.ac
 0.0.0.0 sticker.jewsjuice.com
 0.0.0.0 store.selectandwin.com
 0.0.0.0 story-life.net
 0.0.0.0 str8look.com
 0.0.0.0 strashield.com
 0.0.0.0 students.acst.edu.sd
-0.0.0.0 submissions.tentcityrecords.net
 0.0.0.0 support-4-free.com
 0.0.0.0 support.clz.kr
 0.0.0.0 supportit.online
@@ -919,6 +919,7 @@
 0.0.0.0 testing.thinkingcorp.in
 0.0.0.0 teteaffiche.stephanebillon.com
 0.0.0.0 tewoerd.eu
+0.0.0.0 texas168th.com
 0.0.0.0 tharringtonsponsorship.com
 0.0.0.0 the6hats.com
 0.0.0.0 thecreativecafe.co.uk
@@ -961,6 +962,7 @@
 0.0.0.0 txtheatreproductions.co.za
 0.0.0.0 uat.indianfilmzone.com
 0.0.0.0 ublretailerdemo.cstdevs.com
+0.0.0.0 uc-56.ru
 0.0.0.0 uisusa.uisusa.com
 0.0.0.0 ujianpensisba.undhirabali.ac.id
 0.0.0.0 ultimate-24.de
@@ -1018,7 +1020,6 @@
 0.0.0.0 winhaf05.top
 0.0.0.0 winolb06.top
 0.0.0.0 winorm07.top
-0.0.0.0 winxob04.top
 0.0.0.0 wishesconcierge.com
 0.0.0.0 wizesales.com
 0.0.0.0 wj8pgg.am.files.1drv.com

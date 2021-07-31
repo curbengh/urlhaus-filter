@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 31 Jul 2021 00:11:14 +0000
+# Updated: Sat, 31 Jul 2021 12:10:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1646,7 +1646,6 @@ msFilterList
 -d 7bsnake1.com
 -d 7bwh.com
 -d 7c2918ca.ngrok.io
--d 7cats.ch
 -d 7clock.ir
 -d 7continents7lawns.com
 -d 7cut.extroliving.com
@@ -6356,7 +6355,6 @@ msFilterList
 -d americanmicrosoftclouddepartment.duckdns.org
 -d americanmusclecar.site
 -d americanpatriotlife.com
--d americanrange.com
 -d americanrelieffundingagent.org
 -d americanreliefhub.com
 -d americanspecialtyinsurancegroup.com
@@ -6371,6 +6369,7 @@ msFilterList
 -d americaslegalchoice.com
 -d americasteaks.com
 -d americataxinsurance.com
+-d amerident.com.do
 -d amerifencewichita.com
 -d amerigau.com
 -d amerikadafinans.com
@@ -11123,7 +11122,6 @@ msFilterList
 -d badkamer-sanitair.nl
 -d badkamermaker.nl
 -d badmildiou.com
--d badzena.com
 -d baeckerei-strenger.de
 -d baedekker.com
 -d baek-laursen.com
@@ -14988,6 +14986,7 @@ msFilterList
 -d blogueiro.net
 -d blogvanphongpham.com
 -d bloknot.md
+-d blomsterhuset-villaflora.dk
 -d blomstertorget.omdtest.se
 -d blomzy.abbyservertime.fun
 -d blondenerd.com
@@ -31728,7 +31727,6 @@ msFilterList
 -d eduprecaro.com
 -d eduquebrincando.com.br
 -d edurecruit.idevs.site
--d eduroam.stou.ac.th
 -d edurotations.com
 -d eduscore.org
 -d edusenz.com
@@ -34267,7 +34265,6 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-easy.com
 -d eu.wildfire.paloaltonetworks.com
--d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -35133,7 +35130,6 @@ msFilterList
 -d f.pastdobi.ru
 -d f.regardisperfectshild.ru
 -d f.tolganfor.ru
--d f.top4top.io
 -d f.top4top.net
 -d f.tsuyogari.ru
 -d f.uaalgee33.com
@@ -42429,7 +42425,6 @@ msFilterList
 -d groupegps.com
 -d groupeicaetudes.com
 -d groupejpr.com
--d grouper.ieee.org
 -d groupesival.com
 -d groupevl.ca
 -d groupfeaab.com
@@ -52071,6 +52066,7 @@ msFilterList
 -d josenutricion.com
 -d joseph.gergis.net
 -d josephalavi.com
+-d josephdutton.com
 -d josephinebland.com
 -d josephreynolds.net
 -d josephsaadeh.me
@@ -75876,6 +75872,7 @@ msFilterList
 -d pinkafricafoundation.org
 -d pinkandbluetinytots.com
 -d pinkbabies.net
+-d pinkbroadband.in
 -d pinkconnext.com
 -d pinkesocken.de
 -d pinkflame.chsweb.org
@@ -82804,6 +82801,7 @@ msFilterList
 -d rome-apartments-it.com
 -d romed32.ru
 -d romediamondlotusq2.net
+-d romegay.duckdns.org
 -d romeosretail-my.sharepoint.com
 -d romeoz.com
 -d romeroexcursoes.resultaweb.com.br
@@ -93883,6 +93881,7 @@ msFilterList
 -d synccloud.net
 -d syncdatacore.net
 -d synchdigital.com
+-d synchrnzr.com
 -d synchro.brittanyamanda.com
 -d synchronicsmedia.com
 -d synchronus.de
