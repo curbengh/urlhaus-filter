@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 30 Jul 2021 12:10:42 +0000
+# Updated: Sat, 31 Jul 2021 00:11:14 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1799,6 +1799,7 @@ msFilterList
 -d 8i9.xyz
 -d 8ink.com.sg
 -d 8jizea.bn.files.1drv.com
+-d 8kplza.am.files.1drv.com
 -d 8m8cm.com
 -d 8medya.org
 -d 8mmdesign.com
@@ -14330,6 +14331,7 @@ msFilterList
 -d blauwpurper.com
 -d blaxkwear.com
 -d blazeni.com
+-d blazingblade.pk
 -d blazingstara.in
 -d blazonsystemscom.000webhostapp.com
 -d blazztgroup.com
@@ -43097,6 +43099,7 @@ msFilterList
 -d gzftae.com
 -d gzhouyuesao.com
 -d gzk.by
+-d gzsfgjj.com
 -d gzty.co
 -d h-bva.ru
 -d h-drums.cf
@@ -47598,7 +47601,6 @@ msFilterList
 -d ik-7.ru
 -d ik-instaling.com
 -d ik.termopanemaramures.ro
--d ikahotel.com
 -d ikama.cal24.pl
 -d ikamautoindustrie.com
 -d ikamel.com
@@ -48071,7 +48073,6 @@ msFilterList
 -d imprep.org
 -d impresaedilenicoli.it
 -d impresainsights.com
--d impresaranghetti.it
 -d impresario.co.in
 -d impress-hrd.mysoftheaven.com
 -d impression-gobelet.com
@@ -49879,7 +49880,6 @@ msFilterList
 -d iryna.biz
 -d is-hp.com
 -d is-yap.com
--d is.net.sa
 -d is4340.azurewebsites.net
 -d is45wdsed4455sdfsf.duckdns.org
 -d isaac.mikhailmotoringschool.com
@@ -54363,6 +54363,7 @@ msFilterList
 -d kiev-elektro.site
 -d kievarttime.com.ua
 -d kievflowerdelivery.com
+-d kiff.store
 -d kifge43.ru
 -d kiflaps.ac.ke
 -d kigegypt.com
@@ -63226,6 +63227,7 @@ msFilterList
 -d mecgwl.ac.in
 -d mechanicaltools.club
 -d mechanicsthatcometoyou.com
+-d mechanoesis.gr
 -d mecharnise.ir
 -d mechathrones.com
 -d mechauto.co.za
@@ -65920,7 +65922,6 @@ msFilterList
 -d monetarypyramid.org
 -d monetization.business
 -d monetize.bid
--d money-crdt.ru
 -d money-makers-uk.com
 -d money-talks.info
 -d money360.brightoak.com
@@ -71560,6 +71561,7 @@ msFilterList
 -d officewindowssecurityfirewallopen.duckdns.org
 -d official-fjallraven-discount.ru
 -d official.co.id
+-d officialbirulaut.com
 -d officialdred.com
 -d officialkampunginggris.id
 -d officialproduct.fun
@@ -79541,7 +79543,6 @@ msFilterList
 -d qualitec.pl
 -d qualitechsarl.com
 -d qualityairpart.com
--d qualityansweringservice.com
 -d qualityautoservices.co.uk
 -d qualitybeverages.co.za
 -d qualitychildcarepreschool.com
@@ -83601,6 +83602,7 @@ msFilterList
 -d rxanatomy.com
 -d rxcvslqwai.com
 -d rxmvps.top
+-d rxnasklola.com
 -d rxrhorseriding.net
 -d rxvarbtf.sha58.me
 -d ry.valerana44.ru
@@ -88938,6 +88940,7 @@ msFilterList
 -d slati.hu
 -d slaughter.gq
 -d slavavtolux.by
+-d slavec.duckdns.org
 -d slaweskicpa.com
 -d slbdharmawanitagrogol.sch.id
 -d slboutique.com.br
@@ -94924,6 +94927,7 @@ msFilterList
 -d tcpartner.ru
 -d tcpjusticedenied.org
 -d tcpsoptoms.info
+-d tcpudpnet.ddns.net
 -d tcsiv.com
 -d tctp.ca
 -d tcurso2000.com.br
@@ -101477,7 +101481,6 @@ msFilterList
 -d unsafedrugs.com
 -d unsanrohandper.tk
 -d unsb.co.in
--d unsimpleclic.com
 -d unstolic.com
 -d unsuiting-week.000webhostapp.com
 -d unsurmised-pecks.000webhostapp.com
