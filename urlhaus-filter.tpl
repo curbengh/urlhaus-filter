@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 01 Aug 2021 00:10:55 +0000
+# Updated: Sun, 01 Aug 2021 12:10:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3663,7 +3663,6 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
--d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -6355,6 +6354,7 @@ msFilterList
 -d americanmicrosoftclouddepartment.duckdns.org
 -d americanmusclecar.site
 -d americanpatriotlife.com
+-d americanrange.com
 -d americanrelieffundingagent.org
 -d americanreliefhub.com
 -d americanspecialtyinsurancegroup.com
@@ -7574,6 +7574,7 @@ msFilterList
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
+-d apigeoip.com
 -d apihomes.us
 -d apiperjuangan.com
 -d apipro.com.br
@@ -9400,6 +9401,7 @@ msFilterList
 -d astarmar.net
 -d astatude.com
 -d astatue.com
+-d astdg.top
 -d astecart.com
 -d asteitalia.cf
 -d asthemes.com
@@ -13554,6 +13556,7 @@ msFilterList
 -d bigdiamondeals.com
 -d bigeyes.com.tw
 -d bigfesta.app4you.app.br
+-d bigfile.mail.naver.com
 -d bigfishchain.com
 -d bigfoothospitality.com
 -d bigg-live.com
@@ -17327,7 +17330,6 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
--d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -20285,7 +20287,6 @@ msFilterList
 -d cholesterol-ache.xyz
 -d chomoka.com
 -d chomptruck.com
--d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongthamsontay.vn
@@ -24626,6 +24627,7 @@ msFilterList
 -d d0iiinl0ads.online
 -d d0wnl0ads.online
 -d d0wnl0ads.site
+-d d1.amobbs.com
 -d d1.dropboxccdn.com
 -d d1.dropboxrcdn.com
 -d d1.dropboxscdn.com
@@ -34266,6 +34268,7 @@ msFilterList
 -d etysu02scnabr03wzaxue.com
 -d eu-easy.com
 -d eu.wildfire.paloaltonetworks.com
+-d eu1.salesforce.com
 -d eu14.tmd.cloud
 -d eu283iwoqodjspqisjdf.com
 -d eu5-cdn.devid.info
@@ -36562,6 +36565,7 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
+-d file.elecfans.com
 -d file.fm
 -d file.importantcover.uk
 -d file.lauasinh.com
@@ -36608,6 +36612,7 @@ msFilterList
 -d files.drivers-logitech.com
 -d files.dropmybin.me
 -d files.enjin.com
+-d files.gathercdn.com
 -d files.hrloo.com
 -d files.l-d.tech
 -d files.martellexpress.us
@@ -63258,6 +63263,7 @@ msFilterList
 -d medcureorganics.com
 -d meddaughs.com
 -d medeaser.com
+-d mededsys.com
 -d medegbetv.com
 -d medel.it
 -d medenblik.net
@@ -66766,7 +66772,6 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
--d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -67368,6 +67373,7 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
+-d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -68560,6 +68566,7 @@ msFilterList
 -d nbhgroup.in
 -d nbi.org.au
 -d nbiao.cool
+-d nbigfile.mail.naver.com
 -d nbis.in
 -d nbiyan.vn
 -d nbiz.tk
@@ -75873,7 +75880,6 @@ msFilterList
 -d pinkafricafoundation.org
 -d pinkandbluetinytots.com
 -d pinkbabies.net
--d pinkbroadband.in
 -d pinkconnext.com
 -d pinkesocken.de
 -d pinkflame.chsweb.org
@@ -76290,7 +76296,6 @@ msFilterList
 -d pleaseyoursoul.com
 -d pleasure-club.ru
 -d pleasureingold.de
--d pleckj.com
 -d plegrugh.info
 -d pleijers.nl
 -d pleikutour.com
@@ -78349,6 +78354,7 @@ msFilterList
 -d protectiadatelor.biz
 -d protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 -d protection.pecol.eu
+-d protection.retarus.com
 -d protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 -d protection.sytes.net
 -d protection1llc-my.sharepoint.com
@@ -88307,7 +88313,6 @@ msFilterList
 -d simulasi.kredittoyotabandung.com
 -d simulations.org
 -d simurgkusyuvasi.org
--d sinacloud.net
 -d sinagogart.org
 -d sinaiinformatica.com.br
 -d sinakhoessentials.co.za
@@ -93681,7 +93686,6 @@ msFilterList
 -d sweet-diet.com
 -d sweetassboat.com
 -d sweetbakerygroceryvannuys.com
--d sweetbakes.co.uk
 -d sweetcgi.com
 -d sweetcotton.com.br
 -d sweetestshop.ca
@@ -98001,7 +98005,6 @@ msFilterList
 -d timelyrain.top
 -d timenard.top
 -d timenotbesea.xyz
--d timenow.pw
 -d timenowis1.top
 -d timeoffer.site
 -d timeofvape.tk
@@ -100031,7 +100034,6 @@ msFilterList
 -d tsredco.telangana.gov.in
 -d tsrj.monster
 -d tsrv2.top
--d tsrv4.ws
 -d tssolutionsgroup.com
 -d tst.marineindust.com
 -d tstfrigo.com
@@ -103081,6 +103083,7 @@ msFilterList
 -d vi.com.cn
 -d vi363suffer.com
 -d via.hypothes.is
+-d via0.com
 -d viable.ec
 -d viablecareers.org
 -d viabrasilcomunicacao.com.br
@@ -106268,6 +106271,7 @@ msFilterList
 -d winecorkartist.com
 -d winefly.net
 -d winefriend.co.za
+-d winenp09.top
 -d winepalace.ge
 -d wineswap.com.au
 -d winetourism.soprexdev.com
@@ -106278,6 +106282,7 @@ msFilterList
 -d winfredfashola.aquaclients.com
 -d winfreepcs.com
 -d winfriedschendel.de
+-d winfyn10.top
 -d wingedspurproductions.com.au
 -d wingfatdesign.com
 -d wingfo.com
@@ -107483,6 +107488,7 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
+-d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
