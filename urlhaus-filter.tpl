@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 31 Jul 2021 12:10:57 +0000
+# Updated: Sun, 01 Aug 2021 00:10:55 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -21751,7 +21751,6 @@ msFilterList
 -d coffeeprinter.in
 -d coffeeshopmarketing.org
 -d coffeesolutions.com.ua
--d coffeesupplies.com
 -d cofi3.com
 -d cofisconconsultoria.com.br
 -d cofqz.com
@@ -22789,6 +22788,7 @@ msFilterList
 -d cooke.im
 -d cookecityalpine.live
 -d cookecitysinclair.com
+-d cookie.com.br
 -d cookiebyte.in
 -d cookiejar.be
 -d cookienotti.ru
@@ -30569,6 +30569,7 @@ msFilterList
 -d duratransgroup.com
 -d duratryamtrd.com
 -d durax.com.br
+-d durbanbusinesscollege.co.za
 -d durganamkeen.com
 -d durgmavala.com
 -d durhamcityrunfestival.com
@@ -40265,7 +40266,6 @@ msFilterList
 -d getfit4life.com.br
 -d getfitat50.com
 -d getfitwithfrankie.com
--d getfreshes.com
 -d getgeekgadgets.com
 -d getgoodvideo.com
 -d gethdfit.com
@@ -49875,6 +49875,7 @@ msFilterList
 -d iryna.biz
 -d is-hp.com
 -d is-yap.com
+-d is.net.sa
 -d is4340.azurewebsites.net
 -d is45wdsed4455sdfsf.duckdns.org
 -d isaac.mikhailmotoringschool.com
@@ -54601,6 +54602,7 @@ msFilterList
 -d kishket.ru
 -d kishroyall.com
 -d kiskakisska.xyz
+-d kissanime24.com
 -d kisshorestaurant.vn
 -d kissliv.flu.cc
 -d kisswarm.com
@@ -75330,7 +75332,6 @@ msFilterList
 -d pghpermanentmakeup.com
 -d pghrc-career.bangkokair.com
 -d pgi.net.co
--d pgiso.com
 -d pgmessindia.com
 -d pgneetindia.com
 -d pgos.co
@@ -106149,6 +106150,7 @@ msFilterList
 -d willie-wong.com
 -d williegolattresume.josettecouture.com
 -d willingwater.com
+-d willingwoods.com
 -d willins.com.br
 -d willipostcopa.com
 -d willitoursntransfers.com
@@ -106200,6 +106202,7 @@ msFilterList
 -d winapp.sg
 -d winapp24.pl
 -d winast.com
+-d winazr08.top
 -d winbacklostlove.com
 -d winbetter.info
 -d winchance.co.th
