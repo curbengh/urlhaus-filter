@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Mon, 02 Aug 2021 00:10:52 +0000
+# Updated: Mon, 02 Aug 2021 12:11:09 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -12,6 +12,7 @@ msFilterList
 -d 1freeprivacytoolsforyou.xyz
 -d 32792.prolocksmithwinterpark.com
 -d 360.lcy2zzx.pw
+-d 360down7.miiyun.cn
 -d 4cd3420d-ac31-4d3d-96a8-b014e2cd527a.usrfiles.com
 -d 52nv.hiterima.ru
 -d 5a1e.miraimibun.ru
@@ -43,7 +44,6 @@ msFilterList
 -d admin.amspec.ph
 -d admin.erapor.smk-alasror.net
 -d admin.gentbcn.org
--d aerociel.net
 -d afnan-amc.com
 -d afrimedspecialist.com
 -d afriqanlimited.com
@@ -52,6 +52,7 @@ msFilterList
 -d agemn.co.za
 -d agewsage.com
 -d aiecons.com
+-d airpaviliontours.com
 -d ajpharmaholding.com
 -d akdvidyalaya.com
 -d al-wahd.com
@@ -114,7 +115,6 @@ msFilterList
 -d basquetbol.negotech.com.mx
 -d bbia.co.uk
 -d bcrg.co.za
--d bearcatpumps.com.cn
 -d belgross.github.io
 -d benvenuti.rs
 -d bespokeweddings.ie
@@ -178,8 +178,8 @@ msFilterList
 -d ccor.com.br
 -d cdaonline.com.ar
 -d cdn-10049480.file.myqcloud.com
+-d cdn.bb.zugame.com
 -d cdn.doxbin.org
--d cdn.tmooc.cn
 -d ceethoglobal.com.ng
 -d cellas.sk
 -d cendekiabinaaksara.com
@@ -251,12 +251,10 @@ msFilterList
 -d danielmi.ac.ug
 -d dannysimport.com
 -d daohang1.oss-cn-beijing.aliyuncs.com
--d dartoonpictures.com
 -d dashboard.khholdings.co.za
 -d data.cdevelop.org
 -d data.over-blog-kiwi.com
 -d datapolish.com
--d date-flash.com
 -d davethompson.me.uk
 -d davidmcguinness.info
 -d ddl8.data.hu
@@ -281,9 +279,7 @@ msFilterList
 -d dfcf.91756.cn
 -d diamantenegro.mi-fs.com
 -d dienmayminhhung.com
--d disinfection-cleaning.co.za
 -d djking.f3322.net
--d dl.1003b.56a.com
 -d dl.198424.com
 -d dl.packetstormsecurity.net
 -d dl.rina-roleplay.com
@@ -409,12 +405,12 @@ msFilterList
 -d goldenmilesbd.com
 -d goodsproutarchitects.com
 -d gpotecnosystems.com
+-d growupmedia.pk
 -d grupoinmare.com
 -d gruposelt.000webhostapp.com
 -d gs.monerorx.com
 -d guillermomanrique.com.mx
 -d guongnoithat.com
--d gzsfgjj.com
 -d h.epelcdn.com
 -d habbotips.free.fr
 -d hagebakken.no
@@ -454,7 +450,6 @@ msFilterList
 -d hsecaravans.co.uk
 -d hseda.com
 -d htownbars.com
--d hunggiang.vn
 -d hutyrtit.ydns.eu
 -d hw2sss.xyz
 -d hyprothermcoalfurnace.com
@@ -481,7 +476,7 @@ msFilterList
 -d infovator.com
 -d inkedmicrobladingparlor.com
 -d innagro.com.br
--d inoglink.com
+-d inodesthetotaldesigners.com
 -d integritywind.com
 -d intersel-idf.org
 -d intowncontracting.com
@@ -494,6 +489,7 @@ msFilterList
 -d isaac.mikhailmotoringschool.com
 -d isatechnology.com
 -d islamicinterior.com
+-d it123.ru
 -d itc-demo.softgig.co.ke
 -d jamshed.pk
 -d java.waterflowergarden.com
@@ -513,6 +509,7 @@ msFilterList
 -d jpwoodfordco.com
 -d justinscott.com.au
 -d jyk85mxc.z1001.net
+-d k9unitdubaipolice.com
 -d kadigital.co.uk
 -d kalogirosfinance.com
 -d karer.by
@@ -526,7 +523,6 @@ msFilterList
 -d kidsangelcards.com
 -d kieuphong.vn
 -d kjcpromo.com
--d kleinendeli.co.za
 -d kmeventsuae.com
 -d kooldstudio.com
 -d koreabam29.com
@@ -536,6 +532,7 @@ msFilterList
 -d ks.cn
 -d ktkbeauty.com.sg
 -d kumaralok.in
+-d kurumsal.avantajbulvari.com
 -d lameguard.ru
 -d landing.yetiapp.ec
 -d laravel.pointersoftwares.com.br
@@ -545,6 +542,7 @@ msFilterList
 -d ldgcorp.com
 -d learnfastearn.com
 -d leasiacherise.com
+-d leavemylinkpls.mooo.com
 -d leceramistedusud.com
 -d ledsupplies.net.au
 -d legend.nu
@@ -588,7 +586,6 @@ msFilterList
 -d malwarecoding.github.io
 -d managemysalon.in
 -d manantialesdelnorte.uy
--d maquinadosgutierrez.com
 -d marinecollagenelixir.com
 -d mario-sunjic.com
 -d mariobrown.net
@@ -619,6 +616,7 @@ msFilterList
 -d micalle.com.au
 -d michimal2.000webhostapp.com
 -d microblading.mirliandias.com.br
+-d microcomm-group.com
 -d migandhi5253.com
 -d mikhailmotoringschool.com
 -d milanautomotores.com.ar
@@ -665,13 +663,16 @@ msFilterList
 -d nerve.untergrund.net
 -d nettube.com.br
 -d networkwheels.co.za
+-d newhosteeeee.ydns.eu
 -d newtreedesign.co.uk
 -d nextdigitalday.ru
 -d ngdaycare.co.za
 -d ngkawai.com
 -d nhorangtreem.com
 -d nicelyeg.com
+-d nilinkeji.com
 -d nimboohomes.com
+-d njtiledesigncenter.com
 -d nlsccg.am.files.1drv.com
 -d nobius.org
 -d nolabelsnowalls.net
@@ -789,9 +790,9 @@ msFilterList
 -d registeredwind.com
 -d reifenquick.de
 -d relaxindulge.co.nz
+-d remunerationtrade.com
 -d renegocia.pe
 -d renehavis.com.ua
--d renximy.com
 -d reseller.digimitra.in
 -d reseller.itechbrasil.com
 -d restaurantechezdaniel.com
@@ -802,7 +803,6 @@ msFilterList
 -d rkverify.securestudies.com
 -d robertmcardle.com
 -d robertsinclair.net
--d romanianpoints.com
 -d romegay.duckdns.org
 -d roomsvc.servegate.kr
 -d roshnijewellery.com
@@ -813,6 +813,7 @@ msFilterList
 -d ruisgood.ru
 -d ruwadalkuwait.com
 -d s.51shijuan.com
+-d sabaint.me
 -d sacredscentsonline.com
 -d safcol-colors.com
 -d safehubsecurity.ca
@@ -875,6 +876,7 @@ msFilterList
 -d spetsesyachtcharter.gr
 -d spices.com.sg
 -d spititourism.com
+-d src1.minibai.com
 -d sriglobalit.com
 -d srvmanos.no-ip.info
 -d ss.monita.co.id
@@ -891,8 +893,6 @@ msFilterList
 -d store.selectandwin.com
 -d story-life.net
 -d str8look.com
--d strashield.com
--d students.acst.edu.sd
 -d submissions.tentcityrecords.net
 -d support-4-free.com
 -d support.clz.kr
@@ -954,7 +954,6 @@ msFilterList
 -d tifometrobianconero.net
 -d timamollo.co.za
 -d timegonebuy.com
--d todoapp.cstdevs.com
 -d tonmatdoanminh.com
 -d tonydong.com
 -d tonyzone.com
@@ -1031,7 +1030,6 @@ msFilterList
 -d wi522012.ferozo.com
 -d wildnights.co.uk
 -d wildtrust.mediadevstaging.com
--d winazr08.top
 -d winfyn10.top
 -d wishesconcierge.com
 -d wizesales.com
@@ -1043,10 +1041,10 @@ msFilterList
 -d wozata.000webhostapp.com
 -d wp.readhere.in
 -d wrpcbg.am.files.1drv.com
--d ws5588.f3322.net
 -d wyklej.pl
 -d x2vn.com
 -d xarm.top
+-d xey.kowashitekata.ru
 -d xispoli.eu
 -d xk.996is.com
 -d xk1.996is.com
