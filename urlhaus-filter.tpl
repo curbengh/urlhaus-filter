@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 01 Aug 2021 12:10:49 +0000
+# Updated: Mon, 02 Aug 2021 00:10:52 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -8850,6 +8850,7 @@ msFilterList
 -d artprintgard.ro
 -d artpsikoloji.net
 -d artquimia.co
+-d artreflex.ru
 -d artrenewal.pl
 -d artrosmed.de
 -d artroute.capetown
@@ -19021,6 +19022,7 @@ msFilterList
 -d cdn.app.yourwebdesignguys.com
 -d cdn.applimmo.com
 -d cdn.atsh.co
+-d cdn.bb.zugame.com
 -d cdn.cryptservice.xyz
 -d cdn.doxbin.org
 -d cdn.eventexposer.com
@@ -22722,6 +22724,7 @@ msFilterList
 -d contextoenergetico.com
 -d continentalleap.com
 -d continentalplanosfamiliar.com.br
+-d continentalplant.com
 -d continentaltourist.icu
 -d continentaltradingethiopia.com
 -d contingentsecurity.com
@@ -24740,6 +24743,7 @@ msFilterList
 -d dacsancaonguyen.vn
 -d dactridaudaday.com
 -d dactyltech.co.za
+-d dacui.online
 -d dacviadokese.com
 -d dacwp.develop.kdm1.ru
 -d dacyclin.com
@@ -25140,7 +25144,6 @@ msFilterList
 -d dansofconsultancy.com
 -d dansorensen.com
 -d dantist.org.ua
--d dantokpa-market.org
 -d danvtra.web.id
 -d danweb.co.uk
 -d danxehoichongnong.com
@@ -37313,6 +37316,7 @@ msFilterList
 -d fleuve.tk
 -d flewer.pl
 -d flex.hamburg
+-d flex.ru
 -d flexiblecow.com
 -d flexilifephysio.in
 -d flexisales.com
@@ -46276,6 +46280,7 @@ msFilterList
 -d hsdowsggpla.com
 -d hsdsbv.co.vu
 -d hse.com.bn
+-d hsecaravans.co.uk
 -d hseconosur.com
 -d hseda.com
 -d hsermansndy4chemicalknowledgeeducationtf.duckdns.org
@@ -47601,6 +47606,7 @@ msFilterList
 -d ik-7.ru
 -d ik-instaling.com
 -d ik.termopanemaramures.ro
+-d ikahotel.com
 -d ikama.cal24.pl
 -d ikamautoindustrie.com
 -d ikamel.com
@@ -55537,7 +55543,6 @@ msFilterList
 -d kriksenergo.ru
 -d krimpe.net
 -d kriomed.uz
--d kriptofi.com
 -d kripton.net
 -d kris2pher.com
 -d krisauthur.usa.cc
@@ -71795,6 +71800,7 @@ msFilterList
 -d olallalab.org
 -d olambolartzam.com
 -d olapixels.com
+-d olaps.com
 -d olasen.com
 -d olauyanz.club
 -d olavarria.gov.ar
@@ -93943,7 +93949,6 @@ msFilterList
 -d sys.iclickdigishop.com
 -d sys.pbmadu.co.id
 -d sys04.icu
--d sys321.com
 -d sysaty.space
 -d syscomopen.it
 -d sysconmyanmar.com
@@ -94186,6 +94191,7 @@ msFilterList
 -d tacoshermanos.fr
 -d tact-yl.fr
 -d tact9.in
+-d tactical-toolbox.com
 -d tacticalcto.com.au
 -d tacticalintelligence.org
 -d tacticohosting.com
@@ -94364,6 +94370,7 @@ msFilterList
 -d talentmatchingeurope.com
 -d talentokate.com
 -d talentscoutz.nl
+-d talentvalue.com
 -d talentztech.com
 -d taleotecnoracing.com
 -d taleoudine.com
@@ -110340,7 +110347,6 @@ msFilterList
 -d zoodoxos.gr
 -d zoolandia.boo.pl
 -d zoom-machinery.com
--d zoomagazin.az
 -d zoomandshootphotography.com
 -d zoomdrive.com.au
 -d zoomevents.pl
