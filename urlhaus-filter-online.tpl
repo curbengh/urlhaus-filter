@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Mon, 02 Aug 2021 12:11:09 +0000
+# Updated: Tue, 03 Aug 2021 00:10:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -10,6 +10,7 @@ msFilterList
 -d 0-24bpautomentes.hu
 -d 1008691.com
 -d 1freeprivacytoolsforyou.xyz
+-d 2.indexsinas.me
 -d 32792.prolocksmithwinterpark.com
 -d 360.lcy2zzx.pw
 -d 360down7.miiyun.cn
@@ -144,7 +145,6 @@ msFilterList
 -d boatpecas.com.br
 -d bomborecords.com
 -d booksearch.com
--d bounces.mi-fs.com
 -d bowmancollection.com
 -d braco.com.co
 -d brandtrust.com.pk
@@ -180,6 +180,7 @@ msFilterList
 -d cdn-10049480.file.myqcloud.com
 -d cdn.bb.zugame.com
 -d cdn.doxbin.org
+-d cdn.tmooc.cn
 -d ceethoglobal.com.ng
 -d cellas.sk
 -d cendekiabinaaksara.com
@@ -225,6 +226,7 @@ msFilterList
 -d cp-saofacundo.pt
 -d cpanel.shivay.net
 -d craiglindstrom.com
+-d crearechile.cl
 -d creationskateboards.com
 -d crecerco.com
 -d cricket.theglobalindia.net
@@ -250,7 +252,6 @@ msFilterList
 -d danaevara.com
 -d danielmi.ac.ug
 -d dannysimport.com
--d daohang1.oss-cn-beijing.aliyuncs.com
 -d dashboard.khholdings.co.za
 -d data.cdevelop.org
 -d data.over-blog-kiwi.com
@@ -276,10 +277,11 @@ msFilterList
 -d dev.favterest.com
 -d dev.sebpo.net
 -d dev.watch-store.eu
+-d dezcom.com
 -d dfcf.91756.cn
--d diamantenegro.mi-fs.com
 -d dienmayminhhung.com
 -d djking.f3322.net
+-d dl.1003b.56a.com
 -d dl.198424.com
 -d dl.packetstormsecurity.net
 -d dl.rina-roleplay.com
@@ -287,7 +289,6 @@ msFilterList
 -d dockerupdate.anondns.net
 -d docs.indianexpress.org
 -d docs.twincitytraveltourism.com
--d docs.zohopublic.com
 -d docs.zohopublic.eu
 -d docuserver1.com
 -d docusign-online.download-docusign-inc-online.greenponys.com
@@ -298,6 +299,7 @@ msFilterList
 -d dongnaitw.com
 -d donswoodwork.com
 -d dosman.pl
+-d down.apkeditor.cn
 -d down.pcclear.com
 -d down.udashi.com
 -d down.webbora.com
@@ -305,6 +307,7 @@ msFilterList
 -d download.caihong.com
 -d download.doumaibiji.cn
 -d download.pdf00.cn
+-d download.rising.com.cn
 -d download.skycn.com
 -d dragonsknot.com
 -d drbaby.com.sa
@@ -337,7 +340,6 @@ msFilterList
 -d enweddingdress.com
 -d ergotherapeia-kalamata.gr
 -d erikaeggleston.com
--d erp.nanotechproautocare.com
 -d erp.spectrummhss.ac.in
 -d erp.stannsschoolpanagudi.edu.in
 -d esnconsultants.com
@@ -348,10 +350,12 @@ msFilterList
 -d europeanzonexxi.com
 -d eventmarketing.com.sg
 -d events.blissona.com
+-d exaltmathiasministries.org
 -d exam.jsamovies.com
 -d exilum.com
 -d expatbh.com
 -d expresolv.com
+-d f.hiterima.ru
 -d f1sol.com
 -d fabienpique.com
 -d facebook.commit.capitaluniversity.net
@@ -408,7 +412,6 @@ msFilterList
 -d growupmedia.pk
 -d grupoinmare.com
 -d gruposelt.000webhostapp.com
--d gs.monerorx.com
 -d guillermomanrique.com.mx
 -d guongnoithat.com
 -d h.epelcdn.com
@@ -450,6 +453,7 @@ msFilterList
 -d hsecaravans.co.uk
 -d hseda.com
 -d htownbars.com
+-d hunggiang.vn
 -d hutyrtit.ydns.eu
 -d hw2sss.xyz
 -d hyprothermcoalfurnace.com
@@ -460,7 +464,6 @@ msFilterList
 -d idilsoft.com
 -d idj.no
 -d idvindia.com
--d igrejanovavida.net.br
 -d ikizhavuz.com
 -d ilrafrica.com
 -d images.jermiau.com
@@ -501,7 +504,6 @@ msFilterList
 -d jennwolfemtb.com
 -d jhayesconsulting.com
 -d jiaoyuzixun.cn
--d jjcart.net
 -d jnanbharati.com
 -d joelbonissilver.com
 -d jomtenet.com
@@ -515,6 +517,7 @@ msFilterList
 -d karer.by
 -d karunaelnido.com
 -d katanvetov.co.il
+-d katchobinnas.duckdns.org
 -d keeshu.co
 -d kensingtondriving.com
 -d ketofitnessexpert.com
@@ -523,11 +526,13 @@ msFilterList
 -d kidsangelcards.com
 -d kieuphong.vn
 -d kjcpromo.com
+-d kleinendeli.co.za
 -d kmeventsuae.com
 -d kooldstudio.com
 -d koreabam29.com
 -d kowashitekata.ru
 -d kpicon.co.id
+-d krisbadminton.com
 -d krishnapowers.com
 -d ks.cn
 -d ktkbeauty.com.sg
@@ -566,6 +571,7 @@ msFilterList
 -d login.trezor.com.stockfootagesindia.com
 -d logotypfabriken.se
 -d longcheckdo.com
+-d lookmegarment.com
 -d lotix.de
 -d lp.definerisco.com
 -d lp.difusodesign.com
@@ -586,6 +592,7 @@ msFilterList
 -d malwarecoding.github.io
 -d managemysalon.in
 -d manantialesdelnorte.uy
+-d maquinadosgutierrez.com
 -d marinecollagenelixir.com
 -d mario-sunjic.com
 -d mariobrown.net
@@ -721,7 +728,6 @@ msFilterList
 -d pallascapital.katchpurcity.com
 -d panel.ppsa.in
 -d parallel.rockvideos.at
--d parejasfelices.mi-fs.com
 -d pataphysics.net.au
 -d patch2.51lg.com
 -d patch2.99ddd.com
@@ -790,8 +796,6 @@ msFilterList
 -d registeredwind.com
 -d reifenquick.de
 -d relaxindulge.co.nz
--d remunerationtrade.com
--d renegocia.pe
 -d renehavis.com.ua
 -d reseller.digimitra.in
 -d reseller.itechbrasil.com
@@ -817,7 +821,6 @@ msFilterList
 -d sacredscentsonline.com
 -d safcol-colors.com
 -d safehubsecurity.ca
--d safety.nanotechproautocare.com
 -d sahathaikasetpan.com
 -d sainzim.co.za
 -d sangariri.github.io
@@ -887,7 +890,6 @@ msFilterList
 -d staging.apparelpunch.com
 -d starcountry.net
 -d static.3001.net
--d static.cz01.cn
 -d stiau.iuc.ac
 -d sticker.jewsjuice.com
 -d store.selectandwin.com
@@ -904,13 +906,11 @@ msFilterList
 -d swsaseguranca.com.br
 -d swwbia.com
 -d szwbjs.com
--d t.honker.info
 -d tafsantoursandtravels.com
 -d targetagro.com.pk
 -d tarravalleyfoods.com.au
 -d taxclubpk.com
 -d tc.snpsresidential.com
--d tcpudpnet.ddns.net
 -d tdsp.yngw518.com
 -d techgms.com
 -d technikatronix.com
@@ -920,7 +920,6 @@ msFilterList
 -d temptmag.com
 -d tencoconsulting.com
 -d tentandoserfitness.000webhostapp.com
--d tes.zindap.com
 -d tesorak.ru
 -d test.adventser.com
 -d test.cliniconnect.com.au
@@ -937,7 +936,6 @@ msFilterList
 -d the6hats.com
 -d thecreativecafe.co.uk
 -d thedentalhq.com
--d thedesertship.com
 -d thefuturelife.in
 -d thekassia.co.uk
 -d thekissilent.net
@@ -954,13 +952,13 @@ msFilterList
 -d tifometrobianconero.net
 -d timamollo.co.za
 -d timegonebuy.com
+-d todoapp.cstdevs.com
 -d tonmatdoanminh.com
 -d tonydong.com
 -d tonyzone.com
 -d tools.liankenet.com
 -d tools.reimclub.com
 -d toplevel.com.br
--d topv.xyz
 -d torresquinterocorp.com
 -d toyotacollege.ac.th
 -d trade-credit.co.za
@@ -1032,7 +1030,6 @@ msFilterList
 -d wildtrust.mediadevstaging.com
 -d winfyn10.top
 -d wishesconcierge.com
--d wizesales.com
 -d wj8pgg.am.files.1drv.com
 -d wjq63w.am.files.1drv.com
 -d woezon.agency
@@ -1059,7 +1056,6 @@ msFilterList
 -d yp.hnggzyjy.cn
 -d ysbaojia.com
 -d ytvnews.info
--d yz.4399fz.com
 -d yzkzixun.com
 -d zakat.abqarie.com
 -d zensoft.vn

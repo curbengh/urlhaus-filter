@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Mon, 02 Aug 2021 12:11:09 +0000
+# Updated: Tue, 03 Aug 2021 00:10:25 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3807,6 +3807,7 @@ msFilterList
 -d afjv-my.sharepoint.com
 -d afkar-tech.com
 -d afkar.today
+-d afkarbz.com
 -d aflah.se
 -d aflim.org.ng
 -d aflora.com.ve
@@ -28410,7 +28411,6 @@ msFilterList
 -d diversifii.com
 -d diversitycityin.com
 -d diversityfoodbrands.com
--d diversitymbamagazine.com
 -d diversitywealth.com
 -d diverzeent.com
 -d divewise-equipment.shop
@@ -29577,6 +29577,7 @@ msFilterList
 -d down.54nb.com
 -d down.78fdfs.club
 -d down.allthelive.com
+-d down.apkeditor.cn
 -d down.biubiudown.com
 -d down.cacheoffer.tk
 -d down.cltz.cn
@@ -36107,6 +36108,7 @@ msFilterList
 -d fcf.net
 -d fcfribourg.ch
 -d fcg.gxepb.gov.cn
+-d fclskincare.com
 -d fcmcambiosautomaticos.com
 -d fcmelli.ir
 -d fcncorp.com
@@ -42672,6 +42674,7 @@ msFilterList
 -d grupotci.com.co
 -d grupotintemusical.com
 -d grupotmd.cl
+-d grupotopbem.com.br
 -d grupovisionpr.com
 -d grupoweb.cl
 -d grupoxn.com
@@ -47694,7 +47697,6 @@ msFilterList
 -d ik-7.ru
 -d ik-instaling.com
 -d ik.termopanemaramures.ro
--d ikahotel.com
 -d ikama.cal24.pl
 -d ikamautoindustrie.com
 -d ikamel.com
@@ -60003,6 +60005,7 @@ msFilterList
 -d luxedollz.com
 -d luxeestateslifestyles.com
 -d luxelillie.com
+-d luxelistreviews.com
 -d luxepipe.com
 -d luxepsyche.com
 -d luxeradiator.com
@@ -69355,7 +69358,6 @@ msFilterList
 -d newkrungthai.com
 -d newlandred.com
 -d newlaw.vn
--d newlife-health.com
 -d newlifecenters.org
 -d newlifeholding.com
 -d newlifemedia.net
@@ -89122,6 +89124,7 @@ msFilterList
 -d slotsday.gr
 -d slotshots2.yggdrasilgaming.com
 -d slotworld.in
+-d slotxogameth.com
 -d sloughchessacademy.com
 -d slovak-cts.sk
 -d slowdtech.net
@@ -106555,6 +106558,7 @@ msFilterList
 -d witzell.dk
 -d wiu.fxxxxxxk.me
 -d wivup.com
+-d wiwa-lokal.de
 -d wiwebdev.com
 -d wiwi-cloud.htw-saarland.de
 -d wiwidwinar.com
