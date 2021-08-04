@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Tue, 03 Aug 2021 12:10:35 +0000
+# Updated: Wed, 04 Aug 2021 00:10:39 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -838,6 +838,7 @@ msFilterList
 -d 2ds.cl
 -d 2feet4paws.ae
 -d 2fitshop.com
+-d 2freeprivacytoolsforyou.xyz
 -d 2friends.mx
 -d 2fsuppowww.watchdogdns.duckdns.orgwatchdogdns.duckdns.org
 -d 2idiotsandnobusinessplan.com
@@ -2977,6 +2978,7 @@ msFilterList
 -d acrelop.com
 -d acremedies.com
 -d acrezmark.com
+-d acrilicoporto.pt
 -d acrinetshop.com.br
 -d acrobatcloudpdffiletransfer.mangospot.net
 -d acronimofenix.com.br
@@ -3808,7 +3810,6 @@ msFilterList
 -d afjv-my.sharepoint.com
 -d afkar-tech.com
 -d afkar.today
--d afkarbz.com
 -d aflah.se
 -d aflim.org.ng
 -d aflora.com.ve
@@ -7057,6 +7058,7 @@ msFilterList
 -d aninsnasdneqwe.com
 -d aninteractive.org
 -d anionlight2.builtwithheart.com
+-d aniradichita.kaurainfotech.com
 -d anirtv.com
 -d aniruk.com
 -d anirukpacks.com
@@ -10886,6 +10888,7 @@ msFilterList
 -d b.dircgame.live
 -d b.fherf.com
 -d b.frefou.ru
+-d b.goatbgame.com
 -d b.kitchencabinetryprofessionals.com
 -d b.makswells.com
 -d b.reich.io
@@ -15784,6 +15787,7 @@ msFilterList
 -d botschaftvielfalt.de
 -d botsphere.biz
 -d botstars.net
+-d botsuite.io
 -d bottleguide.com.au
 -d bottomline.co.in
 -d bottomlinemotionpictures.com
@@ -22712,6 +22716,7 @@ msFilterList
 -d contentconsultants.in
 -d contentedmerc.xyz
 -d contentlego.com
+-d contentmy.com
 -d contentprotectionsummit.com
 -d contents-marketing.ru
 -d contentsxx.xsrv.jp
@@ -25331,6 +25336,7 @@ msFilterList
 -d data-gel.com
 -d data.cdevelop.org
 -d data.deadlywind.com
+-d data.green-iraq.com
 -d data.iain-manado.ac.id
 -d data.kaoyany.top
 -d data.luckypropertyservices.com
@@ -26355,6 +26361,7 @@ msFilterList
 -d demo.esoluz.com
 -d demo.evsoft.pk
 -d demo.evthemes.info
+-d demo.exam.uproducts.in
 -d demo.exclusivev2.uproducts.in
 -d demo.farishtheme.ir
 -d demo.foxffee.com
@@ -36869,6 +36876,7 @@ msFilterList
 -d fintop.co.uk
 -d finvestree.com
 -d fiolet.eklektik-style.ru
+-d fiom65pre.ru
 -d fionapassey.co.uk
 -d fiordelizadelgado.org
 -d fiorellamacandcheese.com
@@ -38822,6 +38830,7 @@ msFilterList
 -d fundacjadelhan.pl
 -d fundacjakoliber.org.pl
 -d fundamental-learning.com
+-d fundbag.org
 -d fundbook.xyz
 -d fundeartescolombia.org
 -d fundeciba.org
@@ -42096,6 +42105,7 @@ msFilterList
 -d greatingusa.com
 -d greatismoney.com
 -d greatissoftware.com
+-d greativestudios.000webhostapp.com
 -d greatkenyatours.com
 -d greatmagazinesgift.co.uk
 -d greatmischiefdesign.com
@@ -46270,6 +46280,7 @@ msFilterList
 -d hrtechinfocenter.com
 -d hrtgatlanta.com
 -d hrw393pilot.com
+-d hrwindowcleaningservices.co.uk
 -d hs-borg.com
 -d hs-einrichtungen.com
 -d hsa-microtech.de
@@ -46789,6 +46800,7 @@ msFilterList
 -d i-life-net.com
 -d i-mueller.de
 -d i-quiz.ir
+-d i-ramps.com
 -d i-rate.ru
 -d i-razum.ru
 -d i-rewardshop.com
@@ -49193,6 +49205,7 @@ msFilterList
 -d inter-investmentbank.com
 -d inter-mvietnam.com
 -d inter-tractor.fi
+-d inter-trading-service.com
 -d inter.creativeintertech.ca
 -d inter.payap.ac.th
 -d interac3688.epssecurity.com.au
@@ -57623,6 +57636,7 @@ msFilterList
 -d lescandy.com
 -d lescarresbiodegarance.com
 -d lescelebrites.fr
+-d lesch.com
 -d leschiensdelabistade.fr
 -d leschikaugen.de
 -d lesclefsdor.sg
@@ -58460,7 +58474,6 @@ msFilterList
 -d liping.show
 -d lipnar.co.uk
 -d lipo-lytic.net
--d lipoly.ru
 -d liponradio.com
 -d lipraco.cz
 -d lipribhoz.ru
@@ -59888,6 +59901,7 @@ msFilterList
 -d lussos.com
 -d lustamleben-musical.de
 -d lustcasino.nl
+-d lusterconsultancy.com
 -d lusteri.com
 -d lustgirls.nl
 -d lustrapro.ru
@@ -66088,6 +66102,7 @@ msFilterList
 -d moodachainzgear.com
 -d moodig.se
 -d moodijital.com
+-d moodle.digitalmedia.kiev.ua
 -d moodle.prepajilo.mx
 -d mooi-trade.com
 -d mooigeleekliniek.co.za
@@ -89787,6 +89802,7 @@ msFilterList
 -d softecangola.net
 -d softechint.co.uk
 -d softem.de
+-d softersyu.com
 -d softgon.com
 -d softhotel.com
 -d softica.dk
@@ -94203,7 +94219,6 @@ msFilterList
 -d tacoshermanos.fr
 -d tact-yl.fr
 -d tact9.in
--d tactical-toolbox.com
 -d tacticalcto.com.au
 -d tacticalintelligence.org
 -d tacticohosting.com
@@ -95561,6 +95576,7 @@ msFilterList
 -d telsiai.info
 -d telugoda.net
 -d telugubhaktibooks.com
+-d teluguchitchat.com
 -d teluguspicynews.com
 -d telvill.hu
 -d telvisxchange.com
@@ -98017,6 +98033,7 @@ msFilterList
 -d timelesscustomdesigns.com
 -d timelesstraining.net
 -d timeline.ennov8.com.ng
+-d timelinerentals.com
 -d timelinetravel.co.za
 -d timelinetraveltours.com
 -d timelinetrust.com
@@ -104191,6 +104208,7 @@ msFilterList
 -d vol.agency
 -d vol2.pw
 -d volammienphi.net
+-d volamnoibo.com
 -d volathailand.com
 -d volboris.ru
 -d volcangrais.com
@@ -104487,6 +104505,7 @@ msFilterList
 -d vulkanvegasbonus.maker.ag
 -d vulkanvegasbonus.nanodatos.cl
 -d vulkanvegasbonus.oyunmakinalari.net
+-d vulkanvegasbonus.theglobeitsolution.co.za
 -d vulkanvegasbonus.ucargiyim.com
 -d vulkanvegasbonus1000.travelerluxury.com
 -d vulkanvegasbonusmb.payroll.gadgetoy.com
@@ -107734,6 +107753,7 @@ msFilterList
 -d xiaoxuewen.com
 -d xiaoyaoz.com
 -d xiaoyue.wang
+-d xiaz.xyz
 -d xiazai.vosonic.com.cn
 -d xiazai.xiazaiba.com
 -d xiazai.xiuchufang.com
@@ -110363,6 +110383,7 @@ msFilterList
 -d zoodoxos.gr
 -d zoolandia.boo.pl
 -d zoom-machinery.com
+-d zoomagazin.az
 -d zoomandshootphotography.com
 -d zoomdrive.com.au
 -d zoomevents.pl
