@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Wed, 04 Aug 2021 00:10:39 +0000
+# Updated: Wed, 04 Aug 2021 12:10:40 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2242,7 +2242,6 @@
 0.0.0.0 aartinc.net
 0.0.0.0 aartista.com.br
 0.0.0.0 aarunya.in
-0.0.0.0 aarvytechnologies.in
 0.0.0.0 aaryagold.com
 0.0.0.0 aaryanlab.com
 0.0.0.0 aasaish.com
@@ -3663,6 +3662,7 @@
 0.0.0.0 aelmas.5gbfree.com
 0.0.0.0 aelogica.com
 0.0.0.0 aemgrup.com.tr
+0.0.0.0 aemine.vn
 0.0.0.0 aemo-mecanique-usinage.fr
 0.0.0.0 aengineeringltd.com
 0.0.0.0 aeondor.com
@@ -13421,6 +13421,7 @@
 0.0.0.0 bhutanunitedjourney.com
 0.0.0.0 bhutanwelfaretraders.bt
 0.0.0.0 bhuttangill.com
+0.0.0.0 bhyxj.com
 0.0.0.0 bi.netmonks.org
 0.0.0.0 bi0plate.com
 0.0.0.0 bi186.com
@@ -17333,6 +17334,7 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
+0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -17869,7 +17871,6 @@
 0.0.0.0 can-do-property.co.uk
 0.0.0.0 can-doelectric.com
 0.0.0.0 can-media.de
-0.0.0.0 canaccordgenuity.bluematrix.com
 0.0.0.0 canacofactura.com.mx
 0.0.0.0 canadabestonline.com
 0.0.0.0 canadabrightway.com
@@ -19795,7 +19796,6 @@
 0.0.0.0 chasynastennye.xyz
 0.0.0.0 chat-pal.com
 0.0.0.0 chat-server.maverickpreviews.com
-0.0.0.0 chat.aarvytechnologies.in
 0.0.0.0 chat.vdctelecom.com
 0.0.0.0 chat.wasetk-eltogary.com
 0.0.0.0 chatbot.fontineles.com
@@ -20291,6 +20291,7 @@
 0.0.0.0 cholesterol-ache.xyz
 0.0.0.0 chomoka.com
 0.0.0.0 chomptruck.com
+0.0.0.0 chongnet.cn
 0.0.0.0 chongoubus.com
 0.0.0.0 chongthamhoanglinh.com
 0.0.0.0 chongthamsontay.vn
@@ -23067,6 +23068,7 @@
 0.0.0.0 correiosbr.r1-it.storage.cloud.it
 0.0.0.0 correlation.ca
 0.0.0.0 correo.kable.cl
+0.0.0.0 correolimpio.telefonica.es
 0.0.0.0 correspondenterio.com.br
 0.0.0.0 corretordejoanete.site
 0.0.0.0 corrheating.ie
@@ -32891,7 +32893,6 @@
 0.0.0.0 emploi.summer-marseille.com
 0.0.0.0 emploimed.com
 0.0.0.0 emploired.com
-0.0.0.0 employee.aarvytechnologies.in
 0.0.0.0 employeerefferals.com
 0.0.0.0 employeradvice.ie
 0.0.0.0 employers-forms.org
@@ -36574,7 +36575,6 @@
 0.0.0.0 file.discountmonumentcenter.com
 0.0.0.0 file.dpmf.com.pk
 0.0.0.0 file.ekkggr3.com
-0.0.0.0 file.elecfans.com
 0.0.0.0 file.fm
 0.0.0.0 file.importantcover.uk
 0.0.0.0 file.lauasinh.com
@@ -40123,6 +40123,7 @@
 0.0.0.0 geordiana.com
 0.0.0.0 georg-mueller.ch
 0.0.0.0 georgekiser.com
+0.0.0.0 georgeprapas.com
 0.0.0.0 georgereports.com
 0.0.0.0 georgesinc.zendesk.com
 0.0.0.0 georgesymes.co.uk
@@ -43086,7 +43087,6 @@
 0.0.0.0 gyeuiojndhbvmaoiwnnchauwo28vnj8mjmvnwhk.ydns.eu
 0.0.0.0 gylymbaspasy.kz
 0.0.0.0 gym-leips.dod.sch.gr
-0.0.0.0 gym.aarvytechnologies.in
 0.0.0.0 gym.drupwayinfotech.in
 0.0.0.0 gym.marvin.tech
 0.0.0.0 gymbiz.vn
@@ -44506,7 +44506,6 @@
 0.0.0.0 help.siganet.com.br
 0.0.0.0 help.talisman-sql.ru
 0.0.0.0 help.thetechguyusa.com
-0.0.0.0 help.wework.com
 0.0.0.0 help2help.info
 0.0.0.0 help3in1.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 helpandinformation.uk
@@ -45516,7 +45515,6 @@
 0.0.0.0 home.99eurowebsite.ie
 0.0.0.0 home.barley-plus.com
 0.0.0.0 home.dawang.ink
-0.0.0.0 home.earthlink.net
 0.0.0.0 home.evrstudio.com
 0.0.0.0 home.healthiestu.com
 0.0.0.0 home.isdes.com
@@ -56050,6 +56048,7 @@
 0.0.0.0 kybis.ru
 0.0.0.0 kyedoll.com
 0.0.0.0 kyesgroups.com
+0.0.0.0 kygoibatdongsan.com
 0.0.0.0 kyiv.samopomich.ua
 0.0.0.0 kykeon-eleusis.com
 0.0.0.0 kykywka.xyz
@@ -66796,6 +66795,7 @@
 0.0.0.0 msofficeinternatiinalfilecloudtransfer.duckdns.org
 0.0.0.0 msofficesecuredfiletransferinfocloud.duckdns.org
 0.0.0.0 msofficewordfiletransfertotheadmintrue.duckdns.org
+0.0.0.0 msoftwares.info
 0.0.0.0 msograteful.com
 0.0.0.0 mspcville.com
 0.0.0.0 mspn.com.au
@@ -75532,6 +75532,7 @@
 0.0.0.0 phoneexpertxl.nl
 0.0.0.0 phonelocaltoday.com
 0.0.0.0 phonerepaircentre.com.au
+0.0.0.0 phoneringtones.info
 0.0.0.0 phones.pmrspain.com
 0.0.0.0 phonestore-telephonie.fr
 0.0.0.0 phonestore.vn
@@ -78378,7 +78379,6 @@
 0.0.0.0 protectiadatelor.biz
 0.0.0.0 protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 0.0.0.0 protection.pecol.eu
-0.0.0.0 protection.retarus.com
 0.0.0.0 protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 0.0.0.0 protection.sytes.net
 0.0.0.0 protection1llc-my.sharepoint.com
@@ -85387,7 +85387,6 @@
 0.0.0.0 scholarstechnos.com
 0.0.0.0 schollaert.eu
 0.0.0.0 schonlinepvc.com
-0.0.0.0 school.aarvytechnologies.in
 0.0.0.0 school.hellojobs.ru
 0.0.0.0 school.kay-tech.info
 0.0.0.0 school.mvmms.in
@@ -92346,7 +92345,6 @@
 0.0.0.0 storagelookup.com
 0.0.0.0 storageprinting.com
 0.0.0.0 storani.com.ar
-0.0.0.0 store.aarvytechnologies.in
 0.0.0.0 store.aca-apac.com
 0.0.0.0 store.adammuzic.vn
 0.0.0.0 store.animaetech.com
@@ -100068,6 +100066,7 @@
 0.0.0.0 tsredco.telangana.gov.in
 0.0.0.0 tsrj.monster
 0.0.0.0 tsrv2.top
+0.0.0.0 tsrv4.ws
 0.0.0.0 tssolutionsgroup.com
 0.0.0.0 tst.marineindust.com
 0.0.0.0 tstfrigo.com

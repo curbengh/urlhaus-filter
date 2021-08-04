@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Wed, 04 Aug 2021 00:10:39 +0000
+# Updated: Wed, 04 Aug 2021 12:10:40 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2245,7 +2245,6 @@ msFilterList
 -d aartinc.net
 -d aartista.com.br
 -d aarunya.in
--d aarvytechnologies.in
 -d aaryagold.com
 -d aaryanlab.com
 -d aasaish.com
@@ -3666,6 +3665,7 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
+-d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -13424,6 +13424,7 @@ msFilterList
 -d bhutanunitedjourney.com
 -d bhutanwelfaretraders.bt
 -d bhuttangill.com
+-d bhyxj.com
 -d bi.netmonks.org
 -d bi0plate.com
 -d bi186.com
@@ -17336,6 +17337,7 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
+-d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -17872,7 +17874,6 @@ msFilterList
 -d can-do-property.co.uk
 -d can-doelectric.com
 -d can-media.de
--d canaccordgenuity.bluematrix.com
 -d canacofactura.com.mx
 -d canadabestonline.com
 -d canadabrightway.com
@@ -19798,7 +19799,6 @@ msFilterList
 -d chasynastennye.xyz
 -d chat-pal.com
 -d chat-server.maverickpreviews.com
--d chat.aarvytechnologies.in
 -d chat.vdctelecom.com
 -d chat.wasetk-eltogary.com
 -d chatbot.fontineles.com
@@ -20294,6 +20294,7 @@ msFilterList
 -d cholesterol-ache.xyz
 -d chomoka.com
 -d chomptruck.com
+-d chongnet.cn
 -d chongoubus.com
 -d chongthamhoanglinh.com
 -d chongthamsontay.vn
@@ -23070,6 +23071,7 @@ msFilterList
 -d correiosbr.r1-it.storage.cloud.it
 -d correlation.ca
 -d correo.kable.cl
+-d correolimpio.telefonica.es
 -d correspondenterio.com.br
 -d corretordejoanete.site
 -d corrheating.ie
@@ -32894,7 +32896,6 @@ msFilterList
 -d emploi.summer-marseille.com
 -d emploimed.com
 -d emploired.com
--d employee.aarvytechnologies.in
 -d employeerefferals.com
 -d employeradvice.ie
 -d employers-forms.org
@@ -36577,7 +36578,6 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
--d file.elecfans.com
 -d file.fm
 -d file.importantcover.uk
 -d file.lauasinh.com
@@ -40126,6 +40126,7 @@ msFilterList
 -d geordiana.com
 -d georg-mueller.ch
 -d georgekiser.com
+-d georgeprapas.com
 -d georgereports.com
 -d georgesinc.zendesk.com
 -d georgesymes.co.uk
@@ -43089,7 +43090,6 @@ msFilterList
 -d gyeuiojndhbvmaoiwnnchauwo28vnj8mjmvnwhk.ydns.eu
 -d gylymbaspasy.kz
 -d gym-leips.dod.sch.gr
--d gym.aarvytechnologies.in
 -d gym.drupwayinfotech.in
 -d gym.marvin.tech
 -d gymbiz.vn
@@ -44509,7 +44509,6 @@ msFilterList
 -d help.siganet.com.br
 -d help.talisman-sql.ru
 -d help.thetechguyusa.com
--d help.wework.com
 -d help2help.info
 -d help3in1.oss-cn-hangzhou.aliyuncs.com
 -d helpandinformation.uk
@@ -45519,7 +45518,6 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
--d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -56053,6 +56051,7 @@ msFilterList
 -d kybis.ru
 -d kyedoll.com
 -d kyesgroups.com
+-d kygoibatdongsan.com
 -d kyiv.samopomich.ua
 -d kykeon-eleusis.com
 -d kykywka.xyz
@@ -66799,6 +66798,7 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
+-d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -75535,6 +75535,7 @@ msFilterList
 -d phoneexpertxl.nl
 -d phonelocaltoday.com
 -d phonerepaircentre.com.au
+-d phoneringtones.info
 -d phones.pmrspain.com
 -d phonestore-telephonie.fr
 -d phonestore.vn
@@ -78381,7 +78382,6 @@ msFilterList
 -d protectiadatelor.biz
 -d protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 -d protection.pecol.eu
--d protection.retarus.com
 -d protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 -d protection.sytes.net
 -d protection1llc-my.sharepoint.com
@@ -85390,7 +85390,6 @@ msFilterList
 -d scholarstechnos.com
 -d schollaert.eu
 -d schonlinepvc.com
--d school.aarvytechnologies.in
 -d school.hellojobs.ru
 -d school.kay-tech.info
 -d school.mvmms.in
@@ -92349,7 +92348,6 @@ msFilterList
 -d storagelookup.com
 -d storageprinting.com
 -d storani.com.ar
--d store.aarvytechnologies.in
 -d store.aca-apac.com
 -d store.adammuzic.vn
 -d store.animaetech.com
@@ -100071,6 +100069,7 @@ msFilterList
 -d tsredco.telangana.gov.in
 -d tsrj.monster
 -d tsrv2.top
+-d tsrv4.ws
 -d tssolutionsgroup.com
 -d tst.marineindust.com
 -d tstfrigo.com
