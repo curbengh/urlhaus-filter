@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 05 Aug 2021 00:10:43 +0000
+# Updated: Thu, 05 Aug 2021 12:10:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1997,6 +1997,7 @@ msFilterList
 -d a.deadnig.ga
 -d a.doko.moe
 -d a.gg.fm
+-d a.goatagame.com
 -d a.goatgame.co
 -d a.heritageandterre.com
 -d a.pomf.cat
@@ -2048,6 +2049,8 @@ msFilterList
 -d a0409082.xsph.ru
 -d a0417340.xsph.ru
 -d a0551002.xsph.ru
+-d a0566822.xsph.ru
+-d a0567226.xsph.ru
 -d a1-boekhouding.nl
 -d a1-incasso.nl
 -d a1337.com.br
@@ -7579,6 +7582,7 @@ msFilterList
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
+-d apigeoip.com
 -d apihomes.us
 -d apiperjuangan.com
 -d apipro.com.br
@@ -9549,6 +9553,7 @@ msFilterList
 -d atc-co-qa.com
 -d atc.iyclm.in
 -d atchec.com
+-d atclouroettfbquhfimp.com
 -d atcws.com
 -d ate22.ru
 -d ateamagencies.000webhostapp.com
@@ -12120,6 +12125,7 @@ msFilterList
 -d bbscollege.org.in
 -d bbserver.ir
 -d bbtravelntours.com
+-d bbunkering.lv
 -d bbv.borgmeier.media
 -d bbvaticanskeys.com
 -d bbvroonlande.nl
@@ -17342,7 +17348,6 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
--d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -18264,6 +18269,7 @@ msFilterList
 -d carforcashhamilton.com
 -d carforcome.com
 -d cargacontrol.com.co
+-d cargasipot.plataformadetransparencia.org.mx
 -d cargo11.000webhostapp.com
 -d cargofast.net
 -d cargoglobe-ltd.com
@@ -20326,6 +20332,7 @@ msFilterList
 -d choppervare.com
 -d choptanknyc.com
 -d chothuemc.vn
+-d chothuexept.vn
 -d chotinh18.com
 -d chouett-vacances.com
 -d chouhan.net
@@ -21685,6 +21692,7 @@ msFilterList
 -d codedgrowth.com
 -d codedoon.ir
 -d codedriveinfo.com
+-d codeevokes.com
 -d codefirm.codefirm.net
 -d codegreen.cs.wayne.edu
 -d codehotelandsuites.com
@@ -22489,6 +22497,7 @@ msFilterList
 -d congressoneurofeedback.com.br
 -d congressplanners.org
 -d congtacocam.gnsvn.vn
+-d congtudong.vn
 -d congtycophan397.com.vn
 -d congtycophantuan123.net
 -d congtydaugia.vn
@@ -23077,7 +23086,6 @@ msFilterList
 -d correiosbr.r1-it.storage.cloud.it
 -d correlation.ca
 -d correo.kable.cl
--d correolimpio.telefonica.es
 -d correspondenterio.com.br
 -d corretordejoanete.site
 -d corrheating.ie
@@ -27144,6 +27152,7 @@ msFilterList
 -d dev.ateamymm.ca
 -d dev.awen.co
 -d dev.bassetlawscouts.org.uk
+-d dev.boccsi.com
 -d dev.boxia.io
 -d dev.bramidlimited.com
 -d dev.brees.com.au
@@ -28735,7 +28744,6 @@ msFilterList
 -d dmcfund.lu
 -d dmcg.sg
 -d dmcgroup.com.vn
--d dmclinicalresearch.com
 -d dmcmax.com
 -d dmcooper.net
 -d dmcrafting.com
@@ -35475,6 +35483,7 @@ msFilterList
 -d falconsytms.com
 -d falcorecom.online
 -d faldesicure.org
+-d falegnameriaraneri.it
 -d falguniassociates.com
 -d faliso.ir
 -d falkgerlach.de
@@ -45765,6 +45774,7 @@ msFilterList
 -d hopex.com.co
 -d hopfenziz.de
 -d hopfresh.id
+-d hophamlam.tk
 -d hophophop.pw
 -d hopi.hopto.org
 -d hopime.com
@@ -47128,6 +47138,7 @@ msFilterList
 -d icode.melayga.com
 -d icodeucode.com
 -d icodriver.com
+-d icoe.one
 -d icoflags.com
 -d icoindna.io
 -d icollc.net
@@ -54764,6 +54775,7 @@ msFilterList
 -d kktcilanver.com
 -d kkthx.ac.ug
 -d kktoade.pw
+-d kl35.co.in
 -d kl82.belpravo.by
 -d klabava.rokycansko.cz
 -d klaksona2.net
@@ -71279,6 +71291,7 @@ msFilterList
 -d objetivosaludable.com
 -d objetosrastreamento.com
 -d objetosrh.com
+-d objtqwwsimibwcmnkrqw.com
 -d obkfah.com
 -d obklad.sk
 -d obligacion.eastus.cloudapp.azure.com
@@ -79416,6 +79429,7 @@ msFilterList
 -d qms.sentes-bir.com
 -d qmsbah.com
 -d qmsled.com
+-d qmumdjffuiocstjfmdqt.com
 -d qmusic.live
 -d qnapoker.com
 -d qnbfinansenparacepsube2020.com
@@ -83893,7 +83907,6 @@ msFilterList
 -d sabzamoz.ir
 -d sabzgame.ir
 -d sabzoabi.ir
--d sac-qa.com
 -d sac-serv.com
 -d sac-sofom.com
 -d sac2.11xii.com
@@ -84640,7 +84653,6 @@ msFilterList
 -d sanathanjewellers.com
 -d sanayate.com
 -d sanazfeizi.com
--d sanbartolo.edu.co
 -d sanbatdongsanhud.vn
 -d sanbdshungthinh.com
 -d sancakcati.com
@@ -86558,6 +86570,7 @@ msFilterList
 -d server.xe-fx.com.pl
 -d server.xx-exch.top
 -d server00.send6.com
+-d server039.com
 -d server099.pw
 -d server2003.cc
 -d server28.onlineappupdater.com
@@ -93974,6 +93987,7 @@ msFilterList
 -d syntheticincenseonline.com
 -d syntheticviscosecotton.com
 -d syntichecoltd.co.ke
+-d syntropymgmt.ch
 -d synusiaclimbers.com
 -d syokmelaram.com
 -d syonenjump-fun.com
@@ -99932,6 +99946,7 @@ msFilterList
 -d truenatural.com.vn
 -d truenorthtimber.com
 -d trueperz.com
+-d trueshare.com
 -d trueskills.in
 -d trueteeshirt.com
 -d trueterroir.co.uk
@@ -105568,6 +105583,7 @@ msFilterList
 -d wedsen.com
 -d wee-s.co.jp
 -d weebci.net
+-d weeboos.000webhostapp.com
 -d weedbud420store.com
 -d weedcompare.co.uk
 -d weedgreat.com
@@ -107411,6 +107427,7 @@ msFilterList
 -d wvaljssp.org
 -d wvilla.enterhello.com
 -d wvthreeriversfestival.org
+-d wvww.cn
 -d ww.apcarreteras.org.py
 -d ww3.ch
 -d wwasbahb.com
@@ -107551,7 +107568,6 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
--d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
@@ -107571,6 +107587,7 @@ msFilterList
 -d x86tpkujgu1ksoky.com
 -d x8d8r8l8a8b8s.000webhostapp.com
 -d x97vn.mjt.lu
+-d xa.yimg.com
 -d xacrosoft.com
 -d xact.ma
 -d xadrezgigante.com.br
@@ -108714,6 +108731,7 @@ msFilterList
 -d yamato-ti.com
 -d yamemasesy.com
 -d yamike.com
+-d yamisiones.com
 -d yamm.com.my
 -d yamnadlan.com
 -d yamotors.net

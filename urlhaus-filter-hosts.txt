@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 05 Aug 2021 00:10:43 +0000
+# Updated: Thu, 05 Aug 2021 12:10:42 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1994,6 +1994,7 @@
 0.0.0.0 a.deadnig.ga
 0.0.0.0 a.doko.moe
 0.0.0.0 a.gg.fm
+0.0.0.0 a.goatagame.com
 0.0.0.0 a.goatgame.co
 0.0.0.0 a.heritageandterre.com
 0.0.0.0 a.pomf.cat
@@ -2045,6 +2046,8 @@
 0.0.0.0 a0409082.xsph.ru
 0.0.0.0 a0417340.xsph.ru
 0.0.0.0 a0551002.xsph.ru
+0.0.0.0 a0566822.xsph.ru
+0.0.0.0 a0567226.xsph.ru
 0.0.0.0 a1-boekhouding.nl
 0.0.0.0 a1-incasso.nl
 0.0.0.0 a1337.com.br
@@ -7576,6 +7579,7 @@
 0.0.0.0 apiesteso.com
 0.0.0.0 apifile.xyz
 0.0.0.0 apifm.in
+0.0.0.0 apigeoip.com
 0.0.0.0 apihomes.us
 0.0.0.0 apiperjuangan.com
 0.0.0.0 apipro.com.br
@@ -9546,6 +9550,7 @@
 0.0.0.0 atc-co-qa.com
 0.0.0.0 atc.iyclm.in
 0.0.0.0 atchec.com
+0.0.0.0 atclouroettfbquhfimp.com
 0.0.0.0 atcws.com
 0.0.0.0 ate22.ru
 0.0.0.0 ateamagencies.000webhostapp.com
@@ -12117,6 +12122,7 @@
 0.0.0.0 bbscollege.org.in
 0.0.0.0 bbserver.ir
 0.0.0.0 bbtravelntours.com
+0.0.0.0 bbunkering.lv
 0.0.0.0 bbv.borgmeier.media
 0.0.0.0 bbvaticanskeys.com
 0.0.0.0 bbvroonlande.nl
@@ -17339,7 +17345,6 @@
 0.0.0.0 c.oooooooooo.ga
 0.0.0.0 c.pieshua.com
 0.0.0.0 c.teamworx.ph
-0.0.0.0 c.top4top.io
 0.0.0.0 c.top4top.net
 0.0.0.0 c.vivi.casa
 0.0.0.0 c.vollar.ga
@@ -18261,6 +18266,7 @@
 0.0.0.0 carforcashhamilton.com
 0.0.0.0 carforcome.com
 0.0.0.0 cargacontrol.com.co
+0.0.0.0 cargasipot.plataformadetransparencia.org.mx
 0.0.0.0 cargo11.000webhostapp.com
 0.0.0.0 cargofast.net
 0.0.0.0 cargoglobe-ltd.com
@@ -20323,6 +20329,7 @@
 0.0.0.0 choppervare.com
 0.0.0.0 choptanknyc.com
 0.0.0.0 chothuemc.vn
+0.0.0.0 chothuexept.vn
 0.0.0.0 chotinh18.com
 0.0.0.0 chouett-vacances.com
 0.0.0.0 chouhan.net
@@ -21682,6 +21689,7 @@
 0.0.0.0 codedgrowth.com
 0.0.0.0 codedoon.ir
 0.0.0.0 codedriveinfo.com
+0.0.0.0 codeevokes.com
 0.0.0.0 codefirm.codefirm.net
 0.0.0.0 codegreen.cs.wayne.edu
 0.0.0.0 codehotelandsuites.com
@@ -22486,6 +22494,7 @@
 0.0.0.0 congressoneurofeedback.com.br
 0.0.0.0 congressplanners.org
 0.0.0.0 congtacocam.gnsvn.vn
+0.0.0.0 congtudong.vn
 0.0.0.0 congtycophan397.com.vn
 0.0.0.0 congtycophantuan123.net
 0.0.0.0 congtydaugia.vn
@@ -23074,7 +23083,6 @@
 0.0.0.0 correiosbr.r1-it.storage.cloud.it
 0.0.0.0 correlation.ca
 0.0.0.0 correo.kable.cl
-0.0.0.0 correolimpio.telefonica.es
 0.0.0.0 correspondenterio.com.br
 0.0.0.0 corretordejoanete.site
 0.0.0.0 corrheating.ie
@@ -27141,6 +27149,7 @@
 0.0.0.0 dev.ateamymm.ca
 0.0.0.0 dev.awen.co
 0.0.0.0 dev.bassetlawscouts.org.uk
+0.0.0.0 dev.boccsi.com
 0.0.0.0 dev.boxia.io
 0.0.0.0 dev.bramidlimited.com
 0.0.0.0 dev.brees.com.au
@@ -28732,7 +28741,6 @@
 0.0.0.0 dmcfund.lu
 0.0.0.0 dmcg.sg
 0.0.0.0 dmcgroup.com.vn
-0.0.0.0 dmclinicalresearch.com
 0.0.0.0 dmcmax.com
 0.0.0.0 dmcooper.net
 0.0.0.0 dmcrafting.com
@@ -35472,6 +35480,7 @@
 0.0.0.0 falconsytms.com
 0.0.0.0 falcorecom.online
 0.0.0.0 faldesicure.org
+0.0.0.0 falegnameriaraneri.it
 0.0.0.0 falguniassociates.com
 0.0.0.0 faliso.ir
 0.0.0.0 falkgerlach.de
@@ -45762,6 +45771,7 @@
 0.0.0.0 hopex.com.co
 0.0.0.0 hopfenziz.de
 0.0.0.0 hopfresh.id
+0.0.0.0 hophamlam.tk
 0.0.0.0 hophophop.pw
 0.0.0.0 hopi.hopto.org
 0.0.0.0 hopime.com
@@ -47125,6 +47135,7 @@
 0.0.0.0 icode.melayga.com
 0.0.0.0 icodeucode.com
 0.0.0.0 icodriver.com
+0.0.0.0 icoe.one
 0.0.0.0 icoflags.com
 0.0.0.0 icoindna.io
 0.0.0.0 icollc.net
@@ -54761,6 +54772,7 @@
 0.0.0.0 kktcilanver.com
 0.0.0.0 kkthx.ac.ug
 0.0.0.0 kktoade.pw
+0.0.0.0 kl35.co.in
 0.0.0.0 kl82.belpravo.by
 0.0.0.0 klabava.rokycansko.cz
 0.0.0.0 klaksona2.net
@@ -71276,6 +71288,7 @@
 0.0.0.0 objetivosaludable.com
 0.0.0.0 objetosrastreamento.com
 0.0.0.0 objetosrh.com
+0.0.0.0 objtqwwsimibwcmnkrqw.com
 0.0.0.0 obkfah.com
 0.0.0.0 obklad.sk
 0.0.0.0 obligacion.eastus.cloudapp.azure.com
@@ -79413,6 +79426,7 @@
 0.0.0.0 qms.sentes-bir.com
 0.0.0.0 qmsbah.com
 0.0.0.0 qmsled.com
+0.0.0.0 qmumdjffuiocstjfmdqt.com
 0.0.0.0 qmusic.live
 0.0.0.0 qnapoker.com
 0.0.0.0 qnbfinansenparacepsube2020.com
@@ -83890,7 +83904,6 @@
 0.0.0.0 sabzamoz.ir
 0.0.0.0 sabzgame.ir
 0.0.0.0 sabzoabi.ir
-0.0.0.0 sac-qa.com
 0.0.0.0 sac-serv.com
 0.0.0.0 sac-sofom.com
 0.0.0.0 sac2.11xii.com
@@ -84637,7 +84650,6 @@
 0.0.0.0 sanathanjewellers.com
 0.0.0.0 sanayate.com
 0.0.0.0 sanazfeizi.com
-0.0.0.0 sanbartolo.edu.co
 0.0.0.0 sanbatdongsanhud.vn
 0.0.0.0 sanbdshungthinh.com
 0.0.0.0 sancakcati.com
@@ -86555,6 +86567,7 @@
 0.0.0.0 server.xe-fx.com.pl
 0.0.0.0 server.xx-exch.top
 0.0.0.0 server00.send6.com
+0.0.0.0 server039.com
 0.0.0.0 server099.pw
 0.0.0.0 server2003.cc
 0.0.0.0 server28.onlineappupdater.com
@@ -93971,6 +93984,7 @@
 0.0.0.0 syntheticincenseonline.com
 0.0.0.0 syntheticviscosecotton.com
 0.0.0.0 syntichecoltd.co.ke
+0.0.0.0 syntropymgmt.ch
 0.0.0.0 synusiaclimbers.com
 0.0.0.0 syokmelaram.com
 0.0.0.0 syonenjump-fun.com
@@ -99929,6 +99943,7 @@
 0.0.0.0 truenatural.com.vn
 0.0.0.0 truenorthtimber.com
 0.0.0.0 trueperz.com
+0.0.0.0 trueshare.com
 0.0.0.0 trueskills.in
 0.0.0.0 trueteeshirt.com
 0.0.0.0 trueterroir.co.uk
@@ -105565,6 +105580,7 @@
 0.0.0.0 wedsen.com
 0.0.0.0 wee-s.co.jp
 0.0.0.0 weebci.net
+0.0.0.0 weeboos.000webhostapp.com
 0.0.0.0 weedbud420store.com
 0.0.0.0 weedcompare.co.uk
 0.0.0.0 weedgreat.com
@@ -107408,6 +107424,7 @@
 0.0.0.0 wvaljssp.org
 0.0.0.0 wvilla.enterhello.com
 0.0.0.0 wvthreeriversfestival.org
+0.0.0.0 wvww.cn
 0.0.0.0 ww.apcarreteras.org.py
 0.0.0.0 ww3.ch
 0.0.0.0 wwasbahb.com
@@ -107548,7 +107565,6 @@
 0.0.0.0 x.alluniversal.info
 0.0.0.0 x.autistichorse.club
 0.0.0.0 x.beginsonline.com
-0.0.0.0 x.jmxded153.net
 0.0.0.0 x.jmxded184.net
 0.0.0.0 x.norvartic.com
 0.0.0.0 x.ord-id.com
@@ -107568,6 +107584,7 @@
 0.0.0.0 x86tpkujgu1ksoky.com
 0.0.0.0 x8d8r8l8a8b8s.000webhostapp.com
 0.0.0.0 x97vn.mjt.lu
+0.0.0.0 xa.yimg.com
 0.0.0.0 xacrosoft.com
 0.0.0.0 xact.ma
 0.0.0.0 xadrezgigante.com.br
@@ -108711,6 +108728,7 @@
 0.0.0.0 yamato-ti.com
 0.0.0.0 yamemasesy.com
 0.0.0.0 yamike.com
+0.0.0.0 yamisiones.com
 0.0.0.0 yamm.com.my
 0.0.0.0 yamnadlan.com
 0.0.0.0 yamotors.net
