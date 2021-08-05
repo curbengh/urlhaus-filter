@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Wed, 04 Aug 2021 12:10:40 +0000
+# Updated: Thu, 05 Aug 2021 00:10:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2434,7 +2434,6 @@
 0.0.0.0 abigaminzaresearch.co.tz
 0.0.0.0 abihayatturkuaz.com
 0.0.0.0 abijanexchange.com
-0.0.0.0 abilita.com.mx
 0.0.0.0 abilita.smartojo.com
 0.0.0.0 ability-tec.com
 0.0.0.0 abilitymep.ae
@@ -5147,6 +5146,7 @@
 0.0.0.0 alexahomedeco.ro
 0.0.0.0 alexander-keip.de
 0.0.0.0 alexanderdeiser.com
+0.0.0.0 alexandermarius.com
 0.0.0.0 alexandersofballybofey.com
 0.0.0.0 alexanderveghini.com
 0.0.0.0 alexandradickman.com
@@ -7462,6 +7462,7 @@
 0.0.0.0 apartamentyeuropa.pl
 0.0.0.0 apartamentygosciejow.pl
 0.0.0.0 apartberlin.com
+0.0.0.0 apartdelpinar.com.ar
 0.0.0.0 apartemenverde.com
 0.0.0.0 apartmagabriela.cz
 0.0.0.0 apartmanidonner.com
@@ -8786,6 +8787,7 @@
 0.0.0.0 article.suipianny.com
 0.0.0.0 article.suipianny.comarticle.suipianny.com
 0.0.0.0 articufy.com
+0.0.0.0 articwood.com
 0.0.0.0 artieman.com
 0.0.0.0 artificialfish.com.ar
 0.0.0.0 artificialgrassanaheim.com
@@ -9056,6 +9058,7 @@
 0.0.0.0 asesoriaforonda.com
 0.0.0.0 asesoriainmobiliariaortiz.com
 0.0.0.0 asesorias.onlineepro.com
+0.0.0.0 asesoriasconfood.com.co
 0.0.0.0 asesoriastepual.cl
 0.0.0.0 asettprinting.com
 0.0.0.0 asfaleieskastoria.gr
@@ -10841,6 +10844,7 @@
 0.0.0.0 azuraccessoires83.fr
 0.0.0.0 azurclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
 0.0.0.0 azure-team.com
+0.0.0.0 azure365documents.com
 0.0.0.0 azureautomation.co.uk
 0.0.0.0 azuredocs.one
 0.0.0.0 azuredocs.org
@@ -16401,6 +16405,7 @@
 0.0.0.0 brokensea.com
 0.0.0.0 brokerinabox.net
 0.0.0.0 brokerprice.dk
+0.0.0.0 brolly.tech
 0.0.0.0 bronco.is
 0.0.0.0 broncosus.xyz
 0.0.0.0 brondsema.nl
@@ -18667,6 +18672,7 @@
 0.0.0.0 cassismodafeminina.com.br
 0.0.0.0 cassone.ro
 0.0.0.0 cassoulet.barons.fr
+0.0.0.0 cassovia.sk
 0.0.0.0 castalv.com.mx
 0.0.0.0 castelsucchi.com
 0.0.0.0 castentagescoterpay.info
@@ -26496,6 +26502,7 @@
 0.0.0.0 demo.tuzlapaslanmaz.com
 0.0.0.0 demo.uetuniversal.com
 0.0.0.0 demo.ultrasoftsys.com
+0.0.0.0 demo.usa-mycard.com
 0.0.0.0 demo.vgrish.ru
 0.0.0.0 demo.videooverplay.com
 0.0.0.0 demo.vms.by
@@ -28419,6 +28426,7 @@
 0.0.0.0 diversifii.com
 0.0.0.0 diversitycityin.com
 0.0.0.0 diversityfoodbrands.com
+0.0.0.0 diversitymbamagazine.com
 0.0.0.0 diversitywealth.com
 0.0.0.0 diverzeent.com
 0.0.0.0 divewise-equipment.shop
@@ -28970,6 +28978,7 @@
 0.0.0.0 documents.ss6.site
 0.0.0.0 documents.ss6.space
 0.0.0.0 documents.total-cloud.biz
+0.0.0.0 documents365updates.com
 0.0.0.0 documentshareil.com
 0.0.0.0 documentsignatures.live
 0.0.0.0 documentupdates.com
@@ -31859,6 +31868,7 @@
 0.0.0.0 efis.top
 0.0.0.0 efisyn.com
 0.0.0.0 efklidis.edu.gr
+0.0.0.0 eflcc.in
 0.0.0.0 efljhynz.sha58.me
 0.0.0.0 eflowersncakes.com
 0.0.0.0 efmj-eg.org
@@ -36025,7 +36035,6 @@
 0.0.0.0 fcf.net
 0.0.0.0 fcfribourg.ch
 0.0.0.0 fcg.gxepb.gov.cn
-0.0.0.0 fclskincare.com
 0.0.0.0 fcmcambiosautomaticos.com
 0.0.0.0 fcmelli.ir
 0.0.0.0 fcncorp.com
@@ -36632,7 +36641,9 @@
 0.0.0.0 files.viowi.org
 0.0.0.0 files.xianshiwl.com
 0.0.0.0 files.zertex.space
+0.0.0.0 files.zohoexternal.com
 0.0.0.0 files.zzattack.org
+0.0.0.0 files5.uludagbilisim.com
 0.0.0.0 files6.uludagbilisim.com
 0.0.0.0 filesdocuments.com
 0.0.0.0 filesecured.xyz
@@ -41607,6 +41618,7 @@
 0.0.0.0 googleapi.ru
 0.0.0.0 googleglobalbrandsearching.mangospot.net
 0.0.0.0 googlemeta.xyz
+0.0.0.0 googleplusmarketpro.com
 0.0.0.0 googlerank.in
 0.0.0.0 googleresult.in
 0.0.0.0 googletime.ac.ug
@@ -49897,7 +49909,6 @@
 0.0.0.0 iryna.biz
 0.0.0.0 is-hp.com
 0.0.0.0 is-yap.com
-0.0.0.0 is.net.sa
 0.0.0.0 is4340.azurewebsites.net
 0.0.0.0 is45wdsed4455sdfsf.duckdns.org
 0.0.0.0 isaac.mikhailmotoringschool.com
@@ -59649,6 +59660,7 @@
 0.0.0.0 luanhaxa.com.vn
 0.0.0.0 luanhaxa.vn
 0.0.0.0 luantao.org
+0.0.0.0 luareraopy.com
 0.0.0.0 luatdongnamhai.vn
 0.0.0.0 luatminhthuan.com
 0.0.0.0 luatphattrien.vn
@@ -59930,7 +59942,6 @@
 0.0.0.0 luxedollz.com
 0.0.0.0 luxeestateslifestyles.com
 0.0.0.0 luxelillie.com
-0.0.0.0 luxelistreviews.com
 0.0.0.0 luxepipe.com
 0.0.0.0 luxepsyche.com
 0.0.0.0 luxeradiator.com
@@ -60274,6 +60285,7 @@
 0.0.0.0 macigs.net
 0.0.0.0 macisus.com
 0.0.0.0 mackandthird.com
+0.0.0.0 mackcatlabor.com
 0.0.0.0 macklens.com
 0.0.0.0 mackleyn.com
 0.0.0.0 mackmidia.com
@@ -71556,6 +71568,7 @@
 0.0.0.0 office365idstore.com
 0.0.0.0 office365ms.com
 0.0.0.0 office365msbox.com
+0.0.0.0 office365onlinedocuments.com
 0.0.0.0 office910.com
 0.0.0.0 officearchives.duckdns.org
 0.0.0.0 officeautomationltd.com
@@ -72455,6 +72468,7 @@
 0.0.0.0 onurinanli.com
 0.0.0.0 onus.vn
 0.0.0.0 onvacationbolivia.com
+0.0.0.0 onvictinitor.com
 0.0.0.0 onw.kx1.in
 0.0.0.0 onwaanyi.site
 0.0.0.0 onwardworldwide.com
@@ -76647,7 +76661,6 @@
 0.0.0.0 polishmenailboutique.com
 0.0.0.0 poliss.eu
 0.0.0.0 politcalpr.files.wordpress.com
-0.0.0.0 politecnicosuperior.com.co
 0.0.0.0 politecompany.org
 0.0.0.0 politeexecutiveshuttle.leseditextiles.co.za
 0.0.0.0 politgroup.top
@@ -76952,6 +76965,7 @@
 0.0.0.0 portfolio.mutalldevs.co.ke
 0.0.0.0 portfolio.netslider.fr
 0.0.0.0 portfolio.rabishrestha.info.np
+0.0.0.0 portfolio.unitedhours.com
 0.0.0.0 portfoyyonet.club
 0.0.0.0 portfronts.com
 0.0.0.0 portiaplayground.ca
@@ -76990,6 +77004,7 @@
 0.0.0.0 pos.thefuturevision.com
 0.0.0.0 pos.vedigitize.com
 0.0.0.0 pos.vi-bus.com
+0.0.0.0 pos.wndrgt.nrovo.com
 0.0.0.0 pos2.eatgo.ch
 0.0.0.0 posadaelnogal.000webhostapp.com
 0.0.0.0 poseidonbd.com
@@ -77700,6 +77715,7 @@
 0.0.0.0 printpressplus.com
 0.0.0.0 printsaga.in
 0.0.0.0 printshirt.nu
+0.0.0.0 printshop.ozys.ca
 0.0.0.0 printsource.in
 0.0.0.0 printwork.co.in
 0.0.0.0 prio.doctorerbari.com
@@ -81764,6 +81780,7 @@
 0.0.0.0 rest-tv.top
 0.0.0.0 rest.solid-it.pt
 0.0.0.0 resta.ch
+0.0.0.0 restaccueil.bertekgroup.fr
 0.0.0.0 restandvision.com
 0.0.0.0 restauraceuvodarny.cz
 0.0.0.0 restauracja-finezja.com.pl
@@ -81951,6 +81968,7 @@
 0.0.0.0 revolum.hu
 0.0.0.0 revolutionizeselling.com
 0.0.0.0 revolutionninetynine.com
+0.0.0.0 revolver-reloaded.de
 0.0.0.0 revox.cz
 0.0.0.0 revvcorpus.com.br
 0.0.0.0 rewa.billabonghighrewa.com
@@ -85387,6 +85405,7 @@
 0.0.0.0 scholarstechnos.com
 0.0.0.0 schollaert.eu
 0.0.0.0 schonlinepvc.com
+0.0.0.0 school.eduproerp.com
 0.0.0.0 school.hellojobs.ru
 0.0.0.0 school.kay-tech.info
 0.0.0.0 school.mvmms.in
@@ -93972,6 +93991,7 @@
 0.0.0.0 sys.iclickdigishop.com
 0.0.0.0 sys.pbmadu.co.id
 0.0.0.0 sys04.icu
+0.0.0.0 sys321.com
 0.0.0.0 sysaty.space
 0.0.0.0 syscomopen.it
 0.0.0.0 sysconmyanmar.com
@@ -96631,7 +96651,6 @@
 0.0.0.0 thebrightwells.com
 0.0.0.0 thebroomcloset.net
 0.0.0.0 theburgessgrp.com
-0.0.0.0 thebusinessfame.com
 0.0.0.0 thebusinessmonk.live
 0.0.0.0 thebusinesswoman.today
 0.0.0.0 thebuyme.com
@@ -98327,6 +98346,7 @@
 0.0.0.0 tmsehk2019.com
 0.0.0.0 tmsmedical.net
 0.0.0.0 tmss-ict.com
+0.0.0.0 tmstest.qubit-software.com.my
 0.0.0.0 tmsvinhphuc.com
 0.0.0.0 tmtcosmetic.com.ua
 0.0.0.0 tmtdistribution.nl
@@ -100273,6 +100293,7 @@
 0.0.0.0 turansaribay.com
 0.0.0.0 turanturizm.umre42.com
 0.0.0.0 turbineblog.ir
+0.0.0.0 turbineseuperfil.online
 0.0.0.0 turbinetoyz.com
 0.0.0.0 turbo-services.com
 0.0.0.0 turbobuicks.net
@@ -103948,6 +103969,7 @@
 0.0.0.0 vivahforever.com
 0.0.0.0 vivaldoramos.com.br
 0.0.0.0 vivanatal.com.br
+0.0.0.0 vivantacriticalcare.com
 0.0.0.0 vivantamultimedia.com
 0.0.0.0 vivantecosmectics.ir
 0.0.0.0 vivaochoro.com.br

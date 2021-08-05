@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Wed, 04 Aug 2021 12:10:40 +0000
+# Updated: Thu, 05 Aug 2021 00:10:43 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -73,6 +73,7 @@ msFilterList
 -d amwebz.com
 -d andremaraisbeleggings.co.za
 -d andres.ug
+-d androidmedallo.duckdns.org
 -d aniradichita.kaurainfotech.com
 -d anysbergbiltong.co.za
 -d apartamentoscitta.com
@@ -177,11 +178,11 @@ msFilterList
 -d cbn.hypervoizd.com
 -d ccor.com.br
 -d cdaonline.com.ar
+-d cdn-10049480.file.myqcloud.com
 -d cdn.bb.zugame.com
 -d cdn.doxbin.org
 -d cdn.tmooc.cn
 -d cellas.sk
--d cendekiabinaaksara.com
 -d centrodeesteticapopular.com.br
 -d certificamayor.com
 -d cfs10.blog.daum.net
@@ -209,7 +210,6 @@ msFilterList
 -d colinde.pricesne.com
 -d community.gen.in
 -d community.reimclub.com
--d config.cqhbkjzx.com
 -d connect.rio.br
 -d connectcapital.com.br
 -d consciouslycreative.ca
@@ -237,7 +237,6 @@ msFilterList
 -d cubescargoexpress.com
 -d currantmedia.com
 -d cynkon.kairoscs.net
--d czsl.91756.cn
 -d d.powerofwish.com
 -d d1.udashi.com
 -d d9.99ddd.com
@@ -261,7 +260,6 @@ msFilterList
 -d dekovizyon.com
 -d demirhotel.github.io
 -d demo.energianmittaus.fi
--d demo.g-mart.in
 -d demo.glassforcars.com.au
 -d dental.xiaoxiao.media
 -d designerliving.co.za
@@ -272,7 +270,6 @@ msFilterList
 -d dev.sebpo.net
 -d dev.watch-store.eu
 -d dezcom.com
--d dfcf.91756.cn
 -d dienmayminhhung.com
 -d djking.f3322.net
 -d dl.1003b.56a.com
@@ -292,12 +289,13 @@ msFilterList
 -d dongnaitw.com
 -d donswoodwork.com
 -d dosman.pl
+-d down.apkeditor.cn
 -d down.pcclear.com
 -d down.udashi.com
 -d down.webbora.com
 -d down1.arpun.com
 -d download.caihong.com
--d download.doumaibiji.cn
+-d download.pdf00.cn
 -d download.rising.com.cn
 -d download.skycn.com
 -d dragonsknot.com
@@ -341,6 +339,7 @@ msFilterList
 -d europeanzonexxi.com
 -d eventmarketing.com.sg
 -d events.blissona.com
+-d exaltmathiasministries.org
 -d exam.jsamovies.com
 -d exilum.com
 -d expatbh.com
@@ -349,16 +348,18 @@ msFilterList
 -d f1sol.com
 -d fabienpique.com
 -d facebook.commit.capitaluniversity.net
+-d facials.lavishingbeautyskincare.com
 -d familydentist.site
 -d fanosethiopiatours.com
 -d faveraprojects.com
 -d fbvn.work
 -d fc.co.mz
--d fedhaminerals.com
 -d felicienne.nl
 -d ferstappen.com
 -d fianto.com.br
 -d files.drivers-logitech.com
+-d files.zohoexternal.com
+-d files5.uludagbilisim.com
 -d files6.uludagbilisim.com
 -d fiom65pre.ru
 -d fixauto.illumetechnology.com
@@ -403,6 +404,7 @@ msFilterList
 -d growupmedia.pk
 -d grupoinmare.com
 -d gruposelt.000webhostapp.com
+-d gs.monerorx.com
 -d guillermomanrique.com.mx
 -d guongnoithat.com
 -d h.epelcdn.com
@@ -418,7 +420,6 @@ msFilterList
 -d hellogorgeous.com.au
 -d help.hizuko.com
 -d helpdeskserver.epelcdn.com
--d helpersgroup.co.ug
 -d herchinfitout.com.sg
 -d hethongbaohiem.com
 -d hhaward.org
@@ -435,7 +436,6 @@ msFilterList
 -d hombressinviolencia.org
 -d hongluosi.com
 -d hookedupboatclub.com
--d hospital.fecom.in
 -d hostingparacolombia.com
 -d hostzaa.com
 -d hotelhadieh.ir
@@ -471,7 +471,6 @@ msFilterList
 -d infovator.com
 -d inkedmicrobladingparlor.com
 -d innagro.com.br
--d inodesthetotaldesigners.com
 -d integritywind.com
 -d inter-trading-service.com
 -d intersel-idf.org
@@ -479,7 +478,6 @@ msFilterList
 -d intranet.injasclaro.com
 -d intuitiveideas.com.my
 -d invest.xpcorporative.com.br
--d iocservices.com
 -d ipmes.ma
 -d iremart.es
 -d isaac.mikhailmotoringschool.com
@@ -506,7 +504,6 @@ msFilterList
 -d jyk85mxc.z1001.net
 -d k9unitdubaipolice.com
 -d kadigital.co.uk
--d kaizenjanitorial.com
 -d kalogirosfinance.com
 -d karer.by
 -d karunaelnido.com
@@ -524,6 +521,7 @@ msFilterList
 -d kmeventsuae.com
 -d kooldstudio.com
 -d koreabam29.com
+-d korrectconceptservices.com
 -d kowashitekata.ru
 -d kpicon.co.id
 -d krisbadminton.com
@@ -575,6 +573,7 @@ msFilterList
 -d m-technics.kz
 -d m.hindikhabar.com
 -d m.softsharks.com
+-d mackcatlabor.com
 -d madicon.co.za
 -d mail.bs-eiendomme.co.za
 -d mail1.hacachurch.org
@@ -583,7 +582,6 @@ msFilterList
 -d maksi.feb.unib.ac.id
 -d malwarecoding.github.io
 -d managemysalon.in
--d maquinadosgutierrez.com
 -d marinecollagenelixir.com
 -d mario-sunjic.com
 -d mariobrown.net
@@ -684,6 +682,7 @@ msFilterList
 -d ns1.the-widyantos.com
 -d nsb.org.uk
 -d nuras.ayz.pl
+-d nurmarkaz.org
 -d nyasabigbullets.com
 -d objetivosaludable.com
 -d obseques-conseils.com
@@ -757,7 +756,6 @@ msFilterList
 -d prosoc.nl
 -d prosupport.cl
 -d protechasia.com
--d psicheaurora.it
 -d punchdialogues.com
 -d punjabdevelopersassociation.com.pk
 -d pvcprinting.co.uk
@@ -785,6 +783,7 @@ msFilterList
 -d redbats.co.in
 -d registeredwind.com
 -d reifenquick.de
+-d relaxindulge.co.nz
 -d remunerationtrade.com
 -d renehavis.com.ua
 -d reseller.digimitra.in
@@ -821,7 +820,6 @@ msFilterList
 -d sasystemsuk.com
 -d sataware.net
 -d scaladevelopments.scaladevco.com
--d scarfaceindustries.com
 -d scglobal.co.th
 -d schalke04rss.de
 -d sculetus.nl
@@ -852,7 +850,6 @@ msFilterList
 -d siili.net
 -d silatama.com
 -d simoneporzi.it
--d sindpol.tiejuris.com.br
 -d singlebridal.com
 -d sistelligent.com
 -d skyscan.com
@@ -862,12 +859,12 @@ msFilterList
 -d soft.110route.com
 -d solar.amazingtribe.lk
 -d solucoesead.com
--d somcorbera.cat
 -d sota-france.fr
 -d spaceframe.mobi.space-frame.co.za
 -d spent.com.pl
 -d spetsesyachtcharter.gr
 -d spices.com.sg
+-d spititourism.com
 -d src1.minibai.com
 -d sriglobalit.com
 -d srvmanos.no-ip.info
@@ -886,6 +883,7 @@ msFilterList
 -d store.selectandwin.com
 -d story-life.net
 -d str8look.com
+-d students.acst.edu.sd
 -d support-4-free.com
 -d support.clz.kr
 -d supportit.online
@@ -1044,6 +1042,7 @@ msFilterList
 -d xk.996is.com
 -d xk1.996is.com
 -d xmajd.cn
+-d xn--polimerbizmimarlk-rvc.com
 -d xpawel.com
 -d xz.8dashi.com
 -d xz.juzirl.com
