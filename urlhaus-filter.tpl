@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 14 Aug 2021 12:11:16 +0000
+# Updated: Sun, 15 Aug 2021 00:10:59 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2250,6 +2250,7 @@ msFilterList
 -d aamnaaya.in
 -d aamra-com.ga
 -d aanarehabcenter.com
+-d aandachtvoormieke.nl
 -d aandatech.com
 -d aandeslagmetpit.nl
 -d aandgemergencyglassrepair.com
@@ -3111,6 +3112,7 @@ msFilterList
 -d activistdibyajyotisaikia.com
 -d activities.africaincoming.com
 -d activitycorporation.com
+-d activityhike.com
 -d activoinmobiliario.mx
 -d actld.org.tw
 -d actoindia.com
@@ -5114,6 +5116,7 @@ msFilterList
 -d alboradatv.cl
 -d alborzatashza.ir
 -d alborzdates.ir
+-d albosla.net
 -d albrechtmachinery.co.za
 -d albumdepremios.com.br
 -d alburaqco.ps
@@ -13268,6 +13271,7 @@ msFilterList
 -d bestsevenhillsmassage.com.au
 -d bestsexologist.xyz
 -d bestshariaproperty.com
+-d bestshoppingonus.com
 -d bestsmartphonesreviews.net
 -d bestsportstreamingsites.live
 -d beststarteducare-my.sharepoint.com
@@ -13809,6 +13813,7 @@ msFilterList
 -d bigtrading.ga
 -d bigtreestudios.org
 -d bigtvjoblist.com
+-d bigup.marketing
 -d biguwh.com
 -d bigventas.com
 -d bigwafarm.com
@@ -14592,6 +14597,7 @@ msFilterList
 -d blinkro.co.uk
 -d blinkro.com
 -d blinkro.eu
+-d blinkroast.info
 -d blinksecurity.org
 -d blintech-ve.com
 -d blinzu-music.hopto.org
@@ -16067,6 +16073,7 @@ msFilterList
 -d boutique.carolinellonch.com
 -d boutique.kenworthmontreal.ca
 -d boutiquebeunique.com
+-d boutiquechat.com
 -d boutiquedeltresillo.com
 -d boutiqueerotique.biz
 -d boutiquelive.fr
@@ -17686,7 +17693,6 @@ msFilterList
 -d cabinetrollouts.com
 -d cabinetrouvin.ma
 -d cabinets46.com
--d cabinmanagers.com
 -d cablenet.com.ec
 -d cablenetbag.com
 -d cabletv.top
@@ -25351,9 +25357,11 @@ msFilterList
 -d damiter.com
 -d damix.com.pl
 -d damjanator.ch
+-d damliq08.top
 -d damnakkitchen.com
 -d damnfinegifts.co.uk
 -d damobile.org
+-d damomw06.top
 -d damonica.com
 -d damoreca.com
 -d damoshushu.com
@@ -36547,7 +36555,6 @@ msFilterList
 -d fcf.net
 -d fcfribourg.ch
 -d fcg.gxepb.gov.cn
--d fclskincare.com
 -d fcmcambiosautomaticos.com
 -d fcmelli.ir
 -d fcncorp.com
@@ -41403,7 +41410,6 @@ msFilterList
 -d glamourousrain.com
 -d glamox.pl
 -d glampig.com
--d glamtalks.in
 -d glamwithfashion.com
 -d glanubnire.ml
 -d glasenaporthopedie.nl
@@ -62171,7 +62177,6 @@ msFilterList
 -d mainstcomputers.net
 -d mainstreetsci.com
 -d mainten-ferrum.com
--d maintenancejpb.com
 -d mainwhile.com
 -d maioakinspires.com
 -d maionline.co.uk
@@ -62481,6 +62486,7 @@ msFilterList
 -d mamylining.com
 -d mamymall.ru
 -d man.myanmarfas.com
+-d man.wpk12.techdigi.dev
 -d man70.ru
 -d mana-wp.ir
 -d mana9at.com
@@ -65780,6 +65786,7 @@ msFilterList
 -d mingalarorchidfamily.com
 -d mingco.net
 -d mingenterprises.cz
+-d mingguanwms.com
 -d mingjiu56.com
 -d mingjuetech.com
 -d minglebyyou.com
@@ -66390,6 +66397,7 @@ msFilterList
 -d mnatura.com
 -d mnbtbusinesstrading.com
 -d mnbvcm.com
+-d mnbx.pw
 -d mncarteam.com
 -d mncontent.ru
 -d mncprojects.com
@@ -67227,6 +67235,7 @@ msFilterList
 -d mosselnet.co.za
 -d mossfs.com.au
 -d mossworldwide.com
+-d most-fast-link-download.com
 -d most-italia.ru
 -d mostafaboro.com
 -d mostasharanetalim.ir
@@ -67335,6 +67344,7 @@ msFilterList
 -d motzadministraties.nl
 -d mouas.xyz
 -d mouaysha.com
+-d moufed.com
 -d moulin-de-la-hunelle.be
 -d moumitas.com
 -d mouni11.xyz
@@ -68430,6 +68440,7 @@ msFilterList
 -d mycouplegoal.com
 -d mycoursera.in
 -d mycrc.org
+-d mycreaty.info
 -d mycryptocurrencyhelp.com
 -d mycscinfo.in
 -d myctyh.com
@@ -69745,6 +69756,7 @@ msFilterList
 -d nelsonsilveti.com
 -d neltac.com
 -d nelyvos.nl
+-d nem13.avistaserver.com
 -d nem17.avistaserver.com
 -d nemancarpets.co
 -d nemanischool.com
@@ -73645,6 +73657,7 @@ msFilterList
 -d opt.minsa.gob.pa
 -d opt2cloud.com
 -d opta.net.ua
+-d opti.co.jp
 -d optiart.com.br
 -d optiboard.de
 -d optica.co.in
@@ -77654,6 +77667,7 @@ msFilterList
 -d poemaproductions.nl
 -d poertners.com
 -d poetasmuertos.mx
+-d poetic-insights.com
 -d poettier.com
 -d poezels.com
 -d pogltd.com
@@ -80687,6 +80701,7 @@ msFilterList
 -d qualitechsarl.com
 -d qualityairpart.com
 -d qualityandpure.com
+-d qualityansweringservice.com
 -d qualityautoservices.co.uk
 -d qualitybeverages.co.za
 -d qualitychildcarepreschool.com
@@ -82020,9 +82035,11 @@ msFilterList
 -d readersareleader.com
 -d readersforum.tk
 -d reading-parkerms-yrbs-2017.rothenbach-research.com
+-d readinglistforjuly1.site
 -d readinglistforjuly1.xyz
 -d readinglistforjuly10.xyz
 -d readinglistforjuly2.xyz
+-d readinglistforjuly3.xyz
 -d readinglistforjuly8.xyz
 -d readinglistforjuly9.xyz
 -d readnlead.de
@@ -91135,7 +91152,6 @@ msFilterList
 -d sohui.top
 -d soicau188.com
 -d soicau88.net
--d soicaumb.top
 -d soicautailoc.net
 -d soil-stabilization.ir
 -d soilab.com.mx
@@ -99513,6 +99529,7 @@ msFilterList
 -d tinytotshighschool.com
 -d tinytowntees.com
 -d tiocabelinho.com.br
+-d tipa.asia
 -d tipack.co.kr
 -d tipjar.id
 -d tiplabor.com
@@ -104931,7 +104948,6 @@ msFilterList
 -d vilniusmodels.lt
 -d viloiz.com
 -d vilong.us
--d vimaanfresh.com
 -d viman.digital
 -d vimarkaquaculture.com
 -d vimax-print.ru
