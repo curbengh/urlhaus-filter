@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 15 Aug 2021 00:10:59 +0000
+# Updated: Sun, 15 Aug 2021 12:10:54 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -3728,7 +3728,6 @@ msFilterList
 -d aelmas.5gbfree.com
 -d aelogica.com
 -d aemgrup.com.tr
--d aemine.vn
 -d aemo-mecanique-usinage.fr
 -d aengineeringltd.com
 -d aeondor.com
@@ -6324,7 +6323,6 @@ msFilterList
 -d amazon.vishou.net
 -d amazon2woocommerce.mkreddy.com
 -d amazonaffiliate2356.000webhostapp.com
--d amazonfibers.com.br
 -d amazonhelpcenter.com
 -d amazonmarketingconsulting.com
 -d amazonsellerconsultants.com
@@ -7694,7 +7692,6 @@ msFilterList
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
--d apigeoip.com
 -d apihomes.us
 -d apiperjuangan.com
 -d apipro.com.br
@@ -14784,7 +14781,6 @@ msFilterList
 -d blog.coopealbaterense.es
 -d blog.cs-integra.com.br
 -d blog.ctiwe.com
--d blog.curemd.com
 -d blog.cvsd.k12.pa.us
 -d blog.d-scape.com
 -d blog.dakkha.com
@@ -18141,6 +18137,7 @@ msFilterList
 -d can-do-property.co.uk
 -d can-doelectric.com
 -d can-media.de
+-d canaccordgenuity.bluematrix.com
 -d canacofactura.com.mx
 -d canadabestonline.com
 -d canadabrightway.com
@@ -25012,7 +25009,6 @@ msFilterList
 -d d0iiinl0ads.online
 -d d0wnl0ads.online
 -d d0wnl0ads.site
--d d1.amobbs.com
 -d d1.dropboxccdn.com
 -d d1.dropboxrcdn.com
 -d d1.dropboxscdn.com
@@ -25347,6 +25343,7 @@ msFilterList
 -d damcbh.com
 -d damcoservices.com
 -d damernesmagasin.net
+-d damhlu05.top
 -d damhus60.dk
 -d dami518.com
 -d damiancollier.com
@@ -25372,6 +25369,7 @@ msFilterList
 -d damta.mrboatstudio.com
 -d damuoigiasi.com
 -d damuxa01.top
+-d damyeb07.top
 -d damynghehunglan.com
 -d damynghequangtung.vn
 -d damynghetuanmanh.com
@@ -46779,7 +46777,6 @@ msFilterList
 -d houseci.com
 -d housecleaningacblondon.com
 -d housedream.net
--d houseefashioon.my
 -d householdhaircuts.com
 -d houseinitaly.pskdev.com
 -d housek.info
@@ -58265,6 +58262,7 @@ msFilterList
 -d leki-bez-recepty-na-recepte.com
 -d lekkerland.es
 -d lekkievents.com
+-d lekkimart.com
 -d leklao.com
 -d lektorat-rauthe.de
 -d lektrolab.com
@@ -59685,6 +59683,7 @@ msFilterList
 -d lmvidros.com.br
 -d lmvirtualbookkeeping.com
 -d lmvus.com
+-d lmwmm.com
 -d ln.ac.th
 -d lnasjx.cn
 -d lnassociated.com
@@ -60088,7 +60087,6 @@ msFilterList
 -d lonzectech.com
 -d loocar.xyz
 -d loodgieterjoost.be
--d look.newbestchoice.com
 -d look1988.cn
 -d lookalikedoll.com
 -d lookatlouk.nl
@@ -62566,6 +62564,7 @@ msFilterList
 -d mangaml.com
 -d mangatbazar.com
 -d mangatun.com
+-d mangawt.com
 -d mangchongtham.com.vn
 -d mangchongtham.vn
 -d mange-gode-blogs.dk
@@ -64173,6 +64172,7 @@ msFilterList
 -d medcureorganics.com
 -d meddaughs.com
 -d medeaser.com
+-d mededsys.com
 -d medegbetv.com
 -d medel.it
 -d medenblik.net
@@ -67737,7 +67737,6 @@ msFilterList
 -d msofficeinternatiinalfilecloudtransfer.duckdns.org
 -d msofficesecuredfiletransferinfocloud.duckdns.org
 -d msofficewordfiletransfertotheadmintrue.duckdns.org
--d msoftwares.info
 -d msograteful.com
 -d mspcville.com
 -d mspn.com.au
@@ -73480,7 +73479,6 @@ msFilterList
 -d onurinanli.com
 -d onus.vn
 -d onvacationbolivia.com
--d onvictinitor.com
 -d onw.kx1.in
 -d onwaanyi.site
 -d onwardworldwide.com
@@ -75657,6 +75655,7 @@ msFilterList
 -d pc.shindiristudio.com
 -d pc.xzstatic.com
 -d pc6.down.123ch.cn
+-d pcandtool.com
 -d pcantivirusnumber.com
 -d pcayahage.com
 -d pcbdesign.rs
@@ -76983,7 +76982,6 @@ msFilterList
 -d pinkafricafoundation.org
 -d pinkandbluetinytots.com
 -d pinkbabies.net
--d pinkbroadband.in
 -d pinkconnext.com
 -d pinkesocken.de
 -d pinkflame.chsweb.org
@@ -94673,6 +94671,7 @@ msFilterList
 -d support.jbrueggemann.com
 -d support.loungu.com
 -d support.m2mservices.com
+-d support.mdsol.com
 -d support.nordenrecycling.com
 -d support.nuvemit.com
 -d support.pubg.com
@@ -100581,6 +100580,7 @@ msFilterList
 -d tradebuzzar.com
 -d tradeccrypto.website
 -d tradecomunicaciones.com
+-d tradecontract.es
 -d tradedecor.ru
 -d tradefairgh.com
 -d tradefive.com
@@ -103280,6 +103280,7 @@ msFilterList
 -d url.246546.com
 -d url.57569.fr.snd52.ch
 -d url.sg
+-d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
 -d url9823.ville.labrecque.qc.ca
@@ -106531,7 +106532,6 @@ msFilterList
 -d wcare.nl
 -d wcbgroup.co.uk
 -d wccb.co.zw
--d wcdownloadercdn.lavasoft.com
 -d wcdr.pbas.es
 -d wcf-old.sibcat.info
 -d wcfamlaw.com
@@ -109007,7 +109007,6 @@ msFilterList
 -d wypozyczalnia-dragon.pl
 -d wyptk.com
 -d wyredsecurity.com
--d wyrisnetworks.in
 -d wyszx.jihaose.cn
 -d wywoznieczystosci.pomorze.pl
 -d wyyichen.com
@@ -109047,6 +109046,7 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
+-d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
@@ -109066,6 +109066,7 @@ msFilterList
 -d x86tpkujgu1ksoky.com
 -d x8d8r8l8a8b8s.000webhostapp.com
 -d x97vn.mjt.lu
+-d xa.yimg.com
 -d xacrosoft.com
 -d xact.ma
 -d xadrezgigante.com.br
