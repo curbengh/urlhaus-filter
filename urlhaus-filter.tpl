@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Mon, 16 Aug 2021 00:11:00 +0000
+# Updated: Mon, 16 Aug 2021 12:11:16 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -1679,7 +1679,6 @@ msFilterList
 -d 7bsnake1.com
 -d 7bwh.com
 -d 7c2918ca.ngrok.io
--d 7cats.ch
 -d 7clock.ir
 -d 7continents7lawns.com
 -d 7cut.extroliving.com
@@ -2995,6 +2994,7 @@ msFilterList
 -d acomainternational.com
 -d aconcaguaultratrail.com.ar
 -d aconchegosdobrasil.com.br
+-d acone.com.br
 -d aconiaformation.fr
 -d aconsultancy.com
 -d acontarborreguitos.com
@@ -4509,7 +4509,6 @@ msFilterList
 -d ailes.vn
 -d aileshidai.com
 -d ailnoir.com
--d aim.co.tz
 -d aim2grow.in
 -d aima.com.tr
 -d aima.it
@@ -6241,7 +6240,6 @@ msFilterList
 -d amandadecardy.com
 -d amandaduquenoy.com
 -d amandafarough.com
--d amandarife.com
 -d amandavanderpool.com
 -d amandreymedispa.com
 -d amangola-dgp.org
@@ -6968,6 +6966,7 @@ msFilterList
 -d android4.us
 -d androidgetguncelleme.co.vu
 -d androidmedallo.duckdns.org
+-d androidplayguncelleme.co.vu
 -d androidsathome.com
 -d androline.top
 -d andrycarias.com
@@ -7504,7 +7503,6 @@ msFilterList
 -d anythingghost.com
 -d anytimeelectricianstolleson.com
 -d anytoawejwneasd.com
--d anyvnp.xyz
 -d anywhere.instact-gcc.com
 -d anzebra.ru
 -d anzelikosgracija.lt
@@ -7690,10 +7688,12 @@ msFilterList
 -d apicforme.com
 -d apicosto.misco-furniture.com
 -d apidava.tk
+-d apidocs.dcdial.com
 -d apieceoftoastblog.com
 -d apiesteso.com
 -d apifile.xyz
 -d apifm.in
+-d apigeoip.com
 -d apihomes.us
 -d apiperjuangan.com
 -d apipro.com.br
@@ -13767,6 +13767,7 @@ msFilterList
 -d bigdiamondeals.com
 -d bigeyes.com.tw
 -d bigfesta.app4you.app.br
+-d bigfile.mail.naver.com
 -d bigfishchain.com
 -d bigfoothospitality.com
 -d bigg-live.com
@@ -14666,6 +14667,7 @@ msFilterList
 -d blog.3fy.com.br
 -d blog.50cms.com
 -d blog.51cool.club
+-d blog.51cto.com
 -d blog.52senior.com
 -d blog.5smile.com
 -d blog.6b47.com
@@ -14763,7 +14765,6 @@ msFilterList
 -d blog.carousselcards.ro
 -d blog.cast.re
 -d blog.cebecitekstil.com
--d blog.ceciliatan.com
 -d blog.cheaphumanhair.com
 -d blog.chefbrunaavila.com.br
 -d blog.chemtradeasia.sg
@@ -14785,6 +14786,7 @@ msFilterList
 -d blog.coopealbaterense.es
 -d blog.cs-integra.com.br
 -d blog.ctiwe.com
+-d blog.curemd.com
 -d blog.cvsd.k12.pa.us
 -d blog.d-scape.com
 -d blog.dakkha.com
@@ -18813,7 +18815,6 @@ msFilterList
 -d casagrandcontest.com
 -d casagrandecontabil.com.br
 -d casagrandroyale.com
--d casagres.com
 -d casaitaliana.md
 -d casakuc.requerimientos.cl
 -d casalfama.pt
@@ -18825,7 +18826,6 @@ msFilterList
 -d casamenesteres.com
 -d casamento.chacarasantana.com.br
 -d casana-ae.com
--d casana.com
 -d casanarducci.com.br
 -d casanbenito.com
 -d casanossapizzaria.com.br
@@ -18874,7 +18874,6 @@ msFilterList
 -d caseology-egypt.com
 -d caseriolevante.com
 -d caseritasdelnorte.com.ar
--d cases.com.au
 -d cases.digitalgroup.com.br
 -d casestyle.com.mx
 -d casetime.org
@@ -18937,7 +18936,6 @@ msFilterList
 -d caspianfarme.com
 -d caspianlab.com
 -d caspianlab.ir
--d caspianseabezel.com
 -d caspiantourist.ir
 -d caspianwoodworking.com
 -d caspr.com.pk
@@ -18977,7 +18975,6 @@ msFilterList
 -d castroemello.adv.br
 -d casualbusinessmoves.com
 -d casualflirtings.com
--d casualhome.com
 -d casualina.com
 -d casuloadvogados.com.br
 -d casulotecidos.com.br
@@ -18992,10 +18989,7 @@ msFilterList
 -d cataldointerni.it
 -d catalogonline.in
 -d catalogue.queensbridgenigeria.com
--d catalysticmedia.com
 -d catalystinternational.in
--d catalystitsolution.com
--d catamountcenter.org
 -d cataract.ru
 -d catba.goodtour.vn
 -d catbatravelblog.com
@@ -19018,7 +19012,6 @@ msFilterList
 -d catering8.com
 -d cateringbangkok.in.th
 -d cateringbyjkv.com
--d cateringdeluz.es
 -d cateringevent.ru
 -d cateringmuslimcemangi.com
 -d caterlindo.co.id
@@ -19053,10 +19046,8 @@ msFilterList
 -d cats4kittens.club
 -d catsandfacts.info
 -d catsarea.com
--d catsavard.com
 -d catscream.wp.iex.uno
 -d catscream.wpiex.uno
--d catsformacion.com
 -d catslovingcats.com
 -d catswiz.com
 -d cattea.cl
@@ -19113,7 +19104,6 @@ msFilterList
 -d cayecasas.com
 -d caygri.com
 -d caykieng.com.vn
--d caymanstructuralgroup.ky
 -d caymo.vn
 -d cayturnakliyat.com
 -d cayxanhnhadep.com
@@ -19133,14 +19123,10 @@ msFilterList
 -d cbaaat-calofiniaantidrugdepatmentoldtgg.duckdns.org
 -d cbaebooks.unitedinstitute.org.in
 -d cbai.net
--d cbaia.com
--d cbaindustries.com
--d cbastaffing.com
 -d cbb.corkyssandbags.com
 -d cbb.skofirm.com
 -d cbc-platform.org
 -d cbcac078.ngrok.io
--d cbcinjurylaw.com
 -d cbcpremierproperties.com
 -d cbctg.gov.bd
 -d cbctmagazine.in
@@ -19252,7 +19238,6 @@ msFilterList
 -d ccor.com.br
 -d ccowan.com
 -d ccoweetf.org
--d ccp-pakistan.org.pk
 -d ccp.al
 -d ccs-moscow.ru
 -d ccs.elitekod.com
@@ -19339,6 +19324,7 @@ msFilterList
 -d cdn.prominertools.com
 -d cdn.siv.cc
 -d cdn.slty.de
+-d cdn.speedof.me
 -d cdn.spider.cat
 -d cdn.timebuyer.org
 -d cdn.tmooc.cn
@@ -19370,7 +19356,6 @@ msFilterList
 -d cdsa.tp.crea.pro
 -d cdsanit.fr
 -d cdsarchi.com
--d cdsolutions.co.uk
 -d cdstest.rocketboostcreative.com
 -d cdt-students.wp.horizon.ac.uk
 -d cdtmaster.com.br
@@ -19386,7 +19371,6 @@ msFilterList
 -d ce.vec.sargujauniversity.in
 -d ce38555.tmweb.ru
 -d ceaningthe.com
--d ceara.es
 -d cearacultural.com.br
 -d ceasc.com.mx
 -d ceatnet.com.br
@@ -19407,7 +19391,6 @@ msFilterList
 -d cech.gdansk.pl
 -d ceciliaegypttours.com
 -d ceciliatessierirabassi.com
--d cecmhs.com
 -d ceco.heritageinsuranceco.com
 -d cecoding.de
 -d cecra.cl
@@ -19424,9 +19407,7 @@ msFilterList
 -d cedeko.ml
 -d cedem.com.br
 -d cedemex.cl
--d ceder-invest.be
 -d cedespro.edu.pe
--d cedfellowshiphouse.org
 -d cedimart.cl
 -d cedraflon.es
 -d cedric-2000.de
@@ -19460,7 +19441,6 @@ msFilterList
 -d ceicrim.com.br
 -d ceie.mx
 -d ceifruit.com
--d ceillinois.com
 -d ceira.cl
 -d ceirecrear.com.br
 -d cej.vtivalves.us
@@ -19500,7 +19480,6 @@ msFilterList
 -d celinepeyraud-psychologue.fr
 -d cellandbell.com
 -d cellas.sk
--d cellerdecantorrens.com
 -d cellfaam.com
 -d cellfom.com
 -d cellimark.com
@@ -19508,7 +19487,6 @@ msFilterList
 -d cellnet.com.eg
 -d cellsite360.com
 -d cellstore.net.br
--d cellsytes.com
 -d celltechza.co.za
 -d celltee.xyz
 -d cellularcenter.com.mx
@@ -19530,8 +19508,6 @@ msFilterList
 -d cemeonlineku.com
 -d cemexint.org
 -d cemgsjp.org
--d cemonline.co.uk
--d cemstriad.com
 -d cemul.com.br
 -d cendekiabinaaksara.com
 -d cendoya.com.ar
@@ -19551,7 +19527,6 @@ msFilterList
 -d center-miami.com
 -d center.1team.pro
 -d center1.co.il
--d center4cby.com
 -d centerfortheyouth.org
 -d centerline.co.kr
 -d centernadegda.ru
@@ -19575,7 +19550,6 @@ msFilterList
 -d centralcarqocn.com
 -d centralcoastbusinesspaper.com
 -d centralcomputerku.com
--d centraldeplaya.com
 -d centraldispatchinc.com
 -d centraldolojista.com
 -d centraldrugs.net
@@ -19648,14 +19622,12 @@ msFilterList
 -d ceo.seo-maximum.com
 -d ceo.zi-bon.com
 -d ceobusiness.com.br
--d ceoevv.org
 -d ceofly.net
 -d ceoinboxs.com
 -d ceolato.com.br
 -d ceos.vn
 -d ceoseguros.com
 -d ceosonaseavandonhaborcity.com
--d ceotto.fr
 -d ceotweet.com
 -d cepabol.noticias.bo
 -d cepac.edu.jalisco.gob.mx
@@ -19673,13 +19645,11 @@ msFilterList
 -d cer.ieat.ro
 -d cerahalam.net
 -d ceramats.org
--d ceramicaburguina.com.br
 -d ceramicasaosebastiao.com.br
 -d cercolorlaghi.com
 -d cerebralart.ro
 -d cerebro-coaching.fr
 -d cerenkent.com
--d cereriaterenzi.com
 -d cerezsiparisi.com
 -d cerisiers.be
 -d ceritaislami.000webhostapp.com
@@ -19693,7 +19663,6 @@ msFilterList
 -d cerrajeria-sabbath.holy-animero.com
 -d cerrajeriajimenez.cl
 -d cerrito.saeba.systems
--d cerritosbeachinn.com
 -d cers.umb.sk
 -d cert-center.ir
 -d cert2ssl.com
@@ -19709,7 +19678,6 @@ msFilterList
 -d certifiedbuilders-my.sharepoint.com
 -d certifiedenergyassessments.com.au
 -d certifiedlakal.com
--d certifiedlogistics.com
 -d certifiedstrata.com.au
 -d certipin.top
 -d certjficazione.com
@@ -19738,7 +19706,6 @@ msFilterList
 -d cesurlarsearay.com
 -d cesut.com
 -d cet-agro.com.br
--d cetaguaecuador.com
 -d cetakstickerlabel.rajaojek.com
 -d cetcf.cn
 -d cetconcept.com.my
@@ -19791,8 +19758,6 @@ msFilterList
 -d cfo.vn
 -d cfoedubd.com
 -d cfood-casa.com
--d cforcemarine.com
--d cfostudio.com
 -d cfped-duca.com
 -d cfport.com
 -d cfpoweredcdn.com
@@ -19833,15 +19798,12 @@ msFilterList
 -d cgcorporateclub.com
 -d cgdpartners-my.sharepoint.com
 -d cge.entrerios.gov.ar
--d cgemtalent.com
--d cgfilm.in
 -d cghmedia.com
 -d cgi.cvpass.com
 -d cgi.cvpsas.com
 -d cgi.fleetia.eu
 -d cgi.htdrc.co
 -d cgi.org.ar
--d cgiandi.com
 -d cgii.trueperz.com
 -d cgitms.com
 -d cgkr.ru
@@ -19909,7 +19871,6 @@ msFilterList
 -d chakrulo.moscow
 -d chakteholistico.com
 -d chaktomukpost.com
--d chaleel-brautmoden.de
 -d chalenglobalagencies.com
 -d chalesmontanha.com
 -d chalespaubrasil.com
@@ -20018,7 +19979,6 @@ msFilterList
 -d chapmanbright.com
 -d chappals.pk
 -d chapter3.co.zw
--d chapter42.be
 -d characterbus.hopto.org
 -d charactergirl.com
 -d characterthelight.jp
@@ -20051,12 +20011,8 @@ msFilterList
 -d charitycandy.co.uk
 -d charitylov.com
 -d charityright.com.bd
--d charityshofner.com
--d charlemagne.fr
 -d charleneleeofcitycouncilofcupertino.com
--d charlesbaker.co.uk
 -d charlescuthbertson.com
--d charlesedwardltd.com
 -d charlesengineering.in
 -d charlesmessa.info
 -d charlesmessa.net
@@ -21878,6 +21834,7 @@ msFilterList
 -d cnslv.com
 -d cnthai.co.th
 -d cntirmedia.com
+-d cnty.huaf.edu.vn
 -d cnudst.progresstn.com
 -d cnwanlian.cn
 -d cnwconsultancy.com
@@ -23238,7 +23195,6 @@ msFilterList
 -d copsnailsanddrinks.fr
 -d coptermotion.aero
 -d copticorphans.org
--d copticpope.org
 -d copticsolidarity.net
 -d copy.freska66.ru
 -d copy.nefertiti24.ru
@@ -23415,7 +23371,6 @@ msFilterList
 -d correiosbr.r1-it.storage.cloud.it
 -d correlation.ca
 -d correo.kable.cl
--d correolimpio.telefonica.es
 -d correspondenterio.com.br
 -d corretordejoanete.site
 -d corrheating.ie
@@ -24423,7 +24378,6 @@ msFilterList
 -d csinspirations.com
 -d csipojkontrol.ru
 -d cskhhungthinh.com
--d csl-sicurezza.com
 -d cslab.cz
 -d csm-transport.com
 -d csmag.ro
@@ -25013,6 +24967,7 @@ msFilterList
 -d d0iiinl0ads.online
 -d d0wnl0ads.online
 -d d0wnl0ads.site
+-d d1.amobbs.com
 -d d1.dropboxccdn.com
 -d d1.dropboxrcdn.com
 -d d1.dropboxscdn.com
@@ -26095,6 +26050,7 @@ msFilterList
 -d dcd.cl
 -d dcdb.fr
 -d dcdi.biz
+-d dcdial.com
 -d dcee.net
 -d dcfit.co.zw
 -d dcfloraldecor.lt
@@ -26356,6 +26312,7 @@ msFilterList
 -d decoronthemove.co.za
 -d decorsfantasmo.com
 -d decorstoff.com
+-d decorstyle.ig.com.br
 -d decortez.com
 -d decortie.top
 -d decosa.co.hu
@@ -29281,6 +29238,174 @@ msFilterList
 -d dobroviz.com.ua
 -d dobrovorot.su
 -d dobsoncentral.com
+-d doc-00-0o-docs.googleusercontent.com
+-d doc-00-2k-docs.googleusercontent.com
+-d doc-00-30-docs.googleusercontent.com
+-d doc-00-40-docs.googleusercontent.com
+-d doc-00-50-docs.googleusercontent.com
+-d doc-00-5s-docs.googleusercontent.com
+-d doc-00-68-docs.googleusercontent.com
+-d doc-00-74-docs.googleusercontent.com
+-d doc-00-7c-docs.googleusercontent.com
+-d doc-00-80-docs.googleusercontent.com
+-d doc-00-8s-docs.googleusercontent.com
+-d doc-00-98-docs.googleusercontent.com
+-d doc-00-9o-docs.googleusercontent.com
+-d doc-00-9s-docs.googleusercontent.com
+-d doc-00-a0-docs.googleusercontent.com
+-d doc-00-ao-docs.googleusercontent.com
+-d doc-04-00-docs.googleusercontent.com
+-d doc-04-1g-docs.googleusercontent.com
+-d doc-04-20-docs.googleusercontent.com
+-d doc-04-2g-docs.googleusercontent.com
+-d doc-04-50-docs.googleusercontent.com
+-d doc-04-68-docs.googleusercontent.com
+-d doc-04-84-docs.googleusercontent.com
+-d doc-04-a0-docs.googleusercontent.com
+-d doc-04-ag-docs.googleusercontent.com
+-d doc-04-as-docs.googleusercontent.com
+-d doc-08-0c-docs.googleusercontent.com
+-d doc-08-1k-docs.googleusercontent.com
+-d doc-08-2s-docs.googleusercontent.com
+-d doc-08-3c-docs.googleusercontent.com
+-d doc-08-40-docs.googleusercontent.com
+-d doc-08-4g-docs.googleusercontent.com
+-d doc-08-4o-docs.googleusercontent.com
+-d doc-08-50-docs.googleusercontent.com
+-d doc-08-5o-docs.googleusercontent.com
+-d doc-08-5s-docs.googleusercontent.com
+-d doc-08-64-docs.googleusercontent.com
+-d doc-08-6g-docs.googleusercontent.com
+-d doc-08-8c-docs.googleusercontent.com
+-d doc-08-8k-docs.googleusercontent.com
+-d doc-08-98-docs.googleusercontent.com
+-d doc-08-a4-docs.googleusercontent.com
+-d doc-08-a8-docs.googleusercontent.com
+-d doc-08-bc-docs.googleusercontent.com
+-d doc-0c-00-docs.googleusercontent.com
+-d doc-0c-0c-docs.googleusercontent.com
+-d doc-0c-0s-docs.googleusercontent.com
+-d doc-0c-28-docs.googleusercontent.com
+-d doc-0c-50-docs.googleusercontent.com
+-d doc-0c-5k-docs.googleusercontent.com
+-d doc-0c-64-docs.googleusercontent.com
+-d doc-0c-6c-docs.googleusercontent.com
+-d doc-0c-6s-docs.googleusercontent.com
+-d doc-0c-80-docs.googleusercontent.com
+-d doc-0c-88-docs.googleusercontent.com
+-d doc-0c-8c-docs.googleusercontent.com
+-d doc-0c-8s-docs.googleusercontent.com
+-d doc-0c-94-docs.googleusercontent.com
+-d doc-0c-98-docs.googleusercontent.com
+-d doc-0c-9s-docs.googleusercontent.com
+-d doc-0c-a4-docs.googleusercontent.com
+-d doc-0c-ag-docs.googleusercontent.com
+-d doc-0c-b0-docs.googleusercontent.com
+-d doc-0c-b8-docs.googleusercontent.com
+-d doc-0c-c4-docs.googleusercontent.com
+-d doc-0g-0k-docs.googleusercontent.com
+-d doc-0g-1o-docs.googleusercontent.com
+-d doc-0g-24-docs.googleusercontent.com
+-d doc-0g-2k-docs.googleusercontent.com
+-d doc-0g-3g-docs.googleusercontent.com
+-d doc-0g-40-docs.googleusercontent.com
+-d doc-0g-4g-docs.googleusercontent.com
+-d doc-0g-50-docs.googleusercontent.com
+-d doc-0g-5s-docs.googleusercontent.com
+-d doc-0g-68-docs.googleusercontent.com
+-d doc-0g-6g-docs.googleusercontent.com
+-d doc-0g-7k-docs.googleusercontent.com
+-d doc-0g-8s-docs.googleusercontent.com
+-d doc-0g-94-docs.googleusercontent.com
+-d doc-0g-98-docs.googleusercontent.com
+-d doc-0g-9s-docs.googleusercontent.com
+-d doc-0g-as-docs.googleusercontent.com
+-d doc-0g-cc-docs.googleusercontent.com
+-d doc-0k-1k-docs.googleusercontent.com
+-d doc-0k-28-docs.googleusercontent.com
+-d doc-0k-2c-docs.googleusercontent.com
+-d doc-0k-3s-docs.googleusercontent.com
+-d doc-0k-4k-docs.googleusercontent.com
+-d doc-0k-5s-docs.googleusercontent.com
+-d doc-0k-6s-docs.googleusercontent.com
+-d doc-0k-7c-docs.googleusercontent.com
+-d doc-0k-7s-docs.googleusercontent.com
+-d doc-0k-80-docs.googleusercontent.com
+-d doc-0k-8s-docs.googleusercontent.com
+-d doc-0k-98-docs.googleusercontent.com
+-d doc-0k-9g-docs.googleusercontent.com
+-d doc-0k-9k-docs.googleusercontent.com
+-d doc-0k-9o-docs.googleusercontent.com
+-d doc-0k-a4-docs.googleusercontent.com
+-d doc-0k-ac-docs.googleusercontent.com
+-d doc-0k-as-docs.googleusercontent.com
+-d doc-0k-bc-docs.googleusercontent.com
+-d doc-0k-bs-docs.googleusercontent.com
+-d doc-0k-c0-docs.googleusercontent.com
+-d doc-0o-0c-docs.googleusercontent.com
+-d doc-0o-0g-docs.googleusercontent.com
+-d doc-0o-1c-docs.googleusercontent.com
+-d doc-0o-1s-docs.googleusercontent.com
+-d doc-0o-20-docs.googleusercontent.com
+-d doc-0o-24-docs.googleusercontent.com
+-d doc-0o-28-docs.googleusercontent.com
+-d doc-0o-2g-docs.googleusercontent.com
+-d doc-0o-2o-docs.googleusercontent.com
+-d doc-0o-30-docs.googleusercontent.com
+-d doc-0o-3o-docs.googleusercontent.com
+-d doc-0o-40-docs.googleusercontent.com
+-d doc-0o-54-docs.googleusercontent.com
+-d doc-0o-64-docs.googleusercontent.com
+-d doc-0o-6g-docs.googleusercontent.com
+-d doc-0o-70-docs.googleusercontent.com
+-d doc-0o-74-docs.googleusercontent.com
+-d doc-0o-7g-docs.googleusercontent.com
+-d doc-0o-80-docs.googleusercontent.com
+-d doc-0o-8o-docs.googleusercontent.com
+-d doc-0o-8s-docs.googleusercontent.com
+-d doc-0o-94-docs.googleusercontent.com
+-d doc-0o-a0-docs.googleusercontent.com
+-d doc-0o-ao-docs.googleusercontent.com
+-d doc-0o-as-docs.googleusercontent.com
+-d doc-0s-0o-docs.googleusercontent.com
+-d doc-0s-1o-docs.googleusercontent.com
+-d doc-0s-20-docs.googleusercontent.com
+-d doc-0s-24-docs.googleusercontent.com
+-d doc-0s-3o-docs.googleusercontent.com
+-d doc-0s-40-docs.googleusercontent.com
+-d doc-0s-4o-docs.googleusercontent.com
+-d doc-0s-5o-docs.googleusercontent.com
+-d doc-0s-68-docs.googleusercontent.com
+-d doc-0s-70-docs.googleusercontent.com
+-d doc-0s-7c-docs.googleusercontent.com
+-d doc-0s-80-docs.googleusercontent.com
+-d doc-0s-8c-docs.googleusercontent.com
+-d doc-0s-8s-docs.googleusercontent.com
+-d doc-0s-ag-docs.googleusercontent.com
+-d doc-0s-b8-docs.googleusercontent.com
+-d doc-0s-bs-docs.googleusercontent.com
+-d doc-10-0c-docs.googleusercontent.com
+-d doc-10-28-docs.googleusercontent.com
+-d doc-10-34-docs.googleusercontent.com
+-d doc-10-44-docs.googleusercontent.com
+-d doc-10-5s-docs.googleusercontent.com
+-d doc-10-68-docs.googleusercontent.com
+-d doc-10-6g-docs.googleusercontent.com
+-d doc-10-7c-docs.googleusercontent.com
+-d doc-10-80-docs.googleusercontent.com
+-d doc-10-88-docs.googleusercontent.com
+-d doc-10-8s-docs.googleusercontent.com
+-d doc-10-bc-docs.googleusercontent.com
+-d doc-10-bg-docs.googleusercontent.com
+-d doc-14-0c-docs.googleusercontent.com
+-d doc-14-68-docs.googleusercontent.com
+-d doc-14-7c-docs.googleusercontent.com
+-d doc-14-7g-docs.googleusercontent.com
+-d doc-14-7k-docs.googleusercontent.com
+-d doc-14-80-docs.googleusercontent.com
+-d doc-14-9o-docs.googleusercontent.com
+-d doc-14-ag-docs.googleusercontent.com
+-d doc-14-b0-docs.googleusercontent.com
 -d doc-hub.healthycheapfast.com
 -d doc-japan.com
 -d doc.albaspizzaastoria.com
@@ -31788,6 +31913,7 @@ msFilterList
 -d ec2-54-207-92-161.sa-east-1.compute.amazonaws.com
 -d ec2-54-212-231-68.us-west-2.compute.amazonaws.com
 -d ec2-54-94-215-87.sa-east-1.compute.amazonaws.com
+-d ec2euc1.boxcloud.com
 -d ec2test.ga
 -d ec3-design.com
 -d ecadigital.com
@@ -32230,6 +32356,7 @@ msFilterList
 -d eduscore.org
 -d edusenz.com
 -d eduserve.sezibwa.com
+-d eduspiresolutions.org
 -d eduswiss.com
 -d edutt.com.br
 -d eduvalebr1.hospedagemdesites.ws
@@ -37112,6 +37239,7 @@ msFilterList
 -d file.discountmonumentcenter.com
 -d file.dpmf.com.pk
 -d file.ekkggr3.com
+-d file.elecfans.com
 -d file.fm
 -d file.importantcover.uk
 -d file.lauasinh.com
@@ -37158,6 +37286,7 @@ msFilterList
 -d files.drivers-logitech.com
 -d files.dropmybin.me
 -d files.enjin.com
+-d files.gathercdn.com
 -d files.hrloo.com
 -d files.l-d.tech
 -d files.martellexpress.us
@@ -43061,7 +43190,6 @@ msFilterList
 -d groupegps.com
 -d groupeicaetudes.com
 -d groupejpr.com
--d grouper.ieee.org
 -d groupesival.com
 -d groupevl.ca
 -d groupfeaab.com
@@ -43273,6 +43401,7 @@ msFilterList
 -d gsm-laboratory.com
 -d gsm-security-solutions.com
 -d gsm-timer.ru
+-d gsmboss.clan.su
 -d gsmbrain.com
 -d gsmunlocking.net
 -d gsncloud-my.sharepoint.com
@@ -46179,6 +46308,7 @@ msFilterList
 -d home.99eurowebsite.ie
 -d home.barley-plus.com
 -d home.dawang.ink
+-d home.earthlink.net
 -d home.evrstudio.com
 -d home.healthiestu.com
 -d home.isdes.com
@@ -56154,7 +56284,6 @@ msFilterList
 -d kostenlosefortskins.online
 -d kostjamusic.com
 -d kostromskoidom.ru
--d kostrzewapr.pl
 -d kostueme-karneval.org
 -d koswip.org.my
 -d koszulenawymiar.pl
@@ -58363,6 +58492,7 @@ msFilterList
 -d lenvesti.ru
 -d lenzevietnam.vn
 -d leo.jelct.com
+-d leo.taskformask.com
 -d leoandcatkane.co.uk
 -d leocamerini.com
 -d leodruker.com
@@ -60091,6 +60221,7 @@ msFilterList
 -d lonzectech.com
 -d loocar.xyz
 -d loodgieterjoost.be
+-d look.newbestchoice.com
 -d look1988.cn
 -d lookalikedoll.com
 -d lookatlouk.nl
@@ -67208,7 +67339,6 @@ msFilterList
 -d moscow11.at
 -d moscow11.host
 -d moscow11.icu
--d moscow33.online
 -d moscow44.online
 -d moscow55.online
 -d moscow66.online
@@ -68349,6 +68479,7 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
+-d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -69554,6 +69685,7 @@ msFilterList
 -d nbhgroup.in
 -d nbi.org.au
 -d nbiao.cool
+-d nbigfile.mail.naver.com
 -d nbis.in
 -d nbiyan.vn
 -d nbiz.tk
@@ -76648,7 +76780,6 @@ msFilterList
 -d photo360.kubooking.com
 -d photobook-design.de
 -d photobussacramento.com
--d photocases.com.au
 -d photoclave.com
 -d photodivetrip.com
 -d photoedit.work
@@ -77481,7 +77612,6 @@ msFilterList
 -d plumconsultant.com
 -d plumeriaapartments.com
 -d plumley-dj.com
--d plumtheme.ir
 -d plunatavan.com
 -d plurais.pt
 -d plurallider.com.br
@@ -79497,6 +79627,7 @@ msFilterList
 -d protechmedia.net
 -d protechno.com
 -d protect--your--assets.com
+-d protect.mimecast-offshore.com
 -d protectiadatelor.biz
 -d protection.ominenergo.gov.rsmart-testsolutions.watchdogdns.duckdns.org
 -d protection.pecol.eu
@@ -79590,6 +79721,7 @@ msFilterList
 -d proxy-ipv4.com
 -d proxy.2u0apcm6ylhdy7s.com
 -d proxy.hueaudio.com
+-d proxy.qualtrics.com
 -d proxygrnd.xyz
 -d proxyholding.com
 -d proxyresume.com
@@ -82043,6 +82175,7 @@ msFilterList
 -d readinglistforjuly1.xyz
 -d readinglistforjuly10.xyz
 -d readinglistforjuly2.xyz
+-d readinglistforjuly3.site
 -d readinglistforjuly3.xyz
 -d readinglistforjuly8.xyz
 -d readinglistforjuly9.xyz
@@ -82926,6 +83059,7 @@ msFilterList
 -d resourceinnovations.ca
 -d resourcesyndicate.com
 -d resourcypk.com
+-d respecian.info
 -d respectsolution.com
 -d responcepat.id
 -d responsitivity.com
@@ -84326,6 +84460,7 @@ msFilterList
 -d royalstocktrading.com
 -d royalstrivefinance.co.uk
 -d royaltandoori.net
+-d royaltransports.com.mx
 -d royaltyofchristkiddes.com
 -d royaltyplus.com
 -d royaltyreigninvestments.com
@@ -94795,7 +94930,6 @@ msFilterList
 -d surveycanada.xyz
 -d surveycashbox.com
 -d surveyingcorner.com
--d surveyingdevonandcornwall.co.uk
 -d surveymoneyfund.xyz
 -d surveys-for-money.realcooltips.com
 -d survivallives.com
@@ -97843,6 +97977,7 @@ msFilterList
 -d thayvoiphone.vn
 -d thccamera.com
 -d thctiedye.com
+-d thdidm.zendesk.com
 -d thdyneverwalkachinese2loneinlifekthfnp.ydns.eu
 -d thdyprivatecloudshareandfileprotectgent.duckdns.org
 -d thdyprivatecloudshareandfileprotecthfqm.ydns.eu
@@ -101335,6 +101470,7 @@ msFilterList
 -d truenatural.com.vn
 -d truenorthtimber.com
 -d trueperz.com
+-d trueshare.com
 -d trueskills.in
 -d trueteeshirt.com
 -d trueterroir.co.uk
@@ -101496,7 +101632,6 @@ msFilterList
 -d tsredco.telangana.gov.in
 -d tsrj.monster
 -d tsrv2.top
--d tsrv4.ws
 -d tssolutionsgroup.com
 -d tst.marineindust.com
 -d tstfrigo.com
@@ -103288,6 +103423,7 @@ msFilterList
 -d url.246546.com
 -d url.57569.fr.snd52.ch
 -d url.sg
+-d url2.mailanyone.net
 -d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
@@ -103332,6 +103468,7 @@ msFilterList
 -d us.cdn.persiangig.com
 -d us.gsearch.com.de
 -d us.hostiso.cloud
+-d us15.campaign-archive.com
 -d us5interclub.cba.pl
 -d usa-lenders.com
 -d usa-life-insurance.net
@@ -103456,6 +103593,7 @@ msFilterList
 -d usuf.top
 -d usugeotechno.com
 -d usupdatereply.xyz
+-d usvpn.xyz
 -d uswatunhasanahkaltim.com
 -d usy15wycqme03dymh.xyz
 -d usyukle.com
@@ -104003,7 +104141,6 @@ msFilterList
 -d vaser.ca
 -d vasfa.ir
 -d vash-sevastopol.ru
--d vashdok.com.ua
 -d vashikaranforlostloveback.com
 -d vashni.in
 -d vashnia.com
@@ -106186,6 +106323,7 @@ msFilterList
 -d waikikitarifa.com
 -d wairingi.com
 -d waisir.com
+-d wait.loadandview.com
 -d waitbuzz.net
 -d waiter.zendesk.com
 -d waiyam.ml
@@ -106458,7 +106596,6 @@ msFilterList
 -d waterside.nyc
 -d waterski.sk
 -d watersondevelopments.com
--d waterstreetinn.us
 -d watertankcleaner.com
 -d watertreatmentbyculligan.com
 -d waterway.hu
@@ -108648,6 +108785,7 @@ msFilterList
 -d wpdev.ted.solutions
 -d wpdev.ztickerz.io
 -d wpeasycartdev2.com
+-d wpengine.zendesk.com
 -d wpgtxdtgifr.ga
 -d wphelper.mwpteam.com
 -d wpldjxxxua.ga
@@ -111703,7 +111841,6 @@ msFilterList
 -d zhuti.freexulai.com
 -d zhuwenlin.com
 -d zhwaike.com
--d zhwq1216.com
 -d zhycron.com.br
 -d zhzglobal.com
 -d zhzy999.net
