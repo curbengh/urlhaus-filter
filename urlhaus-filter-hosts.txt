@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sun, 15 Aug 2021 12:10:54 +0000
+# Updated: Mon, 16 Aug 2021 00:11:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -774,6 +774,7 @@
 0.0.0.0 24hsuckhoe.com
 0.0.0.0 24kitten.com
 0.0.0.0 24linux.com
+0.0.0.0 24masr.com
 0.0.0.0 24mm.site
 0.0.0.0 24mmcsjobs.com
 0.0.0.0 24security.ro
@@ -7500,6 +7501,7 @@
 0.0.0.0 anythingghost.com
 0.0.0.0 anytimeelectricianstolleson.com
 0.0.0.0 anytoawejwneasd.com
+0.0.0.0 anyvnp.xyz
 0.0.0.0 anywhere.instact-gcc.com
 0.0.0.0 anzebra.ru
 0.0.0.0 anzelikosgracija.lt
@@ -11183,6 +11185,7 @@
 0.0.0.0 babytoys.life
 0.0.0.0 babyvogel.nl
 0.0.0.0 babzon.club
+0.0.0.0 bac.edu.my
 0.0.0.0 bac.education
 0.0.0.0 bacamanect.com
 0.0.0.0 baccaosutritue.vn
@@ -11405,6 +11408,7 @@
 0.0.0.0 bak-karbal.com
 0.0.0.0 bakakft.hu
 0.0.0.0 bakalanpule.co.id
+0.0.0.0 bakamla.go.id
 0.0.0.0 bakariart.com
 0.0.0.0 bakbo.dk
 0.0.0.0 bakcaci.de
@@ -12783,6 +12787,7 @@
 0.0.0.0 bellascasas.com.br
 0.0.0.0 bellascuola.it
 0.0.0.0 bellastile.ru
+0.0.0.0 bellatop.com.br
 0.0.0.0 bellatrix-rs.com.br
 0.0.0.0 bellatti-barton.com
 0.0.0.0 bellavillacity.com
@@ -13265,7 +13270,6 @@
 0.0.0.0 bestsevenhillsmassage.com.au
 0.0.0.0 bestsexologist.xyz
 0.0.0.0 bestshariaproperty.com
-0.0.0.0 bestshoppingonus.com
 0.0.0.0 bestsmartphonesreviews.net
 0.0.0.0 bestsportstreamingsites.live
 0.0.0.0 beststarteducare-my.sharepoint.com
@@ -27022,6 +27026,7 @@
 0.0.0.0 demsaconsulting.com
 0.0.0.0 demu.hu
 0.0.0.0 demuro.co.uk
+0.0.0.0 dena.halicka.eu
 0.0.0.0 denaboresh.betonbor.ir
 0.0.0.0 denaros.pl
 0.0.0.0 denateb.com
@@ -41291,7 +41296,6 @@
 0.0.0.0 girl4night.com
 0.0.0.0 girlem.site
 0.0.0.0 girlfridaymusic.com
-0.0.0.0 girlgeekdinners.com
 0.0.0.0 girlgohustle.com
 0.0.0.0 girlhistory.ru
 0.0.0.0 girlhut-my.sharepoint.com
@@ -46996,6 +47000,7 @@
 0.0.0.0 hsz59c1evs1h30.com
 0.0.0.0 ht-systemberatung.de
 0.0.0.0 ht.sarahparkonline.com
+0.0.0.0 htair.fr
 0.0.0.0 htatuz.000webhostapp.com
 0.0.0.0 htcformosa.gob.ar
 0.0.0.0 htcladakh.com
@@ -50611,7 +50616,6 @@
 0.0.0.0 isaac.mikhailmotoringschool.com
 0.0.0.0 isaac.samjoemmy.com
 0.0.0.0 isaac00.com
-0.0.0.0 isaacjrfit.com
 0.0.0.0 isaacwright.com
 0.0.0.0 isababatur.com
 0.0.0.0 isabco.com
@@ -67527,6 +67531,7 @@
 0.0.0.0 mr-mahmoud-hassan.com
 0.0.0.0 mr-uka.com
 0.0.0.0 mr-website.ir
+0.0.0.0 mra.gov.pg
 0.0.0.0 mracessorios.com
 0.0.0.0 mracinfissi.com
 0.0.0.0 mrafieian.ir
@@ -72747,6 +72752,7 @@
 0.0.0.0 okaidi.digital-link.ch
 0.0.0.0 okane-mikata.com
 0.0.0.0 okankoleji.com
+0.0.0.0 okanogan1.com
 0.0.0.0 okanyalazi.com
 0.0.0.0 okaoxon.pl
 0.0.0.0 okaseo.com
@@ -82900,6 +82906,7 @@
 0.0.0.0 resisterma.com.br
 0.0.0.0 resitec.fr
 0.0.0.0 resmacsites.com
+0.0.0.0 resmihdvideoplayerindirmesitesi23.xyz
 0.0.0.0 resnichka.info
 0.0.0.0 resolutionhomesales.com
 0.0.0.0 resonance-pub.watchdogdns.duckdns.org
@@ -94830,6 +94837,7 @@
 0.0.0.0 sushiprueba.pegatinastudio.com
 0.0.0.0 sushiskhodnya.pizza
 0.0.0.0 sushisto.ru
+0.0.0.0 sushma.co.in
 0.0.0.0 sushmafoundation.in
 0.0.0.0 susirubin.com.br
 0.0.0.0 suspension.script.ennov8.com.ng

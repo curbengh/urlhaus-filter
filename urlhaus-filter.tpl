@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sun, 15 Aug 2021 12:10:54 +0000
+# Updated: Mon, 16 Aug 2021 00:11:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -777,6 +777,7 @@ msFilterList
 -d 24hsuckhoe.com
 -d 24kitten.com
 -d 24linux.com
+-d 24masr.com
 -d 24mm.site
 -d 24mmcsjobs.com
 -d 24security.ro
@@ -7503,6 +7504,7 @@ msFilterList
 -d anythingghost.com
 -d anytimeelectricianstolleson.com
 -d anytoawejwneasd.com
+-d anyvnp.xyz
 -d anywhere.instact-gcc.com
 -d anzebra.ru
 -d anzelikosgracija.lt
@@ -11186,6 +11188,7 @@ msFilterList
 -d babytoys.life
 -d babyvogel.nl
 -d babzon.club
+-d bac.edu.my
 -d bac.education
 -d bacamanect.com
 -d baccaosutritue.vn
@@ -11408,6 +11411,7 @@ msFilterList
 -d bak-karbal.com
 -d bakakft.hu
 -d bakalanpule.co.id
+-d bakamla.go.id
 -d bakariart.com
 -d bakbo.dk
 -d bakcaci.de
@@ -12786,6 +12790,7 @@ msFilterList
 -d bellascasas.com.br
 -d bellascuola.it
 -d bellastile.ru
+-d bellatop.com.br
 -d bellatrix-rs.com.br
 -d bellatti-barton.com
 -d bellavillacity.com
@@ -13268,7 +13273,6 @@ msFilterList
 -d bestsevenhillsmassage.com.au
 -d bestsexologist.xyz
 -d bestshariaproperty.com
--d bestshoppingonus.com
 -d bestsmartphonesreviews.net
 -d bestsportstreamingsites.live
 -d beststarteducare-my.sharepoint.com
@@ -27025,6 +27029,7 @@ msFilterList
 -d demsaconsulting.com
 -d demu.hu
 -d demuro.co.uk
+-d dena.halicka.eu
 -d denaboresh.betonbor.ir
 -d denaros.pl
 -d denateb.com
@@ -41294,7 +41299,6 @@ msFilterList
 -d girl4night.com
 -d girlem.site
 -d girlfridaymusic.com
--d girlgeekdinners.com
 -d girlgohustle.com
 -d girlhistory.ru
 -d girlhut-my.sharepoint.com
@@ -46999,6 +47003,7 @@ msFilterList
 -d hsz59c1evs1h30.com
 -d ht-systemberatung.de
 -d ht.sarahparkonline.com
+-d htair.fr
 -d htatuz.000webhostapp.com
 -d htcformosa.gob.ar
 -d htcladakh.com
@@ -50614,7 +50619,6 @@ msFilterList
 -d isaac.mikhailmotoringschool.com
 -d isaac.samjoemmy.com
 -d isaac00.com
--d isaacjrfit.com
 -d isaacwright.com
 -d isababatur.com
 -d isabco.com
@@ -67530,6 +67534,7 @@ msFilterList
 -d mr-mahmoud-hassan.com
 -d mr-uka.com
 -d mr-website.ir
+-d mra.gov.pg
 -d mracessorios.com
 -d mracinfissi.com
 -d mrafieian.ir
@@ -72750,6 +72755,7 @@ msFilterList
 -d okaidi.digital-link.ch
 -d okane-mikata.com
 -d okankoleji.com
+-d okanogan1.com
 -d okanyalazi.com
 -d okaoxon.pl
 -d okaseo.com
@@ -82903,6 +82909,7 @@ msFilterList
 -d resisterma.com.br
 -d resitec.fr
 -d resmacsites.com
+-d resmihdvideoplayerindirmesitesi23.xyz
 -d resnichka.info
 -d resolutionhomesales.com
 -d resonance-pub.watchdogdns.duckdns.org
@@ -94833,6 +94840,7 @@ msFilterList
 -d sushiprueba.pegatinastudio.com
 -d sushiskhodnya.pizza
 -d sushisto.ru
+-d sushma.co.in
 -d sushmafoundation.in
 -d susirubin.com.br
 -d suspension.script.ennov8.com.ng
