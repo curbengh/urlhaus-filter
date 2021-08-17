@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Mon, 16 Aug 2021 12:11:16 +0000
+# Updated: Tue, 17 Aug 2021 00:11:23 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -12590,6 +12590,7 @@ msFilterList
 -d bedrijfinkaart.nl
 -d bedrijfskleding038.nl
 -d bedrijfsnaamborden.nl
+-d bedrockbuildersnj.com
 -d bedroomcritic.com
 -d beds2buy.co.uk
 -d bedukart.in
@@ -23728,6 +23729,7 @@ msFilterList
 -d crach.discusllc.org
 -d crack.relaxationcards.com
 -d crackmiata.com
+-d cracksmsa.ug
 -d cracktoo.com
 -d cradiant.com
 -d cradigital.com
@@ -36469,6 +36471,7 @@ msFilterList
 -d fasteasyupdates.com
 -d fastech.com.tr
 -d fastenglishhelp.com
+-d faster.vn
 -d fastestlaundry.com
 -d fastestnetwork.info
 -d fastflow.co.uk
@@ -42345,6 +42348,7 @@ msFilterList
 -d googleapi.ru
 -d googleglobalbrandsearching.mangospot.net
 -d googlemeta.xyz
+-d googleplusmarketpro.com
 -d googlerank.in
 -d googleresult.in
 -d googletime.ac.ug
@@ -44888,6 +44892,7 @@ msFilterList
 -d hdlive-espntv.live-sportshd.website
 -d hdmb.altervista.org
 -d hdmedia.pro
+-d hdmilg.xyz
 -d hdmonte.saveonlocaldeals.com
 -d hdoc.duckdns.org
 -d hdoi.hr
@@ -50313,6 +50318,7 @@ msFilterList
 -d investorlesson.com
 -d investorvisas.in
 -d investph.co
+-d investtomontenegro.com
 -d investuae.me
 -d investwithourfamily.com
 -d investworld.hoangnguyencorp.vn
@@ -57257,6 +57263,7 @@ msFilterList
 -d ladyswellns.ie
 -d laemgghz.bergslounge.com
 -d lafabriquedesign.com
+-d lafare.tecziqdemonew.xyz
 -d laferrugem.com
 -d laffansgranito.com
 -d lafiammasc.com.au
@@ -64949,6 +64956,7 @@ msFilterList
 -d mercavideogroup.com
 -d merceariacampos.com.br
 -d mercedes-club-bg.com
+-d mercedes190portugal.com
 -d mercedeslangha.vn
 -d merceko.com
 -d mercergasket.b2bdd.net
@@ -65605,6 +65613,7 @@ msFilterList
 -d mig-man.de
 -d migandhi5253.com
 -d might.c0.pl
+-d migitinstruments.com
 -d migmon.club
 -d migoascoran.com
 -d migoshen.org
@@ -81455,6 +81464,7 @@ msFilterList
 -d radioqhantatiboliviasaopaulo.net
 -d radioregie.com
 -d radioreminisce.com
+-d radiorevelacioncatolica.com
 -d radiosarria.cat
 -d radioservicios.cl
 -d radioshqip.org
@@ -82177,6 +82187,8 @@ msFilterList
 -d readinglistforjuly2.xyz
 -d readinglistforjuly3.site
 -d readinglistforjuly3.xyz
+-d readinglistforjuly4.site
+-d readinglistforjuly5.site
 -d readinglistforjuly8.xyz
 -d readinglistforjuly9.xyz
 -d readnlead.de
@@ -85148,6 +85160,7 @@ msFilterList
 -d saanjafashion.in
 -d saaq.app
 -d saareautex.ee
+-d saarimoveis.com
 -d saaristorakentaminen.com
 -d saartecnologia.com.br
 -d saarthieduhub.com
@@ -85285,6 +85298,7 @@ msFilterList
 -d saepedra.com
 -d saeshoes.com
 -d safa.205dundas.com
+-d safa.support
 -d safaa.net.in
 -d safaktasarim.com
 -d safakteknoloji.com
@@ -92319,6 +92333,7 @@ msFilterList
 -d sports.lightweightworks.com
 -d sports.newsblunt.com
 -d sports.rubberduckyinteractive.com
+-d sports.tj
 -d sportsblog24.com
 -d sportschuetzen-havixbeck.de
 -d sportscricketlive.com
@@ -98267,7 +98282,6 @@ msFilterList
 -d thedigitalinvitations.com
 -d thedigitaljournal.xyz
 -d thedigitalmarketingcompany.com
--d thedigitalsquad.net
 -d thedigitaluno.com
 -d thediscriminationlaws.com
 -d thedisruptor.co
@@ -103099,6 +103113,7 @@ msFilterList
 -d unsafedrugs.com
 -d unsanrohandper.tk
 -d unsb.co.in
+-d unsimpleclic.com
 -d unstolic.com
 -d unsuiting-week.000webhostapp.com
 -d unsurmised-pecks.000webhostapp.com
@@ -107780,6 +107795,7 @@ msFilterList
 -d wilcast.net
 -d wilcoblockeddrains.com.au
 -d wild2486.com
+-d wildbleu.shop
 -d wildblueny.com
 -d wildcard.wpmudev.host
 -d wilddiary.com
@@ -110940,6 +110956,7 @@ msFilterList
 -d yourbestmattress.co.uk
 -d yourbesttenant.co.uk
 -d yourbikinifigure.com
+-d yourblog.info
 -d yourcareguide.site
 -d yourcbts.com
 -d yourcleanersurfaces.com
