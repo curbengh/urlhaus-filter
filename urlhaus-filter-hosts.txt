@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Tue, 17 Aug 2021 12:11:14 +0000
+# Updated: Wed, 18 Aug 2021 00:10:49 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -737,6 +737,7 @@
 0.0.0.0 239radio.com
 0.0.0.0 23chnesqudusisabadassniggainthehudokgd.duckdns.org
 0.0.0.0 23netz.de
+0.0.0.0 23noticias.com.ar
 0.0.0.0 23w4erdtfg.000webhostapp.com
 0.0.0.0 24-dev.bespokexl.co.uk
 0.0.0.0 24-sata.club
@@ -1278,6 +1279,7 @@
 0.0.0.0 4b053f3c6a98.net
 0.0.0.0 4bec.org
 0.0.0.0 4biositacademy.com.br
+0.0.0.0 4brits.co.za
 0.0.0.0 4buccaneer.com
 0.0.0.0 4c8ida.db.files.1drv.com
 0.0.0.0 4care.co.in
@@ -2034,6 +2036,7 @@
 0.0.0.0 a.goatagame.com
 0.0.0.0 a.goatgame.co
 0.0.0.0 a.heritageandterre.com
+0.0.0.0 a.ninis.us
 0.0.0.0 a.pomf.cat
 0.0.0.0 a.pomf.se
 0.0.0.0 a.pomf.space
@@ -16438,6 +16441,7 @@
 0.0.0.0 bremessi.com.br
 0.0.0.0 brendanquine.com
 0.0.0.0 brendanstead.com
+0.0.0.0 brendascandles.texasshoppersmarket.com
 0.0.0.0 brenish.co.ke
 0.0.0.0 brenleyquartzgh.com
 0.0.0.0 brennerei-vitt.de
@@ -21840,6 +21844,7 @@
 0.0.0.0 cnoicetop.site
 0.0.0.0 cnp-changsha.com
 0.0.0.0 cnpcsonline.com
+0.0.0.0 cnr.org.br
 0.0.0.0 cns-silk.com
 0.0.0.0 cnthai.co.th
 0.0.0.0 cntirmedia.com
@@ -23962,6 +23967,7 @@
 0.0.0.0 crewnecksusa.com
 0.0.0.0 crfconstrutora.com.br
 0.0.0.0 crfzine.org
+0.0.0.0 crgconstruct.loty.website
 0.0.0.0 crgwrm.loan
 0.0.0.0 criabrasilmoda.com.br
 0.0.0.0 criamaiscomunicacao.com.br
@@ -24118,6 +24124,7 @@
 0.0.0.0 crope.shop
 0.0.0.0 cropfoods.com
 0.0.0.0 croptool.com
+0.0.0.0 cropupcreatives.com
 0.0.0.0 croquis.us
 0.0.0.0 crorion.linux.suriel.com.br
 0.0.0.0 crosbysmolasses.com
@@ -27165,6 +27172,7 @@
 0.0.0.0 dermaderm.com.pk
 0.0.0.0 dermahealth.kiev.ua
 0.0.0.0 dermainstant.com
+0.0.0.0 dermasmart.org
 0.0.0.0 dermatologica.com.co
 0.0.0.0 dermatologyqueens.com
 0.0.0.0 dermatologysechenov.ru
@@ -28881,7 +28889,6 @@
 0.0.0.0 djanelaura.de
 0.0.0.0 djayamedia.com
 0.0.0.0 djb.kazaragency.pl
-0.0.0.0 djcaa.org
 0.0.0.0 djcamone.com
 0.0.0.0 djceejay.de
 0.0.0.0 djchamp.net
@@ -34623,7 +34630,6 @@
 0.0.0.0 ethclick.icu
 0.0.0.0 ethclick.live
 0.0.0.0 ethclicks.live
-0.0.0.0 ethdigitalcampus.com
 0.0.0.0 ethecae.com
 0.0.0.0 ethecal.com
 0.0.0.0 etherbound.org
@@ -36490,6 +36496,7 @@
 0.0.0.0 fcf.net
 0.0.0.0 fcfribourg.ch
 0.0.0.0 fcg.gxepb.gov.cn
+0.0.0.0 fclskincare.com
 0.0.0.0 fcmcambiosautomaticos.com
 0.0.0.0 fcmelli.ir
 0.0.0.0 fcncorp.com
@@ -49493,6 +49500,7 @@
 0.0.0.0 innovative.badhawkworkshop.com
 0.0.0.0 innovative3000.com
 0.0.0.0 innovativeengineersandproducts.com
+0.0.0.0 innovativeerp.com
 0.0.0.0 innovativevetpath.com
 0.0.0.0 innovativewebsolution.in
 0.0.0.0 innovators20.com
@@ -56979,7 +56987,6 @@
 0.0.0.0 labs.hiperactivo.cl
 0.0.0.0 labs.omahsoftware.com
 0.0.0.0 labshop.gr
-0.0.0.0 labsinitiative.com
 0.0.0.0 labstory.in.th
 0.0.0.0 labtalk.ir
 0.0.0.0 labtcompany.com
@@ -57230,6 +57237,7 @@
 0.0.0.0 lamdep24h.life
 0.0.0.0 lamdepuytinsaigon.com
 0.0.0.0 lamdepvungkinphunu.vn
+0.0.0.0 lameda.cc
 0.0.0.0 lameguard.ru
 0.0.0.0 lamemoria.in
 0.0.0.0 lament.ee
@@ -58220,7 +58228,6 @@
 0.0.0.0 leki-bez-recepty-na-recepte.com
 0.0.0.0 lekkerland.es
 0.0.0.0 lekkievents.com
-0.0.0.0 lekkimart.com
 0.0.0.0 leklao.com
 0.0.0.0 lektorat-rauthe.de
 0.0.0.0 lektrolab.com
@@ -60196,6 +60203,7 @@
 0.0.0.0 lotussim.com
 0.0.0.0 lotustrends.com
 0.0.0.0 lotusttrade.com
+0.0.0.0 loty.website
 0.0.0.0 loubnany.org
 0.0.0.0 loucic.com.br
 0.0.0.0 loud0.revosales.ru
@@ -60769,7 +60777,6 @@
 0.0.0.0 luxusnysperk.sk
 0.0.0.0 luxvilla.vn
 0.0.0.0 luxvisage.ru
-0.0.0.0 luxxisinn.com
 0.0.0.0 luxxxu.net
 0.0.0.0 luxycode.com
 0.0.0.0 luyalu.net
@@ -61332,6 +61339,7 @@
 0.0.0.0 magic4business.co.il
 0.0.0.0 magical-connection.com
 0.0.0.0 magicalmindsstudio.com
+0.0.0.0 magicalorbs.in
 0.0.0.0 magicalslides.com
 0.0.0.0 magicanywhere.com
 0.0.0.0 magicboximportados.com.br
@@ -63564,7 +63572,6 @@
 0.0.0.0 matrealisation.com
 0.0.0.0 matrent.ru
 0.0.0.0 matreshki.su
-0.0.0.0 matrimonialdetectiveagency.in
 0.0.0.0 matrimony4christians.com
 0.0.0.0 matrin.com.au
 0.0.0.0 matriskurs.com
@@ -63593,6 +63600,7 @@
 0.0.0.0 matthewhuntington.com
 0.0.0.0 matthewraycarta.com
 0.0.0.0 matthewvincent.ca
+0.0.0.0 matthieu-tranvan.fr
 0.0.0.0 matthieubroquardfilm.com
 0.0.0.0 matthrivnak.com
 0.0.0.0 mattimoorman.nl
@@ -64037,6 +64045,7 @@
 0.0.0.0 me.ft.unri.ac.id
 0.0.0.0 me.kayamalimusavirlik.com
 0.0.0.0 me.mellatholding.com
+0.0.0.0 me.swop.cloud
 0.0.0.0 me48.ru
 0.0.0.0 mea.kaisariani.gr
 0.0.0.0 meaamarelmorshedy.com
@@ -73007,7 +73016,6 @@
 0.0.0.0 ombee.net
 0.0.0.0 ombrapiatta.com
 0.0.0.0 ombre.co.in
-0.0.0.0 omdebar.ir
 0.0.0.0 omdideas.com
 0.0.0.0 omea.be
 0.0.0.0 omeassociates.com
@@ -75234,7 +75242,6 @@
 0.0.0.0 participacioninfantil.org
 0.0.0.0 partidiricambio24.it
 0.0.0.0 partidizayn.com
-0.0.0.0 partimesjob.com
 0.0.0.0 partish.ir
 0.0.0.0 partitshirtleri.com
 0.0.0.0 partiualasca.com.br
@@ -77031,6 +77038,7 @@
 0.0.0.0 pipatchara.com
 0.0.0.0 pipe-baspar.ir
 0.0.0.0 pipehouse.in
+0.0.0.0 piperbooks.net
 0.0.0.0 piperpost.com
 0.0.0.0 piperscookies.com
 0.0.0.0 pipesplumbingltd.com
@@ -84822,6 +84830,7 @@
 0.0.0.0 ryanprest.com
 0.0.0.0 ryanwickre.com
 0.0.0.0 ryanzaatari-001-site6.btempurl.com
+0.0.0.0 rybchenko.dev
 0.0.0.0 rybinskbarhat.ru
 0.0.0.0 ryblevka.com.ua
 0.0.0.0 rybtest.ru
@@ -87003,6 +87012,7 @@
 0.0.0.0 seaweldci.com
 0.0.0.0 seawomens.unidad22.com
 0.0.0.0 seawoosteel.com
+0.0.0.0 seba.sit.uproducts.in
 0.0.0.0 sebastiandibusz.com
 0.0.0.0 sebastianehinger.de
 0.0.0.0 sebastianomoschetta.it
@@ -87033,6 +87043,7 @@
 0.0.0.0 seclug.best
 0.0.0.0 secmail-bankofamerica.com
 0.0.0.0 secmc.com.pk
+0.0.0.0 secobed.nl
 0.0.0.0 secoem.michoacan.gob.mx
 0.0.0.0 secomunicandobem.com
 0.0.0.0 second-breath.net
@@ -87621,6 +87632,7 @@
 0.0.0.0 septicst.ru
 0.0.0.0 septictreat.co.za
 0.0.0.0 seqcentral.org
+0.0.0.0 sequeceqouliede.com
 0.0.0.0 sequentialseo.com.au
 0.0.0.0 sequerella.com
 0.0.0.0 ser.jonnalbandian.com
@@ -88448,6 +88460,7 @@
 0.0.0.0 shayariecoresort.com
 0.0.0.0 shaykhibrahim.com
 0.0.0.0 shaynamccullough.com
+0.0.0.0 shaysave.com
 0.0.0.0 shazaamwebsites.com
 0.0.0.0 shbaoju.com
 0.0.0.0 shbiochem.com
@@ -90238,7 +90251,6 @@
 0.0.0.0 sleaderds.club
 0.0.0.0 sledinskaya.by
 0.0.0.0 sleekinnovations.com.ng
-0.0.0.0 sleepfreaks.co.jp
 0.0.0.0 sleepingfire.in
 0.0.0.0 sleepoverrated.com
 0.0.0.0 sleepsolve.co.uk
@@ -91644,6 +91656,7 @@
 0.0.0.0 soundsforsouls.com
 0.0.0.0 soundshock.com
 0.0.0.0 soundsofalgol.com
+0.0.0.0 soundsolutionsaudio.com
 0.0.0.0 soundstorage.000webhostapp.com
 0.0.0.0 soundtel.com
 0.0.0.0 soupburgnyc.com
@@ -91778,6 +91791,7 @@
 0.0.0.0 space4promotions.com
 0.0.0.0 spacebeyond.space
 0.0.0.0 spacecamp.in
+0.0.0.0 spacecargoltda.com
 0.0.0.0 spacedecorinterior.com
 0.0.0.0 spacedust.com
 0.0.0.0 spaceforslums.com
@@ -95128,6 +95142,7 @@
 0.0.0.0 swoboda-engineering.com
 0.0.0.0 swonger.com
 0.0.0.0 swoodg.ru
+0.0.0.0 swop.cloud
 0.0.0.0 sword.cf
 0.0.0.0 swordandstone.cba.pl
 0.0.0.0 sworden.org
@@ -101067,6 +101082,7 @@
 0.0.0.0 trial.thetigergroups.com
 0.0.0.0 trial04.com
 0.0.0.0 trialgrouparquitectos.com
+0.0.0.0 triallms.uproducts.in
 0.0.0.0 trialloys.com
 0.0.0.0 trialnotebooks.com
 0.0.0.0 triangolodelbenessere.it
@@ -104622,6 +104638,7 @@
 0.0.0.0 vibeshirt.de
 0.0.0.0 vibetronic.id
 0.0.0.0 vibexonly.ddns.net
+0.0.0.0 vibhorpurandare.in
 0.0.0.0 vibicloud.com
 0.0.0.0 vibni.dk
 0.0.0.0 vibor-anapa.ru
@@ -108172,7 +108189,6 @@
 0.0.0.0 won.siv.cc
 0.0.0.0 wonderbooth.com.my
 0.0.0.0 wonderful-davinci-e6a9e8.netlify.com
-0.0.0.0 wonderful1minute.com
 0.0.0.0 wonderfulbrandss.com
 0.0.0.0 wonderfuldavid.com
 0.0.0.0 wonderfulwishes.online
@@ -110178,6 +110194,7 @@
 0.0.0.0 yagikozublog.mixh.jp
 0.0.0.0 yaginc.com
 0.0.0.0 yagoalna.com
+0.0.0.0 yagolocal.com
 0.0.0.0 yagucharus.com
 0.0.0.0 yagurkitchens.com
 0.0.0.0 yahabinew.com
@@ -111006,6 +111023,7 @@
 0.0.0.0 yudiartawan.com
 0.0.0.0 yuechengsteak.com
 0.0.0.0 yueduge.cn
+0.0.0.0 yuefuep.com
 0.0.0.0 yueltoursandtreks.com
 0.0.0.0 yuen.de
 0.0.0.0 yuenkwanlo.nl
