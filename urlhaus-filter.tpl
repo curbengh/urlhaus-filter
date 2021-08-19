@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 19 Aug 2021 00:11:30 +0000
+# Updated: Thu, 19 Aug 2021 12:11:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -772,6 +772,7 @@ msFilterList
 -d 247vietnam.com.vn
 -d 24bangla.live
 -d 24bizhub.com
+-d 24chiller.ru
 -d 24complex.ru
 -d 24delhinews.com
 -d 24forejungl.site
@@ -1832,6 +1833,7 @@ msFilterList
 -d 8e3raq.bl.files.1drv.com
 -d 8edylw.ch.files.1drv.com
 -d 8ez.com
+-d 8freeprivacytoolsforyou.xyz
 -d 8gexbg.am.files.1drv.com
 -d 8hebrew.website
 -d 8hoursfromchicago.com
@@ -11090,6 +11092,7 @@ msFilterList
 -d b.makswells.com
 -d b.reich.io
 -d b.teamworx.ph
+-d b.top4top.io
 -d b.top4top.net
 -d b.tototo.gq
 -d b.ww2rai.ru
@@ -13000,6 +13003,7 @@ msFilterList
 -d benkussettime.com
 -d benluckman.com
 -d benmedia.com
+-d benmoj.com
 -d bennett.in
 -d benniepeters.com
 -d bennw.webs.com
@@ -13811,7 +13815,6 @@ msFilterList
 -d bigdiamondeals.com
 -d bigeyes.com.tw
 -d bigfesta.app4you.app.br
--d bigfile.mail.naver.com
 -d bigfishchain.com
 -d bigfoothospitality.com
 -d bigg-live.com
@@ -13885,6 +13888,7 @@ msFilterList
 -d bike-nomad.com
 -d bike.gokulnath.me
 -d bikediscounts.store
+-d bikekitchen.de
 -d bikelovers.blog.br
 -d bikemandu.com
 -d bikemyday.se
@@ -14201,6 +14205,7 @@ msFilterList
 -d birdview-glog.com
 -d birdychat.com
 -d bireyselmagaza.com
+-d birgebeningunlugu.com
 -d birgezibinrenk.com
 -d birgitdresel.de
 -d birgroupholdings.com
@@ -14372,6 +14377,7 @@ msFilterList
 -d bizbizeyeteriz20gb-hediye.net
 -d bizbuilder.co.za
 -d bizcodedigital.in
+-d bizcomtech.com
 -d bizcraftindia.com
 -d bizertanet.tn
 -d bizexcelcorp.com
@@ -14458,6 +14464,7 @@ msFilterList
 -d bkceviri.com
 -d bkcp.adaming-network.com
 -d bkdd.enrekangkab.go.id
+-d bke.coop
 -d bkeeper.com
 -d bkhjobla.sha58.me
 -d bki.org.pl
@@ -17663,6 +17670,7 @@ msFilterList
 -d c.oooooooooo.ga
 -d c.pieshua.com
 -d c.teamworx.ph
+-d c.top4top.io
 -d c.top4top.net
 -d c.vivi.casa
 -d c.vollar.ga
@@ -19524,6 +19532,7 @@ msFilterList
 -d ceicrim.com.br
 -d ceie.mx
 -d ceifruit.com
+-d ceillinois.com
 -d ceira.cl
 -d ceirecrear.com.br
 -d cej.vtivalves.us
@@ -21809,6 +21818,7 @@ msFilterList
 -d cmavrikas.gr
 -d cmayab.crmmanivela.host
 -d cmbektas.com
+-d cmc-me.com
 -d cmc-telecom.com
 -d cmc.inflack.net
 -d cmc.rice.edu
@@ -21857,7 +21867,10 @@ msFilterList
 -d cms.pesenaja.com
 -d cms.pokeralliance.com
 -d cms.surplusudyog.com
+-d cmsaus.com.au
 -d cmsay.xyz
+-d cmsgp.com
+-d cmshospital.in
 -d cmslps.dbliangwang.com
 -d cmsw.de
 -d cmswrexham.com
@@ -21921,6 +21934,7 @@ msFilterList
 -d cncoutfitting.com
 -d cncprocess.fr
 -d cnctbai.com
+-d cnctechservicos.com.br
 -d cndl.store
 -d cnews.me
 -d cnfamilywealth.com
@@ -21947,6 +21961,7 @@ msFilterList
 -d cnpcsonline.com
 -d cnr.org.br
 -d cns-silk.com
+-d cnslv.com
 -d cnthai.co.th
 -d cntirmedia.com
 -d cnty.huaf.edu.vn
@@ -21973,13 +21988,16 @@ msFilterList
 -d coach-ukraine.com
 -d coach.getfit21latino.com
 -d coach.srcomputadoras.com
+-d coach4u.com.au
 -d coachbagsoutletfactory.net
 -d coachboom.mhtechnologies.us
+-d coachburt.com
 -d coachhire-miltonkeynes.co.uk
 -d coachhire-oxford.co.uk
 -d coaching.idees-decora.tn
 -d coaching2reach.com
 -d coachingbyck.com
+-d coachingbywendy.com
 -d coachingservices.fr
 -d coachirene.jp
 -d coachmaryamhafiz.com
@@ -21988,14 +22006,17 @@ msFilterList
 -d coachthahir.com
 -d coachup.in
 -d coachwissel.com
+-d coacig.com.br
 -d coackarner.com
 -d coalcountryindustries.com
 -d coalitionbay.com
 -d coappinformdoclaireritter.cmail-oln040092069015.outbound.protection.sketchwefair-watduoliprudential.com.watchdogdns.duckdns.org
+-d coast2coast.net
 -d coastalpacificexcavating.com
 -d coastaltherapy.com
 -d coastlinepoolspa.com
 -d coastmediagroup.com.au
+-d coastmedicalservice.com
 -d coastmotorsupply.com
 -d coastsignworks.com
 -d coastwidewaterproofing.com.au
@@ -22057,9 +22078,11 @@ msFilterList
 -d codeandcopywriterllc.com
 -d codebluereview.com
 -d codebrasileiro.com
+-d codebyshellbot.com
 -d codeca.cl
 -d codecoffeecake.com
 -d codecollapse.com
+-d codeconnect.com.au
 -d codedata.tempsite.ws
 -d codedecodede.com
 -d codedforwardings.halimofset.com.tr
@@ -22075,12 +22098,14 @@ msFilterList
 -d codeinsight.tech
 -d codeisgone.top
 -d codelala.net
+-d codelta.es
 -d codemb.cn
 -d codeme.kz
 -d codemefast.com
 -d codenpic.com
 -d codeperformance-my.sharepoint.com
 -d codepog.com
+-d codeproof.com
 -d codeproofs.com
 -d codereference.mcssan.com
 -d coderhike.com
@@ -22107,6 +22132,7 @@ msFilterList
 -d codigobienes.com
 -d codingbrush.com
 -d codingmonster.me
+-d codingtemple.com
 -d coditsolutions.in
 -d codivar.org.br
 -d codjoo.ir
@@ -22128,6 +22154,7 @@ msFilterList
 -d coeurofafrica.com
 -d cof.org.uk
 -d cof.philanthropyroundtable.org
+-d cofama.com.br
 -d cofancio.com
 -d cofenator.ru
 -d coffee-911.com.ua
@@ -22149,6 +22176,7 @@ msFilterList
 -d cofisconconsultoria.com.br
 -d cofqz.com
 -d cofrex-eg.com
+-d cofusa.com
 -d cogeainternational.com
 -d coges-tn.com
 -d coghlanhealthcare.ie
@@ -22231,8 +22259,11 @@ msFilterList
 -d colegiodavinci.pe
 -d colegiodecomunicadoressocialesdelguayas.com
 -d colegiodelaconquista.com
+-d colegioelshaday.com.br
+-d colegioeverest.cl
 -d colegiolaesperanza.cl
 -d colegiolosandes.edu.pe
+-d colegiopentagono.com
 -d colegiopierrefaure.cl
 -d colegiopordosol.com.br
 -d colegioquimico-001-site5.dtempurl.com
@@ -22290,6 +22321,7 @@ msFilterList
 -d collegefunding.live
 -d collegemonodgagny.fr
 -d collegenimahiti.000webhostapp.com
+-d colleges.cometoboston.com
 -d collegesarcasm.tk
 -d collegeswami.com
 -d collegethinking.com
@@ -22325,6 +22357,7 @@ msFilterList
 -d coloradolandhome.com
 -d coloradolatinoforum.org
 -d coloradosyntheticlubricants.com
+-d coloramacoatings.com
 -d colorblast.pw.had.su
 -d colorchemexpo.com.pk
 -d colored.mx
@@ -22386,6 +22419,7 @@ msFilterList
 -d comcastbiz.netbenfey.ciprudential.com.watchdogdns.duckdns.org
 -d comcelco.com
 -d comcom-finances.com
+-d comcomsystems.com
 -d comdenetfvo.tk
 -d comdishtech.com
 -d comduoliprudential.com.watchdogdns.duckdns.org
@@ -22400,6 +22434,7 @@ msFilterList
 -d comeontrk.com
 -d comer.bid
 -d comercailizadoracali.com
+-d comercial2001.com.br
 -d comercialadvance.com
 -d comercialbel.com.br
 -d comercialdelmar.com.ar
@@ -22475,6 +22510,8 @@ msFilterList
 -d commercialrealestatect.com
 -d commeres.fr
 -d commissionunion.com
+-d committedexperts.com
+-d commodex.com
 -d common-factor.nl
 -d commonaudience.com
 -d commonbeta.com
@@ -22487,8 +22524,10 @@ msFilterList
 -d commonwealthupdate.com
 -d commonworths.com
 -d commtech.net.au
+-d communay.fr
 -d communic.at
 -d communica.com.mx
+-d communicateplc.com
 -d communicateyourjoy.com
 -d communication-responsable.aacc.fr
 -d communication4u.de
@@ -22579,6 +22618,7 @@ msFilterList
 -d completeitcenter.com
 -d completeittrainer.com
 -d completemarketing.club
+-d completeretailsolutions.com
 -d completerubbishremoval.net.au
 -d completervnc.com
 -d completeshs.com
@@ -22711,6 +22751,7 @@ msFilterList
 -d conalcreedon.com
 -d conamylups.com
 -d conando.vn
+-d conar.cl
 -d conbuddies.com
 -d concatstring.com
 -d conceitoitinerante.net
@@ -22728,7 +22769,9 @@ msFilterList
 -d conceptivesol.com
 -d conceptnewsnow.com
 -d conceptrecords.ru
+-d conceptron.com
 -d conceptsacademy.co.in
+-d conceptshh.com
 -d conceptsystem.com.br
 -d conceptu.com
 -d conceptz.in
@@ -22744,19 +22787,24 @@ msFilterList
 -d concordnetworking.com
 -d concourse.live
 -d concrecasa.cl
+-d concrefiber.com.br
 -d concretebirdbathmolds.net
 -d concretehollowblock.com
 -d concretemoldcompanies.com
+-d concria.com
 -d conde.bioscursos.com.ve
 -d condi-shop.ru
 -d condicioner-ufa.ru
 -d conditertorg.ru
 -d condizer.com
 -d condizioni.net
+-d condochicks.com
 -d condominiocariocarj.com.br
 -d condominiopuertablanca.cl
 -d condomusic.com
+-d condorgreen.com
 -d condosbysmdc.ph
+-d condoshotelliondor.com
 -d condotelphuquoc-grandworld.xyz
 -d condowealth.co
 -d conduct-disorder.000webhostapp.com
@@ -22800,6 +22848,7 @@ msFilterList
 -d confiancecontabilidade.com.br
 -d confiar.cl
 -d confidenceforbid.com
+-d confidenceit.com
 -d confidentcaredentistry.com
 -d confidentlearners.co.nz
 -d confidentlook.co.uk
@@ -22815,6 +22864,7 @@ msFilterList
 -d config.ymw200.com
 -d config01.homepc.it
 -d configislimited.xyz
+-d confindustriarussia.it
 -d confinementxxx.com
 -d confirm-anymention.net.pl
 -d confirm.bisiakintayo.com
@@ -22850,6 +22900,7 @@ msFilterList
 -d congresoce15.interlat.co
 -d congresoiia.lambayequeaprende.com
 -d congresopex.com
+-d congresorecursoshumanos.com
 -d congresso.redeunida.org.br
 -d congresso4c.ifc-riodosul.edu.br
 -d congressoneurofeedback.com.br
@@ -22881,11 +22932,14 @@ msFilterList
 -d connect.rio.br
 -d connect.unityworkforce.net
 -d connect360bd.com
+-d connectadventures.org
+-d connectavet.com
 -d connectbrokers.co.za
 -d connectbusinessdirectory.com
 -d connectbyte.com.br
 -d connectcapital.com.br
 -d connectedfaucets.com
+-d connectedwarriors.org
 -d connecteur.apps-dev.fr
 -d connecthaldia.in
 -d connecticutfloodinsurance.org
@@ -22906,6 +22960,7 @@ msFilterList
 -d connectstats.bar
 -d connectstats.casa
 -d connectstats.cyou
+-d connetquotlibrary.org
 -d conniehelpsme.com
 -d conniemuther.com
 -d connievoigt.cl
@@ -23452,7 +23507,6 @@ msFilterList
 -d correiosbr.r1-it.storage.cloud.it
 -d correlation.ca
 -d correo.kable.cl
--d correolimpio.telefonica.es
 -d correspondenterio.com.br
 -d corretordejoanete.site
 -d corrheating.ie
@@ -29079,6 +29133,7 @@ msFilterList
 -d dkb.co.id
 -d dkbanking.eu
 -d dkck.com.tw
+-d dkcos.com
 -d dkeventmarketing.com
 -d dkf.co.id
 -d dkib.org.tr
@@ -32913,6 +32968,7 @@ msFilterList
 -d elenamagic.com
 -d elenaplescan.com
 -d elenari.cl
+-d elenasar.ru
 -d elenashirshova.ru
 -d elenavon.com
 -d elenecleaners.com
@@ -33531,6 +33587,7 @@ msFilterList
 -d emsbchorale.org
 -d emseenerji.com
 -d emshipservices.com
+-d emsimportados.com.br
 -d emsivab.se
 -d emsshippingservices.com
 -d emst.com.ua
@@ -33837,6 +33894,7 @@ msFilterList
 -d enpress-publisher.com
 -d enpro.com.vn
 -d enproces.cat
+-d enprrollos.ydns.eu
 -d enpsguinee.com
 -d enqcua.by.files.1drv.com
 -d enquadra.eu
@@ -37255,7 +37313,6 @@ msFilterList
 -d files.drivers-logitech.com
 -d files.dropmybin.me
 -d files.enjin.com
--d files.gathercdn.com
 -d files.hrloo.com
 -d files.l-d.tech
 -d files.martellexpress.us
@@ -41118,6 +41175,7 @@ msFilterList
 -d ghalie.com
 -d ghalishoei-sadat-co.ir
 -d ghalumyan.club
+-d ghanacatholicsonline.com
 -d ghancommercialbank.com
 -d ghansco.tk
 -d gharapuripanchayatelephanta.com
@@ -51499,7 +51557,6 @@ msFilterList
 -d j-stage.jp
 -d j-toputvoutfitters.com
 -d j.kyryl.ru
--d j.top4top.io
 -d j11g9xecuxe43xu.xyz
 -d j12z7407gwtzk.xyz
 -d j13.biz
@@ -53988,6 +54045,7 @@ msFilterList
 -d kaleembrothers.com
 -d kaleeza.com
 -d kaleido-winkels.de
+-d kaleidographic.com
 -d kalekoi.com
 -d kalen.cz
 -d kalenhollomon.com
@@ -54135,6 +54193,7 @@ msFilterList
 -d kanerika.wowso.me
 -d kangaroo.technonext.com
 -d kangaroo.techonext.com
+-d kangg.cn
 -d kanggal.com
 -d kangkang.com.au
 -d kangnaterayna.com
@@ -54505,7 +54564,6 @@ msFilterList
 -d kavyarang.com
 -d kavzatemizlikurunleri.com
 -d kawaguchi-massage.work
--d kawaguchikimiaindonesia.com
 -d kawahrengganis.com
 -d kawishproduction.com
 -d kawkab-iq.com
@@ -59271,7 +59329,6 @@ msFilterList
 -d limepure.com
 -d limerakitchen.com
 -d limesfile.com
--d limestudios.tv
 -d limisolr.com
 -d limitededitionphotos.nl
 -d limitedwisdom.com
@@ -59696,7 +59753,6 @@ msFilterList
 -d liveclass.tisibogra.com
 -d livecricketscorecard.info
 -d livedaynews.com
--d livedemo00.template-help.com
 -d livedownload.in
 -d livedrumtracks.com
 -d liveexport-indefensible.com
@@ -64413,7 +64469,6 @@ msFilterList
 -d medcureorganics.com
 -d meddaughs.com
 -d medeaser.com
--d mededsys.com
 -d medegbetv.com
 -d medel.it
 -d medenblik.net
@@ -66441,7 +66496,6 @@ msFilterList
 -d mizong.ren
 -d mizoramstateslottery.com
 -d mizuhonet.com
--d mizuhosi.com
 -d mizutama.com
 -d mj-food.net
 -d mj-smallbusinesstraining.com
@@ -68599,6 +68653,7 @@ msFilterList
 -d my.findsr.co
 -d my.jiwa-nala.org
 -d my.loungu.com
+-d my.mail.de
 -d my.mixtape.moe
 -d my.pop9ja.com.ng
 -d my.zhaopin.com
@@ -69811,7 +69866,6 @@ msFilterList
 -d nbhgroup.in
 -d nbi.org.au
 -d nbiao.cool
--d nbigfile.mail.naver.com
 -d nbis.in
 -d nbiyan.vn
 -d nbiz.tk
@@ -70402,7 +70456,6 @@ msFilterList
 -d new.mylicense.ca
 -d new.myoc.com.au
 -d new.neudekorieren.com
--d new.newton.co.id
 -d new.odingrad.com
 -d new.outfitsbrand.com
 -d new.pagin.sk
@@ -70525,7 +70578,6 @@ msFilterList
 -d newkrungthai.com
 -d newlandred.com
 -d newlaw.vn
--d newlifecenters.org
 -d newlifeholding.com
 -d newlifemedia.net
 -d newlifenaturecure.com
@@ -70541,7 +70593,6 @@ msFilterList
 -d newmekonginvestment.com
 -d newmexico.gop
 -d newmg532.wordswideweb.com
--d newmillerhvac.com
 -d newmix.top
 -d newmoontec.com
 -d newnailmodels.com
@@ -70599,7 +70650,6 @@ msFilterList
 -d news.popmarket.org
 -d news.pycg.com.tw
 -d news.scott.services
--d news.softwarevilla.com
 -d news.theinquilab.com
 -d news.ungheni.org
 -d news.ursinus.edu
@@ -70690,7 +70740,6 @@ msFilterList
 -d newtemplate.testingao.com
 -d newtestamentbaptistchurch.net
 -d newtogo.airobotheworld.com
--d newton.co.id
 -d newtoncampbellyoga.com
 -d newtonsoftwares.com
 -d newtop.one
@@ -70730,7 +70779,6 @@ msFilterList
 -d nexanow.xyz
 -d nexbud.com.pl
 -d nexclick.ir
--d nexcontech.com
 -d nexgentrade.com
 -d nexhipack.com
 -d nexi-verifica-info.spadmelk.com
@@ -71039,7 +71087,6 @@ msFilterList
 -d nickfreitasforcongress.com
 -d nickibaker.com
 -d nickjehlen.com
--d nickkind.com
 -d nicklaslj.se
 -d nicknellie.com
 -d nicknewsteadconstructions.com.au
@@ -71128,12 +71175,10 @@ msFilterList
 -d nightowlmusic.net
 -d nightskynet.com
 -d nightvision.tech
--d nigtc.com
 -d nihad0.ml
 -d nihalweligama.com
 -d nihaobuddy.com
 -d nihaoconsult.com
--d niharindustries.com
 -d nihilgratis.com
 -d nihilistpost.com
 -d niholzamin.dst.uz
@@ -71145,7 +71190,6 @@ msFilterList
 -d niiqata-power.com
 -d niirit.com
 -d niislelaudit.mn
--d niiticonsulting.com
 -d nijerdesign.com
 -d nijfilmandtv.com
 -d nijhuishaardhout.nl
@@ -71231,7 +71275,6 @@ msFilterList
 -d nineteenpints.com
 -d nineti9.com
 -d ninetygrime.kolegajualan.com
--d ninetynine.nl
 -d nineuniversityreviews.org
 -d ningyangseo.com
 -d ningzhidata.com
@@ -71254,7 +71297,6 @@ msFilterList
 -d niosac.in
 -d niosen.com
 -d niozu.shop
--d niparcels.com
 -d niphoenix.com.cn
 -d nipo.ml
 -d nipploncombineblades.com
@@ -71263,7 +71305,6 @@ msFilterList
 -d nique-ta-daronne-la-grosse-rousse.fun
 -d niqyd4.com
 -d nirhas.org
--d nirjhara.com
 -d nirkz.com
 -d nirmalempire.com
 -d nirmalhoslakar.com
@@ -71271,7 +71312,6 @@ msFilterList
 -d nirmalvermicompost.com
 -d nirogayurvedic.in
 -d nirr.xyz
--d nirvana-memorial.co.th
 -d nirvanaeyehospital.com
 -d nirvanapk.com
 -d nirwanacareer.com
@@ -71330,8 +71370,6 @@ msFilterList
 -d nites.ksn1.go.th
 -d niteshagrico.com
 -d niteshenterprise.com
--d nitevibe.com
--d nitidis.com
 -d nitincarcare.com
 -d nitindhanji.com
 -d nitinmehra.com
@@ -76251,6 +76289,7 @@ msFilterList
 -d pengacaraperceraian.pengacaratopsurabaya.com
 -d pengacarasunita.com
 -d pengaduan.lan.go.id
+-d pengirimanexpress.com
 -d pengona.com
 -d peninsulals.com
 -d penir.net
@@ -77608,6 +77647,7 @@ msFilterList
 -d plascosales.org
 -d plasdo.com
 -d plasfan.ind.br
+-d plasmacam.com
 -d plastas.lt
 -d plasterambalaj.com
 -d plastic-wiremesh.com
@@ -79638,6 +79678,7 @@ msFilterList
 -d promosyonacacak.com
 -d promotapp.com
 -d promote-wie.com
+-d promote.giladiskon.com
 -d promotecksa.com
 -d promotedigitally.net
 -d promoterz.com
@@ -82342,6 +82383,7 @@ msFilterList
 -d readersareleader.com
 -d readersforum.tk
 -d reading-parkerms-yrbs-2017.rothenbach-research.com
+-d readinglistforaugust1.xyz
 -d readinglistforjuly1.site
 -d readinglistforjuly1.xyz
 -d readinglistforjuly10.xyz
@@ -85041,7 +85083,6 @@ msFilterList
 -d rushmediacommunications.com
 -d rushnewmedia.de
 -d rusjur.ru
--d ruskinc.com
 -d rusko62.ru
 -d ruslanberlin.com
 -d rusonoc.com
@@ -85355,7 +85396,6 @@ msFilterList
 -d sabai-massage-thai-nc.com
 -d sabaihome.net
 -d sabaint.me
--d sabal.com
 -d sabarasourcing.com
 -d sabath.bdcollegepa.com
 -d sabatire.com
@@ -87262,7 +87302,6 @@ msFilterList
 -d seabobcuracao.com
 -d seabreezeperranporth.co.uk
 -d seadi2.hospedagemdesites.ws
--d seaetc.com
 -d seafoid.org
 -d seafooddirectflorida.com
 -d seafortealing.com
@@ -89245,6 +89284,7 @@ msFilterList
 -d shopdealup.com
 -d shopdinhviviettel.com
 -d shopdocauca.com
+-d shopdudu.com
 -d shope002online.com
 -d shopee.gr
 -d shopeeinfo.com
@@ -89511,6 +89551,7 @@ msFilterList
 -d shwescripts.com
 -d shwetown.com
 -d shweyoteshin.com
+-d shxzit.com
 -d shy-obi-0122.jellybean.jp
 -d shyamagroup.com
 -d shyampawar.com
@@ -91640,6 +91681,7 @@ msFilterList
 -d soloprime.com
 -d solosur.com
 -d solove.show
+-d solovin0.ru
 -d solovoyager.me
 -d solpro.com.co
 -d solrichphc.co.za
@@ -92651,7 +92693,6 @@ msFilterList
 -d spudindia.com
 -d spunflex.com.br
 -d spurblog.com
--d spuredge.com
 -d spurpromo.com
 -d spurs.dd0515.com
 -d spurstogo.com
@@ -103693,7 +103734,6 @@ msFilterList
 -d url.246546.com
 -d url.57569.fr.snd52.ch
 -d url.sg
--d url3.mailanyone.net
 -d url5459.41southbar.com
 -d url675.textilmallorca.com
 -d url9823.ville.labrecque.qc.ca
@@ -103799,7 +103839,6 @@ msFilterList
 -d useradmincloud.gq
 -d useragent20.barloggio.net
 -d users.atw.hu
--d users.tpg.com.au
 -d userslinks.xyz
 -d usetrinapojisteni.cz
 -d useurogren.com
@@ -104017,6 +104056,7 @@ msFilterList
 -d v-schomann.de
 -d v-tech.com.pk
 -d v.6666888.xyz
+-d v.dufena.cn
 -d v0rzpbu.com
 -d v1.appetizer.buvizyon.com
 -d v1.ireadfeet.com
@@ -107050,7 +107090,6 @@ msFilterList
 -d weaver.5gbfree.com
 -d weaversbrand.com
 -d weavinghearts.org
--d web-analysis.live
 -d web-assets.download
 -d web-cude.com
 -d web-de-login.de
@@ -108089,6 +108128,7 @@ msFilterList
 -d wildheifer.de
 -d wildhowlz.com
 -d wildlifeassoc.com
+-d wildlifeexperiencetz.com
 -d wildlifewonders.org.au
 -d wildmangb.com
 -d wildnights.co.uk
@@ -108927,7 +108967,6 @@ msFilterList
 -d worldwideinterationalwidewordsystem.duckdns.org
 -d worldwidetechsecurity.com
 -d worldz.neklodev.com
--d worm.ws
 -d wormaldfj.com
 -d wormann.dk
 -d wormixbets.ru
@@ -109660,6 +109699,7 @@ msFilterList
 -d xfredo.com
 -d xfundzonline.com
 -d xfydy.top
+-d xfyfa.com
 -d xg.bibisb.com
 -d xgeneroyale.com.my
 -d xginformatica.com
