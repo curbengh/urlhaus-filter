@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 21 Aug 2021 00:11:03 +0000
+# Updated: Sat, 21 Aug 2021 12:11:07 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -18241,7 +18241,6 @@ msFilterList
 -d can-do-property.co.uk
 -d can-doelectric.com
 -d can-media.de
--d canaccordgenuity.bluematrix.com
 -d canacofactura.com.mx
 -d canadabestonline.com
 -d canadabrightway.com
@@ -23546,7 +23545,6 @@ msFilterList
 -d correiosbr.r1-it.storage.cloud.it
 -d correlation.ca
 -d correo.kable.cl
--d correolimpio.telefonica.es
 -d correspondenterio.com.br
 -d corretordejoanete.site
 -d corrheating.ie
@@ -25142,6 +25140,7 @@ msFilterList
 -d d.qiluwl.com
 -d d.teamworx.ph
 -d d.techmartbd.com
+-d d.top4top.io
 -d d.top4top.net
 -d d.torreblancamusica.com
 -d d.ttr3p.com
@@ -26495,6 +26494,7 @@ msFilterList
 -d decoronthemove.co.za
 -d decorsfantasmo.com
 -d decorstoff.com
+-d decorstyle.ig.com.br
 -d decortez.com
 -d decortie.top
 -d decosa.co.hu
@@ -45033,6 +45033,7 @@ msFilterList
 -d hdu23.design
 -d hdvideofullizleservisi076.xyz
 -d hdvideofullizleservisi467.xyz
+-d hdvideofullizleservisi6076.xyz
 -d hdxa.net
 -d hdzbih.tv
 -d he.thenamestork.com
@@ -66623,6 +66624,7 @@ msFilterList
 -d mizong.ren
 -d mizoramstateslottery.com
 -d mizuhonet.com
+-d mizuhosi.com
 -d mizutama.com
 -d mj-food.net
 -d mj-smallbusinesstraining.com
@@ -69756,7 +69758,6 @@ msFilterList
 -d nasianje.com
 -d nasibaxon.uz
 -d nasikotak.id
--d nasilki.com
 -d nasilsing.com
 -d nasim.hostlin.com
 -d nasimfars.ir
@@ -70593,6 +70594,7 @@ msFilterList
 -d new.mylicense.ca
 -d new.myoc.com.au
 -d new.neudekorieren.com
+-d new.newton.co.id
 -d new.odingrad.com
 -d new.outfitsbrand.com
 -d new.pagin.sk
@@ -70715,6 +70717,7 @@ msFilterList
 -d newkrungthai.com
 -d newlandred.com
 -d newlaw.vn
+-d newlifecenters.org
 -d newlifeholding.com
 -d newlifemedia.net
 -d newlifenaturecure.com
@@ -70730,6 +70733,7 @@ msFilterList
 -d newmekonginvestment.com
 -d newmexico.gop
 -d newmg532.wordswideweb.com
+-d newmillerhvac.com
 -d newmix.top
 -d newmoontec.com
 -d newnailmodels.com
@@ -70787,6 +70791,7 @@ msFilterList
 -d news.popmarket.org
 -d news.pycg.com.tw
 -d news.scott.services
+-d news.softwarevilla.com
 -d news.theinquilab.com
 -d news.ungheni.org
 -d news.ursinus.edu
@@ -70877,6 +70882,7 @@ msFilterList
 -d newtemplate.testingao.com
 -d newtestamentbaptistchurch.net
 -d newtogo.airobotheworld.com
+-d newton.co.id
 -d newtoncampbellyoga.com
 -d newtonsoftwares.com
 -d newtop.one
@@ -70916,6 +70922,7 @@ msFilterList
 -d nexanow.xyz
 -d nexbud.com.pl
 -d nexclick.ir
+-d nexcontech.com
 -d nexgentrade.com
 -d nexhipack.com
 -d nexi-verifica-info.spadmelk.com
@@ -71227,6 +71234,7 @@ msFilterList
 -d nickfreitasforcongress.com
 -d nickibaker.com
 -d nickjehlen.com
+-d nickkind.com
 -d nicklaslj.se
 -d nicknellie.com
 -d nicknewsteadconstructions.com.au
@@ -71315,10 +71323,12 @@ msFilterList
 -d nightowlmusic.net
 -d nightskynet.com
 -d nightvision.tech
+-d nigtc.com
 -d nihad0.ml
 -d nihalweligama.com
 -d nihaobuddy.com
 -d nihaoconsult.com
+-d niharindustries.com
 -d nihilgratis.com
 -d nihilistpost.com
 -d niholzamin.dst.uz
@@ -71330,6 +71340,7 @@ msFilterList
 -d niiqata-power.com
 -d niirit.com
 -d niislelaudit.mn
+-d niiticonsulting.com
 -d nijerdesign.com
 -d nijfilmandtv.com
 -d nijhuishaardhout.nl
@@ -71415,6 +71426,7 @@ msFilterList
 -d nineteenpints.com
 -d nineti9.com
 -d ninetygrime.kolegajualan.com
+-d ninetynine.nl
 -d nineuniversityreviews.org
 -d ningyangseo.com
 -d ningzhidata.com
@@ -71437,6 +71449,7 @@ msFilterList
 -d niosac.in
 -d niosen.com
 -d niozu.shop
+-d niparcels.com
 -d niphoenix.com.cn
 -d nipo.ml
 -d nipploncombineblades.com
@@ -71445,6 +71458,7 @@ msFilterList
 -d nique-ta-daronne-la-grosse-rousse.fun
 -d niqyd4.com
 -d nirhas.org
+-d nirjhara.com
 -d nirkz.com
 -d nirmalempire.com
 -d nirmalhoslakar.com
@@ -71452,6 +71466,7 @@ msFilterList
 -d nirmalvermicompost.com
 -d nirogayurvedic.in
 -d nirr.xyz
+-d nirvana-memorial.co.th
 -d nirvanaeyehospital.com
 -d nirvanapk.com
 -d nirwanacareer.com
@@ -71510,6 +71525,8 @@ msFilterList
 -d nites.ksn1.go.th
 -d niteshagrico.com
 -d niteshenterprise.com
+-d nitevibe.com
+-d nitidis.com
 -d nitincarcare.com
 -d nitindhanji.com
 -d nitinmehra.com
@@ -73913,6 +73930,7 @@ msFilterList
 -d onoranzefunebrilabergamasca.com
 -d onourstyle.com
 -d onpc.kr
+-d onplayandroidguncelleme.co.vu
 -d onpointmotors.com
 -d onsineautocar.com
 -d onsitemiami.com
@@ -85241,6 +85259,7 @@ msFilterList
 -d rushmediacommunications.com
 -d rushnewmedia.de
 -d rusjur.ru
+-d ruskinc.com
 -d rusko62.ru
 -d ruslanberlin.com
 -d rusonoc.com
@@ -85437,7 +85456,6 @@ msFilterList
 -d s.thechinesemuslim.com
 -d s.trade27.ru
 -d s.vollar.ga
--d s02.solidfilesusercontent.com
 -d s0aprcreditzcards.com
 -d s0farem.com
 -d s0lom0n.ru
@@ -87434,6 +87452,7 @@ msFilterList
 -d seabobcuracao.com
 -d seabreezeperranporth.co.uk
 -d seadi2.hospedagemdesites.ws
+-d seaetc.com
 -d seafoid.org
 -d seafooddirectflorida.com
 -d seafortealing.com
@@ -89661,7 +89680,6 @@ msFilterList
 -d shubcart.in
 -d shubdigit.in
 -d shubhamenterprise.ind.in
--d shubharambhasandesh.com
 -d shubharatna.com
 -d shubhinfoways.com
 -d shuimulinsen.vip
@@ -92834,6 +92852,7 @@ msFilterList
 -d spudindia.com
 -d spunflex.com.br
 -d spurblog.com
+-d spuredge.com
 -d spurpromo.com
 -d spurs.dd0515.com
 -d spurstogo.com
@@ -104002,6 +104021,7 @@ msFilterList
 -d useradmincloud.gq
 -d useragent20.barloggio.net
 -d users.atw.hu
+-d users.tpg.com.au
 -d userslinks.xyz
 -d usetrinapojisteni.cz
 -d useurogren.com
@@ -105496,7 +105516,6 @@ msFilterList
 -d vikasdalvi.com
 -d vikaskanungo.in
 -d vikentours.no
--d vikinggg.com
 -d vikingsinstitute.org
 -d vikingvapes.com
 -d vikisa.com
@@ -105520,7 +105539,6 @@ msFilterList
 -d vilion-works.com
 -d villa-du-golf-agadir.com
 -d villa-in-provence.com
--d villa-keller.de
 -d villa-lotta.de
 -d villaalmadelmar.com
 -d villacaracciolo.com
@@ -105528,10 +105546,8 @@ msFilterList
 -d villacastelletto.com
 -d villacastello.ch
 -d villacitronella.com
--d villaconstitucion.gob.ar
 -d villadeaux.com
 -d village-file.com
--d village-works.co.jp
 -d villagenp.org
 -d villageofstlouis.com
 -d villagestudio.net
@@ -105601,7 +105617,6 @@ msFilterList
 -d vinarorganics.com
 -d vinarycard.com
 -d vinaschool.com.vn
--d vinastone.com
 -d vinastory.vn
 -d vinatas.my
 -d vinatuoi.com
@@ -105617,7 +105632,6 @@ msFilterList
 -d vincentniclofrlive.nncdev.com
 -d vincenzos.ug
 -d vincewoud.nl
--d vincitunion.com
 -d vincity-oceanpark-gialam.com
 -d vincity-vn.com
 -d vincitytaymo1.com
@@ -105678,7 +105692,6 @@ msFilterList
 -d vintageartgalleria.com
 -d vintagebmx.net
 -d vintagefishingtackle.co.za
--d vintagelm.com
 -d vintagesunglass.com
 -d vintagetv.site
 -d vintechsoftware.com
@@ -105859,14 +105872,10 @@ msFilterList
 -d vishwainfo.com
 -d vishwakarmaacademy.com
 -d vishwalands.lk
--d vishwaweighingsystem.com
 -d visia.ge
 -d visia.si
 -d visibilityhub.com
--d visio-vox.com
--d vision-4.com
 -d vision-ex.de
--d vision-play.com
 -d vision4cph.com
 -d vision4it.nl
 -d visiona.com.mx
@@ -105895,7 +105904,6 @@ msFilterList
 -d visiontecnologica.cl
 -d visiontecph.com
 -d visiontomotion.com
--d visiskirtingivisilygus.lt
 -d visit-west.kz
 -d visit.karsava.lv
 -d visit4tech.com
@@ -105929,7 +105937,6 @@ msFilterList
 -d visko-nsk.ru
 -d vismut95.zp.ua
 -d visoftechmea.com
--d visoport.com
 -d visscorehab.wheelchairindia.com
 -d vissence.com
 -d vissermalin.com
@@ -106038,7 +106045,6 @@ msFilterList
 -d vitumbikomumba.com
 -d viu.pzenvi.com
 -d viva-bem.info
--d vivaagua.com.br
 -d vivaband.com.br
 -d vivabemcartao.com.br
 -d vivacomandante.cf
@@ -106102,7 +106108,6 @@ msFilterList
 -d vivowoman.com
 -d vivredeprinceintlschools.com
 -d vivuonline.com
--d viwma.org
 -d vixsupri.com.br
 -d vizapp.webgarh.net
 -d vizar.hr
@@ -106200,7 +106205,6 @@ msFilterList
 -d vms.prep.co.in
 -d vmsecuritysolutions.com
 -d vmsmarketing.ie
--d vmt-duessel.de
 -d vmtechservices.com
 -d vmtzastita.rs
 -d vmusicsound.com
@@ -106307,7 +106311,6 @@ msFilterList
 -d voinf.staysafe.pk
 -d voingani.it
 -d voip96.ru
--d voipminic.com
 -d voixdescedres.com
 -d vokasi.ub.ac.id
 -d vokzalrf.ru
@@ -106359,7 +106362,6 @@ msFilterList
 -d vonandion.com
 -d vondelphia.com
 -d vonems.com
--d vonews.net
 -d vong.info
 -d vongu.store
 -d vonlany.de
@@ -106417,7 +106419,6 @@ msFilterList
 -d voxai.club
 -d voxai.xyz
 -d voxbal.com
--d voxcom.es
 -d voxdream.com
 -d voxefxphotography.com
 -d voxelblog.com
@@ -106448,7 +106449,6 @@ msFilterList
 -d vplaw.vn
 -d vplus.com.sg
 -d vpm-oilfield.ae
--d vpm.com.ar
 -d vpme.vn
 -d vpn-dragon.com
 -d vpn-guiden.com
@@ -106517,7 +106517,6 @@ msFilterList
 -d vrtxx64uo.com
 -d vrum.lt
 -d vs-auto.in.ua
--d vs-pilsting.de
 -d vsao-kampagne.dev.mxm.ch
 -d vsb.reveance.nl
 -d vsbreveance.nl
@@ -106537,7 +106536,6 @@ msFilterList
 -d vsity.org
 -d vskycreations.com
 -d vsmart.site
--d vsmsoftware.com
 -d vsnl-net.tk
 -d vsnou432.top
 -d vsochi-park-hotel.ru
@@ -106702,7 +106700,6 @@ msFilterList
 -d vzw-reinaert.be
 -d w-dana.com
 -d w-gypsum.net
--d w-maassltd.co.uk
 -d w-p-test.ru
 -d w-post.top
 -d w-rengers.de
@@ -106844,11 +106841,9 @@ msFilterList
 -d walden-gmbh.com
 -d waleedintagency.com
 -d walemastande.com
--d walescounseling.com
 -d walfull.com
 -d waliasteel-et.com
 -d walidsweid.com
--d walidtourism.com
 -d waliguseby.com
 -d waliwalo.com
 -d walkbrain.com
@@ -107257,6 +107252,7 @@ msFilterList
 -d weaver.5gbfree.com
 -d weaversbrand.com
 -d weavinghearts.org
+-d web-analysis.live
 -d web-assets.download
 -d web-cude.com
 -d web-de-login.de
@@ -109707,6 +109703,7 @@ msFilterList
 -d x.alluniversal.info
 -d x.autistichorse.club
 -d x.beginsonline.com
+-d x.jmxded153.net
 -d x.jmxded184.net
 -d x.norvartic.com
 -d x.ord-id.com
