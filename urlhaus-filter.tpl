@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 11 Dec 2021 00:11:10 +0000
+# Updated: Sat, 11 Dec 2021 12:10:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -487,6 +487,7 @@ msFilterList
 -d africanflowerexchange.com
 -d africaryde.com
 -d africloset.com
+-d afrimedspecialist.com
 -d afrineosolutions.com
 -d afrinews.site
 -d afsbra.sn.files.1drv.com
@@ -564,6 +565,7 @@ msFilterList
 -d al-hiramodelschool.com
 -d al-wahd.com
 -d alabirambulance.com
+-d aladainexpress.com
 -d alahram-pipes.com
 -d alamaladv.com
 -d alaperhotelan.id
@@ -637,7 +639,6 @@ msFilterList
 -d alltestagain.lukehadaj.com.au
 -d alltrz.com
 -d allusbusinessdata.com
--d alluvianna19.club
 -d almajidcenter.org
 -d almaprodex.kz
 -d almasoulia.com
@@ -938,6 +939,7 @@ msFilterList
 -d aseerhc-2nd.hadath.app
 -d asesoriainternacional.com.mx
 -d asesoriasalakazam.com
+-d asgard-production.s3.amazonaws.com
 -d ashcomworld.com
 -d ashleyskenya.com
 -d ashtiinstitute.com
@@ -1133,7 +1135,6 @@ msFilterList
 -d bargaco.com
 -d barkettlaw.net
 -d barking-fc.co.uk
--d barkodsolutions.com
 -d barlev-manor.shtiner-media.co.il
 -d barnetcut.co.uk
 -d barnetmarinecentre.com
@@ -1536,7 +1537,6 @@ msFilterList
 -d bursacelikkapi.gen.tr
 -d bursakulis.com
 -d buruujtech.com
--d buscascolegios.diit.cl
 -d businessdigitally.co.in
 -d busokay.com
 -d bussiness-z.ml
@@ -1847,7 +1847,6 @@ msFilterList
 -d ciroflores.com
 -d cirptopsgrup.com
 -d citationsherbe.at
--d citihits.lk
 -d citiqproperties.co.za
 -d citizenshipdialogueforum.com
 -d citorytech.com
@@ -1944,7 +1943,6 @@ msFilterList
 -d colegiobilinguepioxii.com.co
 -d colegioguadalupenasca.com
 -d colemanco.com.au
--d colinde.pricesne.com
 -d collegeisfun.it
 -d collenservices.co.za
 -d colly.appstew.be
@@ -1991,7 +1989,6 @@ msFilterList
 -d connect.rio.br
 -d connection-parks.com
 -d connollyhomes.ie
--d conquestcapital.co.ke
 -d consaltbiznes.com
 -d consorciocablevision.uy
 -d consorciorimpa.com
@@ -2084,7 +2081,6 @@ msFilterList
 -d crbmokrousovo.sov-link.ru
 -d crbmokrousovo.sov-linkru
 -d creaproducciones.cl
--d crearechile.cl
 -d creaser.mx
 -d createfutureworld.com
 -d createur-multimedia.com
@@ -2261,7 +2257,6 @@ msFilterList
 -d dastakhindustan.in
 -d data.cdevelop.org
 -d data.das-dach-ev.de
--d data.green-iraq.com
 -d data.over-blog-kiwi.com
 -d datadream.com
 -d dataeye.ro
@@ -2389,6 +2384,7 @@ msFilterList
 -d despreasigurari.000webhostapp.com
 -d desserts.the-good-stuff.club
 -d destinazionecuba.it
+-d destinymc.co.za
 -d detailing-kingdom.com
 -d detectivesinmumbai.co.in
 -d detoxdietsupplements.com
@@ -2537,7 +2533,6 @@ msFilterList
 -d dkml2g.bn.files.1drv.com
 -d dknicg.bn.files.1drv.com
 -d dl.1003b.56a.com
--d dl.198424.com
 -d dl.9xu.com
 -d dl.installcdn-aws.com
 -d dl.packetstormsecurity.net
@@ -2611,6 +2606,7 @@ msFilterList
 -d download2.info
 -d downloadables.xyz
 -d downloadpc.co
+-d downloads.bcweb.org.uk
 -d downloads.dd.com.mt
 -d downloads.pay1naija.com
 -d downtownslice.com
@@ -2957,6 +2953,7 @@ msFilterList
 -d empyrealsolar.in
 -d emuhealth.com
 -d en.artechome.com
+-d en.baoend.com
 -d en.dsdkochoracin.com.mk
 -d en.palmilhadoboots.com.br
 -d en.yra-ufm.com
@@ -3179,7 +3176,6 @@ msFilterList
 -d famaservic.pe
 -d famelite.gmi-projects.com
 -d family.nt-care.org.tw
--d familydentist.site
 -d fanclubvalentinorossi.net
 -d fanes.com.mx
 -d fantecheo.tk
@@ -3385,6 +3381,7 @@ msFilterList
 -d formaseguros.com.br
 -d formationspnlhypnose.com
 -d forms.saurashtrauniversity.edu
+-d formula-smaku.com
 -d fortcomfurniture.com
 -d forterbokl.com
 -d fortnightgalaxyswapper.ru
@@ -3397,6 +3394,7 @@ msFilterList
 -d forwardmart.club
 -d fossilofficial.klikpromo.xyz
 -d foto.kathybossa.com
+-d fotoobjetivo.com
 -d fotowall.id
 -d foundationrepairhoustontx.net
 -d fountoflife.net
@@ -4078,7 +4076,6 @@ msFilterList
 -d hstmynmes.s3.sa-east-1.amazonaws.com
 -d htcharitytrust.org
 -d html.gugame.net
--d htownbars.com
 -d hty8uq.ch.files.1drv.com
 -d huancaraylla.com
 -d huawei-vmall.com
@@ -4312,7 +4309,6 @@ msFilterList
 -d inspecarsaomateus.com.br
 -d inspirepeopleimpactlives.com
 -d instaa-bot.ir
--d instalcube.ru
 -d instalive.fun
 -d install-cb.ru
 -d installcb.online
@@ -4509,7 +4505,6 @@ msFilterList
 -d jdbdispatch.com
 -d jdgfhq.dm.files.1drv.com
 -d jdi.co.za
--d jdkems.com
 -d jdpl2a.dm.files.1drv.com
 -d jdpshw.dm.files.1drv.com
 -d jdqbwq.dm.files.1drv.com
@@ -5079,7 +5074,6 @@ msFilterList
 -d lespagt.com
 -d lessonbistrokidz.com
 -d lestesteux.ca
--d leventcastajanslari.bykmedya.com
 -d lexmarkcarpet.com
 -d lextuslegal.com
 -d lffwff.freelancershijan.com
@@ -5212,6 +5206,7 @@ msFilterList
 -d lpj917.com
 -d lpsuite.digiflute.com
 -d lqdbiw.dm.files.1drv.com
+-d ls-droid.com
 -d lsmoc.org
 -d lt.doctordoors.com.sg
 -d ltc.geriu.org
@@ -5238,6 +5233,7 @@ msFilterList
 -d luongo.cl
 -d luvander.com
 -d luwungkencana.desa.cirebonkab.go.id
+-d luxporn.cc
 -d luxurycompacthomes.com.au
 -d luxurydimond.ir
 -d lv888.club
@@ -5282,6 +5278,7 @@ msFilterList
 -d madebykelzz.com
 -d madeireiranovaalianca.com.br
 -d madeireiranp.com.br
+-d madicon.co.za
 -d madrascreatives.com
 -d madroscmetafory.pl
 -d madrstk.com
@@ -5359,7 +5356,6 @@ msFilterList
 -d management.safec.sn
 -d management.wonderworldinstitute.com
 -d managerexpress.ro
--d manageryoudrivers.ru
 -d manak.edunetfoundation.org
 -d manasahphone.com
 -d mandalapost.com
@@ -5419,7 +5415,6 @@ msFilterList
 -d marksidfgs.ug
 -d marksvelvetg.com
 -d marlena-maluje.pl
--d marlingarly18.club
 -d marmariscastajanslari.bykmedya.com
 -d marmoleriadangelo.com
 -d marorocks.com
@@ -6349,6 +6344,7 @@ msFilterList
 -d olshop.wuavf.id
 -d olympics.sportsanews.com
 -d omaxcrm.com
+-d ombrapiatta.com
 -d omegstudio.com
 -d ometodobrabo.com
 -d omgenglish.com
@@ -6863,6 +6859,7 @@ msFilterList
 -d presco.ml
 -d prestasicash.com.ar
 -d prestigehomeautomation.net
+-d pretorian.ac.ug
 -d prettyrealpodcast.com
 -d prevenzioneformazionelavoro.it
 -d preview.happyhomesnri.com
@@ -6888,7 +6885,6 @@ msFilterList
 -d privacy-toolz-for-you-502.top
 -d privacy-toolz-for-you-503.top
 -d privacytools-for-you-777.com
--d privacytoolz123foryou.top
 -d privacytoolzfor-you5000.top
 -d privacytoolzfor-you6000.top
 -d privacytoolzfor-you7000.com
@@ -6963,7 +6959,6 @@ msFilterList
 -d prorish.com
 -d prosoc.nl
 -d prosperamais.net
--d prosupport.cl
 -d protechasia.com
 -d protectride.com
 -d protekta.pk
@@ -7319,7 +7314,6 @@ msFilterList
 -d respisave.org
 -d responsible.donationfriends.org
 -d rest-api.desawisatacisaat.com
--d restaurantechezdaniel.com
 -d restoran.comit.rs
 -d restrolife.com
 -d resultbihar.com
@@ -7413,6 +7407,7 @@ msFilterList
 -d rodrigonaranjo.ottimosoft1.com
 -d rodrigosalazar.cl
 -d rodynnekolo.in.ua
+-d romanianpoints.com
 -d romantic-cohen.104-131-167-46.plesk.page
 -d rondoniamadeireira.com.br
 -d rondontour.com
@@ -7532,7 +7527,6 @@ msFilterList
 -d saidaikaraneswarartemple.com
 -d sailingvolos.gr
 -d saimission.org
--d sainzim.co.za
 -d sajadvisory.com
 -d sakalakhabar.com
 -d sakhtkalaa.ir
@@ -9074,6 +9068,7 @@ msFilterList
 -d uniabroad.co.in
 -d unic11m.top
 -d unicornclinic.ca
+-d unicorpbrunei.com
 -d unicupload.top
 -d unifashion.app.krazyit.com.au
 -d uniformcelik.com
@@ -9381,7 +9376,6 @@ msFilterList
 -d vpt0yq.bn.files.1drv.com
 -d vptfjw.bn.files.1drv.com
 -d vptmow.bn.files.1drv.com
--d vpts.co.za
 -d vpujaw.bn.files.1drv.com
 -d vpv2da.bn.files.1drv.com
 -d vpvgmw.bn.files.1drv.com
@@ -9515,6 +9509,7 @@ msFilterList
 -d wespike.com
 -d westchestercountygolf.com
 -d westkarpaten.ro
+-d wfinance.com.br
 -d wfm.crew803.com
 -d wfme2q.dm.files.1drv.com
 -d wfmszw.dm.files.1drv.com
@@ -9685,6 +9680,8 @@ msFilterList
 -d xj5bda.sn.files.1drv.com
 -d xj6kfg.sn.files.1drv.com
 -d xj726a.sn.files.1drv.com
+-d xk.996is.com
+-d xk1.996is.com
 -d xkdopbbdwi.com
 -d xkrkba.db.files.1drv.com
 -d xleetaz.xyz
@@ -9730,7 +9727,6 @@ msFilterList
 -d xuehuacomex.com
 -d xxx247.nl
 -d xxxs.info
--d xz.8dashi.com
 -d xzb3nq.bl.files.1drv.com
 -d xzbbta.bl.files.1drv.com
 -d xzbwvg.bl.files.1drv.com
