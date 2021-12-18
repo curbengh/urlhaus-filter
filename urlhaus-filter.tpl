@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 17 Dec 2021 12:11:15 +0000
+# Updated: Sat, 18 Dec 2021 00:11:17 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -725,7 +725,6 @@ msFilterList
 -d animalcare.ga
 -d animapet.it
 -d animationstyles.com
--d animebotnet.xyz
 -d animehd23.epizy.com
 -d aninda.me
 -d anka-tek.com.tr
@@ -1114,6 +1113,7 @@ msFilterList
 -d bangjinbd.com
 -d bangkok-orchids.com
 -d bangkokhospital.id
+-d bank.zanderscloud.com.ng
 -d banosareehouse.com
 -d banquet.inspiresoftware.co.in
 -d bantina.com
@@ -1928,7 +1928,6 @@ msFilterList
 -d colegiobilinguepioxii.com.co
 -d colegioguadalupenasca.com
 -d colemanco.com.au
--d colinde.pricesne.com
 -d collegeisfun.it
 -d collenservices.co.za
 -d colly.appstew.be
@@ -2038,7 +2037,6 @@ msFilterList
 -d courtneyjones.ac.ug
 -d covertekceramica.com
 -d covianherrera.com
--d covid19-ca.link
 -d covid19.cyberschool.or.id
 -d covid19.gkwit.com
 -d covidkounter.com
@@ -2066,7 +2064,6 @@ msFilterList
 -d crbmokrousovo.sov-link.ru
 -d crbmokrousovo.sov-linkru
 -d creaproducciones.cl
--d crearechile.cl
 -d creaser.mx
 -d createfutureworld.com
 -d createur-multimedia.com
@@ -2375,7 +2372,6 @@ msFilterList
 -d despreasigurari.000webhostapp.com
 -d desserts.the-good-stuff.club
 -d destinazionecuba.it
--d destinymc.co.za
 -d detailing-kingdom.com
 -d detectivesinmumbai.co.in
 -d detoxdietsupplements.com
@@ -4108,7 +4104,6 @@ msFilterList
 -d hvparaisosdospets.com.br
 -d hwg.jelikob.ru
 -d hy.gouhys.cn
--d hydro-ca.link
 -d hydro-power-plant.com
 -d hydro247.gr
 -d hydromet.gov.bz
@@ -4124,6 +4119,7 @@ msFilterList
 -d i4ts3g.am.files.1drv.com
 -d i6cc0g.db.files.1drv.com
 -d i6dsuw.db.files.1drv.com
+-d ia801502.us.archive.org
 -d iaalux.com.mx
 -d iabaden.org
 -d iamjitenpatel.com
@@ -4202,6 +4198,7 @@ msFilterList
 -d im2020.vip
 -d images.jermiau.com
 -d imageupvc.com
+-d imbueautoworx.co.za
 -d imediprof.edu.ge
 -d imersaorea.com.br
 -d img.ssaegsfaaebo.com
@@ -4550,7 +4547,6 @@ msFilterList
 -d jhv5mg.dm.files.1drv.com
 -d ji1.in
 -d jianji.witouch.my
--d jiaoyuzixun.cn
 -d jiffyhair.com
 -d jimbaran-village.myitas.net
 -d jimprime.toutpourlui.org
@@ -4889,7 +4885,6 @@ msFilterList
 -d kreatiflabs.com
 -d kreativindia.biz
 -d krisbadminton.com
--d krishnapowers.com
 -d krisvel.com
 -d krivia.in
 -d krizstore.com
@@ -5300,6 +5295,7 @@ msFilterList
 -d magalitrench.com
 -d maggysconcept.com
 -d magic-game.fr
+-d magic-tiles-stain-remover.com
 -d magicfingers.hopto.org
 -d maglare.com
 -d magnaplusec.com
@@ -5354,6 +5350,7 @@ msFilterList
 -d malkangiri.inodisha.in
 -d mallsupplement.com
 -d mallzman.com
+-d maltepecastajanslari.bykmedya.com
 -d maltese-company.com
 -d mamabearcoffee.com
 -d mamalindos.com
@@ -5659,6 +5656,7 @@ msFilterList
 -d michaelpublishing.company
 -d mickaellemos.tempsite.ws
 -d microblading.mirliandias.com.br
+-d microcomm-group.com
 -d microhub.analogcloudtech.com
 -d microlinks.pk
 -d microserviceit.com.br
@@ -5829,6 +5827,7 @@ msFilterList
 -d mottsac.com
 -d motumoanacamp.co.nz
 -d moupw.com
+-d movetolight.xyz
 -d movieintheatre.xyz
 -d moviltik.org
 -d mozhandcorporation.co.mz
@@ -6069,7 +6068,6 @@ msFilterList
 -d nelabs.sa
 -d nelberklanguages.com
 -d nemcicenadhanou.cz
--d nemscnc.ddns.net
 -d neodigital.se
 -d neofunkyjunky.com
 -d neomaxfashions.com
@@ -6532,6 +6530,7 @@ msFilterList
 -d p9dvnw.am.files.1drv.com
 -d p9fpqw.am.files.1drv.com
 -d p9k.net
+-d pablobrothel.com.ar
 -d pacificmedicalanddiagnostics.com
 -d packtuu.com
 -d pacotenorio.com
@@ -6865,7 +6864,6 @@ msFilterList
 -d prags.in
 -d pragyeshthakkar.com
 -d prakritikoirala.com.np
--d pramukhkhabar.com
 -d pranam.analogcloudtech.com
 -d pranavanandasevashram.org
 -d pravno.rs
@@ -7289,7 +7287,6 @@ msFilterList
 -d recoff.jp
 -d recoop.org
 -d recruitingpanda.com
--d recuerdosretro.com
 -d recycle-teak.000webhostapp.com
 -d red.wego77.online
 -d redbats.co.in
@@ -7453,6 +7450,7 @@ msFilterList
 -d rosannedeboer.nl
 -d rosenberger.biz
 -d roshanzamir.ir
+-d roshnijewellery.com
 -d rositaslatinflavor.com
 -d routizer.com
 -d royalautodeal.org
@@ -8298,6 +8296,7 @@ msFilterList
 -d supportit.online
 -d surevisa.co
 -d surirapatt.com
+-d suriyecastajanslari.bykmedya.com
 -d surveg.com
 -d surveillantfire.com
 -d suryatp.com
@@ -8702,6 +8701,7 @@ msFilterList
 -d tipstogo.it
 -d tirocertomc.com.br
 -d tislighting.com
+-d tissl.lk
 -d tissnoqatar.com
 -d titan.caxton.co.za
 -d tivgqw.am.files.1drv.com
@@ -8866,7 +8866,6 @@ msFilterList
 -d ttisi.pe
 -d ttneiv.com
 -d tuanuarioescolar.com
--d tucamaron.com
 -d tuclogifuturo.com
 -d tudelftopen.nl
 -d tueurdevirus.com
@@ -8887,7 +8886,6 @@ msFilterList
 -d tutorial.cogentpathway.com
 -d tutorials.bhangero.com
 -d tuzdan.com.sa
--d tuzlacastajanslari.bykmedya.com
 -d tvc.uy
 -d tvcablesanjose.uy
 -d tvjovemhits.com
@@ -9312,7 +9310,6 @@ msFilterList
 -d vpt0yq.bn.files.1drv.com
 -d vptfjw.bn.files.1drv.com
 -d vptmow.bn.files.1drv.com
--d vpts.co.za
 -d vpujaw.bn.files.1drv.com
 -d vpv2da.bn.files.1drv.com
 -d vpvgmw.bn.files.1drv.com
