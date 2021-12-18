@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Sat, 18 Dec 2021 00:11:17 +0000
+# Updated: Sat, 18 Dec 2021 12:11:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -18,6 +18,7 @@
 0.0.0.0 5acoesdemarketing.com.br
 0.0.0.0 5buckshop.ml
 0.0.0.0 5bwo.komawai.ru
+0.0.0.0 70e097.ctlin.ml
 0.0.0.0 77st.net
 0.0.0.0 808desk.com
 0.0.0.0 8402d53c-17e9-4250-8011-20f28f5d404f.certbooster.com
@@ -56,6 +57,7 @@
 0.0.0.0 aldahwiprivatehospital.com
 0.0.0.0 aldtec.net.br
 0.0.0.0 alemelektronik.com
+0.0.0.0 alertsecurities.in
 0.0.0.0 alexdubai.com.aldiabsteel.com
 0.0.0.0 allforcreative.com.au
 0.0.0.0 allhomesrealestate.com.au
@@ -117,7 +119,6 @@
 0.0.0.0 baldcover.com
 0.0.0.0 ballatstone.com
 0.0.0.0 bangkok-orchids.com
-0.0.0.0 bank.zanderscloud.com.ng
 0.0.0.0 barkodsolutions.com
 0.0.0.0 base-reserve.azurewebsites.net
 0.0.0.0 bazaar-shahr-alborz.ir
@@ -126,7 +127,6 @@
 0.0.0.0 bec.demo.myitas.net
 0.0.0.0 bem.unja.ac.id
 0.0.0.0 benwellgroup.co.uk
-0.0.0.0 bespokeweddings.ie
 0.0.0.0 bestcreditsociety.com
 0.0.0.0 beta.profissaopiloto.com.br
 0.0.0.0 bgreen.com.vn
@@ -149,6 +149,7 @@
 0.0.0.0 boardingschoolsoftware.com
 0.0.0.0 bobcatminer-store.e-mantra.in
 0.0.0.0 bombaytrader.com
+0.0.0.0 bondpertayenergy.com
 0.0.0.0 bouhertmaoutdoors.tn
 0.0.0.0 bpbj.id
 0.0.0.0 briar.com.my
@@ -173,6 +174,7 @@
 0.0.0.0 canaldoprojetista.com.br
 0.0.0.0 capacidademail.brazilsouth.cloudapp.azure.com
 0.0.0.0 caragudigital.com.mx
+0.0.0.0 carbinz.ml
 0.0.0.0 careergg.virvazir.com
 0.0.0.0 cariustadz.org
 0.0.0.0 cattlepartners.com
@@ -216,6 +218,7 @@
 0.0.0.0 cofenator.ru
 0.0.0.0 coin-coin-data-6.com
 0.0.0.0 cokhithienan.vn
+0.0.0.0 colinde.pricesne.com
 0.0.0.0 colonna.ac.ug
 0.0.0.0 colonna.ug
 0.0.0.0 community.reimclub.com
@@ -245,6 +248,7 @@
 0.0.0.0 crownpacificpartners.com
 0.0.0.0 cryptoanalysis21.com
 0.0.0.0 cryptoforextrading56.com
+0.0.0.0 cryptohoppera.com
 0.0.0.0 cupaonahora.com
 0.0.0.0 cursodeparapsicologia.org
 0.0.0.0 cursossemana.com
@@ -276,7 +280,6 @@
 0.0.0.0 deesellsparadise.com
 0.0.0.0 dekovizyon.com
 0.0.0.0 demo.aakar360.com
-0.0.0.0 demo.energianmittaus.fi
 0.0.0.0 demo.fontecsys.net
 0.0.0.0 demo.nhabe360.com
 0.0.0.0 demo.shooes.in
@@ -284,6 +287,7 @@
 0.0.0.0 dental.xiaoxiao.media
 0.0.0.0 desbloqueia.com
 0.0.0.0 designerliving.co.za
+0.0.0.0 destinymc.co.za
 0.0.0.0 dev.crystalclearvapestore.co.uk
 0.0.0.0 dev2.alumnia.id
 0.0.0.0 developer.wiredcampus.in
@@ -340,7 +344,6 @@
 0.0.0.0 dywork.duckdns.org
 0.0.0.0 e-learning.iskandariah.perubatan.org
 0.0.0.0 e-weddingcardswala.in
-0.0.0.0 e6tfvc.federguda.ru
 0.0.0.0 easecloud.com.br
 0.0.0.0 easybrand.vn
 0.0.0.0 easyviettravel.vn
@@ -355,6 +358,7 @@
 0.0.0.0 edukabourses.com
 0.0.0.0 ef-web.com
 0.0.0.0 ehsanenterprises.com
+0.0.0.0 ekudiw09.top
 0.0.0.0 electroemart.com
 0.0.0.0 eletrogans.com.br
 0.0.0.0 elirfaan.com
@@ -390,6 +394,7 @@
 0.0.0.0 fc.co.mz
 0.0.0.0 fd.uqidong.com
 0.0.0.0 felicienne.nl
+0.0.0.0 felionaris.com
 0.0.0.0 fieldomobify.com
 0.0.0.0 file-file-host4.com
 0.0.0.0 files5.uludagbilisim.com
@@ -425,10 +430,8 @@
 0.0.0.0 gbsports.kiev.ua
 0.0.0.0 geethanjaliinstitutions.com
 0.0.0.0 generationalwealthtraders.com
-0.0.0.0 geografi.unsam.ac.id
 0.0.0.0 gfmodd1.webselffiles01.com
 0.0.0.0 giadinhviet.com
-0.0.0.0 globalprod.ru
 0.0.0.0 gmvadmission.org
 0.0.0.0 gocnhotaichinh.com
 0.0.0.0 godfathersjunk.com
@@ -484,6 +487,7 @@
 0.0.0.0 hotelluxura.com
 0.0.0.0 houseatthebeachinoc.com
 0.0.0.0 houstonshutters.site
+0.0.0.0 hoverspec.com
 0.0.0.0 howimetyourdata.com
 0.0.0.0 hr2019.vrcom7.com
 0.0.0.0 hsecaravans.co.uk
@@ -503,7 +507,6 @@
 0.0.0.0 ikejaclub.org
 0.0.0.0 iloop.sourcetaggers.com
 0.0.0.0 images.jermiau.com
-0.0.0.0 imbueautoworx.co.za
 0.0.0.0 immunotec.network
 0.0.0.0 imobiles.pk
 0.0.0.0 import-group.az
@@ -545,11 +548,13 @@
 0.0.0.0 jcon.in
 0.0.0.0 jcsproductions.ci
 0.0.0.0 jcv.ind.br
+0.0.0.0 jdkems.com
 0.0.0.0 jebs.net.au
 0.0.0.0 jeffdahlke.com
 0.0.0.0 jennwolfemtb.com
 0.0.0.0 jerminpelle.com
 0.0.0.0 jhayesconsulting.com
+0.0.0.0 jiaoyuzixun.cn
 0.0.0.0 jingyaotrading.simply.com.sg
 0.0.0.0 jnanbharati.com
 0.0.0.0 jointings.org
@@ -563,7 +568,6 @@
 0.0.0.0 kamayan.co
 0.0.0.0 kamelot.sov-link.ru
 0.0.0.0 kaptured.io
-0.0.0.0 karantinatahfizh.com
 0.0.0.0 karer.by
 0.0.0.0 katanvetov.co.il
 0.0.0.0 kavaleto.gr
@@ -576,10 +580,10 @@
 0.0.0.0 kickofflaos.com
 0.0.0.0 kimyen.net
 0.0.0.0 kingsquare.pk
-0.0.0.0 kizitox.cf
 0.0.0.0 kjcpromo.com
 0.0.0.0 klija.net
 0.0.0.0 kodekode.ac.ug
+0.0.0.0 korrectconceptservices.com
 0.0.0.0 kp72samaj.com
 0.0.0.0 krainikovvlad.eternalhost.info
 0.0.0.0 kramersmarionnettes.com
@@ -622,9 +626,9 @@
 0.0.0.0 lorimakafrica.com
 0.0.0.0 loydsspice.co.uk
 0.0.0.0 ls-droid.com
+0.0.0.0 ltc.typoten.com
 0.0.0.0 luminouspneuma.com
 0.0.0.0 luxurycompacthomes.com.au
-0.0.0.0 m-scr888.com
 0.0.0.0 m-technics.kz
 0.0.0.0 m.ashiwenhua.net
 0.0.0.0 m.vintplay.com
@@ -632,7 +636,6 @@
 0.0.0.0 macmor-media.com.au
 0.0.0.0 madicon.co.za
 0.0.0.0 magic-tiles-stain-remover.com
-0.0.0.0 mahagurutech.ac.in
 0.0.0.0 mail.edaak.in
 0.0.0.0 mailer.srkcommunication.biz
 0.0.0.0 maintenance.alumnia.id
@@ -711,7 +714,6 @@
 0.0.0.0 mtmusicaemercado.com.br
 0.0.0.0 multiairsrl.com.ar
 0.0.0.0 multilevelcarparkingindia.com
-0.0.0.0 mumgee.co.za
 0.0.0.0 mundodoingles.com.br
 0.0.0.0 musetype.com
 0.0.0.0 mutebimetalworks.com
@@ -775,8 +777,6 @@
 0.0.0.0 oleholeh.memangbeda.website
 0.0.0.0 olliveiras.com
 0.0.0.0 ombrapiatta.com
-0.0.0.0 oms.pappai.com
-0.0.0.0 omscoc.pappai.com
 0.0.0.0 online.creedglobal.in
 0.0.0.0 onyx-food.com
 0.0.0.0 opened.today
@@ -792,6 +792,7 @@
 0.0.0.0 outdoortacklebox.com
 0.0.0.0 ozadowear.com
 0.0.0.0 ozemag.com
+0.0.0.0 p-sea.com
 0.0.0.0 p2.d9media.cn
 0.0.0.0 p2db.fitrahhanniah.sch.id
 0.0.0.0 p3.zbjimg.com
@@ -834,6 +835,7 @@
 0.0.0.0 playground.oaklife.ca
 0.0.0.0 plive.today
 0.0.0.0 plug2field.com
+0.0.0.0 pocos.lumiar.co
 0.0.0.0 pole.com.vc
 0.0.0.0 posmicrosystems.com
 0.0.0.0 powertechequipment.com
@@ -852,6 +854,7 @@
 0.0.0.0 promas.com
 0.0.0.0 promoversdubai.com
 0.0.0.0 prosoc.nl
+0.0.0.0 prosupport.cl
 0.0.0.0 protechasia.com
 0.0.0.0 provantagemtn.co.za
 0.0.0.0 proyectartpanama.com
@@ -927,7 +930,6 @@
 0.0.0.0 sbuilding.com.br
 0.0.0.0 scarfaceindustries.com
 0.0.0.0 scffirm.com
-0.0.0.0 scglobal.co.th
 0.0.0.0 schoolofspanish.co.za
 0.0.0.0 schoolonlinereg.co.za
 0.0.0.0 sciencehome.sonyreviews.com
@@ -957,6 +959,7 @@
 0.0.0.0 shop1.techraticsoftware.com
 0.0.0.0 short.extrafandome.com
 0.0.0.0 shribharatvatika.com
+0.0.0.0 shunda321.com
 0.0.0.0 sidewinderconversions.com
 0.0.0.0 sige.brisainformatica.com.br
 0.0.0.0 sigma-web.ci
@@ -1037,6 +1040,7 @@
 0.0.0.0 teknoarge.com
 0.0.0.0 teleargentina.com
 0.0.0.0 temptmag.com
+0.0.0.0 terracondivisa.farsiprossimofaenza.org
 0.0.0.0 test.adventser.com
 0.0.0.0 test.fontecsys.net
 0.0.0.0 test.reachhealth.asia
@@ -1071,7 +1075,6 @@
 0.0.0.0 toplevel.com.br
 0.0.0.0 torresquinterocorp.com
 0.0.0.0 tracker-one.com.au
-0.0.0.0 tractorandinas.com
 0.0.0.0 tradeinsights.net
 0.0.0.0 tradingview-brokers.learnforcareer.com
 0.0.0.0 transferencia.co
@@ -1083,6 +1086,7 @@
 0.0.0.0 try.justprintbd.com
 0.0.0.0 tuonglinh.com.vn
 0.0.0.0 tupperware.michaelroberge.ca
+0.0.0.0 tuzlacastajanslari.bykmedya.com
 0.0.0.0 twinings.grupoformax.net
 0.0.0.0 txingame.com
 0.0.0.0 ublretailerdemo.cstdevs.com
@@ -1112,7 +1116,6 @@
 0.0.0.0 violinstop.com
 0.0.0.0 virtualedufairnepal.com
 0.0.0.0 virtuleverage.com
-0.0.0.0 virusandroid.net
 0.0.0.0 visam.info
 0.0.0.0 vivacuscoperu.com
 0.0.0.0 vivationdesign.com

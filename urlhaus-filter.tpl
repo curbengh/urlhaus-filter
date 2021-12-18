@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 18 Dec 2021 00:11:17 +0000
+# Updated: Sat, 18 Dec 2021 12:11:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -243,6 +243,7 @@ msFilterList
 -d 85casw.dm.files.1drv.com
 -d 85dejw.dm.files.1drv.com
 -d 85dl1g.dm.files.1drv.com
+-d 888score.com
 -d 8db3b91a-ea93-419b-b51b-0a69902759c5.usrfiles.com
 -d 8ja.s3.sa-east-1.amazonaws.com
 -d 8mcn7a.sn.files.1drv.com
@@ -1113,7 +1114,6 @@ msFilterList
 -d bangjinbd.com
 -d bangkok-orchids.com
 -d bangkokhospital.id
--d bank.zanderscloud.com.ng
 -d banosareehouse.com
 -d banquet.inspiresoftware.co.in
 -d bantina.com
@@ -1196,7 +1196,6 @@ msFilterList
 -d berojgarengineers.com
 -d berry.axjun.org
 -d berrybasket.in
--d bespokeweddings.ie
 -d bestbeatsgh.com
 -d bestchoicecarrental.com
 -d bestcreditsociety.com
@@ -1270,7 +1269,6 @@ msFilterList
 -d bimbelintensif.com
 -d binaryoptiontrade.org
 -d binatonezx.tk
--d bindom.info
 -d bingaloo.net
 -d bingoroll16.net
 -d bio-nutec.com
@@ -1680,13 +1678,11 @@ msFilterList
 -d ccompaz.org
 -d cdaonline.com.ar
 -d cdn-10049480.file.myqcloud.com
--d cdn-8846-sharepoint-office.com
 -d cdn-g0962.int-onedrive.com
 -d cdn.ciscordapp.com
 -d cdn.eventexposer.com
 -d cdn.riowt.top
 -d cdn.sql.gg
--d cdn03664-dl-fileshare.com
 -d cdnfilesdrop.com
 -d cdnublense.cl
 -d ce4blw.am.files.1drv.com
@@ -1704,7 +1700,6 @@ msFilterList
 -d cenasdopeter.com
 -d cenea.cl
 -d cengyuncloud.com
--d centerplastic.com.br
 -d centraldosmart.com
 -d centrale.casa
 -d centrichotel.com
@@ -1928,6 +1923,7 @@ msFilterList
 -d colegiobilinguepioxii.com.co
 -d colegioguadalupenasca.com
 -d colemanco.com.au
+-d colinde.pricesne.com
 -d collegeisfun.it
 -d collenservices.co.za
 -d colly.appstew.be
@@ -2129,6 +2125,7 @@ msFilterList
 -d cryptodbllc.com
 -d cryptoearn-up.novatechexpo.in
 -d cryptoforextrading56.com
+-d cryptohoppera.com
 -d cryptosgain.com
 -d cryptowin365.com
 -d csa.ecogaia.gr
@@ -2329,7 +2326,6 @@ msFilterList
 -d demo.bluelights.in
 -d demo.careacademyuk.com
 -d demo.contegris.com
--d demo.energianmittaus.fi
 -d demo.eufoods.vn
 -d demo.fontecsys.net
 -d demo.intertoons.net
@@ -2372,6 +2368,7 @@ msFilterList
 -d despreasigurari.000webhostapp.com
 -d desserts.the-good-stuff.club
 -d destinazionecuba.it
+-d destinymc.co.za
 -d detailing-kingdom.com
 -d detectivesinmumbai.co.in
 -d detoxdietsupplements.com
@@ -2515,6 +2512,7 @@ msFilterList
 -d djobsprinting.com
 -d djtransport.ch
 -d dkkcorp.com
+-d dkkdlfrl.beget.tech
 -d dl.1003b.56a.com
 -d dl.198424.com
 -d dl.9xu.com
@@ -2693,7 +2691,6 @@ msFilterList
 -d dywork.duckdns.org
 -d dz.qd388.cn
 -d dzairvoyages.com
--d dzikic-my-sharepoint.com
 -d dzikics-my-sharepoint.com
 -d dzoe9a.by.files.1drv.com
 -d dzolow.by.files.1drv.com
@@ -2877,6 +2874,7 @@ msFilterList
 -d ekkomeister.credema.ch
 -d ekmine.com
 -d ekuboh14.top
+-d ekudiw09.top
 -d ekuhsn03.top
 -d elahei.af
 -d elbuzdwine.ru
@@ -3148,7 +3146,6 @@ msFilterList
 -d f0604857.xsph.ru
 -d f0rmula.ru
 -d f1netce.net.br
--d f2c9vg.dm.files.1drv.com
 -d f2i.ccima.cm
 -d f36store.com
 -d f3pykg.db.files.1drv.com
@@ -4052,6 +4049,7 @@ msFilterList
 -d housereviews.xyz
 -d houstonmarinediesel.com
 -d houstonshutters.site
+-d hoverspec.com
 -d hovitrans.in
 -d how-what.com
 -d howimetyourdata.com
@@ -4198,7 +4196,6 @@ msFilterList
 -d im2020.vip
 -d images.jermiau.com
 -d imageupvc.com
--d imbueautoworx.co.za
 -d imediprof.edu.ge
 -d imersaorea.com.br
 -d img.ssaegsfaaebo.com
@@ -4508,6 +4505,7 @@ msFilterList
 -d jdbdispatch.com
 -d jdgfhq.dm.files.1drv.com
 -d jdi.co.za
+-d jdkems.com
 -d jdpl2a.dm.files.1drv.com
 -d jdpshw.dm.files.1drv.com
 -d jdqbwq.dm.files.1drv.com
@@ -4547,6 +4545,7 @@ msFilterList
 -d jhv5mg.dm.files.1drv.com
 -d ji1.in
 -d jianji.witouch.my
+-d jiaoyuzixun.cn
 -d jiffyhair.com
 -d jimbaran-village.myitas.net
 -d jimprime.toutpourlui.org
@@ -4765,7 +4764,6 @@ msFilterList
 -d kessy.pl
 -d ketanpatel.betatesting87.com
 -d ketsawi.000webhostapp.com
--d kevonahira2.top
 -d kexumq.bn.files.1drv.com
 -d keyless.pl
 -d keylessguard.com
@@ -4867,6 +4865,7 @@ msFilterList
 -d korekt2002.com
 -d korm-aksi.ru
 -d koronayason.com
+-d korrectconceptservices.com
 -d koselertarim.com
 -d kotob.top
 -d koutisurprise.com
@@ -5217,6 +5216,7 @@ msFilterList
 -d lsmoc.org
 -d lt.doctordoors.com.sg
 -d ltc.geriu.org
+-d ltc.typoten.com
 -d ltnoticias.com.ar
 -d ltvdpq.bn.files.1drv.com
 -d ltvenglish.com
@@ -5249,6 +5249,7 @@ msFilterList
 -d m-radarnews.com
 -d m-scr888.com
 -d m-technics.kz
+-d m.888score.com
 -d m.apdet.ga
 -d m.ashiwenhua.net
 -d m.globus-tours.net
@@ -5318,6 +5319,7 @@ msFilterList
 -d mail.themonarchrealty.com
 -d mail.trinitidinamik.com
 -d mailblaster02.bosskufamous.com
+-d maildn.daumcdn.net
 -d mailer.srkcommunication.biz
 -d mailer34.zzux.com
 -d main.ecbse.in
@@ -5890,7 +5892,6 @@ msFilterList
 -d multisofterp.com.br
 -d multisyserp.com.br
 -d mulyahati.com
--d mumgee.co.za
 -d mundialdeequipos.com.co
 -d mundodoingles.com.br
 -d mundodomedico.com.br
@@ -6371,8 +6372,6 @@ msFilterList
 -d omnielite.com.my
 -d omno.ai
 -d omromotel.com
--d oms.pappai.com
--d omscoc.pappai.com
 -d oncrete-egy.com
 -d ondulato.com.br
 -d oneaudio.world
@@ -6794,6 +6793,7 @@ msFilterList
 -d po14hq.bl.files.1drv.com
 -d po1qza.bl.files.1drv.com
 -d po2ubg.bl.files.1drv.com
+-d pocos.lumiar.co
 -d pod.rey.agency
 -d podcast.audioboutique.com.br
 -d poker-word.buzz
@@ -6986,6 +6986,7 @@ msFilterList
 -d prorish.com
 -d prosoc.nl
 -d prosperamais.net
+-d prosupport.cl
 -d protechasia.com
 -d protectride.com
 -d protekta.pk
@@ -7652,7 +7653,6 @@ msFilterList
 -d scdev.mootparty.com
 -d scentscharming.com
 -d scffirm.com
--d scglobal.co.th
 -d schoolofspanish.co.za
 -d schoolonlinereg.co.za
 -d schuldnerakuthilfe.com
@@ -8886,6 +8886,7 @@ msFilterList
 -d tutorial.cogentpathway.com
 -d tutorials.bhangero.com
 -d tuzdan.com.sa
+-d tuzlacastajanslari.bykmedya.com
 -d tvc.uy
 -d tvcablesanjose.uy
 -d tvjovemhits.com
@@ -9291,7 +9292,6 @@ msFilterList
 -d vorort-garage.ch
 -d vote.creativedune.com
 -d votre-avis-en-ligne.com
--d vourey-sports.fr
 -d vovacengineers.com
 -d voxelinfosystem.com.np
 -d voxpurplev6.multflix.gq
@@ -9802,6 +9802,7 @@ msFilterList
 -d zalupaonline.com
 -d zanzone.ca
 -d zaparetech.com
+-d zarin-iran.ir
 -d zbc.vn
 -d zcvcqg.bn.files.1drv.com
 -d zd5jew.bn.files.1drv.com
