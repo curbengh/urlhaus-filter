@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Sun, 19 Dec 2021 00:11:05 +0000
+# Updated: Sun, 19 Dec 2021 12:11:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -12,7 +12,6 @@ msFilterList
 -d 1008691.com
 -d 1566xueshe.com
 -d 1stcreditsg.qnotice.com
--d 2.indexsinas.me
 -d 21robo.com
 -d 225km.com
 -d 33consultoria.com.br
@@ -35,7 +34,6 @@ msFilterList
 -d aarsaindustries.com
 -d aayushivfraipur.com
 -d abigaillagus.com
--d abissnet.net
 -d abmaxdigital.com
 -d aboveandbelow.com.au
 -d academiaoslo.com.uy
@@ -49,7 +47,6 @@ msFilterList
 -d afhaenterprises.com
 -d afnan-amc.com
 -d afrimedspecialist.com
--d agemn.co.za
 -d ah.btp-inc.ca
 -d ajaxpfp.cf
 -d akdvidyalaya.com
@@ -119,10 +116,8 @@ msFilterList
 -d baldcover.com
 -d ballatstone.com
 -d bangkok-orchids.com
--d bank.zanderscloud.com.ng
 -d barkodsolutions.com
 -d base-reserve.azurewebsites.net
--d bazaar-shahr-alborz.ir
 -d bbia.co.uk
 -d bearcatpumps.com.cn
 -d bec.demo.myitas.net
@@ -166,6 +161,7 @@ msFilterList
 -d bullseyemedia.in
 -d bunge.skybitvest.com
 -d buscascolegios.diit.cl
+-d buysrilankan.lk
 -d c.kamisime.ru
 -d c.oooooooooo.ga
 -d caballo.com.au
@@ -182,6 +178,7 @@ msFilterList
 -d cbn.hypervoizd.com
 -d cdaonline.com.ar
 -d cdn-10049480.file.myqcloud.com
+-d cdn.riowt.top
 -d cees-ease.com
 -d cellas.sk
 -d centrichotel.com
@@ -210,7 +207,6 @@ msFilterList
 -d citiqproperties.co.za
 -d client.meetsusolutions.com
 -d cloud.fc.co.mz
--d cloudjah.com
 -d cloudsoft.or.ke
 -d cm-arquitetos.com
 -d cms.gdtnbvu.club
@@ -233,6 +229,7 @@ msFilterList
 -d covidkounter.com
 -d cp-saofacundo.pt
 -d cpanel.shivay.net
+-d crearechile.cl
 -d creationskateboards.com
 -d crecerco.com
 -d creditoimpostaformazione.it
@@ -278,6 +275,7 @@ msFilterList
 -d deb43e46-145f-4ebd-abfb-69a78b67bacf.usrfiles.com
 -d deesellsparadise.com
 -d dekovizyon.com
+-d delihuerto.com
 -d demo.aakar360.com
 -d demo.fontecsys.net
 -d demo.nhabe360.com
@@ -297,6 +295,7 @@ msFilterList
 -d digi-card.surryapropertymanagement.com
 -d diplomadomedicosgenerales.com
 -d divinevirginhair.store
+-d djking.f3322.net
 -d djtransport.ch
 -d dl.1003b.56a.com
 -d dl.198424.com
@@ -353,10 +352,9 @@ msFilterList
 -d educationconsortium.org
 -d edukabourses.com
 -d ef-web.com
--d ehsanenterprises.com
 -d ekuaep08.top
 -d ekudiw09.top
--d ekuwac17.top
+-d ekuqap10.top
 -d electroemart.com
 -d eletrogans.com.br
 -d elirfaan.com
@@ -393,7 +391,6 @@ msFilterList
 -d fc.co.mz
 -d fd.uqidong.com
 -d felicienne.nl
--d felionaris.com
 -d fieldomobify.com
 -d file-file-host4.com
 -d files5.uludagbilisim.com
@@ -428,7 +425,6 @@ msFilterList
 -d garibaldidal1970.com
 -d gbsports.kiev.ua
 -d geethanjaliinstitutions.com
--d geografi.unsam.ac.id
 -d gfmodd1.webselffiles01.com
 -d giadinhviet.com
 -d globalprod.ru
@@ -441,9 +437,11 @@ msFilterList
 -d goldenasiacapital.com
 -d goodmarketinggroup.com
 -d gp.gamebuy768.com
+-d gpfstudies.com
 -d gpoleri.com.ar
 -d grand-element.ru
 -d grandspree.com
+-d greatuplandrental.com
 -d greenhillsacademy.org
 -d greenpackages.biz
 -d grocer.today
@@ -475,7 +473,6 @@ msFilterList
 -d hireout.today
 -d hitstation.nl
 -d hmpmall.co.kr
--d hollow-sections.net
 -d hongluosi.com
 -d honours.com.ng
 -d hookedupboatclub.com
@@ -496,7 +493,6 @@ msFilterList
 -d humanresourceslifeline.com
 -d humvegetarian.w3.eyeteam.vn
 -d hunggiang.vn
--d ia801502.us.archive.org
 -d ibooking.campaignhub.net
 -d icedecastella.com.br
 -d icgsame.cf
@@ -507,12 +503,14 @@ msFilterList
 -d ikejaclub.org
 -d iloop.sourcetaggers.com
 -d images.jermiau.com
+-d imbueautoworx.co.za
 -d immunotec.network
 -d imobiles.pk
 -d import-group.az
 -d in-softs.com
 -d incredicole.com
 -d indiaexpress24.com
+-d indonesias.me
 -d indrasbikaner.com
 -d informativemind.com
 -d infovator.com
@@ -583,6 +581,7 @@ msFilterList
 -d klija.net
 -d kodekode.ac.ug
 -d korrectconceptservices.com
+-d kotob.top
 -d kp72samaj.com
 -d krainikovvlad.eternalhost.info
 -d kramersmarionnettes.com
@@ -633,11 +632,11 @@ msFilterList
 -d m.vintplay.com
 -d m2.komaiasowu.ru
 -d macmor-media.com.au
+-d madicon.co.za
 -d mahagurutech.ac.in
 -d mail.bs-eiendomme.co.za
 -d mail.edaak.in
 -d mailer.srkcommunication.biz
--d maintenance.alumnia.id
 -d maison-du-parc.com
 -d makeupuccino.com
 -d maksi.feb.unib.ac.id
@@ -743,6 +742,7 @@ msFilterList
 -d nerve.untergrund.net
 -d nesthomes.co.ke
 -d nettube.com.br
+-d networkwheels.co.za
 -d nevermiss.su
 -d newdevjyq.devjyq.com
 -d newtree.health
@@ -779,7 +779,6 @@ msFilterList
 -d online.creedglobal.in
 -d onyx-food.com
 -d opened.today
--d openhouse.swu.ac.th
 -d opolis.io
 -d oracle.zzhreceive.top
 -d order.redroseofbristol.com
@@ -810,6 +809,7 @@ msFilterList
 -d patch2.99ddd.com
 -d patch3.99ddd.com
 -d patriotpath.am
+-d paulmercier.biz
 -d pavetto.com
 -d paxz.tk
 -d pay.ewalletgold.com
@@ -819,6 +819,7 @@ msFilterList
 -d pedicollections.com
 -d perceptioncare.com
 -d pereiracadvogados.com.br
+-d perpustekim.untirta.ac.id
 -d petknorra.com
 -d pharmarep.webbingbcn.es
 -d phasdesign.com
@@ -840,7 +841,6 @@ msFilterList
 -d ppdb.fitrahhanniah.sch.id
 -d ppdb.smk-ciptaskill.sch.id
 -d pranam.analogcloudtech.com
--d predskolskaustanovastonogica.rs
 -d prestasicash.com.ar
 -d prestigehomeautomation.net
 -d pretorian.ac.ug
@@ -861,6 +861,7 @@ msFilterList
 -d publicolor-rr.com.br
 -d punjabdevelopersassociation.com.pk
 -d puntamimarlik.com.tr
+-d pvcprinting.co.uk
 -d qk-solutions.com
 -d qmsled.com
 -d qrmenu.ionoxwebstudio.com
@@ -980,6 +981,7 @@ msFilterList
 -d sodovip88.com
 -d soft.110route.com
 -d solarforafrica.net
+-d solotrainingcenter.com
 -d sota-france.fr
 -d source3.boys4dayz.com
 -d sowork.duckdns.org
@@ -1015,7 +1017,6 @@ msFilterList
 -d support.clz.kr
 -d support.ionoxwebstudio.com
 -d supportit.online
--d suriyecastajanslari.bykmedya.com
 -d suryatp.com
 -d suwayd.com
 -d suyashhospitalraipur.com
@@ -1039,6 +1040,7 @@ msFilterList
 -d test.adventser.com
 -d test.fontecsys.net
 -d test.reachhealth.asia
+-d test.typoten.com
 -d test2.marrenconstruction.ie
 -d testing-istudiophoto.davaohorizon.com
 -d tetasms.com
@@ -1108,7 +1110,6 @@ msFilterList
 -d victorysanitizer.com
 -d view.pasarjaya.co.id
 -d villatera.com
--d vinaychoithani.com
 -d violinstop.com
 -d virtualedufairnepal.com
 -d virtuleverage.com
@@ -1123,6 +1124,7 @@ msFilterList
 -d volkscantonalbank.com
 -d vologroup.com.br
 -d vplatform.ae
+-d vpts.co.za
 -d vulkanvegas-de.katchpurcity.com
 -d w1.zypaint.com
 -d wakanaija.com.ng
