@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Mon, 20 Dec 2021 00:11:04 +0000
+# Updated: Mon, 20 Dec 2021 12:11:13 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -718,7 +718,6 @@ msFilterList
 -d angkorpedia.com
 -d anglersleds.com
 -d anglinglobal.com
--d anicert.cn
 -d aniket.mydemosystems.com
 -d animalcare.ga
 -d animapet.it
@@ -743,7 +742,6 @@ msFilterList
 -d antrumengineering.com
 -d anugrahaschools.org
 -d anvokelimited.co.uk
--d anystonegenesh.com
 -d aod.uwo.mobi
 -d aohwkg.am.files.1drv.com
 -d aonis.top
@@ -1081,6 +1079,7 @@ msFilterList
 -d backoffice.aloemed.palz.tech
 -d backtovillage.org
 -d backupsoldyn.duckdns.org
+-d baclav.com
 -d badeggdesign.com
 -d badiesnord.com
 -d baetrading.com
@@ -1254,7 +1253,6 @@ msFilterList
 -d biharsearch.com
 -d bike.ideait.it
 -d bikeaccommodation.com
--d bikemandu.com
 -d bikespondylus.com
 -d bikovs.lv
 -d bilalenterprises.pk
@@ -1522,7 +1520,6 @@ msFilterList
 -d businessdigitally.co.in
 -d busokay.com
 -d butcuv02.top
--d buterin-airdrop.com
 -d butezm09.top
 -d butleq11.top
 -d butlerautos.net
@@ -2230,6 +2227,7 @@ msFilterList
 -d dashboardonline.company
 -d dasonimedical.com
 -d dastakhindustan.in
+-d data-file-data-7.com
 -d data.cdevelop.org
 -d data.das-dach-ev.de
 -d data.green-iraq.com
@@ -2358,6 +2356,7 @@ msFilterList
 -d despreasigurari.000webhostapp.com
 -d desserts.the-good-stuff.club
 -d destinazionecuba.it
+-d destinymc.co.za
 -d detailing-kingdom.com
 -d detectivesinmumbai.co.in
 -d detoxdietsupplements.com
@@ -2562,6 +2561,7 @@ msFilterList
 -d dotredes.com
 -d doubt.ecbse.in
 -d doverentrepreneurs.com
+-d down.1230578.com
 -d down.dh465.cn
 -d down.pcclear.com
 -d down.rxgif.cn
@@ -2627,7 +2627,6 @@ msFilterList
 -d drvikaskakkar.in
 -d drymetal.com.br
 -d dscyr6dphlm79.cloudfront.net
--d dsenterprize.co.za
 -d dskjdskhdhkshsksd.000webhostapp.com
 -d dsv-vt.de
 -d dtlavleen.online
@@ -2865,6 +2864,7 @@ msFilterList
 -d ekuboh14.top
 -d ekudiw09.top
 -d ekuhsn03.top
+-d ekuniv18.top
 -d ekuqap10.top
 -d ekuwac17.top
 -d elahei.af
@@ -3110,6 +3110,7 @@ msFilterList
 -d eztaxfinancial.com
 -d f-tonegroup.com
 -d f.gogamef.com
+-d f.komaiasowu.ru
 -d f0559771.xsph.ru
 -d f0565382.xsph.ru
 -d f0571088.xsph.ru
@@ -3238,7 +3239,6 @@ msFilterList
 -d fi.oclean.com
 -d fiber-tek.com
 -d fibrawifi.com
--d fidelitygulf.com
 -d fieldomobify.com
 -d fieris.kubooking.com
 -d fiftyshadesofgay.co.in
@@ -3548,7 +3548,6 @@ msFilterList
 -d generacia.ge
 -d generale-services.com.tn
 -d generationalwealthtraders.com
--d generatorulubabanu.ro
 -d genermahecha.ottimosoft1.com
 -d geneticaamericana.com.py
 -d gengobot.com
@@ -4179,6 +4178,7 @@ msFilterList
 -d im2020.vip
 -d images.jermiau.com
 -d imageupvc.com
+-d imbueautoworx.co.za
 -d imediprof.edu.ge
 -d imersaorea.com.br
 -d img.ssaegsfaaebo.com
@@ -4295,7 +4295,6 @@ msFilterList
 -d instaa-bot.ir
 -d instalive.fun
 -d install-cb.ru
--d installcb.online
 -d installcb.space
 -d installintopc.com
 -d instanttekwp.com
@@ -4488,6 +4487,7 @@ msFilterList
 -d jdbdispatch.com
 -d jdgfhq.dm.files.1drv.com
 -d jdi.co.za
+-d jdkems.com
 -d jdpl2a.dm.files.1drv.com
 -d jdpshw.dm.files.1drv.com
 -d jdqbwq.dm.files.1drv.com
@@ -4527,7 +4527,6 @@ msFilterList
 -d jhv5mg.dm.files.1drv.com
 -d ji1.in
 -d jianji.witouch.my
--d jiaoyuzixun.cn
 -d jiffyhair.com
 -d jimbaran-village.myitas.net
 -d jimprime.toutpourlui.org
@@ -5090,6 +5089,7 @@ msFilterList
 -d linebot.gugame.net
 -d linkintec.cn
 -d linkshortner.net
+-d liogak02.top
 -d lion-groups.com
 -d lion-motors.com
 -d liongroup.ge
@@ -5242,7 +5242,6 @@ msFilterList
 -d m4wk.com
 -d m61blg.by.files.1drv.com
 -d m8.magicbyteprojects.com
--d m8.popmonster.ru
 -d m8hc5w.sn.files.1drv.com
 -d m8hqfw.sn.files.1drv.com
 -d m8igxg.sn.files.1drv.com
@@ -5264,7 +5263,6 @@ msFilterList
 -d madebykelzz.com
 -d madeireiranovaalianca.com.br
 -d madeireiranp.com.br
--d madicon.co.za
 -d madrascreatives.com
 -d madroscmetafory.pl
 -d madrstk.com
@@ -5332,6 +5330,7 @@ msFilterList
 -d malkangiri.inodisha.in
 -d mallsupplement.com
 -d mallzman.com
+-d maltepecastajanslari.bykmedya.com
 -d maltese-company.com
 -d mamabearcoffee.com
 -d mamalindos.com
@@ -5403,7 +5402,6 @@ msFilterList
 -d markmoving.com
 -d marksidfgs.ug
 -d marlena-maluje.pl
--d marmariscastajanslari.bykmedya.com
 -d marmoleriadangelo.com
 -d marorocks.com
 -d marquesvogt.com
@@ -5728,7 +5726,6 @@ msFilterList
 -d mmbeta.messbook.xyz
 -d mmbravarija.ba
 -d mmcn.edu.np
--d mmd.cityhelpcall.com
 -d mmdx.com
 -d mmeppe.com
 -d mmgarments.pk
@@ -5779,7 +5776,6 @@ msFilterList
 -d moneygrowadvisory.in
 -d moneytransfer.alakmalak.ca
 -d mongolianteam.org
--d monitorcoin2019b.com
 -d monocomunicacao.com.br
 -d monorailegypt.com
 -d monreveimobiliaria.com.br
@@ -5881,6 +5877,7 @@ msFilterList
 -d municieneguillagobpe.000webhostapp.com
 -d munisanta.com
 -d murtpoiss.ee
+-d musaciftci.com
 -d musetype.com
 -d music-dl-asia-003.com
 -d musicacivica.it
@@ -6177,6 +6174,7 @@ msFilterList
 -d noithat117.vn
 -d noithattuannga.com
 -d nolansharp.com
+-d nolascoav.com
 -d nomadicbees.com
 -d nomadknight.com
 -d nongbua.nfe.go.th
@@ -6328,6 +6326,7 @@ msFilterList
 -d ojana-shekor.com
 -d ojasdaily.com.au
 -d ok2board.org
+-d oknoplastik.sk
 -d okynemedialab.com
 -d olap.ma
 -d old.cybers.com.ua
@@ -6350,6 +6349,7 @@ msFilterList
 -d omnielite.com.my
 -d omno.ai
 -d omromotel.com
+-d oms.pappai.com
 -d oncrete-egy.com
 -d ondulato.com.br
 -d oneaudio.world
@@ -6496,7 +6496,6 @@ msFilterList
 -d ozwxna.am.files.1drv.com
 -d p-sea.com
 -d p0c2ma.by.files.1drv.com
--d p2.d9media.cn
 -d p2db.fitrahhanniah.sch.id
 -d p2efbg.am.files.1drv.com
 -d p3.zbjimg.com
@@ -6756,7 +6755,6 @@ msFilterList
 -d plazadetorossma.com
 -d plcddep-28.pl.cddep.dev.vladimir-samoletov.com
 -d plexr.az
--d plive.today
 -d ploegvec.markyourmedia.net
 -d plotsalein.com
 -d plug2field.com
@@ -6789,7 +6787,6 @@ msFilterList
 -d pontosdefoco.pt
 -d poojamani.com
 -d poornimagold.com
--d popmonster.ru
 -d poppinmyway.com
 -d pornicipornici.com
 -d portal.dialogopedagogico.com.br
@@ -6964,6 +6961,7 @@ msFilterList
 -d prorish.com
 -d prosoc.nl
 -d prosperamais.net
+-d prosupport.cl
 -d protechasia.com
 -d protectride.com
 -d protekta.pk
@@ -7074,6 +7072,7 @@ msFilterList
 -d qqmulia88.com
 -d qqq1.me
 -d qqqformual.co.za
+-d qqqformula.co.za
 -d qr-on.com
 -d qrabin.com
 -d qrcode.yesmachinery.ae
@@ -7719,6 +7718,7 @@ msFilterList
 -d sergiocavaleirocosta.com
 -d sericaasia.com
 -d serkv4c.com
+-d serralheriadelta.com.br
 -d serscay.com.ar
 -d server.easysalepage.in.th
 -d server.toeicswt.co.kr
@@ -8513,6 +8513,7 @@ msFilterList
 -d test2.marrenconstruction.ie
 -d test2020.officinaelab.com
 -d testbooklive.com
+-d teste.espiritocacau.com.br
 -d testebossnet.ro
 -d testesolar.agenciatwoweb.com.br
 -d testing-istudiophoto.davaohorizon.com
@@ -8843,6 +8844,7 @@ msFilterList
 -d ttisi.pe
 -d ttneiv.com
 -d tuanuarioescolar.com
+-d tuckerrelyg.com
 -d tuclogifuturo.com
 -d tudelftopen.nl
 -d tueurdevirus.com
@@ -9107,7 +9109,6 @@ msFilterList
 -d vaynhanh247.net
 -d vazhikaatti.com
 -d vcilimitado.com
--d ve0.popmonster.ru
 -d vectarts.com
 -d vectordon.com
 -d vectosign.com
@@ -9472,6 +9473,7 @@ msFilterList
 -d wiwas.org
 -d wizard.wwa.biz.ua
 -d wizardba.com
+-d wjy.komaiasowu.ru
 -d wmcarnetcanada.com
 -d wmelevatori.it
 -d wnctowing.com
@@ -9538,7 +9540,6 @@ msFilterList
 -d wshsoft.company
 -d wskgpa.sn.files.1drv.com
 -d wsm7ga.sn.files.1drv.com
--d wsvmarketing.com
 -d wta.cz
 -d wtsacademy.in
 -d wutaideng.wang
