@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 24 Dec 2021 00:11:12 +0000
+# Updated: Fri, 24 Dec 2021 12:11:06 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -8,7 +8,6 @@ msFilterList
 : Expires=1
 #
 -d 007298.xyz
--d 01.mihanatours.com
 -d 021414243.com
 -d 029film.cn
 -d 03hcfq.ch.files.1drv.com
@@ -103,6 +102,7 @@ msFilterList
 -d 225km.com
 -d 24asia.news
 -d 24lott.com
+-d 24x7design1.wpsupport.urdemo.website
 -d 253.9.127.34.bc.googleusercontent.com
 -d 270bcomingsoon.flywheelsites.com
 -d 2930centerave.com
@@ -137,6 +137,7 @@ msFilterList
 -d 365jobsfair.tk
 -d 3ax-consulting.com
 -d 3dassociates.pk
+-d 3demon.biz
 -d 3djunkyard.com
 -d 3dpanaroma.emotionfactory.in
 -d 3e5opa.bl.files.1drv.com
@@ -182,7 +183,6 @@ msFilterList
 -d 4everyoungstl.com
 -d 4mationdrilling.com
 -d 4mil82.com
--d 4mytag.com
 -d 4ndlfq.am.files.1drv.com
 -d 4p13ng.db.files.1drv.com
 -d 4tiempos.info
@@ -204,7 +204,6 @@ msFilterList
 -d 5nine.123w.ca
 -d 5pasos.tomasrios.com
 -d 5track.link
--d 5ycode.com
 -d 60yearsofcongress.com
 -d 610weblab.in
 -d 62da-5-181-234-134.ngrok.io
@@ -285,6 +284,7 @@ msFilterList
 -d 8yqyhg.sn.files.1drv.com
 -d 8yrobw.sn.files.1drv.com
 -d 91lssp.com
+-d 91xxxooo.com
 -d 91yudao.com
 -d 92c49223-b37f-4157-904d-daf4679f14d5.usrfiles.com
 -d 958a-2600-1f14-ddf-d200-6c7a-d56-7e56-2865.ngrok.io
@@ -317,7 +317,6 @@ msFilterList
 -d a.pomf.cat
 -d a.sjmall.top
 -d a0567593.xsph.ru
--d a0583325.xsph.ru
 -d a0583489.xsph.ru
 -d a0585618.xsph.ru
 -d a0586975.xsph.ru
@@ -386,12 +385,12 @@ msFilterList
 -d abaiconsulting.com
 -d abakuzeni.com
 -d abasstore.com
+-d abbayedetarasteix.fr
 -d abbefamily.net
 -d abbisoshop.com
 -d abcwebnow.com
 -d abcxyz.in
 -d abdellglobalservice.com
--d abdheshdesign.com
 -d abdullahsolar.com
 -d abdurrahimmarketing.com
 -d abhisheksinghalastro.com
@@ -416,7 +415,6 @@ msFilterList
 -d academiaoslo.com.uy
 -d academy.wunder.is
 -d academyoflifecoach.com
--d acadmaritime.com
 -d acaminhodagloria.com.br
 -d acampark.com.br
 -d accesibilidad.alpi.org.ar
@@ -496,6 +494,7 @@ msFilterList
 -d adu.polimi.it
 -d adult-chat-wank.co.uk
 -d adult-chat-xxx.co.uk
+-d adult-phone-sex-cheap.co.uk
 -d adult-phone-sex-girls.co.uk
 -d adultcaregivingguide.com
 -d adv.vasjuridica.com.br
@@ -582,6 +581,8 @@ msFilterList
 -d aimcosoft.com
 -d aipia.org
 -d aips.com.au
+-d aiqtest.com
+-d aircod.com
 -d airconditioned.co.za
 -d airdropturk.com
 -d airelp.com
@@ -642,6 +643,7 @@ msFilterList
 -d alcorprime.com
 -d aldahwiprivatehospital.com
 -d aldgateconnect.london
+-d aldjsw.com
 -d aldtec.net.br
 -d alea-prevention.com
 -d alecsa.ng
@@ -708,6 +710,7 @@ msFilterList
 -d almasoulia.com
 -d almedical.al
 -d almeidaconfeccoes.com.br
+-d almeriahot.com
 -d almoayed.bahrainsuperbike.com
 -d almohadasdkings.com
 -d almuhsinunfund.org
@@ -784,6 +787,7 @@ msFilterList
 -d amranhvac.com
 -d amritahospitals.in
 -d amsbatam.com
+-d amstelmeerland.nl
 -d amsystechno.com
 -d amyconcepts.com
 -d amyisraelfoundation.org
@@ -812,6 +816,7 @@ msFilterList
 -d angelluxs.com
 -d angkorpedia.com
 -d angoloitaliano.ae
+-d angrys.com.br
 -d anicert.cn
 -d aniket.mydemosystems.com
 -d animalcare.ga
@@ -828,6 +833,7 @@ msFilterList
 -d ann7.aamfeg.com
 -d annafraudy.com
 -d annahartmann.fun
+-d annamdecor.vn
 -d annemariecommunications.com
 -d announceico2018b.com
 -d annuaire.tlsafrica.tg
@@ -844,6 +850,7 @@ msFilterList
 -d anugrahaschools.org
 -d anvokelimited.co.uk
 -d anythingblack.tecocraft.net
+-d anywherefireplaces.webarrive.com
 -d aod.uwo.mobi
 -d aohwkg.am.files.1drv.com
 -d aonis.top
@@ -877,6 +884,7 @@ msFilterList
 -d api.leenalkhair.com
 -d api.m3.frontlineii.net
 -d api.officialaccess.net
+-d api.pinkparlour.asia
 -d api.servisexxx.com
 -d api.womensimaginggroup.com.au
 -d api.zmotpro.com
@@ -938,6 +946,7 @@ msFilterList
 -d apxqfa.bn.files.1drv.com
 -d aq5yda.by.files.1drv.com
 -d aqissarafood.com.my
+-d aqua-d.biz
 -d aquanutrition.cn
 -d aquasail.virvazir.com
 -d aquashrk.developerak.xyz
@@ -958,6 +967,7 @@ msFilterList
 -d arancal.com
 -d araplay.net
 -d araratwallsystems.com
+-d arashinoyoruni.jp
 -d arb-eg.com
 -d arboretum-abracaral.com.ar
 -d arcdb.dooble.biz
@@ -1019,7 +1029,6 @@ msFilterList
 -d arte-lab.org
 -d artechnomad.com
 -d artem5nitskyshiola.com
--d artenazarov.com.ar
 -d artguide.top
 -d arthateknikabadiconstruction.com
 -d arthurandverd.com.ng
@@ -1122,6 +1131,7 @@ msFilterList
 -d auction.slttgroup.com
 -d auction.webdevelopment33.com
 -d auctusmarketing.com
+-d audio.genf.co.id
 -d auditis.com.br
 -d audrimart.com
 -d aulaintelimundo.com
@@ -1138,6 +1148,7 @@ msFilterList
 -d autofficinaguerreri.it
 -d autohaus-lehr.at
 -d automatchshop.com
+-d automoto.in.ua
 -d automyn.com
 -d autopartesenguadalajara.com
 -d autopodbor.eu
@@ -1213,7 +1224,6 @@ msFilterList
 -d backgrounds.pk
 -d backlinksminer.com
 -d backoffice.aloemed.palz.tech
--d backpackumbrella.com
 -d backtovillage.org
 -d backup.rnt-team.me
 -d backupsoldyn.duckdns.org
@@ -1222,6 +1232,7 @@ msFilterList
 -d badeggdesign.com
 -d badiesnord.com
 -d badifoc.page.link
+-d badmakeup.biz
 -d baetrading.com
 -d bagldbnso.com
 -d bagsmegastores.com
@@ -1251,7 +1262,6 @@ msFilterList
 -d bandbmedscrubs.com
 -d bangeroo-nutrition.de
 -d bangjinbd.com
--d bangkok-orchids.com
 -d bangkokhospital.id
 -d bank.zanderscloud.com.ng
 -d banobosu.page.link
@@ -1321,9 +1331,11 @@ msFilterList
 -d bedroomboutique.world
 -d bedroomhome.xyz
 -d bedroomnow.xyz
+-d bedroomset.club
 -d beecoin.biz
 -d beem.id
 -d beemovingny.com
+-d beepro.ir
 -d behanaa.co.il
 -d behdaniha.ir
 -d behsaude.com
@@ -1364,6 +1376,7 @@ msFilterList
 -d bestworkltd.com
 -d bet-club.co
 -d beta.allbester.ru
+-d beta.chodoixe.com
 -d beta.myshopmata.com
 -d beta.profissaopiloto.com.br
 -d beta.sogosurvey.com
@@ -1422,6 +1435,7 @@ msFilterList
 -d bilalenterprises.pk
 -d bilikayu.com
 -d billetpro.beedevstaging.com
+-d billing.dyits.com
 -d billobazar.hamzaghouri.com
 -d bimbelintensif.com
 -d bimugasu.page.link
@@ -1448,6 +1462,7 @@ msFilterList
 -d birdoktorbirkimyager.com
 -d bisacek.demoapp.xyz
 -d bismillahcomputerstore.com
+-d bisnesservis-fk.ru
 -d bitcoin-king.asajgloves.com
 -d bitcoin-king.burjil.com
 -d bitcoin-king.cafedesafari.com
@@ -1482,7 +1497,6 @@ msFilterList
 -d blancbar.it
 -d blanche.gr
 -d blanshops.com
--d bleezzmultimedia.com
 -d blen.monkeysolutions.com.mx
 -d blesci.com
 -d bleskoindustries.com
@@ -1538,6 +1552,7 @@ msFilterList
 -d blog.xxarxx.com
 -d blog2.okvips.com
 -d blogofwishes.iramateur.com
+-d blogs-dev.gramophone.in
 -d bloom-here.org
 -d bloom110.com
 -d bluebirdbeverages.in
@@ -1620,10 +1635,10 @@ msFilterList
 -d boulderssafarilodge.com
 -d boulevardcaravanpark.com.au
 -d bovajyja.page.link
--d bowmancollection.com
 -d boxeo.ib.tv
 -d bozyp.page.link
 -d bpa.vn
+-d bpac.in
 -d bpbj.id
 -d bpcon.at
 -d bpd.trackbox.world
@@ -1661,6 +1676,7 @@ msFilterList
 -d breakinscore.com
 -d brechtsonengenharia.com.br
 -d briar.com.my
+-d bricolambert.com
 -d bricopetvzla.com
 -d brideofmessiah.com
 -d bridgeroad.maverickpreviews.com
@@ -1680,6 +1696,7 @@ msFilterList
 -d bro.jerashfestival.jo
 -d broadway.devotedgolfer.com
 -d broncofilter.com
+-d brownlowlimited.co.uk
 -d brownstowntabernacle.org
 -d brq3fw.bl.files.1drv.com
 -d brqpxg.bl.files.1drv.com
@@ -1723,6 +1740,7 @@ msFilterList
 -d bunge.skybitvest.com
 -d burakishop.com
 -d burangrang.com
+-d burger-il.com
 -d buroakdental.com
 -d buroojmarketing.com
 -d bursacelikkapi.gen.tr
@@ -1812,6 +1830,7 @@ msFilterList
 -d campese.eu
 -d campoinvest.com.br
 -d canadacannabis.live
+-d canadaconnectioncompany.com
 -d canadiantheatermonologues.com
 -d canaldoprojetista.com.br
 -d canary-cnary.com
@@ -1838,6 +1857,7 @@ msFilterList
 -d cardemo.mydemosystems.com
 -d cardiofitnes.com
 -d cardpay365.com
+-d cards.dev.frangez.me
 -d care-network.nl
 -d career.agranidoer.com
 -d careeradvicebase.com
@@ -1859,7 +1879,6 @@ msFilterList
 -d carshiv.ir
 -d carspa.co.id
 -d cartaovivaz.com.br
--d carte-deuil.com
 -d carte.focusinfos.net
 -d cartelligent.flywheelstaging.com
 -d carthunt.in
@@ -1940,6 +1959,7 @@ msFilterList
 -d cenasdopeter.com
 -d cenea.cl
 -d cengyuncloud.com
+-d centernepalnews.com
 -d centr-dop.ru
 -d centraldosmart.com
 -d centrale.casa
@@ -1976,7 +1996,6 @@ msFilterList
 -d cfamedia.org
 -d cfgconline.org
 -d cfi.reika.co
--d cfihoa.com
 -d cfs10.blog.daum.net
 -d cfs13.tistory.com
 -d cfs5.tistory.com
@@ -1991,6 +2010,7 @@ msFilterList
 -d cgcandy.com
 -d cgi-international.com
 -d cgp3solutions.co.za
+-d ch-plays.net
 -d ch.tinderpoint.com
 -d ch1.spacermodem.com
 -d ch10th.com
@@ -2083,6 +2103,7 @@ msFilterList
 -d cirptopsgrup.com
 -d citaconsantimolezun.es
 -d citationsherbe.at
+-d citihits.lk
 -d citiqproperties.co.za
 -d citizenshipdialogueforum.com
 -d citorytech.com
@@ -2166,6 +2187,7 @@ msFilterList
 -d coaching.openforest.net
 -d coachingcorporal.cl
 -d coachingdeparejas.org.pe
+-d coachmehmet.com
 -d coachvoorartiesten.nl
 -d cobhamplasteringservices.co.uk
 -d cocoatint.in
@@ -2177,6 +2199,7 @@ msFilterList
 -d coecfq.db.files.1drv.com
 -d cofenator.ru
 -d coffeemachinenow.sweetescapehouse.com
+-d coffeewithunicorns.com
 -d cofgwq.db.files.1drv.com
 -d cofnoa.db.files.1drv.com
 -d cogentpathway.com
@@ -2249,9 +2272,9 @@ msFilterList
 -d connollyhomes.ie
 -d conquestcapital.co.ke
 -d consaltbiznes.com
+-d conseilprefectoralagadir.ma
 -d consfera.it
 -d consorciocablevision.uy
--d consorciojoinville.com
 -d consorciorimpa.com
 -d construction.aiswaryatextilesmills.com
 -d constructorachg.cl
@@ -2261,6 +2284,7 @@ msFilterList
 -d consultport.com
 -d contabilinloco.com.br
 -d contabilnew.com
+-d contacf.cluster030.hosting.ovh.net
 -d contadoresya.com
 -d containerlafamilia.cl
 -d contamaxcontabilidade.com
@@ -2347,6 +2371,7 @@ msFilterList
 -d crackedshop.org
 -d crackers.stepupsmart.in
 -d cracklefix.date
+-d cracxhub.000webhostapp.com
 -d craftorch.jp
 -d cranberrycustoms.com
 -d crbmokrousovo.sov-link.ru
@@ -2401,7 +2426,6 @@ msFilterList
 -d crossbreed.info
 -d crossfitgames.ru
 -d crowdagency.yostyle.ro
--d crowdcap.xyz
 -d crowdmerc.mnpcoop.com
 -d crownadvertising.ca
 -d crownglassgallery.in
@@ -2425,10 +2449,10 @@ msFilterList
 -d csaumo.com
 -d csdin.com
 -d csgoprimeaccounts.com
+-d csi-lko.org
 -d csiap.lk
 -d csm-team.000webhostapp.com
 -d csminas.ddns.net
--d ct.mba
 -d ct42675.tmweb.ru
 -d ctcarehospital.in
 -d ctic.icagi.sn
@@ -2437,6 +2461,7 @@ msFilterList
 -d cubescabinets.com
 -d cubitus.africa
 -d cubotj.duckdns.org
+-d cuchot.vn
 -d cucisofasby.com
 -d cucsur.udgvirtual.udg.mx
 -d cudytyt.page.link
@@ -2477,7 +2502,6 @@ msFilterList
 -d cwqwpg.bn.files.1drv.com
 -d cx55566.tmweb.ru
 -d cx5qnq.dm.files.1drv.com
--d cxv.test-creadisiac.com
 -d cy08517.tmweb.ru
 -d cybershield.cl
 -d cybertienda.net
@@ -2489,7 +2513,6 @@ msFilterList
 -d d.gogamed.com
 -d d.komawai.ru
 -d d.powerofwish.com
--d d.torreblancamusica.com
 -d d1.udashi.com
 -d d15k2d11r6t6rl.cloudfront.net
 -d d2dmotors.com
@@ -2498,6 +2521,7 @@ msFilterList
 -d da.alibuf.com
 -d daamakpk.com
 -d daananna.nl
+-d dacremabotanicals.wpsupport.urdemo.website
 -d dacui.online
 -d dafftar.site
 -d daftar.site
@@ -2521,6 +2545,7 @@ msFilterList
 -d dancetvshow.com
 -d dancle.co.uk
 -d dancob03.top
+-d dandooner.com
 -d danesh-edu.ir
 -d daneshkadearzdigital.com
 -d danfas12.top
@@ -2577,7 +2602,6 @@ msFilterList
 -d datenex.com
 -d dato.social
 -d datumtechnology.xyz
--d dauiel.com
 -d davesappliances.co.za
 -d davicinosa.com.ar
 -d davidcortes.ottimosoft.com
@@ -2663,7 +2687,6 @@ msFilterList
 -d demo.bluelights.in
 -d demo.careacademyuk.com
 -d demo.digitalcard.fun
--d demo.energianmittaus.fi
 -d demo.eufoods.vn
 -d demo.fontecsys.net
 -d demo.intertoons.net
@@ -2697,25 +2720,26 @@ msFilterList
 -d dentalinstruments.webarrive.com
 -d dentalobelisco.com
 -d dentartvadakara.com
+-d denunciator.dimenxion.es
 -d deoteg.db.files.1drv.com
 -d departrentals2000b.com
 -d depedpuertoprincesa.ph
 -d depresija101.com
 -d deproduction.xyz
+-d derekmok.wpsupport.urdemo.website
 -d dermato2016.com.br
 -d dermokalialicante.com
 -d dersimizfizik.com
 -d desawisatacisaat.com
 -d desbloqueia.com
 -d desentupidoragravatai.com.br
--d deseo.torreblancamusica.com
 -d desharisinga.in
 -d design.ecolenefiber.com
 -d design.zestard.net
 -d designandtechnologyskills.com
 -d designerliving.co.za
 -d designhubconsult.com
--d designoweb.website
+-d desireleatherwomen.com
 -d despanel.xyz
 -d despreasigurari.000webhostapp.com
 -d desserts.the-good-stuff.club
@@ -2747,6 +2771,7 @@ msFilterList
 -d dev.btfila.org
 -d dev.centreformanagement.com
 -d dev.crystalclearvapestore.co.uk
+-d dev.dev1.p80w.com
 -d dev.genosuniversity.com
 -d dev.hbomfs.com
 -d dev.hiphopfranco.com
@@ -2756,11 +2781,13 @@ msFilterList
 -d dev.pictoruminvestments.com
 -d dev.promoscredits.com
 -d dev.sebpo.net
+-d dev.sonicartoriginals.com
 -d dev.springbreaklife.com
 -d dev.taranakisupermotors.com
 -d dev.tecnoaden.cl
 -d dev.texasshoppersmarket.com
 -d dev.thegoatfoundation.org
+-d dev.thematchinghampalace.com
 -d dev.vancaf.com
 -d dev2-admin.ycbnt.net
 -d dev2.alumnia.id
@@ -2778,6 +2805,7 @@ msFilterList
 -d deviotech.com
 -d devsite.analiseti.com.br
 -d devstager.nexuscmf.com
+-d devufabet.com
 -d devzone.ir
 -d dexteritysolution.com
 -d deysianekissia.com.br
@@ -2810,6 +2838,7 @@ msFilterList
 -d diamondpalacebd.com
 -d diamondsfragrances.com
 -d diamondsparkle.co.ke
+-d dianamoreno.net
 -d diaocgianguyen.com
 -d diaryofanownedslave.com
 -d diawrg10.top
@@ -2819,6 +2848,7 @@ msFilterList
 -d diflex.ge
 -d dig.nettyfy.com
 -d digi-card.surryapropertymanagement.com
+-d digi.bgskr-project.my.id
 -d digidocconvergence.com
 -d digigrowlabs.com
 -d diginhance.com
@@ -2832,6 +2862,7 @@ msFilterList
 -d digitalonlineservice.xyz
 -d digitalshirt.fr
 -d digitalsolutionsbs.com
+-d digitalstrom.my
 -d digitaltag.net
 -d digitalwebsydney.com.au
 -d digitamax.com
@@ -2867,6 +2898,7 @@ msFilterList
 -d dishboard.in
 -d diskwin.org
 -d disreal.co
+-d distinto.cuantum.org
 -d distribucionesrh.net
 -d distribuidoragraciela.minegociope.com
 -d distributor.aurainebotanicals.net
@@ -2879,6 +2911,7 @@ msFilterList
 -d divinevirginhair.store
 -d divo.school619.ru
 -d divyajyotigem.com
+-d dix7.pro
 -d dixtlan.com
 -d diyalizci.com
 -d djalessandro.eu
@@ -2920,24 +2953,33 @@ msFilterList
 -d dnziplik.com.tr
 -d do-cloclo.com
 -d do.ithemi.com
+-d doc.communedebanka.com
 -d docpreviewstore.z13.web.core.windows.net
 -d docsgyan.com
 -d documentalerts.z13.web.core.windows.net
 -d documentos-pdf.brazilsouth.cloudapp.azure.com
 -d documentreviewmain.z13.web.core.windows.net
 -d docusign.us.com
+-d dodishoansyllenesliopa.com
 -d dodsonimaging.com
+-d dodunggiadinhbendep.shop
 -d dognpaw.com
+-d dohisyllenesliopa.com
+-d dohod-legko.ru
 -d dokefyc.page.link
+-d dolceandcafe.wpsupport.urdemo.website
 -d dolcielisa.diegobrunero.it
 -d dolenjskavila.si
+-d doller.softtechnoit.com
 -d dolliplingsyllenesliopa.com
 -d dollscorner.com
 -d dolorsguarro.com
 -d dom.daf.free.fr
 -d domain.designclub.in
+-d domain.storetransform.com
 -d domainmob.com
 -d domidusprime.hr
+-d domilitantsyllenesliopa.com
 -d dominandoagestao.com.br
 -d dompdf.dt-crm.com
 -d doncedyhall.com
@@ -2954,6 +2996,7 @@ msFilterList
 -d dostiplanetnorth.in
 -d dosyayukle.club
 -d dotheswap.org
+-d doublekgraphics.wpsupport.urdemo.website
 -d doubt.ecbse.in
 -d doubts.app
 -d doverentrepreneurs.com
@@ -2970,6 +3013,7 @@ msFilterList
 -d download.caihong.com
 -d download.doumaibiji.cn
 -d download.dyndns-wiki.com
+-d download.pdf00.cn
 -d download.rising.com.cn
 -d download.skycn.com
 -d download2.info
@@ -2984,6 +3028,7 @@ msFilterList
 -d dpkidsfurniture.pk
 -d dpm.filkom.ub.ac.id
 -d dqmjqg.bl.files.1drv.com
+-d dr-alexandre-orlick.chirurgiens-dentistes.fr
 -d dr-management.org
 -d dr-valdecir.solusdesign.com.br
 -d drabouhamdan.com
@@ -2998,6 +3043,8 @@ msFilterList
 -d drateetsharma.com
 -d drbee.net
 -d drbrehabcare.com
+-d drc.awp.uxtesting.net
+-d drcnew.awp.uxtesting.net
 -d drcnewlive.awp.uxtesting.net
 -d dreamcast.co.in
 -d dreamchildapp.com
@@ -3022,11 +3069,11 @@ msFilterList
 -d drkarnikatiwari.com
 -d drkdsinfo.com
 -d drkendrick.net
--d drmadeleinefitzpatrick.azurewebsites.net
 -d droomdecor.com
 -d dropship.freelancershijan.com
 -d drpf.edu.mk
 -d drpoudel.com.np
+-d drsha.innovativesolutions.mobi
 -d drshashirawat.com
 -d drshawal.com
 -d drshereenkhorshid.com
@@ -3036,7 +3083,6 @@ msFilterList
 -d drvikaskakkar.in
 -d drymetal.com.br
 -d dscyr6dphlm79.cloudfront.net
--d dsenterprize.co.za
 -d dskjdskhdhkshsksd.000webhostapp.com
 -d dsr.eddyhunt.com
 -d dstvsolutions.co.za
@@ -3072,6 +3118,7 @@ msFilterList
 -d durnitibarta.com
 -d duskline.in
 -d dutapp.wisolve.co.za
+-d duyang.oss-cn-hangzhou.aliyuncs.com
 -d dv-hero.com
 -d dvanachala.7vetrov.com
 -d dvc.team
@@ -3111,7 +3158,9 @@ msFilterList
 -d e-cartegrise.net
 -d e-learning.iskandariah.perubatan.org
 -d e-learning.thohun.org
+-d e-ley.pe
 -d e-map.eventreception.com
+-d e-marketing-france.info
 -d e-mart.pk
 -d e-pujcovna.eu
 -d e-sadad.com
@@ -3124,6 +3173,7 @@ msFilterList
 -d e2dpqg.bl.files.1drv.com
 -d e2dwiq.bl.files.1drv.com
 -d e2eprocess.cl
+-d e2f.zanec.com
 -d e3commerce.net
 -d e3xtwa.db.files.1drv.com
 -d e4roofing.com
@@ -3138,9 +3188,13 @@ msFilterList
 -d earhub.hk
 -d earnmoneylending.joinbuyerslist.com
 -d earsip.akatrust.com
+-d earthconservationcorps.wpsupport.urdemo.website
 -d earthconservationcorps2017.wpsupport.urdemo.website
+-d earthdaysavannah.org
+-d earthlyconversion.com
 -d earzone.xyz
 -d easet.just4dev.id
+-d easu.co.ao
 -d easy2find.ca
 -d easyboard.co.in
 -d easybrand.vn
@@ -3234,6 +3288,7 @@ msFilterList
 -d ecomascota.com
 -d ecomclipz.com
 -d ecomexpertz.org
+-d ecommerce-data.dev1.p80w.com
 -d ecommerce.linkedgates.com
 -d ecommercedeal.000webhostapp.com
 -d econdevforumjax.net
@@ -3330,6 +3385,9 @@ msFilterList
 -d eldarelgamaya.com
 -d eldoretwagonhotel.co.ke
 -d elearn.lhrlitigation.com
+-d elearn2015.siamtechu.net
+-d elearning.physiotraining.com.gt
+-d elearning2014.siamtechu.net
 -d electricbench.co.uk
 -d electrik-ufa.ru
 -d electrocanada.online
@@ -3343,8 +3401,10 @@ msFilterList
 -d eletrogans.com.br
 -d eletronicainformaticaecia.com
 -d eleuteriolopezlandscaping.com
+-d elevate.kushedup.com
 -d elevatedfashion.co.uk
 -d elevweb.hhs.dk
+-d elgharabiya.com
 -d elhuerto237.com
 -d eliasolazar.xyz
 -d elinerenata.com
@@ -3376,7 +3436,9 @@ msFilterList
 -d emaids.co.za
 -d email-blast.indodevmatech.com
 -d email.lhccontabil.cnt.br
+-d email.saudigadgets.com
 -d email.shubhvastugroup.com
+-d email.uki.co.il
 -d email.zeroemission.in
 -d emailsoffers.com
 -d emailverify.rey.agency
@@ -3394,6 +3456,8 @@ msFilterList
 -d emgbz.com
 -d emia.nu
 -d eminet.biz
+-d emmanuel-brossier.com
+-d emmanuelle-guillemard.fr
 -d emmanuelspecialistshospital.com
 -d emoda-shop.ru
 -d empire-su.nl
@@ -3411,6 +3475,7 @@ msFilterList
 -d emptystack.co
 -d empyrealsolar.in
 -d emresivasli.org
+-d emtc.jp
 -d emtibuesp.gov.co
 -d emuhealth.com
 -d en.artechome.com
@@ -3482,8 +3547,10 @@ msFilterList
 -d ergn7a.dm.files.1drv.com
 -d ergotherapeia-kalamata.gr
 -d eridiocese.org
+-d erizo.webarrive.com
 -d erkent.net
 -d erohal.io
+-d erp.aptcloud.net
 -d erp.electroequipments.com
 -d erp.jctradings.vn
 -d erp.rey.agency
@@ -3495,6 +3562,7 @@ msFilterList
 -d erzsebetparkolas.hu
 -d erzurumeto.org.tr
 -d es.islamforchristians.com
+-d esam-enseigne.fr
 -d escapelle.uz
 -d escolaparamulheresfenix.com.br
 -d escueladeadultospaterna.com
@@ -3502,6 +3570,7 @@ msFilterList
 -d escuelarsa.cl
 -d esenyurttemizlik.com
 -d eshohor.com
+-d eshop.aptcloud.net
 -d eshopcaffedeldoge.com
 -d eshopcaffedeldoge.net
 -d eshtrakat.com
@@ -3518,6 +3587,7 @@ msFilterList
 -d estateshop.com.pk
 -d estey.mairie-begles.fr
 -d estiloymadera.com.py
+-d estudeoline.colegioomega.com
 -d estudiogflz.com.ar
 -d estudioskyolic.com
 -d estudosadistancia.com.br
@@ -3579,7 +3649,9 @@ msFilterList
 -d exeupload.xyz
 -d exilum.com
 -d expandiendoelser.com
+-d expansion.co.uk
 -d expansion360.net
+-d experian.ihavewebsite.com
 -d experiments.dev.frangez.me
 -d exph9a.am.files.1drv.com
 -d exploitable-target.wpmudev.host
@@ -3660,8 +3732,10 @@ msFilterList
 -d famille-paquet.com
 -d family.nt-care.org.tw
 -d familydentist.site
+-d familytree.swantech.ae
 -d fanclubvalentinorossi.net
 -d fanes.com.mx
+-d fantasticallynaughty.com
 -d fantecheo.tk
 -d fantip.majjane.info
 -d faouzfoods.com.ng
@@ -3684,6 +3758,7 @@ msFilterList
 -d fastfit.rs
 -d fastgatecargo.com
 -d fastiptvpty.xyz
+-d fastkeralalottery.com
 -d fastketball.com
 -d fateeldnd.com
 -d fatih123.binder.org.tr
@@ -3694,13 +3769,17 @@ msFilterList
 -d fbcrsmt.org
 -d fbg.ge
 -d fbi.fund
+-d fbinternationals.net
 -d fbkinteriores.com.br
 -d fbpedigree.com
 -d fbtautotrade.com
 -d fc-egypt.com
 -d fc.co.mz
+-d fc.proyectosonline.xyz
 -d fcbolamami.klikpromo.xyz
 -d fcca.ezicrea.com
+-d fcguidedepeche.com
+-d fcstrade.vasturealtors.in
 -d fd.uqidong.com
 -d fdfmservices.com
 -d fdidev.digitalgravity.ae
@@ -3737,9 +3816,9 @@ msFilterList
 -d feroneriesticla.ro
 -d ferrari-montaznehale.com
 -d festival-cotedopale.fr
--d festivalcircus.com
 -d festivalhomepropertyagencyltd.xyz
 -d festiveventsupply.store
+-d festiveye.com
 -d feuuqq.am.files.1drv.com
 -d fezastudios.com
 -d ffflabel.com
@@ -3767,8 +3846,11 @@ msFilterList
 -d file23hscontarsr.000webhostapp.com
 -d files.alburhan.org
 -d files.contelinc.com
+-d files.nixono.fr
+-d files.wingmantiming.com
 -d files5.uludagbilisim.com
 -d files6.uludagbilisim.com
+-d filimon.news
 -d filmfestival.sourcetaggers.com
 -d filmigalaxy.com
 -d filmscarpc.co.uk
@@ -3778,6 +3860,7 @@ msFilterList
 -d final.mentorline.org
 -d finance.empireanku.com
 -d finconsulting.us
+-d find-a-good-attorney.com
 -d find.trustedadvisor.io
 -d findachildtherapist.com
 -d fineart.golf
@@ -3794,6 +3877,7 @@ msFilterList
 -d firewood.integrio.dev
 -d firstlookbd.com
 -d firstpanther.xyz
+-d firzam.xyz
 -d fiscalizaciones.cl
 -d fiscopro.follow-us.net
 -d fishbowlonline.fishbowlinventory.com
@@ -3809,6 +3893,7 @@ msFilterList
 -d fit.troypoints.xyz
 -d fit4allabilities.wpsupport.urdemo.website
 -d fite-eg.com
+-d fitnesstrening.digitalmdia.com
 -d fitrahhanniah.sch.id
 -d fitzfishponds.com
 -d five-bits.com
@@ -3834,6 +3919,7 @@ msFilterList
 -d fleet-master.eu
 -d fleur-elise.com
 -d flexiclay.org
+-d flexy-n.webarrive.com
 -d flickerme.club
 -d flightdeckfinancials.com
 -d flips-media24.com
@@ -3889,6 +3975,7 @@ msFilterList
 -d foodpackaging.com.ar
 -d fooduto.com
 -d fookcheungco.com.hk
+-d footprintllc.net
 -d for.sviluppo.host
 -d fore.fr
 -d forestal.voaxaca.tecnm.mx
@@ -3896,6 +3983,7 @@ msFilterList
 -d formacionpoliticachihuahua.org
 -d formaprolangues.fr
 -d formaseguros.com.br
+-d formations-dentaires.com
 -d formationspnlhypnose.com
 -d formosa.wheelhousecentral.com
 -d forms.saurashtrauniversity.edu
@@ -4042,6 +4130,7 @@ msFilterList
 -d g1noticiasbemestar.com
 -d g24ads.com
 -d g2afhg.bn.files.1drv.com
+-d g2amarketing.com
 -d g4a.co.ke
 -d g9securityforce.com
 -d gaadikarma.com
@@ -4053,6 +4142,7 @@ msFilterList
 -d gadopax.vn
 -d gagorone.page.link
 -d gaia-enterprise.com
+-d gaiarllc.com
 -d gaidov.bg
 -d gakopari.page.link
 -d galaxigift.com
@@ -4080,6 +4170,7 @@ msFilterList
 -d garcia.cl
 -d gardendriver.com
 -d gardenersdubai.com
+-d gardeningio.com
 -d garibaldidal1970.com
 -d garmenterp.in
 -d gasgarage-restaurant.com
@@ -4127,6 +4218,7 @@ msFilterList
 -d gekrzg.am.files.1drv.com
 -d gel28q.am.files.1drv.com
 -d gems-consult.com
+-d gemxonline.wordpress.yoursitebysml.co.uk
 -d genaikerr.com
 -d generacciondigital.com
 -d generacciondigital.org
@@ -4138,13 +4230,13 @@ msFilterList
 -d genermahecha.ottimosoft1.com
 -d geneticaamericana.com.py
 -d gengobot.com
+-d geniusfiresafety.com
 -d genssin.xyz
 -d gentiac.net
 -d geo-lines.com
 -d geodetica.ir
 -d geoffcasson.com
 -d geogenicsint.com
--d geograf.uz
 -d geografi.unsam.ac.id
 -d georgebucataru.ro
 -d georgemclaughlin.ca
@@ -4192,6 +4284,7 @@ msFilterList
 -d giftforgirls.net
 -d giftgardening.com
 -d giftophobic.com
+-d giftsfrog.com
 -d gihuwaq.page.link
 -d gillcart.com
 -d gillespiepipess.com
@@ -4200,6 +4293,8 @@ msFilterList
 -d ginko-sobe.com
 -d gippslandopenair.com
 -d gipsdizajn.mk
+-d giromondotour.it
+-d gisupply-new.awp.uxtesting.net
 -d gitanosoftware.net
 -d githr.com
 -d giversherbalproducts.com
@@ -4286,6 +4381,7 @@ msFilterList
 -d goodmarketinggroup.com
 -d goodreliefpharmas.com
 -d goodtech.cetxlabs.com
+-d goodthingsdaily.com
 -d googlydeal.com
 -d goparent.app
 -d gopedsweden.se
@@ -4296,6 +4392,7 @@ msFilterList
 -d gotogclub.com
 -d gotonow.com.co
 -d gotsanitiser.com
+-d gouslugi.space
 -d govacyz.page.link
 -d governorofrhodeisland.com
 -d gozarok.page.link
@@ -4335,7 +4432,6 @@ msFilterList
 -d greenrae.net
 -d greenriveroutdoors.com
 -d greenskybrand.com
--d greenso.com.vn
 -d greensouq-eg.com
 -d greentechits.com
 -d greentek.lk
@@ -4419,6 +4515,7 @@ msFilterList
 -d gutenberg.folisoil.com
 -d guwahati.ihrindia.com
 -d guyeitani.com
+-d guzheng.com.my
 -d gwafhg.bn.files.1drv.com
 -d gwclighting.com.au
 -d gwcrresearch.org
@@ -4426,6 +4523,7 @@ msFilterList
 -d gwgmotors.cl
 -d gws.bh
 -d gyapu-b2b.digitechnologynepal.com
+-d gyapu.digitechnologynepal.com
 -d gyjatyt.page.link
 -d gym.quicksoft.in
 -d gympagesdeveloper.com
@@ -4472,12 +4570,15 @@ msFilterList
 -d hanafoodco.com
 -d hanaperintl.com
 -d handalcake.com
+-d handmlaw.net
 -d handsomeher.com.au
 -d hangonwheels.com
 -d hangzhoufreck.com
 -d hannaegypt.com
 -d hanso.com.au
 -d hansonproperty.clikdigital.com.au
+-d haobai.online
+-d haobuys.online
 -d haoke8.com
 -d haotao.online
 -d hapbio.vn
@@ -4494,6 +4595,7 @@ msFilterList
 -d haroldhallroofing.net
 -d hartcontractorsltd.com
 -d hartwellchiro.com.au
+-d harvesthosts.awp.uxtesting.net
 -d harvesthostscheckout.awp.uxtesting.net
 -d haseeb-qureshi.com
 -d hashtagletstalk.com
@@ -4696,7 +4798,6 @@ msFilterList
 -d hosif.page.link
 -d hospedeoculto.com.br
 -d hospice.maxone24.com
--d hospital.isra.support
 -d hospital.shuleyanguonline.co.ke
 -d hospitalveterinario.uy
 -d hossamhedaia.com
@@ -4791,6 +4892,7 @@ msFilterList
 -d huuchin.ariun.mn
 -d hvparaisosdospets.com.br
 -d hwg.jelikob.ru
+-d hxm.am
 -d hy.gouhys.cn
 -d hydro-power-plant.com
 -d hydro247.gr
@@ -4938,7 +5040,6 @@ msFilterList
 -d indiabiddinghr.in
 -d indiabraids.com
 -d indiaexpress24.com
--d indianjewellery.art
 -d indiraalnatural.com
 -d indisc0rt.ru
 -d indohyundai.com
@@ -5229,6 +5330,7 @@ msFilterList
 -d jdbdispatch.com
 -d jdgfhq.dm.files.1drv.com
 -d jdi.co.za
+-d jdmcarmart.com
 -d jdpl2a.dm.files.1drv.com
 -d jdpshw.dm.files.1drv.com
 -d jdqbwq.dm.files.1drv.com
@@ -5274,6 +5376,7 @@ msFilterList
 -d jhv5mg.dm.files.1drv.com
 -d ji1.in
 -d jianji.witouch.my
+-d jiaoyuzixun.cn
 -d jiffyhair.com
 -d jihug.page.link
 -d jimbaran-village.myitas.net
@@ -5290,6 +5393,7 @@ msFilterList
 -d jit59w.bn.files.1drv.com
 -d jitddg.bn.files.1drv.com
 -d jitysa.bn.files.1drv.com
+-d jiwa.com.my
 -d jjfinserv.com
 -d jjove.com
 -d jk-jewelry.co.il
@@ -5302,7 +5406,6 @@ msFilterList
 -d jobhubb.pk
 -d jobingulfs.com
 -d jobsmembership.rw
--d jochiexpress.com
 -d jofalco.com
 -d jogja.dompetdhuafa.org
 -d johansanchez.ottimosoft1.com
@@ -5472,7 +5575,6 @@ msFilterList
 -d kartasgrup.com
 -d kartgenie.in
 -d kartgenix.shop
--d karting-serre-chevalier.fr
 -d kasabella.eu
 -d kasia.fithubdigital.com
 -d kassymaint.com
@@ -5488,6 +5590,7 @@ msFilterList
 -d kazema.my
 -d kbpcollegethane.net
 -d kc.dett.cn
+-d kc4el.org
 -d kcpcrm.com
 -d kcqjjw.dm.files.1drv.com
 -d kcxace.me
@@ -5568,6 +5671,7 @@ msFilterList
 -d kilikili-adventure.com
 -d kilikiliadventure.com
 -d kimia.fkip.uns.ac.id
+-d kimjikuk.luxeone.cn
 -d kimura-shokai.co.jp
 -d kimyen.net
 -d kineslimahot.com
@@ -5809,7 +5913,6 @@ msFilterList
 -d lasermobilesounds.co.uk
 -d laserplanet.es
 -d lases.mx
--d lasflores.sayhellosv.com
 -d lashpets.com
 -d lastdaypromotion.com
 -d lastminutehotelbooking.com
@@ -5857,7 +5960,6 @@ msFilterList
 -d learnd16.lovelyplatform.fr
 -d learnfastearn.com
 -d learning.fawe.org
--d learninglectures.com
 -d leasiacherise.com
 -d leather4gay.co.uk
 -d leatherbags.xyz
@@ -6027,7 +6129,6 @@ msFilterList
 -d lorangebleuechauvigny.com
 -d lorimakafrica.com
 -d lorpraditsin.com
--d los3don.com
 -d losadobestapalpa.com
 -d losapeviche.online
 -d loseweightdays.com
@@ -6136,7 +6237,6 @@ msFilterList
 -d madarbloghogya.blogspot.com
 -d madeireiranovaalianca.com.br
 -d madeireiranp.com.br
--d madicon.co.za
 -d madieandme.com.au
 -d madrascreatives.com
 -d madroscmetafory.pl
@@ -6149,7 +6249,6 @@ msFilterList
 -d magalitrench.com
 -d maggysconcept.com
 -d magic-game.fr
--d magic-tiles-stain-remover.com
 -d magicfingers.hopto.org
 -d magichat.isingh.net
 -d maglare.com
@@ -6179,6 +6278,7 @@ msFilterList
 -d mail.tucorp.com.au
 -d mailaminhhieu.com
 -d mailblaster02.bosskufamous.com
+-d maildn.daumcdn.net
 -d mailer.srkcommunication.biz
 -d mailer34.zzux.com
 -d main.ecbse.in
@@ -6250,6 +6350,7 @@ msFilterList
 -d manumaarifkds.sch.id
 -d manurabos.top
 -d maooutsourcing.com
+-d maopao777.com
 -d map.cnam.md
 -d map.norwoodmall.co.za
 -d maquinadosgutierrez.com
@@ -6291,7 +6392,6 @@ msFilterList
 -d marks397.co.za
 -d marksidfgs.ug
 -d marlena-maluje.pl
--d marmariscastajanslari.bykmedya.com
 -d marorocks.com
 -d marquesvogt.com
 -d marrsconstruction.com
@@ -6401,6 +6501,7 @@ msFilterList
 -d meatworld-pk.com
 -d mebel-fiesta54.ru
 -d mebel-for-school.ru
+-d mebli-land.com
 -d mechanoesis.gr
 -d mechinetralaya.org
 -d mechring.analogcloudtech.com
@@ -6466,6 +6567,7 @@ msFilterList
 -d meine.santander.de-id1nd81he1dbdv1vvadv1vag7d1vasvdd172dv7agseg1d1ds.xyz
 -d melanindiscovery.com
 -d melhoraragora.com
+-d melifilos.gr
 -d melitta-yoga.at
 -d melodicavibezz.com
 -d member.digipreneur.site
@@ -6480,6 +6582,7 @@ msFilterList
 -d mendoncacaporici.com.br
 -d menesesenovaes.adv.br
 -d menhairgrowth.net
+-d mensolesumisura.shop
 -d mensovann.com
 -d mentoriamaster.online
 -d mentorline.org
@@ -6491,6 +6594,7 @@ msFilterList
 -d merakitravelssrilanka.com
 -d meralawfirm.com
 -d mercadinho.comela.co.mz
+-d mercadodivi.com.br
 -d mercadoguapi.com.br
 -d mercanets.com
 -d merch.zeoncreation.com
@@ -6810,6 +6914,7 @@ msFilterList
 -d multisofterp.com.br
 -d multisyserp.com.br
 -d mulyahati.com
+-d mumgee.co.za
 -d mundialdeequipos.com.co
 -d mundodoingles.com.br
 -d mundodomedico.com.br
@@ -6868,7 +6973,6 @@ msFilterList
 -d mybizbuilder.com
 -d mychurch.sumy.ua
 -d mycollege.com.br
--d myctyh.com
 -d mydelcolawyers.com
 -d mydigitalcloud.ddns.net
 -d mydownloads.myftp.org
@@ -6917,10 +7021,12 @@ msFilterList
 -d mywmis14.top
 -d mywriteplatform.com
 -d myyamiyogurt.com
+-d mztransporteeturismo.com.br
 -d n-line.org
 -d n-proceso91263768097-2021.koreacentral.cloudapp.azure.com
 -d n.myvnc.com
 -d n109qroo.com
+-d n2n.ph
 -d n4ncfg.db.files.1drv.com
 -d naams.net
 -d naanayam.co.in
@@ -7015,6 +7121,7 @@ msFilterList
 -d neosmayorista.com
 -d neoxora.lk
 -d nepqa.smtpclick.com
+-d nera-lift.cz
 -d nerdherd.gr
 -d nerve.untergrund.net
 -d nesthomes.co.ke
@@ -7322,7 +7429,6 @@ msFilterList
 -d odvrticadokafica.com
 -d oej4aw.am.files.1drv.com
 -d oel.tg
--d oexcelence.com
 -d ofatomaringa.com.br
 -d ofatomaringa.com.brhts-cache
 -d offerkleind.com
@@ -7347,7 +7453,6 @@ msFilterList
 -d ojasdaily.com.au
 -d okaybuy.online
 -d okbay.online
--d oknoplastik.sk
 -d okynemedialab.com
 -d olap.ma
 -d old.ariun.mn
@@ -7374,7 +7479,6 @@ msFilterList
 -d omoaye.com.br
 -d oms.pappai.com
 -d omscoc.pappai.com
--d on-sights.com
 -d onboarding.managetrucksright.com
 -d oncrete-egy.com
 -d ondulato.com.br
@@ -7439,8 +7543,8 @@ msFilterList
 -d optimuspharm.rs
 -d opulent-imports.com
 -d oracle.zzhreceive.top
--d orangedoorrequest.com
 -d orangeplasticmachinery.com
+-d oravabrewing.com
 -d orbit10x.com
 -d orbitprotector.com
 -d orchid-em.com
@@ -7532,6 +7636,7 @@ msFilterList
 -d ozfacts.com
 -d oziris-doo.com
 -d ozupeq.am.files.1drv.com
+-d ozvita.club
 -d ozwq7q.am.files.1drv.com
 -d ozwxna.am.files.1drv.com
 -d p-sea.com
@@ -7627,6 +7732,7 @@ msFilterList
 -d pascauarquitectura.com
 -d pasionportufuturo.pe
 -d passionatepamperingllc.com
+-d paste-bin.xyz
 -d paste.c-net.org
 -d pastetext.net
 -d pastorcryptograph.at
@@ -7692,7 +7798,6 @@ msFilterList
 -d pelakmelak.com
 -d peles-group.com
 -d pelicanmetal.co.ke
--d pelisterultratrail.com
 -d pengkol-grobogan.desa.id
 -d pensiunealac.ro
 -d penta.or.id
@@ -7792,9 +7897,11 @@ msFilterList
 -d pingosip.top
 -d pingusenglish.it
 -d pingweiyuan.online
+-d pink99.com
 -d pinklabel.no
 -d pinkylifes.com
 -d pinkynail.nl
+-d pioneeravsolutions.com
 -d piramalmahalaxmi.site
 -d piratenhits.fm
 -d pironistudio.it
@@ -7956,6 +8063,7 @@ msFilterList
 -d preparekrok.com
 -d prerov.cuscz.cz
 -d presco.ml
+-d presensi.akuroptikjogja.com
 -d prestasicash.com.ar
 -d prestigehomeautomation.net
 -d prestigepluslaser.com
@@ -8133,7 +8241,6 @@ msFilterList
 -d pv3jtq.dm.files.1drv.com
 -d pv8ssq.bl.files.1drv.com
 -d pv8zpa.bl.files.1drv.com
--d pvcprinting.co.uk
 -d pvplglobal.com
 -d pvqhjq.bl.files.1drv.com
 -d pvtfans.com
@@ -8171,6 +8278,7 @@ msFilterList
 -d qh521.com
 -d qhcmd5h4rhxd3l.eastus2.cloudapp.azure.com
 -d qhyjgj.com
+-d qhyqp.com
 -d qhyzr.com
 -d qilylam.page.link
 -d qiqo.jatimhits.com
@@ -8424,6 +8532,7 @@ msFilterList
 -d refrigerationsparepartssuppliers.com
 -d regalasite.com
 -d regalplast.com
+-d register.srpoly.ac.th
 -d registration.managetrucksright.com
 -d registration.realestatehours.com
 -d registroenlinea.mx
@@ -8542,7 +8651,6 @@ msFilterList
 -d rjjlfg.sn.files.1drv.com
 -d rjldwg.sn.files.1drv.com
 -d rjmtel.com
--d rkaccountants4contractors.co.uk
 -d rkani.ifincloud.in
 -d rkds1.niyanshlive.com
 -d rkedutech.in
@@ -8661,7 +8769,6 @@ msFilterList
 -d rvsalesmanager.net
 -d rvsalestraining.net
 -d rwandaswimming.org
--d rxnasklola.com
 -d rymahyf.page.link
 -d rypimuky.page.link
 -d rytugu.page.link
@@ -8823,6 +8930,7 @@ msFilterList
 -d sayed.azq1.com
 -d sazabiblog.com
 -d sazis.page.link
+-d sb.campaigntemplate.com
 -d sbaf.ifincloud.in
 -d sbobetth.site
 -d sbrentacar.me
@@ -8862,6 +8970,7 @@ msFilterList
 -d seamlessvideowall.com
 -d searcer.x24hr.com
 -d searchcraigslist.us
+-d searchmotorinc.club
 -d searchquestpartners.com
 -d seaspeed.ae
 -d seb-ee.com
@@ -8965,6 +9074,7 @@ msFilterList
 -d sf2rfa.bn.files.1drv.com
 -d sf3a6q.bn.files.1drv.com
 -d sf3ora.bn.files.1drv.com
+-d sfnuop.com
 -d sfu0ow.by.files.1drv.com
 -d sfumrq.by.files.1drv.com
 -d sfvclg.by.files.1drv.com
@@ -9008,7 +9118,6 @@ msFilterList
 -d sheba.smgsoftech.com
 -d shefaalab.com
 -d sheltondepositg.com
--d shengxinwang.net
 -d shenzhenfoods.com
 -d sherence.ru
 -d sheridanwp-staging.azurewebsites.net
@@ -9108,7 +9217,7 @@ msFilterList
 -d silveroaktechnovations.com
 -d silverrunreserve.com
 -d silverworldapparelsltd.com
--d silvesterinmailand.com
+-d sim.akuroptikjogja.com
 -d simcorpltd.com
 -d simfyshare.xyz
 -d simgftesting.kabtakalar.id
@@ -9419,6 +9528,7 @@ msFilterList
 -d staging.emt-school.com
 -d staging.gurmehemen.com
 -d staging.leanmethods.com
+-d staging.mjmarketing.com.au
 -d staging.mobettertech.com
 -d staging.print-ac.com
 -d staging.publiclabel.matchmgassets.com
@@ -9470,6 +9580,7 @@ msFilterList
 -d sterileinstrument.com
 -d sterlinghost.com.ng
 -d sterlitecamotech.com
+-d stermygh.com
 -d stfu.attackhere.cf
 -d stfucomedy.com
 -d sthelenspreprimaryhyd.com
@@ -9581,6 +9692,7 @@ msFilterList
 -d support.ionoxwebstudio.com
 -d support.kumulsoft.com
 -d supportit.online
+-d supportpc.cl
 -d surabayahits.com
 -d surevisa.co
 -d surirapatt.com
@@ -9774,7 +9886,6 @@ msFilterList
 -d tecnomedica.es
 -d tecnomedrano.com.ar
 -d tedshuttle.co.za
--d tedxbissallard.com
 -d teemtecnologias.com
 -d teenbikiniguide.com
 -d teens-act.org
@@ -9965,6 +10076,7 @@ msFilterList
 -d themessage1009.com
 -d themodernindustries.com
 -d thenoblehouse.ae
+-d thenoces.com
 -d theolympic.co.nz
 -d theonerashawn.com
 -d theorestaurante.com
@@ -9990,6 +10102,7 @@ msFilterList
 -d thescihub.in
 -d thesensescollection.com
 -d theshoppersmarket2.theshoppersmarket.com
+-d theshowroomwholesale.com
 -d theteachingfactory.com
 -d thetoptens.in
 -d thetrendskill.com
@@ -10069,6 +10182,7 @@ msFilterList
 -d tiz2kg.dm.files.1drv.com
 -d tjhivxa.cluster030.hosting.ovh.net
 -d tk.w3.eyeteam.vn
+-d tlcnailbarhoover.com
 -d tmc.com.pk
 -d tmouserlaw.com
 -d tmpco-store.com
@@ -10130,6 +10244,7 @@ msFilterList
 -d tracker-one.com.au
 -d tracker.unalink.net
 -d tractorandinas.com
+-d trade-agro.top
 -d trade.com.mx
 -d trade.focuxahead.com
 -d trade.linguisticforum.com
@@ -10237,6 +10352,7 @@ msFilterList
 -d tuonglinh.com.vn
 -d tupperware.michaelroberge.ca
 -d tuq.ckauni.ru
+-d turbolider.kz
 -d turistgibi.com
 -d turkuazfilo.com.tr
 -d turnipshop.com
@@ -10389,7 +10505,6 @@ msFilterList
 -d uniradar.com.br
 -d unisoftcc.com
 -d united-alsafwa.com
--d unitedengineeringco.com
 -d unitedforher.flapbead.com
 -d unitedshuttles.nl
 -d unitedstategrantfunding.com
@@ -10484,6 +10599,7 @@ msFilterList
 -d v3-fastupload.s3-accelerate.amazonaws.com
 -d v3.webwoord.co.za
 -d v339216.hosted-by-vdsina.ru
+-d v4switch.com
 -d v6qmag.bl.files.1drv.com
 -d v8icew.db.files.1drv.com
 -d v93ylq.db.files.1drv.com
@@ -10543,7 +10659,6 @@ msFilterList
 -d velociousvbt.club
 -d vemartsa.com
 -d vendes.marketing
--d vendor.edqart.com
 -d vendorbox.com
 -d vendors.uhurugroup.net
 -d venezia-footwear.com
@@ -10562,6 +10677,7 @@ msFilterList
 -d veriq.page.link
 -d verizy.page.link
 -d verkeersschoolconcept.nl
+-d versatilepvt.com
 -d verticalworld.cl
 -d verveca.com
 -d verypremium.co
@@ -10615,7 +10731,6 @@ msFilterList
 -d villeducapbon.net
 -d villmergerpizza.ch
 -d vimalkitchenware.com
--d vinaychoithani.com
 -d vinkolventures.com
 -d vinmall.de
 -d vinoq.page.link
@@ -10710,8 +10825,8 @@ msFilterList
 -d vormax.link
 -d vorort-garage.ch
 -d vote.creativedune.com
+-d vote.lezashow.com
 -d votre-avis-en-ligne.com
--d vourey-sports.fr
 -d voxelinfosystem.com.np
 -d voxpurplev6.multflix.gq
 -d vozubu.page.link
@@ -10731,6 +10846,7 @@ msFilterList
 -d vpt0yq.bn.files.1drv.com
 -d vptfjw.bn.files.1drv.com
 -d vptmow.bn.files.1drv.com
+-d vpts.co.za
 -d vpujaw.bn.files.1drv.com
 -d vpv2da.bn.files.1drv.com
 -d vpvgmw.bn.files.1drv.com
@@ -11009,11 +11125,14 @@ msFilterList
 -d wp-dev.wellcode.io
 -d wp-projects.xyz
 -d wp-websites.com.au
+-d wp-znojemskabeseda-dev.azurewebsites.net
 -d wp.billows7.top
 -d wp.djooky.fun
 -d wp.jalanow.com
+-d wp.localserverweb.com
 -d wp.mgmiroslaw.com
 -d wp.readhere.in
+-d wp.seletoh.com
 -d wp.unadonna.it
 -d wp.webmavens.com
 -d wpdev.myprojectstaging.com
@@ -11125,6 +11244,7 @@ msFilterList
 -d xn--playerasparacampaa-30b.com
 -d xn--valenci-fwa.es
 -d xn--villanykuck-0eb.hu
+-d xn--vysx78fh5q.tw
 -d xnxx5.net
 -d xoang.net
 -d xochimilcolindo.com
@@ -11162,6 +11282,7 @@ msFilterList
 -d xyfovo.page.link
 -d xyhire.page.link
 -d xz.8dashi.com
+-d xz888.oss-cn-hangzhou.aliyuncs.com
 -d xzb3nq.bl.files.1drv.com
 -d xzbbta.bl.files.1drv.com
 -d xzbwvg.bl.files.1drv.com
@@ -11398,6 +11519,7 @@ msFilterList
 -d zumheilen.net
 -d zuptvtelugu.com
 -d zurieskinclinic.com
+-d zvv.sov-link.ru
 -d zw0nwa.db.files.1drv.com
 -d zw1dqq.db.files.1drv.com
 -d zw27hq.db.files.1drv.com
