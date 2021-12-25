@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 25 Dec 2021 00:11:08 +0000
+# Updated: Sat, 25 Dec 2021 12:11:05 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -546,6 +546,7 @@ msFilterList
 -d agcguide.com
 -d agconsultoressrl.com.ar
 -d agdm.ml
+-d agemn.co.za
 -d agenceguezzine.com
 -d agenciadestinos.net
 -d agenciainterative.com.br
@@ -900,7 +901,6 @@ msFilterList
 -d apifm.in
 -d apimar.eu
 -d apiups.pw
--d aplhamy.us
 -d aplperu.pe
 -d apnapansar.com
 -d apnionlinedukan.store
@@ -1104,7 +1104,6 @@ msFilterList
 -d assistcard.anuncio-ads.cl
 -d aster2.webtm.ru
 -d asterchile.cl
--d astexproject.com
 -d astria-theme.indodevmatech.com
 -d astro.livetestdemo.xyz
 -d astro.thedesignsdeal.com
@@ -1275,6 +1274,7 @@ msFilterList
 -d bangeroo-nutrition.de
 -d bangjinbd.com
 -d bangkokhospital.id
+-d bank.zanderscloud.com.ng
 -d banobosu.page.link
 -d banosareehouse.com
 -d banquet.inspiresoftware.co.in
@@ -1696,7 +1696,6 @@ msFilterList
 -d briar.com.my
 -d bricolambert.com
 -d bricopetvzla.com
--d brideofmessiah.com
 -d bridgeroad.maverickpreviews.com
 -d bridgesfoundationrepair.com
 -d brightmega.com
@@ -1886,6 +1885,7 @@ msFilterList
 -d carematrixltd.com
 -d careplusug.com
 -d cargo-protection.com
+-d cariustadz.org
 -d carloscasadocoach.com
 -d carlymanley.com
 -d carolalbuquerquemkt.com.br
@@ -1960,6 +1960,7 @@ msFilterList
 -d cdn.riowt.top
 -d cdn.sql.gg
 -d cdnfilesdrop.com
+-d cdnstoragelog.z13.web.core.windows.net
 -d cdpaper.in
 -d ce4blw.am.files.1drv.com
 -d ce4gwg.am.files.1drv.com
@@ -1981,6 +1982,7 @@ msFilterList
 -d cengyuncloud.com
 -d centernepalnews.com
 -d centr-dop.ru
+-d centralcdmx.gq
 -d centraldosmart.com
 -d centrale.casa
 -d centralparkadoor.com
@@ -2040,6 +2042,7 @@ msFilterList
 -d chafferimpex.com
 -d chaghkabab.com
 -d chakolwa.com
+-d chalecofenix.com
 -d chambres-hotes-vacances.com
 -d championsofinfra.com
 -d chandigarh.cityscoop.in
@@ -2402,7 +2405,6 @@ msFilterList
 -d craftorch.jp
 -d cranberrycustoms.com
 -d crbmokrousovo.sov-linkru
--d crearechile.cl
 -d creaser.mx
 -d createfutureworld.com
 -d createur-multimedia.com
@@ -2812,7 +2814,6 @@ msFilterList
 -d dev.parshvaweb.com
 -d dev.pictoruminvestments.com
 -d dev.promoscredits.com
--d dev.sebpo.net
 -d dev.sonicartoriginals.com
 -d dev.springbreaklife.com
 -d dev.taranakisupermotors.com
@@ -4047,7 +4048,6 @@ msFilterList
 -d fotofokusstudio.in
 -d fotoobjetivo.com
 -d fotowall.id
--d foundationrepairhoustontx.net
 -d fountoflife.net
 -d fouratlinks.com
 -d foursigns.online
@@ -4308,6 +4308,7 @@ msFilterList
 -d getondial.com
 -d getrinidad.tuprestamofacil.com
 -d gettier.in
+-d getwood.pt
 -d gewoonzorg.net
 -d gezweb.com
 -d gfnpfg.bn.files.1drv.com
@@ -4324,6 +4325,7 @@ msFilterList
 -d ghsbaghbabnpura.donlearn.com
 -d ghsmountlavinia.com
 -d ght.mcqsmentor.com
+-d ghurnibd.com
 -d ghusain.in
 -d giacomadiscounts.com
 -d giadinhviet.com
@@ -4339,7 +4341,6 @@ msFilterList
 -d ginko-sobe.com
 -d gippslandopenair.com
 -d gipsdizajn.mk
--d giromondotour.it
 -d gisupply-new.awp.uxtesting.net
 -d gitanosoftware.net
 -d githr.com
@@ -4523,7 +4524,6 @@ msFilterList
 -d grupounited.pt
 -d grupporuffo.com
 -d gruzof.by
--d gs.monerorx.com
 -d gsi-plus.com
 -d gsic1g.bn.files.1drv.com
 -d gsmcommerce.net
@@ -4783,7 +4783,6 @@ msFilterList
 -d hisarsms.com
 -d hisensor.kr
 -d hishamgraphics.com
--d hisharj.ir
 -d hispanicaidgroup.org
 -d historiasdelfifa.com
 -d hitadolawfirm.com
@@ -4879,6 +4878,7 @@ msFilterList
 -d hoteldonamaria.pt
 -d hotelhadieh.ir
 -d hotelluxura.com
+-d hotelroyalshelter.com
 -d hotelsidro.me
 -d hotelsoorya.in
 -d hoteltigerplus.com
@@ -4965,6 +4965,7 @@ msFilterList
 -d hzradiant.com
 -d i.spesgrt.com
 -d i4ts3g.am.files.1drv.com
+-d ia801502.us.archive.org
 -d iaalux.com.mx
 -d iamjitenpatel.com
 -d iantravels.com
@@ -5052,7 +5053,6 @@ msFilterList
 -d im-arc.co.il
 -d im2020.vip
 -d images.jermiau.com
--d imbueautoworx.co.za
 -d imediprof.edu.ge
 -d imersaorea.com.br
 -d img.ssaegsfaaebo.com
@@ -5128,6 +5128,7 @@ msFilterList
 -d informasi.akuroptikjogja.com
 -d informativemind.com
 -d informtime.social
+-d infovator.com
 -d infreejobalert.com
 -d infuga.cl
 -d ing-play.com
@@ -5180,7 +5181,6 @@ msFilterList
 -d instalaar.com
 -d instalive.fun
 -d install-cb.ru
--d installcb.space
 -d installintopc.com
 -d instanttekwp.com
 -d institutolondres.edu.mx
@@ -5437,7 +5437,6 @@ msFilterList
 -d jhv5mg.dm.files.1drv.com
 -d ji1.in
 -d jianji.witouch.my
--d jiaoyuzixun.cn
 -d jiffyhair.com
 -d jihug.page.link
 -d jimbaran-village.myitas.net
@@ -5665,6 +5664,7 @@ msFilterList
 -d kdthailand.com
 -d ke.ckauni.ru
 -d kebaikan.id
+-d kedaiweb.com.my
 -d keishaevents.com
 -d keitaprofile.site
 -d kekcahaks.ml
@@ -6106,6 +6106,7 @@ msFilterList
 -d liochi08.top
 -d liogak02.top
 -d liogci14.top
+-d liogyl18.top
 -d lion-groups.com
 -d lion-motors.com
 -d lionek12.top
@@ -6350,7 +6351,6 @@ msFilterList
 -d mail.tucorp.com.au
 -d mailaminhhieu.com
 -d mailblaster02.bosskufamous.com
--d maildn.daumcdn.net
 -d mailer.srkcommunication.biz
 -d mailer34.zzux.com
 -d main.ecbse.in
@@ -6636,6 +6636,7 @@ msFilterList
 -d meine.deutsche-bank.de-id1u8dh781eg9bd17vuazd1d79g9vgavd1g791dgcvfa8818g.xyz
 -d meine.santander.de-id18zc1ghbd7b1dzb8aigd921heig9dg1zfvzadzu17817.xyz
 -d meine.santander.de-id1nd81he1dbdv1vvadv1vag7d1vasvdd172dv7agseg1d1ds.xyz
+-d mekoautoinc.com
 -d melanindiscovery.com
 -d melhoraragora.com
 -d melifilos.gr
@@ -7529,7 +7530,6 @@ msFilterList
 -d ojasdaily.com.au
 -d okaybuy.online
 -d okbay.online
--d oknoplastik.sk
 -d okynemedialab.com
 -d olap.ma
 -d old.ariun.mn
@@ -7845,7 +7845,6 @@ msFilterList
 -d payherokenya.com
 -d payloads-poison.000webhostapp.com
 -d paymentreport.info
--d payments.atifsiddiqui.me
 -d paypaldev.wplabor.hu
 -d paype.live
 -d payroll.urbanviewhotel.co.ke
@@ -8258,6 +8257,7 @@ msFilterList
 -d proread.uz
 -d prorish.com
 -d prosoc.nl
+-d prosupport.cl
 -d protechasia.com
 -d protectride.com
 -d protekta.pk
@@ -8326,6 +8326,7 @@ msFilterList
 -d pv3jtq.dm.files.1drv.com
 -d pv8ssq.bl.files.1drv.com
 -d pv8zpa.bl.files.1drv.com
+-d pvcprinting.co.uk
 -d pvplglobal.com
 -d pvqhjq.bl.files.1drv.com
 -d pvtfans.com
@@ -8677,7 +8678,6 @@ msFilterList
 -d retailelectricprovider.com
 -d retailexpertscloud.com
 -d retailjar.com
--d retracker.host
 -d retro-clip-art.com
 -d returndaily.com
 -d revaprojectsllc.com
@@ -9194,7 +9194,6 @@ msFilterList
 -d shaheentbfoundation.com
 -d shahikhana.cstdevs.com
 -d shahtexltd.com
--d shahu66.com
 -d shajaf.com
 -d shakthitech.org
 -d shalsa3d.com
@@ -9211,6 +9210,7 @@ msFilterList
 -d sheba.smgsoftech.com
 -d shefaalab.com
 -d sheltondepositg.com
+-d shengxinwang.net
 -d shenzhenfoods.com
 -d sherence.ru
 -d sheridanwp-staging.azurewebsites.net
@@ -9735,7 +9735,6 @@ msFilterList
 -d subhalaalicaterers.com
 -d subidhabazar.in
 -d sublimecamera.com
--d submissions.tentcityrecords.net
 -d suburbanmusiccircle.org
 -d succeedandshinetraining.com
 -d successcode.my
@@ -10600,7 +10599,6 @@ msFilterList
 -d unicornhardware.in
 -d unicorpbrunei.com
 -d unicupload.top
--d unifashion.app.krazyit.com.au
 -d unifiedmicrosolutions.com
 -d uniformcelik.com
 -d unifp.com
@@ -10864,6 +10862,7 @@ msFilterList
 -d virtualtourdemo.mydemosystems.com
 -d virtualtourist.ch
 -d virusandroid.net
+-d vis-hosting.com
 -d visa.tg
 -d visahelp.club
 -d visahelp.guru
