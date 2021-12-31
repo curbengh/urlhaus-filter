@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 30 Dec 2021 12:11:21 +0000
+# Updated: Fri, 31 Dec 2021 00:10:57 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -65,7 +65,6 @@ msFilterList
 -d 145.edukovac1.net
 -d 1566xueshe.com
 -d 168801.xyz
--d 168betclub.com
 -d 170russell.com
 -d 171kwq.db.files.1drv.com
 -d 1993thibaut.freeboxos.fr
@@ -530,7 +529,6 @@ msFilterList
 -d affordabledebtrelief.com
 -d afly.co
 -d afnac.tresud.org
--d afnan-amc.com
 -d afra-carpet.ir
 -d africanflowerexchange.com
 -d africloset.com
@@ -544,6 +542,7 @@ msFilterList
 -d agcguide.com
 -d agconsultoressrl.com.ar
 -d agdm.ml
+-d agemn.co.za
 -d agenceguezzine.com
 -d agenciadestinos.net
 -d agenciainterative.com.br
@@ -628,7 +627,6 @@ msFilterList
 -d al-muhajirin.net
 -d al-wahd.com
 -d alabirambulance.com
--d aladainexpress.com
 -d alaperhotelan.id
 -d alarak.ae
 -d alaseeldates.com
@@ -1687,6 +1685,7 @@ msFilterList
 -d briar.com.my
 -d bricolambert.com
 -d bricopetvzla.com
+-d brideofmessiah.com
 -d bridgeroad.maverickpreviews.com
 -d bridgesfoundationrepair.com
 -d brightmega.com
@@ -1883,7 +1882,6 @@ msFilterList
 -d carregandopdfvirtualfts.brazilsouth.cloudapp.azure.com
 -d cars-taxonomy.mywebartist.eu
 -d carsaller.com
--d carshiv.ir
 -d carspa.co.id
 -d cartaovivaz.com.br
 -d carte-deuil.com
@@ -2011,6 +2009,7 @@ msFilterList
 -d cfgconline.org
 -d cfi.reika.co
 -d cfihoa.com
+-d cfmkrs.com
 -d cfs10.blog.daum.net
 -d cfs13.tistory.com
 -d cfs5.tistory.com
@@ -2120,7 +2119,6 @@ msFilterList
 -d cirptopsgrup.com
 -d citaconsantimolezun.es
 -d citationsherbe.at
--d citihits.lk
 -d citiqproperties.co.za
 -d citizenshipdialogueforum.com
 -d citorytech.com
@@ -2349,7 +2347,6 @@ msFilterList
 -d cosmetic-engel.de
 -d cosmicheartgallery.info
 -d costanortepotrerillos.com
--d count.mail.163.com.impactmedfoundation.com
 -d couriermailspost.com
 -d courses.sibmbpreinduction.com
 -d courtier-hypothecaire-multi-prets.com
@@ -2388,6 +2385,7 @@ msFilterList
 -d cranberrycustoms.com
 -d crazyphotobooth.ro
 -d crbmokrousovo.sov-linkru
+-d crearechile.cl
 -d creaser.mx
 -d createfutureworld.com
 -d createur-multimedia.com
@@ -2761,6 +2759,7 @@ msFilterList
 -d desserts.the-good-stuff.club
 -d destinazionecuba.it
 -d destinychild.com.ng
+-d destinymc.co.za
 -d detailing-kingdom.com
 -d detectivesinmumbai.co.in
 -d detoxdietsupplements.com
@@ -2932,10 +2931,12 @@ msFilterList
 -d djanguswest.com.br
 -d djecji-vrtic-carobno-ogledalce.hr
 -d djinganenfulbe.com
+-d djking.f3322.net
 -d djobsprinting.com
 -d djtransport.ch
 -d dkkcorp.com
 -d dkkdlfrl.beget.tech
+-d dl.1003b.56a.com
 -d dl.198424.com
 -d dl.9xu.com
 -d dl.installcdn-aws.com
@@ -3099,6 +3100,7 @@ msFilterList
 -d drvikaskakkar.in
 -d drymetal.com.br
 -d dscyr6dphlm79.cloudfront.net
+-d dsenterprize.co.za
 -d dskjdskhdhkshsksd.000webhostapp.com
 -d dsltuition.co.uk
 -d dsr.eddyhunt.com
@@ -4207,7 +4209,6 @@ msFilterList
 -d gautamconstruction.com
 -d gayanathmadusankha.com
 -d gayatrisahdev.com
--d gbsports.kiev.ua
 -d gc.dcimg.com
 -d gci-llc.com
 -d gclub-link.com
@@ -4672,6 +4673,7 @@ msFilterList
 -d healthzoneapp.com
 -d heartwithstyle.com
 -d heat.rey.agency
+-d heatcool.online
 -d hectorblandon.ottimosoft.com
 -d hegeguv.com
 -d heikafei.net
@@ -5073,7 +5075,6 @@ msFilterList
 -d indisc0rt.ru
 -d indohyundai.com
 -d indonesiangassociety.com
--d indonesias.me
 -d indrajitayurbedvaban.in
 -d indrasbikaner.com
 -d indrayasambavam.com
@@ -5354,7 +5355,6 @@ msFilterList
 -d jdbdispatch.com
 -d jdgfhq.dm.files.1drv.com
 -d jdi.co.za
--d jdkems.com
 -d jdmcarmart.com
 -d jdpl2a.dm.files.1drv.com
 -d jdpshw.dm.files.1drv.com
@@ -5401,7 +5401,6 @@ msFilterList
 -d jhv5mg.dm.files.1drv.com
 -d ji1.in
 -d jianji.witouch.my
--d jiaoyuzixun.cn
 -d jiffyhair.com
 -d jihug.page.link
 -d jimbaran-village.myitas.net
@@ -6702,6 +6701,7 @@ msFilterList
 -d migueltingo.ottimosoft1.com
 -d mijinogu.com
 -d mikewhitty.com
+-d mikhailmotoringschool.com
 -d mikhospitality.com.np
 -d mikron33.ru
 -d milan.demourl.ca
@@ -7801,6 +7801,7 @@ msFilterList
 -d payherokenya.com
 -d payloads-poison.000webhostapp.com
 -d paymentreport.info
+-d payments.atifsiddiqui.me
 -d paypaldev.wplabor.hu
 -d payroll.urbanviewhotel.co.ke
 -d paytren.my.id
@@ -7861,7 +7862,6 @@ msFilterList
 -d pertamaperkasa55vr.com
 -d pertanian.kusrini.com
 -d pesanku.com
--d pesonajati.com
 -d pesteco.com
 -d pet-oms.ru
 -d petboarding-cambodia.com
@@ -8123,6 +8123,7 @@ msFilterList
 -d principedicanosa.name
 -d print-city-shop.nl
 -d printas.ba
+-d printee.shop
 -d printinkdesign.tn
 -d printonline.ae
 -d prints914.com
@@ -8576,6 +8577,7 @@ msFilterList
 -d reju888.com
 -d relance.msk.ru
 -d relaxedview.com
+-d relaxindulge.co.nz
 -d reliability-plus.com
 -d reliableinvestments.ca
 -d reliccess.com
@@ -9508,6 +9510,7 @@ msFilterList
 -d squadlegion.crabdance.com
 -d squarehabitattogo.com
 -d sqyadmin.fr
+-d src1.minibai.com
 -d srcdatastorage.z13.web.core.windows.net
 -d srdelhuaje.com
 -d srfapl.com
@@ -10278,7 +10281,6 @@ msFilterList
 -d tr.social-impact.in
 -d tr.xweb.ma
 -d track.cargo-freights.com
--d tracker-one.com.au
 -d tracker.unalink.net
 -d tractorandinas.com
 -d trade-agro.top
@@ -10542,6 +10544,7 @@ msFilterList
 -d uniquecardwedding.co.id
 -d uniquepropertiesltd.com
 -d uniradar.com.br
+-d unisoftcc.com
 -d unitedengineeringco.com
 -d unitedforher.flapbead.com
 -d unitedshuttles.nl
@@ -11102,6 +11105,7 @@ msFilterList
 -d wissamyamout.com
 -d wisudaidbc.kampungitsolo.com
 -d wittymarathi.com
+-d witumart.com
 -d wiwaf.page.link
 -d wiwizuhy.page.link
 -d wizard.wwa.biz.ua
@@ -11218,7 +11222,6 @@ msFilterList
 -d xaydungbinhphuoc.vn
 -d xaynhathanhnam.com
 -d xblog.pro
--d xcelmasters.com
 -d xcelvationsjr.com
 -d xcuvo.com
 -d xdntlw.db.files.1drv.com
@@ -11536,9 +11539,7 @@ msFilterList
 -d zuduqe.page.link
 -d zufr.in
 -d zuhyt.page.link
--d zukavp08.top
 -d zukotm09.top
--d zuksav07.top
 -d zuktechnologies.com
 -d zumheilen.net
 -d zuptvtelugu.com
