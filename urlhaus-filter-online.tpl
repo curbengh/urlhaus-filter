@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Fri, 31 Dec 2021 12:10:58 +0000
+# Updated: Sat, 01 Jan 2022 00:11:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -29,11 +29,11 @@ msFilterList
 -d 91xxxooo.com
 -d 91yudao.com
 -d 92c49223-b37f-4157-904d-daf4679f14d5.usrfiles.com
--d 97nation.com
 -d 9812890593.com
 -d a3ium.davaohorizon.com
 -d aandsmarine.com
 -d aarsaindustries.com
+-d abbayedetarasteix.fr
 -d abdheshdesign.com
 -d abigaillagus.com
 -d abissnet.net
@@ -61,7 +61,6 @@ msFilterList
 -d agenciadestinos.net
 -d ah.btp-inc.ca
 -d aiqtest.com
--d airjordanscattery.com
 -d al-wahd.com
 -d aladainexpress.com
 -d alberts.diamondrelationscrm.us
@@ -70,7 +69,6 @@ msFilterList
 -d alexdubai.com.aldiabsteel.com
 -d alfatechsolution.com.np
 -d alittlebrave.com
--d allamerican.travel
 -d allforcreative.com.au
 -d allhomesrealestate.com.au
 -d alltestagain.lukehadaj.com.au
@@ -105,10 +103,10 @@ msFilterList
 -d ascendingprofitsystem.com
 -d ashwagandha.co.in
 -d ask-regard.call-save.biz
+-d ask.bidtoart.com
 -d assets.dsztfso.cn
 -d asu.com.vn
 -d atgame888.com
--d atifwears.com
 -d aulist.com
 -d autofficinaguerreri.it
 -d automoto.in.ua
@@ -124,7 +122,6 @@ msFilterList
 -d azimihotel.in
 -d azmeasurement.com
 -d b2gnegocios.com
--d baaroq.com
 -d backbenchfilm.chadfoto.com
 -d backgrounds.pk
 -d backpackumbrella.com
@@ -167,6 +164,7 @@ msFilterList
 -d bnbwealth.net
 -d boardingschoolsoftware.com
 -d bobcatminer-store.e-mantra.in
+-d bondpertayenergy.com
 -d bowmancollection.com
 -d breakingbread.modelacademy.co.in
 -d briar.com.my
@@ -204,7 +202,6 @@ msFilterList
 -d cbn.hypervoizd.com
 -d cdaonline.com.ar
 -d cdn-10049480.file.myqcloud.com
--d cdn.riowt.top
 -d ceit.top
 -d cellas.sk
 -d centr-dop.ru
@@ -243,6 +240,7 @@ msFilterList
 -d client.meetsusolutions.com
 -d clinicareers.com
 -d cloud.fc.co.mz
+-d cloudsoft.or.ke
 -d clovekwealth.com
 -d cm-arquitetos.com
 -d coachingcorporal.cl
@@ -297,6 +295,7 @@ msFilterList
 -d d9.99ddd.com
 -d da.alibuf.com
 -d dacui.online
+-d daftar.site
 -d daichiinternational.com
 -d dalice.edu.zm
 -d danaevara.com
@@ -329,6 +328,7 @@ msFilterList
 -d deseo.torreblancamusica.com
 -d designerliving.co.za
 -d designoweb.website
+-d destinymc.co.za
 -d dev-exec-champions-for-growth.pantheonsite.io
 -d dev.apna-foods.com
 -d dev.beneficialelectrification-co.com
@@ -377,6 +377,7 @@ msFilterList
 -d down.rxgif.cn
 -d down.udashi.com
 -d down.webbora.com
+-d down.yjhyjl.cn
 -d download.caihong.com
 -d download.doumaibiji.cn
 -d download.pdf00.cn
@@ -385,7 +386,6 @@ msFilterList
 -d download2.info
 -d downloads.bcweb.org.uk
 -d downloafilesaccess.ddns.net
--d downshiftingrace.top
 -d dr-management.org
 -d dralexandrecavalcante.com.br
 -d dreamwatchevent.com
@@ -418,6 +418,7 @@ msFilterList
 -d ekatmata.com
 -d ekosol.ba
 -d elbauldelosregalos.com
+-d elearn2015.siamtechu.net
 -d elearning.physiotraining.com.gt
 -d electrocanada.online
 -d elevate.kushedup.com
@@ -428,7 +429,6 @@ msFilterList
 -d email.zeroemission.in
 -d emegablog.com
 -d emepassports.com.xdtech.site
--d emmanuel-brossier.com
 -d emmanuelle-guillemard.fr
 -d empowercareer.com
 -d emtc.jp
@@ -439,8 +439,10 @@ msFilterList
 -d entelkoy.net
 -d ergotherapeia-kalamata.gr
 -d es.islamforchristians.com
+-d eslomingenieria.com.ar
 -d esoftworld.co.kr
 -d estiloymadera.com.py
+-d estudeoline.colegioomega.com
 -d etisalatbuyback.com
 -d evaluecrm.com
 -d excavatorgroup.com
@@ -506,10 +508,9 @@ msFilterList
 -d garibaldidal1970.com
 -d gastronews.by
 -d gdyakali.com
--d genebank.iita.org
+-d geo-lines.com
 -d geograf.uz
 -d giadinhviet.com
--d giftgardening.com
 -d global-dis.com
 -d globaldeeds.com
 -d globalprod.ru
@@ -557,7 +558,6 @@ msFilterList
 -d hanso.com.au
 -d hartcontractorsltd.com
 -d hashtagmedia.co.in
--d hata.co.za
 -d hb888.luminati-china.net
 -d hdkamera2003.hu
 -d healthnoteacademy.com
@@ -594,13 +594,11 @@ msFilterList
 -d humanresourceslifeline.com
 -d humvegetarian.w3.eyeteam.vn
 -d hunggiang.vn
--d hxm.am
 -d hydromet.gov.bz
 -d hyundai-automotorsport.com
 -d hz1.xhjmmm.com
 -d ia801502.us.archive.org
 -d ibooking.campaignhub.net
--d icmarkets-zhg.cn
 -d idcard.northerntrader.net
 -d idilsoft.com
 -d idj.no
@@ -653,6 +651,7 @@ msFilterList
 -d jqueri-web.at
 -d js-hurling.com
 -d juancarloshernandez.us
+-d jurnalismictv.com
 -d justinscott.com.au
 -d k-antiques.jp
 -d kadigital.co.uk
@@ -680,6 +679,7 @@ msFilterList
 -d klija.net
 -d kodekode.ac.ug
 -d korrectconceptservices.com
+-d kotob.top
 -d krainikovvlad.eternalhost.info
 -d kramersmarionnettes.com
 -d krisbadminton.com
@@ -689,7 +689,6 @@ msFilterList
 -d ksansari.pk
 -d kurumsal.avantajbulvari.com
 -d kutegiagoc.com
--d kyrdpn06.top
 -d lameguard.ru
 -d landing.serv-il.co.il
 -d landing.yetiapp.ec
@@ -726,7 +725,6 @@ msFilterList
 -d los3don.com
 -d lotsync.com
 -d ls-droid.com
--d ltc.typoten.com
 -d lucyonmued.site
 -d luminouspneuma.com
 -d lurchmath.org
@@ -735,6 +733,7 @@ msFilterList
 -d m.ashiwenhua.net
 -d macmor-media.com.au
 -d mahalkoh.com
+-d mail.bs-eiendomme.co.za
 -d mail.filastiniyat.org
 -d mail.tucorp.com.au
 -d mailer.srkcommunication.biz
@@ -817,6 +816,7 @@ msFilterList
 -d mtc.joburg.org.za
 -d mtmusicaemercado.com.br
 -d muhammetdilber.com
+-d multiairsrl.com.ar
 -d multisyserp.com.br
 -d mumgee.co.za
 -d mutebimetalworks.com
@@ -868,7 +868,6 @@ msFilterList
 -d novecchio.com
 -d ns1.the-widyantos.com
 -d nsb.org.uk
--d nusc.ir
 -d nwcci.com.pk
 -d nwx.mwtbusiness.com
 -d oceancitymdforsalebyowner.com
@@ -976,7 +975,6 @@ msFilterList
 -d promas.com
 -d promoversdubai.com
 -d prosoc.nl
--d prosupport.cl
 -d protechasia.com
 -d provantagemtn.co.za
 -d proyectartpanama.com
@@ -1170,7 +1168,9 @@ msFilterList
 -d testwp.wink.deals
 -d tetasms.com
 -d thaayagam.com
+-d thalesfu.com
 -d tharringtonsponsorship.com
+-d theangelz.com.br
 -d thehotelshowdev.bitkit.dk
 -d thenoces.com
 -d theprint.ninja
@@ -1188,10 +1188,8 @@ msFilterList
 -d tk.w3.eyeteam.vn
 -d tnk-moflad.com
 -d todoapp.cstdevs.com
--d together1022.online
 -d tonydong.com
 -d tonyzone.com
--d toobee.ctadesarrollos.com.co
 -d tools.reimclub.com
 -d torresquinterocorp.com
 -d towardsun.net
@@ -1234,7 +1232,6 @@ msFilterList
 -d veniedu.com
 -d venveo.wordpressdeveloper.info
 -d versatilepvt.com
--d vg.gurusoftware.in
 -d victorysanitizer.com
 -d vietlime.vn
 -d view.pasarjaya.co.id

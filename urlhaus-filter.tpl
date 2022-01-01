@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Fri, 31 Dec 2021 12:10:58 +0000
+# Updated: Sat, 01 Jan 2022 00:11:00 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -2760,6 +2760,7 @@ msFilterList
 -d desserts.the-good-stuff.club
 -d destinazionecuba.it
 -d destinychild.com.ng
+-d destinymc.co.za
 -d detailing-kingdom.com
 -d detectivesinmumbai.co.in
 -d detoxdietsupplements.com
@@ -3728,7 +3729,6 @@ msFilterList
 -d fabrica-zs.com
 -d fabricadecampeoesbrasil.com
 -d fabricadehomens.com.br
--d fabricsdirect4you.com
 -d fabritonescontract.com
 -d fabuladoras.com.br
 -d faceks.com
@@ -4116,7 +4116,6 @@ msFilterList
 -d fundacionfortalecer.org
 -d fundacionrafaelgimenez.com
 -d fundacionserfeliz.org
--d fundacionwiese.com
 -d funletters.net
 -d funmag.ro
 -d funpress.ir
@@ -4954,7 +4953,6 @@ msFilterList
 -d icgsame.cf
 -d ichibansystems.pe
 -d iclicksystems.com
--d icmarkets-zhg.cn
 -d icome.umrah.ac.id
 -d icounter.gmzone.ru
 -d ictf.online
@@ -5200,7 +5198,6 @@ msFilterList
 -d iosoftware.org
 -d iot.delta-tronic.com
 -d iovx4g.db.files.1drv.com
--d ip191.ip-145-239-54.eu
 -d ipage.com.ar
 -d iparoute.com.br
 -d ipe-africa.org
@@ -6193,7 +6190,6 @@ msFilterList
 -d lsppramindo.com
 -d lsptd.com
 -d ltc.geriu.org
--d ltc.typoten.com
 -d ltnoticias.com.ar
 -d ltvdpq.bn.files.1drv.com
 -d ltvenglish.com
@@ -6299,6 +6295,7 @@ msFilterList
 -d maichauhospital.org
 -d maidahcontinental.co.in
 -d mail.autokazakov.bg
+-d mail.bs-eiendomme.co.za
 -d mail.edaak.in
 -d mail.emilyanncain.com
 -d mail.filastiniyat.org
@@ -8208,7 +8205,6 @@ msFilterList
 -d proread.uz
 -d prorish.com
 -d prosoc.nl
--d prosupport.cl
 -d protechasia.com
 -d protectride.com
 -d protekta.pk
@@ -10778,6 +10774,7 @@ msFilterList
 -d viphco.ir
 -d viphyw.com
 -d vipreklamgrafika.hu
+-d viralbeauty.id
 -d virasea.ir
 -d virfilms.in
 -d virtual.ecowaykis.com
@@ -11533,7 +11530,6 @@ msFilterList
 -d zuduqe.page.link
 -d zufr.in
 -d zuhyt.page.link
--d zukotm09.top
 -d zuktechnologies.com
 -d zumheilen.net
 -d zuptvtelugu.com
