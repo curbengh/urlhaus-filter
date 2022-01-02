@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 01 Jan 2022 12:11:01 +0000
+# Updated: Sun, 02 Jan 2022 00:11:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -95,7 +95,6 @@
 0.0.0.0 2020.jasapembayaran.com
 0.0.0.0 2021xiazai.com
 0.0.0.0 20antonh.kaomedia.net
-0.0.0.0 21robo.com
 0.0.0.0 21stcenturyelectronics.net
 0.0.0.0 225km.com
 0.0.0.0 24asia.news
@@ -539,7 +538,6 @@
 0.0.0.0 agcguide.com
 0.0.0.0 agconsultoressrl.com.ar
 0.0.0.0 agdm.ml
-0.0.0.0 agemn.co.za
 0.0.0.0 agenceguezzine.com
 0.0.0.0 agenciadestinos.net
 0.0.0.0 agenciainterative.com.br
@@ -1265,7 +1263,6 @@
 0.0.0.0 bangjinbd.com
 0.0.0.0 bangkok-orchids.com
 0.0.0.0 bangkokhospital.id
-0.0.0.0 bank.zanderscloud.com.ng
 0.0.0.0 banobosu.page.link
 0.0.0.0 banosareehouse.com
 0.0.0.0 banquet.inspiresoftware.co.in
@@ -1944,6 +1941,7 @@
 0.0.0.0 cdn-g0962.int-onedrive.com
 0.0.0.0 cdn.ciscordapp.com
 0.0.0.0 cdn.eventexposer.com
+0.0.0.0 cdn.medicatusb.xyz
 0.0.0.0 cdn.riowt.top
 0.0.0.0 cdn.sql.gg
 0.0.0.0 cdnfilesdrop.com
@@ -2007,7 +2005,6 @@
 0.0.0.0 cfgconline.org
 0.0.0.0 cfi.reika.co
 0.0.0.0 cfihoa.com
-0.0.0.0 cfmkrs.com
 0.0.0.0 cfs10.blog.daum.net
 0.0.0.0 cfs13.tistory.com
 0.0.0.0 cfs5.tistory.com
@@ -2116,7 +2113,6 @@
 0.0.0.0 cirptopsgrup.com
 0.0.0.0 citaconsantimolezun.es
 0.0.0.0 citationsherbe.at
-0.0.0.0 citihits.lk
 0.0.0.0 citiqproperties.co.za
 0.0.0.0 citizenshipdialogueforum.com
 0.0.0.0 citorytech.com
@@ -2383,6 +2379,7 @@
 0.0.0.0 cranberrycustoms.com
 0.0.0.0 crazyphotobooth.ro
 0.0.0.0 crbmokrousovo.sov-linkru
+0.0.0.0 crearechile.cl
 0.0.0.0 creaser.mx
 0.0.0.0 createfutureworld.com
 0.0.0.0 createur-multimedia.com
@@ -2394,7 +2391,6 @@
 0.0.0.0 creativetechnologiesindia.com
 0.0.0.0 creativexlab.com
 0.0.0.0 creators-e.in
-0.0.0.0 crecerco.com
 0.0.0.0 credit-hire.com
 0.0.0.0 creditboosterny.com
 0.0.0.0 creditoimpostaformazione.it
@@ -2463,7 +2459,6 @@
 0.0.0.0 ct42675.tmweb.ru
 0.0.0.0 ctcarehospital.in
 0.0.0.0 ctic.icagi.sn
-0.0.0.0 cu44307.tmweb.ru
 0.0.0.0 cu85891.tmweb.ru
 0.0.0.0 cubescabinets.com
 0.0.0.0 cubitus.africa
@@ -4817,6 +4812,7 @@
 0.0.0.0 hosif.page.link
 0.0.0.0 hospedeoculto.com.br
 0.0.0.0 hospice.maxone24.com
+0.0.0.0 hospital.isra.support
 0.0.0.0 hospital.shuleyanguonline.co.ke
 0.0.0.0 hospitalveterinario.uy
 0.0.0.0 hospitech.my
@@ -4936,6 +4932,7 @@
 0.0.0.0 iaw.iaweb.ir
 0.0.0.0 ibabeducacao.digital
 0.0.0.0 ibommetropoly.com
+0.0.0.0 ibooking.campaignhub.net
 0.0.0.0 ibraheems.pk
 0.0.0.0 ibrand-peru.com
 0.0.0.0 icarusgroup.net
@@ -4948,6 +4945,7 @@
 0.0.0.0 icgsame.cf
 0.0.0.0 ichibansystems.pe
 0.0.0.0 iclicksystems.com
+0.0.0.0 icmarkets-zhg.cn
 0.0.0.0 icome.umrah.ac.id
 0.0.0.0 icounter.gmzone.ru
 0.0.0.0 ictf.online
@@ -5575,7 +5573,6 @@
 0.0.0.0 karantinatahfizh.com
 0.0.0.0 karasidai.com
 0.0.0.0 karenagc.org
-0.0.0.0 karer.by
 0.0.0.0 karimirestaurant.com
 0.0.0.0 karir.stikesmedistra-indonesia.ac.id
 0.0.0.0 karisacosmeticos.com
@@ -6263,6 +6260,7 @@
 0.0.0.0 madarbloghogya.blogspot.com
 0.0.0.0 madeireiranovaalianca.com.br
 0.0.0.0 madeireiranp.com.br
+0.0.0.0 madicon.co.za
 0.0.0.0 madieandme.com.au
 0.0.0.0 madrascreatives.com
 0.0.0.0 madroscmetafory.pl
@@ -6291,6 +6289,7 @@
 0.0.0.0 maichauhospital.org
 0.0.0.0 maidahcontinental.co.in
 0.0.0.0 mail.autokazakov.bg
+0.0.0.0 mail.bs-eiendomme.co.za
 0.0.0.0 mail.edaak.in
 0.0.0.0 mail.emilyanncain.com
 0.0.0.0 mail.filastiniyat.org
@@ -6474,7 +6473,6 @@
 0.0.0.0 matrixvfx.com
 0.0.0.0 matrizrp.com.br
 0.0.0.0 mattus.com.br
-0.0.0.0 maurizio.ac.ug
 0.0.0.0 mautic.touchpainter.com
 0.0.0.0 mavenroche.com
 0.0.0.0 mavensidd.com
@@ -6690,7 +6688,6 @@
 0.0.0.0 migueltingo.ottimosoft1.com
 0.0.0.0 mijinogu.com
 0.0.0.0 mikewhitty.com
-0.0.0.0 mikhailmotoringschool.com
 0.0.0.0 mikhospitality.com.np
 0.0.0.0 mikron33.ru
 0.0.0.0 milan.demourl.ca
@@ -7153,11 +7150,11 @@
 0.0.0.0 netflixmovi.com
 0.0.0.0 netnz.com.br
 0.0.0.0 netrosol.com
+0.0.0.0 nettube.com.br
 0.0.0.0 network.smartrest.am
 0.0.0.0 networkerprofesional.co
 0.0.0.0 networkpro.cc
 0.0.0.0 networktmg.com
-0.0.0.0 networkwheels.co.za
 0.0.0.0 neu.sy-pinocchio.de
 0.0.0.0 nevermiss.su
 0.0.0.0 new-riconquistarelitalia.it
@@ -7841,7 +7838,6 @@
 0.0.0.0 perimood.com
 0.0.0.0 peritoinformatico.ec
 0.0.0.0 permagraf.com.mx
-0.0.0.0 perpustekim.untirta.ac.id
 0.0.0.0 personalcredit-cardscreditjourney-com.stackstaging.com
 0.0.0.0 personaliblog.centar.ee
 0.0.0.0 perspectivimmo.com
@@ -8118,7 +8114,6 @@
 0.0.0.0 prismart.com.mx
 0.0.0.0 privacy-tools-for-you-777.com
 0.0.0.0 privacy-tools-for-you777.com
-0.0.0.0 privacy-toolz-for-you-3000.top
 0.0.0.0 privacy-toolz-for-you-5000.top
 0.0.0.0 privacytools-for-you-777.com
 0.0.0.0 privacytools-foryou-777.com
@@ -8263,7 +8258,6 @@
 0.0.0.0 pv3jtq.dm.files.1drv.com
 0.0.0.0 pv8ssq.bl.files.1drv.com
 0.0.0.0 pv8zpa.bl.files.1drv.com
-0.0.0.0 pvcprinting.co.uk
 0.0.0.0 pvplglobal.com
 0.0.0.0 pvqhjq.bl.files.1drv.com
 0.0.0.0 pvtfans.com
@@ -8563,7 +8557,6 @@
 0.0.0.0 reju888.com
 0.0.0.0 relance.msk.ru
 0.0.0.0 relaxedview.com
-0.0.0.0 relaxindulge.co.nz
 0.0.0.0 reliability-plus.com
 0.0.0.0 reliableinvestments.ca
 0.0.0.0 reliccess.com
@@ -9710,7 +9703,6 @@
 0.0.0.0 support.idealadvertising.net
 0.0.0.0 support.ionoxwebstudio.com
 0.0.0.0 support.kumulsoft.com
-0.0.0.0 supportit.online
 0.0.0.0 supportpc.cl
 0.0.0.0 surabayahits.com
 0.0.0.0 suresafemovers.com
@@ -10064,6 +10056,7 @@
 0.0.0.0 thecowbook.com
 0.0.0.0 thecreatorent.com
 0.0.0.0 thecruiseprofessional.com
+0.0.0.0 thedesertship.com
 0.0.0.0 thedesignsdeal.com
 0.0.0.0 thedesire.pk
 0.0.0.0 thedestinationjourney.com
@@ -10519,6 +10512,7 @@
 0.0.0.0 unicornhardware.in
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 unicupload.top
+0.0.0.0 unifashion.app.krazyit.com.au
 0.0.0.0 unifiedmicrosolutions.com
 0.0.0.0 uniformcelik.com
 0.0.0.0 unifp.com
@@ -10529,7 +10523,6 @@
 0.0.0.0 uniquecardwedding.co.id
 0.0.0.0 uniquepropertiesltd.com
 0.0.0.0 uniradar.com.br
-0.0.0.0 unisoftcc.com
 0.0.0.0 unitedengineeringco.com
 0.0.0.0 unitedforher.flapbead.com
 0.0.0.0 unitedshuttles.nl
@@ -10766,7 +10759,6 @@
 0.0.0.0 viphco.ir
 0.0.0.0 viphyw.com
 0.0.0.0 vipreklamgrafika.hu
-0.0.0.0 viralbeauty.id
 0.0.0.0 virasea.ir
 0.0.0.0 virfilms.in
 0.0.0.0 virtual.ecowaykis.com

@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 01 Jan 2022 12:11:01 +0000
+# Updated: Sun, 02 Jan 2022 00:11:04 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -98,7 +98,6 @@ msFilterList
 -d 2020.jasapembayaran.com
 -d 2021xiazai.com
 -d 20antonh.kaomedia.net
--d 21robo.com
 -d 21stcenturyelectronics.net
 -d 225km.com
 -d 24asia.news
@@ -542,7 +541,6 @@ msFilterList
 -d agcguide.com
 -d agconsultoressrl.com.ar
 -d agdm.ml
--d agemn.co.za
 -d agenceguezzine.com
 -d agenciadestinos.net
 -d agenciainterative.com.br
@@ -1268,7 +1266,6 @@ msFilterList
 -d bangjinbd.com
 -d bangkok-orchids.com
 -d bangkokhospital.id
--d bank.zanderscloud.com.ng
 -d banobosu.page.link
 -d banosareehouse.com
 -d banquet.inspiresoftware.co.in
@@ -1947,6 +1944,7 @@ msFilterList
 -d cdn-g0962.int-onedrive.com
 -d cdn.ciscordapp.com
 -d cdn.eventexposer.com
+-d cdn.medicatusb.xyz
 -d cdn.riowt.top
 -d cdn.sql.gg
 -d cdnfilesdrop.com
@@ -2010,7 +2008,6 @@ msFilterList
 -d cfgconline.org
 -d cfi.reika.co
 -d cfihoa.com
--d cfmkrs.com
 -d cfs10.blog.daum.net
 -d cfs13.tistory.com
 -d cfs5.tistory.com
@@ -2119,7 +2116,6 @@ msFilterList
 -d cirptopsgrup.com
 -d citaconsantimolezun.es
 -d citationsherbe.at
--d citihits.lk
 -d citiqproperties.co.za
 -d citizenshipdialogueforum.com
 -d citorytech.com
@@ -2386,6 +2382,7 @@ msFilterList
 -d cranberrycustoms.com
 -d crazyphotobooth.ro
 -d crbmokrousovo.sov-linkru
+-d crearechile.cl
 -d creaser.mx
 -d createfutureworld.com
 -d createur-multimedia.com
@@ -2397,7 +2394,6 @@ msFilterList
 -d creativetechnologiesindia.com
 -d creativexlab.com
 -d creators-e.in
--d crecerco.com
 -d credit-hire.com
 -d creditboosterny.com
 -d creditoimpostaformazione.it
@@ -2466,7 +2462,6 @@ msFilterList
 -d ct42675.tmweb.ru
 -d ctcarehospital.in
 -d ctic.icagi.sn
--d cu44307.tmweb.ru
 -d cu85891.tmweb.ru
 -d cubescabinets.com
 -d cubitus.africa
@@ -4820,6 +4815,7 @@ msFilterList
 -d hosif.page.link
 -d hospedeoculto.com.br
 -d hospice.maxone24.com
+-d hospital.isra.support
 -d hospital.shuleyanguonline.co.ke
 -d hospitalveterinario.uy
 -d hospitech.my
@@ -4939,6 +4935,7 @@ msFilterList
 -d iaw.iaweb.ir
 -d ibabeducacao.digital
 -d ibommetropoly.com
+-d ibooking.campaignhub.net
 -d ibraheems.pk
 -d ibrand-peru.com
 -d icarusgroup.net
@@ -4951,6 +4948,7 @@ msFilterList
 -d icgsame.cf
 -d ichibansystems.pe
 -d iclicksystems.com
+-d icmarkets-zhg.cn
 -d icome.umrah.ac.id
 -d icounter.gmzone.ru
 -d ictf.online
@@ -5578,7 +5576,6 @@ msFilterList
 -d karantinatahfizh.com
 -d karasidai.com
 -d karenagc.org
--d karer.by
 -d karimirestaurant.com
 -d karir.stikesmedistra-indonesia.ac.id
 -d karisacosmeticos.com
@@ -6266,6 +6263,7 @@ msFilterList
 -d madarbloghogya.blogspot.com
 -d madeireiranovaalianca.com.br
 -d madeireiranp.com.br
+-d madicon.co.za
 -d madieandme.com.au
 -d madrascreatives.com
 -d madroscmetafory.pl
@@ -6294,6 +6292,7 @@ msFilterList
 -d maichauhospital.org
 -d maidahcontinental.co.in
 -d mail.autokazakov.bg
+-d mail.bs-eiendomme.co.za
 -d mail.edaak.in
 -d mail.emilyanncain.com
 -d mail.filastiniyat.org
@@ -6477,7 +6476,6 @@ msFilterList
 -d matrixvfx.com
 -d matrizrp.com.br
 -d mattus.com.br
--d maurizio.ac.ug
 -d mautic.touchpainter.com
 -d mavenroche.com
 -d mavensidd.com
@@ -6693,7 +6691,6 @@ msFilterList
 -d migueltingo.ottimosoft1.com
 -d mijinogu.com
 -d mikewhitty.com
--d mikhailmotoringschool.com
 -d mikhospitality.com.np
 -d mikron33.ru
 -d milan.demourl.ca
@@ -7156,11 +7153,11 @@ msFilterList
 -d netflixmovi.com
 -d netnz.com.br
 -d netrosol.com
+-d nettube.com.br
 -d network.smartrest.am
 -d networkerprofesional.co
 -d networkpro.cc
 -d networktmg.com
--d networkwheels.co.za
 -d neu.sy-pinocchio.de
 -d nevermiss.su
 -d new-riconquistarelitalia.it
@@ -7844,7 +7841,6 @@ msFilterList
 -d perimood.com
 -d peritoinformatico.ec
 -d permagraf.com.mx
--d perpustekim.untirta.ac.id
 -d personalcredit-cardscreditjourney-com.stackstaging.com
 -d personaliblog.centar.ee
 -d perspectivimmo.com
@@ -8121,7 +8117,6 @@ msFilterList
 -d prismart.com.mx
 -d privacy-tools-for-you-777.com
 -d privacy-tools-for-you777.com
--d privacy-toolz-for-you-3000.top
 -d privacy-toolz-for-you-5000.top
 -d privacytools-for-you-777.com
 -d privacytools-foryou-777.com
@@ -8266,7 +8261,6 @@ msFilterList
 -d pv3jtq.dm.files.1drv.com
 -d pv8ssq.bl.files.1drv.com
 -d pv8zpa.bl.files.1drv.com
--d pvcprinting.co.uk
 -d pvplglobal.com
 -d pvqhjq.bl.files.1drv.com
 -d pvtfans.com
@@ -8566,7 +8560,6 @@ msFilterList
 -d reju888.com
 -d relance.msk.ru
 -d relaxedview.com
--d relaxindulge.co.nz
 -d reliability-plus.com
 -d reliableinvestments.ca
 -d reliccess.com
@@ -9713,7 +9706,6 @@ msFilterList
 -d support.idealadvertising.net
 -d support.ionoxwebstudio.com
 -d support.kumulsoft.com
--d supportit.online
 -d supportpc.cl
 -d surabayahits.com
 -d suresafemovers.com
@@ -10067,6 +10059,7 @@ msFilterList
 -d thecowbook.com
 -d thecreatorent.com
 -d thecruiseprofessional.com
+-d thedesertship.com
 -d thedesignsdeal.com
 -d thedesire.pk
 -d thedestinationjourney.com
@@ -10522,6 +10515,7 @@ msFilterList
 -d unicornhardware.in
 -d unicorpbrunei.com
 -d unicupload.top
+-d unifashion.app.krazyit.com.au
 -d unifiedmicrosolutions.com
 -d uniformcelik.com
 -d unifp.com
@@ -10532,7 +10526,6 @@ msFilterList
 -d uniquecardwedding.co.id
 -d uniquepropertiesltd.com
 -d uniradar.com.br
--d unisoftcc.com
 -d unitedengineeringco.com
 -d unitedforher.flapbead.com
 -d unitedshuttles.nl
@@ -10769,7 +10762,6 @@ msFilterList
 -d viphco.ir
 -d viphyw.com
 -d vipreklamgrafika.hu
--d viralbeauty.id
 -d virasea.ir
 -d virfilms.in
 -d virtual.ecowaykis.com
