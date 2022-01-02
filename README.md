@@ -25,7 +25,7 @@ Check out my other filters:
 
 - [phishing-filter](https://gitlab.com/curben/phishing-filter)
 - [pup-filter](https://gitlab.com/curben/pup-filter)
-- [tracking-filter](https://gitlab.com/curben/tracking-filter) (pre-alpha)
+- [tracking-filter](https://gitlab.com/curben/tracking-filter)
 
 ## URL-based
 
