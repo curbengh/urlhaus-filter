@@ -1,5 +1,5 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: Thu, 06 Jan 2022 00:11:03 +0000
+# Updated: Thu, 06 Jan 2022 12:10:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -27,6 +27,7 @@
 0.0.0.0 92c49223-b37f-4157-904d-daf4679f14d5.usrfiles.com
 0.0.0.0 9812890593.com
 0.0.0.0 a3ium.davaohorizon.com
+0.0.0.0 aarogya-seva.com
 0.0.0.0 aarsaindustries.com
 0.0.0.0 abdheshdesign.com
 0.0.0.0 abigaillagus.com
@@ -106,7 +107,6 @@
 0.0.0.0 awokeq.co.za
 0.0.0.0 ayam-geprek-pitoe.com
 0.0.0.0 ayearatthetable.wpsupport.urdemo.website
-0.0.0.0 ayvalikciceksiparisi.com
 0.0.0.0 ayyildizoto.com
 0.0.0.0 azerbaijan-tourism.com
 0.0.0.0 azmeasurement.com
@@ -148,7 +148,6 @@
 0.0.0.0 bmss.org.in
 0.0.0.0 boardingschoolsoftware.com
 0.0.0.0 bobcatminer-store.e-mantra.in
-0.0.0.0 bondpertayenergy.com
 0.0.0.0 botmaybe11.mcdir.me
 0.0.0.0 bowmancollection.com
 0.0.0.0 breakingbread.modelacademy.co.in
@@ -192,7 +191,6 @@
 0.0.0.0 centuaryfabindia.com
 0.0.0.0 cereaisterraprodutosnaturais.exloja.com.br
 0.0.0.0 certification.jacsai.org
-0.0.0.0 ceysaenerji.com.tr
 0.0.0.0 cfs10.blog.daum.net
 0.0.0.0 cfs13.tistory.com
 0.0.0.0 cfs5.tistory.com
@@ -219,7 +217,6 @@
 0.0.0.0 client.meetsusolutions.com
 0.0.0.0 clinicareers.com
 0.0.0.0 cloud.fc.co.mz
-0.0.0.0 cloudsoft.or.ke
 0.0.0.0 clovekwealth.com
 0.0.0.0 cm-arquitetos.com
 0.0.0.0 cobhamplasteringservices.co.uk
@@ -246,6 +243,7 @@
 0.0.0.0 crecerco.com
 0.0.0.0 cresvin.com
 0.0.0.0 cricket.theglobalindia.net
+0.0.0.0 cristinapasquini.com.br
 0.0.0.0 crittersbythebay.com
 0.0.0.0 crmfarko.manivelasst.com
 0.0.0.0 crmroche.manivelasst.com
@@ -311,12 +309,14 @@
 0.0.0.0 dev2.alumnia.id
 0.0.0.0 development.goipcloud.co.ke
 0.0.0.0 dezcom.com
+0.0.0.0 dft.global
 0.0.0.0 dhart.id
 0.0.0.0 diacomarket.com
 0.0.0.0 diamantesviagens.com.br
 0.0.0.0 dijkstra-kolbe.nl
 0.0.0.0 discoveryast.com
 0.0.0.0 diset.cl
+0.0.0.0 disreal.co
 0.0.0.0 divinaprovidenciaautlan.com
 0.0.0.0 djking.f3322.net
 0.0.0.0 djtransport.ch
@@ -382,9 +382,11 @@
 0.0.0.0 edu.pmvanini.rs.gov.br
 0.0.0.0 educationconsortium.org
 0.0.0.0 ef-web.com
+0.0.0.0 ehsanenterprises.com
 0.0.0.0 eidoss.mx
 0.0.0.0 ekatmata.com
 0.0.0.0 elbauldelosregalos.com
+0.0.0.0 elearn2015.siamtechu.net
 0.0.0.0 elearning.physiotraining.com.gt
 0.0.0.0 electrocanada.online
 0.0.0.0 elevate.kushedup.com
@@ -417,7 +419,11 @@
 0.0.0.0 extensivevinylservices.com
 0.0.0.0 extractjob.com
 0.0.0.0 f.gogamef.com
-0.0.0.0 f0615407.xsph.ru
+0.0.0.0 f0615959.xsph.ru
+0.0.0.0 f0616068.xsph.ru
+0.0.0.0 f0616387.xsph.ru
+0.0.0.0 f0616391.xsph.ru
+0.0.0.0 f0616394.xsph.ru
 0.0.0.0 faai-international.com
 0.0.0.0 fabritonescontract.com
 0.0.0.0 fam-int.com
@@ -466,7 +472,6 @@
 0.0.0.0 funpress.ir
 0.0.0.0 furyx.de
 0.0.0.0 fxliquiditymarkets.com
-0.0.0.0 g.nxxxn.ga
 0.0.0.0 g2amarketing.com
 0.0.0.0 gadopax.vn
 0.0.0.0 gaidov.bg
@@ -474,6 +479,7 @@
 0.0.0.0 gan-n.cloud-downloader.com
 0.0.0.0 garibaldidal1970.com
 0.0.0.0 gastronews.by
+0.0.0.0 gaurav.wpsupport.urdemo.website
 0.0.0.0 gdyakali.com
 0.0.0.0 geo-lines.com
 0.0.0.0 geograf.uz
@@ -505,6 +511,7 @@
 0.0.0.0 gstsevacenter.wpsupport.urdemo.website
 0.0.0.0 gstsuvidhakendrauchana.wpsupport.urdemo.website
 0.0.0.0 gt-max.com.my
+0.0.0.0 guardagfq.xyz
 0.0.0.0 guillermomanrique.com.mx
 0.0.0.0 guongnoithat.com
 0.0.0.0 gwcrresearch.org
@@ -534,11 +541,13 @@
 0.0.0.0 hindimedia.in
 0.0.0.0 hisharj.ir
 0.0.0.0 hitstation.nl
+0.0.0.0 hjorto.se
 0.0.0.0 hlm-indonesia.com
 0.0.0.0 hongluosi.com
 0.0.0.0 honours.com.ng
 0.0.0.0 hookafrica.com
 0.0.0.0 hookedupboatclub.com
+0.0.0.0 hordlepc.com
 0.0.0.0 hospital.isra.support
 0.0.0.0 hospital.shuleyanguonline.co.ke
 0.0.0.0 hostingparacolombia.com
@@ -588,6 +597,7 @@
 0.0.0.0 iptel.cy
 0.0.0.0 isaac.mikhailmotoringschool.com
 0.0.0.0 isatechnology.com
+0.0.0.0 iveto.org
 0.0.0.0 izeltelekom.com
 0.0.0.0 j2prints.com
 0.0.0.0 jamshed.pk
@@ -621,7 +631,6 @@
 0.0.0.0 kc4el.org
 0.0.0.0 kdaoskdokaodkwldld.blogspot.com
 0.0.0.0 kdavisinsurancegroup.com
-0.0.0.0 kenaridjaja.com
 0.0.0.0 kensingtondriving.com
 0.0.0.0 khbd.41319.top
 0.0.0.0 khbd.mbtuan.com
@@ -660,7 +669,6 @@
 0.0.0.0 leasiacherise.com
 0.0.0.0 legend.nu
 0.0.0.0 leminet.co.ke
-0.0.0.0 lennart.serv.se
 0.0.0.0 lestesteux.ca
 0.0.0.0 library.arihantmbainstitute.ac.in
 0.0.0.0 lidamtour.com
@@ -683,19 +691,23 @@
 0.0.0.0 lucyonmued.site
 0.0.0.0 luminouspneuma.com
 0.0.0.0 lurchmath.org
+0.0.0.0 m-scr888.com
 0.0.0.0 m-techcollege.com
 0.0.0.0 m-technics.kz
 0.0.0.0 m.ashiwenhua.net
 0.0.0.0 macmor-media.com.au
 0.0.0.0 madicon.co.za
 0.0.0.0 mahalkoh.com
+0.0.0.0 mail.bs-eiendomme.co.za
 0.0.0.0 mail.emilyanncain.com
 0.0.0.0 mail.filastiniyat.org
 0.0.0.0 mail.tucorp.com.au
 0.0.0.0 mailer.srkcommunication.biz
+0.0.0.0 maintenance.alumnia.id
 0.0.0.0 maison-du-parc.com
 0.0.0.0 makeupuccino.com
 0.0.0.0 maksi.feb.unib.ac.id
+0.0.0.0 mallsupplement.com
 0.0.0.0 maltese-company.com
 0.0.0.0 maquinadosgutierrez.com
 0.0.0.0 marcyovcx.ru
@@ -732,7 +744,6 @@
 0.0.0.0 mfevr.com
 0.0.0.0 mgah.flywheelsites.com
 0.0.0.0 mibilizi.rw
-0.0.0.0 michimichiblog.net
 0.0.0.0 microblading.mirliandias.com.br
 0.0.0.0 microcomm-group.com
 0.0.0.0 midlandtexasconstruction.com
@@ -854,7 +865,6 @@
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p6.zbjimg.com
 0.0.0.0 pablobrothel.com.ar
-0.0.0.0 packagingpeople.in
 0.0.0.0 pacwebdesigns.com
 0.0.0.0 paint-regen.club
 0.0.0.0 pallascapital.katchpurcity.com
@@ -907,6 +917,7 @@
 0.0.0.0 privacytools-foryou-777.com
 0.0.0.0 privacytools-foryou777.com
 0.0.0.0 proapsoluciones.com.ar
+0.0.0.0 profiteneh.com
 0.0.0.0 profmarcoscosta.com.br
 0.0.0.0 promas.com
 0.0.0.0 promoversdubai.com
@@ -977,6 +988,7 @@
 0.0.0.0 satisfactionapp.club
 0.0.0.0 savethefuture.us
 0.0.0.0 sayed.azq1.com
+0.0.0.0 sbss.com.pk
 0.0.0.0 scarfaceindustries.com
 0.0.0.0 scffirm.com
 0.0.0.0 schoolofspanish.co.za
@@ -994,7 +1006,6 @@
 0.0.0.0 server.easysalepage.in.th
 0.0.0.0 server.toeicswt.co.kr
 0.0.0.0 service.easytrace.mn
-0.0.0.0 serviciovirtual.com.ar
 0.0.0.0 servidor.indommus.com
 0.0.0.0 setup6.com
 0.0.0.0 setupbrokerage.com
@@ -1012,6 +1023,7 @@
 0.0.0.0 silentlegion.duckdns.org
 0.0.0.0 silverrunreserve.com
 0.0.0.0 silvesterinmailand.com
+0.0.0.0 simgftesting.kabtakalar.id
 0.0.0.0 sindicato1ucm.cl
 0.0.0.0 sinopu.com
 0.0.0.0 siriusblackshop.com
@@ -1095,7 +1107,6 @@
 0.0.0.0 thedigitalsoaps.com
 0.0.0.0 thegift.live
 0.0.0.0 thehotelshowdev.bitkit.dk
-0.0.0.0 thephdefense.com
 0.0.0.0 theprint.ninja
 0.0.0.0 thepunchlineexpose.com
 0.0.0.0 therecyclingmachine.com
@@ -1121,6 +1132,7 @@
 0.0.0.0 trade-agro.top
 0.0.0.0 tradeinsights.net
 0.0.0.0 tradingview-brokers.learnforcareer.com
+0.0.0.0 training.globodyinc.biz
 0.0.0.0 transportationonline.club
 0.0.0.0 traveladmin.sourcetaggers.com
 0.0.0.0 travels.cdtscorp.com
@@ -1164,6 +1176,7 @@
 0.0.0.0 vivacuscoperu.com
 0.0.0.0 vivationdesign.com
 0.0.0.0 vksales.com
+0.0.0.0 vl3x.top
 0.0.0.0 vnamazon.vn
 0.0.0.0 volkscantonalbank.com
 0.0.0.0 vologroup.com.br
@@ -1176,7 +1189,6 @@
 0.0.0.0 walkindrivetoday.com
 0.0.0.0 washatsanjose.com
 0.0.0.0 waskitaprecast.co.id
-0.0.0.0 waterlifefilter.com
 0.0.0.0 watertecindia.com
 0.0.0.0 wearsweetbomb.com
 0.0.0.0 web.geomegasoft.net
@@ -1223,6 +1235,7 @@
 0.0.0.0 yfo.yag.mybluehost.me
 0.0.0.0 yieldtech-bio.com
 0.0.0.0 yoire.advts.co
+0.0.0.0 yourdog.cc
 0.0.0.0 yp.hnggzyjy.cn
 0.0.0.0 ysbaojia.com
 0.0.0.0 ytvnews.info

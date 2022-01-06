@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Thu, 06 Jan 2022 00:11:03 +0000
+# Updated: Thu, 06 Jan 2022 12:10:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -352,6 +352,7 @@
 0.0.0.0 aapedigree.com
 0.0.0.0 aapside.com
 0.0.0.0 aaravindustries.in
+0.0.0.0 aarogya-seva.com
 0.0.0.0 aarsaindustries.com
 0.0.0.0 aassddwwaa.com
 0.0.0.0 aat2dg.bn.files.1drv.com
@@ -835,7 +836,6 @@
 0.0.0.0 api.filedriver.com
 0.0.0.0 api.huokejinglingvip.com
 0.0.0.0 api.leenalkhair.com
-0.0.0.0 api.m3.frontlineii.net
 0.0.0.0 api.officialaccess.net
 0.0.0.0 api.pinkparlour.asia
 0.0.0.0 api.servisexxx.com
@@ -2497,7 +2497,6 @@
 0.0.0.0 defewyr.page.link
 0.0.0.0 definingdetail.ca
 0.0.0.0 definitionism.com
-0.0.0.0 deg0zar.ru
 0.0.0.0 degenaura.space
 0.0.0.0 dehek.info
 0.0.0.0 deinfavorit.com
@@ -3033,7 +3032,6 @@
 0.0.0.0 ec2-13-56-150-193.us-west-1.compute.amazonaws.com
 0.0.0.0 ec2-15-223-75-220.ca-central-1.compute.amazonaws.com
 0.0.0.0 ec2-15-228-71-8.sa-east-1.compute.amazonaws.com
-0.0.0.0 ec2-15-228-84-76.sa-east-1.compute.amazonaws.com
 0.0.0.0 ec2-15-228-88-122.sa-east-1.compute.amazonaws.com
 0.0.0.0 ec2-177-71-237-242.sa-east-1.compute.amazonaws.com
 0.0.0.0 ec2-18-117-235-66.us-east-2.compute.amazonaws.com
@@ -3453,6 +3451,11 @@
 0.0.0.0 f0604857.xsph.ru
 0.0.0.0 f0611101.xsph.ru
 0.0.0.0 f0615407.xsph.ru
+0.0.0.0 f0615959.xsph.ru
+0.0.0.0 f0616068.xsph.ru
+0.0.0.0 f0616387.xsph.ru
+0.0.0.0 f0616391.xsph.ru
+0.0.0.0 f0616394.xsph.ru
 0.0.0.0 f0rmula.ru
 0.0.0.0 f1netce.net.br
 0.0.0.0 f2i.ccima.cm
@@ -3514,7 +3517,6 @@
 0.0.0.0 fatimachurchkl.com
 0.0.0.0 favoritabrasil.com.br
 0.0.0.0 faybooking.ics-comm.com
-0.0.0.0 fazanaharahe10.top
 0.0.0.0 fbcrsmt.org
 0.0.0.0 fbg.ge
 0.0.0.0 fbi.fund
@@ -3673,7 +3675,6 @@
 0.0.0.0 flovelenterprise.com
 0.0.0.0 flowmaster.com.pk
 0.0.0.0 fly-movers.com
-0.0.0.0 flyershipmanager.com
 0.0.0.0 flyff.asia
 0.0.0.0 fm.halfmoon.jp
 0.0.0.0 fmbrsa.am.files.1drv.com
@@ -3901,7 +3902,6 @@
 0.0.0.0 gastronews.by
 0.0.0.0 gattungan.polmankab.go.id
 0.0.0.0 gaurav.wpsupport.urdemo.website
-0.0.0.0 gautamconstruction.com
 0.0.0.0 gayanathmadusankha.com
 0.0.0.0 gayatrisahdev.com
 0.0.0.0 gc.dcimg.com
@@ -4128,7 +4128,6 @@
 0.0.0.0 greenfieldholidays.com
 0.0.0.0 greenfieldimmigration.com
 0.0.0.0 greenflag.esp.br
-0.0.0.0 greenfreedom.top
 0.0.0.0 greengardenplumbers.com
 0.0.0.0 greenhillsacademy.org
 0.0.0.0 greenmile.ng
@@ -4417,6 +4416,7 @@
 0.0.0.0 hitrade.io
 0.0.0.0 hitstation.nl
 0.0.0.0 hittingscience.com
+0.0.0.0 hjorto.se
 0.0.0.0 hklearner.com
 0.0.0.0 hkrecrutement.com
 0.0.0.0 hkszcorporatesolutions.com
@@ -4587,6 +4587,7 @@
 0.0.0.0 hzradiant.com
 0.0.0.0 i.spesgrt.com
 0.0.0.0 i4ts3g.am.files.1drv.com
+0.0.0.0 ia601507.us.archive.org
 0.0.0.0 ia801502.us.archive.org
 0.0.0.0 iaalux.com.mx
 0.0.0.0 iamjitenpatel.com
@@ -4659,7 +4660,6 @@
 0.0.0.0 ilpfjw.dm.files.1drv.com
 0.0.0.0 ilqaa.com
 0.0.0.0 ilusionnortena.com
-0.0.0.0 im-arc.co.il
 0.0.0.0 im2020.vip
 0.0.0.0 images.jermiau.com
 0.0.0.0 imediprof.edu.ge
@@ -5582,7 +5582,6 @@
 0.0.0.0 licoreria247.pe
 0.0.0.0 licvms.com
 0.0.0.0 lidamtour.com
-0.0.0.0 lidergoloperu.com
 0.0.0.0 lifelife.com.br
 0.0.0.0 lifestyleinthailand.com
 0.0.0.0 lifetelugu.com
@@ -5818,6 +5817,7 @@
 0.0.0.0 maichauhospital.org
 0.0.0.0 maidahcontinental.co.in
 0.0.0.0 mail.autokazakov.bg
+0.0.0.0 mail.bs-eiendomme.co.za
 0.0.0.0 mail.edaak.in
 0.0.0.0 mail.emilyanncain.com
 0.0.0.0 mail.filastiniyat.org
@@ -5830,6 +5830,7 @@
 0.0.0.0 mail.tucorp.com.au
 0.0.0.0 mailaminhhieu.com
 0.0.0.0 mailblaster02.bosskufamous.com
+0.0.0.0 maildn.daumcdn.net
 0.0.0.0 mailer.srkcommunication.biz
 0.0.0.0 mailer34.zzux.com
 0.0.0.0 main.ecbse.in
@@ -6084,8 +6085,6 @@
 0.0.0.0 megjavit-lak.hu
 0.0.0.0 mehryar.mazyar.org
 0.0.0.0 meinajkallunjaisahowawahun.blogspot.com
-0.0.0.0 meine.santander.de-id18zc1ghbd7b1dzb8aigd921heig9dg1zfvzadzu17817.xyz
-0.0.0.0 meine.santander.de-id1nd81he1dbdv1vvadv1vag7d1vasvdd172dv7agseg1d1ds.xyz
 0.0.0.0 mekoautoinc.com
 0.0.0.0 melanindiscovery.com
 0.0.0.0 melhoraragora.com
@@ -6194,22 +6193,17 @@
 0.0.0.0 mimbresdechimbarongo.cl
 0.0.0.0 min6jembrana.com
 0.0.0.0 minareklam.com.tr
-0.0.0.0 mincie06.top
-0.0.0.0 mincir07.top
 0.0.0.0 mindfulnesseating.com
 0.0.0.0 mindmapgallery.morelib.com
-0.0.0.0 mindoi05.top
 0.0.0.0 mindworkspk.com
 0.0.0.0 minelaan.com
 0.0.0.0 minets10.top
 0.0.0.0 minhbinh.work
 0.0.0.0 minidrivingschoolroordink.nl
-0.0.0.0 minigx03.top
 0.0.0.0 minionunicorn.com
 0.0.0.0 miniratka.eu
 0.0.0.0 minles08.top
 0.0.0.0 minpowpoin.duckdns.org
-0.0.0.0 minquh04.top
 0.0.0.0 minsam09.top
 0.0.0.0 minstruire.fr
 0.0.0.0 mintsgalaxy.ru
@@ -7490,14 +7484,12 @@
 0.0.0.0 print-city-shop.nl
 0.0.0.0 printas.ba
 0.0.0.0 printee.shop
-0.0.0.0 prints914.com
 0.0.0.0 printshopsibiu.ro
 0.0.0.0 prismarepres.com.br
 0.0.0.0 prismart.com.mx
 0.0.0.0 privacy-tools-for-you-777.com
 0.0.0.0 privacy-tools-for-you-778.com
 0.0.0.0 privacy-tools-for-you777.com
-0.0.0.0 privacy-toolz-for-you-5000.top
 0.0.0.0 privacytools-for-you-777.com
 0.0.0.0 privacytools-foryou-777.com
 0.0.0.0 privacytools-foryou777.com
@@ -7528,6 +7520,7 @@
 0.0.0.0 produtoratimedeelenco.com.br
 0.0.0.0 proem1-ina.com
 0.0.0.0 profesores.uiwbajio.mx
+0.0.0.0 profiteneh.com
 0.0.0.0 profmarcoscosta.com.br
 0.0.0.0 program.optimallifehacks.com
 0.0.0.0 programacanguro.org
@@ -7602,7 +7595,6 @@
 0.0.0.0 pspentregasonline.com
 0.0.0.0 psychosrus.com
 0.0.0.0 ptcv.co.id
-0.0.0.0 publicidadyireh.com
 0.0.0.0 publicolor-rr.com.br
 0.0.0.0 pudozi.page.link
 0.0.0.0 pugliaddicted.com
@@ -8251,6 +8243,7 @@
 0.0.0.0 sb.campaigntemplate.com
 0.0.0.0 sbaf.ifincloud.in
 0.0.0.0 sbobetth.site
+0.0.0.0 sbss.com.pk
 0.0.0.0 sbuilding.com.br
 0.0.0.0 sc-tradingco.com
 0.0.0.0 sc.trustzonecam.com
@@ -8355,7 +8348,6 @@
 0.0.0.0 servicetown.co.in
 0.0.0.0 servicevirtualization.net
 0.0.0.0 serviciotecnicolima.com.pe
-0.0.0.0 serviciovirtual.com.ar
 0.0.0.0 servidor.indommus.com
 0.0.0.0 servital.grupoformax.net
 0.0.0.0 servitecempilhadeira.com.br
@@ -8468,7 +8460,6 @@
 0.0.0.0 shreepublicity.com
 0.0.0.0 shreevidyasadhanapeeth.com
 0.0.0.0 shresthatrade.com
-0.0.0.0 shridhargroups.com
 0.0.0.0 shrimpbangla.com
 0.0.0.0 shrinandatrust.org
 0.0.0.0 shuangmiu.com
@@ -8704,7 +8695,6 @@
 0.0.0.0 sparcalabar.lightzillion.com
 0.0.0.0 sparenow.com
 0.0.0.0 spark.sorin.tv
-0.0.0.0 sparkeventz.com
 0.0.0.0 sparklescake.com
 0.0.0.0 spartan.prynt.market
 0.0.0.0 spartans-avocats.com
@@ -8856,7 +8846,6 @@
 0.0.0.0 store.gamerinfohub.com
 0.0.0.0 store.jeevsutra.com
 0.0.0.0 store.satislohusa.com
-0.0.0.0 store2.gofile.io
 0.0.0.0 stores.ovvooptics.com
 0.0.0.0 storevast.club
 0.0.0.0 storewel.com

@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Thu, 06 Jan 2022 00:11:03 +0000
+# Updated: Thu, 06 Jan 2022 12:10:53 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -355,6 +355,7 @@ msFilterList
 -d aapedigree.com
 -d aapside.com
 -d aaravindustries.in
+-d aarogya-seva.com
 -d aarsaindustries.com
 -d aassddwwaa.com
 -d aat2dg.bn.files.1drv.com
@@ -838,7 +839,6 @@ msFilterList
 -d api.filedriver.com
 -d api.huokejinglingvip.com
 -d api.leenalkhair.com
--d api.m3.frontlineii.net
 -d api.officialaccess.net
 -d api.pinkparlour.asia
 -d api.servisexxx.com
@@ -2500,7 +2500,6 @@ msFilterList
 -d defewyr.page.link
 -d definingdetail.ca
 -d definitionism.com
--d deg0zar.ru
 -d degenaura.space
 -d dehek.info
 -d deinfavorit.com
@@ -3036,7 +3035,6 @@ msFilterList
 -d ec2-13-56-150-193.us-west-1.compute.amazonaws.com
 -d ec2-15-223-75-220.ca-central-1.compute.amazonaws.com
 -d ec2-15-228-71-8.sa-east-1.compute.amazonaws.com
--d ec2-15-228-84-76.sa-east-1.compute.amazonaws.com
 -d ec2-15-228-88-122.sa-east-1.compute.amazonaws.com
 -d ec2-177-71-237-242.sa-east-1.compute.amazonaws.com
 -d ec2-18-117-235-66.us-east-2.compute.amazonaws.com
@@ -3456,6 +3454,11 @@ msFilterList
 -d f0604857.xsph.ru
 -d f0611101.xsph.ru
 -d f0615407.xsph.ru
+-d f0615959.xsph.ru
+-d f0616068.xsph.ru
+-d f0616387.xsph.ru
+-d f0616391.xsph.ru
+-d f0616394.xsph.ru
 -d f0rmula.ru
 -d f1netce.net.br
 -d f2i.ccima.cm
@@ -3517,7 +3520,6 @@ msFilterList
 -d fatimachurchkl.com
 -d favoritabrasil.com.br
 -d faybooking.ics-comm.com
--d fazanaharahe10.top
 -d fbcrsmt.org
 -d fbg.ge
 -d fbi.fund
@@ -3676,7 +3678,6 @@ msFilterList
 -d flovelenterprise.com
 -d flowmaster.com.pk
 -d fly-movers.com
--d flyershipmanager.com
 -d flyff.asia
 -d fm.halfmoon.jp
 -d fmbrsa.am.files.1drv.com
@@ -3904,7 +3905,6 @@ msFilterList
 -d gastronews.by
 -d gattungan.polmankab.go.id
 -d gaurav.wpsupport.urdemo.website
--d gautamconstruction.com
 -d gayanathmadusankha.com
 -d gayatrisahdev.com
 -d gc.dcimg.com
@@ -4131,7 +4131,6 @@ msFilterList
 -d greenfieldholidays.com
 -d greenfieldimmigration.com
 -d greenflag.esp.br
--d greenfreedom.top
 -d greengardenplumbers.com
 -d greenhillsacademy.org
 -d greenmile.ng
@@ -4420,6 +4419,7 @@ msFilterList
 -d hitrade.io
 -d hitstation.nl
 -d hittingscience.com
+-d hjorto.se
 -d hklearner.com
 -d hkrecrutement.com
 -d hkszcorporatesolutions.com
@@ -4590,6 +4590,7 @@ msFilterList
 -d hzradiant.com
 -d i.spesgrt.com
 -d i4ts3g.am.files.1drv.com
+-d ia601507.us.archive.org
 -d ia801502.us.archive.org
 -d iaalux.com.mx
 -d iamjitenpatel.com
@@ -4662,7 +4663,6 @@ msFilterList
 -d ilpfjw.dm.files.1drv.com
 -d ilqaa.com
 -d ilusionnortena.com
--d im-arc.co.il
 -d im2020.vip
 -d images.jermiau.com
 -d imediprof.edu.ge
@@ -5585,7 +5585,6 @@ msFilterList
 -d licoreria247.pe
 -d licvms.com
 -d lidamtour.com
--d lidergoloperu.com
 -d lifelife.com.br
 -d lifestyleinthailand.com
 -d lifetelugu.com
@@ -5821,6 +5820,7 @@ msFilterList
 -d maichauhospital.org
 -d maidahcontinental.co.in
 -d mail.autokazakov.bg
+-d mail.bs-eiendomme.co.za
 -d mail.edaak.in
 -d mail.emilyanncain.com
 -d mail.filastiniyat.org
@@ -5833,6 +5833,7 @@ msFilterList
 -d mail.tucorp.com.au
 -d mailaminhhieu.com
 -d mailblaster02.bosskufamous.com
+-d maildn.daumcdn.net
 -d mailer.srkcommunication.biz
 -d mailer34.zzux.com
 -d main.ecbse.in
@@ -6087,8 +6088,6 @@ msFilterList
 -d megjavit-lak.hu
 -d mehryar.mazyar.org
 -d meinajkallunjaisahowawahun.blogspot.com
--d meine.santander.de-id18zc1ghbd7b1dzb8aigd921heig9dg1zfvzadzu17817.xyz
--d meine.santander.de-id1nd81he1dbdv1vvadv1vag7d1vasvdd172dv7agseg1d1ds.xyz
 -d mekoautoinc.com
 -d melanindiscovery.com
 -d melhoraragora.com
@@ -6197,22 +6196,17 @@ msFilterList
 -d mimbresdechimbarongo.cl
 -d min6jembrana.com
 -d minareklam.com.tr
--d mincie06.top
--d mincir07.top
 -d mindfulnesseating.com
 -d mindmapgallery.morelib.com
--d mindoi05.top
 -d mindworkspk.com
 -d minelaan.com
 -d minets10.top
 -d minhbinh.work
 -d minidrivingschoolroordink.nl
--d minigx03.top
 -d minionunicorn.com
 -d miniratka.eu
 -d minles08.top
 -d minpowpoin.duckdns.org
--d minquh04.top
 -d minsam09.top
 -d minstruire.fr
 -d mintsgalaxy.ru
@@ -7493,14 +7487,12 @@ msFilterList
 -d print-city-shop.nl
 -d printas.ba
 -d printee.shop
--d prints914.com
 -d printshopsibiu.ro
 -d prismarepres.com.br
 -d prismart.com.mx
 -d privacy-tools-for-you-777.com
 -d privacy-tools-for-you-778.com
 -d privacy-tools-for-you777.com
--d privacy-toolz-for-you-5000.top
 -d privacytools-for-you-777.com
 -d privacytools-foryou-777.com
 -d privacytools-foryou777.com
@@ -7531,6 +7523,7 @@ msFilterList
 -d produtoratimedeelenco.com.br
 -d proem1-ina.com
 -d profesores.uiwbajio.mx
+-d profiteneh.com
 -d profmarcoscosta.com.br
 -d program.optimallifehacks.com
 -d programacanguro.org
@@ -7605,7 +7598,6 @@ msFilterList
 -d pspentregasonline.com
 -d psychosrus.com
 -d ptcv.co.id
--d publicidadyireh.com
 -d publicolor-rr.com.br
 -d pudozi.page.link
 -d pugliaddicted.com
@@ -8254,6 +8246,7 @@ msFilterList
 -d sb.campaigntemplate.com
 -d sbaf.ifincloud.in
 -d sbobetth.site
+-d sbss.com.pk
 -d sbuilding.com.br
 -d sc-tradingco.com
 -d sc.trustzonecam.com
@@ -8358,7 +8351,6 @@ msFilterList
 -d servicetown.co.in
 -d servicevirtualization.net
 -d serviciotecnicolima.com.pe
--d serviciovirtual.com.ar
 -d servidor.indommus.com
 -d servital.grupoformax.net
 -d servitecempilhadeira.com.br
@@ -8471,7 +8463,6 @@ msFilterList
 -d shreepublicity.com
 -d shreevidyasadhanapeeth.com
 -d shresthatrade.com
--d shridhargroups.com
 -d shrimpbangla.com
 -d shrinandatrust.org
 -d shuangmiu.com
@@ -8707,7 +8698,6 @@ msFilterList
 -d sparcalabar.lightzillion.com
 -d sparenow.com
 -d spark.sorin.tv
--d sparkeventz.com
 -d sparklescake.com
 -d spartan.prynt.market
 -d spartans-avocats.com
@@ -8859,7 +8849,6 @@ msFilterList
 -d store.gamerinfohub.com
 -d store.jeevsutra.com
 -d store.satislohusa.com
--d store2.gofile.io
 -d stores.ovvooptics.com
 -d storevast.club
 -d storewel.com
