@@ -18,18 +18,18 @@ build_job:
     - chmod 644 ~/.ssh/known_hosts
 
   script:
-    - sh script.sh
+    - sh src/script.sh
 
     - git checkout master
     - git config --global user.name "curben-bot"
     - git config --global user.email "3048979-curben-bot@users.noreply.gitlab.com"
 
     # Commit the changes
-    - sh utils/commit.sh
+    - sh src/commit.sh
 
     # Generate successful status badge
     - mkdir -p .gitlab/
-    - sh utils/badge.sh "success"
+    - sh src/badge.sh "success"
     - git add .gitlab/status.svg
     # Only commit when diff exists https://stackoverflow.com/a/8123841
     - git diff-index --quiet HEAD || git commit -m "Success pipeline"
@@ -67,7 +67,7 @@ failed_job:
     - git config --global user.email "3048979-curben-bot@users.noreply.gitlab.com"
 
     - mkdir -p .gitlab/
-    - sh utils/badge.sh "failed"
+    - sh src/badge.sh "failed"
     - git add .gitlab/status.svg
     - git diff-index --quiet HEAD || git commit -m "Failed pipeline"
     - ssh -T git@gitlab.com
