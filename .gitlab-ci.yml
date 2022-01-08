@@ -1,4 +1,4 @@
-image: alpine:latest # Use the latest version of Alpine Linux docker image
+image: alpine:latest
 
 build_job:
   stage: build
@@ -27,9 +27,8 @@ pages:
       - public
 
   rules:
-    # Only trigger through schedule job and "Run pipeline" in main branch
-    - if: '$CI_COMMIT_REF_NAME == "main" && ($CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "web")'
-      when: always
+    # Only trigger when commit to main branch
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
 include:
   - template: Security/Secret-Detection.gitlab-ci.yml
