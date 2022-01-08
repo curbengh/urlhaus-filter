@@ -26,5 +26,10 @@ pages:
     paths:
       - public
 
+  rules:
+    # Only trigger through schedule job and "Run pipeline" in main branch
+    - if: '$CI_COMMIT_REF_NAME == "main" && ($CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "web")'
+      when: always
+
 include:
   - template: Security/Secret-Detection.gitlab-ci.yml
