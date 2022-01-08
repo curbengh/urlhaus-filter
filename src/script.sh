@@ -3,8 +3,8 @@
 set -efux -o pipefail
 
 ## Create a temporary working folder
-mkdir -p "../tmp/"
-cd "../tmp/"
+mkdir -p "tmp/"
+cd "tmp/"
 
 
 ## Prepare datasets
