@@ -1,5 +1,8 @@
 image: alpine:latest
 
+include:
+  - template: Security/Secret-Detection.gitlab-ci.yml
+
 build_job:
   stage: build
 
@@ -30,5 +33,15 @@ pages:
     # Only trigger when commit to main branch
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
-include:
-  - template: Security/Secret-Detection.gitlab-ci.yml
+netlify:
+  stage: deploy
+
+  before_script:
+      - apk update && apk add curl
+
+  script:
+    - curl -X POST -d '{}' https://api.netlify.com/build_hooks/$NETLIFY_BUILD_HOOK
+
+  rules:
+    # Only trigger through schedule job and "Run pipeline" in the main branch
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && ($CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "web")'
