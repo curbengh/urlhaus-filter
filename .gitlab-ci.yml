@@ -40,7 +40,8 @@ netlify:
       - apk update && apk add curl
 
   script:
-    - curl -X POST -d '{}' https://api.netlify.com/build_hooks/$NETLIFY_BUILD_HOOK
+    - curl -X POST -d "{}" "https://api.netlify.com/build_hooks/$NETLIFY_BUILD_HOOK"
+    - curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/$CLOUDFLARE_BUILD_HOOK"
 
   rules:
     # Only trigger through schedule job and "Run pipeline" in the main branch
