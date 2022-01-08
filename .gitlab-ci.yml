@@ -1,0 +1,30 @@
+image: alpine:latest # Use the latest version of Alpine Linux docker image
+
+build_job:
+  stage: build
+
+  before_script:
+    - apk update && apk add brotli curl grep
+
+  script:
+    - sh src/script.sh
+    - find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\)$' -exec gzip -f -k -9 {} \;
+    - find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\)$' -exec brotli -f -k -9 {} \;
+
+  artifacts:
+    paths:
+      - tmp
+      - public
+
+pages:
+  stage: deploy
+
+  script:
+    - echo
+
+  artifacts:
+    paths:
+      - public
+
+include:
+  - template: Security/Secret-Detection.gitlab-ci.yml
