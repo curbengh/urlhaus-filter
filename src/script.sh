@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# works best on busybox sh
+
 set -efux -o pipefail
 
 ## Create a temporary working folder
