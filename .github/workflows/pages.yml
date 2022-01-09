@@ -11,26 +11,28 @@ on:
 jobs:
   pages:
     runs-on: ubuntu-latest
+    container: alpine:latest
     steps:
       - uses: actions/checkout@v2
-      - name: Use latest Node.js LTS
-        uses: actions/setup-node@v2
-        with:
-          node-version: 'lts/*'
-      - name: Cache NPM dependencies
-        uses: actions/cache@v2
-        with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache
-          restore-keys: |
-            ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
-        run: npm install
+        run: |
+          apk update
+          apk add brotli curl git grep
       - name: Build
-        run: npm run build
+        run: sh src/script.sh
+      - name: Compress
+        run: |
+          find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\)$' -exec gzip -f -k -9 {} \;
+          find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\)$' -exec brotli -f -k -9 {} \;
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           force_orphan: true
+      - name: 'Upload Artifact'
+        uses: actions/upload-artifact@v2
+        with:
+          name: artifacts
+          path: ./tmp/
+          retention-days: 30
