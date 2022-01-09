@@ -1,5 +1,5 @@
 # Title: Malicious Hosts Blocklist
-# Updated: Sat, 08 Jan 2022 12:10:54 +0000
+# Updated: Sun, 09 Jan 2022 00:10:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -95,6 +95,7 @@
 0.0.0.0 21stcenturyelectronics.net
 0.0.0.0 225km.com
 0.0.0.0 23.filelu.com
+0.0.0.0 247opencloud.com
 0.0.0.0 24asia.news
 0.0.0.0 24lott.com
 0.0.0.0 24x7design1.wpsupport.urdemo.website
@@ -559,6 +560,7 @@
 0.0.0.0 airportszallo.hu
 0.0.0.0 airsofthoekje.nl
 0.0.0.0 airwheeltech.com
+0.0.0.0 aitek.fr
 0.0.0.0 ajaplanosdesaude.com.br
 0.0.0.0 ajaxpfp.cf
 0.0.0.0 ajgraphics.com.br
@@ -866,6 +868,7 @@
 0.0.0.0 applybajfin.in
 0.0.0.0 appmobi66.com.br
 0.0.0.0 apps.saintsoporte.com
+0.0.0.0 appsara.co
 0.0.0.0 appsmanager.alert.com.mt
 0.0.0.0 appstew.be
 0.0.0.0 appswebsocial.com
@@ -1654,7 +1657,6 @@
 0.0.0.0 bvpiba.bn.files.1drv.com
 0.0.0.0 bvppsw.bn.files.1drv.com
 0.0.0.0 bwb.fun
-0.0.0.0 bwmonitor.shop
 0.0.0.0 bx7mug.bl.files.1drv.com
 0.0.0.0 bxpt5q.db.files.1drv.com
 0.0.0.0 bycab.page.link
@@ -1814,6 +1816,7 @@
 0.0.0.0 cdim9.com
 0.0.0.0 cdn-10049480.file.myqcloud.com
 0.0.0.0 cdn-g0962.int-onedrive.com
+0.0.0.0 cdn.aquazarine.com
 0.0.0.0 cdn.ciscordapp.com
 0.0.0.0 cdn.eventexposer.com
 0.0.0.0 cdn.riowt.top
@@ -2082,6 +2085,7 @@
 0.0.0.0 colegioapoio.com.br
 0.0.0.0 colegiobach.cl
 0.0.0.0 colemanco.com.au
+0.0.0.0 colinde.pricesne.com
 0.0.0.0 collenservices.co.za
 0.0.0.0 colly.appstew.be
 0.0.0.0 colombe-fm.org
@@ -2562,7 +2566,6 @@
 0.0.0.0 desserts.the-good-stuff.club
 0.0.0.0 destinazionecuba.it
 0.0.0.0 destinychild.com.ng
-0.0.0.0 destinymc.co.za
 0.0.0.0 detailing-kingdom.com
 0.0.0.0 detectivesinmumbai.co.in
 0.0.0.0 detoxdietsupplements.com
@@ -3163,7 +3166,6 @@
 0.0.0.0 elgharabiya.com
 0.0.0.0 elhuerto237.com
 0.0.0.0 eliasolazar.xyz
-0.0.0.0 elihasal.com
 0.0.0.0 elinerenata.com
 0.0.0.0 elirfaan.com
 0.0.0.0 elisawuentscher.com
@@ -3449,6 +3451,7 @@
 0.0.0.0 fabrica-zs.com
 0.0.0.0 fabricadecampeoesbrasil.com
 0.0.0.0 fabricadehomens.com.br
+0.0.0.0 fabritonescontract.com
 0.0.0.0 fabuladoras.com.br
 0.0.0.0 faceks.com
 0.0.0.0 facileprono.fr
@@ -4287,6 +4290,7 @@
 0.0.0.0 hdulpa.dm.files.1drv.com
 0.0.0.0 hduspw.dm.files.1drv.com
 0.0.0.0 hdvb4q.dm.files.1drv.com
+0.0.0.0 hdvideoizlemesistemi956735.site
 0.0.0.0 hdvideoizleresmi2356.website
 0.0.0.0 hdvideoizleresmi345738.website
 0.0.0.0 hdvideoizleresmi6395456.website
@@ -4386,6 +4390,7 @@
 0.0.0.0 hireonmap.com
 0.0.0.0 hireout.today
 0.0.0.0 hisensor.kr
+0.0.0.0 hisharj.ir
 0.0.0.0 hispanicaidgroup.org
 0.0.0.0 hitechscientific.in
 0.0.0.0 hitrade.io
@@ -5491,7 +5496,6 @@
 0.0.0.0 leadintelligenceagency.com
 0.0.0.0 leadphysio.com
 0.0.0.0 leadswala.com
-0.0.0.0 leak.serveftp.com
 0.0.0.0 leaksworld.com
 0.0.0.0 leale.ch
 0.0.0.0 leanbpi.com
@@ -5993,7 +5997,6 @@
 0.0.0.0 meatworld-pk.com
 0.0.0.0 mebel-fiesta54.ru
 0.0.0.0 mebel-for-school.ru
-0.0.0.0 mebli-land.com
 0.0.0.0 mechadda.com
 0.0.0.0 mechanoesis.gr
 0.0.0.0 mechinetralaya.org
@@ -6006,7 +6009,6 @@
 0.0.0.0 mediacarrier.net
 0.0.0.0 mediagnostic.com.ec
 0.0.0.0 mediamail.in
-0.0.0.0 medianews.ge
 0.0.0.0 medic.pdtng.com
 0.0.0.0 medicalcardbajet.com
 0.0.0.0 medicalhomecare.com.br
@@ -6154,12 +6156,10 @@
 0.0.0.0 mindmapgallery.morelib.com
 0.0.0.0 mindworkspk.com
 0.0.0.0 minelaan.com
-0.0.0.0 minets10.top
 0.0.0.0 minhbinh.work
 0.0.0.0 minidrivingschoolroordink.nl
 0.0.0.0 minionunicorn.com
 0.0.0.0 miniratka.eu
-0.0.0.0 minles08.top
 0.0.0.0 minpowpoin.duckdns.org
 0.0.0.0 minstruire.fr
 0.0.0.0 mintsgalaxy.ru
@@ -6343,6 +6343,7 @@
 0.0.0.0 mudanzasdistintas.com.ar
 0.0.0.0 mufasa.virvazir.com
 0.0.0.0 muhammetdilber.com
+0.0.0.0 mulamoottilnidhi.in
 0.0.0.0 muledo.com
 0.0.0.0 muliaperkasaagung.co.id
 0.0.0.0 multflix.gq
@@ -6355,6 +6356,7 @@
 0.0.0.0 multisofterp.com.br
 0.0.0.0 multisyserp.com.br
 0.0.0.0 mulyahati.com
+0.0.0.0 mumgee.co.za
 0.0.0.0 mundialdeequipos.com.co
 0.0.0.0 mundodoingles.com.br
 0.0.0.0 mundodomedico.com.br
@@ -6469,7 +6471,6 @@
 0.0.0.0 nagains.azurewebsites.net
 0.0.0.0 nagpalbuildersindia.com
 0.0.0.0 nail.wego77.online
-0.0.0.0 nairobix.xyz
 0.0.0.0 najadriver.najasoftware.com.br
 0.0.0.0 najasoftware.com.br
 0.0.0.0 najran.hadath.app
@@ -6874,6 +6875,7 @@
 0.0.0.0 onboarding.managetrucksright.com
 0.0.0.0 oncrete-egy.com
 0.0.0.0 ondulato.com.br
+0.0.0.0 one.installapp-service.com
 0.0.0.0 oneaudio.world
 0.0.0.0 onebusinesssuccess.xyz
 0.0.0.0 onepage2.ergestore28.com
@@ -7519,7 +7521,6 @@
 0.0.0.0 proverbsplace.net
 0.0.0.0 proxy.ba
 0.0.0.0 proxy.dev99.ro
-0.0.0.0 proxyjudge1.proxyfire.net
 0.0.0.0 proyectartpanama.com
 0.0.0.0 proyecto100.com
 0.0.0.0 proyectoemprende.org
@@ -7569,6 +7570,7 @@
 0.0.0.0 pv3jtq.dm.files.1drv.com
 0.0.0.0 pv8ssq.bl.files.1drv.com
 0.0.0.0 pv8zpa.bl.files.1drv.com
+0.0.0.0 pvcprinting.co.uk
 0.0.0.0 pvqhjq.bl.files.1drv.com
 0.0.0.0 pvtfans.com
 0.0.0.0 pwebcast.com.mx
@@ -8736,7 +8738,6 @@
 0.0.0.0 starwt.com
 0.0.0.0 stat.grossundklein.info
 0.0.0.0 static-201-163-99-83.alestra.net.mx
-0.0.0.0 static.3001.net
 0.0.0.0 static.cz01.cn
 0.0.0.0 stats502.online
 0.0.0.0 stats502.space
@@ -8973,6 +8974,7 @@
 0.0.0.0 tazxter.com
 0.0.0.0 tb.osilly.com
 0.0.0.0 tbeebak.com
+0.0.0.0 tblaw.ca
 0.0.0.0 tbtech.vn
 0.0.0.0 tc.snpsresidential.com
 0.0.0.0 tccgonda.com
@@ -9252,7 +9254,6 @@
 0.0.0.0 thrashlist.com
 0.0.0.0 threadlyyours.com
 0.0.0.0 threedeadbirds.com
-0.0.0.0 threesmallhills.com
 0.0.0.0 threestarfurniturebd.com
 0.0.0.0 thriveparrad.com
 0.0.0.0 throughmusicfoundation.org
@@ -9592,6 +9593,7 @@
 0.0.0.0 unicornhardware.in
 0.0.0.0 unicorpbrunei.com
 0.0.0.0 unicupload.top
+0.0.0.0 unifashion.app.krazyit.com.au
 0.0.0.0 unifiedmicrosolutions.com
 0.0.0.0 uniformcelik.com
 0.0.0.0 unifp.com

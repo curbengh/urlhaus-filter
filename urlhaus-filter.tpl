@@ -1,6 +1,6 @@
 msFilterList
 # Title: Malicious Hosts Blocklist (IE)
-# Updated: Sat, 08 Jan 2022 12:10:54 +0000
+# Updated: Sun, 09 Jan 2022 00:10:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -98,6 +98,7 @@ msFilterList
 -d 21stcenturyelectronics.net
 -d 225km.com
 -d 23.filelu.com
+-d 247opencloud.com
 -d 24asia.news
 -d 24lott.com
 -d 24x7design1.wpsupport.urdemo.website
@@ -562,6 +563,7 @@ msFilterList
 -d airportszallo.hu
 -d airsofthoekje.nl
 -d airwheeltech.com
+-d aitek.fr
 -d ajaplanosdesaude.com.br
 -d ajaxpfp.cf
 -d ajgraphics.com.br
@@ -869,6 +871,7 @@ msFilterList
 -d applybajfin.in
 -d appmobi66.com.br
 -d apps.saintsoporte.com
+-d appsara.co
 -d appsmanager.alert.com.mt
 -d appstew.be
 -d appswebsocial.com
@@ -1657,7 +1660,6 @@ msFilterList
 -d bvpiba.bn.files.1drv.com
 -d bvppsw.bn.files.1drv.com
 -d bwb.fun
--d bwmonitor.shop
 -d bx7mug.bl.files.1drv.com
 -d bxpt5q.db.files.1drv.com
 -d bycab.page.link
@@ -1817,6 +1819,7 @@ msFilterList
 -d cdim9.com
 -d cdn-10049480.file.myqcloud.com
 -d cdn-g0962.int-onedrive.com
+-d cdn.aquazarine.com
 -d cdn.ciscordapp.com
 -d cdn.eventexposer.com
 -d cdn.riowt.top
@@ -2085,6 +2088,7 @@ msFilterList
 -d colegioapoio.com.br
 -d colegiobach.cl
 -d colemanco.com.au
+-d colinde.pricesne.com
 -d collenservices.co.za
 -d colly.appstew.be
 -d colombe-fm.org
@@ -2565,7 +2569,6 @@ msFilterList
 -d desserts.the-good-stuff.club
 -d destinazionecuba.it
 -d destinychild.com.ng
--d destinymc.co.za
 -d detailing-kingdom.com
 -d detectivesinmumbai.co.in
 -d detoxdietsupplements.com
@@ -3166,7 +3169,6 @@ msFilterList
 -d elgharabiya.com
 -d elhuerto237.com
 -d eliasolazar.xyz
--d elihasal.com
 -d elinerenata.com
 -d elirfaan.com
 -d elisawuentscher.com
@@ -3452,6 +3454,7 @@ msFilterList
 -d fabrica-zs.com
 -d fabricadecampeoesbrasil.com
 -d fabricadehomens.com.br
+-d fabritonescontract.com
 -d fabuladoras.com.br
 -d faceks.com
 -d facileprono.fr
@@ -4290,6 +4293,7 @@ msFilterList
 -d hdulpa.dm.files.1drv.com
 -d hduspw.dm.files.1drv.com
 -d hdvb4q.dm.files.1drv.com
+-d hdvideoizlemesistemi956735.site
 -d hdvideoizleresmi2356.website
 -d hdvideoizleresmi345738.website
 -d hdvideoizleresmi6395456.website
@@ -4389,6 +4393,7 @@ msFilterList
 -d hireonmap.com
 -d hireout.today
 -d hisensor.kr
+-d hisharj.ir
 -d hispanicaidgroup.org
 -d hitechscientific.in
 -d hitrade.io
@@ -5494,7 +5499,6 @@ msFilterList
 -d leadintelligenceagency.com
 -d leadphysio.com
 -d leadswala.com
--d leak.serveftp.com
 -d leaksworld.com
 -d leale.ch
 -d leanbpi.com
@@ -5996,7 +6000,6 @@ msFilterList
 -d meatworld-pk.com
 -d mebel-fiesta54.ru
 -d mebel-for-school.ru
--d mebli-land.com
 -d mechadda.com
 -d mechanoesis.gr
 -d mechinetralaya.org
@@ -6009,7 +6012,6 @@ msFilterList
 -d mediacarrier.net
 -d mediagnostic.com.ec
 -d mediamail.in
--d medianews.ge
 -d medic.pdtng.com
 -d medicalcardbajet.com
 -d medicalhomecare.com.br
@@ -6157,12 +6159,10 @@ msFilterList
 -d mindmapgallery.morelib.com
 -d mindworkspk.com
 -d minelaan.com
--d minets10.top
 -d minhbinh.work
 -d minidrivingschoolroordink.nl
 -d minionunicorn.com
 -d miniratka.eu
--d minles08.top
 -d minpowpoin.duckdns.org
 -d minstruire.fr
 -d mintsgalaxy.ru
@@ -6346,6 +6346,7 @@ msFilterList
 -d mudanzasdistintas.com.ar
 -d mufasa.virvazir.com
 -d muhammetdilber.com
+-d mulamoottilnidhi.in
 -d muledo.com
 -d muliaperkasaagung.co.id
 -d multflix.gq
@@ -6358,6 +6359,7 @@ msFilterList
 -d multisofterp.com.br
 -d multisyserp.com.br
 -d mulyahati.com
+-d mumgee.co.za
 -d mundialdeequipos.com.co
 -d mundodoingles.com.br
 -d mundodomedico.com.br
@@ -6472,7 +6474,6 @@ msFilterList
 -d nagains.azurewebsites.net
 -d nagpalbuildersindia.com
 -d nail.wego77.online
--d nairobix.xyz
 -d najadriver.najasoftware.com.br
 -d najasoftware.com.br
 -d najran.hadath.app
@@ -6877,6 +6878,7 @@ msFilterList
 -d onboarding.managetrucksright.com
 -d oncrete-egy.com
 -d ondulato.com.br
+-d one.installapp-service.com
 -d oneaudio.world
 -d onebusinesssuccess.xyz
 -d onepage2.ergestore28.com
@@ -7522,7 +7524,6 @@ msFilterList
 -d proverbsplace.net
 -d proxy.ba
 -d proxy.dev99.ro
--d proxyjudge1.proxyfire.net
 -d proyectartpanama.com
 -d proyecto100.com
 -d proyectoemprende.org
@@ -7572,6 +7573,7 @@ msFilterList
 -d pv3jtq.dm.files.1drv.com
 -d pv8ssq.bl.files.1drv.com
 -d pv8zpa.bl.files.1drv.com
+-d pvcprinting.co.uk
 -d pvqhjq.bl.files.1drv.com
 -d pvtfans.com
 -d pwebcast.com.mx
@@ -8739,7 +8741,6 @@ msFilterList
 -d starwt.com
 -d stat.grossundklein.info
 -d static-201-163-99-83.alestra.net.mx
--d static.3001.net
 -d static.cz01.cn
 -d stats502.online
 -d stats502.space
@@ -8976,6 +8977,7 @@ msFilterList
 -d tazxter.com
 -d tb.osilly.com
 -d tbeebak.com
+-d tblaw.ca
 -d tbtech.vn
 -d tc.snpsresidential.com
 -d tccgonda.com
@@ -9255,7 +9257,6 @@ msFilterList
 -d thrashlist.com
 -d threadlyyours.com
 -d threedeadbirds.com
--d threesmallhills.com
 -d threestarfurniturebd.com
 -d thriveparrad.com
 -d throughmusicfoundation.org
@@ -9595,6 +9596,7 @@ msFilterList
 -d unicornhardware.in
 -d unicorpbrunei.com
 -d unicupload.top
+-d unifashion.app.krazyit.com.au
 -d unifiedmicrosolutions.com
 -d uniformcelik.com
 -d unifp.com

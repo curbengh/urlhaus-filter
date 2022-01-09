@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Sat, 08 Jan 2022 12:10:54 +0000
+# Updated: Sun, 09 Jan 2022 00:10:51 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -138,7 +138,6 @@ msFilterList
 -d boardingschoolsoftware.com
 -d bobcatminer-store.e-mantra.in
 -d bondpertayenergy.com
--d botmaybe11.mcdir.me
 -d bowmancollection.com
 -d breakingbread.modelacademy.co.in
 -d briar.com.my
@@ -146,7 +145,6 @@ msFilterList
 -d bridgesfoundationrepair.com
 -d brightmega.com
 -d brightstarshop.com
--d bthuu.com
 -d bucbuc.in
 -d buigiaphat.com.vn
 -d builder.tarekujjaman.com
@@ -173,10 +171,10 @@ msFilterList
 -d cbn.hypervoizd.com
 -d cdaonline.com.ar
 -d cdn-10049480.file.myqcloud.com
+-d cdn.aquazarine.com
 -d cdn.riowt.top
 -d cellas.sk
 -d centralcdmx.gq
--d centre.ng
 -d centrichotel.com
 -d centuaryfabindia.com
 -d cereaisterraprodutosnaturais.exloja.com.br
@@ -204,7 +202,6 @@ msFilterList
 -d citihits.lk
 -d citiqproperties.co.za
 -d cittadinomondo.com
--d clavierimsiom.sytes.net
 -d client.meetsusolutions.com
 -d clinicareers.com
 -d cloud.fc.co.mz
@@ -214,6 +211,7 @@ msFilterList
 -d coachingcorporal.cl
 -d cobhamplasteringservices.co.uk
 -d cofenator.ru
+-d colinde.pricesne.com
 -d colonna.ac.ug
 -d colonna.ug
 -d community.reimclub.com
@@ -285,11 +283,11 @@ msFilterList
 -d deseo.torreblancamusica.com
 -d designerliving.co.za
 -d designoweb.website
--d destinymc.co.za
 -d dev-exec-champions-for-growth.pantheonsite.io
 -d dev.beneficialelectrification-co.com
 -d dev.crystalclearvapestore.co.uk
 -d dev.sebpo.net
+-d dev.sonicartoriginals.com
 -d dev2-admin.ycbnt.net
 -d dev2.alumnia.id
 -d dezcom.com
@@ -363,6 +361,7 @@ msFilterList
 -d eidoss.mx
 -d ekatmata.com
 -d elbauldelosregalos.com
+-d elearn2015.siamtechu.net
 -d elearning.physiotraining.com.gt
 -d elearning2014.siamtechu.net
 -d electrocanada.online
@@ -396,6 +395,7 @@ msFilterList
 -d extractjob.com
 -d f.gogamef.com
 -d faai-international.com
+-d fabritonescontract.com
 -d fam-int.com
 -d familydentist.site
 -d fbinternationals.net
@@ -431,7 +431,6 @@ msFilterList
 -d fse.in.ua
 -d fugeds.com
 -d fullelectronica.com.ar
--d fulltai.top
 -d funletters.net
 -d funpress.ir
 -d furyx.de
@@ -494,6 +493,7 @@ msFilterList
 -d highlandslasvegas.atakdev.com
 -d himganic.com
 -d hindimedia.in
+-d hisharj.ir
 -d hitstation.nl
 -d hlm-indonesia.com
 -d hongluosi.com
@@ -669,9 +669,7 @@ msFilterList
 -d mbgrm.com
 -d mbologwuholing.co.ug
 -d mbsolutions.ge
--d mebli-land.com
 -d mechanoesis.gr
--d medianews.ge
 -d meetinvestment.club
 -d meeweb.com
 -d megagynreformas.com.br
@@ -715,11 +713,11 @@ msFilterList
 -d mtmusicaemercado.com.br
 -d multiairsrl.com.ar
 -d multilevelcarparkingindia.com
+-d mumgee.co.za
 -d mutebimetalworks.com
 -d muzimbiti.xigubo.co.mz
 -d mwu.com.mx
 -d my.cloudme.com
--d mybest-way.com
 -d myfreekart.com
 -d myhealthtrack-ta-api.brettyates.com
 -d myhobbyjapan.com
@@ -775,6 +773,7 @@ msFilterList
 -d oms.pappai.com
 -d omscoc.pappai.com
 -d on-sights.com
+-d one.installapp-service.com
 -d online.creedglobal.in
 -d onyx-food.com
 -d opolis.io
@@ -807,7 +806,6 @@ msFilterList
 -d parallel.rockvideos.at
 -d parkwooddoors.co.nz
 -d parrotbay.net
--d pasarbta.biz
 -d pataphysics.net.au
 -d patch2.51lg.com
 -d patch2.99ddd.com
@@ -857,6 +855,7 @@ msFilterList
 -d prueba2.adivertirse.com.mx
 -d psb.sunandrajat.or.id
 -d punjabdevelopersassociation.com.pk
+-d pvcprinting.co.uk
 -d qe.jupiterstar.ru
 -d qmsled.com
 -d qsbinternational.com
@@ -934,6 +933,7 @@ msFilterList
 -d setup6.com
 -d setupbrokerage.com
 -d sexologistpakistan.net
+-d sezb.net
 -d shadihub.hmrngroup.com
 -d shaheentbfoundation.com
 -d shahikhana.cstdevs.com
@@ -978,14 +978,12 @@ msFilterList
 -d starcountry.net
 -d starticris.com
 -d static-201-163-99-83.alestra.net.mx
--d static.3001.net
 -d static.cz01.cn
 -d stayinoceancitymd.com
 -d steelhorns.net
 -d stemartoursandtravels.com
 -d sterlitecamotech.com
 -d sticker.jewsjuice.com
--d streamcloudmarketing.com
 -d studiomam.se
 -d submissions.tentcityrecords.net
 -d sumirecp.com
@@ -1036,6 +1034,7 @@ msFilterList
 -d timegonebuy.com
 -d tjersy.ru
 -d tk.w3.eyeteam.vn
+-d tlcnailbarhoover.com
 -d tnk-moflad.com
 -d todoapp.cstdevs.com
 -d tonmatdoanminh.com
@@ -1067,6 +1066,7 @@ msFilterList
 -d ultimate-24.de
 -d underdohag.ac.ug
 -d unicorpbrunei.com
+-d unifashion.app.krazyit.com.au
 -d unisoftcc.com
 -d unitedengineeringco.com
 -d universalplastoind.com
@@ -1112,6 +1112,7 @@ msFilterList
 -d wearsweetbomb.com
 -d web.geomegasoft.net
 -d web.innoservwebsites.in
+-d webschool.quicksoft.in
 -d weinsteincounseling.com
 -d wfinance.com.br
 -d whizcraft.co.uk
