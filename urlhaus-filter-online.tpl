@@ -1,6 +1,6 @@
 msFilterList
 # Title: Online Malicious Hosts Blocklist (IE)
-# Updated: Sun, 09 Jan 2022 00:10:51 +0000
+# Updated: Sun, 09 Jan 2022 12:10:54 +0000
 # Expires: 1 day (update frequency)
 # Homepage: https://gitlab.com/curben/urlhaus-filter
 # License: https://gitlab.com/curben/urlhaus-filter#license
@@ -39,7 +39,6 @@ msFilterList
 -d acmvietnamjsc.com
 -d acts-portal-live.serverdatahost.com
 -d adeniyisaleem.com
--d adeoba.com
 -d adityasolsurf.in
 -d adl-asia.com
 -d admin.classified.pointsource.ng
@@ -49,7 +48,6 @@ msFilterList
 -d advconstructora.cl
 -d affordabledebtrelief.com
 -d agdm.ml
--d agemn.co.za
 -d aiqtest.com
 -d aircod.com
 -d al-wahd.com
@@ -59,11 +57,8 @@ msFilterList
 -d alemelektronik.com
 -d alexdubai.com.aldiabsteel.com
 -d alhayatlaundry.ae
--d allforcreative.com.au
--d allhomesrealestate.com.au
 -d alltestagain.lukehadaj.com.au
 -d almeriahot.com
--d alphaimoveissa.com.br
 -d amarteargentina.com.ar
 -d amazingshowerdoor.ca
 -d amooma.sourcetaggers.com
@@ -102,12 +97,12 @@ msFilterList
 -d azmeasurement.com
 -d b.dxyzgame.com
 -d b2gnegocios.com
+-d backbenchfilm.chadfoto.com
 -d backgrounds.pk
 -d backpackumbrella.com
 -d badeggdesign.com
 -d ballatstone.com
 -d bangkok-orchids.com
--d bank.zanderscloud.com.ng
 -d barkodsolutions.com
 -d bazaar-shahr-alborz.ir
 -d bberker.com
@@ -123,6 +118,7 @@ msFilterList
 -d beta.profissaopiloto.com.br
 -d bharattank.me
 -d biglyt.net
+-d bigmikesupplies.co.za
 -d bio-nutec.com
 -d biosafepro.in
 -d bitllab.com.br
@@ -160,6 +156,7 @@ msFilterList
 -d cajaps.net
 -d callandget.co.in
 -d camminachetipassa.it
+-d canadacannabis.live
 -d canconsulting.in
 -d caragudigital.com.mx
 -d carbinz.ml
@@ -199,7 +196,6 @@ msFilterList
 -d ciidental.com.ec
 -d cimcpatna.com
 -d ciroflores.com
--d citihits.lk
 -d citiqproperties.co.za
 -d cittadinomondo.com
 -d client.meetsusolutions.com
@@ -271,7 +267,6 @@ msFilterList
 -d dekovizyon.com
 -d delihuerto.com
 -d demo.aakar360.com
--d demo.energianmittaus.fi
 -d demo.fontecsys.net
 -d demo.nhabe360.com
 -d demo.shooes.in
@@ -283,6 +278,7 @@ msFilterList
 -d deseo.torreblancamusica.com
 -d designerliving.co.za
 -d designoweb.website
+-d destinymc.co.za
 -d dev-exec-champions-for-growth.pantheonsite.io
 -d dev.beneficialelectrification-co.com
 -d dev.crystalclearvapestore.co.uk
@@ -296,6 +292,7 @@ msFilterList
 -d diacomarket.com
 -d diamantesviagens.com.br
 -d dijkstra-kolbe.nl
+-d dipingwang.com
 -d discoveryast.com
 -d diset.cl
 -d divinaprovidenciaautlan.com
@@ -361,9 +358,7 @@ msFilterList
 -d eidoss.mx
 -d ekatmata.com
 -d elbauldelosregalos.com
--d elearn2015.siamtechu.net
 -d elearning.physiotraining.com.gt
--d elearning2014.siamtechu.net
 -d electrocanada.online
 -d emaids.co.za
 -d email.ogivart.us
@@ -450,6 +445,7 @@ msFilterList
 -d gocnhotaichinh.com
 -d godfathersjunk.com
 -d godubai.club
+-d godzuwaglobalventures.com
 -d goldenasiacapital.com
 -d goldfinancenews.com
 -d gp.gamebuy768.com
@@ -485,7 +481,6 @@ msFilterList
 -d hdkamera2003.hu
 -d healthnoteacademy.com
 -d heinrich.su-projects2.de
--d hellogorgeous.com.au
 -d helpfoundation.uxgorilla.com
 -d herchinfitout.com.sg
 -d heyyou6013.lowjunnhoi.repl.co
@@ -593,7 +588,6 @@ msFilterList
 -d klearning.co.uk
 -d klija.net
 -d kodekode.ac.ug
--d korrectconceptservices.com
 -d krainikovvlad.eternalhost.info
 -d kramersmarionnettes.com
 -d krisbadminton.com
@@ -642,8 +636,6 @@ msFilterList
 -d m-techcollege.com
 -d m.ashiwenhua.net
 -d macmor-media.com.au
--d madicon.co.za
--d mail.bs-eiendomme.co.za
 -d mail.emilyanncain.com
 -d mail.filastiniyat.org
 -d mail.tucorp.com.au
@@ -670,6 +662,7 @@ msFilterList
 -d mbologwuholing.co.ug
 -d mbsolutions.ge
 -d mechanoesis.gr
+-d media-server.skyinternet.com.pk
 -d meetinvestment.club
 -d meeweb.com
 -d megagynreformas.com.br
@@ -855,7 +848,6 @@ msFilterList
 -d prueba2.adivertirse.com.mx
 -d psb.sunandrajat.or.id
 -d punjabdevelopersassociation.com.pk
--d pvcprinting.co.uk
 -d qe.jupiterstar.ru
 -d qmsled.com
 -d qsbinternational.com
@@ -899,7 +891,6 @@ msFilterList
 -d saboo.in
 -d saf-oil.ru
 -d safcol-colors.com
--d saffronflourmill.com
 -d sagitariobpa.com
 -d sainzim.co.za
 -d salemazonjp.com
@@ -978,6 +969,7 @@ msFilterList
 -d starcountry.net
 -d starticris.com
 -d static-201-163-99-83.alestra.net.mx
+-d static.3001.net
 -d static.cz01.cn
 -d stayinoceancitymd.com
 -d steelhorns.net
@@ -1019,7 +1011,6 @@ msFilterList
 -d tg8.cllgxx.com
 -d thaayagam.com
 -d tharringtonsponsorship.com
--d theangelz.com.br
 -d thegift.live
 -d thehotelshowdev.bitkit.dk
 -d theprint.ninja
@@ -1066,7 +1057,6 @@ msFilterList
 -d ultimate-24.de
 -d underdohag.ac.ug
 -d unicorpbrunei.com
--d unifashion.app.krazyit.com.au
 -d unisoftcc.com
 -d unitedengineeringco.com
 -d universalplastoind.com
@@ -1123,6 +1113,7 @@ msFilterList
 -d winonvulkan.ringhio.net
 -d winonvulkan.syrox-kosova.com
 -d wishesconcierge.com
+-d witumart.com
 -d wolfgang-brodte.de
 -d wolfram-electric.com
 -d wolle-online.kaufen
