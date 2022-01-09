@@ -33,7 +33,7 @@ pages:
     # Only trigger when commit to main branch
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
-netlify:
+deploy_job:
   stage: deploy
 
   before_script:
