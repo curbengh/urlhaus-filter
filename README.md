@@ -38,7 +38,13 @@ Import the following URL into uBO to subscribe (includes online and **offline** 
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter.txt
+- https://malware-filter.pages.dev/urlhaus-filter.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter.txt
+- https://malware-filter.netlify.app/urlhaus-filter.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter.txt
 
 </details>
 
@@ -53,7 +59,13 @@ _enabled by default in uBO >=[1.28.2](https://github.com/gorhill/uBlock/releases
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-online.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-online.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-online.txt
+- https://malware-filter.pages.dev/urlhaus-filter-online.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-online.txt
+- https://malware-filter.netlify.app/urlhaus-filter-online.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-online.txt
 
 </details>
 
@@ -74,7 +86,13 @@ Import the following URL into AdGuard browser extensions to subscribe (includes 
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-ag.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-ag.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-ag.txt
+- https://malware-filter.pages.dev/urlhaus-filter-ag.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-ag.txt
+- https://malware-filter.netlify.app/urlhaus-filter-ag.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-ag.txt
 
 </details>
 
@@ -87,7 +105,13 @@ Lite version (**online** links only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-ag-online.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-ag-online.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-ag-online.txt
+- https://malware-filter.pages.dev/urlhaus-filter-ag-online.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
+- https://malware-filter.netlify.app/urlhaus-filter-ag-online.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-ag-online.txt
 
 </details>
 
@@ -102,7 +126,13 @@ Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscrib
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-vivaldi.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-vivaldi.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi.txt
+- https://malware-filter.pages.dev/urlhaus-filter-vivaldi.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-vivaldi.txt
+- https://malware-filter.netlify.app/urlhaus-filter-vivaldi.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-vivaldi.txt
 
 </details>
 
@@ -115,7 +145,13 @@ Lite version (**online** links only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-vivaldi-online.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt
+- https://malware-filter.pages.dev/urlhaus-filter-vivaldi-online.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-vivaldi-online.txt
+- https://malware-filter.netlify.app/urlhaus-filter-vivaldi-online.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-vivaldi-online.txt
 
 </details>
 
@@ -128,7 +164,13 @@ This blocklist includes domains and IP addresses.
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-domains.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-domains.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-domains.txt
+- https://malware-filter.pages.dev/urlhaus-filter-domains.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-domains.txt
+- https://malware-filter.netlify.app/urlhaus-filter-domains.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-domains.txt
 
 </details>
 
@@ -140,7 +182,13 @@ Lite version (online domains/IPs only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-domains-online.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-domains-online.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-domains-online.txt
+- https://malware-filter.pages.dev/urlhaus-filter-domains-online.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-domains-online.txt
+- https://malware-filter.netlify.app/urlhaus-filter-domains-online.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-domains-online.txt
 
 </details>
 
@@ -153,7 +201,13 @@ This AdGuard Home-compatible blocklist includes domains and IP addresses.
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-agh.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-agh.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-agh.txt
+- https://malware-filter.pages.dev/urlhaus-filter-agh.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-agh.txt
+- https://malware-filter.netlify.app/urlhaus-filter-agh.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-agh.txt
 
 </details>
 
@@ -165,7 +219,13 @@ Lite version (online domains/IPs only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-agh-online.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-agh-online.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-agh-online.txt
+- https://malware-filter.pages.dev/urlhaus-filter-agh-online.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-agh-online.txt
+- https://malware-filter.netlify.app/urlhaus-filter-agh-online.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-agh-online.txt
 
 </details>
 
@@ -178,7 +238,13 @@ This blocklist includes domains only.
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-hosts.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-hosts.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-hosts.txt
+- https://malware-filter.pages.dev/urlhaus-filter-hosts.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
+- https://malware-filter.netlify.app/urlhaus-filter-hosts.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-hosts.txt
 
 </details>
 
@@ -190,7 +256,13 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-hosts-online.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-hosts-online.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-hosts-online.txt
+- https://malware-filter.pages.dev/urlhaus-filter-hosts-online.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-hosts-online.txt
+- https://malware-filter.netlify.app/urlhaus-filter-hosts-online.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-hosts-online.txt
 
 </details>
 
@@ -219,7 +291,13 @@ printf "\nconf-file=/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf\n" >> /et
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-dnsmasq.conf
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnsmasq.conf
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnsmasq.conf
+- https://malware-filter.pages.dev/urlhaus-filter-dnsmasq.conf
+- https://urlhaus-filter.pages.dev/urlhaus-filter-dnsmasq.conf
+- https://malware-filter.netlify.app/urlhaus-filter-dnsmasq.conf
+- https://urlhaus-filter.netlify.app/urlhaus-filter-dnsmasq.conf
 
 </details>
 
@@ -231,7 +309,13 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-dnsmasq-online.conf
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnsmasq-online.conf
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnsmasq-online.conf
+- https://malware-filter.pages.dev/urlhaus-filter-dnsmasq-online.conf
+- https://urlhaus-filter.pages.dev/urlhaus-filter-dnsmasq-online.conf
+- https://malware-filter.netlify.app/urlhaus-filter-dnsmasq-online.conf
+- https://urlhaus-filter.netlify.app/urlhaus-filter-dnsmasq-online.conf
 
 </details>
 
@@ -278,7 +362,13 @@ Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-bind.conf
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-bind.conf
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-bind.conf
+- https://malware-filter.pages.dev/urlhaus-filter-bind.conf
+- https://urlhaus-filter.pages.dev/urlhaus-filter-bind.conf
+- https://malware-filter.netlify.app/urlhaus-filter-bind.conf
+- https://urlhaus-filter.netlify.app/urlhaus-filter-bind.conf
 
 </details>
 
@@ -290,7 +380,13 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-bind-online.conf
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-bind-online.conf
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-bind-online.conf
+- https://malware-filter.pages.dev/urlhaus-filter-bind-online.conf
+- https://urlhaus-filter.pages.dev/urlhaus-filter-bind-online.conf
+- https://malware-filter.netlify.app/urlhaus-filter-bind-online.conf
+- https://urlhaus-filter.netlify.app/urlhaus-filter-bind-online.conf
 
 </details>
 
@@ -303,7 +399,13 @@ This blocklist includes domains only.
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-rpz.conf
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-rpz.conf
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-rpz.conf
+- https://malware-filter.pages.dev/urlhaus-filter-rpz.conf
+- https://urlhaus-filter.pages.dev/urlhaus-filter-rpz.conf
+- https://malware-filter.netlify.app/urlhaus-filter-rpz.conf
+- https://urlhaus-filter.netlify.app/urlhaus-filter-rpz.conf
 
 </details>
 
@@ -315,7 +417,13 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-rpz-online.conf
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-rpz-online.conf
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-rpz-online.conf
+- https://malware-filter.pages.dev/urlhaus-filter-rpz-online.conf
+- https://urlhaus-filter.pages.dev/urlhaus-filter-rpz-online.conf
+- https://malware-filter.netlify.app/urlhaus-filter-rpz-online.conf
+- https://urlhaus-filter.netlify.app/urlhaus-filter-rpz-online.conf
 
 </details>
 
@@ -344,7 +452,13 @@ printf '\n  include: "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' >> 
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-unbound.conf
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-unbound.conf
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-unbound.conf
+- https://malware-filter.pages.dev/urlhaus-filter-unbound.conf
+- https://urlhaus-filter.pages.dev/urlhaus-filter-unbound.conf
+- https://malware-filter.netlify.app/urlhaus-filter-unbound.conf
+- https://urlhaus-filter.netlify.app/urlhaus-filter-unbound.conf
 
 </details>
 
@@ -356,7 +470,13 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-unbound-online.conf
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-unbound-online.conf
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-unbound-online.conf
+- https://malware-filter.pages.dev/urlhaus-filter-unbound-online.conf
+- https://urlhaus-filter.pages.dev/urlhaus-filter-unbound-online.conf
+- https://malware-filter.netlify.app/urlhaus-filter-unbound-online.conf
+- https://urlhaus-filter.netlify.app/urlhaus-filter-unbound-online.conf
 
 </details>
 
@@ -392,9 +512,21 @@ Configure dnscrypt-proxy to use the blocklist:
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://malware-filter.netlify.app/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-dnscrypt-blocked-names.txt
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://malware-filter.netlify.app/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-dnscrypt-blocked-ips.txt
 
 </details>
 
@@ -407,9 +539,21 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://malware-filter.netlify.app/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-dnscrypt-blocked-names-online.txt
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://malware-filter.netlify.app/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://urlhaus-filter.netlify.app/urlhaus-filter-dnscrypt-blocked-ips-online.txt
 
 </details>
 
@@ -423,7 +567,13 @@ This blocklist includes domains only. Supported in Internet Explorer 9+.
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter.tpl
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter.tpl
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter.tpl
+- https://malware-filter.pages.dev/urlhaus-filter.tpl
+- https://urlhaus-filter.pages.dev/urlhaus-filter.tpl
+- https://malware-filter.netlify.app/urlhaus-filter.tpl
+- https://urlhaus-filter.netlify.app/urlhaus-filter.tpl
 
 </details>
 
@@ -435,7 +585,13 @@ Lite version (online domains only):
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-online.tpl
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-online.tpl
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-online.tpl
+- https://malware-filter.pages.dev/urlhaus-filter-online.tpl
+- https://urlhaus-filter.pages.dev/urlhaus-filter-online.tpl
+- https://malware-filter.netlify.app/urlhaus-filter-online.tpl
+- https://urlhaus-filter.netlify.app/urlhaus-filter-online.tpl
 
 </details>
 
@@ -464,7 +620,13 @@ printf "\ninclude \$RULE_PATH/urlhaus-filter-snort2-online.rules\n" >> /etc/snor
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-snort2-online.rules
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-snort2-online.rules
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-snort2-online.rules
+- https://malware-filter.pages.dev/urlhaus-filter-snort2-online.rules
+- https://urlhaus-filter.pages.dev/urlhaus-filter-snort2-online.rules
+- https://malware-filter.netlify.app/urlhaus-filter-snort2-online.rules
+- https://urlhaus-filter.netlify.app/urlhaus-filter-snort2-online.rules
 
 </details>
 
@@ -501,7 +663,13 @@ ips =
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-snort3-online.rules
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-snort3-online.rules
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-snort3-online.rules
+- https://malware-filter.pages.dev/urlhaus-filter-snort3-online.rules
+- https://urlhaus-filter.pages.dev/urlhaus-filter-snort3-online.rules
+- https://malware-filter.netlify.app/urlhaus-filter-snort3-online.rules
+- https://urlhaus-filter.netlify.app/urlhaus-filter-snort3-online.rules
 
 </details>
 
@@ -536,7 +704,13 @@ rule-files:
 <details>
 <summary>Mirrors</summary>
 
+- https://curbengh.github.io/malware-filter/urlhaus-filter-suricata-online.rules
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-suricata-online.rules
 - https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-suricata-online.rules
+- https://malware-filter.pages.dev/urlhaus-filter-suricata-online.rules
+- https://urlhaus-filter.pages.dev/urlhaus-filter-suricata-online.rules
+- https://malware-filter.netlify.app/urlhaus-filter-suricata-online.rules
+- https://urlhaus-filter.netlify.app/urlhaus-filter-suricata-online.rules
 
 </details>
 
