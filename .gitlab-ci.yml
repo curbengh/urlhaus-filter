@@ -34,7 +34,19 @@ pages:
     paths:
       - public
 
-deploy_job:
+cloudflare:
+  stage: deploy
+
+  before_script:
+      - apk update && apk add curl
+
+  script:
+    - curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/$CLOUDFLARE_BUILD_HOOK"
+
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $CLOUDFLARE == "true"'
+
+netlify:
   stage: deploy
 
   before_script:
@@ -42,4 +54,6 @@ deploy_job:
 
   script:
     - curl -X POST -d "{}" "https://api.netlify.com/build_hooks/$NETLIFY_BUILD_HOOK"
-    - curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/$CLOUDFLARE_BUILD_HOOK"
+
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $NETLIFY == "true"'
