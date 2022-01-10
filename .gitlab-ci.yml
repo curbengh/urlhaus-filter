@@ -78,6 +78,3 @@ failed_job:
     - if: '$CI_COMMIT_REF_NAME == "master" && ($CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "web")'
       # Run this job only when preceding jobs failed
       when: on_failure
-
-include:
-  - template: Security/Secret-Detection.gitlab-ci.yml
