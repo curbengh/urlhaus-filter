@@ -3,6 +3,11 @@ image: alpine:latest
 include:
   - template: Security/Secret-Detection.gitlab-ci.yml
 
+# Only run pipeline when scheduled or "Run pipeline" in the main branch
+workflow:
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && ($CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "web")'
+
 build_job:
   stage: build
 
@@ -29,10 +34,6 @@ pages:
     paths:
       - public
 
-  rules:
-    # Only trigger when commit to main branch
-    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
-
 deploy_job:
   stage: deploy
 
@@ -42,7 +43,3 @@ deploy_job:
   script:
     - curl -X POST -d "{}" "https://api.netlify.com/build_hooks/$NETLIFY_BUILD_HOOK"
     - curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/$CLOUDFLARE_BUILD_HOOK"
-
-  rules:
-    # Only trigger through schedule job and "Run pipeline" in the main branch
-    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && ($CI_PIPELINE_SOURCE == "schedule" || $CI_PIPELINE_SOURCE == "web")'
