@@ -743,9 +743,9 @@ Use shallow clone to get the recent revisions only. Getting the last five revisi
 
 `git clone --depth 5 https://gitlab.com/curben/urlhaus-filter.git`
 
-## FAQ
+## FAQ and Guides
 
-See [FAQ](https://gitlab.com/curben/urlhaus-filter/wikis/faq).
+See [wiki](https://gitlab.com/curben/urlhaus-filter/-/wikis/home)
 
 ## License
 
