@@ -1,9 +1,6 @@
 name: Pages
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 0,12 * * *"
   workflow_dispatch:
