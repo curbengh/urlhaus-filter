@@ -745,7 +745,7 @@ Use shallow clone to get the recent revisions only. Getting the last five revisi
 
 ## FAQ and Guides
 
-See [wiki](https://gitlab.com/curben/urlhaus-filter/-/wikis/home)
+See [wiki](https://gitlab.com/curben/malware-filter/-/wikis/home)
 
 ## License
 
