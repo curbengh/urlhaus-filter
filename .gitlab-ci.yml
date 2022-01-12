@@ -56,7 +56,7 @@ netlify:
 
   script:
     - npm run build
-    - netlify deploy --dir=public
+    - netlify deploy --dir=public --prod
 
   rules:
     - if: '$NETLIFY == "true"'
