@@ -39,6 +39,10 @@ jobs:
           name: tmp
           path: ./tmp
           retention-days: 30
+      - name: Check GitLab Status
+        env:
+          GITHUB_ENV: ${{ env.GITHUB_ENV }}
+        run: sh ./src/gitlab_status.sh
       - name: Cloudflare Pages
         env:
           CLOUDFLARE_BUILD_HOOK: ${{ secrets.CLOUDFLARE_BUILD_HOOK }}
