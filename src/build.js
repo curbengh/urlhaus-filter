@@ -11,20 +11,51 @@ const { pipeline } = require('stream/promises')
 
 const rootPath = join(__dirname, '..')
 const tmpPath = join(rootPath, 'tmp')
+const publicPath = join(rootPath, 'public')
 const zipPath = join(tmpPath, 'artifacts.zip')
 const artifactsUrl = 'https://gitlab.com/curben/urlhaus-filter/-/jobs/artifacts/main/download?job=pages'
+const ghMirror = 'https://nightly.link/curbengh/urlhaus-filter/workflows/pages/main/public.zip'
 
 const f = async () => {
+  let isMirror = false
+
   await mkdir(tmpPath, { recursive: true })
 
   console.log(`Downloading artifacts.zip from "${artifactsUrl}"`)
-  await pipeline(
-    gotStream(artifactsUrl),
-    createWriteStream(zipPath)
-  )
+  try {
+    await pipeline(
+      gotStream(artifactsUrl),
+      createWriteStream(zipPath)
+    )
+  } catch ({ message }) {
+    console.error(JSON.stringify({
+      error: message,
+      link: artifactsUrl
+    }))
+
+    console.log(`Downloading artifacts.zip from "${ghMirror}"`)
+    isMirror = true
+
+    try {
+      await pipeline(
+        gotStream(ghMirror),
+        createWriteStream(zipPath)
+      )
+    } catch ({ message }) {
+      throw new Error(JSON.stringify({
+        error: message,
+        link: ghMirror
+      }))
+    }
+  }
 
   console.log('Extracting artifacts.zip...')
-  await unzip(zipPath, { dir: rootPath })
+  if (isMirror === false) {
+    await unzip(zipPath, { dir: rootPath })
+  } else {
+    await mkdir(publicPath, { recursive: true })
+    await unzip(zipPath, { dir: publicPath })
+  }
 }
 
 f()
