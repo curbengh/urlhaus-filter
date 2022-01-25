@@ -8,7 +8,7 @@ on:
 jobs:
   pages:
     runs-on: ubuntu-latest
-    container: alpine:latest
+    container: node:lts-alpine
     steps:
       - uses: actions/checkout@v2
       - name: Install Dependencies
@@ -16,7 +16,7 @@ jobs:
           apk update
           apk add brotli curl git grep
       - name: Build
-        run: sh src/script.sh
+        run: sh ./src/script.sh
       - name: Compress
         run: |
           find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\)$' -exec gzip -f -k -9 {} \;
@@ -39,3 +39,19 @@ jobs:
           name: tmp
           path: ./tmp
           retention-days: 30
+      - name: Cloudflare Pages
+        env:
+          CLOUDFLARE_BUILD_HOOK: ${{ secrets.CLOUDFLARE_BUILD_HOOK }}
+        if: ${{ env.CLOUDFLARE_BUILD_HOOK != 0 && env.GITLAB_STATUS == 'down' }}
+        run: curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/${{ env.CLOUDFLARE_BUILD_HOOK }}"
+      - name: Netlify
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        if: ${{ env.NETLIFY_SITE_ID != 0 && env.GITLAB_STATUS == 'down' }}
+        run: |
+          npm install
+          npm install netlify-cli -g
+          netlify --telemetry-disable
+          npm run build
+          netlify deploy --dir=public --prod
