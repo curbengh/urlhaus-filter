@@ -44,7 +44,7 @@ cloudflare:
     - curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/$CLOUDFLARE_BUILD_HOOK"
 
   rules:
-    - if: '$CLOUDFLARE == "true"'
+    - if: $CLOUDFLARE_BUILD_HOOK
 
 netlify:
   stage: deploy
@@ -59,4 +59,4 @@ netlify:
     - netlify deploy --dir=public --prod
 
   rules:
-    - if: '$NETLIFY == "true"'
+    - if: $NETLIFY_SITE_ID
