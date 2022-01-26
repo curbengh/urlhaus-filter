@@ -58,5 +58,9 @@ netlify:
     - npm run build
     - netlify deploy --dir=public --prod
 
+  cache:
+    paths:
+      - node_modules/
+
   rules:
     - if: $NETLIFY_SITE_ID
