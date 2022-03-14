@@ -40,9 +40,6 @@ pages:
 cloudflare:
   stage: deploy
 
-  dependencies:
-    - pages
-
   before_script:
       - apk update && apk add curl
 
