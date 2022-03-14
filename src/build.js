@@ -13,8 +13,8 @@ const rootPath = join(__dirname, '..')
 const tmpPath = join(rootPath, 'tmp')
 const publicPath = join(rootPath, 'public')
 const zipPath = join(tmpPath, 'artifacts.zip')
-const artifactsUrl = 'https://nightly.link/curbengh/urlhaus-filter/workflows/pages/main/public.zip'
-const ghMirror = 'https://gitlab.com/curben/urlhaus-filter/-/jobs/artifacts/main/download?job=pages'
+const artifactsUrl = 'https://gitlab.com/curben/urlhaus-filter/-/jobs/artifacts/main/download?job=pages'
+const ghMirror = 'https://nightly.link/curbengh/urlhaus-filter/workflows/pages/main/public.zip'
 
 const f = async () => {
   let isMirror = false
