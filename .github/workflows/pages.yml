@@ -57,5 +57,4 @@ jobs:
           npm install
           npm install netlify-cli -g
           netlify --telemetry-disable
-          npm run build
           netlify deploy --dir=public --prod
