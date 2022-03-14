@@ -65,10 +65,6 @@ netlify:
   script:
     - netlify deploy --dir=public --prod
 
-  artifacts:
-    paths:
-      - public
-
   cache:
     paths:
       - node_modules/
