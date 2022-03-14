@@ -40,6 +40,9 @@ pages:
 cloudflare:
   stage: deploy
 
+  dependencies:
+    - pages
+
   before_script:
       - apk update && apk add curl
 
@@ -52,14 +55,19 @@ cloudflare:
 netlify:
   stage: deploy
 
+  dependencies:
+    - build_job
+
   before_script:
-    - npm install
     - npm install netlify-cli -g
     - netlify --telemetry-disable
 
   script:
-    - npm run build
     - netlify deploy --dir=public --prod
+
+  artifacts:
+    paths:
+      - public
 
   cache:
     paths:
