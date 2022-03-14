@@ -27,6 +27,9 @@ build_job:
 pages:
   stage: deploy
 
+  dependencies:
+    - build_job
+
   script:
     - echo
 
