@@ -3,6 +3,7 @@
 // for deployment outside of GitLab CI, e.g. Cloudflare Pages and Netlify
 
 const { stream: gotStream } = require('got')
+const got = require('got')
 const unzip = require('extract-zip')
 const { join } = require('path')
 const { mkdir } = require('fs/promises')
@@ -14,7 +15,17 @@ const tmpPath = join(rootPath, 'tmp')
 const publicPath = join(rootPath, 'public')
 const zipPath = join(tmpPath, 'artifacts.zip')
 const artifactsUrl = 'https://gitlab.com/curben/urlhaus-filter/-/jobs/artifacts/main/download?job=pages'
+const pipelineUrl = 'https://gitlab.com/curben/urlhaus-filter/badges/main/pipeline.svg'
 const ghMirror = 'https://nightly.link/curbengh/urlhaus-filter/workflows/pages/main/public.zip'
+
+const pipelineStatus = async (url) => {
+  try {
+    const svg = await got(url).text()
+    if (!svg.includes('passed')) throw new Error('last gitlab pipeline failed')
+  } catch ({ message }) {
+    throw new Error(message)
+  }
+}
 
 const f = async () => {
   let isMirror = false
@@ -27,6 +38,7 @@ const f = async () => {
       gotStream(artifactsUrl),
       createWriteStream(zipPath)
     )
+    await pipelineStatus(pipelineUrl)
   } catch ({ message }) {
     console.error(JSON.stringify({
       error: message,

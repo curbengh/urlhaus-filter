@@ -1,9 +1,10 @@
 #!/bin/sh
 
-CURL_STATUS=$(curl -sSIL "https://gitlab.com/curben/urlhaus-filter/-/jobs/artifacts/main/download?job=pages" | grep -F "HTTP/2 200")
+ARTIFACT_STATUS=$(curl -sSIL "https://gitlab.com/curben/urlhaus-filter/-/jobs/artifacts/main/download?job=pages" | grep -F "HTTP/2 200")
+PIPELINE_STATUS=$(curl -sSL "https://gitlab.com/curben/urlhaus-filter/badges/main/pipeline.svg" | grep -F "failed")
 GITLAB_STATUS="up"
 
-if [ -z "$CURL_STATUS" ]; then
+if [ -z "$ARTIFACT_STATUS" ] || [ -n "$PIPELINE_STATUS" ]; then
   GITLAB_STATUS="down"
 fi
 
