@@ -21,7 +21,7 @@ There are multiple formats available, refer to the appropriate section according
 - [Snort3](#snort3)
 - [Suricata](#suricata)
 
-Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/urlhaus-filter/wikis/compatibility) page in the wiki.
+Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/malware-filter/wikis/compatibility) page in the wiki.
 
 Check out my other filters:
 
