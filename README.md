@@ -1,6 +1,6 @@
 # Malicious URL Blocklist
 
-> Edit 2021/01/08: the default branch has changed to **main**.
+> Announcement: curben.gitlab.io will be migrated to malware-filter.gitlab.io on 2022/05/21
 
 A blocklist of malicious websites that are being used for malware distribution, based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/). Blocklist is updated twice a day.
 
