@@ -1,6 +1,6 @@
 # Malicious URL Blocklist
 
-> Announcement: curben.gitlab.io will be migrated to malware-filter.gitlab.io on 2022/05/21
+> Announcement (2022/05/21): curben.gitlab.io has been migrated to malware-filter.gitlab.io
 
 A blocklist of malicious websites that are being used for malware distribution, based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/). Blocklist is updated twice a day.
 
@@ -21,13 +21,13 @@ There are multiple formats available, refer to the appropriate section according
 - [Snort3](#snort3)
 - [Suricata](#suricata)
 
-Not sure which format to choose? See [Compatibility](https://gitlab.com/curben/malware-filter/wikis/compatibility) page in the wiki.
+Not sure which format to choose? See [Compatibility](https://gitlab.com/malware-filter/malware-filter/wikis/compatibility) page in the wiki.
 
 Check out my other filters:
 
-- [phishing-filter](https://gitlab.com/curben/phishing-filter)
-- [pup-filter](https://gitlab.com/curben/pup-filter)
-- [tracking-filter](https://gitlab.com/curben/tracking-filter)
+- [phishing-filter](https://gitlab.com/malware-filter/phishing-filter)
+- [pup-filter](https://gitlab.com/malware-filter/pup-filter)
+- [tracking-filter](https://gitlab.com/malware-filter/tracking-filter)
 
 ## URL-based
 
@@ -671,7 +671,7 @@ This blocklist operates by blocking the **whole** website, instead of specific w
 
 *Popular* websites are as listed in the [Umbrella Popularity List](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html) (top 1M domains + subdomains), [Tranco List](https://tranco-list.eu/) (top 1M domains) and this [custom list](src/exclude.txt).
 
-If you wish to exclude certain website(s) that you believe is sufficiently well-known, please create an [issue](https://gitlab.com/curben/urlhaus-filter/issues) or [merge request](https://gitlab.com/curben/urlhaus-filter/merge_requests). If the website is quite obscure but you still want to visit it, you can add a new line `||legitsite.com^$badfilter` to "My filters" tab of uBO; use a subdomain if relevant, `||sub.legitsite.com^$badfilter`.
+If you wish to exclude certain website(s) that you believe is sufficiently well-known, please create an [issue](https://gitlab.com/malware-filter/urlhaus-filter/issues) or [merge request](https://gitlab.com/malware-filter/urlhaus-filter/merge_requests). If the website is quite obscure but you still want to visit it, you can add a new line `||legitsite.com^$badfilter` to "My filters" tab of uBO; use a subdomain if relevant, `||sub.legitsite.com^$badfilter`.
 
 This filter **only** accepts new malware URLs from [URLhaus](https://urlhaus.abuse.ch/).
 
@@ -683,11 +683,11 @@ Since the filter is updated frequently, cloning the repo would become slower ove
 
 Use shallow clone to get the recent revisions only. Getting the last five revisions should be sufficient for a valid MR.
 
-`git clone --depth 5 https://gitlab.com/curben/urlhaus-filter.git`
+`git clone --depth 5 https://gitlab.com/malware-filter/urlhaus-filter.git`
 
 ## FAQ and Guides
 
-See [wiki](https://gitlab.com/curben/malware-filter/-/wikis/home)
+See [wiki](https://gitlab.com/malware-filter/malware-filter/-/wikis/home)
 
 ## License
 
