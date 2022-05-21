@@ -33,14 +33,14 @@ Check out my other filters:
 
 Import the following URL into uBO to subscribe (includes online and **offline** malicious websites):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter.txt
 - https://malware-filter.pages.dev/urlhaus-filter.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter.txt
 
@@ -52,14 +52,14 @@ Lite version (**online** links only):
 
 _enabled by default in uBO >=[1.28.2](https://github.com/gorhill/uBlock/releases/tag/1.28.2)_
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-online.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-online.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-online.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-online.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-online.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-online.txt
 - https://malware-filter.pages.dev/urlhaus-filter-online.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-online.txt
 
@@ -77,14 +77,14 @@ If you've installed the lite version but prefer to use the regular version, it's
 
 Import the following URL into AdGuard browser extensions to subscribe (includes online and **offline** malicious websites):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-ag.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-ag.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-ag.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-ag.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-ag.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-ag.txt
 - https://malware-filter.pages.dev/urlhaus-filter-ag.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-ag.txt
 
@@ -94,14 +94,14 @@ Import the following URL into AdGuard browser extensions to subscribe (includes 
 
 Lite version (**online** links only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-ag-online.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-ag-online.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-ag-online.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-ag-online.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-ag-online.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-ag-online.txt
 - https://malware-filter.pages.dev/urlhaus-filter-ag-online.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
 
@@ -113,14 +113,14 @@ _Requires Vivaldi Desktop/Android 3.3+, blocking level must be at least "Block T
 
 Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscribe (includes online and **offline** malicious websites):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-vivaldi.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-vivaldi.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi.txt
 - https://malware-filter.pages.dev/urlhaus-filter-vivaldi.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-vivaldi.txt
 
@@ -130,14 +130,14 @@ Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscrib
 
 Lite version (**online** links only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-vivaldi-online.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi-online.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-vivaldi-online.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt
 - https://malware-filter.pages.dev/urlhaus-filter-vivaldi-online.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-vivaldi-online.txt
 
@@ -147,14 +147,14 @@ Lite version (**online** links only):
 
 This blocklist includes domains and IP addresses.
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-domains.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-domains.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-domains.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-domains.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-domains.txt
 - https://malware-filter.pages.dev/urlhaus-filter-domains.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-domains.txt
 
@@ -163,14 +163,14 @@ This blocklist includes domains and IP addresses.
 <br />
 Lite version (online domains/IPs only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-domains-online.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains-online.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-domains-online.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-domains-online.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-domains-online.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-domains-online.txt
 - https://malware-filter.pages.dev/urlhaus-filter-domains-online.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-domains-online.txt
 
@@ -180,14 +180,14 @@ Lite version (online domains/IPs only):
 
 This AdGuard Home-compatible blocklist includes domains and IP addresses.
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-agh.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-agh.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-agh.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-agh.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-agh.txt
 - https://malware-filter.pages.dev/urlhaus-filter-agh.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-agh.txt
 
@@ -196,14 +196,14 @@ This AdGuard Home-compatible blocklist includes domains and IP addresses.
 <br />
 Lite version (online domains/IPs only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-agh-online.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-agh-online.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-agh-online.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-agh-online.txt
 - https://malware-filter.pages.dev/urlhaus-filter-agh-online.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-agh-online.txt
 
@@ -213,14 +213,14 @@ Lite version (online domains/IPs only):
 
 This blocklist includes domains only.
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-hosts.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-hosts.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-hosts.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-hosts.txt
 - https://malware-filter.pages.dev/urlhaus-filter-hosts.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
 
@@ -229,14 +229,14 @@ This blocklist includes domains only.
 <br />
 Lite version (online domains only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-hosts-online.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-hosts-online.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-hosts-online.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-hosts-online.txt
 - https://malware-filter.pages.dev/urlhaus-filter-hosts-online.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-hosts-online.txt
 
@@ -253,7 +253,7 @@ This blocklist includes domains only.
 mkdir -p /usr/local/etc/dnsmasq/
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-dnsmasq.conf" -o "/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf"\n' > /etc/cron.daily/urlhaus-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnsmasq.conf" -o "/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf"\n' > /etc/cron.daily/urlhaus-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/urlhaus-filter
@@ -262,14 +262,14 @@ chmod 755 /etc/cron.daily/urlhaus-filter
 printf "\nconf-file=/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf\n" >> /etc/dnsmasq.conf
 ```
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-dnsmasq.conf
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnsmasq.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-dnsmasq.conf
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnsmasq.conf
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnsmasq.conf
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnsmasq.conf
 - https://malware-filter.pages.dev/urlhaus-filter-dnsmasq.conf
 - https://urlhaus-filter.pages.dev/urlhaus-filter-dnsmasq.conf
 
@@ -278,14 +278,14 @@ printf "\nconf-file=/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf\n" >> /et
 <br />
 Lite version (online domains only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-dnsmasq-online.conf
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnsmasq-online.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-dnsmasq-online.conf
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnsmasq-online.conf
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnsmasq-online.conf
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnsmasq-online.conf
 - https://malware-filter.pages.dev/urlhaus-filter-dnsmasq-online.conf
 - https://urlhaus-filter.pages.dev/urlhaus-filter-dnsmasq-online.conf
 
@@ -302,7 +302,7 @@ This blocklist includes domains only.
 mkdir -p /usr/local/etc/bind/
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-bind.conf" -o "/usr/local/etc/bind/urlhaus-filter-bind.conf"\n' > /etc/cron.daily/urlhaus-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-bind.conf" -o "/usr/local/etc/bind/urlhaus-filter-bind.conf"\n' > /etc/cron.daily/urlhaus-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/urlhaus-filter
@@ -329,14 +329,14 @@ $TTL    86400   ; one day
 
 Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/master/null.zone.file).
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-bind.conf
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-bind.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-bind.conf
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-bind.conf
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-bind.conf
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-bind.conf
 - https://malware-filter.pages.dev/urlhaus-filter-bind.conf
 - https://urlhaus-filter.pages.dev/urlhaus-filter-bind.conf
 
@@ -345,14 +345,14 @@ Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/
 <br />
 Lite version (online domains only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-bind-online.conf
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-bind-online.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-bind-online.conf
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-bind-online.conf
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-bind-online.conf
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-bind-online.conf
 - https://malware-filter.pages.dev/urlhaus-filter-bind-online.conf
 - https://urlhaus-filter.pages.dev/urlhaus-filter-bind-online.conf
 
@@ -362,14 +362,14 @@ Lite version (online domains only):
 
 This blocklist includes domains only.
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-rpz.conf
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-rpz.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-rpz.conf
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-rpz.conf
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-rpz.conf
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-rpz.conf
 - https://malware-filter.pages.dev/urlhaus-filter-rpz.conf
 - https://urlhaus-filter.pages.dev/urlhaus-filter-rpz.conf
 
@@ -378,14 +378,14 @@ This blocklist includes domains only.
 <br />
 Lite version (online domains only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-rpz-online.conf
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-rpz-online.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-rpz-online.conf
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-rpz-online.conf
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-rpz-online.conf
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-rpz-online.conf
 - https://malware-filter.pages.dev/urlhaus-filter-rpz-online.conf
 - https://urlhaus-filter.pages.dev/urlhaus-filter-rpz-online.conf
 
@@ -402,7 +402,7 @@ This blocklist includes domains only.
 mkdir -p /usr/local/etc/unbound/
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-unbound.conf" -o "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' > /etc/cron.daily/urlhaus-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-unbound.conf" -o "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' > /etc/cron.daily/urlhaus-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/urlhaus-filter
@@ -411,14 +411,14 @@ chmod 755 /etc/cron.daily/urlhaus-filter
 printf '\n  include: "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' >> /etc/unbound/unbound.conf
 ```
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-unbound.conf
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-unbound.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-unbound.conf
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-unbound.conf
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-unbound.conf
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-unbound.conf
 - https://malware-filter.pages.dev/urlhaus-filter-unbound.conf
 - https://urlhaus-filter.pages.dev/urlhaus-filter-unbound.conf
 
@@ -427,14 +427,14 @@ printf '\n  include: "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' >> 
 <br />
 Lite version (online domains only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-unbound-online.conf
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-unbound-online.conf
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-unbound-online.conf
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-unbound-online.conf
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-unbound-online.conf
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-unbound-online.conf
 - https://malware-filter.pages.dev/urlhaus-filter-unbound-online.conf
 - https://urlhaus-filter.pages.dev/urlhaus-filter-unbound-online.conf
 
@@ -449,8 +449,8 @@ Lite version (online domains only):
 mkdir -p /etc/dnscrypt-proxy/
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt" -o "/etc/dnscrypt-proxy/urlhaus-filter-dnscrypt-blocked-names.txt"\n' > /etc/cron.daily/urlhaus-filter
-printf '\ncurl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt" -o "/etc/dnscrypt-proxy/urlhaus-filter-dnscrypt-blocked-ips.txt"\n' >> /etc/cron.daily/urlhaus-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt" -o "/etc/dnscrypt-proxy/urlhaus-filter-dnscrypt-blocked-names.txt"\n' > /etc/cron.daily/urlhaus-filter
+printf '\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt" -o "/etc/dnscrypt-proxy/urlhaus-filter-dnscrypt-blocked-ips.txt"\n' >> /etc/cron.daily/urlhaus-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/urlhaus-filter
@@ -466,21 +466,21 @@ Configure dnscrypt-proxy to use the blocklist:
 +  blocked_ips_file = '/etc/dnscrypt-proxy/urlhaus-filter-dnscrypt-blocked-ips.txt'
 ```
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt
 - https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
 - https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt
 
@@ -489,21 +489,21 @@ Configure dnscrypt-proxy to use the blocklist:
 <br />
 Lite version (online domains only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
 - https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names-online.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names-online.txt
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
 - https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips-online.txt
 - https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips-online.txt
 
@@ -514,14 +514,14 @@ Lite version (online domains only):
 
 This blocklist includes domains only. Supported in Internet Explorer 9+.
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter.tpl
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.tpl
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter.tpl
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter.tpl
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter.tpl
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter.tpl
 - https://malware-filter.pages.dev/urlhaus-filter.tpl
 - https://urlhaus-filter.pages.dev/urlhaus-filter.tpl
 
@@ -530,14 +530,14 @@ This blocklist includes domains only. Supported in Internet Explorer 9+.
 <br />
 Lite version (online domains only):
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-online.tpl
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-online.tpl
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-online.tpl
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-online.tpl
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-online.tpl
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-online.tpl
 - https://malware-filter.pages.dev/urlhaus-filter-online.tpl
 - https://urlhaus-filter.pages.dev/urlhaus-filter-online.tpl
 
@@ -551,10 +551,10 @@ This ruleset includes online URLs only. Not compatible with [Snort3](#snort3).
 
 ```
 # Download ruleset
-curl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort2-online.rules"
+curl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort2-online.rules"
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort2-online.rules"\n' > /etc/cron.daily/urlhaus-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort2-online.rules"\n' > /etc/cron.daily/urlhaus-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/urlhaus-filter
@@ -563,14 +563,14 @@ chmod 755 /etc/cron.daily/urlhaus-filter
 printf "\ninclude \$RULE_PATH/urlhaus-filter-snort2-online.rules\n" >> /etc/snort/snort.conf
 ```
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-snort2-online.rules
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-snort2-online.rules
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-snort2-online.rules
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-snort2-online.rules
 - https://malware-filter.pages.dev/urlhaus-filter-snort2-online.rules
 - https://urlhaus-filter.pages.dev/urlhaus-filter-snort2-online.rules
 
@@ -584,10 +584,10 @@ This ruleset includes online URLs only. Not compatible with [Snort2](#snort2).
 
 ```
 # Download ruleset
-curl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort3-online.rules"
+curl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort3-online.rules"
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort3-online.rules"\n' > /etc/cron.daily/urlhaus-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort3-online.rules"\n' > /etc/cron.daily/urlhaus-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/urlhaus-filter
@@ -604,14 +604,14 @@ ips =
 }
 ```
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-snort3-online.rules
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-snort3-online.rules
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-snort3-online.rules
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-snort3-online.rules
 - https://malware-filter.pages.dev/urlhaus-filter-snort3-online.rules
 - https://urlhaus-filter.pages.dev/urlhaus-filter-snort3-online.rules
 
@@ -625,10 +625,10 @@ This ruleset includes online URLs only.
 
 ```
 # Download ruleset
-curl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules" -o "/etc/suricata/rules/urlhaus-filter-suricata-online.rules"
+curl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules" -o "/etc/suricata/rules/urlhaus-filter-suricata-online.rules"
 
 # Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://curben.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules" -o "/etc/suricata/rules/urlhaus-filter-suricata-online.rules"\n' > /etc/cron.daily/urlhaus-filter
+printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules" -o "/etc/suricata/rules/urlhaus-filter-suricata-online.rules"\n' > /etc/cron.daily/urlhaus-filter
 
 # cron job requires execution permission
 chmod 755 /etc/cron.daily/urlhaus-filter
@@ -643,14 +643,14 @@ rule-files:
 +  - urlhaus-filter-suricata-online.rules
 ```
 
-- https://curben.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules
 
 <details>
 <summary>Mirrors</summary>
 
 - https://curbengh.github.io/malware-filter/urlhaus-filter-suricata-online.rules
 - https://curbengh.github.io/urlhaus-filter/urlhaus-filter-suricata-online.rules
-- https://curben.gitlab.io/urlhaus-filter/urlhaus-filter-suricata-online.rules
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-suricata-online.rules
 - https://malware-filter.pages.dev/urlhaus-filter-suricata-online.rules
 - https://urlhaus-filter.pages.dev/urlhaus-filter-suricata-online.rules
 
