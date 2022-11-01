@@ -141,8 +141,7 @@ THIRD_LINE="! Expires: 1 day (update frequency)"
 FOURTH_LINE="! Homepage: https://gitlab.com/malware-filter/urlhaus-filter"
 FIFTH_LINE="! License: https://gitlab.com/malware-filter/urlhaus-filter#license"
 SIXTH_LINE="! Source: https://urlhaus.abuse.ch/api/"
-ANNOUNCEMENT_1="\n! Announcement (2022/05/21): curben.gitlab.io has been migrated to malware-filter.gitlab.io"
-COMMENT_ABP="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE\n$ANNOUNCEMENT_1"
+COMMENT_ABP="$FIRST_LINE\n$SECOND_LINE\n$THIRD_LINE\n$FOURTH_LINE\n$FIFTH_LINE\n$SIXTH_LINE"
 
 mkdir -p "../public/"
 
