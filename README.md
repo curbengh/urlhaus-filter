@@ -1,6 +1,27 @@
 # Malicious URL Blocklist
 
-> Announcement (2022/05/21): curben.gitlab.io has been migrated to malware-filter.gitlab.io
+- Formats
+  * [URL-based](#url-based)
+  * [Domain-based](#domain-based)
+  * [Hosts-based](#hosts-based)
+  * [Domain-based (AdGuard Home)](#domain-based-adguard-home)
+  * [URL-based (AdGuard)](#url-based-adguard)
+  * [URL-based (Vivaldi)](#url-based-vivaldi)
+  * [Dnsmasq](#dnsmasq)
+  * [BIND zone](#bind)
+  * [RPZ](#response-policy-zone)
+  * [Unbound](#unbound)
+  * [dnscrypt-proxy](#dnscrypt-proxy)
+  * [Tracking Protection List (IE)](#tracking-protection-list-ie)
+  * [Snort2](#snort2)
+  * [Snort3](#snort3)
+  * [Suricata](#suricata)
+- [Compressed version](#compressed-version)
+- [Reporting issues](#issues)
+- [Cloning](#cloning)
+- [FAQ and Guides](#faq-and-guides)
+- [CI Variables](#ci-variables)
+- [License](#license)
 
 A blocklist of malicious websites that are being used for malware distribution, based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/). Blocklist is updated twice a day.
 
@@ -665,6 +686,13 @@ TBC
 
 </details>
 
+## Compressed version
+
+All filters are also available as gzip- and brotli-compressed.
+
+Gzip: https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt.gz
+Brotli: https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt.br
+
 ## Issues
 
 This blocklist operates by blocking the **whole** website, instead of specific webpages; exceptions are made on popular websites (e.g. `https://docs.google.com/`), in which webpages are specified instead (e.g. `https://docs.google.com/malware-page`). Malicious webpages are only listed in the [URL-based](#url-based) filter, popular websites are excluded from other filters.
@@ -688,6 +716,13 @@ Use shallow clone to get the recent revisions only. Getting the last five revisi
 ## FAQ and Guides
 
 See [wiki](https://gitlab.com/malware-filter/malware-filter/-/wikis/home)
+
+## CI Variables
+
+Optional variables:
+
+- `CLOUDFLARE_BUILD_HOOK`: Deploy to Cloudflare Pages.
+- `NETLIFY_SITE_ID`: Deploy to Netlify.
 
 ## License
 
