@@ -12,7 +12,7 @@ build_job:
   stage: build
 
   before_script:
-    - apk update && apk add brotli curl grep
+    - apk update && apk add brotli curl grep jq
 
   script:
     - sh src/script.sh
@@ -43,7 +43,7 @@ cloudflare:
   stage: deploy
 
   before_script:
-      - apk update && apk add curl
+    - apk update && apk add curl
 
   script:
     - curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/$CLOUDFLARE_BUILD_HOOK"
