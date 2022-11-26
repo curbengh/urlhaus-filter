@@ -4,6 +4,8 @@
 
 set -efux -o pipefail
 
+alias curl="curl -L"
+alias rm="rm -rf"
 
 ## Use GNU grep, busybox grep is too slow
 . "/etc/os-release"
@@ -31,9 +33,9 @@ cd "tmp/"
 
 
 ## Prepare datasets
-curl -L "https://urlhaus.abuse.ch/downloads/csv/" -o "urlhaus.zip"
-curl -L "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
-curl -L "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
+curl "https://urlhaus.abuse.ch/downloads/csv/" -o "urlhaus.zip"
+curl "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
+curl "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
 
 ## Cloudflare Radar
 if [ -n "$CF_API" ]; then
@@ -51,7 +53,7 @@ if [ -n "$CF_API" ]; then
     --data "{ \"datasetId\": $DATASET_ID }" \
     -o "cf/dataset-url.json"
   DATASET_URL=$(jq ".result.dataset.url" "cf/dataset-url.json" | sed 's/"//g')
-  curl -L "$DATASET_URL" -o "cf/top-1m-radar.zip"
+  curl "$DATASET_URL" -o "cf/top-1m-radar.zip"
 
   ## Parse the Radar 1 Million
   unzip -p "cf/top-1m-radar.zip" | \
@@ -388,7 +390,7 @@ set +x
 
 
 # Snort & Suricata
-rm -f "../public/urlhaus-filter-snort2-online.rules" \
+rm "../public/urlhaus-filter-snort2-online.rules" \
   "../public/urlhaus-filter-snort3-online.rules" \
   "../public/urlhaus-filter-suricata-online.rules"
 
@@ -454,7 +456,7 @@ sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../public/urlhaus-filter-onl
 
 
 ## Clean up artifacts
-rm -rf "URLhaus.csv" "top-1m-umbrella.zip" "top-1m-umbrella.txt" "top-1m-tranco.txt" "cf/" "top-1m-radar.txt"
+rm "URLhaus.csv" "top-1m-umbrella.zip" "top-1m-umbrella.txt" "top-1m-tranco.txt" "cf/" "top-1m-radar.txt"
 
 
 cd ../
