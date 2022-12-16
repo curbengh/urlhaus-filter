@@ -176,7 +176,7 @@ grep -F -f "urlhaus-top-domains.txt" > "malware-url-top-domains-raw-online.txt"
 
 
 ## Merge malware domains and URLs
-CURRENT_TIME="$(date -R -u)"
+CURRENT_TIME=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 FIRST_LINE="! Title: Malicious URL Blocklist"
 SECOND_LINE="! Updated: $CURRENT_TIME"
 THIRD_LINE="! Expires: 1 day (update frequency)"
