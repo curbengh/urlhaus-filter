@@ -16,6 +16,7 @@
   - [Snort2](#snort2)
   - [Snort3](#snort3)
   - [Suricata](#suricata)
+  - [Splunk](#splunk)
 - [Compressed version](#compressed-version)
 - [Reporting issues](#issues)
 - [Cloning](#cloning)
@@ -41,8 +42,9 @@ There are multiple formats available, refer to the appropriate section according
 - [Snort2](#snort2)
 - [Snort3](#snort3)
 - [Suricata](#suricata)
+- [Splunk](#splunk)
 
-Not sure which format to choose? See [Compatibility](https://gitlab.com/malware-filter/malware-filter/wikis/compatibility) page in the wiki.
+For other programs, see [Compatibility](https://gitlab.com/malware-filter/malware-filter/wikis/compatibility) page in the wiki.
 
 Check out my other filters:
 
@@ -673,6 +675,23 @@ rule-files:
 - https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-suricata-online.rules
 - https://malware-filter.pages.dev/urlhaus-filter-suricata-online.rules
 - https://urlhaus-filter.pages.dev/urlhaus-filter-suricata-online.rules
+
+</details>
+
+## Splunk
+
+A CSV file for Splunk [lookup](https://docs.splunk.com/Documentation/Splunk/9.0.2/Knowledge/Aboutlookupsandfieldactions). This ruleset includes online URLs only.
+
+- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-splunk-online.csv
+
+<details>
+<summary>Mirrors</summary>
+
+- https://curbengh.github.io/malware-filter/urlhaus-filter-splunk-online.csv
+- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-splunk-online.csv
+- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-splunk-online.csv
+- https://malware-filter.pages.dev/urlhaus-filter-splunk-online.csv
+- https://urlhaus-filter.pages.dev/urlhaus-filter-splunk-online.csv
 
 </details>
 
