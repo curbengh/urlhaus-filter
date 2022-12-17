@@ -189,11 +189,11 @@ mkdir -p "../public/"
 
 cat "malware-domains.txt" "malware-url-top-domains.txt" | \
 sort | \
-sed '1 i\'"$COMMENT_ABP"'' > "../public/urlhaus-filter.txt"
+sed "1i $COMMENT_ABP" > "../public/urlhaus-filter.txt"
 
 cat "malware-domains-online.txt" "malware-url-top-domains-online.txt" | \
 sort | \
-sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1i $COMMENT_ABP" | \
 sed "1s/Malicious/Online Malicious/" > "../public/urlhaus-filter-online.txt"
 
 
@@ -208,12 +208,12 @@ sed "s/$/^/g" > "malware-domains-online-adguard-home.txt"
 
 cat "malware-domains-adguard-home.txt" | \
 sort | \
-sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1i $COMMENT_ABP" | \
 sed "1s/Blocklist/Blocklist (AdGuard Home)/" > "../public/urlhaus-filter-agh.txt"
 
 cat "malware-domains-online-adguard-home.txt" | \
 sort | \
-sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1i $COMMENT_ABP" | \
 sed "1s/Malicious/Online Malicious/" | \
 sed "1s/Blocklist/Blocklist (AdGuard Home)/" > "../public/urlhaus-filter-agh-online.txt"
 
@@ -229,12 +229,12 @@ sed "s/$/\$all/g" > "malware-domains-online-adguard.txt"
 
 cat "malware-domains-adguard.txt" "malware-url-top-domains.txt" | \
 sort | \
-sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1i $COMMENT_ABP" | \
 sed "1s/Blocklist/Blocklist (AdGuard)/" > "../public/urlhaus-filter-ag.txt"
 
 cat "malware-domains-online-adguard.txt" "malware-url-top-domains-online.txt" | \
 sort | \
-sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1i $COMMENT_ABP" | \
 sed "1s/Malicious/Online Malicious/" | \
 sed "1s/Blocklist/Blocklist (AdGuard)/" > "../public/urlhaus-filter-ag-online.txt"
 
@@ -251,13 +251,13 @@ sed "s/$/\$document/g" > "malware-domains-online-vivaldi.txt"
 cat "malware-domains-vivaldi.txt" "malware-url-top-domains.txt" | \
 sed "s/\$all$/\$document/g" | \
 sort | \
-sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1i $COMMENT_ABP" | \
 sed "1s/Blocklist/Blocklist (Vivaldi)/" > "../public/urlhaus-filter-vivaldi.txt"
 
 cat "malware-domains-online-vivaldi.txt" "malware-url-top-domains-online.txt" | \
 sed "s/\$all$/\$document/g" | \
 sort | \
-sed '1 i\'"$COMMENT_ABP"'' | \
+sed "1i $COMMENT_ABP" | \
 sed "1s/Malicious/Online Malicious/" | \
 sed "1s/Blocklist/Blocklist (Vivaldi)/" > "../public/urlhaus-filter-vivaldi-online.txt"
 
@@ -269,11 +269,11 @@ COMMENT_ONLINE=$(printf "$COMMENT" | sed "1s/Malicious/Online Malicious/" | awk 
 
 cat "malware-domains.txt" | \
 sort | \
-sed '1 i\'"$COMMENT"'' > "../public/urlhaus-filter-domains.txt"
+sed "1i $COMMENT" > "../public/urlhaus-filter-domains.txt"
 
 cat "malware-domains-online.txt" | \
 sort | \
-sed '1 i\'"$COMMENT_ONLINE"'' > "../public/urlhaus-filter-domains-online.txt"
+sed "1i $COMMENT_ONLINE" > "../public/urlhaus-filter-domains-online.txt"
 
 
 ## Hosts only
@@ -292,12 +292,12 @@ grep -vE "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" > "malware-hosts-online.txt"
 cat "malware-hosts.txt" | \
 sed "s/^/0.0.0.0 /g" | \
 # Re-insert comment
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Domains/Hosts/" > "../public/urlhaus-filter-hosts.txt"
 
 cat "malware-hosts-online.txt" | \
 sed "s/^/0.0.0.0 /g" | \
-sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1i $COMMENT_ONLINE" | \
 sed "1s/Domains/Hosts/" > "../public/urlhaus-filter-hosts-online.txt"
 
 
@@ -305,13 +305,13 @@ sed "1s/Domains/Hosts/" > "../public/urlhaus-filter-hosts-online.txt"
 cat "malware-hosts.txt" | \
 sed "s/^/address=\//g" | \
 sed "s/$/\/0.0.0.0/g" | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Blocklist/dnsmasq Blocklist/" > "../public/urlhaus-filter-dnsmasq.conf"
 
 cat "malware-hosts-online.txt" | \
 sed "s/^/address=\//g" | \
 sed "s/$/\/0.0.0.0/g" | \
-sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1i $COMMENT_ONLINE" | \
 sed "1s/Blocklist/dnsmasq Blocklist/" > "../public/urlhaus-filter-dnsmasq-online.conf"
 
 
@@ -319,13 +319,13 @@ sed "1s/Blocklist/dnsmasq Blocklist/" > "../public/urlhaus-filter-dnsmasq-online
 cat "malware-hosts.txt" | \
 sed 's/^/zone "/g' | \
 sed 's/$/" { type master; notify no; file "null.zone.file"; };/g' | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Blocklist/BIND Blocklist/" > "../public/urlhaus-filter-bind.conf"
 
 cat "malware-hosts-online.txt" | \
 sed 's/^/zone "/g' | \
 sed 's/$/" { type master; notify no; file "null.zone.file"; };/g' | \
-sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1i $COMMENT_ONLINE" | \
 sed "1s/Blocklist/BIND Blocklist/" > "../public/urlhaus-filter-bind-online.conf"
 
 
@@ -335,15 +335,15 @@ RPZ_SYNTAX="\n\$TTL 30\n@ IN SOA rpz.malware-filter.gitlab.io. hostmaster.rpz.ma
 
 cat "malware-hosts.txt" | \
 sed "s/$/ CNAME ./g" | \
-sed '1 i\'"$RPZ_SYNTAX"'' | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $RPZ_SYNTAX" | \
+sed "1i $COMMENT" | \
 sed "s/^#/;/g" | \
 sed "1s/Blocklist/RPZ Blocklist/" > "../public/urlhaus-filter-rpz.conf"
 
 cat "malware-hosts-online.txt" | \
 sed "s/$/ CNAME ./g" | \
-sed '1 i\'"$RPZ_SYNTAX"'' | \
-sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1i $RPZ_SYNTAX" | \
+sed "1i $COMMENT_ONLINE" | \
 sed "s/^#/;/g" | \
 sed "1s/Blocklist/RPZ Blocklist/" > "../public/urlhaus-filter-rpz-online.conf"
 
@@ -352,37 +352,37 @@ sed "1s/Blocklist/RPZ Blocklist/" > "../public/urlhaus-filter-rpz-online.conf"
 cat "malware-hosts.txt" | \
 sed 's/^/local-zone: "/g' | \
 sed 's/$/" always_nxdomain/g' | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../public/urlhaus-filter-unbound.conf"
 
 cat "malware-hosts-online.txt" | \
 sed 's/^/local-zone: "/g' | \
 sed 's/$/" always_nxdomain/g' | \
-sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1i $COMMENT_ONLINE" | \
 sed "1s/Blocklist/Unbound Blocklist/" > "../public/urlhaus-filter-unbound-online.conf"
 
 
 ## dnscrypt-proxy blocklists
 # name-based
 cat "malware-hosts.txt" | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Domains/Names/" > "../public/urlhaus-filter-dnscrypt-blocked-names.txt"
 
 cat "malware-hosts-online.txt" | \
-sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1i $COMMENT_ONLINE" | \
 sed "1s/Domains/Names/" > "../public/urlhaus-filter-dnscrypt-blocked-names-online.txt"
 
 ## IPv4-based
 cat "malware-domains.txt" | \
 sort | \
 grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
-sed '1 i\'"$COMMENT"'' | \
+sed "1i $COMMENT" | \
 sed "1s/Domains/IPs/" > "../public/urlhaus-filter-dnscrypt-blocked-ips.txt"
 
 cat "malware-domains-online.txt" | \
 sort | \
 grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
-sed '1 i\'"$COMMENT_ONLINE"'' | \
+sed "1i $COMMENT_ONLINE" | \
 sed "1s/Domains/IPs/" > "../public/urlhaus-filter-dnscrypt-blocked-ips-online.txt"
 
 
@@ -441,16 +441,16 @@ done < "malware-url-top-domains-raw-online.txt"
 ## Re-enable command print
 set -x
 
-sed -i '1 i\'"$COMMENT_ONLINE"'' "../public/urlhaus-filter-snort2-online.rules"
+sed -i "1i $COMMENT_ONLINE" "../public/urlhaus-filter-snort2-online.rules"
 sed -i "1s/Domains Blocklist/URL Snort2 Ruleset/" "../public/urlhaus-filter-snort2-online.rules"
 
-sed -i '1 i\'"$COMMENT_ONLINE"'' "../public/urlhaus-filter-snort3-online.rules"
+sed -i "1i $COMMENT_ONLINE" "../public/urlhaus-filter-snort3-online.rules"
 sed -i "1s/Domains Blocklist/URL Snort3 Ruleset/" "../public/urlhaus-filter-snort3-online.rules"
 
-sed -i '1 i\'"$COMMENT_ONLINE"'' "../public/urlhaus-filter-suricata-online.rules"
+sed -i "1i $COMMENT_ONLINE" "../public/urlhaus-filter-suricata-online.rules"
 sed -i "1s/Domains Blocklist/URL Suricata Ruleset/" "../public/urlhaus-filter-suricata-online.rules"
 
-sed -i -e '1 i\'"$COMMENT_ONLINE"' ' -e '1 i\"host","path","message","updated"' "../public/urlhaus-filter-splunk-online.csv"
+sed -i -e "1i $COMMENT_ONLINE" -e '1i "host","path","message","updated"' "../public/urlhaus-filter-splunk-online.csv"
 sed -i "1s/Domains Blocklist/URL Splunk Lookup/" "../public/urlhaus-filter-splunk-online.csv"
 
 
@@ -460,12 +460,12 @@ COMMENT_ONLINE_IE="msFilterList\n$COMMENT_ONLINE\n: Expires=1\n#"
 
 cat "malware-hosts.txt" | \
 sed "s/^/-d /g" | \
-sed '1 i\'"$COMMENT_IE"'' | \
+sed "1i $COMMENT_IE" | \
 sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../public/urlhaus-filter.tpl"
 
 cat "malware-hosts-online.txt" | \
 sed "s/^/-d /g" | \
-sed '1 i\'"$COMMENT_ONLINE_IE"'' | \
+sed "1i $COMMENT_ONLINE_IE" | \
 sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../public/urlhaus-filter-online.tpl"
 
 
