@@ -568,23 +568,11 @@ Lite version (online domains only):
 
 ## Snort2
 
-This ruleset includes online URLs only. Not compatible with [Snort3](#snort3).
+This ruleset includes online URLs only. Not compatible with [Snort3](#snort3). Save the ruleset to "/etc/snort/rules/urlhaus-filter-snort2-online.rules". Refer to this [guide](https://gitlab.com/malware-filter/malware-filter/wikis/update-filter) for auto-update.
 
-### Install
+Configure Snort to use the ruleset:
 
-```
-# Download ruleset
-curl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort2-online.rules"
-
-# Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort2-online.rules"\n' > /etc/cron.daily/urlhaus-filter
-
-# cron job requires execution permission
-chmod 755 /etc/cron.daily/urlhaus-filter
-
-# Configure Snort to use the ruleset
-printf "\ninclude \$RULE_PATH/urlhaus-filter-snort2-online.rules\n" >> /etc/snort/snort.conf
-```
+`printf "\ninclude \$RULE_PATH/urlhaus-filter-snort2-online.rules\n" >> /etc/snort/snort.conf`
 
 - https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules
 
@@ -603,18 +591,7 @@ printf "\ninclude \$RULE_PATH/urlhaus-filter-snort2-online.rules\n" >> /etc/snor
 
 This ruleset includes online URLs only. Not compatible with [Snort2](#snort2).
 
-### Install
-
-```
-# Download ruleset
-curl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort3-online.rules"
-
-# Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules" -o "/etc/snort/rules/urlhaus-filter-snort3-online.rules"\n' > /etc/cron.daily/urlhaus-filter
-
-# cron job requires execution permission
-chmod 755 /etc/cron.daily/urlhaus-filter
-```
+Save the ruleset to "/etc/snort/rules/urlhaus-filter-snort3-online.rules". Refer to this [guide](https://gitlab.com/malware-filter/malware-filter/wikis/update-filter) for auto-update.
 
 Configure Snort to use the ruleset:
 
@@ -644,18 +621,7 @@ ips =
 
 This ruleset includes online URLs only.
 
-### Install
-
-```
-# Download ruleset
-curl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules" -o "/etc/suricata/rules/urlhaus-filter-suricata-online.rules"
-
-# Create a new cron job for daily update
-printf '#!/bin/sh\ncurl -L "https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules" -o "/etc/suricata/rules/urlhaus-filter-suricata-online.rules"\n' > /etc/cron.daily/urlhaus-filter
-
-# cron job requires execution permission
-chmod 755 /etc/cron.daily/urlhaus-filter
-```
+Save the ruleset to "/etc/suricata/rules/urlhaus-filter-suricata-online.rules". Refer to this [guide](https://gitlab.com/malware-filter/malware-filter/wikis/update-filter) for auto-update.
 
 Configure Suricata to use the ruleset:
 
@@ -682,6 +648,8 @@ rule-files:
 ## Splunk
 
 A CSV file for Splunk [lookup](https://docs.splunk.com/Documentation/Splunk/9.0.2/Knowledge/Aboutlookupsandfieldactions). This ruleset includes online URLs only.
+
+Either upload the file via GUI or save the file in `$SPLUNK_HOME/Splunk/etc/system/lookups` or app-specific `$SPLUNK_HOME/etc/YourApp/apps/search/lookups`. Refer to this [guide](https://gitlab.com/malware-filter/malware-filter/wikis/update-filter) or [Getwatchlist](https://splunkbase.splunk.com/app/635) app for auto-update.
 
 - https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-splunk-online.csv
 
