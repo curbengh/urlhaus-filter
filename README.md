@@ -51,6 +51,7 @@ Check out my other filters:
 - [phishing-filter](https://gitlab.com/malware-filter/phishing-filter)
 - [pup-filter](https://gitlab.com/malware-filter/pup-filter)
 - [tracking-filter](https://gitlab.com/malware-filter/tracking-filter)
+- [vn-badsite-filter](https://gitlab.com/malware-filter/vn-badsite-filter)
 
 ## URL-based
 
