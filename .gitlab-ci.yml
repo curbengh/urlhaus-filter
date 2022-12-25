@@ -16,8 +16,8 @@ build_job:
 
   script:
     - sh src/script.sh
-    - find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\)$' -exec gzip -f -k -9 {} \;
-    - find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\)$' -exec brotli -f -k -9 {} \;
+    - find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\|csv\)$' -exec gzip -f -k -9 {} \;
+    - find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\|csv\)$' -exec brotli -f -k -9 {} \;
 
   artifacts:
     paths:

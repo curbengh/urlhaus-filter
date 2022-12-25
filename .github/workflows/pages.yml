@@ -21,8 +21,8 @@ jobs:
         run: sh ./src/script.sh
       - name: Compress
         run: |
-          find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\)$' -exec gzip -f -k -9 {} \;
-          find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\)$' -exec brotli -f -k -9 {} \;
+          find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\|csv\)$' -exec gzip -f -k -9 {} \;
+          find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\|csv\)$' -exec brotli -f -k -9 {} \;
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
