@@ -14,8 +14,10 @@ jobs:
       - name: Install Dependencies
         run: |
           apk update
-          apk add brotli curl git grep
+          apk add brotli curl git grep jq
       - name: Build
+        env:
+          CF_API: ${{ secrets.CF_API }}
         run: sh ./src/script.sh
       - name: Compress
         run: |
@@ -27,13 +29,13 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           force_orphan: true
-      - name: 'Upload Public Folder'
+      - name: "Upload Public Folder"
         uses: actions/upload-artifact@v2
         with:
           name: public
           path: ./public
           retention-days: 30
-      - name: 'Upload Tmp Folder'
+      - name: "Upload Tmp Folder"
         uses: actions/upload-artifact@v2
         with:
           name: tmp
