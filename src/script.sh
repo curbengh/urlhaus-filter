@@ -53,10 +53,10 @@ if [ -n "$CF_API" ]; then
     --data "{ \"datasetId\": $DATASET_ID }" \
     -o "cf/dataset-url.json"
   DATASET_URL=$(jq ".result.dataset.url" "cf/dataset-url.json" | sed 's/"//g')
-  curl "$DATASET_URL" -o "cf/top-1m-radar.zip"
+  curl "$DATASET_URL" -o "cf/top-1m-radar.csv"
 
   ## Parse the Radar 1 Million
-  unzip -p "cf/top-1m-radar.zip" | \
+  cat "cf/top-1m-radar.csv" | \
   dos2unix | \
   tr "[:upper:]" "[:lower:]" | \
   grep -F "." | \
