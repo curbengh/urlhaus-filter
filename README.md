@@ -681,7 +681,7 @@ Optional variables:
 
 ## License
 
-[Creative Commons Zero v1.0 Universal](LICENSE.md)
+[Creative Commons Zero v1.0 Universal](LICENSE-CC0.md) and [MIT License](LICENSE)
 
 [URLhaus](https://urlhaus.abuse.ch/): [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
