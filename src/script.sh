@@ -12,17 +12,29 @@ fi
 alias curl="curl -L"
 alias rm="rm -rf"
 
-## Use GNU grep, busybox grep is too slow
-. "/etc/os-release"
-DISTRO="$ID"
-
-if [ -z "$(grep --help | grep 'GNU')" ]; then
-  if [ "$DISTRO" = "alpine" ]; then
-    echo "Please install GNU grep 'apk add grep'"
-    exit 1
-  fi
-  alias grep="/usr/bin/grep"
+## Use GNU grep, busybox grep is not as performant
+DISTRO=""
+if [ -f "/etc/os-release" ]; then
+  . "/etc/os-release"
+  DISTRO="$ID"
 fi
+
+check_grep() {
+  if [ -z "$(grep --help | grep 'GNU')" ]; then
+    if [ -x "/usr/bin/grep" ]; then
+      alias grep="/usr/bin/grep"
+      check_grep
+    else
+      if [ "$DISTRO" = "alpine" ]; then
+        echo "Please install GNU grep 'apk add grep'"
+      else
+        echo "GNU grep not found"
+      fi
+      exit 1
+    fi
+  fi
+}
+check_grep
 
 
 ## Fallback to busybox dos2unix
