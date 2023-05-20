@@ -37,10 +37,16 @@ check_grep() {
 check_grep
 
 
-## Fallback to busybox dos2unix
+## Fallback to busybox's dos2unix if installed
 if ! command -v dos2unix &> /dev/null
 then
-  alias dos2unix="busybox dos2unix"
+  if command -v busybox &> /dev/null
+  then
+    alias dos2unix="busybox dos2unix"
+  else
+    echo "dos2unix or busybox not found"
+    exit 1
+  fi
 fi
 
 
