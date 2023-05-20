@@ -1,8 +1,13 @@
 #!/bin/sh
 
-# works best on busybox ash
-
-set -efx -o pipefail
+## dash does not support pipefail
+# this does not work in `dash script.sh`
+DASH=$(readlink -f "/bin/sh" | grep "dash" || [ $? = 1 ])
+if [ -n "$DASH" ]; then
+  set -efx
+else
+  set -efx -o pipefail
+fi
 
 alias curl="curl -L"
 alias rm="rm -rf"
