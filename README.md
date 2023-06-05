@@ -679,6 +679,10 @@ Optional variables:
 - `NETLIFY_SITE_ID`: Deploy to Netlify.
 - `CF_API`: Include Cloudflare Radar [domains ranking](https://developers.cloudflare.com/radar/investigate/domain-ranking-datasets/). [Guide](https://developers.cloudflare.com/radar/get-started/first-request/) to create an API token.
 
+## Repository Mirrors
+
+https://gitlab.com/curben/blog#repository-mirrors
+
 ## License
 
 [Creative Commons Zero v1.0 Universal](LICENSE-CC0.md) and [MIT License](LICENSE)
