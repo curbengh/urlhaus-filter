@@ -1,5 +1,7 @@
 # Malicious URL Blocklist
 
+- [Lite version](#lite-version-online-links-only)
+- [Full version](#full-version)
 - Formats
   - [URL-based](#url-based)
   - [Domain-based](#domain-based)
@@ -26,23 +28,41 @@
 
 A blocklist of malicious websites that are being used for malware distribution, based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/). Blocklist is updated twice a day.
 
-There are multiple formats available, refer to the appropriate section according to the program used:
+## Lite version (online links only)
 
-- uBlock Origin (uBO) -> [URL-based](#url-based) section (recommended)
-- Pi-hole -> [Domain-based](#domain-based) or [Hosts-based](#hosts-based) section
-- AdGuard Home -> [Domain-based (AdGuard Home)](#domain-based-adguard-home) or [Hosts-based](#hosts-based) section
-- AdGuard (browser extension) -> [URL-based (AdGuard)](#url-based-adguard)
-- Vivaldi -> [URL-based (Vivaldi)](#url-based-vivaldi)
-- [Hosts](#hosts-based)
-- [Dnsmasq](#dnsmasq)
-- BIND -> BIND [zone](#bind) or [RPZ](#response-policy-zone)
-- [Unbound](#unbound)
-- [dnscrypt-proxy](#dnscrypt-proxy)
-- Internet Explorer -> [Tracking Protection List (IE)](#tracking-protection-list-ie)
-- [Snort2](#snort2)
-- [Snort3](#snort3)
-- [Suricata](#suricata)
-- [Splunk](#splunk)
+| Client                                            | mirror 1                                                                                                                                                                                                                               | mirror 2                                                                                                                                                                                                                   | mirror 3                                                                                                                                                                                                                   | mirror 4                                                                                                                                                                                                                               | mirror 5                                                                                                                                                                                                 | mirror 6                                                                                                                                                                                                 |
+| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [uBlock Origin](#url-based)                       | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-online.txt)                                                                                                                                                      | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-online.txt)                                                                                                                                                | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-online.txt)                                                                                                                                                | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-online.txt)                                                                                                                                                      | [link](https://malware-filter.pages.dev/urlhaus-filter-online.txt)                                                                                                                                       | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-online.txt)                                                                                                                                       |
+| [Pi-hole](#domain-based)                          | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains-online.txt)                                                                                                                                              | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-domains-online.txt)                                                                                                                                        | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-domains-online.txt)                                                                                                                                        | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-domains-online.txt)                                                                                                                                              | [link](https://malware-filter.pages.dev/urlhaus-filter-domains-online.txt)                                                                                                                               | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-domains-online.txt)                                                                                                                               |
+| [AdGuard Home](#domain-based-adguard-home)        | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt)                                                                                                                                                  | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-agh-online.txt)                                                                                                                                            | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-agh-online.txt)                                                                                                                                            | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-agh-online.txt)                                                                                                                                                  | [link](https://malware-filter.pages.dev/urlhaus-filter-agh-online.txt)                                                                                                                                   | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-agh-online.txt)                                                                                                                                   |
+| [AdGuard (browser extension)](#ip-based-adguard)  | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-ag-online.txt)                                                                                                                                                   | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-ag-online.txt)                                                                                                                                             | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-ag-online.txt)                                                                                                                                             | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-ag-online.txt)                                                                                                                                                   | [link](https://malware-filter.pages.dev/urlhaus-filter-ag-online.txt)                                                                                                                                    | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt)                                                                                                                                    |
+| [Vivaldi](#ip-based-vivaldi)                      | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi-online.txt)                                                                                                                                              | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-vivaldi-online.txt)                                                                                                                                        | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt)                                                                                                                                        | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt)                                                                                                                                              | [link](https://malware-filter.pages.dev/urlhaus-filter-vivaldi-online.txt)                                                                                                                               | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-vivaldi-online.txt)                                                                                                                               |
+| [Hosts](#hosts-based)                             | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt)                                                                                                                                                | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-hosts-online.txt)                                                                                                                                          | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-hosts-online.txt)                                                                                                                                          | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-hosts-online.txt)                                                                                                                                                | [link](https://malware-filter.pages.dev/urlhaus-filter-hosts-online.txt)                                                                                                                                 | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-hosts-online.txt)                                                                                                                                 |
+| [Dnsmasq](#dnsmasq)                               | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnsmasq-online.conf)                                                                                                                                             | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-dnsmasq-online.conf)                                                                                                                                       | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnsmasq-online.conf)                                                                                                                                       | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnsmasq-online.conf)                                                                                                                                             | [link](https://malware-filter.pages.dev/urlhaus-filter-dnsmasq-online.conf)                                                                                                                              | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-dnsmasq-online.conf)                                                                                                                              |
+| BIND [zone](#bind)                                | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-bind-online.conf)                                                                                                                                                | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-bind-online.conf)                                                                                                                                          | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-bind-online.conf)                                                                                                                                          | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-bind-online.conf)                                                                                                                                                | [link](https://malware-filter.pages.dev/urlhaus-filter-bind-online.conf)                                                                                                                                 | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-bind-online.conf)                                                                                                                                 |
+| BIND [RPZ](#response-policy-zone)                 | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-rpz-online.conf)                                                                                                                                                 | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-rpz-online.conf)                                                                                                                                           | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-rpz-online.conf)                                                                                                                                           | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-rpz-online.conf)                                                                                                                                                 | [link](https://malware-filter.pages.dev/urlhaus-filter-rpz-online.conf)                                                                                                                                  | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-rpz-online.conf)                                                                                                                                  |
+| [dnscrypt-proxy](#dnscrypt-proxy)                 | [names-online.txt](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt), [ips-online.txt](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt) | [names-online.txt](https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt), [ips-online.txt](https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt) | [names-online.txt](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt), [ips-online.txt](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt) | [names-online.txt](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt), [ips-online.txt](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt) | [names-online.txt](https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names-online.txt), [ips-online.txt](https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips-online.txt) | [names-online.txt](https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names-online.txt), [ips-online.txt](https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips-online.txt) |
+| [Internet Explorer](#tracking-protection-list-ie) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.tpl)                                                                                                                                                             | [link](https://curbengh.github.io/malware-filter/urlhaus-filter.tpl)                                                                                                                                                       | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter.tpl)                                                                                                                                                       | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter.tpl)                                                                                                                                                             | [link](https://malware-filter.pages.dev/urlhaus-filter.tpl)                                                                                                                                              | [link](https://urlhaus-filter.pages.dev/urlhaus-filter.tpl)                                                                                                                                              |
+| [Snort2](#snort2)                                 | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules)                                                                                                                                             | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-snort2-online.rules)                                                                                                                                       | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-snort2-online.rules)                                                                                                                                       | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-snort2-online.rules)                                                                                                                                             | [link](https://malware-filter.pages.dev/urlhaus-filter-snort2-online.rules)                                                                                                                              | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-snort2-online.rules)                                                                                                                              |
+| [Snort3](#snort3)                                 | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules)                                                                                                                                             | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-snort3-online.rules)                                                                                                                                       | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-snort3-online.rules)                                                                                                                                       | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-snort3-online.rules)                                                                                                                                             | [link](https://malware-filter.pages.dev/urlhaus-filter-snort3-online.rules)                                                                                                                              | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-snort3-online.rules)                                                                                                                              |
+| [Suricata](#suricata)                             | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules)                                                                                                                                           | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-suricata-online.rules)                                                                                                                                     | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-suricata-online.rules)                                                                                                                                     | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-suricata-online.rules)                                                                                                                                           | [link](https://malware-filter.pages.dev/urlhaus-filter-suricata-online.rules)                                                                                                                            | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-suricata-online.rules)                                                                                                                            |
+| [Splunk](#splunk)                                 | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-splunk-online.csv)                                                                                                                                               | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-splunk-online.csv)                                                                                                                                         | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-splunk-online.csv)                                                                                                                                         | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-splunk-online.csv)                                                                                                                                               | [link](https://malware-filter.pages.dev/urlhaus-filter-splunk-online.csv)                                                                                                                                | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-splunk-online.csv)                                                                                                                                |
+
+## Full version
+
+| Client                                            | mirror 1                                                                                                                                                                                                   | mirror 2                                                                                                                                                                                       | mirror 3                                                                                                                                                                                       | mirror 4                                                                                                                                                                                                   | mirror 5                                                                                                                                                                     | mirror 6                                                                                                                                                                     |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [uBlock Origin](#ip-based)                        | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt)                                                                                                                                 | [link](https://curbengh.github.io/malware-filter/urlhaus-filter.txt)                                                                                                                           | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter.txt)                                                                                                                           | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter.txt)                                                                                                                                 | [link](https://malware-filter.pages.dev/urlhaus-filter.txt)                                                                                                                  | [link](https://urlhaus-filter.pages.dev/urlhaus-filter.txt)                                                                                                                  |
+| [Pi-hole](#domain-based)                          | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains.txt)                                                                                                                         | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-domains.txt)                                                                                                                   | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-domains.txt)                                                                                                                   | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-domains.txt)                                                                                                                         | [link](https://malware-filter.pages.dev/urlhaus-filter-domains.txt)                                                                                                          | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-domains.txt)                                                                                                          |
+| [AdGuard Home](#domain-based-adguard-home)        | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt)                                                                                                                             | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-agh.txt)                                                                                                                       | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-agh.txt)                                                                                                                       | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-agh.txt)                                                                                                                             | [link](https://malware-filter.pages.dev/urlhaus-filter-agh.txt)                                                                                                              | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-agh.txt)                                                                                                              |
+| [AdGuard (browser extension)](#ip-based-adguard)  | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-ag.txt)                                                                                                                              | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-ag.txt)                                                                                                                        | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-ag.txt)                                                                                                                        | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-ag.txt)                                                                                                                              | [link](https://malware-filter.pages.dev/urlhaus-filter-ag.txt)                                                                                                               | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-ag.txt)                                                                                                               |
+| [Vivaldi](#ip-based-vivaldi)                      | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt)                                                                                                                         | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-vivaldi.txt)                                                                                                                   | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-vivaldi.txt)                                                                                                                   | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi.txt)                                                                                                                         | [link](https://malware-filter.pages.dev/urlhaus-filter-vivaldi.txt)                                                                                                          | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-vivaldi.txt)                                                                                                          |
+| [Hosts](#hosts-based)                             | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt)                                                                                                                           | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-hosts.txt)                                                                                                                     | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-hosts.txt)                                                                                                                     | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-hosts.txt)                                                                                                                           | [link](https://malware-filter.pages.dev/urlhaus-filter-hosts.txt)                                                                                                            | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt)                                                                                                            |
+| [Dnsmasq](#dnsmasq)                               | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnsmasq.conf)                                                                                                                        | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-dnsmasq.conf)                                                                                                                  | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnsmasq.conf)                                                                                                                  | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnsmasq.conf)                                                                                                                        | [link](https://malware-filter.pages.dev/urlhaus-filter-dnsmasq.conf)                                                                                                         | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-dnsmasq.conf)                                                                                                         |
+| BIND [zone](#bind)                                | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-bind.conf)                                                                                                                           | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-bind.conf)                                                                                                                     | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-bind.conf)                                                                                                                     | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-bind.conf)                                                                                                                           | [link](https://malware-filter.pages.dev/urlhaus-filter-bind.conf)                                                                                                            | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-bind.conf)                                                                                                            |
+| BIND [RPZ](#response-policy-zone)                 | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-rpz.conf)                                                                                                                            | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-rpz.conf)                                                                                                                      | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-rpz.conf)                                                                                                                      | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-rpz.conf)                                                                                                                            | [link](https://malware-filter.pages.dev/urlhaus-filter-rpz.conf)                                                                                                             | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-rpz.conf)                                                                                                             |
+| [dnscrypt-proxy](#dnscrypt-proxy)                 | [names.txt](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt) | [names.txt](https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt) | [names.txt](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt) | [names.txt](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt) | [names.txt](https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt) | [names.txt](https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt) |
+| [Internet Explorer](#tracking-protection-list-ie) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.tpl)                                                                                                                                 | [link](https://curbengh.github.io/malware-filter/urlhaus-filter.tpl)                                                                                                                           | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter.tpl)                                                                                                                           | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter.tpl)                                                                                                                                 | [link](https://malware-filter.pages.dev/urlhaus-filter.tpl)                                                                                                                  | [link](https://urlhaus-filter.pages.dev/urlhaus-filter.tpl)                                                                                                                  |
 
 For other programs, see [Compatibility](https://gitlab.com/malware-filter/malware-filter/wikis/compatibility) page in the wiki.
 
@@ -55,39 +75,9 @@ Check out my other filters:
 
 ## URL-based
 
-Import the following URL into uBO to subscribe (includes online and **offline** malicious websites):
+Import the full version into uBO to block online and **offline** malicious websites.
 
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter.txt
-- https://malware-filter.pages.dev/urlhaus-filter.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter.txt
-
-</details>
-
-<br />
-
-Lite version (**online** links only):
-
-_enabled by default in uBO >=[1.28.2](https://github.com/gorhill/uBlock/releases/tag/1.28.2)_
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-online.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-online.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-online.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-online.txt
-- https://malware-filter.pages.dev/urlhaus-filter-online.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-online.txt
-
-</details>
+Lite version includes **online** links only. Enabled by default in uBO >=[1.28.2](https://github.com/gorhill/uBlock/releases/tag/1.28.2)
 
 **Note:** Lite version is 99% smaller by excluding offline urls. The status of urls is determined by the upstream Abuse.ch. However, the test is not 100% accurate and some malicious urls that are otherwise accessible may be missed. If bandwidth (9 MB/day) is not a constraint, I recommend the regular version; browser extensions may utilise [HTTP compression](https://developer.mozilla.org/en-US/docs/Web/HTTP/Compression) that can save 70% of bandwidth.
 
@@ -99,172 +89,29 @@ If you've installed the lite version but prefer to use the regular version, it's
 
 ## URL-based (AdGuard)
 
-Import the following URL into AdGuard browser extensions to subscribe (includes online and **offline** malicious websites):
+Import the full version into AdGuard browser extensions to block online and **offline** malicious websites.
 
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-ag.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-ag.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-ag.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-ag.txt
-- https://malware-filter.pages.dev/urlhaus-filter-ag.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-ag.txt
-
-</details>
-
-<br />
-
-Lite version (**online** links only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-ag-online.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-ag-online.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-ag-online.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-ag-online.txt
-- https://malware-filter.pages.dev/urlhaus-filter-ag-online.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-ag-online.txt
-
-</details>
+Lite version includes **online** links only.
 
 ## URL-based (Vivaldi)
 
 _Requires Vivaldi Desktop/Android 3.3+, blocking level must be at least "Block Trackers"_
 
-Import the following URL into Vivaldi's **Tracker Blocking Sources** to subscribe (includes online and **offline** malicious websites):
+Import the full version into Vivaldi's **Tracker Blocking Sources** to block online and **offline** malicious websites.
 
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-vivaldi.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-vivaldi.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi.txt
-- https://malware-filter.pages.dev/urlhaus-filter-vivaldi.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-vivaldi.txt
-
-</details>
-
-<br />
-
-Lite version (**online** links only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi-online.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-vivaldi-online.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-vivaldi-online.txt
-- https://malware-filter.pages.dev/urlhaus-filter-vivaldi-online.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-vivaldi-online.txt
-
-</details>
+Lite version includes **online** links only.
 
 ## Domain-based
 
 This blocklist includes domains and IP addresses.
 
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-domains.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-domains.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-domains.txt
-- https://malware-filter.pages.dev/urlhaus-filter-domains.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-domains.txt
-
-</details>
-
-<br />
-Lite version (online domains/IPs only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains-online.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-domains-online.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-domains-online.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-domains-online.txt
-- https://malware-filter.pages.dev/urlhaus-filter-domains-online.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-domains-online.txt
-
-</details>
-
 ## Domain-based (AdGuard Home)
 
 This AdGuard Home-compatible blocklist includes domains and IP addresses.
 
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-agh.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-agh.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-agh.txt
-- https://malware-filter.pages.dev/urlhaus-filter-agh.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-agh.txt
-
-</details>
-
-<br />
-Lite version (online domains/IPs only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-agh-online.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-agh-online.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-agh-online.txt
-- https://malware-filter.pages.dev/urlhaus-filter-agh-online.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-agh-online.txt
-
-</details>
-
 ## Hosts-based
 
 This blocklist includes domains only.
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-hosts.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-hosts.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-hosts.txt
-- https://malware-filter.pages.dev/urlhaus-filter-hosts.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-hosts.txt
-
-</details>
-
-<br />
-Lite version (online domains only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-hosts-online.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-hosts-online.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-hosts-online.txt
-- https://malware-filter.pages.dev/urlhaus-filter-hosts-online.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-hosts-online.txt
-
-</details>
 
 ## Dnsmasq
 
@@ -276,40 +123,9 @@ Configure dnsmasq to use the blocklist:
 
 `printf "\nconf-file=/usr/local/etc/dnsmasq/urlhaus-filter-dnsmasq.conf\n" >> /etc/dnsmasq.conf`
 
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnsmasq.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-dnsmasq.conf
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnsmasq.conf
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnsmasq.conf
-- https://malware-filter.pages.dev/urlhaus-filter-dnsmasq.conf
-- https://urlhaus-filter.pages.dev/urlhaus-filter-dnsmasq.conf
-
-</details>
-
-<br />
-Lite version (online domains only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnsmasq-online.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-dnsmasq-online.conf
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnsmasq-online.conf
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnsmasq-online.conf
-- https://malware-filter.pages.dev/urlhaus-filter-dnsmasq-online.conf
-- https://urlhaus-filter.pages.dev/urlhaus-filter-dnsmasq-online.conf
-
-</details>
-
 ## BIND
 
 This blocklist includes domains only.
-
-### Install
 
 Save the ruleset to "/usr/local/etc/bind/urlhaus-filter-bind.conf". Refer to this [guide](https://gitlab.com/malware-filter/malware-filter/wikis/update-filter) for auto-update.
 
@@ -335,67 +151,11 @@ $TTL    86400   ; one day
 
 Zone file is derived from [here](https://github.com/tomzuu/blacklist-named/blob/master/null.zone.file).
 
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-bind.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-bind.conf
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-bind.conf
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-bind.conf
-- https://malware-filter.pages.dev/urlhaus-filter-bind.conf
-- https://urlhaus-filter.pages.dev/urlhaus-filter-bind.conf
-
-</details>
-
-<br />
-Lite version (online domains only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-bind-online.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-bind-online.conf
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-bind-online.conf
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-bind-online.conf
-- https://malware-filter.pages.dev/urlhaus-filter-bind-online.conf
-- https://urlhaus-filter.pages.dev/urlhaus-filter-bind-online.conf
-
 </details>
 
 ## Response Policy Zone
 
 This blocklist includes domains only.
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-rpz.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-rpz.conf
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-rpz.conf
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-rpz.conf
-- https://malware-filter.pages.dev/urlhaus-filter-rpz.conf
-- https://urlhaus-filter.pages.dev/urlhaus-filter-rpz.conf
-
-</details>
-
-<br />
-Lite version (online domains only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-rpz-online.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-rpz-online.conf
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-rpz-online.conf
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-rpz-online.conf
-- https://malware-filter.pages.dev/urlhaus-filter-rpz-online.conf
-- https://urlhaus-filter.pages.dev/urlhaus-filter-rpz-online.conf
-
-</details>
 
 ## Unbound
 
@@ -406,35 +166,6 @@ Save the rulesets to "/usr/local/etc/unbound/urlhaus-filter-unbound.conf". Refer
 Configure Unbound to use the blocklist:
 
 `printf '\n  include: "/usr/local/etc/unbound/urlhaus-filter-unbound.conf"\n' >> /etc/unbound/unbound.conf`
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-unbound.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-unbound.conf
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-unbound.conf
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-unbound.conf
-- https://malware-filter.pages.dev/urlhaus-filter-unbound.conf
-- https://urlhaus-filter.pages.dev/urlhaus-filter-unbound.conf
-
-</details>
-
-<br />
-Lite version (online domains only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-unbound-online.conf
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-unbound-online.conf
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-unbound-online.conf
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-unbound-online.conf
-- https://malware-filter.pages.dev/urlhaus-filter-unbound-online.conf
-- https://urlhaus-filter.pages.dev/urlhaus-filter-unbound-online.conf
-
-</details>
 
 ## dnscrypt-proxy
 
@@ -450,81 +181,9 @@ Configure dnscrypt-proxy to use the blocklist:
 +  blocked_ips_file = '/etc/dnscrypt-proxy/urlhaus-filter-dnscrypt-blocked-ips.txt'
 ```
 
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt
-- https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
-- https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt
-
-</details>
-
-<br />
-Lite version (online domains only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names-online.txt
-- https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names-online.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names-online.txt
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips-online.txt
-- https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips-online.txt
-- https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips-online.txt
-
-</details>
-
 ## Tracking Protection List (IE)
 
 This blocklist includes domains only. Supported in Internet Explorer 9+.
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.tpl
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter.tpl
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter.tpl
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter.tpl
-- https://malware-filter.pages.dev/urlhaus-filter.tpl
-- https://urlhaus-filter.pages.dev/urlhaus-filter.tpl
-
-</details>
-
-<br />
-Lite version (online domains only):
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-online.tpl
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-online.tpl
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-online.tpl
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-online.tpl
-- https://malware-filter.pages.dev/urlhaus-filter-online.tpl
-- https://urlhaus-filter.pages.dev/urlhaus-filter-online.tpl
-
-</details>
 
 ## Snort2
 
@@ -533,19 +192,6 @@ This ruleset includes online URLs only. Not compatible with [Snort3](#snort3). S
 Configure Snort to use the ruleset:
 
 `printf "\ninclude \$RULE_PATH/urlhaus-filter-snort2-online.rules\n" >> /etc/snort/snort.conf`
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-snort2-online.rules
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-snort2-online.rules
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-snort2-online.rules
-- https://malware-filter.pages.dev/urlhaus-filter-snort2-online.rules
-- https://urlhaus-filter.pages.dev/urlhaus-filter-snort2-online.rules
-
-</details>
 
 ## Snort3
 
@@ -564,19 +210,6 @@ ips =
 }
 ```
 
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-snort3-online.rules
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-snort3-online.rules
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-snort3-online.rules
-- https://malware-filter.pages.dev/urlhaus-filter-snort3-online.rules
-- https://urlhaus-filter.pages.dev/urlhaus-filter-snort3-online.rules
-
-</details>
-
 ## Suricata
 
 This ruleset includes online URLs only.
@@ -592,24 +225,13 @@ rule-files:
 +  - urlhaus-filter-suricata-online.rules
 ```
 
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-suricata-online.rules
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-suricata-online.rules
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-suricata-online.rules
-- https://malware-filter.pages.dev/urlhaus-filter-suricata-online.rules
-- https://urlhaus-filter.pages.dev/urlhaus-filter-suricata-online.rules
-
-</details>
-
 ## Splunk
 
-A CSV file for Splunk [lookup](https://docs.splunk.com/Documentation/Splunk/9.0.2/Knowledge/Aboutlookupsandfieldactions). This ruleset includes online URLs only.
+A CSV file for Splunk [lookup](https://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Aboutlookupsandfieldactions). This ruleset includes online URLs only.
 
-Either upload the file via GUI or save the file in `$SPLUNK_HOME/Splunk/etc/system/lookups` or app-specific `$SPLUNK_HOME/etc/YourApp/apps/search/lookups`. Refer to this [guide](https://gitlab.com/malware-filter/malware-filter/wikis/update-filter) or [Getwatchlist](https://splunkbase.splunk.com/app/635) app for auto-update.
+Either upload the file via GUI or save the file in `$SPLUNK_HOME/Splunk/etc/system/lookups` or app-specific `$SPLUNK_HOME/etc/YourApp/apps/search/lookups`
+
+Or use [malware-filter add-on](https://splunkbase.splunk.com/app/6970) to install this lookup and optionally auto-update it.
 
 Columns:
 
@@ -617,19 +239,6 @@ Columns:
 | ------------ | ---------- | ----------------------------------------- | -------------------- |
 | example.com  |            | urlhaus-filter malicious website detected | 2022-12-21T12:34:56Z |
 | example2.com | /some-path | urlhaus-filter malicious website detected | 2022-12-21T12:34:56Z |
-
-- https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-splunk-online.csv
-
-<details>
-<summary>Mirrors</summary>
-
-- https://curbengh.github.io/malware-filter/urlhaus-filter-splunk-online.csv
-- https://curbengh.github.io/urlhaus-filter/urlhaus-filter-splunk-online.csv
-- https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-splunk-online.csv
-- https://malware-filter.pages.dev/urlhaus-filter-splunk-online.csv
-- https://urlhaus-filter.pages.dev/urlhaus-filter-splunk-online.csv
-
-</details>
 
 ## Third-party mirrors
 
