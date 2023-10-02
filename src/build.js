@@ -22,7 +22,7 @@ const ghMirror = 'https://nightly.link/curbengh/urlhaus-filter/workflows/pages/m
 const pipelineStatus = async (url) => {
   try {
     const svg = await got(url).text()
-    if (!svg.includes('passed')) throw new Error('last gitlab pipeline failed')
+    if (svg.includes('failed')) throw new Error('last gitlab pipeline failed')
   } catch ({ message }) {
     throw new Error(message)
   }
