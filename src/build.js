@@ -2,14 +2,15 @@
 
 // for deployment outside of GitLab CI, e.g. Cloudflare Pages and Netlify
 
-const { stream: gotStream } = require('got')
-const got = require('got')
-const unzip = require('extract-zip')
-const { join } = require('path')
-const { mkdir } = require('fs/promises')
-const { createWriteStream } = require('fs')
-const { pipeline } = require('stream/promises')
+import got from 'got'
+import unzip from 'extract-zip'
+import { dirname, join } from 'node:path'
+import { mkdir } from 'node:fs/promises'
+import { createWriteStream } from 'node:fs'
+import { pipeline } from 'node:stream/promises'
+import { fileURLToPath } from 'node:url'
 
+const __dirname = dirname(fileURLToPath(import.meta.url))
 const rootPath = join(__dirname, '..')
 const tmpPath = join(rootPath, 'tmp')
 const publicPath = join(rootPath, 'public')
@@ -35,7 +36,7 @@ const f = async () => {
   console.log(`Downloading artifacts.zip from "${artifactsUrl}"`)
   try {
     await pipeline(
-      gotStream(artifactsUrl),
+      got.stream(artifactsUrl),
       createWriteStream(zipPath)
     )
     await pipelineStatus(pipelineUrl)
@@ -50,7 +51,7 @@ const f = async () => {
 
     try {
       await pipeline(
-        gotStream(ghMirror),
+        got.stream(ghMirror),
         createWriteStream(zipPath)
       )
     } catch ({ message }) {
