@@ -121,7 +121,7 @@ sort -u > "urlhaus-domains.txt"
 
 ## Parse online URLs only
 cat "URLhaus.csv" | \
-grep '"online"' | \
+grep -F '"online"' | \
 cut -f 6 -d '"' | \
 cut -f 3- -d "/" | \
 sed "s/^www\.//g" | \
