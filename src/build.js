@@ -2,13 +2,13 @@
 
 // for deployment outside of GitLab CI, e.g. Cloudflare Pages and Netlify
 
-import got from 'got'
 import unzip from 'extract-zip'
 import { dirname, join } from 'node:path'
 import { mkdir } from 'node:fs/promises'
 import { createWriteStream } from 'node:fs'
 import { pipeline } from 'node:stream/promises'
 import { fileURLToPath } from 'node:url'
+import { Readable } from 'node:stream'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const rootPath = join(__dirname, '..')
@@ -20,8 +20,9 @@ const pipelineUrl = 'https://gitlab.com/malware-filter/urlhaus-filter/badges/mai
 const ghMirror = 'https://nightly.link/curbengh/urlhaus-filter/workflows/pages/main/public.zip'
 
 const pipelineStatus = async (url) => {
+  console.log(`Checking pipeline from "${url}"`)
   try {
-    const svg = await got(url).text()
+    const svg = await (await fetch(url)).text()
     if (svg.includes('failed')) throw new Error('last gitlab pipeline failed')
   } catch ({ message }) {
     throw new Error(message)
@@ -36,7 +37,7 @@ const f = async () => {
   console.log(`Downloading artifacts.zip from "${artifactsUrl}"`)
   try {
     await pipeline(
-      got.stream(artifactsUrl),
+      Readable.fromWeb((await fetch(artifactsUrl)).body),
       createWriteStream(zipPath)
     )
     await pipelineStatus(pipelineUrl)
@@ -51,7 +52,7 @@ const f = async () => {
 
     try {
       await pipeline(
-        got.stream(ghMirror),
+        Readable.fromWeb((await fetch(ghMirror)).body),
         createWriteStream(zipPath)
       )
     } catch ({ message }) {
