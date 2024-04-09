@@ -1,0 +1,8 @@
+name = "urlhaus-filter"
+pages_build_output_dir = "public"
+
+[vars]
+ASDF_NODEJS_LEGACY_FILE_DYNAMIC_STRATEGY = "latest_available"
+
+[env.production.vars]
+ASDF_NODEJS_LEGACY_FILE_DYNAMIC_STRATEGY = "latest_available"
