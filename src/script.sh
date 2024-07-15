@@ -39,8 +39,6 @@ check_grep() {
 }
 check_grep
 
-
-## Fallback to busybox's dos2unix if installed
 if ! command -v dos2unix &> /dev/null
 then
   if command -v busybox &> /dev/null
@@ -52,6 +50,19 @@ then
   fi
 fi
 
+if command -v unzip &> /dev/null
+then
+  alias unzip="unzip -p"
+elif command -v busybox &> /dev/null
+then
+  alias unzip="busybox unzip -p"
+elif command -v bsdunzip &> /dev/null
+then
+  alias unzip="bsdunzip -p"
+else
+  echo "unzip not found"
+  exit 1
+fi
 
 ## Create a temporary working folder
 mkdir -p "tmp/"
@@ -93,7 +104,7 @@ fi
 cp -f "../src/exclude.txt" "."
 
 ## Prepare URLhaus.csv
-unzip -p "urlhaus.zip" | \
+unzip "urlhaus.zip" | \
 # Convert DOS to Unix line ending
 dos2unix | \
 tr "[:upper:]" "[:lower:]" | \
@@ -139,7 +150,7 @@ sort -u > "urlhaus-domains-online.txt"
 
 
 ## Parse the Umbrella 1 Million
-unzip -p "top-1m-umbrella.zip" | \
+unzip "top-1m-umbrella.zip" | \
 dos2unix | \
 tr "[:upper:]" "[:lower:]" | \
 # Parse domains only
@@ -150,7 +161,7 @@ sed "s/^www\.//g" | \
 sort -u > "top-1m-umbrella.txt"
 
 ## Parse the Tranco 1 Million
-unzip -p "top-1m-tranco.zip" | \
+unzip "top-1m-tranco.zip" | \
 dos2unix | \
 tr "[:upper:]" "[:lower:]" | \
 # Parse domains only
