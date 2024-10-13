@@ -30,13 +30,13 @@ jobs:
           publish_dir: ./public
           force_orphan: true
       - name: "Upload Public Folder"
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: public
           path: ./public
           retention-days: 30
       - name: "Upload Tmp Folder"
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: tmp
           path: ./tmp
