@@ -5,7 +5,7 @@
     "build": "node src/build.js"
   },
   "dependencies": {
-    "extract-zip": "^2.0.1"
+    "unzipper": "^0.12.3"
   },
   "engines": {
     "node": ">= 18.12.0"
