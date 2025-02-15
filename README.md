@@ -97,9 +97,7 @@ Lite version includes **online** links only.
 
 ## URL-based (Vivaldi)
 
-_For Vivaldi, blocking level must be at least "Block Trackers"_
-
-Import the full version into Vivaldi's **Tracker Blocking Sources** to block online and **offline** malicious websites.
+For Vivaldi, blocking level must be at least "Block Trackers". Import the full version into Vivaldi's **Tracker Blocking Sources** to block online and **offline** malicious websites.
 
 For Brave, "Trackers & ads blocking" must be set to Aggressive. Import it under Shields > Content filtering > Add custom filter lists.
 
