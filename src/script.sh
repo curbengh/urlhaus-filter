@@ -409,7 +409,7 @@ cat "malware-hosts-online.txt" | \
 sed "1i $COMMENT_ONLINE" | \
 sed "1s/Domains/Names/" > "../public/urlhaus-filter-dnscrypt-blocked-names-online.txt"
 
-## IPv4-based
+# IPv4-based
 cat "malware-domains.txt" | \
 sort | \
 grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
@@ -421,6 +421,18 @@ sort | \
 grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
 sed "1i $COMMENT_ONLINE" | \
 sed "1s/Domains/IPs/" > "../public/urlhaus-filter-dnscrypt-blocked-ips-online.txt"
+
+
+## Wildcard subdomain
+cat "malware-domains.txt" | \
+sed "s/^/*./g" | \
+sed "1i $COMMENT" | \
+sed "1s/Blocklist/Wildcard Asterisk Blocklist/" > "../public/urlhaus-filter-wildcard.txt"
+
+cat "malware-domains-online.txt" | \
+sed "s/^/*./g" | \
+sed "1i $COMMENT" | \
+sed "1s/Blocklist/Wildcard Asterisk Blocklist/" > "../public/urlhaus-filter-wildcard-online.txt"
 
 
 ## Temporarily disable command print
