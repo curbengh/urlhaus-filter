@@ -368,7 +368,7 @@ sed "1s/Blocklist/BIND Blocklist/" > "../public/urlhaus-filter-bind-online.conf"
 
 ## DNS Response Policy Zone (RPZ)
 CURRENT_UNIX_TIME="$(date +%s)"
-RPZ_SYNTAX="\n\$TTL 30\n@ IN SOA rpz.malware-filter.gitlab.io. hostmaster.rpz.malware-filter.gitlab.io. $CURRENT_UNIX_TIME 86400 3600 604800 30\n NS localhost.\n"
+RPZ_SYNTAX="\n\$TTL 30\n@ IN SOA localhost. root.localhost. $CURRENT_UNIX_TIME 86400 3600 604800 30\n NS localhost.\n"
 
 cat "malware-hosts.txt" | \
 sed "s/$/ CNAME ./g" | \
