@@ -14,7 +14,7 @@ jobs:
       - name: Install Dependencies
         run: |
           apk update
-          apk add brotli curl git grep jq
+          apk add brotli curl git grep jq zstd
       - name: Build
         env:
           CF_API: ${{ secrets.CF_API }}
@@ -23,6 +23,7 @@ jobs:
         run: |
           find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\|csv\)$' -exec gzip -f -k -9 {} \;
           find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\|csv\)$' -exec brotli -f -k -9 {} \;
+          find public -type f -regex '.*\.\(txt\|conf\|tpl\|rules\|csv\)$' -exec zstd -f -k -9 {} \;
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
