@@ -12,7 +12,7 @@ build_job:
   stage: build
 
   before_script:
-    - apk update && apk add brotli curl grep jq zstd
+    - apk update && apk add brotli curl file grep jq zstd
 
   script:
     - sh src/script.sh

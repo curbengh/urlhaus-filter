@@ -72,7 +72,7 @@ cd "tmp/"
 ## Prepare datasets
 curl "https://urlhaus.abuse.ch/downloads/csv/" -o "urlhaus.zip"
 curl "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
-curl "https://tranco-list.eu/top-1m.csv.zip" -o "top-1m-tranco.zip"
+curl "https://tranco-list.eu/download/daily/top-1m.csv.zip" -o "top-1m-tranco.zip"
 
 ## Cloudflare Radar
 if [ -n "$CF_API" ]; then
@@ -161,15 +161,21 @@ sed "s/^www\.//g" | \
 sort -u > "top-1m-umbrella.txt"
 
 ## Parse the Tranco 1 Million
-unzip "top-1m-tranco.zip" | \
-dos2unix | \
-tr "[:upper:]" "[:lower:]" | \
-# Parse domains only
-cut -f 2 -d "," | \
-grep -F "." | \
-# Remove www.
-sed "s/^www\.//g" | \
-sort -u > "top-1m-tranco.txt"
+if [ -n "$(file 'top-1m-tranco.zip' | grep 'Zip archive data')" ]; then
+  unzip "top-1m-tranco.zip" | \
+  dos2unix | \
+  tr "[:upper:]" "[:lower:]" | \
+  # Parse domains only
+  cut -f 2 -d "," | \
+  grep -F "." | \
+  # Remove www.
+  sed "s/^www\.//g" | \
+  sort -u > "top-1m-tranco.txt"
+else
+  # tranco has unreliable download
+  echo "top-1m-tranco.zip is not a zip, skipping it..."
+  touch "top-1m-tranco.txt"
+fi
 
 # Merge Umbrella and self-maintained top domains
 cat "top-1m-umbrella.txt" "top-1m-tranco.txt" "exclude.txt" | \
