@@ -14,7 +14,7 @@ jobs:
       - name: Install Dependencies
         run: |
           apk update
-          apk add brotli curl file grep jq zstd
+          apk add brotli curl file git grep jq zstd
       - name: Build
         env:
           CF_API: ${{ secrets.CF_API }}
