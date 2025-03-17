@@ -441,60 +441,14 @@ sed "1i $COMMENT" | \
 sed "1s/Blocklist/Wildcard Asterisk Blocklist/" > "../public/urlhaus-filter-wildcard-online.txt"
 
 
-## Temporarily disable command print
-set +x
-
-
 # Snort, Suricata, Splunk
 rm "../public/urlhaus-filter-snort2-online.rules" \
   "../public/urlhaus-filter-snort3-online.rules" \
   "../public/urlhaus-filter-suricata-online.rules" \
   "../public/urlhaus-filter-splunk-online.csv"
 
-SID="100000001"
-while read DOMAIN; do
-  SN_RULE="alert tcp \$HOME_NET any -> \$EXTERNAL_NET [80,443] (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; content:\"GET\"; http_method; content:\"$DOMAIN\"; content:\"Host\"; http_header; classtype:trojan-activity; sid:$SID; rev:1;)"
-
-  SN3_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; http_header:field host; content:\"$DOMAIN\",nocase; classtype:trojan-activity; sid:$SID; rev:1;)"
-
-  SR_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; http.method; content:\"GET\"; http.host; content:\"$DOMAIN\"; classtype:trojan-activity; sid:$SID; rev:1;)"
-
-  SP_RULE="\"$DOMAIN\",\"\",\"urlhaus-filter malicious website detected\",\"$CURRENT_TIME\""
-
-  echo "$SN_RULE" >> "../public/urlhaus-filter-snort2-online.rules"
-  echo "$SN3_RULE" >> "../public/urlhaus-filter-snort3-online.rules"
-  echo "$SR_RULE" >> "../public/urlhaus-filter-suricata-online.rules"
-  echo "$SP_RULE" >> "../public/urlhaus-filter-splunk-online.csv"
-
-  SID=$(( $SID + 1 ))
-done < "malware-domains-online.txt"
-
-while read URL; do
-  DOMAIN=$(echo "$URL" | cut -d"/" -f1)
-  # escape ";"
-  PATHNAME=$(echo "$URL" | sed -e "s/^$DOMAIN//" -e "s/;/\\\;/g")
-
-  # Snort2 only supports <=2047 characters of `content`
-  SN_RULE="alert tcp \$HOME_NET any -> \$EXTERNAL_NET [80,443] (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; content:\"GET\"; http_method; content:\"$(echo $PATHNAME | cut -c -2047)\"; http_uri; nocase; content:\"$DOMAIN\"; content:\"Host\"; http_header; classtype:trojan-activity; sid:$SID; rev:1;)"
-
-  SN3_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; http_header:field host; content:\"$DOMAIN\",nocase; http_uri; content:\"$PATHNAME\",nocase; classtype:trojan-activity; sid:$SID; rev:1;)"
-
-  SR_RULE="alert http \$HOME_NET any -> \$EXTERNAL_NET any (msg:\"urlhaus-filter malicious website detected\"; flow:established,from_client; http.method; content:\"GET\"; http.uri; content:\"$PATHNAME\"; endswith; nocase; http.host; content:\"$DOMAIN\"; classtype:trojan-activity; sid:$SID; rev:1;)"
-
-  PATHNAME=$(echo "$URL" | sed "s/^$DOMAIN//")
-
-  SP_RULE="\"$DOMAIN\",\"$PATHNAME\",\"urlhaus-filter malicious website detected\",\"$CURRENT_TIME\""
-
-  echo "$SN_RULE" >> "../public/urlhaus-filter-snort2-online.rules"
-  echo "$SN3_RULE" >> "../public/urlhaus-filter-snort3-online.rules"
-  echo "$SR_RULE" >> "../public/urlhaus-filter-suricata-online.rules"
-  echo "$SP_RULE" >> "../public/urlhaus-filter-splunk-online.csv"
-
-  SID=$(( $SID + 1 ))
-done < "malware-url-top-domains-raw-online.txt"
-
-## Re-enable command print
-set -x
+export CURRENT_TIME
+node "../src/ids.js"
 
 sed -i "1i $COMMENT_ONLINE" "../public/urlhaus-filter-snort2-online.rules"
 sed -i "1s/Domains Blocklist/URL Snort2 Ruleset/" "../public/urlhaus-filter-snort2-online.rules"
