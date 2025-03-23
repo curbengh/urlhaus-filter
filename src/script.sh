@@ -290,9 +290,12 @@ COMMENT=$(printf "$COMMENT_ABP" | sed "s/^!/#/" | sed "1s/URL/Domains/" | awk '{
 COMMENT_ONLINE=$(printf "$COMMENT" | sed "1s/Malicious/Online Malicious/" | awk '{printf "%s\\n", $0}' | head -c -2)
 
 cat "malware-domains.txt" | \
+# remove IPv6 bracket
+sed -r "s/\[|\]//g" | \
 sed "1i $COMMENT" > "../public/urlhaus-filter-domains.txt"
 
 cat "malware-domains-online.txt" | \
+sed -r "s/\[|\]//g" | \
 sed "1i $COMMENT_ONLINE" > "../public/urlhaus-filter-domains-online.txt"
 
 
@@ -453,12 +456,14 @@ sed -i "1s/Domains Blocklist/URL Splunk Lookup/" "../public/urlhaus-filter-splun
 COMMENT_IE="msFilterList\n$COMMENT\n: Expires=1\n#"
 COMMENT_ONLINE_IE="msFilterList\n$COMMENT_ONLINE\n: Expires=1\n#"
 
-cat "malware-hosts.txt" | \
+cat "malware-domains.txt" | \
+sed -r "s/\[|\]//g" | \
 sed "s/^/-d /" | \
 sed "1i $COMMENT_IE" | \
 sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../public/urlhaus-filter.tpl"
 
-cat "malware-hosts-online.txt" | \
+cat "malware-domains-online.txt" | \
+sed -r "s/\[|\]//g" | \
 sed "s/^/-d /" | \
 sed "1i $COMMENT_ONLINE_IE" | \
 sed "2s/Domains Blocklist/Hosts Blocklist (IE)/" > "../public/urlhaus-filter-online.tpl"
