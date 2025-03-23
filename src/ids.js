@@ -33,14 +33,20 @@ for await (const domain of domains.readLines()) {
 }
 
 for await (const line of urls.readLines()) {
+  if (!URL.canParse(`http://${line}`)) {
+    console.error(`Invalid URL: ${line}`)
+    continue
+  }
+
   const url = new URL(`http://${line}`)
-  const { hostname } = url
-  let pathname = url.pathname.replace(';', '\\;')
-  snort2.write(`alert tcp $HOME_NET any -> $EXTERNAL_NET [80,443] (msg:"urlhaus-filter malicious website detected"; flow:established,from_client; content:"GET"; http_method; content:"${pathname.substring(0, 2048)}"; http_uri; nocase; content:"${hostname}"; content:"Host"; http_header; classtype:trojan-activity; sid:${sid}; rev:1;)\n`)
-  snort3.write(`alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"urlhaus-filter malicious website detected"; http_header:field host; content:"${hostname}",nocase; http_uri; content:"${pathname}",nocase; classtype:trojan-activity; sid:${sid}; rev:1;)\n`)
-  suricata.write(`alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"urlhaus-filter malicious website detected"; flow:established,from_client; http.method; content:"GET"; http.uri; content:"${pathname}"; endswith; nocase; http.host; content:"${hostname}"; classtype:trojan-activity; sid:${sid}; rev:1;)\n`)
-  pathname = url.pathname
-  splunk.write(`"${hostname}","${pathname}","urlhaus-filter malicious website detected","${process.env.CURRENT_TIME}"\n`)
+  const { hostname, pathname, search } = url
+  const pathEscape = `${pathname}${search}`.replaceAll(';', '\\;')
+  const path = pathname + search
+
+  snort2.write(`alert tcp $HOME_NET any -> $EXTERNAL_NET [80,443] (msg:"urlhaus-filter malicious website detected"; flow:established,from_client; content:"GET"; http_method; content:"${pathEscape.substring(0, 2048)}"; http_uri; nocase; content:"${hostname}"; content:"Host"; http_header; classtype:trojan-activity; sid:${sid}; rev:1;)\n`)
+  snort3.write(`alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"urlhaus-filter malicious website detected"; http_header:field host; content:"${hostname}",nocase; http_uri; content:"${pathEscape}",nocase; classtype:trojan-activity; sid:${sid}; rev:1;)\n`)
+  suricata.write(`alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"urlhaus-filter malicious website detected"; flow:established,from_client; http.method; content:"GET"; http.uri; content:"${pathEscape}"; endswith; nocase; http.host; content:"${hostname}"; classtype:trojan-activity; sid:${sid}; rev:1;)\n`)
+  splunk.write(`"${hostname}","${path}","urlhaus-filter malicious website detected","${process.env.CURRENT_TIME}"\n`)
 
   sid++
 }
