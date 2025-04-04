@@ -22,6 +22,37 @@ const caretPath = (pathname) => {
   return `${path}?${search}`
 }
 
+const safeLinks = [
+  'safelinks\\.protection\\.outlook\\.com',
+  '\\.protection\\.sophos\\.com',
+  'linkprotect\\.cudasvc\\.com'
+]
+
+const deSafelink = (urlStr) => {
+  let url = new URL(urlStr)
+
+  // O365 Safelinks
+  if (url.hostname.endsWith('safelinks.protection.outlook.com')) {
+    url = new URL(url.searchParams.get('url'))
+  }
+
+  // Sophos
+  if (url.hostname.endsWith('.protection.sophos.com')) {
+    url = new URL(`http://${url.searchParams.get('d')}`)
+  }
+
+  // Barracuda
+  if (url.hostname.endsWith('linkprotect.cudasvc.com')) {
+    url = new URL(url.searchParams.get('a'))
+  }
+
+  if (url.hostname.match(new RegExp(safeLinks.join('|')))) {
+    return deSafelink(url.href)
+  }
+
+  return url.href
+}
+
 for await (const line of createInterface({ input: process.stdin, terminal: false })) {
   // parse hostname from url
   if (process.argv[2] === 'hostname') {
@@ -47,13 +78,7 @@ for await (const line of createInterface({ input: process.stdin, terminal: false
     if (line.split('/')[2].includes('??')) continue
 
     if (URL.canParse(line)) {
-      let url = new URL(cleanHost(line))
-
-      // Decode O365 Safelinks
-      // https://support.microsoft.com/en-us/office/advanced-outlook-com-security-for-microsoft-365-subscribers-882d2243-eab9-4545-a58a-b36fee4a46e2
-      if (url.hostname.endsWith('safelinks.protection.outlook.com')) {
-        url = new URL(url.searchParams.get('url'))
-      }
+      const url = new URL(deSafelink(cleanHost(line)))
 
       url.host = cleanHost(url.host)
 
