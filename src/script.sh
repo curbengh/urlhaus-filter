@@ -434,6 +434,7 @@ sed "1s/Blocklist/Wildcard Asterisk Blocklist/" > "../public/urlhaus-filter-wild
 rm "../public/urlhaus-filter-snort2-online.rules" \
   "../public/urlhaus-filter-snort3-online.rules" \
   "../public/urlhaus-filter-suricata-online.rules" \
+  "../public/urlhaus-filter-suricata-sni-online.rules" \
   "../public/urlhaus-filter-splunk-online.csv"
 
 export CURRENT_TIME
@@ -447,6 +448,9 @@ sed -i "1s/Domains Blocklist/URL Snort3 Ruleset/" "../public/urlhaus-filter-snor
 
 sed -i "1i $COMMENT_ONLINE" "../public/urlhaus-filter-suricata-online.rules"
 sed -i "1s/Domains Blocklist/URL Suricata Ruleset/" "../public/urlhaus-filter-suricata-online.rules"
+
+sed -i "1i $COMMENT_ONLINE" "../public/urlhaus-filter-suricata-sni-online.rules"
+sed -i "1s/Domains Blocklist/Domains Suricata Ruleset (SNI)/" "../public/urlhaus-filter-suricata-sni-online.rules"
 
 sed -i -e "1i $COMMENT_ONLINE" -e '1i "host","path","message","updated"' "../public/urlhaus-filter-splunk-online.csv"
 sed -i "1s/Domains Blocklist/URL Splunk Lookup/" "../public/urlhaus-filter-splunk-online.csv"

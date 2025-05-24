@@ -18,6 +18,7 @@
   - [Snort2](#snort2)
   - [Snort3](#snort3)
   - [Suricata](#suricata)
+    - [Suricata (SNI)](#suricata-sni)
   - [Splunk](#splunk)
   - [Tracking Protection List (IE)](#tracking-protection-list-ie)
 - [Compressed version](#compressed-version)
@@ -46,6 +47,7 @@ A blocklist of malicious websites that are being used for malware distribution, 
 | [Snort2](#snort2) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort2-online.rules) | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-snort2-online.rules) | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-snort2-online.rules) | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-snort2-online.rules) | [link](https://malware-filter.pages.dev/urlhaus-filter-snort2-online.rules) | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-snort2-online.rules) |
 | [Snort3](#snort3) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-snort3-online.rules) | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-snort3-online.rules) | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-snort3-online.rules) | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-snort3-online.rules) | [link](https://malware-filter.pages.dev/urlhaus-filter-snort3-online.rules) | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-snort3-online.rules) |
 | [Suricata](#suricata) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-suricata-online.rules) | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-suricata-online.rules) | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-suricata-online.rules) | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-suricata-online.rules) | [link](https://malware-filter.pages.dev/urlhaus-filter-suricata-online.rules) | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-suricata-online.rules) |
+| [Suricata (SNI)](#suricata-sni) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-suricata-sni-online.rules) | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-suricata-sni-online.rules) | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-suricata-sni-online.rules) | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-suricata-sni-online.rules) | [link](https://malware-filter.pages.dev/urlhaus-filter-suricata-sni-online.rules) | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-suricata-sni-online.rules) |
 | [Splunk](#splunk) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-splunk-online.csv) | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-splunk-online.csv) | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-splunk-online.csv) | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-splunk-online.csv) | [link](https://malware-filter.pages.dev/urlhaus-filter-splunk-online.csv) | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-splunk-online.csv) |
 | [Internet Explorer](#tracking-protection-list-ie) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.tpl) | [link](https://curbengh.github.io/malware-filter/urlhaus-filter.tpl) | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter.tpl) | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter.tpl) | [link](https://malware-filter.pages.dev/urlhaus-filter.tpl) | [link](https://urlhaus-filter.pages.dev/urlhaus-filter.tpl) |
 
@@ -229,6 +231,10 @@ rule-files:
   - local.rules
 +  - urlhaus-filter-suricata-online.rules
 ```
+
+### Suricata (SNI)
+
+This ruleset includes online domains only. It enables Suricata to detect malicious HTTPS-enabled domains by inspecting the SNI in the [unencrypted ClientHello](https://en.wikipedia.org/wiki/Server_Name_Indication#Security_implications) message. However, there is increasing support for encrypted Client Hello which defeats SNI inspection.
 
 ## Splunk
 
