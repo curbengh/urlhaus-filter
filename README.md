@@ -32,6 +32,8 @@ A blocklist of malicious websites that are being used for malware distribution, 
 
 ## Lite version (online links only)
 
+Online status of URLs is checked by URLhaus.
+
 | Client | mirror 1 | mirror 2 | mirror 3 | mirror 4 | mirror 5 | mirror 6 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [uBlock Origin](#url-based) ([*](#youtube-compatibility)) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-online.txt) | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-online.txt) | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-online.txt) | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-online.txt) | [link](https://malware-filter.pages.dev/urlhaus-filter-online.txt) | [link](https://urlhaus-filter.pages.dev/urlhaus-filter-online.txt) |
