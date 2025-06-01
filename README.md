@@ -288,9 +288,7 @@ Please report new malware URL to the upstream maintainer through https://urlhaus
 
 ## Cloning
 
-Since the filter is updated frequently, cloning the repo would become slower over time as the revision grows.
-
-Use shallow clone to get the recent revisions only. Getting the last five revisions should be sufficient for a valid MR.
+Getting the last five revisions should be sufficient for a valid MR.
 
 `git clone --depth 5 https://gitlab.com/malware-filter/urlhaus-filter.git`
 
