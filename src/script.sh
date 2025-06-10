@@ -102,7 +102,8 @@ if [ -n "$CF_API" ]; then
   sort -u > "top-1m-radar.txt"
 fi
 
-cp -f "../src/exclude.txt" "."
+cp "../src/exclude.txt" "."
+cp "../src/exclude-url.txt" "."
 
 ## Prepare URLhaus.csv
 unzip "urlhaus.zip" | \
@@ -173,6 +174,13 @@ if [ -n "$CF_API" ] && [ -f "top-1m-radar.txt" ]; then
   sort "top-1m-well-known.txt" -u -o "top-1m-well-known.txt"
 fi
 
+
+cat "exclude-url.txt" | \
+sed "/^#/d" | \
+# "example.com/path" -> "^example\.com/path"
+# slash doesn't need to be escaped
+sed -e "s/^/^/" -e "s/\./\\\./g" > "exclude-url-grep.txt"
+
 ## Parse popular domains from URLhaus
 cat "urlhaus-domains.txt" | \
 # grep match whole line
@@ -182,26 +190,33 @@ grep -Fx -f "top-1m-well-known.txt" > "urlhaus-top-domains.txt"
 ## Parse domains from URLhaus excluding popular domains
 cat "urlhaus-domains.txt" | \
 grep -F -vf "urlhaus-top-domains.txt" | \
+# exclude domains from domains-based filters #110
+grep -vf "exclude-url-grep.txt" | \
 # Remove blank lines
 sed "/^$/d" > "malware-domains.txt"
 
 cat "urlhaus-domains-online.txt" | \
 grep -F -vf "urlhaus-top-domains.txt" | \
+grep -vf "exclude-url-grep.txt" | \
 sed "/^$/d" > "malware-domains-online.txt"
 
 ## Parse malware URLs from popular domains
 cat "urlhaus.txt" | \
 grep -F -f "urlhaus-top-domains.txt" | \
+# exclude domains/URLs from URL-based filters #110
+grep -vf "exclude-url-grep.txt" | \
 sed "s/^/||/" | \
 sed 's/$/^$all/' > "malware-url-top-domains.txt"
 
 cat "urlhaus-online.txt" | \
 grep -F -f "urlhaus-top-domains.txt" | \
+grep -vf "exclude-url-grep.txt" | \
 sed "s/^/||/" | \
 sed 's/$/^$all/' > "malware-url-top-domains-online.txt"
 
 cat "urlhaus-online.txt" | \
-grep -F -f "urlhaus-top-domains.txt" > "malware-url-top-domains-raw-online.txt"
+grep -F -f "urlhaus-top-domains.txt" | \
+grep -vf "exclude-url-grep.txt" > "malware-url-top-domains-raw-online.txt"
 
 
 ## Merge malware domains and URLs

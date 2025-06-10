@@ -1,0 +1,5 @@
+# URL exclusion list
+# Domains/URLs listed here will be excluded from domain-based and URL-based filters
+# Any entry with slash (/) will not be applied to domain-based filters
+# Include only top 1m (sub)domains that do not host user content
+github.githubassets.com

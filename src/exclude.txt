@@ -1,5 +1,5 @@
-# Exclusion list
-# malicious links are still included in "urlhaus-filter.txt" & "urlhaus-filter-online.txt"
+# Domain exclusion list
+# Domains listed here will be excluded from domain-based filters only, not URL-based filters
 void.cat
 pdesaa.cimaa.pt
 users.telenet.be
