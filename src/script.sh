@@ -411,15 +411,15 @@ sed "1i $COMMENT_ONLINE" | \
 sed "1s/Domains/Names/" > "../public/urlhaus-filter-dnscrypt-blocked-names-online.txt"
 
 # IPv4/6
-if grep -Eq "^(([0-9]{1,3}[\.]){3}[0-9]{1,3}$|\[)" "phishing-notop-domains.txt"; then
+if grep -Eq "^(([0-9]{1,3}[\.]){3}[0-9]{1,3}$|\[)" "malware-domains.txt"; then
   cat "malware-domains.txt" | \
-  grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
+  grep -E "^(([0-9]{1,3}[\.]){3}[0-9]{1,3}$|\[)" | \
   sed -r "s/\[|\]//g" | \
   sed "1i $COMMENT" | \
   sed "1s/Domains/IPs/" > "../public/urlhaus-filter-dnscrypt-blocked-ips.txt"
 
   cat "malware-domains-online.txt" | \
-  grep -E "^([0-9]{1,3}[\.]){3}[0-9]{1,3}$" | \
+  grep -E "^(([0-9]{1,3}[\.]){3}[0-9]{1,3}$|\[)" | \
   sed -r "s/\[|\]//g" | \
   sed "1i $COMMENT_ONLINE" | \
   sed "1s/Domains/IPs/" > "../public/urlhaus-filter-dnscrypt-blocked-ips-online.txt"
