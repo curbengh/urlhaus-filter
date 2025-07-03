@@ -63,8 +63,11 @@ const deSafelink = (urlStr) => {
 
   // Google Ads
   if (url.hostname.endsWith('doubleclick.net') || url.hostname.endsWith('googleadservices.com')) {
-    const paramUrl = url.searchParams.getAll('adurl').at(-1) || url.searchParams.getAll('url').at(-1) || url.searchParams.getAll('ds_dest_url').at(-1)
-    if (paramUrl) url = new URL(paramUrl)
+    let paramUrl = url.searchParams.getAll('adurl').at(-1) || url.searchParams.getAll('url').at(-1) || url.searchParams.getAll('ds_dest_url').at(-1)
+    if (paramUrl) {
+      paramUrl = paramUrl.replace(/^\/\//, 'https://')
+      url = new URL(paramUrl)
+    }
   }
 
   // Google Search
