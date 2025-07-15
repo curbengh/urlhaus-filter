@@ -77,6 +77,17 @@ const deSafelink = (urlStr) => {
     if (paramUrl) url = new URL(paramUrl)
   }
 
+  // SES
+  // https://github.com/uBlockOrigin/uAssets/blob/42e518277ab0c36d4b131aa01b4a8828af4e18b6/filters/privacy.txt#L866
+  if (url.hostname.endsWith('awstrack.me' && url.pathname.startsWith('/L0'))) {
+    url = new URL(decodeURIComponent(url.pathname.match(/\/L0\/(http[^\/?#]+)/)[1]))
+  }
+
+  // DuckDuckGo
+  if (url.hostname === 'duckduckgo.com' && url.pathname === '/l/') {
+    url = new URL(url.searchParams.get('uddg'))
+  }
+
   if (url.hostname.match(new RegExp(safeLinks.join('|')))) {
     return deSafelink(url.href)
   }
