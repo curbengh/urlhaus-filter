@@ -25,14 +25,15 @@ const caretPath = (pathname) => {
 const safeLinks = [
   'safelinks\\.protection\\.outlook\\.com',
   '\\.protection\\.sophos\\.com',
-  'linkprotect\\.cudasvc\\.com'
+  'linkprotect\\.cudasvc\\.com',
+  'ctp\\.trendmicro\\.com'
 ]
 
 const deSafelink = (urlStr) => {
   let url = new URL(urlStr)
 
-  // O365 Safelinks
-  if (url.hostname.endsWith('safelinks.protection.outlook.com')) {
+  // O365 Safelinks & Trendmicro
+  if (url.hostname.endsWith('safelinks.protection.outlook.com') || url.hostname.endsWith('ctp.trendmicro.com')) {
     url = new URL(url.searchParams.get('url'))
   }
 
