@@ -26,7 +26,8 @@ const safeLinks = [
   'safelinks\\.protection\\.outlook\\.com',
   '\\.protection\\.sophos\\.com',
   'linkprotect\\.cudasvc\\.com',
-  'ctp\\.trendmicro\\.com'
+  'ctp\\.trendmicro\\.com',
+  'urlsand\\.esvalabs\\.com'
 ]
 
 const deSafelink = (urlStr) => {
@@ -57,8 +58,8 @@ const deSafelink = (urlStr) => {
     url = new URL(url.searchParams.get('to'))
   }
 
-  // WhatsApp
-  if (url.hostname === 'l.wl.co' && url.pathname === '/l') {
+  // WhatsApp, Esvalabs
+  if ((url.hostname === 'l.wl.co' && url.pathname === '/l') || url.hostname === 'urlsand.esvalabs.com') {
     url = new URL(url.searchParams.get('u'))
   }
 
