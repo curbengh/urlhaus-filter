@@ -27,14 +27,15 @@ const safeLinks = [
   '\\.protection\\.sophos\\.com',
   'linkprotect\\.cudasvc\\.com',
   'ctp\\.trendmicro\\.com',
-  'urlsand\\.esvalabs\\.com'
+  'urlsand\\.esvalabs\\.com',
+  'linklock\\.titanhq\\.com'
 ]
 
 const deSafelink = (urlStr) => {
   let url = new URL(urlStr)
 
-  // O365 Safelinks & Trendmicro
-  if (url.hostname.endsWith('safelinks.protection.outlook.com') || url.hostname.endsWith('ctp.trendmicro.com')) {
+  // O365 Safelinks, Trendmicro, TitanHQ
+  if (url.hostname.endsWith('safelinks.protection.outlook.com') || url.hostname.endsWith('ctp.trendmicro.com') || url.hostname.endsWith('linklock.titanhq.com')) {
     url = new URL(url.searchParams.get('url'))
   }
 
