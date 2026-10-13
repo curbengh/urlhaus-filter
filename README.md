@@ -1,5 +1,6 @@
 # Malicious URL Blocklist
 
+- [Which format should I use?](#which-format-should-i-use)
 - [Lite version](#lite-version-online-links-only)
 - [Full version](#full-version)
 - Formats
@@ -29,6 +30,10 @@
 - [License](#license)
 
 A blocklist of malicious websites that are being used for malware distribution, based on the **Database dump (CSV)** of Abuse.ch [URLhaus](https://urlhaus.abuse.ch/). Blocklist is updated twice a day.
+
+## Which format should I use?
+
+For programs not listed in the next section, see [Compatibility](https://gitlab.com/malware-filter/malware-filter/wikis/compatibility) page in the wiki.
 
 ## Lite version (online links only)
 
@@ -68,8 +73,6 @@ Online status of URLs is checked by URLhaus.
 | [dnscrypt-proxy](#dnscrypt-proxy) | [names.txt](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt) | [names.txt](https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://curbengh.github.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt) | [names.txt](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://curbengh.github.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt) | [names.txt](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter-dnscrypt-blocked-ips.txt) | [names.txt](https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://malware-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt) | [names.txt](https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-names.txt), [ips.txt](https://urlhaus-filter.pages.dev/urlhaus-filter-dnscrypt-blocked-ips.txt) |
 | [blocky](#wildcard-asterisk) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-wildcard.txt) | [link](https://curbengh.github.io/malware-filter/urlhaus-filter-wildcard.txt) | [link](https://curbengh.github.io/phishing-filter/urlhaus-filter-wildcard.txt) | [link](https://malware-filter.gitlab.io/phishing-filter/urlhaus-filter-wildcard.txt) | [link](https://malware-filter.pages.dev/urlhaus-filter-wildcard.txt) | [link](https://phishing-filter.pages.dev/urlhaus-filter-wildcard.txt) |
 | [Internet Explorer](#tracking-protection-list-ie) | [link](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.tpl) | [link](https://curbengh.github.io/malware-filter/urlhaus-filter.tpl) | [link](https://curbengh.github.io/urlhaus-filter/urlhaus-filter.tpl) | [link](https://malware-filter.gitlab.io/urlhaus-filter/urlhaus-filter.tpl) | [link](https://malware-filter.pages.dev/urlhaus-filter.tpl) | [link](https://urlhaus-filter.pages.dev/urlhaus-filter.tpl) |
-
-For other programs, see [Compatibility](https://gitlab.com/malware-filter/malware-filter/wikis/compatibility) page in the wiki.
 
 Check out my other filters:
 
