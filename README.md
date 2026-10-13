@@ -77,7 +77,6 @@ Online status of URLs is checked by URLhaus.
 Check out my other filters:
 
 - [phishing-filter](https://gitlab.com/malware-filter/phishing-filter)
-- [pup-filter](https://gitlab.com/malware-filter/pup-filter)
 - [tracking-filter](https://gitlab.com/malware-filter/tracking-filter)
 
 ## URL-based
