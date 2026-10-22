@@ -71,7 +71,7 @@ cd "tmp/"
 
 
 ## Prepare datasets
-curl "https://urlhaus.abuse.ch/downloads/csv/" -o "urlhaus.zip"
+curl "https://urlhaus-api.abuse.ch/v2/files/exports/${ABUSECH_API}/full.csv.zip" -o "urlhaus.zip"
 curl "https://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip" -o "top-1m-umbrella.zip"
 curl "https://tranco-list.eu/download/daily/top-1m.csv.zip" -o "top-1m-tranco.zip"
 

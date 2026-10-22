@@ -299,6 +299,8 @@ See [wiki](https://gitlab.com/malware-filter/malware-filter/-/wikis/home)
 
 ## CI Variables
 
+- `ABUSECH_API`: Access to [URLhaus](https://urlhaus.abuse.ch/api/) database dump.
+
 Optional variables:
 
 - `CLOUDFLARE_BUILD_HOOK`: Deploy to Cloudflare Pages.
